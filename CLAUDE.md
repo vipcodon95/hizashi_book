@@ -137,7 +137,7 @@ access_level       = 'free'    -- trên TỪNG node, dự phòng lớp 3
 ```
 Hizashi_book/
 ├── books/<book_name>/
-│   ├── _pipeline/                       ← state + outputs từng stage (gitignored state.json)
+│   ├── _pipeline/                       ← state + outputs từng stage (state.json được track)
 │   ├── _review/                         ← đợt rà soát: 00_TIEN_DO.md (nguồn sự thật) + báo cáo từng agent
 │   ├── <topic>_<module>/                ← vd 2.1.0_keigo_phan_loai
 │   │   ├── *_LyThuyet.md                ← markdown lý thuyết
@@ -240,6 +240,55 @@ study_question_sets.id    = 8<NN>0<topic><kind><level>           (9 digits)
 | 09 | 09_real_dialogues | ❌ | — | content có |
 | **10** | **10_business_japanese** | ✓ | **8010** | đã seed ✓ |
 | **11** | **11_hoa_year1** | ✓ | **8011** | đã seed ✓ (pipeline FULL). Bài tập t04-t12 (skeleton) đã tách `_skeleton_tach_rieng/` |
+
+## ⛔ Quy tắc COMMIT khi viết sách — xong 1 chương là commit + push NGAY
+
+> Chủ nhà yêu cầu (03/11/2026): *"cứ xong 1 chương là sẽ thực hiện commit luôn."*
+
+**Vì sao:** phiên làm việc chạy trên **cloud** — container bị thu hồi khi hết phiên / để lâu không dùng.
+Thứ gì chưa commit **và chưa push** là mất. Commit mà không push cũng mất (commit nằm trong container).
+
+### Khi nào commit
+
+| Thời điểm | Pipeline |
+|---|---|
+| Xong **mỗi chương** `_HoiThoai.md` / `_LyThuyet.md` (stage 4) — đã qua checklist chất lượng | FULL + LITE |
+| Xong **mỗi file bài tập JSON** của một module (stage 5) — đã validate | FULL |
+| Xong **mỗi stage** (research, outline, draft, review, consistency, council, finalize) | FULL + LITE |
+| Subagent viết chương hộ → commit **sau khi main Claude verify độc lập**, mỗi chương 1 commit | FULL + LITE |
+
+Không gom nhiều chương vào 1 commit. Không đợi xong cả sách mới commit.
+
+### Cách commit
+
+1. **Kiểm trước khi commit** (lỗi thì sửa xong mới commit): `<ruby>` == `</ruby>`, không box-drawing, không ký tự Hàn, mỗi folder chỉ 1 file `.md`, JSON pass validator.
+2. **Chỉ `git add` file của chương vừa xong** + `_pipeline/` của sách đó. KHÔNG `git add -A` / `git add .`.
+   ```bash
+   git add books/<book>/<folder_chương>/ books/<book>/_pipeline/
+   ```
+3. **Message tiếng Việt**, theo mẫu:
+   ```
+   Sách <NN> <slug>: viết chương <code> <tên chương>
+   Sách <NN> <slug>: bài tập <code> (<số câu> câu)
+   Sách <NN> <slug>: xong stage <NN>_<tên stage>
+   ```
+   Thân message (tuỳ chọn): số tình huống, số từ, kết quả check ruby. Cuối message kèm các dòng attribution theo hướng dẫn của phiên.
+4. **Push ngay** lên branch được giao: `git push -u origin <branch>`. Lỗi mạng thì thử lại tối đa 4 lần (chờ 2s, 4s, 8s, 16s).
+5. **Báo user 1 dòng**: `✓ Đã commit + push chương <code> (<hash>)`.
+
+✅ `books/*/_pipeline/state.json` **được track** (đã bỏ khỏi `.gitignore` ngày 03/11/2026) → luôn commit kèm mỗi chương để phiên sau resume được.
+
+## Series sách đọc hiểu TIẾNG ANH A1–C1 (sách 56–60)
+
+Đọc trước: `_shared/english_cefr/KE_HOACH_SERIES.md`. Tóm tắt:
+- **1 cấp = 1 cuốn, 1 chương = 1 unit** của khoá tiếng Anh. Vốn từ lấy từ `_shared/en_curriculum/` (phiếu A1–C1).
+- **Đa ngôn ngữ:** mọi đoạn chữ là `i18n {en, vi}` (sau này thêm `ja`, `th`…). Nhãn mục nằm trong `LABELS` của script build, không viết trong nội dung.
+- **`*_BaiTap.json` là nguồn sự thật**, gồm bài đọc chia `segments` (từng câu: `en` / `vi` / `speaker`, dùng cho shadowing) và câu hỏi có `evidence_segments`. File `_DocHieu.md` **sinh tự động**: `python3 _shared/scripts/build_en_reading.py <file>`. Không sửa tay md.
+- Soát vốn từ: `python3 _shared/scripts/check_cefr_level.py --sheet <mã phiếu cuối unit> --allow "<tên riêng>" <file>`.
+- **Dàn nhân vật cố định:** `_shared/en_curriculum/characters.md`, gồm nhà Carter và nhà Brooks ở Maple Street, San Diego. Phải đúng tuổi, nghề, tính cách theo cấp. Không dùng tên Việt.
+- Không viết trùng bài đọc app đã có (`reading_title` trong `en_curriculum`).
+- **Độ khó tăng dần** qua từng chương và từng cuốn. Nội dung hiện đại (công nghệ…), có suy nghĩ, cảm xúc, đánh giá.
+- ⛔ **Tuyệt đối không** viết về hệ tư tưởng, chế độ chính trị (phát xít, cộng sản, độc tài, tư bản…), chính đảng, bầu cử, chiến tranh, tranh luận tôn giáo. Chi tiết ở mục 7a của kế hoạch.
 
 ## Quy tắc CRITICAL khi viết content
 

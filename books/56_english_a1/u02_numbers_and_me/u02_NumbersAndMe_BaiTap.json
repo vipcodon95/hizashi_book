@@ -1,0 +1,1211 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 2 — Numbers and me",
+      "vi": "Số và thông tin cá nhân"
+    },
+    "title": "Unit 2 — Numbers and me",
+    "title_vn": "Số và thông tin cá nhân",
+    "module_code": "56_u02",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A1",
+    "curriculum_unit": "a1.u02",
+    "curriculum_sheets": [
+      "a1.05",
+      "a1.06",
+      "a1.07",
+      "a1.08"
+    ],
+    "characters": [
+      "Megan Carter",
+      "Biscuit",
+      "Tina Carter",
+      "Harriet Brooks",
+      "Leah Carter",
+      "you"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 9, năm 1 — Biscuit trốn ra ngoài lần đầu tiên bạn gặp"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Số tuổi, số điện thoại, địa chỉ; số của ai",
+    "description_vn": "Áp phích tìm chó lạc và tin nhắn giữa bạn và Megan. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 2 khoá A1 · phiếu `a1.05` – `a1.08` (số đếm và tuổi, số điện thoại, giá tiền, thông tin cá nhân: địa chỉ, email)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một áp phích và một chuỗi tin nhắn; tìm đúng số tuổi, số điện thoại, địa chỉ, và không nhầm số của người này với người khác."
+    },
+    "extra_words": [
+      {
+        "word": "lost",
+        "i18n": {
+          "vi": "bị lạc"
+        }
+      },
+      {
+        "word": "dog",
+        "i18n": {
+          "vi": "con chó"
+        }
+      },
+      {
+        "word": "reward",
+        "i18n": {
+          "vi": "tiền thưởng"
+        }
+      },
+      {
+        "word": "café",
+        "i18n": {
+          "vi": "quán cà phê"
+        }
+      },
+      {
+        "word": "hospital",
+        "i18n": {
+          "vi": "bệnh viện"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "years old",
+          "vi": "… tuổi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "mobile number",
+          "vi": "số di động"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Thanks a lot",
+          "vi": "cảm ơn nhiều"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a lot",
+          "vi": "rất nhiều, suốt"
+        }
+      },
+      {
+        "i18n": {
+          "en": "be out",
+          "vi": "đi vắng, ra ngoài"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Áp phích và biển báo: đọc **tiêu đề chữ to** trước, vì nó cho biết ngay văn bản nói về chuyện gì."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Số dễ nhầm: `three` (3) / `thirteen` (13) / `thirty` (30), `seven` / `seventeen` / `seventy`. Đuôi **-teen** là 13–19, đuôi **-ty** là hàng chục."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Khi hai bài có nhiều số điện thoại, ghi chú bên cạnh **số nào của ai**. Đề hay lấy số của người khác làm phương án nhiễu."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi `Why …?` ở bài tin nhắn: đáp án thường nằm ở hai câu liền nhau (ai vắng, ai ở nhà) chứ không ở một câu."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u02_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Áp phích tìm chó lạc"
+      },
+      "title": "Lost Dog!",
+      "category": "notice",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 60,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "LOST DOG!",
+            "vi": "TÌM CHÓ LẠC!"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please help!",
+            "vi": "Xin hãy giúp đỡ!"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "His name is Biscuit.",
+            "vi": "Nó tên là Biscuit."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He is a young dog.",
+            "vi": "Nó là một chú chó còn nhỏ."
+          }
+        },
+        {
+          "n": 5,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He is only three years old.",
+            "vi": "Nó mới ba tuổi."
+          }
+        },
+        {
+          "n": 6,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He is big and very nice.",
+            "vi": "Nó to con và rất hiền."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Is he on your street? Please check!",
+            "vi": "Nó có ở trên phố nhà bạn không? Xin hãy xem giúp!"
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please phone Megan Carter.",
+            "vi": "Xin hãy gọi cho Megan Carter."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mobile number: 619-555-0142",
+            "vi": "Số di động: 619-555-0142"
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Address: 12 Maple Street",
+            "vi": "Địa chỉ: số 12 phố Maple"
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Email: megan.carter@example.com",
+            "vi": "Email: megan.carter@example.com"
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Reward: fifty dollars",
+            "vi": "Tiền thưởng: năm mươi đô la"
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Thank you!",
+            "vi": "Xin cảm ơn!"
+          }
+        }
+      ],
+      "content_ja": "LOST DOG!\n\nPlease help! His name is Biscuit. He is a young dog. He is only three years old. He is big and very nice.\n\nIs he on your street? Please check! Please phone Megan Carter.\n\nMobile number: 619-555-0142\n\nAddress: 12 Maple Street\n\nEmail: megan.carter@example.com\n\nReward: fifty dollars\n\nThank you!",
+      "translation_vn": "(1) TÌM CHÓ LẠC!\n(2) Xin hãy giúp đỡ!\n(3) Nó tên là Biscuit.\n(4) Nó là một chú chó còn nhỏ.\n(5) Nó mới ba tuổi.\n(6) Nó to con và rất hiền.\n(7) Nó có ở trên phố nhà bạn không? Xin hãy xem giúp!\n(8) Xin hãy gọi cho Megan Carter.\n(9) Số di động: 619-555-0142\n(10) Địa chỉ: số 12 phố Maple\n(11) Email: megan.carter@example.com\n(12) Tiền thưởng: năm mươi đô la\n(13) Xin cảm ơn!",
+      "word_count": 51,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.05",
+        "a1.06",
+        "a1.07",
+        "a1.08"
+      ],
+      "narrator": "announcer"
+    },
+    {
+      "id": "passage_u02_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Tin nhắn giữa bạn và Megan"
+      },
+      "title": "Messages: You and Megan",
+      "category": "letter",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 90,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "sentence",
+          "speaker": "You",
+          "label": null,
+          "i18n": {
+            "en": "Hello! Is this Megan Carter?",
+            "vi": "Xin chào! Có phải chị Megan Carter không ạ?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 1,
+          "kind": "sentence",
+          "speaker": "You",
+          "label": null,
+          "i18n": {
+            "en": "Your dog is here at Harriet's café!",
+            "vi": "Chó nhà chị đang ở đây, ở quán cà phê Harriet's!"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Yes, this is Megan.",
+            "vi": "Vâng, Megan đây."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Thanks a lot! Is he OK?",
+            "vi": "Cảm ơn bạn nhiều lắm! Nó có ổn không?"
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "You",
+          "label": null,
+          "i18n": {
+            "en": "Yes, he is fine.",
+            "vi": "Vâng, nó khoẻ ạ."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "You",
+          "label": null,
+          "i18n": {
+            "en": "He is with Harriet and Tina.",
+            "vi": "Nó đang ở cùng bà Harriet và Tina."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Thank you! I am at the hospital, and Mitchell is out.",
+            "vi": "Cảm ơn bạn! Tôi đang ở bệnh viện, còn Mitchell thì đi vắng."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "But Leah is at number 12.",
+            "vi": "Nhưng Leah đang ở nhà số 12."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "You",
+          "label": null,
+          "i18n": {
+            "en": "OK. What is Leah's mobile number?",
+            "vi": "Vâng. Số di động của Leah là bao nhiêu ạ?"
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "It's 619-555-0187.",
+            "vi": "Số đó là 619-555-0187."
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": "You",
+          "label": null,
+          "i18n": {
+            "en": "Thanks! Tina is very nice. How old is she?",
+            "vi": "Cảm ơn chị! Tina dễ thương quá. Bé mấy tuổi rồi ạ?"
+          }
+        },
+        {
+          "n": 12,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "She is seven.",
+            "vi": "Con bé bảy tuổi."
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Trevor is eleven, and Tracy is sixteen.",
+            "vi": "Trevor mười một, còn Tracy mười sáu."
+          }
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Biscuit is only three, but he is out a lot!",
+            "vi": "Biscuit mới ba tuổi, nhưng nó trốn ra ngoài suốt!"
+          }
+        }
+      ],
+      "content_ja": "You: Hello! Is this Megan Carter? Your dog is here at Harriet's café!\n\nMegan: Yes, this is Megan. Thanks a lot! Is he OK?\n\nYou: Yes, he is fine. He is with Harriet and Tina.\n\nMegan: Thank you! I am at the hospital, and Mitchell is out. But Leah is at number 12.\n\nYou: OK. What is Leah's mobile number?\n\nMegan: It's 619-555-0187.\n\nYou: Thanks! Tina is very nice. How old is she?\n\nMegan: She is seven. Trevor is eleven, and Tracy is sixteen. Biscuit is only three, but he is out a lot!",
+      "translation_vn": "(1) You: Xin chào! Có phải chị Megan Carter không ạ?\n(2) You: Chó nhà chị đang ở đây, ở quán cà phê Harriet's!\n(3) Megan: Vâng, Megan đây.\n(4) Megan: Cảm ơn bạn nhiều lắm! Nó có ổn không?\n(5) You: Vâng, nó khoẻ ạ.\n(6) You: Nó đang ở cùng bà Harriet và Tina.\n(7) Megan: Cảm ơn bạn! Tôi đang ở bệnh viện, còn Mitchell thì đi vắng.\n(8) Megan: Nhưng Leah đang ở nhà số 12.\n(9) You: Vâng. Số di động của Leah là bao nhiêu ạ?\n(10) Megan: Số đó là 619-555-0187.\n(11) You: Cảm ơn chị! Tina dễ thương quá. Bé mấy tuổi rồi ạ?\n(12) Megan: Con bé bảy tuổi.\n(13) Megan: Trevor mười một, còn Tracy mười sáu.\n(14) Megan: Biscuit mới ba tuổi, nhưng nó trốn ra ngoài suốt!",
+      "word_count": 84,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.05",
+        "a1.06",
+        "a1.07",
+        "a1.08"
+      ],
+      "narrator": "announcer"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u02_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "The dog's name is ______.",
+        "vi": "Con chó tên là ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Megan",
+            "vi": "Megan"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Megan",
+          "text_translation": "Megan"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Biscuit",
+            "vi": "Biscuit"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Biscuit",
+          "text_translation": "Biscuit"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Carter",
+            "vi": "Carter"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Carter",
+          "text_translation": "Carter"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Maple",
+            "vi": "Maple"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Maple",
+          "text_translation": "Maple"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"His name is Biscuit.\" Megan Carter là người chủ, Maple là tên phố."
+      },
+      "audio_data": null,
+      "question_jp": "The dog's name is ______.",
+      "question_vn": "Con chó tên là ______.",
+      "explanation": "\"His name is Biscuit.\" Megan Carter là người chủ, Maple là tên phố."
+    },
+    {
+      "id": "q_u02_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "How old is Biscuit?",
+        "vi": "Biscuit mấy tuổi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "seven",
+            "vi": "bảy tuổi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "seven",
+          "text_translation": "bảy tuổi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "thirteen",
+            "vi": "mười ba tuổi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "thirteen",
+          "text_translation": "mười ba tuổi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "three",
+            "vi": "ba tuổi"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "three",
+          "text_translation": "ba tuổi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "thirty",
+            "vi": "ba mươi tuổi"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "thirty",
+          "text_translation": "ba mươi tuổi"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"He is only three years old.\""
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Số dễ nhầm: three (3) / thirteen (13) / thirty (30). Đuôi -teen là 13–19, đuôi -ty là hàng chục."
+      },
+      "question_jp": "How old is Biscuit?",
+      "question_vn": "Biscuit mấy tuổi?",
+      "explanation": "\"He is only three years old.\"",
+      "tip": "Số dễ nhầm: three (3) / thirteen (13) / thirty (30). Đuôi -teen là 13–19, đuôi -ty là hàng chục."
+    },
+    {
+      "id": "q_u02_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "Megan's mobile number is ______.",
+        "vi": "Số di động của Megan là ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "619-555-0142",
+            "vi": "619-555-0142"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "619-555-0142",
+          "text_translation": "619-555-0142"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "619-555-0187",
+            "vi": "619-555-0187"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "619-555-0187",
+          "text_translation": "619-555-0187"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "619-555-0124",
+            "vi": "619-555-0124"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "619-555-0124",
+          "text_translation": "619-555-0124"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "619-555-0412",
+            "vi": "619-555-0412"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "619-555-0412",
+          "text_translation": "619-555-0412"
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Please phone Megan Carter. Mobile number: 619-555-0142\". Số 619-555-0187 ở bài đọc 2 là số của Leah."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Số điện thoại: so từng chữ số, đừng chỉ nhìn mấy số đầu."
+      },
+      "question_jp": "Megan's mobile number is ______.",
+      "question_vn": "Số di động của Megan là ______.",
+      "explanation": "\"Please phone Megan Carter. Mobile number: 619-555-0142\". Số 619-555-0187 ở bài đọc 2 là số của Leah.",
+      "tip": "Số điện thoại: so từng chữ số, đừng chỉ nhìn mấy số đầu."
+    },
+    {
+      "id": "q_u02_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "The Carters' address is ______.",
+        "vi": "Địa chỉ nhà Carter là ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "15 Maple Street",
+            "vi": "số 15 phố Maple"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "15 Maple Street",
+          "text_translation": "số 15 phố Maple"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "21 Maple Street",
+            "vi": "số 21 phố Maple"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "21 Maple Street",
+          "text_translation": "số 21 phố Maple"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "12 Westview Street",
+            "vi": "số 12 phố Westview"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "12 Westview Street",
+          "text_translation": "số 12 phố Westview"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "12 Maple Street",
+            "vi": "số 12 phố Maple"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "12 Maple Street",
+          "text_translation": "số 12 phố Maple"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"Address: 12 Maple Street\". Số 15 là nhà của bà Harriet, ở phía đối diện."
+      },
+      "audio_data": null,
+      "question_jp": "The Carters' address is ______.",
+      "question_vn": "Địa chỉ nhà Carter là ______.",
+      "explanation": "\"Address: 12 Maple Street\". Số 15 là nhà của bà Harriet, ở phía đối diện."
+    },
+    {
+      "id": "q_u02_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "This poster is about ______.",
+        "vi": "Áp phích này nói về ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a new café",
+            "vi": "một quán cà phê mới"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a new café",
+          "text_translation": "một quán cà phê mới"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a lost dog",
+            "vi": "một con chó bị lạc"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a lost dog",
+          "text_translation": "một con chó bị lạc"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a new student",
+            "vi": "một học sinh mới"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a new student",
+          "text_translation": "một học sinh mới"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a mobile phone",
+            "vi": "một chiếc điện thoại di động"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a mobile phone",
+          "text_translation": "một chiếc điện thoại di động"
+        }
+      ],
+      "evidence_segments": [
+        1,
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"LOST DOG! Please help!\" Tiêu đề áp phích nói luôn nội dung chính."
+      },
+      "audio_data": null,
+      "question_jp": "This poster is about ______.",
+      "question_vn": "Áp phích này nói về ______.",
+      "explanation": "\"LOST DOG! Please help!\" Tiêu đề áp phích nói luôn nội dung chính."
+    },
+    {
+      "id": "q_u02_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "Biscuit is at ______.",
+        "vi": "Biscuit đang ở ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the hospital",
+            "vi": "bệnh viện"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the hospital",
+          "text_translation": "bệnh viện"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "number 12",
+            "vi": "nhà số 12"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "number 12",
+          "text_translation": "nhà số 12"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Harriet's café",
+            "vi": "quán cà phê Harriet's"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Harriet's café",
+          "text_translation": "quán cà phê Harriet's"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "school",
+            "vi": "trường học"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "school",
+          "text_translation": "trường học"
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"Your dog is here at Harriet's café!\" Bệnh viện là nơi Megan đang ở; nhà số 12 là nơi Leah đang ở."
+      },
+      "audio_data": null,
+      "question_jp": "Biscuit is at ______.",
+      "question_vn": "Biscuit đang ở ______.",
+      "explanation": "\"Your dog is here at Harriet's café!\" Bệnh viện là nơi Megan đang ở; nhà số 12 là nơi Leah đang ở."
+    },
+    {
+      "id": "q_u02_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "______ is with Biscuit.",
+        "vi": "______ đang ở cùng Biscuit."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Megan",
+            "vi": "Megan"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Megan",
+          "text_translation": "Megan"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Mitchell",
+            "vi": "Mitchell"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Mitchell",
+          "text_translation": "Mitchell"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Leah",
+            "vi": "Leah"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Leah",
+          "text_translation": "Leah"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet and Tina",
+            "vi": "bà Harriet và Tina"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Harriet and Tina",
+          "text_translation": "bà Harriet và Tina"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"He is with Harriet and Tina.\" \"He\" ở câu này là Biscuit."
+      },
+      "audio_data": null,
+      "question_jp": "______ is with Biscuit.",
+      "question_vn": "______ đang ở cùng Biscuit.",
+      "explanation": "\"He is with Harriet and Tina.\" \"He\" ở câu này là Biscuit."
+    },
+    {
+      "id": "q_u02_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "Megan is ______.",
+        "vi": "Megan đang ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at the hospital",
+            "vi": "ở bệnh viện"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "at the hospital",
+          "text_translation": "ở bệnh viện"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at the café",
+            "vi": "ở quán cà phê"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "at the café",
+          "text_translation": "ở quán cà phê"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at number 12",
+            "vi": "ở nhà số 12"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "at number 12",
+          "text_translation": "ở nhà số 12"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "out with Mitchell",
+            "vi": "đi ra ngoài cùng Mitchell"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "out with Mitchell",
+          "text_translation": "đi ra ngoài cùng Mitchell"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"I am at the hospital, and Mitchell is out.\" \"I\" là Megan, người đang nhắn tin."
+      },
+      "audio_data": null,
+      "question_jp": "Megan is ______.",
+      "question_vn": "Megan đang ______.",
+      "explanation": "\"I am at the hospital, and Mitchell is out.\" \"I\" là Megan, người đang nhắn tin."
+    },
+    {
+      "id": "q_u02_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "Why does \"you\" ask for Leah's number?",
+        "vi": "Vì sao \"bạn\" hỏi số điện thoại của Leah?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Leah is at the café.",
+            "vi": "Vì Leah đang ở quán cà phê."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Leah is at the café.",
+          "text_translation": "Vì Leah đang ở quán cà phê."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Megan and Mitchell are not at number 12.",
+            "vi": "Vì Megan và Mitchell không có ở nhà số 12."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Megan and Mitchell are not at number 12.",
+          "text_translation": "Vì Megan và Mitchell không có ở nhà số 12."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Biscuit is Leah's dog.",
+            "vi": "Vì Biscuit là chó của Leah."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Biscuit is Leah's dog.",
+          "text_translation": "Vì Biscuit là chó của Leah."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Leah is a teacher.",
+            "vi": "Vì Leah là giáo viên."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Leah is a teacher.",
+          "text_translation": "Vì Leah là giáo viên."
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"I am at the hospital, and Mitchell is out. But Leah is at number 12.\" Bố mẹ đều vắng nhà, chỉ có Leah ở nhà nên cần gọi Leah."
+      },
+      "audio_data": null,
+      "question_jp": "Why does \"you\" ask for Leah's number?",
+      "question_vn": "Vì sao \"bạn\" hỏi số điện thoại của Leah?",
+      "explanation": "\"I am at the hospital, and Mitchell is out. But Leah is at number 12.\" Bố mẹ đều vắng nhà, chỉ có Leah ở nhà nên cần gọi Leah."
+    },
+    {
+      "id": "q_u02_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "How old is Trevor?",
+        "vi": "Trevor mấy tuổi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "seven",
+            "vi": "bảy tuổi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "seven",
+          "text_translation": "bảy tuổi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "sixteen",
+            "vi": "mười sáu tuổi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "sixteen",
+          "text_translation": "mười sáu tuổi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "three",
+            "vi": "ba tuổi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "three",
+          "text_translation": "ba tuổi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "eleven",
+            "vi": "mười một tuổi"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "eleven",
+          "text_translation": "mười một tuổi"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Trevor is eleven, and Tracy is sixteen.\" Bảy tuổi là Tina, ba tuổi là Biscuit."
+      },
+      "audio_data": null,
+      "question_jp": "How old is Trevor?",
+      "question_vn": "Trevor mấy tuổi?",
+      "explanation": "\"Trevor is eleven, and Tracy is sixteen.\" Bảy tuổi là Tina, ba tuổi là Biscuit."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u02_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Áp phích tìm chó lạc",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u02_01",
+      "question_ids": [
+        "q_u02_001",
+        "q_u02_002",
+        "q_u02_003",
+        "q_u02_004",
+        "q_u02_005"
+      ]
+    },
+    {
+      "set_id": "set_u02_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Tin nhắn giữa bạn và Megan",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u02_02",
+      "question_ids": [
+        "q_u02_006",
+        "q_u02_007",
+        "q_u02_008",
+        "q_u02_009",
+        "q_u02_010"
+      ]
+    }
+  ]
+}

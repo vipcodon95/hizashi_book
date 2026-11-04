@@ -1,0 +1,2010 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 17–18 — Natural world & Technology and society",
+      "vi": "Thế giới tự nhiên & Công nghệ và xã hội"
+    },
+    "title": "Units 17–18 — Natural world & Technology and society",
+    "title_vn": "Thế giới tự nhiên & Công nghệ và xã hội",
+    "module_code": "59_u1718",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.u17+u18",
+    "curriculum_sheets": [
+      "b2.065",
+      "b2.066",
+      "b2.067",
+      "b2.068",
+      "b2.069",
+      "b2.070",
+      "b2.071",
+      "b2.072"
+    ],
+    "characters": [
+      "Tina Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 10, năm 6"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "See/hear + O + V, bị động tường thuật, find it + adj, ẩn dụ",
+    "description_vn": "Nhật ký ngắm chim di cư của Tina ở vịnh San Diego và bài báo về loa thông minh trong gia đình. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 17 + Unit 18 khoá B2 · phiếu `b2.065` – `b2.072` (see / hear + tân ngữ + V / V-ing / V3, phong cảnh, thảm hoạ, đại dương; bị động tường thuật, trí tuệ nhân tạo, quyền riêng tư, đời sống số)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một cuốn nhật ký thiên nhiên và một bài báo về công nghệ trong gia đình; hiểu `see / hear + O + V nguyên mẫu` (thấy trọn hành động) và `+ V-ing` (thấy đang diễn ra), bị động tường thuật (It is estimated that…, are thought to…), `find it + adj + to V / that…`, và giải nghĩa phép so sánh, hình ảnh ẩn dụ."
+    },
+    "extra_words": [
+      {
+        "word": "geese",
+        "i18n": {
+          "vi": "ngỗng (số nhiều của goose)"
+        }
+      },
+      {
+        "word": "unscientific",
+        "i18n": {
+          "vi": "phản khoa học, thiếu khoa học"
+        }
+      },
+      {
+        "word": "wetland",
+        "i18n": {
+          "vi": "vùng đất ngập nước"
+        }
+      },
+      {
+        "word": "sandpiper",
+        "i18n": {
+          "vi": "chim choắt cát"
+        }
+      },
+      {
+        "word": "beak",
+        "i18n": {
+          "vi": "mỏ chim"
+        }
+      },
+      {
+        "word": "osprey",
+        "i18n": {
+          "vi": "chim ưng biển"
+        }
+      },
+      {
+        "word": "flyway",
+        "i18n": {
+          "vi": "đường bay của chim di cư"
+        }
+      },
+      {
+        "word": "smart speaker",
+        "i18n": {
+          "vi": "loa thông minh"
+        }
+      },
+      {
+        "word": "device",
+        "i18n": {
+          "vi": "thiết bị"
+        }
+      },
+      {
+        "word": "wake word",
+        "i18n": {
+          "vi": "từ đánh thức (gọi loa)"
+        }
+      },
+      {
+        "word": "timer",
+        "i18n": {
+          "vi": "đồng hồ hẹn giờ"
+        }
+      },
+      {
+        "word": "household",
+        "i18n": {
+          "vi": "hộ gia đình"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "make out",
+          "vi": "nhìn ra, nhận ra"
+        }
+      },
+      {
+        "i18n": {
+          "en": "all the way from",
+          "vi": "suốt từ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "make it home",
+          "vi": "về được tới nhà"
+        }
+      },
+      {
+        "i18n": {
+          "en": "it is estimated that",
+          "vi": "người ta ước tính rằng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "be thought to",
+          "vi": "được cho là"
+        }
+      },
+      {
+        "i18n": {
+          "en": "find it useful to",
+          "vi": "thấy tiện khi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "raise questions",
+          "vi": "đặt ra câu hỏi"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`see / hear + O + V` = thấy, nghe trọn hành động; `+ V-ing` = thấy đang diễn ra giữa chừng. Câu hỏi thường hỏi đúng sự khác biệt này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Phép so sánh của nhân vật (`Think of it as a gas station`): tìm câu giải thích ngay sau để hiểu điểm giống nhau."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bị động tường thuật (`It is estimated that`, `are thought to`) cho biết đây là ý kiến hay ước tính chung, chưa phải sự thật tuyệt đối."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu kết bài quan điểm thường dùng ẩn dụ. Hãy dịch ẩn dụ thành một lời khuyên cụ thể."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u1718_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 17) — Nhật ký quan sát chim di cư của Tina"
+      },
+      "narrator": "Tina",
+      "title": "Tina's Bird Journal: The Travelers at the Bay",
+      "category": "story",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tina's Bird Journal: The Travelers at the Bay",
+            "vi": "Nhật ký ngắm chim của Tina: những lữ khách ở vịnh"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Saturday, October 2",
+            "vi": "Thứ Bảy, 2/10"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Today was my first morning at the bird count at the wetlands on the south side of San Diego Bay.",
+            "vi": "Hôm nay là buổi sáng đầu tiên mình đi đếm chim ở vùng đất ngập nước phía nam vịnh San Diego."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There was a thick morning mist when we arrived, and our leader, a retired science teacher called Mrs. Delgado, said that we had to be completely silent.",
+            "vi": "Lúc tới nơi sương sớm còn dày, và trưởng nhóm, bà Delgado, một cô giáo khoa học đã nghỉ hưu, bảo cả nhóm phải giữ im lặng tuyệt đối."
+          }
+        },
+        {
+          "n": 5,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For a long time, I couldn't make out anything at all. Then I heard something call across the water, and slowly the mist lifted.",
+            "vi": "Rất lâu mình chẳng nhìn rõ thứ gì. Rồi mình nghe có con gì kêu vọng qua mặt nước, và sương từ từ tan."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hundreds of small brown birds were running along the edge of the mud, all moving together like one animal.",
+            "vi": "Hàng trăm con chim nhỏ màu nâu đang chạy dọc mép bùn, cùng di chuyển như một con vật duy nhất."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mrs. Delgado said that they were western sandpipers, and that some of them had flown all the way from Alaska.",
+            "vi": "Bà Delgado nói đó là chim choắt cát miền tây, và có những con đã bay suốt từ Alaska tới đây."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I watched one of them stop, push its beak into the mud and pull out a tiny worm. It was gone in a second.",
+            "vi": "Mình nhìn một con dừng lại, cắm mỏ xuống bùn và lôi ra một con sâu bé xíu. Chỉ một giây là nuốt mất."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mrs. Delgado explained that San Diego Bay is on the Pacific Flyway, a kind of highway in the sky that birds follow between the far north and South America.",
+            "vi": "Bà Delgado giải thích vịnh San Diego nằm trên Đường bay Thái Bình Dương, một kiểu xa lộ trên trời mà chim bay theo giữa vùng cực bắc và Nam Mỹ."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every fall, millions of birds stop at wetlands like this one to rest and eat before they continue their journey.",
+            "vi": "Mùa thu nào cũng có hàng triệu con chim dừng chân ở những vùng đất ngập nước như thế này để nghỉ và ăn trước khi bay tiếp."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"Think of it as a gas station,\" she said. \"If the gas stations disappear, the drivers don't make it home.\"",
+            "vi": "\"Cứ coi nó như một trạm xăng,\" bà nói. \"Nếu trạm xăng biến mất, người lái xe sẽ không về được tới nhà.\""
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Saturday, October 9",
+            "vi": "Thứ Bảy, 9/10"
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This week, I counted forty-two different species, and I finally saw an osprey dive. I saw it fall out of the sky, hit the water and rise again with a fish in its feet.",
+            "vi": "Tuần này mình đếm được bốn mươi hai loài khác nhau, và cuối cùng cũng thấy một con chim ưng biển lao xuống. Mình thấy nó rơi từ trên trời xuống, đập mặt nước rồi bay lên với con cá trong móng."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Everybody cheered, which Mrs. Delgado said was \"very unscientific, but understandable\".",
+            "vi": "Ai cũng reo lên, mà bà Delgado bảo là \"rất phản khoa học, nhưng dễ hiểu\"."
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Our counts are sent to scientists, who use them to see how bird numbers are changing.",
+            "vi": "Số liệu đếm được của nhóm được gửi cho các nhà khoa học, họ dùng nó để xem số lượng chim thay đổi ra sao."
+          }
+        },
+        {
+          "n": 16,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mrs. Delgado told us that North America has lost almost three billion birds since 1970. I can't stop thinking about that number.",
+            "vi": "Bà Delgado kể Bắc Mỹ đã mất gần ba tỉ con chim kể từ năm 1970. Mình cứ nghĩ mãi về con số đó."
+          }
+        },
+        {
+          "n": 17,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I used to want to be a vet. Now I think that I might want to be the person who counts.",
+            "vi": "Trước đây mình muốn làm bác sĩ thú y. Giờ mình nghĩ có khi mình muốn làm người đi đếm chim."
+          }
+        }
+      ],
+      "content_ja": "Tina's Bird Journal: The Travelers at the Bay\n\nSaturday, October 2\n\nToday was my first morning at the bird count at the wetlands on the south side of San Diego Bay. There was a thick morning mist when we arrived, and our leader, a retired science teacher called Mrs. Delgado, said that we had to be completely silent. For a long time, I couldn't make out anything at all. Then I heard something call across the water, and slowly the mist lifted.\n\nHundreds of small brown birds were running along the edge of the mud, all moving together like one animal. Mrs. Delgado said that they were western sandpipers, and that some of them had flown all the way from Alaska. I watched one of them stop, push its beak into the mud and pull out a tiny worm. It was gone in a second.\n\nMrs. Delgado explained that San Diego Bay is on the Pacific Flyway, a kind of highway in the sky that birds follow between the far north and South America. Every fall, millions of birds stop at wetlands like this one to rest and eat before they continue their journey. \"Think of it as a gas station,\" she said. \"If the gas stations disappear, the drivers don't make it home.\"\n\nSaturday, October 9\n\nThis week, I counted forty-two different species, and I finally saw an osprey dive. I saw it fall out of the sky, hit the water and rise again with a fish in its feet. Everybody cheered, which Mrs. Delgado said was \"very unscientific, but understandable\". Our counts are sent to scientists, who use them to see how bird numbers are changing. Mrs. Delgado told us that North America has lost almost three billion birds since 1970. I can't stop thinking about that number. I used to want to be a vet. Now I think that I might want to be the person who counts.",
+      "translation_vn": "(1) Nhật ký ngắm chim của Tina: những lữ khách ở vịnh\n(2) Thứ Bảy, 2/10\n(3) Hôm nay là buổi sáng đầu tiên mình đi đếm chim ở vùng đất ngập nước phía nam vịnh San Diego.\n(4) Lúc tới nơi sương sớm còn dày, và trưởng nhóm, bà Delgado, một cô giáo khoa học đã nghỉ hưu, bảo cả nhóm phải giữ im lặng tuyệt đối.\n(5) Rất lâu mình chẳng nhìn rõ thứ gì. Rồi mình nghe có con gì kêu vọng qua mặt nước, và sương từ từ tan.\n(6) Hàng trăm con chim nhỏ màu nâu đang chạy dọc mép bùn, cùng di chuyển như một con vật duy nhất.\n(7) Bà Delgado nói đó là chim choắt cát miền tây, và có những con đã bay suốt từ Alaska tới đây.\n(8) Mình nhìn một con dừng lại, cắm mỏ xuống bùn và lôi ra một con sâu bé xíu. Chỉ một giây là nuốt mất.\n(9) Bà Delgado giải thích vịnh San Diego nằm trên Đường bay Thái Bình Dương, một kiểu xa lộ trên trời mà chim bay theo giữa vùng cực bắc và Nam Mỹ.\n(10) Mùa thu nào cũng có hàng triệu con chim dừng chân ở những vùng đất ngập nước như thế này để nghỉ và ăn trước khi bay tiếp.\n(11) \"Cứ coi nó như một trạm xăng,\" bà nói. \"Nếu trạm xăng biến mất, người lái xe sẽ không về được tới nhà.\"\n(12) Thứ Bảy, 9/10\n(13) Tuần này mình đếm được bốn mươi hai loài khác nhau, và cuối cùng cũng thấy một con chim ưng biển lao xuống. Mình thấy nó rơi từ trên trời xuống, đập mặt nước rồi bay lên với con cá trong móng.\n(14) Ai cũng reo lên, mà bà Delgado bảo là \"rất phản khoa học, nhưng dễ hiểu\".\n(15) Số liệu đếm được của nhóm được gửi cho các nhà khoa học, họ dùng nó để xem số lượng chim thay đổi ra sao.\n(16) Bà Delgado kể Bắc Mỹ đã mất gần ba tỉ con chim kể từ năm 1970. Mình cứ nghĩ mãi về con số đó.\n(17) Trước đây mình muốn làm bác sĩ thú y. Giờ mình nghĩ có khi mình muốn làm người đi đếm chim.",
+      "word_count": 319,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.065",
+        "b2.066",
+        "b2.067",
+        "b2.068"
+      ]
+    },
+    {
+      "id": "passage_u1718_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 18) — Khi chiếc loa thông minh về sống cùng gia đình"
+      },
+      "narrator": "announcer",
+      "title": "The Speaker in the Kitchen: Smart Assistants and Family Life",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Speaker in the Kitchen: Smart Assistants and Family Life",
+            "vi": "Chiếc loa trong bếp: trợ lý thông minh và đời sống gia đình"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In many American homes, there is now a small device on the kitchen counter that plays music, reads recipes aloud, answers homework questions and turns off the lights.",
+            "vi": "Ở nhiều gia đình Mỹ, giờ có một thiết bị nhỏ trên kệ bếp biết phát nhạc, đọc to công thức nấu ăn, trả lời câu hỏi bài tập và tắt đèn."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is estimated that about a third of households in the United States own at least one smart speaker.",
+            "vi": "Người ta ước tính khoảng một phần ba số hộ gia đình ở Mỹ có ít nhất một chiếc loa thông minh."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For busy families, the appeal is obvious. It is easy to see why a parent with flour on her hands finds it useful to set a timer just by speaking.",
+            "vi": "Với những gia đình bận rộn, sức hút là rõ ràng. Dễ hiểu vì sao một bà mẹ tay dính đầy bột thấy tiện khi chỉ cần nói là đặt được hẹn giờ."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But these devices raise questions that many families have not thought about.",
+            "vi": "Nhưng những thiết bị này đặt ra những câu hỏi mà nhiều gia đình chưa từng nghĩ tới."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "To hear their wake word, smart speakers must listen all the time. The companies that make them say that recordings only begin after the word is heard.",
+            "vi": "Để nghe được từ đánh thức, loa thông minh phải nghe liên tục. Các công ty sản xuất nói việc ghi âm chỉ bắt đầu sau khi nghe thấy từ đó."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "However, devices have been known to wake up by mistake and record private conversations, and some users are unaware that recordings may be stored and, in some cases, reviewed by people working for the company.",
+            "vi": "Tuy nhiên, đã có chuyện thiết bị tự thức dậy nhầm và ghi lại những cuộc trò chuyện riêng, và một số người dùng không biết rằng bản ghi có thể được lưu lại, thậm chí có trường hợp được nhân viên công ty nghe lại."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most speakers allow users to delete their recordings, but few people ever check the settings.",
+            "vi": "Phần lớn loa cho phép người dùng xoá bản ghi, nhưng ít ai từng kiểm tra phần cài đặt."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Children raise a different question.",
+            "vi": "Trẻ em đặt ra một câu hỏi khác."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Young children are thought to see smart speakers as something between a toy and a person, and some parents find it worrying that their children shout orders at the device without ever saying \"please\".",
+            "vi": "Người ta cho rằng trẻ nhỏ coi loa thông minh như thứ gì đó nửa đồ chơi nửa con người, và một số phụ huynh thấy lo khi con mình quát ra lệnh cho thiết bị mà chẳng bao giờ nói \"làm ơn\"."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In response, some companies have added settings that thank children when they ask politely.",
+            "vi": "Để đáp lại, một số công ty đã thêm chế độ cảm ơn trẻ khi các em hỏi lịch sự."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Others worry less about manners and more about homework: if a speaker can answer any question instantly, will children still learn how to find things out for themselves?",
+            "vi": "Người khác ít lo về phép lịch sự mà lo về bài tập hơn: nếu chiếc loa trả lời mọi câu hỏi ngay lập tức, liệu trẻ còn học được cách tự tìm hiểu không?"
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "None of this means that families should throw their speakers away.",
+            "vi": "Điều này không có nghĩa là các gia đình nên vứt loa đi."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is clear, though, that a device which listens in the kitchen deserves at least as much thought as one that we carry in our pockets.",
+            "vi": "Nhưng rõ ràng là một thiết bị nghe ngóng trong bếp đáng được cân nhắc ít nhất cũng kỹ như chiếc máy ta mang trong túi."
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Experts suggest a few simple habits: check the privacy settings, turn off the microphone during private conversations, and talk with children about what the device is and isn't.",
+            "vi": "Các chuyên gia gợi ý vài thói quen đơn giản: kiểm tra cài đặt quyền riêng tư, tắt micro khi nói chuyện riêng, và trò chuyện với trẻ về việc thiết bị này là gì và không phải là gì."
+          }
+        },
+        {
+          "n": 16,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A smart speaker can be a helpful assistant. It should not become the quietest member of the family, always listening and never asked.",
+            "vi": "Một chiếc loa thông minh có thể là trợ lý đắc lực. Nhưng nó không nên trở thành thành viên lặng lẽ nhất trong nhà, lúc nào cũng nghe mà chẳng bao giờ được hỏi ý."
+          }
+        }
+      ],
+      "content_ja": "The Speaker in the Kitchen: Smart Assistants and Family Life\n\nIn many American homes, there is now a small device on the kitchen counter that plays music, reads recipes aloud, answers homework questions and turns off the lights. It is estimated that about a third of households in the United States own at least one smart speaker. For busy families, the appeal is obvious. It is easy to see why a parent with flour on her hands finds it useful to set a timer just by speaking.\n\nBut these devices raise questions that many families have not thought about. To hear their wake word, smart speakers must listen all the time. The companies that make them say that recordings only begin after the word is heard. However, devices have been known to wake up by mistake and record private conversations, and some users are unaware that recordings may be stored and, in some cases, reviewed by people working for the company. Most speakers allow users to delete their recordings, but few people ever check the settings.\n\nChildren raise a different question. Young children are thought to see smart speakers as something between a toy and a person, and some parents find it worrying that their children shout orders at the device without ever saying \"please\". In response, some companies have added settings that thank children when they ask politely. Others worry less about manners and more about homework: if a speaker can answer any question instantly, will children still learn how to find things out for themselves?\n\nNone of this means that families should throw their speakers away. It is clear, though, that a device which listens in the kitchen deserves at least as much thought as one that we carry in our pockets. Experts suggest a few simple habits: check the privacy settings, turn off the microphone during private conversations, and talk with children about what the device is and isn't. A smart speaker can be a helpful assistant. It should not become the quietest member of the family, always listening and never asked.",
+      "translation_vn": "(1) Chiếc loa trong bếp: trợ lý thông minh và đời sống gia đình\n(2) Ở nhiều gia đình Mỹ, giờ có một thiết bị nhỏ trên kệ bếp biết phát nhạc, đọc to công thức nấu ăn, trả lời câu hỏi bài tập và tắt đèn.\n(3) Người ta ước tính khoảng một phần ba số hộ gia đình ở Mỹ có ít nhất một chiếc loa thông minh.\n(4) Với những gia đình bận rộn, sức hút là rõ ràng. Dễ hiểu vì sao một bà mẹ tay dính đầy bột thấy tiện khi chỉ cần nói là đặt được hẹn giờ.\n(5) Nhưng những thiết bị này đặt ra những câu hỏi mà nhiều gia đình chưa từng nghĩ tới.\n(6) Để nghe được từ đánh thức, loa thông minh phải nghe liên tục. Các công ty sản xuất nói việc ghi âm chỉ bắt đầu sau khi nghe thấy từ đó.\n(7) Tuy nhiên, đã có chuyện thiết bị tự thức dậy nhầm và ghi lại những cuộc trò chuyện riêng, và một số người dùng không biết rằng bản ghi có thể được lưu lại, thậm chí có trường hợp được nhân viên công ty nghe lại.\n(8) Phần lớn loa cho phép người dùng xoá bản ghi, nhưng ít ai từng kiểm tra phần cài đặt.\n(9) Trẻ em đặt ra một câu hỏi khác.\n(10) Người ta cho rằng trẻ nhỏ coi loa thông minh như thứ gì đó nửa đồ chơi nửa con người, và một số phụ huynh thấy lo khi con mình quát ra lệnh cho thiết bị mà chẳng bao giờ nói \"làm ơn\".\n(11) Để đáp lại, một số công ty đã thêm chế độ cảm ơn trẻ khi các em hỏi lịch sự.\n(12) Người khác ít lo về phép lịch sự mà lo về bài tập hơn: nếu chiếc loa trả lời mọi câu hỏi ngay lập tức, liệu trẻ còn học được cách tự tìm hiểu không?\n(13) Điều này không có nghĩa là các gia đình nên vứt loa đi.\n(14) Nhưng rõ ràng là một thiết bị nghe ngóng trong bếp đáng được cân nhắc ít nhất cũng kỹ như chiếc máy ta mang trong túi.\n(15) Các chuyên gia gợi ý vài thói quen đơn giản: kiểm tra cài đặt quyền riêng tư, tắt micro khi nói chuyện riêng, và trò chuyện với trẻ về việc thiết bị này là gì và không phải là gì.\n(16) Một chiếc loa thông minh có thể là trợ lý đắc lực. Nhưng nó không nên trở thành thành viên lặng lẽ nhất trong nhà, lúc nào cũng nghe mà chẳng bao giờ được hỏi ý.",
+      "word_count": 345,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.069",
+        "b2.070",
+        "b2.071",
+        "b2.072"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u1718_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "What is Tina's journal mainly about?",
+        "vi": "Nhật ký của Tina chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "her experience of counting birds at the wetlands and what she learned",
+            "vi": "trải nghiệm đi đếm chim ở vùng đất ngập nước và điều cô bé học được"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "her experience of counting birds at the wetlands and what she learned",
+          "text_translation": "trải nghiệm đi đếm chim ở vùng đất ngập nước và điều cô bé học được"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a long trip she took to Alaska to follow the birds that fly south",
+            "vi": "một chuyến đi dài tới Alaska để theo dõi những loài chim bay về phương nam"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a long trip she took to Alaska to follow the birds that fly south",
+          "text_translation": "một chuyến đi dài tới Alaska để theo dõi những loài chim bay về phương nam"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "her plan to become a vet and the subjects she needs to study",
+            "vi": "kế hoạch trở thành bác sĩ thú y và những môn cô bé cần học"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "her plan to become a vet and the subjects she needs to study",
+          "text_translation": "kế hoạch trở thành bác sĩ thú y và những môn cô bé cần học"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a science test about the birds of the bay that Mrs. Delgado gave to her class",
+            "vi": "một bài kiểm tra khoa học về các loài chim ở vịnh mà cô Delgado giao cho lớp"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a science test about the birds of the bay that Mrs. Delgado gave to her class",
+          "text_translation": "một bài kiểm tra khoa học về các loài chim ở vịnh mà cô Delgado giao cho lớp"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Today was my first morning at the bird count at the wetlands on the south side of San Diego Bay.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is Tina's journal mainly about?",
+      "question_vn": "Nhật ký của Tina chủ yếu nói về điều gì?",
+      "explanation": "\"Today was my first morning at the bird count at the wetlands on the south side of San Diego Bay.\""
+    },
+    {
+      "id": "q_u1718_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "Why couldn't Tina see anything at first?",
+        "vi": "Vì sao lúc đầu Tina chẳng nhìn thấy gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She had forgotten her glasses at home.",
+            "vi": "Vì cô bé để quên kính ở nhà."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She had forgotten her glasses at home.",
+          "text_translation": "Vì cô bé để quên kính ở nhà."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It was still dark when the group arrived.",
+            "vi": "Vì trời vẫn còn tối khi cả nhóm đến."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It was still dark when the group arrived.",
+          "text_translation": "Vì trời vẫn còn tối khi cả nhóm đến."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "There was a thick morning mist.",
+            "vi": "Vì sương sớm còn dày."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "There was a thick morning mist.",
+          "text_translation": "Vì sương sớm còn dày."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The birds were hiding in the tall grass.",
+            "vi": "Vì chim đang trốn trong đám cỏ cao."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The birds were hiding in the tall grass.",
+          "text_translation": "Vì chim đang trốn trong đám cỏ cao."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"There was a thick morning mist when we arrived\". Make out = nhìn ra, nhận ra."
+      },
+      "audio_data": null,
+      "question_jp": "Why couldn't Tina see anything at first?",
+      "question_vn": "Vì sao lúc đầu Tina chẳng nhìn thấy gì?",
+      "explanation": "\"There was a thick morning mist when we arrived\". Make out = nhìn ra, nhận ra."
+    },
+    {
+      "id": "q_u1718_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "What does \"I heard something call across the water\" mean?",
+        "vi": "Câu \"I heard something call across the water\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tina shouted to someone far away across the water.",
+            "vi": "Tina gọi to một người ở xa bên kia mặt nước."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Tina shouted to someone far away across the water.",
+          "text_translation": "Tina gọi to một người ở xa bên kia mặt nước."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Someone on the far side of the bay was calling Tina by name.",
+            "vi": "Có người ở bờ bên kia vịnh đang gọi tên Tina."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Someone on the far side of the bay was calling Tina by name.",
+          "text_translation": "Có người ở bờ bên kia vịnh đang gọi tên Tina."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tina will hear an animal call later in the morning.",
+            "vi": "Lát nữa trong buổi sáng Tina sẽ nghe thấy một con vật kêu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Tina will hear an animal call later in the morning.",
+          "text_translation": "Lát nữa trong buổi sáng Tina sẽ nghe thấy một con vật kêu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tina heard the whole sound of some animal calling.",
+            "vi": "Tina nghe trọn tiếng một con vật nào đó kêu."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Tina heard the whole sound of some animal calling.",
+          "text_translation": "Tina nghe trọn tiếng một con vật nào đó kêu."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Then I heard something call across the water\". Hear + tân ngữ + V nguyên mẫu = nghe trọn hành động từ đầu tới cuối."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"I heard something call across the water\" mean?",
+      "question_vn": "Câu \"I heard something call across the water\" nghĩa là gì?",
+      "explanation": "\"Then I heard something call across the water\". Hear + tân ngữ + V nguyên mẫu = nghe trọn hành động từ đầu tới cuối."
+    },
+    {
+      "id": "q_u1718_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "Which birds were running along the edge of the mud?",
+        "vi": "Những con chim nào đang chạy dọc mép bùn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "ospreys that had flown from the north to fish there",
+            "vi": "chim ưng biển đã bay từ phương bắc tới đây để bắt cá"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "ospreys that had flown from the north to fish there",
+          "text_translation": "chim ưng biển đã bay từ phương bắc tới đây để bắt cá"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "western sandpipers, some of which had flown from Alaska",
+            "vi": "chim choắt cát miền tây, có con đã bay từ Alaska tới"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "western sandpipers, some of which had flown from Alaska",
+          "text_translation": "chim choắt cát miền tây, có con đã bay từ Alaska tới"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "geese that had flown all the way from South America",
+            "vi": "ngỗng đã bay suốt từ Nam Mỹ tới"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "geese that had flown all the way from South America",
+          "text_translation": "ngỗng đã bay suốt từ Nam Mỹ tới"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "ducks that were standing still at the water's edge",
+            "vi": "vịt đang đứng yên bên mép nước"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "ducks that were standing still at the water's edge",
+          "text_translation": "vịt đang đứng yên bên mép nước"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"they were western sandpipers, and that some of them had flown all the way from Alaska.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which birds were running along the edge of the mud?",
+      "question_vn": "Những con chim nào đang chạy dọc mép bùn?",
+      "explanation": "\"they were western sandpipers, and that some of them had flown all the way from Alaska.\""
+    },
+    {
+      "id": "q_u1718_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "What is the Pacific Flyway?",
+        "vi": "Đường bay Thái Bình Dương là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a route in the sky that birds follow between the far north and South America",
+            "vi": "một tuyến đường trên trời chim bay theo giữa vùng cực bắc và Nam Mỹ"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "a route in the sky that birds follow between the far north and South America",
+          "text_translation": "một tuyến đường trên trời chim bay theo giữa vùng cực bắc và Nam Mỹ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a road along the bay where volunteers drive to count birds",
+            "vi": "một con đường dọc vịnh mà các tình nguyện viên lái xe tới để đếm chim"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a road along the bay where volunteers drive to count birds",
+          "text_translation": "một con đường dọc vịnh mà các tình nguyện viên lái xe tới để đếm chim"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "an airline that flies people who like birds from San Diego to Alaska and South America",
+            "vi": "một hãng hàng không chở những người thích chim từ San Diego tới Alaska và Nam Mỹ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "an airline that flies people who like birds from San Diego to Alaska and South America",
+          "text_translation": "một hãng hàng không chở những người thích chim từ San Diego tới Alaska và Nam Mỹ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a kind of bird that travels from the north to South America",
+            "vi": "một loài chim di chuyển từ phương bắc tới Nam Mỹ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a kind of bird that travels from the north to South America",
+          "text_translation": "một loài chim di chuyển từ phương bắc tới Nam Mỹ"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"a kind of highway in the sky that birds follow between the far north and South America.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the Pacific Flyway?",
+      "question_vn": "Đường bay Thái Bình Dương là gì?",
+      "explanation": "\"a kind of highway in the sky that birds follow between the far north and South America.\""
+    },
+    {
+      "id": "q_u1718_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "What does Mrs. Delgado mean by \"Think of it as a gas station\"?",
+        "vi": "Bà Delgado muốn nói gì qua câu \"Cứ coi nó như một trạm xăng\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Birds need to fill up with fuel from machines near the bay before flying.",
+            "vi": "Chim cần nạp nhiên liệu từ máy móc gần vịnh trước khi bay."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Birds need to fill up with fuel from machines near the bay before flying.",
+          "text_translation": "Chim cần nạp nhiên liệu từ máy móc gần vịnh trước khi bay."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The wetlands are close to a gas station that the volunteers often use.",
+            "vi": "Vùng đất ngập nước nằm gần một trạm xăng mà các tình nguyện viên hay dùng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The wetlands are close to a gas station that the volunteers often use.",
+          "text_translation": "Vùng đất ngập nước nằm gần một trạm xăng mà các tình nguyện viên hay dùng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Wetlands let birds rest and eat; without them, birds cannot finish their journey.",
+            "vi": "Đất ngập nước giúp chim nghỉ và ăn; không có nó, chim không thể đi hết hành trình."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Wetlands let birds rest and eat; without them, birds cannot finish their journey.",
+          "text_translation": "Đất ngập nước giúp chim nghỉ và ăn; không có nó, chim không thể đi hết hành trình."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Birds follow the cars along the highway because they find food at gas stations.",
+            "vi": "Chim bay theo xe trên xa lộ vì tìm được thức ăn ở các trạm xăng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Birds follow the cars along the highway because they find food at gas stations.",
+          "text_translation": "Chim bay theo xe trên xa lộ vì tìm được thức ăn ở các trạm xăng."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về phép so sánh. \"If the gas stations disappear, the drivers don't make it home.\" Chim cần nơi dừng chân để nạp năng lượng, như xe cần trạm xăng."
+      },
+      "audio_data": null,
+      "question_jp": "What does Mrs. Delgado mean by \"Think of it as a gas station\"?",
+      "question_vn": "Bà Delgado muốn nói gì qua câu \"Cứ coi nó như một trạm xăng\"?",
+      "explanation": "Câu suy luận về phép so sánh. \"If the gas stations disappear, the drivers don't make it home.\" Chim cần nơi dừng chân để nạp năng lượng, như xe cần trạm xăng."
+    },
+    {
+      "id": "q_u1718_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "What does \"I saw it fall out of the sky, hit the water and rise again\" describe?",
+        "vi": "Câu \"I saw it fall out of the sky, hit the water and rise again\" mô tả điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "an osprey that was hurt and could not rise from the water",
+            "vi": "một con chim ưng biển bị thương và không thể bay lên khỏi mặt nước"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "an osprey that was hurt and could not rise from the water",
+          "text_translation": "một con chim ưng biển bị thương và không thể bay lên khỏi mặt nước"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a fish that jumped out of the water to catch a bird",
+            "vi": "một con cá nhảy khỏi mặt nước để bắt chim"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a fish that jumped out of the water to catch a bird",
+          "text_translation": "một con cá nhảy khỏi mặt nước để bắt chim"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a plane that landed on the water and took off again",
+            "vi": "một chiếc máy bay hạ cánh xuống nước rồi cất cánh lại"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a plane that landed on the water and took off again",
+          "text_translation": "một chiếc máy bay hạ cánh xuống nước rồi cất cánh lại"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the whole dive of an osprey, from beginning to end",
+            "vi": "trọn cú lao xuống của con chim ưng biển, từ đầu tới cuối"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the whole dive of an osprey, from beginning to end",
+          "text_translation": "trọn cú lao xuống của con chim ưng biển, từ đầu tới cuối"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"I saw it fall out of the sky, hit the water and rise again with a fish in its feet.\" See + tân ngữ + V nguyên mẫu: thấy trọn cả chuỗi hành động."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"I saw it fall out of the sky, hit the water and rise again\" describe?",
+      "question_vn": "Câu \"I saw it fall out of the sky, hit the water and rise again\" mô tả điều gì?",
+      "explanation": "\"I saw it fall out of the sky, hit the water and rise again with a fish in its feet.\" See + tân ngữ + V nguyên mẫu: thấy trọn cả chuỗi hành động."
+    },
+    {
+      "id": "q_u1718_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "Why does Mrs. Delgado call the cheering \"very unscientific, but understandable\"?",
+        "vi": "Vì sao bà Delgado gọi tiếng reo là \"rất phản khoa học, nhưng dễ hiểu\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She was angry with the group because the cheering ruined the whole bird count.",
+            "vi": "Vì bà giận cả nhóm do tiếng reo hò làm hỏng cả buổi đếm chim."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She was angry with the group because the cheering ruined the whole bird count.",
+          "text_translation": "Vì bà giận cả nhóm do tiếng reo hò làm hỏng cả buổi đếm chim."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Noise isn't ideal when watching birds, but she understands their excitement.",
+            "vi": "Vì làm ồn không hay khi ngắm chim, nhưng bà hiểu niềm phấn khích của họ."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Noise isn't ideal when watching birds, but she understands their excitement.",
+          "text_translation": "Vì làm ồn không hay khi ngắm chim, nhưng bà hiểu niềm phấn khích của họ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She did not see the osprey, so she did not understand why they cheered.",
+            "vi": "Vì bà không thấy con chim ưng nên không hiểu sao họ reo hò."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She did not see the osprey, so she did not understand why they cheered.",
+          "text_translation": "Vì bà không thấy con chim ưng nên không hiểu sao họ reo hò."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She thinks real scientists never cheer, so the group had behaved very badly.",
+            "vi": "Vì bà cho rằng nhà khoa học thật không bao giờ reo hò, nên cả nhóm đã cư xử rất tệ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She thinks real scientists never cheer, so the group had behaved very badly.",
+          "text_translation": "Vì bà cho rằng nhà khoa học thật không bao giờ reo hò, nên cả nhóm đã cư xử rất tệ."
+        }
+      ],
+      "evidence_segments": [
+        14,
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về giọng điệu. Lúc đầu bà dặn \"we had to be completely silent\". Lời nhận xét vừa nhắc nhẹ vừa thông cảm."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Mrs. Delgado call the cheering \"very unscientific, but understandable\"?",
+      "question_vn": "Vì sao bà Delgado gọi tiếng reo là \"rất phản khoa học, nhưng dễ hiểu\"?",
+      "explanation": "Câu suy luận về giọng điệu. Lúc đầu bà dặn \"we had to be completely silent\". Lời nhận xét vừa nhắc nhẹ vừa thông cảm."
+    },
+    {
+      "id": "q_u1718_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "What happens to the group's bird counts?",
+        "vi": "Số liệu đếm chim của nhóm được dùng vào việc gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They are sent to scientists, who use them to see how bird numbers change.",
+            "vi": "Được gửi cho nhà khoa học, họ dùng để xem số lượng chim thay đổi ra sao."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "They are sent to scientists, who use them to see how bird numbers change.",
+          "text_translation": "Được gửi cho nhà khoa học, họ dùng để xem số lượng chim thay đổi ra sao."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They are kept in Tina's journal so that she can compare them next year.",
+            "vi": "Được giữ trong nhật ký của Tina để cô bé so sánh vào năm sau."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They are kept in Tina's journal so that she can compare them next year.",
+          "text_translation": "Được giữ trong nhật ký của Tina để cô bé so sánh vào năm sau."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They are sold to a company that makes bird food for the wetlands.",
+            "vi": "Được bán cho một công ty làm thức ăn cho chim ở vùng đất ngập nước."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They are sold to a company that makes bird food for the wetlands.",
+          "text_translation": "Được bán cho một công ty làm thức ăn cho chim ở vùng đất ngập nước."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They are used by the city to decide where a new highway will cross the bay.",
+            "vi": "Được thành phố dùng để quyết định nơi xa lộ mới băng qua vịnh."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They are used by the city to decide where a new highway will cross the bay.",
+          "text_translation": "Được thành phố dùng để quyết định nơi xa lộ mới băng qua vịnh."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"Our counts are sent to scientists, who use them to see how bird numbers are changing.\""
+      },
+      "audio_data": null,
+      "question_jp": "What happens to the group's bird counts?",
+      "question_vn": "Số liệu đếm chim của nhóm được dùng vào việc gì?",
+      "explanation": "\"Our counts are sent to scientists, who use them to see how bird numbers are changing.\""
+    },
+    {
+      "id": "q_u1718_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "What does the end of the journal suggest about Tina?",
+        "vi": "Phần cuối nhật ký cho thấy điều gì về Tina?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She has lost interest in animals after seeing how many birds have died.",
+            "vi": "Cô bé hết quan tâm tới động vật sau khi thấy có bao nhiêu chim đã chết."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She has lost interest in animals after seeing how many birds have died.",
+          "text_translation": "Cô bé hết quan tâm tới động vật sau khi thấy có bao nhiêu chim đã chết."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is going to move to Alaska to follow the sandpipers on their journey.",
+            "vi": "Cô bé sắp chuyển tới Alaska để theo chân những con chim choắt trên hành trình của chúng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She is going to move to Alaska to follow the sandpipers on their journey.",
+          "text_translation": "Cô bé sắp chuyển tới Alaska để theo chân những con chim choắt trên hành trình của chúng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The experience has made her think about working in science to protect birds.",
+            "vi": "Trải nghiệm này khiến cô bé nghĩ tới việc làm khoa học để bảo vệ loài chim."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "The experience has made her think about working in science to protect birds.",
+          "text_translation": "Trải nghiệm này khiến cô bé nghĩ tới việc làm khoa học để bảo vệ loài chim."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She thinks counting birds is boring, but she will continue to please Mrs. Delgado.",
+            "vi": "Cô bé nghĩ đếm chim thật chán, nhưng vẫn sẽ tiếp tục để làm hài lòng cô Delgado."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She thinks counting birds is boring, but she will continue to please Mrs. Delgado.",
+          "text_translation": "Cô bé nghĩ đếm chim thật chán, nhưng vẫn sẽ tiếp tục để làm hài lòng cô Delgado."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"I used to want to be a vet. Now I think that I might want to be the person who counts.\" Con số ba tỉ con chim đã làm cô bé suy nghĩ."
+      },
+      "audio_data": null,
+      "question_jp": "What does the end of the journal suggest about Tina?",
+      "question_vn": "Phần cuối nhật ký cho thấy điều gì về Tina?",
+      "explanation": "Câu suy luận. \"I used to want to be a vet. Now I think that I might want to be the person who counts.\" Con số ba tỉ con chim đã làm cô bé suy nghĩ."
+    },
+    {
+      "id": "q_u1718_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "What is the main idea of the article?",
+        "vi": "Ý chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Smart speakers are dangerous, so families should stop using them as soon as possible.",
+            "vi": "Loa thông minh nguy hiểm, nên các gia đình cần ngừng dùng càng sớm càng tốt."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Smart speakers are dangerous, so families should stop using them as soon as possible.",
+          "text_translation": "Loa thông minh nguy hiểm, nên các gia đình cần ngừng dùng càng sớm càng tốt."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Smart speakers are useful, but families should think about privacy and children.",
+            "vi": "Loa thông minh hữu ích, nhưng các gia đình nên cân nhắc về quyền riêng tư và trẻ em."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Smart speakers are useful, but families should think about privacy and children.",
+          "text_translation": "Loa thông minh hữu ích, nhưng các gia đình nên cân nhắc về quyền riêng tư và trẻ em."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Smart speakers are mainly for cooking, because they read recipes and set timers.",
+            "vi": "Loa thông minh chủ yếu để nấu ăn, vì chúng đọc công thức và đặt hẹn giờ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Smart speakers are mainly for cooking, because they read recipes and set timers.",
+          "text_translation": "Loa thông minh chủ yếu để nấu ăn, vì chúng đọc công thức và đặt hẹn giờ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Children should stop doing homework because speakers can now answer every question.",
+            "vi": "Trẻ em nên thôi làm bài tập vì loa giờ đã trả lời được mọi câu hỏi."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Children should stop doing homework because speakers can now answer every question.",
+          "text_translation": "Trẻ em nên thôi làm bài tập vì loa giờ đã trả lời được mọi câu hỏi."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"But these devices raise questions that many families have not thought about.\" Cuối bài: \"None of this means that families should throw their speakers away.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the main idea of the article?",
+      "question_vn": "Ý chính của bài báo là gì?",
+      "explanation": "\"But these devices raise questions that many families have not thought about.\" Cuối bài: \"None of this means that families should throw their speakers away.\""
+    },
+    {
+      "id": "q_u1718_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "What does \"It is estimated that about a third of households … own at least one smart speaker\" tell us?",
+        "vi": "Câu \"Người ta ước tính khoảng một phần ba số hộ … có ít nhất một chiếc loa thông minh\" cho biết gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Exactly thirty-three households in the country own a smart speaker.",
+            "vi": "Đúng ba mươi ba hộ trong cả nước có loa thông minh."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Exactly thirty-three households in the country own a smart speaker.",
+          "text_translation": "Đúng ba mươi ba hộ trong cả nước có loa thông minh."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Nearly every household in the United States owns a smart speaker.",
+            "vi": "Gần như hộ nào ở Hoa Kỳ cũng có loa thông minh."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Nearly every household in the United States owns a smart speaker.",
+          "text_translation": "Gần như hộ nào ở Hoa Kỳ cũng có loa thông minh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Most households own three speakers, one for each family member.",
+            "vi": "Phần lớn hộ có ba chiếc loa, mỗi thành viên một chiếc."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Most households own three speakers, one for each family member.",
+          "text_translation": "Phần lớn hộ có ba chiếc loa, mỗi thành viên một chiếc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Roughly one in three households has one, according to estimates.",
+            "vi": "Theo ước tính, khoảng một trong ba hộ có loa."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Roughly one in three households has one, according to estimates.",
+          "text_translation": "Theo ước tính, khoảng một trong ba hộ có loa."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"It is estimated that about a third of households in the United States own at least one smart speaker.\" It is estimated that = theo ước tính, bị động tường thuật."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"It is estimated that about a third of households … own at least one smart speaker\" tell us?",
+      "question_vn": "Câu \"Người ta ước tính khoảng một phần ba số hộ … có ít nhất một chiếc loa thông minh\" cho biết gì?",
+      "explanation": "\"It is estimated that about a third of households in the United States own at least one smart speaker.\" It is estimated that = theo ước tính, bị động tường thuật."
+    },
+    {
+      "id": "q_u1718_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "Why might a parent with flour on her hands find a smart speaker useful?",
+        "vi": "Vì sao một bà mẹ tay dính bột thấy loa thông minh tiện?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She can set a timer just by speaking.",
+            "vi": "Vì bà có thể đặt hẹn giờ chỉ bằng giọng nói."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She can set a timer just by speaking.",
+          "text_translation": "Vì bà có thể đặt hẹn giờ chỉ bằng giọng nói."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It can wash the dishes and clean up the kitchen.",
+            "vi": "Vì nó rửa bát và dọn bếp được."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It can wash the dishes and clean up the kitchen.",
+          "text_translation": "Vì nó rửa bát và dọn bếp được."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It can bake the bread while she is out.",
+            "vi": "Vì nó nướng bánh mì được khi bà đi vắng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It can bake the bread while she is out.",
+          "text_translation": "Vì nó nướng bánh mì được khi bà đi vắng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It can call her husband when the cooking is done.",
+            "vi": "Vì nó gọi chồng bà khi nấu xong."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It can call her husband when the cooking is done.",
+          "text_translation": "Vì nó gọi chồng bà khi nấu xong."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"a parent with flour on her hands finds it useful to set a timer just by speaking.\" Find it + adj + to V = thấy việc gì đó thế nào."
+      },
+      "audio_data": null,
+      "question_jp": "Why might a parent with flour on her hands find a smart speaker useful?",
+      "question_vn": "Vì sao một bà mẹ tay dính bột thấy loa thông minh tiện?",
+      "explanation": "\"a parent with flour on her hands finds it useful to set a timer just by speaking.\" Find it + adj + to V = thấy việc gì đó thế nào."
+    },
+    {
+      "id": "q_u1718_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "Why must smart speakers listen all the time?",
+        "vi": "Vì sao loa thông minh phải nghe liên tục?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to record every private talk",
+            "vi": "để ghi âm mọi cuộc nói chuyện riêng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to record every private talk",
+          "text_translation": "để ghi âm mọi cuộc nói chuyện riêng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to play music all day long",
+            "vi": "để phát nhạc cả ngày"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to play music all day long",
+          "text_translation": "để phát nhạc cả ngày"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to hear their wake word",
+            "vi": "để nghe được từ đánh thức"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to hear their wake word",
+          "text_translation": "để nghe được từ đánh thức"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to look up the weather",
+            "vi": "để tra cứu thời tiết"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to look up the weather",
+          "text_translation": "để tra cứu thời tiết"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"To hear their wake word, smart speakers must listen all the time.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why must smart speakers listen all the time?",
+      "question_vn": "Vì sao loa thông minh phải nghe liên tục?",
+      "explanation": "\"To hear their wake word, smart speakers must listen all the time.\""
+    },
+    {
+      "id": "q_u1718_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "What are some users unaware of?",
+        "vi": "Một số người dùng không biết điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how to set a timer or turn off the lights by speaking to the device",
+            "vi": "cách đặt hẹn giờ hoặc tắt đèn bằng cách nói với thiết bị"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how to set a timer or turn off the lights by speaking to the device",
+          "text_translation": "cách đặt hẹn giờ hoặc tắt đèn bằng cách nói với thiết bị"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that recordings may be stored and sometimes reviewed by company staff",
+            "vi": "rằng bản ghi có thể được lưu và đôi khi được nhân viên công ty nghe lại"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "that recordings may be stored and sometimes reviewed by company staff",
+          "text_translation": "rằng bản ghi có thể được lưu và đôi khi được nhân viên công ty nghe lại"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that the speaker plays music only when the wake word is shouted",
+            "vi": "rằng loa chỉ phát nhạc khi từ đánh thức được hét lên"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "that the speaker plays music only when the wake word is shouted",
+          "text_translation": "rằng loa chỉ phát nhạc khi từ đánh thức được hét lên"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that the speaker needs electricity or a strong internet connection to work",
+            "vi": "rằng loa cần điện hoặc kết nối mạng mạnh để hoạt động"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "that the speaker needs electricity or a strong internet connection to work",
+          "text_translation": "rằng loa cần điện hoặc kết nối mạng mạnh để hoạt động"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"some users are unaware that recordings may be stored and, in some cases, reviewed by people working for the company.\""
+      },
+      "audio_data": null,
+      "question_jp": "What are some users unaware of?",
+      "question_vn": "Một số người dùng không biết điều gì?",
+      "explanation": "\"some users are unaware that recordings may be stored and, in some cases, reviewed by people working for the company.\""
+    },
+    {
+      "id": "q_u1718_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "What does \"Most speakers allow users to delete their recordings, but few people ever check the settings\" suggest?",
+        "vi": "Câu \"Phần lớn loa cho phép xoá bản ghi, nhưng ít ai từng kiểm tra cài đặt\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The settings are hidden so well that users cannot find them even if they try.",
+            "vi": "Phần cài đặt được giấu kỹ đến mức người dùng cố cũng không tìm ra."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The settings are hidden so well that users cannot find them even if they try.",
+          "text_translation": "Phần cài đặt được giấu kỹ đến mức người dùng cố cũng không tìm ra."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Recordings are deleted automatically every night, so nobody needs to check.",
+            "vi": "Bản ghi tự động bị xoá mỗi đêm nên không ai cần kiểm tra."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Recordings are deleted automatically every night, so nobody needs to check.",
+          "text_translation": "Bản ghi tự động bị xoá mỗi đêm nên không ai cần kiểm tra."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The companies refuse to let users delete their recordings in any case.",
+            "vi": "Các công ty từ chối cho người dùng xoá bản ghi trong mọi trường hợp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The companies refuse to let users delete their recordings in any case.",
+          "text_translation": "Các công ty từ chối cho người dùng xoá bản ghi trong mọi trường hợp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Users could protect their privacy more, but most don't take the trouble.",
+            "vi": "Người dùng có thể tự bảo vệ quyền riêng tư tốt hơn, nhưng phần lớn không chịu bỏ công."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Users could protect their privacy more, but most don't take the trouble.",
+          "text_translation": "Người dùng có thể tự bảo vệ quyền riêng tư tốt hơn, nhưng phần lớn không chịu bỏ công."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Công cụ có sẵn nhưng \"few people ever check the settings\", tức là vấn đề nằm một phần ở thói quen người dùng."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Most speakers allow users to delete their recordings, but few people ever check the settings\" suggest?",
+      "question_vn": "Câu \"Phần lớn loa cho phép xoá bản ghi, nhưng ít ai từng kiểm tra cài đặt\" hàm ý gì?",
+      "explanation": "Câu suy luận. Công cụ có sẵn nhưng \"few people ever check the settings\", tức là vấn đề nằm một phần ở thói quen người dùng."
+    },
+    {
+      "id": "q_u1718_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "Why do some parents find it worrying how their children talk to smart speakers?",
+        "vi": "Vì sao một số phụ huynh thấy lo về cách con mình nói chuyện với loa thông minh?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The children shout orders at the device without saying \"please\".",
+            "vi": "Vì trẻ quát ra lệnh cho thiết bị mà chẳng nói \"làm ơn\"."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The children shout orders at the device without saying \"please\".",
+          "text_translation": "Vì trẻ quát ra lệnh cho thiết bị mà chẳng nói \"làm ơn\"."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The children refuse to use the device and shout at their parents instead.",
+            "vi": "Vì trẻ từ chối dùng thiết bị mà quát bố mẹ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The children refuse to use the device and shout at their parents instead.",
+          "text_translation": "Vì trẻ từ chối dùng thiết bị mà quát bố mẹ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The device teaches the children bad words when they ask it questions.",
+            "vi": "Vì thiết bị dạy trẻ những từ xấu khi chúng hỏi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The device teaches the children bad words when they ask it questions.",
+          "text_translation": "Vì thiết bị dạy trẻ những từ xấu khi chúng hỏi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The children are afraid of the device and will not sleep near it.",
+            "vi": "Vì trẻ sợ thiết bị và không chịu ngủ gần nó."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The children are afraid of the device and will not sleep near it.",
+          "text_translation": "Vì trẻ sợ thiết bị và không chịu ngủ gần nó."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"some parents find it worrying that their children shout orders at the device without ever saying \"please\".\" Find it + adj + that-clause."
+      },
+      "audio_data": null,
+      "question_jp": "Why do some parents find it worrying how their children talk to smart speakers?",
+      "question_vn": "Vì sao một số phụ huynh thấy lo về cách con mình nói chuyện với loa thông minh?",
+      "explanation": "\"some parents find it worrying that their children shout orders at the device without ever saying \"please\".\" Find it + adj + that-clause."
+    },
+    {
+      "id": "q_u1718_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "What is the homework worry about?",
+        "vi": "Nỗi lo về bài tập là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Speakers often give wrong answers, so children make mistakes in class.",
+            "vi": "Loa hay trả lời sai nên trẻ mắc lỗi ở lớp."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Speakers often give wrong answers, so children make mistakes in class.",
+          "text_translation": "Loa hay trả lời sai nên trẻ mắc lỗi ở lớp."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Children may not learn how to find things out for themselves.",
+            "vi": "Trẻ có thể không học được cách tự tìm hiểu."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Children may not learn how to find things out for themselves.",
+          "text_translation": "Trẻ có thể không học được cách tự tìm hiểu."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Speakers are too slow to answer, so children stop doing their homework.",
+            "vi": "Loa trả lời quá chậm nên trẻ bỏ không làm bài tập."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Speakers are too slow to answer, so children stop doing their homework.",
+          "text_translation": "Loa trả lời quá chậm nên trẻ bỏ không làm bài tập."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Teachers will ban speakers and punish children who use them at home.",
+            "vi": "Giáo viên sẽ cấm loa và phạt trẻ dùng chúng ở nhà."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Teachers will ban speakers and punish children who use them at home.",
+          "text_translation": "Giáo viên sẽ cấm loa và phạt trẻ dùng chúng ở nhà."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"if a speaker can answer any question instantly, will children still learn how to find things out for themselves?\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the homework worry about?",
+      "question_vn": "Nỗi lo về bài tập là gì?",
+      "explanation": "\"if a speaker can answer any question instantly, will children still learn how to find things out for themselves?\""
+    },
+    {
+      "id": "q_u1718_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "What does the writer mean by \"It should not become the quietest member of the family, always listening and never asked\"?",
+        "vi": "Người viết muốn nói gì qua câu \"Nó không nên trở thành thành viên lặng lẽ nhất trong nhà, lúc nào cũng nghe mà chẳng bao giờ được hỏi ý\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Families should talk to the speaker more often so that it feels like part of the family.",
+            "vi": "Cả nhà nên nói chuyện với loa thường xuyên hơn để nó giống như một phần của gia đình."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Families should talk to the speaker more often so that it feels like part of the family.",
+          "text_translation": "Cả nhà nên nói chuyện với loa thường xuyên hơn để nó giống như một phần của gia đình."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The speaker should be louder, so that the whole family can hear it clearly.",
+            "vi": "Loa nên to hơn để cả nhà nghe rõ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The speaker should be louder, so that the whole family can hear it clearly.",
+          "text_translation": "Loa nên to hơn để cả nhà nghe rõ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Families should not let it listen without thinking about it and controlling it.",
+            "vi": "Gia đình không nên để nó nghe mà không suy nghĩ và kiểm soát nó."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Families should not let it listen without thinking about it and controlling it.",
+          "text_translation": "Gia đình không nên để nó nghe mà không suy nghĩ và kiểm soát nó."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Speakers are already part of the family, so nobody needs to worry about them.",
+            "vi": "Loa đã là một phần của gia đình nên không ai cần lo về chúng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Speakers are already part of the family, so nobody needs to worry about them.",
+          "text_translation": "Loa đã là một phần của gia đình nên không ai cần lo về chúng."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về hình ảnh ẩn dụ. Chiếc loa \"always listening\", nhưng gia đình \"never asked\", tức chưa từng tự hỏi nó nghe gì và lưu gì. Người viết khuyên kiểm soát nó."
+      },
+      "audio_data": null,
+      "question_jp": "What does the writer mean by \"It should not become the quietest member of the family, always listening and never asked\"?",
+      "question_vn": "Người viết muốn nói gì qua câu \"Nó không nên trở thành thành viên lặng lẽ nhất trong nhà, lúc nào cũng nghe mà chẳng bao giờ được hỏi ý\"?",
+      "explanation": "Câu suy luận về hình ảnh ẩn dụ. Chiếc loa \"always listening\", nhưng gia đình \"never asked\", tức chưa từng tự hỏi nó nghe gì và lưu gì. Người viết khuyên kiểm soát nó."
+    },
+    {
+      "id": "q_u1718_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "Use both texts. What do Tina's bird counts and the article's advice about smart speakers have in common?",
+        "vi": "Dựa vào cả hai bài. Việc đếm chim của Tina và lời khuyên về loa thông minh có điểm gì chung?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both of them are about birds that fly between the north and the south.",
+            "vi": "Cả hai đều nói về loài chim bay giữa phương bắc và phương nam."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both of them are about birds that fly between the north and the south.",
+          "text_translation": "Cả hai đều nói về loài chim bay giữa phương bắc và phương nam."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Both of them are about recording music and sounds for a school project.",
+            "vi": "Cả hai đều nói về việc ghi âm nhạc và âm thanh cho một dự án ở trường."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Both of them are about recording music and sounds for a school project.",
+          "text_translation": "Cả hai đều nói về việc ghi âm nhạc và âm thanh cho một dự án ở trường."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both of them show that new technology is dangerous and should be avoided.",
+            "vi": "Cả hai cho thấy công nghệ mới nguy hiểm và nên tránh."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Both of them show that new technology is dangerous and should be avoided.",
+          "text_translation": "Cả hai cho thấy công nghệ mới nguy hiểm và nên tránh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Both show that careful attention is the first step to protecting something.",
+            "vi": "Cả hai cho thấy chú ý cẩn thận là bước đầu để bảo vệ một điều gì đó."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Both show that careful attention is the first step to protecting something.",
+          "text_translation": "Cả hai cho thấy chú ý cẩn thận là bước đầu để bảo vệ một điều gì đó."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bài 2 khuyên \"check the privacy settings\", tức là để ý để bảo vệ quyền riêng tư. Bài 1: số liệu đếm chim giúp các nhà khoa học \"see how bird numbers are changing\" để bảo vệ chim."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do Tina's bird counts and the article's advice about smart speakers have in common?",
+      "question_vn": "Dựa vào cả hai bài. Việc đếm chim của Tina và lời khuyên về loa thông minh có điểm gì chung?",
+      "explanation": "Câu nối hai bài. Bài 2 khuyên \"check the privacy settings\", tức là để ý để bảo vệ quyền riêng tư. Bài 1: số liệu đếm chim giúp các nhà khoa học \"see how bird numbers are changing\" để bảo vệ chim."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u1718_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 17) — Nhật ký quan sát chim di cư của Tina",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u1718_01",
+      "question_ids": [
+        "q_u1718_001",
+        "q_u1718_002",
+        "q_u1718_003",
+        "q_u1718_004",
+        "q_u1718_005",
+        "q_u1718_006",
+        "q_u1718_007",
+        "q_u1718_008",
+        "q_u1718_009",
+        "q_u1718_010"
+      ]
+    },
+    {
+      "set_id": "set_u1718_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 18) — Khi chiếc loa thông minh về sống cùng gia đình",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u1718_02",
+      "question_ids": [
+        "q_u1718_011",
+        "q_u1718_012",
+        "q_u1718_013",
+        "q_u1718_014",
+        "q_u1718_015",
+        "q_u1718_016",
+        "q_u1718_017",
+        "q_u1718_018",
+        "q_u1718_019",
+        "q_u1718_020"
+      ]
+    }
+  ]
+}

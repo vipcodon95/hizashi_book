@@ -1,0 +1,1977 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 19–20 — Internet culture & Media",
+      "vi": "Văn hoá mạng & Truyền thông"
+    },
+    "title": "Units 19–20 — Internet culture & Media",
+    "title_vn": "Văn hoá mạng & Truyền thông",
+    "module_code": "59_u1920",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.u19+u20",
+    "curriculum_sheets": [
+      "b2.073",
+      "b2.074",
+      "b2.075",
+      "b2.076",
+      "b2.077",
+      "b2.078",
+      "b2.079",
+      "b2.080"
+    ],
+    "characters": [
+      "Trevor Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 11, năm 6"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Being + V3, câu chẻ, rào đón, chức năng chi tiết",
+    "description_vn": "Đoạn clip Trevor giúp cầu thủ đội bạn bị thương lan khắp mạng, và bài báo về thuật toán đề xuất. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 19 + Unit 20 khoá B2 · phiếu `b2.073` – `b2.080` (bị theo dõi trên mạng, người có ảnh hưởng, cộng đồng mạng, bắt nạt trên mạng; câu chẻ, nghề báo, thiên kiến, tự do báo chí)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một câu chuyện về một clip lan truyền và một bài báo về thuật toán đề xuất; hiểu `being + V3` (being recognized, being talked about), câu chẻ (It was not you who…), câu chẻ với what (What most people don't realize is…), từ rào đón (tend to, arguably, to some extent), nhận ra chức năng của một chi tiết và giọng châm biếm nhẹ."
+    },
+    "extra_words": [
+      {
+        "word": "arguably",
+        "i18n": {
+          "vi": "có thể nói là"
+        }
+      },
+      {
+        "word": "largest",
+        "i18n": {
+          "vi": "lớn nhất (so sánh nhất của large)"
+        }
+      },
+      {
+        "word": "viral",
+        "i18n": {
+          "vi": "lan truyền chóng mặt"
+        }
+      },
+      {
+        "word": "ankle",
+        "i18n": {
+          "vi": "mắt cá chân"
+        }
+      },
+      {
+        "word": "kneel",
+        "i18n": {
+          "vi": "quỳ (knelt: quá khứ)"
+        }
+      },
+      {
+        "word": "idolize",
+        "i18n": {
+          "vi": "thần tượng"
+        }
+      },
+      {
+        "word": "skateboard",
+        "i18n": {
+          "vi": "trượt ván"
+        }
+      },
+      {
+        "word": "relieved",
+        "i18n": {
+          "vi": "nhẹ nhõm"
+        }
+      },
+      {
+        "word": "algorithm",
+        "i18n": {
+          "vi": "thuật toán"
+        }
+      },
+      {
+        "word": "platform",
+        "i18n": {
+          "vi": "nền tảng"
+        }
+      },
+      {
+        "word": "streaming service",
+        "i18n": {
+          "vi": "dịch vụ phát trực tuyến"
+        }
+      },
+      {
+        "word": "filter bubble",
+        "i18n": {
+          "vi": "bong bóng lọc"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "kick the ball out of play",
+          "vi": "đá bóng ra ngoài"
+        }
+      },
+      {
+        "i18n": {
+          "en": "on one condition",
+          "vi": "với một điều kiện"
+        }
+      },
+      {
+        "i18n": {
+          "en": "talk something over",
+          "vi": "bàn bạc"
+        }
+      },
+      {
+        "i18n": {
+          "en": "move on to",
+          "vi": "chuyển sang"
+        }
+      },
+      {
+        "i18n": {
+          "en": "tend to",
+          "vi": "có xu hướng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "to some extent",
+          "vi": "ở mức độ nào đó"
+        }
+      },
+      {
+        "i18n": {
+          "en": "stay in control",
+          "vi": "giữ quyền kiểm soát"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`being + V3` = bị / được (người khác) làm gì. Câu hỏi nghĩa hay đảo vai: ai làm, ai chịu."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu chẻ `It was X who/that…` và `What … is…` nhấn mạnh một phần của câu. Đáp án là phần được nhấn mạnh."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Từ rào đón (`tend to`, `arguably`, `to some extent`) cho thấy người viết thận trọng. Câu hỏi \"why does the writer use…\" có đáp án kiểu \"avoid claiming too much\"."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi chức năng chi tiết (\"Why is it important that…?\"): hỏi xem chi tiết đó làm hành động của nhân vật có ý nghĩa thế nào."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u1920_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 19) — Khi đoạn clip của Trevor nổi khắp mạng"
+      },
+      "narrator": "announcer",
+      "title": "Two Million Views and a Bad Ankle",
+      "category": "story",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Two Million Views and a Bad Ankle",
+            "vi": "Hai triệu lượt xem và một cái mắt cá chân đau"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It happened in the second half of a game that Westview High was losing 1–0.",
+            "vi": "Chuyện xảy ra ở hiệp hai của một trận Westview High đang thua 0–1."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A player on the other team twisted his ankle and fell near the corner of the field, and Trevor, who was running past with the ball, stopped, kicked it out of play and knelt down beside him.",
+            "vi": "Một cầu thủ đội bạn trẹo mắt cá chân và ngã gần góc sân, và Trevor, lúc ấy đang dẫn bóng chạy ngang qua, dừng lại, đá bóng ra ngoài rồi quỳ xuống cạnh cậu ấy."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He stayed there, talking to the boy and keeping his leg still, until the coaches arrived.",
+            "vi": "Cậu ở lại đó, nói chuyện với cậu bé kia và giữ chân bạn yên, cho tới khi các huấn luyện viên chạy tới."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Jake filmed the whole thing on his phone from the bench and posted twenty seconds of it that evening with the caption \"This is my best friend.\"",
+            "vi": "Jake quay toàn bộ bằng điện thoại từ ghế dự bị và tối đó đăng hai mươi giây kèm dòng chú thích \"Đây là bạn thân nhất của tôi.\""
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "By the next morning, the clip had been shared thousands of times. By the weekend, it had two million views.",
+            "vi": "Tới sáng hôm sau, đoạn clip đã được chia sẻ hàng nghìn lần. Tới cuối tuần, nó có hai triệu lượt xem."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At first, Trevor enjoyed it. Strangers called him a hero, and a famous player he had idolized since he was eight left a comment with a heart.",
+            "vi": "Lúc đầu Trevor thấy thích. Người lạ gọi cậu là người hùng, và một cầu thủ nổi tiếng mà cậu thần tượng từ năm tám tuổi còn để lại bình luận kèm một trái tim."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But being recognized in the supermarket felt strange, and being talked about by people he had never met felt even stranger.",
+            "vi": "Nhưng bị nhận ra trong siêu thị thì thấy kỳ kỳ, còn bị những người chưa từng gặp đem ra bàn tán thì còn kỳ hơn."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then the unkind comments began. Some people claimed that the whole thing had been planned for the camera. Others mocked the other team, and a few anonymous accounts were harsh about the injured boy.",
+            "vi": "Rồi những bình luận ác ý bắt đầu. Có người khẳng định cả chuyện là dàn dựng để quay. Người khác chế giễu đội bạn, và vài tài khoản giấu tên còn nói nặng lời về cậu bé bị thương."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"I hated that,\" Trevor said later. \"He was the one who got hurt, and people were making fun of him because of me.\"",
+            "vi": "\"Con ghét điều đó,\" sau này Trevor nói. \"Bạn ấy mới là người bị thương, vậy mà người ta chế giễu bạn ấy vì con.\""
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A local TV station asked him for an interview. After talking it over with his parents, he agreed, but only on one condition: the boy, whose name was Diego, had to be invited too.",
+            "vi": "Một đài truyền hình địa phương mời cậu phỏng vấn. Sau khi bàn với bố mẹ, cậu đồng ý, nhưng với một điều kiện: cậu bé kia, tên Diego, cũng phải được mời."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In the interview, Trevor said that any player would have done the same, and Diego said that Trevor had told him a terrible joke to stop him from crying.",
+            "vi": "Trong buổi phỏng vấn, Trevor nói cầu thủ nào cũng sẽ làm như vậy, còn Diego kể Trevor đã kể cho cậu một câu chuyện cười dở tệ để cậu khỏi khóc."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Within a week, the clip had stopped being shared, and the internet had moved on to a dog that could skateboard.",
+            "vi": "Chỉ trong một tuần, đoạn clip không còn được chia sẻ nữa, và mạng xã hội đã chuyển sang một chú chó biết trượt ván."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Trevor was relieved. \"It was nice for a few days,\" he admitted. \"But I'd rather be known by the people who actually know me.\"",
+            "vi": "Trevor nhẹ cả người. \"Vài hôm đầu thì cũng vui,\" cậu thừa nhận. \"Nhưng con thà được biết tới bởi những người thật sự biết con.\""
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He and Diego still message each other. They have agreed to meet when their teams play again in the spring.",
+            "vi": "Cậu và Diego vẫn nhắn tin cho nhau. Hai đứa hẹn gặp khi hai đội đá lại với nhau vào mùa xuân."
+          }
+        }
+      ],
+      "content_ja": "Two Million Views and a Bad Ankle\n\nIt happened in the second half of a game that Westview High was losing 1–0. A player on the other team twisted his ankle and fell near the corner of the field, and Trevor, who was running past with the ball, stopped, kicked it out of play and knelt down beside him. He stayed there, talking to the boy and keeping his leg still, until the coaches arrived.\n\nJake filmed the whole thing on his phone from the bench and posted twenty seconds of it that evening with the caption \"This is my best friend.\" By the next morning, the clip had been shared thousands of times. By the weekend, it had two million views.\n\nAt first, Trevor enjoyed it. Strangers called him a hero, and a famous player he had idolized since he was eight left a comment with a heart. But being recognized in the supermarket felt strange, and being talked about by people he had never met felt even stranger. Then the unkind comments began. Some people claimed that the whole thing had been planned for the camera. Others mocked the other team, and a few anonymous accounts were harsh about the injured boy.\n\n\"I hated that,\" Trevor said later. \"He was the one who got hurt, and people were making fun of him because of me.\" A local TV station asked him for an interview. After talking it over with his parents, he agreed, but only on one condition: the boy, whose name was Diego, had to be invited too. In the interview, Trevor said that any player would have done the same, and Diego said that Trevor had told him a terrible joke to stop him from crying.\n\nWithin a week, the clip had stopped being shared, and the internet had moved on to a dog that could skateboard. Trevor was relieved. \"It was nice for a few days,\" he admitted. \"But I'd rather be known by the people who actually know me.\" He and Diego still message each other. They have agreed to meet when their teams play again in the spring.",
+      "translation_vn": "(1) Hai triệu lượt xem và một cái mắt cá chân đau\n(2) Chuyện xảy ra ở hiệp hai của một trận Westview High đang thua 0–1.\n(3) Một cầu thủ đội bạn trẹo mắt cá chân và ngã gần góc sân, và Trevor, lúc ấy đang dẫn bóng chạy ngang qua, dừng lại, đá bóng ra ngoài rồi quỳ xuống cạnh cậu ấy.\n(4) Cậu ở lại đó, nói chuyện với cậu bé kia và giữ chân bạn yên, cho tới khi các huấn luyện viên chạy tới.\n(5) Jake quay toàn bộ bằng điện thoại từ ghế dự bị và tối đó đăng hai mươi giây kèm dòng chú thích \"Đây là bạn thân nhất của tôi.\"\n(6) Tới sáng hôm sau, đoạn clip đã được chia sẻ hàng nghìn lần. Tới cuối tuần, nó có hai triệu lượt xem.\n(7) Lúc đầu Trevor thấy thích. Người lạ gọi cậu là người hùng, và một cầu thủ nổi tiếng mà cậu thần tượng từ năm tám tuổi còn để lại bình luận kèm một trái tim.\n(8) Nhưng bị nhận ra trong siêu thị thì thấy kỳ kỳ, còn bị những người chưa từng gặp đem ra bàn tán thì còn kỳ hơn.\n(9) Rồi những bình luận ác ý bắt đầu. Có người khẳng định cả chuyện là dàn dựng để quay. Người khác chế giễu đội bạn, và vài tài khoản giấu tên còn nói nặng lời về cậu bé bị thương.\n(10) \"Con ghét điều đó,\" sau này Trevor nói. \"Bạn ấy mới là người bị thương, vậy mà người ta chế giễu bạn ấy vì con.\"\n(11) Một đài truyền hình địa phương mời cậu phỏng vấn. Sau khi bàn với bố mẹ, cậu đồng ý, nhưng với một điều kiện: cậu bé kia, tên Diego, cũng phải được mời.\n(12) Trong buổi phỏng vấn, Trevor nói cầu thủ nào cũng sẽ làm như vậy, còn Diego kể Trevor đã kể cho cậu một câu chuyện cười dở tệ để cậu khỏi khóc.\n(13) Chỉ trong một tuần, đoạn clip không còn được chia sẻ nữa, và mạng xã hội đã chuyển sang một chú chó biết trượt ván.\n(14) Trevor nhẹ cả người. \"Vài hôm đầu thì cũng vui,\" cậu thừa nhận. \"Nhưng con thà được biết tới bởi những người thật sự biết con.\"\n(15) Cậu và Diego vẫn nhắn tin cho nhau. Hai đứa hẹn gặp khi hai đội đá lại với nhau vào mùa xuân.",
+      "word_count": 354,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.073",
+        "b2.074",
+        "b2.075",
+        "b2.076"
+      ]
+    },
+    {
+      "id": "passage_u1920_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 20) — Ai thật sự chọn thứ bạn xem?"
+      },
+      "narrator": "announcer",
+      "title": "Who Really Chooses What You Watch?",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Who Really Chooses What You Watch?",
+            "vi": "Ai thật sự chọn thứ bạn xem?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You open an app to watch one short video, and forty minutes later, you are still there.",
+            "vi": "Bạn mở một ứng dụng để xem một video ngắn, và bốn mươi phút sau bạn vẫn ở đó."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was not you who chose most of those videos. It was a recommendation algorithm, a computer program that decides what to show you next.",
+            "vi": "Không phải bạn đã chọn phần lớn những video ấy. Mà là thuật toán đề xuất, một chương trình máy tính quyết định cho bạn xem gì tiếp theo."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "These systems are now behind much of what we watch, read and listen to.",
+            "vi": "Những hệ thống này giờ đứng sau phần lớn những gì ta xem, đọc và nghe."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some years ago, one of the largest video platforms said that more than 70 percent of the time that people spent watching videos on its site came from recommendations, and a major streaming service reported a similar figure for the shows that its members watched.",
+            "vi": "Vài năm trước, một trong những nền tảng video lớn nhất cho biết hơn 70 phần trăm thời gian người ta xem video trên trang của họ đến từ các đề xuất, và một dịch vụ phát trực tuyến lớn cũng báo cáo con số tương tự với các chương trình mà thành viên của họ xem."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What most people don't realize is how the algorithm learns.",
+            "vi": "Điều phần lớn mọi người không nhận ra là thuật toán học như thế nào."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It notices everything: which videos you finish, which ones you skip, where you pause and what you watch late at night.",
+            "vi": "Nó để ý tất cả: video nào bạn xem hết, video nào bạn bỏ qua, bạn dừng ở đâu và đêm khuya bạn xem gì."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Its main goal is usually to keep you watching, because the longer you stay, the more advertisements you see.",
+            "vi": "Mục tiêu chính của nó thường là giữ bạn xem tiếp, vì bạn ở lại càng lâu thì càng xem nhiều quảng cáo."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Content that makes people feel strong emotions, whether delight or anger, tends to keep them watching, so that kind of content is often pushed to the top.",
+            "vi": "Nội dung khiến người ta cảm xúc mạnh, dù là thích thú hay tức giận, thường giữ chân người xem, nên loại nội dung đó hay được đẩy lên đầu."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some critics argue that this traps people in \"filter bubbles\", where they only see opinions that they already agree with.",
+            "vi": "Một số nhà phê bình cho rằng điều này nhốt người ta trong \"bong bóng lọc\", nơi họ chỉ thấy những ý kiến mình vốn đã đồng ý."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The research on this is, to some extent, mixed. Arguably, many people still meet different views online, but the algorithm can make the most extreme ones seem far more common than they really are.",
+            "vi": "Nghiên cứu về chuyện này, ở mức độ nào đó, chưa thống nhất. Có thể nói nhiều người vẫn gặp những quan điểm khác trên mạng, nhưng thuật toán có thể khiến những ý kiến cực đoan nhất trông phổ biến hơn thực tế nhiều."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is also worth remembering that algorithms are not evil. They help you find a song that you love or a cooking video that solves your problem.",
+            "vi": "Cũng nên nhớ rằng thuật toán không xấu xa. Chúng giúp bạn tìm được một bài hát bạn mê hay một video nấu ăn giải quyết đúng vấn đề của bạn."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So how can you stay in control?",
+            "vi": "Vậy làm sao để bạn giữ quyền kiểm soát?"
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Experts suggest searching for what you want instead of only scrolling, following a few sources that you sometimes disagree with, and clearing your watch history now and then to see what changes.",
+            "vi": "Các chuyên gia gợi ý hãy chủ động tìm thứ mình muốn thay vì chỉ lướt, theo dõi vài nguồn mà đôi khi bạn không đồng tình, và thỉnh thoảng xoá lịch sử xem để thấy điều gì thay đổi."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Above all, notice how you feel. If an app leaves you angrier or more tired than when you opened it, it is not you who is winning.",
+            "vi": "Trên hết, hãy để ý cảm giác của mình. Nếu một ứng dụng khiến bạn bực bội hay mệt mỏi hơn lúc mới mở, thì người được lợi không phải là bạn."
+          }
+        }
+      ],
+      "content_ja": "Who Really Chooses What You Watch?\n\nYou open an app to watch one short video, and forty minutes later, you are still there. It was not you who chose most of those videos. It was a recommendation algorithm, a computer program that decides what to show you next.\n\nThese systems are now behind much of what we watch, read and listen to. Some years ago, one of the largest video platforms said that more than 70 percent of the time that people spent watching videos on its site came from recommendations, and a major streaming service reported a similar figure for the shows that its members watched.\n\nWhat most people don't realize is how the algorithm learns. It notices everything: which videos you finish, which ones you skip, where you pause and what you watch late at night. Its main goal is usually to keep you watching, because the longer you stay, the more advertisements you see. Content that makes people feel strong emotions, whether delight or anger, tends to keep them watching, so that kind of content is often pushed to the top.\n\nSome critics argue that this traps people in \"filter bubbles\", where they only see opinions that they already agree with. The research on this is, to some extent, mixed. Arguably, many people still meet different views online, but the algorithm can make the most extreme ones seem far more common than they really are. It is also worth remembering that algorithms are not evil. They help you find a song that you love or a cooking video that solves your problem.\n\nSo how can you stay in control? Experts suggest searching for what you want instead of only scrolling, following a few sources that you sometimes disagree with, and clearing your watch history now and then to see what changes. Above all, notice how you feel. If an app leaves you angrier or more tired than when you opened it, it is not you who is winning.",
+      "translation_vn": "(1) Ai thật sự chọn thứ bạn xem?\n(2) Bạn mở một ứng dụng để xem một video ngắn, và bốn mươi phút sau bạn vẫn ở đó.\n(3) Không phải bạn đã chọn phần lớn những video ấy. Mà là thuật toán đề xuất, một chương trình máy tính quyết định cho bạn xem gì tiếp theo.\n(4) Những hệ thống này giờ đứng sau phần lớn những gì ta xem, đọc và nghe.\n(5) Vài năm trước, một trong những nền tảng video lớn nhất cho biết hơn 70 phần trăm thời gian người ta xem video trên trang của họ đến từ các đề xuất, và một dịch vụ phát trực tuyến lớn cũng báo cáo con số tương tự với các chương trình mà thành viên của họ xem.\n(6) Điều phần lớn mọi người không nhận ra là thuật toán học như thế nào.\n(7) Nó để ý tất cả: video nào bạn xem hết, video nào bạn bỏ qua, bạn dừng ở đâu và đêm khuya bạn xem gì.\n(8) Mục tiêu chính của nó thường là giữ bạn xem tiếp, vì bạn ở lại càng lâu thì càng xem nhiều quảng cáo.\n(9) Nội dung khiến người ta cảm xúc mạnh, dù là thích thú hay tức giận, thường giữ chân người xem, nên loại nội dung đó hay được đẩy lên đầu.\n(10) Một số nhà phê bình cho rằng điều này nhốt người ta trong \"bong bóng lọc\", nơi họ chỉ thấy những ý kiến mình vốn đã đồng ý.\n(11) Nghiên cứu về chuyện này, ở mức độ nào đó, chưa thống nhất. Có thể nói nhiều người vẫn gặp những quan điểm khác trên mạng, nhưng thuật toán có thể khiến những ý kiến cực đoan nhất trông phổ biến hơn thực tế nhiều.\n(12) Cũng nên nhớ rằng thuật toán không xấu xa. Chúng giúp bạn tìm được một bài hát bạn mê hay một video nấu ăn giải quyết đúng vấn đề của bạn.\n(13) Vậy làm sao để bạn giữ quyền kiểm soát?\n(14) Các chuyên gia gợi ý hãy chủ động tìm thứ mình muốn thay vì chỉ lướt, theo dõi vài nguồn mà đôi khi bạn không đồng tình, và thỉnh thoảng xoá lịch sử xem để thấy điều gì thay đổi.\n(15) Trên hết, hãy để ý cảm giác của mình. Nếu một ứng dụng khiến bạn bực bội hay mệt mỏi hơn lúc mới mở, thì người được lợi không phải là bạn.",
+      "word_count": 330,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.077",
+        "b2.078",
+        "b2.079",
+        "b2.080"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u1920_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "What is the story mainly about?",
+        "vi": "Câu chuyện chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how to give first aid to a player with a twisted ankle during a game",
+            "vi": "cách sơ cứu cho một cầu thủ bị trẹo mắt cá trong trận đấu"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how to give first aid to a player with a twisted ankle during a game",
+          "text_translation": "cách sơ cứu cho một cầu thủ bị trẹo mắt cá trong trận đấu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "what happened when a clip of Trevor helping an injured player went viral",
+            "vi": "chuyện gì xảy ra khi đoạn clip Trevor giúp một cầu thủ bị thương lan khắp mạng"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "what happened when a clip of Trevor helping an injured player went viral",
+          "text_translation": "chuyện gì xảy ra khi đoạn clip Trevor giúp một cầu thủ bị thương lan khắp mạng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "why Westview High lost its game after Trevor kicked the ball out of play",
+            "vi": "vì sao Westview High thua trận sau khi Trevor đá bóng ra ngoài"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "why Westview High lost its game after Trevor kicked the ball out of play",
+          "text_translation": "vì sao Westview High thua trận sau khi Trevor đá bóng ra ngoài"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "how Jake became famous for filming the best game of the whole season",
+            "vi": "Jake nổi tiếng thế nào nhờ quay trận đấu hay nhất cả mùa giải"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "how Jake became famous for filming the best game of the whole season",
+          "text_translation": "Jake nổi tiếng thế nào nhờ quay trận đấu hay nhất cả mùa giải"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"the clip had been shared thousands of times. By the weekend, it had two million views.\" Câu chuyện kể chuyện trước, trong và sau khi clip lan truyền."
+      },
+      "audio_data": null,
+      "question_jp": "What is the story mainly about?",
+      "question_vn": "Câu chuyện chủ yếu nói về điều gì?",
+      "explanation": "\"the clip had been shared thousands of times. By the weekend, it had two million views.\" Câu chuyện kể chuyện trước, trong và sau khi clip lan truyền."
+    },
+    {
+      "id": "q_u1920_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "What did Trevor do when the other player fell?",
+        "vi": "Trevor làm gì khi cầu thủ đội bạn ngã?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He kept running with the ball and scored to make it 1–1 for Westview.",
+            "vi": "Cậu cứ chạy với quả bóng và ghi bàn gỡ hoà 1–1 cho Westview."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He kept running with the ball and scored to make it 1–1 for Westview.",
+          "text_translation": "Cậu cứ chạy với quả bóng và ghi bàn gỡ hoà 1–1 cho Westview."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He called the referee over and waited for the game to start again.",
+            "vi": "Cậu gọi trọng tài tới rồi chờ trận đấu bắt đầu lại."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He called the referee over and waited for the game to start again.",
+          "text_translation": "Cậu gọi trọng tài tới rồi chờ trận đấu bắt đầu lại."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He filmed it on his phone from the bench and posted twenty seconds that evening.",
+            "vi": "Cậu quay bằng điện thoại từ băng ghế dự bị và đăng hai mươi giây clip vào buổi tối."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He filmed it on his phone from the bench and posted twenty seconds that evening.",
+          "text_translation": "Cậu quay bằng điện thoại từ băng ghế dự bị và đăng hai mươi giây clip vào buổi tối."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He kicked the ball out of play and stayed with him until the coaches arrived.",
+            "vi": "Cậu đá bóng ra ngoài và ở cạnh bạn cho tới khi huấn luyện viên tới."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "He kicked the ball out of play and stayed with him until the coaches arrived.",
+          "text_translation": "Cậu đá bóng ra ngoài và ở cạnh bạn cho tới khi huấn luyện viên tới."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"stopped, kicked it out of play and knelt down beside him.\" và \"He stayed there … until the coaches arrived.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did Trevor do when the other player fell?",
+      "question_vn": "Trevor làm gì khi cầu thủ đội bạn ngã?",
+      "explanation": "\"stopped, kicked it out of play and knelt down beside him.\" và \"He stayed there … until the coaches arrived.\""
+    },
+    {
+      "id": "q_u1920_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "Why is it important that Westview High was losing 1–0 at the time?",
+        "vi": "Vì sao chi tiết Westview High đang thua 0–1 lại quan trọng?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It shows that Trevor stopped to help even though his team needed a goal.",
+            "vi": "Nó cho thấy Trevor dừng lại giúp bạn dù đội cậu đang cần bàn thắng."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It shows that Trevor stopped to help even though his team needed a goal.",
+          "text_translation": "Nó cho thấy Trevor dừng lại giúp bạn dù đội cậu đang cần bàn thắng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It explains why the coaches were angry with Trevor and his team after the game.",
+            "vi": "Nó giải thích vì sao huấn luyện viên giận Trevor và cả đội sau trận."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It explains why the coaches were angry with Trevor and his team after the game.",
+          "text_translation": "Nó giải thích vì sao huấn luyện viên giận Trevor và cả đội sau trận."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It shows that Westview is a weak team that usually loses its games.",
+            "vi": "Nó cho thấy Westview là đội yếu thường thua các trận."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It shows that Westview is a weak team that usually loses its games.",
+          "text_translation": "Nó cho thấy Westview là đội yếu thường thua các trận."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It explains why Jake was on the bench instead of playing in the match.",
+            "vi": "Nó giải thích vì sao Jake ngồi dự bị thay vì thi đấu."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It explains why Jake was on the bench instead of playing in the match.",
+          "text_translation": "Nó giải thích vì sao Jake ngồi dự bị thay vì thi đấu."
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về chức năng chi tiết. Đội đang thua, Trevor đang dẫn bóng, vậy mà cậu chọn dừng lại. Chi tiết này làm hành động của cậu có ý nghĩa hơn."
+      },
+      "audio_data": null,
+      "question_jp": "Why is it important that Westview High was losing 1–0 at the time?",
+      "question_vn": "Vì sao chi tiết Westview High đang thua 0–1 lại quan trọng?",
+      "explanation": "Câu suy luận về chức năng chi tiết. Đội đang thua, Trevor đang dẫn bóng, vậy mà cậu chọn dừng lại. Chi tiết này làm hành động của cậu có ý nghĩa hơn."
+    },
+    {
+      "id": "q_u1920_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "What does \"being talked about by people he had never met felt even stranger\" mean?",
+        "vi": "Câu \"bị những người chưa từng gặp đem ra bàn tán thì còn kỳ hơn\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Trevor liked talking to strangers about his clip online.",
+            "vi": "Trevor thích nói chuyện với người lạ về clip của mình trên mạng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Trevor liked talking to strangers about his clip online.",
+          "text_translation": "Trevor thích nói chuyện với người lạ về clip của mình trên mạng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trevor talked about strangers he had met at the supermarket.",
+            "vi": "Trevor bàn tán về những người lạ cậu gặp ở siêu thị."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Trevor talked about strangers he had met at the supermarket.",
+          "text_translation": "Trevor bàn tán về những người lạ cậu gặp ở siêu thị."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Trevor felt uncomfortable when strangers discussed him.",
+            "vi": "Trevor thấy không thoải mái khi người lạ bàn tán về mình."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Trevor felt uncomfortable when strangers discussed him.",
+          "text_translation": "Trevor thấy không thoải mái khi người lạ bàn tán về mình."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Nobody talked about Trevor except the people who knew him well.",
+            "vi": "Không ai bàn tán về Trevor ngoài những người quen biết cậu rõ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Nobody talked about Trevor except the people who knew him well.",
+          "text_translation": "Không ai bàn tán về Trevor ngoài những người quen biết cậu rõ."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"being talked about by people he had never met felt even stranger.\" Being + V3 = dạng bị động của V-ing: việc bị (người khác) làm gì."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"being talked about by people he had never met felt even stranger\" mean?",
+      "question_vn": "Câu \"bị những người chưa từng gặp đem ra bàn tán thì còn kỳ hơn\" nghĩa là gì?",
+      "explanation": "\"being talked about by people he had never met felt even stranger.\" Being + V3 = dạng bị động của V-ing: việc bị (người khác) làm gì."
+    },
+    {
+      "id": "q_u1920_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "Which of these was NOT one of the unkind reactions online?",
+        "vi": "Điều nào KHÔNG nằm trong những phản ứng ác ý trên mạng?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "claiming that the whole thing had been planned for the camera",
+            "vi": "khẳng định cả chuyện là dàn dựng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "claiming that the whole thing had been planned for the camera",
+          "text_translation": "khẳng định cả chuyện là dàn dựng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "asking Trevor to join a professional team",
+            "vi": "mời Trevor vào một đội chuyên nghiệp"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "asking Trevor to join a professional team",
+          "text_translation": "mời Trevor vào một đội chuyên nghiệp"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "mocking the other team",
+            "vi": "chế giễu đội bạn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "mocking the other team",
+          "text_translation": "chế giễu đội bạn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "being harsh about the injured boy",
+            "vi": "nói nặng lời về cậu bé bị thương"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "being harsh about the injured boy",
+          "text_translation": "nói nặng lời về cậu bé bị thương"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Some people claimed that the whole thing had been planned for the camera. Others mocked the other team, and a few anonymous accounts were harsh about the injured boy.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which of these was NOT one of the unkind reactions online?",
+      "question_vn": "Điều nào KHÔNG nằm trong những phản ứng ác ý trên mạng?",
+      "explanation": "\"Some people claimed that the whole thing had been planned for the camera. Others mocked the other team, and a few anonymous accounts were harsh about the injured boy.\""
+    },
+    {
+      "id": "q_u1920_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "Why did Trevor hate the unkind comments most?",
+        "vi": "Vì sao Trevor ghét những bình luận ác ý nhất?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the injured boy was being made fun of because of him",
+            "vi": "vì cậu bé bị thương bị chế giễu vì cậu"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because the injured boy was being made fun of because of him",
+          "text_translation": "vì cậu bé bị thương bị chế giễu vì cậu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because strangers called him a hero in the supermarket and at school",
+            "vi": "vì người lạ gọi cậu là người hùng ở siêu thị và ở trường"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because strangers called him a hero in the supermarket and at school",
+          "text_translation": "vì người lạ gọi cậu là người hùng ở siêu thị và ở trường"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because his team lost the game while he was helping the other boy",
+            "vi": "vì đội cậu thua trận trong lúc cậu giúp cậu bé kia"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because his team lost the game while he was helping the other boy",
+          "text_translation": "vì đội cậu thua trận trong lúc cậu giúp cậu bé kia"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because Jake had posted the clip without asking him and made him famous",
+            "vi": "vì Jake đăng clip mà không hỏi cậu và khiến cậu nổi tiếng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because Jake had posted the clip without asking him and made him famous",
+          "text_translation": "vì Jake đăng clip mà không hỏi cậu và khiến cậu nổi tiếng"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"He was the one who got hurt, and people were making fun of him because of me.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why did Trevor hate the unkind comments most?",
+      "question_vn": "Vì sao Trevor ghét những bình luận ác ý nhất?",
+      "explanation": "\"He was the one who got hurt, and people were making fun of him because of me.\""
+    },
+    {
+      "id": "q_u1920_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "What was Trevor's condition for doing the TV interview?",
+        "vi": "Điều kiện của Trevor để nhận lời phỏng vấn truyền hình là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He had to be paid a fair price for the TV interview.",
+            "vi": "Cậu phải được trả một khoản hợp lý cho buổi phỏng vấn truyền hình."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He had to be paid a fair price for the TV interview.",
+          "text_translation": "Cậu phải được trả một khoản hợp lý cho buổi phỏng vấn truyền hình."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Jake had to come too, because he had filmed the clip.",
+            "vi": "Jake cũng phải tới, vì cậu ấy đã quay clip."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Jake had to come too, because he had filmed the clip.",
+          "text_translation": "Jake cũng phải tới, vì cậu ấy đã quay clip."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "His parents had to speak for him during the whole interview.",
+            "vi": "Bố mẹ phải nói thay cậu trong suốt buổi phỏng vấn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "His parents had to speak for him during the whole interview.",
+          "text_translation": "Bố mẹ phải nói thay cậu trong suốt buổi phỏng vấn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Diego, the injured boy, had to be invited too.",
+            "vi": "Diego, cậu bé bị thương, cũng phải được mời."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Diego, the injured boy, had to be invited too.",
+          "text_translation": "Diego, cậu bé bị thương, cũng phải được mời."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"he agreed, but only on one condition: the boy, whose name was Diego, had to be invited too.\""
+      },
+      "audio_data": null,
+      "question_jp": "What was Trevor's condition for doing the TV interview?",
+      "question_vn": "Điều kiện của Trevor để nhận lời phỏng vấn truyền hình là gì?",
+      "explanation": "\"he agreed, but only on one condition: the boy, whose name was Diego, had to be invited too.\""
+    },
+    {
+      "id": "q_u1920_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "What does Trevor's condition show about him?",
+        "vi": "Điều kiện của Trevor cho thấy điều gì về cậu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He wanted to become more famous than the other players on his team.",
+            "vi": "Cậu muốn nổi tiếng hơn những cầu thủ khác trong đội."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He wanted to become more famous than the other players on his team.",
+          "text_translation": "Cậu muốn nổi tiếng hơn những cầu thủ khác trong đội."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He was afraid of the TV cameras and needed a friend to help him feel calm.",
+            "vi": "Cậu sợ ống kính truyền hình và cần một người bạn giúp mình bình tĩnh."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He was afraid of the TV cameras and needed a friend to help him feel calm.",
+          "text_translation": "Cậu sợ ống kính truyền hình và cần một người bạn giúp mình bình tĩnh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He wanted to share the attention and protect Diego from being mocked.",
+            "vi": "Cậu muốn chia sẻ sự chú ý và bảo vệ Diego khỏi bị chế giễu."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "He wanted to share the attention and protect Diego from being mocked.",
+          "text_translation": "Cậu muốn chia sẻ sự chú ý và bảo vệ Diego khỏi bị chế giễu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He didn't want to be interviewed, but his parents made him say yes.",
+            "vi": "Cậu không muốn được phỏng vấn, nhưng bố mẹ bắt cậu nhận lời."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He didn't want to be interviewed, but his parents made him say yes.",
+          "text_translation": "Cậu không muốn được phỏng vấn, nhưng bố mẹ bắt cậu nhận lời."
+        }
+      ],
+      "evidence_segments": [
+        11,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Cậu vừa nói ghét việc Diego bị chế giễu \"because of me\". Mời Diego cùng lên hình là cách cho mọi người thấy câu chuyện thật."
+      },
+      "audio_data": null,
+      "question_jp": "What does Trevor's condition show about him?",
+      "question_vn": "Điều kiện của Trevor cho thấy điều gì về cậu?",
+      "explanation": "Câu suy luận. Cậu vừa nói ghét việc Diego bị chế giễu \"because of me\". Mời Diego cùng lên hình là cách cho mọi người thấy câu chuyện thật."
+    },
+    {
+      "id": "q_u1920_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "What does \"the internet had moved on to a dog that could skateboard\" suggest?",
+        "vi": "Câu \"mạng xã hội đã chuyển sang một chú chó biết trượt ván\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Online attention is short and quickly moves to the next thing.",
+            "vi": "Sự chú ý trên mạng ngắn ngủi và nhanh chóng chuyển sang thứ khác."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Online attention is short and quickly moves to the next thing.",
+          "text_translation": "Sự chú ý trên mạng ngắn ngủi và nhanh chóng chuyển sang thứ khác."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trevor bought a new dog that learned to ride a skateboard.",
+            "vi": "Trevor mua một chú chó mới học được cách trượt ván."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Trevor bought a new dog that learned to ride a skateboard.",
+          "text_translation": "Trevor mua một chú chó mới học được cách trượt ván."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Dogs are more popular than soccer clips on all video sites.",
+            "vi": "Chó được yêu thích hơn các clip bóng đá trên mọi trang video."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Dogs are more popular than soccer clips on all video sites.",
+          "text_translation": "Chó được yêu thích hơn các clip bóng đá trên mọi trang video."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The clip was deleted by the website after the other team complained.",
+            "vi": "Đoạn clip bị trang web xoá sau khi đội bạn phàn nàn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The clip was deleted by the website after the other team complained.",
+          "text_translation": "Đoạn clip bị trang web xoá sau khi đội bạn phàn nàn."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về giọng điệu. Chỉ một tuần, người ta đã quên Trevor để xem chú chó trượt ván. Người viết hơi châm biếm sự hời hợt của mạng."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"the internet had moved on to a dog that could skateboard\" suggest?",
+      "question_vn": "Câu \"mạng xã hội đã chuyển sang một chú chó biết trượt ván\" hàm ý gì?",
+      "explanation": "Câu suy luận về giọng điệu. Chỉ một tuần, người ta đã quên Trevor để xem chú chó trượt ván. Người viết hơi châm biếm sự hời hợt của mạng."
+    },
+    {
+      "id": "q_u1920_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "What does Trevor mean by \"I'd rather be known by the people who actually know me\"?",
+        "vi": "Trevor muốn nói gì qua câu \"con thà được biết tới bởi những người thật sự biết con\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He wants more followers who will watch each new clip.",
+            "vi": "Cậu muốn có thêm người theo dõi xem mọi clip mới."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He wants more followers who will watch each new clip.",
+          "text_translation": "Cậu muốn có thêm người theo dõi xem mọi clip mới."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He wants to change schools so that strangers can't recognize him.",
+            "vi": "Cậu muốn chuyển trường để người lạ không nhận ra mình."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He wants to change schools so that strangers can't recognize him.",
+          "text_translation": "Cậu muốn chuyển trường để người lạ không nhận ra mình."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Real relationships matter more to him than online fame.",
+            "vi": "Với cậu, các mối quan hệ thật quan trọng hơn sự nổi tiếng trên mạng."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Real relationships matter more to him than online fame.",
+          "text_translation": "Với cậu, các mối quan hệ thật quan trọng hơn sự nổi tiếng trên mạng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He doesn't like his friends and prefers talking to strangers.",
+            "vi": "Cậu không thích bạn bè mình và thích nói chuyện với người lạ hơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He doesn't like his friends and prefers talking to strangers.",
+          "text_translation": "Cậu không thích bạn bè mình và thích nói chuyện với người lạ hơn."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"It was nice for a few days,\" … \"But I'd rather be known by the people who actually know me.\" Câu cuối kể cậu và Diego vẫn nhắn tin cho nhau."
+      },
+      "audio_data": null,
+      "question_jp": "What does Trevor mean by \"I'd rather be known by the people who actually know me\"?",
+      "question_vn": "Trevor muốn nói gì qua câu \"con thà được biết tới bởi những người thật sự biết con\"?",
+      "explanation": "\"It was nice for a few days,\" … \"But I'd rather be known by the people who actually know me.\" Câu cuối kể cậu và Diego vẫn nhắn tin cho nhau."
+    },
+    {
+      "id": "q_u1920_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "What is the main purpose of the article?",
+        "vi": "Mục đích chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to advertise a new video app that has better recommendations",
+            "vi": "để quảng cáo một ứng dụng video mới có đề xuất tốt hơn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to advertise a new video app that has better recommendations",
+          "text_translation": "để quảng cáo một ứng dụng video mới có đề xuất tốt hơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to tell readers to stop watching videos and delete their apps for good",
+            "vi": "để bảo người đọc thôi xem video và xoá hẳn ứng dụng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to tell readers to stop watching videos and delete their apps for good",
+          "text_translation": "để bảo người đọc thôi xem video và xoá hẳn ứng dụng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to explain how algorithms shape what we watch and how to stay in control",
+            "vi": "để giải thích thuật toán định hình thứ ta xem thế nào và cách giữ quyền kiểm soát"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to explain how algorithms shape what we watch and how to stay in control",
+          "text_translation": "để giải thích thuật toán định hình thứ ta xem thế nào và cách giữ quyền kiểm soát"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to teach readers how to write their own recommendation algorithms",
+            "vi": "để dạy người đọc tự viết thuật toán đề xuất"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to teach readers how to write their own recommendation algorithms",
+          "text_translation": "để dạy người đọc tự viết thuật toán đề xuất"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"It was a recommendation algorithm, a computer program that decides what to show you next.\" Bài kết bằng \"So how can you stay in control?\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of the article?",
+      "question_vn": "Mục đích chính của bài báo là gì?",
+      "explanation": "\"It was a recommendation algorithm, a computer program that decides what to show you next.\" Bài kết bằng \"So how can you stay in control?\""
+    },
+    {
+      "id": "q_u1920_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "What does \"It was not you who chose most of those videos\" emphasize?",
+        "vi": "Câu \"Không phải bạn đã chọn phần lớn những video ấy\" nhấn mạnh điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "that the choice was really made by the algorithm, not by the viewer",
+            "vi": "rằng lựa chọn thật ra do thuật toán đưa ra, không phải người xem"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "that the choice was really made by the algorithm, not by the viewer",
+          "text_translation": "rằng lựa chọn thật ra do thuật toán đưa ra, không phải người xem"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that someone else in your family chose the videos on your phone",
+            "vi": "rằng người khác trong nhà đã chọn video trên điện thoại của bạn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "that someone else in your family chose the videos on your phone",
+          "text_translation": "rằng người khác trong nhà đã chọn video trên điện thoại của bạn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that you chose the videos carefully, one at a time, over forty minutes",
+            "vi": "rằng bạn chọn từng video rất kỹ trong suốt bốn mươi phút"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "that you chose the videos carefully, one at a time, over forty minutes",
+          "text_translation": "rằng bạn chọn từng video rất kỹ trong suốt bốn mươi phút"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that the videos were so short that you forgot about the time",
+            "vi": "rằng video ngắn đến mức bạn quên mất thời gian"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "that the videos were so short that you forgot about the time",
+          "text_translation": "rằng video ngắn đến mức bạn quên mất thời gian"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"It was not you who chose most of those videos. It was a recommendation algorithm\". Câu chẻ It was … who … nhấn mạnh ai là người thật sự làm việc đó."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"It was not you who chose most of those videos\" emphasize?",
+      "question_vn": "Câu \"Không phải bạn đã chọn phần lớn những video ấy\" nhấn mạnh điều gì?",
+      "explanation": "\"It was not you who chose most of those videos. It was a recommendation algorithm\". Câu chẻ It was … who … nhấn mạnh ai là người thật sự làm việc đó."
+    },
+    {
+      "id": "q_u1920_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "What did one of the largest video platforms say about recommendations?",
+        "vi": "Một trong những nền tảng video lớn nhất đã nói gì về các đề xuất?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They were used by fewer than 10 percent of viewers on the site.",
+            "vi": "Dưới 10 phần trăm người xem trên trang dùng chúng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They were used by fewer than 10 percent of viewers on the site.",
+          "text_translation": "Dưới 10 phần trăm người xem trên trang dùng chúng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They were turned off for most users after viewers complained.",
+            "vi": "Chúng bị tắt với phần lớn người dùng sau khi người xem phàn nàn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They were turned off for most users after viewers complained.",
+          "text_translation": "Chúng bị tắt với phần lớn người dùng sau khi người xem phàn nàn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They only worked at night, when most people were watching videos.",
+            "vi": "Chúng chỉ hoạt động ban đêm, lúc phần lớn mọi người xem video."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They only worked at night, when most people were watching videos.",
+          "text_translation": "Chúng chỉ hoạt động ban đêm, lúc phần lớn mọi người xem video."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "More than 70 percent of viewing time on its site came from them.",
+            "vi": "Hơn 70 phần trăm thời gian xem trên trang đến từ chúng."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "More than 70 percent of viewing time on its site came from them.",
+          "text_translation": "Hơn 70 phần trăm thời gian xem trên trang đến từ chúng."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"more than 70 percent of the time that people spent watching videos on its site came from recommendations\"."
+      },
+      "audio_data": null,
+      "question_jp": "What did one of the largest video platforms say about recommendations?",
+      "question_vn": "Một trong những nền tảng video lớn nhất đã nói gì về các đề xuất?",
+      "explanation": "\"more than 70 percent of the time that people spent watching videos on its site came from recommendations\"."
+    },
+    {
+      "id": "q_u1920_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "According to the article, what is the main goal of most recommendation algorithms?",
+        "vi": "Theo bài, mục tiêu chính của hầu hết thuật toán đề xuất là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to teach people new things that they could not find on their own",
+            "vi": "dạy người ta những điều mới mà họ không tự tìm được"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to teach people new things that they could not find on their own",
+          "text_translation": "dạy người ta những điều mới mà họ không tự tìm được"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to keep people watching, because longer viewing means more advertisements",
+            "vi": "giữ người ta xem tiếp, vì xem lâu hơn thì xem nhiều quảng cáo hơn"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to keep people watching, because longer viewing means more advertisements",
+          "text_translation": "giữ người ta xem tiếp, vì xem lâu hơn thì xem nhiều quảng cáo hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to show people only true information that has been checked by experts",
+            "vi": "chỉ cho xem thông tin đúng đã được chuyên gia kiểm chứng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to show people only true information that has been checked by experts",
+          "text_translation": "chỉ cho xem thông tin đúng đã được chuyên gia kiểm chứng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to help people sleep better by showing them calm videos at night",
+            "vi": "giúp người ta ngủ ngon hơn bằng các video êm dịu ban đêm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to help people sleep better by showing them calm videos at night",
+          "text_translation": "giúp người ta ngủ ngon hơn bằng các video êm dịu ban đêm"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"Its main goal is usually to keep you watching, because the longer you stay, the more advertisements you see.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to the article, what is the main goal of most recommendation algorithms?",
+      "question_vn": "Theo bài, mục tiêu chính của hầu hết thuật toán đề xuất là gì?",
+      "explanation": "\"Its main goal is usually to keep you watching, because the longer you stay, the more advertisements you see.\""
+    },
+    {
+      "id": "q_u1920_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "Why is content that causes strong emotions often pushed to the top?",
+        "vi": "Vì sao nội dung gây cảm xúc mạnh hay được đẩy lên đầu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because it is always true and checked by experts",
+            "vi": "vì nó luôn đúng và được chuyên gia kiểm tra"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because it is always true and checked by experts",
+          "text_translation": "vì nó luôn đúng và được chuyên gia kiểm tra"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because experts choose it for the front page",
+            "vi": "vì chuyên gia chọn nó cho trang chủ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because experts choose it for the front page",
+          "text_translation": "vì chuyên gia chọn nó cho trang chủ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because it tends to keep people watching",
+            "vi": "vì nó thường giữ chân người xem"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because it tends to keep people watching",
+          "text_translation": "vì nó thường giữ chân người xem"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because it is cheaper to make than other videos",
+            "vi": "vì nó làm rẻ hơn các video khác"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because it is cheaper to make than other videos",
+          "text_translation": "vì nó làm rẻ hơn các video khác"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"whether delight or anger, tends to keep them watching, so that kind of content is often pushed to the top.\" Tend to = có xu hướng, cách nói rào đón."
+      },
+      "audio_data": null,
+      "question_jp": "Why is content that causes strong emotions often pushed to the top?",
+      "question_vn": "Vì sao nội dung gây cảm xúc mạnh hay được đẩy lên đầu?",
+      "explanation": "\"whether delight or anger, tends to keep them watching, so that kind of content is often pushed to the top.\" Tend to = có xu hướng, cách nói rào đón."
+    },
+    {
+      "id": "q_u1920_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "In \"The research on this is, to some extent, mixed\", why does the writer use \"to some extent\" and \"arguably\"?",
+        "vi": "Trong câu \"Nghiên cứu về chuyện này, ở mức độ nào đó, chưa thống nhất\", vì sao người viết dùng \"to some extent\" và \"arguably\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that the writer has no opinion about the question",
+            "vi": "để cho thấy người viết không có ý kiến gì về vấn đề"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to show that the writer has no opinion about the question",
+          "text_translation": "để cho thấy người viết không có ý kiến gì về vấn đề"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to make the text longer and sound more difficult for readers",
+            "vi": "để bài dài hơn và nghe khó hơn với người đọc"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to make the text longer and sound more difficult for readers",
+          "text_translation": "để bài dài hơn và nghe khó hơn với người đọc"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to criticize scientists for not finishing their research",
+            "vi": "để chê các nhà khoa học không hoàn thành nghiên cứu"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to criticize scientists for not finishing their research",
+          "text_translation": "để chê các nhà khoa học không hoàn thành nghiên cứu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to avoid making a claim that is stronger than the evidence",
+            "vi": "để tránh khẳng định mạnh hơn mức bằng chứng cho phép"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to avoid making a claim that is stronger than the evidence",
+          "text_translation": "để tránh khẳng định mạnh hơn mức bằng chứng cho phép"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi về chức năng ngôn ngữ. To some extent, arguably là từ rào đón (hedging): người viết thận trọng vì nghiên cứu \"mixed\", chưa có kết luận chắc."
+      },
+      "audio_data": null,
+      "question_jp": "In \"The research on this is, to some extent, mixed\", why does the writer use \"to some extent\" and \"arguably\"?",
+      "question_vn": "Trong câu \"Nghiên cứu về chuyện này, ở mức độ nào đó, chưa thống nhất\", vì sao người viết dùng \"to some extent\" và \"arguably\"?",
+      "explanation": "Câu hỏi về chức năng ngôn ngữ. To some extent, arguably là từ rào đón (hedging): người viết thận trọng vì nghiên cứu \"mixed\", chưa có kết luận chắc."
+    },
+    {
+      "id": "q_u1920_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "What does the writer say that algorithms can do with extreme opinions?",
+        "vi": "Người viết nói thuật toán có thể làm gì với những ý kiến cực đoan?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "make them seem far more common than they really are",
+            "vi": "khiến chúng trông phổ biến hơn thực tế nhiều"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "make them seem far more common than they really are",
+          "text_translation": "khiến chúng trông phổ biến hơn thực tế nhiều"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "delete them before most viewers have a chance to see them",
+            "vi": "xoá chúng trước khi phần lớn người xem kịp thấy"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "delete them before most viewers have a chance to see them",
+          "text_translation": "xoá chúng trước khi phần lớn người xem kịp thấy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "translate them into other languages so more people read them",
+            "vi": "dịch chúng sang ngôn ngữ khác để nhiều người đọc hơn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "translate them into other languages so more people read them",
+          "text_translation": "dịch chúng sang ngôn ngữ khác để nhiều người đọc hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "make them disappear from the screens of people who disagree",
+            "vi": "làm chúng biến mất khỏi màn hình của những người không đồng tình"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "make them disappear from the screens of people who disagree",
+          "text_translation": "làm chúng biến mất khỏi màn hình của những người không đồng tình"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"the algorithm can make the most extreme ones seem far more common than they really are.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the writer say that algorithms can do with extreme opinions?",
+      "question_vn": "Người viết nói thuật toán có thể làm gì với những ý kiến cực đoan?",
+      "explanation": "\"the algorithm can make the most extreme ones seem far more common than they really are.\""
+    },
+    {
+      "id": "q_u1920_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "Why does the writer say that \"algorithms are not evil\"?",
+        "vi": "Vì sao người viết nói \"thuật toán không xấu xa\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to defend video companies and tell readers to trust all their apps",
+            "vi": "để bênh các công ty video và bảo người đọc tin mọi ứng dụng của họ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to defend video companies and tell readers to trust all their apps",
+          "text_translation": "để bênh các công ty video và bảo người đọc tin mọi ứng dụng của họ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to give a balanced view by showing that algorithms can also be helpful",
+            "vi": "để đưa cái nhìn cân bằng, cho thấy thuật toán cũng có ích"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to give a balanced view by showing that algorithms can also be helpful",
+          "text_translation": "để đưa cái nhìn cân bằng, cho thấy thuật toán cũng có ích"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to say that the critics are wrong about almost everything they write",
+            "vi": "để nói các nhà phê bình sai hầu hết những gì họ viết"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to say that the critics are wrong about almost everything they write",
+          "text_translation": "để nói các nhà phê bình sai hầu hết những gì họ viết"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to change the topic and start talking about music and cooking",
+            "vi": "để đổi chủ đề và bắt đầu nói về âm nhạc và nấu ăn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to change the topic and start talking about music and cooking",
+          "text_translation": "để đổi chủ đề và bắt đầu nói về âm nhạc và nấu ăn"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về mục đích. \"They help you find a song that you love or a cooking video that solves your problem.\" Sau khi nêu mặt xấu, người viết cân bằng lại."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer say that \"algorithms are not evil\"?",
+      "question_vn": "Vì sao người viết nói \"thuật toán không xấu xa\"?",
+      "explanation": "Câu suy luận về mục đích. \"They help you find a song that you love or a cooking video that solves your problem.\" Sau khi nêu mặt xấu, người viết cân bằng lại."
+    },
+    {
+      "id": "q_u1920_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "Which of these is NOT one of the experts' suggestions?",
+        "vi": "Điều nào KHÔNG nằm trong gợi ý của chuyên gia?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "searching for what you want instead of only scrolling",
+            "vi": "chủ động tìm thay vì chỉ lướt"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "searching for what you want instead of only scrolling",
+          "text_translation": "chủ động tìm thay vì chỉ lướt"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "following some sources that you sometimes disagree with",
+            "vi": "theo dõi vài nguồn đôi khi mình không đồng tình"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "following some sources that you sometimes disagree with",
+          "text_translation": "theo dõi vài nguồn đôi khi mình không đồng tình"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "clearing your watch history now and then",
+            "vi": "thỉnh thoảng xoá lịch sử xem"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "clearing your watch history now and then",
+          "text_translation": "thỉnh thoảng xoá lịch sử xem"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "deleting all your apps",
+            "vi": "xoá hết ứng dụng"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "deleting all your apps",
+          "text_translation": "xoá hết ứng dụng"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"searching for what you want instead of only scrolling, following a few sources that you sometimes disagree with, and clearing your watch history now and then\"."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT one of the experts' suggestions?",
+      "question_vn": "Điều nào KHÔNG nằm trong gợi ý của chuyên gia?",
+      "explanation": "\"searching for what you want instead of only scrolling, following a few sources that you sometimes disagree with, and clearing your watch history now and then\"."
+    },
+    {
+      "id": "q_u1920_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "Use both texts. Which idea from the article best explains why Trevor's clip spread so quickly?",
+        "vi": "Dựa vào cả hai bài. Ý nào trong bài báo giải thích rõ nhất vì sao clip của Trevor lan nhanh như vậy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Algorithms only show videos that were posted by close friends and family.",
+            "vi": "Thuật toán chỉ cho xem video do bạn thân và người nhà đăng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Algorithms only show videos that were posted by close friends and family.",
+          "text_translation": "Thuật toán chỉ cho xem video do bạn thân và người nhà đăng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Content that makes people feel strong emotions tends to be pushed to the top.",
+            "vi": "Nội dung khiến người ta cảm xúc mạnh thường được đẩy lên đầu."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Content that makes people feel strong emotions tends to be pushed to the top.",
+          "text_translation": "Nội dung khiến người ta cảm xúc mạnh thường được đẩy lên đầu."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "People only watch videos late at night, when they have time to share them.",
+            "vi": "Người ta chỉ xem video đêm khuya, lúc có thời gian chia sẻ chúng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "People only watch videos late at night, when they have time to share them.",
+          "text_translation": "Người ta chỉ xem video đêm khuya, lúc có thời gian chia sẻ chúng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Filter bubbles stop videos from spreading to people outside a group.",
+            "vi": "Bong bóng lọc ngăn video lan tới người ngoài một nhóm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Filter bubbles stop videos from spreading to people outside a group.",
+          "text_translation": "Bong bóng lọc ngăn video lan tới người ngoài một nhóm."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bài 2: nội dung gây \"strong emotions, whether delight or anger\" hay được đẩy lên. Clip của Trevor gây xúc động, rồi cả những bình luận ác ý cũng gây tức giận."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. Which idea from the article best explains why Trevor's clip spread so quickly?",
+      "question_vn": "Dựa vào cả hai bài. Ý nào trong bài báo giải thích rõ nhất vì sao clip của Trevor lan nhanh như vậy?",
+      "explanation": "Câu nối hai bài. Bài 2: nội dung gây \"strong emotions, whether delight or anger\" hay được đẩy lên. Clip của Trevor gây xúc động, rồi cả những bình luận ác ý cũng gây tức giận."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u1920_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 19) — Khi đoạn clip của Trevor nổi khắp mạng",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u1920_01",
+      "question_ids": [
+        "q_u1920_001",
+        "q_u1920_002",
+        "q_u1920_003",
+        "q_u1920_004",
+        "q_u1920_005",
+        "q_u1920_006",
+        "q_u1920_007",
+        "q_u1920_008",
+        "q_u1920_009",
+        "q_u1920_010"
+      ]
+    },
+    {
+      "set_id": "set_u1920_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 20) — Ai thật sự chọn thứ bạn xem?",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u1920_02",
+      "question_ids": [
+        "q_u1920_011",
+        "q_u1920_012",
+        "q_u1920_013",
+        "q_u1920_014",
+        "q_u1920_015",
+        "q_u1920_016",
+        "q_u1920_017",
+        "q_u1920_018",
+        "q_u1920_019",
+        "q_u1920_020"
+      ]
+    }
+  ]
+}

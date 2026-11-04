@@ -1,0 +1,1381 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 13 — Jobs and careers",
+      "vi": "Nghề nghiệp"
+    },
+    "title": "Unit 13 — Jobs and careers",
+    "title_vn": "Nghề nghiệp",
+    "module_code": "57_u13",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A2",
+    "curriculum_unit": "a2.u13",
+    "curriculum_sheets": [
+      "a2.49",
+      "a2.50",
+      "a2.51",
+      "a2.52"
+    ],
+    "characters": [
+      "Leah Carter",
+      "Chloe Bennett",
+      "Ethan Hayes",
+      "Harriet Brooks",
+      "Tina Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "cuối tháng 5, năm 3 (thứ Bảy, Leah 24 tuổi tốt nghiệp trường y, tháng 7 bắt đầu nội trú ở Sunset Bay Hospital tại San Diego; tối có tiệc ở vườn nhà Carter; Chloe 25 tuổi, vẫn phục vụ ở Harriet's, học thiết kế đồ hoạ buổi tối từ tháng 1; Leah và Ethan vẫn đang tìm hiểu, chưa hẹn hò)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Động từ + to V / not to V, giới từ + V-ing, mệnh đề that, I wonder if…; thông tin cụ thể, ý chính, quy chiếu, lời khuyên của người viết, 3 câu suy luận (lý do, cảm xúc, ý nghĩa hình ảnh)",
+    "description_vn": "Leah kể ngày tốt nghiệp trường y (được nội trú ở Sunset Bay Hospital, Ethan mang bánh tới, Chloe tiết lộ đang học thiết kế đồ hoạ và băn khoăn có nên bỏ việc, bà Harriet hoá ra đã biết), và bài báo \"Jobs of the Future\" về AI và dữ liệu, năng lượng sạch hơn, chăm sóc sức khoẻ cùng các kỹ năng cần có. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 13 khoá A2 · phiếu `a2.49` – `a2.52` (kỹ năng nghề nghiệp, phỏng vấn xin việc, động từ + to / -ing, nghề mơ ước)."
+    },
+    "objective_i18n": {
+      "vi": "đọc bài Leah kể ngày tốt nghiệp trường y (và bí mật của Chloe), và bài báo về nghề của tương lai; hiểu động từ + to V (want to, decide to, hope to, plan to), động từ + not to V (decide not to, ask someone not to), giới từ + V-ing (good at drawing), mệnh đề that sau think / believe / admit, I wonder if…; tìm chi tiết, hiểu These people chỉ ai, nắm ý chính, nhận ra lời khuyên của người viết và suy ra điều bài không nói thẳng."
+    },
+    "extra_words": [
+      {
+        "word": "ceremony",
+        "i18n": {
+          "vi": "buổi lễ (ở đây: lễ tốt nghiệp)"
+        }
+      },
+      {
+        "word": "graphic design",
+        "i18n": {
+          "vi": "thiết kế đồ hoạ"
+        }
+      },
+      {
+        "word": "data",
+        "i18n": {
+          "vi": "dữ liệu"
+        }
+      },
+      {
+        "word": "solar panel",
+        "i18n": {
+          "vi": "tấm pin mặt trời"
+        }
+      },
+      {
+        "word": "robot",
+        "i18n": {
+          "vi": "rô-bốt, người máy"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "decide not to…",
+          "vi": "quyết định không…"
+        }
+      },
+      {
+        "i18n": {
+          "en": "ask someone not to…",
+          "vi": "xin / bảo ai đừng…"
+        }
+      },
+      {
+        "i18n": {
+          "en": "be good at + V-ing",
+          "vi": "giỏi (làm việc gì)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "I wonder if I should…",
+          "vi": "Tôi băn khoăn không biết có nên…"
+        }
+      },
+      {
+        "i18n": {
+          "en": "hope to / plan to…",
+          "vi": "mong được / dự định…"
+        }
+      },
+      {
+        "i18n": {
+          "en": "the ability to…",
+          "vi": "khả năng (làm gì)"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**Động từ + to V**: `want to`, `decide to`, `hope to`, `plan to`. Phủ định thì đặt not TRƯỚC to: `I decided not to leave`, `they asked me not to`."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Sau giới từ (at, of, about, for…) động từ thêm -ing: `good at drawing`, `afraid of…`. Thấy giới từ + V-ing thì đó là cụm danh từ chỉ một việc."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**I wonder if…** = tôi tự hỏi liệu…: phần sau if là điều người nói CHƯA chắc. Còn `I think (that)…`, `experts strongly believe that…`, `I admit that…` đưa ra ý kiến hoặc điều người nói thừa nhận."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi quy chiếu (These people, they, it): đọc lùi một câu, và để ý câu đó nằm dưới tiêu đề nhỏ nào của bài."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu suy luận (lý do, cảm xúc, hình ảnh): bài không nói thẳng. Tìm câu bằng chứng ngay bên cạnh (I understand why: …), nhìn việc nhân vật làm, hoặc hỏi hình ảnh cụ thể tượng trưng cho điều gì."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u13_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Ngày Leah trở thành bác sĩ"
+      },
+      "narrator": "Leah",
+      "title": "The Day I Became Dr. Carter",
+      "category": "story",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 120,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Day I Became Dr. Carter",
+            "vi": "Ngày tôi trở thành bác sĩ Carter"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On Saturday, I finally graduated from medical school, and for the first time, people called me \"Dr. Carter.\"",
+            "vi": "Thứ Bảy vừa rồi, cuối cùng tôi cũng tốt nghiệp trường y, và lần đầu tiên người ta gọi tôi là \"bác sĩ Carter\"."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In March, I learned that I got my first choice: Sunset Bay Hospital, here in San Diego, and I start there in July.",
+            "vi": "Hồi tháng 3, tôi biết tin mình được đúng nơi mình chọn đầu tiên: bệnh viện Sunset Bay, ngay tại San Diego này, và tháng 7 tôi bắt đầu làm ở đó."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I decided not to leave my family, my friends and Harriet's soup for Green Valley Hospital.",
+            "vi": "Tôi đã quyết định không bỏ gia đình, bạn bè và món súp của bà Harriet để tới bệnh viện Green Valley."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The whole Carter family came to the ceremony, and Tina held up a sign: \"MY COUSIN IS A DOCTOR!\"",
+            "vi": "Cả nhà Carter tới dự buổi lễ, và Tina giơ cao một tấm biển: \"CHỊ HỌ EM LÀ BÁC SĨ!\""
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ethan came too, with flowers and a chocolate cake from Harriet's.",
+            "vi": "Ethan cũng tới, mang theo hoa và một chiếc bánh sô-cô-la mua ở quán Harriet's."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Ethan",
+          "label": null,
+          "i18n": {
+            "en": "I wanted to bake it myself, but the guys at the fire station asked me not to.",
+            "vi": "Anh đã muốn tự nướng bánh, nhưng mấy anh em ở trạm cứu hoả xin anh đừng làm."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I understand why: I've tried his rice.",
+            "vi": "Tôi hiểu vì sao: tôi từng ăn thử món cơm anh ấy nấu rồi."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We're still getting to know each other, but I admit that I was happy to see him.",
+            "vi": "Chúng tôi vẫn chỉ đang tìm hiểu nhau thôi, nhưng tôi thừa nhận là tôi đã vui khi thấy anh ấy."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At the party in Uncle Mitchell's garden that evening, Chloe told me a secret.",
+            "vi": "Ở bữa tiệc trong vườn nhà chú Mitchell tối hôm đó, Chloe kể cho tôi một bí mật."
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "I started an evening graphic design class in January, and my teacher says I'm good at drawing.",
+            "vi": "Từ tháng 1, tớ bắt đầu đi học một lớp thiết kế đồ hoạ buổi tối, và cô giáo bảo tớ vẽ giỏi."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "I hope to work as a professional designer one day.",
+            "vi": "Tớ mong một ngày nào đó được làm nhà thiết kế chuyên nghiệp."
+          }
+        },
+        {
+          "n": 13,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "It's a secret because I wonder if I should quit my job at Harriet's. I love Harriet, and I need the money.",
+            "vi": "Tớ giữ bí mật vì tớ đang băn khoăn không biết có nên bỏ việc ở quán Harriet's không. Tớ quý bà Harriet, mà tớ lại cần tiền."
+          }
+        },
+        {
+          "n": 14,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "I plan to finish the class first, and then decide.",
+            "vi": "Tớ định học xong lớp đã, rồi mới quyết định."
+          }
+        },
+        {
+          "n": 15,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I admire her, so I encouraged her to keep going.",
+            "vi": "Tôi ngưỡng mộ Chloe, nên tôi động viên cô ấy cứ tiếp tục."
+          }
+        },
+        {
+          "n": 16,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then Harriet walked over with more cake.",
+            "vi": "Rồi bà Harriet đi tới, mang thêm bánh."
+          }
+        },
+        {
+          "n": 17,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "Chloe, dear, when can you design a new sign for my café?",
+            "vi": "Chloe ơi, bao giờ cháu thiết kế cho bà một tấm biển mới cho quán đây?"
+          }
+        },
+        {
+          "n": 18,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Chloe's face went red. Nobody keeps a secret from Harriet on Maple Street!",
+            "vi": "Mặt Chloe đỏ bừng. Ở Maple Street, chẳng ai giữ được bí mật với bà Harriet!"
+          }
+        }
+      ],
+      "content_ja": "The Day I Became Dr. Carter\n\nOn Saturday, I finally graduated from medical school, and for the first time, people called me \"Dr. Carter.\" In March, I learned that I got my first choice: Sunset Bay Hospital, here in San Diego, and I start there in July. I decided not to leave my family, my friends and Harriet's soup for Green Valley Hospital.\n\nThe whole Carter family came to the ceremony, and Tina held up a sign: \"MY COUSIN IS A DOCTOR!\" Ethan came too, with flowers and a chocolate cake from Harriet's.\n\nEthan: I wanted to bake it myself, but the guys at the fire station asked me not to.\n\nI understand why: I've tried his rice.\n\nWe're still getting to know each other, but I admit that I was happy to see him.\n\nAt the party in Uncle Mitchell's garden that evening, Chloe told me a secret.\n\nChloe: I started an evening graphic design class in January, and my teacher says I'm good at drawing. I hope to work as a professional designer one day.\n\nChloe: It's a secret because I wonder if I should quit my job at Harriet's. I love Harriet, and I need the money. I plan to finish the class first, and then decide.\n\nI admire her, so I encouraged her to keep going. Then Harriet walked over with more cake.\n\nHarriet: Chloe, dear, when can you design a new sign for my café?\n\nChloe's face went red. Nobody keeps a secret from Harriet on Maple Street!",
+      "translation_vn": "(1) Ngày tôi trở thành bác sĩ Carter\n(2) Thứ Bảy vừa rồi, cuối cùng tôi cũng tốt nghiệp trường y, và lần đầu tiên người ta gọi tôi là \"bác sĩ Carter\".\n(3) Hồi tháng 3, tôi biết tin mình được đúng nơi mình chọn đầu tiên: bệnh viện Sunset Bay, ngay tại San Diego này, và tháng 7 tôi bắt đầu làm ở đó.\n(4) Tôi đã quyết định không bỏ gia đình, bạn bè và món súp của bà Harriet để tới bệnh viện Green Valley.\n(5) Cả nhà Carter tới dự buổi lễ, và Tina giơ cao một tấm biển: \"CHỊ HỌ EM LÀ BÁC SĨ!\"\n(6) Ethan cũng tới, mang theo hoa và một chiếc bánh sô-cô-la mua ở quán Harriet's.\n(7) Ethan: Anh đã muốn tự nướng bánh, nhưng mấy anh em ở trạm cứu hoả xin anh đừng làm.\n(8) Tôi hiểu vì sao: tôi từng ăn thử món cơm anh ấy nấu rồi.\n(9) Chúng tôi vẫn chỉ đang tìm hiểu nhau thôi, nhưng tôi thừa nhận là tôi đã vui khi thấy anh ấy.\n(10) Ở bữa tiệc trong vườn nhà chú Mitchell tối hôm đó, Chloe kể cho tôi một bí mật.\n(11) Chloe: Từ tháng 1, tớ bắt đầu đi học một lớp thiết kế đồ hoạ buổi tối, và cô giáo bảo tớ vẽ giỏi.\n(12) Chloe: Tớ mong một ngày nào đó được làm nhà thiết kế chuyên nghiệp.\n(13) Chloe: Tớ giữ bí mật vì tớ đang băn khoăn không biết có nên bỏ việc ở quán Harriet's không. Tớ quý bà Harriet, mà tớ lại cần tiền.\n(14) Chloe: Tớ định học xong lớp đã, rồi mới quyết định.\n(15) Tôi ngưỡng mộ Chloe, nên tôi động viên cô ấy cứ tiếp tục.\n(16) Rồi bà Harriet đi tới, mang thêm bánh.\n(17) Harriet: Chloe ơi, bao giờ cháu thiết kế cho bà một tấm biển mới cho quán đây?\n(18) Mặt Chloe đỏ bừng. Ở Maple Street, chẳng ai giữ được bí mật với bà Harriet!",
+      "word_count": 249,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.49",
+        "a2.50",
+        "a2.51",
+        "a2.52"
+      ]
+    },
+    {
+      "id": "passage_u13_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Bài báo \"Nghề của tương lai\""
+      },
+      "narrator": "announcer",
+      "title": "Jobs of the Future",
+      "category": "article",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 120,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Jobs of the Future",
+            "vi": "Nghề của tương lai"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Not long ago, \"app designer\" was not a job, but today it is a normal occupation.",
+            "vi": "Cách đây không lâu, \"nhà thiết kế ứng dụng\" còn chưa phải là một nghề, nhưng ngày nay đó là một nghề bình thường."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Experts strongly believe that three areas will need many new workers soon.",
+            "vi": "Các chuyên gia tin chắc rằng ba lĩnh vực sắp tới sẽ cần nhiều người làm mới."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "AI and data",
+            "vi": "AI và dữ liệu"
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "AI tools can now write and answer questions in seconds, and many journalists, editors and lawyers already use them at work.",
+            "vi": "Các công cụ AI giờ đây có thể viết và trả lời câu hỏi chỉ trong vài giây, và nhiều nhà báo, biên tập viên, luật sư đã dùng chúng trong công việc."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But they sometimes make mistakes, so companies need people who can check their answers.",
+            "vi": "Nhưng đôi khi chúng mắc lỗi, nên các công ty cần những người kiểm tra được câu trả lời của chúng."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Data experts find useful information in long lists of numbers and explain it to managers.",
+            "vi": "Chuyên gia dữ liệu tìm ra thông tin có ích trong những danh sách số liệu dài và giải thích cho các nhà quản lý."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Cleaner energy",
+            "vi": "Năng lượng sạch hơn"
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "More and more homes get their energy from the sun and the wind.",
+            "vi": "Ngày càng nhiều nhà lấy năng lượng từ mặt trời và gió."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Someone has to put in the solar panels, repair them and operate the wind machines.",
+            "vi": "Phải có người lắp tấm pin mặt trời, sửa chúng và vận hành các cỗ máy phát điện gió."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "These people need special training, but they do not always need a university degree.",
+            "vi": "Những người này cần được đào tạo riêng, nhưng không phải lúc nào cũng cần bằng đại học."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Health care",
+            "vi": "Chăm sóc sức khoẻ"
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In many countries, people are living longer, so there is more work for doctors, nurses and care workers.",
+            "vi": "Ở nhiều nước, con người sống lâu hơn, nên có thêm nhiều việc cho bác sĩ, y tá và nhân viên chăm sóc."
+          }
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Machines can help with some tasks, but a robot can't hold a patient's hand.",
+            "vi": "Máy móc có thể giúp một số việc, nhưng rô-bốt thì không thể nắm tay người bệnh."
+          }
+        },
+        {
+          "n": 15,
+          "para": 9,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Skills for every job",
+            "vi": "Kỹ năng cho mọi nghề"
+          }
+        },
+        {
+          "n": 16,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Knowledge is important, but it changes fast.",
+            "vi": "Kiến thức quan trọng, nhưng nó thay đổi rất nhanh."
+          }
+        },
+        {
+          "n": 17,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many companies look for people with the ability to communicate well, lead a team and concentrate on a difficult problem.",
+            "vi": "Nhiều công ty tìm những người có khả năng giao tiếp tốt, dẫn dắt một nhóm và tập trung vào một vấn đề khó."
+          }
+        },
+        {
+          "n": 18,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Your education does not end at school, so don't be afraid to be a beginner again.",
+            "vi": "Việc học của bạn không dừng lại ở trường, nên đừng ngại làm người mới bắt đầu thêm lần nữa."
+          }
+        },
+        {
+          "n": 19,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When you think about your future, don't only ask how much money you can earn.",
+            "vi": "Khi nghĩ về tương lai, đừng chỉ hỏi mình kiếm được bao nhiêu tiền."
+          }
+        },
+        {
+          "n": 20,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Also ask what you are good at and what you enjoy doing.",
+            "vi": "Hãy hỏi thêm mình giỏi việc gì và thích làm việc gì."
+          }
+        }
+      ],
+      "content_ja": "Jobs of the Future\n\nNot long ago, \"app designer\" was not a job, but today it is a normal occupation. Experts strongly believe that three areas will need many new workers soon.\n\nAI and data\n\nAI tools can now write and answer questions in seconds, and many journalists, editors and lawyers already use them at work. But they sometimes make mistakes, so companies need people who can check their answers. Data experts find useful information in long lists of numbers and explain it to managers.\n\nCleaner energy\n\nMore and more homes get their energy from the sun and the wind. Someone has to put in the solar panels, repair them and operate the wind machines. These people need special training, but they do not always need a university degree.\n\nHealth care\n\nIn many countries, people are living longer, so there is more work for doctors, nurses and care workers. Machines can help with some tasks, but a robot can't hold a patient's hand.\n\nSkills for every job\n\nKnowledge is important, but it changes fast. Many companies look for people with the ability to communicate well, lead a team and concentrate on a difficult problem. Your education does not end at school, so don't be afraid to be a beginner again.\n\nWhen you think about your future, don't only ask how much money you can earn. Also ask what you are good at and what you enjoy doing.",
+      "translation_vn": "(1) Nghề của tương lai\n(2) Cách đây không lâu, \"nhà thiết kế ứng dụng\" còn chưa phải là một nghề, nhưng ngày nay đó là một nghề bình thường.\n(3) Các chuyên gia tin chắc rằng ba lĩnh vực sắp tới sẽ cần nhiều người làm mới.\n(4) AI và dữ liệu\n(5) Các công cụ AI giờ đây có thể viết và trả lời câu hỏi chỉ trong vài giây, và nhiều nhà báo, biên tập viên, luật sư đã dùng chúng trong công việc.\n(6) Nhưng đôi khi chúng mắc lỗi, nên các công ty cần những người kiểm tra được câu trả lời của chúng.\n(7) Chuyên gia dữ liệu tìm ra thông tin có ích trong những danh sách số liệu dài và giải thích cho các nhà quản lý.\n(8) Năng lượng sạch hơn\n(9) Ngày càng nhiều nhà lấy năng lượng từ mặt trời và gió.\n(10) Phải có người lắp tấm pin mặt trời, sửa chúng và vận hành các cỗ máy phát điện gió.\n(11) Những người này cần được đào tạo riêng, nhưng không phải lúc nào cũng cần bằng đại học.\n(12) Chăm sóc sức khoẻ\n(13) Ở nhiều nước, con người sống lâu hơn, nên có thêm nhiều việc cho bác sĩ, y tá và nhân viên chăm sóc.\n(14) Máy móc có thể giúp một số việc, nhưng rô-bốt thì không thể nắm tay người bệnh.\n(15) Kỹ năng cho mọi nghề\n(16) Kiến thức quan trọng, nhưng nó thay đổi rất nhanh.\n(17) Nhiều công ty tìm những người có khả năng giao tiếp tốt, dẫn dắt một nhóm và tập trung vào một vấn đề khó.\n(18) Việc học của bạn không dừng lại ở trường, nên đừng ngại làm người mới bắt đầu thêm lần nữa.\n(19) Khi nghĩ về tương lai, đừng chỉ hỏi mình kiếm được bao nhiêu tiền.\n(20) Hãy hỏi thêm mình giỏi việc gì và thích làm việc gì.",
+      "word_count": 237,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.49",
+        "a2.50",
+        "a2.51",
+        "a2.52"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u13_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u13_01",
+      "i18n": {
+        "en": "Where will Leah start working in July?",
+        "vi": "Tháng 7 Leah sẽ bắt đầu làm việc ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at Green Valley Hospital",
+            "vi": "ở bệnh viện Green Valley"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "at Green Valley Hospital",
+          "text_translation": "ở bệnh viện Green Valley"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at her medical school",
+            "vi": "ở trường y của cô"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "at her medical school",
+          "text_translation": "ở trường y của cô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at Sunset Bay Hospital in San Diego",
+            "vi": "ở bệnh viện Sunset Bay tại San Diego"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "at Sunset Bay Hospital in San Diego",
+          "text_translation": "ở bệnh viện Sunset Bay tại San Diego"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at the fire station",
+            "vi": "ở trạm cứu hoả"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "at the fire station",
+          "text_translation": "ở trạm cứu hoả"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"In March, I learned that I got my first choice: Sunset Bay Hospital, here in San Diego, and I start there in July.\" Vậy tháng 7 Leah bắt đầu làm ở bệnh viện Sunset Bay. Green Valley là bệnh viện cô quyết định không tới (\"decided not to leave … for Green Valley Hospital\"). Trường y là nơi cô vừa tốt nghiệp. Trạm cứu hoả là chỗ Ethan làm (\"the guys at the fire station\")."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi có mốc thời gian (in July) thì tìm đúng mốc đó trong bài. Chữ there trong \"I start there\" chỉ nơi vừa nêu ngay trước nó."
+      },
+      "question_jp": "Where will Leah start working in July?",
+      "question_vn": "Tháng 7 Leah sẽ bắt đầu làm việc ở đâu?",
+      "explanation": "\"In March, I learned that I got my first choice: Sunset Bay Hospital, here in San Diego, and I start there in July.\" Vậy tháng 7 Leah bắt đầu làm ở bệnh viện Sunset Bay. Green Valley là bệnh viện cô quyết định không tới (\"decided not to leave … for Green Valley Hospital\"). Trường y là nơi cô vừa tốt nghiệp. Trạm cứu hoả là chỗ Ethan làm (\"the guys at the fire station\").",
+      "tip": "Câu hỏi có mốc thời gian (in July) thì tìm đúng mốc đó trong bài. Chữ there trong \"I start there\" chỉ nơi vừa nêu ngay trước nó."
+    },
+    {
+      "id": "q_u13_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u13_01",
+      "i18n": {
+        "en": "Why did Leah decide not to go to Green Valley Hospital?",
+        "vi": "Vì sao Leah quyết định không tới bệnh viện Green Valley?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She didn't want to leave the people and things she loves in San Diego.",
+            "vi": "Cô không muốn rời xa những người và những thứ cô yêu quý ở San Diego."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She didn't want to leave the people and things she loves in San Diego.",
+          "text_translation": "Cô không muốn rời xa những người và những thứ cô yêu quý ở San Diego."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Ethan asked her not to go.",
+            "vi": "Ethan xin cô đừng đi."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Ethan asked her not to go.",
+          "text_translation": "Ethan xin cô đừng đi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Green Valley Hospital didn't choose her.",
+            "vi": "Bệnh viện Green Valley không chọn cô."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Green Valley Hospital didn't choose her.",
+          "text_translation": "Bệnh viện Green Valley không chọn cô."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She wanted to work at Harriet's with Chloe.",
+            "vi": "Cô muốn làm ở quán Harriet's cùng Chloe."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She wanted to work at Harriet's with Chloe.",
+          "text_translation": "Cô muốn làm ở quán Harriet's cùng Chloe."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"I decided not to leave my family, my friends and Harriet's soup for Green Valley Hospital.\" Decide not to + V = quyết định không làm gì: cô không muốn bỏ gia đình, bạn bè (và cả món súp của bà Harriet) ở lại. \"asked me not to\" là lời của Ethan về chuyện nướng bánh, không phải về bệnh viện. Bài không nói Green Valley từ chối cô: Sunset Bay chỉ là nơi cô chọn đầu tiên (\"my first choice\"). Leah không định làm ở quán Harriet's."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Decide not to + V (quyết định không…), ask someone not to + V (xin ai đừng…): chữ not đứng TRƯỚC to. Xem kỹ ai là người \"decide\", ai là người \"ask\"."
+      },
+      "question_jp": "Why did Leah decide not to go to Green Valley Hospital?",
+      "question_vn": "Vì sao Leah quyết định không tới bệnh viện Green Valley?",
+      "explanation": "\"I decided not to leave my family, my friends and Harriet's soup for Green Valley Hospital.\" Decide not to + V = quyết định không làm gì: cô không muốn bỏ gia đình, bạn bè (và cả món súp của bà Harriet) ở lại. \"asked me not to\" là lời của Ethan về chuyện nướng bánh, không phải về bệnh viện. Bài không nói Green Valley từ chối cô: Sunset Bay chỉ là nơi cô chọn đầu tiên (\"my first choice\"). Leah không định làm ở quán Harriet's.",
+      "tip": "Decide not to + V (quyết định không…), ask someone not to + V (xin ai đừng…): chữ not đứng TRƯỚC to. Xem kỹ ai là người \"decide\", ai là người \"ask\"."
+    },
+    {
+      "id": "q_u13_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u13_01",
+      "i18n": {
+        "en": "Why did the guys at the fire station ask Ethan not to bake the cake?",
+        "vi": "Vì sao mấy anh em ở trạm cứu hoả xin Ethan đừng nướng bánh?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They wanted to bake it for Leah.",
+            "vi": "Họ muốn tự nướng bánh tặng Leah."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They wanted to bake it for Leah.",
+          "text_translation": "Họ muốn tự nướng bánh tặng Leah."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Cakes from Harriet's are cheaper.",
+            "vi": "Bánh ở quán Harriet's rẻ hơn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Cakes from Harriet's are cheaper.",
+          "text_translation": "Bánh ở quán Harriet's rẻ hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He had no time before the ceremony.",
+            "vi": "Anh không có thời gian trước buổi lễ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He had no time before the ceremony.",
+          "text_translation": "Anh không có thời gian trước buổi lễ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They know that he is a bad cook.",
+            "vi": "Họ biết anh nấu ăn rất dở."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "They know that he is a bad cook.",
+          "text_translation": "Họ biết anh nấu ăn rất dở."
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. Ethan kể \"the guys at the fire station asked me not to\", và Leah nói ngay sau đó: \"I understand why: I've tried his rice.\" Leah đã ăn thử cơm Ethan nấu và hiểu lý do, nghĩa là Ethan nấu ăn dở, nên đồng nghiệp không muốn anh tự làm bánh. Bài không nói họ muốn tự nướng bánh, không so giá bánh, cũng không nói Ethan thiếu thời gian."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu \"I understand why: …\" đưa ra bằng chứng cho lý do. Hãy hỏi: chuyện \"I've tried his rice\" cho ta biết gì về Ethan?"
+      },
+      "question_jp": "Why did the guys at the fire station ask Ethan not to bake the cake?",
+      "question_vn": "Vì sao mấy anh em ở trạm cứu hoả xin Ethan đừng nướng bánh?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. Ethan kể \"the guys at the fire station asked me not to\", và Leah nói ngay sau đó: \"I understand why: I've tried his rice.\" Leah đã ăn thử cơm Ethan nấu và hiểu lý do, nghĩa là Ethan nấu ăn dở, nên đồng nghiệp không muốn anh tự làm bánh. Bài không nói họ muốn tự nướng bánh, không so giá bánh, cũng không nói Ethan thiếu thời gian.",
+      "tip": "Câu \"I understand why: …\" đưa ra bằng chứng cho lý do. Hãy hỏi: chuyện \"I've tried his rice\" cho ta biết gì về Ethan?"
+    },
+    {
+      "id": "q_u13_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u13_01",
+      "i18n": {
+        "en": "In \"I wonder if I should quit my job at Harriet's\", what is Chloe not sure about?",
+        "vi": "Trong câu \"I wonder if I should quit my job at Harriet's\", Chloe đang không chắc về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "if Harriet likes her drawings",
+            "vi": "bà Harriet có thích tranh của cô không"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "if Harriet likes her drawings",
+          "text_translation": "bà Harriet có thích tranh của cô không"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "if she should leave her job at the café",
+            "vi": "có nên bỏ việc ở quán không"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "if she should leave her job at the café",
+          "text_translation": "có nên bỏ việc ở quán không"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "if she is good at drawing",
+            "vi": "cô có vẽ giỏi không"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "if she is good at drawing",
+          "text_translation": "cô có vẽ giỏi không"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "if she should finish her design class",
+            "vi": "có nên học hết lớp thiết kế không"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "if she should finish her design class",
+          "text_translation": "có nên học hết lớp thiết kế không"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"I wonder if I should quit my job at Harriet's\": wonder if = tự hỏi liệu…, còn quit my job = bỏ việc. Vậy Chloe chưa biết có nên bỏ việc ở quán không. Cô có lý do để băn khoăn: \"I love Harriet, and I need the money.\" Chuyện vẽ giỏi thì cô giáo đã khẳng định (\"my teacher says I'm good at drawing\"). Học hết lớp thì cô đã có kế hoạch rõ: \"I plan to finish the class first\". Bài không nói bà Harriet đã xem tranh của Chloe."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "I wonder if… = tôi tự hỏi liệu…: phần đứng sau if chính là điều người nói chưa chắc."
+      },
+      "question_jp": "In \"I wonder if I should quit my job at Harriet's\", what is Chloe not sure about?",
+      "question_vn": "Trong câu \"I wonder if I should quit my job at Harriet's\", Chloe đang không chắc về điều gì?",
+      "explanation": "\"I wonder if I should quit my job at Harriet's\": wonder if = tự hỏi liệu…, còn quit my job = bỏ việc. Vậy Chloe chưa biết có nên bỏ việc ở quán không. Cô có lý do để băn khoăn: \"I love Harriet, and I need the money.\" Chuyện vẽ giỏi thì cô giáo đã khẳng định (\"my teacher says I'm good at drawing\"). Học hết lớp thì cô đã có kế hoạch rõ: \"I plan to finish the class first\". Bài không nói bà Harriet đã xem tranh của Chloe.",
+      "tip": "I wonder if… = tôi tự hỏi liệu…: phần đứng sau if chính là điều người nói chưa chắc."
+    },
+    {
+      "id": "q_u13_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u13_01",
+      "i18n": {
+        "en": "What does Harriet's question at the end show?",
+        "vi": "Câu hỏi của bà Harriet ở cuối bài cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet already knows about Chloe's class, and she likes the idea.",
+            "vi": "Bà Harriet đã biết chuyện Chloe đi học, và bà thấy ý đó hay."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Harriet already knows about Chloe's class, and she likes the idea.",
+          "text_translation": "Bà Harriet đã biết chuyện Chloe đi học, và bà thấy ý đó hay."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet wants Chloe to quit her job now.",
+            "vi": "Bà Harriet muốn Chloe nghỉ việc ngay."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Harriet wants Chloe to quit her job now.",
+          "text_translation": "Bà Harriet muốn Chloe nghỉ việc ngay."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Chloe told Harriet about the class before she told Leah.",
+            "vi": "Chloe đã kể với bà Harriet về lớp học trước khi kể với Leah."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Chloe told Harriet about the class before she told Leah.",
+          "text_translation": "Chloe đã kể với bà Harriet về lớp học trước khi kể với Leah."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet is angry because Chloe kept a secret.",
+            "vi": "Bà Harriet giận vì Chloe giữ bí mật."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet is angry because Chloe kept a secret.",
+          "text_translation": "Bà Harriet giận vì Chloe giữ bí mật."
+        }
+      ],
+      "evidence_segments": [
+        13,
+        17,
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. Chloe giữ kín chuyện lớp học vì sợ phải bỏ việc ở quán. Vậy mà bà Harriet hỏi ngay \"when can you design a new sign for my café?\": bà đã biết Chloe học thiết kế, và còn muốn nhờ Chloe làm biển cho quán, tức là bà ủng hộ. Mặt Chloe đỏ lên vì bí mật đã lộ, và Leah kết: \"Nobody keeps a secret from Harriet on Maple Street!\" Bà không bảo Chloe nghỉ việc, cũng không giận. Bài không nói Chloe kể cho bà trước: chính vì không ai kể mà câu \"Nobody keeps a secret\" mới buồn cười."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận về cảm xúc: nhìn việc nhân vật LÀM (nhờ thiết kế biển mới) chứ không chỉ lời nói. Nhờ ai làm việc cho mình thường là dấu hiệu tin tưởng, ủng hộ."
+      },
+      "question_jp": "What does Harriet's question at the end show?",
+      "question_vn": "Câu hỏi của bà Harriet ở cuối bài cho thấy điều gì?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. Chloe giữ kín chuyện lớp học vì sợ phải bỏ việc ở quán. Vậy mà bà Harriet hỏi ngay \"when can you design a new sign for my café?\": bà đã biết Chloe học thiết kế, và còn muốn nhờ Chloe làm biển cho quán, tức là bà ủng hộ. Mặt Chloe đỏ lên vì bí mật đã lộ, và Leah kết: \"Nobody keeps a secret from Harriet on Maple Street!\" Bà không bảo Chloe nghỉ việc, cũng không giận. Bài không nói Chloe kể cho bà trước: chính vì không ai kể mà câu \"Nobody keeps a secret\" mới buồn cười.",
+      "tip": "Câu suy luận về cảm xúc: nhìn việc nhân vật LÀM (nhờ thiết kế biển mới) chứ không chỉ lời nói. Nhờ ai làm việc cho mình thường là dấu hiệu tin tưởng, ủng hộ."
+    },
+    {
+      "id": "q_u13_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u13_02",
+      "i18n": {
+        "en": "What is the article mainly about?",
+        "vi": "Bài báo chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how to become an app designer",
+            "vi": "làm thế nào để trở thành nhà thiết kế ứng dụng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how to become an app designer",
+          "text_translation": "làm thế nào để trở thành nhà thiết kế ứng dụng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "areas that will need workers, and skills for future jobs",
+            "vi": "những lĩnh vực sẽ cần người làm, và kỹ năng cho các nghề trong tương lai"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "areas that will need workers, and skills for future jobs",
+          "text_translation": "những lĩnh vực sẽ cần người làm, và kỹ năng cho các nghề trong tương lai"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "why AI tools make mistakes",
+            "vi": "vì sao công cụ AI mắc lỗi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "why AI tools make mistakes",
+          "text_translation": "vì sao công cụ AI mắc lỗi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "how to earn a lot of money",
+            "vi": "làm thế nào để kiếm thật nhiều tiền"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "how to earn a lot of money",
+          "text_translation": "làm thế nào để kiếm thật nhiều tiền"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        15,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"Experts strongly believe that three areas will need many new workers soon.\" Sau đó bài lần lượt nói về ba lĩnh vực (AI và dữ liệu, năng lượng sạch hơn, chăm sóc sức khoẻ) rồi tới mục \"Skills for every job\". App designer chỉ là ví dụ ở câu mở bài. AI mắc lỗi chỉ là một chi tiết trong mục AI. Bài còn khuyên \"don't only ask how much money you can earn\", nên không phải bài dạy kiếm tiền."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Tìm ý chính: đọc câu giới thiệu ở đầu bài và các tiêu đề nhỏ. Phương án chỉ khớp một đoạn (một chi tiết) thường là phương án nhiễu."
+      },
+      "question_jp": "What is the article mainly about?",
+      "question_vn": "Bài báo chủ yếu nói về điều gì?",
+      "explanation": "\"Experts strongly believe that three areas will need many new workers soon.\" Sau đó bài lần lượt nói về ba lĩnh vực (AI và dữ liệu, năng lượng sạch hơn, chăm sóc sức khoẻ) rồi tới mục \"Skills for every job\". App designer chỉ là ví dụ ở câu mở bài. AI mắc lỗi chỉ là một chi tiết trong mục AI. Bài còn khuyên \"don't only ask how much money you can earn\", nên không phải bài dạy kiếm tiền.",
+      "tip": "Tìm ý chính: đọc câu giới thiệu ở đầu bài và các tiêu đề nhỏ. Phương án chỉ khớp một đoạn (một chi tiết) thường là phương án nhiễu."
+    },
+    {
+      "id": "q_u13_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u13_02",
+      "i18n": {
+        "en": "Why do companies need people who can check the answers of AI tools?",
+        "vi": "Vì sao các công ty cần người kiểm tra được câu trả lời của công cụ AI?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "AI tools are very slow.",
+            "vi": "Công cụ AI rất chậm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "AI tools are very slow.",
+          "text_translation": "Công cụ AI rất chậm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Journalists and lawyers don't like AI tools.",
+            "vi": "Nhà báo và luật sư không thích công cụ AI."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Journalists and lawyers don't like AI tools.",
+          "text_translation": "Nhà báo và luật sư không thích công cụ AI."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Managers can't understand numbers.",
+            "vi": "Các nhà quản lý không hiểu số liệu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Managers can't understand numbers.",
+          "text_translation": "Các nhà quản lý không hiểu số liệu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "AI tools sometimes make mistakes.",
+            "vi": "Công cụ AI đôi khi mắc lỗi."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "AI tools sometimes make mistakes.",
+          "text_translation": "Công cụ AI đôi khi mắc lỗi."
+        }
+      ],
+      "evidence_segments": [
+        5,
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"But they sometimes make mistakes, so companies need people who can check their answers.\" Chữ so nối lý do (AI đôi khi sai) với kết quả (cần người kiểm tra). AI làm việc \"in seconds\", nên không chậm. Nhà báo, biên tập viên, luật sư \"already use them at work\", không phải không thích. Bài nói chuyên gia dữ liệu giải thích số liệu cho nhà quản lý, không nói nhà quản lý không hiểu số."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "X, so Y = X nên Y. Câu hỏi Why…? hỏi về Y thì đáp án là phần X đứng trước so."
+      },
+      "question_jp": "Why do companies need people who can check the answers of AI tools?",
+      "question_vn": "Vì sao các công ty cần người kiểm tra được câu trả lời của công cụ AI?",
+      "explanation": "\"But they sometimes make mistakes, so companies need people who can check their answers.\" Chữ so nối lý do (AI đôi khi sai) với kết quả (cần người kiểm tra). AI làm việc \"in seconds\", nên không chậm. Nhà báo, biên tập viên, luật sư \"already use them at work\", không phải không thích. Bài nói chuyên gia dữ liệu giải thích số liệu cho nhà quản lý, không nói nhà quản lý không hiểu số.",
+      "tip": "X, so Y = X nên Y. Câu hỏi Why…? hỏi về Y thì đáp án là phần X đứng trước so."
+    },
+    {
+      "id": "q_u13_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u13_02",
+      "i18n": {
+        "en": "In \"These people need special training, but they do not always need a university degree\", who are \"These people\"?",
+        "vi": "Trong câu \"These people need special training, but they do not always need a university degree\", \"These people\" là ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "data experts",
+            "vi": "các chuyên gia dữ liệu"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "data experts",
+          "text_translation": "các chuyên gia dữ liệu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "doctors and nurses",
+            "vi": "bác sĩ và y tá"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "doctors and nurses",
+          "text_translation": "bác sĩ và y tá"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "people who put in and repair solar panels and operate wind machines",
+            "vi": "những người lắp, sửa tấm pin mặt trời và vận hành máy phát điện gió"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "people who put in and repair solar panels and operate wind machines",
+          "text_translation": "những người lắp, sửa tấm pin mặt trời và vận hành máy phát điện gió"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "managers at big companies",
+            "vi": "các nhà quản lý ở công ty lớn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "managers at big companies",
+          "text_translation": "các nhà quản lý ở công ty lớn"
+        }
+      ],
+      "evidence_segments": [
+        10,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Ngay trước đó là câu \"Someone has to put in the solar panels, repair them and operate the wind machines.\" \"These people\" là những người làm các việc vừa kể, trong mục \"Cleaner energy\". Chuyên gia dữ liệu và nhà quản lý thuộc mục AI. Bác sĩ và y tá ở mục \"Health care\", sau câu này."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "These / this thường chỉ thứ vừa nhắc tới ở câu ngay trước. Đọc lùi một câu, và để ý câu đó nằm dưới tiêu đề nhỏ nào."
+      },
+      "question_jp": "In \"These people need special training, but they do not always need a university degree\", who are \"These people\"?",
+      "question_vn": "Trong câu \"These people need special training, but they do not always need a university degree\", \"These people\" là ai?",
+      "explanation": "Ngay trước đó là câu \"Someone has to put in the solar panels, repair them and operate the wind machines.\" \"These people\" là những người làm các việc vừa kể, trong mục \"Cleaner energy\". Chuyên gia dữ liệu và nhà quản lý thuộc mục AI. Bác sĩ và y tá ở mục \"Health care\", sau câu này.",
+      "tip": "These / this thường chỉ thứ vừa nhắc tới ở câu ngay trước. Đọc lùi một câu, và để ý câu đó nằm dưới tiêu đề nhỏ nào."
+    },
+    {
+      "id": "q_u13_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u13_02",
+      "i18n": {
+        "en": "What does the writer mean by \"a robot can't hold a patient's hand\"?",
+        "vi": "Người viết muốn nói gì qua câu \"a robot can't hold a patient's hand\" (rô-bốt không thể nắm tay người bệnh)?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Patients will still need real people to care for them.",
+            "vi": "Người bệnh vẫn sẽ cần người thật chăm sóc mình."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Patients will still need real people to care for them.",
+          "text_translation": "Người bệnh vẫn sẽ cần người thật chăm sóc mình."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Machines are not useful in health care.",
+            "vi": "Máy móc không có ích gì trong chăm sóc sức khoẻ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Machines are not useful in health care.",
+          "text_translation": "Máy móc không có ích gì trong chăm sóc sức khoẻ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Patients don't like machines.",
+            "vi": "Người bệnh không thích máy móc."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Patients don't like machines.",
+          "text_translation": "Người bệnh không thích máy móc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Robots will soon do all the work of nurses.",
+            "vi": "Rô-bốt sắp làm hết việc của y tá."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Robots will soon do all the work of nurses.",
+          "text_translation": "Rô-bốt sắp làm hết việc của y tá."
+        }
+      ],
+      "evidence_segments": [
+        13,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. \"Machines can help with some tasks, but a robot can't hold a patient's hand.\" Nắm tay người bệnh là sự an ủi, quan tâm mà chỉ con người mới làm được. Vì thế bài nói \"there is more work for doctors, nurses and care workers\": nghề chăm sóc vẫn cần người. Máy móc vẫn có ích (\"can help with some tasks\"). Bài không nói người bệnh ghét máy móc, và câu này nói ngược với ý \"rô-bốt làm hết việc\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Khi người viết đưa ra một hình ảnh cụ thể (nắm tay), hãy hỏi: hình ảnh đó tượng trưng cho điều gì? Rồi đối chiếu với câu chính của đoạn."
+      },
+      "question_jp": "What does the writer mean by \"a robot can't hold a patient's hand\"?",
+      "question_vn": "Người viết muốn nói gì qua câu \"a robot can't hold a patient's hand\" (rô-bốt không thể nắm tay người bệnh)?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. \"Machines can help with some tasks, but a robot can't hold a patient's hand.\" Nắm tay người bệnh là sự an ủi, quan tâm mà chỉ con người mới làm được. Vì thế bài nói \"there is more work for doctors, nurses and care workers\": nghề chăm sóc vẫn cần người. Máy móc vẫn có ích (\"can help with some tasks\"). Bài không nói người bệnh ghét máy móc, và câu này nói ngược với ý \"rô-bốt làm hết việc\".",
+      "tip": "Khi người viết đưa ra một hình ảnh cụ thể (nắm tay), hãy hỏi: hình ảnh đó tượng trưng cho điều gì? Rồi đối chiếu với câu chính của đoạn."
+    },
+    {
+      "id": "q_u13_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u13_02",
+      "i18n": {
+        "en": "What does the writer advise readers to do when they think about their future?",
+        "vi": "Người viết khuyên người đọc làm gì khi nghĩ về tương lai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Choose the job that earns the most money.",
+            "vi": "Chọn nghề kiếm được nhiều tiền nhất."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Choose the job that earns the most money.",
+          "text_translation": "Chọn nghề kiếm được nhiều tiền nhất."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Think about what they are good at and enjoy, and keep learning.",
+            "vi": "Nghĩ xem mình giỏi gì, thích gì, và không ngừng học."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Think about what they are good at and enjoy, and keep learning.",
+          "text_translation": "Nghĩ xem mình giỏi gì, thích gì, và không ngừng học."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Learn everything at school, and then stop.",
+            "vi": "Học hết mọi thứ ở trường rồi thôi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Learn everything at school, and then stop.",
+          "text_translation": "Học hết mọi thứ ở trường rồi thôi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Choose a job that doesn't need a university degree.",
+            "vi": "Chọn nghề không cần bằng đại học."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Choose a job that doesn't need a university degree.",
+          "text_translation": "Chọn nghề không cần bằng đại học."
+        }
+      ],
+      "evidence_segments": [
+        18,
+        19,
+        20
+      ],
+      "explanation_i18n": {
+        "vi": "\"don't only ask how much money you can earn. Also ask what you are good at and what you enjoy doing.\" Bài cũng khuyên \"Your education does not end at school, so don't be afraid to be a beginner again.\" Vì vậy không phải chỉ nhìn vào tiền, và cũng không phải học xong ở trường là thôi. Câu \"they do not always need a university degree\" chỉ nói về nghề năng lượng sạch, không phải lời khuyên tránh bằng đại học."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Lời khuyên thường ở cuối bài, dưới dạng mệnh lệnh (ask…, don't be afraid…). Chú ý chữ only: \"don't only ask\" là \"đừng CHỈ hỏi\", không phải \"đừng hỏi\"."
+      },
+      "question_jp": "What does the writer advise readers to do when they think about their future?",
+      "question_vn": "Người viết khuyên người đọc làm gì khi nghĩ về tương lai?",
+      "explanation": "\"don't only ask how much money you can earn. Also ask what you are good at and what you enjoy doing.\" Bài cũng khuyên \"Your education does not end at school, so don't be afraid to be a beginner again.\" Vì vậy không phải chỉ nhìn vào tiền, và cũng không phải học xong ở trường là thôi. Câu \"they do not always need a university degree\" chỉ nói về nghề năng lượng sạch, không phải lời khuyên tránh bằng đại học.",
+      "tip": "Lời khuyên thường ở cuối bài, dưới dạng mệnh lệnh (ask…, don't be afraid…). Chú ý chữ only: \"don't only ask\" là \"đừng CHỈ hỏi\", không phải \"đừng hỏi\"."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u13_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Ngày Leah trở thành bác sĩ",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u13_01",
+      "question_ids": [
+        "q_u13_001",
+        "q_u13_002",
+        "q_u13_003",
+        "q_u13_004",
+        "q_u13_005"
+      ]
+    },
+    {
+      "set_id": "set_u13_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Bài báo \"Nghề của tương lai\"",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u13_02",
+      "question_ids": [
+        "q_u13_006",
+        "q_u13_007",
+        "q_u13_008",
+        "q_u13_009",
+        "q_u13_010"
+      ]
+    }
+  ]
+}

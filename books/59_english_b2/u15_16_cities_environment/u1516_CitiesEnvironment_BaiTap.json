@@ -1,0 +1,1996 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 15–16 — Cities & Environment issues",
+      "vi": "Đô thị & Vấn đề môi trường"
+    },
+    "title": "Units 15–16 — Cities & Environment issues",
+    "title_vn": "Đô thị & Vấn đề môi trường",
+    "module_code": "59_u1516",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.u15+u16",
+    "curriculum_sheets": [
+      "b2.057",
+      "b2.058",
+      "b2.059",
+      "b2.060",
+      "b2.061",
+      "b2.062",
+      "b2.063",
+      "b2.064"
+    ],
+    "characters": [
+      "Helena Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 9, năm 6"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "The fact that, ngôn ngữ quy trình, điều kiện loại 3, chuỗi nguyên nhân",
+    "description_vn": "Helena viết báo cáo kế hoạch biến bãi đỗ xe sau thư viện thành công viên nhỏ, và bài khoa học về rừng tảo bẹ California biến mất rồi hồi sinh. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 15 + Unit 16 khoá B2 · phiếu `b2.057` – `b2.064` (the fact that, quy hoạch đô thị, nhà ở, giao thông; câu điều kiện loại 3, hành động vì khí hậu, năng lượng tái tạo, bảo vệ động vật hoang dã)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bản báo cáo kế hoạch thi công và một bài khoa học môi trường; hiểu `the fact that + mệnh đề`, ngôn ngữ quy trình (First, Next, Once…, Finally; bị động will be + V3), ngôn ngữ vị trí (opposite, along the north side), câu điều kiện loại 3 và đảo ngữ `Had…`, và chuỗi nguyên nhân – kết quả."
+    },
+    "extra_words": [
+      {
+        "word": "sea otter",
+        "i18n": {
+          "vi": "rái cá biển"
+        }
+      },
+      {
+        "word": "rainwater",
+        "i18n": {
+          "vi": "nước mưa"
+        }
+      },
+      {
+        "word": "pocket park",
+        "i18n": {
+          "vi": "công viên bỏ túi (công viên rất nhỏ trong phố)"
+        }
+      },
+      {
+        "word": "parking lot",
+        "i18n": {
+          "vi": "bãi đỗ xe"
+        }
+      },
+      {
+        "word": "survey",
+        "i18n": {
+          "vi": "khảo sát"
+        }
+      },
+      {
+        "word": "asphalt",
+        "i18n": {
+          "vi": "nhựa đường"
+        }
+      },
+      {
+        "word": "stroller",
+        "i18n": {
+          "vi": "xe đẩy em bé"
+        }
+      },
+      {
+        "word": "kelp",
+        "i18n": {
+          "vi": "tảo bẹ"
+        }
+      },
+      {
+        "word": "seaweed",
+        "i18n": {
+          "vi": "rong biển"
+        }
+      },
+      {
+        "word": "sea star",
+        "i18n": {
+          "vi": "sao biển"
+        }
+      },
+      {
+        "word": "sea urchin",
+        "i18n": {
+          "vi": "nhím biển"
+        }
+      },
+      {
+        "word": "predator",
+        "i18n": {
+          "vi": "kẻ săn mồi"
+        }
+      },
+      {
+        "word": "multiply",
+        "i18n": {
+          "vi": "sinh sôi, tăng lên"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "within walking distance",
+          "vi": "trong khoảng đi bộ được"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take into account",
+          "vi": "tính tới"
+        }
+      },
+      {
+        "i18n": {
+          "en": "if all goes to plan",
+          "vi": "nếu mọi việc theo đúng kế hoạch"
+        }
+      },
+      {
+        "i18n": {
+          "en": "give shade",
+          "vi": "che bóng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "keep under control",
+          "vi": "kìm giữ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "grow back",
+          "vi": "mọc lại"
+        }
+      },
+      {
+        "i18n": {
+          "en": "restore the balance",
+          "vi": "khôi phục thế cân bằng"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Văn bản quy trình: đánh dấu `First`, `Next`, `Once…`, `Finally`. Câu hỏi thứ tự và mục đích (`so that…`) nằm trong từng bước."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Ngôn ngữ vị trí (`in the southeast corner, opposite the ramp`): vẽ nhanh một sơ đồ nhỏ ra giấy nháp."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`Had + S + V3, … would have + V3` = If + S + had V3: chuyện trái với quá khứ. Đáp án đúng luôn nói điều NGƯỢC LẠI đã xảy ra."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Chuỗi nguyên nhân (nước ấm → sao biển chết → nhím tăng → tảo bẹ mất): câu hỏi \"Why…?\" thường hỏi đúng mắt xích ngay trước."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u1516_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 15) — Helena biến bãi đỗ xe thành công viên nhỏ"
+      },
+      "narrator": "Helena",
+      "title": "From Parking Lot to Pocket Park: How It Will Happen",
+      "category": "report",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "From Parking Lot to Pocket Park: How It Will Happen",
+            "vi": "Từ bãi đỗ xe thành công viên bỏ túi: mọi việc sẽ diễn ra thế nào"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Written by: Helena Brooks, for the Maple Street Neighbors Group",
+            "vi": "Người viết: Helena Brooks, cho Nhóm hàng xóm Maple Street"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Behind the Pine Street Library, there is a parking lot with forty spaces. It is about the size of six tennis courts, and on most days, fewer than ten cars are parked there.",
+            "vi": "Phía sau thư viện Pine Street có một bãi đỗ xe bốn mươi chỗ. Nó rộng chừng sáu sân quần vợt, và hầu hết các ngày chỉ có dưới mười chiếc xe đỗ ở đó."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The fact that it is almost always empty, while our street has no park within walking distance, is what gave us the idea.",
+            "vi": "Chính việc bãi này gần như lúc nào cũng trống, trong khi phố mình không có công viên nào trong khoảng đi bộ được, đã cho chúng ta ý tưởng."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After two neighborhood meetings and a survey that 214 of you answered, the library has agreed to turn the lot into a small public park.",
+            "vi": "Sau hai buổi họp khu phố và một cuộc khảo sát có 214 người trả lời, thư viện đã đồng ý biến bãi đỗ thành một công viên công cộng nhỏ."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Here is how the work will be done.",
+            "vi": "Công việc sẽ được tiến hành như sau."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "First, in October, the old fence will be taken down and the asphalt will be removed. About a third of it will be broken up and used again under the new paths.",
+            "vi": "Trước hết, vào tháng Mười, hàng rào cũ sẽ được dỡ đi và lớp nhựa đường sẽ được bóc lên. Khoảng một phần ba sẽ được đập nhỏ và dùng lại làm nền cho lối đi mới."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Next, the ground will be prepared, and a small drain will be added in the lowest corner so that rainwater doesn't collect there.",
+            "vi": "Tiếp theo, nền đất sẽ được chuẩn bị, và một rãnh thoát nước nhỏ sẽ được làm ở góc trũng nhất để nước mưa không đọng lại."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Once the ground is ready, twelve native trees will be planted along the north side, where they will give shade to the benches in the afternoon.",
+            "vi": "Khi nền đất đã xong, mười hai cây bản địa sẽ được trồng dọc phía bắc, nơi chúng sẽ che bóng cho những băng ghế vào buổi chiều."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Finally, a gentle ramp will be built at the entrance next to the library, so that the park can be reached easily by people in wheelchairs and parents with strollers.",
+            "vi": "Cuối cùng, một đường dốc thoải sẽ được làm ở lối vào cạnh thư viện, để người đi xe lăn và bố mẹ đẩy xe nôi có thể vào công viên dễ dàng."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In the southeast corner, opposite the ramp, you will find the little free library that the neighbors group has been planning since last winter.",
+            "vi": "Ở góc đông nam, đối diện đường dốc, sẽ là tủ sách miễn phí mà nhóm hàng xóm đã lên kế hoạch từ mùa đông năm ngoái."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ten parking spaces will be kept along the street for library visitors, which should be more than enough, judging from the survey.",
+            "vi": "Mười chỗ đỗ xe sẽ được giữ lại dọc đường cho khách tới thư viện, theo kết quả khảo sát thì như vậy là thừa đủ."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some neighbors have asked whether removing parking will cause problems.",
+            "vi": "Một số hàng xóm đã hỏi việc bỏ chỗ đỗ xe có gây phiền toái không."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We have taken this into account. During the busy library events on Saturday mornings, cars will be allowed to use the community center's parking lot across the road, by agreement with its owners.",
+            "vi": "Chúng tôi đã tính tới điều này. Trong những buổi sự kiện đông người ở thư viện sáng thứ Bảy, ô tô sẽ được đỗ ở bãi xe của nhà văn hoá bên kia đường, theo thoả thuận với chủ bãi."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If all goes to plan, the park will be open by the end of January. Volunteers for the tree-planting weekend are very welcome. Bring gloves!",
+            "vi": "Nếu mọi việc theo đúng kế hoạch, công viên sẽ mở cửa vào cuối tháng Một. Rất hoan nghênh tình nguyện viên cho cuối tuần trồng cây. Nhớ mang găng tay!"
+          }
+        }
+      ],
+      "content_ja": "From Parking Lot to Pocket Park: How It Will Happen\n\nWritten by: Helena Brooks, for the Maple Street Neighbors Group\n\nBehind the Pine Street Library, there is a parking lot with forty spaces. It is about the size of six tennis courts, and on most days, fewer than ten cars are parked there. The fact that it is almost always empty, while our street has no park within walking distance, is what gave us the idea. After two neighborhood meetings and a survey that 214 of you answered, the library has agreed to turn the lot into a small public park.\n\nHere is how the work will be done. First, in October, the old fence will be taken down and the asphalt will be removed. About a third of it will be broken up and used again under the new paths. Next, the ground will be prepared, and a small drain will be added in the lowest corner so that rainwater doesn't collect there. Once the ground is ready, twelve native trees will be planted along the north side, where they will give shade to the benches in the afternoon. Finally, a gentle ramp will be built at the entrance next to the library, so that the park can be reached easily by people in wheelchairs and parents with strollers.\n\nIn the southeast corner, opposite the ramp, you will find the little free library that the neighbors group has been planning since last winter. Ten parking spaces will be kept along the street for library visitors, which should be more than enough, judging from the survey.\n\nSome neighbors have asked whether removing parking will cause problems. We have taken this into account. During the busy library events on Saturday mornings, cars will be allowed to use the community center's parking lot across the road, by agreement with its owners. If all goes to plan, the park will be open by the end of January. Volunteers for the tree-planting weekend are very welcome. Bring gloves!",
+      "translation_vn": "(1) Từ bãi đỗ xe thành công viên bỏ túi: mọi việc sẽ diễn ra thế nào\n(2) Người viết: Helena Brooks, cho Nhóm hàng xóm Maple Street\n(3) Phía sau thư viện Pine Street có một bãi đỗ xe bốn mươi chỗ. Nó rộng chừng sáu sân quần vợt, và hầu hết các ngày chỉ có dưới mười chiếc xe đỗ ở đó.\n(4) Chính việc bãi này gần như lúc nào cũng trống, trong khi phố mình không có công viên nào trong khoảng đi bộ được, đã cho chúng ta ý tưởng.\n(5) Sau hai buổi họp khu phố và một cuộc khảo sát có 214 người trả lời, thư viện đã đồng ý biến bãi đỗ thành một công viên công cộng nhỏ.\n(6) Công việc sẽ được tiến hành như sau.\n(7) Trước hết, vào tháng Mười, hàng rào cũ sẽ được dỡ đi và lớp nhựa đường sẽ được bóc lên. Khoảng một phần ba sẽ được đập nhỏ và dùng lại làm nền cho lối đi mới.\n(8) Tiếp theo, nền đất sẽ được chuẩn bị, và một rãnh thoát nước nhỏ sẽ được làm ở góc trũng nhất để nước mưa không đọng lại.\n(9) Khi nền đất đã xong, mười hai cây bản địa sẽ được trồng dọc phía bắc, nơi chúng sẽ che bóng cho những băng ghế vào buổi chiều.\n(10) Cuối cùng, một đường dốc thoải sẽ được làm ở lối vào cạnh thư viện, để người đi xe lăn và bố mẹ đẩy xe nôi có thể vào công viên dễ dàng.\n(11) Ở góc đông nam, đối diện đường dốc, sẽ là tủ sách miễn phí mà nhóm hàng xóm đã lên kế hoạch từ mùa đông năm ngoái.\n(12) Mười chỗ đỗ xe sẽ được giữ lại dọc đường cho khách tới thư viện, theo kết quả khảo sát thì như vậy là thừa đủ.\n(13) Một số hàng xóm đã hỏi việc bỏ chỗ đỗ xe có gây phiền toái không.\n(14) Chúng tôi đã tính tới điều này. Trong những buổi sự kiện đông người ở thư viện sáng thứ Bảy, ô tô sẽ được đỗ ở bãi xe của nhà văn hoá bên kia đường, theo thoả thuận với chủ bãi.\n(15) Nếu mọi việc theo đúng kế hoạch, công viên sẽ mở cửa vào cuối tháng Một. Rất hoan nghênh tình nguyện viên cho cuối tuần trồng cây. Nhớ mang găng tay!",
+      "word_count": 334,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.057",
+        "b2.058",
+        "b2.059",
+        "b2.060"
+      ]
+    },
+    {
+      "id": "passage_u1516_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 16) — Rừng tảo bẹ California biến mất và hồi sinh"
+      },
+      "narrator": "announcer",
+      "title": "The Disappearing Forests Under the Sea",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Disappearing Forests Under the Sea",
+            "vi": "Những cánh rừng biến mất dưới đáy biển"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Off the coast of California, there are forests that most people will never see.",
+            "vi": "Ngoài khơi California có những cánh rừng mà phần lớn mọi người sẽ không bao giờ nhìn thấy."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They are made of kelp, a type of large seaweed that can grow up to half a meter in a single day, and they are home to fish, seals, sea otters and thousands of smaller creatures.",
+            "vi": "Chúng được tạo thành từ tảo bẹ, một loại rong biển lớn có thể dài thêm tới nửa mét chỉ trong một ngày, và là nhà của cá, hải cẩu, rái cá biển cùng hàng nghìn sinh vật nhỏ hơn."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Since 2014, however, more than 90 percent of the kelp forests along parts of the northern California coast have disappeared.",
+            "vi": "Tuy nhiên từ năm 2014, hơn 90 phần trăm rừng tảo bẹ dọc một số đoạn bờ biển bắc California đã biến mất."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Scientists believe that several problems arrived at almost the same time.",
+            "vi": "Các nhà khoa học cho rằng nhiều vấn đề đã ập tới gần như cùng một lúc."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "First, an unusually long period of warm water, which lasted from 2014 to 2016, weakened the kelp, which grows best in cold water.",
+            "vi": "Thứ nhất, một đợt nước ấm dài bất thường, kéo dài từ năm 2014 tới 2016, làm suy yếu tảo bẹ, loài phát triển tốt nhất trong nước lạnh."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At around the same time, a disease killed millions of sea stars along the coast, including the sunflower sea star, one of the main predators of purple sea urchins.",
+            "vi": "Cùng thời gian đó, một dịch bệnh giết chết hàng triệu con sao biển dọc bờ, trong đó có sao biển hướng dương, một trong những kẻ săn mồi chính của nhím biển tím."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "With nothing to control them, the urchins multiplied rapidly and ate their way through what was left of the kelp.",
+            "vi": "Không còn gì kìm hãm, nhím biển sinh sôi nhanh chóng và gặm sạch phần tảo bẹ còn lại."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Where forests once stood, there are now \"urchin barrens\": rocky sea floors covered in thousands of urchins and almost nothing else.",
+            "vi": "Nơi từng là rừng, giờ là những \"bãi nhím\": đáy biển toàn đá, phủ kín hàng nghìn con nhím biển và hầu như chẳng còn gì khác."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The damage has spread to people, too. Had the kelp survived, many divers and fishing businesses would not have lost their work.",
+            "vi": "Thiệt hại cũng lan tới con người. Nếu tảo bẹ còn sống, nhiều thợ lặn và cơ sở đánh bắt đã không mất việc."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If the sea stars had not died, scientists say, the urchins would probably have been kept under control.",
+            "vi": "Các nhà khoa học nói, nếu sao biển không chết, có lẽ nhím biển đã bị kìm giữ."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There is some hope.",
+            "vi": "Vẫn còn hy vọng."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In several small areas, volunteer divers have removed urchins by hand, and in some of those places, kelp has started to grow back within a year or two.",
+            "vi": "Ở một vài khu nhỏ, thợ lặn tình nguyện đã nhặt nhím biển bằng tay, và ở một số chỗ, tảo bẹ bắt đầu mọc lại chỉ sau một hai năm."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Further south, around Monterey, sea otters help, because they eat large numbers of urchins.",
+            "vi": "Xa hơn về phía nam, quanh Monterey, rái cá biển góp sức, vì chúng ăn rất nhiều nhím biển."
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Scientists are also trying to breed sunflower sea stars in laboratories so that they can one day be returned to the wild.",
+            "vi": "Các nhà khoa học còn đang thử nhân giống sao biển hướng dương trong phòng thí nghiệm để một ngày nào đó thả chúng về tự nhiên."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Kelp forests can recover quickly, but only if the balance between plants and animals is restored. As one diver put it, \"You can't just plant a forest. You have to give it a reason to stay.\"",
+            "vi": "Rừng tảo bẹ có thể hồi phục nhanh, nhưng chỉ khi thế cân bằng giữa thực vật và động vật được khôi phục. Như một thợ lặn nói: \"Không thể chỉ trồng một khu rừng. Phải cho nó một lý do để ở lại.\""
+          }
+        }
+      ],
+      "content_ja": "The Disappearing Forests Under the Sea\n\nOff the coast of California, there are forests that most people will never see. They are made of kelp, a type of large seaweed that can grow up to half a meter in a single day, and they are home to fish, seals, sea otters and thousands of smaller creatures.\n\nSince 2014, however, more than 90 percent of the kelp forests along parts of the northern California coast have disappeared. Scientists believe that several problems arrived at almost the same time. First, an unusually long period of warm water, which lasted from 2014 to 2016, weakened the kelp, which grows best in cold water. At around the same time, a disease killed millions of sea stars along the coast, including the sunflower sea star, one of the main predators of purple sea urchins. With nothing to control them, the urchins multiplied rapidly and ate their way through what was left of the kelp.\n\nWhere forests once stood, there are now \"urchin barrens\": rocky sea floors covered in thousands of urchins and almost nothing else. The damage has spread to people, too. Had the kelp survived, many divers and fishing businesses would not have lost their work. If the sea stars had not died, scientists say, the urchins would probably have been kept under control.\n\nThere is some hope. In several small areas, volunteer divers have removed urchins by hand, and in some of those places, kelp has started to grow back within a year or two. Further south, around Monterey, sea otters help, because they eat large numbers of urchins. Scientists are also trying to breed sunflower sea stars in laboratories so that they can one day be returned to the wild.\n\nKelp forests can recover quickly, but only if the balance between plants and animals is restored. As one diver put it, \"You can't just plant a forest. You have to give it a reason to stay.\"",
+      "translation_vn": "(1) Những cánh rừng biến mất dưới đáy biển\n(2) Ngoài khơi California có những cánh rừng mà phần lớn mọi người sẽ không bao giờ nhìn thấy.\n(3) Chúng được tạo thành từ tảo bẹ, một loại rong biển lớn có thể dài thêm tới nửa mét chỉ trong một ngày, và là nhà của cá, hải cẩu, rái cá biển cùng hàng nghìn sinh vật nhỏ hơn.\n(4) Tuy nhiên từ năm 2014, hơn 90 phần trăm rừng tảo bẹ dọc một số đoạn bờ biển bắc California đã biến mất.\n(5) Các nhà khoa học cho rằng nhiều vấn đề đã ập tới gần như cùng một lúc.\n(6) Thứ nhất, một đợt nước ấm dài bất thường, kéo dài từ năm 2014 tới 2016, làm suy yếu tảo bẹ, loài phát triển tốt nhất trong nước lạnh.\n(7) Cùng thời gian đó, một dịch bệnh giết chết hàng triệu con sao biển dọc bờ, trong đó có sao biển hướng dương, một trong những kẻ săn mồi chính của nhím biển tím.\n(8) Không còn gì kìm hãm, nhím biển sinh sôi nhanh chóng và gặm sạch phần tảo bẹ còn lại.\n(9) Nơi từng là rừng, giờ là những \"bãi nhím\": đáy biển toàn đá, phủ kín hàng nghìn con nhím biển và hầu như chẳng còn gì khác.\n(10) Thiệt hại cũng lan tới con người. Nếu tảo bẹ còn sống, nhiều thợ lặn và cơ sở đánh bắt đã không mất việc.\n(11) Các nhà khoa học nói, nếu sao biển không chết, có lẽ nhím biển đã bị kìm giữ.\n(12) Vẫn còn hy vọng.\n(13) Ở một vài khu nhỏ, thợ lặn tình nguyện đã nhặt nhím biển bằng tay, và ở một số chỗ, tảo bẹ bắt đầu mọc lại chỉ sau một hai năm.\n(14) Xa hơn về phía nam, quanh Monterey, rái cá biển góp sức, vì chúng ăn rất nhiều nhím biển.\n(15) Các nhà khoa học còn đang thử nhân giống sao biển hướng dương trong phòng thí nghiệm để một ngày nào đó thả chúng về tự nhiên.\n(16) Rừng tảo bẹ có thể hồi phục nhanh, nhưng chỉ khi thế cân bằng giữa thực vật và động vật được khôi phục. Như một thợ lặn nói: \"Không thể chỉ trồng một khu rừng. Phải cho nó một lý do để ở lại.\"",
+      "word_count": 320,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.061",
+        "b2.062",
+        "b2.063",
+        "b2.064"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u1516_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_01",
+      "i18n": {
+        "en": "What is the main purpose of Helena's report?",
+        "vi": "Mục đích chính của bản báo cáo của Helena là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to complain about the library for closing the parking lot",
+            "vi": "để phàn nàn thư viện vì đóng bãi đỗ xe"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to complain about the library for closing the parking lot",
+          "text_translation": "để phàn nàn thư viện vì đóng bãi đỗ xe"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to ask neighbors to stop driving to the library on Saturdays",
+            "vi": "để kêu gọi hàng xóm thôi lái xe tới thư viện vào thứ Bảy"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to ask neighbors to stop driving to the library on Saturdays",
+          "text_translation": "để kêu gọi hàng xóm thôi lái xe tới thư viện vào thứ Bảy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to explain how the parking lot will become a small park",
+            "vi": "để giải thích bãi đỗ xe sẽ trở thành một công viên nhỏ thế nào"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to explain how the parking lot will become a small park",
+          "text_translation": "để giải thích bãi đỗ xe sẽ trở thành một công viên nhỏ thế nào"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to sell parking spaces behind the library to neighbors",
+            "vi": "để bán chỗ đỗ xe sau thư viện cho hàng xóm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to sell parking spaces behind the library to neighbors",
+          "text_translation": "để bán chỗ đỗ xe sau thư viện cho hàng xóm"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Here is how the work will be done.\" Tiêu đề cũng ghi How It Will Happen. Phần chính kể từng bước thi công."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of Helena's report?",
+      "question_vn": "Mục đích chính của bản báo cáo của Helena là gì?",
+      "explanation": "\"Here is how the work will be done.\" Tiêu đề cũng ghi How It Will Happen. Phần chính kể từng bước thi công."
+    },
+    {
+      "id": "q_u1516_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_01",
+      "i18n": {
+        "en": "What gave the neighbors the idea for the park?",
+        "vi": "Điều gì đã cho hàng xóm ý tưởng làm công viên?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The lot is almost always empty, and no park is within walking distance.",
+            "vi": "Bãi đỗ gần như luôn trống, và không có công viên nào đi bộ tới được."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The lot is almost always empty, and no park is within walking distance.",
+          "text_translation": "Bãi đỗ gần như luôn trống, và không có công viên nào đi bộ tới được."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The library asked the neighbors to build a park for its visitors on Saturdays.",
+            "vi": "Thư viện nhờ hàng xóm xây công viên cho khách của họ vào thứ Bảy."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The library asked the neighbors to build a park for its visitors on Saturdays.",
+          "text_translation": "Thư viện nhờ hàng xóm xây công viên cho khách của họ vào thứ Bảy."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "A tennis club wanted to build six new courts for its members.",
+            "vi": "Một câu lạc bộ quần vợt muốn xây sáu sân mới cho hội viên."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "A tennis club wanted to build six new courts for its members.",
+          "text_translation": "Một câu lạc bộ quần vợt muốn xây sáu sân mới cho hội viên."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The parking lot was too small for the library's visitors.",
+            "vi": "Bãi đỗ quá nhỏ so với khách của thư viện."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The parking lot was too small for the library's visitors.",
+          "text_translation": "Bãi đỗ quá nhỏ so với khách của thư viện."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"The fact that it is almost always empty, while our street has no park within walking distance, is what gave us the idea.\" The fact that + mệnh đề làm chủ ngữ."
+      },
+      "audio_data": null,
+      "question_jp": "What gave the neighbors the idea for the park?",
+      "question_vn": "Điều gì đã cho hàng xóm ý tưởng làm công viên?",
+      "explanation": "\"The fact that it is almost always empty, while our street has no park within walking distance, is what gave us the idea.\" The fact that + mệnh đề làm chủ ngữ."
+    },
+    {
+      "id": "q_u1516_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_01",
+      "i18n": {
+        "en": "Why does Helena mention the survey that 214 neighbors answered?",
+        "vi": "Vì sao Helena nhắc tới cuộc khảo sát có 214 người trả lời?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that the park was Helena's own idea from the start",
+            "vi": "để cho thấy công viên là ý của riêng Helena từ đầu"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to show that the park was Helena's own idea from the start",
+          "text_translation": "để cho thấy công viên là ý của riêng Helena từ đầu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to complain that few people answered",
+            "vi": "để phàn nàn ít người trả lời"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to complain that few people answered",
+          "text_translation": "để phàn nàn ít người trả lời"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to explain how to fill in a survey",
+            "vi": "để giải thích cách điền khảo sát"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to explain how to fill in a survey",
+          "text_translation": "để giải thích cách điền khảo sát"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to show that many residents took part in the decision",
+            "vi": "để cho thấy nhiều cư dân đã cùng tham gia quyết định"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to show that many residents took part in the decision",
+          "text_translation": "để cho thấy nhiều cư dân đã cùng tham gia quyết định"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về mục đích. \"After two neighborhood meetings and a survey that 214 of you answered, the library has agreed…\" Con số cho thấy đây là quyết định chung của khu phố."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Helena mention the survey that 214 neighbors answered?",
+      "question_vn": "Vì sao Helena nhắc tới cuộc khảo sát có 214 người trả lời?",
+      "explanation": "Câu suy luận về mục đích. \"After two neighborhood meetings and a survey that 214 of you answered, the library has agreed…\" Con số cho thấy đây là quyết định chung của khu phố."
+    },
+    {
+      "id": "q_u1516_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_01",
+      "i18n": {
+        "en": "What will happen to the asphalt?",
+        "vi": "Lớp nhựa đường sẽ được xử lý thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "All of it will be thrown away, and the library will pay for new asphalt.",
+            "vi": "Bỏ đi toàn bộ, và thư viện sẽ trả tiền làm nhựa đường mới."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "All of it will be thrown away, and the library will pay for new asphalt.",
+          "text_translation": "Bỏ đi toàn bộ, và thư viện sẽ trả tiền làm nhựa đường mới."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It will be removed, and about a third will be used again under the new paths.",
+            "vi": "Được bóc lên, và khoảng một phần ba được dùng lại làm nền lối đi mới."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "It will be removed, and about a third will be used again under the new paths.",
+          "text_translation": "Được bóc lên, và khoảng một phần ba được dùng lại làm nền lối đi mới."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It will be painted green and used as a path.",
+            "vi": "Được sơn xanh và dùng làm lối đi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It will be painted green and used as a path.",
+          "text_translation": "Được sơn xanh và dùng làm lối đi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It will be kept for parking cars on Saturday mornings.",
+            "vi": "Được giữ lại để đỗ xe vào sáng thứ Bảy."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It will be kept for parking cars on Saturday mornings.",
+          "text_translation": "Được giữ lại để đỗ xe vào sáng thứ Bảy."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"the asphalt will be removed. About a third of it will be broken up and used again under the new paths.\" Will be + V3: bị động tương lai, kiểu câu hay gặp khi mô tả quy trình."
+      },
+      "audio_data": null,
+      "question_jp": "What will happen to the asphalt?",
+      "question_vn": "Lớp nhựa đường sẽ được xử lý thế nào?",
+      "explanation": "\"the asphalt will be removed. About a third of it will be broken up and used again under the new paths.\" Will be + V3: bị động tương lai, kiểu câu hay gặp khi mô tả quy trình."
+    },
+    {
+      "id": "q_u1516_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_01",
+      "i18n": {
+        "en": "Why will a small drain be added in the lowest corner?",
+        "vi": "Vì sao sẽ làm một rãnh thoát nước nhỏ ở góc trũng nhất?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to water the trees",
+            "vi": "để tưới cây"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to water the trees",
+          "text_translation": "để tưới cây"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to collect rainwater for the library",
+            "vi": "để hứng nước mưa cho thư viện"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to collect rainwater for the library",
+          "text_translation": "để hứng nước mưa cho thư viện"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "so that rainwater doesn't collect there",
+            "vi": "để nước mưa không đọng lại ở đó"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "so that rainwater doesn't collect there",
+          "text_translation": "để nước mưa không đọng lại ở đó"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "so that cars can park there when it rains",
+            "vi": "để ô tô đỗ ở đó khi trời mưa"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "so that cars can park there when it rains",
+          "text_translation": "để ô tô đỗ ở đó khi trời mưa"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"a small drain will be added in the lowest corner so that rainwater doesn't collect there.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why will a small drain be added in the lowest corner?",
+      "question_vn": "Vì sao sẽ làm một rãnh thoát nước nhỏ ở góc trũng nhất?",
+      "explanation": "\"a small drain will be added in the lowest corner so that rainwater doesn't collect there.\""
+    },
+    {
+      "id": "q_u1516_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_01",
+      "i18n": {
+        "en": "Where will the native trees be planted, and why?",
+        "vi": "Cây bản địa sẽ được trồng ở đâu, và vì sao?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "along the north side, to shade the benches in the afternoon",
+            "vi": "dọc phía bắc, để che bóng cho băng ghế buổi chiều"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "along the north side, to shade the benches in the afternoon",
+          "text_translation": "dọc phía bắc, để che bóng cho băng ghế buổi chiều"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "next to the ramp, to hide it from the street",
+            "vi": "cạnh đường dốc, để che nó khỏi đường phố"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "next to the ramp, to hide it from the street",
+          "text_translation": "cạnh đường dốc, để che nó khỏi đường phố"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "in the southeast corner, to give shade to the free library in the morning",
+            "vi": "ở góc đông nam, để che bóng cho tủ sách vào buổi sáng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "in the southeast corner, to give shade to the free library in the morning",
+          "text_translation": "ở góc đông nam, để che bóng cho tủ sách vào buổi sáng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "along the street, to block the noise from cars",
+            "vi": "dọc đường, để chắn tiếng ồn từ ô tô"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "along the street, to block the noise from cars",
+          "text_translation": "dọc đường, để chắn tiếng ồn từ ô tô"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"twelve native trees will be planted along the north side, where they will give shade to the benches in the afternoon.\""
+      },
+      "audio_data": null,
+      "question_jp": "Where will the native trees be planted, and why?",
+      "question_vn": "Cây bản địa sẽ được trồng ở đâu, và vì sao?",
+      "explanation": "\"twelve native trees will be planted along the north side, where they will give shade to the benches in the afternoon.\""
+    },
+    {
+      "id": "q_u1516_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_01",
+      "i18n": {
+        "en": "Who is the ramp mainly for?",
+        "vi": "Đường dốc chủ yếu dành cho ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "cyclists who ride to the library",
+            "vi": "người đi xe đạp tới thư viện"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "cyclists who ride to the library",
+          "text_translation": "người đi xe đạp tới thư viện"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "delivery trucks that bring new books to the library",
+            "vi": "xe tải giao sách mới tới thư viện"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "delivery trucks that bring new books to the library",
+          "text_translation": "xe tải giao sách mới tới thư viện"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "library staff who carry heavy boxes",
+            "vi": "nhân viên thư viện khuân các thùng nặng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "library staff who carry heavy boxes",
+          "text_translation": "nhân viên thư viện khuân các thùng nặng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "people in wheelchairs and parents with strollers",
+            "vi": "người đi xe lăn và bố mẹ đẩy xe nôi"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "people in wheelchairs and parents with strollers",
+          "text_translation": "người đi xe lăn và bố mẹ đẩy xe nôi"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"so that the park can be reached easily by people in wheelchairs and parents with strollers.\""
+      },
+      "audio_data": null,
+      "question_jp": "Who is the ramp mainly for?",
+      "question_vn": "Đường dốc chủ yếu dành cho ai?",
+      "explanation": "\"so that the park can be reached easily by people in wheelchairs and parents with strollers.\""
+    },
+    {
+      "id": "q_u1516_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_01",
+      "i18n": {
+        "en": "Where will the little free library be?",
+        "vi": "Tủ sách miễn phí sẽ đặt ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "next to the ramp at the main entrance",
+            "vi": "cạnh đường dốc ở lối vào chính"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "next to the ramp at the main entrance",
+          "text_translation": "cạnh đường dốc ở lối vào chính"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "in the southeast corner, opposite the ramp",
+            "vi": "ở góc đông nam, đối diện đường dốc"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "in the southeast corner, opposite the ramp",
+          "text_translation": "ở góc đông nam, đối diện đường dốc"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "inside the library, near the front desk",
+            "vi": "bên trong thư viện, gần quầy lễ tân"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "inside the library, near the front desk",
+          "text_translation": "bên trong thư viện, gần quầy lễ tân"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "across the road, in the community center",
+            "vi": "bên kia đường, trong trung tâm cộng đồng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "across the road, in the community center",
+          "text_translation": "bên kia đường, trong trung tâm cộng đồng"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"In the southeast corner, opposite the ramp, you will find the little free library\". Đây là ngôn ngữ chỉ vị trí trên bản đồ."
+      },
+      "audio_data": null,
+      "question_jp": "Where will the little free library be?",
+      "question_vn": "Tủ sách miễn phí sẽ đặt ở đâu?",
+      "explanation": "\"In the southeast corner, opposite the ramp, you will find the little free library\". Đây là ngôn ngữ chỉ vị trí trên bản đồ."
+    },
+    {
+      "id": "q_u1516_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_01",
+      "i18n": {
+        "en": "How does the plan deal with neighbors' worries about parking?",
+        "vi": "Kế hoạch giải quyết nỗi lo về chỗ đỗ xe của hàng xóm thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Ten spaces will be kept, and cars can use a lot across the road on busy Saturdays.",
+            "vi": "Giữ lại mười chỗ, và ô tô được đỗ ở bãi bên kia đường vào những sáng thứ Bảy đông."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Ten spaces will be kept, and cars can use a lot across the road on busy Saturdays.",
+          "text_translation": "Giữ lại mười chỗ, và ô tô được đỗ ở bãi bên kia đường vào những sáng thứ Bảy đông."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "No cars will be allowed on Pine Street, and the library will close its Saturday events.",
+            "vi": "Cấm ô tô trên phố Pine, và thư viện sẽ ngừng các sự kiện thứ Bảy."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "No cars will be allowed on Pine Street, and the library will close its Saturday events.",
+          "text_translation": "Cấm ô tô trên phố Pine, và thư viện sẽ ngừng các sự kiện thứ Bảy."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "A new parking building will be built next to the community center.",
+            "vi": "Xây một toà nhà đỗ xe mới cạnh trung tâm cộng đồng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "A new parking building will be built next to the community center.",
+          "text_translation": "Xây một toà nhà đỗ xe mới cạnh trung tâm cộng đồng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The park will close on Saturdays when the library holds events.",
+            "vi": "Công viên đóng cửa vào thứ Bảy khi thư viện có sự kiện."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The park will close on Saturdays when the library holds events.",
+          "text_translation": "Công viên đóng cửa vào thứ Bảy khi thư viện có sự kiện."
+        }
+      ],
+      "evidence_segments": [
+        12,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"Ten parking spaces will be kept along the street\" và \"cars will be allowed to use the community center's parking lot across the road\". Take into account = tính tới."
+      },
+      "audio_data": null,
+      "question_jp": "How does the plan deal with neighbors' worries about parking?",
+      "question_vn": "Kế hoạch giải quyết nỗi lo về chỗ đỗ xe của hàng xóm thế nào?",
+      "explanation": "\"Ten parking spaces will be kept along the street\" và \"cars will be allowed to use the community center's parking lot across the road\". Take into account = tính tới."
+    },
+    {
+      "id": "q_u1516_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_01",
+      "i18n": {
+        "en": "What does \"If all goes to plan\" suggest?",
+        "vi": "Cụm \"Nếu mọi việc theo đúng kế hoạch\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The park is already open, and Helena is writing about its first week.",
+            "vi": "Công viên đã mở, và Helena đang viết về tuần đầu tiên."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The park is already open, and Helena is writing about its first week.",
+          "text_translation": "Công viên đã mở, và Helena đang viết về tuần đầu tiên."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The plan has been cancelled because the neighbors disagreed.",
+            "vi": "Kế hoạch đã bị huỷ vì hàng xóm không đồng ý."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The plan has been cancelled because the neighbors disagreed.",
+          "text_translation": "Kế hoạch đã bị huỷ vì hàng xóm không đồng ý."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The date depends on the work going well and could change.",
+            "vi": "Ngày mở cửa phụ thuộc vào việc thi công suôn sẻ và có thể đổi."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "The date depends on the work going well and could change.",
+          "text_translation": "Ngày mở cửa phụ thuộc vào việc thi công suôn sẻ và có thể đổi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Helena is sure that there will be no problems with the work.",
+            "vi": "Helena chắc chắn việc thi công sẽ không có trục trặc."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Helena is sure that there will be no problems with the work.",
+          "text_translation": "Helena chắc chắn việc thi công sẽ không có trục trặc."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"If all goes to plan, the park will be open by the end of January.\" Helena cẩn thận, không hứa chắc ngày mở cửa."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"If all goes to plan\" suggest?",
+      "question_vn": "Cụm \"Nếu mọi việc theo đúng kế hoạch\" hàm ý gì?",
+      "explanation": "Câu suy luận. \"If all goes to plan, the park will be open by the end of January.\" Helena cẩn thận, không hứa chắc ngày mở cửa."
+    },
+    {
+      "id": "q_u1516_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_02",
+      "i18n": {
+        "en": "What is the article mainly about?",
+        "vi": "Bài báo chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how to dive safely in the cold waters off California",
+            "vi": "cách lặn an toàn ở vùng nước lạnh ngoài khơi California"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how to dive safely in the cold waters off California",
+          "text_translation": "cách lặn an toàn ở vùng nước lạnh ngoài khơi California"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "why California's kelp forests disappeared and how they may recover",
+            "vi": "vì sao rừng tảo bẹ California biến mất và có thể hồi phục thế nào"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "why California's kelp forests disappeared and how they may recover",
+          "text_translation": "vì sao rừng tảo bẹ California biến mất và có thể hồi phục thế nào"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the life of sea otters and why they eat so many urchins",
+            "vi": "đời sống rái cá biển và vì sao chúng ăn nhiều nhím biển"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the life of sea otters and why they eat so many urchins",
+          "text_translation": "đời sống rái cá biển và vì sao chúng ăn nhiều nhím biển"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "fishing businesses in Monterey and the divers who lost work",
+            "vi": "các cơ sở đánh bắt ở Monterey và những thợ lặn mất việc"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "fishing businesses in Monterey and the divers who lost work",
+          "text_translation": "các cơ sở đánh bắt ở Monterey và những thợ lặn mất việc"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"more than 90 percent of the kelp forests along parts of the northern California coast have disappeared.\" Bài giải thích nguyên nhân, hậu quả, rồi \"There is some hope.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the article mainly about?",
+      "question_vn": "Bài báo chủ yếu nói về điều gì?",
+      "explanation": "\"more than 90 percent of the kelp forests along parts of the northern California coast have disappeared.\" Bài giải thích nguyên nhân, hậu quả, rồi \"There is some hope.\""
+    },
+    {
+      "id": "q_u1516_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_02",
+      "i18n": {
+        "en": "What is kelp?",
+        "vi": "Tảo bẹ là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a kind of sea star that eats urchins in cold water",
+            "vi": "một loài sao biển ăn nhím biển ở vùng nước lạnh"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a kind of sea star that eats urchins in cold water",
+          "text_translation": "một loài sao biển ăn nhím biển ở vùng nước lạnh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a type of fish that lives in the forests",
+            "vi": "một loài cá sống trong các khu rừng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a type of fish that lives in the forests",
+          "text_translation": "một loài cá sống trong các khu rừng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a disease that killed millions of sea stars",
+            "vi": "một dịch bệnh giết hàng triệu sao biển"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a disease that killed millions of sea stars",
+          "text_translation": "một dịch bệnh giết hàng triệu sao biển"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a type of large seaweed that can grow very fast",
+            "vi": "một loại rong biển lớn có thể mọc rất nhanh"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "a type of large seaweed that can grow very fast",
+          "text_translation": "một loại rong biển lớn có thể mọc rất nhanh"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"kelp, a type of large seaweed that can grow up to half a meter in a single day\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is kelp?",
+      "question_vn": "Tảo bẹ là gì?",
+      "explanation": "\"kelp, a type of large seaweed that can grow up to half a meter in a single day\"."
+    },
+    {
+      "id": "q_u1516_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_02",
+      "i18n": {
+        "en": "How did the long period of warm water affect the kelp?",
+        "vi": "Đợt nước ấm kéo dài ảnh hưởng tới tảo bẹ thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It weakened the kelp, which grows best in cold water.",
+            "vi": "Nó làm tảo bẹ yếu đi, vì tảo bẹ phát triển tốt nhất trong nước lạnh."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It weakened the kelp, which grows best in cold water.",
+          "text_translation": "Nó làm tảo bẹ yếu đi, vì tảo bẹ phát triển tốt nhất trong nước lạnh."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It made the kelp grow faster, because kelp loves warm water.",
+            "vi": "Nó làm tảo bẹ mọc nhanh hơn, vì tảo bẹ thích nước ấm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It made the kelp grow faster, because kelp loves warm water.",
+          "text_translation": "Nó làm tảo bẹ mọc nhanh hơn, vì tảo bẹ thích nước ấm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It killed the sea otters along the coast.",
+            "vi": "Nó giết rái cá biển dọc bờ biển."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It killed the sea otters along the coast.",
+          "text_translation": "Nó giết rái cá biển dọc bờ biển."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It had no effect on the kelp or on the sea stars.",
+            "vi": "Nó không ảnh hưởng tới tảo bẹ hay sao biển."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It had no effect on the kelp or on the sea stars.",
+          "text_translation": "Nó không ảnh hưởng tới tảo bẹ hay sao biển."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"weakened the kelp, which grows best in cold water.\""
+      },
+      "audio_data": null,
+      "question_jp": "How did the long period of warm water affect the kelp?",
+      "question_vn": "Đợt nước ấm kéo dài ảnh hưởng tới tảo bẹ thế nào?",
+      "explanation": "\"weakened the kelp, which grows best in cold water.\""
+    },
+    {
+      "id": "q_u1516_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_02",
+      "i18n": {
+        "en": "Why did the number of purple sea urchins increase so quickly?",
+        "vi": "Vì sao số nhím biển tím tăng nhanh như vậy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "People stopped eating them, and fishing businesses stopped hunting them.",
+            "vi": "Người ta thôi ăn chúng, và các cơ sở đánh bắt thôi săn chúng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "People stopped eating them, and fishing businesses stopped hunting them.",
+          "text_translation": "Người ta thôi ăn chúng, và các cơ sở đánh bắt thôi săn chúng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The water became colder, which helped them to survive.",
+            "vi": "Nước lạnh đi, giúp chúng sống sót."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The water became colder, which helped them to survive.",
+          "text_translation": "Nước lạnh đi, giúp chúng sống sót."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "A disease killed many sea stars, one of their main predators.",
+            "vi": "Vì một dịch bệnh giết nhiều sao biển, một trong những kẻ săn mồi chính của chúng."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "A disease killed many sea stars, one of their main predators.",
+          "text_translation": "Vì một dịch bệnh giết nhiều sao biển, một trong những kẻ săn mồi chính của chúng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Divers brought more urchins from other parts of the coast.",
+            "vi": "Thợ lặn mang thêm nhím từ những vùng khác của bờ biển."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Divers brought more urchins from other parts of the coast.",
+          "text_translation": "Thợ lặn mang thêm nhím từ những vùng khác của bờ biển."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"a disease killed millions of sea stars along the coast\", trong đó có loài săn nhím biển tím. Câu sau: \"With nothing to control them, the urchins multiplied rapidly\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why did the number of purple sea urchins increase so quickly?",
+      "question_vn": "Vì sao số nhím biển tím tăng nhanh như vậy?",
+      "explanation": "\"a disease killed millions of sea stars along the coast\", trong đó có loài săn nhím biển tím. Câu sau: \"With nothing to control them, the urchins multiplied rapidly\"."
+    },
+    {
+      "id": "q_u1516_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_02",
+      "i18n": {
+        "en": "What are \"urchin barrens\"?",
+        "vi": "\"Bãi nhím\" là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "farms where urchins are grown to be sold to restaurants",
+            "vi": "trang trại nuôi nhím biển để bán cho nhà hàng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "farms where urchins are grown to be sold to restaurants",
+          "text_translation": "trang trại nuôi nhím biển để bán cho nhà hàng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "rocky sea floors covered in urchins and little else",
+            "vi": "đáy biển toàn đá, phủ kín nhím biển và chẳng còn gì khác"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "rocky sea floors covered in urchins and little else",
+          "text_translation": "đáy biển toàn đá, phủ kín nhím biển và chẳng còn gì khác"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "new kelp forests planted by volunteer divers",
+            "vi": "những rừng tảo bẹ mới do thợ lặn tình nguyện trồng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "new kelp forests planted by volunteer divers",
+          "text_translation": "những rừng tảo bẹ mới do thợ lặn tình nguyện trồng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "beaches where people collect shells and other sea animals",
+            "vi": "bãi biển nơi người ta nhặt vỏ sò và các sinh vật biển khác"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "beaches where people collect shells and other sea animals",
+          "text_translation": "bãi biển nơi người ta nhặt vỏ sò và các sinh vật biển khác"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"rocky sea floors covered in thousands of urchins and almost nothing else.\" Dấu hai chấm mở ra phần định nghĩa."
+      },
+      "audio_data": null,
+      "question_jp": "What are \"urchin barrens\"?",
+      "question_vn": "\"Bãi nhím\" là gì?",
+      "explanation": "\"rocky sea floors covered in thousands of urchins and almost nothing else.\" Dấu hai chấm mở ra phần định nghĩa."
+    },
+    {
+      "id": "q_u1516_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_02",
+      "i18n": {
+        "en": "What does \"Had the kelp survived, many divers and fishing businesses would not have lost their work\" mean?",
+        "vi": "Câu \"Had the kelp survived, many divers and fishing businesses would not have lost their work\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The kelp survived, and the divers kept their work and their homes.",
+            "vi": "Tảo bẹ sống sót, và thợ lặn giữ được việc cũng như nhà."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The kelp survived, and the divers kept their work and their homes.",
+          "text_translation": "Tảo bẹ sống sót, và thợ lặn giữ được việc cũng như nhà."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The divers will lose their work in the future.",
+            "vi": "Thợ lặn sẽ mất việc trong tương lai."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The divers will lose their work in the future.",
+          "text_translation": "Thợ lặn sẽ mất việc trong tương lai."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The divers caused the kelp to die by taking too much of it.",
+            "vi": "Thợ lặn làm tảo bẹ chết vì lấy quá nhiều."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The divers caused the kelp to die by taking too much of it.",
+          "text_translation": "Thợ lặn làm tảo bẹ chết vì lấy quá nhiều."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The kelp did not survive, so many divers lost their work.",
+            "vi": "Tảo bẹ đã không sống sót, nên nhiều thợ lặn mất việc."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The kelp did not survive, so many divers lost their work.",
+          "text_translation": "Tảo bẹ đã không sống sót, nên nhiều thợ lặn mất việc."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"Had the kelp survived, …\" = \"If the kelp had survived, …\". Câu điều kiện loại 3 (đảo ngữ) nói về điều trái với quá khứ: thực tế tảo bẹ đã chết."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Had the kelp survived, many divers and fishing businesses would not have lost their work\" mean?",
+      "question_vn": "Câu \"Had the kelp survived, many divers and fishing businesses would not have lost their work\" nghĩa là gì?",
+      "explanation": "\"Had the kelp survived, …\" = \"If the kelp had survived, …\". Câu điều kiện loại 3 (đảo ngữ) nói về điều trái với quá khứ: thực tế tảo bẹ đã chết."
+    },
+    {
+      "id": "q_u1516_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_02",
+      "i18n": {
+        "en": "Which of these is NOT given as a way of helping the kelp forests recover?",
+        "vi": "Điều nào KHÔNG được nêu là cách giúp rừng tảo bẹ hồi phục?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "planting kelp from laboratories along the whole coast",
+            "vi": "trồng tảo bẹ từ phòng thí nghiệm dọc toàn bộ bờ biển"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "planting kelp from laboratories along the whole coast",
+          "text_translation": "trồng tảo bẹ từ phòng thí nghiệm dọc toàn bộ bờ biển"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "divers removing urchins by hand in several small areas",
+            "vi": "thợ lặn nhặt nhím biển bằng tay ở vài khu vực nhỏ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "divers removing urchins by hand in several small areas",
+          "text_translation": "thợ lặn nhặt nhím biển bằng tay ở vài khu vực nhỏ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "sea otters eating large numbers of urchins around Monterey",
+            "vi": "rái cá biển ăn rất nhiều nhím biển quanh Monterey"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "sea otters eating large numbers of urchins around Monterey",
+          "text_translation": "rái cá biển ăn rất nhiều nhím biển quanh Monterey"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "breeding sunflower sea stars in laboratories",
+            "vi": "nhân giống sao biển hướng dương trong phòng thí nghiệm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "breeding sunflower sea stars in laboratories",
+          "text_translation": "nhân giống sao biển hướng dương trong phòng thí nghiệm"
+        }
+      ],
+      "evidence_segments": [
+        13,
+        15,
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Bài nói nhân giống sao biển trong phòng thí nghiệm, không phải trồng tảo bẹ. Câu cuối còn nói \"You can't just plant a forest.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT given as a way of helping the kelp forests recover?",
+      "question_vn": "Điều nào KHÔNG được nêu là cách giúp rừng tảo bẹ hồi phục?",
+      "explanation": "Bài nói nhân giống sao biển trong phòng thí nghiệm, không phải trồng tảo bẹ. Câu cuối còn nói \"You can't just plant a forest.\""
+    },
+    {
+      "id": "q_u1516_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_02",
+      "i18n": {
+        "en": "Why are kelp forests healthier around Monterey, according to the article?",
+        "vi": "Theo bài, vì sao rừng tảo bẹ quanh Monterey khoẻ hơn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The water is warmer there, which helps the kelp grow.",
+            "vi": "Vì nước ở đó ấm hơn, giúp tảo bẹ mọc."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The water is warmer there, which helps the kelp grow.",
+          "text_translation": "Vì nước ở đó ấm hơn, giúp tảo bẹ mọc."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Fishing businesses there have planted new kelp each year.",
+            "vi": "Vì các cơ sở đánh bắt ở đó năm nào cũng trồng tảo bẹ mới."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Fishing businesses there have planted new kelp each year.",
+          "text_translation": "Vì các cơ sở đánh bắt ở đó năm nào cũng trồng tảo bẹ mới."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Sea otters there eat large numbers of urchins.",
+            "vi": "Vì rái cá biển ở đó ăn rất nhiều nhím biển."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Sea otters there eat large numbers of urchins.",
+          "text_translation": "Vì rái cá biển ở đó ăn rất nhiều nhím biển."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "There are no urchins there, so the kelp is never eaten.",
+            "vi": "Vì ở đó không có nhím biển nên tảo bẹ không bao giờ bị ăn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "There are no urchins there, so the kelp is never eaten.",
+          "text_translation": "Vì ở đó không có nhím biển nên tảo bẹ không bao giờ bị ăn."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"sea otters help, because they eat large numbers of urchins.\" Ít nhím thì tảo bẹ không bị gặm sạch."
+      },
+      "audio_data": null,
+      "question_jp": "Why are kelp forests healthier around Monterey, according to the article?",
+      "question_vn": "Theo bài, vì sao rừng tảo bẹ quanh Monterey khoẻ hơn?",
+      "explanation": "Câu suy luận. \"sea otters help, because they eat large numbers of urchins.\" Ít nhím thì tảo bẹ không bị gặm sạch."
+    },
+    {
+      "id": "q_u1516_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_02",
+      "i18n": {
+        "en": "What does the diver mean by \"You can't just plant a forest. You have to give it a reason to stay\"?",
+        "vi": "Người thợ lặn muốn nói gì qua câu \"Không thể chỉ trồng một khu rừng. Phải cho nó một lý do để ở lại\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Kelp cannot be planted at all, so the forests are lost forever.",
+            "vi": "Hoàn toàn không trồng được tảo bẹ, nên các khu rừng mất vĩnh viễn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Kelp cannot be planted at all, so the forests are lost forever.",
+          "text_translation": "Hoàn toàn không trồng được tảo bẹ, nên các khu rừng mất vĩnh viễn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Divers should stop planting kelp and leave the sea alone.",
+            "vi": "Thợ lặn nên thôi trồng tảo bẹ và để yên biển."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Divers should stop planting kelp and leave the sea alone.",
+          "text_translation": "Thợ lặn nên thôi trồng tảo bẹ và để yên biển."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Forests should be moved to new places where the water is colder.",
+            "vi": "Nên chuyển rừng tới nơi mới có nước lạnh hơn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Forests should be moved to new places where the water is colder.",
+          "text_translation": "Nên chuyển rừng tới nơi mới có nước lạnh hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Kelp only lasts if plants and animals are in balance again.",
+            "vi": "Tảo bẹ chỉ trụ lại được khi thực vật và động vật cân bằng trở lại."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Kelp only lasts if plants and animals are in balance again.",
+          "text_translation": "Tảo bẹ chỉ trụ lại được khi thực vật và động vật cân bằng trở lại."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Câu ngay trước: \"but only if the balance between plants and animals is restored.\" Chỉ trồng mà nhím vẫn còn thì rừng lại bị ăn hết."
+      },
+      "audio_data": null,
+      "question_jp": "What does the diver mean by \"You can't just plant a forest. You have to give it a reason to stay\"?",
+      "question_vn": "Người thợ lặn muốn nói gì qua câu \"Không thể chỉ trồng một khu rừng. Phải cho nó một lý do để ở lại\"?",
+      "explanation": "Câu suy luận. Câu ngay trước: \"but only if the balance between plants and animals is restored.\" Chỉ trồng mà nhím vẫn còn thì rừng lại bị ăn hết."
+    },
+    {
+      "id": "q_u1516_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1516_02",
+      "i18n": {
+        "en": "Use both texts. What do Helena's park project and the kelp recovery have in common?",
+        "vi": "Dựa vào cả hai bài. Dự án công viên của Helena và việc phục hồi tảo bẹ có điểm gì chung?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both of them happen under the sea, with the help of volunteer divers and a few sea otters in the bay.",
+            "vi": "Cả hai đều diễn ra dưới biển, với sự giúp của thợ lặn tình nguyện và vài con rái cá trong vịnh."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both of them happen under the sea, with the help of volunteer divers and a few sea otters in the bay.",
+          "text_translation": "Cả hai đều diễn ra dưới biển, với sự giúp của thợ lặn tình nguyện và vài con rái cá trong vịnh."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Both show that a damaged or empty place can come alive again when people plan carefully and act.",
+            "vi": "Cả hai cho thấy một nơi bị tàn phá hay bỏ phí có thể sống lại khi con người lên kế hoạch kỹ và hành động."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Both show that a damaged or empty place can come alive again when people plan carefully and act.",
+          "text_translation": "Cả hai cho thấy một nơi bị tàn phá hay bỏ phí có thể sống lại khi con người lên kế hoạch kỹ và hành động."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both of them depend on sea otters eating the plants that grow there.",
+            "vi": "Cả hai đều phụ thuộc vào rái cá biển ăn những loài cây mọc ở đó."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Both of them depend on sea otters eating the plants that grow there.",
+          "text_translation": "Cả hai đều phụ thuộc vào rái cá biển ăn những loài cây mọc ở đó."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Both of them were finished in 2014 and paid for by the same company.",
+            "vi": "Cả hai đều xong năm 2014 và do cùng một công ty chi trả."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Both of them were finished in 2014 and paid for by the same company.",
+          "text_translation": "Cả hai đều xong năm 2014 và do cùng một công ty chi trả."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Thợ lặn tình nguyện nhặt nhím và \"kelp has started to grow back\". Helena cũng biến một bãi đỗ bỏ trống thành công viên, có tình nguyện viên trồng cây."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do Helena's park project and the kelp recovery have in common?",
+      "question_vn": "Dựa vào cả hai bài. Dự án công viên của Helena và việc phục hồi tảo bẹ có điểm gì chung?",
+      "explanation": "Câu nối hai bài. Thợ lặn tình nguyện nhặt nhím và \"kelp has started to grow back\". Helena cũng biến một bãi đỗ bỏ trống thành công viên, có tình nguyện viên trồng cây."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u1516_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 15) — Helena biến bãi đỗ xe thành công viên nhỏ",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u1516_01",
+      "question_ids": [
+        "q_u1516_001",
+        "q_u1516_002",
+        "q_u1516_003",
+        "q_u1516_004",
+        "q_u1516_005",
+        "q_u1516_006",
+        "q_u1516_007",
+        "q_u1516_008",
+        "q_u1516_009",
+        "q_u1516_010"
+      ]
+    },
+    {
+      "set_id": "set_u1516_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 16) — Rừng tảo bẹ California biến mất và hồi sinh",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u1516_02",
+      "question_ids": [
+        "q_u1516_011",
+        "q_u1516_012",
+        "q_u1516_013",
+        "q_u1516_014",
+        "q_u1516_015",
+        "q_u1516_016",
+        "q_u1516_017",
+        "q_u1516_018",
+        "q_u1516_019",
+        "q_u1516_020"
+      ]
+    }
+  ]
+}

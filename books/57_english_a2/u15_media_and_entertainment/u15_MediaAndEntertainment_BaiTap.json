@@ -1,0 +1,1381 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 15 — Media and entertainment",
+      "vi": "Truyền thông và giải trí"
+    },
+    "title": "Unit 15 — Media and entertainment",
+    "title_vn": "Truyền thông và giải trí",
+    "module_code": "57_u15",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A2",
+    "curriculum_unit": "a2.u15",
+    "curriculum_sheets": [
+      "a2.57",
+      "a2.58",
+      "a2.59",
+      "a2.60"
+    ],
+    "characters": [
+      "Helena Brooks",
+      "Nathan Brooks",
+      "Amy Brooks",
+      "Harriet Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "cuối tháng 6, năm 3 (tối thứ Sáu 28/6 ở nhà số 15 Maple Street; Nathan 35, Helena 34, Amy 5, Harriet 69 tuổi)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Trạng từ thái độ, quá khứ phân từ + danh từ, make + O + adj; thông tin cụ thể, quy chiếu, từ trong ngữ cảnh, ý chính, thái độ, 4 câu suy luận (ai giấu pin, chơi chữ cái kết bất ngờ, áp lời khuyên vào tình huống, hàm ý câu \"nobody's life is as perfect…\")",
+    "description_vn": "Helena kể tối thứ Sáu xem phim của nhà Brooks: điều khiển hỏng vì Amy giấu pin, mỗi người muốn xem / nghe một thứ, Helena lên kế hoạch thoả hiệp, cuối cùng Nathan và bà Harriet ngủ quên; và bài báo cho tuổi teen về 4 thói quen dùng mạng xã hội lành mạnh (giới hạn thời gian, kiểm tra tin trước khi chia sẻ, giữ riêng tư, bảo vệ giấc ngủ). 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 15 khoá A2 · phiếu `a2.57` – `a2.60` (phim và phim bộ, âm nhạc, tin tức và mạng xã hội, đánh giá)."
+    },
+    "objective_i18n": {
+      "vi": "đọc chuyện tối thứ Sáu xem phim của nhà Brooks, mỗi người muốn một thứ và Helena tìm cách cho ai cũng vui, và một bài báo cho tuổi teen về thói quen dùng mạng xã hội lành mạnh; hiểu trạng từ thái độ (unfortunately, luckily, apparently, honestly, clearly), quá khứ phân từ đứng trước danh từ (a broken remote, an edited photograph), make + tân ngữ + tính từ (made everybody happy, makes you very angry); tìm chi tiết, hiểu Their chỉ ai, hiểu nghĩa widely shared, nắm ý chính, áp lời khuyên vào tình huống và suy ra điều bài không nói thẳng."
+    },
+    "extra_words": [
+      {
+        "word": "ceiling",
+        "i18n": {
+          "vi": "trần nhà"
+        }
+      },
+      {
+        "word": "sketchbook",
+        "i18n": {
+          "vi": "sổ vẽ phác"
+        }
+      },
+      {
+        "word": "notification",
+        "i18n": {
+          "vi": "thông báo (trên điện thoại)"
+        }
+      },
+      {
+        "word": "scroll",
+        "i18n": {
+          "vi": "lướt (màn hình)"
+        }
+      },
+      {
+        "word": "unfollow",
+        "i18n": {
+          "vi": "bỏ theo dõi (một tài khoản)"
+        }
+      },
+      {
+        "word": "edited",
+        "i18n": {
+          "vi": "đã bị chỉnh sửa"
+        }
+      },
+      {
+        "word": "social media",
+        "i18n": {
+          "vi": "mạng xã hội"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "in my day",
+          "vi": "hồi tôi còn trẻ / thời của tôi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "the next episode",
+          "vi": "tập tiếp theo"
+        }
+      },
+      {
+        "i18n": {
+          "en": "science fiction",
+          "vi": "khoa học viễn tưởng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "screen time",
+          "vi": "thời gian dùng màn hình"
+        }
+      },
+      {
+        "i18n": {
+          "en": "ask yourself",
+          "vi": "hãy tự hỏi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "It's OK to…",
+          "vi": "… cũng không sao"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Trạng từ thái độ đứng đầu câu (`Unfortunately`, `Luckily`, `Honestly`, `Clearly`, `Apparently`) cho biết người viết NGHĨ gì về sự việc: may, rủi, thật lòng, rõ ràng, nghe nói. Câu hỏi về thái độ thường bám vào những từ này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`apparently` = nghe nói / hình như: người nói chưa tự kiểm chứng. `clearly` = rõ ràng: người nói thấy có bằng chứng ngay trước mắt."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Quá khứ phân từ đứng trước danh từ làm tính từ: `a broken remote` (cái điều khiển bị hỏng), `the fixed remote` (đã được sửa), `an edited photograph` (đã bị chỉnh sửa)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**make + tân ngữ + tính từ** = làm cho ai thấy thế nào: `All that singing made everybody happy`, `a post makes you very angry`. Muốn biết ai cảm thấy gì, tìm tân ngữ ngay sau make."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu suy luận: bài không nói thẳng. Gom chi tiết nhỏ (đồ nằm ở đâu, ai mỉm cười), so một cụm từ ở đầu và cuối bài, hoặc áp lời khuyên của bài vào tình huống mới, rồi loại phương án trái với bài."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u15_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Tối thứ Sáu xem phim của nhà Brooks"
+      },
+      "narrator": "Helena",
+      "title": "Movie Night at Number Fifteen",
+      "category": "story",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 120,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Movie Night at Number Fifteen",
+            "vi": "Tối xem phim ở nhà số 15"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Friday night is movie night at our house, but this week it started, unfortunately, with a broken remote: both batteries were missing.",
+            "vi": "Tối thứ Sáu là tối xem phim ở nhà chúng tôi, nhưng tuần này, không may là buổi tối lại bắt đầu bằng một cái điều khiển bị hỏng: cả hai cục pin đều biến mất."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Luckily, Nathan found them in Amy's pink bag.",
+            "vi": "May mà Nathan tìm thấy chúng trong cái túi màu hồng của Amy."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Amy looked up at the ceiling and smiled.",
+            "vi": "Amy ngước nhìn lên trần nhà và mỉm cười."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Nathan",
+          "label": null,
+          "i18n": {
+            "en": "Tonight we're watching The Silver Planet! It's science fiction, and apparently the ending is really surprising.",
+            "vi": "Tối nay mình xem The Silver Planet (Hành tinh Bạc)! Phim khoa học viễn tưởng đấy, mà nghe nói cái kết bất ngờ lắm."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Amy",
+          "label": null,
+          "i18n": {
+            "en": "No, Daddy! I want Captain Pancake! Tina watches every episode, so I have to watch it too.",
+            "vi": "Không, bố ơi! Con muốn xem Captain Pancake (Thuyền trưởng Bánh Kếp)! Chị Tina tập nào cũng xem, nên con cũng phải xem."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "In my day, we watched musicals. All that singing made everybody happy.",
+            "vi": "Hồi bà còn trẻ, người ta xem phim nhạc kịch. Bao nhiêu là bài hát, làm ai cũng vui."
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Honestly, I wanted a quiet evening with classical music and my sketchbook, but I didn't say it.",
+            "vi": "Thật lòng mà nói, tôi chỉ muốn một buổi tối yên tĩnh với nhạc cổ điển và cuốn sổ vẽ của mình, nhưng tôi không nói ra."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Nathan was already pushing buttons on the fixed remote, so I read about his film.",
+            "vi": "Nathan đã bấm lia lịa các nút trên cái điều khiển vừa sửa xong, nên tôi đọc thông tin về bộ phim của anh ấy."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It has some frightening scenes and isn't for young children.",
+            "vi": "Phim có vài cảnh đáng sợ và không dành cho trẻ nhỏ."
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": "Helena",
+          "label": null,
+          "i18n": {
+            "en": "First, one episode of Captain Pancake. Then I'll play songs from your old musicals, Harriet.",
+            "vi": "Trước hết, cả nhà xem một tập Captain Pancake. Sau đó con sẽ chơi mấy bài trong các bộ nhạc kịch ngày xưa của mẹ, mẹ Harriet ạ."
+          }
+        },
+        {
+          "n": 12,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Captain Pancake was silly, but clearly Nathan enjoyed it most: he laughed harder than Amy and asked for the next episode.",
+            "vi": "Captain Pancake khá ngớ ngẩn, nhưng rõ ràng người thích nhất là Nathan: anh ấy cười to hơn cả Amy và còn đòi xem tập tiếp theo."
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After that, I played the piano, Harriet sang every word, and Amy danced around the room.",
+            "vi": "Sau đó tôi chơi piano, bà Harriet hát không sót một chữ, còn Amy nhảy múa khắp phòng."
+          }
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Their happy faces made me happier than any film.",
+            "vi": "Những gương mặt rạng rỡ của hai bà cháu làm tôi vui hơn bất kỳ bộ phim nào."
+          }
+        },
+        {
+          "n": 15,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At half past eight, Amy went to bed and Nathan finally started his film.",
+            "vi": "Tám giờ rưỡi, Amy đi ngủ, và cuối cùng Nathan cũng bật được bộ phim của mình."
+          }
+        },
+        {
+          "n": 16,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ten minutes later, he and Harriet were both asleep on the sofa.",
+            "vi": "Mười phút sau, anh ấy và bà Harriet đều đã ngủ say trên ghế sofa."
+          }
+        },
+        {
+          "n": 17,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So I turned off the TV, opened my sketchbook and drew them.",
+            "vi": "Thế là tôi tắt ti vi, mở sổ vẽ ra và vẽ hai người họ."
+          }
+        },
+        {
+          "n": 18,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I have a title for my next poem: \"The Surprising Ending.\"",
+            "vi": "Tôi đã có tên cho bài thơ tiếp theo của mình: \"Cái kết bất ngờ\"."
+          }
+        }
+      ],
+      "content_ja": "Movie Night at Number Fifteen\n\nFriday night is movie night at our house, but this week it started, unfortunately, with a broken remote: both batteries were missing. Luckily, Nathan found them in Amy's pink bag. Amy looked up at the ceiling and smiled.\n\nNathan: Tonight we're watching The Silver Planet! It's science fiction, and apparently the ending is really surprising.\n\nAmy: No, Daddy! I want Captain Pancake! Tina watches every episode, so I have to watch it too.\n\nHarriet: In my day, we watched musicals. All that singing made everybody happy.\n\nHonestly, I wanted a quiet evening with classical music and my sketchbook, but I didn't say it. Nathan was already pushing buttons on the fixed remote, so I read about his film. It has some frightening scenes and isn't for young children.\n\nHelena: First, one episode of Captain Pancake. Then I'll play songs from your old musicals, Harriet.\n\nCaptain Pancake was silly, but clearly Nathan enjoyed it most: he laughed harder than Amy and asked for the next episode. After that, I played the piano, Harriet sang every word, and Amy danced around the room. Their happy faces made me happier than any film.\n\nAt half past eight, Amy went to bed and Nathan finally started his film. Ten minutes later, he and Harriet were both asleep on the sofa. So I turned off the TV, opened my sketchbook and drew them. I have a title for my next poem: \"The Surprising Ending.\"",
+      "translation_vn": "(1) Tối xem phim ở nhà số 15\n(2) Tối thứ Sáu là tối xem phim ở nhà chúng tôi, nhưng tuần này, không may là buổi tối lại bắt đầu bằng một cái điều khiển bị hỏng: cả hai cục pin đều biến mất.\n(3) May mà Nathan tìm thấy chúng trong cái túi màu hồng của Amy.\n(4) Amy ngước nhìn lên trần nhà và mỉm cười.\n(5) Nathan: Tối nay mình xem The Silver Planet (Hành tinh Bạc)! Phim khoa học viễn tưởng đấy, mà nghe nói cái kết bất ngờ lắm.\n(6) Amy: Không, bố ơi! Con muốn xem Captain Pancake (Thuyền trưởng Bánh Kếp)! Chị Tina tập nào cũng xem, nên con cũng phải xem.\n(7) Harriet: Hồi bà còn trẻ, người ta xem phim nhạc kịch. Bao nhiêu là bài hát, làm ai cũng vui.\n(8) Thật lòng mà nói, tôi chỉ muốn một buổi tối yên tĩnh với nhạc cổ điển và cuốn sổ vẽ của mình, nhưng tôi không nói ra.\n(9) Nathan đã bấm lia lịa các nút trên cái điều khiển vừa sửa xong, nên tôi đọc thông tin về bộ phim của anh ấy.\n(10) Phim có vài cảnh đáng sợ và không dành cho trẻ nhỏ.\n(11) Helena: Trước hết, cả nhà xem một tập Captain Pancake. Sau đó con sẽ chơi mấy bài trong các bộ nhạc kịch ngày xưa của mẹ, mẹ Harriet ạ.\n(12) Captain Pancake khá ngớ ngẩn, nhưng rõ ràng người thích nhất là Nathan: anh ấy cười to hơn cả Amy và còn đòi xem tập tiếp theo.\n(13) Sau đó tôi chơi piano, bà Harriet hát không sót một chữ, còn Amy nhảy múa khắp phòng.\n(14) Những gương mặt rạng rỡ của hai bà cháu làm tôi vui hơn bất kỳ bộ phim nào.\n(15) Tám giờ rưỡi, Amy đi ngủ, và cuối cùng Nathan cũng bật được bộ phim của mình.\n(16) Mười phút sau, anh ấy và bà Harriet đều đã ngủ say trên ghế sofa.\n(17) Thế là tôi tắt ti vi, mở sổ vẽ ra và vẽ hai người họ.\n(18) Tôi đã có tên cho bài thơ tiếp theo của mình: \"Cái kết bất ngờ\".",
+      "word_count": 240,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.57",
+        "a2.58",
+        "a2.59",
+        "a2.60"
+      ]
+    },
+    {
+      "id": "passage_u15_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Bài báo cho tuổi teen: dùng mạng xã hội cho lành mạnh"
+      },
+      "narrator": "announcer",
+      "title": "Scroll Smart: Healthy Habits for Social Media",
+      "category": "article",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 120,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Scroll Smart: Healthy Habits for Social Media",
+            "vi": "Lướt mạng thông minh: thói quen lành mạnh khi dùng mạng xã hội"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Social media can be great fun: you can share photographs, laugh at comics and stay close to friends.",
+            "vi": "Mạng xã hội có thể rất vui: bạn có thể chia sẻ ảnh, cười với truyện tranh và giữ liên lạc với bạn bè."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Unfortunately, it can also eat your time, your sleep and your good mood, so try these four simple habits.",
+            "vi": "Không may là nó cũng có thể ngốn mất thời gian, giấc ngủ và tâm trạng vui vẻ của bạn, nên hãy thử bốn thói quen đơn giản sau đây."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Watch the clock",
+            "vi": "Để ý đồng hồ"
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ten minutes can quickly become two hours.",
+            "vi": "Mười phút có thể nhanh chóng biến thành hai tiếng."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most phones show your screen time, so check it every week and decide how long to use it each day.",
+            "vi": "Phần lớn điện thoại đều có thể cho bạn xem thời gian dùng màn hình, nên hãy kiểm tra mỗi tuần và tự quyết định mỗi ngày mình muốn dùng bao lâu."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Turning off notifications helps too, because every sound pulls you back to the screen.",
+            "vi": "Tắt thông báo cũng có ích, vì mỗi tiếng \"ting\" nhỏ lại kéo bạn quay về màn hình."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Check before you share",
+            "vi": "Kiểm tra trước khi chia sẻ"
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Not everything on the web is true, and a surprising post can be widely shared in a few hours without any evidence.",
+            "vi": "Không phải mọi thứ trên mạng đều là thật, và một bài đăng gây sốc có thể được chia sẻ rộng rãi chỉ trong vài giờ mà chẳng có bằng chứng nào."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Before you share it, ask yourself: What is the source? Do trusted news websites report the same facts?",
+            "vi": "Trước khi chia sẻ, hãy tự hỏi: Nguồn ở đâu? Các trang tin đáng tin cậy có đưa cùng những sự thật đó không?"
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Remember that an edited photograph can look perfectly real.",
+            "vi": "Hãy nhớ rằng một bức ảnh đã chỉnh sửa có thể trông thật y như thật."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And when a post makes you very angry, wait a moment: angry people share fast.",
+            "vi": "Và khi một bài đăng làm bạn rất tức giận, hãy chờ một chút: người đang giận thì chia sẻ rất nhanh."
+          }
+        },
+        {
+          "n": 13,
+          "para": 7,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Keep private things private",
+            "vi": "Giữ kín chuyện riêng tư"
+          }
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Never publish your address, phone number or school name, and ask friends before you post their photos.",
+            "vi": "Đừng bao giờ đăng địa chỉ nhà, số điện thoại hay tên trường của bạn, và hãy hỏi bạn bè trước khi đăng ảnh của họ."
+          }
+        },
+        {
+          "n": 15,
+          "para": 9,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Look after your sleep",
+            "vi": "Chăm sóc giấc ngủ"
+          }
+        },
+        {
+          "n": 16,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sleep doctors say teenagers need eight to ten hours a night.",
+            "vi": "Các bác sĩ về giấc ngủ cho biết tuổi teen cần ngủ từ tám tới mười tiếng mỗi đêm."
+          }
+        },
+        {
+          "n": 17,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Put your phone outside your bedroom an hour before bed, and use a real alarm clock.",
+            "vi": "Hãy để điện thoại ra ngoài phòng ngủ một tiếng trước khi đi ngủ, và dùng một chiếc đồng hồ báo thức thật."
+          }
+        },
+        {
+          "n": 18,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Finally, people usually publish only their best moments, so nobody's life is as perfect as it looks online.",
+            "vi": "Cuối cùng, người ta thường chỉ đăng những khoảnh khắc đẹp nhất của mình, nên chẳng ai có cuộc sống hoàn hảo như trên mạng."
+          }
+        },
+        {
+          "n": 19,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If an account makes you feel bad about yourself, it's OK to unfollow it.",
+            "vi": "Nếu một tài khoản nào đó làm bạn thấy tệ về bản thân, bỏ theo dõi nó cũng không sao cả."
+          }
+        }
+      ],
+      "content_ja": "Scroll Smart: Healthy Habits for Social Media\n\nSocial media can be great fun: you can share photographs, laugh at comics and stay close to friends. Unfortunately, it can also eat your time, your sleep and your good mood, so try these four simple habits.\n\nWatch the clock\n\nTen minutes can quickly become two hours. Most phones show your screen time, so check it every week and decide how long to use it each day. Turning off notifications helps too, because every sound pulls you back to the screen.\n\nCheck before you share\n\nNot everything on the web is true, and a surprising post can be widely shared in a few hours without any evidence. Before you share it, ask yourself: What is the source? Do trusted news websites report the same facts? Remember that an edited photograph can look perfectly real. And when a post makes you very angry, wait a moment: angry people share fast.\n\nKeep private things private\n\nNever publish your address, phone number or school name, and ask friends before you post their photos.\n\nLook after your sleep\n\nSleep doctors say teenagers need eight to ten hours a night. Put your phone outside your bedroom an hour before bed, and use a real alarm clock.\n\nFinally, people usually publish only their best moments, so nobody's life is as perfect as it looks online. If an account makes you feel bad about yourself, it's OK to unfollow it.",
+      "translation_vn": "(1) Lướt mạng thông minh: thói quen lành mạnh khi dùng mạng xã hội\n(2) Mạng xã hội có thể rất vui: bạn có thể chia sẻ ảnh, cười với truyện tranh và giữ liên lạc với bạn bè.\n(3) Không may là nó cũng có thể ngốn mất thời gian, giấc ngủ và tâm trạng vui vẻ của bạn, nên hãy thử bốn thói quen đơn giản sau đây.\n(4) Để ý đồng hồ\n(5) Mười phút có thể nhanh chóng biến thành hai tiếng.\n(6) Phần lớn điện thoại đều có thể cho bạn xem thời gian dùng màn hình, nên hãy kiểm tra mỗi tuần và tự quyết định mỗi ngày mình muốn dùng bao lâu.\n(7) Tắt thông báo cũng có ích, vì mỗi tiếng \"ting\" nhỏ lại kéo bạn quay về màn hình.\n(8) Kiểm tra trước khi chia sẻ\n(9) Không phải mọi thứ trên mạng đều là thật, và một bài đăng gây sốc có thể được chia sẻ rộng rãi chỉ trong vài giờ mà chẳng có bằng chứng nào.\n(10) Trước khi chia sẻ, hãy tự hỏi: Nguồn ở đâu? Các trang tin đáng tin cậy có đưa cùng những sự thật đó không?\n(11) Hãy nhớ rằng một bức ảnh đã chỉnh sửa có thể trông thật y như thật.\n(12) Và khi một bài đăng làm bạn rất tức giận, hãy chờ một chút: người đang giận thì chia sẻ rất nhanh.\n(13) Giữ kín chuyện riêng tư\n(14) Đừng bao giờ đăng địa chỉ nhà, số điện thoại hay tên trường của bạn, và hãy hỏi bạn bè trước khi đăng ảnh của họ.\n(15) Chăm sóc giấc ngủ\n(16) Các bác sĩ về giấc ngủ cho biết tuổi teen cần ngủ từ tám tới mười tiếng mỗi đêm.\n(17) Hãy để điện thoại ra ngoài phòng ngủ một tiếng trước khi đi ngủ, và dùng một chiếc đồng hồ báo thức thật.\n(18) Cuối cùng, người ta thường chỉ đăng những khoảnh khắc đẹp nhất của mình, nên chẳng ai có cuộc sống hoàn hảo như trên mạng.\n(19) Nếu một tài khoản nào đó làm bạn thấy tệ về bản thân, bỏ theo dõi nó cũng không sao cả.",
+      "word_count": 240,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.57",
+        "a2.58",
+        "a2.59",
+        "a2.60"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u15_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u15_01",
+      "i18n": {
+        "en": "Who most probably took the batteries out of the remote?",
+        "vi": "Nhiều khả năng ai đã lấy pin ra khỏi cái điều khiển?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Nathan",
+            "vi": "Nathan"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Nathan",
+          "text_translation": "Nathan"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet",
+            "vi": "bà Harriet"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Harriet",
+          "text_translation": "bà Harriet"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Amy",
+            "vi": "Amy"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Amy",
+          "text_translation": "Amy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tina",
+            "vi": "Tina"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Tina",
+          "text_translation": "Tina"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng ai lấy pin, nhưng ta suy ra được. \"Luckily, Nathan found them in Amy's pink bag.\" Pin nằm trong túi của Amy. Rồi \"Amy looked up at the ceiling and smiled.\": bé không nhìn bố mẹ mà nhìn lên trần và cười, kiểu trẻ con giấu chuyện. Nathan là người TÌM thấy pin, không phải người giấu. Bà Harriet chỉ nói về phim nhạc kịch. Tina chỉ được Amy nhắc tới, tối đó không có mặt ở nhà số 15."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi có most probably là câu suy luận. Gom các chi tiết nhỏ (đồ nằm ở đâu, ai cư xử lạ) rồi chọn người hợp với tất cả."
+      },
+      "question_jp": "Who most probably took the batteries out of the remote?",
+      "question_vn": "Nhiều khả năng ai đã lấy pin ra khỏi cái điều khiển?",
+      "explanation": "Bài không nói thẳng ai lấy pin, nhưng ta suy ra được. \"Luckily, Nathan found them in Amy's pink bag.\" Pin nằm trong túi của Amy. Rồi \"Amy looked up at the ceiling and smiled.\": bé không nhìn bố mẹ mà nhìn lên trần và cười, kiểu trẻ con giấu chuyện. Nathan là người TÌM thấy pin, không phải người giấu. Bà Harriet chỉ nói về phim nhạc kịch. Tina chỉ được Amy nhắc tới, tối đó không có mặt ở nhà số 15.",
+      "tip": "Câu hỏi có most probably là câu suy luận. Gom các chi tiết nhỏ (đồ nằm ở đâu, ai cư xử lạ) rồi chọn người hợp với tất cả."
+    },
+    {
+      "id": "q_u15_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u15_01",
+      "i18n": {
+        "en": "Why couldn't the family watch The Silver Planet with Amy?",
+        "vi": "Vì sao cả nhà không thể xem The Silver Planet cùng Amy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It has some frightening scenes and isn't for young children.",
+            "vi": "Phim có vài cảnh đáng sợ và không dành cho trẻ nhỏ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It has some frightening scenes and isn't for young children.",
+          "text_translation": "Phim có vài cảnh đáng sợ và không dành cho trẻ nhỏ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The remote was broken, so it couldn't start.",
+            "vi": "Điều khiển hỏng nên không bật được phim."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The remote was broken, so it couldn't start.",
+          "text_translation": "Điều khiển hỏng nên không bật được phim."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Amy goes to bed before it starts.",
+            "vi": "Amy đi ngủ trước khi phim bắt đầu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Amy goes to bed before it starts.",
+          "text_translation": "Amy đi ngủ trước khi phim bắt đầu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet wanted to watch an old musical.",
+            "vi": "Bà Harriet muốn xem một bộ phim nhạc kịch cũ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet wanted to watch an old musical.",
+          "text_translation": "Bà Harriet muốn xem một bộ phim nhạc kịch cũ."
+        }
+      ],
+      "evidence_segments": [
+        9,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Helena đọc thông tin về phim: \"It has some frightening scenes and isn't for young children.\" Amy mới 5 tuổi, nên phim phải để sau khi bé đi ngủ. Điều khiển đã được sửa (\"the fixed remote\"), nên không phải lý do. Amy đi ngủ lúc tám giờ rưỡi là KẾT QUẢ của kế hoạch, không phải lý do. Bà Harriet thích nhạc kịch, nhưng điều đó không ngăn ai xem phim."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi Why couldn't…? thường có đáp án ở câu nêu một nhược điểm hay một giới hạn (isn't for…)."
+      },
+      "question_jp": "Why couldn't the family watch The Silver Planet with Amy?",
+      "question_vn": "Vì sao cả nhà không thể xem The Silver Planet cùng Amy?",
+      "explanation": "Helena đọc thông tin về phim: \"It has some frightening scenes and isn't for young children.\" Amy mới 5 tuổi, nên phim phải để sau khi bé đi ngủ. Điều khiển đã được sửa (\"the fixed remote\"), nên không phải lý do. Amy đi ngủ lúc tám giờ rưỡi là KẾT QUẢ của kế hoạch, không phải lý do. Bà Harriet thích nhạc kịch, nhưng điều đó không ngăn ai xem phim.",
+      "tip": "Câu hỏi Why couldn't…? thường có đáp án ở câu nêu một nhược điểm hay một giới hạn (isn't for…)."
+    },
+    {
+      "id": "q_u15_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u15_01",
+      "i18n": {
+        "en": "In \"Their happy faces made me happier than any film\", who does \"Their\" mean?",
+        "vi": "Trong câu \"Their happy faces made me happier than any film\", \"Their\" chỉ ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Nathan and Amy",
+            "vi": "Nathan và Amy"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Nathan and Amy",
+          "text_translation": "Nathan và Amy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Nathan and Harriet",
+            "vi": "Nathan và bà Harriet"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Nathan and Harriet",
+          "text_translation": "Nathan và bà Harriet"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tina and Amy",
+            "vi": "Tina và Amy"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Tina and Amy",
+          "text_translation": "Tina và Amy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet and Amy",
+            "vi": "bà Harriet và Amy"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Harriet and Amy",
+          "text_translation": "bà Harriet và Amy"
+        }
+      ],
+      "evidence_segments": [
+        13,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu ngay trước là \"After that, I played the piano, Harriet sang every word, and Amy danced around the room.\" Người chơi piano là Helena, người hát là Harriet, người nhảy là Amy, nên \"Their\" là Harriet và Amy. Nathan và Harriet là hai người ngủ quên trên sofa ở đoạn sau. Tina không có mặt."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Their / They thường chỉ những người vừa được nhắc trong câu ngay trước. Loại bỏ chính người nói (I)."
+      },
+      "question_jp": "In \"Their happy faces made me happier than any film\", who does \"Their\" mean?",
+      "question_vn": "Trong câu \"Their happy faces made me happier than any film\", \"Their\" chỉ ai?",
+      "explanation": "Câu ngay trước là \"After that, I played the piano, Harriet sang every word, and Amy danced around the room.\" Người chơi piano là Helena, người hát là Harriet, người nhảy là Amy, nên \"Their\" là Harriet và Amy. Nathan và Harriet là hai người ngủ quên trên sofa ở đoạn sau. Tina không có mặt.",
+      "tip": "Their / They thường chỉ những người vừa được nhắc trong câu ngay trước. Loại bỏ chính người nói (I)."
+    },
+    {
+      "id": "q_u15_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u15_01",
+      "i18n": {
+        "en": "In \"Honestly, I wanted a quiet evening with classical music and my sketchbook\", what does \"Honestly\" show?",
+        "vi": "Trong câu \"Honestly, I wanted a quiet evening with classical music and my sketchbook\", \"Honestly\" cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Helena is angry with Nathan.",
+            "vi": "Helena đang giận Nathan."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Helena is angry with Nathan.",
+          "text_translation": "Helena đang giận Nathan."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Helena is telling us her true feelings.",
+            "vi": "Helena đang nói cho ta biết cảm nghĩ thật của mình."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Helena is telling us her true feelings.",
+          "text_translation": "Helena đang nói cho ta biết cảm nghĩ thật của mình."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Helena said this to the family.",
+            "vi": "Helena đã nói câu này với cả nhà."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Helena said this to the family.",
+          "text_translation": "Helena đã nói câu này với cả nhà."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Helena does not like music.",
+            "vi": "Helena không thích âm nhạc."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Helena does not like music.",
+          "text_translation": "Helena không thích âm nhạc."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"Honestly\" là trạng từ thái độ, nghĩa là \"thật lòng mà nói\": người kể sắp nói điều mình thật sự nghĩ. Câu kết thúc bằng \"but I didn't say it\", nên Helena chỉ kể với người đọc, không nói với cả nhà. Không có chi tiết nào cho thấy cô giận Nathan. Cô muốn nghe \"classical music\", nên không phải không thích âm nhạc."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Trạng từ thái độ (honestly, clearly, luckily, unfortunately) đứng đầu câu cho biết người nói NGHĨ gì về cả câu, không làm thay đổi sự việc."
+      },
+      "question_jp": "In \"Honestly, I wanted a quiet evening with classical music and my sketchbook\", what does \"Honestly\" show?",
+      "question_vn": "Trong câu \"Honestly, I wanted a quiet evening with classical music and my sketchbook\", \"Honestly\" cho thấy điều gì?",
+      "explanation": "\"Honestly\" là trạng từ thái độ, nghĩa là \"thật lòng mà nói\": người kể sắp nói điều mình thật sự nghĩ. Câu kết thúc bằng \"but I didn't say it\", nên Helena chỉ kể với người đọc, không nói với cả nhà. Không có chi tiết nào cho thấy cô giận Nathan. Cô muốn nghe \"classical music\", nên không phải không thích âm nhạc.",
+      "tip": "Trạng từ thái độ (honestly, clearly, luckily, unfortunately) đứng đầu câu cho biết người nói NGHĨ gì về cả câu, không làm thay đổi sự việc."
+    },
+    {
+      "id": "q_u15_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u15_01",
+      "i18n": {
+        "en": "Why does Helena want to call her poem \"The Surprising Ending\"?",
+        "vi": "Vì sao Helena muốn đặt tên bài thơ là \"The Surprising Ending\" (Cái kết bất ngờ)?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Nathan wanted the film most, but he fell asleep, so the evening ended in a way nobody expected.",
+            "vi": "Nathan là người muốn xem phim nhất, vậy mà lại ngủ quên, nên buổi tối kết thúc theo cách không ai ngờ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Nathan wanted the film most, but he fell asleep, so the evening ended in a way nobody expected.",
+          "text_translation": "Nathan là người muốn xem phim nhất, vậy mà lại ngủ quên, nên buổi tối kết thúc theo cách không ai ngờ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She watched the end of The Silver Planet alone, and it was very surprising.",
+            "vi": "Cô xem một mình đoạn kết của The Silver Planet, và nó rất bất ngờ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She watched the end of The Silver Planet alone, and it was very surprising.",
+          "text_translation": "Cô xem một mình đoạn kết của The Silver Planet, và nó rất bất ngờ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Amy hid the batteries at the end of the evening.",
+            "vi": "Amy giấu pin vào cuối buổi tối."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Amy hid the batteries at the end of the evening.",
+          "text_translation": "Amy giấu pin vào cuối buổi tối."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Captain Pancake has a surprising ending every week.",
+            "vi": "Tuần nào Captain Pancake cũng có cái kết bất ngờ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Captain Pancake has a surprising ending every week.",
+          "text_translation": "Tuần nào Captain Pancake cũng có cái kết bất ngờ."
+        }
+      ],
+      "evidence_segments": [
+        5,
+        16,
+        17,
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không giải thích tên bài thơ, nhưng ta suy ra được. Nathan khen phim: \"apparently the ending is really surprising\". Nhưng \"Ten minutes later, he and Harriet were both asleep on the sofa\", và Helena tắt ti vi để vẽ họ. Vậy \"cái kết bất ngờ\" không phải của bộ phim mà là của buổi tối: người háo hức nhất lại ngủ trước. Helena tắt ti vi nên không xem đoạn kết phim. Amy giấu pin từ ĐẦU buổi tối. Bài không nói gì về cái kết của Captain Pancake."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Khi một cụm từ ở đầu bài (the ending is really surprising) quay lại ở cuối bài, người viết thường đang chơi chữ. Hãy so nghĩa của nó ở hai chỗ."
+      },
+      "question_jp": "Why does Helena want to call her poem \"The Surprising Ending\"?",
+      "question_vn": "Vì sao Helena muốn đặt tên bài thơ là \"The Surprising Ending\" (Cái kết bất ngờ)?",
+      "explanation": "Bài không giải thích tên bài thơ, nhưng ta suy ra được. Nathan khen phim: \"apparently the ending is really surprising\". Nhưng \"Ten minutes later, he and Harriet were both asleep on the sofa\", và Helena tắt ti vi để vẽ họ. Vậy \"cái kết bất ngờ\" không phải của bộ phim mà là của buổi tối: người háo hức nhất lại ngủ trước. Helena tắt ti vi nên không xem đoạn kết phim. Amy giấu pin từ ĐẦU buổi tối. Bài không nói gì về cái kết của Captain Pancake.",
+      "tip": "Khi một cụm từ ở đầu bài (the ending is really surprising) quay lại ở cuối bài, người viết thường đang chơi chữ. Hãy so nghĩa của nó ở hai chỗ."
+    },
+    {
+      "id": "q_u15_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u15_02",
+      "i18n": {
+        "en": "What is the main message of the article?",
+        "vi": "Thông điệp chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Teenagers should stop using social media.",
+            "vi": "Tuổi teen nên thôi dùng mạng xã hội."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Teenagers should stop using social media.",
+          "text_translation": "Tuổi teen nên thôi dùng mạng xã hội."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Nothing on social media is true.",
+            "vi": "Chẳng có gì trên mạng xã hội là thật."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Nothing on social media is true.",
+          "text_translation": "Chẳng có gì trên mạng xã hội là thật."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Social media can be fun if you use it with a few healthy habits.",
+            "vi": "Mạng xã hội có thể vui, nếu bạn dùng nó với vài thói quen lành mạnh."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Social media can be fun if you use it with a few healthy habits.",
+          "text_translation": "Mạng xã hội có thể vui, nếu bạn dùng nó với vài thói quen lành mạnh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Phones are better than real alarm clocks.",
+            "vi": "Điện thoại tốt hơn đồng hồ báo thức thật."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Phones are better than real alarm clocks.",
+          "text_translation": "Điện thoại tốt hơn đồng hồ báo thức thật."
+        }
+      ],
+      "evidence_segments": [
+        2,
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Bài mở đầu: \"Social media can be great fun\", rồi \"it can also eat your time, your sleep and your good mood, so try these four simple habits.\" Người viết không bảo bỏ mạng xã hội, chỉ khuyên dùng cho khéo. Bài nói \"Not everything on the web is true\" (không phải mọi thứ), chứ không nói chẳng có gì là thật. Về đồng hồ, bài khuyên ngược lại: \"use a real alarm clock\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Ý chính thường nằm ở đoạn mở đầu, nhất là câu có so (… so try these…). Phương án có từ tuyệt đối (stop, everything) thường sai."
+      },
+      "question_jp": "What is the main message of the article?",
+      "question_vn": "Thông điệp chính của bài báo là gì?",
+      "explanation": "Bài mở đầu: \"Social media can be great fun\", rồi \"it can also eat your time, your sleep and your good mood, so try these four simple habits.\" Người viết không bảo bỏ mạng xã hội, chỉ khuyên dùng cho khéo. Bài nói \"Not everything on the web is true\" (không phải mọi thứ), chứ không nói chẳng có gì là thật. Về đồng hồ, bài khuyên ngược lại: \"use a real alarm clock\".",
+      "tip": "Ý chính thường nằm ở đoạn mở đầu, nhất là câu có so (… so try these…). Phương án có từ tuyệt đối (stop, everything) thường sai."
+    },
+    {
+      "id": "q_u15_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u15_02",
+      "i18n": {
+        "en": "How many hours of sleep a night do teenagers need?",
+        "vi": "Tuổi teen cần ngủ bao nhiêu tiếng mỗi đêm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "about one hour",
+            "vi": "khoảng một tiếng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "about one hour",
+          "text_translation": "khoảng một tiếng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "two hours",
+            "vi": "hai tiếng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "two hours",
+          "text_translation": "hai tiếng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "ten minutes more every week",
+            "vi": "mỗi tuần thêm mười phút"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "ten minutes more every week",
+          "text_translation": "mỗi tuần thêm mười phút"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "eight to ten hours a night",
+            "vi": "tám tới mười tiếng mỗi đêm"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "eight to ten hours a night",
+          "text_translation": "tám tới mười tiếng mỗi đêm"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"Sleep doctors say teenagers need eight to ten hours a night.\" \"An hour\" là khoảng thời gian nên cất điện thoại trước khi ngủ (\"an hour before bed\"). \"Two hours\" và \"ten minutes\" là ở mục \"Watch the clock\" (\"Ten minutes can quickly become two hours\"), nói về thời gian lướt mạng, không phải giấc ngủ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Bài có nhiều con số thì đọc chữ đứng ngay sau số: hours a night (giấc ngủ) khác before bed (trước giờ ngủ)."
+      },
+      "question_jp": "How many hours of sleep a night do teenagers need?",
+      "question_vn": "Tuổi teen cần ngủ bao nhiêu tiếng mỗi đêm?",
+      "explanation": "\"Sleep doctors say teenagers need eight to ten hours a night.\" \"An hour\" là khoảng thời gian nên cất điện thoại trước khi ngủ (\"an hour before bed\"). \"Two hours\" và \"ten minutes\" là ở mục \"Watch the clock\" (\"Ten minutes can quickly become two hours\"), nói về thời gian lướt mạng, không phải giấc ngủ.",
+      "tip": "Bài có nhiều con số thì đọc chữ đứng ngay sau số: hours a night (giấc ngủ) khác before bed (trước giờ ngủ)."
+    },
+    {
+      "id": "q_u15_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u15_02",
+      "i18n": {
+        "en": "A girl sees a surprising post with no source, and it makes her very angry. What would the writer probably tell her?",
+        "vi": "Một bạn gái thấy một bài đăng gây sốc không có nguồn, và nó làm bạn ấy rất tức giận. Nhiều khả năng người viết sẽ khuyên bạn ấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Share it quickly, because many people need to see it.",
+            "vi": "Chia sẻ ngay, vì nhiều người cần xem nó."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Share it quickly, because many people need to see it.",
+          "text_translation": "Chia sẻ ngay, vì nhiều người cần xem nó."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Wait, and check other trusted news websites first.",
+            "vi": "Chờ đã, và kiểm tra các trang tin đáng tin cậy trước."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Wait, and check other trusted news websites first.",
+          "text_translation": "Chờ đã, và kiểm tra các trang tin đáng tin cậy trước."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Turn off your phone and never use social media again.",
+            "vi": "Tắt điện thoại và đừng bao giờ dùng mạng xã hội nữa."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Turn off your phone and never use social media again.",
+          "text_translation": "Tắt điện thoại và đừng bao giờ dùng mạng xã hội nữa."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Post your phone number so people can call you about it.",
+            "vi": "Đăng số điện thoại để mọi người gọi cho bạn về chuyện đó."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Post your phone number so people can call you about it.",
+          "text_translation": "Đăng số điện thoại để mọi người gọi cho bạn về chuyện đó."
+        }
+      ],
+      "evidence_segments": [
+        9,
+        10,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói về bạn gái này, nhưng ta áp dụng lời khuyên được. Bài viết \"Before you share it, ask yourself: What is the source? Do trusted news websites report the same facts?\" và \"when a post makes you very angry, wait a moment: angry people share fast.\" Vậy người viết sẽ bảo chờ và kiểm tra trước. Chia sẻ ngay là đúng điều bài cảnh báo. Bài không khuyên bỏ hẳn mạng xã hội. Đăng số điện thoại trái với \"Never publish your address, phone number\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi tình huống (A girl… What would the writer…?): tìm mục trong bài nói đúng tình huống đó (Check before you share), rồi chọn hành động khớp lời khuyên."
+      },
+      "question_jp": "A girl sees a surprising post with no source, and it makes her very angry. What would the writer probably tell her?",
+      "question_vn": "Một bạn gái thấy một bài đăng gây sốc không có nguồn, và nó làm bạn ấy rất tức giận. Nhiều khả năng người viết sẽ khuyên bạn ấy điều gì?",
+      "explanation": "Bài không nói về bạn gái này, nhưng ta áp dụng lời khuyên được. Bài viết \"Before you share it, ask yourself: What is the source? Do trusted news websites report the same facts?\" và \"when a post makes you very angry, wait a moment: angry people share fast.\" Vậy người viết sẽ bảo chờ và kiểm tra trước. Chia sẻ ngay là đúng điều bài cảnh báo. Bài không khuyên bỏ hẳn mạng xã hội. Đăng số điện thoại trái với \"Never publish your address, phone number\".",
+      "tip": "Câu hỏi tình huống (A girl… What would the writer…?): tìm mục trong bài nói đúng tình huống đó (Check before you share), rồi chọn hành động khớp lời khuyên."
+    },
+    {
+      "id": "q_u15_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u15_02",
+      "i18n": {
+        "en": "What can we understand from \"nobody's life is as perfect as it looks online\"?",
+        "vi": "Ta hiểu được gì từ câu \"nobody's life is as perfect as it looks online\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "People with perfect lives don't use social media.",
+            "vi": "Người có cuộc sống hoàn hảo không dùng mạng xã hội."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "People with perfect lives don't use social media.",
+          "text_translation": "Người có cuộc sống hoàn hảo không dùng mạng xã hội."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Online photos are always edited.",
+            "vi": "Ảnh trên mạng lúc nào cũng bị chỉnh sửa."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Online photos are always edited.",
+          "text_translation": "Ảnh trên mạng lúc nào cũng bị chỉnh sửa."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Other people also have bad days, but they don't usually post them.",
+            "vi": "Người khác cũng có những ngày tồi tệ, chỉ là họ thường không đăng lên."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Other people also have bad days, but they don't usually post them.",
+          "text_translation": "Người khác cũng có những ngày tồi tệ, chỉ là họ thường không đăng lên."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "You should only publish your best moments.",
+            "vi": "Bạn chỉ nên đăng những khoảnh khắc đẹp nhất."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "You should only publish your best moments.",
+          "text_translation": "Bạn chỉ nên đăng những khoảnh khắc đẹp nhất."
+        }
+      ],
+      "evidence_segments": [
+        18,
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng rằng ai cũng có ngày tồi tệ, nhưng ta suy ra được. \"people usually publish only their best moments, so nobody's life is as perfect as it looks online.\" Nếu người ta chỉ đăng lúc đẹp nhất, thì những lúc buồn, lúc mệt vẫn có, chỉ là không lên mạng. Vì vậy đừng so mình với họ (\"it's OK to unfollow it\"). Bài nói ảnh chỉnh sửa \"can look perfectly real\", không nói ảnh nào cũng bị sửa. Câu này mô tả điều người ta hay làm, không phải lời khuyên chỉ đăng lúc đẹp nhất."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "as … as it looks = … như vẻ ngoài của nó. Câu \"không ai … như vẻ ngoài\" nghĩa là sự thật khác với cái ta thấy: hãy hỏi phần bị giấu đi là gì."
+      },
+      "question_jp": "What can we understand from \"nobody's life is as perfect as it looks online\"?",
+      "question_vn": "Ta hiểu được gì từ câu \"nobody's life is as perfect as it looks online\"?",
+      "explanation": "Bài không nói thẳng rằng ai cũng có ngày tồi tệ, nhưng ta suy ra được. \"people usually publish only their best moments, so nobody's life is as perfect as it looks online.\" Nếu người ta chỉ đăng lúc đẹp nhất, thì những lúc buồn, lúc mệt vẫn có, chỉ là không lên mạng. Vì vậy đừng so mình với họ (\"it's OK to unfollow it\"). Bài nói ảnh chỉnh sửa \"can look perfectly real\", không nói ảnh nào cũng bị sửa. Câu này mô tả điều người ta hay làm, không phải lời khuyên chỉ đăng lúc đẹp nhất.",
+      "tip": "as … as it looks = … như vẻ ngoài của nó. Câu \"không ai … như vẻ ngoài\" nghĩa là sự thật khác với cái ta thấy: hãy hỏi phần bị giấu đi là gì."
+    },
+    {
+      "id": "q_u15_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u15_02",
+      "i18n": {
+        "en": "In \"a surprising post can be widely shared in a few hours\", what does \"widely shared\" mean?",
+        "vi": "Trong câu \"a surprising post can be widely shared in a few hours\", \"widely shared\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "shared only with close friends",
+            "vi": "chỉ chia sẻ với bạn thân"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "shared only with close friends",
+          "text_translation": "chỉ chia sẻ với bạn thân"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "shared with a big photograph",
+            "vi": "chia sẻ kèm một bức ảnh lớn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "shared with a big photograph",
+          "text_translation": "chia sẻ kèm một bức ảnh lớn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "shared after checking the source",
+            "vi": "chia sẻ sau khi đã kiểm tra nguồn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "shared after checking the source",
+          "text_translation": "chia sẻ sau khi đã kiểm tra nguồn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "shared by a lot of people in many places",
+            "vi": "được rất nhiều người ở nhiều nơi chia sẻ"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "shared by a lot of people in many places",
+          "text_translation": "được rất nhiều người ở nhiều nơi chia sẻ"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Not everything on the web is true, and a surprising post can be widely shared in a few hours without any evidence.\" \"Widely\" (rộng rãi) đi với \"shared\" nghĩa là lan ra rất nhiều người. Câu này đang cảnh báo tin chưa kiểm chứng lan nhanh, nên không phải \"only with close friends\" hay \"after checking the source\" (câu nói rõ \"without any evidence\"). \"Wide\" không nói về kích cỡ bức ảnh."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "widely + V3 (widely shared, widely used) = được nhiều người / nhiều nơi … Đừng nhầm với wide (rộng) nói về kích thước."
+      },
+      "question_jp": "In \"a surprising post can be widely shared in a few hours\", what does \"widely shared\" mean?",
+      "question_vn": "Trong câu \"a surprising post can be widely shared in a few hours\", \"widely shared\" nghĩa là gì?",
+      "explanation": "\"Not everything on the web is true, and a surprising post can be widely shared in a few hours without any evidence.\" \"Widely\" (rộng rãi) đi với \"shared\" nghĩa là lan ra rất nhiều người. Câu này đang cảnh báo tin chưa kiểm chứng lan nhanh, nên không phải \"only with close friends\" hay \"after checking the source\" (câu nói rõ \"without any evidence\"). \"Wide\" không nói về kích cỡ bức ảnh.",
+      "tip": "widely + V3 (widely shared, widely used) = được nhiều người / nhiều nơi … Đừng nhầm với wide (rộng) nói về kích thước."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u15_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Tối thứ Sáu xem phim của nhà Brooks",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u15_01",
+      "question_ids": [
+        "q_u15_001",
+        "q_u15_002",
+        "q_u15_003",
+        "q_u15_004",
+        "q_u15_005"
+      ]
+    },
+    {
+      "set_id": "set_u15_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Bài báo cho tuổi teen: dùng mạng xã hội cho lành mạnh",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u15_02",
+      "question_ids": [
+        "q_u15_006",
+        "q_u15_007",
+        "q_u15_008",
+        "q_u15_009",
+        "q_u15_010"
+      ]
+    }
+  ]
+}

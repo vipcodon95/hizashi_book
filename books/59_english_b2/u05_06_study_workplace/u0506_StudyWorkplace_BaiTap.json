@@ -1,0 +1,2027 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 5–6 — Study skills & The workplace",
+      "vi": "Kỹ năng học tập & Môi trường làm việc"
+    },
+    "title": "Units 5–6 — Study skills & The workplace",
+    "title_vn": "Kỹ năng học tập & Môi trường làm việc",
+    "module_code": "59_u0506",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.u05+u06",
+    "curriculum_sheets": [
+      "b2.017",
+      "b2.018",
+      "b2.019",
+      "b2.020",
+      "b2.021",
+      "b2.022",
+      "b2.023",
+      "b2.024"
+    ],
+    "characters": [
+      "Tracy Carter",
+      "Tina Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 3, năm 6"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Lời nhờ lịch sự, had better, liên từ điều kiện, giọng điệu",
+    "description_vn": "Tracy chỉ Tina cách ôn thi qua gọi video, và email Tracy kể tuần đầu thực tập ở một công ty kỹ thuật. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 5 + Unit 6 khoá B2 · phiếu `b2.017` – `b2.024` (sắp xếp việc học, ghi chép, trí nhớ, chiến lược làm bài thi; lời khuyên ở chỗ làm, làm việc từ xa, chuyện văn phòng, thăng tiến)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một cuộc gọi video và một email kể chuyện đi làm; hiểu `question word + to V` (how to start), lời nhờ gián tiếp (I was wondering if…), `had better`, ngữ đồng vị, các liên từ điều kiện (provided that, as long as, otherwise, in case), `between you and me`, và nhận ra giọng điệu trêu đùa thân mật."
+    },
+    "extra_words": [
+      {
+        "word": "intern",
+        "i18n": {
+          "vi": "thực tập sinh"
+        }
+      },
+      {
+        "word": "reread",
+        "i18n": {
+          "vi": "đọc lại"
+        }
+      },
+      {
+        "word": "highlight",
+        "i18n": {
+          "vi": "tô đậm, đánh dấu"
+        }
+      },
+      {
+        "word": "familiar",
+        "i18n": {
+          "vi": "quen thuộc"
+        }
+      },
+      {
+        "word": "tricky",
+        "i18n": {
+          "vi": "hóc búa"
+        }
+      },
+      {
+        "word": "genius",
+        "i18n": {
+          "vi": "thiên tài"
+        }
+      },
+      {
+        "word": "internship",
+        "i18n": {
+          "vi": "kỳ thực tập"
+        }
+      },
+      {
+        "word": "semester",
+        "i18n": {
+          "vi": "học kỳ"
+        }
+      },
+      {
+        "word": "measurement",
+        "i18n": {
+          "vi": "số đo"
+        }
+      },
+      {
+        "word": "deadline",
+        "i18n": {
+          "vi": "hạn chót"
+        }
+      },
+      {
+        "word": "messy",
+        "i18n": {
+          "vi": "bừa bộn, lem nhem"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "I was wondering if you could…",
+          "vi": "không biết anh/chị có thể… (nhờ lịch sự)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "sink in",
+          "vi": "ngấm vào, hiểu ra"
+        }
+      },
+      {
+        "i18n": {
+          "en": "let it go to your head",
+          "vi": "vì được khen mà kiêu"
+        }
+      },
+      {
+        "i18n": {
+          "en": "you'd better",
+          "vi": "bạn nên (nếu không sẽ có chuyện)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "provided that",
+          "vi": "với điều kiện là"
+        }
+      },
+      {
+        "i18n": {
+          "en": "between you and me",
+          "vi": "nói riêng với nhau"
+        }
+      },
+      {
+        "i18n": {
+          "en": "just in case",
+          "vi": "để phòng khi"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Lời nhờ gián tiếp (`I was wondering if you could…`, `Could you…?`) lịch sự hơn câu hỏi thẳng. Câu hỏi chức năng hay hỏi kiểu câu này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`had better` mạnh hơn `should`, gần như cảnh báo. `provided that` = `as long as` = chỉ khi; `otherwise` = nếu không thì."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Ngữ đồng vị (`Dana Okafor, a bridge engineer with…,`) trả lời luôn câu hỏi \"Who is…?\"."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu đùa giữa người thân (`Don't let it go to your head`) thường vừa khen vừa trêu. Đừng chọn phương án \"giận dữ\"."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u0506_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 5) — Tracy chỉ Tina cách ôn thi qua gọi video"
+      },
+      "narrator": "announcer",
+      "title": "A Video Call About Studying",
+      "category": "story",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 220,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A Video Call About Studying",
+            "vi": "Cuộc gọi video về chuyện ôn bài"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On a Sunday evening in March, Tina called her big sister in Washington. She had a science test on Friday, and she didn't know where to begin.",
+            "vi": "Một tối Chủ nhật tháng Ba, Tina gọi cho chị cả ở Washington. Thứ Sáu cô bé có bài kiểm tra khoa học, mà chẳng biết bắt đầu từ đâu."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "Tracy, I was wondering if you could help me. I have a test on the human body, and there are forty pages of notes. I don't even know how to start.",
+            "vi": "Chị Tracy, em đang nghĩ không biết chị có giúp em được không. Em có bài kiểm tra về cơ thể người, mà ghi chép dài bốn mươi trang. Em còn chẳng biết bắt đầu thế nào."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Of course. First, tell me what you usually do.",
+            "vi": "Tất nhiên rồi. Trước hết, kể chị nghe em thường làm gì."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "I read my notes again and again, and I highlight the important parts in yellow. Sometimes the whole page is yellow.",
+            "vi": "Em đọc đi đọc lại vở ghi, rồi tô vàng chỗ quan trọng. Có khi vàng cả trang."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "That's what almost everyone does, and I did it too. The problem is that rereading feels like learning, because the words look familiar.",
+            "vi": "Hầu như ai cũng làm thế, chị cũng từng vậy. Vấn đề là đọc lại cho cảm giác như đang học, vì chữ trông quen quen."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "But recognizing something isn't the same as remembering it. Scientists who have compared study methods found that highlighting and rereading are among the least useful ones.",
+            "vi": "Nhưng nhận ra một thứ không giống với nhớ được nó. Các nhà khoa học từng so sánh các cách học và thấy tô đậm với đọc lại thuộc nhóm kém hiệu quả nhất."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "Then what am I supposed to do?",
+            "vi": "Vậy em phải làm gì?"
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Test yourself. Close your notes and try to write down everything that you can remember about, say, the heart. Then open your notes and check what you missed.",
+            "vi": "Tự kiểm tra mình. Gấp vở lại, thử viết ra mọi thứ em nhớ về, ví dụ, quả tim. Rồi mở vở ra xem mình còn thiếu gì."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "It's harder, and that's exactly why it works: every time you pull information out of your memory, you make it stronger.",
+            "vi": "Cách này khó hơn, và chính vì thế mà nó hiệu quả: mỗi lần em lôi thông tin ra khỏi trí nhớ, em làm nó chắc thêm."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "That sounds tiring.",
+            "vi": "Nghe mệt nhỉ."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "It is, a bit. The second trick is to spread it out. Do twenty minutes tonight, twenty on Tuesday and twenty on Thursday, instead of three hours on Thursday night.",
+            "vi": "Hơi mệt thật. Mẹo thứ hai là chia nhỏ ra. Tối nay hai mươi phút, thứ Ba hai mươi phút, thứ Năm hai mươi phút, thay vì ba tiếng vào tối thứ Năm."
+          }
+        },
+        {
+          "n": 13,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Your brain needs time between sessions for things to sink in.",
+            "vi": "Não cần thời gian giữa các buổi để kiến thức ngấm vào."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "And what if I get something wrong when I test myself?",
+            "vi": "Thế nhỡ em tự kiểm tra mà sai thì sao?"
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Even better. If you get it wrong and then check the answer, you're more likely to remember it later. Mistakes are part of the process.",
+            "vi": "Càng tốt. Sai rồi xem lại đáp án thì sau này em càng dễ nhớ. Sai là một phần của quá trình."
+          }
+        },
+        {
+          "n": 16,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "Could you test me on Wednesday? Mom's working nights this week.",
+            "vi": "Thứ Tư chị kiểm tra em được không? Tuần này mẹ làm ca đêm."
+          }
+        },
+        {
+          "n": 17,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Deal. Make a list of ten questions that you think your teacher might ask, and I'll add five tricky ones.",
+            "vi": "Chốt. Em soạn mười câu mà em nghĩ cô giáo có thể hỏi, chị sẽ thêm năm câu hóc búa."
+          }
+        },
+        {
+          "n": 18,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On Friday, Tina sent a photo of her test to the family chat.",
+            "vi": "Thứ Sáu, Tina gửi ảnh bài kiểm tra vào nhóm chat gia đình."
+          }
+        },
+        {
+          "n": 19,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At the top, in red, was a large A. Below it, she had written: \"Tracy, you're a genius. Don't let it go to your head.\"",
+            "vi": "Trên đầu bài là một chữ A to màu đỏ. Bên dưới, cô bé viết: \"Chị Tracy, chị là thiên tài. Nhưng đừng có mà kiêu.\""
+          }
+        }
+      ],
+      "content_ja": "A Video Call About Studying\n\nOn a Sunday evening in March, Tina called her big sister in Washington. She had a science test on Friday, and she didn't know where to begin.\n\nTina: Tracy, I was wondering if you could help me. I have a test on the human body, and there are forty pages of notes. I don't even know how to start.\n\nTracy: Of course. First, tell me what you usually do.\n\nTina: I read my notes again and again, and I highlight the important parts in yellow. Sometimes the whole page is yellow.\n\nTracy: That's what almost everyone does, and I did it too. The problem is that rereading feels like learning, because the words look familiar. But recognizing something isn't the same as remembering it. Scientists who have compared study methods found that highlighting and rereading are among the least useful ones.\n\nTina: Then what am I supposed to do?\n\nTracy: Test yourself. Close your notes and try to write down everything that you can remember about, say, the heart. Then open your notes and check what you missed. It's harder, and that's exactly why it works: every time you pull information out of your memory, you make it stronger.\n\nTina: That sounds tiring.\n\nTracy: It is, a bit. The second trick is to spread it out. Do twenty minutes tonight, twenty on Tuesday and twenty on Thursday, instead of three hours on Thursday night. Your brain needs time between sessions for things to sink in.\n\nTina: And what if I get something wrong when I test myself?\n\nTracy: Even better. If you get it wrong and then check the answer, you're more likely to remember it later. Mistakes are part of the process.\n\nTina: Could you test me on Wednesday? Mom's working nights this week.\n\nTracy: Deal. Make a list of ten questions that you think your teacher might ask, and I'll add five tricky ones.\n\nOn Friday, Tina sent a photo of her test to the family chat. At the top, in red, was a large A. Below it, she had written: \"Tracy, you're a genius. Don't let it go to your head.\"",
+      "translation_vn": "(1) Cuộc gọi video về chuyện ôn bài\n(2) Một tối Chủ nhật tháng Ba, Tina gọi cho chị cả ở Washington. Thứ Sáu cô bé có bài kiểm tra khoa học, mà chẳng biết bắt đầu từ đâu.\n(3) Tina: Chị Tracy, em đang nghĩ không biết chị có giúp em được không. Em có bài kiểm tra về cơ thể người, mà ghi chép dài bốn mươi trang. Em còn chẳng biết bắt đầu thế nào.\n(4) Tracy: Tất nhiên rồi. Trước hết, kể chị nghe em thường làm gì.\n(5) Tina: Em đọc đi đọc lại vở ghi, rồi tô vàng chỗ quan trọng. Có khi vàng cả trang.\n(6) Tracy: Hầu như ai cũng làm thế, chị cũng từng vậy. Vấn đề là đọc lại cho cảm giác như đang học, vì chữ trông quen quen.\n(7) Tracy: Nhưng nhận ra một thứ không giống với nhớ được nó. Các nhà khoa học từng so sánh các cách học và thấy tô đậm với đọc lại thuộc nhóm kém hiệu quả nhất.\n(8) Tina: Vậy em phải làm gì?\n(9) Tracy: Tự kiểm tra mình. Gấp vở lại, thử viết ra mọi thứ em nhớ về, ví dụ, quả tim. Rồi mở vở ra xem mình còn thiếu gì.\n(10) Tracy: Cách này khó hơn, và chính vì thế mà nó hiệu quả: mỗi lần em lôi thông tin ra khỏi trí nhớ, em làm nó chắc thêm.\n(11) Tina: Nghe mệt nhỉ.\n(12) Tracy: Hơi mệt thật. Mẹo thứ hai là chia nhỏ ra. Tối nay hai mươi phút, thứ Ba hai mươi phút, thứ Năm hai mươi phút, thay vì ba tiếng vào tối thứ Năm.\n(13) Tracy: Não cần thời gian giữa các buổi để kiến thức ngấm vào.\n(14) Tina: Thế nhỡ em tự kiểm tra mà sai thì sao?\n(15) Tracy: Càng tốt. Sai rồi xem lại đáp án thì sau này em càng dễ nhớ. Sai là một phần của quá trình.\n(16) Tina: Thứ Tư chị kiểm tra em được không? Tuần này mẹ làm ca đêm.\n(17) Tracy: Chốt. Em soạn mười câu mà em nghĩ cô giáo có thể hỏi, chị sẽ thêm năm câu hóc búa.\n(18) Thứ Sáu, Tina gửi ảnh bài kiểm tra vào nhóm chat gia đình.\n(19) Trên đầu bài là một chữ A to màu đỏ. Bên dưới, cô bé viết: \"Chị Tracy, chị là thiên tài. Nhưng đừng có mà kiêu.\"",
+      "word_count": 347,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.017",
+        "b2.018",
+        "b2.019",
+        "b2.020"
+      ]
+    },
+    {
+      "id": "passage_u0506_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 6) — Email của Tracy về tuần đầu thực tập"
+      },
+      "narrator": "Tracy",
+      "title": "Subject: First week at Brandt & Lowe!",
+      "category": "email",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Subject: First week at Brandt & Lowe!",
+            "vi": "Tiêu đề: Tuần đầu ở Brandt & Lowe!"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hi Mom and Dad,",
+            "vi": "Bố mẹ yêu quý,"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I survived my first week at Brandt & Lowe, the engineering company where I'm doing a part-time internship this semester, and I think I'm going to love it.",
+            "vi": "Con đã sống sót qua tuần đầu ở Brandt & Lowe, công ty kỹ thuật nơi con thực tập bán thời gian học kỳ này, và con nghĩ mình sẽ mê nó."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My supervisor, Dana Okafor, a bridge engineer with twenty years of experience, is tough but fair.",
+            "vi": "Người hướng dẫn con, chị Dana Okafor, một kỹ sư cầu đường với hai mươi năm kinh nghiệm, nghiêm khắc nhưng công bằng."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On my first morning, she told me two things: \"You'd better be punctual, and you'd better ask questions. Nobody here expects you to know everything, but we do expect you to say when you don't.\"",
+            "vi": "Sáng đầu tiên, chị dặn con hai điều: \"Em nên đúng giờ, và em nên đặt câu hỏi. Ở đây không ai mong em biết hết mọi thứ, nhưng ai cũng mong em nói ra khi em không biết.\""
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The office works on a hybrid model. Interns are in the office on Tuesdays and Thursdays, and the rest of the time we work from home, provided that we're available online between ten and four.",
+            "vi": "Văn phòng làm việc theo mô hình kết hợp. Thực tập sinh lên văn phòng thứ Ba và thứ Năm, thời gian còn lại làm ở nhà, với điều kiện phải trực tuyến từ mười giờ tới bốn giờ."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dana says that I can work flexibly as long as my tasks are finished on time.",
+            "vi": "Chị Dana nói con có thể làm việc linh hoạt, miễn là xong việc đúng hạn."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But if I'm going to miss a deadline, I have to tell her at least a day before. Otherwise, as she put it, \"we have a problem.\"",
+            "vi": "Nhưng nếu sắp trễ hạn, con phải báo chị trước ít nhất một ngày. Không thì, như chị nói, \"chúng ta có chuyện đấy.\""
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So far, I've mostly been checking measurements in spreadsheets and helping with paperwork, which is less exciting than designing bridges.",
+            "vi": "Tới giờ con chủ yếu kiểm tra số đo trong bảng tính và phụ làm giấy tờ, kém thú vị hơn thiết kế cầu nhiều."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But I've already found two mistakes in an old report. Dana didn't say much, but the next day she gave me a slightly bigger task, which I think was her way of saying thank you.",
+            "vi": "Nhưng con đã phát hiện hai lỗi trong một bản báo cáo cũ. Chị Dana không nói gì nhiều, nhưng hôm sau chị giao con một việc lớn hơn một chút, con nghĩ đó là cách chị cảm ơn."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I've also learned a lot about office life. Between you and me, there are a couple of colleagues who argue about the kitchen schedule every single day. It's petty, but it's sort of funny to watch.",
+            "vi": "Con cũng học được nhiều về chuyện văn phòng. Nói riêng với bố mẹ thôi, có mấy đồng nghiệp ngày nào cũng cãi nhau về lịch dùng bếp. Chuyện vặt vãnh, nhưng xem cũng buồn cười."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One awkward moment: on Thursday, I joined a conference call and forgot to turn off my camera while I was eating a sandwich.",
+            "vi": "Có một phút ngượng chín người: hôm thứ Năm, con vào một cuộc họp trực tuyến mà quên tắt camera trong lúc đang ăn bánh mì kẹp."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Nobody said anything, but next time I'm going to bring a less messy lunch, just in case.",
+            "vi": "Không ai nói gì, nhưng lần sau con sẽ mang bữa trưa nào đỡ lem nhem hơn, cho chắc."
+          }
+        },
+        {
+          "n": 14,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dad, you'll be glad to know that I always carry a notebook. Mom, you'll be glad to know that I'm sleeping eight hours. Well, seven or so.",
+            "vi": "Bố ơi, bố sẽ vui khi biết con lúc nào cũng mang sổ. Mẹ ơi, mẹ sẽ vui khi biết con ngủ đủ tám tiếng. À, bảy tiếng hay khoảng đó."
+          }
+        },
+        {
+          "n": 15,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Love, Tracy",
+            "vi": "Thương bố mẹ, Tracy"
+          }
+        },
+        {
+          "n": 16,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "P.S. Owen says hi. He's an intern at a software company across the river, so we have lunch together on Thursdays.",
+            "vi": "Tái bút: Owen gửi lời chào. Cậu ấy thực tập ở một công ty phần mềm bên kia sông, nên thứ Năm nào bọn con cũng ăn trưa cùng nhau."
+          }
+        }
+      ],
+      "content_ja": "Subject: First week at Brandt & Lowe!\n\nHi Mom and Dad,\n\nI survived my first week at Brandt & Lowe, the engineering company where I'm doing a part-time internship this semester, and I think I'm going to love it.\n\nMy supervisor, Dana Okafor, a bridge engineer with twenty years of experience, is tough but fair. On my first morning, she told me two things: \"You'd better be punctual, and you'd better ask questions. Nobody here expects you to know everything, but we do expect you to say when you don't.\"\n\nThe office works on a hybrid model. Interns are in the office on Tuesdays and Thursdays, and the rest of the time we work from home, provided that we're available online between ten and four. Dana says that I can work flexibly as long as my tasks are finished on time. But if I'm going to miss a deadline, I have to tell her at least a day before. Otherwise, as she put it, \"we have a problem.\"\n\nSo far, I've mostly been checking measurements in spreadsheets and helping with paperwork, which is less exciting than designing bridges. But I've already found two mistakes in an old report. Dana didn't say much, but the next day she gave me a slightly bigger task, which I think was her way of saying thank you.\n\nI've also learned a lot about office life. Between you and me, there are a couple of colleagues who argue about the kitchen schedule every single day. It's petty, but it's sort of funny to watch. One awkward moment: on Thursday, I joined a conference call and forgot to turn off my camera while I was eating a sandwich. Nobody said anything, but next time I'm going to bring a less messy lunch, just in case.\n\nDad, you'll be glad to know that I always carry a notebook. Mom, you'll be glad to know that I'm sleeping eight hours. Well, seven or so.\n\nLove, Tracy\n\nP.S. Owen says hi. He's an intern at a software company across the river, so we have lunch together on Thursdays.",
+      "translation_vn": "(1) Tiêu đề: Tuần đầu ở Brandt & Lowe!\n(2) Bố mẹ yêu quý,\n(3) Con đã sống sót qua tuần đầu ở Brandt & Lowe, công ty kỹ thuật nơi con thực tập bán thời gian học kỳ này, và con nghĩ mình sẽ mê nó.\n(4) Người hướng dẫn con, chị Dana Okafor, một kỹ sư cầu đường với hai mươi năm kinh nghiệm, nghiêm khắc nhưng công bằng.\n(5) Sáng đầu tiên, chị dặn con hai điều: \"Em nên đúng giờ, và em nên đặt câu hỏi. Ở đây không ai mong em biết hết mọi thứ, nhưng ai cũng mong em nói ra khi em không biết.\"\n(6) Văn phòng làm việc theo mô hình kết hợp. Thực tập sinh lên văn phòng thứ Ba và thứ Năm, thời gian còn lại làm ở nhà, với điều kiện phải trực tuyến từ mười giờ tới bốn giờ.\n(7) Chị Dana nói con có thể làm việc linh hoạt, miễn là xong việc đúng hạn.\n(8) Nhưng nếu sắp trễ hạn, con phải báo chị trước ít nhất một ngày. Không thì, như chị nói, \"chúng ta có chuyện đấy.\"\n(9) Tới giờ con chủ yếu kiểm tra số đo trong bảng tính và phụ làm giấy tờ, kém thú vị hơn thiết kế cầu nhiều.\n(10) Nhưng con đã phát hiện hai lỗi trong một bản báo cáo cũ. Chị Dana không nói gì nhiều, nhưng hôm sau chị giao con một việc lớn hơn một chút, con nghĩ đó là cách chị cảm ơn.\n(11) Con cũng học được nhiều về chuyện văn phòng. Nói riêng với bố mẹ thôi, có mấy đồng nghiệp ngày nào cũng cãi nhau về lịch dùng bếp. Chuyện vặt vãnh, nhưng xem cũng buồn cười.\n(12) Có một phút ngượng chín người: hôm thứ Năm, con vào một cuộc họp trực tuyến mà quên tắt camera trong lúc đang ăn bánh mì kẹp.\n(13) Không ai nói gì, nhưng lần sau con sẽ mang bữa trưa nào đỡ lem nhem hơn, cho chắc.\n(14) Bố ơi, bố sẽ vui khi biết con lúc nào cũng mang sổ. Mẹ ơi, mẹ sẽ vui khi biết con ngủ đủ tám tiếng. À, bảy tiếng hay khoảng đó.\n(15) Thương bố mẹ, Tracy\n(16) Tái bút: Owen gửi lời chào. Cậu ấy thực tập ở một công ty phần mềm bên kia sông, nên thứ Năm nào bọn con cũng ăn trưa cùng nhau.",
+      "word_count": 349,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.021",
+        "b2.022",
+        "b2.023",
+        "b2.024"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u0506_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "Why did Tina call Tracy?",
+        "vi": "Vì sao Tina gọi cho Tracy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to tell her about a new friend from her science class",
+            "vi": "để kể về một người bạn mới trong lớp khoa học"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to tell her about a new friend from her science class",
+          "text_translation": "để kể về một người bạn mới trong lớp khoa học"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to ask what the weather is like in Washington",
+            "vi": "để hỏi thời tiết ở Washington thế nào"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to ask what the weather is like in Washington",
+          "text_translation": "để hỏi thời tiết ở Washington thế nào"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She needed help studying for a science test.",
+            "vi": "Vì cô bé cần giúp ôn bài kiểm tra khoa học."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She needed help studying for a science test.",
+          "text_translation": "Vì cô bé cần giúp ôn bài kiểm tra khoa học."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Her mother had asked her to call because she was away.",
+            "vi": "Vì mẹ nhờ gọi do mẹ đang đi vắng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Her mother had asked her to call because she was away.",
+          "text_translation": "Vì mẹ nhờ gọi do mẹ đang đi vắng."
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"She had a science test on Friday, and she didn't know where to begin.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why did Tina call Tracy?",
+      "question_vn": "Vì sao Tina gọi cho Tracy?",
+      "explanation": "\"She had a science test on Friday, and she didn't know where to begin.\""
+    },
+    {
+      "id": "q_u0506_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "What kind of sentence is \"I was wondering if you could help me\"?",
+        "vi": "Câu \"I was wondering if you could help me\" thuộc loại câu nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a polite, indirect request",
+            "vi": "một lời nhờ vả lịch sự, gián tiếp"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "a polite, indirect request",
+          "text_translation": "một lời nhờ vả lịch sự, gián tiếp"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a complaint about too much homework",
+            "vi": "một lời phàn nàn về quá nhiều bài tập"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a complaint about too much homework",
+          "text_translation": "một lời phàn nàn về quá nhiều bài tập"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a question about something that happened yesterday",
+            "vi": "một câu hỏi về chuyện xảy ra hôm qua"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a question about something that happened yesterday",
+          "text_translation": "một câu hỏi về chuyện xảy ra hôm qua"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "an order that Tracy must follow",
+            "vi": "một mệnh lệnh mà Tracy phải làm theo"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "an order that Tracy must follow",
+          "text_translation": "một mệnh lệnh mà Tracy phải làm theo"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"I was wondering if you could help me.\" Thì quá khứ tiếp diễn ở đây không chỉ thời gian, mà làm lời nhờ nhẹ nhàng, lịch sự hơn \"Can you help me?\"."
+      },
+      "audio_data": null,
+      "question_jp": "What kind of sentence is \"I was wondering if you could help me\"?",
+      "question_vn": "Câu \"I was wondering if you could help me\" thuộc loại câu nào?",
+      "explanation": "\"I was wondering if you could help me.\" Thì quá khứ tiếp diễn ở đây không chỉ thời gian, mà làm lời nhờ nhẹ nhàng, lịch sự hơn \"Can you help me?\"."
+    },
+    {
+      "id": "q_u0506_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "What does Tina usually do when she studies?",
+        "vi": "Tina thường ôn bài thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She tests herself with questions every evening.",
+            "vi": "Tối nào cũng tự kiểm tra bằng câu hỏi."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She tests herself with questions every evening.",
+          "text_translation": "Tối nào cũng tự kiểm tra bằng câu hỏi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She studies with friends in the school library.",
+            "vi": "Học cùng bạn trong thư viện trường."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She studies with friends in the school library.",
+          "text_translation": "Học cùng bạn trong thư viện trường."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She watches online videos about the human body.",
+            "vi": "Xem video trên mạng về cơ thể người."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She watches online videos about the human body.",
+          "text_translation": "Xem video trên mạng về cơ thể người."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She rereads her notes and highlights them.",
+            "vi": "Đọc lại vở ghi và tô màu."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She rereads her notes and highlights them.",
+          "text_translation": "Đọc lại vở ghi và tô màu."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"I read my notes again and again, and I highlight the important parts in yellow.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Tina usually do when she studies?",
+      "question_vn": "Tina thường ôn bài thế nào?",
+      "explanation": "\"I read my notes again and again, and I highlight the important parts in yellow.\""
+    },
+    {
+      "id": "q_u0506_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "According to Tracy, why can rereading be misleading?",
+        "vi": "Theo Tracy, vì sao đọc lại dễ đánh lừa người học?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It takes much more time than other methods, and students often get bored.",
+            "vi": "Vì tốn nhiều thời gian hơn các cách khác, và học sinh hay chán."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It takes much more time than other methods, and students often get bored.",
+          "text_translation": "Vì tốn nhiều thời gian hơn các cách khác, và học sinh hay chán."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The words look familiar, but recognizing is not the same as remembering.",
+            "vi": "Vì chữ trông quen, nhưng nhận ra không giống với nhớ được."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The words look familiar, but recognizing is not the same as remembering.",
+          "text_translation": "Vì chữ trông quen, nhưng nhận ra không giống với nhớ được."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The notes are usually full of mistakes, so students learn wrong facts.",
+            "vi": "Vì vở ghi thường đầy lỗi nên học sinh học phải điều sai."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The notes are usually full of mistakes, so students learn wrong facts.",
+          "text_translation": "Vì vở ghi thường đầy lỗi nên học sinh học phải điều sai."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Teachers don't like it and often give lower marks to students who use it.",
+            "vi": "Vì giáo viên không thích và hay cho điểm thấp hơn với học sinh dùng nó."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Teachers don't like it and often give lower marks to students who use it.",
+          "text_translation": "Vì giáo viên không thích và hay cho điểm thấp hơn với học sinh dùng nó."
+        }
+      ],
+      "evidence_segments": [
+        6,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"rereading feels like learning, because the words look familiar. But recognizing something isn't the same as remembering it.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to Tracy, why can rereading be misleading?",
+      "question_vn": "Theo Tracy, vì sao đọc lại dễ đánh lừa người học?",
+      "explanation": "\"rereading feels like learning, because the words look familiar. But recognizing something isn't the same as remembering it.\""
+    },
+    {
+      "id": "q_u0506_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "What is the first study method that Tracy suggests?",
+        "vi": "Cách học đầu tiên Tracy gợi ý là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "writing down what you remember with your notes closed",
+            "vi": "gấp vở viết ra những gì nhớ được"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "writing down what you remember with your notes closed",
+          "text_translation": "gấp vở viết ra những gì nhớ được"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "highlighting the notes in several different colors",
+            "vi": "tô vở ghi bằng nhiều màu khác nhau"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "highlighting the notes in several different colors",
+          "text_translation": "tô vở ghi bằng nhiều màu khác nhau"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "reading the notes aloud to a friend or family member",
+            "vi": "đọc to vở ghi cho bạn hoặc người nhà nghe"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "reading the notes aloud to a friend or family member",
+          "text_translation": "đọc to vở ghi cho bạn hoặc người nhà nghe"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "studying all night and sleeping late on the test day",
+            "vi": "học thâu đêm rồi ngủ nướng vào ngày thi"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "studying all night and sleeping late on the test day",
+          "text_translation": "học thâu đêm rồi ngủ nướng vào ngày thi"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Close your notes and try to write down everything that you can remember about, say, the heart. Then open your notes and check what you missed.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the first study method that Tracy suggests?",
+      "question_vn": "Cách học đầu tiên Tracy gợi ý là gì?",
+      "explanation": "\"Close your notes and try to write down everything that you can remember about, say, the heart. Then open your notes and check what you missed.\""
+    },
+    {
+      "id": "q_u0506_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "Why does Tracy say \"It's harder, and that's exactly why it works\"?",
+        "vi": "Vì sao Tracy nói \"Cách này khó hơn, và chính vì thế mà nó hiệu quả\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Hard methods are always better than easy ones for every student.",
+            "vi": "Vì cách khó lúc nào cũng tốt hơn cách dễ với mọi học sinh."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Hard methods are always better than easy ones for every student.",
+          "text_translation": "Vì cách khó lúc nào cũng tốt hơn cách dễ với mọi học sinh."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tina likes difficult things and wants to be challenged.",
+            "vi": "Vì Tina thích việc khó và muốn được thử thách."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Tina likes difficult things and wants to be challenged.",
+          "text_translation": "Vì Tina thích việc khó và muốn được thử thách."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The effort of pulling things out of memory makes it stronger.",
+            "vi": "Vì nỗ lực lôi điều đã học ra khỏi trí nhớ làm nó chắc hơn."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "The effort of pulling things out of memory makes it stronger.",
+          "text_translation": "Vì nỗ lực lôi điều đã học ra khỏi trí nhớ làm nó chắc hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Teachers give harder tests, so students need harder methods.",
+            "vi": "Vì giáo viên ra đề khó hơn nên học sinh cần cách khó hơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Teachers give harder tests, so students need harder methods.",
+          "text_translation": "Vì giáo viên ra đề khó hơn nên học sinh cần cách khó hơn."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"every time you pull information out of your memory, you make it stronger.\" Chính sự vất vả khi nhớ lại tạo ra hiệu quả."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Tracy say \"It's harder, and that's exactly why it works\"?",
+      "question_vn": "Vì sao Tracy nói \"Cách này khó hơn, và chính vì thế mà nó hiệu quả\"?",
+      "explanation": "Câu suy luận. \"every time you pull information out of your memory, you make it stronger.\" Chính sự vất vả khi nhớ lại tạo ra hiệu quả."
+    },
+    {
+      "id": "q_u0506_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "What does Tracy mean by \"spread it out\"?",
+        "vi": "Tracy muốn nói gì qua cụm \"chia nhỏ ra\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Study with many more people at once in a group.",
+            "vi": "Học cùng nhiều người hơn trong một nhóm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Study with many more people at once in a group.",
+          "text_translation": "Học cùng nhiều người hơn trong một nhóm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Study in short sessions on different days, not one long session.",
+            "vi": "Học từng buổi ngắn vào các ngày khác nhau, không dồn một buổi dài."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Study in short sessions on different days, not one long session.",
+          "text_translation": "Học từng buổi ngắn vào các ngày khác nhau, không dồn một buổi dài."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Use more paper.",
+            "vi": "Dùng nhiều giấy hơn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Use more paper.",
+          "text_translation": "Dùng nhiều giấy hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Study only the easy parts of the notes and leave the hard parts.",
+            "vi": "Chỉ học phần dễ của vở ghi và bỏ phần khó."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Study only the easy parts of the notes and leave the hard parts.",
+          "text_translation": "Chỉ học phần dễ của vở ghi và bỏ phần khó."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"Do twenty minutes tonight, twenty on Tuesday and twenty on Thursday, instead of three hours on Thursday night.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Tracy mean by \"spread it out\"?",
+      "question_vn": "Tracy muốn nói gì qua cụm \"chia nhỏ ra\"?",
+      "explanation": "\"Do twenty minutes tonight, twenty on Tuesday and twenty on Thursday, instead of three hours on Thursday night.\""
+    },
+    {
+      "id": "q_u0506_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "What does Tracy say about getting answers wrong when testing yourself?",
+        "vi": "Tracy nói gì về việc trả lời sai khi tự kiểm tra?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It means that you should stop and wait until the next day.",
+            "vi": "Nghĩa là nên dừng lại và chờ đến hôm sau."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It means that you should stop and wait until the next day.",
+          "text_translation": "Nghĩa là nên dừng lại và chờ đến hôm sau."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It shows that the method doesn't work for most students.",
+            "vi": "Cho thấy cách này không hiệu quả với phần lớn học sinh."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It shows that the method doesn't work for most students.",
+          "text_translation": "Cho thấy cách này không hiệu quả với phần lớn học sinh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "You should hide your mistakes so that you don't lose confidence.",
+            "vi": "Nên giấu lỗi sai để khỏi mất tự tin."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "You should hide your mistakes so that you don't lose confidence.",
+          "text_translation": "Nên giấu lỗi sai để khỏi mất tự tin."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "If you then check the answer, you will remember it better later.",
+            "vi": "Nếu sau đó xem lại đáp án, em sẽ nhớ nó tốt hơn về sau."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "If you then check the answer, you will remember it better later.",
+          "text_translation": "Nếu sau đó xem lại đáp án, em sẽ nhớ nó tốt hơn về sau."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"If you get it wrong and then check the answer, you're more likely to remember it later. Mistakes are part of the process.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Tracy say about getting answers wrong when testing yourself?",
+      "question_vn": "Tracy nói gì về việc trả lời sai khi tự kiểm tra?",
+      "explanation": "\"If you get it wrong and then check the answer, you're more likely to remember it later. Mistakes are part of the process.\""
+    },
+    {
+      "id": "q_u0506_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "Why does Tina ask Tracy to test her on Wednesday?",
+        "vi": "Vì sao Tina nhờ Tracy kiểm tra mình vào thứ Tư?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Her mother is working nights that week.",
+            "vi": "Vì tuần đó mẹ làm ca đêm."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Her mother is working nights that week.",
+          "text_translation": "Vì tuần đó mẹ làm ca đêm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The test is on Wednesday morning, so there is little time.",
+            "vi": "Vì bài kiểm tra vào sáng thứ Tư nên không còn nhiều thời gian."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The test is on Wednesday morning, so there is little time.",
+          "text_translation": "Vì bài kiểm tra vào sáng thứ Tư nên không còn nhiều thời gian."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tracy is coming home for a visit on Wednesday.",
+            "vi": "Vì thứ Tư Tracy về nhà chơi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Tracy is coming home for a visit on Wednesday.",
+          "text_translation": "Vì thứ Tư Tracy về nhà chơi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Her teacher told her to ask her sister to test her.",
+            "vi": "Vì cô giáo bảo em nhờ chị kiểm tra."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Her teacher told her to ask her sister to test her.",
+          "text_translation": "Vì cô giáo bảo em nhờ chị kiểm tra."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"Could you test me on Wednesday? Mom's working nights this week.\" Bài kiểm tra là vào thứ Sáu."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Tina ask Tracy to test her on Wednesday?",
+      "question_vn": "Vì sao Tina nhờ Tracy kiểm tra mình vào thứ Tư?",
+      "explanation": "\"Could you test me on Wednesday? Mom's working nights this week.\" Bài kiểm tra là vào thứ Sáu."
+    },
+    {
+      "id": "q_u0506_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "What does Tina's message \"Tracy, you're a genius. Don't let it go to your head\" show?",
+        "vi": "Tin nhắn \"Chị Tracy, chị là thiên tài. Nhưng đừng có mà kiêu\" của Tina cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is angry with Tracy for giving her so much extra work.",
+            "vi": "Cô bé giận Tracy vì giao quá nhiều việc thêm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She is angry with Tracy for giving her so much extra work.",
+          "text_translation": "Cô bé giận Tracy vì giao quá nhiều việc thêm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She thinks her A was luck and that Tracy did very little.",
+            "vi": "Cô bé nghĩ điểm A là do may và Tracy chẳng làm bao nhiêu."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She thinks her A was luck and that Tracy did very little.",
+          "text_translation": "Cô bé nghĩ điểm A là do may và Tracy chẳng làm bao nhiêu."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She is thanking Tracy, but also teasing her in a friendly way.",
+            "vi": "Cô bé cảm ơn Tracy, nhưng cũng trêu chị một cách thân thiện."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She is thanking Tracy, but also teasing her in a friendly way.",
+          "text_translation": "Cô bé cảm ơn Tracy, nhưng cũng trêu chị một cách thân thiện."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She doesn't want Tracy's help again because she feels embarrassed.",
+            "vi": "Cô bé không muốn Tracy giúp nữa vì thấy ngại."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She doesn't want Tracy's help again because she feels embarrassed.",
+          "text_translation": "Cô bé không muốn Tracy giúp nữa vì thấy ngại."
+        }
+      ],
+      "evidence_segments": [
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về giọng điệu. Let something go to your head = vì được khen mà kiêu. Tina khen chị rồi đùa ngay, kiểu nói thân mật giữa anh chị em."
+      },
+      "audio_data": null,
+      "question_jp": "What does Tina's message \"Tracy, you're a genius. Don't let it go to your head\" show?",
+      "question_vn": "Tin nhắn \"Chị Tracy, chị là thiên tài. Nhưng đừng có mà kiêu\" của Tina cho thấy điều gì?",
+      "explanation": "Câu suy luận về giọng điệu. Let something go to your head = vì được khen mà kiêu. Tina khen chị rồi đùa ngay, kiểu nói thân mật giữa anh chị em."
+    },
+    {
+      "id": "q_u0506_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "What is the main purpose of Tracy's email?",
+        "vi": "Mục đích chính của email Tracy là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to ask her parents for money to pay for her internship",
+            "vi": "để xin bố mẹ tiền trả cho kỳ thực tập"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to ask her parents for money to pay for her internship",
+          "text_translation": "để xin bố mẹ tiền trả cho kỳ thực tập"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to tell her parents about her first week as an intern",
+            "vi": "để kể với bố mẹ về tuần đầu thực tập"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to tell her parents about her first week as an intern",
+          "text_translation": "để kể với bố mẹ về tuần đầu thực tập"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to complain about her supervisor and the long working hours",
+            "vi": "để phàn nàn về người hướng dẫn và giờ làm quá dài"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to complain about her supervisor and the long working hours",
+          "text_translation": "để phàn nàn về người hướng dẫn và giờ làm quá dài"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to explain how engineers design a bridge step by step",
+            "vi": "để giải thích từng bước kỹ sư thiết kế cầu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to explain how engineers design a bridge step by step",
+          "text_translation": "để giải thích từng bước kỹ sư thiết kế cầu"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"I survived my first week at Brandt & Lowe, the engineering company where I'm doing a part-time internship this semester\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of Tracy's email?",
+      "question_vn": "Mục đích chính của email Tracy là gì?",
+      "explanation": "\"I survived my first week at Brandt & Lowe, the engineering company where I'm doing a part-time internship this semester\"."
+    },
+    {
+      "id": "q_u0506_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "Who is Dana Okafor?",
+        "vi": "Dana Okafor là ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tracy's roommate at university, who also works at the company",
+            "vi": "bạn cùng phòng của Tracy ở đại học, cũng làm ở công ty"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Tracy's roommate at university, who also works at the company",
+          "text_translation": "bạn cùng phòng của Tracy ở đại học, cũng làm ở công ty"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "an intern at a software company across the river",
+            "vi": "thực tập sinh ở công ty phần mềm bên kia sông"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "an intern at a software company across the river",
+          "text_translation": "thực tập sinh ở công ty phần mềm bên kia sông"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tracy's professor at university, who teaches engineering",
+            "vi": "giáo sư của Tracy ở đại học, dạy kỹ thuật"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Tracy's professor at university, who teaches engineering",
+          "text_translation": "giáo sư của Tracy ở đại học, dạy kỹ thuật"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tracy's supervisor, a bridge engineer with twenty years of experience",
+            "vi": "người hướng dẫn Tracy, kỹ sư cầu đường hai mươi năm kinh nghiệm"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Tracy's supervisor, a bridge engineer with twenty years of experience",
+          "text_translation": "người hướng dẫn Tracy, kỹ sư cầu đường hai mươi năm kinh nghiệm"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"My supervisor, Dana Okafor, a bridge engineer with twenty years of experience, is tough but fair.\" Cụm giữa hai dấu phẩy là ngữ đồng vị, giải thích thêm cho danh từ trước nó."
+      },
+      "audio_data": null,
+      "question_jp": "Who is Dana Okafor?",
+      "question_vn": "Dana Okafor là ai?",
+      "explanation": "\"My supervisor, Dana Okafor, a bridge engineer with twenty years of experience, is tough but fair.\" Cụm giữa hai dấu phẩy là ngữ đồng vị, giải thích thêm cho danh từ trước nó."
+    },
+    {
+      "id": "q_u0506_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "In \"You'd better be punctual\", what is Dana doing?",
+        "vi": "Trong câu \"You'd better be punctual\", Dana đang làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "giving strong advice, almost a warning",
+            "vi": "đưa lời khuyên mạnh, gần như một lời cảnh báo"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "giving strong advice, almost a warning",
+          "text_translation": "đưa lời khuyên mạnh, gần như một lời cảnh báo"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "asking Tracy a question about work",
+            "vi": "hỏi Tracy một câu về công việc"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "asking Tracy a question about work",
+          "text_translation": "hỏi Tracy một câu về công việc"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "making a joke about being late",
+            "vi": "nói đùa về chuyện đến muộn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "making a joke about being late",
+          "text_translation": "nói đùa về chuyện đến muộn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "talking about what Tracy did last week",
+            "vi": "nói về việc Tracy làm tuần trước"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "talking about what Tracy did last week",
+          "text_translation": "nói về việc Tracy làm tuần trước"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"You'd better be punctual, and you'd better ask questions.\" Had better = nên (nếu không sẽ có chuyện), mạnh hơn should."
+      },
+      "audio_data": null,
+      "question_jp": "In \"You'd better be punctual\", what is Dana doing?",
+      "question_vn": "Trong câu \"You'd better be punctual\", Dana đang làm gì?",
+      "explanation": "\"You'd better be punctual, and you'd better ask questions.\" Had better = nên (nếu không sẽ có chuyện), mạnh hơn should."
+    },
+    {
+      "id": "q_u0506_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "How does the office's hybrid model work for interns?",
+        "vi": "Mô hình làm việc kết hợp áp dụng với thực tập sinh thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They work from home every day, but they must be online all day.",
+            "vi": "Ngày nào cũng làm ở nhà, nhưng phải trực tuyến cả ngày."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They work from home every day, but they must be online all day.",
+          "text_translation": "Ngày nào cũng làm ở nhà, nhưng phải trực tuyến cả ngày."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They work in the office every day, but may leave early on Fridays.",
+            "vi": "Ngày nào cũng lên văn phòng, nhưng thứ Sáu được về sớm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They work in the office every day, but may leave early on Fridays.",
+          "text_translation": "Ngày nào cũng lên văn phòng, nhưng thứ Sáu được về sớm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Office on Tuesdays and Thursdays, and from home the rest of the time.",
+            "vi": "Lên văn phòng thứ Ba và thứ Năm, những lúc còn lại làm ở nhà."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Office on Tuesdays and Thursdays, and from home the rest of the time.",
+          "text_translation": "Lên văn phòng thứ Ba và thứ Năm, những lúc còn lại làm ở nhà."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They choose their own days, as long as they tell Dana the week before.",
+            "vi": "Tự chọn ngày, miễn là báo chị Dana từ tuần trước."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They choose their own days, as long as they tell Dana the week before.",
+          "text_translation": "Tự chọn ngày, miễn là báo chị Dana từ tuần trước."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Interns are in the office on Tuesdays and Thursdays, and the rest of the time we work from home\"."
+      },
+      "audio_data": null,
+      "question_jp": "How does the office's hybrid model work for interns?",
+      "question_vn": "Mô hình làm việc kết hợp áp dụng với thực tập sinh thế nào?",
+      "explanation": "\"Interns are in the office on Tuesdays and Thursdays, and the rest of the time we work from home\"."
+    },
+    {
+      "id": "q_u0506_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "In \"provided that we're available online between ten and four\", what does \"provided that\" mean?",
+        "vi": "Trong câu \"provided that we're available online between ten and four\", \"provided that\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because",
+            "vi": "bởi vì"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because",
+          "text_translation": "bởi vì"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "only if",
+            "vi": "với điều kiện là, chỉ khi"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "only if",
+          "text_translation": "với điều kiện là, chỉ khi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "even though",
+            "vi": "mặc dù"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "even though",
+          "text_translation": "mặc dù"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "unless",
+            "vi": "trừ khi"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "unless",
+          "text_translation": "trừ khi"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"we work from home, provided that we're available online between ten and four.\" Provided that = as long as = chỉ khi, với điều kiện."
+      },
+      "audio_data": null,
+      "question_jp": "In \"provided that we're available online between ten and four\", what does \"provided that\" mean?",
+      "question_vn": "Trong câu \"provided that we're available online between ten and four\", \"provided that\" nghĩa là gì?",
+      "explanation": "\"we work from home, provided that we're available online between ten and four.\" Provided that = as long as = chỉ khi, với điều kiện."
+    },
+    {
+      "id": "q_u0506_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "What must Tracy do if she is going to miss a deadline?",
+        "vi": "Nếu sắp trễ hạn, Tracy phải làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "work all night to finish the task",
+            "vi": "thức trắng đêm để làm xong việc"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "work all night to finish the task",
+          "text_translation": "thức trắng đêm để làm xong việc"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "ask Owen for help with the task",
+            "vi": "nhờ Owen giúp làm việc đó"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "ask Owen for help with the task",
+          "text_translation": "nhờ Owen giúp làm việc đó"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "come to the office to work on Friday",
+            "vi": "lên văn phòng làm việc vào thứ Sáu"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "come to the office to work on Friday",
+          "text_translation": "lên văn phòng làm việc vào thứ Sáu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "tell Dana at least a day before",
+            "vi": "báo chị Dana trước ít nhất một ngày"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "tell Dana at least a day before",
+          "text_translation": "báo chị Dana trước ít nhất một ngày"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"if I'm going to miss a deadline, I have to tell her at least a day before. Otherwise, as she put it, \"we have a problem.\"\" Otherwise = nếu không thì."
+      },
+      "audio_data": null,
+      "question_jp": "What must Tracy do if she is going to miss a deadline?",
+      "question_vn": "Nếu sắp trễ hạn, Tracy phải làm gì?",
+      "explanation": "\"if I'm going to miss a deadline, I have to tell her at least a day before. Otherwise, as she put it, \"we have a problem.\"\" Otherwise = nếu không thì."
+    },
+    {
+      "id": "q_u0506_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "Why does Tracy think that Dana gave her a slightly bigger task?",
+        "vi": "Vì sao Tracy nghĩ chị Dana giao cô một việc lớn hơn một chút?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It was Dana's way of thanking her for finding mistakes.",
+            "vi": "Đó là cách chị Dana cảm ơn cô vì đã tìm ra lỗi."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It was Dana's way of thanking her for finding mistakes.",
+          "text_translation": "Đó là cách chị Dana cảm ơn cô vì đã tìm ra lỗi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Dana was too busy with the bridge project to do it herself.",
+            "vi": "Vì chị Dana quá bận với dự án cầu nên không tự làm được."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Dana was too busy with the bridge project to do it herself.",
+          "text_translation": "Vì chị Dana quá bận với dự án cầu nên không tự làm được."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tracy asked for it because the first tasks were boring.",
+            "vi": "Vì Tracy xin thêm do các việc đầu quá chán."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Tracy asked for it because the first tasks were boring.",
+          "text_translation": "Vì Tracy xin thêm do các việc đầu quá chán."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It was a punishment for making mistakes in the old report.",
+            "vi": "Đó là hình phạt vì cô mắc lỗi trong bản báo cáo cũ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It was a punishment for making mistakes in the old report.",
+          "text_translation": "Đó là hình phạt vì cô mắc lỗi trong bản báo cáo cũ."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Dana didn't say much, but the next day she gave me a slightly bigger task, which I think was her way of saying thank you.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Tracy think that Dana gave her a slightly bigger task?",
+      "question_vn": "Vì sao Tracy nghĩ chị Dana giao cô một việc lớn hơn một chút?",
+      "explanation": "Câu suy luận. \"Dana didn't say much, but the next day she gave me a slightly bigger task, which I think was her way of saying thank you.\""
+    },
+    {
+      "id": "q_u0506_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "What does Tracy mean by \"Between you and me\"?",
+        "vi": "Tracy muốn nói gì qua cụm \"Nói riêng với bố mẹ thôi\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is going to talk about her parents' colleagues.",
+            "vi": "Cô sắp nói về đồng nghiệp của bố mẹ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She is going to talk about her parents' colleagues.",
+          "text_translation": "Cô sắp nói về đồng nghiệp của bố mẹ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She wants her parents to tell the story to their friends.",
+            "vi": "Cô muốn bố mẹ kể chuyện này với bạn bè của họ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She wants her parents to tell the story to their friends.",
+          "text_translation": "Cô muốn bố mẹ kể chuyện này với bạn bè của họ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "What she is going to say is private and shouldn't be repeated.",
+            "vi": "Điều cô sắp nói là chuyện riêng, đừng nói lại với ai."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "What she is going to say is private and shouldn't be repeated.",
+          "text_translation": "Điều cô sắp nói là chuyện riêng, đừng nói lại với ai."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is standing between two colleagues at the kitchen.",
+            "vi": "Cô đang đứng giữa hai đồng nghiệp trong bếp."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She is standing between two colleagues at the kitchen.",
+          "text_translation": "Cô đang đứng giữa hai đồng nghiệp trong bếp."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Between you and me, there are a couple of colleagues who argue about the kitchen schedule every single day.\" Between you and me = chỉ nói riêng với nhau. Sau giới từ dùng me, không dùng I."
+      },
+      "audio_data": null,
+      "question_jp": "What does Tracy mean by \"Between you and me\"?",
+      "question_vn": "Tracy muốn nói gì qua cụm \"Nói riêng với bố mẹ thôi\"?",
+      "explanation": "\"Between you and me, there are a couple of colleagues who argue about the kitchen schedule every single day.\" Between you and me = chỉ nói riêng với nhau. Sau giới từ dùng me, không dùng I."
+    },
+    {
+      "id": "q_u0506_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "What happened during the conference call on Thursday?",
+        "vi": "Trong cuộc họp trực tuyến hôm thứ Năm đã xảy ra chuyện gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tracy's computer crashed, so the whole team had to start the call again.",
+            "vi": "Máy tính của Tracy bị treo nên cả nhóm phải họp lại từ đầu."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Tracy's computer crashed, so the whole team had to start the call again.",
+          "text_translation": "Máy tính của Tracy bị treo nên cả nhóm phải họp lại từ đầu."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tracy forgot to turn off her camera while she was eating.",
+            "vi": "Tracy quên tắt camera khi đang ăn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Tracy forgot to turn off her camera while she was eating.",
+          "text_translation": "Tracy quên tắt camera khi đang ăn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Dana shouted at Tracy for being late to the call.",
+            "vi": "Chị Dana quát Tracy vì vào cuộc họp muộn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Dana shouted at Tracy for being late to the call.",
+          "text_translation": "Chị Dana quát Tracy vì vào cuộc họp muộn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Owen joined the call by mistake from his own company.",
+            "vi": "Owen vào cuộc họp nhầm từ công ty của cậu ấy."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Owen joined the call by mistake from his own company.",
+          "text_translation": "Owen vào cuộc họp nhầm từ công ty của cậu ấy."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"I joined a conference call and forgot to turn off my camera while I was eating a sandwich.\""
+      },
+      "audio_data": null,
+      "question_jp": "What happened during the conference call on Thursday?",
+      "question_vn": "Trong cuộc họp trực tuyến hôm thứ Năm đã xảy ra chuyện gì?",
+      "explanation": "\"I joined a conference call and forgot to turn off my camera while I was eating a sandwich.\""
+    },
+    {
+      "id": "q_u0506_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "Use both texts. Which idea appears in both Dana's advice and Tracy's advice to Tina?",
+        "vi": "Dựa vào cả hai bài. Ý nào xuất hiện cả trong lời dặn của chị Dana lẫn lời khuyên của Tracy cho Tina?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Highlighting is the best way to learn, so you should do it every day.",
+            "vi": "Tô màu là cách học tốt nhất, nên ngày nào cũng làm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Highlighting is the best way to learn, so you should do it every day.",
+          "text_translation": "Tô màu là cách học tốt nhất, nên ngày nào cũng làm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "You should work from home whenever you want to study.",
+            "vi": "Nên làm việc ở nhà bất cứ khi nào muốn học."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "You should work from home whenever you want to study.",
+          "text_translation": "Nên làm việc ở nhà bất cứ khi nào muốn học."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "You should never make mistakes in front of other people.",
+            "vi": "Không bao giờ được mắc lỗi trước mặt người khác."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "You should never make mistakes in front of other people.",
+          "text_translation": "Không bao giờ được mắc lỗi trước mặt người khác."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Not knowing or getting things wrong is a normal part of learning.",
+            "vi": "Chưa biết hay làm sai là một phần bình thường của việc học."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Not knowing or getting things wrong is a normal part of learning.",
+          "text_translation": "Chưa biết hay làm sai là một phần bình thường của việc học."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Dana: \"Nobody here expects you to know everything, but we do expect you to say when you don't.\" Tracy nói với Tina: \"Mistakes are part of the process.\""
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. Which idea appears in both Dana's advice and Tracy's advice to Tina?",
+      "question_vn": "Dựa vào cả hai bài. Ý nào xuất hiện cả trong lời dặn của chị Dana lẫn lời khuyên của Tracy cho Tina?",
+      "explanation": "Câu nối hai bài. Dana: \"Nobody here expects you to know everything, but we do expect you to say when you don't.\" Tracy nói với Tina: \"Mistakes are part of the process.\""
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u0506_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 5) — Tracy chỉ Tina cách ôn thi qua gọi video",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u0506_01",
+      "question_ids": [
+        "q_u0506_001",
+        "q_u0506_002",
+        "q_u0506_003",
+        "q_u0506_004",
+        "q_u0506_005",
+        "q_u0506_006",
+        "q_u0506_007",
+        "q_u0506_008",
+        "q_u0506_009",
+        "q_u0506_010"
+      ]
+    },
+    {
+      "set_id": "set_u0506_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 6) — Email của Tracy về tuần đầu thực tập",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u0506_02",
+      "question_ids": [
+        "q_u0506_011",
+        "q_u0506_012",
+        "q_u0506_013",
+        "q_u0506_014",
+        "q_u0506_015",
+        "q_u0506_016",
+        "q_u0506_017",
+        "q_u0506_018",
+        "q_u0506_019",
+        "q_u0506_020"
+      ]
+    }
+  ]
+}

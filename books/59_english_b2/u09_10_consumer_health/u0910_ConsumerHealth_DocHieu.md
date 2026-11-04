@@ -1,0 +1,329 @@
+# Units 9–10 — Consumer society & Health issues (Xã hội tiêu dùng & Vấn đề sức khoẻ)
+
+> **Luyện cho:** Unit 9 + Unit 10 khoá B2 · phiếu `b2.033` – `b2.040` (hiếm khi, thời trang nhanh, đồ cũ, lối sống tối giản; khuyên bảo với suggest that, sức khoẻ tinh thần, y tế công cộng, bệnh thời hiện đại).
+>
+> **Nhân vật:** Helena Brooks, Nathan Brooks, Amy Brooks, Leah Carter · tháng 5, năm 6
+>
+> **Mục tiêu:** đọc một bản ghi chép thử thách gia đình và một bài báo sức khoẻ; hiểu đảo ngữ với `Scarcely had…when`, `Little did we know`, `Seldom have we`, số liệu và tỉ lệ, thể giả định sau `insist / recommend that`, ngôn ngữ nguyên nhân – kết quả (lead to, result in), và phân biệt hai khái niệm gần nghĩa.
+
+---
+
+## Từ vựng trước khi đọc
+
+| Từ | Loại từ | Nghĩa | Phiếu |
+|---|---|---|---|
+| purchase | danh từ | món hàng mua, việc mua | `b2.033` |
+| temptation | danh từ | sự cám dỗ | `b2.033` |
+| vintage | tính từ | cổ điển, đồ cũ có giá trị | `b2.035` |
+| patch | danh từ | miếng vá | `b2.035` |
+| thread | danh từ | chỉ (may) | `b2.035` |
+| neat | tính từ | gọn gàng, ngăn nắp | `b2.036` |
+| inflammation | danh từ | chứng viêm | `b2.040` |
+| stroke | danh từ | đột quỵ | `b2.040` |
+
+**Từ ngoài bài học** (chưa có trong khoá tới unit này, xem nghĩa để đọc trôi):
+
+| Từ | Nghĩa |
+|---|---|
+| cart | giỏ hàng (mua trực tuyến) |
+| headphones | tai nghe |
+| sneakers | giày thể thao |
+| blender | máy xay sinh tố |
+| donation | quyên góp |
+| board game | trò chơi cờ bàn |
+| epidemic | dịch bệnh lan rộng |
+| review | tổng quan (nghiên cứu) |
+| blood pressure | huyết áp |
+| official | quan chức |
+
+> 📌 Cụm hay gặp trong bài: *make a purchase* (mua hàng), *resist temptation* (cưỡng lại cám dỗ), *come apart* (bung ra), *clear out* (dọn sạch), *little did we know* (chẳng ngờ), *lead to / result in* (dẫn tới), *add up* (cộng dồn lại).
+
+---
+
+## Bài đọc 1 (Unit 9) — Thử thách một tháng không mua đồ mới của nhà Brooks
+
+> **The Brooks Family's "Nothing New" Month**
+>
+> Notes by Helena Brooks, kept on the fridge door in May
+>
+> The rules
+>
+> For thirty-one days, we will buy nothing new except food, medicine and things that we need for safety. Second-hand things are allowed, and borrowing is strongly encouraged. Before any purchase, we have to wait twenty-four hours and ask: do we need it, or do we just want it?
+>
+> Week 1
+>
+> Nathan almost failed on day two. Late at night, he put a pair of expensive headphones in his online cart, and only the twenty-four-hour rule saved him. By the next evening, the temptation had disappeared. "Scarcely had I closed the app," he admitted, "when I remembered that my old headphones work perfectly well."
+>
+> Week 2
+>
+> Amy's sneakers came apart at the toe. Instead of a new pair, we found an almost new pair at the second-hand shop on Pine Street for eight dollars. Amy was disappointed for about an hour and then told everyone at school that her shoes were vintage. I also sewed a patch onto Nathan's favorite jeans with a needle and thread that I borrowed from Harriet. It isn't neat, but it works.
+>
+> Week 3
+>
+> We cleared out the garage and found three umbrellas, two blenders and a box of toys that Amy had completely forgotten. Most of it went to a neighbor or to the donation box. Little did we know how many things we owned without using them.
+>
+> The results
+>
+> We spent about 60 percent less than usual on things other than food. More surprisingly, we seldom missed the things that we didn't buy. Without shopping as an easy way to fill our free time, we cooked, played board games and walked to the beach. Seldom have we spent so many evenings together. We have decided to keep two of the rules: the twenty-four-hour wait and "borrow before you buy".
+
+### Dịch từng câu
+
+| # | Tiếng Anh | Tiếng Việt |
+|---|---|---|
+| 1 | The Brooks Family's "Nothing New" Month | Tháng "không mua đồ mới" của nhà Brooks |
+| 2 | Notes by Helena Brooks, kept on the fridge door in May | Ghi chép của Helena Brooks, dán trên cửa tủ lạnh suốt tháng Năm |
+| 3 | The rules | Luật chơi |
+| 4 | For thirty-one days, we will buy nothing new except food, medicine and things that we need for safety. | Trong ba mươi mốt ngày, cả nhà sẽ không mua đồ mới nào, trừ đồ ăn, thuốc và những thứ cần cho an toàn. |
+| 5 | Second-hand things are allowed, and borrowing is strongly encouraged. Before any purchase, we have to wait twenty-four hours and ask: do we need it, or do we just want it? | Đồ cũ thì được, còn đi mượn thì càng khuyến khích. Trước khi mua gì, phải chờ hai mươi bốn giờ và tự hỏi: mình cần nó, hay chỉ muốn nó? |
+| 6 | Week 1 | Tuần 1 |
+| 7 | Nathan almost failed on day two. Late at night, he put a pair of expensive headphones in his online cart, and only the twenty-four-hour rule saved him. | Nathan suýt thua ngay ngày thứ hai. Đêm khuya, anh cho một chiếc tai nghe đắt tiền vào giỏ hàng trực tuyến, và chỉ có luật hai mươi bốn giờ cứu được anh. |
+| 8 | By the next evening, the temptation had disappeared. "Scarcely had I closed the app," he admitted, "when I remembered that my old headphones work perfectly well." | Tới tối hôm sau, cơn cám dỗ đã biến mất. "Vừa đóng ứng dụng," anh thú nhận, "là anh nhớ ra cái tai nghe cũ vẫn dùng tốt chán." |
+| 9 | Week 2 | Tuần 2 |
+| 10 | Amy's sneakers came apart at the toe. Instead of a new pair, we found an almost new pair at the second-hand shop on Pine Street for eight dollars. | Giày thể thao của Amy bị bung ở mũi. Thay vì mua đôi mới, cả nhà tìm được một đôi gần như mới ở cửa hàng đồ cũ phố Pine với giá tám đô. |
+| 11 | Amy was disappointed for about an hour and then told everyone at school that her shoes were vintage. | Amy thất vọng chừng một tiếng, rồi kể với cả trường rằng giày của mình là đồ cổ điển. |
+| 12 | I also sewed a patch onto Nathan's favorite jeans with a needle and thread that I borrowed from Harriet. It isn't neat, but it works. | Tôi còn khâu một miếng vá lên chiếc quần bò Nathan thích nhất bằng kim chỉ mượn của mẹ Harriet. Không đẹp lắm, nhưng dùng được. |
+| 13 | Week 3 | Tuần 3 |
+| 14 | We cleared out the garage and found three umbrellas, two blenders and a box of toys that Amy had completely forgotten. Most of it went to a neighbor or to the donation box. | Cả nhà dọn nhà xe và tìm thấy ba cái ô, hai cái máy xay sinh tố và một thùng đồ chơi Amy đã quên sạch. Phần lớn được cho hàng xóm hoặc bỏ vào thùng quyên góp. |
+| 15 | Little did we know how many things we owned without using them. | Chẳng ngờ nhà mình có nhiều thứ đến thế mà không hề dùng. |
+| 16 | The results | Kết quả |
+| 17 | We spent about 60 percent less than usual on things other than food. More surprisingly, we seldom missed the things that we didn't buy. | Cả nhà chi ít hơn bình thường khoảng 60 phần trăm cho những thứ ngoài đồ ăn. Bất ngờ hơn, chúng tôi hiếm khi tiếc những món mình đã không mua. |
+| 18 | Without shopping as an easy way to fill our free time, we cooked, played board games and walked to the beach. Seldom have we spent so many evenings together. | Không còn mua sắm để giết thời gian, chúng tôi nấu ăn, chơi cờ bàn và đi bộ ra biển. Hiếm khi nào cả nhà có nhiều buổi tối bên nhau đến vậy. |
+| 19 | We have decided to keep two of the rules: the twenty-four-hour wait and "borrow before you buy". | Cả nhà quyết định giữ lại hai luật: chờ hai mươi bốn giờ và "mượn trước khi mua". |
+
+### Câu hỏi
+
+**1. What are Helena's notes mainly about?**
+*(Ghi chép của Helena chủ yếu nói về điều gì?)*
+
+- A. how to repair old clothes and shoes with a needle and thread *(cách sửa quần áo và giày cũ bằng kim chỉ)*
+- B. Nathan's new headphones and the day he finally bought them *(chiếc tai nghe mới của Nathan và ngày anh cuối cùng mua nó)*
+- C. the second-hand shop on Pine Street and its low prices *(cửa hàng đồ cũ phố Pine và giá rẻ của nó)*
+- D. a family challenge to buy nothing new for a month, and its results *(thử thách cả nhà không mua đồ mới trong một tháng, và kết quả)*
+
+**2. What must the family do before any purchase?**
+*(Trước mỗi lần mua, cả nhà phải làm gì?)*
+
+- A. wait twenty-four hours and ask whether they need it or want it *(chờ hai mươi bốn giờ và tự hỏi mình cần hay chỉ muốn)*
+- B. ask Harriet or another neighbor for permission to buy it *(xin phép bà Harriet hoặc một người hàng xóm để mua)*
+- C. write the price on the fridge door and wait a week *(ghi giá lên cửa tủ lạnh và chờ một tuần)*
+- D. show it to Helena and ask her to approve the price *(đưa cho Helena xem và nhờ cô duyệt giá)*
+
+**3. What does Nathan mean by "Scarcely had I closed the app when I remembered that my old headphones work perfectly well"?**
+*(Nathan muốn nói gì qua câu "Vừa đóng ứng dụng là anh nhớ ra cái tai nghe cũ vẫn dùng tốt chán"?)*
+
+- A. He could not close the app because his phone had stopped working late at night. *(Anh không đóng được ứng dụng vì điện thoại hỏng lúc đêm khuya.)*
+- B. He bought the headphones anyway and hid them from the family. *(Anh vẫn mua tai nghe và giấu cả nhà.)*
+- C. Almost as soon as he closed the app, he realized that he didn't need them. *(Gần như ngay khi đóng ứng dụng, anh nhận ra mình không cần chúng.)*
+- D. His old headphones were broken, so he had to borrow a pair. *(Tai nghe cũ của anh hỏng nên anh phải mượn một chiếc.)*
+
+**4. What happened when Amy's sneakers came apart?**
+*(Khi giày thể thao của Amy bị bung thì sao?)*
+
+- A. Her parents ordered a new pair online and paid extra for fast delivery. *(Bố mẹ đặt một đôi mới trên mạng và trả thêm tiền để giao nhanh.)*
+- B. They found an almost new pair second-hand for eight dollars. *(Cả nhà tìm được một đôi gần như mới đã qua sử dụng giá tám đô.)*
+- C. Helena repaired them with a needle and thread borrowed from Harriet. *(Helena sửa chúng bằng kim chỉ mượn của bà Harriet.)*
+- D. She borrowed a pair of sneakers from her friend at school. *(Cô bé mượn đôi giày thể thao của một bạn ở trường.)*
+
+**5. What does Amy telling everyone at school that her shoes were "vintage" suggest?**
+*(Việc Amy kể với cả trường rằng giày của mình là "đồ cổ điển" cho thấy điều gì?)*
+
+- A. She quickly found a positive way to see her second-hand shoes. *(Cô bé nhanh chóng tìm được cách nhìn tích cực về đôi giày cũ.)*
+- B. She lied to her friends because she was ashamed of the shoes. *(Cô bé nói dối bạn vì xấu hổ về đôi giày.)*
+- C. The shoes were very old and valuable, so she wore them with pride. *(Đôi giày rất cũ và đắt giá nên cô bé tự hào mang chúng.)*
+- D. She didn't want the shoes and tried to give them to a friend. *(Cô bé không muốn đôi giày và định đem cho bạn.)*
+
+**6. What did the family find when they cleared out the garage?**
+*(Khi dọn nhà xe, cả nhà tìm thấy gì?)*
+
+- A. a new pair of headphones that Nathan had hidden there *(một chiếc tai nghe mới Nathan đã giấu ở đó)*
+- B. Harriet's sewing box and the needle and thread she lent them *(hộp kim chỉ của bà Harriet và cây kim, sợi chỉ bà cho mượn)*
+- C. some money that Amy had saved for new shoes *(một ít tiền Amy để dành mua giày mới)*
+- D. three umbrellas, two blenders and a box of forgotten toys *(ba cái ô, hai máy xay sinh tố và một thùng đồ chơi bị bỏ quên)*
+
+**7. What does "Little did we know how many things we owned without using them" mean?**
+*(Câu "Chẳng ngờ nhà mình có nhiều thứ đến thế mà không hề dùng" nghĩa là gì?)*
+
+- A. They owned very few things and had to borrow the rest. *(Nhà họ có rất ít đồ và phải mượn phần còn lại.)*
+- B. They knew exactly what they owned and where everything was. *(Họ biết chính xác mình có gì và đồ để ở đâu.)*
+- C. They had no idea how many things they owned but never used. *(Họ không hề biết mình có bao nhiêu đồ mà chưa từng dùng tới.)*
+- D. They wanted to buy more things to fill the empty garage. *(Họ muốn mua thêm đồ để lấp đầy gara trống.)*
+
+**8. How much less did the family spend on things other than food?**
+*(Cả nhà chi ít hơn bao nhiêu cho những thứ ngoài đồ ăn?)*
+
+- A. about 24 percent less than usual *(ít hơn bình thường khoảng 24 phần trăm)*
+- B. about 60 percent less *(ít hơn khoảng 60 phần trăm)*
+- C. about 31 percent less than usual *(ít hơn bình thường khoảng 31 phần trăm)*
+- D. nothing at all *(không chi gì)*
+
+**9. What does "Seldom have we spent so many evenings together" suggest?**
+*(Câu "Hiếm khi nào cả nhà có nhiều buổi tối bên nhau đến vậy" hàm ý gì?)*
+
+- A. The challenge gave the family more time together than usual. *(Thử thách cho cả nhà nhiều thời gian bên nhau hơn bình thường.)*
+- B. The family rarely enjoys being together in the evening. *(Cả nhà hiếm khi thích ở bên nhau vào buổi tối.)*
+- C. They spent every evening shopping for things to borrow. *(Tối nào họ cũng đi mua sắm đồ để mượn.)*
+- D. They were bored every evening because there was nothing to buy. *(Tối nào họ cũng chán vì chẳng có gì để mua.)*
+
+**10. Which rules has the family decided to keep?**
+*(Cả nhà quyết định giữ lại những luật nào?)*
+
+- A. buying nothing new at all, except food and medicine *(không mua đồ mới nào, trừ đồ ăn và thuốc)*
+- B. only buying food, medicine and things for safety *(chỉ mua đồ ăn, thuốc và đồ cho an toàn)*
+- C. the twenty-four-hour wait and "borrow before you buy" *(chờ hai mươi bốn giờ và "mượn trước khi mua")*
+- D. shopping only at second-hand shops on Pine Street *(chỉ mua ở các cửa hàng đồ cũ trên phố Pine)*
+
+---
+
+## Bài đọc 2 (Unit 10) — Cô đơn, một rủi ro sức khoẻ bị xem nhẹ
+
+> **Loneliness: The Health Risk We Don't Talk About**
+>
+> Most of us know that smoking, poor diet and lack of exercise can damage our health. Far fewer people are aware that loneliness can be just as dangerous. In 2023, the top public health official in the United States warned that the country was facing an "epidemic of loneliness", and that about one in two adults had reported feeling lonely.
+>
+> The warning was based on years of research. One large review, which combined 148 studies and more than 300,000 people, found that people with strong social relationships were about 50 percent more likely to survive over the study period than people with weak ones. The report compared the effect of lacking social connection to smoking up to fifteen cigarettes a day.
+>
+> How can a feeling lead to physical illness? Scientists believe that long-term loneliness keeps the body in a state of stress. This can result in poor sleep, high blood pressure and inflammation, which in turn can lead to heart disease and stroke. Lonely people may also eat less well, exercise less and visit the doctor less often, partly because nobody is around to encourage them.
+>
+> Importantly, being alone and being lonely are not the same thing. Some people live alone and feel perfectly connected, while others are surrounded by people and still feel alone. What matters is not the number of people around you, but whether you feel that someone truly knows and cares about you.
+>
+> Doctors are starting to take this seriously. "When an older patient comes to the emergency room alone again and again, I insist that a nurse ask who they see at home," says Dr. Leah Carter of Sunset Bay Hospital. Experts recommend that people treat social connection like exercise: something to do regularly, even in small amounts. A phone call, a shared meal or a chat with a neighbor may seem small, but over time, small connections add up.
+
+### Dịch từng câu
+
+| # | Tiếng Anh | Tiếng Việt |
+|---|---|---|
+| 1 | Loneliness: The Health Risk We Don't Talk About | Cô đơn: rủi ro sức khoẻ mà ta ít khi nhắc tới |
+| 2 | Most of us know that smoking, poor diet and lack of exercise can damage our health. Far fewer people are aware that loneliness can be just as dangerous. | Phần lớn chúng ta biết hút thuốc, ăn uống kém và lười vận động có thể hại sức khoẻ. Ít người hơn nhiều biết rằng cô đơn cũng nguy hiểm không kém. |
+| 3 | In 2023, the top public health official in the United States warned that the country was facing an "epidemic of loneliness", and that about one in two adults had reported feeling lonely. | Năm 2023, quan chức y tế công cộng cao nhất nước Mỹ cảnh báo đất nước đang đối mặt với một "đại dịch cô đơn", và khoảng một nửa số người trưởng thành cho biết họ từng thấy cô đơn. |
+| 4 | The warning was based on years of research. | Lời cảnh báo ấy dựa trên nhiều năm nghiên cứu. |
+| 5 | One large review, which combined 148 studies and more than 300,000 people, found that people with strong social relationships were about 50 percent more likely to survive over the study period than people with weak ones. | Một tổng quan lớn gộp 148 nghiên cứu với hơn 300.000 người phát hiện rằng người có các mối quan hệ xã hội bền chặt có khả năng sống sót trong thời gian nghiên cứu cao hơn khoảng 50 phần trăm so với người có quan hệ lỏng lẻo. |
+| 6 | The report compared the effect of lacking social connection to smoking up to fifteen cigarettes a day. | Bản báo cáo so sánh tác hại của việc thiếu kết nối xã hội với việc hút tới mười lăm điếu thuốc mỗi ngày. |
+| 7 | How can a feeling lead to physical illness? | Làm sao một cảm giác lại dẫn tới bệnh thể chất? |
+| 8 | Scientists believe that long-term loneliness keeps the body in a state of stress. | Các nhà khoa học cho rằng cô đơn kéo dài giữ cơ thể trong trạng thái căng thẳng. |
+| 9 | This can result in poor sleep, high blood pressure and inflammation, which in turn can lead to heart disease and stroke. | Điều này có thể dẫn tới mất ngủ, huyết áp cao và tình trạng viêm, rồi từ đó dẫn tới bệnh tim và đột quỵ. |
+| 10 | Lonely people may also eat less well, exercise less and visit the doctor less often, partly because nobody is around to encourage them. | Người cô đơn cũng có thể ăn uống kém hơn, ít vận động hơn và ít đi khám hơn, một phần vì chẳng có ai bên cạnh động viên. |
+| 11 | Importantly, being alone and being lonely are not the same thing. | Điều quan trọng là ở một mình và cô đơn không phải là một. |
+| 12 | Some people live alone and feel perfectly connected, while others are surrounded by people and still feel alone. | Có người sống một mình mà vẫn thấy gắn kết đầy đủ, trong khi người khác giữa đông người vẫn thấy lẻ loi. |
+| 13 | What matters is not the number of people around you, but whether you feel that someone truly knows and cares about you. | Điều quan trọng không phải là có bao nhiêu người quanh bạn, mà là bạn có cảm thấy có ai đó thật sự hiểu và quan tâm tới mình không. |
+| 14 | Doctors are starting to take this seriously. | Các bác sĩ đang bắt đầu coi trọng chuyện này. |
+| 15 | "When an older patient comes to the emergency room alone again and again, I insist that a nurse ask who they see at home," says Dr. Leah Carter of Sunset Bay Hospital. | "Khi một bệnh nhân lớn tuổi cứ lần nào cũng tới phòng cấp cứu một mình, tôi yêu cầu y tá hỏi xem ở nhà họ gặp gỡ những ai," bác sĩ Leah Carter ở Bệnh viện Sunset Bay nói. |
+| 16 | Experts recommend that people treat social connection like exercise: something to do regularly, even in small amounts. | Các chuyên gia khuyên mọi người hãy coi kết nối xã hội như tập thể dục: việc nên làm đều đặn, dù chỉ một chút. |
+| 17 | A phone call, a shared meal or a chat with a neighbor may seem small, but over time, small connections add up. | Một cuộc gọi, một bữa ăn chung hay một câu chuyện với hàng xóm có vẻ nhỏ bé, nhưng lâu dần, những kết nối nhỏ cộng lại thành nhiều. |
+
+### Câu hỏi
+
+**11. What is the main idea of the article?**
+*(Ý chính của bài báo là gì?)*
+
+- A. Living alone is bad for your health, so people should move in with others. *(Sống một mình có hại cho sức khoẻ, nên mọi người nên dọn về ở với người khác.)*
+- B. Loneliness is a serious health risk that deserves more attention. *(Cô đơn là một rủi ro sức khoẻ nghiêm trọng đáng được quan tâm hơn.)*
+- C. Smoking is less dangerous than people think. *(Hút thuốc ít nguy hiểm hơn người ta nghĩ.)*
+- D. Older people should visit the emergency room more often. *(Người già nên tới phòng cấp cứu thường xuyên hơn.)*
+
+**12. What did the top public health official in the United States say in 2023?**
+*(Năm 2023, quan chức y tế công cộng cao nhất nước Mỹ đã nói gì?)*
+
+- A. that smoking is no longer a problem *(rằng hút thuốc không còn là vấn đề)*
+- B. that everyone should live alone *(rằng ai cũng nên sống một mình)*
+- C. that loneliness only affects older people *(rằng cô đơn chỉ ảnh hưởng người già)*
+- D. that the country was facing an epidemic of loneliness *(rằng đất nước đang đối mặt với đại dịch cô đơn)*
+
+**13. What did the large review of 148 studies find?**
+*(Tổng quan lớn gộp 148 nghiên cứu phát hiện gì?)*
+
+- A. People with strong social relationships were about 50 percent more likely to survive. *(Người có quan hệ xã hội bền chặt có khả năng sống sót cao hơn khoảng 50 phần trăm.)*
+- B. Lonely people smoke far more than people with strong relationships, and so they die younger. *(Người cô đơn hút thuốc nhiều hơn hẳn người có quan hệ bền chặt, nên chết sớm hơn.)*
+- C. About half of all the adults in the studies had no friends and lived alone. *(Khoảng một nửa số người trưởng thành trong các nghiên cứu không có bạn và sống một mình.)*
+- D. Social relationships have almost no effect on how long people live. *(Quan hệ xã hội hầu như không ảnh hưởng tới tuổi thọ.)*
+
+**14. Why does the report compare a lack of social connection to smoking?**
+*(Vì sao bản báo cáo so sánh việc thiếu kết nối xã hội với hút thuốc?)*
+
+- A. because most lonely people smoke up to fifteen cigarettes a day *(vì phần lớn người cô đơn hút tới mười lăm điếu mỗi ngày)*
+- B. to sell new medicine to people who feel lonely *(để bán thuốc mới cho người cảm thấy cô đơn)*
+- C. to help people understand how harmful loneliness can be *(để giúp mọi người hiểu cô đơn có hại tới mức nào)*
+- D. because smoking makes people lonely and lonely people smoke *(vì hút thuốc làm người ta cô đơn và người cô đơn lại hút thuốc)*
+
+**15. According to scientists, how can loneliness lead to physical illness?**
+*(Theo các nhà khoa học, cô đơn dẫn tới bệnh thể chất bằng cách nào?)*
+
+- A. It makes people eat too much sugar and gain weight, and the extra weight then damages the heart and the lungs. *(Nó khiến người ta ăn quá nhiều đường và tăng cân, rồi cân nặng dư làm hại tim và phổi.)*
+- B. It keeps the body in a state of stress, which can lead to poor sleep and high blood pressure. *(Nó giữ cơ thể trong trạng thái căng thẳng, có thể dẫn tới mất ngủ và huyết áp cao.)*
+- C. It spreads like an infectious disease from one lonely person to another. *(Nó lây như bệnh truyền nhiễm từ người cô đơn này sang người khác.)*
+- D. It damages the lungs directly, in the same way as cigarette smoke. *(Nó làm hại phổi trực tiếp, giống như khói thuốc lá.)*
+
+**16. Which of these is NOT given as a reason why lonely people may become ill?**
+*(Điều nào KHÔNG được nêu là lý do khiến người cô đơn dễ mắc bệnh?)*
+
+- A. They may eat less well. *(Họ có thể ăn uống kém hơn.)*
+- B. They may exercise less. *(Họ có thể ít vận động hơn.)*
+- C. They may visit the doctor less often. *(Họ có thể ít đi khám hơn.)*
+- D. They may catch more colds from friends. *(Họ có thể bị bạn bè lây cảm nhiều hơn.)*
+
+**17. According to the article, what is the difference between being alone and being lonely?**
+*(Theo bài, ở một mình và cô đơn khác nhau thế nào?)*
+
+- A. Loneliness is feeling that nobody truly knows and cares about you, however many people are around. *(Cô đơn là cảm giác không ai thật sự hiểu và quan tâm mình, dù quanh mình có bao nhiêu người.)*
+- B. Being alone is always worse, because people who live by themselves have no one to talk to or eat with. *(Ở một mình lúc nào cũng tệ hơn, vì người sống một mình chẳng có ai để trò chuyện hay ăn cùng.)*
+- C. There is no difference, because both mean having few people around. *(Không khác gì nhau, vì cả hai đều là có ít người xung quanh.)*
+- D. Lonely people always live alone, while people who live alone are always lonely. *(Người cô đơn luôn sống một mình, còn người sống một mình luôn cô đơn.)*
+
+**18. In "I insist that a nurse ask who they see at home", why is the verb "ask" used instead of "asks"?**
+*(Trong câu "I insist that a nurse ask who they see at home", vì sao dùng "ask" chứ không phải "asks"?)*
+
+- A. because the verb is in the past tense, not the present *(vì động từ ở thì quá khứ, không phải hiện tại)*
+- B. because "nurse" is plural and needs a plural verb *(vì "nurse" là số nhiều nên cần động từ số nhiều)*
+- C. because after "insist that", the base form of the verb is used *(vì sau "insist that", động từ để ở dạng nguyên mẫu)*
+- D. because it is a question and questions never take -s *(vì đó là câu hỏi và câu hỏi không bao giờ thêm -s)*
+
+**19. What do experts recommend?**
+*(Các chuyên gia khuyên gì?)*
+
+- A. that people move to big cities, where they can find more friends and more places to meet them *(chuyển tới thành phố lớn, nơi có nhiều bạn và nhiều chỗ gặp gỡ hơn)*
+- B. that people stop living alone and move in with their families *(thôi sống một mình và dọn về ở với gia đình)*
+- C. that people make friends online only, so they never feel alone *(chỉ kết bạn trên mạng để không bao giờ thấy cô đơn)*
+- D. that people treat social connection like exercise, doing it regularly in small amounts *(coi kết nối xã hội như tập thể dục, làm đều đặn với liều lượng nhỏ)*
+
+**20. Use both texts. How might the Brooks family's challenge be good for their health, according to the article?**
+*(Dựa vào cả hai bài. Theo bài báo, thử thách của nhà Brooks có thể tốt cho sức khoẻ của họ thế nào?)*
+
+- A. They walked less and rested more, so their bodies had more time to heal. *(Họ đi bộ ít hơn và nghỉ nhiều hơn, nên cơ thể có thêm thời gian hồi phục.)*
+- B. It gave them many small, regular connections, such as shared meals. *(Nó cho họ nhiều kết nối nhỏ, đều đặn, như những bữa ăn chung.)*
+- C. They saved money, so they could visit the doctor more often. *(Họ để dành được tiền nên đi khám thường xuyên hơn.)*
+- D. They bought healthier food from the second-hand shop on Pine Street. *(Họ mua đồ ăn lành mạnh hơn ở cửa hàng đồ cũ phố Pine.)*
+
+---
+
+## 💡 Mẹo làm bài
+
+- Đảo ngữ phủ định (`Scarcely had I…when`, `Little did we know`, `Seldom have we`) nhấn mạnh. Câu hỏi nghĩa chỉ cần viết lại theo trật tự thường.
+- Bài sức khoẻ có số liệu nghiên cứu: phân biệt `148 studies`, `300,000 people`, `50 percent`. Phương án nhiễu hay đảo các con số.
+- `insist / suggest / recommend that + S + V nguyên mẫu`: động từ không thêm -s, kể cả với chủ ngữ số ít.
+- Hai khái niệm gần nghĩa (`alone` / `lonely`): bài thường có câu `X and Y are not the same thing`. Đáp án nằm ngay sau câu này.
+
+---
+
+## Đáp án & giải thích
+
+| Câu | Đáp án | Giải thích |
+|---|---|---|
+| 1 | **D** | Câu 4: "For thirty-one days, we will buy nothing new except food, medicine and things that we need for safety." Ghi chép đi qua luật, từng tuần và kết quả. |
+| 2 | **A** | Câu 5: "Before any purchase, we have to wait twenty-four hours and ask: do we need it, or do we just want it?" |
+| 3 | **C** | Câu 8: "Scarcely had I closed the app," … "when I remembered". Scarcely had … when … (đảo ngữ) = vừa mới … thì đã … |
+| 4 | **B** | Câu 10: "we found an almost new pair at the second-hand shop on Pine Street for eight dollars." Come apart = bung ra, tách rời. |
+| 5 | **A** | Câu 11: Câu suy luận. Cô bé chỉ "disappointed for about an hour", rồi tự hào gọi chúng là vintage. Đây là giọng hài hước của Helena khi kể về con. |
+| 6 | **D** | Câu 14: "We cleared out the garage and found three umbrellas, two blenders and a box of toys that Amy had completely forgotten." |
+| 7 | **C** | Câu 15: "Little did we know how many things we owned without using them." Little did + S + V (đảo ngữ) = hoàn toàn không biết. |
+| 8 | **B** | Câu 17: "We spent about 60 percent less than usual on things other than food." |
+| 9 | **A** | Câu 18: Câu suy luận. "Without shopping as an easy way to fill our free time, we cooked, played board games and walked to the beach." Seldom have we… (đảo ngữ) nhấn mạnh rằng điều này hiếm có. |
+| 10 | **C** | Câu 19: "We have decided to keep two of the rules: the twenty-four-hour wait and "borrow before you buy"." |
+| 11 | **B** | Câu 2: "Far fewer people are aware that loneliness can be just as dangerous." Bài đưa bằng chứng, giải thích cơ chế, rồi gợi ý cách làm. |
+| 12 | **D** | Câu 3: "the country was facing an "epidemic of loneliness", and that about one in two adults had reported feeling lonely." |
+| 13 | **A** | Câu 5: "people with strong social relationships were about 50 percent more likely to survive over the study period than people with weak ones." |
+| 14 | **C** | Câu 6: Câu suy luận về mục đích. Ai cũng biết hút thuốc có hại; so sánh với "smoking up to fifteen cigarettes a day" giúp người đọc hình dung mức độ nguy hiểm. |
+| 15 | **B** | Câu 8–9: "long-term loneliness keeps the body in a state of stress." và "This can result in poor sleep, high blood pressure and inflammation". Result in, lead to = dẫn tới. |
+| 16 | **D** | Câu 10: "Lonely people may also eat less well, exercise less and visit the doctor less often". Bị lây cảm từ bạn bè thì ngược lại với cô đơn và không có trong bài. |
+| 17 | **A** | Câu 13: "What matters is not the number of people around you, but whether you feel that someone truly knows and cares about you." |
+| 18 | **C** | Câu 15: "I insist that a nurse ask who they see at home". Sau insist / suggest / recommend + that, động từ ở dạng nguyên mẫu không chia (thể giả định). |
+| 19 | **D** | Câu 16: "Experts recommend that people treat social connection like exercise: something to do regularly, even in small amounts." |
+| 20 | **B** | Câu 17: Câu nối hai bài. Bài 2: "A phone call, a shared meal or a chat with a neighbor may seem small, but over time, small connections add up." Bài 1: nhà Brooks "cooked, played board games and walked to the beach" cùng nhau. |

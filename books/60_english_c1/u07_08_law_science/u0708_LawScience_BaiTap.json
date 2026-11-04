@@ -1,0 +1,2035 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 7–8 — Law and rights & Science and innovation",
+      "vi": "Pháp luật, quyền & Khoa học, đổi mới"
+    },
+    "title": "Units 7–8 — Law and rights & Science and innovation",
+    "title_vn": "Pháp luật, quyền & Khoa học, đổi mới",
+    "module_code": "60_u0708",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "C1",
+    "curriculum_unit": "c1.u07+u08",
+    "curriculum_sheets": [
+      "c1.025",
+      "c1.026",
+      "c1.027",
+      "c1.028",
+      "c1.029",
+      "c1.030",
+      "c1.031",
+      "c1.032"
+    ],
+    "characters": [
+      "Mitchell Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 6 – 7, năm 8"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Tự nhận định kiến, phân biệt khái niệm, in principle / in practice, chặn kết luận vội",
+    "description_vn": "Mitchell kể lần đầu làm bồi thẩm và bài học về ấn tượng đầu tiên, và bài khoa học kể chuyện AlphaFold giải câu đố hình dạng protein (Nobel Hoá 2024). 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 7 + Unit 8 khoá C1 · phiếu `c1.025` – `c1.032` (phiên toà và phán quyết, bình đẳng, quy định và tiêu chuẩn; thí nghiệm, gen và tế bào, vũ trụ, phát minh). Bài 1 chỉ dùng từ pháp lý trung tính, **không** bàn biểu tình hay phong trào chính trị."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài tự sự có suy ngẫm về việc làm bồi thẩm và một bài khoa học kể tiến trình một phát minh; nhận ra cách người viết tự nhận định kiến của mình, phân biệt hai khái niệm gần nhau (not guilty ≠ innocent), cặp đối lập in principle / in practice, cách bài khoa học chặn kết luận vội (That would be a mistake), và các cấu trúc C1: regardless of, notwithstanding, for all, albeit, Should you ever…, so much so that, the extent to which, insofar as."
+    },
+    "extra_words": [
+      {
+        "word": "jury",
+        "i18n": {
+          "vi": "bồi thẩm đoàn"
+        }
+      },
+      {
+        "word": "juror",
+        "i18n": {
+          "vi": "bồi thẩm viên"
+        }
+      },
+      {
+        "word": "jury duty",
+        "i18n": {
+          "vi": "nghĩa vụ làm bồi thẩm"
+        }
+      },
+      {
+        "word": "prosecution",
+        "i18n": {
+          "vi": "bên công tố"
+        }
+      },
+      {
+        "word": "accused",
+        "i18n": {
+          "vi": "bị buộc tội"
+        }
+      },
+      {
+        "word": "hoodie",
+        "i18n": {
+          "vi": "áo hoodie (áo có mũ trùm)"
+        }
+      },
+      {
+        "word": "blurry",
+        "i18n": {
+          "vi": "mờ, nhoè"
+        }
+      },
+      {
+        "word": "unanimous",
+        "i18n": {
+          "vi": "nhất trí"
+        }
+      },
+      {
+        "word": "guilty",
+        "i18n": {
+          "vi": "có tội"
+        }
+      },
+      {
+        "word": "innocent",
+        "i18n": {
+          "vi": "vô tội"
+        }
+      },
+      {
+        "word": "beyond a reasonable doubt",
+        "i18n": {
+          "vi": "vượt qua mọi nghi ngờ hợp lý"
+        }
+      },
+      {
+        "word": "impressions",
+        "i18n": {
+          "vi": "những ấn tượng"
+        }
+      },
+      {
+        "word": "protein",
+        "i18n": {
+          "vi": "protein, chất đạm"
+        }
+      },
+      {
+        "word": "molecule",
+        "i18n": {
+          "vi": "phân tử"
+        }
+      },
+      {
+        "word": "three-dimensional",
+        "i18n": {
+          "vi": "ba chiều"
+        }
+      },
+      {
+        "word": "oxygen",
+        "i18n": {
+          "vi": "oxy"
+        }
+      },
+      {
+        "word": "universe",
+        "i18n": {
+          "vi": "vũ trụ"
+        }
+      },
+      {
+        "word": "database",
+        "i18n": {
+          "vi": "cơ sở dữ liệu"
+        }
+      },
+      {
+        "word": "unsolved",
+        "i18n": {
+          "vi": "chưa có lời giải"
+        }
+      },
+      {
+        "word": "enzyme",
+        "i18n": {
+          "vi": "enzyme, men"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "sit on a jury",
+          "vi": "ngồi trong bồi thẩm đoàn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "make up my mind",
+          "vi": "quyết định, chốt ý"
+        }
+      },
+      {
+        "i18n": {
+          "en": "avoid eye contact",
+          "vi": "né ánh mắt"
+        }
+      },
+      {
+        "i18n": {
+          "en": "return a verdict",
+          "vi": "đưa ra phán quyết"
+        }
+      },
+      {
+        "i18n": {
+          "en": "the whole point of",
+          "vi": "toàn bộ ý nghĩa của"
+        }
+      },
+      {
+        "i18n": {
+          "en": "in principle",
+          "vi": "về nguyên tắc"
+        }
+      },
+      {
+        "i18n": {
+          "en": "in practice",
+          "vi": "trên thực tế"
+        }
+      },
+      {
+        "i18n": {
+          "en": "one by one",
+          "vi": "từng cái một"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Câu hỏi NOT/EXCEPT về bằng chứng: đọc cả câu **ngay sau** danh sách. `none of the tools were ever found` loại luôn phương án \"tìm thấy dụng cụ\"."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Người kể tự nhận lỗi (`I am not proud of the reason`) là chỗ hỏi thái độ và bài học. Lý do nằm ở câu kế tiếp."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`In principle … In practice …` là cặp đối lập kinh điển. Câu hỏi \"why difficult in practice\" lấy vế sau."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài khoa học C1 thường có đoạn **chặn kết luận vội** (`It would be easy to conclude… That would be a mistake.`). Phương án tuyệt đối (always wrong, no longer needed) gần như luôn sai."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u0708_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 7) — Mitchell kể chuyện làm bồi thẩm đoàn"
+      },
+      "narrator": "Mitchell",
+      "title": "Twelve Strangers and One Question",
+      "category": "essay",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 280,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Twelve Strangers and One Question",
+            "vi": "Mười hai người lạ và một câu hỏi"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mitchell Carter, for the Westview High staff blog",
+            "vi": "Mitchell Carter, viết cho blog giáo viên trường Westview High"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For twenty years, I have taught teenagers how trials work. Last month, for the first time in my life, I was chosen to sit on a jury, and I discovered how little I really knew.",
+            "vi": "Suốt hai mươi năm, tôi dạy thanh thiếu niên về cách một phiên toà vận hành. Tháng trước, lần đầu tiên trong đời, tôi được chọn vào bồi thẩm đoàn, và tôi phát hiện ra mình thật ra biết ít đến mức nào."
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The case seemed simple. A young man was accused of stealing tools worth several thousand dollars from a building site. The proceedings lasted four days.",
+            "vi": "Vụ án có vẻ đơn giản. Một thanh niên bị buộc tội lấy trộm dụng cụ trị giá vài nghìn đô la từ một công trường. Quá trình xét xử kéo dài bốn ngày."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The prosecution had a blurry security video of a man in a gray hoodie, a witness who had seen a white van that night, and the fact that the young man owned a gray hoodie and had once worked at the site.",
+            "vi": "Bên công tố có một đoạn video an ninh mờ quay một người đàn ông mặc áo hoodie xám, một nhân chứng đã thấy một chiếc xe tải trắng đêm đó, và sự thật rằng chàng trai có một chiếc áo hoodie xám và từng làm ở công trường."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He did not own a white van, and none of the tools were ever found.",
+            "vi": "Anh ta không có xe tải trắng, và chưa từng tìm thấy món dụng cụ nào."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Before we began, the judge gave us two instructions that I have been thinking about ever since. First, we were not to read anything about the case or search online, regardless of how curious we were.",
+            "vi": "Trước khi bắt đầu, thẩm phán đưa cho chúng tôi hai chỉ dẫn mà tôi cứ nghĩ mãi từ đó tới giờ. Thứ nhất, chúng tôi không được đọc bất cứ thứ gì về vụ án hay tìm kiếm trên mạng, dù có tò mò đến đâu."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Second, we could find him guilty only if the evidence proved it beyond a reasonable doubt, and our decision had to be unanimous: all twelve of us had to agree.",
+            "vi": "Thứ hai, chúng tôi chỉ được tuyên anh ta có tội nếu bằng chứng chứng minh điều đó vượt qua mọi nghi ngờ hợp lý, và quyết định phải được nhất trí: cả mười hai người phải đồng ý."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When we first went around the table in the jury room, nine of us said guilty and three said not guilty. I was one of the nine. Notwithstanding the weak evidence, I had made up my mind by the end of the first day, and I am not proud of the reason.",
+            "vi": "Khi lần đầu lần lượt nói ý kiến quanh bàn trong phòng nghị án, chín người nói có tội và ba người nói không có tội. Tôi là một trong chín người đó. Bất chấp bằng chứng yếu, tôi đã quyết định xong ngay cuối ngày đầu tiên, và tôi không tự hào về lý do."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He looked nervous, he avoided eye contact, and some part of me had decided that an innocent man would look calmer.",
+            "vi": "Anh ta trông căng thẳng, né ánh mắt mọi người, và một phần trong tôi đã cho rằng một người vô tội sẽ trông bình tĩnh hơn."
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was a retired nurse named Mrs. Ellison who changed my mind. She asked us, very politely, to look at the video again, and to say honestly whether we could see a face. We could not.",
+            "vi": "Chính một y tá về hưu tên là bà Ellison đã làm tôi đổi ý. Bà rất lịch sự đề nghị chúng tôi xem lại đoạn video, và nói thật xem chúng tôi có thấy một khuôn mặt nào không. Chúng tôi không thấy."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then she asked how many people in San Diego own a gray hoodie. Several of us were wearing one. For all our certainty, we had no real grounds for it.",
+            "vi": "Rồi bà hỏi ở San Diego có bao nhiêu người có áo hoodie xám. Vài người trong chúng tôi đang mặc một cái. Dù chúng tôi chắc chắn đến thế, chúng tôi chẳng có căn cứ thật sự nào."
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After two days of discussion, we returned a verdict of not guilty. I want to be precise about what that means. It does not mean that we were sure he was innocent; it means that the evidence was not strong enough to prove that he was guilty.",
+            "vi": "Sau hai ngày thảo luận, chúng tôi đưa ra phán quyết không có tội. Tôi muốn nói chính xác điều đó nghĩa là gì. Nó không có nghĩa là chúng tôi chắc anh ta vô tội; nó có nghĩa là bằng chứng không đủ mạnh để chứng minh anh ta có tội."
+          }
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Those are two very different things, and the difference is the whole point of the system.",
+            "vi": "Đó là hai điều rất khác nhau, và sự khác biệt ấy chính là toàn bộ ý nghĩa của hệ thống."
+          }
+        },
+        {
+          "n": 15,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Should you ever be called for jury duty, please do not try to avoid it. Go, listen, and watch your own first impressions very carefully, as Mrs. Ellison taught me to. It was the most important lesson I have learned in a long time, albeit not one that I can easily teach in a classroom.",
+            "vi": "Nếu có lúc nào bạn được gọi làm bồi thẩm, xin đừng tìm cách né. Hãy đi, hãy lắng nghe, và hãy để ý thật kỹ ấn tượng đầu tiên của chính mình, như bà Ellison đã dạy tôi. Đó là bài học quan trọng nhất tôi học được sau một thời gian dài, dù không phải là bài tôi có thể dễ dàng dạy trong lớp học."
+          }
+        }
+      ],
+      "content_ja": "Twelve Strangers and One Question\n\nMitchell Carter, for the Westview High staff blog\n\nFor twenty years, I have taught teenagers how trials work. Last month, for the first time in my life, I was chosen to sit on a jury, and I discovered how little I really knew.\n\nThe case seemed simple. A young man was accused of stealing tools worth several thousand dollars from a building site. The proceedings lasted four days. The prosecution had a blurry security video of a man in a gray hoodie, a witness who had seen a white van that night, and the fact that the young man owned a gray hoodie and had once worked at the site. He did not own a white van, and none of the tools were ever found.\n\nBefore we began, the judge gave us two instructions that I have been thinking about ever since. First, we were not to read anything about the case or search online, regardless of how curious we were. Second, we could find him guilty only if the evidence proved it beyond a reasonable doubt, and our decision had to be unanimous: all twelve of us had to agree.\n\nWhen we first went around the table in the jury room, nine of us said guilty and three said not guilty. I was one of the nine. Notwithstanding the weak evidence, I had made up my mind by the end of the first day, and I am not proud of the reason. He looked nervous, he avoided eye contact, and some part of me had decided that an innocent man would look calmer.\n\nIt was a retired nurse named Mrs. Ellison who changed my mind. She asked us, very politely, to look at the video again, and to say honestly whether we could see a face. We could not. Then she asked how many people in San Diego own a gray hoodie. Several of us were wearing one. For all our certainty, we had no real grounds for it.\n\nAfter two days of discussion, we returned a verdict of not guilty. I want to be precise about what that means. It does not mean that we were sure he was innocent; it means that the evidence was not strong enough to prove that he was guilty. Those are two very different things, and the difference is the whole point of the system.\n\nShould you ever be called for jury duty, please do not try to avoid it. Go, listen, and watch your own first impressions very carefully, as Mrs. Ellison taught me to. It was the most important lesson I have learned in a long time, albeit not one that I can easily teach in a classroom.",
+      "translation_vn": "(1) Mười hai người lạ và một câu hỏi\n(2) Mitchell Carter, viết cho blog giáo viên trường Westview High\n(3) Suốt hai mươi năm, tôi dạy thanh thiếu niên về cách một phiên toà vận hành. Tháng trước, lần đầu tiên trong đời, tôi được chọn vào bồi thẩm đoàn, và tôi phát hiện ra mình thật ra biết ít đến mức nào.\n(4) Vụ án có vẻ đơn giản. Một thanh niên bị buộc tội lấy trộm dụng cụ trị giá vài nghìn đô la từ một công trường. Quá trình xét xử kéo dài bốn ngày.\n(5) Bên công tố có một đoạn video an ninh mờ quay một người đàn ông mặc áo hoodie xám, một nhân chứng đã thấy một chiếc xe tải trắng đêm đó, và sự thật rằng chàng trai có một chiếc áo hoodie xám và từng làm ở công trường.\n(6) Anh ta không có xe tải trắng, và chưa từng tìm thấy món dụng cụ nào.\n(7) Trước khi bắt đầu, thẩm phán đưa cho chúng tôi hai chỉ dẫn mà tôi cứ nghĩ mãi từ đó tới giờ. Thứ nhất, chúng tôi không được đọc bất cứ thứ gì về vụ án hay tìm kiếm trên mạng, dù có tò mò đến đâu.\n(8) Thứ hai, chúng tôi chỉ được tuyên anh ta có tội nếu bằng chứng chứng minh điều đó vượt qua mọi nghi ngờ hợp lý, và quyết định phải được nhất trí: cả mười hai người phải đồng ý.\n(9) Khi lần đầu lần lượt nói ý kiến quanh bàn trong phòng nghị án, chín người nói có tội và ba người nói không có tội. Tôi là một trong chín người đó. Bất chấp bằng chứng yếu, tôi đã quyết định xong ngay cuối ngày đầu tiên, và tôi không tự hào về lý do.\n(10) Anh ta trông căng thẳng, né ánh mắt mọi người, và một phần trong tôi đã cho rằng một người vô tội sẽ trông bình tĩnh hơn.\n(11) Chính một y tá về hưu tên là bà Ellison đã làm tôi đổi ý. Bà rất lịch sự đề nghị chúng tôi xem lại đoạn video, và nói thật xem chúng tôi có thấy một khuôn mặt nào không. Chúng tôi không thấy.\n(12) Rồi bà hỏi ở San Diego có bao nhiêu người có áo hoodie xám. Vài người trong chúng tôi đang mặc một cái. Dù chúng tôi chắc chắn đến thế, chúng tôi chẳng có căn cứ thật sự nào.\n(13) Sau hai ngày thảo luận, chúng tôi đưa ra phán quyết không có tội. Tôi muốn nói chính xác điều đó nghĩa là gì. Nó không có nghĩa là chúng tôi chắc anh ta vô tội; nó có nghĩa là bằng chứng không đủ mạnh để chứng minh anh ta có tội.\n(14) Đó là hai điều rất khác nhau, và sự khác biệt ấy chính là toàn bộ ý nghĩa của hệ thống.\n(15) Nếu có lúc nào bạn được gọi làm bồi thẩm, xin đừng tìm cách né. Hãy đi, hãy lắng nghe, và hãy để ý thật kỹ ấn tượng đầu tiên của chính mình, như bà Ellison đã dạy tôi. Đó là bài học quan trọng nhất tôi học được sau một thời gian dài, dù không phải là bài tôi có thể dễ dàng dạy trong lớp học.",
+      "word_count": 453,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.025",
+        "c1.026",
+        "c1.027",
+        "c1.028"
+      ]
+    },
+    {
+      "id": "passage_u0708_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 8) — Bài khoa học: AlphaFold và câu đố năm mươi năm"
+      },
+      "narrator": "announcer",
+      "title": "The Fifty-Year Puzzle",
+      "category": "article",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 280,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Fifty-Year Puzzle",
+            "vi": "Câu đố năm mươi năm"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Almost everything that happens in your body depends on proteins. They carry oxygen in your blood, fight bacteria, and allow your muscles to move. Each protein is a long chain of smaller molecules, and in order to work, that chain must fold itself into a very particular three-dimensional shape.",
+            "vi": "Gần như mọi thứ diễn ra trong cơ thể bạn đều phụ thuộc vào protein. Chúng chở oxy trong máu, chống lại vi khuẩn, và giúp cơ bắp cử động. Mỗi protein là một chuỗi dài gồm những phân tử nhỏ hơn, và để hoạt động được, chuỗi đó phải tự gấp lại thành một hình dạng ba chiều rất riêng."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Its function hinges on that shape, so much so that a single mutation which changes the shape can cause a serious disease.",
+            "vi": "Chức năng của nó phụ thuộc vào hình dạng đó, tới mức một đột biến duy nhất làm thay đổi hình dạng có thể gây ra một bệnh nghiêm trọng."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For about fifty years, predicting that shape from the chain alone was one of the great unsolved problems in biology. In 1972, the chemist Christian Anfinsen received a Nobel Prize partly for showing that the chain contains all the information needed to find the shape.",
+            "vi": "Trong khoảng năm mươi năm, dự đoán hình dạng đó chỉ từ chuỗi là một trong những bài toán lớn chưa có lời giải của sinh học. Năm 1972, nhà hoá học Christian Anfinsen nhận giải Nobel một phần vì đã chứng minh rằng chuỗi chứa mọi thông tin cần để tìm ra hình dạng."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In principle, then, it should be possible to calculate. In practice, the number of possible shapes is so huge that testing them one by one would take longer than the age of the universe.",
+            "vi": "Vậy về nguyên tắc, lẽ ra phải tính được. Trên thực tế, số hình dạng có thể có lớn tới mức thử từng cái một sẽ mất lâu hơn cả tuổi của vũ trụ."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Scientists therefore had to measure each shape in the laboratory, using methods that required great precision and, often, years of work for a single protein.",
+            "vi": "Vì thế các nhà khoa học phải đo từng hình dạng trong phòng thí nghiệm, bằng những phương pháp đòi hỏi độ chính xác rất cao và thường mất nhiều năm cho chỉ một protein."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Since 1994, research teams have taken part in a competition every two years in which they try to predict shapes that have been measured but not yet published.",
+            "vi": "Từ năm 1994, các nhóm nghiên cứu tham gia một cuộc thi hai năm một lần, trong đó họ cố dự đoán những hình dạng đã được đo nhưng chưa công bố."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For decades, progress was slow. Then, in 2020, an AI system called AlphaFold, developed by the company DeepMind, produced predictions that were, for many proteins, about as accurate as the laboratory measurements themselves.",
+            "vi": "Trong nhiều thập kỷ, tiến bộ diễn ra chậm. Rồi năm 2020, một hệ thống AI tên là AlphaFold, do công ty DeepMind phát triển, đưa ra những dự đoán mà, với nhiều protein, chính xác gần ngang các phép đo trong phòng thí nghiệm."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The momentum since then has been remarkable. A free public database launched in 2021 with just over 360,000 predictions, and it subsequently grew to around 200 million, covering almost every protein known to science.",
+            "vi": "Đà phát triển từ đó thật đáng kinh ngạc. Một cơ sở dữ liệu công cộng miễn phí ra mắt năm 2021 với hơn 360.000 dự đoán, và sau đó tăng lên khoảng 200 triệu, bao gồm gần như mọi protein mà khoa học biết đến."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Researchers around the world have since used the predictions in projects ranging from new medicines to enzymes that can break down plastic waste.",
+            "vi": "Từ đó, các nhà nghiên cứu khắp thế giới đã dùng những dự đoán này trong các dự án từ thuốc mới cho tới những enzyme có thể phân huỷ rác thải nhựa."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In 2024, the Nobel Prize in Chemistry was shared between two of AlphaFold's creators, Demis Hassabis and John Jumper, and the scientist David Baker, a pioneer in designing completely new proteins.",
+            "vi": "Năm 2024, giải Nobel Hoá học được trao chung cho hai người tạo ra AlphaFold là Demis Hassabis và John Jumper, cùng nhà khoa học David Baker, người tiên phong trong việc thiết kế những protein hoàn toàn mới."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It would be easy to conclude that the puzzle is solved and that laboratories are no longer needed. That would be a mistake. A prediction is still an approximation, and its reliability varies from one protein to another.",
+            "vi": "Sẽ rất dễ kết luận rằng câu đố đã được giải và phòng thí nghiệm không còn cần nữa. Đó sẽ là một sai lầm. Một dự đoán vẫn chỉ là một giá trị gần đúng, và độ tin cậy của nó khác nhau tuỳ từng protein."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Proteins also move, change shape and work together, and the extent to which AI can predict that behavior is still limited. Researchers still need experiments to check whether a prediction is right.",
+            "vi": "Protein còn chuyển động, đổi hình dạng và phối hợp với nhau, và mức độ AI có thể dự đoán hành vi đó vẫn còn hạn chế. Các nhà nghiên cứu vẫn cần thí nghiệm để kiểm tra xem một dự đoán có đúng không."
+          }
+        },
+        {
+          "n": 14,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What has changed is where they start. Instead of spending years finding a shape, a scientist can now begin with a good guess in minutes, and spend those years asking what the shape means.",
+            "vi": "Điều đã thay đổi là điểm xuất phát của họ. Thay vì bỏ ra nhiều năm tìm một hình dạng, giờ một nhà khoa học có thể bắt đầu bằng một phỏng đoán tốt chỉ trong vài phút, và dành những năm đó để hỏi xem hình dạng ấy có ý nghĩa gì."
+          }
+        },
+        {
+          "n": 15,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Insofar as science is a search for better questions, that may be the most important change of all.",
+            "vi": "Trong chừng mực khoa học là cuộc tìm kiếm những câu hỏi tốt hơn, đó có thể là thay đổi quan trọng nhất."
+          }
+        }
+      ],
+      "content_ja": "The Fifty-Year Puzzle\n\nAlmost everything that happens in your body depends on proteins. They carry oxygen in your blood, fight bacteria, and allow your muscles to move. Each protein is a long chain of smaller molecules, and in order to work, that chain must fold itself into a very particular three-dimensional shape. Its function hinges on that shape, so much so that a single mutation which changes the shape can cause a serious disease.\n\nFor about fifty years, predicting that shape from the chain alone was one of the great unsolved problems in biology. In 1972, the chemist Christian Anfinsen received a Nobel Prize partly for showing that the chain contains all the information needed to find the shape. In principle, then, it should be possible to calculate. In practice, the number of possible shapes is so huge that testing them one by one would take longer than the age of the universe.\n\nScientists therefore had to measure each shape in the laboratory, using methods that required great precision and, often, years of work for a single protein. Since 1994, research teams have taken part in a competition every two years in which they try to predict shapes that have been measured but not yet published.\n\nFor decades, progress was slow. Then, in 2020, an AI system called AlphaFold, developed by the company DeepMind, produced predictions that were, for many proteins, about as accurate as the laboratory measurements themselves. The momentum since then has been remarkable. A free public database launched in 2021 with just over 360,000 predictions, and it subsequently grew to around 200 million, covering almost every protein known to science. Researchers around the world have since used the predictions in projects ranging from new medicines to enzymes that can break down plastic waste. In 2024, the Nobel Prize in Chemistry was shared between two of AlphaFold's creators, Demis Hassabis and John Jumper, and the scientist David Baker, a pioneer in designing completely new proteins.\n\nIt would be easy to conclude that the puzzle is solved and that laboratories are no longer needed. That would be a mistake. A prediction is still an approximation, and its reliability varies from one protein to another. Proteins also move, change shape and work together, and the extent to which AI can predict that behavior is still limited. Researchers still need experiments to check whether a prediction is right.\n\nWhat has changed is where they start. Instead of spending years finding a shape, a scientist can now begin with a good guess in minutes, and spend those years asking what the shape means. Insofar as science is a search for better questions, that may be the most important change of all.",
+      "translation_vn": "(1) Câu đố năm mươi năm\n(2) Gần như mọi thứ diễn ra trong cơ thể bạn đều phụ thuộc vào protein. Chúng chở oxy trong máu, chống lại vi khuẩn, và giúp cơ bắp cử động. Mỗi protein là một chuỗi dài gồm những phân tử nhỏ hơn, và để hoạt động được, chuỗi đó phải tự gấp lại thành một hình dạng ba chiều rất riêng.\n(3) Chức năng của nó phụ thuộc vào hình dạng đó, tới mức một đột biến duy nhất làm thay đổi hình dạng có thể gây ra một bệnh nghiêm trọng.\n(4) Trong khoảng năm mươi năm, dự đoán hình dạng đó chỉ từ chuỗi là một trong những bài toán lớn chưa có lời giải của sinh học. Năm 1972, nhà hoá học Christian Anfinsen nhận giải Nobel một phần vì đã chứng minh rằng chuỗi chứa mọi thông tin cần để tìm ra hình dạng.\n(5) Vậy về nguyên tắc, lẽ ra phải tính được. Trên thực tế, số hình dạng có thể có lớn tới mức thử từng cái một sẽ mất lâu hơn cả tuổi của vũ trụ.\n(6) Vì thế các nhà khoa học phải đo từng hình dạng trong phòng thí nghiệm, bằng những phương pháp đòi hỏi độ chính xác rất cao và thường mất nhiều năm cho chỉ một protein.\n(7) Từ năm 1994, các nhóm nghiên cứu tham gia một cuộc thi hai năm một lần, trong đó họ cố dự đoán những hình dạng đã được đo nhưng chưa công bố.\n(8) Trong nhiều thập kỷ, tiến bộ diễn ra chậm. Rồi năm 2020, một hệ thống AI tên là AlphaFold, do công ty DeepMind phát triển, đưa ra những dự đoán mà, với nhiều protein, chính xác gần ngang các phép đo trong phòng thí nghiệm.\n(9) Đà phát triển từ đó thật đáng kinh ngạc. Một cơ sở dữ liệu công cộng miễn phí ra mắt năm 2021 với hơn 360.000 dự đoán, và sau đó tăng lên khoảng 200 triệu, bao gồm gần như mọi protein mà khoa học biết đến.\n(10) Từ đó, các nhà nghiên cứu khắp thế giới đã dùng những dự đoán này trong các dự án từ thuốc mới cho tới những enzyme có thể phân huỷ rác thải nhựa.\n(11) Năm 2024, giải Nobel Hoá học được trao chung cho hai người tạo ra AlphaFold là Demis Hassabis và John Jumper, cùng nhà khoa học David Baker, người tiên phong trong việc thiết kế những protein hoàn toàn mới.\n(12) Sẽ rất dễ kết luận rằng câu đố đã được giải và phòng thí nghiệm không còn cần nữa. Đó sẽ là một sai lầm. Một dự đoán vẫn chỉ là một giá trị gần đúng, và độ tin cậy của nó khác nhau tuỳ từng protein.\n(13) Protein còn chuyển động, đổi hình dạng và phối hợp với nhau, và mức độ AI có thể dự đoán hành vi đó vẫn còn hạn chế. Các nhà nghiên cứu vẫn cần thí nghiệm để kiểm tra xem một dự đoán có đúng không.\n(14) Điều đã thay đổi là điểm xuất phát của họ. Thay vì bỏ ra nhiều năm tìm một hình dạng, giờ một nhà khoa học có thể bắt đầu bằng một phỏng đoán tốt chỉ trong vài phút, và dành những năm đó để hỏi xem hình dạng ấy có ý nghĩa gì.\n(15) Trong chừng mực khoa học là cuộc tìm kiếm những câu hỏi tốt hơn, đó có thể là thay đổi quan trọng nhất.",
+      "word_count": 444,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.029",
+        "c1.030",
+        "c1.031",
+        "c1.032"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u0708_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "What surprised Mitchell about his experience on the jury?",
+        "vi": "Điều gì làm Mitchell bất ngờ về trải nghiệm làm bồi thẩm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "that trials last only one day, although he had always told his students they last a week",
+            "vi": "rằng phiên toà chỉ kéo dài một ngày, dù ông luôn nói với học sinh là kéo dài một tuần"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "that trials last only one day, although he had always told his students they last a week",
+          "text_translation": "rằng phiên toà chỉ kéo dài một ngày, dù ông luôn nói với học sinh là kéo dài một tuần"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that jurors are paid very well for the days they spend in court",
+            "vi": "rằng bồi thẩm được trả lương rất cao cho những ngày ở toà"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "that jurors are paid very well for the days they spend in court",
+          "text_translation": "rằng bồi thẩm được trả lương rất cao cho những ngày ở toà"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that his students knew more about trials than he did after all those years",
+            "vi": "rằng học sinh biết về phiên toà nhiều hơn ông dù ông dạy bấy nhiêu năm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "that his students knew more about trials than he did after all those years",
+          "text_translation": "rằng học sinh biết về phiên toà nhiều hơn ông dù ông dạy bấy nhiêu năm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that, after teaching about trials for years, he knew so little about being a juror",
+            "vi": "rằng sau nhiều năm dạy về phiên toà, ông lại biết quá ít về việc làm bồi thẩm"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "that, after teaching about trials for years, he knew so little about being a juror",
+          "text_translation": "rằng sau nhiều năm dạy về phiên toà, ông lại biết quá ít về việc làm bồi thẩm"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"I was chosen to sit on a jury, and I discovered how little I really knew.\""
+      },
+      "audio_data": null,
+      "question_jp": "What surprised Mitchell about his experience on the jury?",
+      "question_vn": "Điều gì làm Mitchell bất ngờ về trải nghiệm làm bồi thẩm?",
+      "explanation": "\"I was chosen to sit on a jury, and I discovered how little I really knew.\""
+    },
+    {
+      "id": "q_u0708_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "Which of these was NOT part of the prosecution's evidence?",
+        "vi": "Điều nào KHÔNG nằm trong bằng chứng của bên công tố?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the stolen tools found in the young man's home",
+            "vi": "các dụng cụ bị mất tìm thấy ở nhà chàng trai"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the stolen tools found in the young man's home",
+          "text_translation": "các dụng cụ bị mất tìm thấy ở nhà chàng trai"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a blurry security video of a man in a gray hoodie",
+            "vi": "một đoạn video an ninh mờ quay người đàn ông áo hoodie xám"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a blurry security video of a man in a gray hoodie",
+          "text_translation": "một đoạn video an ninh mờ quay người đàn ông áo hoodie xám"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a witness who had seen a white van that night",
+            "vi": "một nhân chứng đã thấy chiếc xe tải trắng đêm đó"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a witness who had seen a white van that night",
+          "text_translation": "một nhân chứng đã thấy chiếc xe tải trắng đêm đó"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the fact that he owned a gray hoodie and had once worked at the site",
+            "vi": "việc anh ta có áo hoodie xám và từng làm ở công trường"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the fact that he owned a gray hoodie and had once worked at the site",
+          "text_translation": "việc anh ta có áo hoodie xám và từng làm ở công trường"
+        }
+      ],
+      "evidence_segments": [
+        5,
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"none of the tools were ever found.\" Ba phương án còn lại đều có trong bằng chứng."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these was NOT part of the prosecution's evidence?",
+      "question_vn": "Điều nào KHÔNG nằm trong bằng chứng của bên công tố?",
+      "explanation": "\"none of the tools were ever found.\" Ba phương án còn lại đều có trong bằng chứng."
+    },
+    {
+      "id": "q_u0708_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "Why did the judge tell the jurors not to search online?",
+        "vi": "Vì sao thẩm phán dặn bồi thẩm không tìm kiếm trên mạng?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the internet in the court building was not working that month",
+            "vi": "vì mạng trong toà nhà toà án tháng đó bị hỏng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because the internet in the court building was not working that month",
+          "text_translation": "vì mạng trong toà nhà toà án tháng đó bị hỏng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because searching online is illegal for everyone, whether or not they are on a jury",
+            "vi": "vì tìm kiếm trên mạng là phạm pháp với mọi người, dù có làm bồi thẩm hay không"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because searching online is illegal for everyone, whether or not they are on a jury",
+          "text_translation": "vì tìm kiếm trên mạng là phạm pháp với mọi người, dù có làm bồi thẩm hay không"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "so that the verdict would be based only on the evidence presented in court",
+            "vi": "để phán quyết chỉ dựa trên bằng chứng được trình bày trước toà"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "so that the verdict would be based only on the evidence presented in court",
+          "text_translation": "để phán quyết chỉ dựa trên bằng chứng được trình bày trước toà"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "so that the trial would finish faster and cost the court less money",
+            "vi": "để phiên toà kết thúc nhanh hơn và toà đỡ tốn tiền"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "so that the trial would finish faster and cost the court less money",
+          "text_translation": "để phiên toà kết thúc nhanh hơn và toà đỡ tốn tiền"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về mục đích. Bồi thẩm \"were not to read anything about the case or search online, regardless of how curious we were\", để chỉ xét bằng chứng ở toà."
+      },
+      "audio_data": null,
+      "question_jp": "Why did the judge tell the jurors not to search online?",
+      "question_vn": "Vì sao thẩm phán dặn bồi thẩm không tìm kiếm trên mạng?",
+      "explanation": "Câu suy luận về mục đích. Bồi thẩm \"were not to read anything about the case or search online, regardless of how curious we were\", để chỉ xét bằng chứng ở toà."
+    },
+    {
+      "id": "q_u0708_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "What does \"unanimous\" mean in this text?",
+        "vi": "Trong bài, \"unanimous\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "decided without much thought",
+            "vi": "được quyết định mà không suy nghĩ nhiều"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "decided without much thought",
+          "text_translation": "được quyết định mà không suy nghĩ nhiều"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "agreed by everyone",
+            "vi": "được mọi người đồng ý"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "agreed by everyone",
+          "text_translation": "được mọi người đồng ý"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "made in a private room",
+            "vi": "được đưa ra trong một căn phòng riêng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "made in a private room",
+          "text_translation": "được đưa ra trong một căn phòng riêng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "agreed by most of the members",
+            "vi": "được đa số thành viên đồng ý"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "agreed by most of the members",
+          "text_translation": "được đa số thành viên đồng ý"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Từ trong ngữ cảnh. Ngay sau dấu hai chấm: \"all twelve of us had to agree.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does \"unanimous\" mean in this text?",
+      "question_vn": "Trong bài, \"unanimous\" nghĩa là gì?",
+      "explanation": "Từ trong ngữ cảnh. Ngay sau dấu hai chấm: \"all twelve of us had to agree.\""
+    },
+    {
+      "id": "q_u0708_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "Why does Mitchell say \"I am not proud of the reason\"?",
+        "vi": "Vì sao Mitchell nói \"tôi không tự hào về lý do\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because he had judged the young man on how nervous he looked, not on the evidence",
+            "vi": "vì ông đã đánh giá chàng trai qua vẻ căng thẳng chứ không qua bằng chứng"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because he had judged the young man on how nervous he looked, not on the evidence",
+          "text_translation": "vì ông đã đánh giá chàng trai qua vẻ căng thẳng chứ không qua bằng chứng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because he had read about the case online before the trial began, against the judge's orders",
+            "vi": "vì ông đã đọc về vụ án trên mạng trước phiên toà, trái lệnh của thẩm phán"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because he had read about the case online before the trial began, against the judge's orders",
+          "text_translation": "vì ông đã đọc về vụ án trên mạng trước phiên toà, trái lệnh của thẩm phán"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because he knew the young man from the building site where he worked",
+            "vi": "vì ông quen chàng trai từ công trường nơi anh ta làm việc"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because he knew the young man from the building site where he worked",
+          "text_translation": "vì ông quen chàng trai từ công trường nơi anh ta làm việc"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because he had fallen asleep in court during the second day of the trial",
+            "vi": "vì ông ngủ gật ở toà vào ngày thứ hai của phiên xử"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because he had fallen asleep in court during the second day of the trial",
+          "text_translation": "vì ông ngủ gật ở toà vào ngày thứ hai của phiên xử"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"some part of me had decided that an innocent man would look calmer.\" Đó là ấn tượng bề ngoài, không phải bằng chứng."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Mitchell say \"I am not proud of the reason\"?",
+      "question_vn": "Vì sao Mitchell nói \"tôi không tự hào về lý do\"?",
+      "explanation": "\"some part of me had decided that an innocent man would look calmer.\" Đó là ấn tượng bề ngoài, không phải bằng chứng."
+    },
+    {
+      "id": "q_u0708_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "How did Mrs. Ellison change the other jurors' minds?",
+        "vi": "Bà Ellison làm các bồi thẩm khác đổi ý bằng cách nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "by shouting at them until they agreed with her",
+            "vi": "bằng cách quát họ cho tới khi họ đồng ý với bà"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "by shouting at them until they agreed with her",
+          "text_translation": "bằng cách quát họ cho tới khi họ đồng ý với bà"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "by showing them new evidence that the police had missed on the building site",
+            "vi": "bằng cách đưa ra bằng chứng mới mà cảnh sát đã bỏ sót ở công trường"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "by showing them new evidence that the police had missed on the building site",
+          "text_translation": "bằng cách đưa ra bằng chứng mới mà cảnh sát đã bỏ sót ở công trường"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "by telling them a long personal story about her own family",
+            "vi": "bằng cách kể một câu chuyện dài về gia đình bà"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "by telling them a long personal story about her own family",
+          "text_translation": "bằng cách kể một câu chuyện dài về gia đình bà"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "by asking polite questions that made them check the evidence honestly",
+            "vi": "bằng cách đặt những câu hỏi lịch sự khiến họ kiểm lại bằng chứng một cách trung thực"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "by asking polite questions that made them check the evidence honestly",
+          "text_translation": "bằng cách đặt những câu hỏi lịch sự khiến họ kiểm lại bằng chứng một cách trung thực"
+        }
+      ],
+      "evidence_segments": [
+        11,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Bà \"asked us, very politely, to look at the video again\" và hỏi có bao nhiêu người có áo hoodie xám."
+      },
+      "audio_data": null,
+      "question_jp": "How did Mrs. Ellison change the other jurors' minds?",
+      "question_vn": "Bà Ellison làm các bồi thẩm khác đổi ý bằng cách nào?",
+      "explanation": "Bà \"asked us, very politely, to look at the video again\" và hỏi có bao nhiêu người có áo hoodie xám."
+    },
+    {
+      "id": "q_u0708_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "What is suggested by the detail \"Several of us were wearing one\"?",
+        "vi": "Chi tiết \"Vài người trong chúng tôi đang mặc một cái\" gợi ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The jurors had agreed to wear hoodies so that they could hide from the cameras.",
+            "vi": "Các bồi thẩm đã hẹn mặc hoodie để tránh camera."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The jurors had agreed to wear hoodies so that they could hide from the cameras.",
+          "text_translation": "Các bồi thẩm đã hẹn mặc hoodie để tránh camera."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "A gray hoodie is so common that it proves almost nothing about who the thief was.",
+            "vi": "Áo hoodie xám phổ biến tới mức gần như chẳng chứng minh được ai là kẻ trộm."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "A gray hoodie is so common that it proves almost nothing about who the thief was.",
+          "text_translation": "Áo hoodie xám phổ biến tới mức gần như chẳng chứng minh được ai là kẻ trộm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The jury room was so cold that the jurors had put on warm clothes.",
+            "vi": "Phòng nghị án lạnh tới mức các bồi thẩm phải mặc thêm áo ấm."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The jury room was so cold that the jurors had put on warm clothes.",
+          "text_translation": "Phòng nghị án lạnh tới mức các bồi thẩm phải mặc thêm áo ấm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The jurors supported the young man and wanted him to go free.",
+            "vi": "Các bồi thẩm ủng hộ chàng trai và muốn anh được thả."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The jurors supported the young man and wanted him to go free.",
+          "text_translation": "Các bồi thẩm ủng hộ chàng trai và muốn anh được thả."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý. Nếu chính các bồi thẩm cũng mặc áo đó, thì nó không phải căn cứ: \"For all our certainty, we had no real grounds for it.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is suggested by the detail \"Several of us were wearing one\"?",
+      "question_vn": "Chi tiết \"Vài người trong chúng tôi đang mặc một cái\" gợi ý điều gì?",
+      "explanation": "Câu hàm ý. Nếu chính các bồi thẩm cũng mặc áo đó, thì nó không phải căn cứ: \"For all our certainty, we had no real grounds for it.\""
+    },
+    {
+      "id": "q_u0708_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "According to Mitchell, what does a verdict of \"not guilty\" mean?",
+        "vi": "Theo Mitchell, phán quyết \"không có tội\" (not guilty) nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The jury was sure the young man was innocent of the crime.",
+            "vi": "Bồi thẩm đoàn chắc chắn chàng trai vô tội trong vụ này."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The jury was sure the young man was innocent of the crime.",
+          "text_translation": "Bồi thẩm đoàn chắc chắn chàng trai vô tội trong vụ này."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The young man will be tried again by a different jury.",
+            "vi": "Chàng trai sẽ bị xử lại trước một bồi thẩm đoàn khác."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The young man will be tried again by a different jury.",
+          "text_translation": "Chàng trai sẽ bị xử lại trước một bồi thẩm đoàn khác."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The evidence was not strong enough to prove guilt.",
+            "vi": "Bằng chứng không đủ mạnh để chứng minh có tội."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "The evidence was not strong enough to prove guilt.",
+          "text_translation": "Bằng chứng không đủ mạnh để chứng minh có tội."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The judge made the final decision after the jury had talked.",
+            "vi": "Thẩm phán ra quyết định cuối cùng sau khi bồi thẩm đoàn bàn bạc."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The judge made the final decision after the jury had talked.",
+          "text_translation": "Thẩm phán ra quyết định cuối cùng sau khi bồi thẩm đoàn bàn bạc."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"It does not mean that we were sure he was innocent; it means that the evidence was not strong enough to prove that he was guilty.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to Mitchell, what does a verdict of \"not guilty\" mean?",
+      "question_vn": "Theo Mitchell, phán quyết \"không có tội\" (not guilty) nghĩa là gì?",
+      "explanation": "\"It does not mean that we were sure he was innocent; it means that the evidence was not strong enough to prove that he was guilty.\""
+    },
+    {
+      "id": "q_u0708_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "Why does Mitchell say the difference between \"not guilty\" and \"innocent\" is \"the whole point of the system\"?",
+        "vi": "Vì sao Mitchell nói khác biệt giữa \"không đủ căn cứ kết tội\" và \"vô tội\" là \"toàn bộ ý nghĩa của hệ thống\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because guilt must be proved; people do not have to prove they did nothing wrong",
+            "vi": "vì phải chứng minh có tội; người ta không phải chứng minh mình không làm gì sai"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because guilt must be proved; people do not have to prove they did nothing wrong",
+          "text_translation": "vì phải chứng minh có tội; người ta không phải chứng minh mình không làm gì sai"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the system wants more people to go to prison for their crimes",
+            "vi": "vì hệ thống muốn nhiều người phải vào tù vì tội của họ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the system wants more people to go to prison for their crimes",
+          "text_translation": "vì hệ thống muốn nhiều người phải vào tù vì tội của họ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because juries never make mistakes, so a verdict is always correct",
+            "vi": "vì bồi thẩm đoàn không bao giờ sai nên phán quyết luôn đúng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because juries never make mistakes, so a verdict is always correct",
+          "text_translation": "vì bồi thẩm đoàn không bao giờ sai nên phán quyết luôn đúng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because judges prefer not to decide, so the jury makes every choice",
+            "vi": "vì thẩm phán ngại quyết định nên bồi thẩm đoàn đưa ra mọi lựa chọn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because judges prefer not to decide, so the jury makes every choice",
+          "text_translation": "vì thẩm phán ngại quyết định nên bồi thẩm đoàn đưa ra mọi lựa chọn"
+        }
+      ],
+      "evidence_segments": [
+        8,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Bồi thẩm chỉ tuyên có tội nếu bằng chứng chứng minh \"beyond a reasonable doubt\". Gánh nặng chứng minh nằm ở bên buộc tội."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Mitchell say the difference between \"not guilty\" and \"innocent\" is \"the whole point of the system\"?",
+      "question_vn": "Vì sao Mitchell nói khác biệt giữa \"không đủ căn cứ kết tội\" và \"vô tội\" là \"toàn bộ ý nghĩa của hệ thống\"?",
+      "explanation": "Câu suy luận. Bồi thẩm chỉ tuyên có tội nếu bằng chứng chứng minh \"beyond a reasonable doubt\". Gánh nặng chứng minh nằm ở bên buộc tội."
+    },
+    {
+      "id": "q_u0708_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_01",
+      "i18n": {
+        "en": "What is Mitchell's main advice to readers?",
+        "vi": "Lời khuyên chính của Mitchell cho người đọc là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Avoid jury duty if possible, because it takes up too much time.",
+            "vi": "Tránh làm bồi thẩm nếu được, vì nó tốn quá nhiều thời gian."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Avoid jury duty if possible, because it takes up too much time.",
+          "text_translation": "Tránh làm bồi thẩm nếu được, vì nó tốn quá nhiều thời gian."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trust your first impressions, because they are usually correct and save a lot of time.",
+            "vi": "Hãy tin ấn tượng đầu tiên, vì chúng thường đúng và đỡ mất nhiều thời gian."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Trust your first impressions, because they are usually correct and save a lot of time.",
+          "text_translation": "Hãy tin ấn tượng đầu tiên, vì chúng thường đúng và đỡ mất nhiều thời gian."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "If called for jury duty, go, and be careful about your own first impressions.",
+            "vi": "Nếu được gọi làm bồi thẩm, hãy đi, và cẩn thận với ấn tượng đầu tiên của chính mình."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "If called for jury duty, go, and be careful about your own first impressions.",
+          "text_translation": "Nếu được gọi làm bồi thẩm, hãy đi, và cẩn thận với ấn tượng đầu tiên của chính mình."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Become a lawyer so that you can help people in court.",
+            "vi": "Hãy làm luật sư để giúp người ta ở toà."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Become a lawyer so that you can help people in court.",
+          "text_translation": "Hãy làm luật sư để giúp người ta ở toà."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"please do not try to avoid it. Go, listen, and watch your own first impressions very carefully\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is Mitchell's main advice to readers?",
+      "question_vn": "Lời khuyên chính của Mitchell cho người đọc là gì?",
+      "explanation": "\"please do not try to avoid it. Go, listen, and watch your own first impressions very carefully\"."
+    },
+    {
+      "id": "q_u0708_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "Why is a protein's shape so important?",
+        "vi": "Vì sao hình dạng của protein lại quan trọng đến thế?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because it decides the protein's color and how heavy it is",
+            "vi": "vì nó quyết định màu và độ nặng của protein"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because it decides the protein's color and how heavy it is",
+          "text_translation": "vì nó quyết định màu và độ nặng của protein"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because its function depends on it, and a change in shape can cause disease",
+            "vi": "vì chức năng của nó phụ thuộc vào hình dạng, và hình dạng đổi có thể gây bệnh"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because its function depends on it, and a change in shape can cause disease",
+          "text_translation": "vì chức năng của nó phụ thuộc vào hình dạng, và hình dạng đổi có thể gây bệnh"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because it makes the protein heavier and easier to measure",
+            "vi": "vì nó làm protein nặng hơn và dễ đo hơn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because it makes the protein heavier and easier to measure",
+          "text_translation": "vì nó làm protein nặng hơn và dễ đo hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because it helps scientists win prizes and attract money for research",
+            "vi": "vì nó giúp nhà khoa học đoạt giải và thu hút tiền nghiên cứu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because it helps scientists win prizes and attract money for research",
+          "text_translation": "vì nó giúp nhà khoa học đoạt giải và thu hút tiền nghiên cứu"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Its function hinges on that shape, so much so that a single mutation which changes the shape can cause a serious disease.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why is a protein's shape so important?",
+      "question_vn": "Vì sao hình dạng của protein lại quan trọng đến thế?",
+      "explanation": "\"Its function hinges on that shape, so much so that a single mutation which changes the shape can cause a serious disease.\""
+    },
+    {
+      "id": "q_u0708_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "What did Christian Anfinsen show?",
+        "vi": "Christian Anfinsen đã chứng minh điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "that proteins have no fixed shape and change it in every cell",
+            "vi": "rằng protein không có hình dạng cố định và đổi hình ở mỗi tế bào"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "that proteins have no fixed shape and change it in every cell",
+          "text_translation": "rằng protein không có hình dạng cố định và đổi hình ở mỗi tế bào"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that AI can predict shapes better than any laboratory method",
+            "vi": "rằng AI dự đoán hình dạng tốt hơn mọi phương pháp trong phòng thí nghiệm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "that AI can predict shapes better than any laboratory method",
+          "text_translation": "rằng AI dự đoán hình dạng tốt hơn mọi phương pháp trong phòng thí nghiệm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that the chain itself contains the information needed to find the shape",
+            "vi": "rằng bản thân chuỗi chứa thông tin cần để tìm ra hình dạng"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "that the chain itself contains the information needed to find the shape",
+          "text_translation": "rằng bản thân chuỗi chứa thông tin cần để tìm ra hình dạng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that proteins carry oxygen and help muscles to move",
+            "vi": "rằng protein chở oxy và giúp cơ bắp chuyển động"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "that proteins carry oxygen and help muscles to move",
+          "text_translation": "rằng protein chở oxy và giúp cơ bắp chuyển động"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"for showing that the chain contains all the information needed to find the shape.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did Christian Anfinsen show?",
+      "question_vn": "Christian Anfinsen đã chứng minh điều gì?",
+      "explanation": "\"for showing that the chain contains all the information needed to find the shape.\""
+    },
+    {
+      "id": "q_u0708_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "Why was the problem so difficult to solve \"in practice\"?",
+        "vi": "Vì sao bài toán khó giải đến thế \"trên thực tế\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because nobody was interested in solving it until the 1990s",
+            "vi": "vì không ai quan tâm giải nó cho đến thập niên 1990"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because nobody was interested in solving it until the 1990s",
+          "text_translation": "vì không ai quan tâm giải nó cho đến thập niên 1990"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because laboratories were closed for most of the twentieth century",
+            "vi": "vì phòng thí nghiệm đóng cửa gần suốt thế kỷ hai mươi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because laboratories were closed for most of the twentieth century",
+          "text_translation": "vì phòng thí nghiệm đóng cửa gần suốt thế kỷ hai mươi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the chain contains no information about the shape at all",
+            "vi": "vì chuỗi không chứa thông tin nào về hình dạng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the chain contains no information about the shape at all",
+          "text_translation": "vì chuỗi không chứa thông tin nào về hình dạng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because there are so many possible shapes that testing each one would take far too long",
+            "vi": "vì có quá nhiều hình dạng khả dĩ tới mức thử từng cái sẽ mất thời gian không tưởng"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because there are so many possible shapes that testing each one would take far too long",
+          "text_translation": "vì có quá nhiều hình dạng khả dĩ tới mức thử từng cái sẽ mất thời gian không tưởng"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi cấu trúc. \"In principle\" (lý thuyết) đối lập \"In practice\": \"testing them one by one would take longer than the age of the universe.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why was the problem so difficult to solve \"in practice\"?",
+      "question_vn": "Vì sao bài toán khó giải đến thế \"trên thực tế\"?",
+      "explanation": "Câu hỏi cấu trúc. \"In principle\" (lý thuyết) đối lập \"In practice\": \"testing them one by one would take longer than the age of the universe.\""
+    },
+    {
+      "id": "q_u0708_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "What is the purpose of the competition that started in 1994?",
+        "vi": "Cuộc thi bắt đầu từ năm 1994 nhằm mục đích gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to test how well teams can predict shapes that have been measured but not yet made public",
+            "vi": "để kiểm tra các nhóm dự đoán tốt tới đâu những hình dạng đã đo nhưng chưa công bố"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to test how well teams can predict shapes that have been measured but not yet made public",
+          "text_translation": "để kiểm tra các nhóm dự đoán tốt tới đâu những hình dạng đã đo nhưng chưa công bố"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to award the Nobel Prize to the team that finds the most shapes",
+            "vi": "để trao giải Nobel cho nhóm tìm được nhiều hình dạng nhất"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to award the Nobel Prize to the team that finds the most shapes",
+          "text_translation": "để trao giải Nobel cho nhóm tìm được nhiều hình dạng nhất"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to build new laboratories in the countries that take part",
+            "vi": "để xây phòng thí nghiệm mới ở các nước tham gia"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to build new laboratories in the countries that take part",
+          "text_translation": "để xây phòng thí nghiệm mới ở các nước tham gia"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to teach students about proteins and how to measure them",
+            "vi": "để dạy sinh viên về protein và cách đo chúng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to teach students about proteins and how to measure them",
+          "text_translation": "để dạy sinh viên về protein và cách đo chúng"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Dùng hình dạng \"measured but not yet published\" thì không ai biết trước đáp án, nên kiểm tra được độ chính xác thật."
+      },
+      "audio_data": null,
+      "question_jp": "What is the purpose of the competition that started in 1994?",
+      "question_vn": "Cuộc thi bắt đầu từ năm 1994 nhằm mục đích gì?",
+      "explanation": "Câu suy luận. Dùng hình dạng \"measured but not yet published\" thì không ai biết trước đáp án, nên kiểm tra được độ chính xác thật."
+    },
+    {
+      "id": "q_u0708_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "What was remarkable about AlphaFold's results in 2020?",
+        "vi": "Kết quả của AlphaFold năm 2020 có gì đáng chú ý?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They were slower than laboratory methods but much cheaper.",
+            "vi": "Chúng chậm hơn phương pháp phòng thí nghiệm nhưng rẻ hơn nhiều."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They were slower than laboratory methods but much cheaper.",
+          "text_translation": "Chúng chậm hơn phương pháp phòng thí nghiệm nhưng rẻ hơn nhiều."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "For many proteins, they were about as accurate as laboratory measurements.",
+            "vi": "Với nhiều protein, chúng chính xác gần bằng phép đo trong phòng thí nghiệm."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "For many proteins, they were about as accurate as laboratory measurements.",
+          "text_translation": "Với nhiều protein, chúng chính xác gần bằng phép đo trong phòng thí nghiệm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They covered only one protein, which had been measured already.",
+            "vi": "Chúng chỉ có một protein, vốn đã được đo rồi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They covered only one protein, which had been measured already.",
+          "text_translation": "Chúng chỉ có một protein, vốn đã được đo rồi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They were completely wrong, so the competition was stopped.",
+            "vi": "Chúng sai hoàn toàn nên cuộc thi bị dừng lại."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They were completely wrong, so the competition was stopped.",
+          "text_translation": "Chúng sai hoàn toàn nên cuộc thi bị dừng lại."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"produced predictions that were, for many proteins, about as accurate as the laboratory measurements themselves.\""
+      },
+      "audio_data": null,
+      "question_jp": "What was remarkable about AlphaFold's results in 2020?",
+      "question_vn": "Kết quả của AlphaFold năm 2020 có gì đáng chú ý?",
+      "explanation": "\"produced predictions that were, for many proteins, about as accurate as the laboratory measurements themselves.\""
+    },
+    {
+      "id": "q_u0708_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "What does the growth of the public database from about 360,000 to around 200 million predictions show?",
+        "vi": "Việc cơ sở dữ liệu tăng từ khoảng 360.000 lên khoảng 200 triệu dự đoán cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The database has become less reliable as it has grown so much.",
+            "vi": "Cơ sở dữ liệu kém tin cậy hơn khi lớn lên quá nhiều."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The database has become less reliable as it has grown so much.",
+          "text_translation": "Cơ sở dữ liệu kém tin cậy hơn khi lớn lên quá nhiều."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Only a few scientists use it, mostly those who work for DeepMind.",
+            "vi": "Chỉ vài nhà khoa học dùng nó, chủ yếu là người làm cho DeepMind."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Only a few scientists use it, mostly those who work for DeepMind.",
+          "text_translation": "Chỉ vài nhà khoa học dùng nó, chủ yếu là người làm cho DeepMind."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Laboratories now measure about 200 million proteins every single year.",
+            "vi": "Phòng thí nghiệm giờ đo khoảng 200 triệu protein mỗi năm."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Laboratories now measure about 200 million proteins every single year.",
+          "text_translation": "Phòng thí nghiệm giờ đo khoảng 200 triệu protein mỗi năm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "How quickly the technology spread to cover almost all known proteins.",
+            "vi": "Công nghệ lan nhanh tới mức bao phủ gần như mọi protein đã biết."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "How quickly the technology spread to cover almost all known proteins.",
+          "text_translation": "Công nghệ lan nhanh tới mức bao phủ gần như mọi protein đã biết."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"The momentum since then has been remarkable.\" Từ hơn 360.000 lên khoảng 200 triệu, \"covering almost every protein known to science.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the growth of the public database from about 360,000 to around 200 million predictions show?",
+      "question_vn": "Việc cơ sở dữ liệu tăng từ khoảng 360.000 lên khoảng 200 triệu dự đoán cho thấy điều gì?",
+      "explanation": "\"The momentum since then has been remarkable.\" Từ hơn 360.000 lên khoảng 200 triệu, \"covering almost every protein known to science.\""
+    },
+    {
+      "id": "q_u0708_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "Who shared the 2024 Nobel Prize in Chemistry?",
+        "vi": "Ai cùng nhận giải Nobel Hoá học năm 2024?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Demis Hassabis, John Jumper and David Baker",
+            "vi": "Demis Hassabis, John Jumper và David Baker"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Demis Hassabis, John Jumper and David Baker",
+          "text_translation": "Demis Hassabis, John Jumper và David Baker"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Christian Anfinsen, Demis Hassabis and David Baker",
+            "vi": "Christian Anfinsen, Demis Hassabis và David Baker"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Christian Anfinsen, Demis Hassabis and David Baker",
+          "text_translation": "Christian Anfinsen, Demis Hassabis và David Baker"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "only the company DeepMind, which built AlphaFold",
+            "vi": "chỉ công ty DeepMind, nơi xây dựng AlphaFold"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "only the company DeepMind, which built AlphaFold",
+          "text_translation": "chỉ công ty DeepMind, nơi xây dựng AlphaFold"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "all the teams that took part in the competition",
+            "vi": "tất cả các nhóm tham gia cuộc thi"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "all the teams that took part in the competition",
+          "text_translation": "tất cả các nhóm tham gia cuộc thi"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"shared between two of AlphaFold's creators, Demis Hassabis and John Jumper, and the scientist David Baker\"."
+      },
+      "audio_data": null,
+      "question_jp": "Who shared the 2024 Nobel Prize in Chemistry?",
+      "question_vn": "Ai cùng nhận giải Nobel Hoá học năm 2024?",
+      "explanation": "\"shared between two of AlphaFold's creators, Demis Hassabis and John Jumper, and the scientist David Baker\"."
+    },
+    {
+      "id": "q_u0708_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "Why does the writer say that concluding \"laboratories are no longer needed\" would be a mistake?",
+        "vi": "Vì sao người viết nói kết luận \"không còn cần phòng thí nghiệm\" là sai lầm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because AI predictions are always wrong whenever scientists check them",
+            "vi": "vì dự đoán của AI luôn sai mỗi khi nhà khoa học kiểm tra"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because AI predictions are always wrong whenever scientists check them",
+          "text_translation": "vì dự đoán của AI luôn sai mỗi khi nhà khoa học kiểm tra"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because laboratories are cheaper and faster than AI, and they can measure every protein in minutes",
+            "vi": "vì phòng thí nghiệm rẻ và nhanh hơn AI, và đo được mọi protein trong vài phút"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because laboratories are cheaper and faster than AI, and they can measure every protein in minutes",
+          "text_translation": "vì phòng thí nghiệm rẻ và nhanh hơn AI, và đo được mọi protein trong vài phút"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because predictions are approximations, and AI is still limited in predicting how proteins move",
+            "vi": "vì dự đoán chỉ là gần đúng, và AI vẫn hạn chế khi dự đoán cách protein chuyển động"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because predictions are approximations, and AI is still limited in predicting how proteins move",
+          "text_translation": "vì dự đoán chỉ là gần đúng, và AI vẫn hạn chế khi dự đoán cách protein chuyển động"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the Nobel Prize can only be won by scientists who use experiments",
+            "vi": "vì giải Nobel chỉ trao cho nhà khoa học dùng thí nghiệm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because the Nobel Prize can only be won by scientists who use experiments",
+          "text_translation": "vì giải Nobel chỉ trao cho nhà khoa học dùng thí nghiệm"
+        }
+      ],
+      "evidence_segments": [
+        12,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"A prediction is still an approximation\" và \"the extent to which AI can predict that behavior is still limited.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer say that concluding \"laboratories are no longer needed\" would be a mistake?",
+      "question_vn": "Vì sao người viết nói kết luận \"không còn cần phòng thí nghiệm\" là sai lầm?",
+      "explanation": "\"A prediction is still an approximation\" và \"the extent to which AI can predict that behavior is still limited.\""
+    },
+    {
+      "id": "q_u0708_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "According to the writer, what is the most important change AlphaFold has brought?",
+        "vi": "Theo người viết, thay đổi quan trọng nhất AlphaFold mang lại là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Scientists no longer need laboratories, because every prediction is now certain to be right.",
+            "vi": "Nhà khoa học không còn cần phòng thí nghiệm, vì mọi dự đoán giờ chắc chắn đúng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Scientists no longer need laboratories, because every prediction is now certain to be right.",
+          "text_translation": "Nhà khoa học không còn cần phòng thí nghiệm, vì mọi dự đoán giờ chắc chắn đúng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Proteins can now be built in minutes by anyone with a computer.",
+            "vi": "Giờ ai có máy tính cũng có thể tạo protein trong vài phút."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Proteins can now be built in minutes by anyone with a computer.",
+          "text_translation": "Giờ ai có máy tính cũng có thể tạo protein trong vài phút."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Diseases caused by protein mutations have all been cured.",
+            "vi": "Mọi bệnh do đột biến protein đều đã được chữa khỏi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Diseases caused by protein mutations have all been cured.",
+          "text_translation": "Mọi bệnh do đột biến protein đều đã được chữa khỏi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Scientists can start with a good guess and spend their time asking what the shape means.",
+            "vi": "Nhà khoa học có thể bắt đầu bằng một phỏng đoán tốt và dành thời gian hỏi hình dạng có ý nghĩa gì."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Scientists can start with a good guess and spend their time asking what the shape means.",
+          "text_translation": "Nhà khoa học có thể bắt đầu bằng một phỏng đoán tốt và dành thời gian hỏi hình dạng có ý nghĩa gì."
+        }
+      ],
+      "evidence_segments": [
+        14,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi ý chính của đoạn kết. Nhà khoa học \"spend those years asking what the shape means\". Người viết gọi đó là \"the most important change of all\"."
+      },
+      "audio_data": null,
+      "question_jp": "According to the writer, what is the most important change AlphaFold has brought?",
+      "question_vn": "Theo người viết, thay đổi quan trọng nhất AlphaFold mang lại là gì?",
+      "explanation": "Câu hỏi ý chính của đoạn kết. Nhà khoa học \"spend those years asking what the shape means\". Người viết gọi đó là \"the most important change of all\"."
+    },
+    {
+      "id": "q_u0708_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0708_02",
+      "i18n": {
+        "en": "Use both texts. What do Mitchell's essay and the article about proteins have in common?",
+        "vi": "Dựa vào cả hai bài. Bài của Mitchell và bài về protein có điểm gì chung?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both of them are about hospitals and the people who work in them.",
+            "vi": "Cả hai đều về bệnh viện và những người làm việc ở đó."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both of them are about hospitals and the people who work in them.",
+          "text_translation": "Cả hai đều về bệnh viện và những người làm việc ở đó."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Both of them warn against treating a first impression or a prediction as certain without checking.",
+            "vi": "Cả hai cảnh báo việc coi ấn tượng đầu tiên hay dự đoán là chắc chắn mà không kiểm chứng."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Both of them warn against treating a first impression or a prediction as certain without checking.",
+          "text_translation": "Cả hai cảnh báo việc coi ấn tượng đầu tiên hay dự đoán là chắc chắn mà không kiểm chứng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both of them describe a competition between two teams of experts.",
+            "vi": "Cả hai đều tả một cuộc thi giữa hai nhóm chuyên gia."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Both of them describe a competition between two teams of experts.",
+          "text_translation": "Cả hai đều tả một cuộc thi giữa hai nhóm chuyên gia."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Both of them say that experts are always right and that ordinary people should never question their decisions.",
+            "vi": "Cả hai đều nói chuyên gia luôn đúng và người thường không bao giờ nên nghi ngờ quyết định của họ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Both of them say that experts are always right and that ordinary people should never question their decisions.",
+          "text_translation": "Cả hai đều nói chuyên gia luôn đúng và người thường không bao giờ nên nghi ngờ quyết định của họ."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Mitchell học cách để ý thật kỹ ấn tượng đầu tiên của mình; bài protein nói \"Researchers still need experiments to check whether a prediction is right.\""
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do Mitchell's essay and the article about proteins have in common?",
+      "question_vn": "Dựa vào cả hai bài. Bài của Mitchell và bài về protein có điểm gì chung?",
+      "explanation": "Câu nối hai bài. Mitchell học cách để ý thật kỹ ấn tượng đầu tiên của mình; bài protein nói \"Researchers still need experiments to check whether a prediction is right.\""
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u0708_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 7) — Mitchell kể chuyện làm bồi thẩm đoàn",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u0708_01",
+      "question_ids": [
+        "q_u0708_001",
+        "q_u0708_002",
+        "q_u0708_003",
+        "q_u0708_004",
+        "q_u0708_005",
+        "q_u0708_006",
+        "q_u0708_007",
+        "q_u0708_008",
+        "q_u0708_009",
+        "q_u0708_010"
+      ]
+    },
+    {
+      "set_id": "set_u0708_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 8) — Bài khoa học: AlphaFold và câu đố năm mươi năm",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u0708_02",
+      "question_ids": [
+        "q_u0708_011",
+        "q_u0708_012",
+        "q_u0708_013",
+        "q_u0708_014",
+        "q_u0708_015",
+        "q_u0708_016",
+        "q_u0708_017",
+        "q_u0708_018",
+        "q_u0708_019",
+        "q_u0708_020"
+      ]
+    }
+  ]
+}

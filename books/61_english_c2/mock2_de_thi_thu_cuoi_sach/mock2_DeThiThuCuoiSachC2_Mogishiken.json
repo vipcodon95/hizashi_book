@@ -1,0 +1,3985 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "C2 Mock Test 2 (Final)",
+      "vi": "Đề thi thử C2 (cuối sách)"
+    },
+    "title": "C2 Mock Test 2 (Final)",
+    "title_vn": "Đề thi thử C2 (cuối sách)",
+    "module_code": "61_mock2",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "C2",
+    "curriculum_unit": "c2.test",
+    "curriculum_sheets": [
+      "c2.001",
+      "c2.002",
+      "c2.003",
+      "c2.004",
+      "c2.005",
+      "c2.006",
+      "c2.007",
+      "c2.008",
+      "c2.009",
+      "c2.010",
+      "c2.011",
+      "c2.012",
+      "c2.013",
+      "c2.014",
+      "c2.015",
+      "c2.016",
+      "c2.017",
+      "c2.018",
+      "c2.019",
+      "c2.020",
+      "c2.021",
+      "c2.022",
+      "c2.023",
+      "c2.024",
+      "c2.025",
+      "c2.026",
+      "c2.027",
+      "c2.028",
+      "c2.029",
+      "c2.030",
+      "c2.031",
+      "c2.032",
+      "c2.test"
+    ],
+    "characters": [
+      "Harriet Brooks",
+      "Leah Carter",
+      "Ethan Hayes",
+      "Megan Carter",
+      "Mitchell Carter",
+      "Tracy Carter",
+      "Trevor Carter",
+      "Tina Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 10 – 11, năm 9"
+    },
+    "total_passages": 4,
+    "total_questions": 40,
+    "focus": "Đề thi thử C2: 4 bài × 10 câu",
+    "description_vn": "Đề thi thử cuối sách C2: thông báo The Neighbors' Kitchen tròn một năm, bài khoa học về ngáp lây, truyện nhà Carter nghe tin Leah và Ethan sắp có em bé dịp Lễ Tạ ơn, thư bà Harriet gửi người hàng xóm đã học tiếng Anh ở phố Maple tám năm. 4 bài × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Đề thi thử cuối sách · ôn toàn bộ khoá C2, phiếu `c2.001` – `c2.032` và `c2.test` (8 unit + kiểm tra cuối cấp). Cũng là bài khép lại cả series sách đọc A1 → C2."
+    },
+    "objective_i18n": {
+      "vi": "Đề thi thử 40 câu, làm trong 60 phút (kiểu đề đọc C2: 4 bài × 10 câu, 360–410 từ mỗi bài). Đề khó dần: thông báo The Neighbors' Kitchen tròn một năm → bài khoa học về ngáp lây (nghiên cứu năm 2008 và 2014) → truyện nhà Carter nghe tin Leah và Ethan sắp có em bé → thư bà Harriet gửi \"you\", người hàng xóm đã học tiếng Anh ở phố Maple suốt tám năm. Khoảng một nửa số câu hỏi về hàm ý, giọng điệu, cấu trúc lập luận và liên hệ giữa các chương, các cuốn."
+    },
+    "extra_words": [
+      {
+        "word": "anniversary",
+        "i18n": {
+          "vi": "ngày kỷ niệm"
+        }
+      },
+      {
+        "word": "sidewalk",
+        "i18n": {
+          "vi": "vỉa hè"
+        }
+      },
+      {
+        "word": "token",
+        "i18n": {
+          "vi": "phiếu đổi"
+        }
+      },
+      {
+        "word": "food truck",
+        "i18n": {
+          "vi": "xe bán đồ ăn"
+        }
+      },
+      {
+        "word": "stall",
+        "i18n": {
+          "vi": "sạp hàng"
+        }
+      },
+      {
+        "word": "allergen",
+        "i18n": {
+          "vi": "chất gây dị ứng"
+        }
+      },
+      {
+        "word": "allergens",
+        "i18n": {
+          "vi": "các chất gây dị ứng"
+        }
+      },
+      {
+        "word": "allergies",
+        "i18n": {
+          "vi": "dị ứng"
+        }
+      },
+      {
+        "word": "guarantee",
+        "i18n": {
+          "vi": "sự bảo đảm"
+        }
+      },
+      {
+        "word": "reusable",
+        "i18n": {
+          "vi": "dùng lại được"
+        }
+      },
+      {
+        "word": "cookbook",
+        "i18n": {
+          "vi": "sách dạy nấu ăn"
+        }
+      },
+      {
+        "word": "yawn",
+        "i18n": {
+          "vi": "ngáp"
+        }
+      },
+      {
+        "word": "yawning",
+        "i18n": {
+          "vi": "việc ngáp"
+        }
+      },
+      {
+        "word": "contagious",
+        "i18n": {
+          "vi": "lây lan"
+        }
+      },
+      {
+        "word": "unconsciously",
+        "i18n": {
+          "vi": "một cách vô thức"
+        }
+      },
+      {
+        "word": "empathetic",
+        "i18n": {
+          "vi": "giàu đồng cảm"
+        }
+      },
+      {
+        "word": "empathy",
+        "i18n": {
+          "vi": "sự đồng cảm"
+        }
+      },
+      {
+        "word": "stressed",
+        "i18n": {
+          "vi": "căng thẳng"
+        }
+      },
+      {
+        "word": "variation",
+        "i18n": {
+          "vi": "sự khác biệt"
+        }
+      },
+      {
+        "word": "Thanksgiving",
+        "i18n": {
+          "vi": "Lễ Tạ ơn"
+        }
+      },
+      {
+        "word": "terrified",
+        "i18n": {
+          "vi": "sợ chết khiếp"
+        }
+      },
+      {
+        "word": "annoyingly",
+        "i18n": {
+          "vi": "tới mức phát bực"
+        }
+      },
+      {
+        "word": "interrupt",
+        "i18n": {
+          "vi": "ngắt lời"
+        }
+      },
+      {
+        "word": "subtler",
+        "i18n": {
+          "vi": "tinh tế hơn"
+        }
+      },
+      {
+        "word": "fluency",
+        "i18n": {
+          "vi": "sự trôi chảy"
+        }
+      },
+      {
+        "word": "excuse",
+        "i18n": {
+          "vi": "cái cớ"
+        }
+      },
+      {
+        "word": "allergy",
+        "i18n": {
+          "vi": "dị ứng"
+        }
+      },
+      {
+        "word": "archive",
+        "i18n": {
+          "vi": "kho lưu trữ"
+        }
+      },
+      {
+        "word": "forgetful",
+        "i18n": {
+          "vi": "hay quên"
+        }
+      },
+      {
+        "word": "goodbye",
+        "i18n": {
+          "vi": "lời từ biệt"
+        }
+      },
+      {
+        "word": "scone",
+        "i18n": {
+          "vi": "bánh scone"
+        }
+      },
+      {
+        "word": "scones",
+        "i18n": {
+          "vi": "bánh scone"
+        }
+      },
+      {
+        "word": "um",
+        "i18n": {
+          "vi": "ừm (tiếng ngập ngừng)"
+        }
+      },
+      {
+        "word": "unexplained",
+        "i18n": {
+          "vi": "chưa được giải thích"
+        }
+      },
+      {
+        "word": "dumplings",
+        "i18n": {
+          "vi": "bánh bao, bánh hấp"
+        }
+      },
+      {
+        "word": "ceiling",
+        "i18n": {
+          "vi": "trần nhà"
+        }
+      },
+      {
+        "word": "paws",
+        "i18n": {
+          "vi": "chân (thú)"
+        }
+      },
+      {
+        "word": "tamales",
+        "i18n": {
+          "vi": "bánh tamale (món Mexico)"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "cover our costs",
+          "vi": "hoà vốn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "to our great pride",
+          "vi": "khiến chúng tôi rất tự hào"
+        }
+      },
+      {
+        "i18n": {
+          "en": "unless you would prefer otherwise",
+          "vi": "trừ khi bạn muốn khác"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a fair chance",
+          "vi": "rất có thể"
+        }
+      },
+      {
+        "i18n": {
+          "en": "accepted wisdom",
+          "vi": "điều ai cũng chấp nhận"
+        }
+      },
+      {
+        "i18n": {
+          "en": "scientifically speaking",
+          "vi": "về mặt khoa học"
+        }
+      },
+      {
+        "i18n": {
+          "en": "cut down",
+          "vi": "giảm bớt"
+        }
+      },
+      {
+        "i18n": {
+          "en": "for a living",
+          "vi": "để kiếm sống"
+        }
+      },
+      {
+        "i18n": {
+          "en": "I have been meaning to",
+          "vi": "tôi vẫn định"
+        }
+      },
+      {
+        "i18n": {
+          "en": "it is high time it heard",
+          "vi": "đã đến lúc nó được nghe"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**Quản lý thời gian:** 60 phút cho 4 bài. Phần 1 khoảng 12 phút, Phần 2 khoảng 15 phút, Phần 3 khoảng 15 phút, Phần 4 khoảng 18 phút."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Thông báo:** câu áp dụng có thể cần **cộng hai điều kiện** (dưới 12 tuổi + mang hộp riêng). Đọc hết các mục trước khi chọn."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Bài khoa học C2:** theo dõi số phận của một giả thuyết: phổ biến → bị thách thức → kiểm tra kỹ → kết luận thận trọng (`This does not prove…; it suggests…`)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Truyện:** nhiều nhân vật nói cùng lúc. Câu hỏi hàm ý thường hỏi một chi tiết nhỏ (từ chối cà phê, cái điện thoại) nói lên tính cách hay cảm xúc."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Thư / bài luận cá nhân:** người viết dùng ví dụ của chính mình (lỗi về trận lụt) để củng cố lời khuyên. Câu hỏi \"why does she mention…\" hỏi chức năng của ví dụ đó."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_mock2_01",
+      "heading_i18n": {
+        "vi": "Phần 1 — Thông báo: The Neighbors' Kitchen tròn một năm"
+      },
+      "narrator": "announcer",
+      "title": "The Neighbors' Kitchen Turns One",
+      "category": "notice",
+      "jlpt_level": "C2",
+      "difficulty": 1,
+      "estimated_reading_time": 240,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Neighbors' Kitchen Turns One",
+            "vi": "The Neighbors' Kitchen tròn một tuổi"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Anniversary Tasting Fair. Saturday, October 19, 11 a.m. to 3 p.m., in the kitchen and on the sidewalk outside Harriet's, Maple Street",
+            "vi": "Hội chợ nếm thử mừng sinh nhật. Thứ Bảy 19 tháng Mười, 11 giờ sáng tới 3 giờ chiều, trong bếp và trên vỉa hè trước quán Harriet's, phố Maple"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A year ago, we opened a shared kitchen in the old bakery with two ovens, one rule and no idea whether anyone would come. Since then, the kitchen has been booked for an average of more than five hours a day, well above the four hours we needed to cover our costs.",
+            "vi": "Một năm trước, chúng tôi mở một căn bếp chung trong tiệm bánh cũ với hai lò nướng, một quy định và chẳng biết liệu có ai tới không. Từ đó tới nay, bếp được đặt trung bình hơn năm tiếng mỗi ngày, cao hơn hẳn mức bốn tiếng cần để hoà vốn."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Thirty-one cooks now use it regularly, and three of them have since opened businesses of their own: a food truck, a market stall and, to our great pride, a small bakery two blocks away.",
+            "vi": "Ba mươi mốt người nấu giờ dùng bếp thường xuyên, và ba người trong số đó đã mở cơ sở riêng: một xe đồ ăn, một sạp ở chợ và, khiến chúng tôi rất tự hào, một tiệm bánh nhỏ cách đây hai dãy nhà."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Over the year, cooks from at least fourteen different family traditions have used the ovens, with dishes ranging from tamales and dumplings to a cake that one family insists is older than the street itself.",
+            "vi": "Trong năm qua, những người nấu thuộc ít nhất mười bốn truyền thống gia đình khác nhau đã dùng lò nướng, với các món từ bánh tamale, bánh bao cho tới một chiếc bánh mà một gia đình khẳng định còn lâu đời hơn cả con phố."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "How the fair works. Tasting tokens cost $2 each and can be exchanged for a small plate at any table. Children under 12 receive two free tokens. All money from token sales goes directly to the cooks, except for one dollar in every ten, which will fund a free cooking course for teenagers next spring.",
+            "vi": "Cách thức hội chợ. Mỗi phiếu nếm thử giá 2 đô và đổi được một đĩa nhỏ ở bất kỳ bàn nào. Trẻ dưới 12 tuổi được tặng hai phiếu. Toàn bộ tiền bán phiếu chuyển thẳng cho người nấu, trừ một đô trên mỗi mười đô, khoản này dành cho một khoá dạy nấu ăn miễn phí cho thanh thiếu niên vào mùa xuân tới."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Allergies. Every dish will carry a card listing its main ingredients and any common allergens, such as nuts, wheat, milk or eggs. If you have a serious allergy, please speak to the cook before eating; the cards are a guide, not a guarantee, since all the dishes are prepared in the same kitchen.",
+            "vi": "Dị ứng. Mỗi món đều có thẻ ghi nguyên liệu chính và các chất dễ gây dị ứng, như hạt, lúa mì, sữa hay trứng. Nếu bạn bị dị ứng nặng, hãy hỏi người nấu trước khi ăn; thẻ chỉ để tham khảo, không phải sự bảo đảm, vì mọi món đều được làm trong cùng một căn bếp."
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Bring your own container. Visitors who bring a reusable plate or box will receive a third free token. Last year's opening produced eleven bags of paper plates; this year, we would like to produce fewer than three.",
+            "vi": "Mang hộp đựng của riêng bạn. Khách mang đĩa hoặc hộp dùng lại được sẽ được tặng thêm một phiếu thứ ba. Buổi khai trương năm ngoái thải ra mười một túi đĩa giấy; năm nay, chúng tôi muốn thải ra ít hơn ba túi."
+          }
+        },
+        {
+          "n": 9,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Share a recipe. Harriet will be collecting family recipes for a small neighborhood cookbook. Recipes may be written in any language; volunteers will help with translation, and each recipe will appear with the name of the family it came from, unless you would prefer otherwise.",
+            "vi": "Chia sẻ một công thức. Bà Harriet sẽ gom công thức gia đình để làm một cuốn sách nấu ăn nhỏ của khu phố. Công thức có thể viết bằng bất kỳ ngôn ngữ nào; tình nguyện viên sẽ giúp dịch, và mỗi công thức sẽ in kèm tên gia đình đã góp nó, trừ khi bạn muốn khác."
+          }
+        },
+        {
+          "n": 10,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The fair will go ahead whatever the weather. In case of rain, the tables will simply move inside the café and the kitchen, which will be crowded but, we suspect, rather cheerful.",
+            "vi": "Hội chợ vẫn diễn ra dù thời tiết thế nào. Nếu mưa, các bàn sẽ chuyển vào trong quán và căn bếp, chắc là sẽ chật chội nhưng, chúng tôi đoán, khá vui vẻ."
+          }
+        },
+        {
+          "n": 11,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet will, of course, be baking scones. She has asked us to point out that they are not available in exchange for tokens. \"Some things,\" she says, \"are still my business.\"",
+            "vi": "Dĩ nhiên bà Harriet sẽ nướng bánh scone. Bà nhờ chúng tôi lưu ý rằng không đổi bánh scone bằng phiếu được. \"Có những thứ,\" bà nói, \"vẫn là chuyện làm ăn của tôi.\""
+          }
+        }
+      ],
+      "content_ja": "The Neighbors' Kitchen Turns One\n\nAnniversary Tasting Fair. Saturday, October 19, 11 a.m. to 3 p.m., in the kitchen and on the sidewalk outside Harriet's, Maple Street\n\nA year ago, we opened a shared kitchen in the old bakery with two ovens, one rule and no idea whether anyone would come. Since then, the kitchen has been booked for an average of more than five hours a day, well above the four hours we needed to cover our costs. Thirty-one cooks now use it regularly, and three of them have since opened businesses of their own: a food truck, a market stall and, to our great pride, a small bakery two blocks away. Over the year, cooks from at least fourteen different family traditions have used the ovens, with dishes ranging from tamales and dumplings to a cake that one family insists is older than the street itself.\n\nHow the fair works. Tasting tokens cost $2 each and can be exchanged for a small plate at any table. Children under 12 receive two free tokens. All money from token sales goes directly to the cooks, except for one dollar in every ten, which will fund a free cooking course for teenagers next spring.\n\nAllergies. Every dish will carry a card listing its main ingredients and any common allergens, such as nuts, wheat, milk or eggs. If you have a serious allergy, please speak to the cook before eating; the cards are a guide, not a guarantee, since all the dishes are prepared in the same kitchen.\n\nBring your own container. Visitors who bring a reusable plate or box will receive a third free token. Last year's opening produced eleven bags of paper plates; this year, we would like to produce fewer than three.\n\nShare a recipe. Harriet will be collecting family recipes for a small neighborhood cookbook. Recipes may be written in any language; volunteers will help with translation, and each recipe will appear with the name of the family it came from, unless you would prefer otherwise. The fair will go ahead whatever the weather. In case of rain, the tables will simply move inside the café and the kitchen, which will be crowded but, we suspect, rather cheerful.\n\nHarriet will, of course, be baking scones. She has asked us to point out that they are not available in exchange for tokens. \"Some things,\" she says, \"are still my business.\"",
+      "translation_vn": "(1) The Neighbors' Kitchen tròn một tuổi\n(2) Hội chợ nếm thử mừng sinh nhật. Thứ Bảy 19 tháng Mười, 11 giờ sáng tới 3 giờ chiều, trong bếp và trên vỉa hè trước quán Harriet's, phố Maple\n(3) Một năm trước, chúng tôi mở một căn bếp chung trong tiệm bánh cũ với hai lò nướng, một quy định và chẳng biết liệu có ai tới không. Từ đó tới nay, bếp được đặt trung bình hơn năm tiếng mỗi ngày, cao hơn hẳn mức bốn tiếng cần để hoà vốn.\n(4) Ba mươi mốt người nấu giờ dùng bếp thường xuyên, và ba người trong số đó đã mở cơ sở riêng: một xe đồ ăn, một sạp ở chợ và, khiến chúng tôi rất tự hào, một tiệm bánh nhỏ cách đây hai dãy nhà.\n(5) Trong năm qua, những người nấu thuộc ít nhất mười bốn truyền thống gia đình khác nhau đã dùng lò nướng, với các món từ bánh tamale, bánh bao cho tới một chiếc bánh mà một gia đình khẳng định còn lâu đời hơn cả con phố.\n(6) Cách thức hội chợ. Mỗi phiếu nếm thử giá 2 đô và đổi được một đĩa nhỏ ở bất kỳ bàn nào. Trẻ dưới 12 tuổi được tặng hai phiếu. Toàn bộ tiền bán phiếu chuyển thẳng cho người nấu, trừ một đô trên mỗi mười đô, khoản này dành cho một khoá dạy nấu ăn miễn phí cho thanh thiếu niên vào mùa xuân tới.\n(7) Dị ứng. Mỗi món đều có thẻ ghi nguyên liệu chính và các chất dễ gây dị ứng, như hạt, lúa mì, sữa hay trứng. Nếu bạn bị dị ứng nặng, hãy hỏi người nấu trước khi ăn; thẻ chỉ để tham khảo, không phải sự bảo đảm, vì mọi món đều được làm trong cùng một căn bếp.\n(8) Mang hộp đựng của riêng bạn. Khách mang đĩa hoặc hộp dùng lại được sẽ được tặng thêm một phiếu thứ ba. Buổi khai trương năm ngoái thải ra mười một túi đĩa giấy; năm nay, chúng tôi muốn thải ra ít hơn ba túi.\n(9) Chia sẻ một công thức. Bà Harriet sẽ gom công thức gia đình để làm một cuốn sách nấu ăn nhỏ của khu phố. Công thức có thể viết bằng bất kỳ ngôn ngữ nào; tình nguyện viên sẽ giúp dịch, và mỗi công thức sẽ in kèm tên gia đình đã góp nó, trừ khi bạn muốn khác.\n(10) Hội chợ vẫn diễn ra dù thời tiết thế nào. Nếu mưa, các bàn sẽ chuyển vào trong quán và căn bếp, chắc là sẽ chật chội nhưng, chúng tôi đoán, khá vui vẻ.\n(11) Dĩ nhiên bà Harriet sẽ nướng bánh scone. Bà nhờ chúng tôi lưu ý rằng không đổi bánh scone bằng phiếu được. \"Có những thứ,\" bà nói, \"vẫn là chuyện làm ăn của tôi.\"",
+      "word_count": 399,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c2.001",
+        "c2.002",
+        "c2.003",
+        "c2.004",
+        "c2.005",
+        "c2.006",
+        "c2.007",
+        "c2.008",
+        "c2.009",
+        "c2.010",
+        "c2.011",
+        "c2.012",
+        "c2.013",
+        "c2.014",
+        "c2.015",
+        "c2.016",
+        "c2.017",
+        "c2.018",
+        "c2.019",
+        "c2.020",
+        "c2.021",
+        "c2.022",
+        "c2.023",
+        "c2.024",
+        "c2.025",
+        "c2.026",
+        "c2.027",
+        "c2.028",
+        "c2.029",
+        "c2.030",
+        "c2.031",
+        "c2.032",
+        "c2.test"
+      ]
+    },
+    {
+      "id": "passage_mock2_02",
+      "heading_i18n": {
+        "vi": "Phần 2 — Bài khoa học: vì sao ngáp lại lây"
+      },
+      "narrator": "announcer",
+      "title": "Why Are Yawns Contagious?",
+      "category": "article",
+      "jlpt_level": "C2",
+      "difficulty": 1,
+      "estimated_reading_time": 250,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why Are Yawns Contagious?",
+            "vi": "Vì sao ngáp lại lây?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There is a fair chance that you will yawn before you finish this article. Simply reading about yawning, or seeing a picture of someone doing it, is enough to trigger a yawn in many people. Scientists have known about this effect for a long time; explaining it has proved far harder.",
+            "vi": "Rất có thể bạn sẽ ngáp trước khi đọc xong bài này. Chỉ cần đọc về chuyện ngáp, hay thấy ảnh ai đó ngáp, cũng đủ khiến nhiều người ngáp theo. Các nhà khoa học biết tới hiệu ứng này từ lâu; giải thích được nó thì khó hơn nhiều."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Even thinking about yawning can be enough, which is something you may be discovering at this very moment.",
+            "vi": "Thậm chí chỉ nghĩ tới chuyện ngáp cũng có thể đủ, điều mà có lẽ bạn đang tự phát hiện ra ngay lúc này."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For many years, the most popular explanation was empathy. If we catch yawns because we unconsciously share other people's states, the theory went, then more empathetic people should catch them more easily, and we should catch them more readily from friends and family than from strangers.",
+            "vi": "Trong nhiều năm, lời giải thích được ưa chuộng nhất là sự đồng cảm. Theo giả thuyết này, nếu ta ngáp lây vì vô thức chia sẻ trạng thái của người khác, thì người giàu đồng cảm hơn phải dễ ngáp lây hơn, và ta phải dễ ngáp theo bạn bè, người thân hơn là người lạ."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some early studies seemed to support this, and the idea became something close to accepted wisdom.",
+            "vi": "Một số nghiên cứu ban đầu dường như ủng hộ điều đó, và ý tưởng này gần như trở thành điều ai cũng chấp nhận."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The picture became more complicated in 2008, when researchers in London reported that 21 out of 29 dogs yawned after watching a human yawn. It was a delightful result, and it was widely reported as evidence that dogs share our feelings.",
+            "vi": "Bức tranh trở nên phức tạp hơn vào năm 2008, khi các nhà nghiên cứu ở London báo cáo rằng 21 trên 29 con chó đã ngáp sau khi nhìn một người ngáp. Đó là một kết quả thú vị, và được đưa tin rộng rãi như bằng chứng rằng chó chia sẻ cảm xúc với chúng ta."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Later attempts to repeat the experiment, however, produced mixed results: some found a similar effect, while others found a much weaker one or none at all, and the researchers themselves had noted that the dogs might simply have been mildly stressed.",
+            "vi": "Tuy nhiên, những lần thử lặp lại thí nghiệm về sau cho kết quả lẫn lộn: có nghiên cứu thấy hiệu ứng tương tự, có nghiên cứu chỉ thấy hiệu ứng yếu hơn nhiều hoặc chẳng có gì, và chính các nhà nghiên cứu ban đầu cũng từng lưu ý rằng có thể lũ chó chỉ hơi căng thẳng."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The most careful test of the empathy theory so far came in 2014, from a team at Duke University. They showed a three-minute video of people yawning to 328 healthy volunteers and counted how often each one yawned. About two-thirds yawned at least once, but individuals varied enormously, and each person's tendency stayed remarkably stable across repeated sessions.",
+            "vi": "Phép thử cẩn thận nhất với giả thuyết đồng cảm cho tới nay được thực hiện năm 2014 bởi một nhóm ở Đại học Duke. Họ cho 328 tình nguyện viên khoẻ mạnh xem một video ba phút về người đang ngáp và đếm xem mỗi người ngáp bao nhiêu lần. Khoảng hai phần ba ngáp ít nhất một lần, nhưng mỗi người rất khác nhau, và xu hướng của từng người ổn định đáng kể qua nhiều lần thử."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When the researchers looked for an explanation, empathy was not meaningfully linked to the results. The only factor that mattered independently was age, with older people yawning less, and even age explained only about eight percent of the differences.",
+            "vi": "Khi các nhà nghiên cứu tìm lời giải thích, sự đồng cảm không liên quan đáng kể tới kết quả. Yếu tố duy nhất có tác động độc lập là tuổi, người lớn tuổi ngáp ít hơn, mà ngay cả tuổi cũng chỉ giải thích được khoảng tám phần trăm khác biệt."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In other words, most of the variation remains unexplained. This does not prove that empathy plays no role; it suggests that, if it does, the role is much smaller than the popular story claims.",
+            "vi": "Nói cách khác, phần lớn sự khác biệt vẫn chưa được giải thích. Điều này không chứng minh rằng sự đồng cảm không đóng vai trò gì; nó gợi ý rằng, nếu có, vai trò đó nhỏ hơn nhiều so với câu chuyện phổ biến vẫn nói."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Science, it seems, is still catching up with something that every tired student in a warm classroom has always known.",
+            "vi": "Có vẻ như khoa học vẫn đang đuổi theo một điều mà mọi cậu học trò mệt mỏi trong lớp học ấm áp đều luôn biết."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So if you have yawned while reading this, do not take it as proof of your kind heart. Take it, rather, as a reminder that some of the most familiar things we do are still, scientifically speaking, a mystery.",
+            "vi": "Vậy nếu bạn đã ngáp khi đọc bài này, đừng coi đó là bằng chứng bạn có trái tim nhân hậu. Hãy coi nó là lời nhắc rằng một số việc quen thuộc nhất ta làm, về mặt khoa học, vẫn còn là bí ẩn."
+          }
+        }
+      ],
+      "content_ja": "Why Are Yawns Contagious?\n\nThere is a fair chance that you will yawn before you finish this article. Simply reading about yawning, or seeing a picture of someone doing it, is enough to trigger a yawn in many people. Scientists have known about this effect for a long time; explaining it has proved far harder. Even thinking about yawning can be enough, which is something you may be discovering at this very moment.\n\nFor many years, the most popular explanation was empathy. If we catch yawns because we unconsciously share other people's states, the theory went, then more empathetic people should catch them more easily, and we should catch them more readily from friends and family than from strangers. Some early studies seemed to support this, and the idea became something close to accepted wisdom.\n\nThe picture became more complicated in 2008, when researchers in London reported that 21 out of 29 dogs yawned after watching a human yawn. It was a delightful result, and it was widely reported as evidence that dogs share our feelings. Later attempts to repeat the experiment, however, produced mixed results: some found a similar effect, while others found a much weaker one or none at all, and the researchers themselves had noted that the dogs might simply have been mildly stressed.\n\nThe most careful test of the empathy theory so far came in 2014, from a team at Duke University. They showed a three-minute video of people yawning to 328 healthy volunteers and counted how often each one yawned. About two-thirds yawned at least once, but individuals varied enormously, and each person's tendency stayed remarkably stable across repeated sessions. When the researchers looked for an explanation, empathy was not meaningfully linked to the results. The only factor that mattered independently was age, with older people yawning less, and even age explained only about eight percent of the differences.\n\nIn other words, most of the variation remains unexplained. This does not prove that empathy plays no role; it suggests that, if it does, the role is much smaller than the popular story claims. Science, it seems, is still catching up with something that every tired student in a warm classroom has always known. So if you have yawned while reading this, do not take it as proof of your kind heart. Take it, rather, as a reminder that some of the most familiar things we do are still, scientifically speaking, a mystery.",
+      "translation_vn": "(1) Vì sao ngáp lại lây?\n(2) Rất có thể bạn sẽ ngáp trước khi đọc xong bài này. Chỉ cần đọc về chuyện ngáp, hay thấy ảnh ai đó ngáp, cũng đủ khiến nhiều người ngáp theo. Các nhà khoa học biết tới hiệu ứng này từ lâu; giải thích được nó thì khó hơn nhiều.\n(3) Thậm chí chỉ nghĩ tới chuyện ngáp cũng có thể đủ, điều mà có lẽ bạn đang tự phát hiện ra ngay lúc này.\n(4) Trong nhiều năm, lời giải thích được ưa chuộng nhất là sự đồng cảm. Theo giả thuyết này, nếu ta ngáp lây vì vô thức chia sẻ trạng thái của người khác, thì người giàu đồng cảm hơn phải dễ ngáp lây hơn, và ta phải dễ ngáp theo bạn bè, người thân hơn là người lạ.\n(5) Một số nghiên cứu ban đầu dường như ủng hộ điều đó, và ý tưởng này gần như trở thành điều ai cũng chấp nhận.\n(6) Bức tranh trở nên phức tạp hơn vào năm 2008, khi các nhà nghiên cứu ở London báo cáo rằng 21 trên 29 con chó đã ngáp sau khi nhìn một người ngáp. Đó là một kết quả thú vị, và được đưa tin rộng rãi như bằng chứng rằng chó chia sẻ cảm xúc với chúng ta.\n(7) Tuy nhiên, những lần thử lặp lại thí nghiệm về sau cho kết quả lẫn lộn: có nghiên cứu thấy hiệu ứng tương tự, có nghiên cứu chỉ thấy hiệu ứng yếu hơn nhiều hoặc chẳng có gì, và chính các nhà nghiên cứu ban đầu cũng từng lưu ý rằng có thể lũ chó chỉ hơi căng thẳng.\n(8) Phép thử cẩn thận nhất với giả thuyết đồng cảm cho tới nay được thực hiện năm 2014 bởi một nhóm ở Đại học Duke. Họ cho 328 tình nguyện viên khoẻ mạnh xem một video ba phút về người đang ngáp và đếm xem mỗi người ngáp bao nhiêu lần. Khoảng hai phần ba ngáp ít nhất một lần, nhưng mỗi người rất khác nhau, và xu hướng của từng người ổn định đáng kể qua nhiều lần thử.\n(9) Khi các nhà nghiên cứu tìm lời giải thích, sự đồng cảm không liên quan đáng kể tới kết quả. Yếu tố duy nhất có tác động độc lập là tuổi, người lớn tuổi ngáp ít hơn, mà ngay cả tuổi cũng chỉ giải thích được khoảng tám phần trăm khác biệt.\n(10) Nói cách khác, phần lớn sự khác biệt vẫn chưa được giải thích. Điều này không chứng minh rằng sự đồng cảm không đóng vai trò gì; nó gợi ý rằng, nếu có, vai trò đó nhỏ hơn nhiều so với câu chuyện phổ biến vẫn nói.\n(11) Có vẻ như khoa học vẫn đang đuổi theo một điều mà mọi cậu học trò mệt mỏi trong lớp học ấm áp đều luôn biết.\n(12) Vậy nếu bạn đã ngáp khi đọc bài này, đừng coi đó là bằng chứng bạn có trái tim nhân hậu. Hãy coi nó là lời nhắc rằng một số việc quen thuộc nhất ta làm, về mặt khoa học, vẫn còn là bí ẩn.",
+      "word_count": 404,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c2.001",
+        "c2.002",
+        "c2.003",
+        "c2.004",
+        "c2.005",
+        "c2.006",
+        "c2.007",
+        "c2.008",
+        "c2.009",
+        "c2.010",
+        "c2.011",
+        "c2.012",
+        "c2.013",
+        "c2.014",
+        "c2.015",
+        "c2.016",
+        "c2.017",
+        "c2.018",
+        "c2.019",
+        "c2.020",
+        "c2.021",
+        "c2.022",
+        "c2.023",
+        "c2.024",
+        "c2.025",
+        "c2.026",
+        "c2.027",
+        "c2.028",
+        "c2.029",
+        "c2.030",
+        "c2.031",
+        "c2.032",
+        "c2.test"
+      ]
+    },
+    {
+      "id": "passage_mock2_03",
+      "heading_i18n": {
+        "vi": "Phần 3 — Truyện: Lễ Tạ ơn ở nhà Carter"
+      },
+      "narrator": "announcer",
+      "title": "The Announcement",
+      "category": "story",
+      "jlpt_level": "C2",
+      "difficulty": 1,
+      "estimated_reading_time": 240,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Announcement",
+            "vi": "Lời thông báo"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was the first Thanksgiving in seven years with all three Carter children at the table, and Mitchell had cooked, as usual, enough food for twice as many people. Leah and Ethan arrived last, holding hands, and Ethan was carrying a cake that Megan noticed had not come from any shop.",
+            "vi": "Đó là Lễ Tạ ơn đầu tiên sau bảy năm có đủ ba đứa con nhà Carter quanh bàn, và như thường lệ, Mitchell nấu đủ đồ ăn cho gấp đôi số người. Leah và Ethan tới sau cùng, tay trong tay, và Ethan cầm một chiếc bánh mà Megan để ý là không phải mua ở tiệm nào."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When Mitchell offered drinks, Leah asked for water. When he offered coffee after dinner, she said she was trying to cut down. Megan, who had worked night shifts beside Leah for years and had never once seen her refuse coffee, put down her fork and said nothing at all.",
+            "vi": "Khi Mitchell mời đồ uống, Leah xin nước lọc. Khi ông mời cà phê sau bữa tối, cô nói đang cố uống bớt. Megan, người đã làm ca đêm cạnh Leah nhiều năm và chưa một lần thấy cô từ chối cà phê, đặt nĩa xuống và chẳng nói gì."
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ethan stood up and tapped his glass.",
+            "vi": "Ethan đứng dậy và gõ nhẹ vào ly."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Ethan",
+          "label": null,
+          "i18n": {
+            "en": "So. Leah and I have some news, and I've practiced this, so please don't interrupt. We wanted to thank you all for, well, everything, and also to say that next summer there will be, um, one more person at this table.",
+            "vi": "Vậy là. Leah và anh có một tin, và anh đã tập trước rồi, nên làm ơn đừng ngắt lời. Bọn anh muốn cảm ơn mọi người vì, ờ, mọi thứ, và cũng muốn nói là mùa hè năm sau sẽ có, ừm, thêm một người ở bàn này."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "Are you hiring someone?",
+            "vi": "Anh định thuê ai à?"
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "Trevor. He means a baby.",
+            "vi": "Trevor. Ý anh ấy là em bé."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "I knew it at the water. I'm a nurse.",
+            "vi": "Thím biết từ lúc cháu xin nước lọc rồi. Thím là y tá mà."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Leah laughed and covered her face with her hands, and Ethan, who had not reached the end of his speech, looked up at the ceiling as if the rest of it might be written there.",
+            "vi": "Leah bật cười và lấy hai tay che mặt, còn Ethan, người chưa nói tới cuối bài phát biểu, ngước nhìn trần nhà như thể phần còn lại có thể được viết ở trên đó."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For a moment, nobody spoke. Then everyone spoke at once: Tracy cried, Trevor apologized, Mitchell went to find a camera that turned out to be his phone, and Tina asked whether the baby would be allowed to call her \"Aunt Tina\" or whether, technically, she would be something more complicated.",
+            "vi": "Trong một khoảnh khắc, không ai nói gì. Rồi mọi người cùng nói một lúc: Tracy khóc, Trevor xin lỗi, Mitchell đi tìm máy ảnh mà hoá ra là cái điện thoại của ông, còn Tina hỏi liệu em bé có được gọi mình là \"dì Tina\" không hay, về mặt kỹ thuật, quan hệ của hai người sẽ phức tạp hơn thế."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Even Biscuit, who was by now far too old to jump, managed to put both front paws on Leah's knees.",
+            "vi": "Ngay cả Biscuit, giờ đã quá già để nhảy, cũng cố đặt được hai chân trước lên đầu gối Leah."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Later, washing dishes with Leah, Tracy asked whether she was frightened.",
+            "vi": "Sau đó, khi rửa bát cùng Leah, Tracy hỏi chị có sợ không."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Terrified. I tell people bad news for a living, and I'm calm about it. But this? I have absolutely no idea what I'm doing.",
+            "vi": "Sợ chết khiếp. Chị báo tin xấu cho người ta để kiếm sống, và chị bình tĩnh với chuyện đó. Nhưng chuyện này à? Chị hoàn toàn không biết mình đang làm gì."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "You told me once that nobody knows what they're doing at first, and that the people to worry about are the ones who pretend they do.",
+            "vi": "Chị từng bảo em rằng lúc đầu chẳng ai biết mình đang làm gì, và những người đáng lo là những người giả vờ biết."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Did I? That sounds annoyingly wise.",
+            "vi": "Chị nói thế à? Nghe khôn ngoan tới phát bực."
+          }
+        },
+        {
+          "n": 16,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "From the living room came the sound of Ethan practicing, to anyone who would listen, the speech he had not been allowed to finish.",
+            "vi": "Từ phòng khách vọng ra tiếng Ethan đang tập lại, cho bất cứ ai chịu nghe, bài phát biểu mà anh chưa được nói hết."
+          }
+        }
+      ],
+      "content_ja": "The Announcement\n\nIt was the first Thanksgiving in seven years with all three Carter children at the table, and Mitchell had cooked, as usual, enough food for twice as many people. Leah and Ethan arrived last, holding hands, and Ethan was carrying a cake that Megan noticed had not come from any shop.\n\nWhen Mitchell offered drinks, Leah asked for water. When he offered coffee after dinner, she said she was trying to cut down. Megan, who had worked night shifts beside Leah for years and had never once seen her refuse coffee, put down her fork and said nothing at all.\n\nEthan stood up and tapped his glass.\n\nEthan: So. Leah and I have some news, and I've practiced this, so please don't interrupt. We wanted to thank you all for, well, everything, and also to say that next summer there will be, um, one more person at this table.\n\nTrevor: Are you hiring someone?\n\nTina: Trevor. He means a baby.\n\nMegan: I knew it at the water. I'm a nurse.\n\nLeah laughed and covered her face with her hands, and Ethan, who had not reached the end of his speech, looked up at the ceiling as if the rest of it might be written there.\n\nFor a moment, nobody spoke. Then everyone spoke at once: Tracy cried, Trevor apologized, Mitchell went to find a camera that turned out to be his phone, and Tina asked whether the baby would be allowed to call her \"Aunt Tina\" or whether, technically, she would be something more complicated. Even Biscuit, who was by now far too old to jump, managed to put both front paws on Leah's knees.\n\nLater, washing dishes with Leah, Tracy asked whether she was frightened.\n\nLeah: Terrified. I tell people bad news for a living, and I'm calm about it. But this? I have absolutely no idea what I'm doing.\n\nTracy: You told me once that nobody knows what they're doing at first, and that the people to worry about are the ones who pretend they do.\n\nLeah: Did I? That sounds annoyingly wise.\n\nFrom the living room came the sound of Ethan practicing, to anyone who would listen, the speech he had not been allowed to finish.",
+      "translation_vn": "(1) Lời thông báo\n(2) Đó là Lễ Tạ ơn đầu tiên sau bảy năm có đủ ba đứa con nhà Carter quanh bàn, và như thường lệ, Mitchell nấu đủ đồ ăn cho gấp đôi số người. Leah và Ethan tới sau cùng, tay trong tay, và Ethan cầm một chiếc bánh mà Megan để ý là không phải mua ở tiệm nào.\n(3) Khi Mitchell mời đồ uống, Leah xin nước lọc. Khi ông mời cà phê sau bữa tối, cô nói đang cố uống bớt. Megan, người đã làm ca đêm cạnh Leah nhiều năm và chưa một lần thấy cô từ chối cà phê, đặt nĩa xuống và chẳng nói gì.\n(4) Ethan đứng dậy và gõ nhẹ vào ly.\n(5) Ethan: Vậy là. Leah và anh có một tin, và anh đã tập trước rồi, nên làm ơn đừng ngắt lời. Bọn anh muốn cảm ơn mọi người vì, ờ, mọi thứ, và cũng muốn nói là mùa hè năm sau sẽ có, ừm, thêm một người ở bàn này.\n(6) Trevor: Anh định thuê ai à?\n(7) Tina: Trevor. Ý anh ấy là em bé.\n(8) Megan: Thím biết từ lúc cháu xin nước lọc rồi. Thím là y tá mà.\n(9) Leah bật cười và lấy hai tay che mặt, còn Ethan, người chưa nói tới cuối bài phát biểu, ngước nhìn trần nhà như thể phần còn lại có thể được viết ở trên đó.\n(10) Trong một khoảnh khắc, không ai nói gì. Rồi mọi người cùng nói một lúc: Tracy khóc, Trevor xin lỗi, Mitchell đi tìm máy ảnh mà hoá ra là cái điện thoại của ông, còn Tina hỏi liệu em bé có được gọi mình là \"dì Tina\" không hay, về mặt kỹ thuật, quan hệ của hai người sẽ phức tạp hơn thế.\n(11) Ngay cả Biscuit, giờ đã quá già để nhảy, cũng cố đặt được hai chân trước lên đầu gối Leah.\n(12) Sau đó, khi rửa bát cùng Leah, Tracy hỏi chị có sợ không.\n(13) Leah: Sợ chết khiếp. Chị báo tin xấu cho người ta để kiếm sống, và chị bình tĩnh với chuyện đó. Nhưng chuyện này à? Chị hoàn toàn không biết mình đang làm gì.\n(14) Tracy: Chị từng bảo em rằng lúc đầu chẳng ai biết mình đang làm gì, và những người đáng lo là những người giả vờ biết.\n(15) Leah: Chị nói thế à? Nghe khôn ngoan tới phát bực.\n(16) Từ phòng khách vọng ra tiếng Ethan đang tập lại, cho bất cứ ai chịu nghe, bài phát biểu mà anh chưa được nói hết.",
+      "word_count": 364,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c2.001",
+        "c2.002",
+        "c2.003",
+        "c2.004",
+        "c2.005",
+        "c2.006",
+        "c2.007",
+        "c2.008",
+        "c2.009",
+        "c2.010",
+        "c2.011",
+        "c2.012",
+        "c2.013",
+        "c2.014",
+        "c2.015",
+        "c2.016",
+        "c2.017",
+        "c2.018",
+        "c2.019",
+        "c2.020",
+        "c2.021",
+        "c2.022",
+        "c2.023",
+        "c2.024",
+        "c2.025",
+        "c2.026",
+        "c2.027",
+        "c2.028",
+        "c2.029",
+        "c2.030",
+        "c2.031",
+        "c2.032",
+        "c2.test"
+      ]
+    },
+    {
+      "id": "passage_mock2_04",
+      "heading_i18n": {
+        "vi": "Phần 4 — Thư bà Harriet gửi \"you\", người hàng xóm đã ở Maple Street tám năm"
+      },
+      "narrator": "Harriet",
+      "title": "A Letter to the Neighbor Who Learned Our Language",
+      "category": "letter",
+      "jlpt_level": "C2",
+      "difficulty": 1,
+      "estimated_reading_time": 250,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A Letter to the Neighbor Who Learned Our Language",
+            "vi": "Thư gửi người hàng xóm đã học ngôn ngữ của chúng tôi"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dear neighbor, Eight years ago, at the end of a hot August, a card appeared under your door inviting you to visit my café. You came, you ordered a coffee in very careful English, and you apologized three times for a mistake that I did not notice. I have been meaning to write to you ever since, and the library has finally given me an excuse.",
+            "vi": "Gửi người hàng xóm, Tám năm trước, vào cuối một tháng Tám nóng nực, một tấm thiệp xuất hiện dưới cửa nhà bạn, mời bạn ghé quán cà phê của tôi. Bạn đã tới, gọi một cốc cà phê bằng thứ tiếng Anh rất cẩn thận, và xin lỗi ba lần vì một lỗi mà tôi chẳng hề để ý. Từ đó tới giờ tôi vẫn định viết thư cho bạn, và cuối cùng thư viện đã cho tôi một cái cớ."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They have asked me to describe, for their collection, someone who changed the street. I could have chosen many people, but I chose you, partly because you never seemed to realize how much you were noticing.",
+            "vi": "Họ nhờ tôi tả, cho bộ sưu tập của họ, một người đã làm thay đổi con phố. Tôi có thể chọn nhiều người, nhưng tôi chọn bạn, một phần vì bạn dường như chưa bao giờ nhận ra mình đã để ý tới nhiều thứ đến nhường nào."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You found our dog when he ran away. You learned the bus routes before any of us had bothered to. You sat in my café on Saturday mornings swapping lessons with a teenager who is now an engineer, and you asked questions about our habits that made us realize we had never thought about them at all.",
+            "vi": "Bạn tìm thấy con chó khi nó trốn đi. Bạn thuộc các tuyến xe buýt trước cả khi bất kỳ ai trong chúng tôi chịu tìm hiểu. Bạn ngồi trong quán tôi những sáng thứ Bảy, đổi bài học với một cô bé tuổi mới lớn nay đã là kỹ sư, và bạn hỏi về thói quen của chúng tôi những câu khiến chúng tôi nhận ra mình chưa từng nghĩ về chúng."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You also told me, in your second year, that my soup needed more salt, which nobody on this street had dared to say in all the years I have been making it.",
+            "vi": "Bạn cũng từng nói với tôi, vào năm thứ hai, rằng món súp của tôi cần thêm muối, điều mà bao năm tôi nấu nó chẳng ai trên con phố này dám nói."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "People sometimes say that learning a language means learning to think like the people who speak it. I am not so sure. Nobody on this street thinks alike; we cannot even agree about the best way to make soup.",
+            "vi": "Người ta đôi khi nói học một ngôn ngữ là học cách nghĩ như những người nói nó. Tôi không chắc lắm. Trên con phố này chẳng ai nghĩ giống ai; chúng tôi còn không thống nhất nổi cách nấu súp ngon nhất."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What I have watched you learn is something subtler and more valuable: when a sentence means more than it says, when \"fine\" does not mean fine, and when the kindest thing to say is nothing at all.",
+            "vi": "Điều tôi thấy bạn học được thì tinh tế hơn và quý hơn: khi nào một câu mang nhiều nghĩa hơn những gì nó nói ra, khi nào \"ổn\" lại không có nghĩa là ổn, và khi nào điều tử tế nhất để nói là chẳng nói gì."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You still make mistakes, of course. So do I, in the only language I have ever spoken. Last spring I told a whole archive the wrong year for a flood, with complete confidence.",
+            "vi": "Tất nhiên bạn vẫn còn mắc lỗi. Tôi cũng vậy, bằng thứ ngôn ngữ duy nhất tôi từng nói. Mùa xuân năm ngoái tôi đã nói sai năm của một trận lụt cho cả một kho lưu trữ, với sự tự tin tuyệt đối."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Fluency, I have come to think, is not the absence of mistakes but the ability to keep talking after you make one, and to laugh, and to let someone else laugh with you.",
+            "vi": "Tôi dần nghĩ rằng trôi chảy không phải là không có lỗi, mà là khả năng tiếp tục nói sau khi mắc lỗi, và cười, và để người khác cười cùng mình."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So here is my request. The library would like to record your story, too: where you came from, what surprised you here, and what you still find strange. Please say yes. This street has been listening to itself for a long time; it is high time it heard a voice that learned to speak to it from the outside.",
+            "vi": "Vậy đây là lời đề nghị của tôi. Thư viện cũng muốn ghi âm câu chuyện của bạn: bạn từ đâu tới, điều gì ở đây làm bạn ngạc nhiên, và điều gì bạn vẫn thấy lạ. Xin hãy đồng ý. Con phố này đã nghe chính nó quá lâu rồi; đã đến lúc nó được nghe một giọng nói học cách trò chuyện với nó từ bên ngoài."
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "With love and, as always, a scone waiting for you on Wednesday, Harriet",
+            "vi": "Thương mến, và như mọi khi, có một chiếc bánh scone chờ bạn vào thứ Tư, Harriet"
+          }
+        }
+      ],
+      "content_ja": "A Letter to the Neighbor Who Learned Our Language\n\nDear neighbor, Eight years ago, at the end of a hot August, a card appeared under your door inviting you to visit my café. You came, you ordered a coffee in very careful English, and you apologized three times for a mistake that I did not notice. I have been meaning to write to you ever since, and the library has finally given me an excuse.\n\nThey have asked me to describe, for their collection, someone who changed the street. I could have chosen many people, but I chose you, partly because you never seemed to realize how much you were noticing. You found our dog when he ran away. You learned the bus routes before any of us had bothered to. You sat in my café on Saturday mornings swapping lessons with a teenager who is now an engineer, and you asked questions about our habits that made us realize we had never thought about them at all. You also told me, in your second year, that my soup needed more salt, which nobody on this street had dared to say in all the years I have been making it.\n\nPeople sometimes say that learning a language means learning to think like the people who speak it. I am not so sure. Nobody on this street thinks alike; we cannot even agree about the best way to make soup. What I have watched you learn is something subtler and more valuable: when a sentence means more than it says, when \"fine\" does not mean fine, and when the kindest thing to say is nothing at all.\n\nYou still make mistakes, of course. So do I, in the only language I have ever spoken. Last spring I told a whole archive the wrong year for a flood, with complete confidence. Fluency, I have come to think, is not the absence of mistakes but the ability to keep talking after you make one, and to laugh, and to let someone else laugh with you.\n\nSo here is my request. The library would like to record your story, too: where you came from, what surprised you here, and what you still find strange. Please say yes. This street has been listening to itself for a long time; it is high time it heard a voice that learned to speak to it from the outside.\n\nWith love and, as always, a scone waiting for you on Wednesday, Harriet",
+      "translation_vn": "(1) Thư gửi người hàng xóm đã học ngôn ngữ của chúng tôi\n(2) Gửi người hàng xóm, Tám năm trước, vào cuối một tháng Tám nóng nực, một tấm thiệp xuất hiện dưới cửa nhà bạn, mời bạn ghé quán cà phê của tôi. Bạn đã tới, gọi một cốc cà phê bằng thứ tiếng Anh rất cẩn thận, và xin lỗi ba lần vì một lỗi mà tôi chẳng hề để ý. Từ đó tới giờ tôi vẫn định viết thư cho bạn, và cuối cùng thư viện đã cho tôi một cái cớ.\n(3) Họ nhờ tôi tả, cho bộ sưu tập của họ, một người đã làm thay đổi con phố. Tôi có thể chọn nhiều người, nhưng tôi chọn bạn, một phần vì bạn dường như chưa bao giờ nhận ra mình đã để ý tới nhiều thứ đến nhường nào.\n(4) Bạn tìm thấy con chó khi nó trốn đi. Bạn thuộc các tuyến xe buýt trước cả khi bất kỳ ai trong chúng tôi chịu tìm hiểu. Bạn ngồi trong quán tôi những sáng thứ Bảy, đổi bài học với một cô bé tuổi mới lớn nay đã là kỹ sư, và bạn hỏi về thói quen của chúng tôi những câu khiến chúng tôi nhận ra mình chưa từng nghĩ về chúng.\n(5) Bạn cũng từng nói với tôi, vào năm thứ hai, rằng món súp của tôi cần thêm muối, điều mà bao năm tôi nấu nó chẳng ai trên con phố này dám nói.\n(6) Người ta đôi khi nói học một ngôn ngữ là học cách nghĩ như những người nói nó. Tôi không chắc lắm. Trên con phố này chẳng ai nghĩ giống ai; chúng tôi còn không thống nhất nổi cách nấu súp ngon nhất.\n(7) Điều tôi thấy bạn học được thì tinh tế hơn và quý hơn: khi nào một câu mang nhiều nghĩa hơn những gì nó nói ra, khi nào \"ổn\" lại không có nghĩa là ổn, và khi nào điều tử tế nhất để nói là chẳng nói gì.\n(8) Tất nhiên bạn vẫn còn mắc lỗi. Tôi cũng vậy, bằng thứ ngôn ngữ duy nhất tôi từng nói. Mùa xuân năm ngoái tôi đã nói sai năm của một trận lụt cho cả một kho lưu trữ, với sự tự tin tuyệt đối.\n(9) Tôi dần nghĩ rằng trôi chảy không phải là không có lỗi, mà là khả năng tiếp tục nói sau khi mắc lỗi, và cười, và để người khác cười cùng mình.\n(10) Vậy đây là lời đề nghị của tôi. Thư viện cũng muốn ghi âm câu chuyện của bạn: bạn từ đâu tới, điều gì ở đây làm bạn ngạc nhiên, và điều gì bạn vẫn thấy lạ. Xin hãy đồng ý. Con phố này đã nghe chính nó quá lâu rồi; đã đến lúc nó được nghe một giọng nói học cách trò chuyện với nó từ bên ngoài.\n(11) Thương mến, và như mọi khi, có một chiếc bánh scone chờ bạn vào thứ Tư, Harriet",
+      "word_count": 414,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c2.001",
+        "c2.002",
+        "c2.003",
+        "c2.004",
+        "c2.005",
+        "c2.006",
+        "c2.007",
+        "c2.008",
+        "c2.009",
+        "c2.010",
+        "c2.011",
+        "c2.012",
+        "c2.013",
+        "c2.014",
+        "c2.015",
+        "c2.016",
+        "c2.017",
+        "c2.018",
+        "c2.019",
+        "c2.020",
+        "c2.021",
+        "c2.022",
+        "c2.023",
+        "c2.024",
+        "c2.025",
+        "c2.026",
+        "c2.027",
+        "c2.028",
+        "c2.029",
+        "c2.030",
+        "c2.031",
+        "c2.032",
+        "c2.test"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_mock2_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "What is the main purpose of the notice?",
+        "vi": "Mục đích chính của thông báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to announce that the kitchen is closing after a year because too few cooks had booked it",
+            "vi": "để thông báo bếp sẽ đóng cửa sau một năm vì có quá ít đầu bếp đặt lịch"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to announce that the kitchen is closing after a year because too few cooks had booked it",
+          "text_translation": "để thông báo bếp sẽ đóng cửa sau một năm vì có quá ít đầu bếp đặt lịch"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to celebrate the kitchen's first year and invite people to a tasting fair",
+            "vi": "mừng một năm của căn bếp và mời mọi người tới hội chợ nếm thử"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to celebrate the kitchen's first year and invite people to a tasting fair",
+          "text_translation": "mừng một năm của căn bếp và mời mọi người tới hội chợ nếm thử"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to ask the neighbors for money to repair the two old ovens",
+            "vi": "để xin hàng xóm tiền sửa hai chiếc lò cũ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to ask the neighbors for money to repair the two old ovens",
+          "text_translation": "để xin hàng xóm tiền sửa hai chiếc lò cũ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to hire new cooks for the food truck and the market stall",
+            "vi": "để tuyển đầu bếp mới cho xe bán đồ ăn và quầy chợ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to hire new cooks for the food truck and the market stall",
+          "text_translation": "để tuyển đầu bếp mới cho xe bán đồ ăn và quầy chợ"
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "Tên sự kiện \"Anniversary Tasting Fair\" và tiêu đề \"Turns One\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of the notice?",
+      "question_vn": "Mục đích chính của thông báo là gì?",
+      "explanation": "Tên sự kiện \"Anniversary Tasting Fair\" và tiêu đề \"Turns One\"."
+    },
+    {
+      "id": "q_mock2_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "How has the kitchen performed compared with its target?",
+        "vi": "Căn bếp hoạt động thế nào so với mục tiêu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It has been booked for less than four hours a day, so it has not covered its costs.",
+            "vi": "Bếp được đặt chưa tới bốn giờ mỗi ngày, nên chưa đủ bù chi phí."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It has been booked for less than four hours a day, so it has not covered its costs.",
+          "text_translation": "Bếp được đặt chưa tới bốn giờ mỗi ngày, nên chưa đủ bù chi phí."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It has lost money, even though thirty-one cooks use it regularly.",
+            "vi": "Bếp bị lỗ, dù ba mươi mốt đầu bếp dùng nó thường xuyên."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It has lost money, even though thirty-one cooks use it regularly.",
+          "text_translation": "Bếp bị lỗ, dù ba mươi mốt đầu bếp dùng nó thường xuyên."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It has barely reached its target, with bookings of exactly four hours a day.",
+            "vi": "Bếp vừa đủ chạm mục tiêu, với lịch đặt đúng bốn giờ mỗi ngày."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It has barely reached its target, with bookings of exactly four hours a day.",
+          "text_translation": "Bếp vừa đủ chạm mục tiêu, với lịch đặt đúng bốn giờ mỗi ngày."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It has been booked for over five hours a day, well above the four hours needed.",
+            "vi": "Được đặt hơn năm tiếng mỗi ngày, vượt xa bốn tiếng cần thiết."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "It has been booked for over five hours a day, well above the four hours needed.",
+          "text_translation": "Được đặt hơn năm tiếng mỗi ngày, vượt xa bốn tiếng cần thiết."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"booked for an average of more than five hours a day, well above the four hours we needed to cover our costs.\""
+      },
+      "audio_data": null,
+      "question_jp": "How has the kitchen performed compared with its target?",
+      "question_vn": "Căn bếp hoạt động thế nào so với mục tiêu?",
+      "explanation": "\"booked for an average of more than five hours a day, well above the four hours we needed to cover our costs.\""
+    },
+    {
+      "id": "q_mock2_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "Why is the notice proud of the small bakery two blocks away?",
+        "vi": "Vì sao thông báo tự hào về tiệm bánh nhỏ cách hai dãy nhà?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because a cook who used the shared kitchen went on to open it",
+            "vi": "vì một người từng dùng bếp chung đã mở được nó"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because a cook who used the shared kitchen went on to open it",
+          "text_translation": "vì một người từng dùng bếp chung đã mở được nó"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because Harriet opened it herself to compete with the shared kitchen",
+            "vi": "vì chính Harriet mở nó để cạnh tranh với bếp chung"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because Harriet opened it herself to compete with the shared kitchen",
+          "text_translation": "vì chính Harriet mở nó để cạnh tranh với bếp chung"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because it took the place of Harriet's café, which closed last year",
+            "vi": "vì nó thay chỗ quán cà phê của Harriet, vốn đã đóng cửa năm ngoái"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because it took the place of Harriet's café, which closed last year",
+          "text_translation": "vì nó thay chỗ quán cà phê của Harriet, vốn đã đóng cửa năm ngoái"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because it sells scones that are cheaper than the ones at Harriet's",
+            "vi": "vì nó bán bánh scone rẻ hơn bánh ở quán của Harriet"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because it sells scones that are cheaper than the ones at Harriet's",
+          "text_translation": "vì nó bán bánh scone rẻ hơn bánh ở quán của Harriet"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Đó là một trong \"three of them have since opened businesses of their own\". Bếp chung ra đời ở chính một tiệm bánh đã đóng cửa."
+      },
+      "audio_data": null,
+      "question_jp": "Why is the notice proud of the small bakery two blocks away?",
+      "question_vn": "Vì sao thông báo tự hào về tiệm bánh nhỏ cách hai dãy nhà?",
+      "explanation": "Câu suy luận. Đó là một trong \"three of them have since opened businesses of their own\". Bếp chung ra đời ở chính một tiệm bánh đã đóng cửa."
+    },
+    {
+      "id": "q_mock2_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "A family brings two children aged 8 and 10 and their own reusable boxes. How many free tokens can each child get?",
+        "vi": "Một gia đình mang hai con 8 và 10 tuổi cùng hộp đựng dùng lại được. Mỗi em được bao nhiêu phiếu miễn phí?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "only one free token",
+            "vi": "chỉ một xu ăn thử miễn phí"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "only one free token",
+          "text_translation": "chỉ một xu ăn thử miễn phí"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "two free tokens",
+            "vi": "hai xu ăn thử miễn phí"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "two free tokens",
+          "text_translation": "hai xu ăn thử miễn phí"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "three free tokens",
+            "vi": "ba xu ăn thử miễn phí"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "three free tokens",
+          "text_translation": "ba xu ăn thử miễn phí"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "no free tokens",
+            "vi": "không có xu ăn thử miễn phí nào"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "no free tokens",
+          "text_translation": "không có xu ăn thử miễn phí nào"
+        }
+      ],
+      "evidence_segments": [
+        6,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu áp dụng hai điều kiện. Trẻ dưới 12 tuổi \"receive two free tokens\", mang hộp riêng thì \"will receive a third free token\"."
+      },
+      "audio_data": null,
+      "question_jp": "A family brings two children aged 8 and 10 and their own reusable boxes. How many free tokens can each child get?",
+      "question_vn": "Một gia đình mang hai con 8 và 10 tuổi cùng hộp đựng dùng lại được. Mỗi em được bao nhiêu phiếu miễn phí?",
+      "explanation": "Câu áp dụng hai điều kiện. Trẻ dưới 12 tuổi \"receive two free tokens\", mang hộp riêng thì \"will receive a third free token\"."
+    },
+    {
+      "id": "q_mock2_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "What happens to the money from token sales?",
+        "vi": "Tiền bán phiếu được dùng thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Most goes to the cooks, and ten percent funds a free cooking course for teenagers.",
+            "vi": "Phần lớn cho người nấu, mười phần trăm cho khoá nấu ăn miễn phí của thanh thiếu niên."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Most goes to the cooks, and ten percent funds a free cooking course for teenagers.",
+          "text_translation": "Phần lớn cho người nấu, mười phần trăm cho khoá nấu ăn miễn phí của thanh thiếu niên."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "All of it goes to Harriet's café, to pay for the new ovens and the rent of the old bakery.",
+            "vi": "Toàn bộ số tiền đưa cho quán của Harriet, để trả cho lò mới và tiền thuê tiệm bánh cũ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "All of it goes to Harriet's café, to pay for the new ovens and the rent of the old bakery.",
+          "text_translation": "Toàn bộ số tiền đưa cho quán của Harriet, để trả cho lò mới và tiền thuê tiệm bánh cũ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It pays for the paper plates, and the rest is kept for the kitchen's costs.",
+            "vi": "Nó trả cho đĩa giấy, phần còn lại giữ để bù chi phí của bếp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It pays for the paper plates, and the rest is kept for the kitchen's costs.",
+          "text_translation": "Nó trả cho đĩa giấy, phần còn lại giữ để bù chi phí của bếp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Half goes to the library, and half is used to print the neighborhood cookbook.",
+            "vi": "Một nửa đưa cho thư viện, một nửa dùng để in cuốn sách nấu ăn của khu phố."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Half goes to the library, and half is used to print the neighborhood cookbook.",
+          "text_translation": "Một nửa đưa cho thư viện, một nửa dùng để in cuốn sách nấu ăn của khu phố."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"All money from token sales goes directly to the cooks, except for one dollar in every ten, which will fund a free cooking course for teenagers\"."
+      },
+      "audio_data": null,
+      "question_jp": "What happens to the money from token sales?",
+      "question_vn": "Tiền bán phiếu được dùng thế nào?",
+      "explanation": "\"All money from token sales goes directly to the cooks, except for one dollar in every ten, which will fund a free cooking course for teenagers\"."
+    },
+    {
+      "id": "q_mock2_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "Why does the notice say the allergy cards are \"a guide, not a guarantee\"?",
+        "vi": "Vì sao thông báo nói thẻ dị ứng \"chỉ để tham khảo, không phải sự bảo đảm\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the cooks do not always know exactly which ingredients their dishes contain",
+            "vi": "vì các đầu bếp không phải lúc nào cũng biết chính xác món mình có những nguyên liệu nào"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because the cooks do not always know exactly which ingredients their dishes contain",
+          "text_translation": "vì các đầu bếp không phải lúc nào cũng biết chính xác món mình có những nguyên liệu nào"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the cards are written in many languages and some may be translated badly",
+            "vi": "vì các thẻ được viết bằng nhiều thứ tiếng và có thể có bản dịch chưa tốt"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the cards are written in many languages and some may be translated badly",
+          "text_translation": "vì các thẻ được viết bằng nhiều thứ tiếng và có thể có bản dịch chưa tốt"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because serious allergies are rare, so the kitchen does not check the cards",
+            "vi": "vì dị ứng nặng hiếm gặp, nên nhà bếp không kiểm tra các thẻ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because serious allergies are rare, so the kitchen does not check the cards",
+          "text_translation": "vì dị ứng nặng hiếm gặp, nên nhà bếp không kiểm tra các thẻ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because all the dishes are made in one kitchen, so traces of allergens may be present",
+            "vi": "vì mọi món làm trong cùng một bếp, nên có thể lẫn chất gây dị ứng"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because all the dishes are made in one kitchen, so traces of allergens may be present",
+          "text_translation": "vì mọi món làm trong cùng một bếp, nên có thể lẫn chất gây dị ứng"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"since all the dishes are prepared in the same kitchen\": có thể lẫn sang nhau, nên người dị ứng nặng phải hỏi người nấu."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the notice say the allergy cards are \"a guide, not a guarantee\"?",
+      "question_vn": "Vì sao thông báo nói thẻ dị ứng \"chỉ để tham khảo, không phải sự bảo đảm\"?",
+      "explanation": "Câu suy luận. \"since all the dishes are prepared in the same kitchen\": có thể lẫn sang nhau, nên người dị ứng nặng phải hỏi người nấu."
+    },
+    {
+      "id": "q_mock2_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "What is the aim of the \"bring your own container\" offer?",
+        "vi": "Ưu đãi \"mang hộp đựng của riêng bạn\" nhằm mục đích gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to sell more tokens before the fair ends",
+            "vi": "để bán thêm xu ăn thử trước khi hội chợ kết thúc"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to sell more tokens before the fair ends",
+          "text_translation": "để bán thêm xu ăn thử trước khi hội chợ kết thúc"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to reduce the waste produced by paper plates at the fair",
+            "vi": "để giảm rác thải do đĩa giấy tại hội chợ"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to reduce the waste produced by paper plates at the fair",
+          "text_translation": "để giảm rác thải do đĩa giấy tại hội chợ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to save the cooks from washing up after the fair",
+            "vi": "để các đầu bếp khỏi phải rửa bát sau hội chợ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to save the cooks from washing up after the fair",
+          "text_translation": "để các đầu bếp khỏi phải rửa bát sau hội chợ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to help the cooks carry food to the tables outside",
+            "vi": "để giúp các đầu bếp mang đồ ăn ra các bàn bên ngoài"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to help the cooks carry food to the tables outside",
+          "text_translation": "để giúp các đầu bếp mang đồ ăn ra các bàn bên ngoài"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"Last year's opening produced eleven bags of paper plates; this year, we would like to produce fewer than three.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the aim of the \"bring your own container\" offer?",
+      "question_vn": "Ưu đãi \"mang hộp đựng của riêng bạn\" nhằm mục đích gì?",
+      "explanation": "\"Last year's opening produced eleven bags of paper plates; this year, we would like to produce fewer than three.\""
+    },
+    {
+      "id": "q_mock2_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "What can be inferred about the neighborhood cookbook?",
+        "vi": "Có thể suy ra gì về cuốn sách nấu ăn của khu phố?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Only English recipes will be included, so that every family can read them.",
+            "vi": "Chỉ các công thức tiếng Anh được đưa vào, để gia đình nào cũng đọc được."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Only English recipes will be included, so that every family can read them.",
+          "text_translation": "Chỉ các công thức tiếng Anh được đưa vào, để gia đình nào cũng đọc được."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Families must pay a small fee to have their recipe printed in the cookbook.",
+            "vi": "Các gia đình phải trả một khoản phí nhỏ để công thức của mình được in trong sách."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Families must pay a small fee to have their recipe printed in the cookbook.",
+          "text_translation": "Các gia đình phải trả một khoản phí nhỏ để công thức của mình được in trong sách."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It will reflect many families and languages, and families may choose not to be named.",
+            "vi": "Nó sẽ phản ánh nhiều gia đình, nhiều ngôn ngữ, và gia đình có thể chọn không ghi tên."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It will reflect many families and languages, and families may choose not to be named.",
+          "text_translation": "Nó sẽ phản ánh nhiều gia đình, nhiều ngôn ngữ, và gia đình có thể chọn không ghi tên."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet will write all the recipes herself, using stories collected from the families.",
+            "vi": "Harriet sẽ tự viết mọi công thức, dựa trên những câu chuyện thu thập từ các gia đình."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet will write all the recipes herself, using stories collected from the families.",
+          "text_translation": "Harriet sẽ tự viết mọi công thức, dựa trên những câu chuyện thu thập từ các gia đình."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Recipes may be written in any language\" và tên gia đình được in \"unless you would prefer otherwise\"."
+      },
+      "audio_data": null,
+      "question_jp": "What can be inferred about the neighborhood cookbook?",
+      "question_vn": "Có thể suy ra gì về cuốn sách nấu ăn của khu phố?",
+      "explanation": "\"Recipes may be written in any language\" và tên gia đình được in \"unless you would prefer otherwise\"."
+    },
+    {
+      "id": "q_mock2_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "What does Harriet's comment \"Some things are still my business\" suggest?",
+        "vi": "Lời bà Harriet \"Có những thứ vẫn là chuyện làm ăn của tôi\" gợi ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She proudly and humorously keeps her scones as her own business, separate from the fair.",
+            "vi": "Bà tự hào và dí dỏm giữ bánh scone là việc kinh doanh riêng của mình, tách khỏi hội chợ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She proudly and humorously keeps her scones as her own business, separate from the fair.",
+          "text_translation": "Bà tự hào và dí dỏm giữ bánh scone là việc kinh doanh riêng của mình, tách khỏi hội chợ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is angry with the cooks, who have taken over her ovens and refuse to share the tokens with her.",
+            "vi": "Bà giận các đầu bếp, những người đã chiếm lò của bà và không chịu chia xu cho bà."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She is angry with the cooks, who have taken over her ovens and refuse to share the tokens with her.",
+          "text_translation": "Bà giận các đầu bếp, những người đã chiếm lò của bà và không chịu chia xu cho bà."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She plans to close the kitchen once the fair is over and the money is counted.",
+            "vi": "Bà định đóng bếp khi hội chợ kết thúc và tiền được đếm xong."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She plans to close the kitchen once the fair is over and the money is counted.",
+          "text_translation": "Bà định đóng bếp khi hội chợ kết thúc và tiền được đếm xong."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She has stopped baking and wants the cooks to make the scones for the fair.",
+            "vi": "Bà đã thôi nướng bánh và muốn các đầu bếp làm bánh scone cho hội chợ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She has stopped baking and wants the cooks to make the scones for the fair.",
+          "text_translation": "Bà đã thôi nướng bánh và muốn các đầu bếp làm bánh scone cho hội chợ."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý, chơi chữ: \"my business\" vừa là \"việc của tôi\" vừa là \"việc kinh doanh của tôi\". Nhất quán với việc bà luôn tự nướng scone."
+      },
+      "audio_data": null,
+      "question_jp": "What does Harriet's comment \"Some things are still my business\" suggest?",
+      "question_vn": "Lời bà Harriet \"Có những thứ vẫn là chuyện làm ăn của tôi\" gợi ý điều gì?",
+      "explanation": "Câu hàm ý, chơi chữ: \"my business\" vừa là \"việc của tôi\" vừa là \"việc kinh doanh của tôi\". Nhất quán với việc bà luôn tự nướng scone."
+    },
+    {
+      "id": "q_mock2_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_01",
+      "i18n": {
+        "en": "Which word best describes the tone of the notice?",
+        "vi": "Từ nào mô tả đúng nhất giọng của thông báo?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "strict, with a long list of rules",
+            "vi": "nghiêm khắc, với một danh sách dài các quy định"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "strict, with a long list of rules",
+          "text_translation": "nghiêm khắc, với một danh sách dài các quy định"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "worried and uncertain about whether the fair will succeed",
+            "vi": "lo lắng và không chắc hội chợ có thành công không"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "worried and uncertain about whether the fair will succeed",
+          "text_translation": "lo lắng và không chắc hội chợ có thành công không"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "warm and proud, with touches of humor",
+            "vi": "ấm áp và tự hào, có chút hài hước"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "warm and proud, with touches of humor",
+          "text_translation": "ấm áp và tự hào, có chút hài hước"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "sad about the end of the year",
+            "vi": "buồn vì một năm đã kết thúc"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "sad about the end of the year",
+          "text_translation": "buồn vì một năm đã kết thúc"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi giọng điệu. \"one rule and no idea whether anyone would come\", \"to our great pride\", và lời đùa của bà Harriet."
+      },
+      "audio_data": null,
+      "question_jp": "Which word best describes the tone of the notice?",
+      "question_vn": "Từ nào mô tả đúng nhất giọng của thông báo?",
+      "explanation": "Câu hỏi giọng điệu. \"one rule and no idea whether anyone would come\", \"to our great pride\", và lời đùa của bà Harriet."
+    },
+    {
+      "id": "q_mock2_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "What is the writer's point in the opening paragraph?",
+        "vi": "Người viết muốn nói gì ở đoạn mở đầu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Yawning is dangerous when people are driving or working with machines.",
+            "vi": "Ngáp nguy hiểm khi người ta đang lái xe hoặc vận hành máy móc."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Yawning is dangerous when people are driving or working with machines.",
+          "text_translation": "Ngáp nguy hiểm khi người ta đang lái xe hoặc vận hành máy móc."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The article is boring, so the reader will probably yawn.",
+            "vi": "Bài viết nhàm chán, nên người đọc có lẽ sẽ ngáp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The article is boring, so the reader will probably yawn.",
+          "text_translation": "Bài viết nhàm chán, nên người đọc có lẽ sẽ ngáp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Contagious yawning is easy to observe but hard to explain.",
+            "vi": "Ngáp lây dễ quan sát nhưng khó giải thích."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Contagious yawning is easy to observe but hard to explain.",
+          "text_translation": "Ngáp lây dễ quan sát nhưng khó giải thích."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Scientists have explained yawning completely, but ordinary people still doubt them.",
+            "vi": "Các nhà khoa học đã giải thích việc ngáp trọn vẹn, nhưng người thường vẫn nghi ngờ họ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Scientists have explained yawning completely, but ordinary people still doubt them.",
+          "text_translation": "Các nhà khoa học đã giải thích việc ngáp trọn vẹn, nhưng người thường vẫn nghi ngờ họ."
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"Scientists have known about this effect for a long time; explaining it has proved far harder.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the writer's point in the opening paragraph?",
+      "question_vn": "Người viết muốn nói gì ở đoạn mở đầu?",
+      "explanation": "\"Scientists have known about this effect for a long time; explaining it has proved far harder.\""
+    },
+    {
+      "id": "q_mock2_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "According to the empathy theory, who should catch yawns most easily?",
+        "vi": "Theo giả thuyết đồng cảm, ai phải dễ ngáp lây nhất?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "more empathetic people, especially from friends and family",
+            "vi": "người giàu đồng cảm hơn, nhất là với bạn bè và người thân"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "more empathetic people, especially from friends and family",
+          "text_translation": "người giàu đồng cảm hơn, nhất là với bạn bè và người thân"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "older people, especially those who sleep less than their friends",
+            "vi": "người lớn tuổi, nhất là những người ngủ ít hơn bạn bè mình"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "older people, especially those who sleep less than their friends",
+          "text_translation": "người lớn tuổi, nhất là những người ngủ ít hơn bạn bè mình"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "strangers, especially those who yawn loudly in public places",
+            "vi": "người lạ, nhất là những người ngáp to ở nơi công cộng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "strangers, especially those who yawn loudly in public places",
+          "text_translation": "người lạ, nhất là những người ngáp to ở nơi công cộng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "people who sleep less, especially when they are tired in a warm room",
+            "vi": "người ngủ ít, nhất là khi họ mệt trong một căn phòng ấm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "people who sleep less, especially when they are tired in a warm room",
+          "text_translation": "người ngủ ít, nhất là khi họ mệt trong một căn phòng ấm"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"more empathetic people should catch them more easily, and we should catch them more readily from friends and family than from strangers.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to the empathy theory, who should catch yawns most easily?",
+      "question_vn": "Theo giả thuyết đồng cảm, ai phải dễ ngáp lây nhất?",
+      "explanation": "\"more empathetic people should catch them more easily, and we should catch them more readily from friends and family than from strangers.\""
+    },
+    {
+      "id": "q_mock2_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "What does \"something close to accepted wisdom\" imply about the empathy theory?",
+        "vi": "Cụm \"gần như trở thành điều ai cũng chấp nhận\" hàm ý gì về giả thuyết đồng cảm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It had been proved beyond doubt by a large number of careful experiments.",
+            "vi": "Nó đã được chứng minh không còn nghi ngờ bằng rất nhiều thí nghiệm cẩn thận."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It had been proved beyond doubt by a large number of careful experiments.",
+          "text_translation": "Nó đã được chứng minh không còn nghi ngờ bằng rất nhiều thí nghiệm cẩn thận."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Hardly anyone believed it, even though some early studies supported it.",
+            "vi": "Hầu như không ai tin nó, dù một số nghiên cứu ban đầu ủng hộ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Hardly anyone believed it, even though some early studies supported it.",
+          "text_translation": "Hầu như không ai tin nó, dù một số nghiên cứu ban đầu ủng hộ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It was invented by journalists who wanted an interesting story.",
+            "vi": "Nó do các nhà báo bịa ra vì muốn có một câu chuyện thú vị."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It was invented by journalists who wanted an interesting story.",
+          "text_translation": "Nó do các nhà báo bịa ra vì muốn có một câu chuyện thú vị."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It became widely believed before it had been tested very thoroughly.",
+            "vi": "Nó được tin rộng rãi trước khi được kiểm chứng thật kỹ."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "It became widely believed before it had been tested very thoroughly.",
+          "text_translation": "Nó được tin rộng rãi trước khi được kiểm chứng thật kỹ."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý. \"seemed to support\" (chưa chắc) + \"close to accepted wisdom\": người ta tin trước khi có bằng chứng vững. Phần sau bài thách thức nó."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"something close to accepted wisdom\" imply about the empathy theory?",
+      "question_vn": "Cụm \"gần như trở thành điều ai cũng chấp nhận\" hàm ý gì về giả thuyết đồng cảm?",
+      "explanation": "Câu hàm ý. \"seemed to support\" (chưa chắc) + \"close to accepted wisdom\": người ta tin trước khi có bằng chứng vững. Phần sau bài thách thức nó."
+    },
+    {
+      "id": "q_mock2_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "Why does the writer describe the 2008 dog study as making the picture \"more complicated\"?",
+        "vi": "Vì sao người viết nói nghiên cứu chó năm 2008 làm bức tranh \"phức tạp hơn\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because it proved that dogs have no feelings at all and so cannot catch a yawn from humans",
+            "vi": "vì nó chứng minh rằng chó hoàn toàn không có cảm xúc nên không thể lây cái ngáp từ người"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because it proved that dogs have no feelings at all and so cannot catch a yawn from humans",
+          "text_translation": "vì nó chứng minh rằng chó hoàn toàn không có cảm xúc nên không thể lây cái ngáp từ người"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because its striking result was widely reported, yet repeat attempts gave mixed results",
+            "vi": "vì kết quả nổi bật của nó được đưa tin rộng rãi, nhưng các lần lặp lại cho kết quả không đồng nhất"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because its striking result was widely reported, yet repeat attempts gave mixed results",
+          "text_translation": "vì kết quả nổi bật của nó được đưa tin rộng rãi, nhưng các lần lặp lại cho kết quả không đồng nhất"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the dogs were not healthy and some of them could not be tested",
+            "vi": "vì những con chó không khỏe và một số con không thể thử nghiệm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the dogs were not healthy and some of them could not be tested",
+          "text_translation": "vì những con chó không khỏe và một số con không thể thử nghiệm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because it was done in London and nobody else could reach the researchers",
+            "vi": "vì nó được làm ở London và không ai khác liên lạc được với các nhà nghiên cứu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because it was done in London and nobody else could reach the researchers",
+          "text_translation": "vì nó được làm ở London và không ai khác liên lạc được với các nhà nghiên cứu"
+        }
+      ],
+      "evidence_segments": [
+        6,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"21 out of 29 dogs yawned\" nhưng \"Later attempts to repeat the experiment, however, produced mixed results\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer describe the 2008 dog study as making the picture \"more complicated\"?",
+      "question_vn": "Vì sao người viết nói nghiên cứu chó năm 2008 làm bức tranh \"phức tạp hơn\"?",
+      "explanation": "\"21 out of 29 dogs yawned\" nhưng \"Later attempts to repeat the experiment, however, produced mixed results\"."
+    },
+    {
+      "id": "q_mock2_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "What alternative explanation for the dogs' yawning is mentioned?",
+        "vi": "Cách giải thích khác nào cho việc chó ngáp được nhắc tới?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The dogs were tired after a long walk",
+            "vi": "Những con chó mệt sau một chuyến đi bộ dài"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The dogs were tired after a long walk",
+          "text_translation": "Những con chó mệt sau một chuyến đi bộ dài"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The dogs were hungry before the test",
+            "vi": "Những con chó đói trước buổi thử nghiệm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The dogs were hungry before the test",
+          "text_translation": "Những con chó đói trước buổi thử nghiệm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The dogs might simply have been mildly stressed.",
+            "vi": "Lũ chó có thể chỉ hơi căng thẳng."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "The dogs might simply have been mildly stressed.",
+          "text_translation": "Lũ chó có thể chỉ hơi căng thẳng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The dogs were copying one another",
+            "vi": "Những con chó bắt chước lẫn nhau"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The dogs were copying one another",
+          "text_translation": "Những con chó bắt chước lẫn nhau"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"the researchers themselves had noted that the dogs might simply have been mildly stressed.\""
+      },
+      "audio_data": null,
+      "question_jp": "What alternative explanation for the dogs' yawning is mentioned?",
+      "question_vn": "Cách giải thích khác nào cho việc chó ngáp được nhắc tới?",
+      "explanation": "\"the researchers themselves had noted that the dogs might simply have been mildly stressed.\""
+    },
+    {
+      "id": "q_mock2_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "What did the 2014 Duke study find about individuals?",
+        "vi": "Nghiên cứu Duke năm 2014 phát hiện gì về từng cá nhân?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Everyone yawned about the same number of times, whatever their age or sleep that night.",
+            "vi": "Ai cũng ngáp số lần gần như nhau, bất kể tuổi hay giấc ngủ đêm trước."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Everyone yawned about the same number of times, whatever their age or sleep that night.",
+          "text_translation": "Ai cũng ngáp số lần gần như nhau, bất kể tuổi hay giấc ngủ đêm trước."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Hardly anyone yawned, because the video was too short to have an effect.",
+            "vi": "Hầu như không ai ngáp, vì đoạn phim quá ngắn nên không có tác dụng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Hardly anyone yawned, because the video was too short to have an effect.",
+          "text_translation": "Hầu như không ai ngáp, vì đoạn phim quá ngắn nên không có tác dụng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Individuals varied enormously, but each person's tendency was stable across sessions.",
+            "vi": "Mỗi người khác nhau rất nhiều, nhưng xu hướng của từng người ổn định qua các buổi."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Individuals varied enormously, but each person's tendency was stable across sessions.",
+          "text_translation": "Mỗi người khác nhau rất nhiều, nhưng xu hướng của từng người ổn định qua các buổi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Only young people yawned, and they did so more often in each new session.",
+            "vi": "Chỉ người trẻ ngáp, và họ ngáp nhiều hơn ở mỗi buổi mới."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Only young people yawned, and they did so more often in each new session.",
+          "text_translation": "Chỉ người trẻ ngáp, và họ ngáp nhiều hơn ở mỗi buổi mới."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"individuals varied enormously, and each person's tendency stayed remarkably stable across repeated sessions.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did the 2014 Duke study find about individuals?",
+      "question_vn": "Nghiên cứu Duke năm 2014 phát hiện gì về từng cá nhân?",
+      "explanation": "\"individuals varied enormously, and each person's tendency stayed remarkably stable across repeated sessions.\""
+    },
+    {
+      "id": "q_mock2_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "What does the writer say about age in the Duke study?",
+        "vi": "Người viết nói gì về tuổi trong nghiên cứu Duke?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It explained almost all of the differences, which made the empathy theory unnecessary.",
+            "vi": "Nó giải thích gần hết sự khác biệt, khiến thuyết đồng cảm trở nên không cần thiết."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It explained almost all of the differences, which made the empathy theory unnecessary.",
+          "text_translation": "Nó giải thích gần hết sự khác biệt, khiến thuyết đồng cảm trở nên không cần thiết."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It mattered independently, but explained only about eight percent of the differences.",
+            "vi": "Nó có tác động độc lập, nhưng chỉ giải thích khoảng tám phần trăm sự khác biệt."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "It mattered independently, but explained only about eight percent of the differences.",
+          "text_translation": "Nó có tác động độc lập, nhưng chỉ giải thích khoảng tám phần trăm sự khác biệt."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Older people yawned more, which supports the idea that tired people yawn often.",
+            "vi": "Người lớn tuổi ngáp nhiều hơn, ủng hộ ý rằng người mệt thường ngáp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Older people yawned more, which supports the idea that tired people yawn often.",
+          "text_translation": "Người lớn tuổi ngáp nhiều hơn, ủng hộ ý rằng người mệt thường ngáp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It was not measured, because the volunteers were all of a similar age.",
+            "vi": "Nó không được đo, vì các tình nguyện viên đều có tuổi gần nhau."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It was not measured, because the volunteers were all of a similar age.",
+          "text_translation": "Nó không được đo, vì các tình nguyện viên đều có tuổi gần nhau."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"The only factor that mattered independently was age, with older people yawning less, and even age explained only about eight percent of the differences.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the writer say about age in the Duke study?",
+      "question_vn": "Người viết nói gì về tuổi trong nghiên cứu Duke?",
+      "explanation": "\"The only factor that mattered independently was age, with older people yawning less, and even age explained only about eight percent of the differences.\""
+    },
+    {
+      "id": "q_mock2_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "How does the writer interpret the Duke results?",
+        "vi": "Người viết diễn giải kết quả nghiên cứu Duke thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Empathy may play some role, but much smaller than the popular story claims.",
+            "vi": "Sự đồng cảm có thể có vai trò, nhưng nhỏ hơn nhiều so với câu chuyện phổ biến."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Empathy may play some role, but much smaller than the popular story claims.",
+          "text_translation": "Sự đồng cảm có thể có vai trò, nhưng nhỏ hơn nhiều so với câu chuyện phổ biến."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Empathy has been proved to play no role at all, so the popular story is entirely false.",
+            "vi": "Đã chứng minh đồng cảm không có vai trò gì, nên câu chuyện phổ biến hoàn toàn sai."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Empathy has been proved to play no role at all, so the popular story is entirely false.",
+          "text_translation": "Đã chứng minh đồng cảm không có vai trò gì, nên câu chuyện phổ biến hoàn toàn sai."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The study was a failure, because individuals varied too much to compare.",
+            "vi": "Nghiên cứu thất bại, vì mỗi người khác nhau quá nhiều để so sánh."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The study was a failure, because individuals varied too much to compare.",
+          "text_translation": "Nghiên cứu thất bại, vì mỗi người khác nhau quá nhiều để so sánh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Yawning is now fully understood, and the popular story is simply true.",
+            "vi": "Việc ngáp nay đã được hiểu trọn vẹn, và câu chuyện phổ biến đơn giản là đúng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Yawning is now fully understood, and the popular story is simply true.",
+          "text_translation": "Việc ngáp nay đã được hiểu trọn vẹn, và câu chuyện phổ biến đơn giản là đúng."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"This does not prove that empathy plays no role; it suggests that, if it does, the role is much smaller than the popular story claims.\""
+      },
+      "audio_data": null,
+      "question_jp": "How does the writer interpret the Duke results?",
+      "question_vn": "Người viết diễn giải kết quả nghiên cứu Duke thế nào?",
+      "explanation": "\"This does not prove that empathy plays no role; it suggests that, if it does, the role is much smaller than the popular story claims.\""
+    },
+    {
+      "id": "q_mock2_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "Why does the writer return to the reader's own yawn at the end?",
+        "vi": "Vì sao cuối bài người viết quay lại cái ngáp của chính người đọc?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to apologize to the reader for writing such a boring article",
+            "vi": "để xin lỗi người đọc vì đã viết một bài chán như vậy"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to apologize to the reader for writing such a boring article",
+          "text_translation": "để xin lỗi người đọc vì đã viết một bài chán như vậy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to prove that the reader is kind, exactly as the empathy theory predicts",
+            "vi": "để chứng minh người đọc tốt bụng, đúng như thuyết đồng cảm dự đoán"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to prove that the reader is kind, exactly as the empathy theory predicts",
+          "text_translation": "để chứng minh người đọc tốt bụng, đúng như thuyết đồng cảm dự đoán"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to sell a product that helps tired students stay awake in class",
+            "vi": "để bán một sản phẩm giúp học sinh mệt không buồn ngủ trong lớp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to sell a product that helps tired students stay awake in class",
+          "text_translation": "để bán một sản phẩm giúp học sinh mệt không buồn ngủ trong lớp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to return to the opening and warn, with humor, against the empathy explanation",
+            "vi": "để quay lại phần mở đầu và cảnh báo, bằng sự hài hước, về lời giải thích dựa trên đồng cảm"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to return to the opening and warn, with humor, against the empathy explanation",
+          "text_translation": "để quay lại phần mở đầu và cảnh báo, bằng sự hài hước, về lời giải thích dựa trên đồng cảm"
+        }
+      ],
+      "evidence_segments": [
+        2,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi cấu trúc. Bài mở bằng \"you will yawn\" và khép bằng \"do not take it as proof of your kind heart\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer return to the reader's own yawn at the end?",
+      "question_vn": "Vì sao cuối bài người viết quay lại cái ngáp của chính người đọc?",
+      "explanation": "Câu hỏi cấu trúc. Bài mở bằng \"you will yawn\" và khép bằng \"do not take it as proof of your kind heart\"."
+    },
+    {
+      "id": "q_mock2_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_02",
+      "i18n": {
+        "en": "Which phrase best describes the structure of the article?",
+        "vi": "Cụm nào mô tả đúng nhất cấu trúc bài báo?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a list of tips for staying awake in a warm classroom, followed by a short quiz",
+            "vi": "một danh sách mẹo để tỉnh táo trong lớp học ấm, tiếp theo là bài kiểm tra ngắn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a list of tips for staying awake in a warm classroom, followed by a short quiz",
+          "text_translation": "một danh sách mẹo để tỉnh táo trong lớp học ấm, tiếp theo là bài kiểm tra ngắn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a popular theory, evidence that complicates it, a careful test, and a cautious conclusion",
+            "vi": "một giả thuyết phổ biến, bằng chứng làm nó phức tạp, một phép thử cẩn thận, và một kết luận thận trọng"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a popular theory, evidence that complicates it, a careful test, and a cautious conclusion",
+          "text_translation": "một giả thuyết phổ biến, bằng chứng làm nó phức tạp, một phép thử cẩn thận, và một kết luận thận trọng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a story about a dog that yawned, followed by advice for dog owners",
+            "vi": "một câu chuyện về chú chó ngáp, tiếp theo là lời khuyên cho chủ chó"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a story about a dog that yawned, followed by advice for dog owners",
+          "text_translation": "một câu chuyện về chú chó ngáp, tiếp theo là lời khuyên cho chủ chó"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a comparison of two universities and the methods they use for tests",
+            "vi": "một so sánh hai trường đại học và các phương pháp thử nghiệm của họ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a comparison of two universities and the methods they use for tests",
+          "text_translation": "một so sánh hai trường đại học và các phương pháp thử nghiệm của họ"
+        }
+      ],
+      "evidence_segments": [
+        4,
+        6,
+        8,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi cấu trúc lập luận. Giả thuyết đồng cảm → nghiên cứu chó → nghiên cứu Duke → \"most of the variation remains unexplained\"."
+      },
+      "audio_data": null,
+      "question_jp": "Which phrase best describes the structure of the article?",
+      "question_vn": "Cụm nào mô tả đúng nhất cấu trúc bài báo?",
+      "explanation": "Câu hỏi cấu trúc lập luận. Giả thuyết đồng cảm → nghiên cứu chó → nghiên cứu Duke → \"most of the variation remains unexplained\"."
+    },
+    {
+      "id": "q_mock2_021",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "Why was this Thanksgiving special for the Carters?",
+        "vi": "Vì sao Lễ Tạ ơn này đặc biệt với nhà Carter?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It was the first in seven years with all three children at the table.",
+            "vi": "Đó là lần đầu sau bảy năm có đủ ba đứa con quanh bàn."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It was the first in seven years with all three children at the table.",
+          "text_translation": "Đó là lần đầu sau bảy năm có đủ ba đứa con quanh bàn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Mitchell cooked for the first time, and nobody knew what to expect.",
+            "vi": "Mitchell lần đầu nấu ăn, và không ai biết nên chờ đợi điều gì."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Mitchell cooked for the first time, and nobody knew what to expect.",
+          "text_translation": "Mitchell lần đầu nấu ăn, và không ai biết nên chờ đợi điều gì."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It was held at Harriet's café instead of at the Carters' home.",
+            "vi": "Bữa tiệc diễn ra ở quán của Harriet chứ không ở nhà nhà Carter."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It was held at Harriet's café instead of at the Carters' home.",
+          "text_translation": "Bữa tiệc diễn ra ở quán của Harriet chứ không ở nhà nhà Carter."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Leah was hosting it for the first time in her new house.",
+            "vi": "Leah lần đầu đứng ra tổ chức ở ngôi nhà mới của cô."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Leah was hosting it for the first time in her new house.",
+          "text_translation": "Leah lần đầu đứng ra tổ chức ở ngôi nhà mới của cô."
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"the first Thanksgiving in seven years with all three Carter children at the table\". Tracy vừa chuyển về."
+      },
+      "audio_data": null,
+      "question_jp": "Why was this Thanksgiving special for the Carters?",
+      "question_vn": "Vì sao Lễ Tạ ơn này đặc biệt với nhà Carter?",
+      "explanation": "\"the first Thanksgiving in seven years with all three Carter children at the table\". Tracy vừa chuyển về."
+    },
+    {
+      "id": "q_mock2_022",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "What made Megan suspect the news before Ethan spoke?",
+        "vi": "Điều gì khiến Megan đoán ra tin trước khi Ethan nói?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Leah told her about it in secret during a night shift.",
+            "vi": "Leah bí mật kể cho bà nghe trong một ca đêm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Leah told her about it in secret during a night shift.",
+          "text_translation": "Leah bí mật kể cho bà nghe trong một ca đêm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The cake had a message written on it.",
+            "vi": "Chiếc bánh có viết một lời nhắn trên đó."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The cake had a message written on it.",
+          "text_translation": "Chiếc bánh có viết một lời nhắn trên đó."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Leah refused coffee, which Megan had never seen her do.",
+            "vi": "Leah từ chối cà phê, điều Megan chưa từng thấy."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Leah refused coffee, which Megan had never seen her do.",
+          "text_translation": "Leah từ chối cà phê, điều Megan chưa từng thấy."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Ethan was so nervous that he dropped a glass.",
+            "vi": "Ethan hồi hộp đến mức làm rơi một chiếc ly."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Ethan was so nervous that he dropped a glass.",
+          "text_translation": "Ethan hồi hộp đến mức làm rơi một chiếc ly."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Megan \"had never once seen her refuse coffee\", nên bà \"put down her fork and said nothing at all.\""
+      },
+      "audio_data": null,
+      "question_jp": "What made Megan suspect the news before Ethan spoke?",
+      "question_vn": "Điều gì khiến Megan đoán ra tin trước khi Ethan nói?",
+      "explanation": "Câu suy luận. Megan \"had never once seen her refuse coffee\", nên bà \"put down her fork and said nothing at all.\""
+    },
+    {
+      "id": "q_mock2_023",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "What does Ethan's line \"I've practiced this, so please don't interrupt\" suggest?",
+        "vi": "Câu Ethan \"anh đã tập trước rồi, nên làm ơn đừng ngắt lời\" gợi ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He is confident and relaxed, and enjoys speaking in front of people.",
+            "vi": "Anh tự tin và thoải mái, và thích nói trước mọi người."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He is confident and relaxed, and enjoys speaking in front of people.",
+          "text_translation": "Anh tự tin và thoải mái, và thích nói trước mọi người."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He is nervous about expressing his feelings, as usual.",
+            "vi": "Như mọi khi, anh run khi bày tỏ cảm xúc."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "He is nervous about expressing his feelings, as usual.",
+          "text_translation": "Như mọi khi, anh run khi bày tỏ cảm xúc."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He is angry with the family, who have not listened to him before.",
+            "vi": "Anh giận gia đình, những người trước giờ chưa từng lắng nghe anh."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He is angry with the family, who have not listened to him before.",
+          "text_translation": "Anh giận gia đình, những người trước giờ chưa từng lắng nghe anh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He wants to leave early, and so wants to finish quickly.",
+            "vi": "Anh muốn về sớm, nên muốn nói cho nhanh xong."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He wants to leave early, and so wants to finish quickly.",
+          "text_translation": "Anh muốn về sớm, nên muốn nói cho nhanh xong."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về tính cách, nối với các chương trước (hỏi nhầm người liên lạc khẩn cấp, nhẫn rơi xuống cát). Lời ngập ngừng \"well\", \"um\" cũng cho thấy anh run."
+      },
+      "audio_data": null,
+      "question_jp": "What does Ethan's line \"I've practiced this, so please don't interrupt\" suggest?",
+      "question_vn": "Câu Ethan \"anh đã tập trước rồi, nên làm ơn đừng ngắt lời\" gợi ý gì?",
+      "explanation": "Câu suy luận về tính cách, nối với các chương trước (hỏi nhầm người liên lạc khẩn cấp, nhẫn rơi xuống cát). Lời ngập ngừng \"well\", \"um\" cũng cho thấy anh run."
+    },
+    {
+      "id": "q_mock2_024",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "Why does Trevor ask \"Are you hiring someone?\"",
+        "vi": "Vì sao Trevor hỏi \"Anh định thuê ai à?\""
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because he wants a job and thinks Ethan is the person who can hire him",
+            "vi": "vì anh muốn có việc và nghĩ Ethan là người có thể thuê anh"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because he wants a job and thinks Ethan is the person who can hire him",
+          "text_translation": "vì anh muốn có việc và nghĩ Ethan là người có thể thuê anh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because he is joking, trying to make the others laugh at Ethan",
+            "vi": "vì anh đang đùa, cố làm mọi người cười Ethan"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because he is joking, trying to make the others laugh at Ethan",
+          "text_translation": "vì anh đang đùa, cố làm mọi người cười Ethan"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because Ethan works at a restaurant that needs new people",
+            "vi": "vì Ethan làm ở một nhà hàng đang cần thêm người"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because Ethan works at a restaurant that needs new people",
+          "text_translation": "vì Ethan làm ở một nhà hàng đang cần thêm người"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because he misunderstands Ethan's indirect way of announcing the baby",
+            "vi": "vì cậu hiểu nhầm cách Ethan báo tin em bé một cách vòng vo"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because he misunderstands Ethan's indirect way of announcing the baby",
+          "text_translation": "vì cậu hiểu nhầm cách Ethan báo tin em bé một cách vòng vo"
+        }
+      ],
+      "evidence_segments": [
+        5,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý. \"one more person at this table\" là cách nói vòng; Trevor hiểu theo nghĩa đen, Tina phải giải thích."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Trevor ask \"Are you hiring someone?\"",
+      "question_vn": "Vì sao Trevor hỏi \"Anh định thuê ai à?\"",
+      "explanation": "Câu hàm ý. \"one more person at this table\" là cách nói vòng; Trevor hiểu theo nghĩa đen, Tina phải giải thích."
+    },
+    {
+      "id": "q_mock2_025",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "What does Megan's remark \"I knew it at the water. I'm a nurse\" show?",
+        "vi": "Câu Megan \"Thím biết từ lúc cháu xin nước lọc rồi. Thím là y tá mà\" cho thấy gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She had noticed a small clue and understood it before anyone said anything.",
+            "vi": "Bà đã để ý một manh mối nhỏ và hiểu ra trước khi ai nói gì."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She had noticed a small clue and understood it before anyone said anything.",
+          "text_translation": "Bà đã để ý một manh mối nhỏ và hiểu ra trước khi ai nói gì."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is angry that nobody told her the news before the dinner began.",
+            "vi": "Bà giận vì không ai báo tin cho bà trước khi bữa tối bắt đầu."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She is angry that nobody told her the news before the dinner began.",
+          "text_translation": "Bà giận vì không ai báo tin cho bà trước khi bữa tối bắt đầu."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She wanted a drink of water and was making a joke about the meal.",
+            "vi": "Bà muốn uống nước và đang đùa về bữa ăn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She wanted a drink of water and was making a joke about the meal.",
+          "text_translation": "Bà muốn uống nước và đang đùa về bữa ăn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She dislikes surprises and wants the others to know she is not fooled.",
+            "vi": "Bà ghét những bất ngờ và muốn người khác biết bà không bị lừa."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She dislikes surprises and wants the others to know she is not fooled.",
+          "text_translation": "Bà ghét những bất ngờ và muốn người khác biết bà không bị lừa."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Nhất quán với tính cách nhanh nhẹn, thẳng thắn của Megan và với đoạn bà lặng lẽ đặt nĩa xuống."
+      },
+      "audio_data": null,
+      "question_jp": "What does Megan's remark \"I knew it at the water. I'm a nurse\" show?",
+      "question_vn": "Câu Megan \"Thím biết từ lúc cháu xin nước lọc rồi. Thím là y tá mà\" cho thấy gì?",
+      "explanation": "Câu suy luận. Nhất quán với tính cách nhanh nhẹn, thẳng thắn của Megan và với đoạn bà lặng lẽ đặt nĩa xuống."
+    },
+    {
+      "id": "q_mock2_026",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "What is humorous about Mitchell going \"to find a camera that turned out to be his phone\"?",
+        "vi": "Chi tiết Mitchell \"đi tìm máy ảnh mà hoá ra là cái điện thoại của ông\" buồn cười ở chỗ nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He lost his phone and had to look for it under the table.",
+            "vi": "Ông làm mất điện thoại và phải tìm nó dưới gầm bàn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He lost his phone and had to look for it under the table.",
+          "text_translation": "Ông làm mất điện thoại và phải tìm nó dưới gầm bàn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He broke the camera by dropping it while he was running.",
+            "vi": "Ông làm hỏng máy ảnh vì đánh rơi khi đang chạy."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He broke the camera by dropping it while he was running.",
+          "text_translation": "Ông làm hỏng máy ảnh vì đánh rơi khi đang chạy."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "In his excitement he looked for a camera, forgetting that his phone was one.",
+            "vi": "Vì quá phấn khích, ông đi tìm máy ảnh, quên rằng điện thoại cũng là một chiếc."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "In his excitement he looked for a camera, forgetting that his phone was one.",
+          "text_translation": "Vì quá phấn khích, ông đi tìm máy ảnh, quên rằng điện thoại cũng là một chiếc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He does not know how to use a phone, so he asked Tina to help him take pictures.",
+            "vi": "Ông không biết dùng điện thoại, nên nhờ Tina giúp chụp ảnh."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He does not know how to use a phone, so he asked Tina to help him take pictures.",
+          "text_translation": "Ông không biết dùng điện thoại, nên nhờ Tina giúp chụp ảnh."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi giọng điệu. Chi tiết nhỏ cho thấy cả nhà rối rít vui mừng."
+      },
+      "audio_data": null,
+      "question_jp": "What is humorous about Mitchell going \"to find a camera that turned out to be his phone\"?",
+      "question_vn": "Chi tiết Mitchell \"đi tìm máy ảnh mà hoá ra là cái điện thoại của ông\" buồn cười ở chỗ nào?",
+      "explanation": "Câu hỏi giọng điệu. Chi tiết nhỏ cho thấy cả nhà rối rít vui mừng."
+    },
+    {
+      "id": "q_mock2_027",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "Why does Tina wonder whether she would really be \"Aunt Tina\"?",
+        "vi": "Vì sao Tina băn khoăn liệu mình có thật sự là \"dì Tina\" không?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because she does not like the baby and does not want to be called an aunt",
+            "vi": "vì cô không thích em bé và không muốn bị gọi là dì"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because she does not like the baby and does not want to be called an aunt",
+          "text_translation": "vì cô không thích em bé và không muốn bị gọi là dì"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because Leah is her cousin, not her sister, so the family term is less obvious",
+            "vi": "vì Leah là chị họ chứ không phải chị ruột của cô, nên cách gọi trong gia đình kém rõ ràng hơn"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because Leah is her cousin, not her sister, so the family term is less obvious",
+          "text_translation": "vì Leah là chị họ chứ không phải chị ruột của cô, nên cách gọi trong gia đình kém rõ ràng hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because Ethan has a sister called Tina who might be called aunt instead",
+            "vi": "vì Ethan có một chị em tên Tina có thể được gọi là dì thay cô"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because Ethan has a sister called Tina who might be called aunt instead",
+          "text_translation": "vì Ethan có một chị em tên Tina có thể được gọi là dì thay cô"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because she is too young to be an aunt and would rather be called by name",
+            "vi": "vì cô còn quá trẻ để làm dì và muốn được gọi bằng tên hơn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because she is too young to be an aunt and would rather be called by name",
+          "text_translation": "vì cô còn quá trẻ để làm dì và muốn được gọi bằng tên hơn"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Leah là cháu của Mitchell, tức chị họ của Tina, nên \"technically, she would be something more complicated\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Tina wonder whether she would really be \"Aunt Tina\"?",
+      "question_vn": "Vì sao Tina băn khoăn liệu mình có thật sự là \"dì Tina\" không?",
+      "explanation": "Câu suy luận. Leah là cháu của Mitchell, tức chị họ của Tina, nên \"technically, she would be something more complicated\"."
+    },
+    {
+      "id": "q_mock2_028",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "Why does Leah say she is \"terrified\"?",
+        "vi": "Vì sao Leah nói cô \"sợ chết khiếp\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because she is ill and has not yet told her family about it",
+            "vi": "vì cô bị bệnh và chưa nói với gia đình về chuyện đó"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because she is ill and has not yet told her family about it",
+          "text_translation": "vì cô bị bệnh và chưa nói với gia đình về chuyện đó"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because she is calm with patients' bad news but has no idea how to be a parent",
+            "vi": "vì cô bình tĩnh khi báo tin xấu cho bệnh nhân nhưng không biết làm cha mẹ ra sao"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because she is calm with patients' bad news but has no idea how to be a parent",
+          "text_translation": "vì cô bình tĩnh khi báo tin xấu cho bệnh nhân nhưng không biết làm cha mẹ ra sao"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because Ethan is leaving the country soon and she will be alone",
+            "vi": "vì Ethan sắp rời đất nước và cô sẽ một mình"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because Ethan is leaving the country soon and she will be alone",
+          "text_translation": "vì Ethan sắp rời đất nước và cô sẽ một mình"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because she has lost her job and does not know how to pay for a baby",
+            "vi": "vì cô mất việc và không biết lấy gì nuôi em bé"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because she has lost her job and does not know how to pay for a baby",
+          "text_translation": "vì cô mất việc và không biết lấy gì nuôi em bé"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"I tell people bad news for a living, and I'm calm about it. But this? I have absolutely no idea what I'm doing.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Leah say she is \"terrified\"?",
+      "question_vn": "Vì sao Leah nói cô \"sợ chết khiếp\"?",
+      "explanation": "\"I tell people bad news for a living, and I'm calm about it. But this? I have absolutely no idea what I'm doing.\""
+    },
+    {
+      "id": "q_mock2_029",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "What is the effect of Tracy quoting Leah's own advice back to her?",
+        "vi": "Việc Tracy nhắc lại lời khuyên của chính Leah cho Leah có tác dụng gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It shows that the roles have reversed: Tracy now comforts Leah with Leah's own wisdom.",
+            "vi": "Nó cho thấy vai trò đã đảo ngược: nay Tracy an ủi Leah bằng chính sự khôn ngoan của Leah."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It shows that the roles have reversed: Tracy now comforts Leah with Leah's own wisdom.",
+          "text_translation": "Nó cho thấy vai trò đã đảo ngược: nay Tracy an ủi Leah bằng chính sự khôn ngoan của Leah."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It makes Leah angry, because she thinks Tracy is laughing at her fears.",
+            "vi": "Nó làm Leah giận, vì cô nghĩ Tracy đang cười nỗi sợ của mình."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It makes Leah angry, because she thinks Tracy is laughing at her fears.",
+          "text_translation": "Nó làm Leah giận, vì cô nghĩ Tracy đang cười nỗi sợ của mình."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It proves that Leah was wrong, because she is now afraid of the baby.",
+            "vi": "Nó chứng tỏ Leah đã sai, vì giờ cô sợ em bé."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It proves that Leah was wrong, because she is now afraid of the baby.",
+          "text_translation": "Nó chứng tỏ Leah đã sai, vì giờ cô sợ em bé."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It shows that Tracy no longer trusts Leah's advice about babies.",
+            "vi": "Nó cho thấy Tracy không còn tin lời khuyên của Leah về em bé."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It shows that Tracy no longer trusts Leah's advice about babies.",
+          "text_translation": "Nó cho thấy Tracy không còn tin lời khuyên của Leah về em bé."
+        }
+      ],
+      "evidence_segments": [
+        14,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận liên chương. Bao năm Tracy xin Leah lời khuyên; giờ Tracy là người trấn an. Lời đáp \"annoyingly wise\" là giọng đùa trìu mến."
+      },
+      "audio_data": null,
+      "question_jp": "What is the effect of Tracy quoting Leah's own advice back to her?",
+      "question_vn": "Việc Tracy nhắc lại lời khuyên của chính Leah cho Leah có tác dụng gì?",
+      "explanation": "Câu suy luận liên chương. Bao năm Tracy xin Leah lời khuyên; giờ Tracy là người trấn an. Lời đáp \"annoyingly wise\" là giọng đùa trìu mến."
+    },
+    {
+      "id": "q_mock2_030",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_03",
+      "i18n": {
+        "en": "What does the final sentence suggest about Ethan?",
+        "vi": "Câu cuối gợi ý gì về Ethan?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He is upset with the family for interrupting him and refuses to say anything more.",
+            "vi": "Anh bực gia đình vì đã ngắt lời mình và không chịu nói thêm gì nữa."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He is upset with the family for interrupting him and refuses to say anything more.",
+          "text_translation": "Anh bực gia đình vì đã ngắt lời mình và không chịu nói thêm gì nữa."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He has fallen asleep on the sofa after the long dinner.",
+            "vi": "Anh đã ngủ gục trên ghế sofa sau bữa tối dài."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He has fallen asleep on the sofa after the long dinner.",
+          "text_translation": "Anh đã ngủ gục trên ghế sofa sau bữa tối dài."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He is leaving the party because he feels embarrassed.",
+            "vi": "Anh rời bữa tiệc vì thấy xấu hổ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He is leaving the party because he feels embarrassed.",
+          "text_translation": "Anh rời bữa tiệc vì thấy xấu hổ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He is too happy and proud to give up on the speech that was interrupted.",
+            "vi": "Anh quá vui và tự hào nên không chịu bỏ dở bài phát biểu bị ngắt lời."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "He is too happy and proud to give up on the speech that was interrupted.",
+          "text_translation": "Anh quá vui và tự hào nên không chịu bỏ dở bài phát biểu bị ngắt lời."
+        }
+      ],
+      "evidence_segments": [
+        5,
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý, giọng hài. Anh đã \"practiced\" bài nói nên vẫn muốn nói cho hết, \"to anyone who would listen\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does the final sentence suggest about Ethan?",
+      "question_vn": "Câu cuối gợi ý gì về Ethan?",
+      "explanation": "Câu hàm ý, giọng hài. Anh đã \"practiced\" bài nói nên vẫn muốn nói cho hết, \"to anyone who would listen\"."
+    },
+    {
+      "id": "q_mock2_031",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "Why is Harriet writing this letter?",
+        "vi": "Vì sao bà Harriet viết lá thư này?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to complain about a neighbor who has been leaving his dog in the street all day",
+            "vi": "để phàn nàn về một người hàng xóm cứ để chó ngoài đường cả ngày"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to complain about a neighbor who has been leaving his dog in the street all day",
+          "text_translation": "để phàn nàn về một người hàng xóm cứ để chó ngoài đường cả ngày"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to invite the reader to a wedding that will be held in the café",
+            "vi": "để mời người đọc đến một đám cưới tổ chức ở quán cà phê"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to invite the reader to a wedding that will be held in the café",
+          "text_translation": "để mời người đọc đến một đám cưới tổ chức ở quán cà phê"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the library asked for a description of someone who changed the street",
+            "vi": "vì thư viện yêu cầu một bản mô tả về người đã làm thay đổi con phố"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because the library asked for a description of someone who changed the street",
+          "text_translation": "vì thư viện yêu cầu một bản mô tả về người đã làm thay đổi con phố"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to say goodbye before moving away to a quiet town far from the street",
+            "vi": "để chào tạm biệt trước khi chuyển tới một thị trấn yên tĩnh xa con phố"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to say goodbye before moving away to a quiet town far from the street",
+          "text_translation": "để chào tạm biệt trước khi chuyển tới một thị trấn yên tĩnh xa con phố"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"They have asked me to describe, for their collection, someone who changed the street.\" và \"I chose you\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why is Harriet writing this letter?",
+      "question_vn": "Vì sao bà Harriet viết lá thư này?",
+      "explanation": "\"They have asked me to describe, for their collection, someone who changed the street.\" và \"I chose you\"."
+    },
+    {
+      "id": "q_mock2_032",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "What does the detail \"apologized three times for a mistake that I did not notice\" show about the reader at first?",
+        "vi": "Chi tiết \"xin lỗi ba lần vì một lỗi mà tôi chẳng hề để ý\" cho thấy người đọc lúc đầu thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The reader was rude and kept interrupting Harriet during the order.",
+            "vi": "Người đó thô lỗ và liên tục ngắt lời Harriet khi gọi món."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The reader was rude and kept interrupting Harriet during the order.",
+          "text_translation": "Người đó thô lỗ và liên tục ngắt lời Harriet khi gọi món."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The reader was very anxious about making mistakes in English.",
+            "vi": "Người đọc rất lo mắc lỗi tiếng Anh."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The reader was very anxious about making mistakes in English.",
+          "text_translation": "Người đọc rất lo mắc lỗi tiếng Anh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The reader spoke English perfectly but wanted to seem polite.",
+            "vi": "Người đó nói tiếng Anh hoàn hảo nhưng muốn tỏ ra lịch sự."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The reader spoke English perfectly but wanted to seem polite.",
+          "text_translation": "Người đó nói tiếng Anh hoàn hảo nhưng muốn tỏ ra lịch sự."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The reader did not like coffee but was too shy to say so.",
+            "vi": "Người đó không thích cà phê nhưng quá ngại nên không nói."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The reader did not like coffee but was too shy to say so.",
+          "text_translation": "Người đó không thích cà phê nhưng quá ngại nên không nói."
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"in very careful English\" và xin lỗi tới ba lần cho một lỗi người nghe không nhận ra."
+      },
+      "audio_data": null,
+      "question_jp": "What does the detail \"apologized three times for a mistake that I did not notice\" show about the reader at first?",
+      "question_vn": "Chi tiết \"xin lỗi ba lần vì một lỗi mà tôi chẳng hề để ý\" cho thấy người đọc lúc đầu thế nào?",
+      "explanation": "Câu suy luận. \"in very careful English\" và xin lỗi tới ba lần cho một lỗi người nghe không nhận ra."
+    },
+    {
+      "id": "q_mock2_033",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "Why does Harriet say the reader \"never seemed to realize how much you were noticing\"?",
+        "vi": "Vì sao bà Harriet nói người đọc \"dường như chưa bao giờ nhận ra mình đã để ý tới nhiều thứ đến nhường nào\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because, as a newcomer, the reader noticed things that long-time residents no longer saw",
+            "vi": "vì là người mới đến, người đó nhận ra những điều mà cư dân lâu năm không còn thấy"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because, as a newcomer, the reader noticed things that long-time residents no longer saw",
+          "text_translation": "vì là người mới đến, người đó nhận ra những điều mà cư dân lâu năm không còn thấy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the reader was forgetful and often lost things, then found them again by chance",
+            "vi": "vì người đó hay quên, thường làm mất đồ rồi tình cờ tìm lại được"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the reader was forgetful and often lost things, then found them again by chance",
+          "text_translation": "vì người đó hay quên, thường làm mất đồ rồi tình cờ tìm lại được"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the reader never spoke and listened to everyone's conversation",
+            "vi": "vì người đó không bao giờ nói và chỉ nghe chuyện của mọi người"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the reader never spoke and listened to everyone's conversation",
+          "text_translation": "vì người đó không bao giờ nói và chỉ nghe chuyện của mọi người"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the reader worked at the library and kept careful notes of the street",
+            "vi": "vì người đó làm ở thư viện và ghi chép cẩn thận về con phố"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because the reader worked at the library and kept careful notes of the street",
+          "text_translation": "vì người đó làm ở thư viện và ghi chép cẩn thận về con phố"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "Ví dụ: thuộc tuyến xe buýt \"before any of us had bothered to\", và đặt câu hỏi \"that made us realize we had never thought about them at all.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Harriet say the reader \"never seemed to realize how much you were noticing\"?",
+      "question_vn": "Vì sao bà Harriet nói người đọc \"dường như chưa bao giờ nhận ra mình đã để ý tới nhiều thứ đến nhường nào\"?",
+      "explanation": "Ví dụ: thuộc tuyến xe buýt \"before any of us had bothered to\", và đặt câu hỏi \"that made us realize we had never thought about them at all.\""
+    },
+    {
+      "id": "q_mock2_034",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "Who is \"a teenager who is now an engineer\"?",
+        "vi": "\"Cô bé tuổi mới lớn nay đã là kỹ sư\" là ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tina",
+            "vi": "Tina"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Tina",
+          "text_translation": "Tina"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Amy",
+            "vi": "Amy"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Amy",
+          "text_translation": "Amy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Helena",
+            "vi": "Helena"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Helena",
+          "text_translation": "Helena"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tracy",
+            "vi": "Tracy"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Tracy",
+          "text_translation": "Tracy"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Tám năm trước người đó còn là thiếu niên, nay là kỹ sư: Helena đã là kỹ sư từ trước, Tina và Amy còn đi học, nên chỉ có thể là Tracy (ở A2, Tracy và \"you\" đổi bài học sáng thứ Bảy ở Harriet's)."
+      },
+      "audio_data": null,
+      "question_jp": "Who is \"a teenager who is now an engineer\"?",
+      "question_vn": "\"Cô bé tuổi mới lớn nay đã là kỹ sư\" là ai?",
+      "explanation": "Câu suy luận. Tám năm trước người đó còn là thiếu niên, nay là kỹ sư: Helena đã là kỹ sư từ trước, Tina và Amy còn đi học, nên chỉ có thể là Tracy (ở A2, Tracy và \"you\" đổi bài học sáng thứ Bảy ở Harriet's)."
+    },
+    {
+      "id": "q_mock2_035",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "How does Harriet challenge the idea that learning a language means learning to think like its speakers?",
+        "vi": "Bà Harriet thách thức ý \"học ngôn ngữ là học cách nghĩ như người nói nó\" thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "by saying that English is easy, so there is no need for special thinking",
+            "vi": "bằng cách nói tiếng Anh dễ, nên không cần một lối nghĩ đặc biệt nào"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "by saying that English is easy, so there is no need for special thinking",
+          "text_translation": "bằng cách nói tiếng Anh dễ, nên không cần một lối nghĩ đặc biệt nào"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "by pointing out that people on the street do not think alike at all",
+            "vi": "bằng cách chỉ ra rằng người trên con phố này chẳng ai nghĩ giống ai"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "by pointing out that people on the street do not think alike at all",
+          "text_translation": "bằng cách chỉ ra rằng người trên con phố này chẳng ai nghĩ giống ai"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "by saying the reader thinks exactly like her, in spite of speaking differently",
+            "vi": "bằng cách nói người đó nghĩ y hệt bà, dù nói khác bà"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "by saying the reader thinks exactly like her, in spite of speaking differently",
+          "text_translation": "bằng cách nói người đó nghĩ y hệt bà, dù nói khác bà"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "by quoting a famous writer who says that language and thought are separate",
+            "vi": "bằng cách trích một nhà văn nổi tiếng nói rằng ngôn ngữ và tư duy tách rời nhau"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "by quoting a famous writer who says that language and thought are separate",
+          "text_translation": "bằng cách trích một nhà văn nổi tiếng nói rằng ngôn ngữ và tư duy tách rời nhau"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Nobody on this street thinks alike; we cannot even agree about the best way to make soup.\" Không có một \"cách nghĩ chung\" nào để học theo."
+      },
+      "audio_data": null,
+      "question_jp": "How does Harriet challenge the idea that learning a language means learning to think like its speakers?",
+      "question_vn": "Bà Harriet thách thức ý \"học ngôn ngữ là học cách nghĩ như người nói nó\" thế nào?",
+      "explanation": "\"Nobody on this street thinks alike; we cannot even agree about the best way to make soup.\" Không có một \"cách nghĩ chung\" nào để học theo."
+    },
+    {
+      "id": "q_mock2_036",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "According to Harriet, what has the reader really learned?",
+        "vi": "Theo bà Harriet, người đọc thực sự đã học được gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "perfect grammar, which she says no one on the street has",
+            "vi": "ngữ pháp hoàn hảo, thứ bà nói không ai trên phố có"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "perfect grammar, which she says no one on the street has",
+          "text_translation": "ngữ pháp hoàn hảo, thứ bà nói không ai trên phố có"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "how to cook soup well enough to please the whole street",
+            "vi": "cách nấu súp đủ ngon để làm cả con phố hài lòng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "how to cook soup well enough to please the whole street",
+          "text_translation": "cách nấu súp đủ ngon để làm cả con phố hài lòng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the history of the street, including every flood and festival",
+            "vi": "lịch sử con phố, gồm mọi trận lụt và lễ hội"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the history of the street, including every flood and festival",
+          "text_translation": "lịch sử con phố, gồm mọi trận lụt và lễ hội"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the subtle meanings behind words, including when silence is kindest",
+            "vi": "những nghĩa tinh tế sau lời nói, kể cả khi nào im lặng là tử tế nhất"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the subtle meanings behind words, including when silence is kindest",
+          "text_translation": "những nghĩa tinh tế sau lời nói, kể cả khi nào im lặng là tử tế nhất"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"when a sentence means more than it says\" và \"when the kindest thing to say is nothing at all.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to Harriet, what has the reader really learned?",
+      "question_vn": "Theo bà Harriet, người đọc thực sự đã học được gì?",
+      "explanation": "\"when a sentence means more than it says\" và \"when the kindest thing to say is nothing at all.\""
+    },
+    {
+      "id": "q_mock2_037",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "Why does Harriet mention her own mistake about the flood?",
+        "vi": "Vì sao bà Harriet nhắc tới lỗi của chính bà về trận lụt?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that even native speakers make confident mistakes, so the reader need not fear them",
+            "vi": "để cho thấy ngay cả người bản ngữ cũng tự tin mà vẫn sai, nên người đọc không cần sợ lỗi"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to show that even native speakers make confident mistakes, so the reader need not fear them",
+          "text_translation": "để cho thấy ngay cả người bản ngữ cũng tự tin mà vẫn sai, nên người đọc không cần sợ lỗi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to ask the reader to check the dates in the library's archive for her",
+            "vi": "để nhờ người đọc kiểm tra các mốc thời gian trong kho lưu trữ của thư viện giúp bà"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to ask the reader to check the dates in the library's archive for her",
+          "text_translation": "để nhờ người đọc kiểm tra các mốc thời gian trong kho lưu trữ của thư viện giúp bà"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to complain about Mitchell, who told her the wrong date for the flood",
+            "vi": "để phàn nàn về Mitchell, người đã nói sai ngày trận lụt cho bà"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to complain about Mitchell, who told her the wrong date for the flood",
+          "text_translation": "để phàn nàn về Mitchell, người đã nói sai ngày trận lụt cho bà"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to describe the flood and the damage it caused to the old bakery",
+            "vi": "để mô tả trận lụt và thiệt hại nó gây ra cho tiệm bánh cũ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to describe the flood and the damage it caused to the old bakery",
+          "text_translation": "để mô tả trận lụt và thiệt hại nó gây ra cho tiệm bánh cũ"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận liên chương. \"So do I, in the only language I have ever spoken.\" Chính bà đã nói sai năm \"with complete confidence\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Harriet mention her own mistake about the flood?",
+      "question_vn": "Vì sao bà Harriet nhắc tới lỗi của chính bà về trận lụt?",
+      "explanation": "Câu suy luận liên chương. \"So do I, in the only language I have ever spoken.\" Chính bà đã nói sai năm \"with complete confidence\"."
+    },
+    {
+      "id": "q_mock2_038",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "How does Harriet define fluency?",
+        "vi": "Bà Harriet định nghĩa sự trôi chảy thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "never making mistakes, because careful speakers do not need to laugh",
+            "vi": "không bao giờ mắc lỗi, vì người nói cẩn thận không cần phải cười"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "never making mistakes, because careful speakers do not need to laugh",
+          "text_translation": "không bao giờ mắc lỗi, vì người nói cẩn thận không cần phải cười"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "speaking very fast without stopping to think about each word",
+            "vi": "nói rất nhanh mà không dừng lại nghĩ từng từ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "speaking very fast without stopping to think about each word",
+          "text_translation": "nói rất nhanh mà không dừng lại nghĩ từng từ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the ability to keep talking after a mistake and to laugh about it with others",
+            "vi": "khả năng tiếp tục nói sau khi mắc lỗi và cùng người khác cười về nó"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "the ability to keep talking after a mistake and to laugh about it with others",
+          "text_translation": "khả năng tiếp tục nói sau khi mắc lỗi và cùng người khác cười về nó"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "knowing many words, including the rare ones used in books",
+            "vi": "biết nhiều từ, kể cả những từ hiếm dùng trong sách"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "knowing many words, including the rare ones used in books",
+          "text_translation": "biết nhiều từ, kể cả những từ hiếm dùng trong sách"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"not the absence of mistakes but the ability to keep talking after you make one, and to laugh, and to let someone else laugh with you.\""
+      },
+      "audio_data": null,
+      "question_jp": "How does Harriet define fluency?",
+      "question_vn": "Bà Harriet định nghĩa sự trôi chảy thế nào?",
+      "explanation": "\"not the absence of mistakes but the ability to keep talking after you make one, and to laugh, and to let someone else laugh with you.\""
+    },
+    {
+      "id": "q_mock2_039",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "What is Harriet's main request in the letter?",
+        "vi": "Lời đề nghị chính của bà Harriet trong thư là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "that the reader write a cookbook of the street's family recipes and sell it at the café",
+            "vi": "rằng người đó viết một cuốn sách công thức gia đình của con phố và bán ở quán cà phê"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "that the reader write a cookbook of the street's family recipes and sell it at the café",
+          "text_translation": "rằng người đó viết một cuốn sách công thức gia đình của con phố và bán ở quán cà phê"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that the reader teach English at the library on Saturday mornings",
+            "vi": "rằng người đó dạy tiếng Anh ở thư viện vào các sáng thứ Bảy"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "that the reader teach English at the library on Saturday mornings",
+          "text_translation": "rằng người đó dạy tiếng Anh ở thư viện vào các sáng thứ Bảy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that the reader visit the café every day to taste the new soups",
+            "vi": "rằng người đó ghé quán mỗi ngày để nếm các món súp mới"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "that the reader visit the café every day to taste the new soups",
+          "text_translation": "rằng người đó ghé quán mỗi ngày để nếm các món súp mới"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that the reader agree to record their own story for the library",
+            "vi": "người đọc đồng ý ghi âm câu chuyện của chính mình cho thư viện"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "that the reader agree to record their own story for the library",
+          "text_translation": "người đọc đồng ý ghi âm câu chuyện của chính mình cho thư viện"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"The library would like to record your story, too\" và \"Please say yes.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is Harriet's main request in the letter?",
+      "question_vn": "Lời đề nghị chính của bà Harriet trong thư là gì?",
+      "explanation": "\"The library would like to record your story, too\" và \"Please say yes.\""
+    },
+    {
+      "id": "q_mock2_040",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_mock2_04",
+      "i18n": {
+        "en": "What does Harriet mean by \"it is high time it heard a voice that learned to speak to it from the outside\"?",
+        "vi": "Bà Harriet muốn nói gì qua câu \"đã đến lúc nó được nghe một giọng nói học cách trò chuyện với nó từ bên ngoài\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The street needs more noise, so newcomers should speak more loudly.",
+            "vi": "Con phố cần ồn ào hơn, nên người mới đến cần nói to hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The street needs more noise, so newcomers should speak more loudly.",
+          "text_translation": "Con phố cần ồn ào hơn, nên người mới đến cần nói to hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The reader should move away from the street, because the residents prefer to listen to themselves.",
+            "vi": "Người đọc nên rời con phố, vì cư dân thích tự lắng nghe mình hơn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The reader should move away from the street, because the residents prefer to listen to themselves.",
+          "text_translation": "Người đọc nên rời con phố, vì cư dân thích tự lắng nghe mình hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Outsiders speak the language better than the residents who have lived there for years.",
+            "vi": "Người ngoài nói ngôn ngữ giỏi hơn những cư dân đã sống ở đó nhiều năm."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Outsiders speak the language better than the residents who have lived there for years.",
+          "text_translation": "Người ngoài nói ngôn ngữ giỏi hơn những cư dân đã sống ở đó nhiều năm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The archive should include the view of someone who came from elsewhere, not only long-time residents.",
+            "vi": "Kho lưu trữ nên có góc nhìn của người từ nơi khác đến, không chỉ của cư dân lâu năm."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The archive should include the view of someone who came from elsewhere, not only long-time residents.",
+          "text_translation": "Kho lưu trữ nên có góc nhìn của người từ nơi khác đến, không chỉ của cư dân lâu năm."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý (it's high time + quá khứ). \"This street has been listening to itself for a long time\": nó cần một giọng kể khác, từ người học ngôn ngữ của nó từ bên ngoài."
+      },
+      "audio_data": null,
+      "question_jp": "What does Harriet mean by \"it is high time it heard a voice that learned to speak to it from the outside\"?",
+      "question_vn": "Bà Harriet muốn nói gì qua câu \"đã đến lúc nó được nghe một giọng nói học cách trò chuyện với nó từ bên ngoài\"?",
+      "explanation": "Câu hàm ý (it's high time + quá khứ). \"This street has been listening to itself for a long time\": nó cần một giọng kể khác, từ người học ngôn ngữ của nó từ bên ngoài."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_mock2_reading_1",
+      "set_type": "reading",
+      "name": "Phần 1 — Thông báo: The Neighbors' Kitchen tròn một năm",
+      "description": "Đọc hiểu C2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_mock2_01",
+      "question_ids": [
+        "q_mock2_001",
+        "q_mock2_002",
+        "q_mock2_003",
+        "q_mock2_004",
+        "q_mock2_005",
+        "q_mock2_006",
+        "q_mock2_007",
+        "q_mock2_008",
+        "q_mock2_009",
+        "q_mock2_010"
+      ]
+    },
+    {
+      "set_id": "set_mock2_reading_2",
+      "set_type": "reading",
+      "name": "Phần 2 — Bài khoa học: vì sao ngáp lại lây",
+      "description": "Đọc hiểu C2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_mock2_02",
+      "question_ids": [
+        "q_mock2_011",
+        "q_mock2_012",
+        "q_mock2_013",
+        "q_mock2_014",
+        "q_mock2_015",
+        "q_mock2_016",
+        "q_mock2_017",
+        "q_mock2_018",
+        "q_mock2_019",
+        "q_mock2_020"
+      ]
+    },
+    {
+      "set_id": "set_mock2_reading_3",
+      "set_type": "reading",
+      "name": "Phần 3 — Truyện: Lễ Tạ ơn ở nhà Carter",
+      "description": "Đọc hiểu C2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 3,
+      "reading_passage_ref": "passage_mock2_03",
+      "question_ids": [
+        "q_mock2_021",
+        "q_mock2_022",
+        "q_mock2_023",
+        "q_mock2_024",
+        "q_mock2_025",
+        "q_mock2_026",
+        "q_mock2_027",
+        "q_mock2_028",
+        "q_mock2_029",
+        "q_mock2_030"
+      ]
+    },
+    {
+      "set_id": "set_mock2_reading_4",
+      "set_type": "reading",
+      "name": "Phần 4 — Thư bà Harriet gửi \"you\", người hàng xóm đã ở Maple Street tám năm",
+      "description": "Đọc hiểu C2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 4,
+      "reading_passage_ref": "passage_mock2_04",
+      "question_ids": [
+        "q_mock2_031",
+        "q_mock2_032",
+        "q_mock2_033",
+        "q_mock2_034",
+        "q_mock2_035",
+        "q_mock2_036",
+        "q_mock2_037",
+        "q_mock2_038",
+        "q_mock2_039",
+        "q_mock2_040"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2000 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 33–34 — Science and discovery & Psychology",
+      "vi": "Khoa học, khám phá & Tâm lý học"
+    },
+    "title": "Units 33–34 — Science and discovery & Psychology",
+    "title_vn": "Khoa học, khám phá & Tâm lý học",
+    "module_code": "59_u3334",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.u33+u34",
+    "curriculum_sheets": [
+      "b2.129",
+      "b2.130",
+      "b2.131",
+      "b2.132",
+      "b2.133",
+      "b2.134",
+      "b2.135",
+      "b2.136"
+    ],
+    "characters": [
+      "Tina Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 4, năm 7"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Định nghĩa, phân loại, bị động hoàn thành nguyên mẫu, wish",
+    "description_vn": "Báo cáo dự án hội chợ khoa học của Tina về hoa bản địa và loài thụ phấn, và bài tâm lý học về hiệu ứng ánh đèn sân khấu. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 33 + Unit 34 khoá B2 · phiếu `b2.129` – `b2.136` (bị động hoàn thành nguyên mẫu, định nghĩa và phân loại, phương pháp khoa học, khám phá; wish, tâm lý học, nhận thức, cảm xúc)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một báo cáo dự án khoa học và một bài tâm lý học phổ thông; hiểu ngôn ngữ định nghĩa, phân loại (is defined as, can be divided into), bị động hoàn thành nguyên mẫu (is believed to have been planted, seem to have been affected), `wish + had + V3`, phân biệt con số dự đoán với con số thực tế, và nhận ra thái độ khoa học thận trọng."
+    },
+    "extra_words": [
+      {
+        "word": "illusion",
+        "i18n": {
+          "vi": "ảo tưởng"
+        }
+      },
+      {
+        "word": "uncool",
+        "i18n": {
+          "vi": "quê, không hợp thời"
+        }
+      },
+      {
+        "word": "pollinator",
+        "i18n": {
+          "vi": "loài thụ phấn"
+        }
+      },
+      {
+        "word": "pollen",
+        "i18n": {
+          "vi": "phấn hoa"
+        }
+      },
+      {
+        "word": "beetle",
+        "i18n": {
+          "vi": "bọ cánh cứng"
+        }
+      },
+      {
+        "word": "native",
+        "i18n": {
+          "vi": "bản địa"
+        }
+      },
+      {
+        "word": "non-native",
+        "i18n": {
+          "vi": "không bản địa"
+        }
+      },
+      {
+        "word": "judge",
+        "i18n": {
+          "vi": "giám khảo"
+        }
+      },
+      {
+        "word": "spotlight",
+        "i18n": {
+          "vi": "ánh đèn sân khấu"
+        }
+      },
+      {
+        "word": "stain",
+        "i18n": {
+          "vi": "vết bẩn"
+        }
+      },
+      {
+        "word": "invisible",
+        "i18n": {
+          "vi": "vô hình"
+        }
+      },
+      {
+        "word": "overestimate",
+        "i18n": {
+          "vi": "đánh giá quá cao"
+        }
+      },
+      {
+        "word": "transparency",
+        "i18n": {
+          "vi": "sự trong suốt"
+        }
+      },
+      {
+        "word": "largest",
+        "i18n": {
+          "vi": "lớn nhất"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "is defined as",
+          "vi": "được định nghĩa là"
+        }
+      },
+      {
+        "i18n": {
+          "en": "can be divided into",
+          "vi": "có thể chia thành"
+        }
+      },
+      {
+        "i18n": {
+          "en": "make the test fair",
+          "vi": "làm thí nghiệm công bằng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "seem to have been",
+          "vi": "có vẻ đã bị / được"
+        }
+      },
+      {
+        "i18n": {
+          "en": "on average",
+          "vi": "trung bình"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take back",
+          "vi": "rút lại"
+        }
+      },
+      {
+        "i18n": {
+          "en": "if they noticed it at all",
+          "vi": "nếu họ có từng để ý"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Báo cáo khoa học có mục rõ ràng (`Question`, `Method`, `Results`, `Conclusion`). Dò đúng mục để tìm câu trả lời."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`is believed to have been + V3` / `seem to have been + V3`: nói về việc trong quá khứ mà người viết không chắc chắn hoàn toàn."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài thí nghiệm tâm lý: phân biệt con số người tham gia ĐOÁN (`about half`) với con số THỰC TẾ (`about a quarter`)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu \"more research is needed\" thể hiện thái độ thận trọng. Đừng chọn phương án \"sure that it is true everywhere\"."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u3334_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 33) — Báo cáo dự án hội chợ khoa học của Tina"
+      },
+      "narrator": "Tina",
+      "title": "Science Fair Report: Do Native Flowers Attract More Pollinators?",
+      "category": "report",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Science Fair Report: Do Native Flowers Attract More Pollinators?",
+            "vi": "Báo cáo hội chợ khoa học: hoa bản địa có thu hút nhiều loài thụ phấn hơn không?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Written by: Tina Carter, Grade 7",
+            "vi": "Người viết: Tina Carter, lớp 7"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Question",
+            "vi": "Câu hỏi"
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A pollinator is defined as any animal that carries pollen from one flower to another. Pollinators can be divided into several groups, including bees, butterflies, flies, beetles and some birds.",
+            "vi": "Loài thụ phấn được định nghĩa là bất kỳ động vật nào mang phấn hoa từ bông này sang bông khác. Có thể chia chúng thành nhiều nhóm, gồm ong, bướm, ruồi, bọ cánh cứng và một số loài chim."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My question was: in this garden, do native flowers, which grow naturally in Southern California, attract more pollinators than flowers from other parts of the world?",
+            "vi": "Câu hỏi của em là: trong khu vườn này, hoa bản địa, loài mọc tự nhiên ở Nam California, có thu hút nhiều loài thụ phấn hơn hoa đến từ những nơi khác trên thế giới không?"
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Method",
+            "vi": "Phương pháp"
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I did my research in the garden behind the gym at Westview High, where my brother goes to school. It was planted two years ago by the Green Club, and its first native flowers are said to have been grown from seeds that the science teacher collected himself.",
+            "vi": "Em làm nghiên cứu ở khu vườn sau nhà thể chất trường Westview High, trường anh trai em học. Vườn do câu lạc bộ Xanh trồng hai năm trước, và nghe nói những cây hoa bản địa đầu tiên được ươm từ hạt do chính thầy giáo khoa học tự đi thu."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I chose four native plants and four non-native plants of similar size and color. On twelve sunny mornings in March, I watched each plant for ten minutes and counted every visit by a pollinator.",
+            "vi": "Em chọn bốn cây bản địa và bốn cây không bản địa có kích thước và màu sắc tương tự. Trong mười hai buổi sáng nắng tháng Ba, em quan sát mỗi cây mười phút và đếm mọi lượt ghé thăm của loài thụ phấn."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "To make the test fair, I changed the order in which I watched the plants every day, so that no plant was always watched at the warmest time.",
+            "vi": "Để thí nghiệm công bằng, ngày nào em cũng đổi thứ tự quan sát các cây, để không cây nào lúc nào cũng được quan sát vào giờ ấm nhất."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Results",
+            "vi": "Kết quả"
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I counted 412 visits to the native plants and 168 visits to the non-native plants, which is almost two and a half times as many.",
+            "vi": "Em đếm được 412 lượt ghé cây bản địa và 168 lượt ghé cây không bản địa, tức là nhiều gần gấp hai lần rưỡi."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Native bees, most of which were very small, made up the largest group of visitors.",
+            "vi": "Ong bản địa, phần lớn rất nhỏ, là nhóm khách đông nhất."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On two windy mornings, the counts were much lower for all plants, so those results seem to have been affected by the weather.",
+            "vi": "Hai buổi sáng nhiều gió, số lượt đếm được ở mọi cây đều thấp hơn hẳn, nên những kết quả đó có vẻ đã bị thời tiết ảnh hưởng."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Conclusion",
+            "vi": "Kết luận"
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In this garden, native flowers attracted many more pollinators. However, I only studied eight plants in one garden, so more research is needed before anyone can say that this is true everywhere.",
+            "vi": "Trong khu vườn này, hoa bản địa thu hút nhiều loài thụ phấn hơn hẳn. Tuy nhiên, em mới nghiên cứu tám cây trong một khu vườn, nên cần nghiên cứu thêm trước khi ai đó có thể nói điều này đúng ở mọi nơi."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A personal note: on the day of the fair, I was sure that everyone could hear my voice shaking. Afterward, one of the judges told me that I had seemed \"very calm\". I wish I had known that before I started.",
+            "vi": "Một ghi chú riêng: hôm hội chợ, em chắc mẩm ai cũng nghe thấy giọng em run. Sau đó, một vị giám khảo bảo em trông \"rất bình tĩnh\". Ước gì em biết điều đó trước khi bắt đầu."
+          }
+        }
+      ],
+      "content_ja": "Science Fair Report: Do Native Flowers Attract More Pollinators?\n\nWritten by: Tina Carter, Grade 7\n\nQuestion\n\nA pollinator is defined as any animal that carries pollen from one flower to another. Pollinators can be divided into several groups, including bees, butterflies, flies, beetles and some birds. My question was: in this garden, do native flowers, which grow naturally in Southern California, attract more pollinators than flowers from other parts of the world?\n\nMethod\n\nI did my research in the garden behind the gym at Westview High, where my brother goes to school. It was planted two years ago by the Green Club, and its first native flowers are said to have been grown from seeds that the science teacher collected himself. I chose four native plants and four non-native plants of similar size and color. On twelve sunny mornings in March, I watched each plant for ten minutes and counted every visit by a pollinator. To make the test fair, I changed the order in which I watched the plants every day, so that no plant was always watched at the warmest time.\n\nResults\n\nI counted 412 visits to the native plants and 168 visits to the non-native plants, which is almost two and a half times as many. Native bees, most of which were very small, made up the largest group of visitors. On two windy mornings, the counts were much lower for all plants, so those results seem to have been affected by the weather.\n\nConclusion\n\nIn this garden, native flowers attracted many more pollinators. However, I only studied eight plants in one garden, so more research is needed before anyone can say that this is true everywhere. A personal note: on the day of the fair, I was sure that everyone could hear my voice shaking. Afterward, one of the judges told me that I had seemed \"very calm\". I wish I had known that before I started.",
+      "translation_vn": "(1) Báo cáo hội chợ khoa học: hoa bản địa có thu hút nhiều loài thụ phấn hơn không?\n(2) Người viết: Tina Carter, lớp 7\n(3) Câu hỏi\n(4) Loài thụ phấn được định nghĩa là bất kỳ động vật nào mang phấn hoa từ bông này sang bông khác. Có thể chia chúng thành nhiều nhóm, gồm ong, bướm, ruồi, bọ cánh cứng và một số loài chim.\n(5) Câu hỏi của em là: trong khu vườn này, hoa bản địa, loài mọc tự nhiên ở Nam California, có thu hút nhiều loài thụ phấn hơn hoa đến từ những nơi khác trên thế giới không?\n(6) Phương pháp\n(7) Em làm nghiên cứu ở khu vườn sau nhà thể chất trường Westview High, trường anh trai em học. Vườn do câu lạc bộ Xanh trồng hai năm trước, và nghe nói những cây hoa bản địa đầu tiên được ươm từ hạt do chính thầy giáo khoa học tự đi thu.\n(8) Em chọn bốn cây bản địa và bốn cây không bản địa có kích thước và màu sắc tương tự. Trong mười hai buổi sáng nắng tháng Ba, em quan sát mỗi cây mười phút và đếm mọi lượt ghé thăm của loài thụ phấn.\n(9) Để thí nghiệm công bằng, ngày nào em cũng đổi thứ tự quan sát các cây, để không cây nào lúc nào cũng được quan sát vào giờ ấm nhất.\n(10) Kết quả\n(11) Em đếm được 412 lượt ghé cây bản địa và 168 lượt ghé cây không bản địa, tức là nhiều gần gấp hai lần rưỡi.\n(12) Ong bản địa, phần lớn rất nhỏ, là nhóm khách đông nhất.\n(13) Hai buổi sáng nhiều gió, số lượt đếm được ở mọi cây đều thấp hơn hẳn, nên những kết quả đó có vẻ đã bị thời tiết ảnh hưởng.\n(14) Kết luận\n(15) Trong khu vườn này, hoa bản địa thu hút nhiều loài thụ phấn hơn hẳn. Tuy nhiên, em mới nghiên cứu tám cây trong một khu vườn, nên cần nghiên cứu thêm trước khi ai đó có thể nói điều này đúng ở mọi nơi.\n(16) Một ghi chú riêng: hôm hội chợ, em chắc mẩm ai cũng nghe thấy giọng em run. Sau đó, một vị giám khảo bảo em trông \"rất bình tĩnh\". Ước gì em biết điều đó trước khi bắt đầu.",
+      "word_count": 320,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.129",
+        "b2.130",
+        "b2.131",
+        "b2.132"
+      ]
+    },
+    {
+      "id": "passage_u3334_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 34) — Hiệu ứng ánh đèn sân khấu"
+      },
+      "narrator": "announcer",
+      "title": "Nobody Is Watching as Closely as You Think",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Nobody Is Watching as Closely as You Think",
+            "vi": "Không ai để ý bạn kỹ như bạn nghĩ"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Have you ever walked into a room with a coffee stain on your shirt and spent the whole meeting wishing that you were invisible?",
+            "vi": "Bạn đã bao giờ bước vào phòng với vết cà phê trên áo và cả buổi họp chỉ ước mình tàng hình chưa?"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If so, you have experienced what psychologists call the spotlight effect: the feeling that other people are noticing us far more than they really are.",
+            "vi": "Nếu có, bạn đã trải qua điều các nhà tâm lý học gọi là hiệu ứng ánh đèn sân khấu: cảm giác người khác để ý tới mình nhiều hơn thực tế rất nhiều."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In a well-known experiment in 2000, researchers at an American university asked students to put on a T-shirt with a large picture of a singer who was considered deeply uncool at the time.",
+            "vi": "Trong một thí nghiệm nổi tiếng năm 2000, các nhà nghiên cứu ở một trường đại học Mỹ đề nghị sinh viên mặc chiếc áo phông in hình to một ca sĩ bị coi là cực kỳ \"quê\" vào thời đó."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Each student then walked into a room where other students were sitting, stayed for a short time and left.",
+            "vi": "Mỗi sinh viên sau đó bước vào một căn phòng có các sinh viên khác đang ngồi, ở lại một lúc rồi ra."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Afterward, the students who had worn the shirt were asked to guess how many people in the room had noticed it. On average, they guessed about half.",
+            "vi": "Sau đó, những người đã mặc áo được hỏi đoán xem bao nhiêu người trong phòng đã để ý chiếc áo. Trung bình, họ đoán khoảng một nửa."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In fact, only about a quarter had noticed it.",
+            "vi": "Thực tế, chỉ khoảng một phần tư nhận ra."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why do we overestimate how much others notice us? One reason is simple: we are the center of our own world.",
+            "vi": "Vì sao ta đánh giá quá cao việc người khác để ý tới mình? Một lý do rất đơn giản: ta là trung tâm thế giới của chính mình."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We know exactly what we look like, what we said and how nervous we feel, so we assume that others can see it too.",
+            "vi": "Ta biết rõ mình trông thế nào, đã nói gì và đang hồi hộp tới mức nào, nên ta mặc định người khác cũng thấy được."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But other people are busy with their own worries. They are far more likely to be thinking about their own coffee stains than about yours.",
+            "vi": "Nhưng người khác bận với nỗi lo của riêng họ. Nhiều khả năng họ đang nghĩ về vết cà phê trên áo mình hơn là trên áo bạn."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A related idea is the \"illusion of transparency\": the belief that our feelings are easy for others to see.",
+            "vi": "Một khái niệm liên quan là \"ảo tưởng trong suốt\": niềm tin rằng người khác dễ dàng nhìn thấu cảm xúc của ta."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "People giving a speech often wish that the audience couldn't see how nervous they are, but studies have found that listeners notice much less nervousness than speakers expect.",
+            "vi": "Người phát biểu thường ước khán giả không thấy mình hồi hộp tới đâu, nhưng nghiên cứu cho thấy người nghe nhận ra sự hồi hộp ít hơn nhiều so với người nói tưởng."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In one study, simply telling speakers about this illusion before they spoke helped them to feel calmer and give better speeches.",
+            "vi": "Trong một nghiên cứu, chỉ cần nói cho người phát biểu biết về ảo tưởng này trước khi lên nói cũng giúp họ thấy bình tĩnh hơn và nói tốt hơn."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So the next time you wish that you could take back an embarrassing moment, remember that most people have probably forgotten it already, if they noticed it at all.",
+            "vi": "Vậy lần tới khi bạn ước có thể rút lại một khoảnh khắc ngượng ngùng, hãy nhớ rằng phần lớn mọi người có lẽ đã quên nó rồi, nếu họ có từng để ý."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The spotlight that you feel is mostly a light that you are shining on yourself.",
+            "vi": "Ánh đèn sân khấu bạn cảm thấy phần lớn là ánh đèn do chính bạn rọi vào mình."
+          }
+        }
+      ],
+      "content_ja": "Nobody Is Watching as Closely as You Think\n\nHave you ever walked into a room with a coffee stain on your shirt and spent the whole meeting wishing that you were invisible? If so, you have experienced what psychologists call the spotlight effect: the feeling that other people are noticing us far more than they really are.\n\nIn a well-known experiment in 2000, researchers at an American university asked students to put on a T-shirt with a large picture of a singer who was considered deeply uncool at the time. Each student then walked into a room where other students were sitting, stayed for a short time and left. Afterward, the students who had worn the shirt were asked to guess how many people in the room had noticed it. On average, they guessed about half. In fact, only about a quarter had noticed it.\n\nWhy do we overestimate how much others notice us? One reason is simple: we are the center of our own world. We know exactly what we look like, what we said and how nervous we feel, so we assume that others can see it too. But other people are busy with their own worries. They are far more likely to be thinking about their own coffee stains than about yours.\n\nA related idea is the \"illusion of transparency\": the belief that our feelings are easy for others to see. People giving a speech often wish that the audience couldn't see how nervous they are, but studies have found that listeners notice much less nervousness than speakers expect. In one study, simply telling speakers about this illusion before they spoke helped them to feel calmer and give better speeches.\n\nSo the next time you wish that you could take back an embarrassing moment, remember that most people have probably forgotten it already, if they noticed it at all. The spotlight that you feel is mostly a light that you are shining on yourself.",
+      "translation_vn": "(1) Không ai để ý bạn kỹ như bạn nghĩ\n(2) Bạn đã bao giờ bước vào phòng với vết cà phê trên áo và cả buổi họp chỉ ước mình tàng hình chưa?\n(3) Nếu có, bạn đã trải qua điều các nhà tâm lý học gọi là hiệu ứng ánh đèn sân khấu: cảm giác người khác để ý tới mình nhiều hơn thực tế rất nhiều.\n(4) Trong một thí nghiệm nổi tiếng năm 2000, các nhà nghiên cứu ở một trường đại học Mỹ đề nghị sinh viên mặc chiếc áo phông in hình to một ca sĩ bị coi là cực kỳ \"quê\" vào thời đó.\n(5) Mỗi sinh viên sau đó bước vào một căn phòng có các sinh viên khác đang ngồi, ở lại một lúc rồi ra.\n(6) Sau đó, những người đã mặc áo được hỏi đoán xem bao nhiêu người trong phòng đã để ý chiếc áo. Trung bình, họ đoán khoảng một nửa.\n(7) Thực tế, chỉ khoảng một phần tư nhận ra.\n(8) Vì sao ta đánh giá quá cao việc người khác để ý tới mình? Một lý do rất đơn giản: ta là trung tâm thế giới của chính mình.\n(9) Ta biết rõ mình trông thế nào, đã nói gì và đang hồi hộp tới mức nào, nên ta mặc định người khác cũng thấy được.\n(10) Nhưng người khác bận với nỗi lo của riêng họ. Nhiều khả năng họ đang nghĩ về vết cà phê trên áo mình hơn là trên áo bạn.\n(11) Một khái niệm liên quan là \"ảo tưởng trong suốt\": niềm tin rằng người khác dễ dàng nhìn thấu cảm xúc của ta.\n(12) Người phát biểu thường ước khán giả không thấy mình hồi hộp tới đâu, nhưng nghiên cứu cho thấy người nghe nhận ra sự hồi hộp ít hơn nhiều so với người nói tưởng.\n(13) Trong một nghiên cứu, chỉ cần nói cho người phát biểu biết về ảo tưởng này trước khi lên nói cũng giúp họ thấy bình tĩnh hơn và nói tốt hơn.\n(14) Vậy lần tới khi bạn ước có thể rút lại một khoảnh khắc ngượng ngùng, hãy nhớ rằng phần lớn mọi người có lẽ đã quên nó rồi, nếu họ có từng để ý.\n(15) Ánh đèn sân khấu bạn cảm thấy phần lớn là ánh đèn do chính bạn rọi vào mình.",
+      "word_count": 328,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.133",
+        "b2.134",
+        "b2.135",
+        "b2.136"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u3334_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "What was Tina's question?",
+        "vi": "Câu hỏi của Tina là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how to plant a garden at Westview High so that more bees would visit it in spring",
+            "vi": "cách trồng một khu vườn ở Westview High để mùa xuân có nhiều ong ghé hơn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how to plant a garden at Westview High so that more bees would visit it in spring",
+          "text_translation": "cách trồng một khu vườn ở Westview High để mùa xuân có nhiều ong ghé hơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "whether non-native flowers attract more pollinators than native ones in the Westview High garden",
+            "vi": "liệu hoa không bản địa có thu hút nhiều loài thụ phấn hơn hoa bản địa trong vườn trường Westview High không"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "whether non-native flowers attract more pollinators than native ones in the Westview High garden",
+          "text_translation": "liệu hoa không bản địa có thu hút nhiều loài thụ phấn hơn hoa bản địa trong vườn trường Westview High không"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "whether native flowers attract more pollinators than non-native ones in the Westview High garden",
+            "vi": "liệu hoa bản địa có thu hút nhiều loài thụ phấn hơn hoa không bản địa trong vườn trường Westview High không"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "whether native flowers attract more pollinators than non-native ones in the Westview High garden",
+          "text_translation": "liệu hoa bản địa có thu hút nhiều loài thụ phấn hơn hoa không bản địa trong vườn trường Westview High không"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "which pollinators prefer flowers that grow in other parts of the world in a school garden",
+            "vi": "loài thụ phấn nào thích hoa mọc ở những nơi khác trên thế giới trong một khu vườn trường"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "which pollinators prefer flowers that grow in other parts of the world in a school garden",
+          "text_translation": "loài thụ phấn nào thích hoa mọc ở những nơi khác trên thế giới trong một khu vườn trường"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"My question was: in this garden, do native flowers, which grow naturally in Southern California, attract more pollinators than flowers from other parts of the world?\""
+      },
+      "audio_data": null,
+      "question_jp": "What was Tina's question?",
+      "question_vn": "Câu hỏi của Tina là gì?",
+      "explanation": "\"My question was: in this garden, do native flowers, which grow naturally in Southern California, attract more pollinators than flowers from other parts of the world?\""
+    },
+    {
+      "id": "q_u3334_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "How is a pollinator defined in the report?",
+        "vi": "Báo cáo định nghĩa loài thụ phấn thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "any insect that lives in a garden and feeds on the nectar of flowers all year",
+            "vi": "bất kỳ côn trùng nào sống trong vườn và ăn mật hoa quanh năm"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "any insect that lives in a garden and feeds on the nectar of flowers all year",
+          "text_translation": "bất kỳ côn trùng nào sống trong vườn và ăn mật hoa quanh năm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "any bee that makes honey from the flowers growing in a school garden",
+            "vi": "bất kỳ con ong nào làm mật từ những bông hoa mọc trong vườn trường"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "any bee that makes honey from the flowers growing in a school garden",
+          "text_translation": "bất kỳ con ong nào làm mật từ những bông hoa mọc trong vườn trường"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a kind of flower",
+            "vi": "một loại hoa"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a kind of flower",
+          "text_translation": "một loại hoa"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a bee that makes honey",
+            "vi": "một con ong làm mật"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a bee that makes honey",
+          "text_translation": "một con ong làm mật"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"A pollinator is defined as any animal that carries pollen from one flower to another.\" Is defined as = được định nghĩa là."
+      },
+      "audio_data": null,
+      "question_jp": "How is a pollinator defined in the report?",
+      "question_vn": "Báo cáo định nghĩa loài thụ phấn thế nào?",
+      "explanation": "\"A pollinator is defined as any animal that carries pollen from one flower to another.\" Is defined as = được định nghĩa là."
+    },
+    {
+      "id": "q_u3334_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "What does \"its first native flowers are said to have been grown from seeds\" tell us?",
+        "vi": "Câu \"nghe nói những cây hoa bản địa đầu tiên được ươm từ hạt\" cho biết điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The seeds will be planted by the Green Club next year, after the science fair.",
+            "vi": "Năm sau, sau hội chợ khoa học, Câu lạc bộ Xanh sẽ gieo những hạt giống này"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The seeds will be planted by the Green Club next year, after the science fair.",
+          "text_translation": "Năm sau, sau hội chợ khoa học, Câu lạc bộ Xanh sẽ gieo những hạt giống này"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tina collected the seeds herself and watched the flowers grow for two years.",
+            "vi": "Chính Tina thu hạt giống và theo dõi hoa lớn suốt hai năm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Tina collected the seeds herself and watched the flowers grow for two years.",
+          "text_translation": "Chính Tina thu hạt giống và theo dõi hoa lớn suốt hai năm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The flowers are being grown from seeds that the students are collecting now.",
+            "vi": "Hoa đang được ươm từ những hạt giống mà học sinh đang thu thập lúc này."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The flowers are being grown from seeds that the students are collecting now.",
+          "text_translation": "Hoa đang được ươm từ những hạt giống mà học sinh đang thu thập lúc này."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "People say that this happened in the past, but Tina herself did not see it happen.",
+            "vi": "Người ta kể chuyện này đã xảy ra trong quá khứ, nhưng chính Tina không tận mắt thấy."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "People say that this happened in the past, but Tina herself did not see it happen.",
+          "text_translation": "Người ta kể chuyện này đã xảy ra trong quá khứ, nhưng chính Tina không tận mắt thấy."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"its first native flowers are said to have been grown from seeds that the science teacher collected himself.\" Are said to have been + V3 = nghe nói đã được làm. Bị động hoàn thành nguyên mẫu nói về việc trong quá khứ mà người viết chỉ nghe kể."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"its first native flowers are said to have been grown from seeds\" tell us?",
+      "question_vn": "Câu \"nghe nói những cây hoa bản địa đầu tiên được ươm từ hạt\" cho biết điều gì?",
+      "explanation": "\"its first native flowers are said to have been grown from seeds that the science teacher collected himself.\" Are said to have been + V3 = nghe nói đã được làm. Bị động hoàn thành nguyên mẫu nói về việc trong quá khứ mà người viết chỉ nghe kể."
+    },
+    {
+      "id": "q_u3334_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "How did Tina make her test fair?",
+        "vi": "Tina làm thí nghiệm công bằng bằng cách nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "by watching only the native plants, so that she could count their visits more easily",
+            "vi": "chỉ quan sát cây bản địa để đếm lượt ghé của chúng dễ hơn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "by watching only the native plants, so that she could count their visits more easily",
+          "text_translation": "chỉ quan sát cây bản địa để đếm lượt ghé của chúng dễ hơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "by changing the order in which she watched the plants every day",
+            "vi": "ngày nào cũng đổi thứ tự quan sát các cây"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "by changing the order in which she watched the plants every day",
+          "text_translation": "ngày nào cũng đổi thứ tự quan sát các cây"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "by asking her friends to watch half of the plants while she watched the others",
+            "vi": "nhờ bạn bè theo dõi một nửa số cây trong lúc cô bé theo dõi số còn lại"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "by asking her friends to watch half of the plants while she watched the others",
+          "text_translation": "nhờ bạn bè theo dõi một nửa số cây trong lúc cô bé theo dõi số còn lại"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "by watching the plants at the same warm time of the day every morning",
+            "vi": "ngày nào cũng quan sát các cây vào đúng cùng một giờ ấm áp trong ngày"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "by watching the plants at the same warm time of the day every morning",
+          "text_translation": "ngày nào cũng quan sát các cây vào đúng cùng một giờ ấm áp trong ngày"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"I changed the order in which I watched the plants every day, so that no plant was always watched at the warmest time.\""
+      },
+      "audio_data": null,
+      "question_jp": "How did Tina make her test fair?",
+      "question_vn": "Tina làm thí nghiệm công bằng bằng cách nào?",
+      "explanation": "\"I changed the order in which I watched the plants every day, so that no plant was always watched at the warmest time.\""
+    },
+    {
+      "id": "q_u3334_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "Why did Tina choose plants of similar size and color?",
+        "vi": "Vì sao Tina chọn những cây có kích thước và màu sắc tương tự?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because they were the cheapest plants that the Green Club could buy for the garden behind the gym",
+            "vi": "vì đó là những cây rẻ nhất mà Câu lạc bộ Xanh có thể mua cho khu vườn sau nhà thi đấu"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because they were the cheapest plants that the Green Club could buy for the garden behind the gym",
+          "text_translation": "vì đó là những cây rẻ nhất mà Câu lạc bộ Xanh có thể mua cho khu vườn sau nhà thi đấu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the judges at the fair had asked her to choose plants that looked the same",
+            "vi": "vì giám khảo ở hội chợ đã yêu cầu cô bé chọn những cây trông giống nhau"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the judges at the fair had asked her to choose plants that looked the same",
+          "text_translation": "vì giám khảo ở hội chợ đã yêu cầu cô bé chọn những cây trông giống nhau"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "so that size and color would not affect the results, and only the type of plant was different",
+            "vi": "để kích thước và màu sắc không ảnh hưởng kết quả, chỉ có loại cây là khác"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "so that size and color would not affect the results, and only the type of plant was different",
+          "text_translation": "để kích thước và màu sắc không ảnh hưởng kết quả, chỉ có loại cây là khác"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because she wanted to tell the plants apart easily when she was counting the visits",
+            "vi": "vì cô bé muốn dễ phân biệt các cây khi đếm lượt ghé"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because she wanted to tell the plants apart easily when she was counting the visits",
+          "text_translation": "vì cô bé muốn dễ phân biệt các cây khi đếm lượt ghé"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Nếu một nhóm cây to hơn hay sặc sỡ hơn, kết quả có thể do kích thước, màu sắc chứ không phải do là cây bản địa. Đây là cách giữ một biến số duy nhất."
+      },
+      "audio_data": null,
+      "question_jp": "Why did Tina choose plants of similar size and color?",
+      "question_vn": "Vì sao Tina chọn những cây có kích thước và màu sắc tương tự?",
+      "explanation": "Câu suy luận. Nếu một nhóm cây to hơn hay sặc sỡ hơn, kết quả có thể do kích thước, màu sắc chứ không phải do là cây bản địa. Đây là cách giữ một biến số duy nhất."
+    },
+    {
+      "id": "q_u3334_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "How many more visits did the native plants receive?",
+        "vi": "Cây bản địa nhận được nhiều lượt ghé hơn bao nhiêu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "almost two and a half times as many as the non-native plants",
+            "vi": "gần gấp hai lần rưỡi so với cây không bản địa"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "almost two and a half times as many as the non-native plants",
+          "text_translation": "gần gấp hai lần rưỡi so với cây không bản địa"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "about the same number as the non-native plants had received",
+            "vi": "gần bằng số lượt mà cây không bản địa nhận được"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "about the same number as the non-native plants had received",
+          "text_translation": "gần bằng số lượt mà cây không bản địa nhận được"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "ten times as many as the non-native plants had received",
+            "vi": "gấp mười lần số lượt mà cây không bản địa nhận được"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "ten times as many as the non-native plants had received",
+          "text_translation": "gấp mười lần số lượt mà cây không bản địa nhận được"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "fewer visits than the non-native plants had received",
+            "vi": "ít lượt hơn so với cây không bản địa"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "fewer visits than the non-native plants had received",
+          "text_translation": "ít lượt hơn so với cây không bản địa"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"412 visits to the native plants and 168 visits to the non-native plants, which is almost two and a half times as many.\""
+      },
+      "audio_data": null,
+      "question_jp": "How many more visits did the native plants receive?",
+      "question_vn": "Cây bản địa nhận được nhiều lượt ghé hơn bao nhiêu?",
+      "explanation": "\"412 visits to the native plants and 168 visits to the non-native plants, which is almost two and a half times as many.\""
+    },
+    {
+      "id": "q_u3334_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "Why does Tina think that the results from two mornings were affected by the weather?",
+        "vi": "Vì sao Tina nghĩ kết quả của hai buổi sáng bị thời tiết ảnh hưởng?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because it rained heavily on both mornings and the plants were wet",
+            "vi": "vì cả hai buổi sáng trời mưa to và cây bị ướt"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because it rained heavily on both mornings and the plants were wet",
+          "text_translation": "vì cả hai buổi sáng trời mưa to và cây bị ướt"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because she arrived late and could only watch each plant for five minutes",
+            "vi": "vì cô bé đến muộn và chỉ quan sát được mỗi cây năm phút"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because she arrived late and could only watch each plant for five minutes",
+          "text_translation": "vì cô bé đến muộn và chỉ quan sát được mỗi cây năm phút"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the plants had died after the Green Club forgot to water them",
+            "vi": "vì cây đã chết sau khi Câu lạc bộ Xanh quên tưới nước"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the plants had died after the Green Club forgot to water them",
+          "text_translation": "vì cây đã chết sau khi Câu lạc bộ Xanh quên tưới nước"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the counts were much lower for all plants on those windy mornings",
+            "vi": "vì vào hai buổi sáng nhiều gió ấy, số lượt ở mọi cây đều thấp hơn hẳn"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because the counts were much lower for all plants on those windy mornings",
+          "text_translation": "vì vào hai buổi sáng nhiều gió ấy, số lượt ở mọi cây đều thấp hơn hẳn"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"the counts were much lower for all plants, so those results seem to have been affected by the weather.\" Seem to have been + V3 = có vẻ đã bị."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Tina think that the results from two mornings were affected by the weather?",
+      "question_vn": "Vì sao Tina nghĩ kết quả của hai buổi sáng bị thời tiết ảnh hưởng?",
+      "explanation": "\"the counts were much lower for all plants, so those results seem to have been affected by the weather.\" Seem to have been + V3 = có vẻ đã bị."
+    },
+    {
+      "id": "q_u3334_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "Why does Tina say that \"more research is needed\"?",
+        "vi": "Vì sao Tina nói \"cần nghiên cứu thêm\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because her results were wrong and the judges had told her to start again",
+            "vi": "vì kết quả của cô bé sai và giám khảo đã bảo cô bé làm lại từ đầu"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because her results were wrong and the judges had told her to start again",
+          "text_translation": "vì kết quả của cô bé sai và giám khảo đã bảo cô bé làm lại từ đầu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because she studied only eight plants in one garden",
+            "vi": "vì cô bé chỉ nghiên cứu tám cây trong một khu vườn"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because she studied only eight plants in one garden",
+          "text_translation": "vì cô bé chỉ nghiên cứu tám cây trong một khu vườn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the judges didn't like her method for choosing the eight plants",
+            "vi": "vì giám khảo không thích cách cô bé chọn tám cây"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the judges didn't like her method for choosing the eight plants",
+          "text_translation": "vì giám khảo không thích cách cô bé chọn tám cây"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because she wants to repeat the same test at a different school next year",
+            "vi": "vì cô bé muốn lặp lại cùng thí nghiệm ở một trường khác vào năm sau"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because she wants to repeat the same test at a different school next year",
+          "text_translation": "vì cô bé muốn lặp lại cùng thí nghiệm ở một trường khác vào năm sau"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"I only studied eight plants in one garden, so more research is needed before anyone can say that this is true everywhere.\" Đây là thái độ khoa học thận trọng."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Tina say that \"more research is needed\"?",
+      "question_vn": "Vì sao Tina nói \"cần nghiên cứu thêm\"?",
+      "explanation": "\"I only studied eight plants in one garden, so more research is needed before anyone can say that this is true everywhere.\" Đây là thái độ khoa học thận trọng."
+    },
+    {
+      "id": "q_u3334_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "What does Tina mean by \"I wish I had known that before I started\"?",
+        "vi": "Tina muốn nói gì qua câu \"Ước gì em biết điều đó trước khi bắt đầu\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She regrets worrying so much, because nobody noticed that she was nervous at all.",
+            "vi": "Cô bé tiếc vì đã lo nhiều quá, khi chẳng ai nhận ra cô hồi hộp."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She regrets worrying so much, because nobody noticed that she was nervous at all.",
+          "text_translation": "Cô bé tiếc vì đã lo nhiều quá, khi chẳng ai nhận ra cô hồi hộp."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She wishes she had studied more plants before the judges came to see her work.",
+            "vi": "Cô bé ước đã nghiên cứu nhiều cây hơn trước khi giám khảo đến xem bài của mình."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She wishes she had studied more plants before the judges came to see her work.",
+          "text_translation": "Cô bé ước đã nghiên cứu nhiều cây hơn trước khi giám khảo đến xem bài của mình."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She wishes the judges had been kinder, because their comments made her nervous.",
+            "vi": "Cô bé ước giám khảo tử tế hơn, vì những nhận xét của họ làm cô bé hồi hộp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She wishes the judges had been kinder, because their comments made her nervous.",
+          "text_translation": "Cô bé ước giám khảo tử tế hơn, vì những nhận xét của họ làm cô bé hồi hộp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She didn't want to take part in the fair, because she thought it would be boring.",
+            "vi": "Cô bé không muốn tham gia hội chợ, vì nghĩ rằng nó sẽ chán"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She didn't want to take part in the fair, because she thought it would be boring.",
+          "text_translation": "Cô bé không muốn tham gia hội chợ, vì nghĩ rằng nó sẽ chán"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Cô bé tưởng ai cũng nghe giọng mình run, nhưng giám khảo lại thấy cô \"very calm\". Wish + had + V3 = tiếc về quá khứ."
+      },
+      "audio_data": null,
+      "question_jp": "What does Tina mean by \"I wish I had known that before I started\"?",
+      "question_vn": "Tina muốn nói gì qua câu \"Ước gì em biết điều đó trước khi bắt đầu\"?",
+      "explanation": "Câu suy luận. Cô bé tưởng ai cũng nghe giọng mình run, nhưng giám khảo lại thấy cô \"very calm\". Wish + had + V3 = tiếc về quá khứ."
+    },
+    {
+      "id": "q_u3334_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "What kind of attitude does Tina show in her conclusion?",
+        "vi": "Phần kết luận cho thấy Tina có thái độ thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is sure that her results are true in every garden in the whole world.",
+            "vi": "Cô bé chắc chắn kết quả của mình đúng ở mọi khu vườn trên khắp thế giới"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She is sure that her results are true in every garden in the whole world.",
+          "text_translation": "Cô bé chắc chắn kết quả của mình đúng ở mọi khu vườn trên khắp thế giới"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She thinks that science is boring and that nobody should repeat her work.",
+            "vi": "Cô bé nghĩ khoa học nhàm chán và không ai nên lặp lại công trình của mình."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She thinks that science is boring and that nobody should repeat her work.",
+          "text_translation": "Cô bé nghĩ khoa học nhàm chán và không ai nên lặp lại công trình của mình."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She is careful not to claim more than her small study of eight plants can show.",
+            "vi": "Cô bé thận trọng, không khẳng định quá những gì nghiên cứu nhỏ với tám cây có thể cho thấy."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She is careful not to claim more than her small study of eight plants can show.",
+          "text_translation": "Cô bé thận trọng, không khẳng định quá những gì nghiên cứu nhỏ với tám cây có thể cho thấy."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She doesn't trust her own results, so she asks the judges to check them.",
+            "vi": "Cô bé không tin kết quả của mình, nên nhờ giám khảo kiểm tra."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She doesn't trust her own results, so she asks the judges to check them.",
+          "text_translation": "Cô bé không tin kết quả của mình, nên nhờ giám khảo kiểm tra."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi thái độ. Cô bé khẳng định kết quả \"In this garden\", rồi nêu rõ giới hạn của nghiên cứu."
+      },
+      "audio_data": null,
+      "question_jp": "What kind of attitude does Tina show in her conclusion?",
+      "question_vn": "Phần kết luận cho thấy Tina có thái độ thế nào?",
+      "explanation": "Câu hỏi thái độ. Cô bé khẳng định kết quả \"In this garden\", rồi nêu rõ giới hạn của nghiên cứu."
+    },
+    {
+      "id": "q_u3334_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "What is the main idea of the article?",
+        "vi": "Ý chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "People should never wear funny T-shirts to a meeting or a school event.",
+            "vi": "Không bao giờ nên mặc áo phông ngộ nghĩnh đến buổi họp hay sự kiện ở trường."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "People should never wear funny T-shirts to a meeting or a school event.",
+          "text_translation": "Không bao giờ nên mặc áo phông ngộ nghĩnh đến buổi họp hay sự kiện ở trường."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "People notice us much less than we think they do, and most forget it soon.",
+            "vi": "Người khác để ý tới ta ít hơn nhiều so với ta nghĩ, và phần lớn nhanh quên."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "People notice us much less than we think they do, and most forget it soon.",
+          "text_translation": "Người khác để ý tới ta ít hơn nhiều so với ta nghĩ, và phần lớn nhanh quên."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Giving a speech is always frightening, even for people who practise a lot.",
+            "vi": "Phát biểu lúc nào cũng đáng sợ, kể cả với người luyện tập nhiều."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Giving a speech is always frightening, even for people who practise a lot.",
+          "text_translation": "Phát biểu lúc nào cũng đáng sợ, kể cả với người luyện tập nhiều."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Coffee stains are hard to remove from clothes, so people should be careful.",
+            "vi": "Vết cà phê khó tẩy khỏi quần áo, nên mọi người cần cẩn thận."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Coffee stains are hard to remove from clothes, so people should be careful.",
+          "text_translation": "Vết cà phê khó tẩy khỏi quần áo, nên mọi người cần cẩn thận."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"the spotlight effect: the feeling that other people are noticing us far more than they really are.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the main idea of the article?",
+      "question_vn": "Ý chính của bài báo là gì?",
+      "explanation": "\"the spotlight effect: the feeling that other people are noticing us far more than they really are.\""
+    },
+    {
+      "id": "q_u3334_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "What is the spotlight effect?",
+        "vi": "Hiệu ứng ánh đèn sân khấu là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a way of lighting a stage so that every actor can be seen by the audience",
+            "vi": "một cách chiếu sáng sân khấu để khán giả nhìn thấy mọi diễn viên"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a way of lighting a stage so that every actor can be seen by the audience",
+          "text_translation": "một cách chiếu sáng sân khấu để khán giả nhìn thấy mọi diễn viên"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the fear of speaking in public in front of a large group of strangers",
+            "vi": "nỗi sợ nói trước đám đông gồm nhiều người lạ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the fear of speaking in public in front of a large group of strangers",
+          "text_translation": "nỗi sợ nói trước đám đông gồm nhiều người lạ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the habit of looking at ourselves in mirrors before we go into a room",
+            "vi": "thói quen soi gương trước khi bước vào một căn phòng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the habit of looking at ourselves in mirrors before we go into a room",
+          "text_translation": "thói quen soi gương trước khi bước vào một căn phòng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the feeling that other people notice us far more than they really do",
+            "vi": "cảm giác người khác để ý tới ta nhiều hơn thực tế rất nhiều"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the feeling that other people notice us far more than they really do",
+          "text_translation": "cảm giác người khác để ý tới ta nhiều hơn thực tế rất nhiều"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"what psychologists call the spotlight effect: the feeling that other people are noticing us far more than they really are.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the spotlight effect?",
+      "question_vn": "Hiệu ứng ánh đèn sân khấu là gì?",
+      "explanation": "\"what psychologists call the spotlight effect: the feeling that other people are noticing us far more than they really are.\""
+    },
+    {
+      "id": "q_u3334_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "What did the students who wore the T-shirt guess?",
+        "vi": "Những sinh viên mặc áo đã đoán thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "that about half of the people in the room had noticed the picture on it",
+            "vi": "rằng khoảng một nửa số người trong phòng đã để ý hình trên áo"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "that about half of the people in the room had noticed the picture on it",
+          "text_translation": "rằng khoảng một nửa số người trong phòng đã để ý hình trên áo"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that nobody in the room had noticed the picture on the T-shirt",
+            "vi": "rằng không ai trong phòng để ý hình trên chiếc áo phông"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "that nobody in the room had noticed the picture on the T-shirt",
+          "text_translation": "rằng không ai trong phòng để ý hình trên chiếc áo phông"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that everyone in the room had noticed it and remembered it afterward",
+            "vi": "rằng mọi người trong phòng đều để ý và nhớ nó về sau"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "that everyone in the room had noticed it and remembered it afterward",
+          "text_translation": "rằng mọi người trong phòng đều để ý và nhớ nó về sau"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that only about a quarter of the people in the room had noticed it",
+            "vi": "rằng chỉ khoảng một phần tư số người trong phòng đã để ý"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "that only about a quarter of the people in the room had noticed it",
+          "text_translation": "rằng chỉ khoảng một phần tư số người trong phòng đã để ý"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"On average, they guessed about half.\" Một phần tư là con số thực tế."
+      },
+      "audio_data": null,
+      "question_jp": "What did the students who wore the T-shirt guess?",
+      "question_vn": "Những sinh viên mặc áo đã đoán thế nào?",
+      "explanation": "\"On average, they guessed about half.\" Một phần tư là con số thực tế."
+    },
+    {
+      "id": "q_u3334_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "What did the experiment show?",
+        "vi": "Thí nghiệm cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Everyone in the room noticed the shirt, and most students remembered the singer.",
+            "vi": "Ai trong phòng cũng để ý chiếc áo, và phần lớn sinh viên nhớ ca sĩ đó."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Everyone in the room noticed the shirt, and most students remembered the singer.",
+          "text_translation": "Ai trong phòng cũng để ý chiếc áo, và phần lớn sinh viên nhớ ca sĩ đó."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The singer on the T-shirt was very popular with the students at the time.",
+            "vi": "Ca sĩ trên chiếc áo phông khi ấy rất được sinh viên yêu thích."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The singer on the T-shirt was very popular with the students at the time.",
+          "text_translation": "Ca sĩ trên chiếc áo phông khi ấy rất được sinh viên yêu thích."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Only about a quarter noticed, much fewer than the students in the shirt guessed.",
+            "vi": "Chỉ khoảng một phần tư để ý, ít hơn nhiều so với người mặc đoán."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Only about a quarter noticed, much fewer than the students in the shirt guessed.",
+          "text_translation": "Chỉ khoảng một phần tư để ý, ít hơn nhiều so với người mặc đoán."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The students who wore the shirt guessed correctly how many people had noticed it.",
+            "vi": "Những sinh viên mặc áo đã đoán đúng có bao nhiêu người để ý."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The students who wore the shirt guessed correctly how many people had noticed it.",
+          "text_translation": "Những sinh viên mặc áo đã đoán đúng có bao nhiêu người để ý."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"In fact, only about a quarter had noticed it.\" Những người mặc áo đoán gấp đôi con số thực."
+      },
+      "audio_data": null,
+      "question_jp": "What did the experiment show?",
+      "question_vn": "Thí nghiệm cho thấy điều gì?",
+      "explanation": "\"In fact, only about a quarter had noticed it.\" Những người mặc áo đoán gấp đôi con số thực."
+    },
+    {
+      "id": "q_u3334_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "According to the article, why do we overestimate how much others notice us?",
+        "vi": "Theo bài, vì sao ta đánh giá quá cao việc người khác để ý tới mình?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because other people are always watching us closely and waiting for us to make mistakes",
+            "vi": "vì người khác lúc nào cũng quan sát ta kỹ và chờ ta mắc lỗi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because other people are always watching us closely and waiting for us to make mistakes",
+          "text_translation": "vì người khác lúc nào cũng quan sát ta kỹ và chờ ta mắc lỗi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because we are the center of our own world, so we assume that others see what we see",
+            "vi": "vì ta là trung tâm thế giới của mình, nên mặc định người khác cũng thấy điều ta thấy"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because we are the center of our own world, so we assume that others see what we see",
+          "text_translation": "vì ta là trung tâm thế giới của mình, nên mặc định người khác cũng thấy điều ta thấy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because we wear bright clothes that make other people look at us",
+            "vi": "vì ta mặc đồ sặc sỡ khiến người khác nhìn ta"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because we wear bright clothes that make other people look at us",
+          "text_translation": "vì ta mặc đồ sặc sỡ khiến người khác nhìn ta"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because we are not intelligent enough to see what other people are really thinking",
+            "vi": "vì ta không đủ thông minh để thấy người khác thật sự nghĩ gì"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because we are not intelligent enough to see what other people are really thinking",
+          "text_translation": "vì ta không đủ thông minh để thấy người khác thật sự nghĩ gì"
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"we are the center of our own world.\" và \"we assume that others can see it too.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to the article, why do we overestimate how much others notice us?",
+      "question_vn": "Theo bài, vì sao ta đánh giá quá cao việc người khác để ý tới mình?",
+      "explanation": "\"we are the center of our own world.\" và \"we assume that others can see it too.\""
+    },
+    {
+      "id": "q_u3334_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "What does \"They are far more likely to be thinking about their own coffee stains than about yours\" suggest?",
+        "vi": "Câu \"Nhiều khả năng họ đang nghĩ về vết cà phê trên áo mình hơn là trên áo bạn\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Everyone has coffee stains on their clothes, so nobody can see yours at all.",
+            "vi": "Ai cũng có vết cà phê trên áo, nên chẳng ai thấy vết của bạn cả."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Everyone has coffee stains on their clothes, so nobody can see yours at all.",
+          "text_translation": "Ai cũng có vết cà phê trên áo, nên chẳng ai thấy vết của bạn cả."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "People don't drink coffee in meetings, so they will not notice any stains.",
+            "vi": "Người ta không uống cà phê trong cuộc họp, nên sẽ không để ý vết bẩn nào."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "People don't drink coffee in meetings, so they will not notice any stains.",
+          "text_translation": "Người ta không uống cà phê trong cuộc họp, nên sẽ không để ý vết bẩn nào."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Others are watching you closely and will remember your stain.",
+            "vi": "Người khác đang nhìn bạn kỹ và sẽ nhớ vết bẩn của bạn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Others are watching you closely and will remember your stain.",
+          "text_translation": "Người khác đang nhìn bạn kỹ và sẽ nhớ vết bẩn của bạn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Other people are mostly thinking about their own worries, not about you.",
+            "vi": "Người khác phần lớn đang nghĩ về nỗi lo của chính họ, không phải về bạn."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Other people are mostly thinking about their own worries, not about you.",
+          "text_translation": "Người khác phần lớn đang nghĩ về nỗi lo của chính họ, không phải về bạn."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"other people are busy with their own worries.\" \"Vết cà phê\" ở đây là cách nói hình ảnh cho nỗi lo riêng của mỗi người."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"They are far more likely to be thinking about their own coffee stains than about yours\" suggest?",
+      "question_vn": "Câu \"Nhiều khả năng họ đang nghĩ về vết cà phê trên áo mình hơn là trên áo bạn\" hàm ý gì?",
+      "explanation": "Câu suy luận. \"other people are busy with their own worries.\" \"Vết cà phê\" ở đây là cách nói hình ảnh cho nỗi lo riêng của mỗi người."
+    },
+    {
+      "id": "q_u3334_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "What is the \"illusion of transparency\"?",
+        "vi": "\"Ảo tưởng trong suốt\" là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the belief that our feelings are easy for other people to see",
+            "vi": "niềm tin rằng người khác dễ nhìn thấy cảm xúc của ta"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the belief that our feelings are easy for other people to see",
+          "text_translation": "niềm tin rằng người khác dễ nhìn thấy cảm xúc của ta"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the ability to see through glass windows and doors from far away",
+            "vi": "khả năng nhìn xuyên qua cửa kính và cửa ra vào từ rất xa"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the ability to see through glass windows and doors from far away",
+          "text_translation": "khả năng nhìn xuyên qua cửa kính và cửa ra vào từ rất xa"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the habit of always telling other people the truth about how we feel",
+            "vi": "thói quen luôn nói thật với người khác về cảm xúc của mình"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the habit of always telling other people the truth about how we feel",
+          "text_translation": "thói quen luôn nói thật với người khác về cảm xúc của mình"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the fear of being invisible when we walk into a room full of people",
+            "vi": "nỗi sợ bị vô hình khi bước vào căn phòng đầy người"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the fear of being invisible when we walk into a room full of people",
+          "text_translation": "nỗi sợ bị vô hình khi bước vào căn phòng đầy người"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"the belief that our feelings are easy for others to see.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the \"illusion of transparency\"?",
+      "question_vn": "\"Ảo tưởng trong suốt\" là gì?",
+      "explanation": "\"the belief that our feelings are easy for others to see.\""
+    },
+    {
+      "id": "q_u3334_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "What helped speakers feel calmer in one study?",
+        "vi": "Trong một nghiên cứu, điều gì giúp người phát biểu thấy bình tĩnh hơn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "drinking a cup of coffee with friends just before they started speaking",
+            "vi": "uống một tách cà phê với bạn bè ngay trước khi bắt đầu nói"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "drinking a cup of coffee with friends just before they started speaking",
+          "text_translation": "uống một tách cà phê với bạn bè ngay trước khi bắt đầu nói"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "wearing a funny T-shirt while they gave their speeches to the audience",
+            "vi": "mặc áo phông ngộ nghĩnh khi phát biểu trước khán giả"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "wearing a funny T-shirt while they gave their speeches to the audience",
+          "text_translation": "mặc áo phông ngộ nghĩnh khi phát biểu trước khán giả"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "being told about the illusion of transparency before they spoke",
+            "vi": "được nói cho biết về ảo tưởng trong suốt trước khi lên nói"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "being told about the illusion of transparency before they spoke",
+          "text_translation": "được nói cho biết về ảo tưởng trong suốt trước khi lên nói"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "speaking to a smaller audience than the one they had expected",
+            "vi": "nói trước một nhóm khán giả nhỏ hơn nhóm họ đã dự kiến"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "speaking to a smaller audience than the one they had expected",
+          "text_translation": "nói trước một nhóm khán giả nhỏ hơn nhóm họ đã dự kiến"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"simply telling speakers about this illusion before they spoke helped them to feel calmer and give better speeches.\""
+      },
+      "audio_data": null,
+      "question_jp": "What helped speakers feel calmer in one study?",
+      "question_vn": "Trong một nghiên cứu, điều gì giúp người phát biểu thấy bình tĩnh hơn?",
+      "explanation": "\"simply telling speakers about this illusion before they spoke helped them to feel calmer and give better speeches.\""
+    },
+    {
+      "id": "q_u3334_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "What does the writer mean by \"The spotlight that you feel is mostly a light that you are shining on yourself\"?",
+        "vi": "Người viết muốn nói gì qua câu \"Ánh đèn sân khấu bạn cảm thấy phần lớn là ánh đèn do chính bạn rọi vào mình\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "You should buy a strong lamp so that people can see you more clearly.",
+            "vi": "Bạn nên mua một chiếc đèn mạnh để mọi người nhìn bạn rõ hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "You should buy a strong lamp so that people can see you more clearly.",
+          "text_translation": "Bạn nên mua một chiếc đèn mạnh để mọi người nhìn bạn rõ hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The feeling of being watched mostly comes from your own mind.",
+            "vi": "Cảm giác bị theo dõi phần lớn đến từ chính đầu óc bạn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The feeling of being watched mostly comes from your own mind.",
+          "text_translation": "Cảm giác bị theo dõi phần lớn đến từ chính đầu óc bạn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Other people shine lights on you because they are interested in what you do.",
+            "vi": "Người khác rọi đèn vào bạn vì họ quan tâm đến việc bạn làm."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Other people shine lights on you because they are interested in what you do.",
+          "text_translation": "Người khác rọi đèn vào bạn vì họ quan tâm đến việc bạn làm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "You should stay in the dark so that nobody can notice your mistakes.",
+            "vi": "Bạn nên ở trong bóng tối để không ai nhận ra lỗi của bạn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "You should stay in the dark so that nobody can notice your mistakes.",
+          "text_translation": "Bạn nên ở trong bóng tối để không ai nhận ra lỗi của bạn."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về ẩn dụ. Không phải người khác soi mình, mà chính mình tự soi mình."
+      },
+      "audio_data": null,
+      "question_jp": "What does the writer mean by \"The spotlight that you feel is mostly a light that you are shining on yourself\"?",
+      "question_vn": "Người viết muốn nói gì qua câu \"Ánh đèn sân khấu bạn cảm thấy phần lớn là ánh đèn do chính bạn rọi vào mình\"?",
+      "explanation": "Câu suy luận về ẩn dụ. Không phải người khác soi mình, mà chính mình tự soi mình."
+    },
+    {
+      "id": "q_u3334_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "Use both texts. How does Tina's experience at the science fair fit the article?",
+        "vi": "Dựa vào cả hai bài. Trải nghiệm của Tina ở hội chợ khoa học khớp với bài báo thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It shows that the judges were unkind: they told Tina that she seemed nervous, which made her feel worse.",
+            "vi": "Nó cho thấy giám khảo không tử tế: họ nói Tina trông hồi hộp, khiến cô bé thấy tệ hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It shows that the judges were unkind: they told Tina that she seemed nervous, which made her feel worse.",
+          "text_translation": "Nó cho thấy giám khảo không tử tế: họ nói Tina trông hồi hộp, khiến cô bé thấy tệ hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It shows that science fairs are dangerous because everyone watches the speaker closely.",
+            "vi": "Nó cho thấy hội chợ khoa học nguy hiểm vì ai cũng quan sát người trình bày rất kỹ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It shows that science fairs are dangerous because everyone watches the speaker closely.",
+          "text_translation": "Nó cho thấy hội chợ khoa học nguy hiểm vì ai cũng quan sát người trình bày rất kỹ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It shows that Tina was very nervous, and that the judges and everyone else in the room saw it clearly.",
+            "vi": "Nó cho thấy Tina rất hồi hộp, và giám khảo cùng mọi người trong phòng đều thấy rõ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It shows that Tina was very nervous, and that the judges and everyone else in the room saw it clearly.",
+          "text_translation": "Nó cho thấy Tina rất hồi hộp, và giám khảo cùng mọi người trong phòng đều thấy rõ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is an example of the illusion of transparency: she felt her nervousness was obvious, but others didn't notice it.",
+            "vi": "Nó là ví dụ của ảo tưởng trong suốt: cô bé thấy sự hồi hộp của mình quá rõ, nhưng người khác không nhận ra."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "It is an example of the illusion of transparency: she felt her nervousness was obvious, but others didn't notice it.",
+          "text_translation": "Nó là ví dụ của ảo tưởng trong suốt: cô bé thấy sự hồi hộp của mình quá rõ, nhưng người khác không nhận ra."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bài 2: \"listeners notice much less nervousness than speakers expect.\" Bài 1: Tina tưởng ai cũng nghe giọng mình run, nhưng giám khảo thấy cô \"very calm\"."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. How does Tina's experience at the science fair fit the article?",
+      "question_vn": "Dựa vào cả hai bài. Trải nghiệm của Tina ở hội chợ khoa học khớp với bài báo thế nào?",
+      "explanation": "Câu nối hai bài. Bài 2: \"listeners notice much less nervousness than speakers expect.\" Bài 1: Tina tưởng ai cũng nghe giọng mình run, nhưng giám khảo thấy cô \"very calm\"."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u3334_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 33) — Báo cáo dự án hội chợ khoa học của Tina",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u3334_01",
+      "question_ids": [
+        "q_u3334_001",
+        "q_u3334_002",
+        "q_u3334_003",
+        "q_u3334_004",
+        "q_u3334_005",
+        "q_u3334_006",
+        "q_u3334_007",
+        "q_u3334_008",
+        "q_u3334_009",
+        "q_u3334_010"
+      ]
+    },
+    {
+      "set_id": "set_u3334_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 34) — Hiệu ứng ánh đèn sân khấu",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u3334_02",
+      "question_ids": [
+        "q_u3334_011",
+        "q_u3334_012",
+        "q_u3334_013",
+        "q_u3334_014",
+        "q_u3334_015",
+        "q_u3334_016",
+        "q_u3334_017",
+        "q_u3334_018",
+        "q_u3334_019",
+        "q_u3334_020"
+      ]
+    }
+  ]
+}

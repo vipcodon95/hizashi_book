@@ -1,0 +1,1230 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 6 — My home",
+      "vi": "Nhà ở"
+    },
+    "title": "Unit 6 — My home",
+    "title_vn": "Nhà ở",
+    "module_code": "56_u06",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A1",
+    "curriculum_unit": "a1.u06",
+    "curriculum_sheets": [
+      "a1.21",
+      "a1.22",
+      "a1.23",
+      "a1.24"
+    ],
+    "characters": [
+      "Helena Brooks",
+      "Amy Brooks",
+      "Harriet Brooks",
+      "Nathan Brooks",
+      "you"
+    ],
+    "story_time_i18n": {
+      "vi": "cuối tháng 11, năm 1 — bà Harriet bị ốm, Helena nhờ \"you\" sang nhà số 15 trông Amy"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "there is / are, some / any, giới từ nơi chốn, số phòng và giá thuê",
+    "description_vn": "Lời nhắn Helena để lại khi nhờ \"you\" sang trông Amy, và quảng cáo hai chỗ cho thuê ở phố Pine gần Maple Street. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 6 khoá A1 · phiếu `a1.21` – `a1.24` (tả nhà, phòng và đồ đạc, vị trí đồ vật, mời khách vào nhà)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một lời nhắn và một quảng cáo nhà cho thuê; hiểu there is / there are, some / any, giới từ chỉ nơi chốn (in the middle of, beside, under, in the corner), số phòng và giá thuê."
+    },
+    "extra_words": [
+      {
+        "word": "shelves",
+        "i18n": {
+          "vi": "những cái kệ (số nhiều của shelf: f → ves)"
+        }
+      },
+      {
+        "word": "rent",
+        "i18n": {
+          "vi": "tiền thuê nhà; cho thuê (for rent = cho thuê)"
+        }
+      },
+      {
+        "word": "month",
+        "i18n": {
+          "vi": "tháng (a month = mỗi tháng)"
+        }
+      },
+      {
+        "word": "apartment",
+        "i18n": {
+          "vi": "căn hộ (tiếng Mỹ; tiếng Anh–Anh là flat)"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "take off your shoes",
+          "vi": "cởi giày ra"
+        }
+      },
+      {
+        "i18n": {
+          "en": "ring the bell",
+          "vi": "bấm chuông"
+        }
+      },
+      {
+        "i18n": {
+          "en": "in the middle of",
+          "vi": "ở giữa"
+        }
+      },
+      {
+        "i18n": {
+          "en": "in the corner",
+          "vi": "trong góc"
+        }
+      },
+      {
+        "i18n": {
+          "en": "for rent",
+          "vi": "cho thuê"
+        }
+      },
+      {
+        "i18n": {
+          "en": "$1,900 a month",
+          "vi": "1.900 đô la mỗi tháng"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**There is** + một vật, **There are** + nhiều vật. **isn't / aren't any** = không có. Câu hỏi có NOT thì tìm câu phủ định trong bài."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi về vị trí: tìm đúng cụm giới từ (`in the middle of`, `beside`, `under`, `in the corner`) và vật đứng ngay trước nó. Phương án nhiễu thường là một đồ vật khác trong cùng căn phòng."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`the`, `it`, `her` trỏ lại thứ đã nhắc ở câu trước: `the table` là `the kitchen table`, `it` là cái gối. Đọc ngược lên một câu để biết nó là gì."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Quảng cáo có hai chỗ cho thuê: ghi nhanh giá và số phòng cạnh từng mục. Đừng lẫn số nhà (28, 40) với giá thuê."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u06_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Lời nhắn của Helena"
+      },
+      "title": "Helena's Note",
+      "category": "letter",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 90,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Helena's Note",
+            "vi": "Lời nhắn của Helena"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hi! Welcome to number 15, and thanks for your help with Amy.",
+            "vi": "Chào bạn! Chào mừng bạn đến nhà số 15, và cảm ơn bạn đã sang giúp mình trông Amy."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please come in and take off your shoes.",
+            "vi": "Bạn cứ vào nhà và cởi giày ra nhé."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please don't ring the bell.",
+            "vi": "Bạn đừng bấm chuông nhé."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet is sick, and she is in bed.",
+            "vi": "Bà Harriet bị ốm, đang nằm nghỉ trên giường."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Nathan and I are out, but I am back at five.",
+            "vi": "Nathan và mình đi vắng, nhưng năm giờ là mình về."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Amy is in the living room.",
+            "vi": "Amy đang ở phòng khách."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There is a big sofa in the middle of the room.",
+            "vi": "Có một cái ghế sofa to ở giữa phòng."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Her books are on the shelf beside the TV.",
+            "vi": "Sách của con bé ở trên kệ, cạnh cái tivi."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There is some water for you on the kitchen table.",
+            "vi": "Trên bàn bếp có sẵn nước cho bạn."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Amy's pink pillow is in a box under the table.",
+            "vi": "Cái gối màu hồng của Amy nằm trong một cái hộp dưới gầm bàn."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She hides things a lot!",
+            "vi": "Con bé hay giấu đồ lắm!"
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please put it on her bed.",
+            "vi": "Bạn để giúp mình cái gối lên giường con bé nhé."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Any questions? Please phone me.",
+            "vi": "Có gì cần hỏi thì bạn cứ gọi cho mình nhé."
+          }
+        },
+        {
+          "n": 15,
+          "para": 7,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Helena",
+            "vi": "Helena"
+          }
+        }
+      ],
+      "content_ja": "Helena's Note\n\nHi! Welcome to number 15, and thanks for your help with Amy. Please come in and take off your shoes.\n\nPlease don't ring the bell. Harriet is sick, and she is in bed. Nathan and I are out, but I am back at five.\n\nAmy is in the living room. There is a big sofa in the middle of the room. Her books are on the shelf beside the TV.\n\nThere is some water for you on the kitchen table. Amy's pink pillow is in a box under the table. She hides things a lot! Please put it on her bed.\n\nAny questions? Please phone me.\n\nHelena",
+      "translation_vn": "(1) Lời nhắn của Helena\n(2) Chào bạn! Chào mừng bạn đến nhà số 15, và cảm ơn bạn đã sang giúp mình trông Amy.\n(3) Bạn cứ vào nhà và cởi giày ra nhé.\n(4) Bạn đừng bấm chuông nhé.\n(5) Bà Harriet bị ốm, đang nằm nghỉ trên giường.\n(6) Nathan và mình đi vắng, nhưng năm giờ là mình về.\n(7) Amy đang ở phòng khách.\n(8) Có một cái ghế sofa to ở giữa phòng.\n(9) Sách của con bé ở trên kệ, cạnh cái tivi.\n(10) Trên bàn bếp có sẵn nước cho bạn.\n(11) Cái gối màu hồng của Amy nằm trong một cái hộp dưới gầm bàn.\n(12) Con bé hay giấu đồ lắm!\n(13) Bạn để giúp mình cái gối lên giường con bé nhé.\n(14) Có gì cần hỏi thì bạn cứ gọi cho mình nhé.\n(15) Helena",
+      "word_count": 108,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.21",
+        "a1.22",
+        "a1.23",
+        "a1.24"
+      ],
+      "narrator": "Helena"
+    },
+    {
+      "id": "passage_u06_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Quảng cáo nhà cho thuê"
+      },
+      "title": "Homes for Rent near Maple Street",
+      "category": "notice",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 80,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Homes for Rent near Maple Street",
+            "vi": "Nhà cho thuê gần phố Maple"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "1.",
+          "i18n": {
+            "en": "A small house at 28 Pine Street, with a large living room.",
+            "vi": "Một ngôi nhà nhỏ ở số 28 phố Pine, có phòng khách rộng."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There are two bedrooms and one bathroom.",
+            "vi": "Nhà có hai phòng ngủ và một phòng tắm."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There is a shower, but there isn't a bath.",
+            "vi": "Có vòi sen, nhưng không có bồn tắm."
+          }
+        },
+        {
+          "n": 5,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The kitchen is small and old.",
+            "vi": "Bếp thì nhỏ và cũ."
+          }
+        },
+        {
+          "n": 6,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Rent: $2,400 a month.",
+            "vi": "Giá thuê: 2.400 đô la một tháng."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "2.",
+          "i18n": {
+            "en": "An apartment at 40 Pine Street, on the top floor.",
+            "vi": "Một căn hộ ở số 40 phố Pine, trên tầng cao nhất."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There is one bedroom with a desk in the corner.",
+            "vi": "Căn hộ có một phòng ngủ, trong góc phòng có một cái bàn làm việc."
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There are some big windows in the living room.",
+            "vi": "Phòng khách có mấy cửa sổ lớn."
+          }
+        },
+        {
+          "n": 10,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There are some shelves on the walls, but there aren't any beds.",
+            "vi": "Trên tường có vài cái kệ, nhưng không có cái giường nào."
+          }
+        },
+        {
+          "n": 11,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Rent: $1,900 a month.",
+            "vi": "Giá thuê: 1.900 đô la một tháng."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please phone Gary Lawson: 619-555-0163.",
+            "vi": "Xin gọi cho ông Gary Lawson: 619-555-0163."
+          }
+        }
+      ],
+      "content_ja": "Homes for Rent near Maple Street\n\n1. A small house at 28 Pine Street, with a large living room. There are two bedrooms and one bathroom. There is a shower, but there isn't a bath. The kitchen is small and old.\n\nRent: $2,400 a month.\n\n2. An apartment at 40 Pine Street, on the top floor. There is one bedroom with a desk in the corner. There are some big windows in the living room. There are some shelves on the walls, but there aren't any beds.\n\nRent: $1,900 a month.\n\nPlease phone Gary Lawson: 619-555-0163.",
+      "translation_vn": "(1) Nhà cho thuê gần phố Maple\n(2) Một ngôi nhà nhỏ ở số 28 phố Pine, có phòng khách rộng.\n(3) Nhà có hai phòng ngủ và một phòng tắm.\n(4) Có vòi sen, nhưng không có bồn tắm.\n(5) Bếp thì nhỏ và cũ.\n(6) Giá thuê: 2.400 đô la một tháng.\n(7) Một căn hộ ở số 40 phố Pine, trên tầng cao nhất.\n(8) Căn hộ có một phòng ngủ, trong góc phòng có một cái bàn làm việc.\n(9) Phòng khách có mấy cửa sổ lớn.\n(10) Trên tường có vài cái kệ, nhưng không có cái giường nào.\n(11) Giá thuê: 1.900 đô la một tháng.\n(12) Xin gọi cho ông Gary Lawson: 619-555-0163.",
+      "word_count": 89,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.21",
+        "a1.22",
+        "a1.23",
+        "a1.24"
+      ],
+      "narrator": "announcer"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u06_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "Why does Helena write \"Please don't ring the bell\"?",
+        "vi": "Vì sao Helena viết \"Bạn đừng bấm chuông nhé\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Amy is in bed.",
+            "vi": "Amy đang nằm trên giường."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Amy is in bed.",
+          "text_translation": "Amy đang nằm trên giường."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet is sick in bed.",
+            "vi": "Bà Harriet bị ốm, đang nằm trên giường."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Harriet is sick in bed.",
+          "text_translation": "Bà Harriet bị ốm, đang nằm trên giường."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Nathan is out.",
+            "vi": "Nathan đi vắng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Nathan is out.",
+          "text_translation": "Nathan đi vắng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The bell is old.",
+            "vi": "Cái chuông đã cũ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The bell is old.",
+          "text_translation": "Cái chuông đã cũ."
+        }
+      ],
+      "evidence_segments": [
+        4,
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Please don't ring the bell.\" rồi ngay sau là \"Harriet is sick, and she is in bed.\" Người nằm trên giường là bà Harriet, còn Amy đang ở phòng khách. Nathan đi vắng là đúng, nhưng không phải lý do Helena dặn đừng bấm chuông. Bài không nói gì về chuông cũ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Lý do thường nằm ngay câu sau lời dặn. Đọc cả hai câu cùng lúc."
+      },
+      "question_jp": "Why does Helena write \"Please don't ring the bell\"?",
+      "question_vn": "Vì sao Helena viết \"Bạn đừng bấm chuông nhé\"?",
+      "explanation": "\"Please don't ring the bell.\" rồi ngay sau là \"Harriet is sick, and she is in bed.\" Người nằm trên giường là bà Harriet, còn Amy đang ở phòng khách. Nathan đi vắng là đúng, nhưng không phải lý do Helena dặn đừng bấm chuông. Bài không nói gì về chuông cũ.",
+      "tip": "Lý do thường nằm ngay câu sau lời dặn. Đọc cả hai câu cùng lúc."
+    },
+    {
+      "id": "q_u06_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "Where is Amy?",
+        "vi": "Amy đang ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in the living room",
+            "vi": "ở phòng khách"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "in the living room",
+          "text_translation": "ở phòng khách"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "in her bed",
+            "vi": "trên giường của bé"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "in her bed",
+          "text_translation": "trên giường của bé"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "in Harriet's room",
+            "vi": "trong phòng bà Harriet"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "in Harriet's room",
+          "text_translation": "trong phòng bà Harriet"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "in the kitchen",
+            "vi": "trong bếp"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "in the kitchen",
+          "text_translation": "trong bếp"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Amy is in the living room.\" Người đang nằm trên giường là bà Harriet. Giường của Amy là chỗ Helena muốn bạn để gối vào, còn bếp là chỗ để nước và cái hộp, không phải chỗ Amy đang ở."
+      },
+      "audio_data": null,
+      "question_jp": "Where is Amy?",
+      "question_vn": "Amy đang ở đâu?",
+      "explanation": "\"Amy is in the living room.\" Người đang nằm trên giường là bà Harriet. Giường của Amy là chỗ Helena muốn bạn để gối vào, còn bếp là chỗ để nước và cái hộp, không phải chỗ Amy đang ở."
+    },
+    {
+      "id": "q_u06_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "What is in the middle of the living room?",
+        "vi": "Ở giữa phòng khách có gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a TV",
+            "vi": "một cái tivi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a TV",
+          "text_translation": "một cái tivi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a shelf",
+            "vi": "một cái kệ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a shelf",
+          "text_translation": "một cái kệ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a box",
+            "vi": "một cái hộp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a box",
+          "text_translation": "một cái hộp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a big sofa",
+            "vi": "một cái ghế sofa to"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "a big sofa",
+          "text_translation": "một cái ghế sofa to"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"There is a big sofa in the middle of the room.\" Tivi và kệ cũng ở phòng khách, nhưng nằm cạnh nhau (\"the shelf beside the TV\"), không ở giữa phòng. Cái hộp thì ở dưới bàn bếp."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi có giới từ (in the middle of, beside, under…) thì tìm đúng cụm giới từ đó trong bài, rồi xem đồ vật đứng trước nó."
+      },
+      "question_jp": "What is in the middle of the living room?",
+      "question_vn": "Ở giữa phòng khách có gì?",
+      "explanation": "\"There is a big sofa in the middle of the room.\" Tivi và kệ cũng ở phòng khách, nhưng nằm cạnh nhau (\"the shelf beside the TV\"), không ở giữa phòng. Cái hộp thì ở dưới bàn bếp.",
+      "tip": "Câu hỏi có giới từ (in the middle of, beside, under…) thì tìm đúng cụm giới từ đó trong bài, rồi xem đồ vật đứng trước nó."
+    },
+    {
+      "id": "q_u06_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "Where is Amy's pink pillow?",
+        "vi": "Cái gối màu hồng của Amy ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "on her bed",
+            "vi": "trên giường của bé"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "on her bed",
+          "text_translation": "trên giường của bé"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "on the shelf beside the TV",
+            "vi": "trên kệ cạnh tivi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "on the shelf beside the TV",
+          "text_translation": "trên kệ cạnh tivi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "in a box under the kitchen table",
+            "vi": "trong một cái hộp dưới bàn bếp"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "in a box under the kitchen table",
+          "text_translation": "trong một cái hộp dưới bàn bếp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "under the sofa",
+            "vi": "dưới ghế sofa"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "under the sofa",
+          "text_translation": "dưới ghế sofa"
+        }
+      ],
+      "evidence_segments": [
+        10,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Amy's pink pillow is in a box under the table.\" \"the table\" ở đây là cái bàn vừa nói ở câu trước: \"the kitchen table\". \"On her bed\" là chỗ Helena muốn bạn để gối vào, chưa phải chỗ gối đang nằm. Trên kệ là sách của Amy."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "\"the\" chỉ vật người đọc đã biết: \"the table\" ở câu 11 chính là \"the kitchen table\" ở câu 10."
+      },
+      "question_jp": "Where is Amy's pink pillow?",
+      "question_vn": "Cái gối màu hồng của Amy ở đâu?",
+      "explanation": "\"Amy's pink pillow is in a box under the table.\" \"the table\" ở đây là cái bàn vừa nói ở câu trước: \"the kitchen table\". \"On her bed\" là chỗ Helena muốn bạn để gối vào, chưa phải chỗ gối đang nằm. Trên kệ là sách của Amy.",
+      "tip": "\"the\" chỉ vật người đọc đã biết: \"the table\" ở câu 11 chính là \"the kitchen table\" ở câu 10."
+    },
+    {
+      "id": "q_u06_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "What does Helena ask you to do?",
+        "vi": "Helena nhờ bạn làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "phone Nathan",
+            "vi": "gọi cho Nathan"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "phone Nathan",
+          "text_translation": "gọi cho Nathan"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "put the pillow on Amy's bed",
+            "vi": "để cái gối lên giường của Amy"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "put the pillow on Amy's bed",
+          "text_translation": "để cái gối lên giường của Amy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "find Amy's books",
+            "vi": "tìm sách của Amy"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "find Amy's books",
+          "text_translation": "tìm sách của Amy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "wash Amy's shoes",
+            "vi": "rửa giày cho Amy"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "wash Amy's shoes",
+          "text_translation": "rửa giày cho Amy"
+        }
+      ],
+      "evidence_segments": [
+        11,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Please put it on her bed.\" \"it\" là cái gối hồng ở câu 11, \"her bed\" là giường của Amy. Sách của Amy đã nằm sẵn trên kệ (\"Her books are on the shelf beside the TV\"), không cần tìm. Helena bảo gọi cho chính cô ấy (\"phone me\") nếu có câu hỏi, không phải gọi Nathan. \"take off your shoes\" là cởi giày của bạn, không phải rửa giày cho Amy."
+      },
+      "audio_data": null,
+      "question_jp": "What does Helena ask you to do?",
+      "question_vn": "Helena nhờ bạn làm gì?",
+      "explanation": "\"Please put it on her bed.\" \"it\" là cái gối hồng ở câu 11, \"her bed\" là giường của Amy. Sách của Amy đã nằm sẵn trên kệ (\"Her books are on the shelf beside the TV\"), không cần tìm. Helena bảo gọi cho chính cô ấy (\"phone me\") nếu có câu hỏi, không phải gọi Nathan. \"take off your shoes\" là cởi giày của bạn, không phải rửa giày cho Amy."
+    },
+    {
+      "id": "q_u06_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "The house has got ______.",
+        "vi": "Ngôi nhà có ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "one bedroom",
+            "vi": "một phòng ngủ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "one bedroom",
+          "text_translation": "một phòng ngủ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "three bedrooms",
+            "vi": "ba phòng ngủ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "three bedrooms",
+          "text_translation": "ba phòng ngủ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "two bedrooms",
+            "vi": "hai phòng ngủ"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "two bedrooms",
+          "text_translation": "hai phòng ngủ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "four bedrooms",
+            "vi": "bốn phòng ngủ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "four bedrooms",
+          "text_translation": "bốn phòng ngủ"
+        }
+      ],
+      "evidence_segments": [
+        2,
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Mục 1 là ngôi nhà: \"There are two bedrooms and one bathroom.\" \"one\" là số phòng tắm của ngôi nhà, và cũng là số phòng ngủ của căn hộ ở mục 2 (\"There is one bedroom\")."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Quảng cáo có hai chỗ cho thuê. Xác định câu hỏi nói về mục nào (the house = mục 1, the apartment = mục 2) rồi mới tìm số."
+      },
+      "question_jp": "The house has got ______.",
+      "question_vn": "Ngôi nhà có ______.",
+      "explanation": "Mục 1 là ngôi nhà: \"There are two bedrooms and one bathroom.\" \"one\" là số phòng tắm của ngôi nhà, và cũng là số phòng ngủ của căn hộ ở mục 2 (\"There is one bedroom\").",
+      "tip": "Quảng cáo có hai chỗ cho thuê. Xác định câu hỏi nói về mục nào (the house = mục 1, the apartment = mục 2) rồi mới tìm số."
+    },
+    {
+      "id": "q_u06_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "The rent for the apartment is ______.",
+        "vi": "Tiền thuê căn hộ là ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "$2,400 a month",
+            "vi": "2.400 đô la một tháng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "$2,400 a month",
+          "text_translation": "2.400 đô la một tháng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "$40 a month",
+            "vi": "40 đô la một tháng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "$40 a month",
+          "text_translation": "40 đô la một tháng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "$1,090 a month",
+            "vi": "1.090 đô la một tháng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "$1,090 a month",
+          "text_translation": "1.090 đô la một tháng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "$1,900 a month",
+            "vi": "1.900 đô la một tháng"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "$1,900 a month",
+          "text_translation": "1.900 đô la một tháng"
+        }
+      ],
+      "evidence_segments": [
+        7,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Căn hộ là mục 2: \"Rent: $1,900 a month.\" $2,400 là giá của ngôi nhà ở mục 1. 40 là số nhà (\"40 Pine Street\"), không phải giá. $1,090 đọc gần giống nhưng sai số."
+      },
+      "audio_data": null,
+      "question_jp": "The rent for the apartment is ______.",
+      "question_vn": "Tiền thuê căn hộ là ______.",
+      "explanation": "Căn hộ là mục 2: \"Rent: $1,900 a month.\" $2,400 là giá của ngôi nhà ở mục 1. 40 là số nhà (\"40 Pine Street\"), không phải giá. $1,090 đọc gần giống nhưng sai số."
+    },
+    {
+      "id": "q_u06_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "In the house, there is a shower, but there isn't ______.",
+        "vi": "Trong ngôi nhà có vòi sen, nhưng không có ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a bath",
+            "vi": "bồn tắm"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "a bath",
+          "text_translation": "bồn tắm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a bathroom",
+            "vi": "phòng tắm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a bathroom",
+          "text_translation": "phòng tắm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a living room",
+            "vi": "phòng khách"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a living room",
+          "text_translation": "phòng khách"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a kitchen",
+            "vi": "nhà bếp"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a kitchen",
+          "text_translation": "nhà bếp"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"There is a shower, but there isn't a bath.\" Nhà vẫn có phòng tắm (\"one bathroom\"), phòng khách (\"a large living room\") và bếp (\"The kitchen is small and old\"). Chỉ thiếu bồn tắm."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "\"bath\" (bồn tắm) khác \"bathroom\" (phòng tắm). Đề hay đặt hai từ gần giống nhau cạnh nhau."
+      },
+      "question_jp": "In the house, there is a shower, but there isn't ______.",
+      "question_vn": "Trong ngôi nhà có vòi sen, nhưng không có ______.",
+      "explanation": "\"There is a shower, but there isn't a bath.\" Nhà vẫn có phòng tắm (\"one bathroom\"), phòng khách (\"a large living room\") và bếp (\"The kitchen is small and old\"). Chỉ thiếu bồn tắm.",
+      "tip": "\"bath\" (bồn tắm) khác \"bathroom\" (phòng tắm). Đề hay đặt hai từ gần giống nhau cạnh nhau."
+    },
+    {
+      "id": "q_u06_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "Where is the desk in the apartment?",
+        "vi": "Cái bàn làm việc trong căn hộ ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in the living room",
+            "vi": "trong phòng khách"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "in the living room",
+          "text_translation": "trong phòng khách"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "under the big windows",
+            "vi": "dưới mấy cửa sổ lớn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "under the big windows",
+          "text_translation": "dưới mấy cửa sổ lớn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "on the shelves",
+            "vi": "trên kệ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "on the shelves",
+          "text_translation": "trên kệ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "in the corner of the bedroom",
+            "vi": "trong góc phòng ngủ"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "in the corner of the bedroom",
+          "text_translation": "trong góc phòng ngủ"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"There is one bedroom with a desk in the corner.\" Bàn nằm trong góc phòng ngủ. Cửa sổ lớn ở phòng khách, kệ ở trên tường, đều không phải chỗ để bàn."
+      },
+      "audio_data": null,
+      "question_jp": "Where is the desk in the apartment?",
+      "question_vn": "Cái bàn làm việc trong căn hộ ở đâu?",
+      "explanation": "\"There is one bedroom with a desk in the corner.\" Bàn nằm trong góc phòng ngủ. Cửa sổ lớn ở phòng khách, kệ ở trên tường, đều không phải chỗ để bàn."
+    },
+    {
+      "id": "q_u06_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "What is NOT in the apartment?",
+        "vi": "Thứ gì KHÔNG có trong căn hộ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a desk",
+            "vi": "bàn làm việc"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a desk",
+          "text_translation": "bàn làm việc"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "beds",
+            "vi": "giường"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "beds",
+          "text_translation": "giường"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "big windows",
+            "vi": "cửa sổ lớn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "big windows",
+          "text_translation": "cửa sổ lớn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "shelves",
+            "vi": "kệ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "shelves",
+          "text_translation": "kệ"
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"There are some shelves on the walls, but there aren't any beds.\" \"aren't any\" = không có cái nào. Bàn làm việc (\"a desk in the corner\"), cửa sổ lớn (\"some big windows\") và kệ (\"some shelves\") đều có."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi có NOT thì tìm \"isn't\" / \"aren't any\" trong bài. Ba phương án còn lại thường đi với \"there is\" / \"there are some\"."
+      },
+      "question_jp": "What is NOT in the apartment?",
+      "question_vn": "Thứ gì KHÔNG có trong căn hộ?",
+      "explanation": "\"There are some shelves on the walls, but there aren't any beds.\" \"aren't any\" = không có cái nào. Bàn làm việc (\"a desk in the corner\"), cửa sổ lớn (\"some big windows\") và kệ (\"some shelves\") đều có.",
+      "tip": "Câu hỏi có NOT thì tìm \"isn't\" / \"aren't any\" trong bài. Ba phương án còn lại thường đi với \"there is\" / \"there are some\"."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u06_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Lời nhắn của Helena",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u06_01",
+      "question_ids": [
+        "q_u06_001",
+        "q_u06_002",
+        "q_u06_003",
+        "q_u06_004",
+        "q_u06_005"
+      ]
+    },
+    {
+      "set_id": "set_u06_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Quảng cáo nhà cho thuê",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u06_02",
+      "question_ids": [
+        "q_u06_006",
+        "q_u06_007",
+        "q_u06_008",
+        "q_u06_009",
+        "q_u06_010"
+      ]
+    }
+  ]
+}

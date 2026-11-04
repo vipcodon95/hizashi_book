@@ -1,0 +1,1966 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 39–40 — Risk and safety & Change",
+      "vi": "Rủi ro, an toàn & Thay đổi"
+    },
+    "title": "Units 39–40 — Risk and safety & Change",
+    "title_vn": "Rủi ro, an toàn & Thay đổi",
+    "module_code": "59_u3940",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.u39+u40",
+    "curriculum_sheets": [
+      "b2.153",
+      "b2.154",
+      "b2.155",
+      "b2.156",
+      "b2.157",
+      "b2.158",
+      "b2.159",
+      "b2.160"
+    ],
+    "characters": [
+      "Ethan Hayes",
+      "Harriet Brooks",
+      "Nathan Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 7, năm 7"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Nothing to V, mệnh lệnh với be, must be + V-ing, kết thúc mở",
+    "description_vn": "Ethan viết từ trại huấn luyện hướng dẫn chuẩn bị túi đi ngay mùa cháy rừng, và câu chuyện bà Harriet cân nhắc thuê cửa hàng trống bên cạnh quán. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 39 + Unit 40 khoá B2 · phiếu `b2.153` – `b2.160` (something / nothing + to V, câu mệnh lệnh với be, rủi ro, an toàn; modal + be + V-ing, thay đổi, quyết định)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài hướng dẫn an toàn và một câu chuyện có hội thoại; hiểu `nothing to look for`, `nothing to worry about`, câu mệnh lệnh với be (Be prepared, Don't be the person who…), `must be / might be + V-ing` (suy đoán việc đang diễn ra), `What if…?`, nhận ra giọng đùa nhẹ và hiểu một kết thúc mở."
+    },
+    "extra_words": [
+      {
+        "word": "wildfire",
+        "i18n": {
+          "vi": "cháy rừng"
+        }
+      },
+      {
+        "word": "spark",
+        "i18n": {
+          "vi": "tàn lửa"
+        }
+      },
+      {
+        "word": "go-bag",
+        "i18n": {
+          "vi": "túi đi ngay (túi khẩn cấp)"
+        }
+      },
+      {
+        "word": "flashlight",
+        "i18n": {
+          "vi": "đèn pin"
+        }
+      },
+      {
+        "word": "leash",
+        "i18n": {
+          "vi": "dây dắt chó"
+        }
+      },
+      {
+        "word": "route",
+        "i18n": {
+          "vi": "tuyến đường"
+        }
+      },
+      {
+        "word": "rent",
+        "i18n": {
+          "vi": "tiền thuê; cho thuê"
+        }
+      },
+      {
+        "word": "ruin",
+        "i18n": {
+          "vi": "phá hỏng"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "be at risk",
+          "vi": "gặp nguy"
+        }
+      },
+      {
+        "i18n": {
+          "en": "nothing to worry about",
+          "vi": "chẳng có gì phải lo"
+        }
+      },
+      {
+        "i18n": {
+          "en": "put off",
+          "vi": "trì hoãn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "look after",
+          "vi": "chăm lo, để ý tới"
+        }
+      },
+      {
+        "i18n": {
+          "en": "must be thinking",
+          "vi": "hẳn là đang nghĩ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "for once",
+          "vi": "lần này (khác với mọi khi)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "just to ask",
+          "vi": "chỉ để hỏi"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Bài hướng dẫn có các bước (`Step one`, `Step two`…). Câu hỏi NOT hay hỏi vào danh sách đồ dùng trong một bước."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`must be + V-ing` = hẳn là đang; `might be + V-ing` = có thể đang. Đây là suy đoán về hiện tại, không phải nghĩa vụ."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Hội thoại gia đình: câu đáp cộc (`I know how old I am, thank you`) cho thấy nhân vật hơi phật ý. Đọc câu sau để biết lý do."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Kết thúc mở: câu cuối thường gợi ý điều sẽ xảy ra (`never called just to ask`). Câu hỏi suy luận hỏi đúng chỗ này."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u3940_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 39) — Ethan hướng dẫn chuẩn bị \"túi đi ngay\" mùa cháy rừng"
+      },
+      "narrator": "Ethan",
+      "title": "Before the Smoke Arrives: A Firefighter's Guide to Your Go-Bag",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Before the Smoke Arrives: A Firefighter's Guide to Your Go-Bag",
+            "vi": "Trước khi khói tới: hướng dẫn chuẩn bị túi đi ngay của một lính cứu hoả"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Written by: Ethan Hayes, for the Maple Street Neighborhood News",
+            "vi": "Người viết: Ethan Hayes, cho bản tin khu phố Maple Street"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I am writing this from a training camp in the north of the state, where I have spent the last two months learning to fight wildfires in the mountains.",
+            "vi": "Tôi viết bài này từ một trại huấn luyện ở phía bắc bang, nơi tôi đã dành hai tháng qua học chữa cháy rừng trên núi."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If there is one thing that I have learned here, it is this: the people who are ready before a fire are the people who leave safely.",
+            "vi": "Nếu có một điều tôi học được ở đây, thì đó là: những người chuẩn bị sẵn trước khi có cháy là những người rời đi an toàn."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In Southern California, wildfire season now lasts much longer than it used to, and you do not have to live in a forest to be at risk. Smoke and sparks can travel for miles.",
+            "vi": "Ở Nam California, mùa cháy rừng giờ kéo dài hơn trước nhiều, và không cần sống trong rừng mới gặp nguy. Khói và tàn lửa có thể bay xa nhiều dặm."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Step one: pack a go-bag.",
+            "vi": "Bước một: chuẩn bị túi đi ngay."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A go-bag is a bag that is packed and waiting near your door, so that you have nothing to look for if you need to leave in ten minutes.",
+            "vi": "Túi đi ngay là một chiếc túi đã xếp sẵn để gần cửa, để nếu phải rời đi trong mười phút thì bạn chẳng phải tìm gì cả."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Put in water, at least one gallon per person per day for three days, any medicines that you take, copies of important documents, a phone charger, a flashlight, some cash and a few masks that can filter smoke.",
+            "vi": "Hãy cho vào nước, ít nhất một gallon mỗi người mỗi ngày đủ ba ngày, mọi loại thuốc bạn đang dùng, bản sao giấy tờ quan trọng, sạc điện thoại, đèn pin, ít tiền mặt và vài chiếc khẩu trang lọc được khói."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If you have pets, don't forget food and a leash. Biscuit, my neighbor's dog, would want me to mention that.",
+            "vi": "Nếu nuôi thú cưng, đừng quên đồ ăn và dây dắt. Biscuit, chú chó nhà hàng xóm của tôi, chắc sẽ muốn tôi nhắc điều đó."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Step two: know two ways out.",
+            "vi": "Bước hai: biết hai đường thoát."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Roads can be closed by fire or blocked by traffic, so plan at least two routes out of the neighborhood, and agree with your family on a place to meet if you are separated.",
+            "vi": "Đường có thể bị lửa chặn hoặc kẹt xe, nên hãy lên ít nhất hai tuyến ra khỏi khu phố, và thống nhất với gia đình một chỗ hẹn nếu bị lạc nhau."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Step three: be ready to go early.",
+            "vi": "Bước ba: sẵn sàng đi sớm."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When officials say that it is time to leave, leave. Don't be the person who waits to see how bad it gets.",
+            "vi": "Khi chính quyền báo đã tới lúc rời đi, hãy đi. Đừng là người cứ chờ xem tình hình tệ tới mức nào."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many of the most dangerous situations that I have seen in training began with someone who thought that there was nothing to worry about yet.",
+            "vi": "Nhiều tình huống nguy hiểm nhất tôi thấy trong khoá huấn luyện bắt đầu từ một người nghĩ rằng chưa có gì phải lo."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Packing a go-bag takes about an hour. It is the kind of job that is easy to put off. Please don't. Be prepared, be calm, and look after your neighbors, especially those who might need help to leave.",
+            "vi": "Chuẩn bị túi đi ngay mất chừng một tiếng. Đó là kiểu việc dễ bị trì hoãn. Xin đừng. Hãy chuẩn bị sẵn, giữ bình tĩnh, và để ý tới hàng xóm, nhất là những người có thể cần giúp để rời đi."
+          }
+        }
+      ],
+      "content_ja": "Before the Smoke Arrives: A Firefighter's Guide to Your Go-Bag\n\nWritten by: Ethan Hayes, for the Maple Street Neighborhood News\n\nI am writing this from a training camp in the north of the state, where I have spent the last two months learning to fight wildfires in the mountains. If there is one thing that I have learned here, it is this: the people who are ready before a fire are the people who leave safely. In Southern California, wildfire season now lasts much longer than it used to, and you do not have to live in a forest to be at risk. Smoke and sparks can travel for miles.\n\nStep one: pack a go-bag.\n\nA go-bag is a bag that is packed and waiting near your door, so that you have nothing to look for if you need to leave in ten minutes. Put in water, at least one gallon per person per day for three days, any medicines that you take, copies of important documents, a phone charger, a flashlight, some cash and a few masks that can filter smoke. If you have pets, don't forget food and a leash. Biscuit, my neighbor's dog, would want me to mention that.\n\nStep two: know two ways out.\n\nRoads can be closed by fire or blocked by traffic, so plan at least two routes out of the neighborhood, and agree with your family on a place to meet if you are separated.\n\nStep three: be ready to go early.\n\nWhen officials say that it is time to leave, leave. Don't be the person who waits to see how bad it gets. Many of the most dangerous situations that I have seen in training began with someone who thought that there was nothing to worry about yet. Packing a go-bag takes about an hour. It is the kind of job that is easy to put off. Please don't. Be prepared, be calm, and look after your neighbors, especially those who might need help to leave.",
+      "translation_vn": "(1) Trước khi khói tới: hướng dẫn chuẩn bị túi đi ngay của một lính cứu hoả\n(2) Người viết: Ethan Hayes, cho bản tin khu phố Maple Street\n(3) Tôi viết bài này từ một trại huấn luyện ở phía bắc bang, nơi tôi đã dành hai tháng qua học chữa cháy rừng trên núi.\n(4) Nếu có một điều tôi học được ở đây, thì đó là: những người chuẩn bị sẵn trước khi có cháy là những người rời đi an toàn.\n(5) Ở Nam California, mùa cháy rừng giờ kéo dài hơn trước nhiều, và không cần sống trong rừng mới gặp nguy. Khói và tàn lửa có thể bay xa nhiều dặm.\n(6) Bước một: chuẩn bị túi đi ngay.\n(7) Túi đi ngay là một chiếc túi đã xếp sẵn để gần cửa, để nếu phải rời đi trong mười phút thì bạn chẳng phải tìm gì cả.\n(8) Hãy cho vào nước, ít nhất một gallon mỗi người mỗi ngày đủ ba ngày, mọi loại thuốc bạn đang dùng, bản sao giấy tờ quan trọng, sạc điện thoại, đèn pin, ít tiền mặt và vài chiếc khẩu trang lọc được khói.\n(9) Nếu nuôi thú cưng, đừng quên đồ ăn và dây dắt. Biscuit, chú chó nhà hàng xóm của tôi, chắc sẽ muốn tôi nhắc điều đó.\n(10) Bước hai: biết hai đường thoát.\n(11) Đường có thể bị lửa chặn hoặc kẹt xe, nên hãy lên ít nhất hai tuyến ra khỏi khu phố, và thống nhất với gia đình một chỗ hẹn nếu bị lạc nhau.\n(12) Bước ba: sẵn sàng đi sớm.\n(13) Khi chính quyền báo đã tới lúc rời đi, hãy đi. Đừng là người cứ chờ xem tình hình tệ tới mức nào.\n(14) Nhiều tình huống nguy hiểm nhất tôi thấy trong khoá huấn luyện bắt đầu từ một người nghĩ rằng chưa có gì phải lo.\n(15) Chuẩn bị túi đi ngay mất chừng một tiếng. Đó là kiểu việc dễ bị trì hoãn. Xin đừng. Hãy chuẩn bị sẵn, giữ bình tĩnh, và để ý tới hàng xóm, nhất là những người có thể cần giúp để rời đi.",
+      "word_count": 338,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.153",
+        "b2.154",
+        "b2.155",
+        "b2.156"
+      ]
+    },
+    {
+      "id": "passage_u3940_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 40) — Bà Harriet và cửa hàng trống bên cạnh"
+      },
+      "narrator": "announcer",
+      "title": "The Empty Shop Next Door",
+      "category": "story",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Empty Shop Next Door",
+            "vi": "Cửa hàng trống bên cạnh"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The bakery next to Harriet's café had been closed for three months when the sign appeared in the window: FOR RENT.",
+            "vi": "Tiệm bánh cạnh quán Harriet's đã đóng cửa ba tháng thì tấm biển xuất hiện trên cửa kính: CHO THUÊ."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet stood in front of it for a long time. That evening, she invited Nathan for dinner, which he knew was never only about dinner.",
+            "vi": "Bà Harriet đứng trước nó rất lâu. Tối hôm đó, bà mời Nathan sang ăn tối, mà anh biết là chẳng bao giờ chỉ để ăn tối."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Nathan",
+          "label": null,
+          "i18n": {
+            "en": "You must be thinking about the shop next door.",
+            "vi": "Mẹ hẳn đang nghĩ về cái cửa hàng bên cạnh."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "I might be. If I took it, I could double the number of tables. I could start breakfast earlier, and the book club wouldn't have to sit on the stairs.",
+            "vi": "Có thể. Nếu thuê nó, mẹ có thể tăng gấp đôi số bàn. Mẹ có thể mở bữa sáng sớm hơn, và câu lạc bộ sách khỏi phải ngồi ngoài cầu thang."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Nathan",
+          "label": null,
+          "i18n": {
+            "en": "Mom, you're seventy-three. You already work six days a week.",
+            "vi": "Mẹ ơi, mẹ bảy mươi ba tuổi rồi. Mẹ đã làm sáu ngày một tuần."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "I know how old I am, thank you. That's exactly why I'm thinking about it now and not in ten years.",
+            "vi": "Mẹ biết mẹ bao nhiêu tuổi, cảm ơn con. Chính vì thế mà mẹ nghĩ tới nó bây giờ chứ không phải mười năm nữa."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Nathan",
+          "label": null,
+          "i18n": {
+            "en": "What does the money look like?",
+            "vi": "Thế chuyện tiền nong thì sao?"
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "A friend of Ruby's, the one who studies business, has been helping me with the numbers. The rent is high, but the café is busier than it has ever been. Most days, people are waiting for a table by nine.",
+            "vi": "Bạn của Ruby, cái cô học kinh doanh ấy, đang giúp mẹ tính toán. Tiền thuê cao, nhưng quán đông hơn bao giờ hết. Hầu như ngày nào chín giờ cũng có người đứng chờ bàn."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Nathan",
+          "label": null,
+          "i18n": {
+            "en": "So what's stopping you?",
+            "vi": "Vậy điều gì làm mẹ chần chừ?"
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet was quiet for a moment.",
+            "vi": "Bà Harriet im lặng một lúc."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "Change. People don't come here for a big café. They come because it feels like a kitchen. What if I make it bigger and it stops feeling like home? I might be ruining the one thing that works.",
+            "vi": "Sự thay đổi. Người ta không tới đây vì một quán cà phê lớn. Họ tới vì nó giống một căn bếp. Nhỡ mẹ làm nó to ra rồi nó không còn giống nhà nữa thì sao? Có khi mẹ đang phá hỏng đúng cái thứ duy nhất đang chạy tốt."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Nathan",
+          "label": null,
+          "i18n": {
+            "en": "Then don't make it bigger. Make it different. Use the new room for the book club, the kids' story mornings and the neighbors' dinners. Keep the old room exactly as it is.",
+            "vi": "Vậy đừng làm nó to ra. Làm nó khác đi. Dùng phòng mới cho câu lạc bộ sách, những buổi sáng kể chuyện của bọn trẻ và các bữa tối của hàng xóm. Giữ nguyên phòng cũ y như bây giờ."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet looked at her son as if he had just said something very clever, which, for once, he had.",
+            "vi": "Bà Harriet nhìn con trai như thể anh vừa nói điều gì đó rất thông minh, mà lần này, anh nói thật."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"I'm not deciding tonight,\" she said. \"But I'm going to call about the rent tomorrow. Just to ask.\"",
+            "vi": "\"Mẹ chưa quyết tối nay đâu,\" bà nói. \"Nhưng mai mẹ sẽ gọi hỏi tiền thuê. Chỉ hỏi thôi.\""
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Nathan smiled. In his experience, his mother never called \"just to ask\".",
+            "vi": "Nathan mỉm cười. Theo kinh nghiệm của anh, mẹ anh chưa bao giờ gọi \"chỉ để hỏi\" cả."
+          }
+        }
+      ],
+      "content_ja": "The Empty Shop Next Door\n\nThe bakery next to Harriet's café had been closed for three months when the sign appeared in the window: FOR RENT. Harriet stood in front of it for a long time. That evening, she invited Nathan for dinner, which he knew was never only about dinner.\n\nNathan: You must be thinking about the shop next door.\n\nHarriet: I might be. If I took it, I could double the number of tables. I could start breakfast earlier, and the book club wouldn't have to sit on the stairs.\n\nNathan: Mom, you're seventy-three. You already work six days a week.\n\nHarriet: I know how old I am, thank you. That's exactly why I'm thinking about it now and not in ten years.\n\nNathan: What does the money look like?\n\nHarriet: A friend of Ruby's, the one who studies business, has been helping me with the numbers. The rent is high, but the café is busier than it has ever been. Most days, people are waiting for a table by nine.\n\nNathan: So what's stopping you?\n\nHarriet was quiet for a moment.\n\nHarriet: Change. People don't come here for a big café. They come because it feels like a kitchen. What if I make it bigger and it stops feeling like home? I might be ruining the one thing that works.\n\nNathan: Then don't make it bigger. Make it different. Use the new room for the book club, the kids' story mornings and the neighbors' dinners. Keep the old room exactly as it is.\n\nHarriet looked at her son as if he had just said something very clever, which, for once, he had. \"I'm not deciding tonight,\" she said. \"But I'm going to call about the rent tomorrow. Just to ask.\" Nathan smiled. In his experience, his mother never called \"just to ask\".",
+      "translation_vn": "(1) Cửa hàng trống bên cạnh\n(2) Tiệm bánh cạnh quán Harriet's đã đóng cửa ba tháng thì tấm biển xuất hiện trên cửa kính: CHO THUÊ.\n(3) Bà Harriet đứng trước nó rất lâu. Tối hôm đó, bà mời Nathan sang ăn tối, mà anh biết là chẳng bao giờ chỉ để ăn tối.\n(4) Nathan: Mẹ hẳn đang nghĩ về cái cửa hàng bên cạnh.\n(5) Harriet: Có thể. Nếu thuê nó, mẹ có thể tăng gấp đôi số bàn. Mẹ có thể mở bữa sáng sớm hơn, và câu lạc bộ sách khỏi phải ngồi ngoài cầu thang.\n(6) Nathan: Mẹ ơi, mẹ bảy mươi ba tuổi rồi. Mẹ đã làm sáu ngày một tuần.\n(7) Harriet: Mẹ biết mẹ bao nhiêu tuổi, cảm ơn con. Chính vì thế mà mẹ nghĩ tới nó bây giờ chứ không phải mười năm nữa.\n(8) Nathan: Thế chuyện tiền nong thì sao?\n(9) Harriet: Bạn của Ruby, cái cô học kinh doanh ấy, đang giúp mẹ tính toán. Tiền thuê cao, nhưng quán đông hơn bao giờ hết. Hầu như ngày nào chín giờ cũng có người đứng chờ bàn.\n(10) Nathan: Vậy điều gì làm mẹ chần chừ?\n(11) Bà Harriet im lặng một lúc.\n(12) Harriet: Sự thay đổi. Người ta không tới đây vì một quán cà phê lớn. Họ tới vì nó giống một căn bếp. Nhỡ mẹ làm nó to ra rồi nó không còn giống nhà nữa thì sao? Có khi mẹ đang phá hỏng đúng cái thứ duy nhất đang chạy tốt.\n(13) Nathan: Vậy đừng làm nó to ra. Làm nó khác đi. Dùng phòng mới cho câu lạc bộ sách, những buổi sáng kể chuyện của bọn trẻ và các bữa tối của hàng xóm. Giữ nguyên phòng cũ y như bây giờ.\n(14) Bà Harriet nhìn con trai như thể anh vừa nói điều gì đó rất thông minh, mà lần này, anh nói thật.\n(15) \"Mẹ chưa quyết tối nay đâu,\" bà nói. \"Nhưng mai mẹ sẽ gọi hỏi tiền thuê. Chỉ hỏi thôi.\"\n(16) Nathan mỉm cười. Theo kinh nghiệm của anh, mẹ anh chưa bao giờ gọi \"chỉ để hỏi\" cả.",
+      "word_count": 297,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.157",
+        "b2.158",
+        "b2.159",
+        "b2.160"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u3940_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "What is the main purpose of Ethan's article?",
+        "vi": "Mục đích chính của bài viết của Ethan là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to describe his training camp and the mountains where he learns to fight fires",
+            "vi": "để tả trại huấn luyện và những ngọn núi nơi anh học chữa cháy"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to describe his training camp and the mountains where he learns to fight fires",
+          "text_translation": "để tả trại huấn luyện và những ngọn núi nơi anh học chữa cháy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to tell neighbors how to prepare for a wildfire before the smoke arrives",
+            "vi": "để chỉ hàng xóm cách chuẩn bị cho cháy rừng trước khi khói tới"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to tell neighbors how to prepare for a wildfire before the smoke arrives",
+          "text_translation": "để chỉ hàng xóm cách chuẩn bị cho cháy rừng trước khi khói tới"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to sell go-bags that neighbors can order from the fire station",
+            "vi": "để bán túi đi ngay mà hàng xóm có thể đặt ở trạm cứu hoả"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to sell go-bags that neighbors can order from the fire station",
+          "text_translation": "để bán túi đi ngay mà hàng xóm có thể đặt ở trạm cứu hoả"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to explain how fires start in the mountains and why they spread so fast",
+            "vi": "để giải thích cháy ở vùng núi bắt đầu thế nào và vì sao lan nhanh"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to explain how fires start in the mountains and why they spread so fast",
+          "text_translation": "để giải thích cháy ở vùng núi bắt đầu thế nào và vì sao lan nhanh"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"the people who are ready before a fire are the people who leave safely.\" Bài chia ba bước chuẩn bị."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of Ethan's article?",
+      "question_vn": "Mục đích chính của bài viết của Ethan là gì?",
+      "explanation": "\"the people who are ready before a fire are the people who leave safely.\" Bài chia ba bước chuẩn bị."
+    },
+    {
+      "id": "q_u3940_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "Where is Ethan writing from?",
+        "vi": "Ethan viết bài từ đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the fire station on Maple Street, where he works with his old team",
+            "vi": "trạm cứu hoả trên phố Maple, nơi anh làm việc cùng đội cũ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the fire station on Maple Street, where he works with his old team",
+          "text_translation": "trạm cứu hoả trên phố Maple, nơi anh làm việc cùng đội cũ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Sunset Bay Hospital, where he is visiting a friend this week",
+            "vi": "Bệnh viện Sunset Bay, nơi anh đang thăm một người bạn tuần này"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Sunset Bay Hospital, where he is visiting a friend this week",
+          "text_translation": "Bệnh viện Sunset Bay, nơi anh đang thăm một người bạn tuần này"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "his home on Maple Street, where he is resting after the training",
+            "vi": "nhà anh trên phố Maple, nơi anh nghỉ ngơi sau khoá huấn luyện"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "his home on Maple Street, where he is resting after the training",
+          "text_translation": "nhà anh trên phố Maple, nơi anh nghỉ ngơi sau khoá huấn luyện"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a training camp in the north of the state",
+            "vi": "một trại huấn luyện ở phía bắc bang"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "a training camp in the north of the state",
+          "text_translation": "một trại huấn luyện ở phía bắc bang"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"I am writing this from a training camp in the north of the state\"."
+      },
+      "audio_data": null,
+      "question_jp": "Where is Ethan writing from?",
+      "question_vn": "Ethan viết bài từ đâu?",
+      "explanation": "\"I am writing this from a training camp in the north of the state\"."
+    },
+    {
+      "id": "q_u3940_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "Why does Ethan say that you don't have to live in a forest to be at risk?",
+        "vi": "Vì sao Ethan nói không cần sống trong rừng mới gặp nguy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because smoke and sparks can travel for miles, far away from the forest",
+            "vi": "vì khói và tàn lửa có thể bay xa nhiều dặm, cách rừng rất xa"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because smoke and sparks can travel for miles, far away from the forest",
+          "text_translation": "vì khói và tàn lửa có thể bay xa nhiều dặm, cách rừng rất xa"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because all the houses in the area are made of wood and burn very quickly",
+            "vi": "vì mọi ngôi nhà trong vùng đều bằng gỗ và cháy rất nhanh"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because all the houses in the area are made of wood and burn very quickly",
+          "text_translation": "vì mọi ngôi nhà trong vùng đều bằng gỗ và cháy rất nhanh"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because forests are far away, so people there need to be more careful",
+            "vi": "vì rừng ở xa, nên người ở đó cần cẩn thận hơn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because forests are far away, so people there need to be more careful",
+          "text_translation": "vì rừng ở xa, nên người ở đó cần cẩn thận hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because fires only start in cities, where people leave their stoves on",
+            "vi": "vì cháy chỉ xảy ra ở thành phố, nơi người ta để bếp cháy"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because fires only start in cities, where people leave their stoves on",
+          "text_translation": "vì cháy chỉ xảy ra ở thành phố, nơi người ta để bếp cháy"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Smoke and sparks can travel for miles.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Ethan say that you don't have to live in a forest to be at risk?",
+      "question_vn": "Vì sao Ethan nói không cần sống trong rừng mới gặp nguy?",
+      "explanation": "\"Smoke and sparks can travel for miles.\""
+    },
+    {
+      "id": "q_u3940_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "What is a go-bag?",
+        "vi": "Túi đi ngay là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a bag for going to the gym, packed with clothes, water and a towel for a long workout",
+            "vi": "túi đi tập thể dục, xếp sẵn quần áo, nước và khăn cho buổi tập dài"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a bag for going to the gym, packed with clothes, water and a towel for a long workout",
+          "text_translation": "túi đi tập thể dục, xếp sẵn quần áo, nước và khăn cho buổi tập dài"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a bag for shopping at the market, with room for all the food a family needs",
+            "vi": "túi đi chợ, đủ chỗ cho mọi thức ăn một gia đình cần"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a bag for shopping at the market, with room for all the food a family needs",
+          "text_translation": "túi đi chợ, đủ chỗ cho mọi thức ăn một gia đình cần"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a bag that is packed and waiting near the door in case you have to leave quickly",
+            "vi": "một chiếc túi xếp sẵn để gần cửa phòng khi phải rời đi gấp"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "a bag that is packed and waiting near the door in case you have to leave quickly",
+          "text_translation": "một chiếc túi xếp sẵn để gần cửa phòng khi phải rời đi gấp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a bag that a firefighter carries to every fire, filled with tools and equipment",
+            "vi": "túi lính cứu hoả mang theo tới mọi đám cháy, đầy dụng cụ và thiết bị"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a bag that a firefighter carries to every fire, filled with tools and equipment",
+          "text_translation": "túi lính cứu hoả mang theo tới mọi đám cháy, đầy dụng cụ và thiết bị"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"A go-bag is a bag that is packed and waiting near your door, so that you have nothing to look for if you need to leave in ten minutes.\" Nothing to + V = chẳng có gì phải làm."
+      },
+      "audio_data": null,
+      "question_jp": "What is a go-bag?",
+      "question_vn": "Túi đi ngay là gì?",
+      "explanation": "\"A go-bag is a bag that is packed and waiting near your door, so that you have nothing to look for if you need to leave in ten minutes.\" Nothing to + V = chẳng có gì phải làm."
+    },
+    {
+      "id": "q_u3940_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "Which of these is NOT on Ethan's list for a go-bag?",
+        "vi": "Thứ nào KHÔNG có trong danh sách túi đi ngay của Ethan?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "water",
+            "vi": "nước"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "water",
+          "text_translation": "nước"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "copies of important documents",
+            "vi": "bản sao giấy tờ quan trọng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "copies of important documents",
+          "text_translation": "bản sao giấy tờ quan trọng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "masks that can filter smoke",
+            "vi": "khẩu trang lọc khói"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "masks that can filter smoke",
+          "text_translation": "khẩu trang lọc khói"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a laptop",
+            "vi": "máy tính xách tay"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "a laptop",
+          "text_translation": "máy tính xách tay"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Danh sách gồm nước, thuốc, bản sao giấy tờ, sạc, đèn pin, tiền mặt và khẩu trang. Không có máy tính xách tay."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT on Ethan's list for a go-bag?",
+      "question_vn": "Thứ nào KHÔNG có trong danh sách túi đi ngay của Ethan?",
+      "explanation": "Danh sách gồm nước, thuốc, bản sao giấy tờ, sạc, đèn pin, tiền mặt và khẩu trang. Không có máy tính xách tay."
+    },
+    {
+      "id": "q_u3940_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "Why does Ethan mention Biscuit?",
+        "vi": "Vì sao Ethan nhắc tới Biscuit?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to add a light, friendly touch while reminding people to pack food for their pets",
+            "vi": "để thêm chút vui vẻ, thân thiện trong lúc nhắc mọi người chuẩn bị thức ăn cho thú cưng"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to add a light, friendly touch while reminding people to pack food for their pets",
+          "text_translation": "để thêm chút vui vẻ, thân thiện trong lúc nhắc mọi người chuẩn bị thức ăn cho thú cưng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because Biscuit is lost and Ethan wants neighbors to help him look for the dog",
+            "vi": "vì Biscuit bị lạc và Ethan muốn hàng xóm giúp tìm con chó"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because Biscuit is lost and Ethan wants neighbors to help him look for the dog",
+          "text_translation": "vì Biscuit bị lạc và Ethan muốn hàng xóm giúp tìm con chó"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because Biscuit is Ethan's own dog and he misses him at the training camp",
+            "vi": "vì Biscuit là chó của chính Ethan và anh nhớ nó ở trại huấn luyện"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because Biscuit is Ethan's own dog and he misses him at the training camp",
+          "text_translation": "vì Biscuit là chó của chính Ethan và anh nhớ nó ở trại huấn luyện"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because dogs can smell smoke before people can, so they warn the family",
+            "vi": "vì chó ngửi thấy khói trước người, nên chúng báo cho cả nhà"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because dogs can smell smoke before people can, so they warn the family",
+          "text_translation": "vì chó ngửi thấy khói trước người, nên chúng báo cho cả nhà"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về giọng điệu. \"Biscuit, my neighbor's dog, would want me to mention that.\" Câu đùa nhẹ làm bài hướng dẫn bớt khô khan với hàng xóm."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Ethan mention Biscuit?",
+      "question_vn": "Vì sao Ethan nhắc tới Biscuit?",
+      "explanation": "Câu suy luận về giọng điệu. \"Biscuit, my neighbor's dog, would want me to mention that.\" Câu đùa nhẹ làm bài hướng dẫn bớt khô khan với hàng xóm."
+    },
+    {
+      "id": "q_u3940_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "Why should you plan at least two routes out of the neighborhood?",
+        "vi": "Vì sao nên lên ít nhất hai tuyến ra khỏi khu phố?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because one route is always closed in the summer, when fire season begins",
+            "vi": "vì một tuyến luôn bị chặn vào mùa hè, khi mùa cháy bắt đầu"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because one route is always closed in the summer, when fire season begins",
+          "text_translation": "vì một tuyến luôn bị chặn vào mùa hè, khi mùa cháy bắt đầu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "so that you can visit friends in other neighborhoods before you leave",
+            "vi": "để bạn ghé thăm bạn bè ở các khu khác trước khi rời đi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "so that you can visit friends in other neighborhoods before you leave",
+          "text_translation": "để bạn ghé thăm bạn bè ở các khu khác trước khi rời đi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the city requires every family to plan two routes in writing",
+            "vi": "vì thành phố bắt mỗi gia đình phải lập hai tuyến bằng văn bản"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the city requires every family to plan two routes in writing",
+          "text_translation": "vì thành phố bắt mỗi gia đình phải lập hai tuyến bằng văn bản"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because roads can be closed by fire or blocked by traffic when people leave",
+            "vi": "vì đường có thể bị lửa chặn hoặc kẹt xe khi mọi người cùng rời đi"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because roads can be closed by fire or blocked by traffic when people leave",
+          "text_translation": "vì đường có thể bị lửa chặn hoặc kẹt xe khi mọi người cùng rời đi"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Roads can be closed by fire or blocked by traffic, so plan at least two routes out\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why should you plan at least two routes out of the neighborhood?",
+      "question_vn": "Vì sao nên lên ít nhất hai tuyến ra khỏi khu phố?",
+      "explanation": "\"Roads can be closed by fire or blocked by traffic, so plan at least two routes out\"."
+    },
+    {
+      "id": "q_u3940_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "What does \"Don't be the person who waits to see how bad it gets\" mean?",
+        "vi": "Câu \"Đừng là người cứ chờ xem tình hình tệ tới mức nào\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Wait until you can see the fire from your window, and then decide whether to leave.",
+            "vi": "Chờ tới khi thấy lửa từ cửa sổ, rồi mới quyết định có đi không."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Wait until you can see the fire from your window, and then decide whether to leave.",
+          "text_translation": "Chờ tới khi thấy lửa từ cửa sổ, rồi mới quyết định có đi không."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Leave as soon as officials tell you to, instead of waiting to see what happens.",
+            "vi": "Hãy rời đi ngay khi các viên chức báo, thay vì chờ xem chuyện gì xảy ra."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Leave as soon as officials tell you to, instead of waiting to see what happens.",
+          "text_translation": "Hãy rời đi ngay khi các viên chức báo, thay vì chờ xem chuyện gì xảy ra."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Stay at home and watch the news until officials call you on the phone.",
+            "vi": "Ở nhà xem tin tức cho tới khi các viên chức gọi điện cho bạn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Stay at home and watch the news until officials call you on the phone.",
+          "text_translation": "Ở nhà xem tin tức cho tới khi các viên chức gọi điện cho bạn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Call a firefighter first and ask whether the situation is really bad.",
+            "vi": "Gọi cho lính cứu hoả trước và hỏi xem tình hình có thật sự tệ không."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Call a firefighter first and ask whether the situation is really bad.",
+          "text_translation": "Gọi cho lính cứu hoả trước và hỏi xem tình hình có thật sự tệ không."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"When officials say that it is time to leave, leave.\" Câu mệnh lệnh với be (Don't be…) dùng để khuyên mạnh."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Don't be the person who waits to see how bad it gets\" mean?",
+      "question_vn": "Câu \"Đừng là người cứ chờ xem tình hình tệ tới mức nào\" nghĩa là gì?",
+      "explanation": "\"When officials say that it is time to leave, leave.\" Câu mệnh lệnh với be (Don't be…) dùng để khuyên mạnh."
+    },
+    {
+      "id": "q_u3940_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "According to Ethan, how did many of the most dangerous situations begin?",
+        "vi": "Theo Ethan, nhiều tình huống nguy hiểm nhất bắt đầu thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "with someone who thought that there was nothing to worry about yet",
+            "vi": "từ một người nghĩ rằng chưa có gì phải lo"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "with someone who thought that there was nothing to worry about yet",
+          "text_translation": "từ một người nghĩ rằng chưa có gì phải lo"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "with bad weather that nobody had expected, such as strong wind or heavy rain",
+            "vi": "từ thời tiết xấu không ai ngờ tới, như gió mạnh hay mưa to"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "with bad weather that nobody had expected, such as strong wind or heavy rain",
+          "text_translation": "từ thời tiết xấu không ai ngờ tới, như gió mạnh hay mưa to"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "with a broken phone, so that people could not hear the call to leave",
+            "vi": "từ một chiếc điện thoại hỏng, nên người ta không nghe được lời kêu gọi rời đi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "with a broken phone, so that people could not hear the call to leave",
+          "text_translation": "từ một chiếc điện thoại hỏng, nên người ta không nghe được lời kêu gọi rời đi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "with too many firefighters arriving at the same time on a narrow road",
+            "vi": "từ quá nhiều lính cứu hoả cùng đến một lúc trên con đường hẹp"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "with too many firefighters arriving at the same time on a narrow road",
+          "text_translation": "từ quá nhiều lính cứu hoả cùng đến một lúc trên con đường hẹp"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"began with someone who thought that there was nothing to worry about yet.\" Nothing to worry about = chẳng có gì phải lo."
+      },
+      "audio_data": null,
+      "question_jp": "According to Ethan, how did many of the most dangerous situations begin?",
+      "question_vn": "Theo Ethan, nhiều tình huống nguy hiểm nhất bắt đầu thế nào?",
+      "explanation": "\"began with someone who thought that there was nothing to worry about yet.\" Nothing to worry about = chẳng có gì phải lo."
+    },
+    {
+      "id": "q_u3940_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_01",
+      "i18n": {
+        "en": "What does Ethan's last paragraph suggest about why people don't prepare?",
+        "vi": "Đoạn cuối của Ethan cho thấy vì sao người ta không chuẩn bị?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Go-bags are very expensive, so most families can't pay for one.",
+            "vi": "Túi đi ngay rất đắt, nên hầu hết các gia đình không mua nổi."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Go-bags are very expensive, so most families can't pay for one.",
+          "text_translation": "Túi đi ngay rất đắt, nên hầu hết các gia đình không mua nổi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Nobody knows how to pack one, because firefighters never explain it.",
+            "vi": "Không ai biết cách xếp, vì lính cứu hoả chưa bao giờ giải thích."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Nobody knows how to pack one, because firefighters never explain it.",
+          "text_translation": "Không ai biết cách xếp, vì lính cứu hoả chưa bao giờ giải thích."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is an easy job to put off until later, so people keep waiting.",
+            "vi": "Đó là việc dễ trì hoãn, nên người ta cứ chờ mãi."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It is an easy job to put off until later, so people keep waiting.",
+          "text_translation": "Đó là việc dễ trì hoãn, nên người ta cứ chờ mãi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They don't believe firefighters, who often tell them to leave too early.",
+            "vi": "Họ không tin lính cứu hoả, những người hay bảo họ đi quá sớm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They don't believe firefighters, who often tell them to leave too early.",
+          "text_translation": "Họ không tin lính cứu hoả, những người hay bảo họ đi quá sớm."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"It is the kind of job that is easy to put off. Please don't.\" Put off = trì hoãn."
+      },
+      "audio_data": null,
+      "question_jp": "What does Ethan's last paragraph suggest about why people don't prepare?",
+      "question_vn": "Đoạn cuối của Ethan cho thấy vì sao người ta không chuẩn bị?",
+      "explanation": "Câu suy luận. \"It is the kind of job that is easy to put off. Please don't.\" Put off = trì hoãn."
+    },
+    {
+      "id": "q_u3940_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "What is the story mainly about?",
+        "vi": "Câu chuyện chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the history of the bakery next door and why its owners had to close it last winter",
+            "vi": "lịch sử tiệm bánh bên cạnh và vì sao chủ tiệm phải đóng cửa hồi mùa đông"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the history of the bakery next door and why its owners had to close it last winter",
+          "text_translation": "lịch sử tiệm bánh bên cạnh và vì sao chủ tiệm phải đóng cửa hồi mùa đông"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet deciding whether to expand her café into the empty shop next door",
+            "vi": "bà Harriet cân nhắc có mở rộng quán sang cửa hàng trống bên cạnh không"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Harriet deciding whether to expand her café into the empty shop next door",
+          "text_translation": "bà Harriet cân nhắc có mở rộng quán sang cửa hàng trống bên cạnh không"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Nathan's plan to rent the empty shop and start a business of his own",
+            "vi": "kế hoạch của Nathan thuê cửa hàng trống để tự kinh doanh"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Nathan's plan to rent the empty shop and start a business of his own",
+          "text_translation": "kế hoạch của Nathan thuê cửa hàng trống để tự kinh doanh"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a dinner recipe that Harriet cooks for Nathan whenever he visits the café",
+            "vi": "một công thức bữa tối mà bà Harriet nấu cho Nathan mỗi khi anh ghé quán"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a dinner recipe that Harriet cooks for Nathan whenever he visits the café",
+          "text_translation": "một công thức bữa tối mà bà Harriet nấu cho Nathan mỗi khi anh ghé quán"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"You must be thinking about the shop next door.\" Cả cuộc trò chuyện xoay quanh việc thuê hay không."
+      },
+      "audio_data": null,
+      "question_jp": "What is the story mainly about?",
+      "question_vn": "Câu chuyện chủ yếu nói về điều gì?",
+      "explanation": "\"You must be thinking about the shop next door.\" Cả cuộc trò chuyện xoay quanh việc thuê hay không."
+    },
+    {
+      "id": "q_u3940_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "What does \"she invited Nathan for dinner, which he knew was never only about dinner\" suggest?",
+        "vi": "Câu \"bà mời Nathan sang ăn tối, mà anh biết là chẳng bao giờ chỉ để ăn tối\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet's dinners are always very large, so Nathan knows he will eat far too much afterward.",
+            "vi": "Bữa tối của bà Harriet luôn rất thịnh soạn, nên Nathan biết mình sẽ ăn quá nhiều."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Harriet's dinners are always very large, so Nathan knows he will eat far too much afterward.",
+          "text_translation": "Bữa tối của bà Harriet luôn rất thịnh soạn, nên Nathan biết mình sẽ ăn quá nhiều."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Nathan doesn't like Harriet's cooking, so he always finds a reason to leave early.",
+            "vi": "Nathan không thích món bà Harriet nấu, nên luôn tìm lý do về sớm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Nathan doesn't like Harriet's cooking, so he always finds a reason to leave early.",
+          "text_translation": "Nathan không thích món bà Harriet nấu, nên luôn tìm lý do về sớm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Harriet never cooks at home, so she always asks Nathan to take her to a restaurant.",
+            "vi": "Bà Harriet không bao giờ nấu ở nhà, nên luôn nhờ Nathan đưa bà đi nhà hàng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Harriet never cooks at home, so she always asks Nathan to take her to a restaurant.",
+          "text_translation": "Bà Harriet không bao giờ nấu ở nhà, nên luôn nhờ Nathan đưa bà đi nhà hàng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "When Harriet invites him for dinner, she usually wants to discuss something important.",
+            "vi": "Khi bà Harriet mời anh ăn tối, bà thường muốn bàn chuyện quan trọng."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "When Harriet invites him for dinner, she usually wants to discuss something important.",
+          "text_translation": "Khi bà Harriet mời anh ăn tối, bà thường muốn bàn chuyện quan trọng."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Bà vừa đứng rất lâu trước tấm biển CHO THUÊ. Nathan hiểu bữa tối là để bàn chuyện đó."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"she invited Nathan for dinner, which he knew was never only about dinner\" suggest?",
+      "question_vn": "Câu \"bà mời Nathan sang ăn tối, mà anh biết là chẳng bao giờ chỉ để ăn tối\" hàm ý gì?",
+      "explanation": "Câu suy luận. Bà vừa đứng rất lâu trước tấm biển CHO THUÊ. Nathan hiểu bữa tối là để bàn chuyện đó."
+    },
+    {
+      "id": "q_u3940_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "What does Nathan mean by \"You must be thinking about the shop next door\"?",
+        "vi": "Nathan muốn nói gì qua câu \"Mẹ hẳn đang nghĩ về cái cửa hàng bên cạnh\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He is almost sure that his mother is already thinking about the shop next door.",
+            "vi": "Anh gần như chắc chắn mẹ đang nghĩ về cửa hàng bên cạnh."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "He is almost sure that his mother is already thinking about the shop next door.",
+          "text_translation": "Anh gần như chắc chắn mẹ đang nghĩ về cửa hàng bên cạnh."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He orders his mother to think about the shop and to give him an answer soon.",
+            "vi": "Anh ra lệnh cho mẹ nghĩ về cửa hàng và sớm trả lời anh"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He orders his mother to think about the shop and to give him an answer soon.",
+          "text_translation": "Anh ra lệnh cho mẹ nghĩ về cửa hàng và sớm trả lời anh"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He doesn't know about the shop and wants his mother to explain what it is.",
+            "vi": "Anh không biết gì về cửa hàng và muốn mẹ giải thích nó là gì."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He doesn't know about the shop and wants his mother to explain what it is.",
+          "text_translation": "Anh không biết gì về cửa hàng và muốn mẹ giải thích nó là gì."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He wants to rent the shop himself and open a second café for his family.",
+            "vi": "Anh muốn tự thuê cửa hàng và mở quán thứ hai cho gia đình."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He wants to rent the shop himself and open a second café for his family.",
+          "text_translation": "Anh muốn tự thuê cửa hàng và mở quán thứ hai cho gia đình."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "Must be + V-ing = hẳn là đang (suy đoán chắc chắn về việc đang diễn ra)."
+      },
+      "audio_data": null,
+      "question_jp": "What does Nathan mean by \"You must be thinking about the shop next door\"?",
+      "question_vn": "Nathan muốn nói gì qua câu \"Mẹ hẳn đang nghĩ về cái cửa hàng bên cạnh\"?",
+      "explanation": "Must be + V-ing = hẳn là đang (suy đoán chắc chắn về việc đang diễn ra)."
+    },
+    {
+      "id": "q_u3940_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "What could Harriet do if she took the shop?",
+        "vi": "Nếu thuê cửa hàng, bà Harriet có thể làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "close the old café and move everything to the new, bigger room",
+            "vi": "đóng quán cũ và chuyển mọi thứ sang gian mới to hơn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "close the old café and move everything to the new, bigger room",
+          "text_translation": "đóng quán cũ và chuyển mọi thứ sang gian mới to hơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "sell bread and cakes to people who walk past the shop in the morning",
+            "vi": "bán bánh mì và bánh ngọt cho người đi ngang qua cửa hàng buổi sáng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "sell bread and cakes to people who walk past the shop in the morning",
+          "text_translation": "bán bánh mì và bánh ngọt cho người đi ngang qua cửa hàng buổi sáng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "double the number of tables and start breakfast earlier in the morning",
+            "vi": "tăng gấp đôi số bàn và mở bữa sáng sớm hơn vào buổi sáng"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "double the number of tables and start breakfast earlier in the morning",
+          "text_translation": "tăng gấp đôi số bàn và mở bữa sáng sớm hơn vào buổi sáng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "work fewer days each week, because Nathan would give her more help",
+            "vi": "làm ít ngày hơn mỗi tuần, vì Nathan sẽ giúp bà nhiều hơn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "work fewer days each week, because Nathan would give her more help",
+          "text_translation": "làm ít ngày hơn mỗi tuần, vì Nathan sẽ giúp bà nhiều hơn"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"If I took it, I could double the number of tables. I could start breakfast earlier\"."
+      },
+      "audio_data": null,
+      "question_jp": "What could Harriet do if she took the shop?",
+      "question_vn": "Nếu thuê cửa hàng, bà Harriet có thể làm gì?",
+      "explanation": "\"If I took it, I could double the number of tables. I could start breakfast earlier\"."
+    },
+    {
+      "id": "q_u3940_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "Why does Harriet say she is thinking about it now and not in ten years?",
+        "vi": "Vì sao bà Harriet nói bà nghĩ tới nó bây giờ chứ không phải mười năm nữa?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the rent will go down a lot if she waits for another ten years",
+            "vi": "vì tiền thuê sẽ giảm nhiều nếu bà đợi thêm mười năm nữa"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because the rent will go down a lot if she waits for another ten years",
+          "text_translation": "vì tiền thuê sẽ giảm nhiều nếu bà đợi thêm mười năm nữa"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because, at her age, she doesn't want to wait too long to try something new",
+            "vi": "vì ở tuổi bà, bà không muốn chờ quá lâu mới thử điều mới"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because, at her age, she doesn't want to wait too long to try something new",
+          "text_translation": "vì ở tuổi bà, bà không muốn chờ quá lâu mới thử điều mới"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because Nathan told her to decide quickly before he leaves on a trip",
+            "vi": "vì Nathan bảo bà quyết nhanh trước khi anh đi xa"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because Nathan told her to decide quickly before he leaves on a trip",
+          "text_translation": "vì Nathan bảo bà quyết nhanh trước khi anh đi xa"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the shop will be sold to someone else if she doesn't rent it soon",
+            "vi": "vì cửa hàng sẽ bị bán cho người khác nếu bà không thuê sớm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because the shop will be sold to someone else if she doesn't rent it soon",
+          "text_translation": "vì cửa hàng sẽ bị bán cho người khác nếu bà không thuê sớm"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Nathan nhắc tuổi của bà, và bà đáp \"That's exactly why I'm thinking about it now\". Bà biết mình không còn nhiều thời gian để chờ."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Harriet say she is thinking about it now and not in ten years?",
+      "question_vn": "Vì sao bà Harriet nói bà nghĩ tới nó bây giờ chứ không phải mười năm nữa?",
+      "explanation": "Câu suy luận. Nathan nhắc tuổi của bà, và bà đáp \"That's exactly why I'm thinking about it now\". Bà biết mình không còn nhiều thời gian để chờ."
+    },
+    {
+      "id": "q_u3940_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "Why does Harriet think that the café might be able to pay the high rent?",
+        "vi": "Vì sao bà Harriet nghĩ quán có thể trả nổi tiền thuê cao?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because Nathan will pay half of the rent every month until she is ready",
+            "vi": "vì Nathan sẽ trả một nửa tiền thuê mỗi tháng cho tới khi bà sẵn sàng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because Nathan will pay half of the rent every month until she is ready",
+          "text_translation": "vì Nathan sẽ trả một nửa tiền thuê mỗi tháng cho tới khi bà sẵn sàng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the book club has promised to pay a high rent for the new room every week",
+            "vi": "vì câu lạc bộ sách đã hứa trả tiền thuê cao cho gian mới mỗi tuần"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the book club has promised to pay a high rent for the new room every week",
+          "text_translation": "vì câu lạc bộ sách đã hứa trả tiền thuê cao cho gian mới mỗi tuần"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the rent is low compared with other shops in the same street",
+            "vi": "vì tiền thuê thấp so với các cửa hàng khác trên cùng phố"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the rent is low compared with other shops in the same street",
+          "text_translation": "vì tiền thuê thấp so với các cửa hàng khác trên cùng phố"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the café is busier than ever, and people often wait for a table",
+            "vi": "vì quán đông hơn bao giờ hết, và người ta hay phải chờ bàn"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because the café is busier than ever, and people often wait for a table",
+          "text_translation": "vì quán đông hơn bao giờ hết, và người ta hay phải chờ bàn"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"The rent is high, but the café is busier than it has ever been. Most days, people are waiting for a table by nine.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Harriet think that the café might be able to pay the high rent?",
+      "question_vn": "Vì sao bà Harriet nghĩ quán có thể trả nổi tiền thuê cao?",
+      "explanation": "\"The rent is high, but the café is busier than it has ever been. Most days, people are waiting for a table by nine.\""
+    },
+    {
+      "id": "q_u3940_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "What is Harriet's biggest worry?",
+        "vi": "Nỗi lo lớn nhất của bà Harriet là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "that a bigger café might stop feeling like home to the people who come",
+            "vi": "rằng quán to hơn có thể không còn giống nhà với những người tới quán"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "that a bigger café might stop feeling like home to the people who come",
+          "text_translation": "rằng quán to hơn có thể không còn giống nhà với những người tới quán"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that she will run out of coffee when the new customers start to arrive",
+            "vi": "rằng bà sẽ hết cà phê khi khách mới bắt đầu đến"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "that she will run out of coffee when the new customers start to arrive",
+          "text_translation": "rằng bà sẽ hết cà phê khi khách mới bắt đầu đến"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that Nathan will be angry because she is too old to run a bigger café",
+            "vi": "rằng Nathan sẽ giận vì bà quá già để điều hành quán lớn hơn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "that Nathan will be angry because she is too old to run a bigger café",
+          "text_translation": "rằng Nathan sẽ giận vì bà quá già để điều hành quán lớn hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that the bakery will open again and take away many of her customers",
+            "vi": "rằng tiệm bánh sẽ mở lại và cướp đi nhiều khách của bà"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "that the bakery will open again and take away many of her customers",
+          "text_translation": "rằng tiệm bánh sẽ mở lại và cướp đi nhiều khách của bà"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"What if I make it bigger and it stops feeling like home? I might be ruining the one thing that works.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is Harriet's biggest worry?",
+      "question_vn": "Nỗi lo lớn nhất của bà Harriet là gì?",
+      "explanation": "\"What if I make it bigger and it stops feeling like home? I might be ruining the one thing that works.\""
+    },
+    {
+      "id": "q_u3940_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "What does Nathan suggest?",
+        "vi": "Nathan gợi ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "selling the café and using the money to rest, since she is already seventy-three",
+            "vi": "bán quán và dùng tiền để nghỉ ngơi, vì bà đã bảy mươi ba tuổi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "selling the café and using the money to rest, since she is already seventy-three",
+          "text_translation": "bán quán và dùng tiền để nghỉ ngơi, vì bà đã bảy mươi ba tuổi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "making the whole café bigger and more modern, so that more customers come",
+            "vi": "làm cả quán to và hiện đại hơn, để có thêm khách tới"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "making the whole café bigger and more modern, so that more customers come",
+          "text_translation": "làm cả quán to và hiện đại hơn, để có thêm khách tới"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "using the new room for community events and keeping the old room as it is",
+            "vi": "dùng phòng mới cho các hoạt động cộng đồng và giữ nguyên phòng cũ"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "using the new room for community events and keeping the old room as it is",
+          "text_translation": "dùng phòng mới cho các hoạt động cộng đồng và giữ nguyên phòng cũ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "waiting ten years, until the rent goes down and the café is less busy",
+            "vi": "chờ mười năm, tới khi tiền thuê giảm và quán bớt đông"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "waiting ten years, until the rent goes down and the café is less busy",
+          "text_translation": "chờ mười năm, tới khi tiền thuê giảm và quán bớt đông"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Use the new room for the book club, the kids' story mornings and the neighbors' dinners. Keep the old room exactly as it is.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Nathan suggest?",
+      "question_vn": "Nathan gợi ý gì?",
+      "explanation": "\"Use the new room for the book club, the kids' story mornings and the neighbors' dinners. Keep the old room exactly as it is.\""
+    },
+    {
+      "id": "q_u3940_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "What does \"In his experience, his mother never called just to ask\" suggest?",
+        "vi": "Câu \"Theo kinh nghiệm của anh, mẹ anh chưa bao giờ gọi chỉ để hỏi cả\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet never makes phone calls, because she prefers to talk to people in person.",
+            "vi": "Bà Harriet không bao giờ gọi điện, vì bà thích nói chuyện trực tiếp."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Harriet never makes phone calls, because she prefers to talk to people in person.",
+          "text_translation": "Bà Harriet không bao giờ gọi điện, vì bà thích nói chuyện trực tiếp."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet has probably already decided to take the shop, whatever she says.",
+            "vi": "Có lẽ bà Harriet đã quyết định thuê cửa hàng rồi, dù bà nói gì."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Harriet has probably already decided to take the shop, whatever she says.",
+          "text_translation": "Có lẽ bà Harriet đã quyết định thuê cửa hàng rồi, dù bà nói gì."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Nathan doesn't believe his mother, because she often says things that are not true.",
+            "vi": "Nathan không tin mẹ, vì bà hay nói những điều không đúng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Nathan doesn't believe his mother, because she often says things that are not true.",
+          "text_translation": "Nathan không tin mẹ, vì bà hay nói những điều không đúng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet will not call tomorrow, because she has already decided against the shop.",
+            "vi": "Mai bà Harriet sẽ không gọi, vì bà đã quyết định không thuê cửa hàng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet will not call tomorrow, because she has already decided against the shop.",
+          "text_translation": "Mai bà Harriet sẽ không gọi, vì bà đã quyết định không thuê cửa hàng."
+        }
+      ],
+      "evidence_segments": [
+        16,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về kết thúc mở. Bà nói \"Just to ask\", nhưng Nathan biết khi mẹ đã gọi tức là mẹ đã gần như quyết định."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"In his experience, his mother never called just to ask\" suggest?",
+      "question_vn": "Câu \"Theo kinh nghiệm của anh, mẹ anh chưa bao giờ gọi chỉ để hỏi cả\" hàm ý gì?",
+      "explanation": "Câu suy luận về kết thúc mở. Bà nói \"Just to ask\", nhưng Nathan biết khi mẹ đã gọi tức là mẹ đã gần như quyết định."
+    },
+    {
+      "id": "q_u3940_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3940_02",
+      "i18n": {
+        "en": "Use both texts. What do Ethan's advice and Harriet's situation have in common?",
+        "vi": "Dựa vào cả hai bài. Lời khuyên của Ethan và hoàn cảnh của bà Harriet có điểm gì chung?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both of them are about wildfires and give advice on how to stay safe in a fire.",
+            "vi": "Cả hai đều về cháy rừng và cho lời khuyên cách giữ an toàn khi có cháy."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both of them are about wildfires and give advice on how to stay safe in a fire.",
+          "text_translation": "Cả hai đều về cháy rừng và cho lời khuyên cách giữ an toàn khi có cháy."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Both of them are about renting a shop and talking to the owner about the price.",
+            "vi": "Cả hai đều về việc thuê cửa hàng và bàn giá với chủ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Both of them are about renting a shop and talking to the owner about the price.",
+          "text_translation": "Cả hai đều về việc thuê cửa hàng và bàn giá với chủ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both of them happen at the fire station, where the neighbors often meet to talk.",
+            "vi": "Cả hai đều diễn ra ở trạm cứu hoả, nơi hàng xóm hay gặp nhau trò chuyện."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Both of them happen at the fire station, where the neighbors often meet to talk.",
+          "text_translation": "Cả hai đều diễn ra ở trạm cứu hoả, nơi hàng xóm hay gặp nhau trò chuyện."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Both of them show the value of thinking ahead instead of waiting until it is too late.",
+            "vi": "Cả hai cho thấy giá trị của việc tính trước thay vì chờ tới khi quá muộn."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Both of them show the value of thinking ahead instead of waiting until it is too late.",
+          "text_translation": "Cả hai cho thấy giá trị của việc tính trước thay vì chờ tới khi quá muộn."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bà Harriet: \"That's exactly why I'm thinking about it now and not in ten years.\" Ethan cũng khuyên chuẩn bị trước, đừng chờ \"to see how bad it gets\"."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do Ethan's advice and Harriet's situation have in common?",
+      "question_vn": "Dựa vào cả hai bài. Lời khuyên của Ethan và hoàn cảnh của bà Harriet có điểm gì chung?",
+      "explanation": "Câu nối hai bài. Bà Harriet: \"That's exactly why I'm thinking about it now and not in ten years.\" Ethan cũng khuyên chuẩn bị trước, đừng chờ \"to see how bad it gets\"."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u3940_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 39) — Ethan hướng dẫn chuẩn bị \"túi đi ngay\" mùa cháy rừng",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u3940_01",
+      "question_ids": [
+        "q_u3940_001",
+        "q_u3940_002",
+        "q_u3940_003",
+        "q_u3940_004",
+        "q_u3940_005",
+        "q_u3940_006",
+        "q_u3940_007",
+        "q_u3940_008",
+        "q_u3940_009",
+        "q_u3940_010"
+      ]
+    },
+    {
+      "set_id": "set_u3940_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 40) — Bà Harriet và cửa hàng trống bên cạnh",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u3940_02",
+      "question_ids": [
+        "q_u3940_011",
+        "q_u3940_012",
+        "q_u3940_013",
+        "q_u3940_014",
+        "q_u3940_015",
+        "q_u3940_016",
+        "q_u3940_017",
+        "q_u3940_018",
+        "q_u3940_019",
+        "q_u3940_020"
+      ]
+    }
+  ]
+}

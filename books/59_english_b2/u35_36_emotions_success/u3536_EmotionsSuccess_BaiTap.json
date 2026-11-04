@@ -1,0 +1,1996 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 35–36 — Emotions & Ambition and success",
+      "vi": "Cảm xúc & Hoài bão, thành công"
+    },
+    "title": "Units 35–36 — Emotions & Ambition and success",
+    "title_vn": "Cảm xúc & Hoài bão, thành công",
+    "module_code": "59_u3536",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.u35+u36",
+    "curriculum_sheets": [
+      "b2.137",
+      "b2.138",
+      "b2.139",
+      "b2.140",
+      "b2.141",
+      "b2.142",
+      "b2.143",
+      "b2.144"
+    ],
+    "characters": [
+      "Leah Carter",
+      "Ethan Hayes",
+      "Chloe Bennett"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 5, năm 7"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Đảo ngữ điều kiện, tính từ tuyệt đối, may well, phản bác quan niệm",
+    "description_vn": "Nhật ký của Leah về cuộc cãi nhau và làm lành với Ethan quanh khoá huấn luyện sáu tháng, và bài báo về sự thật đằng sau \"quy tắc 10.000 giờ\". 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 35 + Unit 36 khoá B2 · phiếu `b2.137` – `b2.144` (đảo ngữ điều kiện Were I… / Were it not for…, tính từ tuyệt đối và tính từ thường, cảm xúc; may well / might well / could well, hoài bão, thành công, nỗ lực)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một cuốn nhật ký và một bài báo phản bác một quan niệm phổ biến; hiểu đảo ngữ điều kiện (Were I in his position…, Were it not for…), `absolutely + tính từ tuyệt đối` (exhausted, furious), `may well / might well / could well`, phân biệt điều được hiểu sai với điều nghiên cứu thật sự nói, và nhận ra cảm xúc qua chuỗi hành động."
+    },
+    "extra_words": [
+      {
+        "word": "violinist",
+        "i18n": {
+          "vi": "nghệ sĩ vĩ cầm"
+        }
+      },
+      {
+        "word": "wildfire",
+        "i18n": {
+          "vi": "cháy rừng"
+        }
+      },
+      {
+        "word": "thrilled",
+        "i18n": {
+          "vi": "mừng rỡ"
+        }
+      },
+      {
+        "word": "furious",
+        "i18n": {
+          "vi": "giận điên lên"
+        }
+      },
+      {
+        "word": "partner",
+        "i18n": {
+          "vi": "người yêu, bạn đời"
+        }
+      },
+      {
+        "word": "violin",
+        "i18n": {
+          "vi": "đàn vĩ cầm"
+        }
+      },
+      {
+        "word": "academy",
+        "i18n": {
+          "vi": "học viện"
+        }
+      },
+      {
+        "word": "world-class",
+        "i18n": {
+          "vi": "đẳng cấp thế giới"
+        }
+      },
+      {
+        "word": "deliberate",
+        "i18n": {
+          "vi": "có chủ đích"
+        }
+      },
+      {
+        "word": "misunderstood",
+        "i18n": {
+          "vi": "bị hiểu sai"
+        }
+      },
+      {
+        "word": "panic",
+        "i18n": {
+          "vi": "hoảng hốt, cuống lên"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "be offered a place",
+          "vi": "được mời tham gia"
+        }
+      },
+      {
+        "i18n": {
+          "en": "go quiet",
+          "vi": "im lặng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "were it not for",
+          "vi": "nếu không có"
+        }
+      },
+      {
+        "i18n": {
+          "en": "might well",
+          "vi": "rất có thể"
+        }
+      },
+      {
+        "i18n": {
+          "en": "not quite",
+          "vi": "không hẳn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "on average",
+          "vi": "trung bình"
+        }
+      },
+      {
+        "i18n": {
+          "en": "be kind to yourself",
+          "vi": "đối xử tử tế với bản thân"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`Were I…, I would…` = `If I were…`; `Were it not for X` = nếu không có X. Đảo ngữ điều kiện hay xuất hiện trong văn viết, nhật ký, bài luận."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Tính từ tuyệt đối (`exhausted`, `furious`, `thrilled`) đi với `absolutely`, không đi với `very`. Chúng cho biết cảm xúc rất mạnh."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`may well / might well / could well` = rất có thể. Mạnh hơn `may` một chút."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài phản bác một quan niệm: tìm câu \"it is not quite what the research says\" rồi theo dõi từng ý First, Second, Later research."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u3536_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 35) — Nhật ký của Leah: cuộc cãi nhau và làm lành"
+      },
+      "narrator": "Leah",
+      "title": "Leah's Journal: The Offer",
+      "category": "story",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Leah's Journal: The Offer",
+            "vi": "Nhật ký của Leah: lời mời"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Monday night",
+            "vi": "Tối thứ Hai"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ethan told me tonight, over dinner, that he has been offered a place on a special wildfire training program in the north of the state. It would last six months.",
+            "vi": "Tối nay, trong bữa tối, Ethan kể với tôi rằng anh được mời tham gia một chương trình huấn luyện chữa cháy rừng đặc biệt ở phía bắc bang. Nó kéo dài sáu tháng."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He was absolutely thrilled, and I should have been happy for him. Instead, I was furious.",
+            "vi": "Anh mừng rỡ vô cùng, và lẽ ra tôi phải vui cho anh. Nhưng tôi lại giận điên lên."
+          }
+        },
+        {
+          "n": 5,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It wasn't the program. It was the fact that he had known about it for two weeks and had already said yes.",
+            "vi": "Không phải vì chương trình. Mà vì anh đã biết chuyện hai tuần rồi và đã nhận lời."
+          }
+        },
+        {
+          "n": 6,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Were I in his position, I would have asked my partner first. I told him that, not very calmly, and he went quiet in the way that I hate.",
+            "vi": "Nếu là tôi ở vị trí của anh, tôi đã hỏi người yêu trước. Tôi nói với anh như vậy, không bình tĩnh lắm, và anh im lặng theo kiểu tôi ghét."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Wednesday",
+            "vi": "Thứ Tư"
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Two days of short, polite messages. I am absolutely exhausted, and not only because of work.",
+            "vi": "Hai ngày toàn tin nhắn ngắn ngủn, lịch sự. Tôi kiệt sức hoàn toàn, mà không chỉ vì công việc."
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I talked to Chloe, who listened for an hour and then asked one question: \"Are you angry that he's going, or that he didn't ask you?\"",
+            "vi": "Tôi nói chuyện với Chloe, cô ấy nghe cả tiếng rồi chỉ hỏi một câu: \"Cậu giận vì anh ấy đi, hay vì anh ấy không hỏi cậu?\""
+          }
+        },
+        {
+          "n": 10,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was the second one, of course. Were it not for Chloe, I might well have spent another week being angry about the wrong thing.",
+            "vi": "Tất nhiên là cái thứ hai. Nếu không có Chloe, có khi tôi đã giận thêm một tuần nữa vì một chuyện chẳng đúng chỗ."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Friday",
+            "vi": "Thứ Sáu"
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tonight was our Thursday-evening rule, moved to Friday because of my shift. We almost cancelled it. I am very glad we didn't.",
+            "vi": "Tối nay là buổi tối \"luật thứ Năm\" của chúng tôi, dời sang thứ Sáu vì ca trực của tôi. Suýt nữa thì huỷ. Tôi mừng lắm vì đã không huỷ."
+          }
+        },
+        {
+          "n": 13,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ethan apologized first. He said that he had been afraid that I would ask him not to go, and that he wouldn't be able to say no to me.",
+            "vi": "Ethan xin lỗi trước. Anh nói anh đã sợ tôi bảo anh đừng đi, và anh sẽ không thể từ chối tôi."
+          }
+        },
+        {
+          "n": 14,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "That made me cry, which made him panic, which made us both laugh.",
+            "vi": "Câu đó làm tôi khóc, tôi khóc thì anh cuống lên, rồi cả hai cùng bật cười."
+          }
+        },
+        {
+          "n": 15,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then I told him the truth: I want him to go. Six months is a long time, but it is not forever, and it is the kind of training that he has dreamed about since I met him.",
+            "vi": "Rồi tôi nói thật với anh: em muốn anh đi. Sáu tháng là lâu, nhưng không phải mãi mãi, và đó là khoá huấn luyện anh mơ từ hồi tôi mới quen anh."
+          }
+        },
+        {
+          "n": 16,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We made a plan: a video call every night that neither of us is working, and I will visit once a month.",
+            "vi": "Chúng tôi lên kế hoạch: tối nào cả hai không trực thì gọi video, và mỗi tháng tôi lên thăm một lần."
+          }
+        },
+        {
+          "n": 17,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I keep thinking that love, like anything worth doing, may well need practice. We are getting better at it.",
+            "vi": "Tôi cứ nghĩ tình yêu, cũng như mọi điều đáng làm, có lẽ cũng cần luyện tập. Chúng tôi đang khá dần lên."
+          }
+        }
+      ],
+      "content_ja": "Leah's Journal: The Offer\n\nMonday night\n\nEthan told me tonight, over dinner, that he has been offered a place on a special wildfire training program in the north of the state. It would last six months. He was absolutely thrilled, and I should have been happy for him. Instead, I was furious. It wasn't the program. It was the fact that he had known about it for two weeks and had already said yes. Were I in his position, I would have asked my partner first. I told him that, not very calmly, and he went quiet in the way that I hate.\n\nWednesday\n\nTwo days of short, polite messages. I am absolutely exhausted, and not only because of work. I talked to Chloe, who listened for an hour and then asked one question: \"Are you angry that he's going, or that he didn't ask you?\" It was the second one, of course. Were it not for Chloe, I might well have spent another week being angry about the wrong thing.\n\nFriday\n\nTonight was our Thursday-evening rule, moved to Friday because of my shift. We almost cancelled it. I am very glad we didn't. Ethan apologized first. He said that he had been afraid that I would ask him not to go, and that he wouldn't be able to say no to me. That made me cry, which made him panic, which made us both laugh. Then I told him the truth: I want him to go. Six months is a long time, but it is not forever, and it is the kind of training that he has dreamed about since I met him. We made a plan: a video call every night that neither of us is working, and I will visit once a month.\n\nI keep thinking that love, like anything worth doing, may well need practice. We are getting better at it.",
+      "translation_vn": "(1) Nhật ký của Leah: lời mời\n(2) Tối thứ Hai\n(3) Tối nay, trong bữa tối, Ethan kể với tôi rằng anh được mời tham gia một chương trình huấn luyện chữa cháy rừng đặc biệt ở phía bắc bang. Nó kéo dài sáu tháng.\n(4) Anh mừng rỡ vô cùng, và lẽ ra tôi phải vui cho anh. Nhưng tôi lại giận điên lên.\n(5) Không phải vì chương trình. Mà vì anh đã biết chuyện hai tuần rồi và đã nhận lời.\n(6) Nếu là tôi ở vị trí của anh, tôi đã hỏi người yêu trước. Tôi nói với anh như vậy, không bình tĩnh lắm, và anh im lặng theo kiểu tôi ghét.\n(7) Thứ Tư\n(8) Hai ngày toàn tin nhắn ngắn ngủn, lịch sự. Tôi kiệt sức hoàn toàn, mà không chỉ vì công việc.\n(9) Tôi nói chuyện với Chloe, cô ấy nghe cả tiếng rồi chỉ hỏi một câu: \"Cậu giận vì anh ấy đi, hay vì anh ấy không hỏi cậu?\"\n(10) Tất nhiên là cái thứ hai. Nếu không có Chloe, có khi tôi đã giận thêm một tuần nữa vì một chuyện chẳng đúng chỗ.\n(11) Thứ Sáu\n(12) Tối nay là buổi tối \"luật thứ Năm\" của chúng tôi, dời sang thứ Sáu vì ca trực của tôi. Suýt nữa thì huỷ. Tôi mừng lắm vì đã không huỷ.\n(13) Ethan xin lỗi trước. Anh nói anh đã sợ tôi bảo anh đừng đi, và anh sẽ không thể từ chối tôi.\n(14) Câu đó làm tôi khóc, tôi khóc thì anh cuống lên, rồi cả hai cùng bật cười.\n(15) Rồi tôi nói thật với anh: em muốn anh đi. Sáu tháng là lâu, nhưng không phải mãi mãi, và đó là khoá huấn luyện anh mơ từ hồi tôi mới quen anh.\n(16) Chúng tôi lên kế hoạch: tối nào cả hai không trực thì gọi video, và mỗi tháng tôi lên thăm một lần.\n(17) Tôi cứ nghĩ tình yêu, cũng như mọi điều đáng làm, có lẽ cũng cần luyện tập. Chúng tôi đang khá dần lên.",
+      "word_count": 316,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.137",
+        "b2.138",
+        "b2.139",
+        "b2.140"
+      ]
+    },
+    {
+      "id": "passage_u3536_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 36) — Sự thật về \"quy tắc 10.000 giờ\""
+      },
+      "narrator": "announcer",
+      "title": "The Truth About the 10,000-Hour Rule",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Truth About the 10,000-Hour Rule",
+            "vi": "Sự thật về \"quy tắc 10.000 giờ\""
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If you have ever wanted to become an expert at something, you may well have heard of the \"10,000-hour rule\": the idea that anyone can become world-class at anything after ten thousand hours of practice.",
+            "vi": "Nếu từng muốn trở thành chuyên gia ở lĩnh vực nào đó, có lẽ bạn đã nghe tới \"quy tắc 10.000 giờ\": ý tưởng rằng ai cũng có thể đạt đẳng cấp thế giới ở bất cứ việc gì sau mười nghìn giờ luyện tập."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is a hopeful idea. Unfortunately, it is not quite what the research says.",
+            "vi": "Đó là một ý tưởng đầy hy vọng. Tiếc là nó không hẳn đúng như nghiên cứu nói."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The number comes from a study published in 1993 by the psychologist Anders Ericsson and his colleagues, who studied violin students at a music academy in Berlin.",
+            "vi": "Con số này bắt nguồn từ một nghiên cứu công bố năm 1993 của nhà tâm lý học Anders Ericsson và các đồng nghiệp, khi họ nghiên cứu sinh viên vĩ cầm ở một học viện âm nhạc tại Berlin."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They found that, by the age of twenty, the best students had practiced for about ten thousand hours on average, much more than the less successful students.",
+            "vi": "Họ thấy rằng tới năm hai mươi tuổi, những sinh viên giỏi nhất đã luyện tập trung bình khoảng mười nghìn giờ, nhiều hơn hẳn những sinh viên kém thành công hơn."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The idea became famous after a best-selling book in 2008 turned it into a simple \"rule\".",
+            "vi": "Ý tưởng trở nên nổi tiếng sau khi một cuốn sách bán chạy năm 2008 biến nó thành một \"quy tắc\" đơn giản."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ericsson himself later said that the rule had been misunderstood.",
+            "vi": "Chính Ericsson sau này nói quy tắc ấy đã bị hiểu sai."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "First, ten thousand was an average: some of the best violinists had practiced far less, and some far more.",
+            "vi": "Thứ nhất, mười nghìn là con số trung bình: có những nghệ sĩ vĩ cầm giỏi nhất luyện ít hơn nhiều, có người luyện nhiều hơn nhiều."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Second, and more importantly, not all practice is equal. What made the difference was \"deliberate practice\": focused work on specific weaknesses, usually with a teacher and with clear feedback, which is often difficult and not much fun.",
+            "vi": "Thứ hai, và quan trọng hơn, không phải luyện tập nào cũng như nhau. Điều tạo nên khác biệt là \"luyện tập có chủ đích\": tập trung vào những điểm yếu cụ thể, thường có thầy và có phản hồi rõ ràng, việc thường khó và chẳng mấy vui."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Playing the songs that you already know for ten thousand hours could well make you very comfortable, but it will not necessarily make you better.",
+            "vi": "Chơi đi chơi lại những bài mình đã thuộc suốt mười nghìn giờ có thể làm bạn rất thoải mái, nhưng chưa chắc làm bạn giỏi hơn."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Later research has added another surprise.",
+            "vi": "Các nghiên cứu sau này còn thêm một bất ngờ nữa."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A large review in 2014 combined dozens of studies and found that practice explained only part of the differences between people: about a fifth in music and sports, and much less in many jobs.",
+            "vi": "Một tổng quan lớn năm 2014 gộp hàng chục nghiên cứu và thấy rằng luyện tập chỉ giải thích được một phần khác biệt giữa người với người: khoảng một phần năm trong âm nhạc và thể thao, và ít hơn nhiều ở nhiều nghề nghiệp."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Other things, such as the age when people start, their personality and simple luck, also matter.",
+            "vi": "Những yếu tố khác, như độ tuổi bắt đầu, tính cách và cả may mắn, cũng có vai trò."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "None of this means that practice is pointless. Nobody becomes excellent without a great deal of it.",
+            "vi": "Điều này không có nghĩa là luyện tập vô ích. Không ai trở nên xuất sắc mà không luyện tập thật nhiều."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But the real lesson may be less about counting hours and more about how those hours are spent, and about being kind to yourself when progress is slower than a famous number promised.",
+            "vi": "Nhưng bài học thật sự có lẽ ít liên quan tới việc đếm giờ mà nhiều hơn tới cách dùng những giờ ấy, và việc đối xử tử tế với bản thân khi tiến bộ chậm hơn con số nổi tiếng kia hứa hẹn."
+          }
+        }
+      ],
+      "content_ja": "The Truth About the 10,000-Hour Rule\n\nIf you have ever wanted to become an expert at something, you may well have heard of the \"10,000-hour rule\": the idea that anyone can become world-class at anything after ten thousand hours of practice. It is a hopeful idea. Unfortunately, it is not quite what the research says.\n\nThe number comes from a study published in 1993 by the psychologist Anders Ericsson and his colleagues, who studied violin students at a music academy in Berlin. They found that, by the age of twenty, the best students had practiced for about ten thousand hours on average, much more than the less successful students. The idea became famous after a best-selling book in 2008 turned it into a simple \"rule\".\n\nEricsson himself later said that the rule had been misunderstood. First, ten thousand was an average: some of the best violinists had practiced far less, and some far more. Second, and more importantly, not all practice is equal. What made the difference was \"deliberate practice\": focused work on specific weaknesses, usually with a teacher and with clear feedback, which is often difficult and not much fun. Playing the songs that you already know for ten thousand hours could well make you very comfortable, but it will not necessarily make you better.\n\nLater research has added another surprise. A large review in 2014 combined dozens of studies and found that practice explained only part of the differences between people: about a fifth in music and sports, and much less in many jobs. Other things, such as the age when people start, their personality and simple luck, also matter.\n\nNone of this means that practice is pointless. Nobody becomes excellent without a great deal of it. But the real lesson may be less about counting hours and more about how those hours are spent, and about being kind to yourself when progress is slower than a famous number promised.",
+      "translation_vn": "(1) Sự thật về \"quy tắc 10.000 giờ\"\n(2) Nếu từng muốn trở thành chuyên gia ở lĩnh vực nào đó, có lẽ bạn đã nghe tới \"quy tắc 10.000 giờ\": ý tưởng rằng ai cũng có thể đạt đẳng cấp thế giới ở bất cứ việc gì sau mười nghìn giờ luyện tập.\n(3) Đó là một ý tưởng đầy hy vọng. Tiếc là nó không hẳn đúng như nghiên cứu nói.\n(4) Con số này bắt nguồn từ một nghiên cứu công bố năm 1993 của nhà tâm lý học Anders Ericsson và các đồng nghiệp, khi họ nghiên cứu sinh viên vĩ cầm ở một học viện âm nhạc tại Berlin.\n(5) Họ thấy rằng tới năm hai mươi tuổi, những sinh viên giỏi nhất đã luyện tập trung bình khoảng mười nghìn giờ, nhiều hơn hẳn những sinh viên kém thành công hơn.\n(6) Ý tưởng trở nên nổi tiếng sau khi một cuốn sách bán chạy năm 2008 biến nó thành một \"quy tắc\" đơn giản.\n(7) Chính Ericsson sau này nói quy tắc ấy đã bị hiểu sai.\n(8) Thứ nhất, mười nghìn là con số trung bình: có những nghệ sĩ vĩ cầm giỏi nhất luyện ít hơn nhiều, có người luyện nhiều hơn nhiều.\n(9) Thứ hai, và quan trọng hơn, không phải luyện tập nào cũng như nhau. Điều tạo nên khác biệt là \"luyện tập có chủ đích\": tập trung vào những điểm yếu cụ thể, thường có thầy và có phản hồi rõ ràng, việc thường khó và chẳng mấy vui.\n(10) Chơi đi chơi lại những bài mình đã thuộc suốt mười nghìn giờ có thể làm bạn rất thoải mái, nhưng chưa chắc làm bạn giỏi hơn.\n(11) Các nghiên cứu sau này còn thêm một bất ngờ nữa.\n(12) Một tổng quan lớn năm 2014 gộp hàng chục nghiên cứu và thấy rằng luyện tập chỉ giải thích được một phần khác biệt giữa người với người: khoảng một phần năm trong âm nhạc và thể thao, và ít hơn nhiều ở nhiều nghề nghiệp.\n(13) Những yếu tố khác, như độ tuổi bắt đầu, tính cách và cả may mắn, cũng có vai trò.\n(14) Điều này không có nghĩa là luyện tập vô ích. Không ai trở nên xuất sắc mà không luyện tập thật nhiều.\n(15) Nhưng bài học thật sự có lẽ ít liên quan tới việc đếm giờ mà nhiều hơn tới cách dùng những giờ ấy, và việc đối xử tử tế với bản thân khi tiến bộ chậm hơn con số nổi tiếng kia hứa hẹn.",
+      "word_count": 321,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.141",
+        "b2.142",
+        "b2.143",
+        "b2.144"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u3536_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "What is Leah's journal mainly about?",
+        "vi": "Nhật ký của Leah chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "an argument with Ethan about his training program and how they made up",
+            "vi": "cuộc cãi nhau với Ethan về chương trình huấn luyện và cách hai người làm lành"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "an argument with Ethan about his training program and how they made up",
+          "text_translation": "cuộc cãi nhau với Ethan về chương trình huấn luyện và cách hai người làm lành"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Leah's hard shifts at work and how tired they make her feel all week",
+            "vi": "những ca làm vất vả của Leah và việc chúng khiến cô mệt suốt cả tuần"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Leah's hard shifts at work and how tired they make her feel all week",
+          "text_translation": "những ca làm vất vả của Leah và việc chúng khiến cô mệt suốt cả tuần"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a wildfire in the north of the state and how Ethan helped to put it out",
+            "vi": "một vụ cháy rừng ở phía bắc bang và cách Ethan giúp dập tắt nó"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a wildfire in the north of the state and how Ethan helped to put it out",
+          "text_translation": "một vụ cháy rừng ở phía bắc bang và cách Ethan giúp dập tắt nó"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Chloe's new job and how Leah helped her to prepare for the interview",
+            "vi": "công việc mới của Chloe và cách Leah giúp cô ấy chuẩn bị cho buổi phỏng vấn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Chloe's new job and how Leah helped her to prepare for the interview",
+          "text_translation": "công việc mới của Chloe và cách Leah giúp cô ấy chuẩn bị cho buổi phỏng vấn"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Nhật ký kể từ tối thứ Hai (cãi nhau) tới thứ Sáu (làm lành và lên kế hoạch)."
+      },
+      "audio_data": null,
+      "question_jp": "What is Leah's journal mainly about?",
+      "question_vn": "Nhật ký của Leah chủ yếu nói về điều gì?",
+      "explanation": "Nhật ký kể từ tối thứ Hai (cãi nhau) tới thứ Sáu (làm lành và lên kế hoạch)."
+    },
+    {
+      "id": "q_u3536_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "What was Ethan offered?",
+        "vi": "Ethan được mời tham gia gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a job in another country that would last six months",
+            "vi": "một công việc ở nước khác kéo dài sáu tháng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a job in another country that would last six months",
+          "text_translation": "một công việc ở nước khác kéo dài sáu tháng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a promotion at his fire station, with a higher salary from next month",
+            "vi": "một lần thăng chức ở trạm cứu hoả, với lương cao hơn từ tháng sau"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a promotion at his fire station, with a higher salary from next month",
+          "text_translation": "một lần thăng chức ở trạm cứu hoả, với lương cao hơn từ tháng sau"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a place on a six-month wildfire training program",
+            "vi": "một suất trong chương trình huấn luyện chữa cháy rừng sáu tháng"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "a place on a six-month wildfire training program",
+          "text_translation": "một suất trong chương trình huấn luyện chữa cháy rừng sáu tháng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a trip around the north of the state with Leah during the summer",
+            "vi": "một chuyến đi quanh phía bắc bang cùng Leah vào mùa hè"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a trip around the north of the state with Leah during the summer",
+          "text_translation": "một chuyến đi quanh phía bắc bang cùng Leah vào mùa hè"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"he has been offered a place on a special wildfire training program in the north of the state. It would last six months.\""
+      },
+      "audio_data": null,
+      "question_jp": "What was Ethan offered?",
+      "question_vn": "Ethan được mời tham gia gì?",
+      "explanation": "\"he has been offered a place on a special wildfire training program in the north of the state. It would last six months.\""
+    },
+    {
+      "id": "q_u3536_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "Why was Leah furious?",
+        "vi": "Vì sao Leah giận điên lên?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because she didn't want him to leave for six months and had asked him to say no",
+            "vi": "vì cô không muốn anh đi sáu tháng và đã bảo anh từ chối"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because she didn't want him to leave for six months and had asked him to say no",
+          "text_translation": "vì cô không muốn anh đi sáu tháng và đã bảo anh từ chối"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because he was so thrilled that he forgot to ask her how her day was",
+            "vi": "vì anh mừng rỡ đến mức quên hỏi hôm nay của cô thế nào"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because he was so thrilled that he forgot to ask her how her day was",
+          "text_translation": "vì anh mừng rỡ đến mức quên hỏi hôm nay của cô thế nào"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the program was very dangerous and he had not told her about the risks",
+            "vi": "vì chương trình rất nguy hiểm và anh đã không nói với cô về rủi ro"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the program was very dangerous and he had not told her about the risks",
+          "text_translation": "vì chương trình rất nguy hiểm và anh đã không nói với cô về rủi ro"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because he had known about it for two weeks and had already said yes without asking her",
+            "vi": "vì anh đã biết hai tuần và đã nhận lời mà không hỏi cô"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because he had known about it for two weeks and had already said yes without asking her",
+          "text_translation": "vì anh đã biết hai tuần và đã nhận lời mà không hỏi cô"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"It was the fact that he had known about it for two weeks and had already said yes.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why was Leah furious?",
+      "question_vn": "Vì sao Leah giận điên lên?",
+      "explanation": "\"It was the fact that he had known about it for two weeks and had already said yes.\""
+    },
+    {
+      "id": "q_u3536_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "What does \"Were I in his position, I would have asked my partner first\" mean?",
+        "vi": "Câu \"Were I in his position, I would have asked my partner first\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Leah was standing in the same place as Ethan when they talked at dinner.",
+            "vi": "Leah đứng cùng chỗ với Ethan khi hai người nói chuyện lúc ăn tối."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Leah was standing in the same place as Ethan when they talked at dinner.",
+          "text_translation": "Leah đứng cùng chỗ với Ethan khi hai người nói chuyện lúc ăn tối."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "If Leah had been in Ethan's situation, she would have asked her partner first.",
+            "vi": "Nếu Leah ở hoàn cảnh của Ethan, cô đã hỏi người yêu trước."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "If Leah had been in Ethan's situation, she would have asked her partner first.",
+          "text_translation": "Nếu Leah ở hoàn cảnh của Ethan, cô đã hỏi người yêu trước."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Leah asked Ethan for his opinion before she told him about her own news.",
+            "vi": "Leah đã hỏi ý kiến Ethan trước khi kể với anh tin của chính mình."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Leah asked Ethan for his opinion before she told him about her own news.",
+          "text_translation": "Leah đã hỏi ý kiến Ethan trước khi kể với anh tin của chính mình."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Leah wants a new partner who would ask her opinion before making decisions.",
+            "vi": "Leah muốn một người yêu mới biết hỏi ý cô trước khi quyết định"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Leah wants a new partner who would ask her opinion before making decisions.",
+          "text_translation": "Leah muốn một người yêu mới biết hỏi ý cô trước khi quyết định"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Were I … = If I were … Đảo ngữ điều kiện, trang trọng và nhấn mạnh hơn."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Were I in his position, I would have asked my partner first\" mean?",
+      "question_vn": "Câu \"Were I in his position, I would have asked my partner first\" nghĩa là gì?",
+      "explanation": "Were I … = If I were … Đảo ngữ điều kiện, trang trọng và nhấn mạnh hơn."
+    },
+    {
+      "id": "q_u3536_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "What does \"I am absolutely exhausted\" show?",
+        "vi": "Câu \"Tôi kiệt sức hoàn toàn\" cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Leah is extremely tired, partly because of the tension with Ethan.",
+            "vi": "Leah mệt rã rời, một phần vì căng thẳng với Ethan."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Leah is extremely tired, partly because of the tension with Ethan.",
+          "text_translation": "Leah mệt rã rời, một phần vì căng thẳng với Ethan."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Leah is only a little tired after a long day at work, and nothing else.",
+            "vi": "Leah chỉ hơi mệt sau một ngày làm việc dài, ngoài ra không có gì khác."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Leah is only a little tired after a long day at work, and nothing else.",
+          "text_translation": "Leah chỉ hơi mệt sau một ngày làm việc dài, ngoài ra không có gì khác."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Leah has been running for hours and is tired from the exercise.",
+            "vi": "Leah đã chạy nhiều giờ và mệt vì tập thể dục."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Leah has been running for hours and is tired from the exercise.",
+          "text_translation": "Leah đã chạy nhiều giờ và mệt vì tập thể dục."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Leah is happy and relaxed because the argument with Ethan is over.",
+            "vi": "Leah vui và thư giãn vì cuộc cãi nhau với Ethan đã xong."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Leah is happy and relaxed because the argument with Ethan is over.",
+          "text_translation": "Leah vui và thư giãn vì cuộc cãi nhau với Ethan đã xong."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"I am absolutely exhausted, and not only because of work.\" Absolutely đi với tính từ tuyệt đối (exhausted), không nói \"very exhausted\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"I am absolutely exhausted\" show?",
+      "question_vn": "Câu \"Tôi kiệt sức hoàn toàn\" cho thấy điều gì?",
+      "explanation": "\"I am absolutely exhausted, and not only because of work.\" Absolutely đi với tính từ tuyệt đối (exhausted), không nói \"very exhausted\"."
+    },
+    {
+      "id": "q_u3536_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "What did Chloe's question help Leah understand?",
+        "vi": "Câu hỏi của Chloe giúp Leah hiểu ra điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "that she wanted Ethan to stay at home, because she didn't want to be alone for six months",
+            "vi": "rằng cô muốn Ethan ở nhà, vì cô không muốn một mình suốt sáu tháng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "that she wanted Ethan to stay at home, because she didn't want to be alone for six months",
+          "text_translation": "rằng cô muốn Ethan ở nhà, vì cô không muốn một mình suốt sáu tháng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that Chloe agreed with Ethan and thought that Leah should be pleased for him",
+            "vi": "rằng Chloe đồng ý với Ethan và nghĩ Leah nên mừng cho anh"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "that Chloe agreed with Ethan and thought that Leah should be pleased for him",
+          "text_translation": "rằng Chloe đồng ý với Ethan và nghĩ Leah nên mừng cho anh"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that she was really angry because Ethan didn't ask her, not because he was going",
+            "vi": "rằng cô thật ra giận vì Ethan không hỏi cô, chứ không phải vì anh đi"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "that she was really angry because Ethan didn't ask her, not because he was going",
+          "text_translation": "rằng cô thật ra giận vì Ethan không hỏi cô, chứ không phải vì anh đi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that she should end the relationship, because Ethan had not asked her opinion",
+            "vi": "rằng cô nên chia tay, vì Ethan đã không hỏi ý cô"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "that she should end the relationship, because Ethan had not asked her opinion",
+          "text_translation": "rằng cô nên chia tay, vì Ethan đã không hỏi ý cô"
+        }
+      ],
+      "evidence_segments": [
+        9,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"Are you angry that he's going, or that he didn't ask you?\" … \"It was the second one, of course.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did Chloe's question help Leah understand?",
+      "question_vn": "Câu hỏi của Chloe giúp Leah hiểu ra điều gì?",
+      "explanation": "\"Are you angry that he's going, or that he didn't ask you?\" … \"It was the second one, of course.\""
+    },
+    {
+      "id": "q_u3536_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "What does \"Were it not for Chloe, I might well have spent another week being angry\" mean?",
+        "vi": "Câu \"Nếu không có Chloe, có khi tôi đã giận thêm một tuần nữa\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Chloe made Leah angry about the wrong thing, so she stayed angry for another week.",
+            "vi": "Chloe làm Leah giận nhầm chuyện, nên cô giận thêm một tuần nữa."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Chloe made Leah angry about the wrong thing, so she stayed angry for another week.",
+          "text_translation": "Chloe làm Leah giận nhầm chuyện, nên cô giận thêm một tuần nữa."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Chloe was angry for a week, because Leah did not listen to her advice.",
+            "vi": "Chloe giận một tuần, vì Leah không nghe lời khuyên của cô ấy."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Chloe was angry for a week, because Leah did not listen to her advice.",
+          "text_translation": "Chloe giận một tuần, vì Leah không nghe lời khuyên của cô ấy."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Leah did not talk to Chloe, so she was angry for another whole week.",
+            "vi": "Leah không nói chuyện với Chloe, nên cô giận thêm cả một tuần nữa."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Leah did not talk to Chloe, so she was angry for another whole week.",
+          "text_translation": "Leah không nói chuyện với Chloe, nên cô giận thêm cả một tuần nữa."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Without Chloe's help, Leah would probably have stayed angry longer.",
+            "vi": "Nếu không có Chloe giúp, nhiều khả năng Leah đã giận lâu hơn."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Without Chloe's help, Leah would probably have stayed angry longer.",
+          "text_translation": "Nếu không có Chloe giúp, nhiều khả năng Leah đã giận lâu hơn."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Were it not for … = If it were not for … (nếu không có). Might well = rất có thể."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Were it not for Chloe, I might well have spent another week being angry\" mean?",
+      "question_vn": "Câu \"Nếu không có Chloe, có khi tôi đã giận thêm một tuần nữa\" nghĩa là gì?",
+      "explanation": "Were it not for … = If it were not for … (nếu không có). Might well = rất có thể."
+    },
+    {
+      "id": "q_u3536_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "Why had Ethan not asked Leah before saying yes?",
+        "vi": "Vì sao Ethan không hỏi Leah trước khi nhận lời?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He didn't care what she thought, because the program was more important to him than she was.",
+            "vi": "Vì anh không quan tâm cô nghĩ gì, vì chương trình quan trọng với anh hơn cô."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He didn't care what she thought, because the program was more important to him than she was.",
+          "text_translation": "Vì anh không quan tâm cô nghĩ gì, vì chương trình quan trọng với anh hơn cô."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He was afraid that she would ask him not to go, and that he couldn't say no to her.",
+            "vi": "Vì anh sợ cô bảo đừng đi, và anh không thể từ chối cô."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "He was afraid that she would ask him not to go, and that he couldn't say no to her.",
+          "text_translation": "Vì anh sợ cô bảo đừng đi, và anh không thể từ chối cô."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He forgot to tell her, because he was too busy preparing for the program at work.",
+            "vi": "Vì anh quên nói với cô, do quá bận chuẩn bị cho chương trình ở chỗ làm."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He forgot to tell her, because he was too busy preparing for the program at work.",
+          "text_translation": "Vì anh quên nói với cô, do quá bận chuẩn bị cho chương trình ở chỗ làm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Chloe told him not to ask Leah, because Leah would be angry and say no.",
+            "vi": "Vì Chloe bảo anh đừng hỏi Leah, do cô sẽ giận và nói không."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Chloe told him not to ask Leah, because Leah would be angry and say no.",
+          "text_translation": "Vì Chloe bảo anh đừng hỏi Leah, do cô sẽ giận và nói không."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"he had been afraid that I would ask him not to go, and that he wouldn't be able to say no to me.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why had Ethan not asked Leah before saying yes?",
+      "question_vn": "Vì sao Ethan không hỏi Leah trước khi nhận lời?",
+      "explanation": "\"he had been afraid that I would ask him not to go, and that he wouldn't be able to say no to me.\""
+    },
+    {
+      "id": "q_u3536_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "What does \"That made me cry, which made him panic, which made us both laugh\" show?",
+        "vi": "Câu \"Câu đó làm tôi khóc, tôi khóc thì anh cuống lên, rồi cả hai cùng bật cười\" cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The tension between them broke, and they felt close to each other again after the quarrel.",
+            "vi": "Căng thẳng giữa hai người tan biến, và họ thấy gần nhau trở lại sau cuộc cãi vã."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The tension between them broke, and they felt close to each other again after the quarrel.",
+          "text_translation": "Căng thẳng giữa hai người tan biến, và họ thấy gần nhau trở lại sau cuộc cãi vã."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They had another argument, and Ethan decided to go without telling her.",
+            "vi": "Họ lại cãi nhau, và Ethan quyết định đi mà không báo cho cô."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They had another argument, and Ethan decided to go without telling her.",
+          "text_translation": "Họ lại cãi nhau, và Ethan quyết định đi mà không báo cho cô."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Ethan didn't care about her tears and went on eating his dinner quietly in most cases.",
+            "vi": "Ethan không để tâm đến nước mắt của cô và lặng lẽ tiếp tục bữa tối trong hầu hết trường hợp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Ethan didn't care about her tears and went on eating his dinner quietly in most cases.",
+          "text_translation": "Ethan không để tâm đến nước mắt của cô và lặng lẽ tiếp tục bữa tối trong hầu hết trường hợp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Leah was angry again and wanted to cancel their Friday evening together.",
+            "vi": "Leah lại giận và muốn huỷ buổi tối thứ Sáu của hai người."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Leah was angry again and wanted to cancel their Friday evening together.",
+          "text_translation": "Leah lại giận và muốn huỷ buổi tối thứ Sáu của hai người."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Chuỗi khóc, cuống, cười cho thấy cảm xúc được giải toả, và ngay sau đó Leah nói thật lòng."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"That made me cry, which made him panic, which made us both laugh\" show?",
+      "question_vn": "Câu \"Câu đó làm tôi khóc, tôi khóc thì anh cuống lên, rồi cả hai cùng bật cười\" cho thấy điều gì?",
+      "explanation": "Câu suy luận. Chuỗi khóc, cuống, cười cho thấy cảm xúc được giải toả, và ngay sau đó Leah nói thật lòng."
+    },
+    {
+      "id": "q_u3536_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_01",
+      "i18n": {
+        "en": "What does Leah mean by \"love, like anything worth doing, may well need practice\"?",
+        "vi": "Leah muốn nói gì qua câu \"tình yêu, cũng như mọi điều đáng làm, có lẽ cũng cần luyện tập\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Love is a kind of sport, and couples must train hard to win every time.",
+            "vi": "Tình yêu là một môn thể thao, và các cặp đôi phải tập chăm để lần nào cũng thắng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Love is a kind of sport, and couples must train hard to win every time.",
+          "text_translation": "Tình yêu là một môn thể thao, và các cặp đôi phải tập chăm để lần nào cũng thắng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They should take a class together to learn how to love each other better.",
+            "vi": "Họ nên cùng đi học một lớp để học cách yêu nhau tốt hơn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They should take a class together to learn how to love each other better.",
+          "text_translation": "Họ nên cùng đi học một lớp để học cách yêu nhau tốt hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Relationships improve when people keep working on how they communicate with each other.",
+            "vi": "Các mối quan hệ tốt lên khi người ta tiếp tục rèn cách giao tiếp với nhau."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Relationships improve when people keep working on how they communicate with each other.",
+          "text_translation": "Các mối quan hệ tốt lên khi người ta tiếp tục rèn cách giao tiếp với nhau."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Love is easy, so couples never need to think about it or talk about it.",
+            "vi": "Tình yêu thật dễ, nên các cặp đôi không bao giờ cần nghĩ hay nói về nó."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Love is easy, so couples never need to think about it or talk about it.",
+          "text_translation": "Tình yêu thật dễ, nên các cặp đôi không bao giờ cần nghĩ hay nói về nó."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"We are getting better at it.\" Họ học cách nói thật, giữ buổi tối của nhau, lên kế hoạch: đó là \"luyện tập\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does Leah mean by \"love, like anything worth doing, may well need practice\"?",
+      "question_vn": "Leah muốn nói gì qua câu \"tình yêu, cũng như mọi điều đáng làm, có lẽ cũng cần luyện tập\"?",
+      "explanation": "Câu suy luận. \"We are getting better at it.\" Họ học cách nói thật, giữ buổi tối của nhau, lên kế hoạch: đó là \"luyện tập\"."
+    },
+    {
+      "id": "q_u3536_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "What is the main purpose of the article?",
+        "vi": "Mục đích chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to teach readers how to play the violin well enough to join a music academy",
+            "vi": "để dạy người đọc chơi vĩ cầm đủ giỏi để vào một học viện âm nhạc"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to teach readers how to play the violin well enough to join a music academy",
+          "text_translation": "để dạy người đọc chơi vĩ cầm đủ giỏi để vào một học viện âm nhạc"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to explain what the research behind the 10,000-hour rule really says about practice",
+            "vi": "để giải thích nghiên cứu đằng sau quy tắc 10.000 giờ thật sự nói gì về luyện tập"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to explain what the research behind the 10,000-hour rule really says about practice",
+          "text_translation": "để giải thích nghiên cứu đằng sau quy tắc 10.000 giờ thật sự nói gì về luyện tập"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to advertise a best-selling book that explains how anyone can become an expert",
+            "vi": "để quảng cáo một cuốn sách bán chạy giải thích cách ai cũng thành chuyên gia"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to advertise a best-selling book that explains how anyone can become an expert",
+          "text_translation": "để quảng cáo một cuốn sách bán chạy giải thích cách ai cũng thành chuyên gia"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to tell readers to stop practicing, because it makes no difference to success",
+            "vi": "để bảo người đọc thôi luyện tập, vì nó chẳng tạo khác biệt nào cho thành công"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to tell readers to stop practicing, because it makes no difference to success",
+          "text_translation": "để bảo người đọc thôi luyện tập, vì nó chẳng tạo khác biệt nào cho thành công"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Unfortunately, it is not quite what the research says.\" Bài giải thích nguồn gốc con số, cách nó bị hiểu sai, và nghiên cứu sau này."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of the article?",
+      "question_vn": "Mục đích chính của bài báo là gì?",
+      "explanation": "\"Unfortunately, it is not quite what the research says.\" Bài giải thích nguồn gốc con số, cách nó bị hiểu sai, và nghiên cứu sau này."
+    },
+    {
+      "id": "q_u3536_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "What does the \"10,000-hour rule\" say?",
+        "vi": "\"Quy tắc 10.000 giờ\" nói gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Experts should practice for ten hours every single day for at least a year.",
+            "vi": "Chuyên gia nên tập mười tiếng mỗi ngày, ít nhất trong một năm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Experts should practice for ten hours every single day for at least a year.",
+          "text_translation": "Chuyên gia nên tập mười tiếng mỗi ngày, ít nhất trong một năm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Nobody can become an expert, however many hours they spend practicing.",
+            "vi": "Không ai trở thành chuyên gia được, dù luyện tập bao nhiêu giờ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Nobody can become an expert, however many hours they spend practicing.",
+          "text_translation": "Không ai trở thành chuyên gia được, dù luyện tập bao nhiêu giờ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Talent is more important than practice, so people should not spend ten thousand hours.",
+            "vi": "Năng khiếu quan trọng hơn luyện tập, nên người ta không cần bỏ mười nghìn giờ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Talent is more important than practice, so people should not spend ten thousand hours.",
+          "text_translation": "Năng khiếu quan trọng hơn luyện tập, nên người ta không cần bỏ mười nghìn giờ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Anyone can become world-class at anything after ten thousand hours of practice.",
+            "vi": "Ai cũng có thể đạt đẳng cấp thế giới ở bất cứ việc gì sau mười nghìn giờ luyện tập."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Anyone can become world-class at anything after ten thousand hours of practice.",
+          "text_translation": "Ai cũng có thể đạt đẳng cấp thế giới ở bất cứ việc gì sau mười nghìn giờ luyện tập."
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"the idea that anyone can become world-class at anything after ten thousand hours of practice.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the \"10,000-hour rule\" say?",
+      "question_vn": "\"Quy tắc 10.000 giờ\" nói gì?",
+      "explanation": "\"the idea that anyone can become world-class at anything after ten thousand hours of practice.\""
+    },
+    {
+      "id": "q_u3536_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "Where does the number ten thousand come from?",
+        "vi": "Con số mười nghìn bắt nguồn từ đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a 1993 study of violin students at a music academy in Berlin, Germany",
+            "vi": "một nghiên cứu năm 1993 về sinh viên vĩ cầm ở một học viện âm nhạc tại Berlin, nước Đức"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "a 1993 study of violin students at a music academy in Berlin, Germany",
+          "text_translation": "một nghiên cứu năm 1993 về sinh viên vĩ cầm ở một học viện âm nhạc tại Berlin, nước Đức"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a large 2014 review that combined dozens of studies of music and sports",
+            "vi": "một tổng quan lớn năm 2014 gộp hàng chục nghiên cứu về âm nhạc và thể thao"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a large 2014 review that combined dozens of studies of music and sports",
+          "text_translation": "một tổng quan lớn năm 2014 gộp hàng chục nghiên cứu về âm nhạc và thể thao"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a study of athletes at a sports academy in the north of the state",
+            "vi": "một nghiên cứu về vận động viên ở một học viện thể thao ở phía bắc bang"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a study of athletes at a sports academy in the north of the state",
+          "text_translation": "một nghiên cứu về vận động viên ở một học viện thể thao ở phía bắc bang"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a famous teacher who told all his students to practice ten thousand hours",
+            "vi": "một giáo viên nổi tiếng bảo mọi học trò luyện tập mười nghìn giờ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a famous teacher who told all his students to practice ten thousand hours",
+          "text_translation": "một giáo viên nổi tiếng bảo mọi học trò luyện tập mười nghìn giờ"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"a study published in 1993 by the psychologist Anders Ericsson and his colleagues, who studied violin students at a music academy in Berlin.\""
+      },
+      "audio_data": null,
+      "question_jp": "Where does the number ten thousand come from?",
+      "question_vn": "Con số mười nghìn bắt nguồn từ đâu?",
+      "explanation": "\"a study published in 1993 by the psychologist Anders Ericsson and his colleagues, who studied violin students at a music academy in Berlin.\""
+    },
+    {
+      "id": "q_u3536_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "How did the idea become famous?",
+        "vi": "Ý tưởng trở nên nổi tiếng bằng cách nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "through a TV show in which famous experts talked about their daily practice",
+            "vi": "qua một chương trình truyền hình trong đó các chuyên gia nổi tiếng kể về việc tập hằng ngày"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "through a TV show in which famous experts talked about their daily practice",
+          "text_translation": "qua một chương trình truyền hình trong đó các chuyên gia nổi tiếng kể về việc tập hằng ngày"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "through the violin students, who told the whole music academy about it",
+            "vi": "qua các sinh viên vĩ cầm, những người đã kể với cả học viện âm nhạc về nó"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "through the violin students, who told the whole music academy about it",
+          "text_translation": "qua các sinh viên vĩ cầm, những người đã kể với cả học viện âm nhạc về nó"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "A best-selling book in 2008 turned it into a simple rule that people could remember.",
+            "vi": "Một cuốn sách bán chạy năm 2008 biến nó thành một quy tắc đơn giản dễ nhớ."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "A best-selling book in 2008 turned it into a simple rule that people could remember.",
+          "text_translation": "Một cuốn sách bán chạy năm 2008 biến nó thành một quy tắc đơn giản dễ nhớ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Ericsson advertised it in a book that he wrote for violin teachers in 1993.",
+            "vi": "Ericsson quảng bá nó trong một cuốn sách ông viết cho giáo viên vĩ cầm năm 1993."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Ericsson advertised it in a book that he wrote for violin teachers in 1993.",
+          "text_translation": "Ericsson quảng bá nó trong một cuốn sách ông viết cho giáo viên vĩ cầm năm 1993."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"The idea became famous after a best-selling book in 2008 turned it into a simple \"rule\".\" Dấu ngoặc kép quanh rule cho thấy người viết nghi ngờ nó là quy tắc thật."
+      },
+      "audio_data": null,
+      "question_jp": "How did the idea become famous?",
+      "question_vn": "Ý tưởng trở nên nổi tiếng bằng cách nào?",
+      "explanation": "\"The idea became famous after a best-selling book in 2008 turned it into a simple \"rule\".\" Dấu ngoặc kép quanh rule cho thấy người viết nghi ngờ nó là quy tắc thật."
+    },
+    {
+      "id": "q_u3536_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "What is the first way in which the rule was misunderstood?",
+        "vi": "Quy tắc đã bị hiểu sai theo cách thứ nhất nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Ten thousand hours was a minimum, and none of the best violinists had practiced for less.",
+            "vi": "Mười nghìn giờ là mức tối thiểu, và không nghệ sĩ giỏi nhất nào tập ít hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Ten thousand hours was a minimum, and none of the best violinists had practiced for less.",
+          "text_translation": "Mười nghìn giờ là mức tối thiểu, và không nghệ sĩ giỏi nhất nào tập ít hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Ten thousand was an average, and individual students practiced much more or much less.",
+            "vi": "Mười nghìn là con số trung bình, từng sinh viên luyện nhiều hơn hoặc ít hơn nhiều."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Ten thousand was an average, and individual students practiced much more or much less.",
+          "text_translation": "Mười nghìn là con số trung bình, từng sinh viên luyện nhiều hơn hoặc ít hơn nhiều."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The students in the study were not real violinists, but beginners who had just started.",
+            "vi": "Các sinh viên trong nghiên cứu không phải nghệ sĩ vĩ cầm thật, mà là người mới bắt đầu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The students in the study were not real violinists, but beginners who had just started.",
+          "text_translation": "Các sinh viên trong nghiên cứu không phải nghệ sĩ vĩ cầm thật, mà là người mới bắt đầu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The study was about running, not music, and it had only been done with athletes.",
+            "vi": "Nghiên cứu là về chạy bộ chứ không phải âm nhạc, và chỉ làm với vận động viên."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The study was about running, not music, and it had only been done with athletes.",
+          "text_translation": "Nghiên cứu là về chạy bộ chứ không phải âm nhạc, và chỉ làm với vận động viên."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"First, ten thousand was an average: some of the best violinists had practiced far less, and some far more.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the first way in which the rule was misunderstood?",
+      "question_vn": "Quy tắc đã bị hiểu sai theo cách thứ nhất nào?",
+      "explanation": "\"First, ten thousand was an average: some of the best violinists had practiced far less, and some far more.\""
+    },
+    {
+      "id": "q_u3536_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "What is \"deliberate practice\"?",
+        "vi": "\"Luyện tập có chủ đích\" là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "practicing only the songs you already know, because that makes you very comfortable",
+            "vi": "chỉ tập những bài đã thuộc, vì như thế khiến bạn rất thoải mái"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "practicing only the songs you already know, because that makes you very comfortable",
+          "text_translation": "chỉ tập những bài đã thuộc, vì như thế khiến bạn rất thoải mái"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "practicing for fun with your friends, without a teacher or any kind of feedback",
+            "vi": "tập cho vui với bạn bè, không có thầy và không có phản hồi nào"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "practicing for fun with your friends, without a teacher or any kind of feedback",
+          "text_translation": "tập cho vui với bạn bè, không có thầy và không có phản hồi nào"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "practicing for exactly ten thousand hours, without stopping to rest or to change anything",
+            "vi": "tập đúng mười nghìn giờ, không dừng nghỉ và không thay đổi gì"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "practicing for exactly ten thousand hours, without stopping to rest or to change anything",
+          "text_translation": "tập đúng mười nghìn giờ, không dừng nghỉ và không thay đổi gì"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "focused work on specific weaknesses, usually with a teacher and with clear feedback",
+            "vi": "tập trung rèn những điểm yếu cụ thể, thường có thầy và có phản hồi rõ ràng"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "focused work on specific weaknesses, usually with a teacher and with clear feedback",
+          "text_translation": "tập trung rèn những điểm yếu cụ thể, thường có thầy và có phản hồi rõ ràng"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"focused work on specific weaknesses, usually with a teacher and with clear feedback, which is often difficult and not much fun.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is \"deliberate practice\"?",
+      "question_vn": "\"Luyện tập có chủ đích\" là gì?",
+      "explanation": "\"focused work on specific weaknesses, usually with a teacher and with clear feedback, which is often difficult and not much fun.\""
+    },
+    {
+      "id": "q_u3536_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "What does \"could well make you very comfortable, but it will not necessarily make you better\" suggest?",
+        "vi": "Câu \"có thể làm bạn rất thoải mái, nhưng chưa chắc làm bạn giỏi hơn\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Repeating what you already know feels good, but it doesn't push you to improve.",
+            "vi": "Lặp lại điều đã biết thì dễ chịu, nhưng không thúc bạn tiến bộ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Repeating what you already know feels good, but it doesn't push you to improve.",
+          "text_translation": "Lặp lại điều đã biết thì dễ chịu, nhưng không thúc bạn tiến bộ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Comfortable people are always better than people who work hard at difficult things.",
+            "vi": "Người thoải mái luôn giỏi hơn những người làm việc chăm chỉ với điều khó."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Comfortable people are always better than people who work hard at difficult things.",
+          "text_translation": "Người thoải mái luôn giỏi hơn những người làm việc chăm chỉ với điều khó."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "You should never play songs you know, because they stop you from getting better.",
+            "vi": "Không bao giờ được chơi bài đã thuộc, vì chúng cản bạn tiến bộ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "You should never play songs you know, because they stop you from getting better.",
+          "text_translation": "Không bao giờ được chơi bài đã thuộc, vì chúng cản bạn tiến bộ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Practice always makes you worse if you do it for more than ten thousand hours.",
+            "vi": "Luyện tập luôn làm bạn kém đi nếu làm quá mười nghìn giờ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Practice always makes you worse if you do it for more than ten thousand hours.",
+          "text_translation": "Luyện tập luôn làm bạn kém đi nếu làm quá mười nghìn giờ."
+        }
+      ],
+      "evidence_segments": [
+        10,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Câu này đối lập với \"deliberate practice\" ngay trước: tập cái đã giỏi chỉ làm quen tay, không vượt qua điểm yếu. Could well = rất có thể."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"could well make you very comfortable, but it will not necessarily make you better\" suggest?",
+      "question_vn": "Câu \"có thể làm bạn rất thoải mái, nhưng chưa chắc làm bạn giỏi hơn\" hàm ý gì?",
+      "explanation": "Câu suy luận. Câu này đối lập với \"deliberate practice\" ngay trước: tập cái đã giỏi chỉ làm quen tay, không vượt qua điểm yếu. Could well = rất có thể."
+    },
+    {
+      "id": "q_u3536_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "What did the 2014 review find?",
+        "vi": "Tổng quan năm 2014 phát hiện gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Practice explains all the differences between people, so everyone can reach the top.",
+            "vi": "Luyện tập giải thích mọi khác biệt giữa người với người, nên ai cũng lên được đỉnh."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Practice explains all the differences between people, so everyone can reach the top.",
+          "text_translation": "Luyện tập giải thích mọi khác biệt giữa người với người, nên ai cũng lên được đỉnh."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Practice has no effect on how well people play music or do sports or jobs.",
+            "vi": "Luyện tập không ảnh hưởng đến việc người ta chơi nhạc, chơi thể thao hay làm việc giỏi ra sao."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Practice has no effect on how well people play music or do sports or jobs.",
+          "text_translation": "Luyện tập không ảnh hưởng đến việc người ta chơi nhạc, chơi thể thao hay làm việc giỏi ra sao."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Practice explained only part of the differences, about a fifth in music and sports.",
+            "vi": "Luyện tập chỉ giải thích một phần khác biệt, khoảng một phần năm trong âm nhạc và thể thao."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Practice explained only part of the differences, about a fifth in music and sports.",
+          "text_translation": "Luyện tập chỉ giải thích một phần khác biệt, khoảng một phần năm trong âm nhạc và thể thao."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Luck is the only thing that matters in music and sports, so nobody needs to practice.",
+            "vi": "May mắn là thứ duy nhất quan trọng trong âm nhạc và thể thao, nên không ai cần tập."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Luck is the only thing that matters in music and sports, so nobody needs to practice.",
+          "text_translation": "May mắn là thứ duy nhất quan trọng trong âm nhạc và thể thao, nên không ai cần tập."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"practice explained only part of the differences between people: about a fifth in music and sports, and much less in many jobs.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did the 2014 review find?",
+      "question_vn": "Tổng quan năm 2014 phát hiện gì?",
+      "explanation": "\"practice explained only part of the differences between people: about a fifth in music and sports, and much less in many jobs.\""
+    },
+    {
+      "id": "q_u3536_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "What is the writer's final message?",
+        "vi": "Thông điệp cuối của người viết là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Practice is pointless, so people should stop counting hours and simply wait for luck.",
+            "vi": "Luyện tập vô ích, nên người ta thôi đếm giờ và chỉ việc chờ may mắn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Practice is pointless, so people should stop counting hours and simply wait for luck.",
+          "text_translation": "Luyện tập vô ích, nên người ta thôi đếm giờ và chỉ việc chờ may mắn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "How you practice matters more than counting hours, and you should be patient with yourself.",
+            "vi": "Cách luyện tập quan trọng hơn việc đếm giờ, và nên kiên nhẫn với bản thân."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "How you practice matters more than counting hours, and you should be patient with yourself.",
+          "text_translation": "Cách luyện tập quan trọng hơn việc đếm giờ, và nên kiên nhẫn với bản thân."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Everyone should practice for ten thousand hours, because that guarantees world-class results.",
+            "vi": "Ai cũng nên tập mười nghìn giờ, vì như thế bảo đảm kết quả đẳng cấp thế giới."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Everyone should practice for ten thousand hours, because that guarantees world-class results.",
+          "text_translation": "Ai cũng nên tập mười nghìn giờ, vì như thế bảo đảm kết quả đẳng cấp thế giới."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Only talented people should practice, because everyone else would waste their time.",
+            "vi": "Chỉ người có năng khiếu mới nên tập, vì những người khác sẽ phí thời gian."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Only talented people should practice, because everyone else would waste their time.",
+          "text_translation": "Chỉ người có năng khiếu mới nên tập, vì những người khác sẽ phí thời gian."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"less about counting hours and more about how those hours are spent, and about being kind to yourself\". Câu trước còn nói \"None of this means that practice is pointless.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the writer's final message?",
+      "question_vn": "Thông điệp cuối của người viết là gì?",
+      "explanation": "\"less about counting hours and more about how those hours are spent, and about being kind to yourself\". Câu trước còn nói \"None of this means that practice is pointless.\""
+    },
+    {
+      "id": "q_u3536_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3536_02",
+      "i18n": {
+        "en": "Use both texts. What idea do Leah's journal and the article share?",
+        "vi": "Dựa vào cả hai bài. Nhật ký của Leah và bài báo có chung ý nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Love is a kind of music, so couples should practice an instrument together every evening after work.",
+            "vi": "Tình yêu là một kiểu âm nhạc, nên các cặp đôi cần cùng tập một nhạc cụ mỗi tối sau giờ làm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Love is a kind of music, so couples should practice an instrument together every evening after work.",
+          "text_translation": "Tình yêu là một kiểu âm nhạc, nên các cặp đôi cần cùng tập một nhạc cụ mỗi tối sau giờ làm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Arguments should be avoided completely, because they show that a relationship is failing.",
+            "vi": "Phải tránh hoàn toàn mọi cuộc cãi vã, vì chúng cho thấy mối quan hệ đang hỏng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Arguments should be avoided completely, because they show that a relationship is failing.",
+          "text_translation": "Phải tránh hoàn toàn mọi cuộc cãi vã, vì chúng cho thấy mối quan hệ đang hỏng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Ten thousand hours of time together is needed before a relationship can become a good one.",
+            "vi": "Cần mười nghìn giờ bên nhau thì mối quan hệ mới có thể trở nên tốt đẹp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Ten thousand hours of time together is needed before a relationship can become a good one.",
+          "text_translation": "Cần mười nghìn giờ bên nhau thì mối quan hệ mới có thể trở nên tốt đẹp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Getting better at something important takes focused effort over time, not just time passing.",
+            "vi": "Muốn giỏi hơn ở điều quan trọng cần nỗ lực có chủ đích theo thời gian, chứ không chỉ để thời gian trôi."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Getting better at something important takes focused effort over time, not just time passing.",
+          "text_translation": "Muốn giỏi hơn ở điều quan trọng cần nỗ lực có chủ đích theo thời gian, chứ không chỉ để thời gian trôi."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bài 2: điều quan trọng là \"how those hours are spent\". Bài 1: Leah viết \"love, like anything worth doing, may well need practice\", và họ chủ động lên kế hoạch để giữ quan hệ."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What idea do Leah's journal and the article share?",
+      "question_vn": "Dựa vào cả hai bài. Nhật ký của Leah và bài báo có chung ý nào?",
+      "explanation": "Câu nối hai bài. Bài 2: điều quan trọng là \"how those hours are spent\". Bài 1: Leah viết \"love, like anything worth doing, may well need practice\", và họ chủ động lên kế hoạch để giữ quan hệ."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u3536_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 35) — Nhật ký của Leah: cuộc cãi nhau và làm lành",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u3536_01",
+      "question_ids": [
+        "q_u3536_001",
+        "q_u3536_002",
+        "q_u3536_003",
+        "q_u3536_004",
+        "q_u3536_005",
+        "q_u3536_006",
+        "q_u3536_007",
+        "q_u3536_008",
+        "q_u3536_009",
+        "q_u3536_010"
+      ]
+    },
+    {
+      "set_id": "set_u3536_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 36) — Sự thật về \"quy tắc 10.000 giờ\"",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u3536_02",
+      "question_ids": [
+        "q_u3536_011",
+        "q_u3536_012",
+        "q_u3536_013",
+        "q_u3536_014",
+        "q_u3536_015",
+        "q_u3536_016",
+        "q_u3536_017",
+        "q_u3536_018",
+        "q_u3536_019",
+        "q_u3536_020"
+      ]
+    }
+  ]
+}

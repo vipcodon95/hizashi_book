@@ -1,0 +1,1961 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 9–10 — Money & Consumers",
+      "vi": "Tiền bạc & Người tiêu dùng"
+    },
+    "title": "Units 9–10 — Money & Consumers",
+    "title_vn": "Tiền bạc & Người tiêu dùng",
+    "module_code": "58_u0910",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u09+u10",
+    "curriculum_sheets": [
+      "b1.033",
+      "b1.034",
+      "b1.035",
+      "b1.036",
+      "b1.037",
+      "b1.038",
+      "b1.039",
+      "b1.040"
+    ],
+    "characters": [
+      "Trevor Carter",
+      "Tina Carter",
+      "Mitchell Carter",
+      "Harriet Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "thứ Bảy 13/12, năm 4"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Ý chính, cụm động từ, đưa ví dụ, áp dụng thông tin",
+    "description_vn": "Nhật ký Trevor để dành tiền mua giày và bài báo về quyền người mua hàng online. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 9 + Unit 10 khoá B1 · phiếu `b1.033` – `b1.040` (tiết kiệm và chi tiêu, ngân hàng, thuê hay mua, vay nợ; hàng đắt rẻ, giảm giá, mua online)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một trang nhật ký và một bài báo thông tin; nắm ý chính, đoán cụm động từ (splash out on, cut back on), hiểu cách đưa ví dụ (for example, such as, that is) và các cấu trúc too … to / so … that / such a … ."
+    },
+    "extra_words": [
+      {
+        "word": "savings jar",
+        "i18n": {
+          "vi": "hũ tiết kiệm"
+        }
+      },
+      {
+        "word": "tough",
+        "i18n": {
+          "vi": "khó tính, cứng rắn (tougher: khó tính hơn)"
+        }
+      },
+      {
+        "word": "tryout",
+        "i18n": {
+          "vi": "buổi tuyển chọn (vào đội)"
+        }
+      },
+      {
+        "word": "energy drink",
+        "i18n": {
+          "vi": "nước tăng lực"
+        }
+      },
+      {
+        "word": "in-game coins",
+        "i18n": {
+          "vi": "tiền ảo trong trò chơi"
+        }
+      },
+      {
+        "word": "return policy",
+        "i18n": {
+          "vi": "chính sách đổi trả"
+        }
+      },
+      {
+        "word": "store credit",
+        "i18n": {
+          "vi": "phiếu mua hàng của cửa hàng (thay vì hoàn tiền)"
+        }
+      },
+      {
+        "word": "federal",
+        "i18n": {
+          "vi": "thuộc liên bang (cả nước Mỹ)"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "put money aside",
+          "vi": "để dành tiền"
+        }
+      },
+      {
+        "i18n": {
+          "en": "splash out on",
+          "vi": "vung tiền mua"
+        }
+      },
+      {
+        "i18n": {
+          "en": "cut back on",
+          "vi": "cắt giảm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "get into debt",
+          "vi": "mắc nợ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "shop around",
+          "vi": "đi so giá"
+        }
+      },
+      {
+        "i18n": {
+          "en": "send something back",
+          "vi": "gửi trả lại"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Câu hỏi chủ đề nhật ký: đừng chọn một sự việc nhỏ (buổi tuyển chọn, việc dọn bàn). Hãy chọn điều mà mọi đoạn cùng nói tới (kế hoạch để dành tiền)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`for example`, `such as`, `that is` báo hiệu ví dụ hoặc giải thích thêm. Đáp án câu hỏi chi tiết thường nằm ngay sau các từ này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài thông tin dạng liệt kê (`First… Second… Finally…`): đánh số từng lời khuyên bên lề để tìm nhanh."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu áp dụng (\"Một người mua giày… Ta có thể nói gì?\"): tránh phương án tuyệt đối (`must`, `never`, `always`) khi bài chỉ nói \"tuỳ từng nơi\"."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u0910_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 9) — Quỹ mua giày của Trevor"
+      },
+      "narrator": "Trevor",
+      "title": "Trevor's Boot Fund",
+      "category": "story",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 160,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Trevor's Boot Fund",
+            "vi": "Quỹ mua giày của Trevor"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Saturday, December 13",
+            "vi": "Thứ Bảy, 13 tháng 12"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The school soccer tryouts are in March, and my old boots are completely worn out.",
+            "vi": "Tháng Ba là buổi tuyển chọn vào đội bóng của trường, mà đôi giày cũ của mình thì mòn hết rồi."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The boots that I want cost $120 in total, which is a lot of money for a fourteen-year-old.",
+            "vi": "Đôi giày mình muốn tổng cộng giá 120 đô, một khoản rất lớn với đứa mười bốn tuổi."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My allowance is fifteen dollars a week, so I calculated how long I would need to save.",
+            "vi": "Tiền tiêu vặt của mình là mười lăm đô một tuần, nên mình tính xem phải để dành trong bao lâu."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If I put all of it aside, I will have enough in eight weeks.",
+            "vi": "Nếu để dành hết, tám tuần là đủ."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "However, I usually splash out on snacks after practice, and I often buy things for my phone games.",
+            "vi": "Có điều, sau buổi tập mình hay vung tiền mua đồ ăn vặt, và còn hay mua đồ cho trò chơi trên điện thoại."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So I made a list of my weekly expenses and decided to cut back on the things that are not worth it, for example, energy drinks and in-game coins.",
+            "vi": "Thế là mình liệt kê chi tiêu hằng tuần và quyết định bớt những thứ không đáng tiền, chẳng hạn nước tăng lực và tiền ảo trong game."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tina offered to lend me thirty dollars from her savings jar.",
+            "vi": "Tina đề nghị cho mình vay ba mươi đô từ hũ tiết kiệm của nó."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She said that I could pay her back slowly, but only if I paid an extra dollar every week.",
+            "vi": "Nó bảo mình được trả từ từ, nhưng tuần nào cũng phải trả thêm một đô."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dad laughed and told me not to get into debt with my ten-year-old sister, because she is a tougher banker than any real bank.",
+            "vi": "Bố cười và dặn đừng có mắc nợ con em gái mười tuổi, vì nó còn làm ngân hàng khó tính hơn cả ngân hàng thật."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Grandma Harriet had another idea.",
+            "vi": "Bà Harriet thì có ý khác."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Now that Chloe is leaving, she needs extra help on Saturday mornings, so I can clear tables for seventeen dollars an hour.",
+            "vi": "Giờ chị Chloe sắp nghỉ, bà cần thêm người phụ vào sáng thứ Bảy, nên mình có thể dọn bàn với giá mười bảy đô một giờ."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I'm not sure whether I'm a good waiter or not, but I'm definitely a hungry one.",
+            "vi": "Mình không chắc mình có phục vụ giỏi hay không, nhưng chắc chắn là một người phục vụ hay đói."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mom says that a real job will teach me more than any money lesson at school.",
+            "vi": "Mẹ bảo một công việc thật sẽ dạy mình nhiều hơn bất kỳ bài học về tiền nào ở trường."
+          }
+        },
+        {
+          "n": 16,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "By my calculations, I can afford the boots by the end of January, that is, six weeks before the tryouts.",
+            "vi": "Theo tính toán của mình, cuối tháng Một là mình đủ tiền mua giày, tức là sáu tuần trước buổi tuyển chọn."
+          }
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I bet Tina will still ask me for the extra dollar anyway.",
+            "vi": "Mình cá là Tina vẫn sẽ đòi mình thêm một đô cho xem."
+          }
+        }
+      ],
+      "content_ja": "Trevor's Boot Fund\n\nSaturday, December 13\n\nThe school soccer tryouts are in March, and my old boots are completely worn out. The boots that I want cost $120 in total, which is a lot of money for a fourteen-year-old. My allowance is fifteen dollars a week, so I calculated how long I would need to save. If I put all of it aside, I will have enough in eight weeks.\n\nHowever, I usually splash out on snacks after practice, and I often buy things for my phone games. So I made a list of my weekly expenses and decided to cut back on the things that are not worth it, for example, energy drinks and in-game coins.\n\nTina offered to lend me thirty dollars from her savings jar. She said that I could pay her back slowly, but only if I paid an extra dollar every week. Dad laughed and told me not to get into debt with my ten-year-old sister, because she is a tougher banker than any real bank.\n\nGrandma Harriet had another idea. Now that Chloe is leaving, she needs extra help on Saturday mornings, so I can clear tables for seventeen dollars an hour. I'm not sure whether I'm a good waiter or not, but I'm definitely a hungry one. Mom says that a real job will teach me more than any money lesson at school.\n\nBy my calculations, I can afford the boots by the end of January, that is, six weeks before the tryouts. I bet Tina will still ask me for the extra dollar anyway.",
+      "translation_vn": "(1) Quỹ mua giày của Trevor\n(2) Thứ Bảy, 13 tháng 12\n(3) Tháng Ba là buổi tuyển chọn vào đội bóng của trường, mà đôi giày cũ của mình thì mòn hết rồi.\n(4) Đôi giày mình muốn tổng cộng giá 120 đô, một khoản rất lớn với đứa mười bốn tuổi.\n(5) Tiền tiêu vặt của mình là mười lăm đô một tuần, nên mình tính xem phải để dành trong bao lâu.\n(6) Nếu để dành hết, tám tuần là đủ.\n(7) Có điều, sau buổi tập mình hay vung tiền mua đồ ăn vặt, và còn hay mua đồ cho trò chơi trên điện thoại.\n(8) Thế là mình liệt kê chi tiêu hằng tuần và quyết định bớt những thứ không đáng tiền, chẳng hạn nước tăng lực và tiền ảo trong game.\n(9) Tina đề nghị cho mình vay ba mươi đô từ hũ tiết kiệm của nó.\n(10) Nó bảo mình được trả từ từ, nhưng tuần nào cũng phải trả thêm một đô.\n(11) Bố cười và dặn đừng có mắc nợ con em gái mười tuổi, vì nó còn làm ngân hàng khó tính hơn cả ngân hàng thật.\n(12) Bà Harriet thì có ý khác.\n(13) Giờ chị Chloe sắp nghỉ, bà cần thêm người phụ vào sáng thứ Bảy, nên mình có thể dọn bàn với giá mười bảy đô một giờ.\n(14) Mình không chắc mình có phục vụ giỏi hay không, nhưng chắc chắn là một người phục vụ hay đói.\n(15) Mẹ bảo một công việc thật sẽ dạy mình nhiều hơn bất kỳ bài học về tiền nào ở trường.\n(16) Theo tính toán của mình, cuối tháng Một là mình đủ tiền mua giày, tức là sáu tuần trước buổi tuyển chọn.\n(17) Mình cá là Tina vẫn sẽ đòi mình thêm một đô cho xem.",
+      "word_count": 265,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.033",
+        "b1.034",
+        "b1.035",
+        "b1.036"
+      ]
+    },
+    {
+      "id": "passage_u0910_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 10) — Mua sắm online: biết quyền của mình"
+      },
+      "narrator": "announcer",
+      "title": "Shopping Online? Know Your Rights",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 160,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Shopping Online? Know Your Rights",
+            "vi": "Mua sắm online? Hãy biết quyền của mình"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Online shopping is so convenient that many of us now buy everything from shoes to washing powder without leaving the sofa.",
+            "vi": "Mua sắm online tiện tới mức nhiều người giờ mua đủ thứ, từ giày dép tới bột giặt, mà không cần rời ghế sofa."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "However, when a parcel arrives damaged, late or not at all, many shoppers do not know what to do.",
+            "vi": "Tuy vậy, khi một kiện hàng tới nơi bị hỏng, tới muộn hoặc không tới, nhiều người mua không biết phải làm gì."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Here are a few things that every consumer should know.",
+            "vi": "Dưới đây là vài điều mọi người tiêu dùng nên biết."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "First, read the return policy before you pay.",
+            "vi": "Thứ nhất, hãy đọc chính sách đổi trả trước khi thanh toán."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In the United States, there is no general law that says a store must accept returns of products that you simply do not like, so each company makes its own rules.",
+            "vi": "Ở Mỹ, không có luật chung nào buộc cửa hàng phải nhận lại món hàng mà bạn chỉ đơn giản là không thích, nên mỗi công ty tự đặt quy định riêng."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some offer free returns within thirty days, while others charge for delivery or give only store credit instead of a refund.",
+            "vi": "Có nơi cho trả miễn phí trong vòng ba mươi ngày, có nơi lại tính phí gửi hoặc chỉ đưa phiếu mua hàng thay vì hoàn tiền."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Second, check the guarantee or warranty.",
+            "vi": "Thứ hai, hãy xem phần bảo đảm hoặc bảo hành."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A product that breaks quickly may be repaired or replaced, but only if you keep your receipt and order number.",
+            "vi": "Món hàng hỏng sớm có thể được sửa hoặc đổi mới, nhưng chỉ khi bạn giữ hoá đơn và mã đơn hàng."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Third, watch out for hidden costs at the checkout, such as delivery fees, which can make a cheap item too expensive to buy.",
+            "vi": "Thứ ba, hãy cảnh giác với những khoản phí ẩn ở bước thanh toán, như phí giao hàng, thứ có thể biến một món đồ rẻ thành quá đắt để mua."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Fourth, a federal rule says that when a seller cannot send your order in the promised time, it must tell you and offer you the choice to cancel and get your money back.",
+            "vi": "Thứ tư, một quy định liên bang nói rằng khi người bán không gửi được hàng đúng thời hạn đã hứa, họ phải báo cho bạn và cho bạn quyền huỷ đơn để lấy lại tiền."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If the seller did not promise a date, the limit is usually thirty days.",
+            "vi": "Nếu người bán không hứa ngày cụ thể, thời hạn thường là ba mươi ngày."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Finally, take photos of any damaged package before you open it, because they are useful evidence.",
+            "vi": "Cuối cùng, hãy chụp ảnh kiện hàng bị hỏng trước khi mở, vì ảnh là bằng chứng có ích."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Shopping around for a reasonable price is smart, but a great price is not such a good deal if you cannot send the product back.",
+            "vi": "Đi so giá để tìm mức giá hợp lý là khôn ngoan, nhưng một mức giá hời cũng chẳng còn là món hời nếu bạn không thể trả lại hàng."
+          }
+        }
+      ],
+      "content_ja": "Shopping Online? Know Your Rights\n\nOnline shopping is so convenient that many of us now buy everything from shoes to washing powder without leaving the sofa. However, when a parcel arrives damaged, late or not at all, many shoppers do not know what to do. Here are a few things that every consumer should know.\n\nFirst, read the return policy before you pay. In the United States, there is no general law that says a store must accept returns of products that you simply do not like, so each company makes its own rules. Some offer free returns within thirty days, while others charge for delivery or give only store credit instead of a refund.\n\nSecond, check the guarantee or warranty. A product that breaks quickly may be repaired or replaced, but only if you keep your receipt and order number. Third, watch out for hidden costs at the checkout, such as delivery fees, which can make a cheap item too expensive to buy.\n\nFourth, a federal rule says that when a seller cannot send your order in the promised time, it must tell you and offer you the choice to cancel and get your money back. If the seller did not promise a date, the limit is usually thirty days. Finally, take photos of any damaged package before you open it, because they are useful evidence.\n\nShopping around for a reasonable price is smart, but a great price is not such a good deal if you cannot send the product back.",
+      "translation_vn": "(1) Mua sắm online? Hãy biết quyền của mình\n(2) Mua sắm online tiện tới mức nhiều người giờ mua đủ thứ, từ giày dép tới bột giặt, mà không cần rời ghế sofa.\n(3) Tuy vậy, khi một kiện hàng tới nơi bị hỏng, tới muộn hoặc không tới, nhiều người mua không biết phải làm gì.\n(4) Dưới đây là vài điều mọi người tiêu dùng nên biết.\n(5) Thứ nhất, hãy đọc chính sách đổi trả trước khi thanh toán.\n(6) Ở Mỹ, không có luật chung nào buộc cửa hàng phải nhận lại món hàng mà bạn chỉ đơn giản là không thích, nên mỗi công ty tự đặt quy định riêng.\n(7) Có nơi cho trả miễn phí trong vòng ba mươi ngày, có nơi lại tính phí gửi hoặc chỉ đưa phiếu mua hàng thay vì hoàn tiền.\n(8) Thứ hai, hãy xem phần bảo đảm hoặc bảo hành.\n(9) Món hàng hỏng sớm có thể được sửa hoặc đổi mới, nhưng chỉ khi bạn giữ hoá đơn và mã đơn hàng.\n(10) Thứ ba, hãy cảnh giác với những khoản phí ẩn ở bước thanh toán, như phí giao hàng, thứ có thể biến một món đồ rẻ thành quá đắt để mua.\n(11) Thứ tư, một quy định liên bang nói rằng khi người bán không gửi được hàng đúng thời hạn đã hứa, họ phải báo cho bạn và cho bạn quyền huỷ đơn để lấy lại tiền.\n(12) Nếu người bán không hứa ngày cụ thể, thời hạn thường là ba mươi ngày.\n(13) Cuối cùng, hãy chụp ảnh kiện hàng bị hỏng trước khi mở, vì ảnh là bằng chứng có ích.\n(14) Đi so giá để tìm mức giá hợp lý là khôn ngoan, nhưng một mức giá hời cũng chẳng còn là món hời nếu bạn không thể trả lại hàng.",
+      "word_count": 252,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.037",
+        "b1.038",
+        "b1.039",
+        "b1.040"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u0910_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "What is the main topic of Trevor's diary?",
+        "vi": "Chủ đề chính trong nhật ký của Trevor là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "his plan to save enough money for new soccer boots by January",
+            "vi": "kế hoạch để dành đủ tiền mua giày bóng đá mới trước tháng Một"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "his plan to save enough money for new soccer boots by January",
+          "text_translation": "kế hoạch để dành đủ tiền mua giày bóng đá mới trước tháng Một"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "his first day at a new job clearing tables on Saturdays at the café",
+            "vi": "ngày đầu tiên đi làm dọn bàn vào các sáng thứ Bảy ở quán"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "his first day at a new job clearing tables on Saturdays at the café",
+          "text_translation": "ngày đầu tiên đi làm dọn bàn vào các sáng thứ Bảy ở quán"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a big fight with his sister about the money he owes her",
+            "vi": "một trận cãi nhau lớn với em gái về số tiền cậu nợ em"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a big fight with his sister about the money he owes her",
+          "text_translation": "một trận cãi nhau lớn với em gái về số tiền cậu nợ em"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the school soccer tryouts that will take place in March",
+            "vi": "buổi tuyển chọn đội bóng đá của trường diễn ra vào tháng Ba"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the school soccer tryouts that will take place in March",
+          "text_translation": "buổi tuyển chọn đội bóng đá của trường diễn ra vào tháng Ba"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"The boots that I want cost $120 in total\". Cả nhật ký xoay quanh cách để dành đủ tiền mua giày. Buổi tuyển chọn chỉ là lý do; việc dọn bàn chỉ là một phần của kế hoạch."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main topic of Trevor's diary?",
+      "question_vn": "Chủ đề chính trong nhật ký của Trevor là gì?",
+      "explanation": "\"The boots that I want cost $120 in total\". Cả nhật ký xoay quanh cách để dành đủ tiền mua giày. Buổi tuyển chọn chỉ là lý do; việc dọn bàn chỉ là một phần của kế hoạch."
+    },
+    {
+      "id": "q_u0910_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "How much do the boots cost?",
+        "vi": "Đôi giày giá bao nhiêu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "$15",
+            "vi": "15 đô"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "$15",
+          "text_translation": "15 đô"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "$30",
+            "vi": "30 đô"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "$30",
+          "text_translation": "30 đô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "$120",
+            "vi": "120 đô"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "$120",
+          "text_translation": "120 đô"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "$17",
+            "vi": "17 đô"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "$17",
+          "text_translation": "17 đô"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"The boots that I want cost $120 in total\". 15 đô là tiền tiêu vặt mỗi tuần, 30 đô là số Tina cho vay, 17 đô là tiền công một giờ."
+      },
+      "audio_data": null,
+      "question_jp": "How much do the boots cost?",
+      "question_vn": "Đôi giày giá bao nhiêu?",
+      "explanation": "\"The boots that I want cost $120 in total\". 15 đô là tiền tiêu vặt mỗi tuần, 30 đô là số Tina cho vay, 17 đô là tiền công một giờ."
+    },
+    {
+      "id": "q_u0910_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "How much money does Trevor get from his allowance?",
+        "vi": "Tiền tiêu vặt của Trevor là bao nhiêu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "seventeen dollars an hour",
+            "vi": "mười bảy đô một giờ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "seventeen dollars an hour",
+          "text_translation": "mười bảy đô một giờ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "fifteen dollars a week",
+            "vi": "mười lăm đô một tuần"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "fifteen dollars a week",
+          "text_translation": "mười lăm đô một tuần"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "thirty dollars a month",
+            "vi": "ba mươi đô một tháng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "thirty dollars a month",
+          "text_translation": "ba mươi đô một tháng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "one dollar a week",
+            "vi": "một đô một tuần"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "one dollar a week",
+          "text_translation": "một đô một tuần"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"My allowance is fifteen dollars a week\"."
+      },
+      "audio_data": null,
+      "question_jp": "How much money does Trevor get from his allowance?",
+      "question_vn": "Tiền tiêu vặt của Trevor là bao nhiêu?",
+      "explanation": "\"My allowance is fifteen dollars a week\"."
+    },
+    {
+      "id": "q_u0910_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "In \"I usually splash out on snacks after practice\", what does \"splash out on\" mean?",
+        "vi": "Trong câu \"I usually splash out on snacks after practice\", \"splash out on\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "save money for something important",
+            "vi": "để dành tiền cho việc quan trọng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "save money for something important",
+          "text_translation": "để dành tiền cho việc quan trọng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "share with friends after practice",
+            "vi": "chia sẻ với bạn bè sau buổi tập"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "share with friends after practice",
+          "text_translation": "chia sẻ với bạn bè sau buổi tập"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "refuse to buy snacks and drinks",
+            "vi": "từ chối mua đồ ăn vặt và đồ uống"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "refuse to buy snacks and drinks",
+          "text_translation": "từ chối mua đồ ăn vặt và đồ uống"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "spend a lot of money easily and freely on",
+            "vi": "tiêu nhiều tiền một cách dễ dàng và thoải mái vào"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "spend a lot of money easily and freely on",
+          "text_translation": "tiêu nhiều tiền một cách dễ dàng và thoải mái vào"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"However, I usually splash out on snacks after practice\". \"However\" cho thấy đây là thói quen cản trở việc để dành, tức là tiêu tiền thoải mái."
+      },
+      "audio_data": null,
+      "question_jp": "In \"I usually splash out on snacks after practice\", what does \"splash out on\" mean?",
+      "question_vn": "Trong câu \"I usually splash out on snacks after practice\", \"splash out on\" nghĩa là gì?",
+      "explanation": "\"However, I usually splash out on snacks after practice\". \"However\" cho thấy đây là thói quen cản trở việc để dành, tức là tiêu tiền thoải mái."
+    },
+    {
+      "id": "q_u0910_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "Which things does Trevor decide to cut back on?",
+        "vi": "Trevor quyết định bớt chi những gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "energy drinks and in-game coins for his phone games",
+            "vi": "nước tăng lực và xu trong game điện thoại"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "energy drinks and in-game coins for his phone games",
+          "text_translation": "nước tăng lực và xu trong game điện thoại"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "soccer practice and the games on Saturday",
+            "vi": "buổi tập bóng đá và các trận đấu vào thứ Bảy"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "soccer practice and the games on Saturday",
+          "text_translation": "buổi tập bóng đá và các trận đấu vào thứ Bảy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "his allowance and the money from Grandma",
+            "vi": "tiền tiêu vặt và tiền từ bà"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "his allowance and the money from Grandma",
+          "text_translation": "tiền tiêu vặt và tiền từ bà"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "lunch at school and the bus to practice",
+            "vi": "bữa trưa ở trường và xe buýt đến buổi tập"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "lunch at school and the bus to practice",
+          "text_translation": "bữa trưa ở trường và xe buýt đến buổi tập"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"decided to cut back on the things that are not worth it, for example, energy drinks and in-game coins.\" \"for example\" mở ra các ví dụ cụ thể."
+      },
+      "audio_data": null,
+      "question_jp": "Which things does Trevor decide to cut back on?",
+      "question_vn": "Trevor quyết định bớt chi những gì?",
+      "explanation": "\"decided to cut back on the things that are not worth it, for example, energy drinks and in-game coins.\" \"for example\" mở ra các ví dụ cụ thể."
+    },
+    {
+      "id": "q_u0910_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "Why does Dad call Tina \"a tougher banker than any real bank\"?",
+        "vi": "Vì sao bố gọi Tina là \"người làm ngân hàng khó tính hơn cả ngân hàng thật\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tina wants to work in a bank when she grows up, because Dad is a banker",
+            "vi": "Tina muốn làm ở ngân hàng khi lớn lên vì bố là nhân viên ngân hàng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Tina wants to work in a bank when she grows up, because Dad is a banker",
+          "text_translation": "Tina muốn làm ở ngân hàng khi lớn lên vì bố là nhân viên ngân hàng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tina keeps all her money in a real bank, not in a jar",
+            "vi": "Tina gửi hết tiền vào ngân hàng thật chứ không để trong lọ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Tina keeps all her money in a real bank, not in a jar",
+          "text_translation": "Tina gửi hết tiền vào ngân hàng thật chứ không để trong lọ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tina wants Trevor to pay an extra dollar every week when he pays her back.",
+            "vi": "Tina muốn Trevor trả thêm một đô mỗi tuần khi cậu trả tiền cho em."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Tina wants Trevor to pay an extra dollar every week when he pays her back.",
+          "text_translation": "Tina muốn Trevor trả thêm một đô mỗi tuần khi cậu trả tiền cho em."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tina refused to lend any money unless Dad agreed to it",
+            "vi": "Tina không chịu cho mượn tiền trừ khi bố đồng ý"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Tina refused to lend any money unless Dad agreed to it",
+          "text_translation": "Tina không chịu cho mượn tiền trừ khi bố đồng ý"
+        }
+      ],
+      "evidence_segments": [
+        10,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"She said that I could pay her back slowly, but only if I paid an extra dollar every week.\" Tina đặt điều kiện trả thêm tiền giống như ngân hàng tính lãi, nên bố đùa rằng em còn \"khó tính\" hơn ngân hàng. Tina có cho vay, chứ không từ chối."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Dad call Tina \"a tougher banker than any real bank\"?",
+      "question_vn": "Vì sao bố gọi Tina là \"người làm ngân hàng khó tính hơn cả ngân hàng thật\"?",
+      "explanation": "Câu suy luận. \"She said that I could pay her back slowly, but only if I paid an extra dollar every week.\" Tina đặt điều kiện trả thêm tiền giống như ngân hàng tính lãi, nên bố đùa rằng em còn \"khó tính\" hơn ngân hàng. Tina có cho vay, chứ không từ chối."
+    },
+    {
+      "id": "q_u0910_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "What does Grandma Harriet offer Trevor?",
+        "vi": "Bà Harriet đề nghị gì với Trevor?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a free pair of boots for his birthday in March",
+            "vi": "một đôi giày bốt miễn phí cho sinh nhật tháng Ba"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a free pair of boots for his birthday in March",
+          "text_translation": "một đôi giày bốt miễn phí cho sinh nhật tháng Ba"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to lend him thirty dollars from the café's money box",
+            "vi": "cho cậu mượn ba mươi đô từ hộp tiền của quán"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to lend him thirty dollars from the café's money box",
+          "text_translation": "cho cậu mượn ba mươi đô từ hộp tiền của quán"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "free snacks after every practice if he plays well",
+            "vi": "đồ ăn vặt miễn phí sau mỗi buổi tập nếu cậu chơi tốt"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "free snacks after every practice if he plays well",
+          "text_translation": "đồ ăn vặt miễn phí sau mỗi buổi tập nếu cậu chơi tốt"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "work clearing tables at the café on Saturday mornings",
+            "vi": "công việc dọn bàn ở quán vào các sáng thứ Bảy"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "work clearing tables at the café on Saturday mornings",
+          "text_translation": "công việc dọn bàn ở quán vào các sáng thứ Bảy"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Now that Chloe is leaving, she needs extra help on Saturday mornings, so I can clear tables for seventeen dollars an hour.\" Người cho vay 30 đô là Tina."
+      },
+      "audio_data": null,
+      "question_jp": "What does Grandma Harriet offer Trevor?",
+      "question_vn": "Bà Harriet đề nghị gì với Trevor?",
+      "explanation": "\"Now that Chloe is leaving, she needs extra help on Saturday mornings, so I can clear tables for seventeen dollars an hour.\" Người cho vay 30 đô là Tina."
+    },
+    {
+      "id": "q_u0910_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "In \"but I'm definitely a hungry one\", what does \"one\" refer to?",
+        "vi": "Trong câu \"but I'm definitely a hungry one\", \"one\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a soccer player",
+            "vi": "một cầu thủ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a soccer player",
+          "text_translation": "một cầu thủ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a waiter",
+            "vi": "một người phục vụ"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a waiter",
+          "text_translation": "một người phục vụ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a table",
+            "vi": "một cái bàn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a table",
+          "text_translation": "một cái bàn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a boot",
+            "vi": "một chiếc giày"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a boot",
+          "text_translation": "một chiếc giày"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"I'm not sure whether I'm a good waiter or not, but I'm definitely a hungry one.\" \"one\" thay cho \"waiter\" ngay trước đó."
+      },
+      "audio_data": null,
+      "question_jp": "In \"but I'm definitely a hungry one\", what does \"one\" refer to?",
+      "question_vn": "Trong câu \"but I'm definitely a hungry one\", \"one\" chỉ cái gì?",
+      "explanation": "\"I'm not sure whether I'm a good waiter or not, but I'm definitely a hungry one.\" \"one\" thay cho \"waiter\" ngay trước đó."
+    },
+    {
+      "id": "q_u0910_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "When does Trevor think he can afford the boots?",
+        "vi": "Trevor nghĩ khi nào cậu đủ tiền mua giày?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in eight weeks from his allowance only",
+            "vi": "tám tuần nữa, chỉ nhờ tiền tiêu vặt"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "in eight weeks from his allowance only",
+          "text_translation": "tám tuần nữa, chỉ nhờ tiền tiêu vặt"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "in March, at the tryouts",
+            "vi": "tháng Ba, đúng buổi tuyển chọn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "in March, at the tryouts",
+          "text_translation": "tháng Ba, đúng buổi tuyển chọn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "by the end of January",
+            "vi": "trước cuối tháng Một"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "by the end of January",
+          "text_translation": "trước cuối tháng Một"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "next summer",
+            "vi": "mùa hè sau"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "next summer",
+          "text_translation": "mùa hè sau"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"By my calculations, I can afford the boots by the end of January, that is, six weeks before the tryouts.\" \"that is\" giải thích rõ thêm mốc thời gian."
+      },
+      "audio_data": null,
+      "question_jp": "When does Trevor think he can afford the boots?",
+      "question_vn": "Trevor nghĩ khi nào cậu đủ tiền mua giày?",
+      "explanation": "\"By my calculations, I can afford the boots by the end of January, that is, six weeks before the tryouts.\" \"that is\" giải thích rõ thêm mốc thời gian."
+    },
+    {
+      "id": "q_u0910_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_01",
+      "i18n": {
+        "en": "What does \"I bet Tina will still ask me for the extra dollar anyway\" tell us?",
+        "vi": "Câu \"Mình cá là Tina vẫn sẽ đòi thêm một đô\" cho ta biết điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Trevor thinks Tina will try to get an extra dollar from him anyway.",
+            "vi": "Trevor nghĩ Tina vẫn sẽ tìm cách lấy thêm một đô từ cậu."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Trevor thinks Tina will try to get an extra dollar from him anyway.",
+          "text_translation": "Trevor nghĩ Tina vẫn sẽ tìm cách lấy thêm một đô từ cậu."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trevor has already borrowed money from Tina and must pay it back every week",
+            "vi": "Trevor đã mượn tiền của Tina và phải trả lại mỗi tuần"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Trevor has already borrowed money from Tina and must pay it back every week",
+          "text_translation": "Trevor đã mượn tiền của Tina và phải trả lại mỗi tuần"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tina has lost her savings jar and wants Trevor to find it",
+            "vi": "Tina làm mất lọ tiết kiệm và muốn Trevor tìm giúp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Tina has lost her savings jar and wants Trevor to find it",
+          "text_translation": "Tina làm mất lọ tiết kiệm và muốn Trevor tìm giúp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Trevor is angry with Tina and will never talk to her again",
+            "vi": "Trevor giận Tina và sẽ không bao giờ nói chuyện với em nữa"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Trevor is angry with Tina and will never talk to her again",
+          "text_translation": "Trevor giận Tina và sẽ không bao giờ nói chuyện với em nữa"
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Trevor đã tìm được việc ở quán thay vì vay, nhưng vẫn đoán \"I bet Tina will still ask me for the extra dollar anyway\". Câu này mang giọng đùa: em gái rất giỏi đòi tiền. Bài không nói Trevor đã vay."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"I bet Tina will still ask me for the extra dollar anyway\" tell us?",
+      "question_vn": "Câu \"Mình cá là Tina vẫn sẽ đòi thêm một đô\" cho ta biết điều gì?",
+      "explanation": "Câu suy luận. Trevor đã tìm được việc ở quán thay vì vay, nhưng vẫn đoán \"I bet Tina will still ask me for the extra dollar anyway\". Câu này mang giọng đùa: em gái rất giỏi đòi tiền. Bài không nói Trevor đã vay."
+    },
+    {
+      "id": "q_u0910_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "What is the main purpose of the article?",
+        "vi": "Mục đích chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to sell shoes and washing powder to people who shop online",
+            "vi": "để bán giày và bột giặt cho những người mua sắm trực tuyến"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to sell shoes and washing powder to people who shop online",
+          "text_translation": "để bán giày và bột giặt cho những người mua sắm trực tuyến"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to tell people to stop shopping online and go back to real stores",
+            "vi": "để bảo mọi người ngừng mua sắm trực tuyến và quay lại cửa hàng thật"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to tell people to stop shopping online and go back to real stores",
+          "text_translation": "để bảo mọi người ngừng mua sắm trực tuyến và quay lại cửa hàng thật"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to compare prices in different stores and find the cheapest",
+            "vi": "để so sánh giá ở các cửa hàng khác nhau và tìm nơi rẻ nhất"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to compare prices in different stores and find the cheapest",
+          "text_translation": "để so sánh giá ở các cửa hàng khác nhau và tìm nơi rẻ nhất"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to help consumers understand their rights and avoid problems",
+            "vi": "để giúp người tiêu dùng hiểu quyền của mình và tránh rắc rối"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to help consumers understand their rights and avoid problems",
+          "text_translation": "để giúp người tiêu dùng hiểu quyền của mình và tránh rắc rối"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Here are a few things that every consumer should know.\" Bài không khuyên ngừng mua online, cũng không bán hàng hay so giá."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of the article?",
+      "question_vn": "Mục đích chính của bài báo là gì?",
+      "explanation": "\"Here are a few things that every consumer should know.\" Bài không khuyên ngừng mua online, cũng không bán hàng hay so giá."
+    },
+    {
+      "id": "q_u0910_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "Why should shoppers read the return policy before they pay?",
+        "vi": "Vì sao người mua nên đọc chính sách đổi trả trước khi thanh toán?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Every store must accept all returns within thirty days by law",
+            "vi": "Mọi cửa hàng đều phải nhận trả hàng trong vòng ba mươi ngày theo luật"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Every store must accept all returns within thirty days by law",
+          "text_translation": "Mọi cửa hàng đều phải nhận trả hàng trong vòng ba mươi ngày theo luật"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "No general law covers returns, so every company has its own rules.",
+            "vi": "Không có luật chung nào về đổi trả nên mỗi công ty có quy định riêng."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "No general law covers returns, so every company has its own rules.",
+          "text_translation": "Không có luật chung nào về đổi trả nên mỗi công ty có quy định riêng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The policy shows the delivery date and the name of the seller",
+            "vi": "Chính sách cho biết ngày giao hàng và tên người bán"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The policy shows the delivery date and the name of the seller",
+          "text_translation": "Chính sách cho biết ngày giao hàng và tên người bán"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is required by the bank that takes the money for the order",
+            "vi": "Ngân hàng nhận tiền cho đơn hàng yêu cầu điều đó"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It is required by the bank that takes the money for the order",
+          "text_translation": "Ngân hàng nhận tiền cho đơn hàng yêu cầu điều đó"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"In the United States, there is no general law that says a store must accept returns of products that you simply do not like, so each company makes its own rules.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why should shoppers read the return policy before they pay?",
+      "question_vn": "Vì sao người mua nên đọc chính sách đổi trả trước khi thanh toán?",
+      "explanation": "\"In the United States, there is no general law that says a store must accept returns of products that you simply do not like, so each company makes its own rules.\""
+    },
+    {
+      "id": "q_u0910_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "What do you need to keep if you want a product repaired under warranty?",
+        "vi": "Muốn được sửa hàng theo bảo hành, bạn cần giữ gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "your receipt and order number",
+            "vi": "hoá đơn và mã đơn hàng"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "your receipt and order number",
+          "text_translation": "hoá đơn và mã đơn hàng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the original box only",
+            "vi": "chỉ cần hộp gốc"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the original box only",
+          "text_translation": "chỉ cần hộp gốc"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a photo of the store",
+            "vi": "ảnh chụp cửa hàng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a photo of the store",
+          "text_translation": "ảnh chụp cửa hàng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "your delivery fees",
+            "vi": "phí giao hàng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "your delivery fees",
+          "text_translation": "phí giao hàng"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"A product that breaks quickly may be repaired or replaced, but only if you keep your receipt and order number.\""
+      },
+      "audio_data": null,
+      "question_jp": "What do you need to keep if you want a product repaired under warranty?",
+      "question_vn": "Muốn được sửa hàng theo bảo hành, bạn cần giữ gì?",
+      "explanation": "\"A product that breaks quickly may be repaired or replaced, but only if you keep your receipt and order number.\""
+    },
+    {
+      "id": "q_u0910_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "In \"watch out for hidden costs at the checkout\", what are \"hidden costs\"?",
+        "vi": "Trong câu \"watch out for hidden costs at the checkout\", \"hidden costs\" là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "prices that are lower online than in the stores",
+            "vi": "giá thấp hơn trên mạng so với trong cửa hàng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "prices that are lower online than in the stores",
+          "text_translation": "giá thấp hơn trên mạng so với trong cửa hàng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "money that the store returns to you after you pay",
+            "vi": "tiền cửa hàng trả lại cho bạn sau khi bạn thanh toán"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "money that the store returns to you after you pay",
+          "text_translation": "tiền cửa hàng trả lại cho bạn sau khi bạn thanh toán"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "extra costs that you do not notice at first glance",
+            "vi": "những chi phí thêm mà thoạt nhìn bạn không để ý"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "extra costs that you do not notice at first glance",
+          "text_translation": "những chi phí thêm mà thoạt nhìn bạn không để ý"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "costs that the seller pays for storing your order",
+            "vi": "chi phí người bán trả để lưu giữ đơn hàng của bạn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "costs that the seller pays for storing your order",
+          "text_translation": "chi phí người bán trả để lưu giữ đơn hàng của bạn"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"watch out for hidden costs at the checkout, such as delivery fees, which can make a cheap item too expensive to buy.\" Ví dụ \"delivery fees\" là khoản phí cộng thêm mà lúc đầu dễ bỏ qua."
+      },
+      "audio_data": null,
+      "question_jp": "In \"watch out for hidden costs at the checkout\", what are \"hidden costs\"?",
+      "question_vn": "Trong câu \"watch out for hidden costs at the checkout\", \"hidden costs\" là gì?",
+      "explanation": "\"watch out for hidden costs at the checkout, such as delivery fees, which can make a cheap item too expensive to buy.\" Ví dụ \"delivery fees\" là khoản phí cộng thêm mà lúc đầu dễ bỏ qua."
+    },
+    {
+      "id": "q_u0910_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "If a seller did not promise a delivery date, what is the usual time limit?",
+        "vi": "Nếu người bán không hứa ngày giao hàng, thời hạn thường là bao lâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "one week",
+            "vi": "một tuần"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "one week",
+          "text_translation": "một tuần"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "one year",
+            "vi": "một năm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "one year",
+          "text_translation": "một năm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "there is no limit",
+            "vi": "không có thời hạn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "there is no limit",
+          "text_translation": "không có thời hạn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "thirty days",
+            "vi": "ba mươi ngày"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "thirty days",
+          "text_translation": "ba mươi ngày"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"If the seller did not promise a date, the limit is usually thirty days.\""
+      },
+      "audio_data": null,
+      "question_jp": "If a seller did not promise a delivery date, what is the usual time limit?",
+      "question_vn": "Nếu người bán không hứa ngày giao hàng, thời hạn thường là bao lâu?",
+      "explanation": "\"If the seller did not promise a date, the limit is usually thirty days.\""
+    },
+    {
+      "id": "q_u0910_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "In \"because they are useful evidence\", what does \"they\" refer to?",
+        "vi": "Trong câu \"because they are useful evidence\", \"they\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the people who send damaged packages",
+            "vi": "những người gửi các gói hàng bị hỏng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the people who send damaged packages",
+          "text_translation": "những người gửi các gói hàng bị hỏng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the photos of the damaged package",
+            "vi": "những tấm ảnh chụp gói hàng bị hỏng"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "the photos of the damaged package",
+          "text_translation": "những tấm ảnh chụp gói hàng bị hỏng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the delivery fees at the checkout",
+            "vi": "phí giao hàng ở bước thanh toán"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the delivery fees at the checkout",
+          "text_translation": "phí giao hàng ở bước thanh toán"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the store rules about returns and refunds",
+            "vi": "quy định của cửa hàng về đổi trả và hoàn tiền"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the store rules about returns and refunds",
+          "text_translation": "quy định của cửa hàng về đổi trả và hoàn tiền"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"take photos of any damaged package before you open it, because they are useful evidence.\" \"they\" là những tấm ảnh vừa nhắc."
+      },
+      "audio_data": null,
+      "question_jp": "In \"because they are useful evidence\", what does \"they\" refer to?",
+      "question_vn": "Trong câu \"because they are useful evidence\", \"they\" chỉ cái gì?",
+      "explanation": "\"take photos of any damaged package before you open it, because they are useful evidence.\" \"they\" là những tấm ảnh vừa nhắc."
+    },
+    {
+      "id": "q_u0910_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "Which store policy is NOT mentioned in the article?",
+        "vi": "Chính sách nào KHÔNG được nhắc trong bài?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "free returns within thirty days",
+            "vi": "trả miễn phí trong ba mươi ngày"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "free returns within thirty days",
+          "text_translation": "trả miễn phí trong ba mươi ngày"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "charging for delivery",
+            "vi": "tính phí gửi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "charging for delivery",
+          "text_translation": "tính phí gửi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "store credit instead of a refund",
+            "vi": "phiếu mua hàng thay vì hoàn tiền"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "store credit instead of a refund",
+          "text_translation": "phiếu mua hàng thay vì hoàn tiền"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "returns accepted after one year",
+            "vi": "nhận trả hàng sau một năm"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "returns accepted after one year",
+          "text_translation": "nhận trả hàng sau một năm"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Some offer free returns within thirty days, while others charge for delivery or give only store credit instead of a refund.\" Bài không nhắc chính sách nhận trả sau một năm."
+      },
+      "audio_data": null,
+      "question_jp": "Which store policy is NOT mentioned in the article?",
+      "question_vn": "Chính sách nào KHÔNG được nhắc trong bài?",
+      "explanation": "\"Some offer free returns within thirty days, while others charge for delivery or give only store credit instead of a refund.\" Bài không nhắc chính sách nhận trả sau một năm."
+    },
+    {
+      "id": "q_u0910_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "A woman buys shoes online. They are fine, but she does not like the color. What can we say?",
+        "vi": "Một người mua giày online. Giày không hỏng, nhưng cô không thích màu. Ta có thể nói gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Whether she can return them depends on the store's rules.",
+            "vi": "Cô có trả lại được hay không tuỳ thuộc vào quy định của cửa hàng."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Whether she can return them depends on the store's rules.",
+          "text_translation": "Cô có trả lại được hay không tuỳ thuộc vào quy định của cửa hàng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The store must give her a full refund by law within thirty days",
+            "vi": "Cửa hàng phải hoàn tiền đầy đủ cho cô theo luật trong vòng ba mươi ngày"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The store must give her a full refund by law within thirty days",
+          "text_translation": "Cửa hàng phải hoàn tiền đầy đủ cho cô theo luật trong vòng ba mươi ngày"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She can never return them, because nothing is wrong with them",
+            "vi": "Cô không bao giờ trả lại được vì chúng không có lỗi gì"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She can never return them, because nothing is wrong with them",
+          "text_translation": "Cô không bao giờ trả lại được vì chúng không có lỗi gì"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She must wait thirty days before she can ask for a refund",
+            "vi": "Cô phải chờ ba mươi ngày rồi mới được xin hoàn tiền"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She must wait thirty days before she can ask for a refund",
+          "text_translation": "Cô phải chờ ba mươi ngày rồi mới được xin hoàn tiền"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"there is no general law that says a store must accept returns of products that you simply do not like, so each company makes its own rules.\" Không có luật chung, nhưng cũng không có nghĩa là không bao giờ trả được: tuỳ từng cửa hàng."
+      },
+      "audio_data": null,
+      "question_jp": "A woman buys shoes online. They are fine, but she does not like the color. What can we say?",
+      "question_vn": "Một người mua giày online. Giày không hỏng, nhưng cô không thích màu. Ta có thể nói gì?",
+      "explanation": "Câu suy luận. \"there is no general law that says a store must accept returns of products that you simply do not like, so each company makes its own rules.\" Không có luật chung, nhưng cũng không có nghĩa là không bao giờ trả được: tuỳ từng cửa hàng."
+    },
+    {
+      "id": "q_u0910_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "What does the last sentence mean?",
+        "vi": "Câu cuối bài có nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Cheap things are always of bad quality, so people should avoid them",
+            "vi": "Đồ rẻ luôn kém chất lượng nên mọi người cần tránh"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Cheap things are always of bad quality, so people should avoid them",
+          "text_translation": "Đồ rẻ luôn kém chất lượng nên mọi người cần tránh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "A low price is not helpful if you can't return a bad product.",
+            "vi": "Giá thấp không có ích nếu bạn không thể trả lại món hàng tệ."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "A low price is not helpful if you can't return a bad product.",
+          "text_translation": "Giá thấp không có ích nếu bạn không thể trả lại món hàng tệ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "You should never shop around, because prices are the same",
+            "vi": "Bạn không nên so sánh giá vì giá ở đâu cũng như nhau"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "You should never shop around, because prices are the same",
+          "text_translation": "Bạn không nên so sánh giá vì giá ở đâu cũng như nhau"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Stores should give such good deals more often to every shopper",
+            "vi": "Các cửa hàng nên đưa ra ưu đãi tốt như vậy thường xuyên hơn cho mọi người mua"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Stores should give such good deals more often to every shopper",
+          "text_translation": "Các cửa hàng nên đưa ra ưu đãi tốt như vậy thường xuyên hơn cho mọi người mua"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Shopping around for a reasonable price is smart, but a great price is not such a good deal if you cannot send the product back.\" So giá vẫn khôn ngoan, nhưng giá hời mất ý nghĩa nếu không trả lại được hàng."
+      },
+      "audio_data": null,
+      "question_jp": "What does the last sentence mean?",
+      "question_vn": "Câu cuối bài có nghĩa là gì?",
+      "explanation": "Câu suy luận. \"Shopping around for a reasonable price is smart, but a great price is not such a good deal if you cannot send the product back.\" So giá vẫn khôn ngoan, nhưng giá hời mất ý nghĩa nếu không trả lại được hàng."
+    },
+    {
+      "id": "q_u0910_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u0910_02",
+      "i18n": {
+        "en": "Use both texts. Trevor wants to buy his boots online. What should he do first?",
+        "vi": "Dựa vào cả hai bài. Trevor muốn mua giày online. Cậu nên làm gì trước?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "borrow money from Tina and pay the extra dollar",
+            "vi": "mượn tiền của Tina và trả thêm một đô"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "borrow money from Tina and pay the extra dollar",
+          "text_translation": "mượn tiền của Tina và trả thêm một đô"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "buy the cheapest boots that he can find on any website",
+            "vi": "mua đôi bốt rẻ nhất cậu tìm được trên bất kỳ trang web nào"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "buy the cheapest boots that he can find on any website",
+          "text_translation": "mua đôi bốt rẻ nhất cậu tìm được trên bất kỳ trang web nào"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "read the store's return policy carefully before he pays",
+            "vi": "đọc kỹ chính sách đổi trả của cửa hàng trước khi thanh toán"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "read the store's return policy carefully before he pays",
+          "text_translation": "đọc kỹ chính sách đổi trả của cửa hàng trước khi thanh toán"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "wait until after the tryouts to look at the prices",
+            "vi": "đợi đến sau buổi tuyển chọn rồi mới xem giá"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "wait until after the tryouts to look at the prices",
+          "text_translation": "đợi đến sau buổi tuyển chọn rồi mới xem giá"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. \"First, read the return policy before you pay.\" Giày có thể không vừa chân, nên Trevor cần biết có đổi được không. Mua đôi rẻ nhất chưa chắc là món hời."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. Trevor wants to buy his boots online. What should he do first?",
+      "question_vn": "Dựa vào cả hai bài. Trevor muốn mua giày online. Cậu nên làm gì trước?",
+      "explanation": "Câu nối hai bài. \"First, read the return policy before you pay.\" Giày có thể không vừa chân, nên Trevor cần biết có đổi được không. Mua đôi rẻ nhất chưa chắc là món hời."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u0910_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 9) — Quỹ mua giày của Trevor",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u0910_01",
+      "question_ids": [
+        "q_u0910_001",
+        "q_u0910_002",
+        "q_u0910_003",
+        "q_u0910_004",
+        "q_u0910_005",
+        "q_u0910_006",
+        "q_u0910_007",
+        "q_u0910_008",
+        "q_u0910_009",
+        "q_u0910_010"
+      ]
+    },
+    {
+      "set_id": "set_u0910_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 10) — Mua sắm online: biết quyền của mình",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u0910_02",
+      "question_ids": [
+        "q_u0910_011",
+        "q_u0910_012",
+        "q_u0910_013",
+        "q_u0910_014",
+        "q_u0910_015",
+        "q_u0910_016",
+        "q_u0910_017",
+        "q_u0910_018",
+        "q_u0910_019",
+        "q_u0910_020"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1290 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 6 — Cooking",
+      "vi": "Nấu ăn"
+    },
+    "title": "Unit 6 — Cooking",
+    "title_vn": "Nấu ăn",
+    "module_code": "57_u06",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A2",
+    "curriculum_unit": "a2.u06",
+    "curriculum_sheets": [
+      "a2.21",
+      "a2.22",
+      "a2.23",
+      "a2.24"
+    ],
+    "characters": [
+      "Mitchell Carter",
+      "Trevor Carter",
+      "Biscuit"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 1, năm 3 (một chiều Chủ nhật mưa ở nhà Carter)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Please + mệnh lệnh, đơn vị đếm, a little / a few, no + danh từ, another / one / ones, the other, none; tìm chi tiết, quy chiếu, hiểu lời khuyên, suy luận, thái độ người viết review",
+    "description_vn": "Chiều Chủ nhật tháng Một, Mitchell dạy Trevor nấu món súp rau học từ bà Harriet (có lời dặn an toàn khi dùng dao và nồi nóng), và bài review của một thực khách về nhà hàng hải sản mới The Blue Lemon trên phố Pine. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 6 khoá A2 · phiếu `a2.21` – `a2.24` (công thức nấu ăn, a little / a few, trong bếp, ăn ở nhà hàng)."
+    },
+    "objective_i18n": {
+      "vi": "đọc đoạn hội thoại trong bếp khi Mitchell dạy Trevor nấu món súp rau của bà Harriet, và một bài review nhà hàng hải sản mới trên phố Pine; hiểu lời dặn lịch sự với Please + mệnh lệnh, đơn vị đếm (a cup of, a piece of, a bit of), a little / a few, no + danh từ, another / one / ones, the other, none of them; tìm chi tiết, hiểu one / ones và them chỉ gì, hiểu một lời khuyên, suy ra điều bài không nói thẳng và nhận ra thái độ người viết review."
+    },
+    "extra_words": [
+      {
+        "word": "curled",
+        "i18n": {
+          "vi": "co lại, cong lại"
+        }
+      },
+      {
+        "word": "paw",
+        "i18n": {
+          "vi": "bàn chân (động vật)"
+        }
+      },
+      {
+        "word": "handle",
+        "i18n": {
+          "vi": "cán, tay cầm"
+        }
+      },
+      {
+        "word": "oven gloves",
+        "i18n": {
+          "vi": "găng tay chịu nhiệt (dùng khi cầm nồi, khay nóng)"
+        }
+      },
+      {
+        "word": "recipe",
+        "i18n": {
+          "vi": "công thức nấu ăn"
+        }
+      },
+      {
+        "word": "by hand",
+        "i18n": {
+          "vi": "bằng tay, làm thủ công"
+        }
+      },
+      {
+        "word": "service",
+        "i18n": {
+          "vi": "sự phục vụ"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "No meat at all.",
+          "vi": "Không có tí thịt nào."
+        }
+      },
+      {
+        "i18n": {
+          "en": "a growing boy",
+          "vi": "đứa con trai đang tuổi lớn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "You can never take it out.",
+          "vi": "Cho vào rồi thì không bao giờ lấy ra được."
+        }
+      },
+      {
+        "i18n": {
+          "en": "friendly but slow",
+          "vi": "thân thiện nhưng chậm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "split the bill",
+          "vi": "chia hoá đơn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "four stars out of five",
+          "vi": "bốn sao trên năm"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**Please + động từ nguyên mẫu** là lời dặn lịch sự (`Please wash your hands first`, `Please use the oven gloves`). Trong hội thoại hướng dẫn, các câu bắt đầu bằng động từ (`cut`, `fry`, `pour in`, `add`) là các bước phải làm."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Đơn vị đếm cho danh từ không đếm được: `a cup of rice`, `a piece of lemon cake`, `a bit of garlic`, `two liters of water`. **a little** đi với danh từ không đếm được (`a little olive oil`), **a few** đi với danh từ đếm được số nhiều (`a few carrots`)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**another one** = thêm một cái / một cái khác; **the small ones** = những cái nhỏ (thay cho danh từ vừa nhắc); **the other one** = cái còn lại trong hai cái. Muốn biết one / ones chỉ gì, đọc câu ngay trước."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**no + danh từ** = không có … nào (`no meat`, `no napkins`); **none of them** = không cái nào trong số đó."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài review: gom từ khen và từ chê, rồi đọc câu chấm điểm cuối bài để trả lời câu hỏi thái độ người viết."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u06_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Hội thoại trong bếp: bố Mitchell dạy Trevor nấu súp rau"
+      },
+      "narrator": "announcer",
+      "title": "A Soup Lesson on Sunday",
+      "category": "dialogue",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 100,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A Soup Lesson on Sunday",
+            "vi": "Buổi học nấu súp ngày Chủ nhật"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "Harriet taught me her vegetable soup, and today I'm teaching you.",
+            "vi": "Bà Harriet đã dạy bố món súp rau của bà, và hôm nay bố dạy lại con."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "Is there any meat in it? I'm a growing boy!",
+            "vi": "Trong đó có thịt không bố? Con đang tuổi lớn mà!"
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "No meat at all, just potatoes, tomatoes, an onion, a few carrots and a cup of rice.",
+            "vi": "Không có tí thịt nào, chỉ có khoai tây, cà chua, một củ hành tây, vài củ cà rốt và một cốc gạo."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "Please wash your hands, then cut the potatoes, but keep the fingers of your other hand curled, like a cat's paw.",
+            "vi": "Con rửa tay đi, rồi thái khoai tây, nhưng các ngón của tay kia thì co lại, giống chân mèo ấy."
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "This potato is too big. Can I have another one?",
+            "vi": "Củ khoai này to quá. Con lấy củ khác được không?"
+          }
+        },
+        {
+          "n": 7,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "Take one of the small ones. Then fry the onion and a bit of garlic in a little olive oil.",
+            "vi": "Lấy một củ trong mấy củ nhỏ ấy. Rồi phi hành tây với một chút tỏi trong một ít dầu ô liu."
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "Now add a little salt, because Harriet says, \"You can add more later, but you can never take it out.\"",
+            "vi": "Giờ cho một ít muối, vì bà Harriet bảo: \"Lúc sau thêm được, chứ cho vào rồi thì không bao giờ lấy ra được.\""
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "At your age, I put a whole cup of salt in my mom's soup!",
+            "vi": "Hồi bằng tuổi con, bố đổ nguyên một cốc muối vào nồi súp của bà nội con đấy!"
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "Add the rice and two liters of water, and turn the pot handle in, so nobody hits it.",
+            "vi": "Cho gạo với hai lít nước vào, rồi xoay cán nồi vào trong để không ai va phải."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "Please use the oven gloves before you touch the pot, because it gets very hot.",
+            "vi": "Nhớ đeo găng tay chịu nhiệt trước khi chạm vào nồi, vì nồi sẽ rất nóng."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "I cut two carrots. Where is the other one?",
+            "vi": "Con thái hai củ cà rốt. Củ kia đâu rồi?"
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "Look at Biscuit. He has a very orange smile! Now we wait.",
+            "vi": "Nhìn Biscuit kìa. Nó đang cười một nụ cười màu cam rực rỡ đấy! Giờ thì mình chờ thôi."
+          }
+        },
+        {
+          "n": 14,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "It's really good! Can I have another bowl?",
+            "vi": "Ngon thật đấy! Con ăn thêm bát nữa được không?"
+          }
+        },
+        {
+          "n": 15,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "Of course, but first you wash up!",
+            "vi": "Tất nhiên, nhưng trước hết con rửa bát đĩa đã!"
+          }
+        }
+      ],
+      "content_ja": "A Soup Lesson on Sunday\n\nMitchell: Harriet taught me her vegetable soup, and today I'm teaching you.\n\nTrevor: Is there any meat in it? I'm a growing boy!\n\nMitchell: No meat at all, just potatoes, tomatoes, an onion, a few carrots and a cup of rice. Please wash your hands, then cut the potatoes, but keep the fingers of your other hand curled, like a cat's paw.\n\nTrevor: This potato is too big. Can I have another one?\n\nMitchell: Take one of the small ones. Then fry the onion and a bit of garlic in a little olive oil. Now add a little salt, because Harriet says, \"You can add more later, but you can never take it out.\" At your age, I put a whole cup of salt in my mom's soup! Add the rice and two liters of water, and turn the pot handle in, so nobody hits it. Please use the oven gloves before you touch the pot, because it gets very hot.\n\nTrevor: I cut two carrots. Where is the other one?\n\nMitchell: Look at Biscuit. He has a very orange smile! Now we wait.\n\nTrevor: It's really good! Can I have another bowl?\n\nMitchell: Of course, but first you wash up!",
+      "translation_vn": "(1) Buổi học nấu súp ngày Chủ nhật\n(2) Mitchell: Bà Harriet đã dạy bố món súp rau của bà, và hôm nay bố dạy lại con.\n(3) Trevor: Trong đó có thịt không bố? Con đang tuổi lớn mà!\n(4) Mitchell: Không có tí thịt nào, chỉ có khoai tây, cà chua, một củ hành tây, vài củ cà rốt và một cốc gạo.\n(5) Mitchell: Con rửa tay đi, rồi thái khoai tây, nhưng các ngón của tay kia thì co lại, giống chân mèo ấy.\n(6) Trevor: Củ khoai này to quá. Con lấy củ khác được không?\n(7) Mitchell: Lấy một củ trong mấy củ nhỏ ấy. Rồi phi hành tây với một chút tỏi trong một ít dầu ô liu.\n(8) Mitchell: Giờ cho một ít muối, vì bà Harriet bảo: \"Lúc sau thêm được, chứ cho vào rồi thì không bao giờ lấy ra được.\"\n(9) Mitchell: Hồi bằng tuổi con, bố đổ nguyên một cốc muối vào nồi súp của bà nội con đấy!\n(10) Mitchell: Cho gạo với hai lít nước vào, rồi xoay cán nồi vào trong để không ai va phải.\n(11) Mitchell: Nhớ đeo găng tay chịu nhiệt trước khi chạm vào nồi, vì nồi sẽ rất nóng.\n(12) Trevor: Con thái hai củ cà rốt. Củ kia đâu rồi?\n(13) Mitchell: Nhìn Biscuit kìa. Nó đang cười một nụ cười màu cam rực rỡ đấy! Giờ thì mình chờ thôi.\n(14) Trevor: Ngon thật đấy! Con ăn thêm bát nữa được không?\n(15) Mitchell: Tất nhiên, nhưng trước hết con rửa bát đĩa đã!",
+      "word_count": 197,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.21",
+        "a2.22",
+        "a2.23",
+        "a2.24"
+      ]
+    },
+    {
+      "id": "passage_u06_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Bài review một nhà hàng mới trên phố Pine"
+      },
+      "narrator": "Paula Grant",
+      "title": "New on Pine Street: The Blue Lemon",
+      "category": "review",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 100,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "New on Pine Street: The Blue Lemon",
+            "vi": "Mới trên phố Pine: nhà hàng The Blue Lemon"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last Friday, my husband and I tried The Blue Lemon, the new seafood restaurant on Pine Street, across from Sunny Days Gift Shop.",
+            "vi": "Thứ Sáu tuần trước, chồng tôi và tôi đã ăn thử The Blue Lemon, nhà hàng hải sản mới mở trên phố Pine, đối diện cửa hàng quà tặng Sunny Days."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The menu is short, but everything on it is fresh, and the chef makes the pasta by hand every morning.",
+            "vi": "Thực đơn ngắn, nhưng món nào cũng tươi, và đầu bếp tự tay làm mì mỗi sáng."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For the main course, I had grilled fish with rice and lemon sauce for eighteen dollars.",
+            "vi": "Món chính, tôi gọi cá nướng ăn với cơm và sốt chanh, giá mười tám đô."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was simple but perfect.",
+            "vi": "Món đó đơn giản mà hoàn hảo."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My husband ordered the seafood spaghetti for sixteen dollars.",
+            "vi": "Chồng tôi gọi mì spaghetti hải sản, giá mười sáu đô."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He loved the fish in it, but the sauce had too much chili, and he drank three glasses of water!",
+            "vi": "Anh ấy mê phần cá trong món, nhưng sốt lại quá nhiều ớt, và anh ấy uống liền ba cốc nước!"
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The service was friendly but slow.",
+            "vi": "Phục vụ thân thiện nhưng chậm."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We waited forty minutes for our food, and there were no napkins, so we had to ask twice.",
+            "vi": "Chúng tôi chờ bốn mươi phút mới có đồ ăn, và bàn không có khăn ăn nào, nên chúng tôi phải hỏi tới hai lần."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For dessert, there are three choices, and none of them is too sweet.",
+            "vi": "Về tráng miệng, có ba lựa chọn, và chẳng món nào quá ngọt."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I had a piece of lemon cake for seven dollars, and it was the best part of the evening.",
+            "vi": "Tôi gọi một miếng bánh chanh giá bảy đô, và đó là phần tuyệt nhất của buổi tối."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The restaurant does not split the bill, so groups should bring one card.",
+            "vi": "Nhà hàng không chia hoá đơn, nên đi nhóm thì nên mang theo một thẻ để trả chung."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I give The Blue Lemon four stars out of five, and I will go back, but not on a busy Friday night.",
+            "vi": "Tôi cho The Blue Lemon bốn sao trên năm, và tôi sẽ quay lại, nhưng không phải vào một tối thứ Sáu đông khách."
+          }
+        },
+        {
+          "n": 14,
+          "para": 7,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Paula Grant",
+            "vi": "Paula Grant"
+          }
+        }
+      ],
+      "content_ja": "New on Pine Street: The Blue Lemon\n\nLast Friday, my husband and I tried The Blue Lemon, the new seafood restaurant on Pine Street, across from Sunny Days Gift Shop. The menu is short, but everything on it is fresh, and the chef makes the pasta by hand every morning.\n\nFor the main course, I had grilled fish with rice and lemon sauce for eighteen dollars. It was simple but perfect. My husband ordered the seafood spaghetti for sixteen dollars. He loved the fish in it, but the sauce had too much chili, and he drank three glasses of water!\n\nThe service was friendly but slow. We waited forty minutes for our food, and there were no napkins, so we had to ask twice.\n\nFor dessert, there are three choices, and none of them is too sweet. I had a piece of lemon cake for seven dollars, and it was the best part of the evening.\n\nThe restaurant does not split the bill, so groups should bring one card. I give The Blue Lemon four stars out of five, and I will go back, but not on a busy Friday night.\n\nPaula Grant",
+      "translation_vn": "(1) Mới trên phố Pine: nhà hàng The Blue Lemon\n(2) Thứ Sáu tuần trước, chồng tôi và tôi đã ăn thử The Blue Lemon, nhà hàng hải sản mới mở trên phố Pine, đối diện cửa hàng quà tặng Sunny Days.\n(3) Thực đơn ngắn, nhưng món nào cũng tươi, và đầu bếp tự tay làm mì mỗi sáng.\n(4) Món chính, tôi gọi cá nướng ăn với cơm và sốt chanh, giá mười tám đô.\n(5) Món đó đơn giản mà hoàn hảo.\n(6) Chồng tôi gọi mì spaghetti hải sản, giá mười sáu đô.\n(7) Anh ấy mê phần cá trong món, nhưng sốt lại quá nhiều ớt, và anh ấy uống liền ba cốc nước!\n(8) Phục vụ thân thiện nhưng chậm.\n(9) Chúng tôi chờ bốn mươi phút mới có đồ ăn, và bàn không có khăn ăn nào, nên chúng tôi phải hỏi tới hai lần.\n(10) Về tráng miệng, có ba lựa chọn, và chẳng món nào quá ngọt.\n(11) Tôi gọi một miếng bánh chanh giá bảy đô, và đó là phần tuyệt nhất của buổi tối.\n(12) Nhà hàng không chia hoá đơn, nên đi nhóm thì nên mang theo một thẻ để trả chung.\n(13) Tôi cho The Blue Lemon bốn sao trên năm, và tôi sẽ quay lại, nhưng không phải vào một tối thứ Sáu đông khách.\n(14) Paula Grant",
+      "word_count": 193,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.21",
+        "a2.22",
+        "a2.23",
+        "a2.24"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u06_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "Which of these is in Harriet's vegetable soup?",
+        "vi": "Thứ nào dưới đây có trong món súp rau của bà Harriet?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "some chicken",
+            "vi": "một ít thịt gà"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "some chicken",
+          "text_translation": "một ít thịt gà"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a cup of rice",
+            "vi": "một cốc gạo"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a cup of rice",
+          "text_translation": "một cốc gạo"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a whole cup of salt",
+            "vi": "nguyên một cốc muối"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a whole cup of salt",
+          "text_translation": "nguyên một cốc muối"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a lot of chili",
+            "vi": "rất nhiều ớt"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a lot of chili",
+          "text_translation": "rất nhiều ớt"
+        }
+      ],
+      "evidence_segments": [
+        4,
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"No meat at all, just potatoes, tomatoes, an onion, a few carrots and a cup of rice.\" Súp không có thịt nên không có gà. \"A whole cup of salt\" là chuyện hồi nhỏ của Mitchell (câu 9), còn món này chỉ cho \"a little salt\" (câu 8). Nhiều ớt là món spaghetti ở bài 2."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "a cup of / a piece of / a bit of = đơn vị đếm. Phương án nhiễu hay giữ nguyên đơn vị (a cup of) nhưng đổi thứ bên trong (rice → salt)."
+      },
+      "question_jp": "Which of these is in Harriet's vegetable soup?",
+      "question_vn": "Thứ nào dưới đây có trong món súp rau của bà Harriet?",
+      "explanation": "\"No meat at all, just potatoes, tomatoes, an onion, a few carrots and a cup of rice.\" Súp không có thịt nên không có gà. \"A whole cup of salt\" là chuyện hồi nhỏ của Mitchell (câu 9), còn món này chỉ cho \"a little salt\" (câu 8). Nhiều ớt là món spaghetti ở bài 2.",
+      "tip": "a cup of / a piece of / a bit of = đơn vị đếm. Phương án nhiễu hay giữ nguyên đơn vị (a cup of) nhưng đổi thứ bên trong (rice → salt)."
+    },
+    {
+      "id": "q_u06_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "Mitchell says, \"Take one of the small ones.\" What does \"the small ones\" mean?",
+        "vi": "Mitchell nói: \"Take one of the small ones.\" \"the small ones\" có nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the small carrots",
+            "vi": "những củ cà rốt nhỏ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the small carrots",
+          "text_translation": "những củ cà rốt nhỏ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the small pieces",
+            "vi": "những miếng nhỏ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the small pieces",
+          "text_translation": "những miếng nhỏ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the small onions",
+            "vi": "những củ hành nhỏ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the small onions",
+          "text_translation": "những củ hành nhỏ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the small potatoes",
+            "vi": "những củ khoai tây nhỏ"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the small potatoes",
+          "text_translation": "những củ khoai tây nhỏ"
+        }
+      ],
+      "evidence_segments": [
+        6,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Trevor nói \"This potato is too big. Can I have another one?\" Mitchell đáp \"Take one of the small ones.\" Hai bố con đang nói về khoai tây, nên \"ones\" thay cho \"potatoes\" để không phải nhắc lại. Cà rốt và hành tây lúc này chưa được nhắc tới trong lượt nói, còn bài không nói tới miếng nhỏ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "one / ones thay cho danh từ vừa nhắc ngay trước để khỏi lặp lại: another one = another potato, the small ones = the small potatoes."
+      },
+      "question_jp": "Mitchell says, \"Take one of the small ones.\" What does \"the small ones\" mean?",
+      "question_vn": "Mitchell nói: \"Take one of the small ones.\" \"the small ones\" có nghĩa là gì?",
+      "explanation": "Trevor nói \"This potato is too big. Can I have another one?\" Mitchell đáp \"Take one of the small ones.\" Hai bố con đang nói về khoai tây, nên \"ones\" thay cho \"potatoes\" để không phải nhắc lại. Cà rốt và hành tây lúc này chưa được nhắc tới trong lượt nói, còn bài không nói tới miếng nhỏ.",
+      "tip": "one / ones thay cho danh từ vừa nhắc ngay trước để khỏi lặp lại: another one = another potato, the small ones = the small potatoes."
+    },
+    {
+      "id": "q_u06_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "What does Harriet's advice about salt mean?",
+        "vi": "Lời khuyên về muối của bà Harriet có nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Put in only a little salt at first.",
+            "vi": "Lúc đầu chỉ cho một ít muối thôi."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Put in only a little salt at first.",
+          "text_translation": "Lúc đầu chỉ cho một ít muối thôi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Always put in a whole cup of salt.",
+            "vi": "Lúc nào cũng cho nguyên một cốc muối."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Always put in a whole cup of salt.",
+          "text_translation": "Lúc nào cũng cho nguyên một cốc muối."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Never put any salt in soup.",
+            "vi": "Không bao giờ cho muối vào súp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Never put any salt in soup.",
+          "text_translation": "Không bao giờ cho muối vào súp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Take the salt out of the soup later.",
+            "vi": "Lát sau vớt muối ra khỏi súp."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Take the salt out of the soup later.",
+          "text_translation": "Lát sau vớt muối ra khỏi súp."
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Now add a little salt, because Harriet says\" rằng muối thêm sau thì được, còn \"you can never take it out\". Thiếu muối thì thêm sau được, còn mặn quá thì không sửa được, nên lúc đầu chỉ cho ít. Bà không cấm cho muối, và chính câu nói bảo muối không bao giờ lấy ra được. Một cốc muối là lỗi của Mitchell hồi nhỏ: \"At your age, I put a whole cup of salt in my mom's soup!\""
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi về ý nghĩa một lời khuyên: đọc việc làm đi kèm (add a little salt) và lý do sau because."
+      },
+      "question_jp": "What does Harriet's advice about salt mean?",
+      "question_vn": "Lời khuyên về muối của bà Harriet có nghĩa là gì?",
+      "explanation": "\"Now add a little salt, because Harriet says\" rằng muối thêm sau thì được, còn \"you can never take it out\". Thiếu muối thì thêm sau được, còn mặn quá thì không sửa được, nên lúc đầu chỉ cho ít. Bà không cấm cho muối, và chính câu nói bảo muối không bao giờ lấy ra được. Một cốc muối là lỗi của Mitchell hồi nhỏ: \"At your age, I put a whole cup of salt in my mom's soup!\"",
+      "tip": "Câu hỏi về ý nghĩa một lời khuyên: đọc việc làm đi kèm (add a little salt) và lý do sau because."
+    },
+    {
+      "id": "q_u06_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "Why does Mitchell tell Trevor to use the oven gloves?",
+        "vi": "Vì sao Mitchell bảo Trevor đeo găng tay chịu nhiệt?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the potatoes are too big",
+            "vi": "vì khoai tây to quá"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because the potatoes are too big",
+          "text_translation": "vì khoai tây to quá"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because Trevor's hands are dirty",
+            "vi": "vì tay Trevor bẩn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because Trevor's hands are dirty",
+          "text_translation": "vì tay Trevor bẩn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the pot gets very hot",
+            "vi": "vì cái nồi sẽ rất nóng"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because the pot gets very hot",
+          "text_translation": "vì cái nồi sẽ rất nóng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because Biscuit is in the kitchen",
+            "vi": "vì Biscuit đang ở trong bếp"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because Biscuit is in the kitchen",
+          "text_translation": "vì Biscuit đang ở trong bếp"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Please use the oven gloves before you touch the pot, because it gets very hot.\" Lý do nằm ngay sau \"because\", và \"it\" là cái nồi. Khoai to là chuyện ở câu 6, rửa tay là lời dặn ở câu 5, còn Biscuit chỉ xuất hiện ở câu 13."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi Why? thường có đáp án ngay sau because / so trong câu. Các phương án nhiễu là chi tiết khác trong cùng bài."
+      },
+      "question_jp": "Why does Mitchell tell Trevor to use the oven gloves?",
+      "question_vn": "Vì sao Mitchell bảo Trevor đeo găng tay chịu nhiệt?",
+      "explanation": "\"Please use the oven gloves before you touch the pot, because it gets very hot.\" Lý do nằm ngay sau \"because\", và \"it\" là cái nồi. Khoai to là chuyện ở câu 6, rửa tay là lời dặn ở câu 5, còn Biscuit chỉ xuất hiện ở câu 13.",
+      "tip": "Câu hỏi Why? thường có đáp án ngay sau because / so trong câu. Các phương án nhiễu là chi tiết khác trong cùng bài."
+    },
+    {
+      "id": "q_u06_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u06_01",
+      "i18n": {
+        "en": "What probably happened to the other carrot?",
+        "vi": "Có lẽ chuyện gì đã xảy ra với củ cà rốt kia?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Trevor put it in the soup.",
+            "vi": "Trevor đã cho nó vào súp."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Trevor put it in the soup.",
+          "text_translation": "Trevor đã cho nó vào súp."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Mitchell put it in the bag.",
+            "vi": "Mitchell đã cất nó vào túi."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Mitchell put it in the bag.",
+          "text_translation": "Mitchell đã cất nó vào túi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Harriet took it to her café.",
+            "vi": "Bà Harriet đã mang nó về quán."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Harriet took it to her café.",
+          "text_translation": "Bà Harriet đã mang nó về quán."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Biscuit ate it.",
+            "vi": "Biscuit đã ăn mất nó."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Biscuit ate it.",
+          "text_translation": "Biscuit đã ăn mất nó."
+        }
+      ],
+      "evidence_segments": [
+        12,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng. Trevor hỏi \"Where is the other one?\", và Mitchell chỉ trả lời \"Look at Biscuit. He has a very orange smile!\" Cà rốt màu cam, nên miệng Biscuit màu cam nghĩa là nó vừa ăn củ cà rốt. Không ai nói Trevor đã cho vào súp hay Mitchell cất vào túi, còn bà Harriet không có mặt trong bếp."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận: ghép hai chi tiết. Ở đây \"the other one\" (củ cà rốt còn lại) + \"orange smile\" (miệng màu cam) → chú chó đã ăn."
+      },
+      "question_jp": "What probably happened to the other carrot?",
+      "question_vn": "Có lẽ chuyện gì đã xảy ra với củ cà rốt kia?",
+      "explanation": "Bài không nói thẳng. Trevor hỏi \"Where is the other one?\", và Mitchell chỉ trả lời \"Look at Biscuit. He has a very orange smile!\" Cà rốt màu cam, nên miệng Biscuit màu cam nghĩa là nó vừa ăn củ cà rốt. Không ai nói Trevor đã cho vào súp hay Mitchell cất vào túi, còn bà Harriet không có mặt trong bếp.",
+      "tip": "Câu suy luận: ghép hai chi tiết. Ở đây \"the other one\" (củ cà rốt còn lại) + \"orange smile\" (miệng màu cam) → chú chó đã ăn."
+    },
+    {
+      "id": "q_u06_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "What is this text?",
+        "vi": "Văn bản này là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a review of a new restaurant",
+            "vi": "một bài nhận xét về một nhà hàng mới"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "a review of a new restaurant",
+          "text_translation": "một bài nhận xét về một nhà hàng mới"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a menu with prices",
+            "vi": "một thực đơn có giá"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a menu with prices",
+          "text_translation": "một thực đơn có giá"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a recipe for seafood spaghetti",
+            "vi": "một công thức nấu spaghetti hải sản"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a recipe for seafood spaghetti",
+          "text_translation": "một công thức nấu spaghetti hải sản"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "an advertisement for a gift shop",
+            "vi": "một quảng cáo cho cửa hàng quà tặng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "an advertisement for a gift shop",
+          "text_translation": "một quảng cáo cho cửa hàng quà tặng"
+        }
+      ],
+      "evidence_segments": [
+        2,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Last Friday, my husband and I tried The Blue Lemon, the new seafood restaurant on Pine Street, across from Sunny Days Gift Shop.\" Người viết kể bữa ăn, khen chê từng phần rồi chấm điểm: \"I give The Blue Lemon four stars out of five\". Có giá món ăn nhưng không phải thực đơn; không có cách nấu; Sunny Days chỉ là mốc để chỉ đường."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Review (bài nhận xét) có ý kiến người viết (perfect, slow, the best part) và thường kết bằng điểm số / số sao."
+      },
+      "question_jp": "What is this text?",
+      "question_vn": "Văn bản này là gì?",
+      "explanation": "\"Last Friday, my husband and I tried The Blue Lemon, the new seafood restaurant on Pine Street, across from Sunny Days Gift Shop.\" Người viết kể bữa ăn, khen chê từng phần rồi chấm điểm: \"I give The Blue Lemon four stars out of five\". Có giá món ăn nhưng không phải thực đơn; không có cách nấu; Sunny Days chỉ là mốc để chỉ đường.",
+      "tip": "Review (bài nhận xét) có ý kiến người viết (perfect, slow, the best part) và thường kết bằng điểm số / số sao."
+    },
+    {
+      "id": "q_u06_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "How much did the writer's main course cost?",
+        "vi": "Món chính của người viết giá bao nhiêu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "sixteen dollars",
+            "vi": "mười sáu đô"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "sixteen dollars",
+          "text_translation": "mười sáu đô"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "seven dollars",
+            "vi": "bảy đô"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "seven dollars",
+          "text_translation": "bảy đô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "eighteen dollars",
+            "vi": "mười tám đô"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "eighteen dollars",
+          "text_translation": "mười tám đô"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "forty dollars",
+            "vi": "bốn mươi đô"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "forty dollars",
+          "text_translation": "bốn mươi đô"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"For the main course, I had grilled fish with rice and lemon sauce for eighteen dollars.\" Mười sáu đô là món spaghetti của chồng (câu 6), bảy đô là miếng bánh chanh tráng miệng (câu 11), còn \"forty\" là số phút phải chờ đồ ăn (câu 9)."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Bài có nhiều con số: đánh dấu mỗi số đi với món nào, của ai (I hay my husband)."
+      },
+      "question_jp": "How much did the writer's main course cost?",
+      "question_vn": "Món chính của người viết giá bao nhiêu?",
+      "explanation": "\"For the main course, I had grilled fish with rice and lemon sauce for eighteen dollars.\" Mười sáu đô là món spaghetti của chồng (câu 6), bảy đô là miếng bánh chanh tráng miệng (câu 11), còn \"forty\" là số phút phải chờ đồ ăn (câu 9).",
+      "tip": "Bài có nhiều con số: đánh dấu mỗi số đi với món nào, của ai (I hay my husband)."
+    },
+    {
+      "id": "q_u06_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "In \"there are three choices, and none of them is too sweet\", what does \"them\" mean?",
+        "vi": "Trong câu \"there are three choices, and none of them is too sweet\", \"them\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the napkins",
+            "vi": "những chiếc khăn ăn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the napkins",
+          "text_translation": "những chiếc khăn ăn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the three desserts",
+            "vi": "ba món tráng miệng"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "the three desserts",
+          "text_translation": "ba món tráng miệng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the glasses of water",
+            "vi": "những cốc nước"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the glasses of water",
+          "text_translation": "những cốc nước"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the groups",
+            "vi": "các nhóm khách"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the groups",
+          "text_translation": "các nhóm khách"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"For dessert, there are three choices, and none of them is too sweet.\" \"Them\" là ba lựa chọn tráng miệng; \"none of them is too sweet\" = không món nào quá ngọt. Khăn ăn ở câu 9, cốc nước ở câu 7, còn các nhóm khách ở câu 12 nên không thể là \"them\" trong câu 10."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "none of them = không cái nào trong số đó. Tìm danh từ số nhiều ngay trước trong cùng câu (three choices)."
+      },
+      "question_jp": "In \"there are three choices, and none of them is too sweet\", what does \"them\" mean?",
+      "question_vn": "Trong câu \"there are three choices, and none of them is too sweet\", \"them\" chỉ cái gì?",
+      "explanation": "\"For dessert, there are three choices, and none of them is too sweet.\" \"Them\" là ba lựa chọn tráng miệng; \"none of them is too sweet\" = không món nào quá ngọt. Khăn ăn ở câu 9, cốc nước ở câu 7, còn các nhóm khách ở câu 12 nên không thể là \"them\" trong câu 10.",
+      "tip": "none of them = không cái nào trong số đó. Tìm danh từ số nhiều ngay trước trong cùng câu (three choices)."
+    },
+    {
+      "id": "q_u06_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "Four friends want to pay for their own food with their own cards. What problem will they have at The Blue Lemon?",
+        "vi": "Bốn người bạn muốn ai ăn nấy trả, mỗi người một thẻ. Họ sẽ gặp rắc rối gì ở The Blue Lemon?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The restaurant will not split the bill for them.",
+            "vi": "Nhà hàng sẽ không chia hoá đơn cho họ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The restaurant will not split the bill for them.",
+          "text_translation": "Nhà hàng sẽ không chia hoá đơn cho họ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "There will be no napkins at all.",
+            "vi": "Sẽ hoàn toàn không có khăn ăn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "There will be no napkins at all.",
+          "text_translation": "Sẽ hoàn toàn không có khăn ăn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The menu will be too long for them.",
+            "vi": "Thực đơn sẽ quá dài với họ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The menu will be too long for them.",
+          "text_translation": "Thực đơn sẽ quá dài với họ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The chef will not make pasta.",
+            "vi": "Đầu bếp sẽ không làm mì."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The chef will not make pasta.",
+          "text_translation": "Đầu bếp sẽ không làm mì."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không kể về nhóm bốn người, nhưng suy ra được từ câu: \"The restaurant does not split the bill, so groups should bring one card.\" Muốn mỗi người trả phần mình tức là muốn chia hoá đơn, mà nhà hàng không làm việc đó. Thiếu khăn ăn chỉ là chuyện tối hôm đó, thực đơn thì \"short\", còn đầu bếp làm mì \"every morning\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận \"ai đó sẽ gặp chuyện gì\": đổi tình huống thành từ khoá trong bài (pay with their own cards = split the bill)."
+      },
+      "question_jp": "Four friends want to pay for their own food with their own cards. What problem will they have at The Blue Lemon?",
+      "question_vn": "Bốn người bạn muốn ai ăn nấy trả, mỗi người một thẻ. Họ sẽ gặp rắc rối gì ở The Blue Lemon?",
+      "explanation": "Bài không kể về nhóm bốn người, nhưng suy ra được từ câu: \"The restaurant does not split the bill, so groups should bring one card.\" Muốn mỗi người trả phần mình tức là muốn chia hoá đơn, mà nhà hàng không làm việc đó. Thiếu khăn ăn chỉ là chuyện tối hôm đó, thực đơn thì \"short\", còn đầu bếp làm mì \"every morning\".",
+      "tip": "Câu suy luận \"ai đó sẽ gặp chuyện gì\": đổi tình huống thành từ khoá trong bài (pay with their own cards = split the bill)."
+    },
+    {
+      "id": "q_u06_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u06_02",
+      "i18n": {
+        "en": "How does Paula feel about The Blue Lemon?",
+        "vi": "Paula cảm thấy thế nào về The Blue Lemon?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She did not like anything there.",
+            "vi": "Bà không thích thứ gì ở đó cả."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She did not like anything there.",
+          "text_translation": "Bà không thích thứ gì ở đó cả."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She thinks everything there is perfect.",
+            "vi": "Bà cho rằng mọi thứ ở đó đều hoàn hảo."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She thinks everything there is perfect.",
+          "text_translation": "Bà cho rằng mọi thứ ở đó đều hoàn hảo."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She likes it, but she has a few problems with it.",
+            "vi": "Bà thích nhà hàng, nhưng có vài điểm chưa hài lòng."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She likes it, but she has a few problems with it.",
+          "text_translation": "Bà thích nhà hàng, nhưng có vài điểm chưa hài lòng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She will never go back.",
+            "vi": "Bà sẽ không bao giờ quay lại."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She will never go back.",
+          "text_translation": "Bà sẽ không bao giờ quay lại."
+        }
+      ],
+      "evidence_segments": [
+        5,
+        8,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Paula khen món cá (\"simple but perfect\"), khen bánh chanh, nhưng chê \"The service was friendly but slow.\" Cuối bài bà viết \"I give The Blue Lemon four stars out of five, and I will go back, but not on a busy Friday night.\" Bốn sao và \"I will go back\" nghĩa là bà thích; năm sao mới là hoàn hảo; và bà không hề nói sẽ không quay lại."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi thái độ người viết: gom từ khen (perfect, the best part) và từ chê (slow, too much chili). Có cả khen lẫn chê + bốn sao = nhìn chung hài lòng."
+      },
+      "question_jp": "How does Paula feel about The Blue Lemon?",
+      "question_vn": "Paula cảm thấy thế nào về The Blue Lemon?",
+      "explanation": "Paula khen món cá (\"simple but perfect\"), khen bánh chanh, nhưng chê \"The service was friendly but slow.\" Cuối bài bà viết \"I give The Blue Lemon four stars out of five, and I will go back, but not on a busy Friday night.\" Bốn sao và \"I will go back\" nghĩa là bà thích; năm sao mới là hoàn hảo; và bà không hề nói sẽ không quay lại.",
+      "tip": "Câu hỏi thái độ người viết: gom từ khen (perfect, the best part) và từ chê (slow, too much chili). Có cả khen lẫn chê + bốn sao = nhìn chung hài lòng."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u06_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Hội thoại trong bếp: bố Mitchell dạy Trevor nấu súp rau",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u06_01",
+      "question_ids": [
+        "q_u06_001",
+        "q_u06_002",
+        "q_u06_003",
+        "q_u06_004",
+        "q_u06_005"
+      ]
+    },
+    {
+      "set_id": "set_u06_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Bài review một nhà hàng mới trên phố Pine",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u06_02",
+      "question_ids": [
+        "q_u06_006",
+        "q_u06_007",
+        "q_u06_008",
+        "q_u06_009",
+        "q_u06_010"
+      ]
+    }
+  ]
+}

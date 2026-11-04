@@ -1,0 +1,1406 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 20 — Learning and the future",
+      "vi": "Học tập và tương lai"
+    },
+    "title": "Unit 20 — Learning and the future",
+    "title_vn": "Học tập và tương lai",
+    "module_code": "57_u20",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A2",
+    "curriculum_unit": "a2.u20",
+    "curriculum_sheets": [
+      "a2.77",
+      "a2.78",
+      "a2.79",
+      "a2.80"
+    ],
+    "characters": [
+      "Tracy Carter",
+      "Trevor Carter",
+      "Tina Carter",
+      "Harriet Brooks",
+      "Biscuit"
+    ],
+    "story_time_i18n": {
+      "vi": "cuối tháng 8, năm 3 (bài 1: thư viết thứ Năm 22/8, hai ngày trước khi Tracy và Mitchell bay đi Washington thứ Bảy 24/8; lịch năm 3 theo mẫu năm 2024; Tracy 17 tuổi, sắp 18; \"you\" đã sống ở Maple Street được 2 năm; bài 2: bài lời khuyên chung cho sinh viên năm nhất)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "It takes + thời gian + to do, tính từ + giới từ (good at, afraid of, excited about, proud of), mix up / cross out / hand in, từ vựng học tập; thông tin cụ thể, ý chính, từ trong ngữ cảnh, quy chiếu, cảm xúc người viết, 4 câu suy luận (1 câu nối hai bài)",
+    "description_vn": "Thư chia tay Tracy gửi người hàng xóm (\"you\") hai ngày trước khi đi Washington học kỹ thuật: nhắc giao kèo học toán đổi tiếng Anh ở quán Harriet's, chuyện nhầm \"kitchen\" với \"chicken\", áo phông tặng bà Harriet, ngày đi biển; kế hoạch học tập; nhờ để ý Tina và Trevor (người giỏi toán sẽ thay Tracy kèm Trevor tối Chủ nhật). Bài 2: lời khuyên cho sinh viên năm nhất sống và học xa nhà (lập kế hoạch, ngủ đủ, học bằng ngôn ngữ mới, tìm bạn, gọi về nhà vào giờ cố định). 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 20 khoá A2 · phiếu `a2.77` – `a2.80` (học ngoại ngữ, thi cử, đi học xa nhà, mục tiêu học tập)."
+    },
+    "objective_i18n": {
+      "vi": "đọc thư chia tay Tracy gửi người hàng xóm trước khi đi Washington học đại học, và bài lời khuyên cho sinh viên năm nhất sống và học xa nhà; hiểu cấu trúc It takes + thời gian + to do (it takes four years to finish, It takes time to adjust to a new place), tính từ + giới từ (good at, afraid of, excited about, proud of), cụm động từ mix up, cross out, hand in và từ vựng học tập; tìm chi tiết, nắm ý chính, đoán nghĩa từ trong ngữ cảnh, hiểu it chỉ gì, nhận ra cảm xúc người viết và suy ra điều bài không nói thẳng, kể cả khi nối hai bài."
+    },
+    "extra_words": [
+      {
+        "word": "pound",
+        "i18n": {
+          "vi": "pao (đơn vị cân nặng, khoảng 0,45 kg)"
+        }
+      },
+      {
+        "word": "proud (of)",
+        "i18n": {
+          "vi": "tự hào (về)"
+        }
+      },
+      {
+        "word": "favor",
+        "i18n": {
+          "vi": "việc nhờ giúp"
+        }
+      },
+      {
+        "word": "check on",
+        "i18n": {
+          "vi": "ghé xem, để ý (ai đó có ổn không)"
+        }
+      },
+      {
+        "word": "writing center",
+        "i18n": {
+          "vi": "trung tâm hỗ trợ kỹ năng viết của trường"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "It takes four years to finish.",
+          "vi": "Phải mất bốn năm mới học xong."
+        }
+      },
+      {
+        "i18n": {
+          "en": "I'm excited about my classes.",
+          "vi": "Mình háo hức với các lớp học."
+        }
+      },
+      {
+        "i18n": {
+          "en": "I'm a little afraid of…",
+          "vi": "Mình hơi sợ…"
+        }
+      },
+      {
+        "i18n": {
+          "en": "good at math",
+          "vi": "giỏi toán"
+        }
+      },
+      {
+        "i18n": {
+          "en": "hand in an essay",
+          "vi": "nộp bài luận"
+        }
+      },
+      {
+        "i18n": {
+          "en": "make sense in context",
+          "vi": "dễ hiểu khi nằm trong ngữ cảnh"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**It takes + thời gian + to do**: `it takes twenty minutes to walk to my classes` = đi bộ tới lớp mất hai mươi phút. Khi gặp câu hỏi How long…?, hãy tìm chữ takes trong bài: thời gian đứng ngay sau nó."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Tính từ + giới từ** đi thành cặp cố định: good **at**, afraid **of**, excited **about**, proud **of**. Câu hỏi về cảm xúc thường lấy đáp án từ chính những cặp này, nên đọc cả giới từ lẫn danh từ đứng sau (afraid of my first real winter = sợ mùa đông)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Cụm động từ **mix up** (nhầm lẫn), **cross out** (gạch bỏ), **hand in** (nộp bài) hay bị đánh tráo trong phương án nhiễu. Đoán nghĩa bằng ngữ cảnh: chuyện gì xảy ra trước và sau cụm đó."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài lời khuyên có tiêu đề từng mục (Plan your week, Sleep is studying, too…). Đọc tiêu đề để biết thông tin nằm ở đâu, rồi mới đọc kỹ câu trong mục."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu suy luận (vì sao ai đó làm gì, \"someone\" là ai, ai làm đúng lời khuyên, câu nối hai bài): bài không nói thẳng. Ghép hai câu trong bài lại với nhau, hoặc đặt từng phương án cạnh lời khuyên để loại phương án làm ngược."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u20_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Thư chia tay của Tracy trước khi đi Washington"
+      },
+      "narrator": "Tracy",
+      "title": "Before I Go",
+      "category": "letter",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 150,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Before I Go",
+            "vi": "Trước khi mình đi"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Thursday, August 22",
+            "vi": "Thứ Năm, ngày 22 tháng 8"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dear friend,",
+            "vi": "Bạn thân mến,"
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On Saturday, Dad and I are flying to Washington, and this time my suitcase is exactly fifty pounds.",
+            "vi": "Thứ Bảy này, bố và mình bay đi Washington, và lần này va li của mình nặng đúng năm mươi pao."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last October it was fifty-two and you laughed, so I checked it three times!",
+            "vi": "Hồi tháng Mười năm ngoái nó nặng năm mươi hai pao và bạn đã cười, nên lần này mình kiểm tra tới ba lần!"
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For two years, we had a deal: on Saturday mornings at Harriet's, you helped me with math, and I helped you with English.",
+            "vi": "Suốt hai năm qua, tụi mình có một giao kèo: các sáng thứ Bảy ở quán Harriet's, bạn giúp mình học toán, còn mình giúp bạn học tiếng Anh."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At first, you mixed up \"kitchen\" and \"chicken,\" and Harriet laughed so hard that she gave us free hot chocolate.",
+            "vi": "Lúc đầu, bạn nhầm lẫn \"kitchen\" (nhà bếp) với \"chicken\" (con gà), và bà Harriet cười nhiều tới mức tặng tụi mình sô-cô-la nóng miễn phí."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Now you even cross out my mistakes, and I'm really proud of you.",
+            "vi": "Giờ thì bạn còn gạch được cả lỗi sai của mình, và mình thật sự tự hào về bạn."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I also remember choosing the dog T-shirt for Harriet with you and Tina, and the beach day when Biscuit ate Trevor's sandwich.",
+            "vi": "Mình cũng nhớ hôm cùng bạn và Tina chọn chiếc áo phông in hình chó tặng bà Harriet, và cái ngày đi biển khi Biscuit ăn mất bánh mì kẹp của Trevor."
+          }
+        },
+        {
+          "n": 10,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I'm going to major in engineering, and it takes four years to finish.",
+            "vi": "Mình sẽ học chuyên ngành kỹ thuật, và phải mất bốn năm mới học xong."
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The campus is very big: it takes twenty minutes to walk to my classes!",
+            "vi": "Khuôn viên trường rộng lắm: đi bộ tới lớp mất tới hai mươi phút!"
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My main target is to pass every exam, but I also want to join a research team.",
+            "vi": "Mục tiêu chính của mình là qua hết các kỳ thi, nhưng mình cũng muốn tham gia một nhóm nghiên cứu."
+          }
+        },
+        {
+          "n": 13,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I'm excited about my classes, but I'm a little afraid of my first real winter.",
+            "vi": "Mình háo hức với các lớp học, nhưng cũng hơi sợ mùa đông thật sự đầu tiên của mình."
+          }
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Now, a favor: could you check on Tina and Trevor sometimes?",
+            "vi": "Giờ thì mình có một việc muốn nhờ: thỉnh thoảng bạn để ý giúp Tina và Trevor được không?"
+          }
+        },
+        {
+          "n": 15,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Trevor is good at soccer, but not at math, and on Sunday nights at nine he always shouts, \"Tracy, help!\"",
+            "vi": "Trevor giỏi đá bóng nhưng không giỏi toán, và cứ chín giờ tối Chủ nhật là em ấy lại hét lên: \"Chị Tracy ơi, cứu em!\""
+          }
+        },
+        {
+          "n": 16,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "From now on, nobody at home will answer.",
+            "vi": "Từ giờ, ở nhà sẽ không còn ai trả lời nữa."
+          }
+        },
+        {
+          "n": 17,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Luckily, I know someone on Maple Street who is good at math. You know who you are!",
+            "vi": "May mà mình biết một người ở phố Maple giỏi toán. Bạn biết đó là ai mà!"
+          }
+        },
+        {
+          "n": 18,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It only takes about five hours to fly home, so I'll see you for the winter holidays.",
+            "vi": "Bay về nhà chỉ mất khoảng năm tiếng thôi, nên kỳ nghỉ đông mình sẽ gặp lại bạn."
+          }
+        },
+        {
+          "n": 19,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Until then, I'll call Tina every Sunday, so you will hear all my news.",
+            "vi": "Từ giờ tới lúc đó, Chủ nhật nào mình cũng sẽ gọi cho Tina, nên bạn sẽ nghe được mọi tin tức của mình."
+          }
+        },
+        {
+          "n": 20,
+          "para": 10,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Love, Tracy",
+            "vi": "Thương bạn, Tracy"
+          }
+        }
+      ],
+      "content_ja": "Before I Go\n\nThursday, August 22\n\nDear friend,\n\nOn Saturday, Dad and I are flying to Washington, and this time my suitcase is exactly fifty pounds. Last October it was fifty-two and you laughed, so I checked it three times!\n\nFor two years, we had a deal: on Saturday mornings at Harriet's, you helped me with math, and I helped you with English. At first, you mixed up \"kitchen\" and \"chicken,\" and Harriet laughed so hard that she gave us free hot chocolate. Now you even cross out my mistakes, and I'm really proud of you.\n\nI also remember choosing the dog T-shirt for Harriet with you and Tina, and the beach day when Biscuit ate Trevor's sandwich.\n\nI'm going to major in engineering, and it takes four years to finish. The campus is very big: it takes twenty minutes to walk to my classes! My main target is to pass every exam, but I also want to join a research team. I'm excited about my classes, but I'm a little afraid of my first real winter.\n\nNow, a favor: could you check on Tina and Trevor sometimes?\n\nTrevor is good at soccer, but not at math, and on Sunday nights at nine he always shouts, \"Tracy, help!\" From now on, nobody at home will answer. Luckily, I know someone on Maple Street who is good at math. You know who you are!\n\nIt only takes about five hours to fly home, so I'll see you for the winter holidays. Until then, I'll call Tina every Sunday, so you will hear all my news.\n\nLove, Tracy",
+      "translation_vn": "(1) Trước khi mình đi\n(2) Thứ Năm, ngày 22 tháng 8\n(3) Bạn thân mến,\n(4) Thứ Bảy này, bố và mình bay đi Washington, và lần này va li của mình nặng đúng năm mươi pao.\n(5) Hồi tháng Mười năm ngoái nó nặng năm mươi hai pao và bạn đã cười, nên lần này mình kiểm tra tới ba lần!\n(6) Suốt hai năm qua, tụi mình có một giao kèo: các sáng thứ Bảy ở quán Harriet's, bạn giúp mình học toán, còn mình giúp bạn học tiếng Anh.\n(7) Lúc đầu, bạn nhầm lẫn \"kitchen\" (nhà bếp) với \"chicken\" (con gà), và bà Harriet cười nhiều tới mức tặng tụi mình sô-cô-la nóng miễn phí.\n(8) Giờ thì bạn còn gạch được cả lỗi sai của mình, và mình thật sự tự hào về bạn.\n(9) Mình cũng nhớ hôm cùng bạn và Tina chọn chiếc áo phông in hình chó tặng bà Harriet, và cái ngày đi biển khi Biscuit ăn mất bánh mì kẹp của Trevor.\n(10) Mình sẽ học chuyên ngành kỹ thuật, và phải mất bốn năm mới học xong.\n(11) Khuôn viên trường rộng lắm: đi bộ tới lớp mất tới hai mươi phút!\n(12) Mục tiêu chính của mình là qua hết các kỳ thi, nhưng mình cũng muốn tham gia một nhóm nghiên cứu.\n(13) Mình háo hức với các lớp học, nhưng cũng hơi sợ mùa đông thật sự đầu tiên của mình.\n(14) Giờ thì mình có một việc muốn nhờ: thỉnh thoảng bạn để ý giúp Tina và Trevor được không?\n(15) Trevor giỏi đá bóng nhưng không giỏi toán, và cứ chín giờ tối Chủ nhật là em ấy lại hét lên: \"Chị Tracy ơi, cứu em!\"\n(16) Từ giờ, ở nhà sẽ không còn ai trả lời nữa.\n(17) May mà mình biết một người ở phố Maple giỏi toán. Bạn biết đó là ai mà!\n(18) Bay về nhà chỉ mất khoảng năm tiếng thôi, nên kỳ nghỉ đông mình sẽ gặp lại bạn.\n(19) Từ giờ tới lúc đó, Chủ nhật nào mình cũng sẽ gọi cho Tina, nên bạn sẽ nghe được mọi tin tức của mình.\n(20) Thương bạn, Tracy",
+      "word_count": 267,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.77",
+        "a2.78",
+        "a2.79",
+        "a2.80"
+      ]
+    },
+    {
+      "id": "passage_u20_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Lời khuyên cho sinh viên năm nhất sống và học xa nhà"
+      },
+      "narrator": "announcer",
+      "title": "Far From Home: Tips for Your First Year at University",
+      "category": "article",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 150,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Far From Home: Tips for Your First Year at University",
+            "vi": "Xa nhà: lời khuyên cho năm đầu đại học"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Your first year at university is exciting, but living far from home can be hard, especially at first.",
+            "vi": "Năm đầu đại học thật háo hức, nhưng sống xa nhà có thể vất vả, đặc biệt là lúc mới đầu."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Plan your week",
+            "vi": "Lên kế hoạch cho tuần của bạn"
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every Sunday, make a simple plan: classes, study times, and the days when you have to hand in an essay.",
+            "vi": "Mỗi Chủ nhật, hãy lập một kế hoạch đơn giản: các lớp học, giờ tự học, và những ngày phải nộp bài luận."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It takes ten minutes and saves a lot of worry.",
+            "vi": "Việc đó mất mười phút và giúp bạn đỡ lo lắng rất nhiều."
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sleep is studying, too",
+            "vi": "Ngủ cũng là học"
+          }
+        },
+        {
+          "n": 7,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Don't stay up all night before an exam.",
+            "vi": "Đừng thức trắng đêm trước kỳ thi."
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Your brain needs sleep to remember what you learned, and most young adults need seven to nine hours a night.",
+            "vi": "Bộ não cần ngủ để ghi nhớ những gì bạn đã học, và đa số người trẻ cần ngủ từ bảy tới chín tiếng mỗi đêm."
+          }
+        },
+        {
+          "n": 9,
+          "para": 7,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Learning in a new language",
+            "vi": "Học bằng một ngôn ngữ mới"
+          }
+        },
+        {
+          "n": 10,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If you study in your second language, don't be afraid of mistakes: every learner makes them.",
+            "vi": "Nếu bạn học bằng ngôn ngữ thứ hai, đừng sợ mắc lỗi: người học nào cũng mắc lỗi."
+          }
+        },
+        {
+          "n": 11,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Keep a vocabulary notebook with an example sentence for each new expression, because words make more sense in context.",
+            "vi": "Hãy có một cuốn sổ từ vựng, ghi một câu ví dụ cho mỗi cụm từ mới, vì từ ngữ sẽ dễ hiểu hơn khi nằm trong ngữ cảnh."
+          }
+        },
+        {
+          "n": 12,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Listen to native speakers in class and in the cafeteria, and copy their pronunciation.",
+            "vi": "Hãy nghe người bản ngữ nói trong lớp và ở nhà ăn, rồi bắt chước cách phát âm của họ."
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many universities have a writing center, and it is usually free, so get help there before you hand in an essay.",
+            "vi": "Nhiều trường đại học có trung tâm hỗ trợ viết, và nơi đó thường miễn phí, nên hãy tới đó nhờ giúp trước khi nộp bài luận."
+          }
+        },
+        {
+          "n": 14,
+          "para": 9,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Find your people",
+            "vi": "Tìm những người hợp với mình"
+          }
+        },
+        {
+          "n": 15,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It takes time to adjust to a new place, and feeling lonely at first is normal.",
+            "vi": "Cần có thời gian để quen với một nơi mới, và thấy cô đơn lúc đầu là chuyện bình thường."
+          }
+        },
+        {
+          "n": 16,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Eat with people from your floor, keep your door open, and say yes when someone invites you.",
+            "vi": "Hãy ăn cùng những người ở chung tầng, để cửa phòng mở, và nhận lời khi có ai mời bạn."
+          }
+        },
+        {
+          "n": 17,
+          "para": 11,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Call home, but not too often",
+            "vi": "Gọi về nhà, nhưng đừng gọi quá nhiều"
+          }
+        },
+        {
+          "n": 18,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Your family wants to hear from you, so choose a regular time to call, for example every Sunday evening.",
+            "vi": "Gia đình muốn nghe tin bạn, nên hãy chọn một giờ cố định để gọi, ví dụ mỗi tối Chủ nhật."
+          }
+        },
+        {
+          "n": 19,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If you call home ten times a day, it can be harder to feel at home on campus.",
+            "vi": "Nếu ngày nào bạn cũng gọi về nhà mười lần, bạn có thể khó thấy thân thuộc với khuôn viên trường hơn."
+          }
+        },
+        {
+          "n": 20,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If you feel sad for a long time, visit the student health center: asking for help is smart.",
+            "vi": "Nếu bạn buồn trong một thời gian dài, hãy tới trung tâm y tế sinh viên: nhờ giúp đỡ là việc khôn ngoan."
+          }
+        }
+      ],
+      "content_ja": "Far From Home: Tips for Your First Year at University\n\nYour first year at university is exciting, but living far from home can be hard, especially at first.\n\nPlan your week\n\nEvery Sunday, make a simple plan: classes, study times, and the days when you have to hand in an essay. It takes ten minutes and saves a lot of worry.\n\nSleep is studying, too\n\nDon't stay up all night before an exam. Your brain needs sleep to remember what you learned, and most young adults need seven to nine hours a night.\n\nLearning in a new language\n\nIf you study in your second language, don't be afraid of mistakes: every learner makes them. Keep a vocabulary notebook with an example sentence for each new expression, because words make more sense in context. Listen to native speakers in class and in the cafeteria, and copy their pronunciation. Many universities have a writing center, and it is usually free, so get help there before you hand in an essay.\n\nFind your people\n\nIt takes time to adjust to a new place, and feeling lonely at first is normal. Eat with people from your floor, keep your door open, and say yes when someone invites you.\n\nCall home, but not too often\n\nYour family wants to hear from you, so choose a regular time to call, for example every Sunday evening. If you call home ten times a day, it can be harder to feel at home on campus. If you feel sad for a long time, visit the student health center: asking for help is smart.",
+      "translation_vn": "(1) Xa nhà: lời khuyên cho năm đầu đại học\n(2) Năm đầu đại học thật háo hức, nhưng sống xa nhà có thể vất vả, đặc biệt là lúc mới đầu.\n(3) Lên kế hoạch cho tuần của bạn\n(4) Mỗi Chủ nhật, hãy lập một kế hoạch đơn giản: các lớp học, giờ tự học, và những ngày phải nộp bài luận.\n(5) Việc đó mất mười phút và giúp bạn đỡ lo lắng rất nhiều.\n(6) Ngủ cũng là học\n(7) Đừng thức trắng đêm trước kỳ thi.\n(8) Bộ não cần ngủ để ghi nhớ những gì bạn đã học, và đa số người trẻ cần ngủ từ bảy tới chín tiếng mỗi đêm.\n(9) Học bằng một ngôn ngữ mới\n(10) Nếu bạn học bằng ngôn ngữ thứ hai, đừng sợ mắc lỗi: người học nào cũng mắc lỗi.\n(11) Hãy có một cuốn sổ từ vựng, ghi một câu ví dụ cho mỗi cụm từ mới, vì từ ngữ sẽ dễ hiểu hơn khi nằm trong ngữ cảnh.\n(12) Hãy nghe người bản ngữ nói trong lớp và ở nhà ăn, rồi bắt chước cách phát âm của họ.\n(13) Nhiều trường đại học có trung tâm hỗ trợ viết, và nơi đó thường miễn phí, nên hãy tới đó nhờ giúp trước khi nộp bài luận.\n(14) Tìm những người hợp với mình\n(15) Cần có thời gian để quen với một nơi mới, và thấy cô đơn lúc đầu là chuyện bình thường.\n(16) Hãy ăn cùng những người ở chung tầng, để cửa phòng mở, và nhận lời khi có ai mời bạn.\n(17) Gọi về nhà, nhưng đừng gọi quá nhiều\n(18) Gia đình muốn nghe tin bạn, nên hãy chọn một giờ cố định để gọi, ví dụ mỗi tối Chủ nhật.\n(19) Nếu ngày nào bạn cũng gọi về nhà mười lần, bạn có thể khó thấy thân thuộc với khuôn viên trường hơn.\n(20) Nếu bạn buồn trong một thời gian dài, hãy tới trung tâm y tế sinh viên: nhờ giúp đỡ là việc khôn ngoan.",
+      "word_count": 265,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.77",
+        "a2.78",
+        "a2.79",
+        "a2.80"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u20_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u20_01",
+      "i18n": {
+        "en": "What did Tracy and the reader do on Saturday mornings at Harriet's?",
+        "vi": "Tracy và người đọc thư làm gì vào các sáng thứ Bảy ở quán Harriet's?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They chose a T-shirt for Harriet.",
+            "vi": "Họ chọn một chiếc áo phông tặng bà Harriet."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They chose a T-shirt for Harriet.",
+          "text_translation": "Họ chọn một chiếc áo phông tặng bà Harriet."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They helped each other with math and English.",
+            "vi": "Họ giúp nhau học toán và tiếng Anh."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "They helped each other with math and English.",
+          "text_translation": "Họ giúp nhau học toán và tiếng Anh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They went to the beach with Biscuit.",
+            "vi": "Họ đi biển cùng Biscuit."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They went to the beach with Biscuit.",
+          "text_translation": "Họ đi biển cùng Biscuit."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They made hot chocolate for Harriet.",
+            "vi": "Họ pha sô-cô-la nóng cho bà Harriet."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They made hot chocolate for Harriet.",
+          "text_translation": "Họ pha sô-cô-la nóng cho bà Harriet."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Tracy viết: \"on Saturday mornings at Harriet's, you helped me with math, and I helped you with English.\" Vậy hai người giúp nhau học. Chọn áo phông (\"choosing the dog T-shirt for Harriet\") và đi biển (\"the beach day\") là những kỷ niệm khác, không phải việc mỗi sáng thứ Bảy. Sô-cô-la nóng là bà Harriet tặng hai người (\"she gave us free hot chocolate\"), không phải hai người pha cho bà."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi có mốc thời gian (on Saturday mornings) thì tìm đúng mốc đó trong bài. Phương án nhiễu thường là những kỷ niệm khác trong cùng bức thư."
+      },
+      "question_jp": "What did Tracy and the reader do on Saturday mornings at Harriet's?",
+      "question_vn": "Tracy và người đọc thư làm gì vào các sáng thứ Bảy ở quán Harriet's?",
+      "explanation": "Tracy viết: \"on Saturday mornings at Harriet's, you helped me with math, and I helped you with English.\" Vậy hai người giúp nhau học. Chọn áo phông (\"choosing the dog T-shirt for Harriet\") và đi biển (\"the beach day\") là những kỷ niệm khác, không phải việc mỗi sáng thứ Bảy. Sô-cô-la nóng là bà Harriet tặng hai người (\"she gave us free hot chocolate\"), không phải hai người pha cho bà.",
+      "tip": "Câu hỏi có mốc thời gian (on Saturday mornings) thì tìm đúng mốc đó trong bài. Phương án nhiễu thường là những kỷ niệm khác trong cùng bức thư."
+    },
+    {
+      "id": "q_u20_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u20_01",
+      "i18n": {
+        "en": "Why did Tracy check her suitcase three times?",
+        "vi": "Vì sao Tracy kiểm tra va li tới ba lần?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Her dad asked her to check it.",
+            "vi": "Bố bảo cô kiểm tra."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Her dad asked her to check it.",
+          "text_translation": "Bố bảo cô kiểm tra."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is too heavy again this year.",
+            "vi": "Năm nay nó lại quá nặng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is too heavy again this year.",
+          "text_translation": "Năm nay nó lại quá nặng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She is afraid of flying.",
+            "vi": "Cô sợ đi máy bay."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She is afraid of flying.",
+          "text_translation": "Cô sợ đi máy bay."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She didn't want it to be too heavy again, like last October.",
+            "vi": "Cô không muốn nó lại quá nặng như hồi tháng Mười năm ngoái."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She didn't want it to be too heavy again, like last October.",
+          "text_translation": "Cô không muốn nó lại quá nặng như hồi tháng Mười năm ngoái."
+        }
+      ],
+      "evidence_segments": [
+        4,
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng lý do, nhưng ta suy ra được. Tracy viết \"this time my suitcase is exactly fifty pounds\" rồi \"Last October it was fifty-two and you laughed, so I checked it three times!\" Lần trước va li nặng quá, nên lần này cô kiểm tra kỹ để không lặp lại chuyện đó. Va li lần này nặng đúng năm mươi pao, không quá nặng. Bài không nói bố bảo cô kiểm tra, cũng không nói cô sợ đi máy bay (cô chỉ sợ \"my first real winter\")."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Chữ so nối nguyên nhân và kết quả. Câu đứng trước so (lần trước va li nặng 52 pao) cho ta manh mối để hiểu việc làm đứng sau so."
+      },
+      "question_jp": "Why did Tracy check her suitcase three times?",
+      "question_vn": "Vì sao Tracy kiểm tra va li tới ba lần?",
+      "explanation": "Bài không nói thẳng lý do, nhưng ta suy ra được. Tracy viết \"this time my suitcase is exactly fifty pounds\" rồi \"Last October it was fifty-two and you laughed, so I checked it three times!\" Lần trước va li nặng quá, nên lần này cô kiểm tra kỹ để không lặp lại chuyện đó. Va li lần này nặng đúng năm mươi pao, không quá nặng. Bài không nói bố bảo cô kiểm tra, cũng không nói cô sợ đi máy bay (cô chỉ sợ \"my first real winter\").",
+      "tip": "Chữ so nối nguyên nhân và kết quả. Câu đứng trước so (lần trước va li nặng 52 pao) cho ta manh mối để hiểu việc làm đứng sau so."
+    },
+    {
+      "id": "q_u20_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u20_01",
+      "i18n": {
+        "en": "In \"At first, you mixed up 'kitchen' and 'chicken'\", what does \"mixed up\" mean?",
+        "vi": "Trong câu \"At first, you mixed up 'kitchen' and 'chicken'\", \"mixed up\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "used one word when you wanted the other one",
+            "vi": "dùng từ này trong khi muốn nói từ kia"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "used one word when you wanted the other one",
+          "text_translation": "dùng từ này trong khi muốn nói từ kia"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "cooked chicken in the kitchen",
+            "vi": "nấu món gà trong bếp"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "cooked chicken in the kitchen",
+          "text_translation": "nấu món gà trong bếp"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "crossed out both words",
+            "vi": "gạch bỏ cả hai từ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "crossed out both words",
+          "text_translation": "gạch bỏ cả hai từ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "wrote the words in capital letters",
+            "vi": "viết các từ bằng chữ in hoa"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "wrote the words in capital letters",
+          "text_translation": "viết các từ bằng chữ in hoa"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"kitchen\" (nhà bếp) và \"chicken\" (con gà) có cách phát âm gần giống nhau, và bà Harriet \"laughed so hard\". Người học nói nhầm từ này thành từ kia nên mới buồn cười như vậy. Mix up = nhầm lẫn hai thứ với nhau. Bài không nói về nấu ăn. \"cross out\" (gạch bỏ) là việc người đọc làm SAU NÀY với lỗi của Tracy (\"Now you even cross out my mistakes\"). Bài không nhắc tới chữ in hoa."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Đoán nghĩa từ trong ngữ cảnh: nhìn hai thứ được nối với nhau (kitchen và chicken nghe rất giống nhau) và phản ứng của người khác (bà Harriet bật cười)."
+      },
+      "question_jp": "In \"At first, you mixed up 'kitchen' and 'chicken'\", what does \"mixed up\" mean?",
+      "question_vn": "Trong câu \"At first, you mixed up 'kitchen' and 'chicken'\", \"mixed up\" nghĩa là gì?",
+      "explanation": "\"kitchen\" (nhà bếp) và \"chicken\" (con gà) có cách phát âm gần giống nhau, và bà Harriet \"laughed so hard\". Người học nói nhầm từ này thành từ kia nên mới buồn cười như vậy. Mix up = nhầm lẫn hai thứ với nhau. Bài không nói về nấu ăn. \"cross out\" (gạch bỏ) là việc người đọc làm SAU NÀY với lỗi của Tracy (\"Now you even cross out my mistakes\"). Bài không nhắc tới chữ in hoa.",
+      "tip": "Đoán nghĩa từ trong ngữ cảnh: nhìn hai thứ được nối với nhau (kitchen và chicken nghe rất giống nhau) và phản ứng của người khác (bà Harriet bật cười)."
+    },
+    {
+      "id": "q_u20_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u20_01",
+      "i18n": {
+        "en": "In \"Luckily, I know someone on Maple Street who is good at math\", who does Tracy mean?",
+        "vi": "Trong câu \"Luckily, I know someone on Maple Street who is good at math\", Tracy muốn nói tới ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet",
+            "vi": "bà Harriet"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Harriet",
+          "text_translation": "bà Harriet"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trevor",
+            "vi": "Trevor"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Trevor",
+          "text_translation": "Trevor"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the reader of the letter",
+            "vi": "người đọc bức thư"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "the reader of the letter",
+          "text_translation": "người đọc bức thư"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "her dad",
+            "vi": "bố của cô"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "her dad",
+          "text_translation": "bố của cô"
+        }
+      ],
+      "evidence_segments": [
+        6,
+        14,
+        15,
+        16,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nêu tên, nhưng ta suy ra được. Tracy nhắc lại \"you helped me with math\", nhờ người đọc \"check on Tina and Trevor\", rồi viết \"You know who you are!\". Vậy người giỏi toán chính là người đọc thư, người sẽ giúp Trevor thay Tracy. Trevor thì \"good at football, but not at math\". Tracy viết \"nobody at home will answer\", nên không phải ai trong nhà Carter, kể cả bố. Bức thư không nói bà Harriet giỏi toán."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Khi người viết \"giấu tên\" một người (someone… You know who you are!), hãy tìm trong bài ai đã làm đúng việc đó trước đây."
+      },
+      "question_jp": "In \"Luckily, I know someone on Maple Street who is good at math\", who does Tracy mean?",
+      "question_vn": "Trong câu \"Luckily, I know someone on Maple Street who is good at math\", Tracy muốn nói tới ai?",
+      "explanation": "Bài không nêu tên, nhưng ta suy ra được. Tracy nhắc lại \"you helped me with math\", nhờ người đọc \"check on Tina and Trevor\", rồi viết \"You know who you are!\". Vậy người giỏi toán chính là người đọc thư, người sẽ giúp Trevor thay Tracy. Trevor thì \"good at football, but not at math\". Tracy viết \"nobody at home will answer\", nên không phải ai trong nhà Carter, kể cả bố. Bức thư không nói bà Harriet giỏi toán.",
+      "tip": "Khi người viết \"giấu tên\" một người (someone… You know who you are!), hãy tìm trong bài ai đã làm đúng việc đó trước đây."
+    },
+    {
+      "id": "q_u20_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u20_01",
+      "i18n": {
+        "en": "How does Tracy feel about her first year at university?",
+        "vi": "Tracy cảm thấy thế nào về năm đầu đại học?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She feels only afraid and wants to stay in San Diego.",
+            "vi": "Cô chỉ thấy sợ và muốn ở lại San Diego."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She feels only afraid and wants to stay in San Diego.",
+          "text_translation": "Cô chỉ thấy sợ và muốn ở lại San Diego."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is excited, but a little worried about the cold weather.",
+            "vi": "Cô háo hức, nhưng hơi lo về thời tiết lạnh."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She is excited, but a little worried about the cold weather.",
+          "text_translation": "Cô háo hức, nhưng hơi lo về thời tiết lạnh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She is bored because the campus is very big.",
+            "vi": "Cô thấy chán vì khuôn viên trường quá rộng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She is bored because the campus is very big.",
+          "text_translation": "Cô thấy chán vì khuôn viên trường quá rộng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is sad because she can't call home.",
+            "vi": "Cô buồn vì không gọi về nhà được."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She is sad because she can't call home.",
+          "text_translation": "Cô buồn vì không gọi về nhà được."
+        }
+      ],
+      "evidence_segments": [
+        11,
+        12,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Tracy viết: \"I'm excited about my classes, but I'm a little afraid of my first real winter.\" Vậy cô háo hức nhưng cũng hơi lo về mùa đông. Cô không chỉ thấy sợ, và còn có mục tiêu rõ ràng (\"My main target is to pass every exam\"). Khuôn viên rộng (\"The campus is very big\") chỉ là một thông tin, không làm cô chán. Cô vẫn gọi về nhà: \"I'll call Tina every Sunday\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi cảm xúc: tìm tính từ đi với giới từ như excited about, afraid of, proud of. Chữ but cho biết người viết có hai cảm xúc khác nhau."
+      },
+      "question_jp": "How does Tracy feel about her first year at university?",
+      "question_vn": "Tracy cảm thấy thế nào về năm đầu đại học?",
+      "explanation": "Tracy viết: \"I'm excited about my classes, but I'm a little afraid of my first real winter.\" Vậy cô háo hức nhưng cũng hơi lo về mùa đông. Cô không chỉ thấy sợ, và còn có mục tiêu rõ ràng (\"My main target is to pass every exam\"). Khuôn viên rộng (\"The campus is very big\") chỉ là một thông tin, không làm cô chán. Cô vẫn gọi về nhà: \"I'll call Tina every Sunday\".",
+      "tip": "Câu hỏi cảm xúc: tìm tính từ đi với giới từ như excited about, afraid of, proud of. Chữ but cho biết người viết có hai cảm xúc khác nhau."
+    },
+    {
+      "id": "q_u20_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u20_02",
+      "i18n": {
+        "en": "What is the passage mainly about?",
+        "vi": "Đoạn văn chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how new university students can study well and feel at home far from their families",
+            "vi": "làm thế nào để sinh viên năm nhất học tốt và thấy thân thuộc khi xa gia đình"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "how new university students can study well and feel at home far from their families",
+          "text_translation": "làm thế nào để sinh viên năm nhất học tốt và thấy thân thuộc khi xa gia đình"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "how to choose the best university",
+            "vi": "cách chọn trường đại học tốt nhất"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "how to choose the best university",
+          "text_translation": "cách chọn trường đại học tốt nhất"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "why students should call home every day",
+            "vi": "vì sao sinh viên nên gọi về nhà mỗi ngày"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "why students should call home every day",
+          "text_translation": "vì sao sinh viên nên gọi về nhà mỗi ngày"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "how to pass a language exam",
+            "vi": "cách thi đỗ một kỳ thi ngoại ngữ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "how to pass a language exam",
+          "text_translation": "cách thi đỗ một kỳ thi ngoại ngữ"
+        }
+      ],
+      "evidence_segments": [
+        1,
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề là \"Far From Home: Tips for Your First Year at University\", và các mục nói về lập kế hoạch, ngủ, học bằng ngôn ngữ mới, tìm bạn và gọi về nhà. Bài không nói cách chọn trường. Bài khuyên ngược lại việc gọi về nhà mỗi ngày: \"If you call home ten times a day, it can be harder to feel at home on campus.\" Kỳ thi chỉ được nhắc tới ở mục ngủ, và bài không dạy cách thi ngoại ngữ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi ý chính: đọc tiêu đề và tiêu đề các mục. Phương án chỉ đúng với một mục nhỏ, hoặc nói ngược lời khuyên của bài, đều là phương án sai."
+      },
+      "question_jp": "What is the passage mainly about?",
+      "question_vn": "Đoạn văn chủ yếu nói về điều gì?",
+      "explanation": "Tiêu đề là \"Far From Home: Tips for Your First Year at University\", và các mục nói về lập kế hoạch, ngủ, học bằng ngôn ngữ mới, tìm bạn và gọi về nhà. Bài không nói cách chọn trường. Bài khuyên ngược lại việc gọi về nhà mỗi ngày: \"If you call home ten times a day, it can be harder to feel at home on campus.\" Kỳ thi chỉ được nhắc tới ở mục ngủ, và bài không dạy cách thi ngoại ngữ.",
+      "tip": "Câu hỏi ý chính: đọc tiêu đề và tiêu đề các mục. Phương án chỉ đúng với một mục nhỏ, hoặc nói ngược lời khuyên của bài, đều là phương án sai."
+    },
+    {
+      "id": "q_u20_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u20_02",
+      "i18n": {
+        "en": "Why does the passage say that sleep before an exam is important?",
+        "vi": "Vì sao đoạn văn nói rằng ngủ trước kỳ thi là quan trọng?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It takes only ten minutes.",
+            "vi": "Nó chỉ mất mười phút."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It takes only ten minutes.",
+          "text_translation": "Nó chỉ mất mười phút."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It helps you feel at home on campus.",
+            "vi": "Nó giúp bạn thấy thân thuộc với khuôn viên trường."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It helps you feel at home on campus.",
+          "text_translation": "Nó giúp bạn thấy thân thuộc với khuôn viên trường."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Your brain needs sleep to remember what you learned.",
+            "vi": "Bộ não cần ngủ để ghi nhớ những gì bạn đã học."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Your brain needs sleep to remember what you learned.",
+          "text_translation": "Bộ não cần ngủ để ghi nhớ những gì bạn đã học."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The student health center tells you to sleep.",
+            "vi": "Trung tâm y tế sinh viên bảo bạn đi ngủ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The student health center tells you to sleep.",
+          "text_translation": "Trung tâm y tế sinh viên bảo bạn đi ngủ."
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"Don't stay up all night before an exam. Your brain needs sleep to remember what you learned\". \"ten minutes\" là thời gian lập kế hoạch tuần (\"It takes ten minutes and saves a lot of worry\"). Cảm giác thân thuộc với trường được nói tới ở mục gọi về nhà. Trung tâm y tế sinh viên là nơi tới khi \"you feel sad for a long time\", không liên quan tới giấc ngủ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Tìm từ khoá của câu hỏi (sleep, exam) trong tiêu đề mục, rồi đọc câu ngay sau đó."
+      },
+      "question_jp": "Why does the passage say that sleep before an exam is important?",
+      "question_vn": "Vì sao đoạn văn nói rằng ngủ trước kỳ thi là quan trọng?",
+      "explanation": "\"Don't stay up all night before an exam. Your brain needs sleep to remember what you learned\". \"ten minutes\" là thời gian lập kế hoạch tuần (\"It takes ten minutes and saves a lot of worry\"). Cảm giác thân thuộc với trường được nói tới ở mục gọi về nhà. Trung tâm y tế sinh viên là nơi tới khi \"you feel sad for a long time\", không liên quan tới giấc ngủ.",
+      "tip": "Tìm từ khoá của câu hỏi (sleep, exam) trong tiêu đề mục, rồi đọc câu ngay sau đó."
+    },
+    {
+      "id": "q_u20_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u20_02",
+      "i18n": {
+        "en": "In \"and it is usually free\", what does \"it\" refer to?",
+        "vi": "Trong câu \"and it is usually free\", \"it\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "an essay",
+            "vi": "một bài luận"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "an essay",
+          "text_translation": "một bài luận"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the cafeteria",
+            "vi": "nhà ăn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the cafeteria",
+          "text_translation": "nhà ăn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a vocabulary notebook",
+            "vi": "một cuốn sổ từ vựng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a vocabulary notebook",
+          "text_translation": "một cuốn sổ từ vựng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a writing center",
+            "vi": "một trung tâm hỗ trợ viết"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "a writing center",
+          "text_translation": "một trung tâm hỗ trợ viết"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu đầy đủ là \"Many universities have a writing center, and it is usually free, so get help there before you hand in an essay.\" \"it\" chỉ danh từ ở vế trước: a writing center. Bài luận là thứ bạn mang tới đó nhờ giúp. Nhà ăn và sổ từ vựng nằm ở các câu khác."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Với it trong vế sau của câu có and / but, hãy nhìn danh từ chính ở vế trước. Thử thay danh từ đó vào chỗ it xem câu có hợp lý không."
+      },
+      "question_jp": "In \"and it is usually free\", what does \"it\" refer to?",
+      "question_vn": "Trong câu \"and it is usually free\", \"it\" chỉ cái gì?",
+      "explanation": "Câu đầy đủ là \"Many universities have a writing center, and it is usually free, so get help there before you hand in an essay.\" \"it\" chỉ danh từ ở vế trước: a writing center. Bài luận là thứ bạn mang tới đó nhờ giúp. Nhà ăn và sổ từ vựng nằm ở các câu khác.",
+      "tip": "Với it trong vế sau của câu có and / but, hãy nhìn danh từ chính ở vế trước. Thử thay danh từ đó vào chỗ it xem câu có hợp lý không."
+    },
+    {
+      "id": "q_u20_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u20_02",
+      "i18n": {
+        "en": "Which student is following the advice in the passage best?",
+        "vi": "Sinh viên nào đang làm theo lời khuyên trong đoạn văn tốt nhất?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a student who stays up all night before every exam to study more",
+            "vi": "một sinh viên thức trắng đêm trước mỗi kỳ thi để học thêm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a student who stays up all night before every exam to study more",
+          "text_translation": "một sinh viên thức trắng đêm trước mỗi kỳ thi để học thêm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a student who calls home ten times a day to feel less lonely",
+            "vi": "một sinh viên gọi về nhà mười lần một ngày cho đỡ cô đơn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a student who calls home ten times a day to feel less lonely",
+          "text_translation": "một sinh viên gọi về nhà mười lần một ngày cho đỡ cô đơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a student who keeps the door closed and eats alone",
+            "vi": "một sinh viên luôn đóng cửa phòng và ăn một mình"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a student who keeps the door closed and eats alone",
+          "text_translation": "một sinh viên luôn đóng cửa phòng và ăn một mình"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a student who sleeps eight hours and writes example sentences in a vocabulary notebook",
+            "vi": "một sinh viên ngủ tám tiếng và viết câu ví dụ vào sổ từ vựng"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "a student who sleeps eight hours and writes example sentences in a vocabulary notebook",
+          "text_translation": "một sinh viên ngủ tám tiếng và viết câu ví dụ vào sổ từ vựng"
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8,
+        11,
+        16,
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói về sinh viên nào cụ thể, nên ta phải đối chiếu từng người với lời khuyên. Tám tiếng nằm trong khoảng \"seven to nine hours a night\", và bài khuyên \"Keep a vocabulary notebook with an example sentence for each new expression\". Ba người còn lại làm ngược lời khuyên: \"Don't stay up all night before an exam\", \"If you call home ten times a day, it can be harder to feel at home on campus\", và \"Eat with people from your floor, keep your door open\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi áp dụng: lấy từng phương án đặt cạnh lời khuyên trong bài. Phương án nào làm NGƯỢC một lời khuyên thì loại."
+      },
+      "question_jp": "Which student is following the advice in the passage best?",
+      "question_vn": "Sinh viên nào đang làm theo lời khuyên trong đoạn văn tốt nhất?",
+      "explanation": "Bài không nói về sinh viên nào cụ thể, nên ta phải đối chiếu từng người với lời khuyên. Tám tiếng nằm trong khoảng \"seven to nine hours a night\", và bài khuyên \"Keep a vocabulary notebook with an example sentence for each new expression\". Ba người còn lại làm ngược lời khuyên: \"Don't stay up all night before an exam\", \"If you call home ten times a day, it can be harder to feel at home on campus\", và \"Eat with people from your floor, keep your door open\".",
+      "tip": "Câu hỏi áp dụng: lấy từng phương án đặt cạnh lời khuyên trong bài. Phương án nào làm NGƯỢC một lời khuyên thì loại."
+    },
+    {
+      "id": "q_u20_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u20_02",
+      "i18n": {
+        "en": "Which piece of advice in the passage is Tracy already planning to follow?",
+        "vi": "Tracy đã định làm theo lời khuyên nào trong đoạn văn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Get help at the writing center.",
+            "vi": "Nhờ giúp ở trung tâm hỗ trợ viết."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Get help at the writing center.",
+          "text_translation": "Nhờ giúp ở trung tâm hỗ trợ viết."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Keep a vocabulary notebook.",
+            "vi": "Có một cuốn sổ từ vựng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Keep a vocabulary notebook.",
+          "text_translation": "Có một cuốn sổ từ vựng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Choose a regular time to call home.",
+            "vi": "Chọn một giờ cố định để gọi về nhà."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Choose a regular time to call home.",
+          "text_translation": "Chọn một giờ cố định để gọi về nhà."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Eat with people from your floor.",
+            "vi": "Ăn cùng những người ở chung tầng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Eat with people from your floor.",
+          "text_translation": "Ăn cùng những người ở chung tầng."
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "Câu này nối hai bài đọc. Bài 2 khuyên: \"choose a regular time to call, for example every Sunday evening.\" Ở bài 1, Tracy viết: \"I'll call Tina every Sunday\". Vậy cô đã định gọi về nhà vào một giờ cố định. Thư của Tracy không nhắc tới trung tâm hỗ trợ viết, sổ từ vựng hay chuyện ăn cùng người ở chung tầng. Cô học bằng tiếng mẹ đẻ, nên phần \"Learning in a new language\" cũng không phải lời khuyên dành cho cô."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu nối hai bài: đọc từng lời khuyên ở bài 2, rồi tìm trong bài 1 xem nhân vật có nhắc tới việc giống như vậy không (every Sunday ↔ every Sunday evening)."
+      },
+      "question_jp": "Which piece of advice in the passage is Tracy already planning to follow?",
+      "question_vn": "Tracy đã định làm theo lời khuyên nào trong đoạn văn?",
+      "explanation": "Câu này nối hai bài đọc. Bài 2 khuyên: \"choose a regular time to call, for example every Sunday evening.\" Ở bài 1, Tracy viết: \"I'll call Tina every Sunday\". Vậy cô đã định gọi về nhà vào một giờ cố định. Thư của Tracy không nhắc tới trung tâm hỗ trợ viết, sổ từ vựng hay chuyện ăn cùng người ở chung tầng. Cô học bằng tiếng mẹ đẻ, nên phần \"Learning in a new language\" cũng không phải lời khuyên dành cho cô.",
+      "tip": "Câu nối hai bài: đọc từng lời khuyên ở bài 2, rồi tìm trong bài 1 xem nhân vật có nhắc tới việc giống như vậy không (every Sunday ↔ every Sunday evening)."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u20_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Thư chia tay của Tracy trước khi đi Washington",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u20_01",
+      "question_ids": [
+        "q_u20_001",
+        "q_u20_002",
+        "q_u20_003",
+        "q_u20_004",
+        "q_u20_005"
+      ]
+    },
+    {
+      "set_id": "set_u20_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Lời khuyên cho sinh viên năm nhất sống và học xa nhà",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u20_02",
+      "question_ids": [
+        "q_u20_006",
+        "q_u20_007",
+        "q_u20_008",
+        "q_u20_009",
+        "q_u20_010"
+      ]
+    }
+  ]
+}

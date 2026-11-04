@@ -1,0 +1,1234 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 8 — Food and drink",
+      "vi": "Đồ ăn, thức uống"
+    },
+    "title": "Unit 8 — Food and drink",
+    "title_vn": "Đồ ăn, thức uống",
+    "module_code": "56_u08",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A1",
+    "curriculum_unit": "a1.u08",
+    "curriculum_sheets": [
+      "a1.29",
+      "a1.30",
+      "a1.31",
+      "a1.32"
+    ],
+    "characters": [
+      "Chloe Bennett",
+      "Mitchell Carter",
+      "Tina Carter",
+      "Harriet Brooks",
+      "you"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 1, năm 2"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Gọi món với would like, How much / How many, đồ ăn đếm được và không đếm được, like / enjoy + V-ing, giá tiền",
+    "description_vn": "Chloe phục vụ Mitchell và Tina bữa trưa thứ Bảy, và thực đơn quán Harriet's. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 8 khoá A1 · phiếu `a1.29` – `a1.32` (thích và không thích đồ ăn, gọi món ở quán cà phê, How much / How many, các bữa trong ngày)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một đoạn hội thoại gọi món và một thực đơn; hiểu would like khi gọi món, How much (không đếm được) và How many (đếm được), like / enjoy + V-ing, giá tiền bằng đô la và tính tổng hai món."
+    },
+    "extra_words": [
+      {
+        "word": "café",
+        "i18n": {
+          "vi": "quán cà phê"
+        }
+      },
+      {
+        "word": "free",
+        "i18n": {
+          "vi": "miễn phí"
+        }
+      },
+      {
+        "word": "until",
+        "i18n": {
+          "vi": "cho đến (lúc)"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "What would you like?",
+          "vi": "Anh/chị dùng gì ạ? (người phục vụ hỏi khách)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "I would like …, please.",
+          "vi": "Cho tôi …, cảm ơn. (cách gọi món lịch sự)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a bowl of soup",
+          "vi": "một bát súp"
+        }
+      },
+      {
+        "i18n": {
+          "en": "just a little",
+          "vi": "chỉ một chút thôi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a lot of food",
+          "vi": "nhiều đồ ăn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Enjoy your meal!",
+          "vi": "Chúc ngon miệng!"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Hội thoại gọi món: đánh dấu **ai nói** từng lượt. Câu hỏi \"Who would like …?\" chỉ cần tìm đúng người nói câu `I would like …`."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Phân biệt **How much** (danh từ không đếm được: milk, sugar, water, hoặc hỏi giá) và **How many** (danh từ đếm được: pieces, eggs, cups). Câu trả lời của How many là một con số."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Người gọi món hay **đổi ý** giữa chừng. Đọc tới lượt cuối của người đó rồi mới chọn số lượng."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Thực đơn: đọc tên mục (Drinks, Breakfast, Lunch, Cakes) và giờ trong ngoặc trước, rồi mới đọc món và giá. Câu hỏi tính tiền thì ghi giá từng món ra nháp."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u08_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Gọi món ở quán Harriet's"
+      },
+      "title": "Saturday Lunch at Harriet's",
+      "category": "story",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 90,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Saturday Lunch at Harriet's",
+            "vi": "Bữa trưa thứ Bảy ở quán Harriet's"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "Hi, Mr. Carter! Hi, Tina! What would you like?",
+            "vi": "Chào chú Carter! Chào Tina! Hai bố con dùng gì ạ?"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "I would like a bowl of vegetable soup and a coffee, please.",
+            "vi": "Cho chú một bát súp rau và một cốc cà phê nhé."
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "And how much milk would you like in your coffee?",
+            "vi": "Vâng ạ. Thế chú muốn cho bao nhiêu sữa vào cà phê ạ?"
+          }
+        },
+        {
+          "n": 5,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "Just a little, please, and no sugar.",
+            "vi": "Chỉ một chút sữa thôi, và không đường nhé."
+          }
+        },
+        {
+          "n": 6,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "I don't like vegetables. I would like pizza and orange juice!",
+            "vi": "Con không thích rau đâu. Con muốn ăn pizza với uống nước cam!"
+          }
+        },
+        {
+          "n": 7,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "OK! How many pieces of pizza would you like?",
+            "vi": "Được thôi! Em muốn mấy miếng pizza nào?"
+          }
+        },
+        {
+          "n": 8,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "Three pieces! And a piece of chocolate cake, too!",
+            "vi": "Ba miếng ạ! Thêm một miếng bánh sô-cô-la nữa!"
+          }
+        },
+        {
+          "n": 9,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "Three pieces and the cake? That is a lot of food.",
+            "vi": "Ba miếng pizza với cả bánh nữa à? Nhiều đồ ăn quá đấy con."
+          }
+        },
+        {
+          "n": 10,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "OK. Two pieces and the cake, please.",
+            "vi": "Vâng ạ. Vậy hai miếng với cái bánh thôi ạ."
+          }
+        },
+        {
+          "n": 11,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "Dad, why do you always have the soup?",
+            "vi": "Bố ơi, sao lần nào bố cũng ăn súp thế?"
+          }
+        },
+        {
+          "n": 12,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": "Mitchell",
+          "label": null,
+          "i18n": {
+            "en": "I enjoy cooking on the weekend, and I want to make this soup at home!",
+            "vi": "Cuối tuần bố thích nấu ăn, mà bố muốn tự nấu được món súp này ở nhà!"
+          }
+        },
+        {
+          "n": 13,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "Ask Harriet after lunch. She loves cooking, too!",
+            "vi": "Thế thì ăn trưa xong chú hỏi bà Harriet đi ạ. Bà cũng mê nấu ăn lắm!"
+          }
+        }
+      ],
+      "content_ja": "Saturday Lunch at Harriet's\n\nChloe: Hi, Mr. Carter! Hi, Tina! What would you like?\n\nMitchell: I would like a bowl of vegetable soup and a coffee, please.\n\nChloe: And how much milk would you like in your coffee?\n\nMitchell: Just a little, please, and no sugar.\n\nTina: I don't like vegetables. I would like pizza and orange juice!\n\nChloe: OK! How many pieces of pizza would you like?\n\nTina: Three pieces! And a piece of chocolate cake, too!\n\nMitchell: Three pieces and the cake? That is a lot of food.\n\nTina: OK. Two pieces and the cake, please. Dad, why do you always have the soup?\n\nMitchell: I enjoy cooking on the weekend, and I want to make this soup at home!\n\nChloe: Ask Harriet after lunch. She loves cooking, too!",
+      "translation_vn": "(1) Bữa trưa thứ Bảy ở quán Harriet's\n(2) Chloe: Chào chú Carter! Chào Tina! Hai bố con dùng gì ạ?\n(3) Mitchell: Cho chú một bát súp rau và một cốc cà phê nhé.\n(4) Chloe: Vâng ạ. Thế chú muốn cho bao nhiêu sữa vào cà phê ạ?\n(5) Mitchell: Chỉ một chút sữa thôi, và không đường nhé.\n(6) Tina: Con không thích rau đâu. Con muốn ăn pizza với uống nước cam!\n(7) Chloe: Được thôi! Em muốn mấy miếng pizza nào?\n(8) Tina: Ba miếng ạ! Thêm một miếng bánh sô-cô-la nữa!\n(9) Mitchell: Ba miếng pizza với cả bánh nữa à? Nhiều đồ ăn quá đấy con.\n(10) Tina: Vâng ạ. Vậy hai miếng với cái bánh thôi ạ.\n(11) Tina: Bố ơi, sao lần nào bố cũng ăn súp thế?\n(12) Mitchell: Cuối tuần bố thích nấu ăn, mà bố muốn tự nấu được món súp này ở nhà!\n(13) Chloe: Thế thì ăn trưa xong chú hỏi bà Harriet đi ạ. Bà cũng mê nấu ăn lắm!",
+      "word_count": 120,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.29",
+        "a1.30",
+        "a1.31",
+        "a1.32"
+      ],
+      "narrator": "announcer"
+    },
+    {
+      "id": "passage_u08_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Thực đơn quán Harriet's"
+      },
+      "title": "Harriet's Café: Menu",
+      "category": "notice",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 90,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet's Café: Menu",
+            "vi": "Quán cà phê Harriet's: Thực đơn"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Drinks (all day): coffee or green tea, $2 a cup",
+            "vi": "Đồ uống (cả ngày): cà phê hoặc trà xanh, 2 đô một cốc"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Orange juice or apple juice, $3 a glass",
+            "vi": "Nước cam hoặc nước táo, 3 đô một cốc"
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hot chocolate with milk, $3 a cup, and a bottle of water, $1",
+            "vi": "Sô-cô-la nóng pha sữa, 3 đô một cốc; một chai nước, 1 đô"
+          }
+        },
+        {
+          "n": 5,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Breakfast (until 11 a.m.): two eggs with bread and butter, $6",
+            "vi": "Bữa sáng (đến 11 giờ sáng): hai quả trứng kèm bánh mì và bơ, 6 đô"
+          }
+        },
+        {
+          "n": 6,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Yogurt with banana, mango and grapes, $5",
+            "vi": "Sữa chua với chuối, xoài và nho, 5 đô"
+          }
+        },
+        {
+          "n": 7,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Lunch (from 11 a.m.): Harriet's vegetable soup, $5 a bowl",
+            "vi": "Bữa trưa (từ 11 giờ sáng): súp rau của bà Harriet, 5 đô một bát"
+          }
+        },
+        {
+          "n": 8,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Chicken sandwich with tomato and cheese, $7",
+            "vi": "Bánh mì kẹp thịt gà với cà chua và phô mai, 7 đô"
+          }
+        },
+        {
+          "n": 9,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Cheese pizza, $3 a piece",
+            "vi": "Pizza phô mai, 3 đô một miếng"
+          }
+        },
+        {
+          "n": 10,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Cakes (all day): chocolate cake, $4 a piece",
+            "vi": "Bánh ngọt (cả ngày): bánh sô-cô-la, 4 đô một miếng"
+          }
+        },
+        {
+          "n": 11,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Our vegetable soup has potato, tomato and rice in it, but no meat.",
+            "vi": "Súp rau của quán có khoai tây, cà chua và gạo, nhưng không có thịt."
+          }
+        },
+        {
+          "n": 12,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Kids under ten get a free ice cream with lunch!",
+            "vi": "Các bé dưới mười tuổi được tặng một cây kem khi ăn bữa trưa!"
+          }
+        },
+        {
+          "n": 13,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Enjoy your meal!",
+            "vi": "Chúc bạn ngon miệng!"
+          }
+        },
+        {
+          "n": 14,
+          "para": 13,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet",
+            "vi": "Harriet"
+          }
+        }
+      ],
+      "content_ja": "Harriet's Café: Menu\n\nDrinks (all day): coffee or green tea, $2 a cup\n\nOrange juice or apple juice, $3 a glass\n\nHot chocolate with milk, $3 a cup, and a bottle of water, $1\n\nBreakfast (until 11 a.m.): two eggs with bread and butter, $6\n\nYogurt with banana, mango and grapes, $5\n\nLunch (from 11 a.m.): Harriet's vegetable soup, $5 a bowl\n\nChicken sandwich with tomato and cheese, $7\n\nCheese pizza, $3 a piece\n\nCakes (all day): chocolate cake, $4 a piece\n\nOur vegetable soup has potato, tomato and rice in it, but no meat. Kids under ten get a free ice cream with lunch!\n\nEnjoy your meal!\n\nHarriet",
+      "translation_vn": "(1) Quán cà phê Harriet's: Thực đơn\n(2) Đồ uống (cả ngày): cà phê hoặc trà xanh, 2 đô một cốc\n(3) Nước cam hoặc nước táo, 3 đô một cốc\n(4) Sô-cô-la nóng pha sữa, 3 đô một cốc; một chai nước, 1 đô\n(5) Bữa sáng (đến 11 giờ sáng): hai quả trứng kèm bánh mì và bơ, 6 đô\n(6) Sữa chua với chuối, xoài và nho, 5 đô\n(7) Bữa trưa (từ 11 giờ sáng): súp rau của bà Harriet, 5 đô một bát\n(8) Bánh mì kẹp thịt gà với cà chua và phô mai, 7 đô\n(9) Pizza phô mai, 3 đô một miếng\n(10) Bánh ngọt (cả ngày): bánh sô-cô-la, 4 đô một miếng\n(11) Súp rau của quán có khoai tây, cà chua và gạo, nhưng không có thịt.\n(12) Các bé dưới mười tuổi được tặng một cây kem khi ăn bữa trưa!\n(13) Chúc bạn ngon miệng!\n(14) Harriet",
+      "word_count": 99,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.29",
+        "a1.30",
+        "a1.31",
+        "a1.32"
+      ],
+      "narrator": "Harriet"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u08_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u08_01",
+      "i18n": {
+        "en": "How does Mitchell like his coffee?",
+        "vi": "Mitchell muốn cà phê của mình thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "with a lot of milk",
+            "vi": "nhiều sữa"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "with a lot of milk",
+          "text_translation": "nhiều sữa"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "with a little milk and no sugar",
+            "vi": "một chút sữa, không đường"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "with a little milk and no sugar",
+          "text_translation": "một chút sữa, không đường"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "with milk and sugar",
+            "vi": "có sữa và đường"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "with milk and sugar",
+          "text_translation": "có sữa và đường"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "with no milk",
+            "vi": "không sữa"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "with no milk",
+          "text_translation": "không sữa"
+        }
+      ],
+      "evidence_segments": [
+        4,
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Chloe hỏi \"And how much milk would you like in your coffee?\" và Mitchell đáp \"Just a little, please, and no sugar.\" Mitchell có lấy sữa, nhưng chỉ một chút, nên \"a lot of milk\" và \"no milk\" đều sai. Mitchell nói rõ không đường, nên \"milk and sugar\" cũng sai."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "How much …? đi với danh từ không đếm được (milk, sugar, water). Câu trả lời hay là a little / a lot of, không phải một con số."
+      },
+      "question_jp": "How does Mitchell like his coffee?",
+      "question_vn": "Mitchell muốn cà phê của mình thế nào?",
+      "explanation": "Chloe hỏi \"And how much milk would you like in your coffee?\" và Mitchell đáp \"Just a little, please, and no sugar.\" Mitchell có lấy sữa, nhưng chỉ một chút, nên \"a lot of milk\" và \"no milk\" đều sai. Mitchell nói rõ không đường, nên \"milk and sugar\" cũng sai.",
+      "tip": "How much …? đi với danh từ không đếm được (milk, sugar, water). Câu trả lời hay là a little / a lot of, không phải một con số."
+    },
+    {
+      "id": "q_u08_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u08_01",
+      "i18n": {
+        "en": "Who would like orange juice?",
+        "vi": "Ai muốn uống nước cam?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Mitchell",
+            "vi": "Mitchell"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Mitchell",
+          "text_translation": "Mitchell"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Chloe",
+            "vi": "Chloe"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Chloe",
+          "text_translation": "Chloe"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tina",
+            "vi": "Tina"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Tina",
+          "text_translation": "Tina"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet",
+            "vi": "Bà Harriet"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet",
+          "text_translation": "Bà Harriet"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Tina nói \"I would like pizza and orange juice!\" Mitchell gọi cà phê (\"a coffee\"). Chloe là người phục vụ, không gọi món. Bà Harriet không có mặt trong cuộc nói chuyện, Chloe chỉ nhắc tới bà ở cuối bài."
+      },
+      "audio_data": null,
+      "question_jp": "Who would like orange juice?",
+      "question_vn": "Ai muốn uống nước cam?",
+      "explanation": "Tina nói \"I would like pizza and orange juice!\" Mitchell gọi cà phê (\"a coffee\"). Chloe là người phục vụ, không gọi món. Bà Harriet không có mặt trong cuộc nói chuyện, Chloe chỉ nhắc tới bà ở cuối bài."
+    },
+    {
+      "id": "q_u08_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u08_01",
+      "i18n": {
+        "en": "Why doesn't Tina order the vegetable soup?",
+        "vi": "Vì sao Tina không gọi súp rau?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She would like the cake.",
+            "vi": "Vì Tina muốn ăn bánh."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She would like the cake.",
+          "text_translation": "Vì Tina muốn ăn bánh."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Her dad has the soup.",
+            "vi": "Vì bố Tina đã gọi súp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Her dad has the soup.",
+          "text_translation": "Vì bố Tina đã gọi súp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Chloe says no.",
+            "vi": "Vì Chloe không cho."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Chloe says no.",
+          "text_translation": "Vì Chloe không cho."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She doesn't like vegetables.",
+            "vi": "Vì Tina không thích rau."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She doesn't like vegetables.",
+          "text_translation": "Vì Tina không thích rau."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Tina nói \"I don't like vegetables.\" ngay trước khi gọi pizza. Đúng là Tina muốn ăn bánh và bố Tina gọi súp, nhưng đó không phải lý do Tina không gọi súp. Chloe không hề nói \"no\" với Tina."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi Why …? ở A1: tìm câu nói ngay trước hoặc ngay sau việc được hỏi. Phương án đúng ý trong bài nhưng không trả lời \"vì sao\" vẫn là phương án sai."
+      },
+      "question_jp": "Why doesn't Tina order the vegetable soup?",
+      "question_vn": "Vì sao Tina không gọi súp rau?",
+      "explanation": "Tina nói \"I don't like vegetables.\" ngay trước khi gọi pizza. Đúng là Tina muốn ăn bánh và bố Tina gọi súp, nhưng đó không phải lý do Tina không gọi súp. Chloe không hề nói \"no\" với Tina.",
+      "tip": "Câu hỏi Why …? ở A1: tìm câu nói ngay trước hoặc ngay sau việc được hỏi. Phương án đúng ý trong bài nhưng không trả lời \"vì sao\" vẫn là phương án sai."
+    },
+    {
+      "id": "q_u08_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u08_01",
+      "i18n": {
+        "en": "How many pieces of pizza does Tina have for lunch?",
+        "vi": "Bữa trưa Tina ăn mấy miếng pizza?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "two",
+            "vi": "hai miếng"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "two",
+          "text_translation": "hai miếng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "three",
+            "vi": "ba miếng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "three",
+          "text_translation": "ba miếng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "one",
+            "vi": "một miếng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "one",
+          "text_translation": "một miếng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "four",
+            "vi": "bốn miếng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "four",
+          "text_translation": "bốn miếng"
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Lúc đầu Tina nói \"Three pieces!\", nhưng bố bảo \"That is a lot of food.\" Tina đổi lại: \"Two pieces and the cake, please.\" \"three\" là con số lúc đầu, chưa phải đơn cuối. Bài không có một miếng hay bốn miếng."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Trong hội thoại gọi món, người ta hay đổi ý giữa chừng. Con số nói đầu tiên chưa chắc là đáp án: luôn đọc tới lượt cuối của người đó rồi mới chọn."
+      },
+      "question_jp": "How many pieces of pizza does Tina have for lunch?",
+      "question_vn": "Bữa trưa Tina ăn mấy miếng pizza?",
+      "explanation": "Lúc đầu Tina nói \"Three pieces!\", nhưng bố bảo \"That is a lot of food.\" Tina đổi lại: \"Two pieces and the cake, please.\" \"three\" là con số lúc đầu, chưa phải đơn cuối. Bài không có một miếng hay bốn miếng.",
+      "tip": "Trong hội thoại gọi món, người ta hay đổi ý giữa chừng. Con số nói đầu tiên chưa chắc là đáp án: luôn đọc tới lượt cuối của người đó rồi mới chọn."
+    },
+    {
+      "id": "q_u08_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u08_01",
+      "i18n": {
+        "en": "Why does Mitchell always order the soup at Harriet's?",
+        "vi": "Vì sao lần nào đến quán Harriet's Mitchell cũng gọi súp?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He doesn't like pizza.",
+            "vi": "Vì Mitchell không thích pizza."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He doesn't like pizza.",
+          "text_translation": "Vì Mitchell không thích pizza."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He wants to make it at home.",
+            "vi": "Vì Mitchell muốn tự nấu món đó ở nhà."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "He wants to make it at home.",
+          "text_translation": "Vì Mitchell muốn tự nấu món đó ở nhà."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tina likes it.",
+            "vi": "Vì Tina thích món đó."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Tina likes it.",
+          "text_translation": "Vì Tina thích món đó."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet makes it for him.",
+            "vi": "Vì bà Harriet nấu riêng cho Mitchell."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet makes it for him.",
+          "text_translation": "Vì bà Harriet nấu riêng cho Mitchell."
+        }
+      ],
+      "evidence_segments": [
+        11,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Tina hỏi \"Dad, why do you always have the soup?\", Mitchell đáp \"I enjoy cooking on the weekend, and I want to make this soup at home!\" Mitchell mê nấu ăn nên gọi súp để học cách nấu. Bài không nói Mitchell không thích pizza. Tina thì không thích rau. Món súp ở quán dành cho mọi khách, không phải nấu riêng cho Mitchell."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "enjoy / love + V-ing: I enjoy cooking = tôi thích nấu ăn. Gặp cấu trúc này là gặp sở thích của nhân vật, đề hay hỏi lại bằng Why …?"
+      },
+      "question_jp": "Why does Mitchell always order the soup at Harriet's?",
+      "question_vn": "Vì sao lần nào đến quán Harriet's Mitchell cũng gọi súp?",
+      "explanation": "Tina hỏi \"Dad, why do you always have the soup?\", Mitchell đáp \"I enjoy cooking on the weekend, and I want to make this soup at home!\" Mitchell mê nấu ăn nên gọi súp để học cách nấu. Bài không nói Mitchell không thích pizza. Tina thì không thích rau. Món súp ở quán dành cho mọi khách, không phải nấu riêng cho Mitchell.",
+      "tip": "enjoy / love + V-ing: I enjoy cooking = tôi thích nấu ăn. Gặp cấu trúc này là gặp sở thích của nhân vật, đề hay hỏi lại bằng Why …?"
+    },
+    {
+      "id": "q_u08_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u08_02",
+      "i18n": {
+        "en": "How much is a bowl of Harriet's vegetable soup?",
+        "vi": "Một bát súp rau của bà Harriet giá bao nhiêu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "$3",
+            "vi": "3 đô"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "$3",
+          "text_translation": "3 đô"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "$4",
+            "vi": "4 đô"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "$4",
+          "text_translation": "4 đô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "$5",
+            "vi": "5 đô"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "$5",
+          "text_translation": "5 đô"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "$7",
+            "vi": "7 đô"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "$7",
+          "text_translation": "7 đô"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Harriet's vegetable soup, $5 a bowl\". 3 đô là giá một miếng pizza phô mai hoặc một cốc nước ép, 4 đô là giá một miếng bánh sô-cô-la, 7 đô là giá bánh mì kẹp thịt gà."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "How much is …? hỏi giá. Trong thực đơn, giá đứng ngay sau tên món; $5 đọc là five dollars."
+      },
+      "question_jp": "How much is a bowl of Harriet's vegetable soup?",
+      "question_vn": "Một bát súp rau của bà Harriet giá bao nhiêu?",
+      "explanation": "\"Harriet's vegetable soup, $5 a bowl\". 3 đô là giá một miếng pizza phô mai hoặc một cốc nước ép, 4 đô là giá một miếng bánh sô-cô-la, 7 đô là giá bánh mì kẹp thịt gà.",
+      "tip": "How much is …? hỏi giá. Trong thực đơn, giá đứng ngay sau tên món; $5 đọc là five dollars."
+    },
+    {
+      "id": "q_u08_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u08_02",
+      "i18n": {
+        "en": "Mitchell has a bowl of vegetable soup and a cup of coffee. How much is that?",
+        "vi": "Mitchell ăn một bát súp rau và uống một cốc cà phê. Tất cả hết bao nhiêu tiền?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "$5",
+            "vi": "5 đô"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "$5",
+          "text_translation": "5 đô"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "$2",
+            "vi": "2 đô"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "$2",
+          "text_translation": "2 đô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "$9",
+            "vi": "9 đô"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "$9",
+          "text_translation": "9 đô"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "$7",
+            "vi": "7 đô"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "$7",
+          "text_translation": "7 đô"
+        }
+      ],
+      "evidence_segments": [
+        2,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Thực đơn ghi \"coffee or green tea, $2 a cup\" và \"Harriet's vegetable soup, $5 a bowl\". 5 + 2 = 7 đô. 5 đô chỉ là tiền súp, 2 đô chỉ là tiền cà phê. 9 đô là cộng nhầm súp với miếng bánh sô-cô-la (5 + 4)."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi tính tổng: tìm giá từng món trong bài, ghi ra nháp rồi mới cộng. Phương án nhiễu thường là giá của một món lẻ."
+      },
+      "question_jp": "Mitchell has a bowl of vegetable soup and a cup of coffee. How much is that?",
+      "question_vn": "Mitchell ăn một bát súp rau và uống một cốc cà phê. Tất cả hết bao nhiêu tiền?",
+      "explanation": "Thực đơn ghi \"coffee or green tea, $2 a cup\" và \"Harriet's vegetable soup, $5 a bowl\". 5 + 2 = 7 đô. 5 đô chỉ là tiền súp, 2 đô chỉ là tiền cà phê. 9 đô là cộng nhầm súp với miếng bánh sô-cô-la (5 + 4).",
+      "tip": "Câu hỏi tính tổng: tìm giá từng món trong bài, ghi ra nháp rồi mới cộng. Phương án nhiễu thường là giá của một món lẻ."
+    },
+    {
+      "id": "q_u08_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u08_02",
+      "i18n": {
+        "en": "Which is NOT in Harriet's vegetable soup?",
+        "vi": "Thứ nào KHÔNG có trong súp rau của bà Harriet?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "meat",
+            "vi": "thịt"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "meat",
+          "text_translation": "thịt"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "potato",
+            "vi": "khoai tây"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "potato",
+          "text_translation": "khoai tây"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "tomato",
+            "vi": "cà chua"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "tomato",
+          "text_translation": "cà chua"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "rice",
+            "vi": "gạo"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "rice",
+          "text_translation": "gạo"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Our vegetable soup has potato, tomato and rice in it, but no meat.\" Khoai tây, cà chua và gạo đều có trong súp, chỉ có thịt là không."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi có NOT: ba phương án có trong bài, một phương án không. Tìm chữ but no / not trong câu để biết thứ bị loại ra."
+      },
+      "question_jp": "Which is NOT in Harriet's vegetable soup?",
+      "question_vn": "Thứ nào KHÔNG có trong súp rau của bà Harriet?",
+      "explanation": "\"Our vegetable soup has potato, tomato and rice in it, but no meat.\" Khoai tây, cà chua và gạo đều có trong súp, chỉ có thịt là không.",
+      "tip": "Câu hỏi có NOT: ba phương án có trong bài, một phương án không. Tìm chữ but no / not trong câu để biết thứ bị loại ra."
+    },
+    {
+      "id": "q_u08_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u08_02",
+      "i18n": {
+        "en": "You can order two eggs with bread and butter ______.",
+        "vi": "Bạn gọi được món hai quả trứng kèm bánh mì và bơ ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "from 11 a.m.",
+            "vi": "từ 11 giờ sáng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "from 11 a.m.",
+          "text_translation": "từ 11 giờ sáng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at lunch",
+            "vi": "vào bữa trưa"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "at lunch",
+          "text_translation": "vào bữa trưa"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "all day",
+            "vi": "cả ngày"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "all day",
+          "text_translation": "cả ngày"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "until 11 a.m.",
+            "vi": "đến 11 giờ sáng"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "until 11 a.m.",
+          "text_translation": "đến 11 giờ sáng"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Breakfast (until 11 a.m.): two eggs with bread and butter, $6\". Món trứng nằm trong mục bữa sáng, chỉ có đến 11 giờ sáng. \"from 11 a.m.\" và \"at lunch\" là giờ của bữa trưa, còn \"all day\" là giờ của đồ uống và bánh ngọt."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "until 11 a.m. = đến 11 giờ sáng thì hết; from 11 a.m. = bắt đầu từ 11 giờ sáng. Hai chữ nhỏ này đổi hẳn nghĩa của giờ."
+      },
+      "question_jp": "You can order two eggs with bread and butter ______.",
+      "question_vn": "Bạn gọi được món hai quả trứng kèm bánh mì và bơ ______.",
+      "explanation": "\"Breakfast (until 11 a.m.): two eggs with bread and butter, $6\". Món trứng nằm trong mục bữa sáng, chỉ có đến 11 giờ sáng. \"from 11 a.m.\" và \"at lunch\" là giờ của bữa trưa, còn \"all day\" là giờ của đồ uống và bánh ngọt.",
+      "tip": "until 11 a.m. = đến 11 giờ sáng thì hết; from 11 a.m. = bắt đầu từ 11 giờ sáng. Hai chữ nhỏ này đổi hẳn nghĩa của giờ."
+    },
+    {
+      "id": "q_u08_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u08_02",
+      "i18n": {
+        "en": "What do kids under ten get with lunch?",
+        "vi": "Các bé dưới mười tuổi được gì khi ăn bữa trưa?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a cup of hot chocolate",
+            "vi": "một cốc sô-cô-la nóng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a cup of hot chocolate",
+          "text_translation": "một cốc sô-cô-la nóng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a free ice cream",
+            "vi": "một cây kem miễn phí"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a free ice cream",
+          "text_translation": "một cây kem miễn phí"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a piece of cake",
+            "vi": "một miếng bánh"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a piece of cake",
+          "text_translation": "một miếng bánh"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a bottle of water",
+            "vi": "một chai nước"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a bottle of water",
+          "text_translation": "một chai nước"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"Kids under ten get a free ice cream with lunch!\" Sô-cô-la nóng (3 đô), bánh (4 đô) và chai nước (1 đô) đều là món phải trả tiền trong thực đơn."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Ghi chú cuối thực đơn hay có ưu đãi (free = miễn phí) và điều kiện (under ten = dưới mười tuổi). Đọc kỹ cả hai."
+      },
+      "question_jp": "What do kids under ten get with lunch?",
+      "question_vn": "Các bé dưới mười tuổi được gì khi ăn bữa trưa?",
+      "explanation": "\"Kids under ten get a free ice cream with lunch!\" Sô-cô-la nóng (3 đô), bánh (4 đô) và chai nước (1 đô) đều là món phải trả tiền trong thực đơn.",
+      "tip": "Ghi chú cuối thực đơn hay có ưu đãi (free = miễn phí) và điều kiện (under ten = dưới mười tuổi). Đọc kỹ cả hai."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u08_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Gọi món ở quán Harriet's",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u08_01",
+      "question_ids": [
+        "q_u08_001",
+        "q_u08_002",
+        "q_u08_003",
+        "q_u08_004",
+        "q_u08_005"
+      ]
+    },
+    {
+      "set_id": "set_u08_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Thực đơn quán Harriet's",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u08_02",
+      "question_ids": [
+        "q_u08_006",
+        "q_u08_007",
+        "q_u08_008",
+        "q_u08_009",
+        "q_u08_010"
+      ]
+    }
+  ]
+}

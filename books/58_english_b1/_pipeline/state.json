@@ -1,0 +1,110 @@
+{
+  "book_name": "58_english_b1",
+  "book_title_vn": "Đọc hiểu tiếng Anh B1 — Maple Street",
+  "pipeline_type": "english_reading",
+  "cefr_level": "B1",
+  "topic": "Sách bài tập đọc hiểu B1 (sách ôn) bám khoá tiếng Anh Hizashi, dàn nhân vật Maple Street; format VSTEP bậc 3",
+  "target_audience": "Người Việt ôn khoá B1 trên app Hizashi, chuẩn bị VSTEP bậc 3",
+  "domain_expert_role": "Giáo viên luyện thi VSTEP",
+  "current_stage": "done",
+  "stages": {
+    "01_research": {
+      "status": "done",
+      "output": "_pipeline/01_research.md",
+      "completed_at": "2026-11-03T07:51:07"
+    },
+    "02_outline": {
+      "status": "done",
+      "output": "_pipeline/02_outline.md",
+      "completed_at": "2026-11-03T07:51:07"
+    },
+    "03_draft": {
+      "status": "done",
+      "output": "_pipeline/02_outline.md",
+      "completed_at": "2026-11-03T07:51:07",
+      "note": "gộp vào outline"
+    },
+    "04_content": {
+      "status": "done",
+      "chapters_done": [
+        "u01",
+        "u02",
+        "u03",
+        "u04",
+        "u05",
+        "u06",
+        "u0708",
+        "u0910",
+        "u1112",
+        "u1314",
+        "u1516",
+        "u1718",
+        "u1920",
+        "mock1",
+        "u2122",
+        "u2324",
+        "u2526",
+        "u2728",
+        "u2930",
+        "u3132",
+        "u3334",
+        "u3536",
+        "u3738",
+        "u3940",
+        "mock2"
+      ],
+      "started_at": "2026-11-03T07:51:07"
+    },
+    "05_review": {
+      "status": "done"
+    },
+    "06_consistency": {
+      "status": "done",
+      "output": "_pipeline/06_consistency.md"
+    },
+    "07_council": {
+      "status": "done",
+      "output": "_pipeline/07_council.md",
+      "completed_at": "2026-11-04"
+    },
+    "08_finalize": {
+      "status": "done",
+      "output": "_pipeline/08_revision_log.md",
+      "completed_at": "2026-11-04"
+    }
+  },
+  "chapters": [
+    "u01",
+    "u02",
+    "u03",
+    "u04",
+    "u05",
+    "u06",
+    "u0708",
+    "u0910",
+    "u1112",
+    "u1314",
+    "u1516",
+    "u1718",
+    "u1920",
+    "mock1",
+    "u2122",
+    "u2324",
+    "u2526",
+    "u2728",
+    "u2930",
+    "u3132",
+    "u3334",
+    "u3536",
+    "u3738",
+    "u3940",
+    "mock2"
+  ],
+  "metadata": {
+    "started_at": "2026-11-03T07:51:07",
+    "last_action": "Viết xong u0910",
+    "note": "Từ u07 gộp 2 unit/chương (chủ nhà chọn phương án A để tiết kiệm token)",
+    "scope": "Chủ nhà chốt: series dừng ở B2 (C1 để đợt sau)",
+    "note_review": "Stage 05–08 (review) hoãn theo quyết định chủ nhà, làm sau khi xong B2"
+  }
+}

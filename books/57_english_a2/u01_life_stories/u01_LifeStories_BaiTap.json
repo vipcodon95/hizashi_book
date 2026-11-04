@@ -1,0 +1,1245 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 1 — Life stories",
+      "vi": "Câu chuyện cuộc đời"
+    },
+    "title": "Unit 1 — Life stories",
+    "title_vn": "Câu chuyện cuộc đời",
+    "module_code": "57_u01",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A2",
+    "curriculum_unit": "a2.u01",
+    "curriculum_sheets": [
+      "a2.01",
+      "a2.02",
+      "a2.03",
+      "a2.04"
+    ],
+    "characters": [
+      "Tina Carter",
+      "Harriet Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 9, năm 2 (đầu năm học, Tina vào lớp 3)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Quá khứ tiếp diễn, could, when / while / ago; mốc thời gian và tuổi trong tiểu sử, quy chiếu, suy ra lý do",
+    "description_vn": "Tina làm bài tập phỏng vấn bà Harriet về tuổi thơ ở thành phố Philadelphia và gần bốn mươi năm dạy lớp hai, rồi đọc một bài tiểu sử ngắn về Jane Goodall và loài tinh tinh ở Gombe. 2 bài đọc × 5 câu, 2 câu suy luận."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 1 khoá A2 · phiếu `a2.01` – `a2.04` (kể về tuổi thơ, cuộc đời người nổi tiếng, chuyện xảy ra khi nào, kỷ niệm thời đi học)."
+    },
+    "objective_i18n": {
+      "vi": "đọc bài phỏng vấn Tina làm với bà Harriet về tuổi thơ ở thành phố Philadelphia và những năm đi dạy, và một bài tiểu sử ngắn về nhà nghiên cứu tinh tinh Jane Goodall; hiểu quá khứ tiếp diễn (was helping … while … was cooking; was watching … when …), could / could not chỉ khả năng trong quá khứ, các từ chỉ thời gian when / while / ago / until / gradually / all of a sudden; theo dõi mốc năm, tự tính tuổi, tìm quy chiếu của it / there / them / mine, và suy ra lý do khi bài không viết because."
+    },
+    "extra_words": [
+      {
+        "word": "while",
+        "i18n": {
+          "vi": "trong khi, trong lúc"
+        }
+      },
+      {
+        "word": "born",
+        "i18n": {
+          "vi": "(be born) được sinh ra"
+        }
+      },
+      {
+        "word": "apartment",
+        "i18n": {
+          "vi": "căn hộ"
+        }
+      },
+      {
+        "word": "chimpanzee",
+        "i18n": {
+          "vi": "tinh tinh"
+        }
+      },
+      {
+        "word": "termite",
+        "i18n": {
+          "vi": "con mối"
+        }
+      },
+      {
+        "word": "stick",
+        "i18n": {
+          "vi": "cành cây nhỏ; que"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "spend your childhood (in …)",
+          "vi": "sống những năm thơ ấu (ở …)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "all of a sudden",
+          "vi": "bỗng nhiên, đột nhiên"
+        }
+      },
+      {
+        "i18n": {
+          "en": "bored with (someone / something)",
+          "vi": "chán (ai / cái gì)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take (the leaves) off",
+          "vi": "tuốt, gỡ (lá) ra khỏi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "look after",
+          "vi": "chăm lo, chăm sóc"
+        }
+      },
+      {
+        "i18n": {
+          "en": "last forever",
+          "vi": "còn mãi, tồn tại mãi mãi"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Quá khứ tiếp diễn **was / were + V-ing** là việc ĐANG diễn ra làm nền; quá khứ đơn là việc xen vào: `She was watching a chimpanzee … when he did something very surprising.` Với **while**, hai việc cùng diễn ra nhưng chủ ngữ có thể khác nhau, nên đọc kỹ ai làm gì."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**could / could not (couldn't)** = đã biết / chưa biết làm gì trong quá khứ. `could not swim until I was twelve` = mãi tới mười hai tuổi mới biết bơi. Câu hỏi về tuổi hay mốc thời gian thì gạch chân các con số đi cùng could."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài tiểu sử đi theo mốc năm: 1934 → 1957 → 1960 → 1977 → 2025. Câu hỏi về tuổi thường không có sẵn trong bài: lấy năm xảy ra sự việc trừ năm sinh."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi quy chiếu (it, there, them, mine): lùi về danh từ gần nhất hợp nghĩa, thay vào câu rồi đọc lại. Câu suy luận không có because: tìm hai câu đứng liền nhau nối bằng then / so."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u01_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Bài tập phỏng vấn của Tina: tuổi thơ của bà Harriet"
+      },
+      "narrator": "Tina",
+      "title": "My Interview with Grandma Harriet",
+      "category": "story",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 75,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My Interview with Grandma Harriet",
+            "vi": "Bài phỏng vấn bà Harriet"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last Monday, I interviewed Grandma Harriet for my homework.",
+            "vi": "Thứ Hai tuần trước, mình phỏng vấn bà Harriet để làm bài tập về nhà."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "Where did you spend your childhood?",
+            "vi": "Bà đã sống những năm thơ ấu ở đâu ạ?"
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "I grew up in Philadelphia, a big city in the East, and sixty years ago my family lived in a small apartment above a shoe shop.",
+            "vi": "Bà lớn lên ở Philadelphia, một thành phố lớn ở miền Đông, và sáu mươi năm trước nhà bà sống trong một căn hộ nhỏ ngay trên một cửa hàng giày."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "I could ride a bike at six, but I could not swim until I was twelve!",
+            "vi": "Bà biết đi xe đạp từ lúc sáu tuổi, nhưng mãi tới mười hai tuổi mới biết bơi!"
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "When did you want to be a teacher?",
+            "vi": "Bà muốn làm cô giáo từ khi nào ạ?"
+          }
+        },
+        {
+          "n": 7,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "One evening when I was a teenager, I was helping my little brother with his reading while Mom was cooking dinner.",
+            "vi": "Một buổi tối hồi bà còn là thiếu niên, bà đang kèm em trai tập đọc trong lúc mẹ bà nấu bữa tối."
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "All of a sudden, he read a full page with no help, and his face was so happy.",
+            "vi": "Bỗng nhiên, em ấy tự đọc hết cả một trang mà không cần ai giúp, và mặt em ấy vui ơi là vui."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "I knew it then: I wanted to be a teacher!",
+            "vi": "Ngay lúc đó bà biết: bà muốn làm cô giáo!"
+          }
+        },
+        {
+          "n": 10,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "Did you like your job?",
+            "vi": "Bà có thích công việc của mình không ạ?"
+          }
+        },
+        {
+          "n": 11,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "I loved it, and I taught second grade in San Diego for almost forty years.",
+            "vi": "Bà mê lắm, và bà dạy lớp hai ở San Diego gần bốn mươi năm."
+          }
+        },
+        {
+          "n": 12,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "My students were sometimes silly, but I was never bored with them.",
+            "vi": "Học trò của bà đôi khi ngớ ngẩn lắm, nhưng bà chưa bao giờ thấy chán chúng."
+          }
+        },
+        {
+          "n": 13,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Grandma Harriet's childhood was very different from mine, but we could both ride a bike at six!",
+            "vi": "Tuổi thơ của bà Harriet khác tuổi thơ của mình nhiều lắm, nhưng cả hai bà cháu đều biết đi xe đạp từ lúc sáu tuổi!"
+          }
+        }
+      ],
+      "content_ja": "My Interview with Grandma Harriet\n\nLast Monday, I interviewed Grandma Harriet for my homework.\n\nTina: Where did you spend your childhood?\n\nHarriet: I grew up in Philadelphia, a big city in the East, and sixty years ago my family lived in a small apartment above a shoe shop. I could ride a bike at six, but I could not swim until I was twelve!\n\nTina: When did you want to be a teacher?\n\nHarriet: One evening when I was a teenager, I was helping my little brother with his reading while Mom was cooking dinner. All of a sudden, he read a full page with no help, and his face was so happy. I knew it then: I wanted to be a teacher!\n\nTina: Did you like your job?\n\nHarriet: I loved it, and I taught second grade in San Diego for almost forty years. My students were sometimes silly, but I was never bored with them.\n\nGrandma Harriet's childhood was very different from mine, but we could both ride a bike at six!",
+      "translation_vn": "(1) Bài phỏng vấn bà Harriet\n(2) Thứ Hai tuần trước, mình phỏng vấn bà Harriet để làm bài tập về nhà.\n(3) Tina: Bà đã sống những năm thơ ấu ở đâu ạ?\n(4) Harriet: Bà lớn lên ở Philadelphia, một thành phố lớn ở miền Đông, và sáu mươi năm trước nhà bà sống trong một căn hộ nhỏ ngay trên một cửa hàng giày.\n(5) Harriet: Bà biết đi xe đạp từ lúc sáu tuổi, nhưng mãi tới mười hai tuổi mới biết bơi!\n(6) Tina: Bà muốn làm cô giáo từ khi nào ạ?\n(7) Harriet: Một buổi tối hồi bà còn là thiếu niên, bà đang kèm em trai tập đọc trong lúc mẹ bà nấu bữa tối.\n(8) Harriet: Bỗng nhiên, em ấy tự đọc hết cả một trang mà không cần ai giúp, và mặt em ấy vui ơi là vui.\n(9) Harriet: Ngay lúc đó bà biết: bà muốn làm cô giáo!\n(10) Tina: Bà có thích công việc của mình không ạ?\n(11) Harriet: Bà mê lắm, và bà dạy lớp hai ở San Diego gần bốn mươi năm.\n(12) Harriet: Học trò của bà đôi khi ngớ ngẩn lắm, nhưng bà chưa bao giờ thấy chán chúng.\n(13) Tuổi thơ của bà Harriet khác tuổi thơ của mình nhiều lắm, nhưng cả hai bà cháu đều biết đi xe đạp từ lúc sáu tuổi!",
+      "word_count": 168,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.01",
+        "a2.02",
+        "a2.03",
+        "a2.04"
+      ]
+    },
+    {
+      "id": "passage_u01_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Tiểu sử ngắn: Jane Goodall"
+      },
+      "narrator": "announcer",
+      "title": "The Life of Jane Goodall",
+      "category": "article",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 75,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Life of Jane Goodall",
+            "vi": "Cuộc đời của Jane Goodall"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The scientist Jane Goodall was born in London, England, in 1934.",
+            "vi": "Nhà khoa học Jane Goodall sinh năm 1934 ở London, nước Anh."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "As a child, she loved animals and books about Africa.",
+            "vi": "Từ nhỏ, bà đã yêu động vật và những cuốn sách về châu Phi."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In 1957, she traveled to Kenya.",
+            "vi": "Năm 1957, bà tới Kenya."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There, she met Louis Leakey, a well-known scientist, and he gave her a job.",
+            "vi": "Ở đó, bà gặp Louis Leakey, một nhà khoa học nổi tiếng, và ông nhận bà vào làm việc."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In July 1960, she arrived at Gombe, in today's Tanzania, to study chimpanzees.",
+            "vi": "Tháng 7 năm 1960, bà tới Gombe, nay thuộc Tanzania, để nghiên cứu loài tinh tinh."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At first, the chimpanzees ran away when they saw her, but she waited for months, and gradually they let her come near.",
+            "vi": "Lúc đầu, cứ thấy bà là lũ tinh tinh bỏ chạy, nhưng bà kiên nhẫn chờ suốt nhiều tháng, và dần dần chúng để cho bà lại gần."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Later that year, she was watching a chimpanzee, David Greybeard, when he did something very surprising.",
+            "vi": "Cuối năm đó, một hôm bà đang quan sát một con tinh tinh tên là David Greybeard (David Râu Xám) thì nó làm một việc hết sức bất ngờ."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He took the leaves off a thin stick and pushed it into a termite hill.",
+            "vi": "Nó tuốt hết lá khỏi một cành cây mảnh rồi chọc cành vào một ụ mối."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then he took it out and ate the termites on it!",
+            "vi": "Rồi nó rút cành ra và ăn lũ mối bám trên đó!"
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At that time, scientists said, \"Only people make tools,\" so Jane's news surprised many of them.",
+            "vi": "Thời đó, các nhà khoa học nói: \"Chỉ con người mới làm ra công cụ\", nên tin của Jane làm nhiều người trong số họ kinh ngạc."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In 1977, she started the Jane Goodall Institute to look after chimpanzees and their homes.",
+            "vi": "Năm 1977, bà lập ra Viện Jane Goodall để chăm lo cho loài tinh tinh và nơi sống của chúng."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In 2025, Jane Goodall died, aged ninety-one, but her work will last forever.",
+            "vi": "Năm 2025, Jane Goodall qua đời, thọ chín mươi mốt tuổi, nhưng công trình của bà sẽ còn mãi."
+          }
+        }
+      ],
+      "content_ja": "The Life of Jane Goodall\n\nThe scientist Jane Goodall was born in London, England, in 1934. As a child, she loved animals and books about Africa.\n\nIn 1957, she traveled to Kenya. There, she met Louis Leakey, a well-known scientist, and he gave her a job.\n\nIn July 1960, she arrived at Gombe, in today's Tanzania, to study chimpanzees. At first, the chimpanzees ran away when they saw her, but she waited for months, and gradually they let her come near.\n\nLater that year, she was watching a chimpanzee, David Greybeard, when he did something very surprising. He took the leaves off a thin stick and pushed it into a termite hill. Then he took it out and ate the termites on it! At that time, scientists said, \"Only people make tools,\" so Jane's news surprised many of them.\n\nIn 1977, she started the Jane Goodall Institute to look after chimpanzees and their homes. In 2025, Jane Goodall died, aged ninety-one, but her work will last forever.",
+      "translation_vn": "(1) Cuộc đời của Jane Goodall\n(2) Nhà khoa học Jane Goodall sinh năm 1934 ở London, nước Anh.\n(3) Từ nhỏ, bà đã yêu động vật và những cuốn sách về châu Phi.\n(4) Năm 1957, bà tới Kenya.\n(5) Ở đó, bà gặp Louis Leakey, một nhà khoa học nổi tiếng, và ông nhận bà vào làm việc.\n(6) Tháng 7 năm 1960, bà tới Gombe, nay thuộc Tanzania, để nghiên cứu loài tinh tinh.\n(7) Lúc đầu, cứ thấy bà là lũ tinh tinh bỏ chạy, nhưng bà kiên nhẫn chờ suốt nhiều tháng, và dần dần chúng để cho bà lại gần.\n(8) Cuối năm đó, một hôm bà đang quan sát một con tinh tinh tên là David Greybeard (David Râu Xám) thì nó làm một việc hết sức bất ngờ.\n(9) Nó tuốt hết lá khỏi một cành cây mảnh rồi chọc cành vào một ụ mối.\n(10) Rồi nó rút cành ra và ăn lũ mối bám trên đó!\n(11) Thời đó, các nhà khoa học nói: \"Chỉ con người mới làm ra công cụ\", nên tin của Jane làm nhiều người trong số họ kinh ngạc.\n(12) Năm 1977, bà lập ra Viện Jane Goodall để chăm lo cho loài tinh tinh và nơi sống của chúng.\n(13) Năm 2025, Jane Goodall qua đời, thọ chín mươi mốt tuổi, nhưng công trình của bà sẽ còn mãi.",
+      "word_count": 164,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.01",
+        "a2.02",
+        "a2.03",
+        "a2.04"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u01_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "Where did Harriet's family live in Philadelphia?",
+        "vi": "Ở Philadelphia, gia đình bà Harriet sống ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in a small apartment above a shoe shop",
+            "vi": "trong một căn hộ nhỏ ngay trên một cửa hàng giày"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "in a small apartment above a shoe shop",
+          "text_translation": "trong một căn hộ nhỏ ngay trên một cửa hàng giày"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "in a big house in San Diego",
+            "vi": "trong một ngôi nhà lớn ở San Diego"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "in a big house in San Diego",
+          "text_translation": "trong một ngôi nhà lớn ở San Diego"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "in a small village in the countryside",
+            "vi": "trong một ngôi làng nhỏ ở vùng quê"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "in a small village in the countryside",
+          "text_translation": "trong một ngôi làng nhỏ ở vùng quê"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "in an apartment above a book shop",
+            "vi": "trong một căn hộ ngay trên một hiệu sách"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "in an apartment above a book shop",
+          "text_translation": "trong một căn hộ ngay trên một hiệu sách"
+        }
+      ],
+      "evidence_segments": [
+        4,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"I grew up in Philadelphia, a big city in the East, and sixty years ago my family lived in a small apartment above a shoe shop.\" Bên dưới căn hộ là cửa hàng giày, không phải hiệu sách. San Diego là nơi bà dạy học sau này (\"I taught second grade in San Diego\"). Philadelphia là \"a big city\", không phải làng quê."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Phương án nhiễu hay chỉ đổi đúng một chữ (shoe shop → book shop). Đối chiếu từng chữ với câu trong bài trước khi chọn."
+      },
+      "question_jp": "Where did Harriet's family live in Philadelphia?",
+      "question_vn": "Ở Philadelphia, gia đình bà Harriet sống ở đâu?",
+      "explanation": "\"I grew up in Philadelphia, a big city in the East, and sixty years ago my family lived in a small apartment above a shoe shop.\" Bên dưới căn hộ là cửa hàng giày, không phải hiệu sách. San Diego là nơi bà dạy học sau này (\"I taught second grade in San Diego\"). Philadelphia là \"a big city\", không phải làng quê.",
+      "tip": "Phương án nhiễu hay chỉ đổi đúng một chữ (shoe shop → book shop). Đối chiếu từng chữ với câu trong bài trước khi chọn."
+    },
+    {
+      "id": "q_u01_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "What was Harriet doing when her brother read a full page?",
+        "vi": "Bà Harriet đang làm gì khi em trai bà tự đọc hết một trang?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She was cooking dinner.",
+            "vi": "Bà đang nấu bữa tối."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She was cooking dinner.",
+          "text_translation": "Bà đang nấu bữa tối."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She was riding a bike.",
+            "vi": "Bà đang đi xe đạp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She was riding a bike.",
+          "text_translation": "Bà đang đi xe đạp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She was helping him with his reading.",
+            "vi": "Bà đang kèm em tập đọc."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She was helping him with his reading.",
+          "text_translation": "Bà đang kèm em tập đọc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She was teaching second grade.",
+            "vi": "Bà đang dạy lớp hai."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She was teaching second grade.",
+          "text_translation": "Bà đang dạy lớp hai."
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"One evening when I was a teenager, I was helping my little brother with his reading while Mom was cooking dinner.\" Ngay sau đó: \"All of a sudden, he read a full page with no help\". Người nấu bữa tối là mẹ bà (\"while Mom was cooking dinner\"). Đi xe đạp là chuyện bà biết từ lúc sáu tuổi. Dạy lớp hai là việc bà làm sau này, khi đã lớn."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Quá khứ tiếp diễn (was helping, was cooking) là việc ĐANG diễn ra; quá khứ đơn (read) là việc xen vào. Với while, để ý chủ ngữ của từng vế: ai đang làm việc nào."
+      },
+      "question_jp": "What was Harriet doing when her brother read a full page?",
+      "question_vn": "Bà Harriet đang làm gì khi em trai bà tự đọc hết một trang?",
+      "explanation": "\"One evening when I was a teenager, I was helping my little brother with his reading while Mom was cooking dinner.\" Ngay sau đó: \"All of a sudden, he read a full page with no help\". Người nấu bữa tối là mẹ bà (\"while Mom was cooking dinner\"). Đi xe đạp là chuyện bà biết từ lúc sáu tuổi. Dạy lớp hai là việc bà làm sau này, khi đã lớn.",
+      "tip": "Quá khứ tiếp diễn (was helping, was cooking) là việc ĐANG diễn ra; quá khứ đơn (read) là việc xen vào. Với while, để ý chủ ngữ của từng vế: ai đang làm việc nào."
+    },
+    {
+      "id": "q_u01_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "Why did Harriet want to be a teacher?",
+        "vi": "Vì sao bà Harriet muốn làm cô giáo?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Her mom was a teacher, too.",
+            "vi": "Vì mẹ bà cũng là cô giáo."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Her mom was a teacher, too.",
+          "text_translation": "Vì mẹ bà cũng là cô giáo."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She liked second grade at her school.",
+            "vi": "Vì bà thích lớp hai ở trường mình hồi nhỏ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She liked second grade at her school.",
+          "text_translation": "Vì bà thích lớp hai ở trường mình hồi nhỏ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Her brother wanted to be a teacher.",
+            "vi": "Vì em trai bà muốn làm thầy giáo."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Her brother wanted to be a teacher.",
+          "text_translation": "Vì em trai bà muốn làm thầy giáo."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She loved the moment when her brother read a page with no help.",
+            "vi": "Vì bà rất thích khoảnh khắc em trai mình tự đọc được cả một trang."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She loved the moment when her brother read a page with no help.",
+          "text_translation": "Vì bà rất thích khoảnh khắc em trai mình tự đọc được cả một trang."
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng lý do, nhưng hai câu đi liền nhau: \"All of a sudden, he read a full page with no help, and his face was so happy.\" \"I knew it then: I wanted to be a teacher!\" Chữ \"then\" (ngay lúc đó) nối hai chuyện: thấy em mình tự đọc được và vui như thế, bà biết mình muốn dạy học. Bài không nói mẹ bà làm nghề gì: mẹ chỉ đang nấu bữa tối. Lớp hai là lớp bà DẠY sau này, không phải lớp bà thích hồi nhỏ. Bài không nói em trai muốn làm thầy giáo."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận: bài không có because. Hãy tìm hai câu đứng cạnh nhau, câu sau có then / so, rồi tự nối: chuyện ở câu trước dẫn tới mong muốn ở câu sau."
+      },
+      "question_jp": "Why did Harriet want to be a teacher?",
+      "question_vn": "Vì sao bà Harriet muốn làm cô giáo?",
+      "explanation": "Bài không nói thẳng lý do, nhưng hai câu đi liền nhau: \"All of a sudden, he read a full page with no help, and his face was so happy.\" \"I knew it then: I wanted to be a teacher!\" Chữ \"then\" (ngay lúc đó) nối hai chuyện: thấy em mình tự đọc được và vui như thế, bà biết mình muốn dạy học. Bài không nói mẹ bà làm nghề gì: mẹ chỉ đang nấu bữa tối. Lớp hai là lớp bà DẠY sau này, không phải lớp bà thích hồi nhỏ. Bài không nói em trai muốn làm thầy giáo.",
+      "tip": "Câu suy luận: bài không có because. Hãy tìm hai câu đứng cạnh nhau, câu sau có then / so, rồi tự nối: chuyện ở câu trước dẫn tới mong muốn ở câu sau."
+    },
+    {
+      "id": "q_u01_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "Harriet says, \"I was never bored with them.\" What does she mean?",
+        "vi": "Bà Harriet nói: \"I was never bored with them.\" Bà muốn nói gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Her students were always quiet.",
+            "vi": "Học trò của bà lúc nào cũng im lặng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Her students were always quiet.",
+          "text_translation": "Học trò của bà lúc nào cũng im lặng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She always found her students interesting.",
+            "vi": "Bà lúc nào cũng thấy học trò của mình thú vị."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She always found her students interesting.",
+          "text_translation": "Bà lúc nào cũng thấy học trò của mình thú vị."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She never taught silly students.",
+            "vi": "Bà chưa bao giờ dạy học trò ngớ ngẩn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She never taught silly students.",
+          "text_translation": "Bà chưa bao giờ dạy học trò ngớ ngẩn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She did not like her job.",
+            "vi": "Bà không thích công việc của mình."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She did not like her job.",
+          "text_translation": "Bà không thích công việc của mình."
+        }
+      ],
+      "evidence_segments": [
+        11,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"My students were sometimes silly, but I was never bored with them.\" \"bored with\" là chán ai / cái gì; \"never bored\" tức là lúc nào cũng thấy thú vị. \"them\" là \"my students\". Bài nói học trò \"sometimes silly\" (đôi khi ngớ ngẩn), nên \"never taught silly students\" là sai. Bài không nói học trò im lặng. Bà rất thích công việc của mình (\"I loved it!\")."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "bored with = chán (ai / cái gì). Đừng nhầm với boring (gây chán). Chữ but nối hai ý ngược nhau: học trò ngớ ngẩn, NHƯNG bà không chán."
+      },
+      "question_jp": "Harriet says, \"I was never bored with them.\" What does she mean?",
+      "question_vn": "Bà Harriet nói: \"I was never bored with them.\" Bà muốn nói gì?",
+      "explanation": "\"My students were sometimes silly, but I was never bored with them.\" \"bored with\" là chán ai / cái gì; \"never bored\" tức là lúc nào cũng thấy thú vị. \"them\" là \"my students\". Bài nói học trò \"sometimes silly\" (đôi khi ngớ ngẩn), nên \"never taught silly students\" là sai. Bài không nói học trò im lặng. Bà rất thích công việc của mình (\"I loved it!\").",
+      "tip": "bored with = chán (ai / cái gì). Đừng nhầm với boring (gây chán). Chữ but nối hai ý ngược nhau: học trò ngớ ngẩn, NHƯNG bà không chán."
+    },
+    {
+      "id": "q_u01_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u01_01",
+      "i18n": {
+        "en": "What does Tina say about Harriet's childhood and her own childhood?",
+        "vi": "Tina nói gì về tuổi thơ của bà Harriet và tuổi thơ của chính mình?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They are very different, but they could both ride a bike at six.",
+            "vi": "Rất khác nhau, nhưng cả hai đều biết đi xe đạp từ lúc sáu tuổi."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "They are very different, but they could both ride a bike at six.",
+          "text_translation": "Rất khác nhau, nhưng cả hai đều biết đi xe đạp từ lúc sáu tuổi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They are the same, because they both lived in Philadelphia.",
+            "vi": "Giống hệt nhau, vì cả hai đều sống ở Philadelphia."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They are the same, because they both lived in Philadelphia.",
+          "text_translation": "Giống hệt nhau, vì cả hai đều sống ở Philadelphia."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They are very different, because Tina could not swim until twelve.",
+            "vi": "Rất khác nhau, vì Tina mãi tới mười hai tuổi mới biết bơi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They are very different, because Tina could not swim until twelve.",
+          "text_translation": "Rất khác nhau, vì Tina mãi tới mười hai tuổi mới biết bơi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They are the same, because they both had a little brother.",
+            "vi": "Giống hệt nhau, vì cả hai đều có một em trai."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They are the same, because they both had a little brother.",
+          "text_translation": "Giống hệt nhau, vì cả hai đều có một em trai."
+        }
+      ],
+      "evidence_segments": [
+        5,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Grandma Harriet's childhood was very different from mine, but we could both ride a bike at six!\" \"mine\" là \"my childhood\", tức tuổi thơ của Tina. Tina nói hai tuổi thơ \"very different\", nên hai phương án \"the same\" đều sai. Người mười hai tuổi mới biết bơi là bà Harriet (\"I could not swim until I was twelve\"), không phải Tina."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "mine = my + danh từ vừa nói ngay trước đó (ở đây là my childhood). Câu kết của bài thường chứa ý chính hoặc ý kiến của người viết."
+      },
+      "question_jp": "What does Tina say about Harriet's childhood and her own childhood?",
+      "question_vn": "Tina nói gì về tuổi thơ của bà Harriet và tuổi thơ của chính mình?",
+      "explanation": "\"Grandma Harriet's childhood was very different from mine, but we could both ride a bike at six!\" \"mine\" là \"my childhood\", tức tuổi thơ của Tina. Tina nói hai tuổi thơ \"very different\", nên hai phương án \"the same\" đều sai. Người mười hai tuổi mới biết bơi là bà Harriet (\"I could not swim until I was twelve\"), không phải Tina.",
+      "tip": "mine = my + danh từ vừa nói ngay trước đó (ở đây là my childhood). Câu kết của bài thường chứa ý chính hoặc ý kiến của người viết."
+    },
+    {
+      "id": "q_u01_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "What happened when Jane was in Kenya?",
+        "vi": "Chuyện gì xảy ra khi Jane ở Kenya?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She studied chimpanzees at Gombe.",
+            "vi": "Bà nghiên cứu tinh tinh ở Gombe."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She studied chimpanzees at Gombe.",
+          "text_translation": "Bà nghiên cứu tinh tinh ở Gombe."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She met a well-known scientist, and he gave her a job.",
+            "vi": "Bà gặp một nhà khoa học nổi tiếng, và ông nhận bà vào làm."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She met a well-known scientist, and he gave her a job.",
+          "text_translation": "Bà gặp một nhà khoa học nổi tiếng, và ông nhận bà vào làm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She started the Jane Goodall Institute.",
+            "vi": "Bà lập ra Viện Jane Goodall."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She started the Jane Goodall Institute.",
+          "text_translation": "Bà lập ra Viện Jane Goodall."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She read books about Africa.",
+            "vi": "Bà đọc sách về châu Phi."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She read books about Africa.",
+          "text_translation": "Bà đọc sách về châu Phi."
+        }
+      ],
+      "evidence_segments": [
+        4,
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"In 1957, she traveled to Kenya.\" \"There, she met Louis Leakey, a well-known scientist, and he gave her a job.\" \"There\" là Kenya. Gombe nay thuộc Tanzania, và bà tới đó năm 1960. Viện Jane Goodall ra đời năm 1977. Đọc sách về châu Phi là chuyện hồi bà còn nhỏ (\"As a child\")."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "There / Then ở đầu câu thay cho địa điểm / thời điểm ở câu ngay trước. Thay \"There\" bằng \"In Kenya\" là thấy ngay đáp án."
+      },
+      "question_jp": "What happened when Jane was in Kenya?",
+      "question_vn": "Chuyện gì xảy ra khi Jane ở Kenya?",
+      "explanation": "\"In 1957, she traveled to Kenya.\" \"There, she met Louis Leakey, a well-known scientist, and he gave her a job.\" \"There\" là Kenya. Gombe nay thuộc Tanzania, và bà tới đó năm 1960. Viện Jane Goodall ra đời năm 1977. Đọc sách về châu Phi là chuyện hồi bà còn nhỏ (\"As a child\").",
+      "tip": "There / Then ở đầu câu thay cho địa điểm / thời điểm ở câu ngay trước. Thay \"There\" bằng \"In Kenya\" là thấy ngay đáp án."
+    },
+    {
+      "id": "q_u01_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "About how old was Jane when she arrived at Gombe?",
+        "vi": "Khi tới Gombe, Jane khoảng bao nhiêu tuổi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "about sixteen",
+            "vi": "khoảng mười sáu tuổi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "about sixteen",
+          "text_translation": "khoảng mười sáu tuổi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "about thirty-six",
+            "vi": "khoảng ba mươi sáu tuổi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "about thirty-six",
+          "text_translation": "khoảng ba mươi sáu tuổi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "about ninety-one",
+            "vi": "khoảng chín mươi mốt tuổi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "about ninety-one",
+          "text_translation": "khoảng chín mươi mốt tuổi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "about twenty-six",
+            "vi": "khoảng hai mươi sáu tuổi"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "about twenty-six",
+          "text_translation": "khoảng hai mươi sáu tuổi"
+        }
+      ],
+      "evidence_segments": [
+        2,
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không ghi tuổi, phải tự tính: \"The scientist Jane Goodall was born in London, England, in 1934.\" và \"In July 1960, she arrived at Gombe\". 1960 − 1934 = 26, nên khoảng hai mươi sáu tuổi. Mười sáu và ba mươi sáu là tính lệch mười năm. Chín mươi mốt là tuổi lúc bà mất (\"aged ninety-one\")."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi About how old…? thường bắt bạn lấy hai năm trong bài rồi trừ cho nhau: năm xảy ra sự việc trừ năm sinh."
+      },
+      "question_jp": "About how old was Jane when she arrived at Gombe?",
+      "question_vn": "Khi tới Gombe, Jane khoảng bao nhiêu tuổi?",
+      "explanation": "Bài không ghi tuổi, phải tự tính: \"The scientist Jane Goodall was born in London, England, in 1934.\" và \"In July 1960, she arrived at Gombe\". 1960 − 1934 = 26, nên khoảng hai mươi sáu tuổi. Mười sáu và ba mươi sáu là tính lệch mười năm. Chín mươi mốt là tuổi lúc bà mất (\"aged ninety-one\").",
+      "tip": "Câu hỏi About how old…? thường bắt bạn lấy hai năm trong bài rồi trừ cho nhau: năm xảy ra sự việc trừ năm sinh."
+    },
+    {
+      "id": "q_u01_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "\"He took the leaves off a thin stick and pushed it into a termite hill.\" What does \"it\" mean?",
+        "vi": "\"He took the leaves off a thin stick and pushed it into a termite hill.\" Chữ \"it\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the thin stick",
+            "vi": "cành cây mảnh"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the thin stick",
+          "text_translation": "cành cây mảnh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a leaf",
+            "vi": "một chiếc lá"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a leaf",
+          "text_translation": "một chiếc lá"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the termite hill",
+            "vi": "ụ mối"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the termite hill",
+          "text_translation": "ụ mối"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a toy chimpanzee",
+            "vi": "một con tinh tinh đồ chơi"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a toy chimpanzee",
+          "text_translation": "một con tinh tinh đồ chơi"
+        }
+      ],
+      "evidence_segments": [
+        9,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "David Greybeard tuốt lá khỏi \"a thin stick\", rồi chọc \"it\" vào ụ mối. Câu sau nói tiếp: \"Then he took it out and ate the termites on it!\" Thứ được chọc vào, rút ra, có mối bám lên chính là cành cây: đó là một công cụ. Lá đã bị tuốt bỏ (lại là số nhiều, \"the leaves\"). Không thể chọc ụ mối vào chính nó. Bài không nói tới con tinh tinh đồ chơi nào."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Tìm quy chiếu của it: lùi về danh từ số ít gần nhất, rồi thay vào câu xem có hợp lý không. \"pushed the stick into a termite hill\": hợp lý."
+      },
+      "question_jp": "\"He took the leaves off a thin stick and pushed it into a termite hill.\" What does \"it\" mean?",
+      "question_vn": "\"He took the leaves off a thin stick and pushed it into a termite hill.\" Chữ \"it\" chỉ cái gì?",
+      "explanation": "David Greybeard tuốt lá khỏi \"a thin stick\", rồi chọc \"it\" vào ụ mối. Câu sau nói tiếp: \"Then he took it out and ate the termites on it!\" Thứ được chọc vào, rút ra, có mối bám lên chính là cành cây: đó là một công cụ. Lá đã bị tuốt bỏ (lại là số nhiều, \"the leaves\"). Không thể chọc ụ mối vào chính nó. Bài không nói tới con tinh tinh đồ chơi nào.",
+      "tip": "Tìm quy chiếu của it: lùi về danh từ số ít gần nhất, rồi thay vào câu xem có hợp lý không. \"pushed the stick into a termite hill\": hợp lý."
+    },
+    {
+      "id": "q_u01_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "Why did Jane's news surprise scientists?",
+        "vi": "Vì sao tin của Jane làm các nhà khoa học kinh ngạc?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They believed that chimpanzees were not real animals.",
+            "vi": "Họ tin rằng tinh tinh không phải là động vật thật."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They believed that chimpanzees were not real animals.",
+          "text_translation": "Họ tin rằng tinh tinh không phải là động vật thật."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "For months, Jane waited.",
+            "vi": "Vì Jane chờ suốt nhiều tháng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "For months, Jane waited.",
+          "text_translation": "Vì Jane chờ suốt nhiều tháng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They believed that only people made tools.",
+            "vi": "Họ tin rằng chỉ con người mới làm ra công cụ."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "They believed that only people made tools.",
+          "text_translation": "Họ tin rằng chỉ con người mới làm ra công cụ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Chimpanzees ran away from people.",
+            "vi": "Tinh tinh bỏ chạy khi thấy người."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Chimpanzees ran away from people.",
+          "text_translation": "Tinh tinh bỏ chạy khi thấy người."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"At that time, scientists said, \"Only people make tools,\" so Jane's news surprised many of them.\" Chữ \"so\" nối lý do với kết quả: David Greybeard tự làm công cụ từ cành cây, trái với điều các nhà khoa học tin. Chờ nhiều tháng và chuyện tinh tinh bỏ chạy lúc đầu đều có trong bài, nhưng không phải \"news\" làm ai kinh ngạc. Bài không nói ai nghĩ tinh tinh không phải động vật thật."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Phần đứng sau so là kết quả; lý do nằm ngay trước so."
+      },
+      "question_jp": "Why did Jane's news surprise scientists?",
+      "question_vn": "Vì sao tin của Jane làm các nhà khoa học kinh ngạc?",
+      "explanation": "\"At that time, scientists said, \"Only people make tools,\" so Jane's news surprised many of them.\" Chữ \"so\" nối lý do với kết quả: David Greybeard tự làm công cụ từ cành cây, trái với điều các nhà khoa học tin. Chờ nhiều tháng và chuyện tinh tinh bỏ chạy lúc đầu đều có trong bài, nhưng không phải \"news\" làm ai kinh ngạc. Bài không nói ai nghĩ tinh tinh không phải động vật thật.",
+      "tip": "Phần đứng sau so là kết quả; lý do nằm ngay trước so."
+    },
+    {
+      "id": "q_u01_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u01_02",
+      "i18n": {
+        "en": "What does the writer think about Jane Goodall's work?",
+        "vi": "Người viết nghĩ gì về công trình của Jane Goodall?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It finished in 1977.",
+            "vi": "Nó kết thúc vào năm 1977."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It finished in 1977.",
+          "text_translation": "Nó kết thúc vào năm 1977."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It will be important for a very long time.",
+            "vi": "Nó sẽ còn quan trọng rất lâu nữa."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "It will be important for a very long time.",
+          "text_translation": "Nó sẽ còn quan trọng rất lâu nữa."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It was only about termites.",
+            "vi": "Nó chỉ nói về loài mối."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It was only about termites.",
+          "text_translation": "Nó chỉ nói về loài mối."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It ended when she died.",
+            "vi": "Nó chấm dứt khi bà mất."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It ended when she died.",
+          "text_translation": "Nó chấm dứt khi bà mất."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"In 2025, Jane Goodall died, aged ninety-one, but her work will last forever.\" \"last forever\" là còn mãi, nên người viết cho rằng công trình của bà còn quan trọng rất lâu về sau. Chữ \"but\" cho thấy bà đã mất nhưng công trình KHÔNG mất theo, nên phương án cuối sai. Năm 1977 là năm bà lập viện để tiếp tục chăm lo cho tinh tinh, không phải năm kết thúc. Mối chỉ là thức ăn trong chuyện của David Greybeard; bà nghiên cứu cả cuộc sống của loài tinh tinh."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi về ý kiến người viết thường nằm ở câu cuối bài. Để ý từ đánh giá (forever, surprising, well-known) và chữ but."
+      },
+      "question_jp": "What does the writer think about Jane Goodall's work?",
+      "question_vn": "Người viết nghĩ gì về công trình của Jane Goodall?",
+      "explanation": "\"In 2025, Jane Goodall died, aged ninety-one, but her work will last forever.\" \"last forever\" là còn mãi, nên người viết cho rằng công trình của bà còn quan trọng rất lâu về sau. Chữ \"but\" cho thấy bà đã mất nhưng công trình KHÔNG mất theo, nên phương án cuối sai. Năm 1977 là năm bà lập viện để tiếp tục chăm lo cho tinh tinh, không phải năm kết thúc. Mối chỉ là thức ăn trong chuyện của David Greybeard; bà nghiên cứu cả cuộc sống của loài tinh tinh.",
+      "tip": "Câu hỏi về ý kiến người viết thường nằm ở câu cuối bài. Để ý từ đánh giá (forever, surprising, well-known) và chữ but."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u01_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Bài tập phỏng vấn của Tina: tuổi thơ của bà Harriet",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u01_01",
+      "question_ids": [
+        "q_u01_001",
+        "q_u01_002",
+        "q_u01_003",
+        "q_u01_004",
+        "q_u01_005"
+      ]
+    },
+    {
+      "set_id": "set_u01_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Tiểu sử ngắn: Jane Goodall",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u01_02",
+      "question_ids": [
+        "q_u01_006",
+        "q_u01_007",
+        "q_u01_008",
+        "q_u01_009",
+        "q_u01_010"
+      ]
+    }
+  ]
+}

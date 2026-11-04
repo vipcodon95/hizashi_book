@@ -1,0 +1,2070 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 13–14 — Food culture & Travel and tourism",
+      "vi": "Văn hoá ẩm thực & Du lịch"
+    },
+    "title": "Units 13–14 — Food culture & Travel and tourism",
+    "title_vn": "Văn hoá ẩm thực & Du lịch",
+    "module_code": "59_u1314",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.u13+u14",
+    "curriculum_sheets": [
+      "b2.049",
+      "b2.050",
+      "b2.051",
+      "b2.052",
+      "b2.053",
+      "b2.054",
+      "b2.055",
+      "b2.056"
+    ],
+    "characters": [
+      "Harriet Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 8, năm 6"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Bị động tương lai, if so / if not, having + V3, khoanh vùng phong tục",
+    "description_vn": "Thông báo \"Bàn ăn của hàng xóm\" ở quán Harriet's và bài báo về du lịch quá tải ở Venice, Kyoto, vịnh Maya. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 13 + Unit 14 khoá B2 · phiếu `b2.049` – `b2.056` (bị động tương lai, xu hướng ẩm thực, ăn ngoài, lãng phí đồ ăn; having + V3, du lịch đại trà, du lịch có trách nhiệm, sốc văn hoá)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một thông báo của quán và một bài báo về du lịch quá tải; hiểu bị động tương lai (will be served, will be written), mệnh đề if rút gọn (if so, if not, if necessary), `having + V3`, `having been + V3`, nhận ra cách khoanh vùng phong tục theo từng gia đình, và phân biệt lý lẽ ủng hộ, phản đối."
+    },
+    "extra_words": [
+      {
+        "word": "reopen",
+        "i18n": {
+          "vi": "mở cửa lại"
+        }
+      },
+      {
+        "word": "cruise ship",
+        "i18n": {
+          "vi": "tàu du lịch biển"
+        }
+      },
+      {
+        "word": "great-grandmother",
+        "i18n": {
+          "vi": "bà cố"
+        }
+      },
+      {
+        "word": "jollof rice",
+        "i18n": {
+          "vi": "cơm jollof (cơm nấu sốt cà chua, ớt)"
+        }
+      },
+      {
+        "word": "tamale",
+        "i18n": {
+          "vi": "bánh tamale (bột ngô gói lá)"
+        }
+      },
+      {
+        "word": "ingredient",
+        "i18n": {
+          "vi": "nguyên liệu"
+        }
+      },
+      {
+        "word": "allergy",
+        "i18n": {
+          "vi": "dị ứng"
+        }
+      },
+      {
+        "word": "celebration",
+        "i18n": {
+          "vi": "dịp vui, lễ mừng"
+        }
+      },
+      {
+        "word": "overtourism",
+        "i18n": {
+          "vi": "du lịch quá tải"
+        }
+      },
+      {
+        "word": "destination",
+        "i18n": {
+          "vi": "điểm đến"
+        }
+      },
+      {
+        "word": "lane",
+        "i18n": {
+          "vi": "ngõ"
+        }
+      },
+      {
+        "word": "coral",
+        "i18n": {
+          "vi": "san hô"
+        }
+      },
+      {
+        "word": "wealthy",
+        "i18n": {
+          "vi": "giàu có"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "it's my turn",
+          "vi": "tới lượt tôi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "you have been warned",
+          "vi": "đã báo trước rồi nhé"
+        }
+      },
+      {
+        "i18n": {
+          "en": "if so / if not",
+          "vi": "nếu vậy / nếu không"
+        }
+      },
+      {
+        "i18n": {
+          "en": "eat up",
+          "vi": "ăn hết"
+        }
+      },
+      {
+        "i18n": {
+          "en": "depend on",
+          "vi": "sống nhờ, phụ thuộc vào"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a privilege for the wealthy",
+          "vi": "đặc quyền của người giàu"
+        }
+      },
+      {
+        "i18n": {
+          "en": "reduce the pressure",
+          "vi": "giảm áp lực"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`will be + V3` = sẽ được làm. Thông báo của quán, sự kiện hay dùng cấu trúc này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`If so` / `If not` thay cho cả một mệnh đề vừa nói. Đọc câu ngay trước để biết \"so\" là gì."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`Having + V3, …` = sau khi đã… `Having been + V3` = sau khi đã được / bị…"
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Lời nhân vật có thể khoanh vùng phong tục (`every family from her hometown argues…`). Đừng chọn phương án gán cách làm cho cả một vùng."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u1314_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 13) — Quán Harriet's ra mắt \"Bàn ăn của hàng xóm\""
+      },
+      "narrator": "Harriet",
+      "title": "This Fall at Harriet's: The Neighbors' Table",
+      "category": "notice",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 220,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This Fall at Harriet's: The Neighbors' Table",
+            "vi": "Mùa thu này ở Harriet's: Bàn ăn của hàng xóm"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dear friends, for thirteen years, you have eaten my soups and my pies. This fall, it's my turn to taste yours.",
+            "vi": "Các bạn thân mến, suốt mười ba năm, các bạn đã ăn súp và bánh của tôi. Mùa thu này, tới lượt tôi nếm món của các bạn."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every Friday from September to November, one special dish will be served at lunch, and every one of them will come from a family on Maple Street.",
+            "vi": "Mỗi thứ Sáu từ tháng Chín tới tháng Mười một, bữa trưa sẽ có một món đặc biệt, và món nào cũng do một gia đình trên phố Maple góp công thức."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The cooks will be in the kitchen with me, and the story behind each recipe will be written on the board by the door.",
+            "vi": "Người nấu sẽ vào bếp cùng tôi, và câu chuyện đằng sau mỗi công thức sẽ được viết lên tấm bảng cạnh cửa."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Here is the first part of our schedule:",
+            "vi": "Đây là phần đầu lịch của chúng ta:"
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "September 3: Jollof rice from the Okonkwo family",
+            "vi": "3/9: Cơm jollof của gia đình Okonkwo"
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Grandma Okonkwo warns that every family from her hometown argues about the right amount of pepper, and that hers is \"the correct one\". You have been warned.",
+            "vi": "Bà Okonkwo cảnh báo rằng nhà nào ở quê bà cũng cãi nhau về lượng ớt cho đúng, và công thức nhà bà là \"đúng nhất\". Các bạn đã được báo trước."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "September 10: Chicken tamales from Mr. Alvarez",
+            "vi": "10/9: Bánh tamale gà của ông Alvarez"
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "His mother made them every winter, and he says that you have to chop the chicken by hand, not in a machine. We will be wrapping them by hand all morning.",
+            "vi": "Mẹ ông làm món này mỗi mùa đông, và ông bảo phải băm thịt gà bằng tay, không dùng máy. Cả buổi sáng chúng tôi sẽ ngồi gói bằng tay."
+          }
+        },
+        {
+          "n": 10,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "September 17: Peach pie from my own mother's recipe",
+            "vi": "17/9: Bánh đào theo công thức của chính mẹ tôi"
+          }
+        },
+        {
+          "n": 11,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I have changed only one thing: less sugar. If she knew, she would not be pleased.",
+            "vi": "Tôi chỉ đổi một thứ: bớt đường. Mà bà biết thì chắc chẳng vui."
+          }
+        },
+        {
+          "n": 12,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "September 24: Banana bread from Tina Carter",
+            "vi": "24/9: Bánh mì chuối của Tina Carter"
+          }
+        },
+        {
+          "n": 13,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Our youngest cook found the recipe in her great-grandmother's notebook, written in pencil on a page covered in old flour. She has tested it four times, and her family says that they never want to see a banana again.",
+            "vi": "Đầu bếp nhỏ tuổi nhất của chúng ta tìm thấy công thức trong cuốn sổ của bà cố, viết bút chì trên một trang lấm tấm bột cũ. Cô bé đã làm thử bốn lần, và cả nhà bảo không bao giờ muốn nhìn thấy quả chuối nữa."
+          }
+        },
+        {
+          "n": 14,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Would you like to share a dish? Please talk to me at the counter.",
+            "vi": "Bạn muốn góp một món? Hãy nói với tôi ở quầy."
+          }
+        },
+        {
+          "n": 15,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We will ask for a list of ingredients first. If so, we will plan a test day together; if not, don't worry, there are still plenty of Fridays.",
+            "vi": "Chúng tôi sẽ xin danh sách nguyên liệu trước. Nếu được, mình sẽ cùng hẹn một ngày nấu thử; nếu không, đừng lo, vẫn còn nhiều thứ Sáu."
+          }
+        },
+        {
+          "n": 16,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If necessary, we will change a recipe slightly so that people with allergies can enjoy it too, but only with your permission.",
+            "vi": "Nếu cần, chúng tôi sẽ chỉnh công thức đôi chút để người bị dị ứng cũng ăn được, nhưng chỉ khi bạn đồng ý."
+          }
+        },
+        {
+          "n": 17,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Two small promises.",
+            "vi": "Hai lời hứa nhỏ."
+          }
+        },
+        {
+          "n": 18,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "First, the price will stay the same as our usual lunch, because this is a celebration, not a business plan.",
+            "vi": "Thứ nhất, giá sẽ bằng bữa trưa thường ngày, vì đây là một dịp vui chứ không phải kế hoạch kinh doanh."
+          }
+        },
+        {
+          "n": 19,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Second, nothing will be thrown away. Any food that is not eaten up by two o'clock will be taken to the Harbor Street Shelter.",
+            "vi": "Thứ hai, sẽ không có gì bị bỏ đi. Đồ ăn nào chưa ăn hết tới hai giờ chiều sẽ được mang tới nhà tạm trú Harbor Street."
+          }
+        },
+        {
+          "n": 20,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Food is the way that many of us remember where we come from. Let's taste each other's memories.",
+            "vi": "Đồ ăn là cách nhiều người trong chúng ta nhớ về nơi mình đã lớn lên. Hãy cùng nếm ký ức của nhau."
+          }
+        },
+        {
+          "n": 21,
+          "para": 6,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet",
+            "vi": "Harriet"
+          }
+        }
+      ],
+      "content_ja": "This Fall at Harriet's: The Neighbors' Table\n\nDear friends, for thirteen years, you have eaten my soups and my pies. This fall, it's my turn to taste yours. Every Friday from September to November, one special dish will be served at lunch, and every one of them will come from a family on Maple Street. The cooks will be in the kitchen with me, and the story behind each recipe will be written on the board by the door.\n\nHere is the first part of our schedule:\n\nSeptember 3: Jollof rice from the Okonkwo family\n\nGrandma Okonkwo warns that every family from her hometown argues about the right amount of pepper, and that hers is \"the correct one\". You have been warned.\n\nSeptember 10: Chicken tamales from Mr. Alvarez\n\nHis mother made them every winter, and he says that you have to chop the chicken by hand, not in a machine. We will be wrapping them by hand all morning.\n\nSeptember 17: Peach pie from my own mother's recipe\n\nI have changed only one thing: less sugar. If she knew, she would not be pleased.\n\nSeptember 24: Banana bread from Tina Carter\n\nOur youngest cook found the recipe in her great-grandmother's notebook, written in pencil on a page covered in old flour. She has tested it four times, and her family says that they never want to see a banana again.\n\nWould you like to share a dish? Please talk to me at the counter. We will ask for a list of ingredients first. If so, we will plan a test day together; if not, don't worry, there are still plenty of Fridays. If necessary, we will change a recipe slightly so that people with allergies can enjoy it too, but only with your permission.\n\nTwo small promises. First, the price will stay the same as our usual lunch, because this is a celebration, not a business plan. Second, nothing will be thrown away. Any food that is not eaten up by two o'clock will be taken to the Harbor Street Shelter.\n\nFood is the way that many of us remember where we come from. Let's taste each other's memories.\n\nHarriet",
+      "translation_vn": "(1) Mùa thu này ở Harriet's: Bàn ăn của hàng xóm\n(2) Các bạn thân mến, suốt mười ba năm, các bạn đã ăn súp và bánh của tôi. Mùa thu này, tới lượt tôi nếm món của các bạn.\n(3) Mỗi thứ Sáu từ tháng Chín tới tháng Mười một, bữa trưa sẽ có một món đặc biệt, và món nào cũng do một gia đình trên phố Maple góp công thức.\n(4) Người nấu sẽ vào bếp cùng tôi, và câu chuyện đằng sau mỗi công thức sẽ được viết lên tấm bảng cạnh cửa.\n(5) Đây là phần đầu lịch của chúng ta:\n(6) 3/9: Cơm jollof của gia đình Okonkwo\n(7) Bà Okonkwo cảnh báo rằng nhà nào ở quê bà cũng cãi nhau về lượng ớt cho đúng, và công thức nhà bà là \"đúng nhất\". Các bạn đã được báo trước.\n(8) 10/9: Bánh tamale gà của ông Alvarez\n(9) Mẹ ông làm món này mỗi mùa đông, và ông bảo phải băm thịt gà bằng tay, không dùng máy. Cả buổi sáng chúng tôi sẽ ngồi gói bằng tay.\n(10) 17/9: Bánh đào theo công thức của chính mẹ tôi\n(11) Tôi chỉ đổi một thứ: bớt đường. Mà bà biết thì chắc chẳng vui.\n(12) 24/9: Bánh mì chuối của Tina Carter\n(13) Đầu bếp nhỏ tuổi nhất của chúng ta tìm thấy công thức trong cuốn sổ của bà cố, viết bút chì trên một trang lấm tấm bột cũ. Cô bé đã làm thử bốn lần, và cả nhà bảo không bao giờ muốn nhìn thấy quả chuối nữa.\n(14) Bạn muốn góp một món? Hãy nói với tôi ở quầy.\n(15) Chúng tôi sẽ xin danh sách nguyên liệu trước. Nếu được, mình sẽ cùng hẹn một ngày nấu thử; nếu không, đừng lo, vẫn còn nhiều thứ Sáu.\n(16) Nếu cần, chúng tôi sẽ chỉnh công thức đôi chút để người bị dị ứng cũng ăn được, nhưng chỉ khi bạn đồng ý.\n(17) Hai lời hứa nhỏ.\n(18) Thứ nhất, giá sẽ bằng bữa trưa thường ngày, vì đây là một dịp vui chứ không phải kế hoạch kinh doanh.\n(19) Thứ hai, sẽ không có gì bị bỏ đi. Đồ ăn nào chưa ăn hết tới hai giờ chiều sẽ được mang tới nhà tạm trú Harbor Street.\n(20) Đồ ăn là cách nhiều người trong chúng ta nhớ về nơi mình đã lớn lên. Hãy cùng nếm ký ức của nhau.\n(21) Harriet",
+      "word_count": 358,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.049",
+        "b2.050",
+        "b2.051",
+        "b2.052"
+      ]
+    },
+    {
+      "id": "passage_u1314_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 14) — Du lịch quá tải và cách các điểm đến xoay xở"
+      },
+      "narrator": "announcer",
+      "title": "When Too Many Visitors Love a Place",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When Too Many Visitors Love a Place",
+            "vi": "Khi quá nhiều du khách cùng yêu một nơi"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Having saved for months, millions of travelers arrive every summer at the same famous places, all hoping for the same photo.",
+            "vi": "Sau nhiều tháng dành dụm, hằng triệu du khách mỗi mùa hè lại đổ về cùng những địa danh nổi tiếng, ai cũng mong chụp được cùng một bức ảnh."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The result has a name: overtourism, which happens when a destination receives more visitors than it can handle.",
+            "vi": "Hệ quả có một cái tên: du lịch quá tải, xảy ra khi một điểm đến đón nhiều khách hơn sức chứa của nó."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Venice is perhaps the best-known example. Fewer than 50,000 people now live in its historic center, while millions of visitors walk through its narrow streets every year.",
+            "vi": "Venice có lẽ là ví dụ nổi tiếng nhất. Khu trung tâm lịch sử giờ chỉ còn chưa tới 50.000 cư dân, trong khi mỗi năm hằng triệu du khách đi qua những con phố hẹp."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In 2024, the city began charging day visitors a small entry fee on its busiest days, the first city in the world to do so.",
+            "vi": "Năm 2024, thành phố bắt đầu thu một khoản phí vào cửa nhỏ với khách đi trong ngày vào những ngày đông nhất, thành phố đầu tiên trên thế giới làm vậy."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In Kyoto, Japan, some private lanes in the old Gion district were closed to tourists after residents complained that visitors were following people and taking photos without asking.",
+            "vi": "Ở Kyoto, Nhật Bản, một số ngõ riêng trong khu phố cổ Gion đã cấm khách du lịch sau khi cư dân phàn nàn rằng du khách bám theo người ta và chụp ảnh không xin phép."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Cruise ships can make the problem worse: a single large ship can bring several thousand passengers into a small town for just a few hours, and many of them spend very little money there before they return to the ship for lunch.",
+            "vi": "Tàu du lịch có thể làm vấn đề tệ hơn: một con tàu lớn có thể đưa vài nghìn hành khách vào một thị trấn nhỏ chỉ trong vài tiếng, và nhiều người tiêu rất ít tiền ở đó trước khi quay về tàu ăn trưa."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Nature suffers too.",
+            "vi": "Thiên nhiên cũng chịu thiệt."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Maya Bay in Thailand, made famous by a Hollywood film, was receiving several thousand visitors a day before it was closed in 2018.",
+            "vi": "Vịnh Maya ở Thái Lan, nổi tiếng nhờ một bộ phim Hollywood, từng đón vài nghìn khách mỗi ngày trước khi bị đóng cửa năm 2018."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Having been left alone for more than three years, its coral and sea life began to recover, and when the bay reopened, the number of visitors was strictly limited and swimming was banned.",
+            "vi": "Sau hơn ba năm được để yên, san hô và sinh vật biển ở đó bắt đầu hồi phục, và khi vịnh mở lại, số khách bị giới hạn chặt chẽ và cấm bơi."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Not everyone agrees with these limits.",
+            "vi": "Không phải ai cũng đồng tình với những giới hạn này."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many local businesses depend on visitors, and some people argue that fees simply make travel a privilege for the wealthy.",
+            "vi": "Nhiều cơ sở kinh doanh địa phương sống nhờ du khách, và có người cho rằng thu phí chỉ khiến du lịch thành đặc quyền của người giàu."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Others point out that a place which is destroyed by its own popularity will soon have no visitors at all.",
+            "vi": "Người khác chỉ ra rằng một nơi bị chính sự nổi tiếng của mình tàn phá thì chẳng bao lâu sẽ không còn ai tới."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Travelers can help, too.",
+            "vi": "Du khách cũng có thể góp phần."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Visiting outside the busiest months, staying longer in one place rather than rushing between five, and choosing places that few people have heard of all reduce the pressure.",
+            "vi": "Đi vào những tháng vắng khách, ở lâu một chỗ thay vì vội vã qua năm chỗ, và chọn những nơi ít người biết đều giúp giảm áp lực."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Eating in small restaurants run by local families and buying from local shops also means that more of your money stays in the community.",
+            "vi": "Ăn ở những quán nhỏ do gia đình địa phương mở và mua đồ ở cửa hàng địa phương cũng có nghĩa là nhiều tiền của bạn ở lại với cộng đồng hơn."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Above all, remember that the streets you are photographing are someone's home.",
+            "vi": "Trên hết, hãy nhớ rằng những con phố bạn đang chụp là nhà của ai đó."
+          }
+        }
+      ],
+      "content_ja": "When Too Many Visitors Love a Place\n\nHaving saved for months, millions of travelers arrive every summer at the same famous places, all hoping for the same photo. The result has a name: overtourism, which happens when a destination receives more visitors than it can handle.\n\nVenice is perhaps the best-known example. Fewer than 50,000 people now live in its historic center, while millions of visitors walk through its narrow streets every year. In 2024, the city began charging day visitors a small entry fee on its busiest days, the first city in the world to do so. In Kyoto, Japan, some private lanes in the old Gion district were closed to tourists after residents complained that visitors were following people and taking photos without asking. Cruise ships can make the problem worse: a single large ship can bring several thousand passengers into a small town for just a few hours, and many of them spend very little money there before they return to the ship for lunch.\n\nNature suffers too. Maya Bay in Thailand, made famous by a Hollywood film, was receiving several thousand visitors a day before it was closed in 2018. Having been left alone for more than three years, its coral and sea life began to recover, and when the bay reopened, the number of visitors was strictly limited and swimming was banned.\n\nNot everyone agrees with these limits. Many local businesses depend on visitors, and some people argue that fees simply make travel a privilege for the wealthy. Others point out that a place which is destroyed by its own popularity will soon have no visitors at all.\n\nTravelers can help, too. Visiting outside the busiest months, staying longer in one place rather than rushing between five, and choosing places that few people have heard of all reduce the pressure. Eating in small restaurants run by local families and buying from local shops also means that more of your money stays in the community. Above all, remember that the streets you are photographing are someone's home.",
+      "translation_vn": "(1) Khi quá nhiều du khách cùng yêu một nơi\n(2) Sau nhiều tháng dành dụm, hằng triệu du khách mỗi mùa hè lại đổ về cùng những địa danh nổi tiếng, ai cũng mong chụp được cùng một bức ảnh.\n(3) Hệ quả có một cái tên: du lịch quá tải, xảy ra khi một điểm đến đón nhiều khách hơn sức chứa của nó.\n(4) Venice có lẽ là ví dụ nổi tiếng nhất. Khu trung tâm lịch sử giờ chỉ còn chưa tới 50.000 cư dân, trong khi mỗi năm hằng triệu du khách đi qua những con phố hẹp.\n(5) Năm 2024, thành phố bắt đầu thu một khoản phí vào cửa nhỏ với khách đi trong ngày vào những ngày đông nhất, thành phố đầu tiên trên thế giới làm vậy.\n(6) Ở Kyoto, Nhật Bản, một số ngõ riêng trong khu phố cổ Gion đã cấm khách du lịch sau khi cư dân phàn nàn rằng du khách bám theo người ta và chụp ảnh không xin phép.\n(7) Tàu du lịch có thể làm vấn đề tệ hơn: một con tàu lớn có thể đưa vài nghìn hành khách vào một thị trấn nhỏ chỉ trong vài tiếng, và nhiều người tiêu rất ít tiền ở đó trước khi quay về tàu ăn trưa.\n(8) Thiên nhiên cũng chịu thiệt.\n(9) Vịnh Maya ở Thái Lan, nổi tiếng nhờ một bộ phim Hollywood, từng đón vài nghìn khách mỗi ngày trước khi bị đóng cửa năm 2018.\n(10) Sau hơn ba năm được để yên, san hô và sinh vật biển ở đó bắt đầu hồi phục, và khi vịnh mở lại, số khách bị giới hạn chặt chẽ và cấm bơi.\n(11) Không phải ai cũng đồng tình với những giới hạn này.\n(12) Nhiều cơ sở kinh doanh địa phương sống nhờ du khách, và có người cho rằng thu phí chỉ khiến du lịch thành đặc quyền của người giàu.\n(13) Người khác chỉ ra rằng một nơi bị chính sự nổi tiếng của mình tàn phá thì chẳng bao lâu sẽ không còn ai tới.\n(14) Du khách cũng có thể góp phần.\n(15) Đi vào những tháng vắng khách, ở lâu một chỗ thay vì vội vã qua năm chỗ, và chọn những nơi ít người biết đều giúp giảm áp lực.\n(16) Ăn ở những quán nhỏ do gia đình địa phương mở và mua đồ ở cửa hàng địa phương cũng có nghĩa là nhiều tiền của bạn ở lại với cộng đồng hơn.\n(17) Trên hết, hãy nhớ rằng những con phố bạn đang chụp là nhà của ai đó.",
+      "word_count": 339,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.053",
+        "b2.054",
+        "b2.055",
+        "b2.056"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u1314_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_01",
+      "i18n": {
+        "en": "What is the main purpose of Harriet's notice?",
+        "vi": "Mục đích chính của thông báo của bà Harriet là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to advertise a new cooking class run by Harriet",
+            "vi": "để quảng cáo một lớp nấu ăn mới do Harriet dạy"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to advertise a new cooking class run by Harriet",
+          "text_translation": "để quảng cáo một lớp nấu ăn mới do Harriet dạy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to invite neighbors to share and taste family recipes",
+            "vi": "để mời hàng xóm góp và cùng nếm các công thức gia đình"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to invite neighbors to share and taste family recipes",
+          "text_translation": "để mời hàng xóm góp và cùng nếm các công thức gia đình"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to announce that the café will close every Friday",
+            "vi": "để báo quán sẽ đóng cửa mỗi thứ Sáu"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to announce that the café will close every Friday",
+          "text_translation": "để báo quán sẽ đóng cửa mỗi thứ Sáu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to raise the price of lunch on Fridays in the fall",
+            "vi": "để tăng giá bữa trưa vào các thứ Sáu mùa thu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to raise the price of lunch on Fridays in the fall",
+          "text_translation": "để tăng giá bữa trưa vào các thứ Sáu mùa thu"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"one special dish will be served at lunch, and every one of them will come from a family on Maple Street.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of Harriet's notice?",
+      "question_vn": "Mục đích chính của thông báo của bà Harriet là gì?",
+      "explanation": "\"one special dish will be served at lunch, and every one of them will come from a family on Maple Street.\""
+    },
+    {
+      "id": "q_u1314_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_01",
+      "i18n": {
+        "en": "What will be written on the board by the door?",
+        "vi": "Trên tấm bảng cạnh cửa sẽ viết gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the price of each dish and the name of the cook",
+            "vi": "giá của từng món và tên người nấu"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the price of each dish and the name of the cook",
+          "text_translation": "giá của từng món và tên người nấu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the list of ingredients",
+            "vi": "danh sách nguyên liệu"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the list of ingredients",
+          "text_translation": "danh sách nguyên liệu"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the names of the customers",
+            "vi": "tên khách hàng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the names of the customers",
+          "text_translation": "tên khách hàng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the story behind each recipe",
+            "vi": "câu chuyện đằng sau mỗi công thức"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the story behind each recipe",
+          "text_translation": "câu chuyện đằng sau mỗi công thức"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"the story behind each recipe will be written on the board by the door.\" Will be + V3 = bị động tương lai."
+      },
+      "audio_data": null,
+      "question_jp": "What will be written on the board by the door?",
+      "question_vn": "Trên tấm bảng cạnh cửa sẽ viết gì?",
+      "explanation": "\"the story behind each recipe will be written on the board by the door.\" Will be + V3 = bị động tương lai."
+    },
+    {
+      "id": "q_u1314_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_01",
+      "i18n": {
+        "en": "What does Grandma Okonkwo's comment about pepper show?",
+        "vi": "Lời bà Okonkwo về lượng ớt cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Families from the same place can cook the same dish differently.",
+            "vi": "Các gia đình cùng một nơi vẫn có thể nấu cùng một món khác nhau."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Families from the same place can cook the same dish differently.",
+          "text_translation": "Các gia đình cùng một nơi vẫn có thể nấu cùng một món khác nhau."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Everyone in her hometown cooks the dish in exactly the same way.",
+            "vi": "Ai ở quê bà cũng nấu món này y hệt nhau."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Everyone in her hometown cooks the dish in exactly the same way.",
+          "text_translation": "Ai ở quê bà cũng nấu món này y hệt nhau."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She doesn't like pepper and never uses it.",
+            "vi": "Bà không thích ớt và không bao giờ dùng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She doesn't like pepper and never uses it.",
+          "text_translation": "Bà không thích ớt và không bao giờ dùng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The dish is too spicy for the café's other customers.",
+            "vi": "Món này quá cay với những khách khác của quán."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The dish is too spicy for the café's other customers.",
+          "text_translation": "Món này quá cay với những khách khác của quán."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"every family from her hometown argues about the right amount of pepper\". Ngay trong một vùng, mỗi nhà vẫn có cách nấu riêng."
+      },
+      "audio_data": null,
+      "question_jp": "What does Grandma Okonkwo's comment about pepper show?",
+      "question_vn": "Lời bà Okonkwo về lượng ớt cho thấy điều gì?",
+      "explanation": "Câu suy luận. \"every family from her hometown argues about the right amount of pepper\". Ngay trong một vùng, mỗi nhà vẫn có cách nấu riêng."
+    },
+    {
+      "id": "q_u1314_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_01",
+      "i18n": {
+        "en": "Why does Harriet write \"You have been warned\"?",
+        "vi": "Vì sao bà Harriet viết \"Các bạn đã được báo trước\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The café might be closed on that day for a holiday.",
+            "vi": "Vì hôm đó quán có thể đóng cửa vì ngày lễ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The café might be closed on that day for a holiday.",
+          "text_translation": "Vì hôm đó quán có thể đóng cửa vì ngày lễ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Grandma Okonkwo is angry about the recipe.",
+            "vi": "Vì bà Okonkwo đang giận chuyện công thức."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Grandma Okonkwo is angry about the recipe.",
+          "text_translation": "Vì bà Okonkwo đang giận chuyện công thức."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She is joking that the dish might be very spicy.",
+            "vi": "Vì bà đùa rằng món này có thể rất cay."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She is joking that the dish might be very spicy.",
+          "text_translation": "Vì bà đùa rằng món này có thể rất cay."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The rice might be served late that day.",
+            "vi": "Vì hôm đó cơm có thể ra muộn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The rice might be served late that day.",
+          "text_translation": "Vì hôm đó cơm có thể ra muộn."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về giọng điệu. Bà Okonkwo tin công thức nhà mình về lượng ớt là \"the correct one\", nên Harriet đùa nhắc khách chuẩn bị tinh thần."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Harriet write \"You have been warned\"?",
+      "question_vn": "Vì sao bà Harriet viết \"Các bạn đã được báo trước\"?",
+      "explanation": "Câu suy luận về giọng điệu. Bà Okonkwo tin công thức nhà mình về lượng ớt là \"the correct one\", nên Harriet đùa nhắc khách chuẩn bị tinh thần."
+    },
+    {
+      "id": "q_u1314_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_01",
+      "i18n": {
+        "en": "What does Mr. Alvarez say about making tamales?",
+        "vi": "Ông Alvarez nói gì về cách làm bánh tamale?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They should be made in a machine to save time.",
+            "vi": "Phải làm bằng máy cho đỡ tốn thời gian."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They should be made in a machine to save time.",
+          "text_translation": "Phải làm bằng máy cho đỡ tốn thời gian."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "You have to chop the chicken by hand.",
+            "vi": "Phải băm thịt gà bằng tay."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "You have to chop the chicken by hand.",
+          "text_translation": "Phải băm thịt gà bằng tay."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They are made only in summer, never in winter.",
+            "vi": "Chỉ làm vào mùa hè, không bao giờ vào mùa đông."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They are made only in summer, never in winter.",
+          "text_translation": "Chỉ làm vào mùa hè, không bao giờ vào mùa đông."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They are made without chicken, only with vegetables.",
+            "vi": "Làm không có thịt gà, chỉ có rau."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They are made without chicken, only with vegetables.",
+          "text_translation": "Làm không có thịt gà, chỉ có rau."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"he says that you have to chop the chicken by hand, not in a machine.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Mr. Alvarez say about making tamales?",
+      "question_vn": "Ông Alvarez nói gì về cách làm bánh tamale?",
+      "explanation": "\"he says that you have to chop the chicken by hand, not in a machine.\""
+    },
+    {
+      "id": "q_u1314_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_01",
+      "i18n": {
+        "en": "What has Harriet changed in her mother's peach pie recipe?",
+        "vi": "Bà Harriet đã đổi gì trong công thức bánh đào của mẹ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She uses less sugar.",
+            "vi": "Bà dùng ít đường hơn."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She uses less sugar.",
+          "text_translation": "Bà dùng ít đường hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She uses different fruit.",
+            "vi": "Bà dùng loại quả khác."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She uses different fruit.",
+          "text_translation": "Bà dùng loại quả khác."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She bakes it in a microwave.",
+            "vi": "Bà nướng bằng lò vi sóng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She bakes it in a microwave.",
+          "text_translation": "Bà nướng bằng lò vi sóng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She has changed everything.",
+            "vi": "Bà đổi tất cả."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She has changed everything.",
+          "text_translation": "Bà đổi tất cả."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"I have changed only one thing: less sugar. If she knew, she would not be pleased.\""
+      },
+      "audio_data": null,
+      "question_jp": "What has Harriet changed in her mother's peach pie recipe?",
+      "question_vn": "Bà Harriet đã đổi gì trong công thức bánh đào của mẹ?",
+      "explanation": "\"I have changed only one thing: less sugar. If she knew, she would not be pleased.\""
+    },
+    {
+      "id": "q_u1314_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_01",
+      "i18n": {
+        "en": "In \"If so, we will plan a test day together; if not, don't worry\", what does \"If so\" mean?",
+        "vi": "Trong câu \"If so, we will plan a test day together; if not, don't worry\", \"If so\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "If the dish is too expensive for the café",
+            "vi": "Nếu món đó quá đắt với quán"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "If the dish is too expensive for the café",
+          "text_translation": "Nếu món đó quá đắt với quán"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "If you are a good cook in the neighborhood",
+            "vi": "Nếu bạn là đầu bếp giỏi trong khu phố"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "If you are a good cook in the neighborhood",
+          "text_translation": "Nếu bạn là đầu bếp giỏi trong khu phố"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "If it rains on the day of the test",
+            "vi": "Nếu trời mưa vào ngày thử món"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "If it rains on the day of the test",
+          "text_translation": "Nếu trời mưa vào ngày thử món"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "If the ingredients are suitable",
+            "vi": "Nếu nguyên liệu phù hợp"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "If the ingredients are suitable",
+          "text_translation": "Nếu nguyên liệu phù hợp"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"We will ask for a list of ingredients first. If so, we will plan a test day together\". If so = nếu đúng như vậy (nếu danh sách nguyên liệu ổn). Đây là mệnh đề if rút gọn."
+      },
+      "audio_data": null,
+      "question_jp": "In \"If so, we will plan a test day together; if not, don't worry\", what does \"If so\" mean?",
+      "question_vn": "Trong câu \"If so, we will plan a test day together; if not, don't worry\", \"If so\" nghĩa là gì?",
+      "explanation": "\"We will ask for a list of ingredients first. If so, we will plan a test day together\". If so = nếu đúng như vậy (nếu danh sách nguyên liệu ổn). Đây là mệnh đề if rút gọn."
+    },
+    {
+      "id": "q_u1314_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_01",
+      "i18n": {
+        "en": "When might Harriet change a recipe slightly?",
+        "vi": "Khi nào bà Harriet có thể chỉnh công thức đôi chút?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "whenever she thinks that it will taste better, even if the family does not agree",
+            "vi": "bất cứ khi nào bà nghĩ nó sẽ ngon hơn, kể cả khi gia đình không đồng ý"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "whenever she thinks that it will taste better, even if the family does not agree",
+          "text_translation": "bất cứ khi nào bà nghĩ nó sẽ ngon hơn, kể cả khi gia đình không đồng ý"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to make it cheaper so that the price stays low",
+            "vi": "để làm rẻ hơn cho giá luôn thấp"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to make it cheaper so that the price stays low",
+          "text_translation": "để làm rẻ hơn cho giá luôn thấp"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "so that people with allergies can enjoy it, and only with permission",
+            "vi": "để người bị dị ứng cũng ăn được, và chỉ khi được cho phép"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "so that people with allergies can enjoy it, and only with permission",
+          "text_translation": "để người bị dị ứng cũng ăn được, và chỉ khi được cho phép"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to make it sweeter because children like sugar",
+            "vi": "để làm ngọt hơn vì trẻ con thích đường"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to make it sweeter because children like sugar",
+          "text_translation": "để làm ngọt hơn vì trẻ con thích đường"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"If necessary, we will change a recipe slightly so that people with allergies can enjoy it too, but only with your permission.\""
+      },
+      "audio_data": null,
+      "question_jp": "When might Harriet change a recipe slightly?",
+      "question_vn": "Khi nào bà Harriet có thể chỉnh công thức đôi chút?",
+      "explanation": "\"If necessary, we will change a recipe slightly so that people with allergies can enjoy it too, but only with your permission.\""
+    },
+    {
+      "id": "q_u1314_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_01",
+      "i18n": {
+        "en": "What will happen to food that is not eaten by two o'clock?",
+        "vi": "Đồ ăn chưa ăn hết tới hai giờ chiều sẽ ra sao?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It will be taken to the Harbor Street Shelter.",
+            "vi": "Được mang tới nhà tạm trú Harbor Street."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It will be taken to the Harbor Street Shelter.",
+          "text_translation": "Được mang tới nhà tạm trú Harbor Street."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It will be thrown away at the end of the day.",
+            "vi": "Bị bỏ đi vào cuối ngày."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It will be thrown away at the end of the day.",
+          "text_translation": "Bị bỏ đi vào cuối ngày."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It will be sold at half price the next day.",
+            "vi": "Được bán nửa giá vào hôm sau."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It will be sold at half price the next day.",
+          "text_translation": "Được bán nửa giá vào hôm sau."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The cooks will take it home to their families.",
+            "vi": "Người nấu mang về cho gia đình."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The cooks will take it home to their families.",
+          "text_translation": "Người nấu mang về cho gia đình."
+        }
+      ],
+      "evidence_segments": [
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "\"Any food that is not eaten up by two o'clock will be taken to the Harbor Street Shelter.\""
+      },
+      "audio_data": null,
+      "question_jp": "What will happen to food that is not eaten by two o'clock?",
+      "question_vn": "Đồ ăn chưa ăn hết tới hai giờ chiều sẽ ra sao?",
+      "explanation": "\"Any food that is not eaten up by two o'clock will be taken to the Harbor Street Shelter.\""
+    },
+    {
+      "id": "q_u1314_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_01",
+      "i18n": {
+        "en": "What does Harriet mean by \"Let's taste each other's memories\"?",
+        "vi": "Bà Harriet muốn nói gì qua câu \"Hãy cùng nếm ký ức của nhau\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Everyone should eat very old food that has been kept for years.",
+            "vi": "Ai cũng nên ăn đồ rất cũ đã cất giữ nhiều năm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Everyone should eat very old food that has been kept for years.",
+          "text_translation": "Ai cũng nên ăn đồ rất cũ đã cất giữ nhiều năm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She wants people to forget the past and think only about the future.",
+            "vi": "Bà muốn mọi người quên quá khứ và chỉ nghĩ đến tương lai."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She wants people to forget the past and think only about the future.",
+          "text_translation": "Bà muốn mọi người quên quá khứ và chỉ nghĩ đến tương lai."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Sharing family dishes is a way of sharing where people come from.",
+            "vi": "Chia sẻ món ăn gia đình là cách chia sẻ nơi mỗi người xuất thân."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Sharing family dishes is a way of sharing where people come from.",
+          "text_translation": "Chia sẻ món ăn gia đình là cách chia sẻ nơi mỗi người xuất thân."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is going to write a book of memories about the café.",
+            "vi": "Bà sắp viết một cuốn hồi ký về quán."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She is going to write a book of memories about the café.",
+          "text_translation": "Bà sắp viết một cuốn hồi ký về quán."
+        }
+      ],
+      "evidence_segments": [
+        20
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về hình ảnh ẩn dụ. \"Food is the way that many of us remember where we come from.\" Nếm món của nhau tức là chia sẻ ký ức của nhau."
+      },
+      "audio_data": null,
+      "question_jp": "What does Harriet mean by \"Let's taste each other's memories\"?",
+      "question_vn": "Bà Harriet muốn nói gì qua câu \"Hãy cùng nếm ký ức của nhau\"?",
+      "explanation": "Câu suy luận về hình ảnh ẩn dụ. \"Food is the way that many of us remember where we come from.\" Nếm món của nhau tức là chia sẻ ký ức của nhau."
+    },
+    {
+      "id": "q_u1314_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_02",
+      "i18n": {
+        "en": "What is the article mainly about?",
+        "vi": "Bài báo chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the best places to visit in summer if you want to avoid large crowds",
+            "vi": "những nơi đáng đi nhất mùa hè nếu muốn tránh đông người"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the best places to visit in summer if you want to avoid large crowds",
+          "text_translation": "những nơi đáng đi nhất mùa hè nếu muốn tránh đông người"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "how to take better travel photos of famous places",
+            "vi": "cách chụp ảnh du lịch đẹp hơn ở những nơi nổi tiếng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "how to take better travel photos of famous places",
+          "text_translation": "cách chụp ảnh du lịch đẹp hơn ở những nơi nổi tiếng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "overtourism, how places deal with it, and how travelers can help",
+            "vi": "du lịch quá tải, cách các nơi đối phó, và du khách có thể góp phần thế nào"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "overtourism, how places deal with it, and how travelers can help",
+          "text_translation": "du lịch quá tải, cách các nơi đối phó, và du khách có thể góp phần thế nào"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the history of Venice and how it became a famous city",
+            "vi": "lịch sử Venice và việc nó trở thành thành phố nổi tiếng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the history of Venice and how it became a famous city",
+          "text_translation": "lịch sử Venice và việc nó trở thành thành phố nổi tiếng"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"overtourism, which happens when a destination receives more visitors than it can handle.\" Bài nêu ví dụ, các ý kiến, rồi lời khuyên cho du khách."
+      },
+      "audio_data": null,
+      "question_jp": "What is the article mainly about?",
+      "question_vn": "Bài báo chủ yếu nói về điều gì?",
+      "explanation": "\"overtourism, which happens when a destination receives more visitors than it can handle.\" Bài nêu ví dụ, các ý kiến, rồi lời khuyên cho du khách."
+    },
+    {
+      "id": "q_u1314_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_02",
+      "i18n": {
+        "en": "What does \"Having saved for months, millions of travelers arrive…\" tell us?",
+        "vi": "Câu \"Having saved for months, millions of travelers arrive…\" cho biết điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The travelers saved money for months before they arrived.",
+            "vi": "Du khách đã dành dụm nhiều tháng trước khi tới."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The travelers saved money for months before they arrived.",
+          "text_translation": "Du khách đã dành dụm nhiều tháng trước khi tới."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The travelers will save money after the trip.",
+            "vi": "Du khách sẽ dành dụm sau chuyến đi."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The travelers will save money after the trip.",
+          "text_translation": "Du khách sẽ dành dụm sau chuyến đi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The travelers saved photos of the place for several months.",
+            "vi": "Du khách lưu ảnh về nơi đó trong vài tháng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The travelers saved photos of the place for several months.",
+          "text_translation": "Du khách lưu ảnh về nơi đó trong vài tháng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The travelers stayed for months.",
+            "vi": "Du khách ở lại nhiều tháng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The travelers stayed for months.",
+          "text_translation": "Du khách ở lại nhiều tháng."
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"Having saved for months, millions of travelers arrive every summer\". Having + V3 = sau khi đã làm xong việc đó."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Having saved for months, millions of travelers arrive…\" tell us?",
+      "question_vn": "Câu \"Having saved for months, millions of travelers arrive…\" cho biết điều gì?",
+      "explanation": "\"Having saved for months, millions of travelers arrive every summer\". Having + V3 = sau khi đã làm xong việc đó."
+    },
+    {
+      "id": "q_u1314_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_02",
+      "i18n": {
+        "en": "Why is Venice described as the best-known example of overtourism?",
+        "vi": "Vì sao Venice được gọi là ví dụ nổi tiếng nhất về du lịch quá tải?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It has no hotels, so visitors have to sleep on boats in the harbor.",
+            "vi": "Vì không có khách sạn nên du khách phải ngủ trên thuyền ở bến cảng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It has no hotels, so visitors have to sleep on boats in the harbor.",
+          "text_translation": "Vì không có khách sạn nên du khách phải ngủ trên thuyền ở bến cảng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Its streets are very wide, so visitors cannot find their way.",
+            "vi": "Vì đường phố rất rộng nên du khách không tìm được đường."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Its streets are very wide, so visitors cannot find their way.",
+          "text_translation": "Vì đường phố rất rộng nên du khách không tìm được đường."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Nobody wants to visit it any more because it is too expensive.",
+            "vi": "Vì không ai muốn tới nữa do quá đắt đỏ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Nobody wants to visit it any more because it is too expensive.",
+          "text_translation": "Vì không ai muốn tới nữa do quá đắt đỏ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Fewer than 50,000 people live in its center, but millions of visitors come.",
+            "vi": "Vì trung tâm chỉ có chưa tới 50.000 cư dân, nhưng có hằng triệu du khách tới."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Fewer than 50,000 people live in its center, but millions of visitors come.",
+          "text_translation": "Vì trung tâm chỉ có chưa tới 50.000 cư dân, nhưng có hằng triệu du khách tới."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Fewer than 50,000 people now live in its historic center, while millions of visitors walk through its narrow streets every year.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why is Venice described as the best-known example of overtourism?",
+      "question_vn": "Vì sao Venice được gọi là ví dụ nổi tiếng nhất về du lịch quá tải?",
+      "explanation": "\"Fewer than 50,000 people now live in its historic center, while millions of visitors walk through its narrow streets every year.\""
+    },
+    {
+      "id": "q_u1314_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_02",
+      "i18n": {
+        "en": "What did Venice begin to do in 2024?",
+        "vi": "Năm 2024 Venice bắt đầu làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "close its historic center to all foreign visitors",
+            "vi": "đóng cửa trung tâm lịch sử với mọi du khách nước ngoài"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "close its historic center to all foreign visitors",
+          "text_translation": "đóng cửa trung tâm lịch sử với mọi du khách nước ngoài"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "charge day visitors an entry fee on its busiest days",
+            "vi": "thu phí vào cửa với khách đi trong ngày vào những ngày đông nhất"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "charge day visitors an entry fee on its busiest days",
+          "text_translation": "thu phí vào cửa với khách đi trong ngày vào những ngày đông nhất"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "ban photos in its narrow streets",
+            "vi": "cấm chụp ảnh trong những con phố hẹp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "ban photos in its narrow streets",
+          "text_translation": "cấm chụp ảnh trong những con phố hẹp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "ban cruise ships from the harbor",
+            "vi": "cấm tàu du lịch vào bến cảng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "ban cruise ships from the harbor",
+          "text_translation": "cấm tàu du lịch vào bến cảng"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"the city began charging day visitors a small entry fee on its busiest days\"."
+      },
+      "audio_data": null,
+      "question_jp": "What did Venice begin to do in 2024?",
+      "question_vn": "Năm 2024 Venice bắt đầu làm gì?",
+      "explanation": "\"the city began charging day visitors a small entry fee on its busiest days\"."
+    },
+    {
+      "id": "q_u1314_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_02",
+      "i18n": {
+        "en": "Why were some lanes in Kyoto's Gion district closed to tourists?",
+        "vi": "Vì sao một số ngõ ở khu Gion, Kyoto bị cấm khách du lịch?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The lanes were too narrow for cars and buses to drive through safely.",
+            "vi": "Vì ngõ quá hẹp để ô tô và xe buýt đi qua an toàn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The lanes were too narrow for cars and buses to drive through safely.",
+          "text_translation": "Vì ngõ quá hẹp để ô tô và xe buýt đi qua an toàn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The lanes were being repaired after a long period of heavy rain.",
+            "vi": "Vì ngõ đang được sửa sau đợt mưa lớn kéo dài."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The lanes were being repaired after a long period of heavy rain.",
+          "text_translation": "Vì ngõ đang được sửa sau đợt mưa lớn kéo dài."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Residents complained that visitors followed people and took photos.",
+            "vi": "Vì cư dân phàn nàn du khách bám theo người ta và chụp ảnh."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Residents complained that visitors followed people and took photos.",
+          "text_translation": "Vì cư dân phàn nàn du khách bám theo người ta và chụp ảnh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tourists didn't want to go there because the lanes were dirty.",
+            "vi": "Vì du khách không muốn tới do các ngõ bẩn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Tourists didn't want to go there because the lanes were dirty.",
+          "text_translation": "Vì du khách không muốn tới do các ngõ bẩn."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"residents complained that visitors were following people and taking photos without asking.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why were some lanes in Kyoto's Gion district closed to tourists?",
+      "question_vn": "Vì sao một số ngõ ở khu Gion, Kyoto bị cấm khách du lịch?",
+      "explanation": "\"residents complained that visitors were following people and taking photos without asking.\""
+    },
+    {
+      "id": "q_u1314_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_02",
+      "i18n": {
+        "en": "What happened to Maya Bay after it was closed?",
+        "vi": "Vịnh Maya ra sao sau khi bị đóng cửa?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It was turned into a large hotel with a car park and a private beach for rich visitors.",
+            "vi": "Nó bị biến thành khách sạn lớn có bãi đỗ xe và bãi biển riêng cho khách giàu."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It was turned into a large hotel with a car park and a private beach for rich visitors.",
+          "text_translation": "Nó bị biến thành khách sạn lớn có bãi đỗ xe và bãi biển riêng cho khách giàu."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Its coral died because of the closure and never grew back.",
+            "vi": "San hô chết vì việc đóng cửa và không mọc lại."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Its coral died because of the closure and never grew back.",
+          "text_translation": "San hô chết vì việc đóng cửa và không mọc lại."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It never reopened because the Thai government sold the land.",
+            "vi": "Nó không bao giờ mở lại vì chính phủ Thái Lan bán đất."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It never reopened because the Thai government sold the land.",
+          "text_translation": "Nó không bao giờ mở lại vì chính phủ Thái Lan bán đất."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Its coral and sea life began to recover, and visitor numbers were limited.",
+            "vi": "San hô và sinh vật biển bắt đầu hồi phục, và số khách bị giới hạn."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Its coral and sea life began to recover, and visitor numbers were limited.",
+          "text_translation": "San hô và sinh vật biển bắt đầu hồi phục, và số khách bị giới hạn."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"its coral and sea life began to recover, and when the bay reopened, the number of visitors was strictly limited and swimming was banned.\""
+      },
+      "audio_data": null,
+      "question_jp": "What happened to Maya Bay after it was closed?",
+      "question_vn": "Vịnh Maya ra sao sau khi bị đóng cửa?",
+      "explanation": "\"its coral and sea life began to recover, and when the bay reopened, the number of visitors was strictly limited and swimming was banned.\""
+    },
+    {
+      "id": "q_u1314_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_02",
+      "i18n": {
+        "en": "Which argument AGAINST limits on tourism is given?",
+        "vi": "Lý lẽ nào PHẢN ĐỐI việc hạn chế du lịch được nêu ra?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Fees may make travel a privilege for the wealthy, and local businesses need visitors.",
+            "vi": "Thu phí có thể khiến du lịch thành đặc quyền của người giàu, và cơ sở địa phương cần du khách."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Fees may make travel a privilege for the wealthy, and local businesses need visitors.",
+          "text_translation": "Thu phí có thể khiến du lịch thành đặc quyền của người giàu, và cơ sở địa phương cần du khách."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Coral grows back quickly, so there is no reason to close a bay for years.",
+            "vi": "San hô mọc lại nhanh nên không có lý do đóng cửa một vịnh nhiều năm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Coral grows back quickly, so there is no reason to close a bay for years.",
+          "text_translation": "San hô mọc lại nhanh nên không có lý do đóng cửa một vịnh nhiều năm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Residents enjoy having more visitors in their streets.",
+            "vi": "Cư dân thích có thêm nhiều du khách trên phố."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Residents enjoy having more visitors in their streets.",
+          "text_translation": "Cư dân thích có thêm nhiều du khách trên phố."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Photos are good for a city, so tourists should take more of them.",
+            "vi": "Ảnh chụp tốt cho thành phố nên du khách nên chụp nhiều hơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Photos are good for a city, so tourists should take more of them.",
+          "text_translation": "Ảnh chụp tốt cho thành phố nên du khách nên chụp nhiều hơn."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"Many local businesses depend on visitors, and some people argue that fees simply make travel a privilege for the wealthy.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which argument AGAINST limits on tourism is given?",
+      "question_vn": "Lý lẽ nào PHẢN ĐỐI việc hạn chế du lịch được nêu ra?",
+      "explanation": "\"Many local businesses depend on visitors, and some people argue that fees simply make travel a privilege for the wealthy.\""
+    },
+    {
+      "id": "q_u1314_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_02",
+      "i18n": {
+        "en": "What do others mean by \"a place which is destroyed by its own popularity will soon have no visitors at all\"?",
+        "vi": "Những người khác muốn nói gì qua câu \"một nơi bị chính sự nổi tiếng của mình tàn phá thì chẳng bao lâu sẽ không còn ai tới\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Popular places are always destroyed by their visitors in the end.",
+            "vi": "Nơi nổi tiếng nào rốt cuộc cũng bị du khách tàn phá."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Popular places are always destroyed by their visitors in the end.",
+          "text_translation": "Nơi nổi tiếng nào rốt cuộc cũng bị du khách tàn phá."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Limiting visitors now can protect tourism in the long term.",
+            "vi": "Hạn chế khách bây giờ có thể bảo vệ du lịch về lâu dài."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Limiting visitors now can protect tourism in the long term.",
+          "text_translation": "Hạn chế khách bây giờ có thể bảo vệ du lịch về lâu dài."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Nobody should travel to famous places at all.",
+            "vi": "Không ai nên tới những nơi nổi tiếng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Nobody should travel to famous places at all.",
+          "text_translation": "Không ai nên tới những nơi nổi tiếng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Fees should be very high for every visitor.",
+            "vi": "Phí nên thật cao với mọi du khách."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Fees should be very high for every visitor.",
+          "text_translation": "Phí nên thật cao với mọi du khách."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Nếu để quá tải, nơi đó mất đi vẻ đẹp và sẽ chẳng còn khách, nên giới hạn hôm nay là để giữ du lịch cho tương lai."
+      },
+      "audio_data": null,
+      "question_jp": "What do others mean by \"a place which is destroyed by its own popularity will soon have no visitors at all\"?",
+      "question_vn": "Những người khác muốn nói gì qua câu \"một nơi bị chính sự nổi tiếng của mình tàn phá thì chẳng bao lâu sẽ không còn ai tới\"?",
+      "explanation": "Câu suy luận. Nếu để quá tải, nơi đó mất đi vẻ đẹp và sẽ chẳng còn khách, nên giới hạn hôm nay là để giữ du lịch cho tương lai."
+    },
+    {
+      "id": "q_u1314_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_02",
+      "i18n": {
+        "en": "Which of these is NOT advice for travelers in the article?",
+        "vi": "Điều nào KHÔNG phải lời khuyên cho du khách trong bài?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "visit outside the busiest months of the year",
+            "vi": "đi vào những tháng vắng khách trong năm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "visit outside the busiest months of the year",
+          "text_translation": "đi vào những tháng vắng khách trong năm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "stay longer in one place rather than rushing between five",
+            "vi": "ở lâu một chỗ thay vì chạy qua năm nơi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "stay longer in one place rather than rushing between five",
+          "text_translation": "ở lâu một chỗ thay vì chạy qua năm nơi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "buy from local shops and eat in family restaurants",
+            "vi": "mua ở cửa hàng địa phương và ăn ở quán gia đình"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "buy from local shops and eat in family restaurants",
+          "text_translation": "mua ở cửa hàng địa phương và ăn ở quán gia đình"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "visit as many famous places as you can in one trip",
+            "vi": "đi càng nhiều nơi nổi tiếng càng tốt trong một chuyến"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "visit as many famous places as you can in one trip",
+          "text_translation": "đi càng nhiều nơi nổi tiếng càng tốt trong một chuyến"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Bài khuyên \"staying longer in one place rather than rushing between five\", tức là ngược với việc chạy qua thật nhiều nơi."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT advice for travelers in the article?",
+      "question_vn": "Điều nào KHÔNG phải lời khuyên cho du khách trong bài?",
+      "explanation": "Bài khuyên \"staying longer in one place rather than rushing between five\", tức là ngược với việc chạy qua thật nhiều nơi."
+    },
+    {
+      "id": "q_u1314_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u1314_02",
+      "i18n": {
+        "en": "Use both texts. Which advice from the article would Harriet's lunch project support most clearly?",
+        "vi": "Dựa vào cả hai bài. Bữa trưa của bà Harriet thể hiện rõ nhất lời khuyên nào trong bài báo?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "visiting outside the busiest months",
+            "vi": "đi vào những tháng vắng khách"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "visiting outside the busiest months",
+          "text_translation": "đi vào những tháng vắng khách"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "eating in small places run by local families",
+            "vi": "ăn ở những quán nhỏ do gia đình địa phương mở"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "eating in small places run by local families",
+          "text_translation": "ăn ở những quán nhỏ do gia đình địa phương mở"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "choosing places that few people have heard of",
+            "vi": "chọn những nơi ít người biết"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "choosing places that few people have heard of",
+          "text_translation": "chọn những nơi ít người biết"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "not taking photos of people's homes",
+            "vi": "không chụp ảnh nhà người ta"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "not taking photos of people's homes",
+          "text_translation": "không chụp ảnh nhà người ta"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bài 2 khuyên \"Eating in small restaurants run by local families\". Quán Harriet's là quán nhỏ của người trong phố, và món ăn do chính các gia đình hàng xóm nấu."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. Which advice from the article would Harriet's lunch project support most clearly?",
+      "question_vn": "Dựa vào cả hai bài. Bữa trưa của bà Harriet thể hiện rõ nhất lời khuyên nào trong bài báo?",
+      "explanation": "Câu nối hai bài. Bài 2 khuyên \"Eating in small restaurants run by local families\". Quán Harriet's là quán nhỏ của người trong phố, và món ăn do chính các gia đình hàng xóm nấu."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u1314_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 13) — Quán Harriet's ra mắt \"Bàn ăn của hàng xóm\"",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u1314_01",
+      "question_ids": [
+        "q_u1314_001",
+        "q_u1314_002",
+        "q_u1314_003",
+        "q_u1314_004",
+        "q_u1314_005",
+        "q_u1314_006",
+        "q_u1314_007",
+        "q_u1314_008",
+        "q_u1314_009",
+        "q_u1314_010"
+      ]
+    },
+    {
+      "set_id": "set_u1314_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 14) — Du lịch quá tải và cách các điểm đến xoay xở",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u1314_02",
+      "question_ids": [
+        "q_u1314_011",
+        "q_u1314_012",
+        "q_u1314_013",
+        "q_u1314_014",
+        "q_u1314_015",
+        "q_u1314_016",
+        "q_u1314_017",
+        "q_u1314_018",
+        "q_u1314_019",
+        "q_u1314_020"
+      ]
+    }
+  ]
+}

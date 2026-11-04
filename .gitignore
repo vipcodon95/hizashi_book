@@ -29,8 +29,7 @@ venv/
 *.tmp
 *.bak
 
-# Pipeline state — KHÔNG track state file (chỉ là local progress)
-books/*/_pipeline/state.json
+# Pipeline state: state.json ĐƯỢC track (03/11/2026) — làm trên cloud, không commit là mất tiến độ
 books/*/_pipeline/.lock
 
 # Audio uploads (nếu có sau này)

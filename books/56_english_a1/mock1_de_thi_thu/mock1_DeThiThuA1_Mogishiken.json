@@ -1,0 +1,2743 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "A1 Mock Test",
+      "vi": "Đề thi thử A1"
+    },
+    "title": "A1 Mock Test",
+    "title_vn": "Đề thi thử A1",
+    "module_code": "56_mock1",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A1",
+    "curriculum_unit": "a1.mock1",
+    "curriculum_sheets": [
+      "a1.01",
+      "a1.02",
+      "a1.03",
+      "a1.04",
+      "a1.05",
+      "a1.06",
+      "a1.07",
+      "a1.08",
+      "a1.09",
+      "a1.10",
+      "a1.11",
+      "a1.12",
+      "a1.13",
+      "a1.14",
+      "a1.15",
+      "a1.16",
+      "a1.17",
+      "a1.18",
+      "a1.19",
+      "a1.20",
+      "a1.21",
+      "a1.22",
+      "a1.23",
+      "a1.24",
+      "a1.25",
+      "a1.26",
+      "a1.27",
+      "a1.28",
+      "a1.29",
+      "a1.30",
+      "a1.31",
+      "a1.32",
+      "a1.33",
+      "a1.34",
+      "a1.35",
+      "a1.36",
+      "a1.37",
+      "a1.38",
+      "a1.39",
+      "a1.40",
+      "a1.41",
+      "a1.42",
+      "a1.43",
+      "a1.44",
+      "a1.45",
+      "a1.46",
+      "a1.47",
+      "a1.48",
+      "a1.49",
+      "a1.50",
+      "a1.51",
+      "a1.52",
+      "a1.53",
+      "a1.54",
+      "a1.55",
+      "a1.56",
+      "a1.57",
+      "a1.58",
+      "a1.59",
+      "a1.60",
+      "a1.61",
+      "a1.62",
+      "a1.63",
+      "a1.64"
+    ],
+    "characters": [
+      "Megan Carter",
+      "Tracy Carter",
+      "Mitchell Carter",
+      "Trevor Carter",
+      "Tina Carter",
+      "Amy Brooks",
+      "Leah Carter",
+      "Biscuit",
+      "Grace Miller",
+      "you"
+    ],
+    "story_time_i18n": {
+      "vi": "đầu tháng 7, năm 2 (kỳ nghỉ hè)"
+    },
+    "total_passages": 4,
+    "total_questions": 20,
+    "focus": "Đề tổng hợp A1: biển báo, tin nhắn, email, đoạn văn giới thiệu; thông tin cụ thể, đại từ, mục đích, ý chính, suy luận đơn giản",
+    "description_vn": "Đề thi thử cuối sách A1: 4 phần × 5 câu = 20 câu, làm trong 30 phút."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Đề thi thử cuối sách · ôn toàn bộ khoá A1, phiếu `a1.01` – `a1.64` (16 unit)."
+    },
+    "objective_i18n": {
+      "vi": "Đề thi thử 20 câu, làm trong 30 phút. Đề có 4 phần × 5 câu, khó dần: biển báo và thông báo ngắn → tin nhắn → email → đoạn văn giới thiệu một nghề. Đề kiểm tra tìm thông tin cụ thể (giờ, ngày, nơi chốn), hiểu he / she / they / it chỉ ai, mục đích văn bản, ý chính, và 4 câu suy luận đơn giản. Bài đọc dùng mọi ngữ pháp A1: hiện tại đơn, hiện tại tiếp diễn, going to, will, so sánh hơn, quá khứ đơn."
+    },
+    "extra_words": [
+      {
+        "word": "adult",
+        "i18n": {
+          "vi": "người lớn"
+        }
+      },
+      {
+        "word": "fridge",
+        "i18n": {
+          "vi": "tủ lạnh"
+        }
+      },
+      {
+        "word": "swimsuit",
+        "i18n": {
+          "vi": "đồ bơi"
+        }
+      },
+      {
+        "word": "carrier",
+        "i18n": {
+          "vi": "người mang, người chuyển (mail carrier = người đưa thư)"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "Buy two, get one free.",
+          "vi": "Mua hai tặng một."
+        }
+      },
+      {
+        "i18n": {
+          "en": "turn off your phone",
+          "vi": "tắt điện thoại"
+        }
+      },
+      {
+        "i18n": {
+          "en": "in front of the bank",
+          "vi": "trước cửa ngân hàng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "What about dinner?",
+          "vi": "Thế còn bữa tối thì sao?"
+        }
+      },
+      {
+        "i18n": {
+          "en": "room for one more person",
+          "vi": "chỗ cho thêm một người"
+        }
+      },
+      {
+        "i18n": {
+          "en": "from house to house",
+          "vi": "từ nhà này sang nhà khác"
+        }
+      },
+      {
+        "i18n": {
+          "en": "happier than before",
+          "vi": "vui hơn trước"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**Quản lý thời gian:** 30 phút cho 20 câu. Phần 1 và Phần 2 làm nhanh (khoảng 5–6 phút mỗi phần), để dành khoảng 10 phút cho Phần 4 dài nhất, và chừa 2–3 phút cuối để soát lại phiếu trả lời."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Đọc câu hỏi trước, rồi mới đọc bài.** Gạch chân từ để hỏi (What time, Where, Who, Why) và từ khoá (tên người, ngày, NOT), rồi đọc bài để tìm đúng chỗ có thông tin đó."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Loại trừ phương án sai.** Phương án nhiễu thường dùng chữ có thật trong bài nhưng nói về người khác, giờ khác hoặc ngày khác. Gạch các phương án chắc chắn sai trước, rồi so hai phương án còn lại với câu trong bài."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Câu đại từ và câu suy luận:** gặp he / she / they / it, đọc lại câu ngay trước nó. Câu suy luận không có đáp án chép sẵn: nối hai thông tin trong bài (ví dụ summer + tháng Tám)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Không bỏ trống câu nào.** Câu sai không bị trừ điểm. Hết giờ mà chưa chắc thì vẫn khoanh phương án còn lại sau khi loại trừ."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_mock1_01",
+      "heading_i18n": {
+        "vi": "Phần 1 — Biển báo và thông báo"
+      },
+      "title": "Signs Around Town",
+      "category": "notice",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 90,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Signs Around Town",
+            "vi": "Biển báo quanh thành phố"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "1.",
+          "i18n": {
+            "en": "City Pool",
+            "vi": "Hồ bơi thành phố"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "No running, please.",
+            "vi": "Vui lòng không chạy."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Children under eight need an adult with them in the water.",
+            "vi": "Trẻ em dưới tám tuổi cần có người lớn đi cùng khi xuống nước."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "2.",
+          "i18n": {
+            "en": "Reading Room",
+            "vi": "Phòng đọc"
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Quiet, please!",
+            "vi": "Xin giữ yên lặng!"
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "People are reading and studying here.",
+            "vi": "Mọi người đang đọc sách và học bài ở đây."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please turn off your phone.",
+            "vi": "Vui lòng tắt điện thoại."
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "No food or drinks in this room.",
+            "vi": "Không mang đồ ăn, thức uống vào phòng này."
+          }
+        },
+        {
+          "n": 10,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You can eat and drink in the cafe on the first floor.",
+            "vi": "Bạn có thể ăn uống ở quán cà phê dưới tầng trệt."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "3.",
+          "i18n": {
+            "en": "Hot Bread Every Morning",
+            "vi": "Bánh mì nóng mỗi sáng"
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Buy two, get one free.",
+            "vi": "Mua hai tặng một."
+          }
+        },
+        {
+          "n": 13,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Only on Sundays, from 7 to 10 a.m.",
+            "vi": "Chỉ vào Chủ nhật, từ 7 đến 10 giờ sáng."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "4.",
+          "i18n": {
+            "en": "Bus Stop",
+            "vi": "Trạm xe buýt"
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This week, the number 7 bus does not stop here.",
+            "vi": "Tuần này, xe buýt số 7 không dừng ở đây."
+          }
+        },
+        {
+          "n": 16,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please walk to the bus stop in front of the bank.",
+            "vi": "Vui lòng đi bộ tới trạm xe buýt trước cửa ngân hàng."
+          }
+        },
+        {
+          "n": 17,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is two minutes from here.",
+            "vi": "Trạm đó cách đây hai phút đi bộ."
+          }
+        },
+        {
+          "n": 18,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "5.",
+          "i18n": {
+            "en": "Found in the Park",
+            "vi": "Đồ nhặt được ở công viên"
+          }
+        },
+        {
+          "n": 19,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Is this your jacket?",
+            "vi": "Đây có phải áo khoác của bạn không?"
+          }
+        },
+        {
+          "n": 20,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We found a small blue jacket in the park on Tuesday.",
+            "vi": "Chúng tôi nhặt được một chiếc áo khoác nhỏ màu xanh dương trong công viên hôm thứ Ba."
+          }
+        },
+        {
+          "n": 21,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please ask for it at the front desk of the City Library.",
+            "vi": "Xin mời tới quầy tiếp đón của Thư viện Thành phố để nhận lại."
+          }
+        },
+        {
+          "n": 22,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The library is open from 9 a.m. to 9 p.m.",
+            "vi": "Thư viện mở cửa từ 9 giờ sáng đến 9 giờ tối."
+          }
+        }
+      ],
+      "content_ja": "Signs Around Town\n\n1. City Pool\n\nNo running, please. Children under eight need an adult with them in the water.\n\n2. Reading Room\n\nQuiet, please! People are reading and studying here. Please turn off your phone. No food or drinks in this room. You can eat and drink in the cafe on the first floor.\n\n3. Hot Bread Every Morning\n\nBuy two, get one free. Only on Sundays, from 7 to 10 a.m.\n\n4. Bus Stop\n\nThis week, the number 7 bus does not stop here. Please walk to the bus stop in front of the bank. It is two minutes from here.\n\n5. Found in the Park\n\nIs this your jacket? We found a small blue jacket in the park on Tuesday. Please ask for it at the front desk of the City Library. The library is open from 9 a.m. to 9 p.m.",
+      "translation_vn": "(1) Biển báo quanh thành phố\n(2) Hồ bơi thành phố\n(3) Vui lòng không chạy.\n(4) Trẻ em dưới tám tuổi cần có người lớn đi cùng khi xuống nước.\n(5) Phòng đọc\n(6) Xin giữ yên lặng!\n(7) Mọi người đang đọc sách và học bài ở đây.\n(8) Vui lòng tắt điện thoại.\n(9) Không mang đồ ăn, thức uống vào phòng này.\n(10) Bạn có thể ăn uống ở quán cà phê dưới tầng trệt.\n(11) Bánh mì nóng mỗi sáng\n(12) Mua hai tặng một.\n(13) Chỉ vào Chủ nhật, từ 7 đến 10 giờ sáng.\n(14) Trạm xe buýt\n(15) Tuần này, xe buýt số 7 không dừng ở đây.\n(16) Vui lòng đi bộ tới trạm xe buýt trước cửa ngân hàng.\n(17) Trạm đó cách đây hai phút đi bộ.\n(18) Đồ nhặt được ở công viên\n(19) Đây có phải áo khoác của bạn không?\n(20) Chúng tôi nhặt được một chiếc áo khoác nhỏ màu xanh dương trong công viên hôm thứ Ba.\n(21) Xin mời tới quầy tiếp đón của Thư viện Thành phố để nhận lại.\n(22) Thư viện mở cửa từ 9 giờ sáng đến 9 giờ tối.",
+      "word_count": 138,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.01",
+        "a1.02",
+        "a1.03",
+        "a1.04",
+        "a1.05",
+        "a1.06",
+        "a1.07",
+        "a1.08",
+        "a1.09",
+        "a1.10",
+        "a1.11",
+        "a1.12",
+        "a1.13",
+        "a1.14",
+        "a1.15",
+        "a1.16",
+        "a1.17",
+        "a1.18",
+        "a1.19",
+        "a1.20",
+        "a1.21",
+        "a1.22",
+        "a1.23",
+        "a1.24",
+        "a1.25",
+        "a1.26",
+        "a1.27",
+        "a1.28",
+        "a1.29",
+        "a1.30",
+        "a1.31",
+        "a1.32",
+        "a1.33",
+        "a1.34",
+        "a1.35",
+        "a1.36",
+        "a1.37",
+        "a1.38",
+        "a1.39",
+        "a1.40",
+        "a1.41",
+        "a1.42",
+        "a1.43",
+        "a1.44",
+        "a1.45",
+        "a1.46",
+        "a1.47",
+        "a1.48",
+        "a1.49",
+        "a1.50",
+        "a1.51",
+        "a1.52",
+        "a1.53",
+        "a1.54",
+        "a1.55",
+        "a1.56",
+        "a1.57",
+        "a1.58",
+        "a1.59",
+        "a1.60",
+        "a1.61",
+        "a1.62",
+        "a1.63",
+        "a1.64"
+      ],
+      "narrator": "announcer"
+    },
+    {
+      "id": "passage_mock1_02",
+      "heading_i18n": {
+        "vi": "Phần 2 — Tin nhắn"
+      },
+      "title": "A Late Night for Mom",
+      "category": "letter",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 80,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A Late Night for Mom",
+            "vi": "Hôm nay mẹ về muộn"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Hi, Tracy. I'm still at the hospital.",
+            "vi": "Tracy à, mẹ vẫn đang ở bệnh viện."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "There are a lot of sick people here today, so I'll be home late, at about nine.",
+            "vi": "Hôm nay ở đây đông người bệnh lắm, nên mẹ sẽ về muộn, khoảng chín giờ."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Are you OK, Mom?",
+            "vi": "Mẹ có sao không ạ?"
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "I'm fine, just tired.",
+            "vi": "Mẹ không sao, chỉ hơi mệt thôi."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Dad and Trevor are at a soccer game, and they will be home at seven.",
+            "vi": "Bố với Trevor đang ở trận bóng đá, bảy giờ hai người mới về."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Can you get Tina from Amy's house at five?",
+            "vi": "Năm giờ con sang nhà Amy đón Tina được không?"
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Sure. What about dinner?",
+            "vi": "Dạ được ạ. Thế còn bữa tối thì sao mẹ?"
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "There's chicken and rice in the fridge.",
+            "vi": "Trong tủ lạnh có gà và cơm đấy."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Please don't give any chicken to Biscuit!",
+            "vi": "Đừng cho Biscuit miếng gà nào nhé!"
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "OK! I'll close the kitchen door.",
+            "vi": "Dạ! Con sẽ đóng cửa bếp lại."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "And Leah is at home, so she can help me.",
+            "vi": "Với lại chị Leah đang ở nhà, nên chị ấy giúp con được."
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Megan",
+          "label": null,
+          "i18n": {
+            "en": "Thank you, Tracy. You're the best!",
+            "vi": "Cảm ơn con, Tracy. Con là nhất!"
+          }
+        }
+      ],
+      "content_ja": "A Late Night for Mom\n\nMegan: Hi, Tracy. I'm still at the hospital. There are a lot of sick people here today, so I'll be home late, at about nine.\n\nTracy: Are you OK, Mom?\n\nMegan: I'm fine, just tired. Dad and Trevor are at a soccer game, and they will be home at seven. Can you get Tina from Amy's house at five?\n\nTracy: Sure. What about dinner?\n\nMegan: There's chicken and rice in the fridge. Please don't give any chicken to Biscuit!\n\nTracy: OK! I'll close the kitchen door. And Leah is at home, so she can help me.\n\nMegan: Thank you, Tracy. You're the best!",
+      "translation_vn": "(1) Hôm nay mẹ về muộn\n(2) Megan: Tracy à, mẹ vẫn đang ở bệnh viện.\n(3) Megan: Hôm nay ở đây đông người bệnh lắm, nên mẹ sẽ về muộn, khoảng chín giờ.\n(4) Tracy: Mẹ có sao không ạ?\n(5) Megan: Mẹ không sao, chỉ hơi mệt thôi.\n(6) Megan: Bố với Trevor đang ở trận bóng đá, bảy giờ hai người mới về.\n(7) Megan: Năm giờ con sang nhà Amy đón Tina được không?\n(8) Tracy: Dạ được ạ. Thế còn bữa tối thì sao mẹ?\n(9) Megan: Trong tủ lạnh có gà và cơm đấy.\n(10) Megan: Đừng cho Biscuit miếng gà nào nhé!\n(11) Tracy: Dạ! Con sẽ đóng cửa bếp lại.\n(12) Tracy: Với lại chị Leah đang ở nhà, nên chị ấy giúp con được.\n(13) Megan: Cảm ơn con, Tracy. Con là nhất!",
+      "word_count": 101,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.01",
+        "a1.02",
+        "a1.03",
+        "a1.04",
+        "a1.05",
+        "a1.06",
+        "a1.07",
+        "a1.08",
+        "a1.09",
+        "a1.10",
+        "a1.11",
+        "a1.12",
+        "a1.13",
+        "a1.14",
+        "a1.15",
+        "a1.16",
+        "a1.17",
+        "a1.18",
+        "a1.19",
+        "a1.20",
+        "a1.21",
+        "a1.22",
+        "a1.23",
+        "a1.24",
+        "a1.25",
+        "a1.26",
+        "a1.27",
+        "a1.28",
+        "a1.29",
+        "a1.30",
+        "a1.31",
+        "a1.32",
+        "a1.33",
+        "a1.34",
+        "a1.35",
+        "a1.36",
+        "a1.37",
+        "a1.38",
+        "a1.39",
+        "a1.40",
+        "a1.41",
+        "a1.42",
+        "a1.43",
+        "a1.44",
+        "a1.45",
+        "a1.46",
+        "a1.47",
+        "a1.48",
+        "a1.49",
+        "a1.50",
+        "a1.51",
+        "a1.52",
+        "a1.53",
+        "a1.54",
+        "a1.55",
+        "a1.56",
+        "a1.57",
+        "a1.58",
+        "a1.59",
+        "a1.60",
+        "a1.61",
+        "a1.62",
+        "a1.63",
+        "a1.64"
+      ],
+      "narrator": "announcer"
+    },
+    {
+      "id": "passage_mock1_03",
+      "heading_i18n": {
+        "vi": "Phần 3 — Email"
+      },
+      "title": "Beach Day on Saturday!",
+      "category": "letter",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 100,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Beach Day on Saturday!",
+            "vi": "Thứ Bảy này đi biển nhé!"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hi!",
+            "vi": "Chào bạn!"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This Saturday, my family is going to the beach.",
+            "vi": "Thứ Bảy này, cả nhà mình sẽ đi biển."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Do you want to come with us?",
+            "vi": "Bạn có muốn đi cùng không?"
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We're going to leave at nine in the morning in Dad's car, and there is room for one more person.",
+            "vi": "Nhà mình sẽ xuất phát lúc chín giờ sáng bằng xe của bố, và trên xe còn chỗ cho một người nữa."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dad is going to cook hamburgers on the beach.",
+            "vi": "Bố mình sẽ nướng bánh hamburger ngay trên bãi biển."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You don't need to bring any food.",
+            "vi": "Bạn không cần mang đồ ăn đâu."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please bring a swimsuit, a towel and a hat, because the sun is very strong in July.",
+            "vi": "Bạn nhớ mang đồ bơi, khăn tắm và mũ nhé, vì nắng tháng Bảy rất gắt."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tina and Amy want to play in the water with you!",
+            "vi": "Tina và Amy muốn chơi dưới nước cùng bạn đấy!"
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mom is coming, too.",
+            "vi": "Mẹ mình cũng đi."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But Biscuit is going to stay at home with Leah, because she wants a quiet day.",
+            "vi": "Còn Biscuit sẽ ở nhà với chị Leah, vì chị ấy muốn có một ngày yên tĩnh."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please answer by Thursday, because Dad needs to buy the food on Friday.",
+            "vi": "Bạn trả lời mình trước thứ Năm nhé, vì thứ Sáu bố cần đi mua đồ ăn."
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "See you soon!",
+            "vi": "Hẹn sớm gặp bạn!"
+          }
+        },
+        {
+          "n": 14,
+          "para": 9,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tracy",
+            "vi": "Tracy"
+          }
+        }
+      ],
+      "content_ja": "Beach Day on Saturday!\n\nHi!\n\nThis Saturday, my family is going to the beach. Do you want to come with us?\n\nWe're going to leave at nine in the morning in Dad's car, and there is room for one more person. Dad is going to cook hamburgers on the beach. You don't need to bring any food.\n\nPlease bring a swimsuit, a towel and a hat, because the sun is very strong in July. Tina and Amy want to play in the water with you!\n\nMom is coming, too. But Biscuit is going to stay at home with Leah, because she wants a quiet day.\n\nPlease answer by Thursday, because Dad needs to buy the food on Friday.\n\nSee you soon!\n\nTracy",
+      "translation_vn": "(1) Thứ Bảy này đi biển nhé!\n(2) Chào bạn!\n(3) Thứ Bảy này, cả nhà mình sẽ đi biển.\n(4) Bạn có muốn đi cùng không?\n(5) Nhà mình sẽ xuất phát lúc chín giờ sáng bằng xe của bố, và trên xe còn chỗ cho một người nữa.\n(6) Bố mình sẽ nướng bánh hamburger ngay trên bãi biển.\n(7) Bạn không cần mang đồ ăn đâu.\n(8) Bạn nhớ mang đồ bơi, khăn tắm và mũ nhé, vì nắng tháng Bảy rất gắt.\n(9) Tina và Amy muốn chơi dưới nước cùng bạn đấy!\n(10) Mẹ mình cũng đi.\n(11) Còn Biscuit sẽ ở nhà với chị Leah, vì chị ấy muốn có một ngày yên tĩnh.\n(12) Bạn trả lời mình trước thứ Năm nhé, vì thứ Sáu bố cần đi mua đồ ăn.\n(13) Hẹn sớm gặp bạn!\n(14) Tracy",
+      "word_count": 122,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.01",
+        "a1.02",
+        "a1.03",
+        "a1.04",
+        "a1.05",
+        "a1.06",
+        "a1.07",
+        "a1.08",
+        "a1.09",
+        "a1.10",
+        "a1.11",
+        "a1.12",
+        "a1.13",
+        "a1.14",
+        "a1.15",
+        "a1.16",
+        "a1.17",
+        "a1.18",
+        "a1.19",
+        "a1.20",
+        "a1.21",
+        "a1.22",
+        "a1.23",
+        "a1.24",
+        "a1.25",
+        "a1.26",
+        "a1.27",
+        "a1.28",
+        "a1.29",
+        "a1.30",
+        "a1.31",
+        "a1.32",
+        "a1.33",
+        "a1.34",
+        "a1.35",
+        "a1.36",
+        "a1.37",
+        "a1.38",
+        "a1.39",
+        "a1.40",
+        "a1.41",
+        "a1.42",
+        "a1.43",
+        "a1.44",
+        "a1.45",
+        "a1.46",
+        "a1.47",
+        "a1.48",
+        "a1.49",
+        "a1.50",
+        "a1.51",
+        "a1.52",
+        "a1.53",
+        "a1.54",
+        "a1.55",
+        "a1.56",
+        "a1.57",
+        "a1.58",
+        "a1.59",
+        "a1.60",
+        "a1.61",
+        "a1.62",
+        "a1.63",
+        "a1.64"
+      ],
+      "narrator": "Tracy"
+    },
+    {
+      "id": "passage_mock1_04",
+      "heading_i18n": {
+        "vi": "Phần 4 — Đoạn văn giới thiệu"
+      },
+      "title": "A Day with a Mail Carrier",
+      "category": "story",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 150,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A Day with a Mail Carrier",
+            "vi": "Một ngày cùng người đưa thư"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Meet Grace Miller, a mail carrier in San Diego.",
+            "vi": "Xin giới thiệu Grace Miller, một nhân viên đưa thư ở San Diego."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every day, she brings letters and boxes to about 500 homes.",
+            "vi": "Mỗi ngày, cô mang thư và bưu kiện tới khoảng 500 ngôi nhà."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She gets up at five, and she starts work at half past six.",
+            "vi": "Cô dậy lúc năm giờ và bắt đầu làm việc lúc sáu giờ rưỡi."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After that, she drives a small white truck to her streets, and she walks from house to house.",
+            "vi": "Sau đó cô lái một chiếc xe tải nhỏ màu trắng tới những con phố cô phụ trách, rồi đi bộ từ nhà này sang nhà khác."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She walks for about five hours a day, so she always wears good shoes.",
+            "vi": "Mỗi ngày cô đi bộ khoảng năm tiếng, nên cô lúc nào cũng đi giày tốt."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ten years ago, Grace worked in a shoe shop.",
+            "vi": "Mười năm trước, Grace làm ở một cửa hàng giày."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was a boring job for her, because she was inside all day.",
+            "vi": "Với cô, đó là một công việc buồn tẻ, vì cô phải ở trong nhà cả ngày."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Now she is outside every day, and she is happier than before.",
+            "vi": "Bây giờ ngày nào cô cũng ở ngoài trời, và cô vui hơn trước."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many people on her streets know her.",
+            "vi": "Nhiều người trên những con phố ấy quen cô."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But the job is not always easy.",
+            "vi": "Nhưng công việc này không phải lúc nào cũng dễ."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some dogs are not friendly, so she is always careful.",
+            "vi": "Có những con chó không thân thiện, nên cô luôn cẩn thận."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The work is harder in summer, because the afternoons are very hot.",
+            "vi": "Mùa hè công việc vất vả hơn, vì buổi chiều trời rất nóng."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Soon, Grace will teach new mail carriers, too.",
+            "vi": "Sắp tới, Grace còn sẽ dạy cho những người đưa thư mới."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"Every day, I see the same streets,\" she says, \"but every day is different!\"",
+            "vi": "Cô nói: \"Ngày nào tôi cũng đi những con phố ấy, nhưng chẳng ngày nào giống ngày nào!\""
+          }
+        }
+      ],
+      "content_ja": "A Day with a Mail Carrier\n\nMeet Grace Miller, a mail carrier in San Diego. Every day, she brings letters and boxes to about 500 homes.\n\nShe gets up at five, and she starts work at half past six. After that, she drives a small white truck to her streets, and she walks from house to house. She walks for about five hours a day, so she always wears good shoes.\n\nTen years ago, Grace worked in a shoe shop. It was a boring job for her, because she was inside all day. Now she is outside every day, and she is happier than before. Many people on her streets know her.\n\nBut the job is not always easy. Some dogs are not friendly, so she is always careful. The work is harder in summer, because the afternoons are very hot.\n\nSoon, Grace will teach new mail carriers, too. \"Every day, I see the same streets,\" she says, \"but every day is different!\"",
+      "translation_vn": "(1) Một ngày cùng người đưa thư\n(2) Xin giới thiệu Grace Miller, một nhân viên đưa thư ở San Diego.\n(3) Mỗi ngày, cô mang thư và bưu kiện tới khoảng 500 ngôi nhà.\n(4) Cô dậy lúc năm giờ và bắt đầu làm việc lúc sáu giờ rưỡi.\n(5) Sau đó cô lái một chiếc xe tải nhỏ màu trắng tới những con phố cô phụ trách, rồi đi bộ từ nhà này sang nhà khác.\n(6) Mỗi ngày cô đi bộ khoảng năm tiếng, nên cô lúc nào cũng đi giày tốt.\n(7) Mười năm trước, Grace làm ở một cửa hàng giày.\n(8) Với cô, đó là một công việc buồn tẻ, vì cô phải ở trong nhà cả ngày.\n(9) Bây giờ ngày nào cô cũng ở ngoài trời, và cô vui hơn trước.\n(10) Nhiều người trên những con phố ấy quen cô.\n(11) Nhưng công việc này không phải lúc nào cũng dễ.\n(12) Có những con chó không thân thiện, nên cô luôn cẩn thận.\n(13) Mùa hè công việc vất vả hơn, vì buổi chiều trời rất nóng.\n(14) Sắp tới, Grace còn sẽ dạy cho những người đưa thư mới.\n(15) Cô nói: \"Ngày nào tôi cũng đi những con phố ấy, nhưng chẳng ngày nào giống ngày nào!\"",
+      "word_count": 162,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.01",
+        "a1.02",
+        "a1.03",
+        "a1.04",
+        "a1.05",
+        "a1.06",
+        "a1.07",
+        "a1.08",
+        "a1.09",
+        "a1.10",
+        "a1.11",
+        "a1.12",
+        "a1.13",
+        "a1.14",
+        "a1.15",
+        "a1.16",
+        "a1.17",
+        "a1.18",
+        "a1.19",
+        "a1.20",
+        "a1.21",
+        "a1.22",
+        "a1.23",
+        "a1.24",
+        "a1.25",
+        "a1.26",
+        "a1.27",
+        "a1.28",
+        "a1.29",
+        "a1.30",
+        "a1.31",
+        "a1.32",
+        "a1.33",
+        "a1.34",
+        "a1.35",
+        "a1.36",
+        "a1.37",
+        "a1.38",
+        "a1.39",
+        "a1.40",
+        "a1.41",
+        "a1.42",
+        "a1.43",
+        "a1.44",
+        "a1.45",
+        "a1.46",
+        "a1.47",
+        "a1.48",
+        "a1.49",
+        "a1.50",
+        "a1.51",
+        "a1.52",
+        "a1.53",
+        "a1.54",
+        "a1.55",
+        "a1.56",
+        "a1.57",
+        "a1.58",
+        "a1.59",
+        "a1.60",
+        "a1.61",
+        "a1.62",
+        "a1.63",
+        "a1.64"
+      ],
+      "narrator": "announcer"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_mock1_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "Look at sign 1. Who can swim alone?",
+        "vi": "Xem biển 1. Ai được bơi một mình, không cần người lớn đi cùng?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a five-year-old girl",
+            "vi": "một bé gái năm tuổi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a five-year-old girl",
+          "text_translation": "một bé gái năm tuổi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a seven-year-old boy",
+            "vi": "một bé trai bảy tuổi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a seven-year-old boy",
+          "text_translation": "một bé trai bảy tuổi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a ten-year-old girl",
+            "vi": "một bé gái mười tuổi"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "a ten-year-old girl",
+          "text_translation": "một bé gái mười tuổi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a six-year-old boy",
+            "vi": "một bé trai sáu tuổi"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a six-year-old boy",
+          "text_translation": "một bé trai sáu tuổi"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Children under eight need an adult with them in the water.\" Trẻ dưới 8 tuổi phải có người lớn đi cùng. Bé 5, 6 và 7 tuổi đều dưới 8 tuổi. Chỉ bé 10 tuổi là đã quá 8 tuổi, nên được bơi một mình."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "under eight = dưới tám tuổi. Câu hỏi kiểu này không có đáp án chép sẵn trong biển: phải so từng phương án với con số trong biển."
+      },
+      "question_jp": "Look at sign 1. Who can swim alone?",
+      "question_vn": "Xem biển 1. Ai được bơi một mình, không cần người lớn đi cùng?",
+      "explanation": "\"Children under eight need an adult with them in the water.\" Trẻ dưới 8 tuổi phải có người lớn đi cùng. Bé 5, 6 và 7 tuổi đều dưới 8 tuổi. Chỉ bé 10 tuổi là đã quá 8 tuổi, nên được bơi một mình.",
+      "tip": "under eight = dưới tám tuổi. Câu hỏi kiểu này không có đáp án chép sẵn trong biển: phải so từng phương án với con số trong biển."
+    },
+    {
+      "id": "q_mock1_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "Where can you see sign 2?",
+        "vi": "Bạn có thể thấy biển 2 ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in a library",
+            "vi": "trong thư viện"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "in a library",
+          "text_translation": "trong thư viện"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "in a cafe",
+            "vi": "trong quán cà phê"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "in a cafe",
+          "text_translation": "trong quán cà phê"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at a swimming pool",
+            "vi": "ở hồ bơi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "at a swimming pool",
+          "text_translation": "ở hồ bơi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at a bus stop",
+            "vi": "ở trạm xe buýt"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "at a bus stop",
+          "text_translation": "ở trạm xe buýt"
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"People are reading and studying here.\" Nơi mọi người đọc sách, học bài, phải giữ yên lặng và tắt điện thoại là thư viện. Quán cà phê chỉ là chỗ được ăn uống ở tầng trệt (\"You can eat and drink in the cafe on the first floor.\"), không phải chỗ đặt biển."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi Where can you see …? hỏi biển được đặt ở đâu. Tìm từ cho biết người ta làm gì ở đó: reading, studying → thư viện."
+      },
+      "question_jp": "Where can you see sign 2?",
+      "question_vn": "Bạn có thể thấy biển 2 ở đâu?",
+      "explanation": "\"People are reading and studying here.\" Nơi mọi người đọc sách, học bài, phải giữ yên lặng và tắt điện thoại là thư viện. Quán cà phê chỉ là chỗ được ăn uống ở tầng trệt (\"You can eat and drink in the cafe on the first floor.\"), không phải chỗ đặt biển.",
+      "tip": "Câu hỏi Where can you see …? hỏi biển được đặt ở đâu. Tìm từ cho biết người ta làm gì ở đó: reading, studying → thư viện."
+    },
+    {
+      "id": "q_mock1_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "On sign 3, what does \"Buy two, get one free\" mean?",
+        "vi": "Ở biển 3, \"Buy two, get one free\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "You pay for one and get two.",
+            "vi": "Trả tiền một cái, được hai cái."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "You pay for one and get two.",
+          "text_translation": "Trả tiền một cái, được hai cái."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The bread is free on Sundays.",
+            "vi": "Chủ nhật bánh mì được tặng không."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The bread is free on Sundays.",
+          "text_translation": "Chủ nhật bánh mì được tặng không."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "You can buy only two.",
+            "vi": "Chỉ được mua hai cái."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "You can buy only two.",
+          "text_translation": "Chỉ được mua hai cái."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "You pay for two and get three.",
+            "vi": "Trả tiền hai cái, được ba cái."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "You pay for two and get three.",
+          "text_translation": "Trả tiền hai cái, được ba cái."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"Buy two, get one free.\" Mua hai cái thì được tặng thêm một cái: trả tiền hai, mang về ba. Bánh không được tặng không, và biển không giới hạn chỉ mua hai cái. \"Only on Sundays\" là nói khuyến mãi chỉ có vào sáng Chủ nhật."
+      },
+      "audio_data": null,
+      "question_jp": "On sign 3, what does \"Buy two, get one free\" mean?",
+      "question_vn": "Ở biển 3, \"Buy two, get one free\" nghĩa là gì?",
+      "explanation": "\"Buy two, get one free.\" Mua hai cái thì được tặng thêm một cái: trả tiền hai, mang về ba. Bánh không được tặng không, và biển không giới hạn chỉ mua hai cái. \"Only on Sundays\" là nói khuyến mãi chỉ có vào sáng Chủ nhật."
+    },
+    {
+      "id": "q_mock1_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "What does sign 4 mean?",
+        "vi": "Biển 4 có nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "There are no buses this week.",
+            "vi": "Tuần này không có xe buýt nào."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "There are no buses this week.",
+          "text_translation": "Tuần này không có xe buýt nào."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "This week, the number 7 bus stops in front of the bank.",
+            "vi": "Tuần này, xe buýt số 7 dừng trước cửa ngân hàng."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "This week, the number 7 bus stops in front of the bank.",
+          "text_translation": "Tuần này, xe buýt số 7 dừng trước cửa ngân hàng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The bank is closed this week.",
+            "vi": "Tuần này ngân hàng đóng cửa."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The bank is closed this week.",
+          "text_translation": "Tuần này ngân hàng đóng cửa."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "You can buy bus tickets at the bank.",
+            "vi": "Bạn có thể mua vé xe buýt ở ngân hàng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "You can buy bus tickets at the bank.",
+          "text_translation": "Bạn có thể mua vé xe buýt ở ngân hàng."
+        }
+      ],
+      "evidence_segments": [
+        15,
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"This week, the number 7 bus does not stop here.\" và \"Please walk to the bus stop in front of the bank.\" Xe số 7 vẫn chạy, chỉ đổi chỗ dừng sang trạm trước cửa ngân hàng. Biển không nói ngân hàng đóng cửa hay bán vé."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi What does the sign mean? thường có đáp án nói lại ý của biển bằng chữ khác. Đọc hết các câu trong biển rồi mới chọn."
+      },
+      "question_jp": "What does sign 4 mean?",
+      "question_vn": "Biển 4 có nghĩa là gì?",
+      "explanation": "\"This week, the number 7 bus does not stop here.\" và \"Please walk to the bus stop in front of the bank.\" Xe số 7 vẫn chạy, chỉ đổi chỗ dừng sang trạm trước cửa ngân hàng. Biển không nói ngân hàng đóng cửa hay bán vé.",
+      "tip": "Câu hỏi What does the sign mean? thường có đáp án nói lại ý của biển bằng chữ khác. Đọc hết các câu trong biển rồi mới chọn."
+    },
+    {
+      "id": "q_mock1_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "Who is sign 5 for?",
+        "vi": "Biển 5 dành cho ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "people who work at the library",
+            "vi": "những người làm ở thư viện"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "people who work at the library",
+          "text_translation": "những người làm ở thư viện"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "people who want to buy a jacket",
+            "vi": "những người muốn mua áo khoác"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "people who want to buy a jacket",
+          "text_translation": "những người muốn mua áo khoác"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a person who left a blue jacket in the park",
+            "vi": "người đã để quên áo khoác xanh dương trong công viên"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "a person who left a blue jacket in the park",
+          "text_translation": "người đã để quên áo khoác xanh dương trong công viên"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "children who play in the park on Tuesday",
+            "vi": "trẻ em chơi ở công viên hôm thứ Ba"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "children who play in the park on Tuesday",
+          "text_translation": "trẻ em chơi ở công viên hôm thứ Ba"
+        }
+      ],
+      "evidence_segments": [
+        19,
+        20
+      ],
+      "explanation_i18n": {
+        "vi": "\"Is this your jacket?\" và \"We found a small blue jacket in the park on Tuesday.\" Biển hỏi người có chiếc áo khoác này, tức là người đã để quên áo trong công viên, và chỉ chỗ nhận lại ở thư viện. Thư viện chỉ là nơi giữ áo; biển không bán áo."
+      },
+      "audio_data": null,
+      "question_jp": "Who is sign 5 for?",
+      "question_vn": "Biển 5 dành cho ai?",
+      "explanation": "\"Is this your jacket?\" và \"We found a small blue jacket in the park on Tuesday.\" Biển hỏi người có chiếc áo khoác này, tức là người đã để quên áo trong công viên, và chỉ chỗ nhận lại ở thư viện. Thư viện chỉ là nơi giữ áo; biển không bán áo."
+    },
+    {
+      "id": "q_mock1_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "Why will Megan be home late?",
+        "vi": "Vì sao Megan sẽ về nhà muộn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "There are a lot of sick people at the hospital.",
+            "vi": "Ở bệnh viện có rất nhiều người bệnh."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "There are a lot of sick people at the hospital.",
+          "text_translation": "Ở bệnh viện có rất nhiều người bệnh."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is at a soccer game.",
+            "vi": "Cô ấy đang ở trận bóng đá."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She is at a soccer game.",
+          "text_translation": "Cô ấy đang ở trận bóng đá."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She needs to get Tina.",
+            "vi": "Cô ấy cần đi đón Tina."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She needs to get Tina.",
+          "text_translation": "Cô ấy cần đi đón Tina."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is cooking dinner.",
+            "vi": "Cô ấy đang nấu bữa tối."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She is cooking dinner.",
+          "text_translation": "Cô ấy đang nấu bữa tối."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"There are a lot of sick people here today, so I'll be home late, at about nine.\" Megan là y tá, hôm nay bệnh viện đông người bệnh. Người ở trận bóng đá là Mitchell và Trevor; người đi đón Tina là Tracy."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi Why …? hay có đáp án nằm ngay trước so hoặc ngay sau because."
+      },
+      "question_jp": "Why will Megan be home late?",
+      "question_vn": "Vì sao Megan sẽ về nhà muộn?",
+      "explanation": "\"There are a lot of sick people here today, so I'll be home late, at about nine.\" Megan là y tá, hôm nay bệnh viện đông người bệnh. Người ở trận bóng đá là Mitchell và Trevor; người đi đón Tina là Tracy.",
+      "tip": "Câu hỏi Why …? hay có đáp án nằm ngay trước so hoặc ngay sau because."
+    },
+    {
+      "id": "q_mock1_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "Where is Tina now?",
+        "vi": "Bây giờ Tina đang ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at the hospital",
+            "vi": "ở bệnh viện"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "at the hospital",
+          "text_translation": "ở bệnh viện"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at a soccer game",
+            "vi": "ở trận bóng đá"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "at a soccer game",
+          "text_translation": "ở trận bóng đá"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at home with Leah",
+            "vi": "ở nhà với Leah"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "at home with Leah",
+          "text_translation": "ở nhà với Leah"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at Amy's house",
+            "vi": "ở nhà Amy"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "at Amy's house",
+          "text_translation": "ở nhà Amy"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Can you get Tina from Amy's house at five?\" Megan nhờ Tracy sang nhà Amy đón Tina, tức là lúc này Tina đang ở nhà Amy. Người ở nhà là Leah và Tracy; người ở bệnh viện là Megan."
+      },
+      "audio_data": null,
+      "question_jp": "Where is Tina now?",
+      "question_vn": "Bây giờ Tina đang ở đâu?",
+      "explanation": "\"Can you get Tina from Amy's house at five?\" Megan nhờ Tracy sang nhà Amy đón Tina, tức là lúc này Tina đang ở nhà Amy. Người ở nhà là Leah và Tracy; người ở bệnh viện là Megan."
+    },
+    {
+      "id": "q_mock1_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "\"They will be home at seven.\" Who are \"they\"?",
+        "vi": "\"They will be home at seven.\" \"They\" là ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Megan and Tracy",
+            "vi": "Megan và Tracy"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Megan and Tracy",
+          "text_translation": "Megan và Tracy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Dad and Trevor",
+            "vi": "Bố và Trevor"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Dad and Trevor",
+          "text_translation": "Bố và Trevor"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tina and Amy",
+            "vi": "Tina và Amy"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Tina and Amy",
+          "text_translation": "Tina và Amy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Leah and Tracy",
+            "vi": "Leah và Tracy"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Leah and Tracy",
+          "text_translation": "Leah và Tracy"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Dad and Trevor are at a soccer game, and they will be home at seven.\" They thay cho Dad and Trevor, đứng ngay trước trong cùng câu. Bố ở đây là Mitchell."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Gặp they / he / she / it, đọc lại phần ngay trước nó để tìm người hoặc vật được thay."
+      },
+      "question_jp": "\"They will be home at seven.\" Who are \"they\"?",
+      "question_vn": "\"They will be home at seven.\" \"They\" là ai?",
+      "explanation": "\"Dad and Trevor are at a soccer game, and they will be home at seven.\" They thay cho Dad and Trevor, đứng ngay trước trong cùng câu. Bố ở đây là Mitchell.",
+      "tip": "Gặp they / he / she / it, đọc lại phần ngay trước nó để tìm người hoặc vật được thay."
+    },
+    {
+      "id": "q_mock1_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "What is Tracy going to do at five?",
+        "vi": "Tracy sẽ làm gì lúc năm giờ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "cook chicken and rice",
+            "vi": "nấu gà và cơm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "cook chicken and rice",
+          "text_translation": "nấu gà và cơm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "go to the hospital",
+            "vi": "tới bệnh viện"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "go to the hospital",
+          "text_translation": "tới bệnh viện"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "go to Amy's house and get Tina",
+            "vi": "sang nhà Amy đón Tina"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "go to Amy's house and get Tina",
+          "text_translation": "sang nhà Amy đón Tina"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "watch a soccer game",
+            "vi": "xem bóng đá"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "watch a soccer game",
+          "text_translation": "xem bóng đá"
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"Can you get Tina from Amy's house at five?\" Tracy trả lời \"Sure.\", tức là đồng ý. Gà và cơm đã có sẵn trong tủ lạnh, không phải nấu lúc năm giờ."
+      },
+      "audio_data": null,
+      "question_jp": "What is Tracy going to do at five?",
+      "question_vn": "Tracy sẽ làm gì lúc năm giờ?",
+      "explanation": "\"Can you get Tina from Amy's house at five?\" Tracy trả lời \"Sure.\", tức là đồng ý. Gà và cơm đã có sẵn trong tủ lạnh, không phải nấu lúc năm giờ."
+    },
+    {
+      "id": "q_mock1_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "Why does Tracy say \"I'll close the kitchen door\"?",
+        "vi": "Vì sao Tracy nói \"I'll close the kitchen door\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Biscuit wants to eat the chicken.",
+            "vi": "Biscuit muốn ăn miếng gà."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Biscuit wants to eat the chicken.",
+          "text_translation": "Biscuit muốn ăn miếng gà."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The kitchen is cold.",
+            "vi": "Trong bếp lạnh."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The kitchen is cold.",
+          "text_translation": "Trong bếp lạnh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tina is in the kitchen.",
+            "vi": "Tina đang ở trong bếp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Tina is in the kitchen.",
+          "text_translation": "Tina đang ở trong bếp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Megan is tired.",
+            "vi": "Megan đang mệt."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Megan is tired.",
+          "text_translation": "Megan đang mệt."
+        }
+      ],
+      "evidence_segments": [
+        10,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Please don't give any chicken to Biscuit!\" Megan dặn đừng cho Biscuit ăn gà, nên ta hiểu Biscuit rất thích gà. Tracy đóng cửa bếp để Biscuit không vào lấy gà. Đây là câu suy luận: bài không viết thẳng lý do."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận: không có câu nào chép sẵn đáp án. Nối hai câu đứng cạnh nhau (lời dặn của Megan và câu trả lời của Tracy) để tìm lý do."
+      },
+      "question_jp": "Why does Tracy say \"I'll close the kitchen door\"?",
+      "question_vn": "Vì sao Tracy nói \"I'll close the kitchen door\"?",
+      "explanation": "\"Please don't give any chicken to Biscuit!\" Megan dặn đừng cho Biscuit ăn gà, nên ta hiểu Biscuit rất thích gà. Tracy đóng cửa bếp để Biscuit không vào lấy gà. Đây là câu suy luận: bài không viết thẳng lý do.",
+      "tip": "Câu suy luận: không có câu nào chép sẵn đáp án. Nối hai câu đứng cạnh nhau (lời dặn của Megan và câu trả lời của Tracy) để tìm lý do."
+    },
+    {
+      "id": "q_mock1_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "Why does Tracy write this email?",
+        "vi": "Tracy viết email này để làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to ask you to buy food",
+            "vi": "để nhờ bạn mua đồ ăn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to ask you to buy food",
+          "text_translation": "để nhờ bạn mua đồ ăn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to ask you to come to the beach with her family",
+            "vi": "để rủ bạn đi biển cùng gia đình cô ấy"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to ask you to come to the beach with her family",
+          "text_translation": "để rủ bạn đi biển cùng gia đình cô ấy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to tell you about her test",
+            "vi": "để kể với bạn về bài kiểm tra của cô ấy"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to tell you about her test",
+          "text_translation": "để kể với bạn về bài kiểm tra của cô ấy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to ask you to look after Biscuit",
+            "vi": "để nhờ bạn trông Biscuit"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to ask you to look after Biscuit",
+          "text_translation": "để nhờ bạn trông Biscuit"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"This Saturday, my family is going to the beach.\" \"Do you want to come with us?\" Cả email nói về chuyến đi biển và mời bạn đi cùng. Bố của Tracy mới là người mua đồ ăn; người ở nhà với Biscuit là Leah."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi mục đích (Why does … write …?): đọc tiêu đề và mấy câu đầu. Ý chính thường nằm ở đó."
+      },
+      "question_jp": "Why does Tracy write this email?",
+      "question_vn": "Tracy viết email này để làm gì?",
+      "explanation": "\"This Saturday, my family is going to the beach.\" \"Do you want to come with us?\" Cả email nói về chuyến đi biển và mời bạn đi cùng. Bố của Tracy mới là người mua đồ ăn; người ở nhà với Biscuit là Leah.",
+      "tip": "Câu hỏi mục đích (Why does … write …?): đọc tiêu đề và mấy câu đầu. Ý chính thường nằm ở đó."
+    },
+    {
+      "id": "q_mock1_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "What time are they going to leave on Saturday?",
+        "vi": "Thứ Bảy mọi người sẽ xuất phát lúc mấy giờ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at seven in the morning",
+            "vi": "lúc bảy giờ sáng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "at seven in the morning",
+          "text_translation": "lúc bảy giờ sáng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at nine at night",
+            "vi": "lúc chín giờ tối"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "at nine at night",
+          "text_translation": "lúc chín giờ tối"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at ten in the morning",
+            "vi": "lúc mười giờ sáng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "at ten in the morning",
+          "text_translation": "lúc mười giờ sáng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at nine in the morning",
+            "vi": "lúc chín giờ sáng"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "at nine in the morning",
+          "text_translation": "lúc chín giờ sáng"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"We're going to leave at nine in the morning in Dad's car, and there is room for one more person.\" Chín giờ tối là sai buổi: email ghi rõ in the morning."
+      },
+      "audio_data": null,
+      "question_jp": "What time are they going to leave on Saturday?",
+      "question_vn": "Thứ Bảy mọi người sẽ xuất phát lúc mấy giờ?",
+      "explanation": "\"We're going to leave at nine in the morning in Dad's car, and there is room for one more person.\" Chín giờ tối là sai buổi: email ghi rõ in the morning."
+    },
+    {
+      "id": "q_mock1_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "What does Tracy NOT ask you to bring?",
+        "vi": "Tracy KHÔNG bảo bạn mang thứ gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "food",
+            "vi": "đồ ăn"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "food",
+          "text_translation": "đồ ăn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a swimsuit",
+            "vi": "đồ bơi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a swimsuit",
+          "text_translation": "đồ bơi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a towel",
+            "vi": "khăn tắm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a towel",
+          "text_translation": "khăn tắm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a hat",
+            "vi": "mũ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a hat",
+          "text_translation": "mũ"
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"You don't need to bring any food.\" Bố của Tracy sẽ nướng bánh hamburger, nên bạn không cần mang đồ ăn. Đồ bơi, khăn tắm và mũ đều có trong câu \"Please bring a swimsuit, a towel and a hat\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi có NOT: tìm 3 thứ CÓ trong bài, phương án còn lại là đáp án. Viết hoa NOT để nhắc bạn đừng chọn nhầm thứ có trong bài."
+      },
+      "question_jp": "What does Tracy NOT ask you to bring?",
+      "question_vn": "Tracy KHÔNG bảo bạn mang thứ gì?",
+      "explanation": "\"You don't need to bring any food.\" Bố của Tracy sẽ nướng bánh hamburger, nên bạn không cần mang đồ ăn. Đồ bơi, khăn tắm và mũ đều có trong câu \"Please bring a swimsuit, a towel and a hat\".",
+      "tip": "Câu hỏi có NOT: tìm 3 thứ CÓ trong bài, phương án còn lại là đáp án. Viết hoa NOT để nhắc bạn đừng chọn nhầm thứ có trong bài."
+    },
+    {
+      "id": "q_mock1_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "Why does Tracy want an answer by Thursday?",
+        "vi": "Vì sao Tracy muốn bạn trả lời trước thứ Năm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is busy on Friday.",
+            "vi": "Thứ Sáu cô ấy bận."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She is busy on Friday.",
+          "text_translation": "Thứ Sáu cô ấy bận."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The beach is closed on Friday.",
+            "vi": "Thứ Sáu bãi biển đóng cửa."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The beach is closed on Friday.",
+          "text_translation": "Thứ Sáu bãi biển đóng cửa."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Her dad needs to buy the food on Friday.",
+            "vi": "Thứ Sáu bố cô ấy cần đi mua đồ ăn."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Her dad needs to buy the food on Friday.",
+          "text_translation": "Thứ Sáu bố cô ấy cần đi mua đồ ăn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Her mom works on Friday.",
+            "vi": "Thứ Sáu mẹ cô ấy đi làm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Her mom works on Friday.",
+          "text_translation": "Thứ Sáu mẹ cô ấy đi làm."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"Please answer by Thursday, because Dad needs to buy the food on Friday.\" Bố cần biết có thêm một người để mua đủ đồ ăn. Email không nói Tracy bận hay mẹ đi làm vào thứ Sáu."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Tracy want an answer by Thursday?",
+      "question_vn": "Vì sao Tracy muốn bạn trả lời trước thứ Năm?",
+      "explanation": "\"Please answer by Thursday, because Dad needs to buy the food on Friday.\" Bố cần biết có thêm một người để mua đủ đồ ăn. Email không nói Tracy bận hay mẹ đi làm vào thứ Sáu."
+    },
+    {
+      "id": "q_mock1_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "\"Biscuit is going to stay at home with Leah, because she wants a quiet day.\" Who is \"she\"?",
+        "vi": "\"Biscuit is going to stay at home with Leah, because she wants a quiet day.\" \"She\" là ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Mom",
+            "vi": "Mẹ của Tracy"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Mom",
+          "text_translation": "Mẹ của Tracy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Leah",
+            "vi": "Leah"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Leah",
+          "text_translation": "Leah"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tina",
+            "vi": "Tina"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Tina",
+          "text_translation": "Tina"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Amy",
+            "vi": "Amy"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Amy",
+          "text_translation": "Amy"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"But Biscuit is going to stay at home with Leah, because she wants a quiet day.\" She thay cho Leah, người đứng ngay trước trong câu. Leah muốn một ngày yên tĩnh nên ở nhà trông Biscuit. Mẹ, Tina và Amy đều đi biển. Biscuit là chó đực, nên không phải she."
+      },
+      "audio_data": null,
+      "question_jp": "\"Biscuit is going to stay at home with Leah, because she wants a quiet day.\" Who is \"she\"?",
+      "question_vn": "\"Biscuit is going to stay at home with Leah, because she wants a quiet day.\" \"She\" là ai?",
+      "explanation": "\"But Biscuit is going to stay at home with Leah, because she wants a quiet day.\" She thay cho Leah, người đứng ngay trước trong câu. Leah muốn một ngày yên tĩnh nên ở nhà trông Biscuit. Mẹ, Tina và Amy đều đi biển. Biscuit là chó đực, nên không phải she."
+    },
+    {
+      "id": "q_mock1_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "What is the article mostly about?",
+        "vi": "Bài đọc chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a shoe shop in San Diego",
+            "vi": "một cửa hàng giày ở San Diego"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a shoe shop in San Diego",
+          "text_translation": "một cửa hàng giày ở San Diego"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "how to write a letter",
+            "vi": "cách viết một lá thư"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "how to write a letter",
+          "text_translation": "cách viết một lá thư"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the dogs on Grace's streets",
+            "vi": "những con chó trên các con phố của Grace"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the dogs on Grace's streets",
+          "text_translation": "những con chó trên các con phố của Grace"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the job of a mail carrier",
+            "vi": "công việc của một người đưa thư"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the job of a mail carrier",
+          "text_translation": "công việc của một người đưa thư"
+        }
+      ],
+      "evidence_segments": [
+        2,
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Meet Grace Miller, a mail carrier in San Diego.\" Cả bài kể giờ giấc, công việc, cái hay và cái khó của nghề đưa thư. Cửa hàng giày và những con chó chỉ là chi tiết nhỏ trong bài."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi ý chính (mostly about): chọn ý đúng cho CẢ bài, không chọn chi tiết chỉ có trong một câu."
+      },
+      "question_jp": "What is the article mostly about?",
+      "question_vn": "Bài đọc chủ yếu nói về điều gì?",
+      "explanation": "\"Meet Grace Miller, a mail carrier in San Diego.\" Cả bài kể giờ giấc, công việc, cái hay và cái khó của nghề đưa thư. Cửa hàng giày và những con chó chỉ là chi tiết nhỏ trong bài.",
+      "tip": "Câu hỏi ý chính (mostly about): chọn ý đúng cho CẢ bài, không chọn chi tiết chỉ có trong một câu."
+    },
+    {
+      "id": "q_mock1_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "What time does Grace start work?",
+        "vi": "Grace bắt đầu làm việc lúc mấy giờ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at half past six",
+            "vi": "lúc sáu giờ rưỡi"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "at half past six",
+          "text_translation": "lúc sáu giờ rưỡi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at five",
+            "vi": "lúc năm giờ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "at five",
+          "text_translation": "lúc năm giờ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at half past five",
+            "vi": "lúc năm giờ rưỡi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "at half past five",
+          "text_translation": "lúc năm giờ rưỡi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at six",
+            "vi": "lúc sáu giờ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "at six",
+          "text_translation": "lúc sáu giờ"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"She gets up at five, and she starts work at half past six.\" Năm giờ là giờ Grace thức dậy, không phải giờ bắt đầu làm."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Trong một câu có hai giờ, xem động từ đứng trước mỗi giờ: gets up (dậy) khác starts work (bắt đầu làm)."
+      },
+      "question_jp": "What time does Grace start work?",
+      "question_vn": "Grace bắt đầu làm việc lúc mấy giờ?",
+      "explanation": "\"She gets up at five, and she starts work at half past six.\" Năm giờ là giờ Grace thức dậy, không phải giờ bắt đầu làm.",
+      "tip": "Trong một câu có hai giờ, xem động từ đứng trước mỗi giờ: gets up (dậy) khác starts work (bắt đầu làm)."
+    },
+    {
+      "id": "q_mock1_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "Why is Grace happier now than before?",
+        "vi": "Vì sao bây giờ Grace vui hơn trước?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She gets up late.",
+            "vi": "Cô ấy dậy muộn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She gets up late.",
+          "text_translation": "Cô ấy dậy muộn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She drives a big truck.",
+            "vi": "Cô ấy lái một chiếc xe tải lớn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She drives a big truck.",
+          "text_translation": "Cô ấy lái một chiếc xe tải lớn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She works outside every day.",
+            "vi": "Ngày nào cô ấy cũng làm việc ngoài trời."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She works outside every day.",
+          "text_translation": "Ngày nào cô ấy cũng làm việc ngoài trời."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "There are no dogs on her streets.",
+            "vi": "Trên những con phố của cô ấy không có con chó nào."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "There are no dogs on her streets.",
+          "text_translation": "Trên những con phố của cô ấy không có con chó nào."
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"It was a boring job for her, because she was inside all day.\" và \"Now she is outside every day, and she is happier than before.\" Việc cũ chán vì ở trong nhà cả ngày; việc mới ở ngoài trời nên cô vui hơn. Grace dậy từ năm giờ, lái xe tải NHỎ, và trên phố vẫn có chó."
+      },
+      "audio_data": null,
+      "question_jp": "Why is Grace happier now than before?",
+      "question_vn": "Vì sao bây giờ Grace vui hơn trước?",
+      "explanation": "\"It was a boring job for her, because she was inside all day.\" và \"Now she is outside every day, and she is happier than before.\" Việc cũ chán vì ở trong nhà cả ngày; việc mới ở ngoài trời nên cô vui hơn. Grace dậy từ năm giờ, lái xe tải NHỎ, và trên phố vẫn có chó."
+    },
+    {
+      "id": "q_mock1_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "In \"It was a boring job for her\", what does \"It\" mean?",
+        "vi": "Trong câu \"It was a boring job for her\", \"It\" là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "her walk from house to house",
+            "vi": "việc đi bộ từ nhà này sang nhà khác"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "her walk from house to house",
+          "text_translation": "việc đi bộ từ nhà này sang nhà khác"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "her job in a shoe shop",
+            "vi": "công việc ở cửa hàng giày"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "her job in a shoe shop",
+          "text_translation": "công việc ở cửa hàng giày"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "her work as a mail carrier",
+            "vi": "công việc đưa thư"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "her work as a mail carrier",
+          "text_translation": "công việc đưa thư"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the small white truck",
+            "vi": "chiếc xe tải nhỏ màu trắng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the small white truck",
+          "text_translation": "chiếc xe tải nhỏ màu trắng"
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"Ten years ago, Grace worked in a shoe shop.\" Câu ngay sau nói \"It was a boring job\": it là công việc ở cửa hàng giày mười năm trước. Was (quá khứ) cũng cho thấy đó là việc cũ, không phải việc đưa thư bây giờ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "It hay thay cho thứ vừa nhắc ở câu ngay trước. Thì của động từ (was hay is) cũng giúp biết đang nói chuyện cũ hay chuyện bây giờ."
+      },
+      "question_jp": "In \"It was a boring job for her\", what does \"It\" mean?",
+      "question_vn": "Trong câu \"It was a boring job for her\", \"It\" là gì?",
+      "explanation": "\"Ten years ago, Grace worked in a shoe shop.\" Câu ngay sau nói \"It was a boring job\": it là công việc ở cửa hàng giày mười năm trước. Was (quá khứ) cũng cho thấy đó là việc cũ, không phải việc đưa thư bây giờ.",
+      "tip": "It hay thay cho thứ vừa nhắc ở câu ngay trước. Thì của động từ (was hay is) cũng giúp biết đang nói chuyện cũ hay chuyện bây giờ."
+    },
+    {
+      "id": "q_mock1_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "In which month is Grace's work the hardest?",
+        "vi": "Công việc của Grace có lẽ vất vả nhất vào tháng nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "January",
+            "vi": "tháng Một"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "January",
+          "text_translation": "tháng Một"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "March",
+            "vi": "tháng Ba"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "March",
+          "text_translation": "tháng Ba"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "November",
+            "vi": "tháng Mười Một"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "November",
+          "text_translation": "tháng Mười Một"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "August",
+            "vi": "tháng Tám"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "August",
+          "text_translation": "tháng Tám"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"The work is harder in summer, because the afternoons are very hot.\" Tháng Tám là mùa hè ở San Diego. Tháng Một, tháng Ba và tháng Mười Một không phải mùa hè. Đây là câu suy luận: bài không nhắc tên tháng nào."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận: bài nói summer, câu hỏi hỏi tháng. Hãy nối hai thông tin đó lại."
+      },
+      "question_jp": "In which month is Grace's work the hardest?",
+      "question_vn": "Công việc của Grace có lẽ vất vả nhất vào tháng nào?",
+      "explanation": "\"The work is harder in summer, because the afternoons are very hot.\" Tháng Tám là mùa hè ở San Diego. Tháng Một, tháng Ba và tháng Mười Một không phải mùa hè. Đây là câu suy luận: bài không nhắc tên tháng nào.",
+      "tip": "Câu suy luận: bài nói summer, câu hỏi hỏi tháng. Hãy nối hai thông tin đó lại."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_mock1_reading_1",
+      "set_type": "reading",
+      "name": "Phần 1 — Biển báo và thông báo",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_mock1_01",
+      "question_ids": [
+        "q_mock1_001",
+        "q_mock1_002",
+        "q_mock1_003",
+        "q_mock1_004",
+        "q_mock1_005"
+      ]
+    },
+    {
+      "set_id": "set_mock1_reading_2",
+      "set_type": "reading",
+      "name": "Phần 2 — Tin nhắn",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_mock1_02",
+      "question_ids": [
+        "q_mock1_006",
+        "q_mock1_007",
+        "q_mock1_008",
+        "q_mock1_009",
+        "q_mock1_010"
+      ]
+    },
+    {
+      "set_id": "set_mock1_reading_3",
+      "set_type": "reading",
+      "name": "Phần 3 — Email",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 3,
+      "reading_passage_ref": "passage_mock1_03",
+      "question_ids": [
+        "q_mock1_011",
+        "q_mock1_012",
+        "q_mock1_013",
+        "q_mock1_014",
+        "q_mock1_015"
+      ]
+    },
+    {
+      "set_id": "set_mock1_reading_4",
+      "set_type": "reading",
+      "name": "Phần 4 — Đoạn văn giới thiệu",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 4,
+      "reading_passage_ref": "passage_mock1_04",
+      "question_ids": [
+        "q_mock1_016",
+        "q_mock1_017",
+        "q_mock1_018",
+        "q_mock1_019",
+        "q_mock1_020"
+      ]
+    }
+  ]
+}

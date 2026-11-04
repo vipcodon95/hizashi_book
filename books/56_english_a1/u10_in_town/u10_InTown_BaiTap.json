@@ -1,0 +1,1314 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 10 — In town",
+      "vi": "Trong thành phố"
+    },
+    "title": "Unit 10 — In town",
+    "title_vn": "Trong thành phố",
+    "module_code": "56_u10",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A1",
+    "curriculum_unit": "a1.u10",
+    "curriculum_sheets": [
+      "a1.37",
+      "a1.38",
+      "a1.39",
+      "a1.40"
+    ],
+    "characters": [
+      "Harriet Brooks",
+      "Leah Carter",
+      "Nathan Brooks",
+      "Helena Brooks",
+      "Amy Brooks",
+      "you"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 3, năm 2"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Chỉ đường, vị trí, câu mệnh lệnh, Can you …? / Let's …, giá vé xe buýt",
+    "description_vn": "Bà Harriet chỉ đường tới thư viện thành phố và bảng thông tin vé xe buýt, tàu ở San Diego. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 10 khoá A1 · phiếu `a1.37` – `a1.40` (địa điểm trong thành phố, hỏi đường, chỉ đường, phương tiện công cộng và vé)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một lời nhắn chỉ đường và một bảng thông tin vé xe buýt; hiểu câu mệnh lệnh chỉ đường (go straight, turn left / right, cross the street), vị trí (on the corner, between, opposite), câu nhờ Can you …?, câu rủ Let's …, và đọc đúng giá vé theo loại vé và nhóm người."
+    },
+    "extra_words": [
+      {
+        "word": "café",
+        "i18n": {
+          "vi": "quán cà phê"
+        }
+      },
+      {
+        "word": "cross",
+        "i18n": {
+          "vi": "băng qua, sang (đường)"
+        }
+      },
+      {
+        "word": "opposite",
+        "i18n": {
+          "vi": "đối diện"
+        }
+      },
+      {
+        "word": "adult",
+        "i18n": {
+          "vi": "người lớn"
+        }
+      },
+      {
+        "word": "senior",
+        "i18n": {
+          "vi": "người cao tuổi"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "turn left / turn right",
+          "vi": "rẽ trái / rẽ phải"
+        }
+      },
+      {
+        "i18n": {
+          "en": "go straight along …",
+          "vi": "đi thẳng theo (con đường) …"
+        }
+      },
+      {
+        "i18n": {
+          "en": "at the end of the block",
+          "vi": "ở cuối dãy nhà"
+        }
+      },
+      {
+        "i18n": {
+          "en": "on the corner",
+          "vi": "ở góc phố"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take the bus",
+          "vi": "đi xe buýt"
+        }
+      },
+      {
+        "i18n": {
+          "en": "stand in line",
+          "vi": "xếp hàng"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Bài chỉ đường: đọc tới đâu vẽ sơ đồ tới đó. Mỗi câu mệnh lệnh (`go`, `turn`, `cross`, `walk`) là một bước; `First`, `Then` cho biết thứ tự."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi **Where is …?** cần một từ vị trí: `on the corner`, `between A and B`, `opposite`, `on your left`. Đọc kỹ xem từ vị trí đó nói về **chỗ nào**, vì bài thường có nhiều chỗ đứng gần nhau."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bảng giá vé: đọc theo hai chiều, **loại vé** (One Ride / Day Ticket) và **nhóm người** (Adult / Child / Senior). Nhớ đọc cả dòng ghi chú như `free with an adult`."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi tính tiền: cộng từng người theo đúng nhóm tuổi, rồi so với vé Ngày. Phương án sai thường là kết quả của một phép tính nhầm nhóm."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u10_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Bà Harriet chỉ đường tới thư viện"
+      },
+      "title": "The Way to the Library",
+      "category": "letter",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 100,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Way to the Library",
+            "vi": "Đường tới thư viện"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hello, dear!",
+            "vi": "Chào cháu!"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Let me show you the way to the city library.",
+            "vi": "Để bà chỉ cháu đường tới thư viện thành phố nhé."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "First, come out of my café and turn left.",
+            "vi": "Đầu tiên, cháu ra khỏi quán của bà rồi rẽ trái."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Go straight along Maple Street for two blocks.",
+            "vi": "Đi thẳng theo phố Maple qua hai dãy nhà."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At the end of the second block, there is a bank on the corner.",
+            "vi": "Cuối dãy nhà thứ hai có một ngân hàng ở góc phố."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Turn right at the bank and cross the street.",
+            "vi": "Đến ngân hàng thì rẽ phải và sang đường."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then walk through the park and over the small bridge.",
+            "vi": "Sau đó cháu đi xuyên qua công viên và qua cây cầu nhỏ."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The library is the tall white building on your left.",
+            "vi": "Thư viện là toà nhà cao màu trắng ở bên tay trái cháu."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is between the post office and a bookstore.",
+            "vi": "Nó nằm giữa bưu điện và một hiệu sách."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The bus stop is just opposite the library.",
+            "vi": "Bến xe buýt ở ngay đối diện thư viện."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Leah Carter studies there every evening.",
+            "vi": "Tối nào Leah Carter cũng học ở đó."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She is often there at nine at night!",
+            "vi": "Chín giờ tối mà con bé vẫn hay ngồi ở đấy!"
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And can you take this book back for me?",
+            "vi": "À, cháu trả giúp bà cuốn sách này được không?"
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then let's have coffee and cake at my café!",
+            "vi": "Xong việc thì bà cháu mình uống cà phê, ăn bánh ở quán bà nhé!"
+          }
+        },
+        {
+          "n": 16,
+          "para": 7,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet",
+            "vi": "Harriet"
+          }
+        }
+      ],
+      "content_ja": "The Way to the Library\n\nHello, dear! Let me show you the way to the city library.\n\nFirst, come out of my café and turn left. Go straight along Maple Street for two blocks. At the end of the second block, there is a bank on the corner. Turn right at the bank and cross the street. Then walk through the park and over the small bridge.\n\nThe library is the tall white building on your left. It is between the post office and a bookstore. The bus stop is just opposite the library.\n\nLeah Carter studies there every evening. She is often there at nine at night!\n\nAnd can you take this book back for me? Then let's have coffee and cake at my café!\n\nHarriet",
+      "translation_vn": "(1) Đường tới thư viện\n(2) Chào cháu!\n(3) Để bà chỉ cháu đường tới thư viện thành phố nhé.\n(4) Đầu tiên, cháu ra khỏi quán của bà rồi rẽ trái.\n(5) Đi thẳng theo phố Maple qua hai dãy nhà.\n(6) Cuối dãy nhà thứ hai có một ngân hàng ở góc phố.\n(7) Đến ngân hàng thì rẽ phải và sang đường.\n(8) Sau đó cháu đi xuyên qua công viên và qua cây cầu nhỏ.\n(9) Thư viện là toà nhà cao màu trắng ở bên tay trái cháu.\n(10) Nó nằm giữa bưu điện và một hiệu sách.\n(11) Bến xe buýt ở ngay đối diện thư viện.\n(12) Tối nào Leah Carter cũng học ở đó.\n(13) Chín giờ tối mà con bé vẫn hay ngồi ở đấy!\n(14) À, cháu trả giúp bà cuốn sách này được không?\n(15) Xong việc thì bà cháu mình uống cà phê, ăn bánh ở quán bà nhé!\n(16) Harriet",
+      "word_count": 127,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.37",
+        "a1.38",
+        "a1.39",
+        "a1.40"
+      ],
+      "narrator": "Harriet"
+    },
+    {
+      "id": "passage_u10_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Bảng thông tin vé xe buýt và tàu ở San Diego"
+      },
+      "title": "Buses and Trains in San Diego: Tickets",
+      "category": "notice",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 100,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Buses and Trains in San Diego: Tickets",
+            "vi": "Xe buýt và tàu ở San Diego: Thông tin vé"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One Ride: one bus or one train",
+            "vi": "Vé Một Lượt: đi một chuyến xe buýt hoặc một chuyến tàu"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Adult: $2.50",
+            "vi": "Người lớn: 2,50 đô"
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Child (6 to 17): $1.25",
+            "vi": "Trẻ em (6 đến 17 tuổi): 1,25 đô"
+          }
+        },
+        {
+          "n": 5,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Senior (65 and over): $1",
+            "vi": "Người cao tuổi (từ 65 tuổi): 1 đô"
+          }
+        },
+        {
+          "n": 6,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Under 6: free with an adult",
+            "vi": "Trẻ dưới 6 tuổi: miễn phí khi đi cùng người lớn"
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Day Ticket: all buses and trains, all day",
+            "vi": "Vé Ngày: đi mọi xe buýt và tàu, cả ngày"
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Adult: $6",
+            "vi": "Người lớn: 6 đô"
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Child or senior: $3",
+            "vi": "Trẻ em hoặc người cao tuổi: 3 đô"
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Look for the blue Ticket sign at train stations and big bus stops.",
+            "vi": "Hãy tìm biển \"Ticket\" màu xanh dương ở các ga tàu và bến xe buýt lớn."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Buy your ticket from the machine there.",
+            "vi": "Mua vé ở máy bán vé đặt tại đó."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You can also pay the driver on the bus, but only with money, not with a card.",
+            "vi": "Bạn cũng có thể trả tiền cho tài xế trên xe buýt, nhưng chỉ bằng tiền mặt, không dùng thẻ."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Monday to Saturday: 5 a.m. to 11 p.m.",
+            "vi": "Thứ Hai đến thứ Bảy: 5 giờ sáng đến 11 giờ đêm"
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sunday: 7 a.m. to 11 p.m.",
+            "vi": "Chủ nhật: 7 giờ sáng đến 11 giờ đêm"
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Bus 7 stops at the city library and the hospital.",
+            "vi": "Xe buýt số 7 dừng ở thư viện thành phố và bệnh viện."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Bus 12 goes to the airport.",
+            "vi": "Xe buýt số 12 đi sân bay."
+          }
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please stand in line at the bus stop, and be careful on the steps.",
+            "vi": "Vui lòng xếp hàng ở bến xe buýt, và cẩn thận khi bước lên bậc xe."
+          }
+        },
+        {
+          "n": 18,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Find a map of all bus lines at every train station.",
+            "vi": "Ở ga tàu nào cũng có bản đồ tất cả các tuyến xe buýt."
+          }
+        }
+      ],
+      "content_ja": "Buses and Trains in San Diego: Tickets\n\nOne Ride: one bus or one train\n\nAdult: $2.50\n\nChild (6 to 17): $1.25\n\nSenior (65 and over): $1\n\nUnder 6: free with an adult\n\nDay Ticket: all buses and trains, all day\n\nAdult: $6\n\nChild or senior: $3\n\nLook for the blue Ticket sign at train stations and big bus stops. Buy your ticket from the machine there. You can also pay the driver on the bus, but only with money, not with a card.\n\nMonday to Saturday: 5 a.m. to 11 p.m.\n\nSunday: 7 a.m. to 11 p.m.\n\nBus 7 stops at the city library and the hospital. Bus 12 goes to the airport.\n\nPlease stand in line at the bus stop, and be careful on the steps. Find a map of all bus lines at every train station.",
+      "translation_vn": "(1) Xe buýt và tàu ở San Diego: Thông tin vé\n(2) Vé Một Lượt: đi một chuyến xe buýt hoặc một chuyến tàu\n(3) Người lớn: 2,50 đô\n(4) Trẻ em (6 đến 17 tuổi): 1,25 đô\n(5) Người cao tuổi (từ 65 tuổi): 1 đô\n(6) Trẻ dưới 6 tuổi: miễn phí khi đi cùng người lớn\n(7) Vé Ngày: đi mọi xe buýt và tàu, cả ngày\n(8) Người lớn: 6 đô\n(9) Trẻ em hoặc người cao tuổi: 3 đô\n(10) Hãy tìm biển \"Ticket\" màu xanh dương ở các ga tàu và bến xe buýt lớn.\n(11) Mua vé ở máy bán vé đặt tại đó.\n(12) Bạn cũng có thể trả tiền cho tài xế trên xe buýt, nhưng chỉ bằng tiền mặt, không dùng thẻ.\n(13) Thứ Hai đến thứ Bảy: 5 giờ sáng đến 11 giờ đêm\n(14) Chủ nhật: 7 giờ sáng đến 11 giờ đêm\n(15) Xe buýt số 7 dừng ở thư viện thành phố và bệnh viện.\n(16) Xe buýt số 12 đi sân bay.\n(17) Vui lòng xếp hàng ở bến xe buýt, và cẩn thận khi bước lên bậc xe.\n(18) Ở ga tàu nào cũng có bản đồ tất cả các tuyến xe buýt.",
+      "word_count": 127,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.37",
+        "a1.38",
+        "a1.39",
+        "a1.40"
+      ],
+      "narrator": "announcer"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u10_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u10_01",
+      "i18n": {
+        "en": "You come out of Harriet's café. What do you do first?",
+        "vi": "Bạn ra khỏi quán của bà Harriet. Việc đầu tiên bạn làm là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "turn right",
+            "vi": "rẽ phải"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "turn right",
+          "text_translation": "rẽ phải"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "turn left",
+            "vi": "rẽ trái"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "turn left",
+          "text_translation": "rẽ trái"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "cross the street",
+            "vi": "sang đường"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "cross the street",
+          "text_translation": "sang đường"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "walk through the park",
+            "vi": "đi xuyên qua công viên"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "walk through the park",
+          "text_translation": "đi xuyên qua công viên"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"First, come out of my café and turn left.\" Rẽ phải và sang đường là việc làm sau, khi tới ngân hàng. Đi qua công viên còn muộn hơn nữa."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Trong lời chỉ đường, First, Then, At the end of… cho biết thứ tự các bước. Đánh số từng bước khi đọc."
+      },
+      "question_jp": "You come out of Harriet's café. What do you do first?",
+      "question_vn": "Bạn ra khỏi quán của bà Harriet. Việc đầu tiên bạn làm là gì?",
+      "explanation": "\"First, come out of my café and turn left.\" Rẽ phải và sang đường là việc làm sau, khi tới ngân hàng. Đi qua công viên còn muộn hơn nữa.",
+      "tip": "Trong lời chỉ đường, First, Then, At the end of… cho biết thứ tự các bước. Đánh số từng bước khi đọc."
+    },
+    {
+      "id": "q_u10_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u10_01",
+      "i18n": {
+        "en": "Where is the bank?",
+        "vi": "Ngân hàng ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "opposite the library",
+            "vi": "đối diện thư viện"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "opposite the library",
+          "text_translation": "đối diện thư viện"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "between the post office and a bookstore",
+            "vi": "giữa bưu điện và một hiệu sách"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "between the post office and a bookstore",
+          "text_translation": "giữa bưu điện và một hiệu sách"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "on the corner at the end of the second block",
+            "vi": "ở góc phố, cuối dãy nhà thứ hai"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "on the corner at the end of the second block",
+          "text_translation": "ở góc phố, cuối dãy nhà thứ hai"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "in the park, near the bridge",
+            "vi": "trong công viên, gần cây cầu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "in the park, near the bridge",
+          "text_translation": "trong công viên, gần cây cầu"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"At the end of the second block, there is a bank on the corner.\" Đối diện thư viện là bến xe buýt. Giữa bưu điện và hiệu sách là thư viện. Trong bài không có gì nằm trong công viên."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "on the corner = ở góc phố, chỗ hai con đường gặp nhau. at the end of the block = ở cuối dãy nhà."
+      },
+      "question_jp": "Where is the bank?",
+      "question_vn": "Ngân hàng ở đâu?",
+      "explanation": "\"At the end of the second block, there is a bank on the corner.\" Đối diện thư viện là bến xe buýt. Giữa bưu điện và hiệu sách là thư viện. Trong bài không có gì nằm trong công viên.",
+      "tip": "on the corner = ở góc phố, chỗ hai con đường gặp nhau. at the end of the block = ở cuối dãy nhà."
+    },
+    {
+      "id": "q_u10_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u10_01",
+      "i18n": {
+        "en": "You are at the bank. What do you do after that?",
+        "vi": "Bạn đã tới ngân hàng. Sau đó bạn làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "straight along Maple Street for two blocks",
+            "vi": "đi thẳng theo phố Maple qua hai dãy nhà"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "straight along Maple Street for two blocks",
+          "text_translation": "đi thẳng theo phố Maple qua hai dãy nhà"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "left, to the bus stop",
+            "vi": "rẽ trái, ra bến xe buýt"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "left, to the bus stop",
+          "text_translation": "rẽ trái, ra bến xe buýt"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "back to Harriet's café",
+            "vi": "quay lại quán bà Harriet"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "back to Harriet's café",
+          "text_translation": "quay lại quán bà Harriet"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "right, then cross the street and walk through the park",
+            "vi": "rẽ phải, rồi sang đường và đi xuyên qua công viên"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "right, then cross the street and walk through the park",
+          "text_translation": "rẽ phải, rồi sang đường và đi xuyên qua công viên"
+        }
+      ],
+      "evidence_segments": [
+        6,
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận theo thứ tự đường đi: ngân hàng ở cuối dãy nhà thứ hai, và bước kế tiếp là \"Turn right at the bank and cross the street.\" rồi \"Then walk through the park and over the small bridge.\" Đi thẳng hai dãy nhà là bước bạn đã làm xong để tới ngân hàng. Bến xe buýt ở tận đối diện thư viện, cuối đường. Quay lại quán là việc sau khi trả sách (\"let's have coffee and cake at my café\")."
+      },
+      "audio_data": null,
+      "question_jp": "You are at the bank. What do you do after that?",
+      "question_vn": "Bạn đã tới ngân hàng. Sau đó bạn làm gì?",
+      "explanation": "Câu suy luận theo thứ tự đường đi: ngân hàng ở cuối dãy nhà thứ hai, và bước kế tiếp là \"Turn right at the bank and cross the street.\" rồi \"Then walk through the park and over the small bridge.\" Đi thẳng hai dãy nhà là bước bạn đã làm xong để tới ngân hàng. Bến xe buýt ở tận đối diện thư viện, cuối đường. Quay lại quán là việc sau khi trả sách (\"let's have coffee and cake at my café\")."
+    },
+    {
+      "id": "q_u10_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u10_01",
+      "i18n": {
+        "en": "Where is the bus stop?",
+        "vi": "Bến xe buýt ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "opposite the library",
+            "vi": "đối diện thư viện"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "opposite the library",
+          "text_translation": "đối diện thư viện"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "near the bank",
+            "vi": "gần ngân hàng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "near the bank",
+          "text_translation": "gần ngân hàng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "in front of Harriet's café",
+            "vi": "trước quán của bà Harriet"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "in front of Harriet's café",
+          "text_translation": "trước quán của bà Harriet"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "between the post office and a bookstore",
+            "vi": "giữa bưu điện và một hiệu sách"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "between the post office and a bookstore",
+          "text_translation": "giữa bưu điện và một hiệu sách"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"The bus stop is just opposite the library.\" Giữa bưu điện và hiệu sách là chỗ của thư viện, không phải bến xe. Bài không nói có bến xe gần ngân hàng hay trước quán."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "opposite = ở phía bên kia đường, mặt đối mặt. between A and B = ở giữa A và B, tức là ngay cạnh cả hai."
+      },
+      "question_jp": "Where is the bus stop?",
+      "question_vn": "Bến xe buýt ở đâu?",
+      "explanation": "\"The bus stop is just opposite the library.\" Giữa bưu điện và hiệu sách là chỗ của thư viện, không phải bến xe. Bài không nói có bến xe gần ngân hàng hay trước quán.",
+      "tip": "opposite = ở phía bên kia đường, mặt đối mặt. between A and B = ở giữa A và B, tức là ngay cạnh cả hai."
+    },
+    {
+      "id": "q_u10_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u10_01",
+      "i18n": {
+        "en": "What does Harriet ask you to do for her?",
+        "vi": "Bà Harriet nhờ bạn làm gì giúp bà?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "study with Leah every evening",
+            "vi": "tối nào cũng học cùng Leah"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "study with Leah every evening",
+          "text_translation": "tối nào cũng học cùng Leah"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "make coffee and cake at her café",
+            "vi": "pha cà phê và làm bánh ở quán bà"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "make coffee and cake at her café",
+          "text_translation": "pha cà phê và làm bánh ở quán bà"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "take a book back to the library",
+            "vi": "trả một cuốn sách cho thư viện"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "take a book back to the library",
+          "text_translation": "trả một cuốn sách cho thư viện"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "buy a bus ticket for her",
+            "vi": "mua giúp bà một vé xe buýt"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "buy a bus ticket for her",
+          "text_translation": "mua giúp bà một vé xe buýt"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"And can you take this book back for me?\" Người học ở thư viện mỗi tối là Leah, bà không nhờ bạn học cùng. Cà phê và bánh là lời mời (\"let's have coffee and cake\"), không phải việc nhờ. Bài không nhắc tới vé xe buýt cho bà."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Can you …? là câu nhờ giúp. Let's … là câu rủ cùng làm. Đề hay đặt hai loại câu này cạnh nhau để gây nhầm."
+      },
+      "question_jp": "What does Harriet ask you to do for her?",
+      "question_vn": "Bà Harriet nhờ bạn làm gì giúp bà?",
+      "explanation": "\"And can you take this book back for me?\" Người học ở thư viện mỗi tối là Leah, bà không nhờ bạn học cùng. Cà phê và bánh là lời mời (\"let's have coffee and cake\"), không phải việc nhờ. Bài không nhắc tới vé xe buýt cho bà.",
+      "tip": "Can you …? là câu nhờ giúp. Let's … là câu rủ cùng làm. Đề hay đặt hai loại câu này cạnh nhau để gây nhầm."
+    },
+    {
+      "id": "q_u10_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u10_02",
+      "i18n": {
+        "en": "Harriet is sixty-eight. How much is a Day Ticket for her?",
+        "vi": "Bà Harriet sáu mươi tám tuổi. Vé Ngày của bà giá bao nhiêu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "$1",
+            "vi": "1 đô"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "$1",
+          "text_translation": "1 đô"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "$6",
+            "vi": "6 đô"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "$6",
+          "text_translation": "6 đô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "$2.50",
+            "vi": "2,50 đô"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "$2.50",
+          "text_translation": "2,50 đô"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "$3",
+            "vi": "3 đô"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "$3",
+          "text_translation": "3 đô"
+        }
+      ],
+      "evidence_segments": [
+        5,
+        7,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Bà 68 tuổi nên thuộc nhóm \"Senior (65 and over)\". Vé Ngày ghi \"Child or senior: $3\". 1 đô là giá vé Một Lượt của người cao tuổi, không phải vé Ngày. 6 đô là vé Ngày của người lớn, 2,50 đô là vé Một Lượt của người lớn."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi về giá: xác định đúng 2 thứ trước khi đọc số, là loại vé (One Ride hay Day Ticket) và nhóm người (Adult, Child, Senior)."
+      },
+      "question_jp": "Harriet is sixty-eight. How much is a Day Ticket for her?",
+      "question_vn": "Bà Harriet sáu mươi tám tuổi. Vé Ngày của bà giá bao nhiêu?",
+      "explanation": "Bà 68 tuổi nên thuộc nhóm \"Senior (65 and over)\". Vé Ngày ghi \"Child or senior: $3\". 1 đô là giá vé Một Lượt của người cao tuổi, không phải vé Ngày. 6 đô là vé Ngày của người lớn, 2,50 đô là vé Một Lượt của người lớn.",
+      "tip": "Câu hỏi về giá: xác định đúng 2 thứ trước khi đọc số, là loại vé (One Ride hay Day Ticket) và nhóm người (Adult, Child, Senior)."
+    },
+    {
+      "id": "q_u10_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u10_02",
+      "i18n": {
+        "en": "Nathan, Helena and their daughter Amy (four years old) take one bus. How much do they pay?",
+        "vi": "Nathan, Helena và con gái Amy (bốn tuổi) đi một chuyến xe buýt. Cả nhà trả bao nhiêu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "$5",
+            "vi": "5 đô"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "$5",
+          "text_translation": "5 đô"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "$6.25",
+            "vi": "6,25 đô"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "$6.25",
+          "text_translation": "6,25 đô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "$7.50",
+            "vi": "7,50 đô"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "$7.50",
+          "text_translation": "7,50 đô"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "$2.50",
+            "vi": "2,50 đô"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "$2.50",
+          "text_translation": "2,50 đô"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận: hai người lớn đi một lượt, mỗi người \"Adult: $2.50\", tổng 5 đô. Amy bốn tuổi, mà \"Under 6: free with an adult\", nên Amy đi miễn phí. 6,25 đô là khi tính nhầm Amy theo giá trẻ em 1,25 đô. 7,50 đô là tính cả ba người theo giá người lớn. 2,50 đô chỉ là giá của một người lớn."
+      },
+      "audio_data": null,
+      "question_jp": "Nathan, Helena and their daughter Amy (four years old) take one bus. How much do they pay?",
+      "question_vn": "Nathan, Helena và con gái Amy (bốn tuổi) đi một chuyến xe buýt. Cả nhà trả bao nhiêu?",
+      "explanation": "Câu suy luận: hai người lớn đi một lượt, mỗi người \"Adult: $2.50\", tổng 5 đô. Amy bốn tuổi, mà \"Under 6: free with an adult\", nên Amy đi miễn phí. 6,25 đô là khi tính nhầm Amy theo giá trẻ em 1,25 đô. 7,50 đô là tính cả ba người theo giá người lớn. 2,50 đô chỉ là giá của một người lớn."
+    },
+    {
+      "id": "q_u10_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u10_02",
+      "i18n": {
+        "en": "Leah wants to take three buses today. What is the best ticket for her?",
+        "vi": "Hôm nay Leah muốn đi ba chuyến xe buýt. Loại vé nào hợp nhất với chị ấy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "one One Ride ticket for $2.50",
+            "vi": "một vé Một Lượt giá 2,50 đô"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "one One Ride ticket for $2.50",
+          "text_translation": "một vé Một Lượt giá 2,50 đô"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a Day Ticket for $6",
+            "vi": "một vé Ngày giá 6 đô"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a Day Ticket for $6",
+          "text_translation": "một vé Ngày giá 6 đô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a Day Ticket for $3",
+            "vi": "một vé Ngày giá 3 đô"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a Day Ticket for $3",
+          "text_translation": "một vé Ngày giá 3 đô"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "three One Ride tickets for $1 each",
+            "vi": "ba vé Một Lượt, mỗi vé 1 đô"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "three One Ride tickets for $1 each",
+          "text_translation": "ba vé Một Lượt, mỗi vé 1 đô"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận: Leah là người lớn. Ba vé Một Lượt là 3 × 2,50 = 7,50 đô, còn vé Ngày người lớn chỉ \"Adult: $6\" mà đi được \"all buses and trains, all day\". Một vé Một Lượt chỉ đi được một chuyến. Vé Ngày 3 đô và vé 1 đô là giá cho trẻ em hoặc người cao tuổi, Leah không thuộc hai nhóm này."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi \"best ticket\" thường cần một phép tính nhỏ: so tổng tiền vé lẻ với giá vé ngày."
+      },
+      "question_jp": "Leah wants to take three buses today. What is the best ticket for her?",
+      "question_vn": "Hôm nay Leah muốn đi ba chuyến xe buýt. Loại vé nào hợp nhất với chị ấy?",
+      "explanation": "Câu suy luận: Leah là người lớn. Ba vé Một Lượt là 3 × 2,50 = 7,50 đô, còn vé Ngày người lớn chỉ \"Adult: $6\" mà đi được \"all buses and trains, all day\". Một vé Một Lượt chỉ đi được một chuyến. Vé Ngày 3 đô và vé 1 đô là giá cho trẻ em hoặc người cao tuổi, Leah không thuộc hai nhóm này.",
+      "tip": "Câu hỏi \"best ticket\" thường cần một phép tính nhỏ: so tổng tiền vé lẻ với giá vé ngày."
+    },
+    {
+      "id": "q_u10_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u10_02",
+      "i18n": {
+        "en": "How can you pay on the bus?",
+        "vi": "Trên xe buýt, bạn trả tiền bằng cách nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "with a card at the machine",
+            "vi": "bằng thẻ ở máy bán vé"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "with a card at the machine",
+          "text_translation": "bằng thẻ ở máy bán vé"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "with a card to the driver",
+            "vi": "đưa thẻ cho tài xế"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "with a card to the driver",
+          "text_translation": "đưa thẻ cho tài xế"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "You can't pay on the bus.",
+            "vi": "Không trả được trên xe buýt."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "You can't pay on the bus.",
+          "text_translation": "Không trả được trên xe buýt."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "with money to the driver",
+            "vi": "đưa tiền mặt cho tài xế"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "with money to the driver",
+          "text_translation": "đưa tiền mặt cho tài xế"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"You can also pay the driver on the bus, but only with money, not with a card.\" Vậy trên xe chỉ trả tiền mặt cho tài xế, không dùng thẻ. Máy bán vé đặt ở ga tàu và bến xe lớn (\"Buy your ticket from the machine there\"), không ở trên xe. Bài nói rõ là trả được trên xe, nên phương án \"can't pay\" sai."
+      },
+      "audio_data": null,
+      "question_jp": "How can you pay on the bus?",
+      "question_vn": "Trên xe buýt, bạn trả tiền bằng cách nào?",
+      "explanation": "\"You can also pay the driver on the bus, but only with money, not with a card.\" Vậy trên xe chỉ trả tiền mặt cho tài xế, không dùng thẻ. Máy bán vé đặt ở ga tàu và bến xe lớn (\"Buy your ticket from the machine there\"), không ở trên xe. Bài nói rõ là trả được trên xe, nên phương án \"can't pay\" sai."
+    },
+    {
+      "id": "q_u10_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u10_02",
+      "i18n": {
+        "en": "You want to take a plane. Which bus goes to the airport?",
+        "vi": "Bạn muốn đi máy bay. Xe buýt số mấy đi sân bay?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Bus 12",
+            "vi": "xe số 12"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Bus 12",
+          "text_translation": "xe số 12"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Bus 7",
+            "vi": "xe số 7"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Bus 7",
+          "text_translation": "xe số 7"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Bus 17",
+            "vi": "xe số 17"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Bus 17",
+          "text_translation": "xe số 17"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Bus 5",
+            "vi": "xe số 5"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Bus 5",
+          "text_translation": "xe số 5"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"Bus 12 goes to the airport.\" Xe số 7 dừng ở thư viện và bệnh viện. 17 là tuổi lớn nhất của nhóm trẻ em, còn 5 là giờ xe bắt đầu chạy (5 a.m.), không phải số xe."
+      },
+      "audio_data": null,
+      "question_jp": "You want to take a plane. Which bus goes to the airport?",
+      "question_vn": "Bạn muốn đi máy bay. Xe buýt số mấy đi sân bay?",
+      "explanation": "\"Bus 12 goes to the airport.\" Xe số 7 dừng ở thư viện và bệnh viện. 17 là tuổi lớn nhất của nhóm trẻ em, còn 5 là giờ xe bắt đầu chạy (5 a.m.), không phải số xe."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u10_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Bà Harriet chỉ đường tới thư viện",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u10_01",
+      "question_ids": [
+        "q_u10_001",
+        "q_u10_002",
+        "q_u10_003",
+        "q_u10_004",
+        "q_u10_005"
+      ]
+    },
+    {
+      "set_id": "set_u10_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Bảng thông tin vé xe buýt và tàu ở San Diego",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u10_02",
+      "question_ids": [
+        "q_u10_006",
+        "q_u10_007",
+        "q_u10_008",
+        "q_u10_009",
+        "q_u10_010"
+      ]
+    }
+  ]
+}

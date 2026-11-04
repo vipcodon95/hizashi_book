@@ -1,0 +1,2047 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 1–2 — Language and nuance & Everyday philosophy",
+      "vi": "Ngôn ngữ, sắc thái & Triết lý đời thường"
+    },
+    "title": "Units 1–2 — Language and nuance & Everyday philosophy",
+    "title_vn": "Ngôn ngữ, sắc thái & Triết lý đời thường",
+    "module_code": "61_u0102",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "C2",
+    "curriculum_unit": "c2.u01+u02",
+    "curriculum_sheets": [
+      "c2.001",
+      "c2.002",
+      "c2.003",
+      "c2.004",
+      "c2.005",
+      "c2.006",
+      "c2.007",
+      "c2.008"
+    ],
+    "characters": [
+      "Megan Carter",
+      "Harriet Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 12, năm 8 – tháng 1, năm 9"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Ý ngầm, ẩn dụ, nhượng bộ rồi bảo vệ quan điểm, tự giễu",
+    "description_vn": "Megan viết về \"bạn giả\" khi học tiếng Tây Ban Nha và lời nói giảm ở bệnh viện, còn bà Harriet tự hỏi quán sau mười sáu năm thay đổi có còn là quán của bà, qua câu đố con tàu Theseus. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 1 + Unit 2 khoá C2 · phiếu `c2.001` – `c2.008` (đọc giữa các dòng, nói mà không nói ra, biên tập và dịch; điều thật sự quan trọng, đúng sai đời thường, vui buồn và nỗi nhớ)."
+    },
+    "objective_i18n": {
+      "vi": "đọc hai bài luận cá nhân có chiều sâu: một bài về sắc thái ngôn ngữ, một bài triết học đời thường; nhận ra ý ngầm không nói thẳng, ẩn dụ (cánh cửa khoá, con tàu Theseus), cách người viết nhượng bộ rồi bảo vệ quan điểm (Be that as it may), lời tự giễu, và các cấu trúc C2: no more … than, whilst, were it not for, so be it, whether or not."
+    },
+    "extra_words": [
+      {
+        "word": "embarrassed",
+        "i18n": {
+          "vi": "ngượng"
+        }
+      },
+      {
+        "word": "pregnant",
+        "i18n": {
+          "vi": "có thai"
+        }
+      },
+      {
+        "word": "sincerity",
+        "i18n": {
+          "vi": "sự chân thành"
+        }
+      },
+      {
+        "word": "tension",
+        "i18n": {
+          "vi": "sự căng thẳng"
+        }
+      },
+      {
+        "word": "comfort care",
+        "i18n": {
+          "vi": "chăm sóc giảm nhẹ (cuối đời)"
+        }
+      },
+      {
+        "word": "handle",
+        "i18n": {
+          "vi": "tay nắm cửa"
+        }
+      },
+      {
+        "word": "dying",
+        "i18n": {
+          "vi": "đang hấp hối"
+        }
+      },
+      {
+        "word": "fluent",
+        "i18n": {
+          "vi": "trôi chảy"
+        }
+      },
+      {
+        "word": "waitress",
+        "i18n": {
+          "vi": "cô phục vụ"
+        }
+      },
+      {
+        "word": "stool",
+        "i18n": {
+          "vi": "ghế đẩu"
+        }
+      },
+      {
+        "word": "plank",
+        "i18n": {
+          "vi": "tấm ván"
+        }
+      },
+      {
+        "word": "rotten",
+        "i18n": {
+          "vi": "mục"
+        }
+      },
+      {
+        "word": "crueler",
+        "i18n": {
+          "vi": "tàn nhẫn hơn"
+        }
+      },
+      {
+        "word": "abstract",
+        "i18n": {
+          "vi": "trừu tượng"
+        }
+      },
+      {
+        "word": "heater",
+        "i18n": {
+          "vi": "lò sưởi"
+        }
+      },
+      {
+        "word": "nostalgic",
+        "i18n": {
+          "vi": "hoài niệm"
+        }
+      },
+      {
+        "word": "embarazada",
+        "i18n": {
+          "vi": "(tiếng Tây Ban Nha) có thai"
+        }
+      },
+      {
+        "word": "gentleness",
+        "i18n": {
+          "vi": "sự dịu dàng"
+        }
+      },
+      {
+        "word": "goodbye",
+        "i18n": {
+          "vi": "lời từ biệt"
+        }
+      },
+      {
+        "word": "misunderstood",
+        "i18n": {
+          "vi": "hiểu sai"
+        }
+      },
+      {
+        "word": "rebuilt",
+        "i18n": {
+          "vi": "được dựng lại"
+        }
+      },
+      {
+        "word": "rot",
+        "i18n": {
+          "vi": "mục"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "with great sincerity",
+          "vi": "với tất cả sự chân thành"
+        }
+      },
+      {
+        "i18n": {
+          "en": "laughed until she cried",
+          "vi": "cười tới chảy nước mắt"
+        }
+      },
+      {
+        "i18n": {
+          "en": "announce itself",
+          "vi": "tự lộ diện"
+        }
+      },
+      {
+        "i18n": {
+          "en": "sooner or later",
+          "vi": "sớm muộn gì"
+        }
+      },
+      {
+        "i18n": {
+          "en": "kindly meant",
+          "vi": "xuất phát từ lòng tốt"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Be that as it may,",
+          "vi": "Dù vậy,"
+        }
+      },
+      {
+        "i18n": {
+          "en": "more than I care to admit",
+          "vi": "hơn mức tôi muốn thừa nhận"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Were it not for…",
+          "vi": "Nếu không có…"
+        }
+      },
+      {
+        "i18n": {
+          "en": "So be it.",
+          "vi": "Thì cứ thế."
+        }
+      },
+      {
+        "i18n": {
+          "en": "whether or not",
+          "vi": "dù có hay không"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Bài luận C2 hay nói **ngầm**: câu hỏi \"imply / suggest\" có đáp án KHÔNG nằm nguyên văn trong bài. Loại phương án nói quá (always, banned) trước."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Ẩn dụ (cánh cửa khoá, con tàu) luôn được người viết **giải nghĩa ngay sau**. Đọc câu tiếp theo để chọn đáp án."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`Be that as it may` = thừa nhận ý người khác nhưng vẫn giữ quan điểm mình. Câu hỏi \"how does she respond\" cần cả hai vế."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`Were it not for X` = nếu không có X. Hỏi nghĩa câu thì đảo lại: vì có X nên mới có kết quả."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u0102_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 1) — Bài luận của Megan về \"bạn giả\" và lời nói giảm"
+      },
+      "narrator": "Megan",
+      "title": "False Friends and Gentle Words",
+      "category": "essay",
+      "jlpt_level": "C2",
+      "difficulty": 1,
+      "estimated_reading_time": 300,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "False Friends and Gentle Words",
+            "vi": "Những \"người bạn giả\" và những lời nói nhẹ"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Megan Carter, emergency nurse, for the anthology of the Thursday evening Spanish class at City College",
+            "vi": "Megan Carter, điều dưỡng cấp cứu, viết cho tuyển tập của lớp tiếng Tây Ban Nha tối thứ Năm ở trường City College"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Three years ago, in my first month of Spanish classes, I tried to apologize to the daughter of a patient for keeping her waiting. I wanted to say that I was embarrassed. What I actually said, with great sincerity, was that I was very pregnant.",
+            "vi": "Ba năm trước, trong tháng đầu học tiếng Tây Ban Nha, tôi cố xin lỗi con gái một bệnh nhân vì để cô ấy phải chờ. Tôi muốn nói rằng tôi thấy ngượng. Điều tôi thực sự nói, với tất cả sự chân thành, là tôi đang mang thai to lắm."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Spanish word \"embarazada\" looks as if it should mean \"embarrassed\", but it denotes something rather different. The daughter stared at me, then laughed until she cried, and the tension in the room simply disappeared.",
+            "vi": "Từ tiếng Tây Ban Nha \"embarazada\" trông như thể phải có nghĩa là \"ngượng\", nhưng nó chỉ một điều khá khác. Cô con gái nhìn tôi chằm chằm, rồi cười tới chảy nước mắt, và sự căng thẳng trong phòng cứ thế tan biến."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Teachers call such words \"false friends\", and every learner collects a few painful ones. But I have come to believe that they are the easy part. A false friend announces itself sooner or later, usually with laughter.",
+            "vi": "Giáo viên gọi những từ như thế là \"bạn giả\", và người học nào cũng gom được vài từ đau đớn. Nhưng tôi dần tin rằng đó là phần dễ. Một người bạn giả sớm muộn gì cũng tự lộ diện, thường là kèm tiếng cười."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The harder problem lies in words whose dictionary meaning is perfectly correct, but whose connotation leads the listener somewhere the speaker never intended to go.",
+            "vi": "Vấn đề khó hơn nằm ở những từ có nghĩa trong từ điển hoàn toàn đúng, nhưng sắc thái của chúng lại dẫn người nghe tới một chỗ mà người nói chưa bao giờ định đưa tới."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hospital English is full of them. We say that a patient is receiving \"comfort care\", that we will \"keep him comfortable\", that his numbers are \"not where we would like them to be\". Every one of these phrases is true, and every one of them is kindly meant.",
+            "vi": "Tiếng Anh trong bệnh viện đầy những từ như vậy. Chúng ta nói một bệnh nhân đang được \"chăm sóc giảm nhẹ\", rằng chúng ta sẽ \"giữ cho ông ấy dễ chịu\", rằng các chỉ số của ông \"chưa được như mong muốn\". Câu nào cũng đúng, và câu nào cũng xuất phát từ lòng tốt."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ostensibly, such phrases exist to spare the family pain, and sometimes they do.",
+            "vi": "Bề ngoài, những cụm như vậy tồn tại để gia đình đỡ đau lòng, và đôi khi chúng làm được thế."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Yet a frightened family, whilst listening to them, will often hear a promise of recovery that nobody has made. The euphemism protects the speaker at least as much as the listener.",
+            "vi": "Thế nhưng một gia đình đang hoảng sợ, khi nghe những câu ấy, thường nghe ra một lời hứa sẽ bình phục mà chẳng ai đưa ra. Lời nói giảm bảo vệ người nói ít nhất cũng nhiều như bảo vệ người nghe."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Our jargon causes similar trouble. When a doctor writes that a patient is \"a poor historian\", it simply means that he cannot give a clear account of his illness. One patient's son read it in a report and was deeply hurt, convinced that we had judged his father's intelligence.",
+            "vi": "Thuật ngữ nghề nghiệp của chúng ta cũng gây rắc rối tương tự. Khi bác sĩ ghi một bệnh nhân là \"a poor historian\", điều đó chỉ có nghĩa là ông ấy không kể rõ được bệnh tình của mình. Con trai một bệnh nhân đọc thấy cụm này trong báo cáo và vô cùng tổn thương, tin chắc rằng chúng tôi đã đánh giá trí tuệ của bố anh."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Colloquial English can be just as confusing for patients who learned the language from textbooks. A man from Guatemala once asked me, quite reasonably, why the doctor had told him to \"hang in there\", and where exactly \"there\" was.",
+            "vi": "Tiếng Anh khẩu ngữ cũng có thể gây bối rối không kém cho những bệnh nhân học tiếng Anh qua sách vở. Có lần một người đàn ông đến từ Guatemala hỏi tôi, rất có lý, vì sao bác sĩ bảo ông \"hang in there\" (cố lên), và \"there\" (ở đó) chính xác là ở đâu."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Early in my career, a senior nurse gave me a rule that I have tried to follow ever since. When a patient is dying, say the word \"dying\" once, clearly and unequivocally, and then be as gentle as you like.",
+            "vi": "Hồi tôi mới vào nghề, một điều dưỡng lâu năm cho tôi một quy tắc mà tôi cố làm theo từ đó tới giờ. Khi một bệnh nhân đang hấp hối, hãy nói từ \"hấp hối\" một lần, rõ ràng và dứt khoát, rồi sau đó dịu dàng bao nhiêu tuỳ ý."
+          }
+        },
+        {
+          "n": 13,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A soft word is no more a kindness than a locked door is a welcome, if the person outside cannot find the handle.",
+            "vi": "Một lời nói nhẹ cũng chẳng phải là lòng tốt, cũng như một cánh cửa khoá chẳng phải là lời mời, nếu người đứng ngoài không tìm được tay nắm."
+          }
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some colleagues find this rule harsh, and I understand why. Be that as it may, I have never once had a family thank me for a gentle phrase that they misunderstood, whereas many have thanked me, sometimes years later, for telling them the truth while there was still time to say goodbye.",
+            "vi": "Một vài đồng nghiệp thấy quy tắc này khắc nghiệt, và tôi hiểu vì sao. Dù vậy, chưa một lần nào có gia đình cảm ơn tôi vì một câu nói nhẹ nhàng mà họ hiểu sai, trong khi rất nhiều gia đình đã cảm ơn tôi, có khi nhiều năm sau, vì đã nói cho họ sự thật lúc vẫn còn thời gian để từ biệt."
+          }
+        },
+        {
+          "n": 15,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Learning Spanish has not made me fluent; my teacher would describe my grammar as \"creative\". What it has done is make me listen differently, in both languages, for the distance between what a sentence says and what it lets someone believe.",
+            "vi": "Học tiếng Tây Ban Nha chưa làm tôi nói trôi chảy; cô giáo tôi sẽ gọi ngữ pháp của tôi là \"sáng tạo\". Điều nó làm được là khiến tôi lắng nghe khác đi, ở cả hai ngôn ngữ, để nhận ra khoảng cách giữa điều một câu nói ra và điều nó để người ta tin."
+          }
+        }
+      ],
+      "content_ja": "False Friends and Gentle Words\n\nMegan Carter, emergency nurse, for the anthology of the Thursday evening Spanish class at City College\n\nThree years ago, in my first month of Spanish classes, I tried to apologize to the daughter of a patient for keeping her waiting. I wanted to say that I was embarrassed. What I actually said, with great sincerity, was that I was very pregnant. The Spanish word \"embarazada\" looks as if it should mean \"embarrassed\", but it denotes something rather different. The daughter stared at me, then laughed until she cried, and the tension in the room simply disappeared.\n\nTeachers call such words \"false friends\", and every learner collects a few painful ones. But I have come to believe that they are the easy part. A false friend announces itself sooner or later, usually with laughter. The harder problem lies in words whose dictionary meaning is perfectly correct, but whose connotation leads the listener somewhere the speaker never intended to go.\n\nHospital English is full of them. We say that a patient is receiving \"comfort care\", that we will \"keep him comfortable\", that his numbers are \"not where we would like them to be\". Every one of these phrases is true, and every one of them is kindly meant. Ostensibly, such phrases exist to spare the family pain, and sometimes they do. Yet a frightened family, whilst listening to them, will often hear a promise of recovery that nobody has made. The euphemism protects the speaker at least as much as the listener.\n\nOur jargon causes similar trouble. When a doctor writes that a patient is \"a poor historian\", it simply means that he cannot give a clear account of his illness. One patient's son read it in a report and was deeply hurt, convinced that we had judged his father's intelligence. Colloquial English can be just as confusing for patients who learned the language from textbooks. A man from Guatemala once asked me, quite reasonably, why the doctor had told him to \"hang in there\", and where exactly \"there\" was.\n\nEarly in my career, a senior nurse gave me a rule that I have tried to follow ever since. When a patient is dying, say the word \"dying\" once, clearly and unequivocally, and then be as gentle as you like. A soft word is no more a kindness than a locked door is a welcome, if the person outside cannot find the handle.\n\nSome colleagues find this rule harsh, and I understand why. Be that as it may, I have never once had a family thank me for a gentle phrase that they misunderstood, whereas many have thanked me, sometimes years later, for telling them the truth while there was still time to say goodbye.\n\nLearning Spanish has not made me fluent; my teacher would describe my grammar as \"creative\". What it has done is make me listen differently, in both languages, for the distance between what a sentence says and what it lets someone believe.",
+      "translation_vn": "(1) Những \"người bạn giả\" và những lời nói nhẹ\n(2) Megan Carter, điều dưỡng cấp cứu, viết cho tuyển tập của lớp tiếng Tây Ban Nha tối thứ Năm ở trường City College\n(3) Ba năm trước, trong tháng đầu học tiếng Tây Ban Nha, tôi cố xin lỗi con gái một bệnh nhân vì để cô ấy phải chờ. Tôi muốn nói rằng tôi thấy ngượng. Điều tôi thực sự nói, với tất cả sự chân thành, là tôi đang mang thai to lắm.\n(4) Từ tiếng Tây Ban Nha \"embarazada\" trông như thể phải có nghĩa là \"ngượng\", nhưng nó chỉ một điều khá khác. Cô con gái nhìn tôi chằm chằm, rồi cười tới chảy nước mắt, và sự căng thẳng trong phòng cứ thế tan biến.\n(5) Giáo viên gọi những từ như thế là \"bạn giả\", và người học nào cũng gom được vài từ đau đớn. Nhưng tôi dần tin rằng đó là phần dễ. Một người bạn giả sớm muộn gì cũng tự lộ diện, thường là kèm tiếng cười.\n(6) Vấn đề khó hơn nằm ở những từ có nghĩa trong từ điển hoàn toàn đúng, nhưng sắc thái của chúng lại dẫn người nghe tới một chỗ mà người nói chưa bao giờ định đưa tới.\n(7) Tiếng Anh trong bệnh viện đầy những từ như vậy. Chúng ta nói một bệnh nhân đang được \"chăm sóc giảm nhẹ\", rằng chúng ta sẽ \"giữ cho ông ấy dễ chịu\", rằng các chỉ số của ông \"chưa được như mong muốn\". Câu nào cũng đúng, và câu nào cũng xuất phát từ lòng tốt.\n(8) Bề ngoài, những cụm như vậy tồn tại để gia đình đỡ đau lòng, và đôi khi chúng làm được thế.\n(9) Thế nhưng một gia đình đang hoảng sợ, khi nghe những câu ấy, thường nghe ra một lời hứa sẽ bình phục mà chẳng ai đưa ra. Lời nói giảm bảo vệ người nói ít nhất cũng nhiều như bảo vệ người nghe.\n(10) Thuật ngữ nghề nghiệp của chúng ta cũng gây rắc rối tương tự. Khi bác sĩ ghi một bệnh nhân là \"a poor historian\", điều đó chỉ có nghĩa là ông ấy không kể rõ được bệnh tình của mình. Con trai một bệnh nhân đọc thấy cụm này trong báo cáo và vô cùng tổn thương, tin chắc rằng chúng tôi đã đánh giá trí tuệ của bố anh.\n(11) Tiếng Anh khẩu ngữ cũng có thể gây bối rối không kém cho những bệnh nhân học tiếng Anh qua sách vở. Có lần một người đàn ông đến từ Guatemala hỏi tôi, rất có lý, vì sao bác sĩ bảo ông \"hang in there\" (cố lên), và \"there\" (ở đó) chính xác là ở đâu.\n(12) Hồi tôi mới vào nghề, một điều dưỡng lâu năm cho tôi một quy tắc mà tôi cố làm theo từ đó tới giờ. Khi một bệnh nhân đang hấp hối, hãy nói từ \"hấp hối\" một lần, rõ ràng và dứt khoát, rồi sau đó dịu dàng bao nhiêu tuỳ ý.\n(13) Một lời nói nhẹ cũng chẳng phải là lòng tốt, cũng như một cánh cửa khoá chẳng phải là lời mời, nếu người đứng ngoài không tìm được tay nắm.\n(14) Một vài đồng nghiệp thấy quy tắc này khắc nghiệt, và tôi hiểu vì sao. Dù vậy, chưa một lần nào có gia đình cảm ơn tôi vì một câu nói nhẹ nhàng mà họ hiểu sai, trong khi rất nhiều gia đình đã cảm ơn tôi, có khi nhiều năm sau, vì đã nói cho họ sự thật lúc vẫn còn thời gian để từ biệt.\n(15) Học tiếng Tây Ban Nha chưa làm tôi nói trôi chảy; cô giáo tôi sẽ gọi ngữ pháp của tôi là \"sáng tạo\". Điều nó làm được là khiến tôi lắng nghe khác đi, ở cả hai ngôn ngữ, để nhận ra khoảng cách giữa điều một câu nói ra và điều nó để người ta tin.",
+      "word_count": 499,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c2.001",
+        "c2.002",
+        "c2.003",
+        "c2.004"
+      ]
+    },
+    {
+      "id": "passage_u0102_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 2) — Bài luận của bà Harriet: quán còn là \"Harriet's\" không?"
+      },
+      "narrator": "Harriet",
+      "title": "Is It Still My Café?",
+      "category": "essay",
+      "jlpt_level": "C2",
+      "difficulty": 1,
+      "estimated_reading_time": 300,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Is It Still My Café?",
+            "vi": "Đó có còn là quán của tôi không?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet Brooks, for the Maple Street Neighbors' Newsletter, January",
+            "vi": "Harriet Brooks, viết cho Bản tin hàng xóm Maple Street, tháng Một"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last week, a customer who has been coming to Harriet's since the year it opened put down her cup and announced, with some sadness, that the place \"isn't really the same anymore\". I have been thinking about her remark ever since, partly because she is right and partly because she is wrong.",
+            "vi": "Tuần trước, một vị khách đến Harriet's từ năm quán mở cửa đặt cốc xuống và tuyên bố, giọng hơi buồn, rằng chỗ này \"không còn thật sự như xưa nữa\". Từ hôm đó tôi cứ nghĩ mãi về câu nói của bà, một phần vì bà đúng và một phần vì bà sai."
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Consider what has changed. The walls my son painted yellow have been repainted twice. The heart-shaped sign was designed by a waitress who now runs her own studio. We take payment on a tablet, the coffee costs more than I care to admit, and next door there is a kitchen full of cooks I had never met a year ago.",
+            "vi": "Hãy xem những gì đã thay đổi. Những bức tường con trai tôi sơn vàng đã được sơn lại hai lần. Tấm biển hình trái tim do một cô phục vụ nay đã có studio riêng thiết kế. Chúng tôi nhận tiền bằng máy tính bảng, cà phê đắt hơn mức tôi muốn thừa nhận, và bên cạnh là một căn bếp đầy những người nấu mà một năm trước tôi chưa từng gặp."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Of the people who served the first cup of coffee, only one is still here, and she now needs a stool behind the counter.",
+            "vi": "Trong số những người phục vụ cốc cà phê đầu tiên, chỉ còn một người ở đây, và bà ấy giờ phải có ghế đẩu sau quầy."
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The ancient Greeks had a puzzle for this. According to the writer Plutarch, the people of Athens kept the ship of their hero Theseus for many years, replacing each rotten plank with a new one, until philosophers began to ask whether it was still the same ship.",
+            "vi": "Người Hy Lạp cổ có một câu đố cho chuyện này. Theo nhà văn Plutarch, người Athens giữ con tàu của người anh hùng Theseus trong nhiều năm, thay từng tấm ván mục bằng tấm mới, cho tới khi các triết gia bắt đầu hỏi liệu nó có còn là con tàu cũ không."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Centuries later, the English philosopher Thomas Hobbes made the puzzle crueler. Suppose, he said, someone had collected all the old planks and built a second ship from them. Which of the two would be the real one?",
+            "vi": "Nhiều thế kỷ sau, triết gia người Anh Thomas Hobbes khiến câu đố tàn nhẫn hơn. Ông nói, giả sử ai đó gom hết những tấm ván cũ và đóng một con tàu thứ hai từ chúng. Vậy trong hai con tàu, chiếc nào mới là thật?"
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hobbes's question is not as abstract as it sounds. Our old chairs are in the shared kitchen, and the old sign hangs in my son's garage. If you put them together in an empty room, would you have Harriet's? I am quite sure you would not, and the reason tells me something.",
+            "vi": "Câu hỏi của Hobbes không trừu tượng như nghe có vẻ. Những chiếc ghế cũ của chúng tôi đang ở căn bếp chung, còn tấm biển cũ treo trong nhà xe của con trai tôi. Nếu bạn gom chúng vào một căn phòng trống, bạn có được Harriet's không? Tôi khá chắc là không, và lý do cho tôi biết một điều."
+          }
+        },
+        {
+          "n": 9,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What makes a place itself is not its planks but its habits: the soup on Wednesdays, the coffee kept warm for the nurse who comes off the night shift, the fact that whoever is behind the counter will ask how your mother is and actually wait for the answer.",
+            "vi": "Điều làm nên một nơi chốn không phải là ván gỗ mà là thói quen của nó: món súp thứ Tư, cốc cà phê được giữ ấm cho cô y tá vừa hết ca đêm, việc bất kỳ ai đứng sau quầy cũng sẽ hỏi mẹ bạn dạo này thế nào và thật sự chờ nghe câu trả lời."
+          }
+        },
+        {
+          "n": 10,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If there is an axiom in my trade, it is that people come back not for the coffee but for the feeling of being expected.",
+            "vi": "Nếu nghề của tôi có một chân lý hiển nhiên, thì đó là người ta quay lại không phải vì cà phê mà vì cảm giác được người khác chờ mình."
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Its authenticity, if that is the right word, is intrinsic to what people do there, not to the objects they do it with.",
+            "vi": "Tính nguyên bản của nó, nếu đó là từ đúng, nằm ngay trong những gì người ta làm ở đó, chứ không nằm ở đồ vật họ dùng để làm."
+          }
+        },
+        {
+          "n": 12,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I should also confess a small fallacy in my customer's sadness, which I share on bad days. We remember the old café as it felt, not as it was. I remember the leaking roof, the broken heater and the winter when we nearly closed.",
+            "vi": "Tôi cũng phải thú nhận một ngộ nhận nho nhỏ trong nỗi buồn của vị khách, thứ mà những hôm tệ tôi cũng có. Chúng ta nhớ quán cũ theo cảm giác về nó, không theo đúng nó đã từng thế nào. Tôi thì nhớ mái nhà dột, cái lò sưởi hỏng và mùa đông chúng tôi suýt đóng cửa."
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Were it not for the changes she regrets, there would be no café for her to feel nostalgic about; it would have closed, as the bakery did.",
+            "vi": "Nếu không có những thay đổi bà tiếc nuối, thì đã chẳng còn quán nào để bà hoài niệm; nó hẳn đã đóng cửa, như tiệm bánh kia."
+          }
+        },
+        {
+          "n": 14,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One day, someone else will run this place, and they will change things I cannot imagine. So be it. As long as the person behind the counter still waits for the answer, it will still be Harriet's, whether or not there is a Harriet in it.",
+            "vi": "Một ngày nào đó, người khác sẽ điều hành nơi này, và họ sẽ thay đổi những thứ tôi không hình dung nổi. Thì cứ thế. Chừng nào người đứng sau quầy vẫn còn chờ nghe câu trả lời, nơi này vẫn sẽ là Harriet's, dù trong đó có còn một bà Harriet hay không."
+          }
+        }
+      ],
+      "content_ja": "Is It Still My Café?\n\nHarriet Brooks, for the Maple Street Neighbors' Newsletter, January\n\nLast week, a customer who has been coming to Harriet's since the year it opened put down her cup and announced, with some sadness, that the place \"isn't really the same anymore\". I have been thinking about her remark ever since, partly because she is right and partly because she is wrong.\n\nConsider what has changed. The walls my son painted yellow have been repainted twice. The heart-shaped sign was designed by a waitress who now runs her own studio. We take payment on a tablet, the coffee costs more than I care to admit, and next door there is a kitchen full of cooks I had never met a year ago. Of the people who served the first cup of coffee, only one is still here, and she now needs a stool behind the counter.\n\nThe ancient Greeks had a puzzle for this. According to the writer Plutarch, the people of Athens kept the ship of their hero Theseus for many years, replacing each rotten plank with a new one, until philosophers began to ask whether it was still the same ship. Centuries later, the English philosopher Thomas Hobbes made the puzzle crueler. Suppose, he said, someone had collected all the old planks and built a second ship from them. Which of the two would be the real one?\n\nHobbes's question is not as abstract as it sounds. Our old chairs are in the shared kitchen, and the old sign hangs in my son's garage. If you put them together in an empty room, would you have Harriet's? I am quite sure you would not, and the reason tells me something.\n\nWhat makes a place itself is not its planks but its habits: the soup on Wednesdays, the coffee kept warm for the nurse who comes off the night shift, the fact that whoever is behind the counter will ask how your mother is and actually wait for the answer. If there is an axiom in my trade, it is that people come back not for the coffee but for the feeling of being expected. Its authenticity, if that is the right word, is intrinsic to what people do there, not to the objects they do it with.\n\nI should also confess a small fallacy in my customer's sadness, which I share on bad days. We remember the old café as it felt, not as it was. I remember the leaking roof, the broken heater and the winter when we nearly closed. Were it not for the changes she regrets, there would be no café for her to feel nostalgic about; it would have closed, as the bakery did.\n\nOne day, someone else will run this place, and they will change things I cannot imagine. So be it. As long as the person behind the counter still waits for the answer, it will still be Harriet's, whether or not there is a Harriet in it.",
+      "translation_vn": "(1) Đó có còn là quán của tôi không?\n(2) Harriet Brooks, viết cho Bản tin hàng xóm Maple Street, tháng Một\n(3) Tuần trước, một vị khách đến Harriet's từ năm quán mở cửa đặt cốc xuống và tuyên bố, giọng hơi buồn, rằng chỗ này \"không còn thật sự như xưa nữa\". Từ hôm đó tôi cứ nghĩ mãi về câu nói của bà, một phần vì bà đúng và một phần vì bà sai.\n(4) Hãy xem những gì đã thay đổi. Những bức tường con trai tôi sơn vàng đã được sơn lại hai lần. Tấm biển hình trái tim do một cô phục vụ nay đã có studio riêng thiết kế. Chúng tôi nhận tiền bằng máy tính bảng, cà phê đắt hơn mức tôi muốn thừa nhận, và bên cạnh là một căn bếp đầy những người nấu mà một năm trước tôi chưa từng gặp.\n(5) Trong số những người phục vụ cốc cà phê đầu tiên, chỉ còn một người ở đây, và bà ấy giờ phải có ghế đẩu sau quầy.\n(6) Người Hy Lạp cổ có một câu đố cho chuyện này. Theo nhà văn Plutarch, người Athens giữ con tàu của người anh hùng Theseus trong nhiều năm, thay từng tấm ván mục bằng tấm mới, cho tới khi các triết gia bắt đầu hỏi liệu nó có còn là con tàu cũ không.\n(7) Nhiều thế kỷ sau, triết gia người Anh Thomas Hobbes khiến câu đố tàn nhẫn hơn. Ông nói, giả sử ai đó gom hết những tấm ván cũ và đóng một con tàu thứ hai từ chúng. Vậy trong hai con tàu, chiếc nào mới là thật?\n(8) Câu hỏi của Hobbes không trừu tượng như nghe có vẻ. Những chiếc ghế cũ của chúng tôi đang ở căn bếp chung, còn tấm biển cũ treo trong nhà xe của con trai tôi. Nếu bạn gom chúng vào một căn phòng trống, bạn có được Harriet's không? Tôi khá chắc là không, và lý do cho tôi biết một điều.\n(9) Điều làm nên một nơi chốn không phải là ván gỗ mà là thói quen của nó: món súp thứ Tư, cốc cà phê được giữ ấm cho cô y tá vừa hết ca đêm, việc bất kỳ ai đứng sau quầy cũng sẽ hỏi mẹ bạn dạo này thế nào và thật sự chờ nghe câu trả lời.\n(10) Nếu nghề của tôi có một chân lý hiển nhiên, thì đó là người ta quay lại không phải vì cà phê mà vì cảm giác được người khác chờ mình.\n(11) Tính nguyên bản của nó, nếu đó là từ đúng, nằm ngay trong những gì người ta làm ở đó, chứ không nằm ở đồ vật họ dùng để làm.\n(12) Tôi cũng phải thú nhận một ngộ nhận nho nhỏ trong nỗi buồn của vị khách, thứ mà những hôm tệ tôi cũng có. Chúng ta nhớ quán cũ theo cảm giác về nó, không theo đúng nó đã từng thế nào. Tôi thì nhớ mái nhà dột, cái lò sưởi hỏng và mùa đông chúng tôi suýt đóng cửa.\n(13) Nếu không có những thay đổi bà tiếc nuối, thì đã chẳng còn quán nào để bà hoài niệm; nó hẳn đã đóng cửa, như tiệm bánh kia.\n(14) Một ngày nào đó, người khác sẽ điều hành nơi này, và họ sẽ thay đổi những thứ tôi không hình dung nổi. Thì cứ thế. Chừng nào người đứng sau quầy vẫn còn chờ nghe câu trả lời, nơi này vẫn sẽ là Harriet's, dù trong đó có còn một bà Harriet hay không.",
+      "word_count": 501,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c2.005",
+        "c2.006",
+        "c2.007",
+        "c2.008"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u0102_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "What happened when Megan tried to apologize in Spanish?",
+        "vi": "Chuyện gì xảy ra khi Megan cố xin lỗi bằng tiếng Tây Ban Nha?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The daughter was offended by the word she used and asked another nurse to help instead.",
+            "vi": "Cô con gái phật ý vì từ Megan dùng và nhờ một y tá khác giúp thay thế."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The daughter was offended by the word she used and asked another nurse to help instead.",
+          "text_translation": "Cô con gái phật ý vì từ Megan dùng và nhờ một y tá khác giúp thay thế."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She used a word that means \"pregnant\" instead of \"embarrassed\", and the daughter laughed.",
+            "vi": "Cô dùng một từ nghĩa là \"có thai\" thay vì \"ngượng\", và cô con gái bật cười."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She used a word that means \"pregnant\" instead of \"embarrassed\", and the daughter laughed.",
+          "text_translation": "Cô dùng một từ nghĩa là \"có thai\" thay vì \"ngượng\", và cô con gái bật cười."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Her teacher corrected her in front of the whole class the next day.",
+            "vi": "Cô giáo sửa lỗi cho cô trước cả lớp vào hôm sau."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Her teacher corrected her in front of the whole class the next day.",
+          "text_translation": "Cô giáo sửa lỗi cho cô trước cả lớp vào hôm sau."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The patient could not understand her accent and asked her to write the word down.",
+            "vi": "Bệnh nhân không hiểu giọng của cô và đề nghị cô viết từ đó ra."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The patient could not understand her accent and asked her to write the word down.",
+          "text_translation": "Bệnh nhân không hiểu giọng của cô và đề nghị cô viết từ đó ra."
+        }
+      ],
+      "evidence_segments": [
+        3,
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"What I actually said, with great sincerity, was that I was very pregnant.\" và cô con gái \"laughed until she cried\"."
+      },
+      "audio_data": null,
+      "question_jp": "What happened when Megan tried to apologize in Spanish?",
+      "question_vn": "Chuyện gì xảy ra khi Megan cố xin lỗi bằng tiếng Tây Ban Nha?",
+      "explanation": "\"What I actually said, with great sincerity, was that I was very pregnant.\" và cô con gái \"laughed until she cried\"."
+    },
+    {
+      "id": "q_u0102_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "Why does Megan say that false friends are \"the easy part\"?",
+        "vi": "Vì sao Megan nói \"bạn giả\" là \"phần dễ\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because there are very few of them and every learner knows them already",
+            "vi": "vì chúng rất ít và người học nào cũng đã biết rồi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because there are very few of them and every learner knows them already",
+          "text_translation": "vì chúng rất ít và người học nào cũng đã biết rồi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because teachers explain them all in the first class, before any mistakes are made",
+            "vi": "vì giáo viên giải thích hết chúng ngay buổi đầu, trước khi ai mắc lỗi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because teachers explain them all in the first class, before any mistakes are made",
+          "text_translation": "vì giáo viên giải thích hết chúng ngay buổi đầu, trước khi ai mắc lỗi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because they only exist in Spanish, so nurses seldom meet them at work",
+            "vi": "vì chúng chỉ có trong tiếng Tây Ban Nha, nên y tá hiếm khi gặp ở nơi làm việc"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because they only exist in Spanish, so nurses seldom meet them at work",
+          "text_translation": "vì chúng chỉ có trong tiếng Tây Ban Nha, nên y tá hiếm khi gặp ở nơi làm việc"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the mistake soon becomes obvious, while misleading connotations may be missed",
+            "vi": "vì lỗi sớm muộn cũng lộ ra, còn sắc thái gây hiểu lầm có thể bị bỏ sót"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because the mistake soon becomes obvious, while misleading connotations may be missed",
+          "text_translation": "vì lỗi sớm muộn cũng lộ ra, còn sắc thái gây hiểu lầm có thể bị bỏ sót"
+        }
+      ],
+      "evidence_segments": [
+        5,
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"A false friend announces itself sooner or later\", còn sắc thái dẫn người nghe tới chỗ \"the speaker never intended\" mà không ai hay."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Megan say that false friends are \"the easy part\"?",
+      "question_vn": "Vì sao Megan nói \"bạn giả\" là \"phần dễ\"?",
+      "explanation": "Câu suy luận. \"A false friend announces itself sooner or later\", còn sắc thái dẫn người nghe tới chỗ \"the speaker never intended\" mà không ai hay."
+    },
+    {
+      "id": "q_u0102_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "What point does Megan make about hospital phrases like \"comfort care\"?",
+        "vi": "Megan nêu ý gì về những cụm như \"comfort care\" trong bệnh viện?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They are accurate and kind, but frightened families may hear hope that was never offered.",
+            "vi": "Chúng chính xác và tử tế, nhưng gia đình đang sợ hãi có thể nghe ra hy vọng chưa từng được hứa."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "They are accurate and kind, but frightened families may hear hope that was never offered.",
+          "text_translation": "Chúng chính xác và tử tế, nhưng gia đình đang sợ hãi có thể nghe ra hy vọng chưa từng được hứa."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They are medically wrong, and families are right to complain about them.",
+            "vi": "Chúng sai về mặt y khoa, và các gia đình có lý khi phàn nàn về chúng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They are medically wrong, and families are right to complain about them.",
+          "text_translation": "Chúng sai về mặt y khoa, và các gia đình có lý khi phàn nàn về chúng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They should be translated into Spanish so that every patient can understand them.",
+            "vi": "Chúng nên được dịch sang tiếng Tây Ban Nha để bệnh nhân nào cũng hiểu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They should be translated into Spanish so that every patient can understand them.",
+          "text_translation": "Chúng nên được dịch sang tiếng Tây Ban Nha để bệnh nhân nào cũng hiểu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Doctors use them to save time, even though families would prefer longer explanations.",
+            "vi": "Bác sĩ dùng chúng để tiết kiệm thời gian, dù gia đình thích giải thích dài hơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Doctors use them to save time, even though families would prefer longer explanations.",
+          "text_translation": "Bác sĩ dùng chúng để tiết kiệm thời gian, dù gia đình thích giải thích dài hơn."
+        }
+      ],
+      "evidence_segments": [
+        7,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Every one of these phrases is true, and every one of them is kindly meant.\" Nhưng gia đình \"will often hear a promise of recovery that nobody has made.\""
+      },
+      "audio_data": null,
+      "question_jp": "What point does Megan make about hospital phrases like \"comfort care\"?",
+      "question_vn": "Megan nêu ý gì về những cụm như \"comfort care\" trong bệnh viện?",
+      "explanation": "\"Every one of these phrases is true, and every one of them is kindly meant.\" Nhưng gia đình \"will often hear a promise of recovery that nobody has made.\""
+    },
+    {
+      "id": "q_u0102_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "What does Megan imply by \"The euphemism protects the speaker at least as much as the listener\"?",
+        "vi": "Megan hàm ý gì qua câu \"Lời nói giảm bảo vệ người nói ít nhất cũng nhiều như bảo vệ người nghe\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Speakers are often in danger, so they choose their words carefully for safety.",
+            "vi": "Người nói thường gặp nguy hiểm, nên chọn lời cẩn thận để an toàn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Speakers are often in danger, so they choose their words carefully for safety.",
+          "text_translation": "Người nói thường gặp nguy hiểm, nên chọn lời cẩn thận để an toàn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Euphemisms are required by hospital rules, and senior nurses check that staff use them.",
+            "vi": "Nói giảm là quy định của bệnh viện, và các y tá trưởng kiểm tra nhân viên có dùng không."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Euphemisms are required by hospital rules, and senior nurses check that staff use them.",
+          "text_translation": "Nói giảm là quy định của bệnh viện, và các y tá trưởng kiểm tra nhân viên có dùng không."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Soft phrases also spare staff the discomfort of saying something painful directly.",
+            "vi": "Những cụm nói giảm cũng giúp nhân viên tránh nỗi khó chịu khi phải nói thẳng điều đau lòng."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Soft phrases also spare staff the discomfort of saying something painful directly.",
+          "text_translation": "Những cụm nói giảm cũng giúp nhân viên tránh nỗi khó chịu khi phải nói thẳng điều đau lòng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Listeners prefer direct words, and speakers protect them by avoiding euphemisms.",
+            "vi": "Người nghe thích lời nói thẳng, và người nói bảo vệ họ bằng cách tránh nói giảm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Listeners prefer direct words, and speakers protect them by avoiding euphemisms.",
+          "text_translation": "Người nghe thích lời nói thẳng, và người nói bảo vệ họ bằng cách tránh nói giảm."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý. Lời nói giảm không chỉ vì người nghe; nó còn giúp người nói né được khoảnh khắc khó nói. Đây là ý ngầm, bài không nói thẳng."
+      },
+      "audio_data": null,
+      "question_jp": "What does Megan imply by \"The euphemism protects the speaker at least as much as the listener\"?",
+      "question_vn": "Megan hàm ý gì qua câu \"Lời nói giảm bảo vệ người nói ít nhất cũng nhiều như bảo vệ người nghe\"?",
+      "explanation": "Câu hàm ý. Lời nói giảm không chỉ vì người nghe; nó còn giúp người nói né được khoảnh khắc khó nói. Đây là ý ngầm, bài không nói thẳng."
+    },
+    {
+      "id": "q_u0102_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "Why was the patient's son hurt by the phrase \"a poor historian\"?",
+        "vi": "Vì sao con trai bệnh nhân bị tổn thương bởi cụm \"a poor historian\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He misunderstood medical jargon as a judgment of his father's intelligence.",
+            "vi": "Anh hiểu nhầm thuật ngữ y khoa thành lời đánh giá trí tuệ của bố mình."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "He misunderstood medical jargon as a judgment of his father's intelligence.",
+          "text_translation": "Anh hiểu nhầm thuật ngữ y khoa thành lời đánh giá trí tuệ của bố mình."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "His father was a history teacher and expected the report to be kinder.",
+            "vi": "Cha anh là giáo viên lịch sử và mong bản báo cáo tử tế hơn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "His father was a history teacher and expected the report to be kinder.",
+          "text_translation": "Cha anh là giáo viên lịch sử và mong bản báo cáo tử tế hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The doctor had insulted him in person, and the report repeated the insult in writing.",
+            "vi": "Bác sĩ đã xúc phạm anh trực tiếp, và bản báo cáo lặp lại lời xúc phạm bằng chữ viết."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The doctor had insulted him in person, and the report repeated the insult in writing.",
+          "text_translation": "Bác sĩ đã xúc phạm anh trực tiếp, và bản báo cáo lặp lại lời xúc phạm bằng chữ viết."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The report contained false information about his father's illness and age.",
+            "vi": "Bản báo cáo chứa thông tin sai về bệnh và tuổi của cha anh."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The report contained false information about his father's illness and age.",
+          "text_translation": "Bản báo cáo chứa thông tin sai về bệnh và tuổi của cha anh."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"it simply means that he cannot give a clear account of his illness\", nhưng anh \"convinced that we had judged his father's intelligence.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why was the patient's son hurt by the phrase \"a poor historian\"?",
+      "question_vn": "Vì sao con trai bệnh nhân bị tổn thương bởi cụm \"a poor historian\"?",
+      "explanation": "\"it simply means that he cannot give a clear account of his illness\", nhưng anh \"convinced that we had judged his father's intelligence.\""
+    },
+    {
+      "id": "q_u0102_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "What is the meaning of the rule Megan learned from a senior nurse?",
+        "vi": "Quy tắc Megan học từ điều dưỡng lâu năm có nghĩa gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Never talk about death with families, because it only makes them more afraid.",
+            "vi": "Đừng bao giờ nói về cái chết với gia đình, vì điều đó chỉ làm họ sợ hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Never talk about death with families, because it only makes them more afraid.",
+          "text_translation": "Đừng bao giờ nói về cái chết với gia đình, vì điều đó chỉ làm họ sợ hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "State the hard truth plainly once, then offer as much gentleness as needed.",
+            "vi": "Nói rõ sự thật khó nghe một lần, rồi dịu dàng bao nhiêu cũng được."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "State the hard truth plainly once, then offer as much gentleness as needed.",
+          "text_translation": "Nói rõ sự thật khó nghe một lần, rồi dịu dàng bao nhiêu cũng được."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Always use medical words, so that families do not misunderstand the doctors.",
+            "vi": "Luôn dùng từ y khoa, để gia đình không hiểu nhầm các bác sĩ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Always use medical words, so that families do not misunderstand the doctors.",
+          "text_translation": "Luôn dùng từ y khoa, để gia đình không hiểu nhầm các bác sĩ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Let doctors speak instead of nurses, because families trust them more.",
+            "vi": "Để bác sĩ nói thay y tá, vì gia đình tin họ hơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Let doctors speak instead of nurses, because families trust them more.",
+          "text_translation": "Để bác sĩ nói thay y tá, vì gia đình tin họ hơn."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Nói từ đó \"once, clearly and unequivocally, and then be as gentle as you like.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the meaning of the rule Megan learned from a senior nurse?",
+      "question_vn": "Quy tắc Megan học từ điều dưỡng lâu năm có nghĩa gì?",
+      "explanation": "Nói từ đó \"once, clearly and unequivocally, and then be as gentle as you like.\""
+    },
+    {
+      "id": "q_u0102_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "What does the comparison with \"a locked door\" suggest?",
+        "vi": "Phép so sánh với \"một cánh cửa khoá\" gợi ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Hospitals should keep their doors open at all hours so that families can visit at any time.",
+            "vi": "Bệnh viện nên mở cửa mọi giờ để gia đình có thể thăm bất cứ lúc nào."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Hospitals should keep their doors open at all hours so that families can visit at any time.",
+          "text_translation": "Bệnh viện nên mở cửa mọi giờ để gia đình có thể thăm bất cứ lúc nào."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Families should not enter patients' rooms because they only make things harder.",
+            "vi": "Người nhà không nên vào phòng bệnh vì họ chỉ làm mọi việc khó hơn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Families should not enter patients' rooms because they only make things harder.",
+          "text_translation": "Người nhà không nên vào phòng bệnh vì họ chỉ làm mọi việc khó hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Gentle words are always cruel, because they hide the truth from the patient.",
+            "vi": "Lời nhẹ nhàng luôn tàn nhẫn, vì chúng giấu sự thật khỏi bệnh nhân."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Gentle words are always cruel, because they hide the truth from the patient.",
+          "text_translation": "Lời nhẹ nhàng luôn tàn nhẫn, vì chúng giấu sự thật khỏi bệnh nhân."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "A gentle phrase is not truly kind if it stops the listener from reaching the truth.",
+            "vi": "Một câu nói nhẹ không thật sự tử tế nếu nó khiến người nghe không chạm được tới sự thật."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "A gentle phrase is not truly kind if it stops the listener from reaching the truth.",
+          "text_translation": "Một câu nói nhẹ không thật sự tử tế nếu nó khiến người nghe không chạm được tới sự thật."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hiểu ẩn dụ (cấu trúc no more … than). Cánh cửa khoá không phải lời mời nếu người ngoài \"cannot find the handle\"; lời nói nhẹ cũng vậy nếu người nghe không tìm ra sự thật."
+      },
+      "audio_data": null,
+      "question_jp": "What does the comparison with \"a locked door\" suggest?",
+      "question_vn": "Phép so sánh với \"một cánh cửa khoá\" gợi ý điều gì?",
+      "explanation": "Câu hiểu ẩn dụ (cấu trúc no more … than). Cánh cửa khoá không phải lời mời nếu người ngoài \"cannot find the handle\"; lời nói nhẹ cũng vậy nếu người nghe không tìm ra sự thật."
+    },
+    {
+      "id": "q_u0102_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "How does Megan respond to colleagues who find her rule harsh?",
+        "vi": "Megan đáp lại thế nào với đồng nghiệp thấy quy tắc của cô khắc nghiệt?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She agrees with them and has stopped using the rule in her own work.",
+            "vi": "Cô đồng ý với họ và đã thôi áp dụng quy tắc đó trong công việc."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She agrees with them and has stopped using the rule in her own work.",
+          "text_translation": "Cô đồng ý với họ và đã thôi áp dụng quy tắc đó trong công việc."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She says they are not real nurses and refuses to talk to them about it.",
+            "vi": "Cô nói họ không phải y tá thật sự và từ chối bàn với họ về chuyện đó."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She says they are not real nurses and refuses to talk to them about it.",
+          "text_translation": "Cô nói họ không phải y tá thật sự và từ chối bàn với họ về chuyện đó."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She accepts their feeling but points to families' gratitude for the truth.",
+            "vi": "Cô chấp nhận cảm giác của họ nhưng chỉ ra rằng các gia đình biết ơn sự thật."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She accepts their feeling but points to families' gratitude for the truth.",
+          "text_translation": "Cô chấp nhận cảm giác của họ nhưng chỉ ra rằng các gia đình biết ơn sự thật."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She asks the hospital to change its rules so that nobody has to say it.",
+            "vi": "Cô đề nghị bệnh viện đổi quy định để không ai phải nói ra điều đó."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She asks the hospital to change its rules so that nobody has to say it.",
+          "text_translation": "Cô đề nghị bệnh viện đổi quy định để không ai phải nói ra điều đó."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Cấu trúc nhượng bộ. \"I understand why. Be that as it may\", rồi dẫn chứng các gia đình đã cảm ơn cô \"for telling them the truth\"."
+      },
+      "audio_data": null,
+      "question_jp": "How does Megan respond to colleagues who find her rule harsh?",
+      "question_vn": "Megan đáp lại thế nào với đồng nghiệp thấy quy tắc của cô khắc nghiệt?",
+      "explanation": "Cấu trúc nhượng bộ. \"I understand why. Be that as it may\", rồi dẫn chứng các gia đình đã cảm ơn cô \"for telling them the truth\"."
+    },
+    {
+      "id": "q_u0102_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "What is the tone of Megan's remark that her teacher would call her grammar \"creative\"?",
+        "vi": "Câu Megan nói cô giáo sẽ gọi ngữ pháp của cô là \"sáng tạo\" có giọng điệu thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "gently self-mocking and humorous",
+            "vi": "nhẹ nhàng tự giễu và hài hước"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "gently self-mocking and humorous",
+          "text_translation": "nhẹ nhàng tự giễu và hài hước"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "bitter and angry about how her teacher judged her",
+            "vi": "cay đắng và giận về cách cô giáo đánh giá mình"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "bitter and angry about how her teacher judged her",
+          "text_translation": "cay đắng và giận về cách cô giáo đánh giá mình"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "proud of how fluent she has become",
+            "vi": "tự hào vì mình đã trở nên lưu loát"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "proud of how fluent she has become",
+          "text_translation": "tự hào vì mình đã trở nên lưu loát"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "bitter about the cost of her classes",
+            "vi": "cay đắng về học phí các lớp của cô"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "bitter about the cost of her classes",
+          "text_translation": "cay đắng về học phí các lớp của cô"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi giọng điệu. \"creative\" là cách nói giảm hài hước cho \"nhiều lỗi\". Chính bài viết về lời nói giảm lại kết bằng một lời nói giảm."
+      },
+      "audio_data": null,
+      "question_jp": "What is the tone of Megan's remark that her teacher would call her grammar \"creative\"?",
+      "question_vn": "Câu Megan nói cô giáo sẽ gọi ngữ pháp của cô là \"sáng tạo\" có giọng điệu thế nào?",
+      "explanation": "Câu hỏi giọng điệu. \"creative\" là cách nói giảm hài hước cho \"nhiều lỗi\". Chính bài viết về lời nói giảm lại kết bằng một lời nói giảm."
+    },
+    {
+      "id": "q_u0102_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_01",
+      "i18n": {
+        "en": "Which statement best expresses the main idea of the essay?",
+        "vi": "Câu nào diễn đạt đúng nhất ý chính của bài luận?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Spanish is harder to learn than English, even for people who work with patients.",
+            "vi": "Tiếng Tây Ban Nha khó học hơn tiếng Anh, kể cả với người làm việc với bệnh nhân."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Spanish is harder to learn than English, even for people who work with patients.",
+          "text_translation": "Tiếng Tây Ban Nha khó học hơn tiếng Anh, kể cả với người làm việc với bệnh nhân."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Nurses should learn several languages, so that they never use a false friend.",
+            "vi": "Y tá nên học nhiều ngôn ngữ để không bao giờ dùng nhầm từ giả bạn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Nurses should learn several languages, so that they never use a false friend.",
+          "text_translation": "Y tá nên học nhiều ngôn ngữ để không bao giờ dùng nhầm từ giả bạn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Medical jargon should be banned from hospitals because it frightens every family.",
+            "vi": "Thuật ngữ y khoa nên bị cấm trong bệnh viện vì nó làm mọi gia đình sợ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Medical jargon should be banned from hospitals because it frightens every family.",
+          "text_translation": "Thuật ngữ y khoa nên bị cấm trong bệnh viện vì nó làm mọi gia đình sợ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Learning a language taught her to notice the gap between words and what they make people believe.",
+            "vi": "Học một ngôn ngữ dạy cô để ý khoảng cách giữa lời nói và điều chúng khiến người ta tin."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Learning a language taught her to notice the gap between words and what they make people believe.",
+          "text_translation": "Học một ngôn ngữ dạy cô để ý khoảng cách giữa lời nói và điều chúng khiến người ta tin."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"the distance between what a sentence says and what it lets someone believe.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which statement best expresses the main idea of the essay?",
+      "question_vn": "Câu nào diễn đạt đúng nhất ý chính của bài luận?",
+      "explanation": "\"the distance between what a sentence says and what it lets someone believe.\""
+    },
+    {
+      "id": "q_u0102_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "Why has Harriet been thinking about her customer's remark?",
+        "vi": "Vì sao bà Harriet cứ nghĩ mãi về câu nói của vị khách?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the customer stopped coming to the café after the changes",
+            "vi": "vì vị khách đã thôi đến quán sau những thay đổi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because the customer stopped coming to the café after the changes",
+          "text_translation": "vì vị khách đã thôi đến quán sau những thay đổi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the remark made her angry and she wants to answer it in print",
+            "vi": "vì lời nhận xét làm bà giận và bà muốn đáp lại bằng bài viết"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the remark made her angry and she wants to answer it in print",
+          "text_translation": "vì lời nhận xét làm bà giận và bà muốn đáp lại bằng bài viết"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the remark is partly right and partly wrong",
+            "vi": "vì câu nói vừa đúng một phần vừa sai một phần"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because the remark is partly right and partly wrong",
+          "text_translation": "vì câu nói vừa đúng một phần vừa sai một phần"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because she wants to close the café and needs a good reason to do so",
+            "vi": "vì bà muốn đóng quán và cần một lý do chính đáng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because she wants to close the café and needs a good reason to do so",
+          "text_translation": "vì bà muốn đóng quán và cần một lý do chính đáng"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"partly because she is right and partly because she is wrong.\" Phần còn lại của bài giải thích cả hai vế."
+      },
+      "audio_data": null,
+      "question_jp": "Why has Harriet been thinking about her customer's remark?",
+      "question_vn": "Vì sao bà Harriet cứ nghĩ mãi về câu nói của vị khách?",
+      "explanation": "\"partly because she is right and partly because she is wrong.\" Phần còn lại của bài giải thích cả hai vế."
+    },
+    {
+      "id": "q_u0102_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "What is the purpose of the list of changes in the paragraph beginning \"Consider what has changed\"?",
+        "vi": "Danh sách thay đổi trong đoạn bắt đầu bằng \"Consider what has changed\" nhằm mục đích gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show how much of the original café has changed, so the customer's feeling makes sense",
+            "vi": "để cho thấy quán ban đầu đã thay đổi nhiều thế nào, nên cảm giác của vị khách có lý"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to show how much of the original café has changed, so the customer's feeling makes sense",
+          "text_translation": "để cho thấy quán ban đầu đã thay đổi nhiều thế nào, nên cảm giác của vị khách có lý"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to advertise the café's improvements and persuade the customer to come back more often",
+            "vi": "để quảng cáo những cải tiến của quán và thuyết phục vị khách quay lại thường xuyên hơn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to advertise the café's improvements and persuade the customer to come back more often",
+          "text_translation": "để quảng cáo những cải tiến của quán và thuyết phục vị khách quay lại thường xuyên hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to complain about prices and the tablet that takes payments",
+            "vi": "để phàn nàn về giá cả và chiếc máy tính bảng nhận thanh toán"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to complain about prices and the tablet that takes payments",
+          "text_translation": "để phàn nàn về giá cả và chiếc máy tính bảng nhận thanh toán"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to thank her son and the waitress for everything they did for the café",
+            "vi": "để cảm ơn con trai và cô phục vụ vì tất cả những gì họ làm cho quán"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to thank her son and the waitress for everything they did for the café",
+          "text_translation": "để cảm ơn con trai và cô phục vụ vì tất cả những gì họ làm cho quán"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi chức năng. Đây là vế bà khách nói đúng: tường, biển, cách thanh toán, giá, người làm đều đã khác."
+      },
+      "audio_data": null,
+      "question_jp": "What is the purpose of the list of changes in the paragraph beginning \"Consider what has changed\"?",
+      "question_vn": "Danh sách thay đổi trong đoạn bắt đầu bằng \"Consider what has changed\" nhằm mục đích gì?",
+      "explanation": "Câu hỏi chức năng. Đây là vế bà khách nói đúng: tường, biển, cách thanh toán, giá, người làm đều đã khác."
+    },
+    {
+      "id": "q_u0102_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "Who is \"only one\" of the original staff who is still there?",
+        "vi": "\"Chỉ còn một người\" trong số nhân viên đầu tiên là ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the waitress who designed the heart-shaped sign",
+            "vi": "cô phục vụ đã thiết kế biển hình trái tim"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the waitress who designed the heart-shaped sign",
+          "text_translation": "cô phục vụ đã thiết kế biển hình trái tim"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet's son, who painted the walls yellow",
+            "vi": "con trai Harriet, người đã sơn tường màu vàng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Harriet's son, who painted the walls yellow",
+          "text_translation": "con trai Harriet, người đã sơn tường màu vàng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the nurse who comes in after the night shift",
+            "vi": "y tá đến quán sau ca đêm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the nurse who comes in after the night shift",
+          "text_translation": "y tá đến quán sau ca đêm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet herself, who now needs a stool behind the counter",
+            "vi": "chính Harriet, người giờ cần một chiếc ghế đẩu sau quầy"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Harriet herself, who now needs a stool behind the counter",
+          "text_translation": "chính Harriet, người giờ cần một chiếc ghế đẩu sau quầy"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Người viết là chủ quán từ ngày đầu; \"she now needs a stool behind the counter\" là cách bà tự nói về mình, giọng tự giễu."
+      },
+      "audio_data": null,
+      "question_jp": "Who is \"only one\" of the original staff who is still there?",
+      "question_vn": "\"Chỉ còn một người\" trong số nhân viên đầu tiên là ai?",
+      "explanation": "Câu suy luận. Người viết là chủ quán từ ngày đầu; \"she now needs a stool behind the counter\" là cách bà tự nói về mình, giọng tự giễu."
+    },
+    {
+      "id": "q_u0102_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "What extra question did Thomas Hobbes add to the puzzle of Theseus's ship?",
+        "vi": "Thomas Hobbes thêm câu hỏi nào vào câu đố con tàu Theseus?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Who had built the first ship, and why had the people of Athens kept it?",
+            "vi": "Ai đã đóng con tàu đầu tiên, và vì sao người Athens giữ nó?"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Who had built the first ship, and why had the people of Athens kept it?",
+          "text_translation": "Ai đã đóng con tàu đầu tiên, và vì sao người Athens giữ nó?"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "If the old planks were rebuilt into a second ship, which one would be the real ship?",
+            "vi": "Nếu ván cũ được đóng thành tàu thứ hai, chiếc nào là tàu thật?"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "If the old planks were rebuilt into a second ship, which one would be the real ship?",
+          "text_translation": "Nếu ván cũ được đóng thành tàu thứ hai, chiếc nào là tàu thật?"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Why did the planks rot, and could the new ones last longer?",
+            "vi": "Vì sao những tấm ván mục, và ván mới có bền hơn không?"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Why did the planks rot, and could the new ones last longer?",
+          "text_translation": "Vì sao những tấm ván mục, và ván mới có bền hơn không?"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Should the ship be kept at all, or should the people of Athens build another?",
+            "vi": "Có nên giữ con tàu không, hay người Athens nên đóng một chiếc khác?"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Should the ship be kept at all, or should the people of Athens build another?",
+          "text_translation": "Có nên giữ con tàu không, hay người Athens nên đóng một chiếc khác?"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"someone had collected all the old planks and built a second ship from them. Which of the two would be the real one?\""
+      },
+      "audio_data": null,
+      "question_jp": "What extra question did Thomas Hobbes add to the puzzle of Theseus's ship?",
+      "question_vn": "Thomas Hobbes thêm câu hỏi nào vào câu đố con tàu Theseus?",
+      "explanation": "\"someone had collected all the old planks and built a second ship from them. Which of the two would be the real one?\""
+    },
+    {
+      "id": "q_u0102_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "How does Harriet apply Hobbes's question to her café?",
+        "vi": "Bà Harriet áp câu hỏi của Hobbes vào quán mình thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She plans to rebuild the old café from the chairs and the sign, plank by plank.",
+            "vi": "Bà định dựng lại quán cũ từ những chiếc ghế và biển, từng tấm ván một."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She plans to rebuild the old café from the chairs and the sign, plank by plank.",
+          "text_translation": "Bà định dựng lại quán cũ từ những chiếc ghế và biển, từng tấm ván một."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She sells the old chairs to pay for the new ones and the heart-shaped sign.",
+            "vi": "Bà bán những chiếc ghế cũ để trả tiền cho ghế mới và biển hình trái tim."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She sells the old chairs to pay for the new ones and the heart-shaped sign.",
+          "text_translation": "Bà bán những chiếc ghế cũ để trả tiền cho ghế mới và biển hình trái tim."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She pictures the old chairs and sign in an empty room and decides that is not Harriet's.",
+            "vi": "Bà hình dung những chiếc ghế và biển cũ trong một căn phòng trống và kết luận đó không phải Harriet's."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She pictures the old chairs and sign in an empty room and decides that is not Harriet's.",
+          "text_translation": "Bà hình dung những chiếc ghế và biển cũ trong một căn phòng trống và kết luận đó không phải Harriet's."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She asks her son to return the sign so that she can hang it in the café again.",
+            "vi": "Bà nhờ con trai trả lại biển để treo lại trong quán."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She asks her son to return the sign so that she can hang it in the café again.",
+          "text_translation": "Bà nhờ con trai trả lại biển để treo lại trong quán."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"If you put them together in an empty room, would you have Harriet's? I am quite sure you would not\"."
+      },
+      "audio_data": null,
+      "question_jp": "How does Harriet apply Hobbes's question to her café?",
+      "question_vn": "Bà Harriet áp câu hỏi của Hobbes vào quán mình thế nào?",
+      "explanation": "\"If you put them together in an empty room, would you have Harriet's? I am quite sure you would not\"."
+    },
+    {
+      "id": "q_u0102_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "According to Harriet, what really makes the café itself?",
+        "vi": "Theo bà Harriet, điều gì thực sự làm nên chính quán?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "its habits and the way people treat one another there",
+            "vi": "thói quen của nó và cách mọi người đối xử với nhau ở đó"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "its habits and the way people treat one another there",
+          "text_translation": "thói quen của nó và cách mọi người đối xử với nhau ở đó"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "its old furniture, especially the chairs that are now in the kitchen",
+            "vi": "đồ đạc cũ, nhất là những chiếc ghế hiện ở trong bếp chung"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "its old furniture, especially the chairs that are now in the kitchen",
+          "text_translation": "đồ đạc cũ, nhất là những chiếc ghế hiện ở trong bếp chung"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "its location on Maple Street, next to the shared kitchen",
+            "vi": "vị trí trên phố Maple, cạnh bếp chung"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "its location on Maple Street, next to the shared kitchen",
+          "text_translation": "vị trí trên phố Maple, cạnh bếp chung"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "its low prices and the fast payment system on the tablet",
+            "vi": "giá rẻ và hệ thống thanh toán nhanh trên máy tính bảng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "its low prices and the fast payment system on the tablet",
+          "text_translation": "giá rẻ và hệ thống thanh toán nhanh trên máy tính bảng"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"What makes a place itself is not its planks but its habits\", như hỏi thăm mẹ khách \"and actually wait for the answer.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to Harriet, what really makes the café itself?",
+      "question_vn": "Theo bà Harriet, điều gì thực sự làm nên chính quán?",
+      "explanation": "\"What makes a place itself is not its planks but its habits\", như hỏi thăm mẹ khách \"and actually wait for the answer.\""
+    },
+    {
+      "id": "q_u0102_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "What \"small fallacy\" does Harriet find in her customer's sadness?",
+        "vi": "Bà Harriet thấy \"ngộ nhận nho nhỏ\" nào trong nỗi buồn của vị khách?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The customer has never been to the café and only knows it from stories.",
+            "vi": "Vị khách chưa từng đến quán và chỉ biết quán qua những câu chuyện."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The customer has never been to the café and only knows it from stories.",
+          "text_translation": "Vị khách chưa từng đến quán và chỉ biết quán qua những câu chuyện."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "People remember the past as it felt, forgetting its problems.",
+            "vi": "Người ta nhớ quá khứ theo cảm giác, quên đi những vấn đề của nó."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "People remember the past as it felt, forgetting its problems.",
+          "text_translation": "Người ta nhớ quá khứ theo cảm giác, quên đi những vấn đề của nó."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The café was always expensive, so the customer's complaint is not new.",
+            "vi": "Quán lúc nào cũng đắt, nên lời phàn nàn của khách không phải chuyện mới."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The café was always expensive, so the customer's complaint is not new.",
+          "text_translation": "Quán lúc nào cũng đắt, nên lời phàn nàn của khách không phải chuyện mới."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The customer is too young to remember how the café was in the beginning.",
+            "vi": "Vị khách còn quá trẻ để nhớ quán ban đầu thế nào."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The customer is too young to remember how the café was in the beginning.",
+          "text_translation": "Vị khách còn quá trẻ để nhớ quán ban đầu thế nào."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"We remember the old café as it felt, not as it was.\" Bà nhớ \"the leaking roof, the broken heater\"."
+      },
+      "audio_data": null,
+      "question_jp": "What \"small fallacy\" does Harriet find in her customer's sadness?",
+      "question_vn": "Bà Harriet thấy \"ngộ nhận nho nhỏ\" nào trong nỗi buồn của vị khách?",
+      "explanation": "\"We remember the old café as it felt, not as it was.\" Bà nhớ \"the leaking roof, the broken heater\"."
+    },
+    {
+      "id": "q_u0102_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "What does the sentence beginning \"Were it not for the changes\" mean?",
+        "vi": "Câu bắt đầu bằng \"Were it not for the changes\" có nghĩa gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The changes caused the café to close, as they did the bakery next door.",
+            "vi": "Những thay đổi khiến quán đóng cửa, như với tiệm bánh bên cạnh."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The changes caused the café to close, as they did the bakery next door.",
+          "text_translation": "Những thay đổi khiến quán đóng cửa, như với tiệm bánh bên cạnh."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The customer caused the changes by complaining about the old café.",
+            "vi": "Vị khách gây ra những thay đổi bằng cách phàn nàn về quán cũ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The customer caused the changes by complaining about the old café.",
+          "text_translation": "Vị khách gây ra những thay đổi bằng cách phàn nàn về quán cũ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The bakery copied the café, and so the bakery closed first.",
+            "vi": "Tiệm bánh bắt chước quán, nên tiệm bánh đóng cửa trước."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The bakery copied the café, and so the bakery closed first.",
+          "text_translation": "Tiệm bánh bắt chước quán, nên tiệm bánh đóng cửa trước."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The café survived only because it kept changing over the years.",
+            "vi": "Quán còn tồn tại chỉ vì nó liên tục thay đổi qua các năm."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The café survived only because it kept changing over the years.",
+          "text_translation": "Quán còn tồn tại chỉ vì nó liên tục thay đổi qua các năm."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Ngữ pháp (Were it not for = If it were not for). Không có những thay đổi đó thì \"it would have closed, as the bakery did.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the sentence beginning \"Were it not for the changes\" mean?",
+      "question_vn": "Câu bắt đầu bằng \"Were it not for the changes\" có nghĩa gì?",
+      "explanation": "Ngữ pháp (Were it not for = If it were not for). Không có những thay đổi đó thì \"it would have closed, as the bakery did.\""
+    },
+    {
+      "id": "q_u0102_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "What does Harriet's \"So be it\" show about her attitude to the future?",
+        "vi": "Câu \"Thì cứ thế\" của bà Harriet cho thấy thái độ gì về tương lai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is angry that others will change the café, and she wants to stop them from doing it.",
+            "vi": "Bà giận vì người khác sẽ thay đổi quán, và bà muốn ngăn họ làm vậy."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She is angry that others will change the café, and she wants to stop them from doing it.",
+          "text_translation": "Bà giận vì người khác sẽ thay đổi quán, và bà muốn ngăn họ làm vậy."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She has decided to sell the café next year to someone with fresh ideas.",
+            "vi": "Bà đã quyết định bán quán vào năm sau cho người có ý tưởng mới."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She has decided to sell the café next year to someone with fresh ideas.",
+          "text_translation": "Bà đã quyết định bán quán vào năm sau cho người có ý tưởng mới."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She calmly accepts future changes, as long as the café still cares for people.",
+            "vi": "Bà bình thản chấp nhận những thay đổi sau này, miễn là quán vẫn quan tâm đến mọi người."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She calmly accepts future changes, as long as the café still cares for people.",
+          "text_translation": "Bà bình thản chấp nhận những thay đổi sau này, miễn là quán vẫn quan tâm đến mọi người."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She refuses to think about it, because she does not trust anyone else.",
+            "vi": "Bà không chịu nghĩ về chuyện đó, vì bà không tin ai khác."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She refuses to think about it, because she does not trust anyone else.",
+          "text_translation": "Bà không chịu nghĩ về chuyện đó, vì bà không tin ai khác."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi thái độ. \"So be it\" là chấp nhận; điều kiện là \"As long as the person behind the counter still waits for the answer\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does Harriet's \"So be it\" show about her attitude to the future?",
+      "question_vn": "Câu \"Thì cứ thế\" của bà Harriet cho thấy thái độ gì về tương lai?",
+      "explanation": "Câu hỏi thái độ. \"So be it\" là chấp nhận; điều kiện là \"As long as the person behind the counter still waits for the answer\"."
+    },
+    {
+      "id": "q_u0102_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0102_02",
+      "i18n": {
+        "en": "Use both texts. What do Megan and Harriet both suggest?",
+        "vi": "Dựa vào cả hai bài. Megan và bà Harriet đều gợi ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Old things are always better than new ones, and people are right to long for the past.",
+            "vi": "Đồ cũ luôn tốt hơn đồ mới, và người ta có lý khi nhớ về quá khứ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Old things are always better than new ones, and people are right to long for the past.",
+          "text_translation": "Đồ cũ luôn tốt hơn đồ mới, và người ta có lý khi nhớ về quá khứ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "What matters lies beneath the surface: the effect of words, and the habits of a place.",
+            "vi": "Điều quan trọng nằm bên dưới bề mặt: tác động của lời nói và thói quen của một nơi chốn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "What matters lies beneath the surface: the effect of words, and the habits of a place.",
+          "text_translation": "Điều quan trọng nằm bên dưới bề mặt: tác động của lời nói và thói quen của một nơi chốn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Language learning is a waste of time, since words are only a surface.",
+            "vi": "Học ngoại ngữ là phí thời gian, vì từ ngữ chỉ là bề mặt."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Language learning is a waste of time, since words are only a surface.",
+          "text_translation": "Học ngoại ngữ là phí thời gian, vì từ ngữ chỉ là bề mặt."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Customers should not complain, because only the staff understand the place.",
+            "vi": "Khách không nên phàn nàn, vì chỉ nhân viên mới hiểu nơi đó."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Customers should not complain, because only the staff understand the place.",
+          "text_translation": "Khách không nên phàn nàn, vì chỉ nhân viên mới hiểu nơi đó."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Megan để ý điều một câu khiến người ta tin, chứ không chỉ nghĩa từ điển; bà Harriet thấy quán là \"not its planks but its habits\"."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do Megan and Harriet both suggest?",
+      "question_vn": "Dựa vào cả hai bài. Megan và bà Harriet đều gợi ý điều gì?",
+      "explanation": "Câu nối hai bài. Megan để ý điều một câu khiến người ta tin, chứ không chỉ nghĩa từ điển; bà Harriet thấy quán là \"not its planks but its habits\"."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u0102_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 1) — Bài luận của Megan về \"bạn giả\" và lời nói giảm",
+      "description": "Đọc hiểu C2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u0102_01",
+      "question_ids": [
+        "q_u0102_001",
+        "q_u0102_002",
+        "q_u0102_003",
+        "q_u0102_004",
+        "q_u0102_005",
+        "q_u0102_006",
+        "q_u0102_007",
+        "q_u0102_008",
+        "q_u0102_009",
+        "q_u0102_010"
+      ]
+    },
+    {
+      "set_id": "set_u0102_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 2) — Bài luận của bà Harriet: quán còn là \"Harriet's\" không?",
+      "description": "Đọc hiểu C2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u0102_02",
+      "question_ids": [
+        "q_u0102_011",
+        "q_u0102_012",
+        "q_u0102_013",
+        "q_u0102_014",
+        "q_u0102_015",
+        "q_u0102_016",
+        "q_u0102_017",
+        "q_u0102_018",
+        "q_u0102_019",
+        "q_u0102_020"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2043 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 17–18 — The environment & Nature and animals",
+      "vi": "Môi trường & Thiên nhiên, động vật"
+    },
+    "title": "Units 17–18 — The environment & Nature and animals",
+    "title_vn": "Môi trường & Thiên nhiên, động vật",
+    "module_code": "58_u1718",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u17+u18",
+    "curriculum_sheets": [
+      "b1.065",
+      "b1.066",
+      "b1.067",
+      "b1.068",
+      "b1.069",
+      "b1.070",
+      "b1.071",
+      "b1.072"
+    ],
+    "characters": [
+      "Trevor Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 3, năm 5"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "So that / so as to, bị động nguyên mẫu, câu nối hai bài",
+    "description_vn": "Trevor viết bài cho báo trường về khu vườn của câu lạc bộ Xanh và bài khoa học vì sao cần bảo vệ loài ong. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 17 + Unit 18 khoá B1 · phiếu `b1.065` – `b1.072` (tiết kiệm nước, tái chế, ô nhiễm, sống xanh; bảo vệ động vật, thế giới hoang dã, công viên quốc gia, thú cưng)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài báo trường và một bài khoa học phổ thông; nhận ra mục đích với so that / so as to, hiểu bị động nguyên mẫu (need to be protected), suy luận từ chi tiết, và liên hệ lời khuyên của bài này với việc làm ở bài kia."
+    },
+    "extra_words": [
+      {
+        "word": "sprinkler",
+        "i18n": {
+          "vi": "vòi tưới tự động"
+        }
+      },
+      {
+        "word": "rainwater",
+        "i18n": {
+          "vi": "nước mưa"
+        }
+      },
+      {
+        "word": "honeybee",
+        "i18n": {
+          "vi": "ong mật"
+        }
+      },
+      {
+        "word": "compost",
+        "i18n": {
+          "vi": "phân ủ (từ rác hữu cơ)"
+        }
+      },
+      {
+        "word": "native",
+        "i18n": {
+          "vi": "bản địa, mọc tự nhiên ở vùng đó"
+        }
+      },
+      {
+        "word": "herb",
+        "i18n": {
+          "vi": "rau thơm"
+        }
+      },
+      {
+        "word": "pollen",
+        "i18n": {
+          "vi": "phấn hoa"
+        }
+      },
+      {
+        "word": "pollination",
+        "i18n": {
+          "vi": "sự thụ phấn"
+        }
+      },
+      {
+        "word": "nest",
+        "i18n": {
+          "vi": "tổ"
+        }
+      },
+      {
+        "word": "beekeeper",
+        "i18n": {
+          "vi": "người nuôi ong"
+        }
+      },
+      {
+        "word": "almond",
+        "i18n": {
+          "vi": "hạnh nhân"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "leave on",
+          "vi": "để (máy) chạy"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a waste of water",
+          "vi": "sự lãng phí nước"
+        }
+      },
+      {
+        "i18n": {
+          "en": "throw out",
+          "vi": "vứt đi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "get your hands dirty",
+          "vi": "xắn tay áo vào làm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "die out",
+          "vi": "tuyệt chủng, biến mất"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a swarm of bees",
+          "vi": "một đàn ong (vỡ tổ)"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`so that + mệnh đề` và `so as to + V` đều chỉ mục đích. Câu hỏi \"Why…?\" hay có đáp án nằm ngay sau hai cụm này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`need to be + V3` (bị động nguyên mẫu) = cần được làm gì. Tiêu đề bài 2 nói luôn ý chính."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu suy luận về chi tiết: hỏi \"chi tiết này cho thấy điều gì?\". Đừng chọn phương án bài không hề nói (vd \"táo bị hỏng\")."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu nối hai bài: tìm lời khuyên ở bài này, rồi tìm việc ở bài kia làm đúng lời khuyên đó."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u1718_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 17) — Bài báo trường của Trevor về vườn của câu lạc bộ Xanh"
+      },
+      "narrator": "Trevor",
+      "title": "From Dirt to Dinner: The Green Club's New Garden",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "From Dirt to Dinner: The Green Club's New Garden",
+            "vi": "Từ bãi đất tới bữa ăn: khu vườn mới của câu lạc bộ Xanh"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Written by: Trevor Carter",
+            "vi": "Người viết: Trevor Carter"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last fall, the area behind our gym was just dry dirt and a few dead bushes.",
+            "vi": "Mùa thu năm ngoái, khoảng đất sau nhà thể chất của trường chỉ toàn đất khô và vài bụi cây chết."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every night, the sprinklers on the sports field were left on for hours, and most of the water simply flowed into the street.",
+            "vi": "Đêm nào hệ thống tưới trên sân thể thao cũng bị để chạy hàng giờ, và phần lớn nước cứ thế chảy ra đường."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mr. Dawson, our science teacher, called it \"a waste of water in a city that doesn't get much rain\", and he asked the Green Club to do something about it.",
+            "vi": "Thầy Dawson, giáo viên khoa học, gọi đó là \"sự lãng phí nước ở một thành phố chẳng mấy khi mưa\", và thầy nhờ câu lạc bộ Xanh tìm cách giải quyết."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "First, we put four large barrels under the gym roof so that we could collect rainwater.",
+            "vi": "Trước hết, bọn mình đặt bốn thùng lớn dưới mái nhà thể chất để hứng nước mưa."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It doesn't rain often in San Diego, but the numbers surprised us: one inch of rain on a roof of 1,000 square feet gives you about 600 gallons of water.",
+            "vi": "San Diego không hay mưa, nhưng con số làm bọn mình bất ngờ: một inch mưa trên mái rộng 1.000 foot vuông cho ra khoảng 600 gallon nước."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Our barrels were full after the first storm in January, and we have used that water for the garden ever since.",
+            "vi": "Các thùng đã đầy sau trận bão đầu tiên hồi tháng Một, và từ đó tới giờ bọn mình dùng nước ấy để tưới vườn."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The school also agreed to water the sports field only in the early morning.",
+            "vi": "Nhà trường cũng đồng ý chỉ tưới sân thể thao vào sáng sớm."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Next, we sorted the cafeteria trash for one week so as to find out what students really throw out.",
+            "vi": "Tiếp theo, bọn mình phân loại rác ở căng tin suốt một tuần để biết học sinh thật sự vứt đi những gì."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The results were shocking: almost half of it could be recycled or turned into compost.",
+            "vi": "Kết quả gây sốc: gần một nửa số rác có thể tái chế hoặc ủ thành phân bón."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We found hundreds of milk cartons, plastic straws and whole apples that nobody had touched.",
+            "vi": "Bọn mình tìm thấy hàng trăm hộp sữa giấy, ống hút nhựa và cả những quả táo nguyên vẹn chưa ai đụng tới."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Now there are three bins in the cafeteria, and the food waste goes into a compost box next to the garden.",
+            "vi": "Giờ căng tin có ba thùng rác, và thức ăn thừa được cho vào một thùng ủ phân cạnh khu vườn."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In February, we planted tomatoes, herbs and native flowers that need very little water.",
+            "vi": "Tháng Hai, bọn mình trồng cà chua, rau thơm và hoa bản địa cần rất ít nước."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The cafeteria cooks have promised to use our herbs in their soups this spring.",
+            "vi": "Các cô chú nấu bếp ở căng tin đã hứa mùa xuân này sẽ dùng rau thơm của bọn mình để nấu súp."
+          }
+        },
+        {
+          "n": 16,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "To be honest, I only joined the club because my friend Jake did.",
+            "vi": "Nói thật, mình vào câu lạc bộ chỉ vì cậu bạn Jake cũng vào."
+          }
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Since I made the school soccer team at the start of March, I can only come to meetings on Wednesdays, but I still check the barrels every morning before class.",
+            "vi": "Từ khi được vào đội bóng của trường hồi đầu tháng Ba, mình chỉ dự họp được vào thứ Tư, nhưng sáng nào trước giờ học mình cũng vẫn đi kiểm tra các thùng nước."
+          }
+        },
+        {
+          "n": 18,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If you want to get your hands dirty, the Green Club meets in Room 14 on Wednesdays at 3:15. Bring old clothes!",
+            "vi": "Nếu bạn muốn xắn tay áo làm, câu lạc bộ Xanh họp ở phòng 14 lúc 3 giờ 15 chiều thứ Tư. Nhớ mang quần áo cũ nhé!"
+          }
+        }
+      ],
+      "content_ja": "From Dirt to Dinner: The Green Club's New Garden\n\nWritten by: Trevor Carter\n\nLast fall, the area behind our gym was just dry dirt and a few dead bushes. Every night, the sprinklers on the sports field were left on for hours, and most of the water simply flowed into the street. Mr. Dawson, our science teacher, called it \"a waste of water in a city that doesn't get much rain\", and he asked the Green Club to do something about it.\n\nFirst, we put four large barrels under the gym roof so that we could collect rainwater. It doesn't rain often in San Diego, but the numbers surprised us: one inch of rain on a roof of 1,000 square feet gives you about 600 gallons of water. Our barrels were full after the first storm in January, and we have used that water for the garden ever since. The school also agreed to water the sports field only in the early morning.\n\nNext, we sorted the cafeteria trash for one week so as to find out what students really throw out. The results were shocking: almost half of it could be recycled or turned into compost. We found hundreds of milk cartons, plastic straws and whole apples that nobody had touched. Now there are three bins in the cafeteria, and the food waste goes into a compost box next to the garden.\n\nIn February, we planted tomatoes, herbs and native flowers that need very little water. The cafeteria cooks have promised to use our herbs in their soups this spring.\n\nTo be honest, I only joined the club because my friend Jake did. Since I made the school soccer team at the start of March, I can only come to meetings on Wednesdays, but I still check the barrels every morning before class. If you want to get your hands dirty, the Green Club meets in Room 14 on Wednesdays at 3:15. Bring old clothes!",
+      "translation_vn": "(1) Từ bãi đất tới bữa ăn: khu vườn mới của câu lạc bộ Xanh\n(2) Người viết: Trevor Carter\n(3) Mùa thu năm ngoái, khoảng đất sau nhà thể chất của trường chỉ toàn đất khô và vài bụi cây chết.\n(4) Đêm nào hệ thống tưới trên sân thể thao cũng bị để chạy hàng giờ, và phần lớn nước cứ thế chảy ra đường.\n(5) Thầy Dawson, giáo viên khoa học, gọi đó là \"sự lãng phí nước ở một thành phố chẳng mấy khi mưa\", và thầy nhờ câu lạc bộ Xanh tìm cách giải quyết.\n(6) Trước hết, bọn mình đặt bốn thùng lớn dưới mái nhà thể chất để hứng nước mưa.\n(7) San Diego không hay mưa, nhưng con số làm bọn mình bất ngờ: một inch mưa trên mái rộng 1.000 foot vuông cho ra khoảng 600 gallon nước.\n(8) Các thùng đã đầy sau trận bão đầu tiên hồi tháng Một, và từ đó tới giờ bọn mình dùng nước ấy để tưới vườn.\n(9) Nhà trường cũng đồng ý chỉ tưới sân thể thao vào sáng sớm.\n(10) Tiếp theo, bọn mình phân loại rác ở căng tin suốt một tuần để biết học sinh thật sự vứt đi những gì.\n(11) Kết quả gây sốc: gần một nửa số rác có thể tái chế hoặc ủ thành phân bón.\n(12) Bọn mình tìm thấy hàng trăm hộp sữa giấy, ống hút nhựa và cả những quả táo nguyên vẹn chưa ai đụng tới.\n(13) Giờ căng tin có ba thùng rác, và thức ăn thừa được cho vào một thùng ủ phân cạnh khu vườn.\n(14) Tháng Hai, bọn mình trồng cà chua, rau thơm và hoa bản địa cần rất ít nước.\n(15) Các cô chú nấu bếp ở căng tin đã hứa mùa xuân này sẽ dùng rau thơm của bọn mình để nấu súp.\n(16) Nói thật, mình vào câu lạc bộ chỉ vì cậu bạn Jake cũng vào.\n(17) Từ khi được vào đội bóng của trường hồi đầu tháng Ba, mình chỉ dự họp được vào thứ Tư, nhưng sáng nào trước giờ học mình cũng vẫn đi kiểm tra các thùng nước.\n(18) Nếu bạn muốn xắn tay áo làm, câu lạc bộ Xanh họp ở phòng 14 lúc 3 giờ 15 chiều thứ Tư. Nhớ mang quần áo cũ nhé!",
+      "word_count": 322,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.065",
+        "b1.066",
+        "b1.067",
+        "b1.068"
+      ]
+    },
+    {
+      "id": "passage_u1718_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 18) — Vì sao cần bảo vệ loài ong"
+      },
+      "narrator": "announcer",
+      "title": "Why Bees Need to Be Protected",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why Bees Need to Be Protected",
+            "vi": "Vì sao cần bảo vệ loài ong"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Next time you eat an apple, an almond or a strawberry, you can thank a bee.",
+            "vi": "Lần tới khi ăn một quả táo, một hạt hạnh nhân hay một quả dâu tây, bạn có thể cảm ơn một chú ong."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When bees fly from flower to flower to collect food, they carry pollen, and this helps plants to make fruit and seeds.",
+            "vi": "Khi bay từ hoa này sang hoa khác để kiếm ăn, ong mang theo phấn hoa, và điều này giúp cây ra quả và hạt."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This process is called pollination, and about one in every three bites of the food we eat depends on animals like bees.",
+            "vi": "Quá trình này gọi là thụ phấn, và khoảng một phần ba số miếng ăn của chúng ta phụ thuộc vào những loài như ong."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most people think of honeybees, which live together in large groups and make honey.",
+            "vi": "Phần lớn mọi người nghĩ ngay tới ong mật, loài sống thành đàn lớn và làm ra mật."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "However, honeybees are not originally from North America; they were brought here from Europe in the 1600s.",
+            "vi": "Tuy nhiên, ong mật vốn không có nguồn gốc ở Bắc Mỹ; chúng được mang từ châu Âu sang vào những năm 1600."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In fact, there are about 4,000 kinds of native bees in the United States, and most of them live alone, not in large groups.",
+            "vi": "Thật ra, nước Mỹ có khoảng 4.000 loài ong bản địa, và phần lớn sống đơn độc chứ không thành đàn."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many build their nests in small holes in the ground or in dead wood.",
+            "vi": "Nhiều loài làm tổ trong những cái lỗ nhỏ dưới đất hoặc trong gỗ mục."
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some are so small that you might think they are flies.",
+            "vi": "Có loài nhỏ tới mức bạn có thể tưởng chúng là ruồi."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sadly, bees face serious threats.",
+            "vi": "Đáng buồn là loài ong đang gặp nhiều mối đe doạ nghiêm trọng."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When fields and gardens are covered with roads and buildings, bees lose their natural habitat.",
+            "vi": "Khi đồng ruộng và vườn tược bị phủ kín bởi đường sá, nhà cửa, ong mất đi môi trường sống tự nhiên."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Chemicals that people use to kill insects can also kill bees, and disease and extreme weather make the problem worse.",
+            "vi": "Hoá chất người ta dùng để diệt côn trùng cũng có thể giết ong, còn dịch bệnh và thời tiết khắc nghiệt làm vấn đề thêm tệ."
+          }
+        },
+        {
+          "n": 13,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In recent years, beekeepers in the United States have lost a large part of their bees every year, and scientists worry that some native kinds could die out.",
+            "vi": "Những năm gần đây, người nuôi ong ở Mỹ năm nào cũng mất một phần lớn đàn ong, và các nhà khoa học lo rằng một số loài bản địa có thể tuyệt chủng."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The good news is that bees are easy to help, even in a small city garden.",
+            "vi": "Tin vui là giúp loài ong không khó, kể cả với một khu vườn nhỏ trong thành phố."
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Plant flowers that grow naturally in your area, and choose different kinds so that bees can find food from spring to fall.",
+            "vi": "Hãy trồng các loài hoa mọc tự nhiên ở vùng bạn sống, và chọn nhiều loại để ong có thức ăn từ mùa xuân tới mùa thu."
+          }
+        },
+        {
+          "n": 16,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Leave a small dish of water with some stones in it, so that bees can rest on the stones while they drink.",
+            "vi": "Đặt một đĩa nước nhỏ có vài viên đá, để ong đậu lên đá nghỉ trong lúc uống nước."
+          }
+        },
+        {
+          "n": 17,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Try not to use chemicals in the garden.",
+            "vi": "Cố gắng đừng dùng hoá chất trong vườn."
+          }
+        },
+        {
+          "n": 18,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And if you see a swarm of bees, don't try to kill them: they are usually calm because they are only looking for a new home, so call a local beekeeper, who can take them away safely.",
+            "vi": "Và nếu thấy một đàn ong vỡ tổ, đừng tìm cách giết chúng: chúng thường hiền vì chỉ đang tìm nhà mới, nên hãy gọi một người nuôi ong ở gần, người có thể mang chúng đi an toàn."
+          }
+        },
+        {
+          "n": 19,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Bees need to be protected not only because they are amazing animals, but also because our food depends on them.",
+            "vi": "Loài ong cần được bảo vệ không chỉ vì chúng là những sinh vật tuyệt vời, mà còn vì thức ăn của chúng ta phụ thuộc vào chúng."
+          }
+        }
+      ],
+      "content_ja": "Why Bees Need to Be Protected\n\nNext time you eat an apple, an almond or a strawberry, you can thank a bee. When bees fly from flower to flower to collect food, they carry pollen, and this helps plants to make fruit and seeds. This process is called pollination, and about one in every three bites of the food we eat depends on animals like bees.\n\nMost people think of honeybees, which live together in large groups and make honey. However, honeybees are not originally from North America; they were brought here from Europe in the 1600s. In fact, there are about 4,000 kinds of native bees in the United States, and most of them live alone, not in large groups. Many build their nests in small holes in the ground or in dead wood. Some are so small that you might think they are flies.\n\nSadly, bees face serious threats. When fields and gardens are covered with roads and buildings, bees lose their natural habitat. Chemicals that people use to kill insects can also kill bees, and disease and extreme weather make the problem worse. In recent years, beekeepers in the United States have lost a large part of their bees every year, and scientists worry that some native kinds could die out.\n\nThe good news is that bees are easy to help, even in a small city garden. Plant flowers that grow naturally in your area, and choose different kinds so that bees can find food from spring to fall. Leave a small dish of water with some stones in it, so that bees can rest on the stones while they drink. Try not to use chemicals in the garden. And if you see a swarm of bees, don't try to kill them: they are usually calm because they are only looking for a new home, so call a local beekeeper, who can take them away safely.\n\nBees need to be protected not only because they are amazing animals, but also because our food depends on them.",
+      "translation_vn": "(1) Vì sao cần bảo vệ loài ong\n(2) Lần tới khi ăn một quả táo, một hạt hạnh nhân hay một quả dâu tây, bạn có thể cảm ơn một chú ong.\n(3) Khi bay từ hoa này sang hoa khác để kiếm ăn, ong mang theo phấn hoa, và điều này giúp cây ra quả và hạt.\n(4) Quá trình này gọi là thụ phấn, và khoảng một phần ba số miếng ăn của chúng ta phụ thuộc vào những loài như ong.\n(5) Phần lớn mọi người nghĩ ngay tới ong mật, loài sống thành đàn lớn và làm ra mật.\n(6) Tuy nhiên, ong mật vốn không có nguồn gốc ở Bắc Mỹ; chúng được mang từ châu Âu sang vào những năm 1600.\n(7) Thật ra, nước Mỹ có khoảng 4.000 loài ong bản địa, và phần lớn sống đơn độc chứ không thành đàn.\n(8) Nhiều loài làm tổ trong những cái lỗ nhỏ dưới đất hoặc trong gỗ mục.\n(9) Có loài nhỏ tới mức bạn có thể tưởng chúng là ruồi.\n(10) Đáng buồn là loài ong đang gặp nhiều mối đe doạ nghiêm trọng.\n(11) Khi đồng ruộng và vườn tược bị phủ kín bởi đường sá, nhà cửa, ong mất đi môi trường sống tự nhiên.\n(12) Hoá chất người ta dùng để diệt côn trùng cũng có thể giết ong, còn dịch bệnh và thời tiết khắc nghiệt làm vấn đề thêm tệ.\n(13) Những năm gần đây, người nuôi ong ở Mỹ năm nào cũng mất một phần lớn đàn ong, và các nhà khoa học lo rằng một số loài bản địa có thể tuyệt chủng.\n(14) Tin vui là giúp loài ong không khó, kể cả với một khu vườn nhỏ trong thành phố.\n(15) Hãy trồng các loài hoa mọc tự nhiên ở vùng bạn sống, và chọn nhiều loại để ong có thức ăn từ mùa xuân tới mùa thu.\n(16) Đặt một đĩa nước nhỏ có vài viên đá, để ong đậu lên đá nghỉ trong lúc uống nước.\n(17) Cố gắng đừng dùng hoá chất trong vườn.\n(18) Và nếu thấy một đàn ong vỡ tổ, đừng tìm cách giết chúng: chúng thường hiền vì chỉ đang tìm nhà mới, nên hãy gọi một người nuôi ong ở gần, người có thể mang chúng đi an toàn.\n(19) Loài ong cần được bảo vệ không chỉ vì chúng là những sinh vật tuyệt vời, mà còn vì thức ăn của chúng ta phụ thuộc vào chúng.",
+      "word_count": 338,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.069",
+        "b1.070",
+        "b1.071",
+        "b1.072"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u1718_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "What is the article mainly about?",
+        "vi": "Bài báo chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "why Trevor joined the soccer team and stopped working in the garden",
+            "vi": "vì sao Trevor vào đội bóng đá và thôi làm vườn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "why Trevor joined the soccer team and stopped working in the garden",
+          "text_translation": "vì sao Trevor vào đội bóng đá và thôi làm vườn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "how the cafeteria cooks make soup with fresh herbs",
+            "vi": "cách các đầu bếp căng-tin nấu súp với rau thơm tươi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "how the cafeteria cooks make soup with fresh herbs",
+          "text_translation": "cách các đầu bếp căng-tin nấu súp với rau thơm tươi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "how the Green Club made a garden and cut waste at school",
+            "vi": "cách Câu lạc bộ Xanh làm khu vườn và giảm rác ở trường"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "how the Green Club made a garden and cut waste at school",
+          "text_translation": "cách Câu lạc bộ Xanh làm khu vườn và giảm rác ở trường"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the weather in San Diego and how it changes each year",
+            "vi": "thời tiết ở San Diego và việc nó thay đổi mỗi năm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the weather in San Diego and how it changes each year",
+          "text_translation": "thời tiết ở San Diego và việc nó thay đổi mỗi năm"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"he asked the Green Club to do something about it.\" Phần còn lại kể từng việc câu lạc bộ đã làm: hứng nước mưa, phân loại rác, trồng vườn."
+      },
+      "audio_data": null,
+      "question_jp": "What is the article mainly about?",
+      "question_vn": "Bài báo chủ yếu nói về điều gì?",
+      "explanation": "\"he asked the Green Club to do something about it.\" Phần còn lại kể từng việc câu lạc bộ đã làm: hứng nước mưa, phân loại rác, trồng vườn."
+    },
+    {
+      "id": "q_u1718_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "Why did Mr. Dawson call the sprinklers \"a waste of water\"?",
+        "vi": "Vì sao thầy Dawson gọi hệ thống tưới là \"sự lãng phí nước\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The water flowed into the street in a city with little rain.",
+            "vi": "Nước chảy ra đường trong một thành phố ít mưa."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The water flowed into the street in a city with little rain.",
+          "text_translation": "Nước chảy ra đường trong một thành phố ít mưa."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The sprinklers were broken and kept wetting the gym.",
+            "vi": "Vòi phun bị hỏng và cứ phun vào phòng tập."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The sprinklers were broken and kept wetting the gym.",
+          "text_translation": "Vòi phun bị hỏng và cứ phun vào phòng tập."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The garden had too many plants for the dry ground.",
+            "vi": "Khu vườn có quá nhiều cây so với đất khô."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The garden had too many plants for the dry ground.",
+          "text_translation": "Khu vườn có quá nhiều cây so với đất khô."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Students played in the water every night and made a big mess.",
+            "vi": "Học sinh đêm nào cũng chơi dưới nước và làm bừa bộn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Students played in the water every night and made a big mess.",
+          "text_translation": "Học sinh đêm nào cũng chơi dưới nước và làm bừa bộn."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"the sprinklers on the sports field were left on for hours, and most of the water simply flowed into the street.\" Thầy nhấn mạnh đây là \"a city that doesn't get much rain\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why did Mr. Dawson call the sprinklers \"a waste of water\"?",
+      "question_vn": "Vì sao thầy Dawson gọi hệ thống tưới là \"sự lãng phí nước\"?",
+      "explanation": "\"the sprinklers on the sports field were left on for hours, and most of the water simply flowed into the street.\" Thầy nhấn mạnh đây là \"a city that doesn't get much rain\"."
+    },
+    {
+      "id": "q_u1718_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "Why did the club put barrels under the gym roof?",
+        "vi": "Vì sao câu lạc bộ đặt thùng dưới mái nhà thể chất?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "so that students could sit on them at lunch time",
+            "vi": "để học sinh có thể ngồi lên chúng vào giờ ăn trưa"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "so that students could sit on them at lunch time",
+          "text_translation": "để học sinh có thể ngồi lên chúng vào giờ ăn trưa"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "so as to keep the cafeteria trash dry",
+            "vi": "để giữ cho rác căng-tin khô ráo"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "so as to keep the cafeteria trash dry",
+          "text_translation": "để giữ cho rác căng-tin khô ráo"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "so that the roof would not break in a storm",
+            "vi": "để mái nhà không bị vỡ khi có bão"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "so that the roof would not break in a storm",
+          "text_translation": "để mái nhà không bị vỡ khi có bão"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "so that they could collect rainwater",
+            "vi": "để hứng nước mưa"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "so that they could collect rainwater",
+          "text_translation": "để hứng nước mưa"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"we put four large barrels under the gym roof so that we could collect rainwater.\" So that + mệnh đề chỉ mục đích."
+      },
+      "audio_data": null,
+      "question_jp": "Why did the club put barrels under the gym roof?",
+      "question_vn": "Vì sao câu lạc bộ đặt thùng dưới mái nhà thể chất?",
+      "explanation": "\"we put four large barrels under the gym roof so that we could collect rainwater.\" So that + mệnh đề chỉ mục đích."
+    },
+    {
+      "id": "q_u1718_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "Why were the club members surprised by the numbers?",
+        "vi": "Vì sao các thành viên câu lạc bộ bất ngờ với con số?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It rains every day in San Diego, even in the summer.",
+            "vi": "Ở San Diego ngày nào cũng mưa, kể cả mùa hè."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It rains every day in San Diego, even in the summer.",
+          "text_translation": "Ở San Diego ngày nào cũng mưa, kể cả mùa hè."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Even a little rain on a roof can give a lot of water.",
+            "vi": "Vì chỉ một chút mưa trên mái nhà cũng cho ra rất nhiều nước."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Even a little rain on a roof can give a lot of water.",
+          "text_translation": "Vì chỉ một chút mưa trên mái nhà cũng cho ra rất nhiều nước."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The barrels were too small to hold any rainwater at all.",
+            "vi": "Các thùng quá nhỏ nên chẳng chứa được chút nước mưa nào."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The barrels were too small to hold any rainwater at all.",
+          "text_translation": "Các thùng quá nhỏ nên chẳng chứa được chút nước mưa nào."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The gym roof is very old and needs a repair.",
+            "vi": "Mái phòng tập rất cũ và cần sửa."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The gym roof is very old and needs a repair.",
+          "text_translation": "Mái phòng tập rất cũ và cần sửa."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"It doesn't rain often in San Diego, but the numbers surprised us: one inch of rain on a roof of 1,000 square feet gives you about 600 gallons of water.\" Chữ but cho thấy: ít mưa mà vẫn thu được nhiều nước."
+      },
+      "audio_data": null,
+      "question_jp": "Why were the club members surprised by the numbers?",
+      "question_vn": "Vì sao các thành viên câu lạc bộ bất ngờ với con số?",
+      "explanation": "Câu suy luận. \"It doesn't rain often in San Diego, but the numbers surprised us: one inch of rain on a roof of 1,000 square feet gives you about 600 gallons of water.\" Chữ but cho thấy: ít mưa mà vẫn thu được nhiều nước."
+    },
+    {
+      "id": "q_u1718_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "Why did the club sort the cafeteria trash for one week?",
+        "vi": "Vì sao câu lạc bộ phân loại rác căng tin suốt một tuần?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to find lost books and clothes in the trash",
+            "vi": "để tìm sách vở và quần áo bị thất lạc trong rác"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to find lost books and clothes in the trash",
+          "text_translation": "để tìm sách vở và quần áo bị thất lạc trong rác"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to clean the cafeteria floor before the holidays",
+            "vi": "để lau sàn căng-tin trước kỳ nghỉ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to clean the cafeteria floor before the holidays",
+          "text_translation": "để lau sàn căng-tin trước kỳ nghỉ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "so as to find out what students really throw out",
+            "vi": "để biết học sinh thật sự vứt đi những gì"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "so as to find out what students really throw out",
+          "text_translation": "để biết học sinh thật sự vứt đi những gì"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "so as not to eat the apples that were thrown away",
+            "vi": "để không ăn những quả táo bị bỏ đi"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "so as not to eat the apples that were thrown away",
+          "text_translation": "để không ăn những quả táo bị bỏ đi"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"we sorted the cafeteria trash for one week so as to find out what students really throw out.\" So as to + động từ nguyên mẫu cũng chỉ mục đích."
+      },
+      "audio_data": null,
+      "question_jp": "Why did the club sort the cafeteria trash for one week?",
+      "question_vn": "Vì sao câu lạc bộ phân loại rác căng tin suốt một tuần?",
+      "explanation": "\"we sorted the cafeteria trash for one week so as to find out what students really throw out.\" So as to + động từ nguyên mẫu cũng chỉ mục đích."
+    },
+    {
+      "id": "q_u1718_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "Which of these did the club NOT find in the cafeteria trash?",
+        "vi": "Câu lạc bộ KHÔNG tìm thấy thứ nào trong rác căng tin?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "milk cartons",
+            "vi": "hộp sữa giấy"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "milk cartons",
+          "text_translation": "hộp sữa giấy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "plastic straws",
+            "vi": "ống hút nhựa"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "plastic straws",
+          "text_translation": "ống hút nhựa"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "whole apples",
+            "vi": "táo nguyên quả"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "whole apples",
+          "text_translation": "táo nguyên quả"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "old clothes",
+            "vi": "quần áo cũ"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "old clothes",
+          "text_translation": "quần áo cũ"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"We found hundreds of milk cartons, plastic straws and whole apples that nobody had touched.\" \"Old clothes\" là thứ người mới nên mặc khi tới làm vườn."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these did the club NOT find in the cafeteria trash?",
+      "question_vn": "Câu lạc bộ KHÔNG tìm thấy thứ nào trong rác căng tin?",
+      "explanation": "\"We found hundreds of milk cartons, plastic straws and whole apples that nobody had touched.\" \"Old clothes\" là thứ người mới nên mặc khi tới làm vườn."
+    },
+    {
+      "id": "q_u1718_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "What do the \"whole apples that nobody had touched\" suggest?",
+        "vi": "Những \"quả táo nguyên vẹn chưa ai đụng tới\" cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Some students threw away food that they had not eaten.",
+            "vi": "Một số học sinh vứt bỏ đồ ăn mà mình chưa ăn."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Some students threw away food that they had not eaten.",
+          "text_translation": "Một số học sinh vứt bỏ đồ ăn mà mình chưa ăn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The apples were bad, so students threw them away.",
+            "vi": "Những quả táo hỏng nên học sinh vứt đi."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The apples were bad, so students threw them away.",
+          "text_translation": "Những quả táo hỏng nên học sinh vứt đi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The cafeteria did not sell apples, only other kinds of fruit.",
+            "vi": "Căng-tin không bán táo, chỉ bán các loại quả khác."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The cafeteria did not sell apples, only other kinds of fruit.",
+          "text_translation": "Căng-tin không bán táo, chỉ bán các loại quả khác."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Students like apples more than other fruit on the menu.",
+            "vi": "Học sinh thích táo hơn các loại quả khác trong thực đơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Students like apples more than other fruit on the menu.",
+          "text_translation": "Học sinh thích táo hơn các loại quả khác trong thực đơn."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"whole apples that nobody had touched\". Táo còn nguyên mà đã nằm trong thùng rác, tức là bị vứt đi khi chưa ăn. Bài không nói táo bị hỏng."
+      },
+      "audio_data": null,
+      "question_jp": "What do the \"whole apples that nobody had touched\" suggest?",
+      "question_vn": "Những \"quả táo nguyên vẹn chưa ai đụng tới\" cho thấy điều gì?",
+      "explanation": "Câu suy luận. \"whole apples that nobody had touched\". Táo còn nguyên mà đã nằm trong thùng rác, tức là bị vứt đi khi chưa ăn. Bài không nói táo bị hỏng."
+    },
+    {
+      "id": "q_u1718_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "What have the cafeteria cooks promised to do?",
+        "vi": "Các cô chú nấu bếp ở căng tin đã hứa làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "sort the cafeteria trash every day of the week",
+            "vi": "phân loại rác căng-tin mỗi ngày trong tuần"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "sort the cafeteria trash every day of the week",
+          "text_translation": "phân loại rác căng-tin mỗi ngày trong tuần"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "use the club's herbs in their soups",
+            "vi": "dùng rau thơm của câu lạc bộ để nấu súp"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "use the club's herbs in their soups",
+          "text_translation": "dùng rau thơm của câu lạc bộ để nấu súp"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "buy new barrels for the roof",
+            "vi": "mua thùng mới cho mái nhà"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "buy new barrels for the roof",
+          "text_translation": "mua thùng mới cho mái nhà"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "stop selling milk and plastic straws",
+            "vi": "ngừng bán sữa và ống hút nhựa"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "stop selling milk and plastic straws",
+          "text_translation": "ngừng bán sữa và ống hút nhựa"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"The cafeteria cooks have promised to use our herbs in their soups this spring.\""
+      },
+      "audio_data": null,
+      "question_jp": "What have the cafeteria cooks promised to do?",
+      "question_vn": "Các cô chú nấu bếp ở căng tin đã hứa làm gì?",
+      "explanation": "\"The cafeteria cooks have promised to use our herbs in their soups this spring.\""
+    },
+    {
+      "id": "q_u1718_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "How has Trevor's feeling about the Green Club changed?",
+        "vi": "Cảm nhận của Trevor về câu lạc bộ Xanh đã thay đổi thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He liked it at first, but now he wants to leave the club soon.",
+            "vi": "Lúc đầu cậu thích, nhưng giờ cậu sắp muốn rời câu lạc bộ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He liked it at first, but now he wants to leave the club soon.",
+          "text_translation": "Lúc đầu cậu thích, nhưng giờ cậu sắp muốn rời câu lạc bộ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He has always loved gardening and joined for that reason.",
+            "vi": "Cậu luôn thích làm vườn và vào câu lạc bộ vì lý do đó."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He has always loved gardening and joined for that reason.",
+          "text_translation": "Cậu luôn thích làm vườn và vào câu lạc bộ vì lý do đó."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He joined only because of Jake, but now he cares about it.",
+            "vi": "Cậu vào chỉ vì Jake, nhưng giờ cậu quan tâm thật sự đến nó."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "He joined only because of Jake, but now he cares about it.",
+          "text_translation": "Cậu vào chỉ vì Jake, nhưng giờ cậu quan tâm thật sự đến nó."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He thinks the club is a waste of time because of soccer.",
+            "vi": "Cậu nghĩ câu lạc bộ là phí thời gian vì còn bóng đá."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He thinks the club is a waste of time because of soccer.",
+          "text_translation": "Cậu nghĩ câu lạc bộ là phí thời gian vì còn bóng đá."
+        }
+      ],
+      "evidence_segments": [
+        16,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"To be honest, I only joined the club because my friend Jake did.\" Nhưng dù bận tập bóng, \"I still check the barrels every morning before class\"."
+      },
+      "audio_data": null,
+      "question_jp": "How has Trevor's feeling about the Green Club changed?",
+      "question_vn": "Cảm nhận của Trevor về câu lạc bộ Xanh đã thay đổi thế nào?",
+      "explanation": "Câu suy luận. \"To be honest, I only joined the club because my friend Jake did.\" Nhưng dù bận tập bóng, \"I still check the barrels every morning before class\"."
+    },
+    {
+      "id": "q_u1718_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_01",
+      "i18n": {
+        "en": "What is the purpose of the last paragraph?",
+        "vi": "Đoạn cuối nhằm mục đích gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to complain about the soccer team's busy schedule",
+            "vi": "để phàn nàn về lịch tập bận rộn của đội bóng đá"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to complain about the soccer team's busy schedule",
+          "text_translation": "để phàn nàn về lịch tập bận rộn của đội bóng đá"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to thank Mr. Dawson and the cafeteria cooks",
+            "vi": "để cảm ơn thầy Dawson và các đầu bếp căng-tin"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to thank Mr. Dawson and the cafeteria cooks",
+          "text_translation": "để cảm ơn thầy Dawson và các đầu bếp căng-tin"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to explain how to collect rainwater in barrels",
+            "vi": "để giải thích cách hứng nước mưa vào thùng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to explain how to collect rainwater in barrels",
+          "text_translation": "để giải thích cách hứng nước mưa vào thùng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to invite other students to join the club",
+            "vi": "để mời học sinh khác tham gia câu lạc bộ"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to invite other students to join the club",
+          "text_translation": "để mời học sinh khác tham gia câu lạc bộ"
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về mục đích. \"If you want to get your hands dirty, the Green Club meets in Room 14 on Wednesdays at 3:15. Bring old clothes!\" Đoạn cuối cho giờ, phòng họp và lời dặn, nên đây là lời mời."
+      },
+      "audio_data": null,
+      "question_jp": "What is the purpose of the last paragraph?",
+      "question_vn": "Đoạn cuối nhằm mục đích gì?",
+      "explanation": "Câu suy luận về mục đích. \"If you want to get your hands dirty, the Green Club meets in Room 14 on Wednesdays at 3:15. Bring old clothes!\" Đoạn cuối cho giờ, phòng họp và lời dặn, nên đây là lời mời."
+    },
+    {
+      "id": "q_u1718_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "What is the main idea of the article?",
+        "vi": "Ý chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Bees are important for our food and need our help.",
+            "vi": "Ong quan trọng với thức ăn của chúng ta và cần được giúp đỡ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Bees are important for our food and need our help.",
+          "text_translation": "Ong quan trọng với thức ăn của chúng ta và cần được giúp đỡ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Honeybees are the only bees that are useful to people.",
+            "vi": "Ong mật là loài ong duy nhất có ích cho con người."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Honeybees are the only bees that are useful to people.",
+          "text_translation": "Ong mật là loài ong duy nhất có ích cho con người."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "People should keep bees at home in their own gardens.",
+            "vi": "Mọi người nên nuôi ong ở nhà trong vườn riêng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "People should keep bees at home in their own gardens.",
+          "text_translation": "Mọi người nên nuôi ong ở nhà trong vườn riêng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Bees are dangerous and should be kept away from houses.",
+            "vi": "Ong nguy hiểm và nên để tránh xa nhà cửa."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Bees are dangerous and should be kept away from houses.",
+          "text_translation": "Ong nguy hiểm và nên để tránh xa nhà cửa."
+        }
+      ],
+      "evidence_segments": [
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "\"Bees need to be protected not only because they are amazing animals, but also because our food depends on them.\" Câu kết tóm lại ý chính cả bài."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main idea of the article?",
+      "question_vn": "Ý chính của bài báo là gì?",
+      "explanation": "\"Bees need to be protected not only because they are amazing animals, but also because our food depends on them.\" Câu kết tóm lại ý chính cả bài."
+    },
+    {
+      "id": "q_u1718_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "What happens when bees fly from flower to flower?",
+        "vi": "Điều gì xảy ra khi ong bay từ hoa này sang hoa khác?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They make the flowers smaller and cause the leaves to fall.",
+            "vi": "Chúng làm hoa nhỏ đi và khiến lá rụng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They make the flowers smaller and cause the leaves to fall.",
+          "text_translation": "Chúng làm hoa nhỏ đi và khiến lá rụng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They carry pollen, which helps plants make fruit and seeds.",
+            "vi": "Chúng mang phấn hoa, điều này giúp cây tạo quả và hạt."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "They carry pollen, which helps plants make fruit and seeds.",
+          "text_translation": "Chúng mang phấn hoa, điều này giúp cây tạo quả và hạt."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They build their nests in the flowers and stay there.",
+            "vi": "Chúng làm tổ trong những bông hoa và ở lại đó."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They build their nests in the flowers and stay there.",
+          "text_translation": "Chúng làm tổ trong những bông hoa và ở lại đó."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They kill other insects and then eat them for food.",
+            "vi": "Chúng giết các côn trùng khác rồi ăn chúng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They kill other insects and then eat them for food.",
+          "text_translation": "Chúng giết các côn trùng khác rồi ăn chúng."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"they carry pollen, and this helps plants to make fruit and seeds.\""
+      },
+      "audio_data": null,
+      "question_jp": "What happens when bees fly from flower to flower?",
+      "question_vn": "Điều gì xảy ra khi ong bay từ hoa này sang hoa khác?",
+      "explanation": "\"they carry pollen, and this helps plants to make fruit and seeds.\""
+    },
+    {
+      "id": "q_u1718_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "Which of these is TRUE about honeybees?",
+        "vi": "Điều nào ĐÚNG về ong mật?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They usually live alone in holes in the ground.",
+            "vi": "Chúng thường sống đơn độc trong các hố dưới đất."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They usually live alone in holes in the ground.",
+          "text_translation": "Chúng thường sống đơn độc trong các hố dưới đất."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They first came from North America in the 1600s.",
+            "vi": "Chúng vốn đến từ Bắc Mỹ vào những năm 1600."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They first came from North America in the 1600s.",
+          "text_translation": "Chúng vốn đến từ Bắc Mỹ vào những năm 1600."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They came to North America from Europe in the 1600s.",
+            "vi": "Chúng được đưa đến Bắc Mỹ từ châu Âu vào những năm 1600."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "They came to North America from Europe in the 1600s.",
+          "text_translation": "Chúng được đưa đến Bắc Mỹ từ châu Âu vào những năm 1600."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They build their nests in small holes in dead wood or the ground.",
+            "vi": "Chúng làm tổ trong những lỗ nhỏ trên gỗ mục hoặc dưới đất."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They build their nests in small holes in dead wood or the ground.",
+          "text_translation": "Chúng làm tổ trong những lỗ nhỏ trên gỗ mục hoặc dưới đất."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"honeybees are not originally from North America; they were brought here from Europe in the 1600s.\" Sống đơn độc và làm tổ dưới đất là đặc điểm của nhiều loài ong bản địa."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is TRUE about honeybees?",
+      "question_vn": "Điều nào ĐÚNG về ong mật?",
+      "explanation": "\"honeybees are not originally from North America; they were brought here from Europe in the 1600s.\" Sống đơn độc và làm tổ dưới đất là đặc điểm của nhiều loài ong bản địa."
+    },
+    {
+      "id": "q_u1718_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "How do most native bees in the United States live?",
+        "vi": "Phần lớn ong bản địa ở Mỹ sống thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in large groups that make honey in boxes for beekeepers",
+            "vi": "thành đàn lớn làm mật trong các thùng cho người nuôi ong"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "in large groups that make honey in boxes for beekeepers",
+          "text_translation": "thành đàn lớn làm mật trong các thùng cho người nuôi ong"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "in boxes made by beekeepers and kept on farms",
+            "vi": "trong những thùng do người nuôi ong làm và đặt ở nông trại"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "in boxes made by beekeepers and kept on farms",
+          "text_translation": "trong những thùng do người nuôi ong làm và đặt ở nông trại"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "on flowers all year long, even in the cold winter",
+            "vi": "trên hoa quanh năm, kể cả mùa đông lạnh"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "on flowers all year long, even in the cold winter",
+          "text_translation": "trên hoa quanh năm, kể cả mùa đông lạnh"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "alone, often in small holes in the ground or dead wood",
+            "vi": "sống đơn độc, thường trong lỗ nhỏ dưới đất hoặc gỗ mục"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "alone, often in small holes in the ground or dead wood",
+          "text_translation": "sống đơn độc, thường trong lỗ nhỏ dưới đất hoặc gỗ mục"
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"most of them live alone, not in large groups.\" và \"Many build their nests in small holes in the ground or in dead wood.\""
+      },
+      "audio_data": null,
+      "question_jp": "How do most native bees in the United States live?",
+      "question_vn": "Phần lớn ong bản địa ở Mỹ sống thế nào?",
+      "explanation": "\"most of them live alone, not in large groups.\" và \"Many build their nests in small holes in the ground or in dead wood.\""
+    },
+    {
+      "id": "q_u1718_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "In \"bees lose their natural habitat\", what does \"habitat\" mean?",
+        "vi": "Trong câu \"bees lose their natural habitat\", \"habitat\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the natural place where an animal lives and finds food",
+            "vi": "nơi tự nhiên mà con vật sống và kiếm ăn"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the natural place where an animal lives and finds food",
+          "text_translation": "nơi tự nhiên mà con vật sống và kiếm ăn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a special kind of food that bees collect from flowers",
+            "vi": "một loại thức ăn đặc biệt mà ong thu từ hoa"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a special kind of food that bees collect from flowers",
+          "text_translation": "một loại thức ăn đặc biệt mà ong thu từ hoa"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a large group of bees that fly together",
+            "vi": "một đàn ong lớn bay cùng nhau"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a large group of bees that fly together",
+          "text_translation": "một đàn ong lớn bay cùng nhau"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a disease that makes bees weak in the winter",
+            "vi": "một căn bệnh làm ong yếu đi vào mùa đông"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a disease that makes bees weak in the winter",
+          "text_translation": "một căn bệnh làm ong yếu đi vào mùa đông"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"When fields and gardens are covered with roads and buildings, bees lose their natural habitat.\" Ruộng vườn là nơi ong sống và kiếm ăn, nên habitat = môi trường sống."
+      },
+      "audio_data": null,
+      "question_jp": "In \"bees lose their natural habitat\", what does \"habitat\" mean?",
+      "question_vn": "Trong câu \"bees lose their natural habitat\", \"habitat\" nghĩa là gì?",
+      "explanation": "\"When fields and gardens are covered with roads and buildings, bees lose their natural habitat.\" Ruộng vườn là nơi ong sống và kiếm ăn, nên habitat = môi trường sống."
+    },
+    {
+      "id": "q_u1718_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "Which of these is NOT given as a threat to bees?",
+        "vi": "Điều nào KHÔNG được nêu là mối đe doạ với loài ong?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "roads and buildings",
+            "vi": "đường sá, nhà cửa"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "roads and buildings",
+          "text_translation": "đường sá, nhà cửa"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "too many flowers in cities",
+            "vi": "quá nhiều hoa trong thành phố"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "too many flowers in cities",
+          "text_translation": "quá nhiều hoa trong thành phố"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "chemicals that kill insects",
+            "vi": "hoá chất diệt côn trùng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "chemicals that kill insects",
+          "text_translation": "hoá chất diệt côn trùng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "disease and extreme weather",
+            "vi": "dịch bệnh và thời tiết khắc nghiệt"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "disease and extreme weather",
+          "text_translation": "dịch bệnh và thời tiết khắc nghiệt"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"Chemicals that people use to kill insects can also kill bees, and disease and extreme weather make the problem worse.\" Hoa là thứ bài khuyên trồng thêm, không phải mối đe doạ."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT given as a threat to bees?",
+      "question_vn": "Điều nào KHÔNG được nêu là mối đe doạ với loài ong?",
+      "explanation": "\"Chemicals that people use to kill insects can also kill bees, and disease and extreme weather make the problem worse.\" Hoa là thứ bài khuyên trồng thêm, không phải mối đe doạ."
+    },
+    {
+      "id": "q_u1718_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "Why should you put some stones in a dish of water for bees?",
+        "vi": "Vì sao nên đặt vài viên đá vào đĩa nước cho ong?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "so that the water stays cold in the hot summer",
+            "vi": "để nước giữ được mát trong mùa hè nóng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "so that the water stays cold in the hot summer",
+          "text_translation": "để nước giữ được mát trong mùa hè nóng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "so that birds cannot drink the water instead",
+            "vi": "để chim không uống nước thay cho ong"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "so that birds cannot drink the water instead",
+          "text_translation": "để chim không uống nước thay cho ong"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "so that bees can rest on them while they drink",
+            "vi": "để ong đậu lên nghỉ trong lúc uống"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "so that bees can rest on them while they drink",
+          "text_translation": "để ong đậu lên nghỉ trong lúc uống"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "so that the dish does not move in the wind",
+            "vi": "để cái đĩa không bị di chuyển khi có gió"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "so that the dish does not move in the wind",
+          "text_translation": "để cái đĩa không bị di chuyển khi có gió"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"Leave a small dish of water with some stones in it, so that bees can rest on the stones while they drink.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why should you put some stones in a dish of water for bees?",
+      "question_vn": "Vì sao nên đặt vài viên đá vào đĩa nước cho ong?",
+      "explanation": "\"Leave a small dish of water with some stones in it, so that bees can rest on the stones while they drink.\""
+    },
+    {
+      "id": "q_u1718_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "What does the writer suggest about a swarm of bees?",
+        "vi": "Người viết hàm ý gì về một đàn ong vỡ tổ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It should be killed quickly before it hurts people.",
+            "vi": "Cần diệt nhanh trước khi nó làm người bị hại."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It should be killed quickly before it hurts people.",
+          "text_translation": "Cần diệt nhanh trước khi nó làm người bị hại."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It means the bees are angry at the people nearby.",
+            "vi": "Điều đó có nghĩa ong đang giận những người ở gần."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It means the bees are angry at the people nearby.",
+          "text_translation": "Điều đó có nghĩa ong đang giận những người ở gần."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is always looking for food in the nearby gardens.",
+            "vi": "Nó luôn đang tìm thức ăn trong các khu vườn gần đó."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It is always looking for food in the nearby gardens.",
+          "text_translation": "Nó luôn đang tìm thức ăn trong các khu vườn gần đó."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is usually calm, and an expert can move it.",
+            "vi": "Nó thường hiền, và một chuyên gia có thể dời nó đi."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "It is usually calm, and an expert can move it.",
+          "text_translation": "Nó thường hiền, và một chuyên gia có thể dời nó đi."
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"they are usually calm because they are only looking for a new home, so call a local beekeeper, who can take them away safely.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the writer suggest about a swarm of bees?",
+      "question_vn": "Người viết hàm ý gì về một đàn ong vỡ tổ?",
+      "explanation": "Câu suy luận. \"they are usually calm because they are only looking for a new home, so call a local beekeeper, who can take them away safely.\""
+    },
+    {
+      "id": "q_u1718_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "What does \"Some are so small that you might think they are flies\" suggest?",
+        "vi": "Câu \"Có loài nhỏ tới mức bạn có thể tưởng chúng là ruồi\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Flies can make honey just like honeybees do.",
+            "vi": "Ruồi cũng làm được mật giống như ong mật."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Flies can make honey just like honeybees do.",
+          "text_translation": "Ruồi cũng làm được mật giống như ong mật."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Flies can make honey.",
+            "vi": "Ruồi có thể làm mật."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Flies can make honey.",
+          "text_translation": "Ruồi có thể làm mật."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Small bees are dangerous to people in the garden.",
+            "vi": "Ong nhỏ nguy hiểm với người trong vườn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Small bees are dangerous to people in the garden.",
+          "text_translation": "Ong nhỏ nguy hiểm với người trong vườn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Native bees are not really bees.",
+            "vi": "Ong bản địa không thật sự là ong."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Native bees are not really bees.",
+          "text_translation": "Ong bản địa không thật sự là ong."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Some are so small that you might think they are flies.\" Câu này nối với ý ở đầu đoạn: mọi người chỉ nghĩ tới ong mật, vì nhiều loài ong bản địa rất khó nhận ra."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Some are so small that you might think they are flies\" suggest?",
+      "question_vn": "Câu \"Có loài nhỏ tới mức bạn có thể tưởng chúng là ruồi\" hàm ý gì?",
+      "explanation": "Câu suy luận. \"Some are so small that you might think they are flies.\" Câu này nối với ý ở đầu đoạn: mọi người chỉ nghĩ tới ong mật, vì nhiều loài ong bản địa rất khó nhận ra."
+    },
+    {
+      "id": "q_u1718_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1718_02",
+      "i18n": {
+        "en": "Use both texts. Which part of the Green Club's garden is most likely to help bees?",
+        "vi": "Dựa vào cả hai bài. Phần nào trong vườn của câu lạc bộ Xanh nhiều khả năng giúp được loài ong nhất?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the four large rain barrels under the gym roof",
+            "vi": "bốn thùng hứng nước mưa lớn dưới mái phòng tập"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the four large rain barrels under the gym roof",
+          "text_translation": "bốn thùng hứng nước mưa lớn dưới mái phòng tập"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the native flowers that need very little water",
+            "vi": "những loài hoa bản địa cần rất ít nước"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "the native flowers that need very little water",
+          "text_translation": "những loài hoa bản địa cần rất ít nước"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the three bins in the cafeteria for trash",
+            "vi": "ba thùng rác trong căng-tin"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the three bins in the cafeteria for trash",
+          "text_translation": "ba thùng rác trong căng-tin"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the dry dirt and dead bushes behind the gym",
+            "vi": "đất khô và bụi cây chết sau phòng tập"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the dry dirt and dead bushes behind the gym",
+          "text_translation": "đất khô và bụi cây chết sau phòng tập"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bài 2 khuyên \"Plant flowers that grow naturally in your area\". Câu lạc bộ ở bài 1 đã trồng \"native flowers that need very little water\". Native = mọc tự nhiên ở vùng đó."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. Which part of the Green Club's garden is most likely to help bees?",
+      "question_vn": "Dựa vào cả hai bài. Phần nào trong vườn của câu lạc bộ Xanh nhiều khả năng giúp được loài ong nhất?",
+      "explanation": "Câu nối hai bài. Bài 2 khuyên \"Plant flowers that grow naturally in your area\". Câu lạc bộ ở bài 1 đã trồng \"native flowers that need very little water\". Native = mọc tự nhiên ở vùng đó."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u1718_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 17) — Bài báo trường của Trevor về vườn của câu lạc bộ Xanh",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u1718_01",
+      "question_ids": [
+        "q_u1718_001",
+        "q_u1718_002",
+        "q_u1718_003",
+        "q_u1718_004",
+        "q_u1718_005",
+        "q_u1718_006",
+        "q_u1718_007",
+        "q_u1718_008",
+        "q_u1718_009",
+        "q_u1718_010"
+      ]
+    },
+    {
+      "set_id": "set_u1718_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 18) — Vì sao cần bảo vệ loài ong",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u1718_02",
+      "question_ids": [
+        "q_u1718_011",
+        "q_u1718_012",
+        "q_u1718_013",
+        "q_u1718_014",
+        "q_u1718_015",
+        "q_u1718_016",
+        "q_u1718_017",
+        "q_u1718_018",
+        "q_u1718_019",
+        "q_u1718_020"
+      ]
+    }
+  ]
+}

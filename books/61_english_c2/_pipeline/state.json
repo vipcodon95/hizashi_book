@@ -1,0 +1,66 @@
+{
+  "book_name": "61_english_c2",
+  "book_title_vn": "Đọc hiểu tiếng Anh C2 — Maple Street",
+  "pipeline_type": "english_reading",
+  "cefr_level": "C2",
+  "topic": "Sách bài tập đọc hiểu C2 (sách ôn) bám khoá tiếng Anh Hizashi, dàn nhân vật Maple Street; kiểu đề đọc C2 quốc tế",
+  "target_audience": "Người Việt ôn khoá C2 trên app Hizashi",
+  "domain_expert_role": "Giáo viên luyện thi C2",
+  "current_stage": "done",
+  "stages": {
+    "01_research": {
+      "status": "done",
+      "output": "_pipeline/01_research.md",
+      "completed_at": "2026-11-03T23:00:00"
+    },
+    "02_outline": {
+      "status": "done",
+      "output": "_pipeline/02_outline.md",
+      "completed_at": "2026-11-03T23:00:00"
+    },
+    "03_draft": {
+      "status": "done",
+      "output": "_pipeline/02_outline.md",
+      "note": "gộp vào outline"
+    },
+    "04_content": {
+      "status": "done",
+      "chapters_done": [
+        "u0102",
+        "u0304",
+        "mock1",
+        "u0506",
+        "u0708",
+        "mock2"
+      ]
+    },
+    "05_review": {
+      "status": "done",
+      "output": "_pipeline/05_factcheck.md",
+      "completed_at": "2026-11-04T01:00:00",
+      "note": "Sonnet rà sự thật/câu hỏi/vùng cấm/cốt truyện + cân độ dài phương án; main kiểm chứng"
+    },
+    "06_consistency": {
+      "status": "done",
+      "output": "_pipeline/06_consistency.md"
+    },
+    "07_council": {
+      "status": "done",
+      "output": "_pipeline/07_council.md",
+      "completed_at": "2026-11-04"
+    },
+    "08_finalize": {
+      "status": "done",
+      "output": "_pipeline/08_revision_log.md",
+      "completed_at": "2026-11-04"
+    }
+  },
+  "chapters": [
+    "u0102",
+    "u0304",
+    "mock1",
+    "u0506",
+    "u0708",
+    "mock2"
+  ]
+}

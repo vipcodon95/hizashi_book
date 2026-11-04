@@ -1,0 +1,1271 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 16 — Last weekend",
+      "vi": "Cuối tuần qua"
+    },
+    "title": "Unit 16 — Last weekend",
+    "title_vn": "Cuối tuần qua",
+    "module_code": "56_u16",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A1",
+    "curriculum_unit": "a1.u16",
+    "curriculum_sheets": [
+      "a1.61",
+      "a1.62",
+      "a1.63",
+      "a1.64"
+    ],
+    "characters": [
+      "Tina Carter",
+      "Mitchell Carter",
+      "Megan Carter",
+      "Tracy Carter",
+      "Trevor Carter",
+      "Biscuit",
+      "Harriet Brooks",
+      "Amy Brooks",
+      "Nathan Brooks",
+      "Chloe Bennett"
+    ],
+    "story_time_i18n": {
+      "vi": "cuối tháng 6, năm 2 (đầu hè, kết thúc năm học đầu tiên của \"you\" ở Maple Street)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Quá khứ của be và quá khứ đơn, trình tự sự việc, ai làm gì, cảm xúc và lý do, nối giờ giấc giữa hai bài",
+    "description_vn": "Tina viết nhật ký về chuyến đi Monterey cuối tuần của nhà Carter, và bà Harriet kể lại buổi kể chuyện sáng thứ Bảy ở quán, khi Biscuit bất ngờ đẩy cửa bước vào. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 16 khoá A1 · phiếu `a1.61` – `a1.64` (bạn đã ở đâu, những việc bạn đã làm, một chuyến đi trong quá khứ, kể một câu chuyện ngắn)."
+    },
+    "objective_i18n": {
+      "vi": "đọc nhật ký của Tina về chuyến đi Monterey và một bài viết trên trang của quán Harriet's; hiểu quá khứ của be (was / were) và quá khứ đơn của động từ có quy tắc và bất quy tắc (checked, dropped, went, saw, ate, began); theo dõi trình tự sự việc (first, then, after that, in the evening), ai làm gì, cảm xúc và lý do; nối giờ giấc giữa hai bài."
+    },
+    "vocab": [
+      "yesterday",
+      "almost",
+      "boring",
+      "forget",
+      "trip",
+      "drop",
+      "memory",
+      "ghost",
+      "poem",
+      "push"
+    ],
+    "extra_words": [
+      {
+        "word": "aquarium",
+        "i18n": {
+          "vi": "thuỷ cung"
+        }
+      },
+      {
+        "word": "sea otter",
+        "i18n": {
+          "vi": "rái cá biển"
+        }
+      },
+      {
+        "word": "seal",
+        "i18n": {
+          "vi": "hải cẩu"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "set off for (a place)",
+          "vi": "lên đường đi (đâu đó)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "check in / check out",
+          "vi": "nhận phòng / trả phòng (khách sạn)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "laugh at (someone)",
+          "vi": "cười (ai đó), chê cười"
+        }
+      },
+      {
+        "i18n": {
+          "en": "clean it up",
+          "vi": "lau dọn cho sạch"
+        }
+      },
+      {
+        "i18n": {
+          "en": "good memories",
+          "vi": "kỷ niệm đẹp"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Guess what?",
+          "vi": "Đoán xem nào? (để báo một tin bất ngờ)"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Quá khứ đơn: động từ có quy tắc thêm **-ed** (`check → checked`, `drop → dropped`, `push → pushed`); động từ bất quy tắc phải nhớ riêng (`go → went`, `see → saw`, `eat → ate`, `write → wrote`, `begin → began`, `run → ran`). Thấy dạng quá khứ là biết chuyện đã xong."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Trình tự: `first` → `then` → `after that` → `in the evening` → `this morning`. Câu hỏi **What did … do first / after …?** thì tìm đúng từ chỉ thứ tự, đừng lấy việc đứng gần nhất."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Nhật ký và bài viết kể lại dùng mốc so với ngày viết: `yesterday`, `this morning`, `last Saturday`, `this Saturday`. Đổi mốc ra thứ trong tuần trước khi chọn đáp án."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi **Why?** về cảm xúc hay hành động: đáp án thường ở câu có `because`, `so` hoặc `but` ngay cạnh đó. Câu nối hai bài thì tìm chi tiết chung (Biscuit, giờ giấc) rồi ghép thông tin của cả hai."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u16_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Nhật ký của Tina về chuyến đi Monterey"
+      },
+      "title": "Tina's Diary",
+      "category": "story",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 110,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tina's Diary",
+            "vi": "Nhật ký của Tina"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sunday night",
+            "vi": "Tối Chủ nhật"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Yesterday morning, we set off for Monterey at six o'clock, and Biscuit stayed with Amy at number fifteen.",
+            "vi": "Sáng hôm qua, cả nhà mình lên đường đi Monterey lúc sáu giờ, còn Biscuit thì ở lại với Amy bên nhà số mười lăm."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The drive was almost seven hours, but it was not boring, because Dad told us old stories.",
+            "vi": "Đường đi mất gần bảy tiếng, nhưng không chán chút nào, vì bố kể cho tụi mình nghe chuyện ngày xưa."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tracy never forgets anything, so she brought coats for everyone.",
+            "vi": "Chị Tracy chẳng bao giờ quên thứ gì, nên chị mang theo áo khoác cho cả nhà."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Trevor laughed, but Monterey was cold and gray, and he was the first one in a coat!",
+            "vi": "Anh Trevor cười chị, nhưng Monterey vừa lạnh vừa u ám, và rốt cuộc chính anh lại là người mặc áo khoác đầu tiên!"
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "First, we checked in at a small hotel.",
+            "vi": "Đầu tiên, cả nhà nhận phòng ở một khách sạn nhỏ."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then we saw sea otters at the big aquarium.",
+            "vi": "Sau đó, tụi mình xem rái cá biển ở thuỷ cung lớn."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They ate their lunch on their backs!",
+            "vi": "Chúng nằm ngửa ra mà ăn trưa!"
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I asked, \"Why?\" and Dad said, \"That is their table!\"",
+            "vi": "Mình hỏi: \"Sao thế ạ?\", và bố bảo: \"Bụng là cái bàn của chúng đấy!\""
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After that, we walked by the sea and saw lots of seals.",
+            "vi": "Sau đó nữa, cả nhà đi dạo dọc bờ biển và thấy rất nhiều hải cẩu."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In the evening, Trevor dropped his ice cream on Dad's shoe, but Mom only smiled and cleaned it up.",
+            "vi": "Buổi tối, anh Trevor làm rơi cây kem lên giày của bố, nhưng mẹ chỉ mỉm cười rồi lau sạch."
+          }
+        },
+        {
+          "n": 13,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This morning, we checked out and came back home.",
+            "vi": "Sáng nay, cả nhà trả phòng rồi về nhà."
+          }
+        },
+        {
+          "n": 14,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was a great trip, with fifty photos and lots of good memories!",
+            "vi": "Chuyến đi tuyệt lắm, với năm mươi tấm ảnh và thật nhiều kỷ niệm đẹp!"
+          }
+        },
+        {
+          "n": 15,
+          "para": 8,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tina",
+            "vi": "Tina"
+          }
+        }
+      ],
+      "content_ja": "Tina's Diary\n\nSunday night\n\nYesterday morning, we set off for Monterey at six o'clock, and Biscuit stayed with Amy at number fifteen. The drive was almost seven hours, but it was not boring, because Dad told us old stories.\n\nTracy never forgets anything, so she brought coats for everyone. Trevor laughed, but Monterey was cold and gray, and he was the first one in a coat!\n\nFirst, we checked in at a small hotel. Then we saw sea otters at the big aquarium. They ate their lunch on their backs! I asked, \"Why?\" and Dad said, \"That is their table!\"\n\nAfter that, we walked by the sea and saw lots of seals. In the evening, Trevor dropped his ice cream on Dad's shoe, but Mom only smiled and cleaned it up.\n\nThis morning, we checked out and came back home. It was a great trip, with fifty photos and lots of good memories!\n\nTina",
+      "translation_vn": "(1) Nhật ký của Tina\n(2) Tối Chủ nhật\n(3) Sáng hôm qua, cả nhà mình lên đường đi Monterey lúc sáu giờ, còn Biscuit thì ở lại với Amy bên nhà số mười lăm.\n(4) Đường đi mất gần bảy tiếng, nhưng không chán chút nào, vì bố kể cho tụi mình nghe chuyện ngày xưa.\n(5) Chị Tracy chẳng bao giờ quên thứ gì, nên chị mang theo áo khoác cho cả nhà.\n(6) Anh Trevor cười chị, nhưng Monterey vừa lạnh vừa u ám, và rốt cuộc chính anh lại là người mặc áo khoác đầu tiên!\n(7) Đầu tiên, cả nhà nhận phòng ở một khách sạn nhỏ.\n(8) Sau đó, tụi mình xem rái cá biển ở thuỷ cung lớn.\n(9) Chúng nằm ngửa ra mà ăn trưa!\n(10) Mình hỏi: \"Sao thế ạ?\", và bố bảo: \"Bụng là cái bàn của chúng đấy!\"\n(11) Sau đó nữa, cả nhà đi dạo dọc bờ biển và thấy rất nhiều hải cẩu.\n(12) Buổi tối, anh Trevor làm rơi cây kem lên giày của bố, nhưng mẹ chỉ mỉm cười rồi lau sạch.\n(13) Sáng nay, cả nhà trả phòng rồi về nhà.\n(14) Chuyến đi tuyệt lắm, với năm mươi tấm ảnh và thật nhiều kỷ niệm đẹp!\n(15) Tina",
+      "word_count": 154,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.61",
+        "a1.62",
+        "a1.63",
+        "a1.64"
+      ],
+      "narrator": "Tina"
+    },
+    {
+      "id": "passage_u16_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Bài viết trên trang của quán Harriet's"
+      },
+      "title": "Last Saturday at Harriet's",
+      "category": "article",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 110,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last Saturday at Harriet's",
+            "vi": "Thứ Bảy vừa rồi ở quán Harriet's"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last Saturday was our first Summer Story Morning.",
+            "vi": "Thứ Bảy vừa rồi là Buổi sáng Kể chuyện Mùa hè đầu tiên của quán."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "School is over, so there was no homework at ten o'clock, but twelve kids came.",
+            "vi": "Năm học đã kết thúc, nên lúc mười giờ không có bài tập nào để kèm, nhưng vẫn có mười hai bạn nhỏ đến."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "First, we read a story about a prince, a princess and a fairy.",
+            "vi": "Đầu tiên, chúng tôi đọc một câu chuyện về một hoàng tử, một công chúa và một nàng tiên."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then the kids wrote short poems, and Chloe helped them with the hard words.",
+            "vi": "Sau đó các bạn nhỏ viết những bài thơ ngắn, và Chloe giúp các bạn những từ khó."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After that, I began a ghost story, and the room was quiet.",
+            "vi": "Tiếp theo, tôi bắt đầu kể một chuyện ma, và cả phòng im phăng phắc."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then something pushed the door, and the kids were scared!",
+            "vi": "Rồi có cái gì đó đẩy cửa, thế là các bạn nhỏ sợ hết hồn!"
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Guess what? It was a very excited Biscuit!",
+            "vi": "Đoán xem nào? Đó là Biscuit, đang hớn hở vô cùng!"
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Carters were in Monterey, so Biscuit stayed with my family at number fifteen.",
+            "vi": "Nhà Carter đi Monterey, nên Biscuit ở với gia đình tôi bên nhà số mười lăm."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But he ran out of the house and came here, like last September!",
+            "vi": "Nhưng chú ta chạy ra khỏi nhà rồi mò tới đây, y như hồi tháng Chín năm ngoái!"
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ten minutes later, Amy and her dad arrived and took him home.",
+            "vi": "Mười phút sau, Amy và bố của Amy tới nơi và đưa chú ta về nhà."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My T-shirt that day had a dog like Biscuit on it, so a little girl said, \"Look, two Biscuits!\"",
+            "vi": "Hôm đó tôi mặc chiếc áo phông in hình một chú chó giống hệt Biscuit, nên một cô bé reo lên: \"Nhìn kìa, có hai Biscuit!\""
+          }
+        },
+        {
+          "n": 13,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This Saturday at ten, we will read a spy story.",
+            "vi": "Mười giờ thứ Bảy tuần này, chúng ta sẽ đọc một câu chuyện về gián điệp."
+          }
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet",
+            "vi": "Harriet"
+          }
+        }
+      ],
+      "content_ja": "Last Saturday at Harriet's\n\nLast Saturday was our first Summer Story Morning. School is over, so there was no homework at ten o'clock, but twelve kids came.\n\nFirst, we read a story about a prince, a princess and a fairy. Then the kids wrote short poems, and Chloe helped them with the hard words.\n\nAfter that, I began a ghost story, and the room was quiet. Then something pushed the door, and the kids were scared! Guess what? It was a very excited Biscuit!\n\nThe Carters were in Monterey, so Biscuit stayed with my family at number fifteen. But he ran out of the house and came here, like last September! Ten minutes later, Amy and her dad arrived and took him home.\n\nMy T-shirt that day had a dog like Biscuit on it, so a little girl said, \"Look, two Biscuits!\"\n\nThis Saturday at ten, we will read a spy story.\n\nHarriet",
+      "translation_vn": "(1) Thứ Bảy vừa rồi ở quán Harriet's\n(2) Thứ Bảy vừa rồi là Buổi sáng Kể chuyện Mùa hè đầu tiên của quán.\n(3) Năm học đã kết thúc, nên lúc mười giờ không có bài tập nào để kèm, nhưng vẫn có mười hai bạn nhỏ đến.\n(4) Đầu tiên, chúng tôi đọc một câu chuyện về một hoàng tử, một công chúa và một nàng tiên.\n(5) Sau đó các bạn nhỏ viết những bài thơ ngắn, và Chloe giúp các bạn những từ khó.\n(6) Tiếp theo, tôi bắt đầu kể một chuyện ma, và cả phòng im phăng phắc.\n(7) Rồi có cái gì đó đẩy cửa, thế là các bạn nhỏ sợ hết hồn!\n(8) Đoán xem nào? Đó là Biscuit, đang hớn hở vô cùng!\n(9) Nhà Carter đi Monterey, nên Biscuit ở với gia đình tôi bên nhà số mười lăm.\n(10) Nhưng chú ta chạy ra khỏi nhà rồi mò tới đây, y như hồi tháng Chín năm ngoái!\n(11) Mười phút sau, Amy và bố của Amy tới nơi và đưa chú ta về nhà.\n(12) Hôm đó tôi mặc chiếc áo phông in hình một chú chó giống hệt Biscuit, nên một cô bé reo lên: \"Nhìn kìa, có hai Biscuit!\"\n(13) Mười giờ thứ Bảy tuần này, chúng ta sẽ đọc một câu chuyện về gián điệp.\n(14) Harriet",
+      "word_count": 154,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.61",
+        "a1.62",
+        "a1.63",
+        "a1.64"
+      ],
+      "narrator": "Harriet"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u16_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u16_01",
+      "i18n": {
+        "en": "When did the Carters set off for Monterey?",
+        "vi": "Nhà Carter lên đường đi Monterey khi nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "on Sunday morning",
+            "vi": "vào sáng Chủ nhật"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "on Sunday morning",
+          "text_translation": "vào sáng Chủ nhật"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "on Saturday evening",
+            "vi": "vào tối thứ Bảy"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "on Saturday evening",
+          "text_translation": "vào tối thứ Bảy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "on Saturday morning",
+            "vi": "vào sáng thứ Bảy"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "on Saturday morning",
+          "text_translation": "vào sáng thứ Bảy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "on Sunday night",
+            "vi": "vào tối Chủ nhật"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "on Sunday night",
+          "text_translation": "vào tối Chủ nhật"
+        }
+      ],
+      "evidence_segments": [
+        2,
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Tina viết nhật ký vào \"Sunday night\", và kể \"Yesterday morning, we set off for Monterey at six o'clock\". Hôm qua của tối Chủ nhật là thứ Bảy, nên cả nhà đi vào sáng thứ Bảy. Sáng Chủ nhật là lúc cả nhà trả phòng và về nhà (\"This morning, we checked out\"). Tối thứ Bảy là lúc Trevor làm rơi kem. Tối Chủ nhật là lúc Tina ngồi viết nhật ký."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Trong nhật ký, yesterday / this morning tính theo ngày người viết đang viết. Xem dòng ngày ở đầu bài trước, rồi mới đổi yesterday ra thứ mấy."
+      },
+      "question_jp": "When did the Carters set off for Monterey?",
+      "question_vn": "Nhà Carter lên đường đi Monterey khi nào?",
+      "explanation": "Tina viết nhật ký vào \"Sunday night\", và kể \"Yesterday morning, we set off for Monterey at six o'clock\". Hôm qua của tối Chủ nhật là thứ Bảy, nên cả nhà đi vào sáng thứ Bảy. Sáng Chủ nhật là lúc cả nhà trả phòng và về nhà (\"This morning, we checked out\"). Tối thứ Bảy là lúc Trevor làm rơi kem. Tối Chủ nhật là lúc Tina ngồi viết nhật ký.",
+      "tip": "Trong nhật ký, yesterday / this morning tính theo ngày người viết đang viết. Xem dòng ngày ở đầu bài trước, rồi mới đổi yesterday ra thứ mấy."
+    },
+    {
+      "id": "q_u16_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u16_01",
+      "i18n": {
+        "en": "What did the family do first in Monterey?",
+        "vi": "Tới Monterey, việc đầu tiên cả nhà làm là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They checked in at a small hotel.",
+            "vi": "Nhận phòng ở một khách sạn nhỏ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "They checked in at a small hotel.",
+          "text_translation": "Nhận phòng ở một khách sạn nhỏ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They went to the big aquarium.",
+            "vi": "Đi tới thuỷ cung lớn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They went to the big aquarium.",
+          "text_translation": "Đi tới thuỷ cung lớn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They walked by the sea.",
+            "vi": "Đi dạo dọc bờ biển."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They walked by the sea.",
+          "text_translation": "Đi dạo dọc bờ biển."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They saw lots of seals.",
+            "vi": "Xem rất nhiều hải cẩu."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They saw lots of seals.",
+          "text_translation": "Xem rất nhiều hải cẩu."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"First, we checked in at a small hotel.\" Thuỷ cung là việc thứ hai (\"Then\"). Đi dạo dọc bờ biển và xem hải cẩu là việc thứ ba (\"After that\")."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "first → then → after that → in the evening: các từ chỉ thứ tự đứng đầu câu. Gạch chân chúng là thấy ngay việc nào trước, việc nào sau."
+      },
+      "question_jp": "What did the family do first in Monterey?",
+      "question_vn": "Tới Monterey, việc đầu tiên cả nhà làm là gì?",
+      "explanation": "\"First, we checked in at a small hotel.\" Thuỷ cung là việc thứ hai (\"Then\"). Đi dạo dọc bờ biển và xem hải cẩu là việc thứ ba (\"After that\").",
+      "tip": "first → then → after that → in the evening: các từ chỉ thứ tự đứng đầu câu. Gạch chân chúng là thấy ngay việc nào trước, việc nào sau."
+    },
+    {
+      "id": "q_u16_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u16_01",
+      "i18n": {
+        "en": "Trevor laughed at Tracy, but later he was the first one in a coat. Why?",
+        "vi": "Trevor cười chị Tracy, nhưng sau đó lại là người mặc áo khoác đầu tiên. Vì sao?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The drive was almost seven hours.",
+            "vi": "Vì đường đi mất gần bảy tiếng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The drive was almost seven hours.",
+          "text_translation": "Vì đường đi mất gần bảy tiếng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Dad told old stories.",
+            "vi": "Vì bố kể chuyện ngày xưa."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Dad told old stories.",
+          "text_translation": "Vì bố kể chuyện ngày xưa."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They checked in at a small hotel.",
+            "vi": "Vì cả nhà nhận phòng ở một khách sạn nhỏ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They checked in at a small hotel.",
+          "text_translation": "Vì cả nhà nhận phòng ở một khách sạn nhỏ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Monterey was cold and gray.",
+            "vi": "Vì Monterey vừa lạnh vừa u ám."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Monterey was cold and gray.",
+          "text_translation": "Vì Monterey vừa lạnh vừa u ám."
+        }
+      ],
+      "evidence_segments": [
+        5,
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Tracy never forgets anything, so she brought coats for everyone.\" \"Trevor laughed, but Monterey was cold and gray, and he was the first one in a coat!\" Chữ \"but\" cho thấy chuyện ngược với điều Trevor nghĩ: trời lạnh thật, nên chị Tracy mang áo là đúng. Bảy tiếng là thời gian đi đường, chuyện của bố làm chuyến đi không chán, còn chuyện nhận phòng khách sạn không liên quan gì đến áo khoác."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi Why? về cảm xúc hay hành động thường có đáp án ở câu bắt đầu bằng But hoặc because ngay gần đó."
+      },
+      "question_jp": "Trevor laughed at Tracy, but later he was the first one in a coat. Why?",
+      "question_vn": "Trevor cười chị Tracy, nhưng sau đó lại là người mặc áo khoác đầu tiên. Vì sao?",
+      "explanation": "\"Tracy never forgets anything, so she brought coats for everyone.\" \"Trevor laughed, but Monterey was cold and gray, and he was the first one in a coat!\" Chữ \"but\" cho thấy chuyện ngược với điều Trevor nghĩ: trời lạnh thật, nên chị Tracy mang áo là đúng. Bảy tiếng là thời gian đi đường, chuyện của bố làm chuyến đi không chán, còn chuyện nhận phòng khách sạn không liên quan gì đến áo khoác.",
+      "tip": "Câu hỏi Why? về cảm xúc hay hành động thường có đáp án ở câu bắt đầu bằng But hoặc because ngay gần đó."
+    },
+    {
+      "id": "q_u16_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u16_01",
+      "i18n": {
+        "en": "What did the sea otters do?",
+        "vi": "Lũ rái cá biển làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They slept in the water.",
+            "vi": "Chúng ngủ dưới nước."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They slept in the water.",
+          "text_translation": "Chúng ngủ dưới nước."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They ate their lunch on their backs.",
+            "vi": "Chúng nằm ngửa ra ăn trưa."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "They ate their lunch on their backs.",
+          "text_translation": "Chúng nằm ngửa ra ăn trưa."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They ate lunch at a table.",
+            "vi": "Chúng ăn trưa ở một cái bàn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They ate lunch at a table.",
+          "text_translation": "Chúng ăn trưa ở một cái bàn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They walked by the sea.",
+            "vi": "Chúng đi dạo dọc bờ biển."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They walked by the sea.",
+          "text_translation": "Chúng đi dạo dọc bờ biển."
+        }
+      ],
+      "evidence_segments": [
+        9,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"They ate their lunch on their backs!\" \"They\" là lũ rái cá ở câu ngay trước (\"saw the sea otters\"). Bố nói \"That is their table!\" là nói đùa: bụng của chúng làm cái bàn, chứ chúng không ăn ở một cái bàn thật. Đi dạo dọc bờ biển là cả nhà Tina. Bài không nói lũ rái cá ngủ dưới nước."
+      },
+      "audio_data": null,
+      "question_jp": "What did the sea otters do?",
+      "question_vn": "Lũ rái cá biển làm gì?",
+      "explanation": "\"They ate their lunch on their backs!\" \"They\" là lũ rái cá ở câu ngay trước (\"saw the sea otters\"). Bố nói \"That is their table!\" là nói đùa: bụng của chúng làm cái bàn, chứ chúng không ăn ở một cái bàn thật. Đi dạo dọc bờ biển là cả nhà Tina. Bài không nói lũ rái cá ngủ dưới nước."
+    },
+    {
+      "id": "q_u16_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u16_01",
+      "i18n": {
+        "en": "What did Mom do when Trevor dropped his ice cream on Dad's shoe?",
+        "vi": "Khi Trevor làm rơi kem lên giày bố, mẹ đã làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She laughed at him.",
+            "vi": "Mẹ cười anh ấy."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She laughed at him.",
+          "text_translation": "Mẹ cười anh ấy."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She told a story.",
+            "vi": "Mẹ kể một câu chuyện."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She told a story.",
+          "text_translation": "Mẹ kể một câu chuyện."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She smiled and cleaned it up.",
+            "vi": "Mẹ mỉm cười rồi lau sạch."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She smiled and cleaned it up.",
+          "text_translation": "Mẹ mỉm cười rồi lau sạch."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She took fifty photos.",
+            "vi": "Mẹ chụp năm mươi tấm ảnh."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She took fifty photos.",
+          "text_translation": "Mẹ chụp năm mươi tấm ảnh."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"In the evening, Trevor dropped his ice cream on Dad's shoe, but Mom only smiled and cleaned it up.\" Mẹ không giận, chỉ bình tĩnh dọn dẹp. Người cười là Trevor (cười chị Tracy), người kể chuyện là bố, người có năm mươi tấm ảnh là Tina."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "clean it up = lau dọn cho sạch. Phương án nhiễu thường là việc có thật trong bài nhưng do người khác làm, nên đọc kỹ chủ ngữ của từng câu."
+      },
+      "question_jp": "What did Mom do when Trevor dropped his ice cream on Dad's shoe?",
+      "question_vn": "Khi Trevor làm rơi kem lên giày bố, mẹ đã làm gì?",
+      "explanation": "\"In the evening, Trevor dropped his ice cream on Dad's shoe, but Mom only smiled and cleaned it up.\" Mẹ không giận, chỉ bình tĩnh dọn dẹp. Người cười là Trevor (cười chị Tracy), người kể chuyện là bố, người có năm mươi tấm ảnh là Tina.",
+      "tip": "clean it up = lau dọn cho sạch. Phương án nhiễu thường là việc có thật trong bài nhưng do người khác làm, nên đọc kỹ chủ ngữ của từng câu."
+    },
+    {
+      "id": "q_u16_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u16_02",
+      "i18n": {
+        "en": "What did the kids do after the story about the prince and the princess?",
+        "vi": "Sau câu chuyện về hoàng tử và công chúa, các bạn nhỏ làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They listened to a ghost story.",
+            "vi": "Nghe một chuyện ma."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They listened to a ghost story.",
+          "text_translation": "Nghe một chuyện ma."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They read a spy story.",
+            "vi": "Đọc một câu chuyện gián điệp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They read a spy story.",
+          "text_translation": "Đọc một câu chuyện gián điệp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They did their homework.",
+            "vi": "Làm bài tập về nhà."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They did their homework.",
+          "text_translation": "Làm bài tập về nhà."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They wrote short poems.",
+            "vi": "Viết những bài thơ ngắn."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "They wrote short poems.",
+          "text_translation": "Viết những bài thơ ngắn."
+        }
+      ],
+      "evidence_segments": [
+        4,
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"First, we read a story about a prince, a princess and a fairy.\" \"Then the kids wrote short poems\". Chuyện ma đến sau phần làm thơ (\"After that, I began a ghost story\"). Chuyện gián điệp là để thứ Bảy sắp tới. Hôm đó không có bài tập vì \"School is over\"."
+      },
+      "audio_data": null,
+      "question_jp": "What did the kids do after the story about the prince and the princess?",
+      "question_vn": "Sau câu chuyện về hoàng tử và công chúa, các bạn nhỏ làm gì?",
+      "explanation": "\"First, we read a story about a prince, a princess and a fairy.\" \"Then the kids wrote short poems\". Chuyện ma đến sau phần làm thơ (\"After that, I began a ghost story\"). Chuyện gián điệp là để thứ Bảy sắp tới. Hôm đó không có bài tập vì \"School is over\"."
+    },
+    {
+      "id": "q_u16_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u16_02",
+      "i18n": {
+        "en": "Why were the kids scared?",
+        "vi": "Vì sao các bạn nhỏ sợ hết hồn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Something pushed the door in the middle of a ghost story.",
+            "vi": "Đang kể chuyện ma thì có cái gì đó đẩy cửa."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Something pushed the door in the middle of a ghost story.",
+          "text_translation": "Đang kể chuyện ma thì có cái gì đó đẩy cửa."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "A little girl saw a dog on Harriet's T-shirt.",
+            "vi": "Một cô bé thấy hình con chó trên áo bà Harriet."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "A little girl saw a dog on Harriet's T-shirt.",
+          "text_translation": "Một cô bé thấy hình con chó trên áo bà Harriet."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "There was no homework.",
+            "vi": "Không có bài tập."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "There was no homework.",
+          "text_translation": "Không có bài tập."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Amy and her dad arrived.",
+            "vi": "Amy và bố của Amy tới nơi."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Amy and her dad arrived.",
+          "text_translation": "Amy và bố của Amy tới nơi."
+        }
+      ],
+      "evidence_segments": [
+        6,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"After that, I began a ghost story, and the room was quiet.\" \"Then something pushed the door, and the kids were scared!\" Cả phòng đang im lặng nghe chuyện ma, nên tiếng đẩy cửa làm các bạn tưởng có ma. Cô bé thấy hình con chó trên áo thì reo lên vui vẻ (\"Look, two Biscuits!\"), không phải sợ. Không có bài tập và Amy tới nơi đều không làm ai sợ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi về cảm xúc (scared, excited, happy): tìm tính từ chỉ cảm xúc trong bài, rồi đọc câu ngay trước nó để biết lý do."
+      },
+      "question_jp": "Why were the kids scared?",
+      "question_vn": "Vì sao các bạn nhỏ sợ hết hồn?",
+      "explanation": "\"After that, I began a ghost story, and the room was quiet.\" \"Then something pushed the door, and the kids were scared!\" Cả phòng đang im lặng nghe chuyện ma, nên tiếng đẩy cửa làm các bạn tưởng có ma. Cô bé thấy hình con chó trên áo thì reo lên vui vẻ (\"Look, two Biscuits!\"), không phải sợ. Không có bài tập và Amy tới nơi đều không làm ai sợ.",
+      "tip": "Câu hỏi về cảm xúc (scared, excited, happy): tìm tính từ chỉ cảm xúc trong bài, rồi đọc câu ngay trước nó để biết lý do."
+    },
+    {
+      "id": "q_u16_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u16_02",
+      "i18n": {
+        "en": "Why did a little girl say, \"Look, two Biscuits!\"?",
+        "vi": "Vì sao một cô bé reo lên: \"Nhìn kìa, có hai Biscuit!\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Amy had a dog, too.",
+            "vi": "Vì Amy cũng có một con chó."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Amy had a dog, too.",
+          "text_translation": "Vì Amy cũng có một con chó."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet's T-shirt had a dog like Biscuit on it.",
+            "vi": "Vì áo phông của bà Harriet in hình một chú chó giống Biscuit."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Harriet's T-shirt had a dog like Biscuit on it.",
+          "text_translation": "Vì áo phông của bà Harriet in hình một chú chó giống Biscuit."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Two dogs pushed the door.",
+            "vi": "Vì có hai con chó đẩy cửa."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Two dogs pushed the door.",
+          "text_translation": "Vì có hai con chó đẩy cửa."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Biscuit was in a story.",
+            "vi": "Vì Biscuit có trong một câu chuyện."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Biscuit was in a story.",
+          "text_translation": "Vì Biscuit có trong một câu chuyện."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"My T-shirt that day had a dog like Biscuit on it, so a little girl said, \"Look, two Biscuits!\"\" Một Biscuit là chú chó thật, một Biscuit là hình trên áo của bà Harriet. Bài không nói Amy có chó: Amy chỉ đi cùng bố tới đón Biscuit. Chỉ có một con chó đẩy cửa. Câu chuyện bà kể là chuyện ma, không có Biscuit trong đó."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Chữ so nối nguyên nhân với kết quả: phần trước so là lý do, phần sau so là chuyện xảy ra."
+      },
+      "question_jp": "Why did a little girl say, \"Look, two Biscuits!\"?",
+      "question_vn": "Vì sao một cô bé reo lên: \"Nhìn kìa, có hai Biscuit!\"?",
+      "explanation": "\"My T-shirt that day had a dog like Biscuit on it, so a little girl said, \"Look, two Biscuits!\"\" Một Biscuit là chú chó thật, một Biscuit là hình trên áo của bà Harriet. Bài không nói Amy có chó: Amy chỉ đi cùng bố tới đón Biscuit. Chỉ có một con chó đẩy cửa. Câu chuyện bà kể là chuyện ma, không có Biscuit trong đó.",
+      "tip": "Chữ so nối nguyên nhân với kết quả: phần trước so là lý do, phần sau so là chuyện xảy ra."
+    },
+    {
+      "id": "q_u16_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u16_02",
+      "i18n": {
+        "en": "Biscuit came to Harriet's in the middle of the ghost story. Where was Tina then?",
+        "vi": "Biscuit mò tới quán Harriet's khi bà đang kể chuyện ma. Lúc đó Tina đang ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at the big aquarium",
+            "vi": "ở thuỷ cung lớn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "at the big aquarium",
+          "text_translation": "ở thuỷ cung lớn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at the small hotel",
+            "vi": "ở khách sạn nhỏ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "at the small hotel",
+          "text_translation": "ở khách sạn nhỏ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at Harriet's",
+            "vi": "ở quán Harriet's"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "at Harriet's",
+          "text_translation": "ở quán Harriet's"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "in the car on the way to Monterey",
+            "vi": "trên xe, đang đi Monterey"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "in the car on the way to Monterey",
+          "text_translation": "trên xe, đang đi Monterey"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        6,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Bài đọc 2: buổi kể chuyện bắt đầu lúc \"ten o'clock\", và chuyện ma đến sau truyện cổ tích và phần làm thơ, tức là sau mười giờ. Bài đọc 1: nhà Carter đi lúc \"six o'clock\" và \"The drive was almost seven hours\", nên gần một giờ chiều mới tới nơi. Vậy lúc Biscuit tới quán, Tina vẫn còn trên xe. Thuỷ cung và khách sạn là chỗ cả nhà tới sau khi đến Monterey. Tina không ở quán, vì \"The Carters were in Monterey\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi nối hai bài về giờ giấc: lấy giờ ở bài này, cộng thời gian ở bài kia, rồi so lại. Sáu giờ cộng gần bảy tiếng là gần một giờ chiều."
+      },
+      "question_jp": "Biscuit came to Harriet's in the middle of the ghost story. Where was Tina then?",
+      "question_vn": "Biscuit mò tới quán Harriet's khi bà đang kể chuyện ma. Lúc đó Tina đang ở đâu?",
+      "explanation": "Bài đọc 2: buổi kể chuyện bắt đầu lúc \"ten o'clock\", và chuyện ma đến sau truyện cổ tích và phần làm thơ, tức là sau mười giờ. Bài đọc 1: nhà Carter đi lúc \"six o'clock\" và \"The drive was almost seven hours\", nên gần một giờ chiều mới tới nơi. Vậy lúc Biscuit tới quán, Tina vẫn còn trên xe. Thuỷ cung và khách sạn là chỗ cả nhà tới sau khi đến Monterey. Tina không ở quán, vì \"The Carters were in Monterey\".",
+      "tip": "Câu hỏi nối hai bài về giờ giấc: lấy giờ ở bài này, cộng thời gian ở bài kia, rồi so lại. Sáu giờ cộng gần bảy tiếng là gần một giờ chiều."
+    },
+    {
+      "id": "q_u16_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u16_02",
+      "i18n": {
+        "en": "What will happen this Saturday at ten?",
+        "vi": "Mười giờ thứ Bảy tuần này sẽ có gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet will read a spy story.",
+            "vi": "Bà Harriet sẽ đọc một câu chuyện gián điệp."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Harriet will read a spy story.",
+          "text_translation": "Bà Harriet sẽ đọc một câu chuyện gián điệp."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet will read a ghost story.",
+            "vi": "Bà Harriet sẽ đọc một chuyện ma."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Harriet will read a ghost story.",
+          "text_translation": "Bà Harriet sẽ đọc một chuyện ma."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The kids will write short poems.",
+            "vi": "Các bạn nhỏ sẽ viết thơ ngắn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The kids will write short poems.",
+          "text_translation": "Các bạn nhỏ sẽ viết thơ ngắn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet will help the kids with their homework.",
+            "vi": "Bà Harriet sẽ kèm các bạn nhỏ làm bài tập."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet will help the kids with their homework.",
+          "text_translation": "Bà Harriet sẽ kèm các bạn nhỏ làm bài tập."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"This Saturday at ten, we will read a spy story.\" Bài viết kể về thứ Bảy vừa rồi, nên \"This Saturday\" là thứ Bảy sắp tới. Chuyện ma và làm thơ là những việc đã xảy ra thứ Bảy vừa rồi. Năm học đã kết thúc (\"School is over\"), nên không còn buổi kèm bài tập."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Bài kể chuyện đã qua dùng was / read / wrote; câu nói về thứ Bảy sắp tới dùng will. Câu hỏi có will thì tìm câu có will trong bài."
+      },
+      "question_jp": "What will happen this Saturday at ten?",
+      "question_vn": "Mười giờ thứ Bảy tuần này sẽ có gì?",
+      "explanation": "\"This Saturday at ten, we will read a spy story.\" Bài viết kể về thứ Bảy vừa rồi, nên \"This Saturday\" là thứ Bảy sắp tới. Chuyện ma và làm thơ là những việc đã xảy ra thứ Bảy vừa rồi. Năm học đã kết thúc (\"School is over\"), nên không còn buổi kèm bài tập.",
+      "tip": "Bài kể chuyện đã qua dùng was / read / wrote; câu nói về thứ Bảy sắp tới dùng will. Câu hỏi có will thì tìm câu có will trong bài."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u16_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Nhật ký của Tina về chuyến đi Monterey",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u16_01",
+      "question_ids": [
+        "q_u16_001",
+        "q_u16_002",
+        "q_u16_003",
+        "q_u16_004",
+        "q_u16_005"
+      ]
+    },
+    {
+      "set_id": "set_u16_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Bài viết trên trang của quán Harriet's",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u16_02",
+      "question_ids": [
+        "q_u16_006",
+        "q_u16_007",
+        "q_u16_008",
+        "q_u16_009",
+        "q_u16_010"
+      ]
+    }
+  ]
+}

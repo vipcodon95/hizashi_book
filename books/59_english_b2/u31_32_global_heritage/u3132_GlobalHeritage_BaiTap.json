@@ -1,0 +1,1967 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 31–32 — Global issues & History and heritage",
+      "vi": "Vấn đề toàn cầu & Lịch sử, di sản"
+    },
+    "title": "Units 31–32 — Global issues & History and heritage",
+    "title_vn": "Vấn đề toàn cầu & Lịch sử, di sản",
+    "module_code": "59_u3132",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.u31+u32",
+    "curriculum_sheets": [
+      "b2.121",
+      "b2.122",
+      "b2.123",
+      "b2.124",
+      "b2.125",
+      "b2.126",
+      "b2.127",
+      "b2.128"
+    ],
+    "characters": [],
+    "story_time_i18n": {
+      "vi": "tháng 4, năm 7"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "For + sb + to V, bị động với người nhận, trình tự thời gian",
+    "description_vn": "Bài phân tích Cape Town suýt cạn nước năm 2018 và bài lịch sử khách sạn Hotel del Coronado ở San Diego. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 31 + Unit 32 khoá B2 · phiếu `b2.121` – `b2.128` (for + sb + to V, vấn đề toàn cầu, tài nguyên, phát triển bền vững; bị động với vật làm chủ ngữ, lịch sử, di sản, bảo tồn)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài phân tích về khủng hoảng nước và một bài lịch sử địa phương; hiểu `It is important for + sb + to V`, `For the plan to work`, bị động với người nhận / vật làm chủ ngữ (guests were offered, the hotel was given…), nhận ra chức năng của phép so sánh và đoạn văn cân bằng, và trình tự thời gian."
+    },
+    "extra_words": [
+      {
+        "word": "businessmen",
+        "i18n": {
+          "vi": "các doanh nhân"
+        }
+      },
+      {
+        "word": "del",
+        "i18n": {
+          "vi": "del (tiếng Tây Ban Nha: của, trong tên Hotel del Coronado)"
+        }
+      },
+      {
+        "word": "rainwater",
+        "i18n": {
+          "vi": "nước mưa"
+        }
+      },
+      {
+        "word": "rebuilt",
+        "i18n": {
+          "vi": "được xây lại"
+        }
+      },
+      {
+        "word": "reuse",
+        "i18n": {
+          "vi": "tái sử dụng"
+        }
+      },
+      {
+        "word": "tap",
+        "i18n": {
+          "vi": "vòi nước"
+        }
+      },
+      {
+        "word": "dam",
+        "i18n": {
+          "vi": "đập, hồ chứa"
+        }
+      },
+      {
+        "word": "resident",
+        "i18n": {
+          "vi": "cư dân"
+        }
+      },
+      {
+        "word": "liter",
+        "i18n": {
+          "vi": "lít"
+        }
+      },
+      {
+        "word": "flush",
+        "i18n": {
+          "vi": "dội (bồn cầu)"
+        }
+      },
+      {
+        "word": "drought",
+        "i18n": {
+          "vi": "hạn hán"
+        }
+      },
+      {
+        "word": "resort",
+        "i18n": {
+          "vi": "khu nghỉ dưỡng"
+        }
+      },
+      {
+        "word": "elevator",
+        "i18n": {
+          "vi": "thang máy"
+        }
+      },
+      {
+        "word": "landmark",
+        "i18n": {
+          "vi": "di tích, công trình mốc"
+        }
+      },
+      {
+        "word": "lobby",
+        "i18n": {
+          "vi": "sảnh"
+        }
+      },
+      {
+        "word": "largest",
+        "i18n": {
+          "vi": "lớn nhất"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "run dry",
+          "vi": "cạn nước"
+        }
+      },
+      {
+        "i18n": {
+          "en": "push back",
+          "vi": "lùi lại"
+        }
+      },
+      {
+        "i18n": {
+          "en": "plan ahead",
+          "vi": "lên kế hoạch trước"
+        }
+      },
+      {
+        "i18n": {
+          "en": "at stake",
+          "vi": "bị đe doạ, đang được đặt cược"
+        }
+      },
+      {
+        "i18n": {
+          "en": "set up",
+          "vi": "dựng lên"
+        }
+      },
+      {
+        "i18n": {
+          "en": "boast about",
+          "vi": "khoe khoang về"
+        }
+      },
+      {
+        "i18n": {
+          "en": "tear down",
+          "vi": "phá bỏ"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`For + N + to V` và `It is + adj + for + N + to V`: phần sau for là ai/cái gì thực hiện hành động."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bị động với người nhận làm chủ ngữ (`guests were offered…`, `the hotel was given…`): hỏi \"ai nhận được gì\" là ra đáp án."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài lịch sử: ghi các mốc (1888, thập niên 1960, 1977). Câu hỏi hay tráo sự kiện giữa các mốc."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Đoạn \"It was not easy for…\" là đoạn cân bằng: người viết không chỉ khen. Câu hỏi mục đích hay hỏi đoạn này."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u3132_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 31) — Thành phố suýt cạn nước: \"Ngày số 0\" ở Cape Town"
+      },
+      "narrator": "announcer",
+      "title": "Day Zero: The City That Almost Ran Out of Water",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Day Zero: The City That Almost Ran Out of Water",
+            "vi": "Ngày số 0: thành phố suýt cạn nước"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In early 2018, the four million people of Cape Town, South Africa, were told something that seemed impossible for a modern city: their taps might soon run dry.",
+            "vi": "Đầu năm 2018, bốn triệu cư dân Cape Town, Nam Phi, được báo một điều tưởng như không thể với một thành phố hiện đại: vòi nước nhà họ có thể sắp cạn."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After three years of unusually low rainfall, the dams that supplied the city were less than a third full.",
+            "vi": "Sau ba năm mưa ít bất thường, các hồ chứa cấp nước cho thành phố chưa đầy tới một phần ba."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "City officials announced a date, called \"Day Zero\", when most taps would be turned off and residents would have to collect water from around two hundred collection points.",
+            "vi": "Chính quyền thành phố công bố một ngày, gọi là \"Ngày số 0\", khi phần lớn vòi nước sẽ bị khoá và cư dân phải đi lấy nước ở khoảng hai trăm điểm phát nước."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For the plan to work, everyone had to change their habits, and quickly.",
+            "vi": "Để kế hoạch có hiệu quả, ai cũng phải thay đổi thói quen, và phải nhanh."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Residents were asked to use no more than fifty liters each per day, about the amount that a typical American shower uses in six or seven minutes.",
+            "vi": "Mỗi cư dân được yêu cầu dùng không quá năm mươi lít một ngày, xấp xỉ lượng nước một lần tắm vòi sen điển hình ở Mỹ dùng trong sáu, bảy phút."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "People collected the water from their showers to flush toilets, washed less often, and stopped watering their gardens. Some restaurants served food on paper plates to avoid washing dishes.",
+            "vi": "Người ta hứng nước tắm để dội bồn cầu, tắm giặt ít hơn, và thôi tưới vườn. Có nhà hàng phục vụ bằng đĩa giấy để khỏi phải rửa bát."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was not easy for families with small children, or for people who lived in crowded areas with shared taps, to follow the rules.",
+            "vi": "Với những gia đình có con nhỏ, hay những người sống ở khu chật chội dùng chung vòi nước, việc tuân theo quy định chẳng hề dễ."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The result was remarkable. Within a few months, the city's daily water use had fallen by around half.",
+            "vi": "Kết quả thật đáng kinh ngạc. Chỉ trong vài tháng, lượng nước dùng mỗi ngày của thành phố đã giảm khoảng một nửa."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Day Zero was pushed back again and again, and when the winter rains finally arrived in the middle of 2018, it was cancelled. The taps never ran dry.",
+            "vi": "Ngày số 0 bị lùi lại hết lần này tới lần khác, và khi mưa mùa đông cuối cùng cũng tới vào giữa năm 2018, nó bị huỷ. Vòi nước chưa bao giờ cạn."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Cape Town is not the only city at risk. Experts warn that, as the climate changes and cities grow, droughts of this kind are likely to become more common, from southern Europe to parts of the United States.",
+            "vi": "Cape Town không phải thành phố duy nhất gặp rủi ro. Giới chuyên gia cảnh báo khi khí hậu thay đổi và các thành phố lớn lên, những đợt hạn hán kiểu này nhiều khả năng sẽ thường xuyên hơn, từ nam châu Âu tới một số vùng của Mỹ."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is important for cities to plan ahead: to repair leaking pipes, to collect rainwater and to reuse water that has already been cleaned.",
+            "vi": "Điều quan trọng là các thành phố phải lên kế hoạch trước: sửa đường ống rò rỉ, thu nước mưa và tái sử dụng nước đã được xử lý sạch."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But the most surprising lesson from Cape Town was about people. When it was clear what was at stake, millions of ordinary residents changed the way they lived in just a few months.",
+            "vi": "Nhưng bài học bất ngờ nhất từ Cape Town là về con người. Khi đã thấy rõ cái giá phải trả, hàng triệu cư dân bình thường đã thay đổi cách sống chỉ trong vài tháng."
+          }
+        }
+      ],
+      "content_ja": "Day Zero: The City That Almost Ran Out of Water\n\nIn early 2018, the four million people of Cape Town, South Africa, were told something that seemed impossible for a modern city: their taps might soon run dry. After three years of unusually low rainfall, the dams that supplied the city were less than a third full. City officials announced a date, called \"Day Zero\", when most taps would be turned off and residents would have to collect water from around two hundred collection points.\n\nFor the plan to work, everyone had to change their habits, and quickly. Residents were asked to use no more than fifty liters each per day, about the amount that a typical American shower uses in six or seven minutes. People collected the water from their showers to flush toilets, washed less often, and stopped watering their gardens. Some restaurants served food on paper plates to avoid washing dishes. It was not easy for families with small children, or for people who lived in crowded areas with shared taps, to follow the rules.\n\nThe result was remarkable. Within a few months, the city's daily water use had fallen by around half. Day Zero was pushed back again and again, and when the winter rains finally arrived in the middle of 2018, it was cancelled. The taps never ran dry.\n\nCape Town is not the only city at risk. Experts warn that, as the climate changes and cities grow, droughts of this kind are likely to become more common, from southern Europe to parts of the United States. It is important for cities to plan ahead: to repair leaking pipes, to collect rainwater and to reuse water that has already been cleaned. But the most surprising lesson from Cape Town was about people. When it was clear what was at stake, millions of ordinary residents changed the way they lived in just a few months.",
+      "translation_vn": "(1) Ngày số 0: thành phố suýt cạn nước\n(2) Đầu năm 2018, bốn triệu cư dân Cape Town, Nam Phi, được báo một điều tưởng như không thể với một thành phố hiện đại: vòi nước nhà họ có thể sắp cạn.\n(3) Sau ba năm mưa ít bất thường, các hồ chứa cấp nước cho thành phố chưa đầy tới một phần ba.\n(4) Chính quyền thành phố công bố một ngày, gọi là \"Ngày số 0\", khi phần lớn vòi nước sẽ bị khoá và cư dân phải đi lấy nước ở khoảng hai trăm điểm phát nước.\n(5) Để kế hoạch có hiệu quả, ai cũng phải thay đổi thói quen, và phải nhanh.\n(6) Mỗi cư dân được yêu cầu dùng không quá năm mươi lít một ngày, xấp xỉ lượng nước một lần tắm vòi sen điển hình ở Mỹ dùng trong sáu, bảy phút.\n(7) Người ta hứng nước tắm để dội bồn cầu, tắm giặt ít hơn, và thôi tưới vườn. Có nhà hàng phục vụ bằng đĩa giấy để khỏi phải rửa bát.\n(8) Với những gia đình có con nhỏ, hay những người sống ở khu chật chội dùng chung vòi nước, việc tuân theo quy định chẳng hề dễ.\n(9) Kết quả thật đáng kinh ngạc. Chỉ trong vài tháng, lượng nước dùng mỗi ngày của thành phố đã giảm khoảng một nửa.\n(10) Ngày số 0 bị lùi lại hết lần này tới lần khác, và khi mưa mùa đông cuối cùng cũng tới vào giữa năm 2018, nó bị huỷ. Vòi nước chưa bao giờ cạn.\n(11) Cape Town không phải thành phố duy nhất gặp rủi ro. Giới chuyên gia cảnh báo khi khí hậu thay đổi và các thành phố lớn lên, những đợt hạn hán kiểu này nhiều khả năng sẽ thường xuyên hơn, từ nam châu Âu tới một số vùng của Mỹ.\n(12) Điều quan trọng là các thành phố phải lên kế hoạch trước: sửa đường ống rò rỉ, thu nước mưa và tái sử dụng nước đã được xử lý sạch.\n(13) Nhưng bài học bất ngờ nhất từ Cape Town là về con người. Khi đã thấy rõ cái giá phải trả, hàng triệu cư dân bình thường đã thay đổi cách sống chỉ trong vài tháng.",
+      "word_count": 317,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.121",
+        "b2.122",
+        "b2.123",
+        "b2.124"
+      ]
+    },
+    {
+      "id": "passage_u3132_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 32) — Lịch sử khách sạn Hotel del Coronado"
+      },
+      "narrator": "announcer",
+      "title": "The Hotel by the Sea: A Short History of the Hotel del Coronado",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Hotel by the Sea: A Short History of the Hotel del Coronado",
+            "vi": "Khách sạn bên biển: lịch sử ngắn của Hotel del Coronado"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Across the bay from downtown San Diego stands one of the most photographed buildings in California: a huge white hotel with red roofs and towers, sitting right on the beach.",
+            "vi": "Bên kia vịnh, đối diện trung tâm San Diego, là một trong những công trình được chụp ảnh nhiều nhất California: một khách sạn trắng khổng lồ với mái và tháp đỏ, nằm ngay trên bãi biển."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Hotel del Coronado, known to locals simply as \"the Del\", opened in 1888, when the area around it was little more than sand and bushes.",
+            "vi": "Hotel del Coronado, người địa phương gọi gọn là \"the Del\", mở cửa năm 1888, khi khu vực quanh đó gần như chỉ có cát và bụi cây."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The hotel was the idea of two businessmen from the Midwest, who had bought the land in the 1880s and dreamed of building a resort that people would talk about all over the country.",
+            "vi": "Khách sạn là ý tưởng của hai doanh nhân từ vùng Trung Tây, những người đã mua mảnh đất vào thập niên 1880 và mơ xây một khu nghỉ dưỡng mà cả nước sẽ bàn tán."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Because there were not enough skilled builders in the area, workers were brought from other cities, and a factory was set up nearby to produce the wood and bricks.",
+            "vi": "Vì vùng này không đủ thợ lành nghề, công nhân được đưa tới từ các thành phố khác, và một xưởng được dựng gần đó để làm gỗ và gạch."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Remarkably, the main building was finished in about eleven months.",
+            "vi": "Đáng kinh ngạc là toà nhà chính xong chỉ trong khoảng mười một tháng."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At the time, it was the largest resort hotel in the world, and it is still one of the largest wooden buildings in the United States.",
+            "vi": "Thời đó, nó là khách sạn nghỉ dưỡng lớn nhất thế giới, và tới nay vẫn là một trong những công trình bằng gỗ lớn nhất nước Mỹ."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Its owners boasted about its modern comforts: guests were offered electric lights, telephones and even an elevator, which many visitors had never seen before.",
+            "vi": "Chủ khách sạn khoe những tiện nghi hiện đại: khách được phục vụ đèn điện, điện thoại và cả thang máy, thứ nhiều người chưa từng thấy."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Over the following decades, the hotel was visited by writers, film stars and wealthy families from across the country, and in 1958, part of a famous Hollywood comedy was filmed there.",
+            "vi": "Trong những thập kỷ sau, khách sạn đón các nhà văn, ngôi sao điện ảnh và những gia đình giàu có khắp nước Mỹ, và năm 1958, một phần của một bộ phim hài Hollywood nổi tiếng được quay tại đây."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Old wooden buildings are expensive to keep, and in the 1960s, there were serious worries that the Del might be torn down.",
+            "vi": "Công trình gỗ cũ rất tốn kém để duy trì, và vào thập niên 1960 đã có những lo ngại thực sự rằng the Del có thể bị phá bỏ."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Instead, it was bought by new owners who invested in repairs, and in 1977, the hotel was given the status of a National Historic Landmark, one of the highest honors that a building can receive in the United States.",
+            "vi": "Thay vào đó, nó được những người chủ mới mua lại và đầu tư sửa chữa, và năm 1977, khách sạn được công nhận là Di tích Lịch sử Quốc gia, một trong những danh hiệu cao nhất mà một công trình ở Mỹ có thể nhận."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Today, the Del is still a working hotel, and its long wooden corridors are still walked by thousands of guests every week.",
+            "vi": "Ngày nay, the Del vẫn là khách sạn đang hoạt động, và những hành lang gỗ dài của nó vẫn có hàng nghìn khách đi qua mỗi tuần."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Visitors who are not staying there are welcome to walk through the main lobby and along the beach.",
+            "vi": "Khách không lưu trú vẫn được chào đón vào sảnh chính và đi dạo dọc bãi biển."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Standing there, it is easy to understand why its owners believed, over a hundred and thirty years ago, that people would one day travel across the country just to see it.",
+            "vi": "Đứng ở đó, dễ hiểu vì sao hơn một trăm ba mươi năm trước, những người chủ của nó tin rằng một ngày nào đó người ta sẽ đi khắp đất nước chỉ để được nhìn nó."
+          }
+        }
+      ],
+      "content_ja": "The Hotel by the Sea: A Short History of the Hotel del Coronado\n\nAcross the bay from downtown San Diego stands one of the most photographed buildings in California: a huge white hotel with red roofs and towers, sitting right on the beach. The Hotel del Coronado, known to locals simply as \"the Del\", opened in 1888, when the area around it was little more than sand and bushes.\n\nThe hotel was the idea of two businessmen from the Midwest, who had bought the land in the 1880s and dreamed of building a resort that people would talk about all over the country. Because there were not enough skilled builders in the area, workers were brought from other cities, and a factory was set up nearby to produce the wood and bricks. Remarkably, the main building was finished in about eleven months.\n\nAt the time, it was the largest resort hotel in the world, and it is still one of the largest wooden buildings in the United States. Its owners boasted about its modern comforts: guests were offered electric lights, telephones and even an elevator, which many visitors had never seen before. Over the following decades, the hotel was visited by writers, film stars and wealthy families from across the country, and in 1958, part of a famous Hollywood comedy was filmed there.\n\nOld wooden buildings are expensive to keep, and in the 1960s, there were serious worries that the Del might be torn down. Instead, it was bought by new owners who invested in repairs, and in 1977, the hotel was given the status of a National Historic Landmark, one of the highest honors that a building can receive in the United States.\n\nToday, the Del is still a working hotel, and its long wooden corridors are still walked by thousands of guests every week. Visitors who are not staying there are welcome to walk through the main lobby and along the beach. Standing there, it is easy to understand why its owners believed, over a hundred and thirty years ago, that people would one day travel across the country just to see it.",
+      "translation_vn": "(1) Khách sạn bên biển: lịch sử ngắn của Hotel del Coronado\n(2) Bên kia vịnh, đối diện trung tâm San Diego, là một trong những công trình được chụp ảnh nhiều nhất California: một khách sạn trắng khổng lồ với mái và tháp đỏ, nằm ngay trên bãi biển.\n(3) Hotel del Coronado, người địa phương gọi gọn là \"the Del\", mở cửa năm 1888, khi khu vực quanh đó gần như chỉ có cát và bụi cây.\n(4) Khách sạn là ý tưởng của hai doanh nhân từ vùng Trung Tây, những người đã mua mảnh đất vào thập niên 1880 và mơ xây một khu nghỉ dưỡng mà cả nước sẽ bàn tán.\n(5) Vì vùng này không đủ thợ lành nghề, công nhân được đưa tới từ các thành phố khác, và một xưởng được dựng gần đó để làm gỗ và gạch.\n(6) Đáng kinh ngạc là toà nhà chính xong chỉ trong khoảng mười một tháng.\n(7) Thời đó, nó là khách sạn nghỉ dưỡng lớn nhất thế giới, và tới nay vẫn là một trong những công trình bằng gỗ lớn nhất nước Mỹ.\n(8) Chủ khách sạn khoe những tiện nghi hiện đại: khách được phục vụ đèn điện, điện thoại và cả thang máy, thứ nhiều người chưa từng thấy.\n(9) Trong những thập kỷ sau, khách sạn đón các nhà văn, ngôi sao điện ảnh và những gia đình giàu có khắp nước Mỹ, và năm 1958, một phần của một bộ phim hài Hollywood nổi tiếng được quay tại đây.\n(10) Công trình gỗ cũ rất tốn kém để duy trì, và vào thập niên 1960 đã có những lo ngại thực sự rằng the Del có thể bị phá bỏ.\n(11) Thay vào đó, nó được những người chủ mới mua lại và đầu tư sửa chữa, và năm 1977, khách sạn được công nhận là Di tích Lịch sử Quốc gia, một trong những danh hiệu cao nhất mà một công trình ở Mỹ có thể nhận.\n(12) Ngày nay, the Del vẫn là khách sạn đang hoạt động, và những hành lang gỗ dài của nó vẫn có hàng nghìn khách đi qua mỗi tuần.\n(13) Khách không lưu trú vẫn được chào đón vào sảnh chính và đi dạo dọc bãi biển.\n(14) Đứng ở đó, dễ hiểu vì sao hơn một trăm ba mươi năm trước, những người chủ của nó tin rằng một ngày nào đó người ta sẽ đi khắp đất nước chỉ để được nhìn nó.",
+      "word_count": 352,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.125",
+        "b2.126",
+        "b2.127",
+        "b2.128"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u3132_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "What is the article mainly about?",
+        "vi": "Bài báo chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the history of South Africa, from its first cities to its modern dams",
+            "vi": "lịch sử Nam Phi, từ những thành phố đầu tiên đến các hồ chứa hiện đại"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the history of South Africa, from its first cities to its modern dams",
+          "text_translation": "lịch sử Nam Phi, từ những thành phố đầu tiên đến các hồ chứa hiện đại"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "how Cape Town avoided running out of water and what others can learn",
+            "vi": "Cape Town đã tránh cạn nước thế nào và những nơi khác học được gì"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "how Cape Town avoided running out of water and what others can learn",
+          "text_translation": "Cape Town đã tránh cạn nước thế nào và những nơi khác học được gì"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "how to build a dam that can hold water for three years",
+            "vi": "cách xây một hồ chứa giữ được nước trong ba năm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "how to build a dam that can hold water for three years",
+          "text_translation": "cách xây một hồ chứa giữ được nước trong ba năm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "restaurants in Cape Town that served food on paper plates",
+            "vi": "các nhà hàng ở Cape Town phục vụ đồ ăn bằng đĩa giấy"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "restaurants in Cape Town that served food on paper plates",
+          "text_translation": "các nhà hàng ở Cape Town phục vụ đồ ăn bằng đĩa giấy"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"The taps never ran dry.\" Ngày số 0 bị lùi rồi bị huỷ. Đoạn cuối nêu bài học cho các thành phố khác."
+      },
+      "audio_data": null,
+      "question_jp": "What is the article mainly about?",
+      "question_vn": "Bài báo chủ yếu nói về điều gì?",
+      "explanation": "\"The taps never ran dry.\" Ngày số 0 bị lùi rồi bị huỷ. Đoạn cuối nêu bài học cho các thành phố khác."
+    },
+    {
+      "id": "q_u3132_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "Why were the city's dams less than a third full?",
+        "vi": "Vì sao các hồ chứa của thành phố chưa đầy một phần ba?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the dams were broken and water leaked out slowly",
+            "vi": "vì hồ chứa bị hỏng và nước rò rỉ dần"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because the dams were broken and water leaked out slowly",
+          "text_translation": "vì hồ chứa bị hỏng và nước rò rỉ dần"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because too many tourists came to the city every summer",
+            "vi": "vì mỗi mùa hè quá nhiều khách du lịch tới thành phố"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because too many tourists came to the city every summer",
+          "text_translation": "vì mỗi mùa hè quá nhiều khách du lịch tới thành phố"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because water was sold to other cities in South Africa",
+            "vi": "vì nước bị bán cho các thành phố khác ở Nam Phi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because water was sold to other cities in South Africa",
+          "text_translation": "vì nước bị bán cho các thành phố khác ở Nam Phi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because of three years of unusually low rainfall",
+            "vi": "vì ba năm mưa ít bất thường"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because of three years of unusually low rainfall",
+          "text_translation": "vì ba năm mưa ít bất thường"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"After three years of unusually low rainfall, the dams that supplied the city were less than a third full.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why were the city's dams less than a third full?",
+      "question_vn": "Vì sao các hồ chứa của thành phố chưa đầy một phần ba?",
+      "explanation": "\"After three years of unusually low rainfall, the dams that supplied the city were less than a third full.\""
+    },
+    {
+      "id": "q_u3132_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "What was \"Day Zero\"?",
+        "vi": "\"Ngày số 0\" là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the date when most taps would be turned off",
+            "vi": "ngày phần lớn vòi nước sẽ bị khoá"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the date when most taps would be turned off",
+          "text_translation": "ngày phần lớn vòi nước sẽ bị khoá"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the first day of rain after three dry years",
+            "vi": "ngày mưa đầu tiên sau ba năm khô hạn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the first day of rain after three dry years",
+          "text_translation": "ngày mưa đầu tiên sau ba năm khô hạn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a holiday when the city turned off its lights",
+            "vi": "một ngày lễ khi thành phố tắt đèn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a holiday when the city turned off its lights",
+          "text_translation": "một ngày lễ khi thành phố tắt đèn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the day when the new dams were built outside the city",
+            "vi": "ngày các hồ chứa mới được xây bên ngoài thành phố"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the day when the new dams were built outside the city",
+          "text_translation": "ngày các hồ chứa mới được xây bên ngoài thành phố"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"a date, called \"Day Zero\", when most taps would be turned off and residents would have to collect water from around two hundred collection points.\""
+      },
+      "audio_data": null,
+      "question_jp": "What was \"Day Zero\"?",
+      "question_vn": "\"Ngày số 0\" là gì?",
+      "explanation": "\"a date, called \"Day Zero\", when most taps would be turned off and residents would have to collect water from around two hundred collection points.\""
+    },
+    {
+      "id": "q_u3132_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "What does \"For the plan to work, everyone had to change their habits\" mean?",
+        "vi": "Câu \"Để kế hoạch có hiệu quả, ai cũng phải thay đổi thói quen\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The plan worked well even though nobody changed any habits.",
+            "vi": "Kế hoạch hiệu quả dù không ai đổi thói quen nào."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The plan worked well even though nobody changed any habits.",
+          "text_translation": "Kế hoạch hiệu quả dù không ai đổi thói quen nào."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Only the city officials had to change their habits to make it work.",
+            "vi": "Chỉ các quan chức thành phố phải đổi thói quen để kế hoạch chạy."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Only the city officials had to change their habits to make it work.",
+          "text_translation": "Chỉ các quan chức thành phố phải đổi thói quen để kế hoạch chạy."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The plan would only succeed if everyone changed their habits.",
+            "vi": "Kế hoạch chỉ thành công nếu mọi người cùng thay đổi thói quen."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "The plan would only succeed if everyone changed their habits.",
+          "text_translation": "Kế hoạch chỉ thành công nếu mọi người cùng thay đổi thói quen."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Everyone had to work for the city to carry out the plan.",
+            "vi": "Ai cũng phải làm việc cho thành phố để thực hiện kế hoạch."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Everyone had to work for the city to carry out the plan.",
+          "text_translation": "Ai cũng phải làm việc cho thành phố để thực hiện kế hoạch."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "For + danh từ + to V = để (cái gì đó) làm được việc gì. Câu nói điều kiện để kế hoạch thành công."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"For the plan to work, everyone had to change their habits\" mean?",
+      "question_vn": "Câu \"Để kế hoạch có hiệu quả, ai cũng phải thay đổi thói quen\" nghĩa là gì?",
+      "explanation": "For + danh từ + to V = để (cái gì đó) làm được việc gì. Câu nói điều kiện để kế hoạch thành công."
+    },
+    {
+      "id": "q_u3132_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "Why does the writer compare fifty liters to a six- or seven-minute shower?",
+        "vi": "Vì sao người viết so năm mươi lít với một lần tắm sáu, bảy phút?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show how little water fifty liters really is for a whole day",
+            "vi": "để cho thấy năm mươi lít cho cả ngày thật sự ít ỏi thế nào"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to show how little water fifty liters really is for a whole day",
+          "text_translation": "để cho thấy năm mươi lít cho cả ngày thật sự ít ỏi thế nào"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to advertise a new kind of shower that saves water in the home",
+            "vi": "để quảng cáo một loại vòi sen mới tiết kiệm nước trong nhà"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to advertise a new kind of shower that saves water in the home",
+          "text_translation": "để quảng cáo một loại vòi sen mới tiết kiệm nước trong nhà"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to say that showers are bad and that people should stop using them",
+            "vi": "để nói tắm vòi sen là xấu và người ta nên thôi dùng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to say that showers are bad and that people should stop using them",
+          "text_translation": "để nói tắm vòi sen là xấu và người ta nên thôi dùng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to explain how people can save money on their water bills",
+            "vi": "để giải thích cách người ta tiết kiệm tiền hoá đơn nước"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to explain how people can save money on their water bills",
+          "text_translation": "để giải thích cách người ta tiết kiệm tiền hoá đơn nước"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về chức năng. So sánh với thứ quen thuộc giúp người đọc hình dung: lượng nước cho cả ngày chỉ bằng một lần tắm ngắn."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer compare fifty liters to a six- or seven-minute shower?",
+      "question_vn": "Vì sao người viết so năm mươi lít với một lần tắm sáu, bảy phút?",
+      "explanation": "Câu suy luận về chức năng. So sánh với thứ quen thuộc giúp người đọc hình dung: lượng nước cho cả ngày chỉ bằng một lần tắm ngắn."
+    },
+    {
+      "id": "q_u3132_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "Which of these is NOT mentioned as a way that people saved water?",
+        "vi": "Cách tiết kiệm nước nào KHÔNG được nhắc tới?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "using water from the shower to flush the toilets",
+            "vi": "dùng nước từ vòi sen để dội bồn cầu"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "using water from the shower to flush the toilets",
+          "text_translation": "dùng nước từ vòi sen để dội bồn cầu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "no longer watering their gardens",
+            "vi": "không tưới vườn nữa"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "no longer watering their gardens",
+          "text_translation": "không tưới vườn nữa"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "serving food on paper plates in some restaurants",
+            "vi": "phục vụ đồ ăn bằng đĩa giấy ở vài nhà hàng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "serving food on paper plates in some restaurants",
+          "text_translation": "phục vụ đồ ăn bằng đĩa giấy ở vài nhà hàng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "buying bottled water from other countries",
+            "vi": "mua nước đóng chai từ nước khác"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "buying bottled water from other countries",
+          "text_translation": "mua nước đóng chai từ nước khác"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"People collected the water from their showers to flush toilets, washed less often, and stopped watering their gardens. Some restaurants served food on paper plates\". Không có chuyện mua nước đóng chai."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT mentioned as a way that people saved water?",
+      "question_vn": "Cách tiết kiệm nước nào KHÔNG được nhắc tới?",
+      "explanation": "\"People collected the water from their showers to flush toilets, washed less often, and stopped watering their gardens. Some restaurants served food on paper plates\". Không có chuyện mua nước đóng chai."
+    },
+    {
+      "id": "q_u3132_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "Why does the writer mention families with small children and people in crowded areas?",
+        "vi": "Vì sao người viết nhắc tới gia đình có con nhỏ và người sống ở khu chật chội?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that the rules were not equally easy for everyone",
+            "vi": "để cho thấy quy định không dễ như nhau với tất cả mọi người"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to show that the rules were not equally easy for everyone",
+          "text_translation": "để cho thấy quy định không dễ như nhau với tất cả mọi người"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to say that these families did not follow the rules of the city",
+            "vi": "để nói các gia đình này không tuân theo quy định của thành phố"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to say that these families did not follow the rules of the city",
+          "text_translation": "để nói các gia đình này không tuân theo quy định của thành phố"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to criticize them for using too much water in a crisis",
+            "vi": "để chê trách họ dùng quá nhiều nước trong lúc khủng hoảng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to criticize them for using too much water in a crisis",
+          "text_translation": "để chê trách họ dùng quá nhiều nước trong lúc khủng hoảng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to show that they used the most water in the whole city",
+            "vi": "để cho thấy họ dùng nhiều nước nhất cả thành phố"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to show that they used the most water in the whole city",
+          "text_translation": "để cho thấy họ dùng nhiều nước nhất cả thành phố"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về mục đích. \"It was not easy for families with small children, or for people who lived in crowded areas with shared taps, to follow the rules.\" Người viết cân bằng, không chỉ ca ngợi."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer mention families with small children and people in crowded areas?",
+      "question_vn": "Vì sao người viết nhắc tới gia đình có con nhỏ và người sống ở khu chật chội?",
+      "explanation": "Câu suy luận về mục đích. \"It was not easy for families with small children, or for people who lived in crowded areas with shared taps, to follow the rules.\" Người viết cân bằng, không chỉ ca ngợi."
+    },
+    {
+      "id": "q_u3132_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "What happened to Day Zero in the end?",
+        "vi": "Cuối cùng Ngày số 0 ra sao?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It happened in April 2018, when the last dam was empty.",
+            "vi": "Nó xảy ra vào tháng 4/2018, khi hồ chứa cuối cùng cạn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It happened in April 2018, when the last dam was empty.",
+          "text_translation": "Nó xảy ra vào tháng 4/2018, khi hồ chứa cuối cùng cạn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It was moved to another city that had less water.",
+            "vi": "Nó được chuyển sang thành phố khác ít nước hơn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It was moved to another city that had less water.",
+          "text_translation": "Nó được chuyển sang thành phố khác ít nước hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It was cancelled after the winter rains arrived.",
+            "vi": "Nó bị huỷ sau khi mưa mùa đông tới."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It was cancelled after the winter rains arrived.",
+          "text_translation": "Nó bị huỷ sau khi mưa mùa đông tới."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is still planned for the next dry season in the city.",
+            "vi": "Nó vẫn được lên kế hoạch cho mùa khô tới của thành phố."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It is still planned for the next dry season in the city.",
+          "text_translation": "Nó vẫn được lên kế hoạch cho mùa khô tới của thành phố."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"when the winter rains finally arrived in the middle of 2018, it was cancelled.\""
+      },
+      "audio_data": null,
+      "question_jp": "What happened to Day Zero in the end?",
+      "question_vn": "Cuối cùng Ngày số 0 ra sao?",
+      "explanation": "\"when the winter rains finally arrived in the middle of 2018, it was cancelled.\""
+    },
+    {
+      "id": "q_u3132_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "In \"It is important for cities to plan ahead\", what does \"for cities\" show?",
+        "vi": "Trong câu \"It is important for cities to plan ahead\", cụm \"for cities\" cho biết điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "who should do the action of planning ahead",
+            "vi": "ai là người cần thực hiện việc lên kế hoạch trước"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "who should do the action of planning ahead",
+          "text_translation": "ai là người cần thực hiện việc lên kế hoạch trước"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "why the plan is important for the people in the cities",
+            "vi": "vì sao kế hoạch quan trọng với người dân trong các thành phố"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "why the plan is important for the people in the cities",
+          "text_translation": "vì sao kế hoạch quan trọng với người dân trong các thành phố"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "where the plan happens in the middle of the city",
+            "vi": "kế hoạch diễn ra ở đâu giữa thành phố"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "where the plan happens in the middle of the city",
+          "text_translation": "kế hoạch diễn ra ở đâu giữa thành phố"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "when the plan starts for the cities in the future",
+            "vi": "khi nào kế hoạch bắt đầu với các thành phố trong tương lai"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "when the plan starts for the cities in the future",
+          "text_translation": "khi nào kế hoạch bắt đầu với các thành phố trong tương lai"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "It is + adj + for + người/vật + to V: for chỉ ra đối tượng thực hiện hành động to V (cities plan ahead)."
+      },
+      "audio_data": null,
+      "question_jp": "In \"It is important for cities to plan ahead\", what does \"for cities\" show?",
+      "question_vn": "Trong câu \"It is important for cities to plan ahead\", cụm \"for cities\" cho biết điều gì?",
+      "explanation": "It is + adj + for + người/vật + to V: for chỉ ra đối tượng thực hiện hành động to V (cities plan ahead)."
+    },
+    {
+      "id": "q_u3132_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_01",
+      "i18n": {
+        "en": "According to the writer, what was the most surprising lesson from Cape Town?",
+        "vi": "Theo người viết, bài học bất ngờ nhất từ Cape Town là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Dams are not useful, because they cannot hold enough water for big cities.",
+            "vi": "Hồ chứa không có ích vì không giữ đủ nước cho các thành phố lớn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Dams are not useful, because they cannot hold enough water for big cities.",
+          "text_translation": "Hồ chứa không có ích vì không giữ đủ nước cho các thành phố lớn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Rain always comes in time, so cities do not need to plan ahead at all.",
+            "vi": "Mưa luôn tới kịp lúc nên thành phố không cần lên kế hoạch trước."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Rain always comes in time, so cities do not need to plan ahead at all.",
+          "text_translation": "Mưa luôn tới kịp lúc nên thành phố không cần lên kế hoạch trước."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Ordinary people can change how they live very quickly when much is at stake.",
+            "vi": "Người bình thường có thể thay đổi cách sống rất nhanh khi có nhiều thứ đang bị đe doạ."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Ordinary people can change how they live very quickly when much is at stake.",
+          "text_translation": "Người bình thường có thể thay đổi cách sống rất nhanh khi có nhiều thứ đang bị đe doạ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Cities should not grow, because they will always run out of water.",
+            "vi": "Thành phố không nên phát triển vì sẽ luôn cạn nước."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Cities should not grow, because they will always run out of water.",
+          "text_translation": "Thành phố không nên phát triển vì sẽ luôn cạn nước."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"When it was clear what was at stake, millions of ordinary residents changed the way they lived in just a few months.\" At stake = đang bị đe doạ, cái giá phải trả."
+      },
+      "audio_data": null,
+      "question_jp": "According to the writer, what was the most surprising lesson from Cape Town?",
+      "question_vn": "Theo người viết, bài học bất ngờ nhất từ Cape Town là gì?",
+      "explanation": "\"When it was clear what was at stake, millions of ordinary residents changed the way they lived in just a few months.\" At stake = đang bị đe doạ, cái giá phải trả."
+    },
+    {
+      "id": "q_u3132_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "What is the main purpose of the article?",
+        "vi": "Mục đích chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to advertise rooms at the hotel and the cost of a stay",
+            "vi": "để quảng cáo phòng khách sạn và giá một kỳ nghỉ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to advertise rooms at the hotel and the cost of a stay",
+          "text_translation": "để quảng cáo phòng khách sạn và giá một kỳ nghỉ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to compare hotels in California with hotels in other states",
+            "vi": "để so sánh các khách sạn ở California với khách sạn ở bang khác"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to compare hotels in California with hotels in other states",
+          "text_translation": "để so sánh các khách sạn ở California với khách sạn ở bang khác"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to tell the history of the Hotel del Coronado",
+            "vi": "để kể lịch sử khách sạn Hotel del Coronado"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to tell the history of the Hotel del Coronado",
+          "text_translation": "để kể lịch sử khách sạn Hotel del Coronado"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to explain how to build large hotels with wood and bricks",
+            "vi": "để giải thích cách xây khách sạn lớn bằng gỗ và gạch"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to explain how to build large hotels with wood and bricks",
+          "text_translation": "để giải thích cách xây khách sạn lớn bằng gỗ và gạch"
+        }
+      ],
+      "evidence_segments": [
+        1
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề: \"A Short History of the Hotel del Coronado\". Bài đi theo thời gian: 1888, các thập kỷ sau, thập niên 1960, 1977, hôm nay."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of the article?",
+      "question_vn": "Mục đích chính của bài báo là gì?",
+      "explanation": "Tiêu đề: \"A Short History of the Hotel del Coronado\". Bài đi theo thời gian: 1888, các thập kỷ sau, thập niên 1960, 1977, hôm nay."
+    },
+    {
+      "id": "q_u3132_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "What was the area around the hotel like when it opened?",
+        "vi": "Khu vực quanh khách sạn khi mới mở cửa trông ra sao?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It was little more than sand and bushes.",
+            "vi": "Gần như chỉ có cát và bụi cây."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It was little more than sand and bushes.",
+          "text_translation": "Gần như chỉ có cát và bụi cây."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It was a busy city with many hotels and shops.",
+            "vi": "Là một thành phố đông đúc với nhiều khách sạn và cửa hàng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It was a busy city with many hotels and shops.",
+          "text_translation": "Là một thành phố đông đúc với nhiều khách sạn và cửa hàng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It was a famous beach resort that many visitors knew.",
+            "vi": "Là khu nghỉ dưỡng biển nổi tiếng mà nhiều khách biết."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It was a famous beach resort that many visitors knew.",
+          "text_translation": "Là khu nghỉ dưỡng biển nổi tiếng mà nhiều khách biết."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It was a farm where workers grew food for visitors.",
+            "vi": "Là một trang trại nơi công nhân trồng thức ăn cho khách."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It was a farm where workers grew food for visitors.",
+          "text_translation": "Là một trang trại nơi công nhân trồng thức ăn cho khách."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"opened in 1888, when the area around it was little more than sand and bushes.\""
+      },
+      "audio_data": null,
+      "question_jp": "What was the area around the hotel like when it opened?",
+      "question_vn": "Khu vực quanh khách sạn khi mới mở cửa trông ra sao?",
+      "explanation": "\"opened in 1888, when the area around it was little more than sand and bushes.\""
+    },
+    {
+      "id": "q_u3132_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "Why were workers brought from other cities?",
+        "vi": "Vì sao công nhân được đưa tới từ các thành phố khác?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because they were cheaper than the builders in the area",
+            "vi": "vì họ rẻ hơn các thợ trong vùng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because they were cheaper than the builders in the area",
+          "text_translation": "vì họ rẻ hơn các thợ trong vùng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the owners came from the Midwest and wanted workers from home",
+            "vi": "vì chủ khách sạn từ Trung Tây tới và muốn có thợ từ quê nhà"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the owners came from the Midwest and wanted workers from home",
+          "text_translation": "vì chủ khách sạn từ Trung Tây tới và muốn có thợ từ quê nhà"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because they wanted to see the beach and live in San Diego",
+            "vi": "vì họ muốn ngắm biển và sống ở San Diego"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because they wanted to see the beach and live in San Diego",
+          "text_translation": "vì họ muốn ngắm biển và sống ở San Diego"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because there were not enough skilled builders in the area",
+            "vi": "vì vùng này không đủ thợ lành nghề"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because there were not enough skilled builders in the area",
+          "text_translation": "vì vùng này không đủ thợ lành nghề"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Because there were not enough skilled builders in the area, workers were brought from other cities\". Were brought: bị động với vật/người làm chủ ngữ."
+      },
+      "audio_data": null,
+      "question_jp": "Why were workers brought from other cities?",
+      "question_vn": "Vì sao công nhân được đưa tới từ các thành phố khác?",
+      "explanation": "\"Because there were not enough skilled builders in the area, workers were brought from other cities\". Were brought: bị động với vật/người làm chủ ngữ."
+    },
+    {
+      "id": "q_u3132_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "What does \"Remarkably, the main building was finished in about eleven months\" suggest?",
+        "vi": "Câu \"Đáng kinh ngạc là toà nhà chính xong chỉ trong khoảng mười một tháng\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Eleven months is a normal time for a large hotel of that kind.",
+            "vi": "Mười một tháng là bình thường với một khách sạn lớn như vậy."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Eleven months is a normal time for a large hotel of that kind.",
+          "text_translation": "Mười một tháng là bình thường với một khách sạn lớn như vậy."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It was very fast for such a large building at that time.",
+            "vi": "Đó là rất nhanh với một công trình lớn như vậy vào thời đó."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "It was very fast for such a large building at that time.",
+          "text_translation": "Đó là rất nhanh với một công trình lớn như vậy vào thời đó."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The building was badly made because it was finished so fast.",
+            "vi": "Toà nhà làm ẩu vì xong quá nhanh."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The building was badly made because it was finished so fast.",
+          "text_translation": "Toà nhà làm ẩu vì xong quá nhanh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The owners were not happy that it took so long to build.",
+            "vi": "Chủ không hài lòng vì xây quá lâu."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The owners were not happy that it took so long to build.",
+          "text_translation": "Chủ không hài lòng vì xây quá lâu."
+        }
+      ],
+      "evidence_segments": [
+        6,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Remarkably = đáng chú ý, đáng ngạc nhiên. Câu sau cho biết nó là \"the largest resort hotel in the world\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Remarkably, the main building was finished in about eleven months\" suggest?",
+      "question_vn": "Câu \"Đáng kinh ngạc là toà nhà chính xong chỉ trong khoảng mười một tháng\" hàm ý gì?",
+      "explanation": "Câu suy luận. Remarkably = đáng chú ý, đáng ngạc nhiên. Câu sau cho biết nó là \"the largest resort hotel in the world\"."
+    },
+    {
+      "id": "q_u3132_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "Which modern comforts were guests offered?",
+        "vi": "Khách được phục vụ những tiện nghi hiện đại nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "air conditioning, television and a swimming pool",
+            "vi": "điều hoà, ti vi và hồ bơi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "air conditioning, television and a swimming pool",
+          "text_translation": "điều hoà, ti vi và hồ bơi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "swimming pools, computers and a movie theater",
+            "vi": "hồ bơi, máy tính và rạp chiếu phim"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "swimming pools, computers and a movie theater",
+          "text_translation": "hồ bơi, máy tính và rạp chiếu phim"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "electric lights, telephones and an elevator",
+            "vi": "đèn điện, điện thoại và thang máy"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "electric lights, telephones and an elevator",
+          "text_translation": "đèn điện, điện thoại và thang máy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "free cars and a boat to take guests across the bay",
+            "vi": "ô tô miễn phí và thuyền đưa khách qua vịnh"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "free cars and a boat to take guests across the bay",
+          "text_translation": "ô tô miễn phí và thuyền đưa khách qua vịnh"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"guests were offered electric lights, telephones and even an elevator\". Guests were offered … = bị động với người nhận làm chủ ngữ."
+      },
+      "audio_data": null,
+      "question_jp": "Which modern comforts were guests offered?",
+      "question_vn": "Khách được phục vụ những tiện nghi hiện đại nào?",
+      "explanation": "\"guests were offered electric lights, telephones and even an elevator\". Guests were offered … = bị động với người nhận làm chủ ngữ."
+    },
+    {
+      "id": "q_u3132_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "In \"Its owners boasted about its modern comforts\", what does \"boasted\" suggest?",
+        "vi": "Trong câu \"Its owners boasted about its modern comforts\", \"boasted\" cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The owners were ashamed of the hotel and wanted to hide it.",
+            "vi": "Chủ khách sạn xấu hổ về nó và muốn giấu đi."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The owners were ashamed of the hotel and wanted to hide it.",
+          "text_translation": "Chủ khách sạn xấu hổ về nó và muốn giấu đi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The owners hid the comforts so that guests would be surprised.",
+            "vi": "Chủ giấu các tiện nghi để khách bất ngờ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The owners hid the comforts so that guests would be surprised.",
+          "text_translation": "Chủ giấu các tiện nghi để khách bất ngờ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The owners complained about them because they were too expensive.",
+            "vi": "Chủ phàn nàn về chúng vì quá đắt."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The owners complained about them because they were too expensive.",
+          "text_translation": "Chủ phàn nàn về chúng vì quá đắt."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The owners talked about them proudly to impress people.",
+            "vi": "Chủ tự hào nói về chúng để gây ấn tượng."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The owners talked about them proudly to impress people.",
+          "text_translation": "Chủ tự hào nói về chúng để gây ấn tượng."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Boast about = khoe khoang, nói đầy tự hào. Các tiện nghi này lúc đó rất hiếm: \"many visitors had never seen before\"."
+      },
+      "audio_data": null,
+      "question_jp": "In \"Its owners boasted about its modern comforts\", what does \"boasted\" suggest?",
+      "question_vn": "Trong câu \"Its owners boasted about its modern comforts\", \"boasted\" cho thấy điều gì?",
+      "explanation": "Boast about = khoe khoang, nói đầy tự hào. Các tiện nghi này lúc đó rất hiếm: \"many visitors had never seen before\"."
+    },
+    {
+      "id": "q_u3132_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "What was the danger to the hotel in the 1960s?",
+        "vi": "Vào thập niên 1960, khách sạn gặp nguy cơ gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It might be torn down, since old wooden buildings are expensive to keep.",
+            "vi": "Nó có thể bị phá bỏ, vì công trình gỗ cũ rất tốn kém để duy trì."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It might be torn down, since old wooden buildings are expensive to keep.",
+          "text_translation": "Nó có thể bị phá bỏ, vì công trình gỗ cũ rất tốn kém để duy trì."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It might burn down, because the old wood was dry and dangerous.",
+            "vi": "Nó có thể bị cháy, vì gỗ cũ khô và nguy hiểm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It might burn down, because the old wood was dry and dangerous.",
+          "text_translation": "Nó có thể bị cháy, vì gỗ cũ khô và nguy hiểm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It might be moved to another city, because the land was valuable.",
+            "vi": "Nó có thể bị dời sang thành phố khác, vì đất rất đắt giá."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It might be moved to another city, because the land was valuable.",
+          "text_translation": "Nó có thể bị dời sang thành phố khác, vì đất rất đắt giá."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It might be closed by a film company that wanted to use the building.",
+            "vi": "Nó có thể bị một hãng phim đóng cửa vì muốn dùng toà nhà."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It might be closed by a film company that wanted to use the building.",
+          "text_translation": "Nó có thể bị một hãng phim đóng cửa vì muốn dùng toà nhà."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"Old wooden buildings are expensive to keep, and in the 1960s, there were serious worries that the Del might be torn down.\""
+      },
+      "audio_data": null,
+      "question_jp": "What was the danger to the hotel in the 1960s?",
+      "question_vn": "Vào thập niên 1960, khách sạn gặp nguy cơ gì?",
+      "explanation": "\"Old wooden buildings are expensive to keep, and in the 1960s, there were serious worries that the Del might be torn down.\""
+    },
+    {
+      "id": "q_u3132_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "What happened to the hotel in 1977?",
+        "vi": "Năm 1977 khách sạn được gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It was sold to a film company that wanted to make movies.",
+            "vi": "Được bán cho một hãng phim muốn làm phim."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It was sold to a film company that wanted to make movies.",
+          "text_translation": "Được bán cho một hãng phim muốn làm phim."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It was given the status of a National Historic Landmark.",
+            "vi": "Được công nhận là Di tích Lịch sử Quốc gia."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "It was given the status of a National Historic Landmark.",
+          "text_translation": "Được công nhận là Di tích Lịch sử Quốc gia."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It was rebuilt in brick after the old wooden walls fell down.",
+            "vi": "Được xây lại bằng gạch sau khi tường gỗ cũ đổ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It was rebuilt in brick after the old wooden walls fell down.",
+          "text_translation": "Được xây lại bằng gạch sau khi tường gỗ cũ đổ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It was closed to the public so that workers could make repairs.",
+            "vi": "Bị đóng cửa với công chúng để thợ sửa chữa."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It was closed to the public so that workers could make repairs.",
+          "text_translation": "Bị đóng cửa với công chúng để thợ sửa chữa."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"in 1977, the hotel was given the status of a National Historic Landmark\". Was given: bị động với vật làm chủ ngữ."
+      },
+      "audio_data": null,
+      "question_jp": "What happened to the hotel in 1977?",
+      "question_vn": "Năm 1977 khách sạn được gì?",
+      "explanation": "\"in 1977, the hotel was given the status of a National Historic Landmark\". Was given: bị động với vật làm chủ ngữ."
+    },
+    {
+      "id": "q_u3132_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "Which of these is TRUE about the hotel today?",
+        "vi": "Điều nào ĐÚNG về khách sạn ngày nay?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is a museum only, and nobody is allowed to stay the night.",
+            "vi": "Nó chỉ là bảo tàng và không ai được ở qua đêm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is a museum only, and nobody is allowed to stay the night.",
+          "text_translation": "Nó chỉ là bảo tàng và không ai được ở qua đêm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is closed to visitors who are not staying there as guests.",
+            "vi": "Nó không cho vào những khách không lưu trú."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is closed to visitors who are not staying there as guests.",
+          "text_translation": "Nó không cho vào những khách không lưu trú."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Only guests can enter the lobby, but everyone can use the beach.",
+            "vi": "Chỉ khách lưu trú được vào sảnh, nhưng ai cũng dùng được bãi biển."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Only guests can enter the lobby, but everyone can use the beach.",
+          "text_translation": "Chỉ khách lưu trú được vào sảnh, nhưng ai cũng dùng được bãi biển."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is still a working hotel, and visitors can walk through its lobby.",
+            "vi": "Nó vẫn là khách sạn đang hoạt động, và khách tham quan có thể đi qua sảnh."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "It is still a working hotel, and visitors can walk through its lobby.",
+          "text_translation": "Nó vẫn là khách sạn đang hoạt động, và khách tham quan có thể đi qua sảnh."
+        }
+      ],
+      "evidence_segments": [
+        12,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Today, the Del is still a working hotel\" và \"Visitors who are not staying there are welcome to walk through the main lobby\"."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is TRUE about the hotel today?",
+      "question_vn": "Điều nào ĐÚNG về khách sạn ngày nay?",
+      "explanation": "\"Today, the Del is still a working hotel\" và \"Visitors who are not staying there are welcome to walk through the main lobby\"."
+    },
+    {
+      "id": "q_u3132_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u3132_02",
+      "i18n": {
+        "en": "Use both texts. What do the stories of Cape Town and the Del have in common?",
+        "vi": "Dựa vào cả hai bài. Câu chuyện Cape Town và the Del có điểm gì chung?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both of them are about hotels that were built by the sea in the 1880s.",
+            "vi": "Cả hai đều về những khách sạn xây bên biển vào thập niên 1880."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both of them are about hotels that were built by the sea in the 1880s.",
+          "text_translation": "Cả hai đều về những khách sạn xây bên biển vào thập niên 1880."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Something valuable was saved because people acted before it was too late.",
+            "vi": "Một thứ quý giá đã được cứu vì con người hành động trước khi quá muộn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Something valuable was saved because people acted before it was too late.",
+          "text_translation": "Một thứ quý giá đã được cứu vì con người hành động trước khi quá muộn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both of them happened in 1888, in the middle of a hot summer.",
+            "vi": "Cả hai đều xảy ra năm 1888, giữa một mùa hè nóng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Both of them happened in 1888, in the middle of a hot summer.",
+          "text_translation": "Cả hai đều xảy ra năm 1888, giữa một mùa hè nóng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Both of them were caused by rain that fell for three years in a row.",
+            "vi": "Cả hai đều do mưa rơi ba năm liền gây ra."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Both of them were caused by rain that fell for three years in a row.",
+          "text_translation": "Cả hai đều do mưa rơi ba năm liền gây ra."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. The Del có nguy cơ bị phá, nhưng \"it was bought by new owners who invested in repairs\". Cape Town cũng tránh được Ngày số 0 nhờ cư dân thay đổi thói quen."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do the stories of Cape Town and the Del have in common?",
+      "question_vn": "Dựa vào cả hai bài. Câu chuyện Cape Town và the Del có điểm gì chung?",
+      "explanation": "Câu nối hai bài. The Del có nguy cơ bị phá, nhưng \"it was bought by new owners who invested in repairs\". Cape Town cũng tránh được Ngày số 0 nhờ cư dân thay đổi thói quen."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u3132_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 31) — Thành phố suýt cạn nước: \"Ngày số 0\" ở Cape Town",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u3132_01",
+      "question_ids": [
+        "q_u3132_001",
+        "q_u3132_002",
+        "q_u3132_003",
+        "q_u3132_004",
+        "q_u3132_005",
+        "q_u3132_006",
+        "q_u3132_007",
+        "q_u3132_008",
+        "q_u3132_009",
+        "q_u3132_010"
+      ]
+    },
+    {
+      "set_id": "set_u3132_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 32) — Lịch sử khách sạn Hotel del Coronado",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u3132_02",
+      "question_ids": [
+        "q_u3132_011",
+        "q_u3132_012",
+        "q_u3132_013",
+        "q_u3132_014",
+        "q_u3132_015",
+        "q_u3132_016",
+        "q_u3132_017",
+        "q_u3132_018",
+        "q_u3132_019",
+        "q_u3132_020"
+      ]
+    }
+  ]
+}

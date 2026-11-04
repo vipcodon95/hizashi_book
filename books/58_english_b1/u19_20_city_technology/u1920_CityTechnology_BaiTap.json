@@ -1,0 +1,2014 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 19–20 — City and country & Technology",
+      "vi": "Thành thị, nông thôn & Công nghệ"
+    },
+    "title": "Units 19–20 — City and country & Technology",
+    "title_vn": "Thành thị, nông thôn & Công nghệ",
+    "module_code": "58_u1920",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u19+u20",
+    "curriculum_sheets": [
+      "b1.073",
+      "b1.074",
+      "b1.075",
+      "b1.076",
+      "b1.077",
+      "b1.078",
+      "b1.079",
+      "b1.080"
+    ],
+    "characters": [
+      "Helena Brooks",
+      "Nathan Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 4, năm 5"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "So sánh, danh từ + giới từ, bị động với người làm chủ ngữ",
+    "description_vn": "Bản tin khu phố phỏng vấn Helena về cây cầu mới ở một thị trấn nhỏ và bài báo về AI trong đời sống hằng ngày (có lời Nathan). 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 19 + Unit 20 khoá B1 · phiếu `b1.073` – `b1.080` (thành phố lớn dần, cải thiện, vấn đề đô thị, đời sống làng quê; đường link và tệp đính kèm, thiết bị và ứng dụng, sự cố công nghệ, tương lai công nghệ)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài phỏng vấn và một bài báo công nghệ; hiểu so sánh hơn + and + so sánh hơn (more and more), far / much + so sánh hơn, danh từ + giới từ (solution to, reason for), bị động với người làm chủ ngữ (I was given…), và nhận ra câu trả lời của từng người trong bài phỏng vấn."
+    },
+    "extra_words": [
+      {
+        "word": "project",
+        "i18n": {
+          "vi": "dự án, công trình"
+        }
+      },
+      {
+        "word": "engineer",
+        "i18n": {
+          "vi": "kỹ sư"
+        }
+      },
+      {
+        "word": "ton",
+        "i18n": {
+          "vi": "tấn"
+        }
+      },
+      {
+        "word": "peach",
+        "i18n": {
+          "vi": "quả đào"
+        }
+      },
+      {
+        "word": "artificial intelligence",
+        "i18n": {
+          "vi": "trí tuệ nhân tạo"
+        }
+      },
+      {
+        "word": "spam",
+        "i18n": {
+          "vi": "thư rác"
+        }
+      },
+      {
+        "word": "pattern",
+        "i18n": {
+          "vi": "quy luật, khuôn mẫu"
+        }
+      },
+      {
+        "word": "password",
+        "i18n": {
+          "vi": "mật khẩu"
+        }
+      },
+      {
+        "word": "expert",
+        "i18n": {
+          "vi": "chuyên gia"
+        }
+      },
+      {
+        "word": "advantage",
+        "i18n": {
+          "vi": "lợi thế"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "more and more",
+          "vi": "ngày càng nhiều"
+        }
+      },
+      {
+        "i18n": {
+          "en": "move away from the city",
+          "vi": "rời thành phố"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a solution to the problem",
+          "vi": "cách giải quyết vấn đề"
+        }
+      },
+      {
+        "i18n": {
+          "en": "pull down",
+          "vi": "dỡ bỏ, phá đi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take over",
+          "vi": "thay thế, giành lấy (việc)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "rather than",
+          "vi": "thay vì, chứ không phải"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Bài phỏng vấn: câu hỏi của phóng viên chia bài thành từng phần. Dò câu hỏi trước để tìm nhanh đoạn chứa đáp án."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`far / much + so sánh hơn` nhấn mạnh mức chênh lệch. `far bigger … but … much more to me` = lớn hơn nhiều nhưng ý nghĩa hơn hẳn."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`I was given…` / `you are given…` = được trao, được đưa. Người nhận đứng làm chủ ngữ."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu nối hai bài về một nhân vật: gom thông tin về người đó ở cả hai bài, rồi loại phương án gán nhầm việc của người khác."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u1920_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 19) — Phỏng vấn Helena về cây cầu mới"
+      },
+      "narrator": "announcer",
+      "title": "A New Bridge for Valley Springs",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A New Bridge for Valley Springs",
+            "vi": "Cây cầu mới cho Valley Springs"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Neighborhood News reporter Corinne Whitfield talked to Helena Brooks, the engineer who led the project.",
+            "vi": "Phóng viên Corinne Whitfield của bản tin khu phố trò chuyện với Helena Brooks, kỹ sư phụ trách dự án."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Corinne",
+          "label": null,
+          "i18n": {
+            "en": "Helena, why did Valley Springs need a new bridge?",
+            "vi": "Chị Helena, vì sao Valley Springs cần một cây cầu mới?"
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Helena",
+          "label": null,
+          "i18n": {
+            "en": "The old one was built in the 1950s, when the town was much smaller.",
+            "vi": "Cây cầu cũ được xây từ những năm 1950, khi thị trấn còn nhỏ hơn nhiều."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Helena",
+          "label": null,
+          "i18n": {
+            "en": "It was made of wood, and trucks heavier than ten tons weren't allowed on it, so farmers had to drive twenty-five miles around the hills to take their crops to market.",
+            "vi": "Nó làm bằng gỗ, xe tải nặng hơn mười tấn không được đi qua, nên nông dân phải lái vòng qua đồi hai mươi lăm dặm để chở nông sản ra chợ."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Helena",
+          "label": null,
+          "i18n": {
+            "en": "And the town is growing. More and more young families are moving away from the city, because houses are cheaper and many people can work from home now.",
+            "vi": "Mà thị trấn đang lớn dần. Ngày càng nhiều gia đình trẻ rời thành phố về đây, vì nhà rẻ hơn và giờ nhiều người làm việc ở nhà được."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Corinne",
+          "label": null,
+          "i18n": {
+            "en": "What was the hardest part?",
+            "vi": "Phần khó nhất là gì?"
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Helena",
+          "label": null,
+          "i18n": {
+            "en": "Time. We had to start in the fall, which is the busiest season for farmers, and we couldn't close the road, because the whole town depends on it.",
+            "vi": "Thời gian. Chúng tôi phải khởi công vào mùa thu, mùa bận nhất của nông dân, mà lại không thể đóng đường, vì cả thị trấn trông vào nó."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Helena",
+          "label": null,
+          "i18n": {
+            "en": "Our solution to the problem was to build the new bridge right next to the old one, so the old one stayed open until the new one was ready.",
+            "vi": "Cách giải quyết của chúng tôi là xây cầu mới ngay cạnh cầu cũ, để cầu cũ vẫn mở cho tới khi cầu mới xong."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Helena",
+          "label": null,
+          "i18n": {
+            "en": "Then we pulled the old bridge down in just two weeks.",
+            "vi": "Sau đó chúng tôi dỡ cầu cũ chỉ trong hai tuần."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Corinne",
+          "label": null,
+          "i18n": {
+            "en": "How long did it take, and how did local people feel?",
+            "vi": "Công trình mất bao lâu, và người dân ở đó cảm thấy thế nào?"
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Helena",
+          "label": null,
+          "i18n": {
+            "en": "Fourteen months. At first, some people were worried about the noise and the traffic jams, and I understood their reason for complaining.",
+            "vi": "Mười bốn tháng. Lúc đầu, có người lo về tiếng ồn và tắc đường, và tôi hiểu lý do họ phàn nàn."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Helena",
+          "label": null,
+          "i18n": {
+            "en": "But they were also incredibly kind. Every Friday, a farmer called Mr. Hollis brought my team a box of ripe peaches.",
+            "vi": "Nhưng họ cũng tốt bụng vô cùng. Thứ Sáu nào cũng có một bác nông dân tên Hollis mang cho đội tôi một thùng đào chín."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Helena",
+          "label": null,
+          "i18n": {
+            "en": "On opening day, the children rode their bikes across first, and then Mr. Hollis drove his herd of cattle over after them. The whole town laughed.",
+            "vi": "Ngày khánh thành, bọn trẻ đạp xe qua cầu trước, rồi bác Hollis lùa cả đàn bò qua theo sau. Cả thị trấn cười vang."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Corinne",
+          "label": null,
+          "i18n": {
+            "en": "You usually work on projects in San Diego. Which do you prefer?",
+            "vi": "Chị thường làm các dự án ở San Diego. Chị thích loại nào hơn?"
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Helena",
+          "label": null,
+          "i18n": {
+            "en": "City projects are far bigger and more famous, but this one meant much more to me, because I could see how it changed people's lives.",
+            "vi": "Dự án thành phố lớn hơn và nổi tiếng hơn nhiều, nhưng dự án này có ý nghĩa với tôi hơn hẳn, vì tôi tận mắt thấy nó thay đổi cuộc sống của mọi người ra sao."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Helena",
+          "label": null,
+          "i18n": {
+            "en": "I'd love to live in a small town like that one day. My husband, Nathan, isn't so sure. He says he would only move if the internet there were faster!",
+            "vi": "Tôi rất muốn một ngày nào đó được sống ở một thị trấn nhỏ như thế. Chồng tôi, Nathan, thì chưa chắc. Anh ấy bảo chỉ chuyển về nếu mạng ở đó nhanh hơn!"
+          }
+        }
+      ],
+      "content_ja": "A New Bridge for Valley Springs\n\nNeighborhood News reporter Corinne Whitfield talked to Helena Brooks, the engineer who led the project.\n\nCorinne: Helena, why did Valley Springs need a new bridge?\n\nHelena: The old one was built in the 1950s, when the town was much smaller. It was made of wood, and trucks heavier than ten tons weren't allowed on it, so farmers had to drive twenty-five miles around the hills to take their crops to market. And the town is growing. More and more young families are moving away from the city, because houses are cheaper and many people can work from home now.\n\nCorinne: What was the hardest part?\n\nHelena: Time. We had to start in the fall, which is the busiest season for farmers, and we couldn't close the road, because the whole town depends on it. Our solution to the problem was to build the new bridge right next to the old one, so the old one stayed open until the new one was ready. Then we pulled the old bridge down in just two weeks.\n\nCorinne: How long did it take, and how did local people feel?\n\nHelena: Fourteen months. At first, some people were worried about the noise and the traffic jams, and I understood their reason for complaining. But they were also incredibly kind. Every Friday, a farmer called Mr. Hollis brought my team a box of ripe peaches. On opening day, the children rode their bikes across first, and then Mr. Hollis drove his herd of cattle over after them. The whole town laughed.\n\nCorinne: You usually work on projects in San Diego. Which do you prefer?\n\nHelena: City projects are far bigger and more famous, but this one meant much more to me, because I could see how it changed people's lives. I'd love to live in a small town like that one day. My husband, Nathan, isn't so sure. He says he would only move if the internet there were faster!",
+      "translation_vn": "(1) Cây cầu mới cho Valley Springs\n(2) Phóng viên Corinne Whitfield của bản tin khu phố trò chuyện với Helena Brooks, kỹ sư phụ trách dự án.\n(3) Corinne: Chị Helena, vì sao Valley Springs cần một cây cầu mới?\n(4) Helena: Cây cầu cũ được xây từ những năm 1950, khi thị trấn còn nhỏ hơn nhiều.\n(5) Helena: Nó làm bằng gỗ, xe tải nặng hơn mười tấn không được đi qua, nên nông dân phải lái vòng qua đồi hai mươi lăm dặm để chở nông sản ra chợ.\n(6) Helena: Mà thị trấn đang lớn dần. Ngày càng nhiều gia đình trẻ rời thành phố về đây, vì nhà rẻ hơn và giờ nhiều người làm việc ở nhà được.\n(7) Corinne: Phần khó nhất là gì?\n(8) Helena: Thời gian. Chúng tôi phải khởi công vào mùa thu, mùa bận nhất của nông dân, mà lại không thể đóng đường, vì cả thị trấn trông vào nó.\n(9) Helena: Cách giải quyết của chúng tôi là xây cầu mới ngay cạnh cầu cũ, để cầu cũ vẫn mở cho tới khi cầu mới xong.\n(10) Helena: Sau đó chúng tôi dỡ cầu cũ chỉ trong hai tuần.\n(11) Corinne: Công trình mất bao lâu, và người dân ở đó cảm thấy thế nào?\n(12) Helena: Mười bốn tháng. Lúc đầu, có người lo về tiếng ồn và tắc đường, và tôi hiểu lý do họ phàn nàn.\n(13) Helena: Nhưng họ cũng tốt bụng vô cùng. Thứ Sáu nào cũng có một bác nông dân tên Hollis mang cho đội tôi một thùng đào chín.\n(14) Helena: Ngày khánh thành, bọn trẻ đạp xe qua cầu trước, rồi bác Hollis lùa cả đàn bò qua theo sau. Cả thị trấn cười vang.\n(15) Corinne: Chị thường làm các dự án ở San Diego. Chị thích loại nào hơn?\n(16) Helena: Dự án thành phố lớn hơn và nổi tiếng hơn nhiều, nhưng dự án này có ý nghĩa với tôi hơn hẳn, vì tôi tận mắt thấy nó thay đổi cuộc sống của mọi người ra sao.\n(17) Helena: Tôi rất muốn một ngày nào đó được sống ở một thị trấn nhỏ như thế. Chồng tôi, Nathan, thì chưa chắc. Anh ấy bảo chỉ chuyển về nếu mạng ở đó nhanh hơn!",
+      "word_count": 324,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.073",
+        "b1.074",
+        "b1.075",
+        "b1.076"
+      ]
+    },
+    {
+      "id": "passage_u1920_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 20) — AI trong đời sống hằng ngày"
+      },
+      "narrator": "announcer",
+      "title": "AI in Everyday Life: A Useful Helper, Not a Perfect One",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "AI in Everyday Life: A Useful Helper, Not a Perfect One",
+            "vi": "AI trong đời sống hằng ngày: một trợ thủ đắc lực, nhưng không hoàn hảo"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You probably use artificial intelligence, or AI, many times a day without thinking about it.",
+            "vi": "Có lẽ ngày nào bạn cũng dùng trí tuệ nhân tạo, hay AI, rất nhiều lần mà không để ý."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When a map app warns you about a traffic jam, when spam is removed from your email, or when your phone makes a dark photo brighter, AI is doing the work.",
+            "vi": "Khi ứng dụng bản đồ báo trước chỗ tắc đường, khi thư rác bị lọc khỏi hộp thư, hay khi điện thoại làm sáng một bức ảnh tối, đó là AI đang làm việc."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In the last few years, there has also been a big breakthrough: AI chat tools that can answer questions, write emails and even generate pictures in seconds.",
+            "vi": "Vài năm gần đây còn có một bước đột phá lớn: các công cụ trò chuyện AI có thể trả lời câu hỏi, viết email, thậm chí tạo ra hình ảnh chỉ trong vài giây."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "How do these tools work?",
+            "vi": "Những công cụ này hoạt động thế nào?"
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They are trained on huge amounts of text, pictures and other information, and they learn patterns from it.",
+            "vi": "Chúng được huấn luyện bằng một lượng khổng lồ chữ viết, hình ảnh và các thông tin khác, rồi học ra quy luật từ đó."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They do not think like people, but they are very good at guessing what usually comes next.",
+            "vi": "Chúng không suy nghĩ như con người, nhưng rất giỏi đoán điều gì thường đến tiếp theo."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "That is why they are so handy, and also why they sometimes make mistakes.",
+            "vi": "Đó là lý do chúng rất tiện, và cũng là lý do đôi khi chúng mắc lỗi."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "An AI tool can give you an answer that sounds completely sure and is completely wrong.",
+            "vi": "Một công cụ AI có thể đưa ra câu trả lời nghe chắc nịch mà lại sai hoàn toàn."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Nathan Brooks, a software engineer in San Diego, uses AI tools at work every day.",
+            "vi": "Nathan Brooks, kỹ sư phần mềm ở San Diego, ngày nào cũng dùng công cụ AI trong công việc."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"I was given a great tool, not a perfect one,\" he says.",
+            "vi": "\"Tôi được trao một công cụ tuyệt vời, chứ không phải một công cụ hoàn hảo,\" anh nói."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"It saves me hours, but I still check everything, especially numbers, dates and facts that matter.\"",
+            "vi": "\"Nó giúp tôi tiết kiệm hàng giờ, nhưng tôi vẫn kiểm tra lại mọi thứ, nhất là con số, ngày tháng và những dữ kiện quan trọng.\""
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There are other questions too.",
+            "vi": "Còn những câu hỏi khác nữa."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Before you upload a photo or a document, think about who might see it, and never type passwords or bank details into a chat tool.",
+            "vi": "Trước khi tải lên một bức ảnh hay tài liệu, hãy nghĩ xem ai có thể nhìn thấy nó, và đừng bao giờ gõ mật khẩu hay thông tin ngân hàng vào công cụ trò chuyện."
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many people also wonder if AI will take over their jobs.",
+            "vi": "Nhiều người cũng băn khoăn liệu AI có thay họ làm hết việc không."
+          }
+        },
+        {
+          "n": 16,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Experts do not agree, but many think that AI will change a lot of jobs rather than simply remove them, and that people who know how to use it well will have an advantage.",
+            "vi": "Giới chuyên gia chưa thống nhất, nhưng nhiều người cho rằng AI sẽ thay đổi nhiều công việc chứ không đơn giản là xoá bỏ chúng, và ai biết dùng nó giỏi sẽ có lợi thế."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For students, the advice is simple: use AI to explain a difficult idea or to check your writing, but do your own thinking first.",
+            "vi": "Với học sinh, lời khuyên rất đơn giản: hãy dùng AI để giải thích một ý khó hay soát bài viết, nhưng hãy tự suy nghĩ trước đã."
+          }
+        },
+        {
+          "n": 18,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If a tool does your homework for you, you are given the answer but not the skill.",
+            "vi": "Nếu để công cụ làm bài tập hộ, bạn được đưa đáp án nhưng không có được kỹ năng."
+          }
+        }
+      ],
+      "content_ja": "AI in Everyday Life: A Useful Helper, Not a Perfect One\n\nYou probably use artificial intelligence, or AI, many times a day without thinking about it. When a map app warns you about a traffic jam, when spam is removed from your email, or when your phone makes a dark photo brighter, AI is doing the work. In the last few years, there has also been a big breakthrough: AI chat tools that can answer questions, write emails and even generate pictures in seconds.\n\nHow do these tools work? They are trained on huge amounts of text, pictures and other information, and they learn patterns from it. They do not think like people, but they are very good at guessing what usually comes next. That is why they are so handy, and also why they sometimes make mistakes.\n\nAn AI tool can give you an answer that sounds completely sure and is completely wrong. Nathan Brooks, a software engineer in San Diego, uses AI tools at work every day. \"I was given a great tool, not a perfect one,\" he says. \"It saves me hours, but I still check everything, especially numbers, dates and facts that matter.\"\n\nThere are other questions too. Before you upload a photo or a document, think about who might see it, and never type passwords or bank details into a chat tool. Many people also wonder if AI will take over their jobs. Experts do not agree, but many think that AI will change a lot of jobs rather than simply remove them, and that people who know how to use it well will have an advantage.\n\nFor students, the advice is simple: use AI to explain a difficult idea or to check your writing, but do your own thinking first. If a tool does your homework for you, you are given the answer but not the skill.",
+      "translation_vn": "(1) AI trong đời sống hằng ngày: một trợ thủ đắc lực, nhưng không hoàn hảo\n(2) Có lẽ ngày nào bạn cũng dùng trí tuệ nhân tạo, hay AI, rất nhiều lần mà không để ý.\n(3) Khi ứng dụng bản đồ báo trước chỗ tắc đường, khi thư rác bị lọc khỏi hộp thư, hay khi điện thoại làm sáng một bức ảnh tối, đó là AI đang làm việc.\n(4) Vài năm gần đây còn có một bước đột phá lớn: các công cụ trò chuyện AI có thể trả lời câu hỏi, viết email, thậm chí tạo ra hình ảnh chỉ trong vài giây.\n(5) Những công cụ này hoạt động thế nào?\n(6) Chúng được huấn luyện bằng một lượng khổng lồ chữ viết, hình ảnh và các thông tin khác, rồi học ra quy luật từ đó.\n(7) Chúng không suy nghĩ như con người, nhưng rất giỏi đoán điều gì thường đến tiếp theo.\n(8) Đó là lý do chúng rất tiện, và cũng là lý do đôi khi chúng mắc lỗi.\n(9) Một công cụ AI có thể đưa ra câu trả lời nghe chắc nịch mà lại sai hoàn toàn.\n(10) Nathan Brooks, kỹ sư phần mềm ở San Diego, ngày nào cũng dùng công cụ AI trong công việc.\n(11) \"Tôi được trao một công cụ tuyệt vời, chứ không phải một công cụ hoàn hảo,\" anh nói.\n(12) \"Nó giúp tôi tiết kiệm hàng giờ, nhưng tôi vẫn kiểm tra lại mọi thứ, nhất là con số, ngày tháng và những dữ kiện quan trọng.\"\n(13) Còn những câu hỏi khác nữa.\n(14) Trước khi tải lên một bức ảnh hay tài liệu, hãy nghĩ xem ai có thể nhìn thấy nó, và đừng bao giờ gõ mật khẩu hay thông tin ngân hàng vào công cụ trò chuyện.\n(15) Nhiều người cũng băn khoăn liệu AI có thay họ làm hết việc không.\n(16) Giới chuyên gia chưa thống nhất, nhưng nhiều người cho rằng AI sẽ thay đổi nhiều công việc chứ không đơn giản là xoá bỏ chúng, và ai biết dùng nó giỏi sẽ có lợi thế.\n(17) Với học sinh, lời khuyên rất đơn giản: hãy dùng AI để giải thích một ý khó hay soát bài viết, nhưng hãy tự suy nghĩ trước đã.\n(18) Nếu để công cụ làm bài tập hộ, bạn được đưa đáp án nhưng không có được kỹ năng.",
+      "word_count": 313,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.077",
+        "b1.078",
+        "b1.079",
+        "b1.080"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u1920_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "What is the main purpose of the interview?",
+        "vi": "Mục đích chính của bài phỏng vấn là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to explain how farmers can drive their cattle across a wooden bridge",
+            "vi": "để giải thích cách nông dân lùa gia súc qua một cây cầu gỗ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to explain how farmers can drive their cattle across a wooden bridge",
+          "text_translation": "để giải thích cách nông dân lùa gia súc qua một cây cầu gỗ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to tell about Helena's bridge project and what it meant to the town",
+            "vi": "để kể về dự án cây cầu của Helena và ý nghĩa của nó với thị trấn"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to tell about Helena's bridge project and what it meant to the town",
+          "text_translation": "để kể về dự án cây cầu của Helena và ý nghĩa của nó với thị trấn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to sell new houses in Valley Springs to young families",
+            "vi": "để bán nhà mới ở Valley Springs cho các gia đình trẻ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to sell new houses in Valley Springs to young families",
+          "text_translation": "để bán nhà mới ở Valley Springs cho các gia đình trẻ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to compare internet speeds in different towns of the valley",
+            "vi": "để so sánh tốc độ internet ở các thị trấn trong thung lũng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to compare internet speeds in different towns of the valley",
+          "text_translation": "để so sánh tốc độ internet ở các thị trấn trong thung lũng"
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"Corinne Whitfield talked to Helena Brooks, the engineer who led the project.\" Các câu hỏi đi qua lý do xây cầu, khó khăn, cảm nhận của người dân và của Helena."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of the interview?",
+      "question_vn": "Mục đích chính của bài phỏng vấn là gì?",
+      "explanation": "\"Corinne Whitfield talked to Helena Brooks, the engineer who led the project.\" Các câu hỏi đi qua lý do xây cầu, khó khăn, cảm nhận của người dân và của Helena."
+    },
+    {
+      "id": "q_u1920_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "Why did farmers have to drive twenty-five miles around the hills?",
+        "vi": "Vì sao nông dân phải lái vòng qua đồi hai mươi lăm dặm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The market had moved to another town in the valley.",
+            "vi": "Chợ đã chuyển sang một thị trấn khác trong thung lũng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The market had moved to another town in the valley.",
+          "text_translation": "Chợ đã chuyển sang một thị trấn khác trong thung lũng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The road to the bridge was closed every fall for repairs.",
+            "vi": "Đường tới cầu bị đóng mỗi mùa thu để sửa chữa."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The road to the bridge was closed every fall for repairs.",
+          "text_translation": "Đường tới cầu bị đóng mỗi mùa thu để sửa chữa."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Heavy trucks weren't allowed on the old wooden bridge.",
+            "vi": "Vì xe tải nặng không được đi qua cây cầu gỗ cũ."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Heavy trucks weren't allowed on the old wooden bridge.",
+          "text_translation": "Vì xe tải nặng không được đi qua cây cầu gỗ cũ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They wanted to avoid the traffic jams in the city center.",
+            "vi": "Họ muốn tránh kẹt xe ở trung tâm thành phố."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They wanted to avoid the traffic jams in the city center.",
+          "text_translation": "Họ muốn tránh kẹt xe ở trung tâm thành phố."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"It was made of wood, and trucks heavier than ten tons weren't allowed on it, so farmers had to drive twenty-five miles around the hills\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why did farmers have to drive twenty-five miles around the hills?",
+      "question_vn": "Vì sao nông dân phải lái vòng qua đồi hai mươi lăm dặm?",
+      "explanation": "\"It was made of wood, and trucks heavier than ten tons weren't allowed on it, so farmers had to drive twenty-five miles around the hills\"."
+    },
+    {
+      "id": "q_u1920_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "Why are young families moving to Valley Springs?",
+        "vi": "Vì sao các gia đình trẻ chuyển về Valley Springs?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Houses are cheaper, and many people can work from home.",
+            "vi": "Nhà cửa rẻ hơn, và nhiều người có thể làm việc tại nhà."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Houses are cheaper, and many people can work from home.",
+          "text_translation": "Nhà cửa rẻ hơn, và nhiều người có thể làm việc tại nhà."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The schools are newer and bigger than the ones in the city.",
+            "vi": "Các trường mới và lớn hơn các trường trong thành phố."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The schools are newer and bigger than the ones in the city.",
+          "text_translation": "Các trường mới và lớn hơn các trường trong thành phố."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "There are many more jobs on the farms near the town.",
+            "vi": "Có nhiều việc làm hơn ở các nông trại gần thị trấn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "There are many more jobs on the farms near the town.",
+          "text_translation": "Có nhiều việc làm hơn ở các nông trại gần thị trấn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The internet there is much faster than in the city.",
+            "vi": "Internet ở đó nhanh hơn nhiều so với trong thành phố."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The internet there is much faster than in the city.",
+          "text_translation": "Internet ở đó nhanh hơn nhiều so với trong thành phố."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"More and more young families are moving away from the city, because houses are cheaper and many people can work from home now.\" Còn mạng thì Nathan chê là chậm."
+      },
+      "audio_data": null,
+      "question_jp": "Why are young families moving to Valley Springs?",
+      "question_vn": "Vì sao các gia đình trẻ chuyển về Valley Springs?",
+      "explanation": "\"More and more young families are moving away from the city, because houses are cheaper and many people can work from home now.\" Còn mạng thì Nathan chê là chậm."
+    },
+    {
+      "id": "q_u1920_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "In \"More and more young families are moving away from the city\", what does \"more and more\" mean?",
+        "vi": "Trong câu \"More and more young families are moving away from the city\", \"more and more\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a small number that stays the same",
+            "vi": "một con số nhỏ không thay đổi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a small number that stays the same",
+          "text_translation": "một con số nhỏ không thay đổi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "exactly twice as many as before",
+            "vi": "đúng gấp đôi so với trước"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "exactly twice as many as before",
+          "text_translation": "đúng gấp đôi so với trước"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "fewer people than in the past",
+            "vi": "ít người hơn so với trước kia"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "fewer people than in the past",
+          "text_translation": "ít người hơn so với trước kia"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a number that keeps growing",
+            "vi": "một con số cứ tăng dần"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "a number that keeps growing",
+          "text_translation": "một con số cứ tăng dần"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"And the town is growing. More and more young families are moving away from the city\". Cấu trúc so sánh hơn + and + so sánh hơn = ngày càng…, khớp với \"the town is growing\"."
+      },
+      "audio_data": null,
+      "question_jp": "In \"More and more young families are moving away from the city\", what does \"more and more\" mean?",
+      "question_vn": "Trong câu \"More and more young families are moving away from the city\", \"more and more\" nghĩa là gì?",
+      "explanation": "\"And the town is growing. More and more young families are moving away from the city\". Cấu trúc so sánh hơn + and + so sánh hơn = ngày càng…, khớp với \"the town is growing\"."
+    },
+    {
+      "id": "q_u1920_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "Why couldn't the team close the road during the work?",
+        "vi": "Vì sao đội thi công không thể đóng đường trong lúc làm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The old bridge was too strong to pull down without closing the road.",
+            "vi": "Cầu cũ quá chắc nên không thể phá mà không đóng đường."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The old bridge was too strong to pull down without closing the road.",
+          "text_translation": "Cầu cũ quá chắc nên không thể phá mà không đóng đường."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It was the busiest season for farmers, and the town needs the road.",
+            "vi": "Đó là mùa bận nhất của nông dân, và thị trấn cần con đường."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "It was the busiest season for farmers, and the town needs the road.",
+          "text_translation": "Đó là mùa bận nhất của nông dân, và thị trấn cần con đường."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The company did not allow any road to be closed for work.",
+            "vi": "Công ty không cho phép đóng bất kỳ con đường nào để thi công."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The company did not allow any road to be closed for work.",
+          "text_translation": "Công ty không cho phép đóng bất kỳ con đường nào để thi công."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The weather was too bad in the fall for any road work.",
+            "vi": "Thời tiết mùa thu quá xấu nên không làm đường được."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The weather was too bad in the fall for any road work.",
+          "text_translation": "Thời tiết mùa thu quá xấu nên không làm đường được."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"We had to start in the fall, which is the busiest season for farmers, and we couldn't close the road, because the whole town depends on it.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why couldn't the team close the road during the work?",
+      "question_vn": "Vì sao đội thi công không thể đóng đường trong lúc làm?",
+      "explanation": "\"We had to start in the fall, which is the busiest season for farmers, and we couldn't close the road, because the whole town depends on it.\""
+    },
+    {
+      "id": "q_u1920_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "What was the team's solution?",
+        "vi": "Đội thi công đã giải quyết thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They built the new bridge next to the old one, which stayed open.",
+            "vi": "Họ xây cầu mới cạnh cầu cũ, và cầu cũ vẫn mở."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "They built the new bridge next to the old one, which stayed open.",
+          "text_translation": "Họ xây cầu mới cạnh cầu cũ, và cầu cũ vẫn mở."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They built the bridge only at night when the road was empty.",
+            "vi": "Họ chỉ xây cầu vào ban đêm khi đường vắng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They built the bridge only at night when the road was empty.",
+          "text_translation": "Họ chỉ xây cầu vào ban đêm khi đường vắng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They asked the farmers to stay at home during the work.",
+            "vi": "Họ đề nghị nông dân ở nhà trong lúc thi công."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They asked the farmers to stay at home during the work.",
+          "text_translation": "Họ đề nghị nông dân ở nhà trong lúc thi công."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They repaired the old wooden bridge instead of building a new bridge.",
+            "vi": "Họ sửa cây cầu gỗ cũ thay vì xây cầu mới."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They repaired the old wooden bridge instead of building a new bridge.",
+          "text_translation": "Họ sửa cây cầu gỗ cũ thay vì xây cầu mới."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Our solution to the problem was to build the new bridge right next to the old one, so the old one stayed open until the new one was ready.\""
+      },
+      "audio_data": null,
+      "question_jp": "What was the team's solution?",
+      "question_vn": "Đội thi công đã giải quyết thế nào?",
+      "explanation": "\"Our solution to the problem was to build the new bridge right next to the old one, so the old one stayed open until the new one was ready.\""
+    },
+    {
+      "id": "q_u1920_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "What does \"I understood their reason for complaining\" show about Helena?",
+        "vi": "Câu \"tôi hiểu lý do họ phàn nàn\" cho thấy điều gì về Helena?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She was angry with the local people for complaining.",
+            "vi": "Cô giận người dân địa phương vì họ phàn nàn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She was angry with the local people for complaining.",
+          "text_translation": "Cô giận người dân địa phương vì họ phàn nàn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She wanted to stop the project because of the noise.",
+            "vi": "Cô muốn dừng dự án vì tiếng ồn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She wanted to stop the project because of the noise.",
+          "text_translation": "Cô muốn dừng dự án vì tiếng ồn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She was understanding about people's worries.",
+            "vi": "Chị thông cảm với nỗi lo của người dân."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She was understanding about people's worries.",
+          "text_translation": "Chị thông cảm với nỗi lo của người dân."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She did not hear the complaints from the neighbors.",
+            "vi": "Cô không nghe thấy lời phàn nàn của hàng xóm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She did not hear the complaints from the neighbors.",
+          "text_translation": "Cô không nghe thấy lời phàn nàn của hàng xóm."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"some people were worried about the noise and the traffic jams, and I understood their reason for complaining.\" Chị không trách mà hiểu cho họ."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"I understood their reason for complaining\" show about Helena?",
+      "question_vn": "Câu \"tôi hiểu lý do họ phàn nàn\" cho thấy điều gì về Helena?",
+      "explanation": "Câu suy luận. \"some people were worried about the noise and the traffic jams, and I understood their reason for complaining.\" Chị không trách mà hiểu cho họ."
+    },
+    {
+      "id": "q_u1920_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "What did Mr. Hollis do every Friday?",
+        "vi": "Thứ Sáu nào bác Hollis cũng làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He drove his cattle across the bridge on opening day.",
+            "vi": "Ông lùa gia súc qua cầu vào ngày khai trương."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He drove his cattle across the bridge on opening day.",
+          "text_translation": "Ông lùa gia súc qua cầu vào ngày khai trương."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He complained about the noise and the traffic jams.",
+            "vi": "Ông phàn nàn về tiếng ồn và kẹt xe."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He complained about the noise and the traffic jams.",
+          "text_translation": "Ông phàn nàn về tiếng ồn và kẹt xe."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He helped build the bridge with the team.",
+            "vi": "Ông giúp cả đội xây cầu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He helped build the bridge with the team.",
+          "text_translation": "Ông giúp cả đội xây cầu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He brought the team a box of ripe peaches.",
+            "vi": "Mang cho đội một thùng đào chín."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "He brought the team a box of ripe peaches.",
+          "text_translation": "Mang cho đội một thùng đào chín."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Every Friday, a farmer called Mr. Hollis brought my team a box of ripe peaches.\" Lùa bò qua cầu là chuyện ngày khánh thành."
+      },
+      "audio_data": null,
+      "question_jp": "What did Mr. Hollis do every Friday?",
+      "question_vn": "Thứ Sáu nào bác Hollis cũng làm gì?",
+      "explanation": "\"Every Friday, a farmer called Mr. Hollis brought my team a box of ripe peaches.\" Lùa bò qua cầu là chuyện ngày khánh thành."
+    },
+    {
+      "id": "q_u1920_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "What does Helena mean when she says \"this one meant much more to me\"?",
+        "vi": "Helena muốn nói gì qua câu \"dự án này có ý nghĩa với tôi hơn hẳn\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It was smaller, but it was more important to her personally.",
+            "vi": "Nó nhỏ hơn, nhưng quan trọng hơn với cá nhân cô."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It was smaller, but it was more important to her personally.",
+          "text_translation": "Nó nhỏ hơn, nhưng quan trọng hơn với cá nhân cô."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The project paid her much more money than city ones.",
+            "vi": "Dự án trả cô nhiều tiền hơn hẳn các dự án ở thành phố."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The project paid her much more money than city ones.",
+          "text_translation": "Dự án trả cô nhiều tiền hơn hẳn các dự án ở thành phố."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The project was bigger and more famous than her city projects.",
+            "vi": "Dự án lớn và nổi tiếng hơn các dự án thành phố của cô."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The project was bigger and more famous than her city projects.",
+          "text_translation": "Dự án lớn và nổi tiếng hơn các dự án thành phố của cô."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She did not like city projects at all, only small towns.",
+            "vi": "Cô hoàn toàn không thích dự án thành phố, chỉ thích thị trấn nhỏ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She did not like city projects at all, only small towns.",
+          "text_translation": "Cô hoàn toàn không thích dự án thành phố, chỉ thích thị trấn nhỏ."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"City projects are far bigger and more famous, but this one meant much more to me, because I could see how it changed people's lives.\" Chữ far bigger nói dự án thành phố lớn hơn; chữ much more nói ý nghĩa với bản thân chị."
+      },
+      "audio_data": null,
+      "question_jp": "What does Helena mean when she says \"this one meant much more to me\"?",
+      "question_vn": "Helena muốn nói gì qua câu \"dự án này có ý nghĩa với tôi hơn hẳn\"?",
+      "explanation": "Câu suy luận. \"City projects are far bigger and more famous, but this one meant much more to me, because I could see how it changed people's lives.\" Chữ far bigger nói dự án thành phố lớn hơn; chữ much more nói ý nghĩa với bản thân chị."
+    },
+    {
+      "id": "q_u1920_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_01",
+      "i18n": {
+        "en": "What happened on opening day?",
+        "vi": "Ngày khánh thành đã diễn ra chuyện gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The old bridge was pulled down in front of the whole happy town.",
+            "vi": "Cầu cũ bị phá ngay trước mắt cả thị trấn đang vui mừng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The old bridge was pulled down in front of the whole happy town.",
+          "text_translation": "Cầu cũ bị phá ngay trước mắt cả thị trấn đang vui mừng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Corinne interviewed all the farmers on the new bridge.",
+            "vi": "Corinne phỏng vấn tất cả nông dân trên cây cầu mới."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Corinne interviewed all the farmers on the new bridge.",
+          "text_translation": "Corinne phỏng vấn tất cả nông dân trên cây cầu mới."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Children rode bikes across, and then Mr. Hollis drove his cattle.",
+            "vi": "Bọn trẻ đạp xe qua, rồi ông Hollis lùa đàn gia súc qua."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Children rode bikes across, and then Mr. Hollis drove his cattle.",
+          "text_translation": "Bọn trẻ đạp xe qua, rồi ông Hollis lùa đàn gia súc qua."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Helena moved to Valley Springs with her husband Nathan.",
+            "vi": "Helena chuyển đến Valley Springs cùng chồng là Nathan."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Helena moved to Valley Springs with her husband Nathan.",
+          "text_translation": "Helena chuyển đến Valley Springs cùng chồng là Nathan."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"On opening day, the children rode their bikes across first, and then Mr. Hollis drove his herd of cattle over after them.\""
+      },
+      "audio_data": null,
+      "question_jp": "What happened on opening day?",
+      "question_vn": "Ngày khánh thành đã diễn ra chuyện gì?",
+      "explanation": "\"On opening day, the children rode their bikes across first, and then Mr. Hollis drove his herd of cattle over after them.\""
+    },
+    {
+      "id": "q_u1920_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "What is the main idea of the article?",
+        "vi": "Ý chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "AI will soon do every job, so people should study less.",
+            "vi": "AI sẽ sớm làm mọi công việc nên mọi người nên học ít đi."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "AI will soon do every job, so people should study less.",
+          "text_translation": "AI sẽ sớm làm mọi công việc nên mọi người nên học ít đi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "AI chat tools think just like people and never make mistakes.",
+            "vi": "Công cụ trò chuyện AI nghĩ y như con người và không bao giờ mắc lỗi."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "AI chat tools think just like people and never make mistakes.",
+          "text_translation": "Công cụ trò chuyện AI nghĩ y như con người và không bao giờ mắc lỗi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "People should stop using AI because it is too dangerous.",
+            "vi": "Mọi người nên ngừng dùng AI vì nó quá nguy hiểm."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "People should stop using AI because it is too dangerous.",
+          "text_translation": "Mọi người nên ngừng dùng AI vì nó quá nguy hiểm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "AI is useful in daily life, but it must be used carefully.",
+            "vi": "AI hữu ích trong đời sống hằng ngày, nhưng phải dùng cẩn thận."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "AI is useful in daily life, but it must be used carefully.",
+          "text_translation": "AI hữu ích trong đời sống hằng ngày, nhưng phải dùng cẩn thận."
+        }
+      ],
+      "evidence_segments": [
+        1
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề đã nói ý chính: \"AI in Everyday Life: A Useful Helper, Not a Perfect One\". Bài nêu cái lợi, rồi nêu lỗi sai, chuyện riêng tư, việc làm và lời khuyên cho học sinh."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main idea of the article?",
+      "question_vn": "Ý chính của bài báo là gì?",
+      "explanation": "Tiêu đề đã nói ý chính: \"AI in Everyday Life: A Useful Helper, Not a Perfect One\". Bài nêu cái lợi, rồi nêu lỗi sai, chuyện riêng tư, việc làm và lời khuyên cho học sinh."
+    },
+    {
+      "id": "q_u1920_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "Which of these is given as an example of AI in everyday life?",
+        "vi": "Ví dụ nào được nêu về AI trong đời sống hằng ngày?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a computer keyboard that helps you type faster",
+            "vi": "một bàn phím máy tính giúp bạn gõ nhanh hơn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a computer keyboard that helps you type faster",
+          "text_translation": "một bàn phím máy tính giúp bạn gõ nhanh hơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a map app that warns you about a traffic jam",
+            "vi": "ứng dụng bản đồ báo trước chỗ tắc đường"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a map app that warns you about a traffic jam",
+          "text_translation": "ứng dụng bản đồ báo trước chỗ tắc đường"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a fax machine at the office",
+            "vi": "một chiếc máy fax ở văn phòng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a fax machine at the office",
+          "text_translation": "một chiếc máy fax ở văn phòng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a wristwatch that shows the time",
+            "vi": "một chiếc đồng hồ đeo tay xem giờ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a wristwatch that shows the time",
+          "text_translation": "một chiếc đồng hồ đeo tay xem giờ"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"When a map app warns you about a traffic jam, when spam is removed from your email, or when your phone makes a dark photo brighter, AI is doing the work.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is given as an example of AI in everyday life?",
+      "question_vn": "Ví dụ nào được nêu về AI trong đời sống hằng ngày?",
+      "explanation": "\"When a map app warns you about a traffic jam, when spam is removed from your email, or when your phone makes a dark photo brighter, AI is doing the work.\""
+    },
+    {
+      "id": "q_u1920_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "How do AI chat tools learn?",
+        "vi": "Các công cụ trò chuyện AI học bằng cách nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They think like people and understand every word.",
+            "vi": "Chúng nghĩ như con người và hiểu mọi từ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They think like people and understand every word.",
+          "text_translation": "Chúng nghĩ như con người và hiểu mọi từ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Engineers type every possible answer into them before they are used.",
+            "vi": "Các kỹ sư gõ mọi câu trả lời có thể vào chúng trước khi dùng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Engineers type every possible answer into them before they are used.",
+          "text_translation": "Các kỹ sư gõ mọi câu trả lời có thể vào chúng trước khi dùng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They are trained on huge amounts of information and learn patterns.",
+            "vi": "Chúng được huấn luyện trên lượng thông tin khổng lồ và học các mẫu."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "They are trained on huge amounts of information and learn patterns.",
+          "text_translation": "Chúng được huấn luyện trên lượng thông tin khổng lồ và học các mẫu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They read only one book and copy it every time.",
+            "vi": "Chúng chỉ đọc một cuốn sách và chép lại mỗi lần."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They read only one book and copy it every time.",
+          "text_translation": "Chúng chỉ đọc một cuốn sách và chép lại mỗi lần."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"They are trained on huge amounts of text, pictures and other information, and they learn patterns from it.\" Câu tiếp theo nói rõ: \"They do not think like people\"."
+      },
+      "audio_data": null,
+      "question_jp": "How do AI chat tools learn?",
+      "question_vn": "Các công cụ trò chuyện AI học bằng cách nào?",
+      "explanation": "\"They are trained on huge amounts of text, pictures and other information, and they learn patterns from it.\" Câu tiếp theo nói rõ: \"They do not think like people\"."
+    },
+    {
+      "id": "q_u1920_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "In \"That is why they are so handy\", what does \"handy\" mean?",
+        "vi": "Trong câu \"That is why they are so handy\", \"handy\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "useful and easy to use",
+            "vi": "hữu ích và dễ dùng"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "useful and easy to use",
+          "text_translation": "hữu ích và dễ dùng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "small enough to hold in your hand",
+            "vi": "đủ nhỏ để cầm trong tay"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "small enough to hold in your hand",
+          "text_translation": "đủ nhỏ để cầm trong tay"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "dangerous",
+            "vi": "nguy hiểm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "dangerous",
+          "text_translation": "nguy hiểm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "expensive",
+            "vi": "đắt tiền"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "expensive",
+          "text_translation": "đắt tiền"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"That is why they are so handy, and also why they sometimes make mistakes.\" Vế đầu nói điểm tốt (giỏi đoán, trả lời nhanh), vế sau mới nói điểm yếu, nên handy = tiện lợi."
+      },
+      "audio_data": null,
+      "question_jp": "In \"That is why they are so handy\", what does \"handy\" mean?",
+      "question_vn": "Trong câu \"That is why they are so handy\", \"handy\" nghĩa là gì?",
+      "explanation": "\"That is why they are so handy, and also why they sometimes make mistakes.\" Vế đầu nói điểm tốt (giỏi đoán, trả lời nhanh), vế sau mới nói điểm yếu, nên handy = tiện lợi."
+    },
+    {
+      "id": "q_u1920_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "Why does Nathan still check numbers, dates and facts?",
+        "vi": "Vì sao Nathan vẫn kiểm tra lại con số, ngày tháng và dữ kiện?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "His company asks him to type all of the numbers again.",
+            "vi": "Công ty yêu cầu anh gõ lại tất cả các con số."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "His company asks him to type all of the numbers again.",
+          "text_translation": "Công ty yêu cầu anh gõ lại tất cả các con số."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The tool is too slow to give him the facts.",
+            "vi": "Công cụ quá chậm nên không cho anh các thông tin."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The tool is too slow to give him the facts.",
+          "text_translation": "Công cụ quá chậm nên không cho anh các thông tin."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He does not like technology and prefers to do it by hand.",
+            "vi": "Anh không thích công nghệ và thích làm bằng tay."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He does not like technology and prefers to do it by hand.",
+          "text_translation": "Anh không thích công nghệ và thích làm bằng tay."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "An AI tool can sound sure and still be wrong.",
+            "vi": "Một công cụ AI có thể nghe rất chắc chắn mà vẫn sai."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "An AI tool can sound sure and still be wrong.",
+          "text_translation": "Một công cụ AI có thể nghe rất chắc chắn mà vẫn sai."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"An AI tool can give you an answer that sounds completely sure and is completely wrong.\" Đây là lý do Nathan \"still check everything\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Nathan still check numbers, dates and facts?",
+      "question_vn": "Vì sao Nathan vẫn kiểm tra lại con số, ngày tháng và dữ kiện?",
+      "explanation": "\"An AI tool can give you an answer that sounds completely sure and is completely wrong.\" Đây là lý do Nathan \"still check everything\"."
+    },
+    {
+      "id": "q_u1920_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "What does Nathan mean by \"I was given a great tool, not a perfect one\"?",
+        "vi": "Nathan muốn nói gì qua câu \"Tôi được trao một công cụ tuyệt vời, chứ không phải một công cụ hoàn hảo\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He bought the tool himself with his own money.",
+            "vi": "Anh tự mua công cụ đó bằng tiền của mình."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He bought the tool himself with his own money.",
+          "text_translation": "Anh tự mua công cụ đó bằng tiền của mình."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The tool helps him a lot, but it is not always right.",
+            "vi": "Công cụ giúp anh rất nhiều, nhưng không phải lúc nào cũng đúng."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The tool helps him a lot, but it is not always right.",
+          "text_translation": "Công cụ giúp anh rất nhiều, nhưng không phải lúc nào cũng đúng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He wants a different tool that is faster.",
+            "vi": "Anh muốn một công cụ khác nhanh hơn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He wants a different tool that is faster.",
+          "text_translation": "Anh muốn một công cụ khác nhanh hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The tool never makes any mistakes with numbers or dates.",
+            "vi": "Công cụ không bao giờ mắc lỗi về con số hay ngày tháng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The tool never makes any mistakes with numbers or dates.",
+          "text_translation": "Công cụ không bao giờ mắc lỗi về con số hay ngày tháng."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"I was given a great tool, not a perfect one\". Câu sau giải thích: \"It saves me hours, but I still check everything\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does Nathan mean by \"I was given a great tool, not a perfect one\"?",
+      "question_vn": "Nathan muốn nói gì qua câu \"Tôi được trao một công cụ tuyệt vời, chứ không phải một công cụ hoàn hảo\"?",
+      "explanation": "Câu suy luận. \"I was given a great tool, not a perfect one\". Câu sau giải thích: \"It saves me hours, but I still check everything\"."
+    },
+    {
+      "id": "q_u1920_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "What does the article say you should never do?",
+        "vi": "Bài báo nói bạn đừng bao giờ làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "type passwords or bank details into a chat tool",
+            "vi": "gõ mật khẩu hay thông tin ngân hàng vào công cụ trò chuyện"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "type passwords or bank details into a chat tool",
+          "text_translation": "gõ mật khẩu hay thông tin ngân hàng vào công cụ trò chuyện"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "use a map app when there is a traffic jam",
+            "vi": "dùng ứng dụng bản đồ khi bị kẹt xe"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "use a map app when there is a traffic jam",
+          "text_translation": "dùng ứng dụng bản đồ khi bị kẹt xe"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "upload a photo or a document to any website at all",
+            "vi": "tải ảnh hay tài liệu lên bất kỳ trang web nào"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "upload a photo or a document to any website at all",
+          "text_translation": "tải ảnh hay tài liệu lên bất kỳ trang web nào"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "ask AI to explain a difficult idea to you",
+            "vi": "nhờ AI giải thích một ý khó cho bạn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "ask AI to explain a difficult idea to you",
+          "text_translation": "nhờ AI giải thích một ý khó cho bạn"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"never type passwords or bank details into a chat tool.\" Với ảnh và tài liệu, bài chỉ khuyên nghĩ kỹ trước khi tải lên, chứ không cấm hẳn."
+      },
+      "audio_data": null,
+      "question_jp": "What does the article say you should never do?",
+      "question_vn": "Bài báo nói bạn đừng bao giờ làm gì?",
+      "explanation": "\"never type passwords or bank details into a chat tool.\" Với ảnh và tài liệu, bài chỉ khuyên nghĩ kỹ trước khi tải lên, chứ không cấm hẳn."
+    },
+    {
+      "id": "q_u1920_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "What do many experts think about AI and jobs?",
+        "vi": "Nhiều chuyên gia nghĩ gì về AI và việc làm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "AI will remove almost every job in the world very soon.",
+            "vi": "AI sẽ sớm xoá gần như mọi việc làm trên thế giới."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "AI will remove almost every job in the world very soon.",
+          "text_translation": "AI sẽ sớm xoá gần như mọi việc làm trên thế giới."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "AI will not change any jobs for most people.",
+            "vi": "AI sẽ không thay đổi việc làm nào của hầu hết mọi người."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "AI will not change any jobs for most people.",
+          "text_translation": "AI sẽ không thay đổi việc làm nào của hầu hết mọi người."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "AI will change a lot of jobs rather than just remove them.",
+            "vi": "AI sẽ thay đổi nhiều việc làm hơn là chỉ xoá bỏ chúng."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "AI will change a lot of jobs rather than just remove them.",
+          "text_translation": "AI sẽ thay đổi nhiều việc làm hơn là chỉ xoá bỏ chúng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Only software engineers and experts can use AI well.",
+            "vi": "Chỉ kỹ sư phần mềm và chuyên gia mới dùng AI tốt."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Only software engineers and experts can use AI well.",
+          "text_translation": "Chỉ kỹ sư phần mềm và chuyên gia mới dùng AI tốt."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"Experts do not agree, but many think that AI will change a lot of jobs rather than simply remove them\"."
+      },
+      "audio_data": null,
+      "question_jp": "What do many experts think about AI and jobs?",
+      "question_vn": "Nhiều chuyên gia nghĩ gì về AI và việc làm?",
+      "explanation": "\"Experts do not agree, but many think that AI will change a lot of jobs rather than simply remove them\"."
+    },
+    {
+      "id": "q_u1920_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "What does \"you are given the answer but not the skill\" suggest?",
+        "vi": "Câu \"bạn được đưa đáp án nhưng không có được kỹ năng\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "AI always gives wrong answers to homework questions.",
+            "vi": "AI luôn đưa ra đáp án sai cho bài tập về nhà."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "AI always gives wrong answers to homework questions.",
+          "text_translation": "AI luôn đưa ra đáp án sai cho bài tập về nhà."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Teachers do not want students to use computers.",
+            "vi": "Giáo viên không muốn học sinh dùng máy tính."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Teachers do not want students to use computers.",
+          "text_translation": "Giáo viên không muốn học sinh dùng máy tính."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Homework is not important for learning new skills.",
+            "vi": "Bài tập về nhà không quan trọng để học kỹ năng mới."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Homework is not important for learning new skills.",
+          "text_translation": "Bài tập về nhà không quan trọng để học kỹ năng mới."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "If AI does your homework, you do not really learn.",
+            "vi": "Nếu AI làm bài hộ, bạn không thật sự học được gì."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "If AI does your homework, you do not really learn.",
+          "text_translation": "Nếu AI làm bài hộ, bạn không thật sự học được gì."
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"If a tool does your homework for you, you are given the answer but not the skill.\" Mục đích của bài tập là luyện kỹ năng, không chỉ để có đáp án."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"you are given the answer but not the skill\" suggest?",
+      "question_vn": "Câu \"bạn được đưa đáp án nhưng không có được kỹ năng\" hàm ý gì?",
+      "explanation": "Câu suy luận. \"If a tool does your homework for you, you are given the answer but not the skill.\" Mục đích của bài tập là luyện kỹ năng, không chỉ để có đáp án."
+    },
+    {
+      "id": "q_u1920_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u1920_02",
+      "i18n": {
+        "en": "Use both texts. What do we learn about Nathan Brooks?",
+        "vi": "Dựa vào cả hai bài. Ta biết gì về Nathan Brooks?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He is the engineer who led the bridge project in Valley Springs.",
+            "vi": "Anh là kỹ sư đã dẫn dắt dự án cây cầu ở Valley Springs."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He is the engineer who led the bridge project in Valley Springs.",
+          "text_translation": "Anh là kỹ sư đã dẫn dắt dự án cây cầu ở Valley Springs."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He works with technology, and fast internet matters to him.",
+            "vi": "Anh làm việc với công nghệ, và internet nhanh rất quan trọng với anh."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "He works with technology, and fast internet matters to him.",
+          "text_translation": "Anh làm việc với công nghệ, và internet nhanh rất quan trọng với anh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He wants to move to Valley Springs as soon as he can.",
+            "vi": "Anh muốn chuyển đến Valley Springs càng sớm càng tốt."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He wants to move to Valley Springs as soon as he can.",
+          "text_translation": "Anh muốn chuyển đến Valley Springs càng sớm càng tốt."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He never uses AI tools because he does not trust them.",
+            "vi": "Anh không bao giờ dùng công cụ AI vì không tin chúng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He never uses AI tools because he does not trust them.",
+          "text_translation": "Anh không bao giờ dùng công cụ AI vì không tin chúng."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bài 2: \"Nathan Brooks, a software engineer in San Diego, uses AI tools at work every day.\" Bài 1: Helena kể anh \"would only move if the internet there were faster\". Người xây cầu là Helena."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do we learn about Nathan Brooks?",
+      "question_vn": "Dựa vào cả hai bài. Ta biết gì về Nathan Brooks?",
+      "explanation": "Câu nối hai bài. Bài 2: \"Nathan Brooks, a software engineer in San Diego, uses AI tools at work every day.\" Bài 1: Helena kể anh \"would only move if the internet there were faster\". Người xây cầu là Helena."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u1920_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 19) — Phỏng vấn Helena về cây cầu mới",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u1920_01",
+      "question_ids": [
+        "q_u1920_001",
+        "q_u1920_002",
+        "q_u1920_003",
+        "q_u1920_004",
+        "q_u1920_005",
+        "q_u1920_006",
+        "q_u1920_007",
+        "q_u1920_008",
+        "q_u1920_009",
+        "q_u1920_010"
+      ]
+    },
+    {
+      "set_id": "set_u1920_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 20) — AI trong đời sống hằng ngày",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u1920_02",
+      "question_ids": [
+        "q_u1920_011",
+        "q_u1920_012",
+        "q_u1920_013",
+        "q_u1920_014",
+        "q_u1920_015",
+        "q_u1920_016",
+        "q_u1920_017",
+        "q_u1920_018",
+        "q_u1920_019",
+        "q_u1920_020"
+      ]
+    }
+  ]
+}

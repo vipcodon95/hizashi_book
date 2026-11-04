@@ -1,0 +1,2050 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 3–4 — Friendship and love & Education debates",
+      "vi": "Tình bạn, tình yêu & Tranh luận giáo dục"
+    },
+    "title": "Units 3–4 — Friendship and love & Education debates",
+    "title_vn": "Tình bạn, tình yêu & Tranh luận giáo dục",
+    "module_code": "59_u0304",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.u03+u04",
+    "curriculum_sheets": [
+      "b2.009",
+      "b2.010",
+      "b2.011",
+      "b2.012",
+      "b2.013",
+      "b2.014",
+      "b2.015",
+      "b2.016"
+    ],
+    "characters": [
+      "Leah Carter",
+      "Chloe Bennett",
+      "Ethan Hayes"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 2, năm 6"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "If only, câu điều kiện hỗn hợp, the more … the more, dẫn nguồn",
+    "description_vn": "Leah nhắn cho Chloe lúc nửa đêm sau khi lỡ hẹn Valentine với Ethan, và bài báo bàn chuyện điểm số có giúp học sinh học tốt hơn. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 3 + Unit 4 khoá B2 · phiếu `b2.009` – `b2.016` (tình bạn và if only, hẹn hò, yêu xa, chia tay; đọc nhiều thì biết nhiều, bài tập về nhà, đại học hay đi làm, học suốt đời)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một đoạn tin nhắn và một bài báo bàn hai mặt; hiểu `if only + quá khứ / quá khứ hoàn thành`, câu điều kiện hỗn hợp, `the + so sánh hơn …, the + so sánh hơn …`, `the more useful of the two`, cách dẫn nguồn (according to, argue, point out), và tách lý lẽ của từng phía."
+    },
+    "extra_words": [
+      {
+        "word": "Valentine's Day",
+        "i18n": {
+          "vi": "ngày lễ tình nhân"
+        }
+      },
+      {
+        "word": "harbor",
+        "i18n": {
+          "vi": "bến cảng"
+        }
+      },
+      {
+        "word": "column",
+        "i18n": {
+          "vi": "chuyên mục (báo)"
+        }
+      },
+      {
+        "word": "assignment",
+        "i18n": {
+          "vi": "bài tập"
+        }
+      },
+      {
+        "word": "grade",
+        "i18n": {
+          "vi": "điểm số"
+        }
+      },
+      {
+        "word": "feedback",
+        "i18n": {
+          "vi": "lời góp ý"
+        }
+      },
+      {
+        "word": "psychologist",
+        "i18n": {
+          "vi": "nhà tâm lý học"
+        }
+      },
+      {
+        "word": "motivated",
+        "i18n": {
+          "vi": "có động lực"
+        }
+      },
+      {
+        "word": "genuinely",
+        "i18n": {
+          "vi": "thật sự"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "mess up",
+          "vi": "làm hỏng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "get called in",
+          "vi": "bị gọi đi làm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "grow apart",
+          "vi": "xa cách dần"
+        }
+      },
+      {
+        "i18n": {
+          "en": "move in together",
+          "vi": "dọn về ở chung"
+        }
+      },
+      {
+        "i18n": {
+          "en": "get in the way",
+          "vi": "cản trở"
+        }
+      },
+      {
+        "i18n": {
+          "en": "carry out a study",
+          "vi": "thực hiện nghiên cứu"
+        }
+      },
+      {
+        "i18n": {
+          "en": "rely on",
+          "vi": "dựa vào"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`If only + had + V3` = tiếc nuối về quá khứ. `If only + quá khứ đơn / were` = ước điều khác ở hiện tại."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu điều kiện hỗn hợp `If + had V3, … would + V … now`: việc quá khứ ảnh hưởng tới hiện tại. Chú ý từ `now`."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Trong tin nhắn, giọng điệu quan trọng hơn chữ: \"It's fine\" nói bằng giọng lặng lẽ có thể nghĩa là không ổn."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài hai mặt: gạch dưới các động từ dẫn ý kiến (`point out`, `argue`, `disagree`) để biết câu đó thuộc phía nào."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u0304_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 3) — Tin nhắn đêm khuya giữa Leah và Chloe"
+      },
+      "narrator": "announcer",
+      "title": "Late-Night Messages: Leah and Chloe",
+      "category": "story",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 220,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Late-Night Messages: Leah and Chloe",
+            "vi": "Tin nhắn đêm khuya: Leah và Chloe"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Monday, February 15, 1:12 a.m.",
+            "vi": "Thứ Hai 15/2, 1:12 sáng"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Are you awake? I've really messed up.",
+            "vi": "Cậu còn thức không? Tớ làm hỏng chuyện thật rồi."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "I'm awake. What happened?",
+            "vi": "Tớ thức. Có chuyện gì thế?"
+          }
+        },
+        {
+          "n": 5,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Yesterday was Valentine's Day, and Ethan had booked a table at that little Italian place by the harbor.",
+            "vi": "Hôm qua là Valentine, và Ethan đã đặt bàn ở quán Ý nho nhỏ cạnh bến cảng."
+          }
+        },
+        {
+          "n": 6,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "I got called in for an extra shift at four. I meant to text him, but the emergency room was crazy, and I only remembered at nine.",
+            "vi": "Bốn giờ chiều tớ bị gọi đi trực thêm ca. Tớ định nhắn cho anh ấy, nhưng phòng cấp cứu loạn cả lên, tới chín giờ tớ mới nhớ ra."
+          }
+        },
+        {
+          "n": 7,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "He waited at the restaurant for an hour. When I finally called, he didn't shout. He just said, \"It's fine,\" in that quiet voice, which is much worse.",
+            "vi": "Anh ấy ngồi chờ ở nhà hàng cả tiếng. Lúc tớ gọi được, anh ấy không quát. Anh ấy chỉ nói \"Không sao,\" bằng cái giọng lặng lặng ấy, thế còn tệ hơn nhiều."
+          }
+        },
+        {
+          "n": 8,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "Ugh. That's the voice of a man who is not fine.",
+            "vi": "Ôi. Đó là giọng của một người chẳng ổn chút nào."
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "If only I had sent one message! It would have taken ten seconds.",
+            "vi": "Giá mà tớ gửi lấy một tin! Chỉ mất mười giây thôi."
+          }
+        },
+        {
+          "n": 10,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "If I had sent that message, he wouldn't be upset now.",
+            "vi": "Nếu tớ gửi tin đó thì giờ anh ấy đâu có buồn."
+          }
+        },
+        {
+          "n": 11,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "The worst part is that it isn't the first time. With his shifts and mine, we see each other about twice a week, and sometimes I'm afraid that we're growing apart.",
+            "vi": "Tệ nhất là đây không phải lần đầu. Ca của anh ấy với ca của tớ lệch nhau, tuần gặp được chừng hai lần, và đôi khi tớ sợ bọn tớ đang xa nhau dần."
+          }
+        },
+        {
+          "n": 12,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "Can I be honest? You two are completely compatible. You're both kind, you both work too hard, and you both hate admitting that you're tired.",
+            "vi": "Tớ nói thật nhé? Hai người hợp nhau vô cùng. Cả hai đều tốt bụng, đều làm việc quá sức, và đều ghét thừa nhận là mình mệt."
+          }
+        },
+        {
+          "n": 13,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "The problem isn't love. It's the calendar.",
+            "vi": "Vấn đề không phải tình yêu. Mà là cuốn lịch."
+          }
+        },
+        {
+          "n": 14,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "When Dustin and I moved in together, we made a rule: no important conversations by text. Messages make everything sound colder than it really is.",
+            "vi": "Hồi tớ với Dustin dọn về ở chung, bọn tớ đặt một quy tắc: chuyện quan trọng không nói qua tin nhắn. Tin nhắn làm mọi thứ nghe lạnh lùng hơn thực tế."
+          }
+        },
+        {
+          "n": 15,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "So what should I do?",
+            "vi": "Vậy tớ phải làm gì?"
+          }
+        },
+        {
+          "n": 16,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "Go and see him tomorrow. Say sorry first, and mean it.",
+            "vi": "Mai sang gặp anh ấy đi. Xin lỗi trước, và thật lòng."
+          }
+        },
+        {
+          "n": 17,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "Then sit down together with both of your schedules and choose one evening a week that nobody can take away from you. Not the hospital, not the fire station.",
+            "vi": "Rồi hai người ngồi lại với lịch làm của cả hai, chọn một buổi tối mỗi tuần mà không ai lấy mất được. Không phải bệnh viện, cũng không phải trạm cứu hoả."
+          }
+        },
+        {
+          "n": 18,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "If only it were that easy.",
+            "vi": "Giá mà dễ như thế."
+          }
+        },
+        {
+          "n": 19,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "It isn't easy. It's simple. Those are different things.",
+            "vi": "Nó không dễ. Nó đơn giản. Hai cái đó khác nhau."
+          }
+        },
+        {
+          "n": 20,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "You should write a column. OK. I'm going to bake him something terrible and go over there at ten.",
+            "vi": "Cậu nên đi viết chuyên mục cho báo đấy. Được rồi. Tớ sẽ nướng cho anh ấy một cái bánh dở tệ rồi mười giờ sang đó."
+          }
+        },
+        {
+          "n": 21,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "Perfect. Nothing says \"I'm sorry\" like a burned cake. Now go to sleep!",
+            "vi": "Hoàn hảo. Không gì nói \"anh ơi em xin lỗi\" bằng một cái bánh cháy. Giờ thì đi ngủ đi!"
+          }
+        }
+      ],
+      "content_ja": "Late-Night Messages: Leah and Chloe\n\nMonday, February 15, 1:12 a.m.\n\nLeah: Are you awake? I've really messed up.\n\nChloe: I'm awake. What happened?\n\nLeah: Yesterday was Valentine's Day, and Ethan had booked a table at that little Italian place by the harbor. I got called in for an extra shift at four. I meant to text him, but the emergency room was crazy, and I only remembered at nine. He waited at the restaurant for an hour. When I finally called, he didn't shout. He just said, \"It's fine,\" in that quiet voice, which is much worse.\n\nChloe: Ugh. That's the voice of a man who is not fine.\n\nLeah: If only I had sent one message! It would have taken ten seconds. If I had sent that message, he wouldn't be upset now. The worst part is that it isn't the first time. With his shifts and mine, we see each other about twice a week, and sometimes I'm afraid that we're growing apart.\n\nChloe: Can I be honest? You two are completely compatible. You're both kind, you both work too hard, and you both hate admitting that you're tired. The problem isn't love. It's the calendar.\n\nChloe: When Dustin and I moved in together, we made a rule: no important conversations by text. Messages make everything sound colder than it really is.\n\nLeah: So what should I do?\n\nChloe: Go and see him tomorrow. Say sorry first, and mean it. Then sit down together with both of your schedules and choose one evening a week that nobody can take away from you. Not the hospital, not the fire station.\n\nLeah: If only it were that easy.\n\nChloe: It isn't easy. It's simple. Those are different things.\n\nLeah: You should write a column. OK. I'm going to bake him something terrible and go over there at ten.\n\nChloe: Perfect. Nothing says \"I'm sorry\" like a burned cake. Now go to sleep!",
+      "translation_vn": "(1) Tin nhắn đêm khuya: Leah và Chloe\n(2) Thứ Hai 15/2, 1:12 sáng\n(3) Leah: Cậu còn thức không? Tớ làm hỏng chuyện thật rồi.\n(4) Chloe: Tớ thức. Có chuyện gì thế?\n(5) Leah: Hôm qua là Valentine, và Ethan đã đặt bàn ở quán Ý nho nhỏ cạnh bến cảng.\n(6) Leah: Bốn giờ chiều tớ bị gọi đi trực thêm ca. Tớ định nhắn cho anh ấy, nhưng phòng cấp cứu loạn cả lên, tới chín giờ tớ mới nhớ ra.\n(7) Leah: Anh ấy ngồi chờ ở nhà hàng cả tiếng. Lúc tớ gọi được, anh ấy không quát. Anh ấy chỉ nói \"Không sao,\" bằng cái giọng lặng lặng ấy, thế còn tệ hơn nhiều.\n(8) Chloe: Ôi. Đó là giọng của một người chẳng ổn chút nào.\n(9) Leah: Giá mà tớ gửi lấy một tin! Chỉ mất mười giây thôi.\n(10) Leah: Nếu tớ gửi tin đó thì giờ anh ấy đâu có buồn.\n(11) Leah: Tệ nhất là đây không phải lần đầu. Ca của anh ấy với ca của tớ lệch nhau, tuần gặp được chừng hai lần, và đôi khi tớ sợ bọn tớ đang xa nhau dần.\n(12) Chloe: Tớ nói thật nhé? Hai người hợp nhau vô cùng. Cả hai đều tốt bụng, đều làm việc quá sức, và đều ghét thừa nhận là mình mệt.\n(13) Chloe: Vấn đề không phải tình yêu. Mà là cuốn lịch.\n(14) Chloe: Hồi tớ với Dustin dọn về ở chung, bọn tớ đặt một quy tắc: chuyện quan trọng không nói qua tin nhắn. Tin nhắn làm mọi thứ nghe lạnh lùng hơn thực tế.\n(15) Leah: Vậy tớ phải làm gì?\n(16) Chloe: Mai sang gặp anh ấy đi. Xin lỗi trước, và thật lòng.\n(17) Chloe: Rồi hai người ngồi lại với lịch làm của cả hai, chọn một buổi tối mỗi tuần mà không ai lấy mất được. Không phải bệnh viện, cũng không phải trạm cứu hoả.\n(18) Leah: Giá mà dễ như thế.\n(19) Chloe: Nó không dễ. Nó đơn giản. Hai cái đó khác nhau.\n(20) Leah: Cậu nên đi viết chuyên mục cho báo đấy. Được rồi. Tớ sẽ nướng cho anh ấy một cái bánh dở tệ rồi mười giờ sang đó.\n(21) Chloe: Hoàn hảo. Không gì nói \"anh ơi em xin lỗi\" bằng một cái bánh cháy. Giờ thì đi ngủ đi!",
+      "word_count": 309,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.009",
+        "b2.010",
+        "b2.011",
+        "b2.012"
+      ]
+    },
+    {
+      "id": "passage_u0304_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 4) — Điểm số có giúp ta học tốt hơn?"
+      },
+      "narrator": "announcer",
+      "title": "Do Grades Help Us Learn?",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Do Grades Help Us Learn?",
+            "vi": "Điểm số có giúp ta học tốt hơn?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For most students, a grade is the first thing they look at when an assignment comes back. Often, it is the only thing.",
+            "vi": "Với phần lớn học sinh, điểm là thứ đầu tiên các em nhìn khi bài được trả. Thường thì đó là thứ duy nhất."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "That simple fact is at the center of one of the oldest debates in education: do grades help students learn, or do they get in the way?",
+            "vi": "Sự thật đơn giản ấy nằm ở trung tâm của một trong những cuộc tranh luận lâu đời nhất về giáo dục: điểm số giúp học sinh học, hay cản trở việc học?"
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One of the best-known studies on the question was carried out in Israel in the late 1980s by the psychologist Ruth Butler.",
+            "vi": "Một trong những nghiên cứu nổi tiếng nhất về câu hỏi này do nhà tâm lý học Ruth Butler thực hiện ở Israel cuối những năm 1980."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She gave school students a set of thinking tasks and then divided them into three groups.",
+            "vi": "Bà cho học sinh làm một loạt bài tập tư duy rồi chia các em thành ba nhóm."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The first group received only written comments on their work, the second received only grades, and the third received both.",
+            "vi": "Nhóm thứ nhất chỉ nhận nhận xét viết về bài làm, nhóm thứ hai chỉ nhận điểm, còn nhóm thứ ba nhận cả hai."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When the students did similar tasks again, the comments-only group did the best, while the grades-only group did not improve at all.",
+            "vi": "Khi học sinh làm lại những bài tương tự, nhóm chỉ nhận nhận xét làm tốt nhất, còn nhóm chỉ nhận điểm hoàn toàn không tiến bộ."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "More surprisingly, the group that received grades and comments did no better than the grades-only group. According to Butler, once students saw a grade, they mostly ignored the comments.",
+            "vi": "Bất ngờ hơn, nhóm nhận cả điểm lẫn nhận xét cũng không khá hơn nhóm chỉ nhận điểm. Theo Butler, một khi đã thấy điểm, học sinh gần như bỏ qua lời nhận xét."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Critics of traditional grading point out that this matches what many teachers see every day: the more students focus on the number, the less attention they pay to how they could improve.",
+            "vi": "Những người phê phán cách chấm điểm truyền thống chỉ ra rằng điều này khớp với những gì nhiều giáo viên thấy hằng ngày: học sinh càng chú tâm vào con số thì càng ít để ý tới cách mình có thể tiến bộ."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some also argue that grades push students toward easy choices: why take a difficult elective if it might lower your average?",
+            "vi": "Một số người còn cho rằng điểm số đẩy học sinh tới những lựa chọn dễ dãi: tội gì học một môn tự chọn khó nếu nó có thể kéo điểm trung bình xuống?"
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Others disagree. Grades, they argue, are quick, clear and easy to compare, which is why colleges and employers still rely on them.",
+            "vi": "Người khác không đồng tình. Họ cho rằng điểm số nhanh, rõ ràng và dễ so sánh, đó là lý do các trường đại học và nhà tuyển dụng vẫn dựa vào nó."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many teachers also point out that writing detailed comments for 150 students takes far more time than giving a letter, and that some students are genuinely motivated by the chance to earn an A.",
+            "vi": "Nhiều giáo viên còn chỉ ra rằng viết nhận xét chi tiết cho 150 học sinh tốn thời gian hơn nhiều so với cho một điểm chữ, và có những học sinh thật sự có động lực nhờ cơ hội đạt điểm A."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And a single study, however famous, cannot prove that grades are harmful in every classroom.",
+            "vi": "Và một nghiên cứu đơn lẻ, dù nổi tiếng tới đâu, cũng không chứng minh được rằng điểm số có hại ở mọi lớp học."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Perhaps the more useful of the two questions is not whether to grade, but when.",
+            "vi": "Có lẽ trong hai câu hỏi, câu hữu ích hơn không phải là có nên chấm điểm hay không, mà là chấm khi nào."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some teachers now give comments first and grades a few days later, so that students read the feedback before they see the number.",
+            "vi": "Một số giáo viên giờ đưa nhận xét trước và vài ngày sau mới cho điểm, để học sinh đọc góp ý trước khi thấy con số."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Others let students rewrite an assignment after reading the comments.",
+            "vi": "Người khác cho học sinh viết lại bài sau khi đọc nhận xét."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Whatever the approach, the goal is the same: the grade should be the end of an assignment, not the end of the learning.",
+            "vi": "Dù làm cách nào, mục tiêu vẫn là một: điểm số nên là điểm kết thúc của một bài tập, chứ không phải điểm kết thúc của việc học."
+          }
+        }
+      ],
+      "content_ja": "Do Grades Help Us Learn?\n\nFor most students, a grade is the first thing they look at when an assignment comes back. Often, it is the only thing. That simple fact is at the center of one of the oldest debates in education: do grades help students learn, or do they get in the way?\n\nOne of the best-known studies on the question was carried out in Israel in the late 1980s by the psychologist Ruth Butler. She gave school students a set of thinking tasks and then divided them into three groups. The first group received only written comments on their work, the second received only grades, and the third received both. When the students did similar tasks again, the comments-only group did the best, while the grades-only group did not improve at all. More surprisingly, the group that received grades and comments did no better than the grades-only group. According to Butler, once students saw a grade, they mostly ignored the comments.\n\nCritics of traditional grading point out that this matches what many teachers see every day: the more students focus on the number, the less attention they pay to how they could improve. Some also argue that grades push students toward easy choices: why take a difficult elective if it might lower your average?\n\nOthers disagree. Grades, they argue, are quick, clear and easy to compare, which is why colleges and employers still rely on them. Many teachers also point out that writing detailed comments for 150 students takes far more time than giving a letter, and that some students are genuinely motivated by the chance to earn an A. And a single study, however famous, cannot prove that grades are harmful in every classroom.\n\nPerhaps the more useful of the two questions is not whether to grade, but when. Some teachers now give comments first and grades a few days later, so that students read the feedback before they see the number. Others let students rewrite an assignment after reading the comments. Whatever the approach, the goal is the same: the grade should be the end of an assignment, not the end of the learning.",
+      "translation_vn": "(1) Điểm số có giúp ta học tốt hơn?\n(2) Với phần lớn học sinh, điểm là thứ đầu tiên các em nhìn khi bài được trả. Thường thì đó là thứ duy nhất.\n(3) Sự thật đơn giản ấy nằm ở trung tâm của một trong những cuộc tranh luận lâu đời nhất về giáo dục: điểm số giúp học sinh học, hay cản trở việc học?\n(4) Một trong những nghiên cứu nổi tiếng nhất về câu hỏi này do nhà tâm lý học Ruth Butler thực hiện ở Israel cuối những năm 1980.\n(5) Bà cho học sinh làm một loạt bài tập tư duy rồi chia các em thành ba nhóm.\n(6) Nhóm thứ nhất chỉ nhận nhận xét viết về bài làm, nhóm thứ hai chỉ nhận điểm, còn nhóm thứ ba nhận cả hai.\n(7) Khi học sinh làm lại những bài tương tự, nhóm chỉ nhận nhận xét làm tốt nhất, còn nhóm chỉ nhận điểm hoàn toàn không tiến bộ.\n(8) Bất ngờ hơn, nhóm nhận cả điểm lẫn nhận xét cũng không khá hơn nhóm chỉ nhận điểm. Theo Butler, một khi đã thấy điểm, học sinh gần như bỏ qua lời nhận xét.\n(9) Những người phê phán cách chấm điểm truyền thống chỉ ra rằng điều này khớp với những gì nhiều giáo viên thấy hằng ngày: học sinh càng chú tâm vào con số thì càng ít để ý tới cách mình có thể tiến bộ.\n(10) Một số người còn cho rằng điểm số đẩy học sinh tới những lựa chọn dễ dãi: tội gì học một môn tự chọn khó nếu nó có thể kéo điểm trung bình xuống?\n(11) Người khác không đồng tình. Họ cho rằng điểm số nhanh, rõ ràng và dễ so sánh, đó là lý do các trường đại học và nhà tuyển dụng vẫn dựa vào nó.\n(12) Nhiều giáo viên còn chỉ ra rằng viết nhận xét chi tiết cho 150 học sinh tốn thời gian hơn nhiều so với cho một điểm chữ, và có những học sinh thật sự có động lực nhờ cơ hội đạt điểm A.\n(13) Và một nghiên cứu đơn lẻ, dù nổi tiếng tới đâu, cũng không chứng minh được rằng điểm số có hại ở mọi lớp học.\n(14) Có lẽ trong hai câu hỏi, câu hữu ích hơn không phải là có nên chấm điểm hay không, mà là chấm khi nào.\n(15) Một số giáo viên giờ đưa nhận xét trước và vài ngày sau mới cho điểm, để học sinh đọc góp ý trước khi thấy con số.\n(16) Người khác cho học sinh viết lại bài sau khi đọc nhận xét.\n(17) Dù làm cách nào, mục tiêu vẫn là một: điểm số nên là điểm kết thúc của một bài tập, chứ không phải điểm kết thúc của việc học.",
+      "word_count": 362,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.013",
+        "b2.014",
+        "b2.015",
+        "b2.016"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u0304_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "Why does Leah message Chloe in the middle of the night?",
+        "vi": "Vì sao Leah nhắn cho Chloe lúc nửa đêm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to ask Chloe for a recipe for a cake to bake for her patients",
+            "vi": "để xin Chloe công thức làm bánh cho bệnh nhân của cô"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to ask Chloe for a recipe for a cake to bake for her patients",
+          "text_translation": "để xin Chloe công thức làm bánh cho bệnh nhân của cô"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to tell her about a difficult patient in the emergency room",
+            "vi": "để kể về một bệnh nhân khó ở phòng cấp cứu"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to tell her about a difficult patient in the emergency room",
+          "text_translation": "để kể về một bệnh nhân khó ở phòng cấp cứu"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to invite her to dinner at the Italian place by the harbor",
+            "vi": "để mời cô ấy đi ăn tối ở quán Ý bên bến cảng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to invite her to dinner at the Italian place by the harbor",
+          "text_translation": "để mời cô ấy đi ăn tối ở quán Ý bên bến cảng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is upset because she missed Valentine's dinner with Ethan.",
+            "vi": "Vì cô buồn khi lỡ bữa tối Valentine với Ethan."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She is upset because she missed Valentine's dinner with Ethan.",
+          "text_translation": "Vì cô buồn khi lỡ bữa tối Valentine với Ethan."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Are you awake? I've really messed up.\" Rồi cô kể chuyện lỡ hẹn tối Valentine."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Leah message Chloe in the middle of the night?",
+      "question_vn": "Vì sao Leah nhắn cho Chloe lúc nửa đêm?",
+      "explanation": "\"Are you awake? I've really messed up.\" Rồi cô kể chuyện lỡ hẹn tối Valentine."
+    },
+    {
+      "id": "q_u0304_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "Why did Leah miss the dinner?",
+        "vi": "Vì sao Leah lỡ bữa tối?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She forgot that it was Valentine's Day and went out with friends.",
+            "vi": "Vì cô quên hôm đó là Valentine và đi chơi với bạn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She forgot that it was Valentine's Day and went out with friends.",
+          "text_translation": "Vì cô quên hôm đó là Valentine và đi chơi với bạn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She was called in for an extra shift and forgot to text Ethan.",
+            "vi": "Vì cô bị gọi trực thêm ca và quên nhắn cho Ethan."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She was called in for an extra shift and forgot to text Ethan.",
+          "text_translation": "Vì cô bị gọi trực thêm ca và quên nhắn cho Ethan."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She was angry with Ethan and decided not to go to the restaurant.",
+            "vi": "Vì cô giận Ethan và quyết định không đến nhà hàng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She was angry with Ethan and decided not to go to the restaurant.",
+          "text_translation": "Vì cô giận Ethan và quyết định không đến nhà hàng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The restaurant was closed because of a problem at the harbor.",
+            "vi": "Vì nhà hàng đóng cửa do có sự cố ở bến cảng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The restaurant was closed because of a problem at the harbor.",
+          "text_translation": "Vì nhà hàng đóng cửa do có sự cố ở bến cảng."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"I got called in for an extra shift at four. I meant to text him, but the emergency room was crazy, and I only remembered at nine.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why did Leah miss the dinner?",
+      "question_vn": "Vì sao Leah lỡ bữa tối?",
+      "explanation": "\"I got called in for an extra shift at four. I meant to text him, but the emergency room was crazy, and I only remembered at nine.\""
+    },
+    {
+      "id": "q_u0304_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "Why does Leah say that Ethan's quiet \"It's fine\" was \"much worse\" than shouting?",
+        "vi": "Vì sao Leah nói câu \"Không sao\" nhẹ nhàng của Ethan \"còn tệ hơn nhiều\" so với quát?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It showed that he was deeply hurt, though he didn't say so.",
+            "vi": "Vì nó cho thấy anh rất buồn, dù anh không nói ra."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It showed that he was deeply hurt, though he didn't say so.",
+          "text_translation": "Vì nó cho thấy anh rất buồn, dù anh không nói ra."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She couldn't hear him clearly because he spoke so quietly.",
+            "vi": "Vì anh nói nhỏ quá nên cô không nghe rõ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She couldn't hear him clearly because he spoke so quietly.",
+          "text_translation": "Vì anh nói nhỏ quá nên cô không nghe rõ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He was laughing at her mistake, and that made her feel very small.",
+            "vi": "Vì anh đang cười trước lỗi của cô, khiến cô thấy mình thật nhỏ bé."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He was laughing at her mistake, and that made her feel very small.",
+          "text_translation": "Vì anh đang cười trước lỗi của cô, khiến cô thấy mình thật nhỏ bé."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He was too tired after waiting at the restaurant to say more.",
+            "vi": "Vì anh quá mệt sau khi chờ ở nhà hàng nên không nói thêm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He was too tired after waiting at the restaurant to say more.",
+          "text_translation": "Vì anh quá mệt sau khi chờ ở nhà hàng nên không nói thêm."
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Chloe hiểu ngay: \"That's the voice of a man who is not fine.\" Câu nói và giọng điệu trái ngược nhau."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Leah say that Ethan's quiet \"It's fine\" was \"much worse\" than shouting?",
+      "question_vn": "Vì sao Leah nói câu \"Không sao\" nhẹ nhàng của Ethan \"còn tệ hơn nhiều\" so với quát?",
+      "explanation": "Câu suy luận. Chloe hiểu ngay: \"That's the voice of a man who is not fine.\" Câu nói và giọng điệu trái ngược nhau."
+    },
+    {
+      "id": "q_u0304_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "What does Leah mean by \"If only I had sent one message!\"?",
+        "vi": "Leah muốn nói gì qua câu \"Giá mà tớ gửi lấy một tin!\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is going to send Ethan a long message as soon as she can.",
+            "vi": "Cô sắp gửi cho Ethan một tin nhắn dài ngay khi có thể."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She is going to send Ethan a long message as soon as she can.",
+          "text_translation": "Cô sắp gửi cho Ethan một tin nhắn dài ngay khi có thể."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She sent many messages during her shift, but Ethan never answered.",
+            "vi": "Cô đã gửi nhiều tin trong ca trực, nhưng Ethan không trả lời."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She sent many messages during her shift, but Ethan never answered.",
+          "text_translation": "Cô đã gửi nhiều tin trong ca trực, nhưng Ethan không trả lời."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She deeply regrets that she didn't send a message.",
+            "vi": "Cô rất tiếc vì đã không gửi tin."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She deeply regrets that she didn't send a message.",
+          "text_translation": "Cô rất tiếc vì đã không gửi tin."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She does not like sending messages, so she called him instead.",
+            "vi": "Cô không thích nhắn tin nên đã gọi cho anh."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She does not like sending messages, so she called him instead.",
+          "text_translation": "Cô không thích nhắn tin nên đã gọi cho anh."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"If only I had sent one message!\" If only + quá khứ hoàn thành = tiếc nuối về quá khứ, mạnh hơn wish."
+      },
+      "audio_data": null,
+      "question_jp": "What does Leah mean by \"If only I had sent one message!\"?",
+      "question_vn": "Leah muốn nói gì qua câu \"Giá mà tớ gửi lấy một tin!\"?",
+      "explanation": "\"If only I had sent one message!\" If only + quá khứ hoàn thành = tiếc nuối về quá khứ, mạnh hơn wish."
+    },
+    {
+      "id": "q_u0304_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "What does \"If I had sent that message, he wouldn't be upset now\" express?",
+        "vi": "Câu \"Nếu tớ gửi tin đó thì giờ anh ấy đâu có buồn\" diễn tả điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a plan for what she will do tomorrow",
+            "vi": "một kế hoạch cho việc cô sẽ làm ngày mai"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a plan for what she will do tomorrow",
+          "text_translation": "một kế hoạch cho việc cô sẽ làm ngày mai"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "something that she used to do every week",
+            "vi": "một việc cô từng làm mỗi tuần"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "something that she used to do every week",
+          "text_translation": "một việc cô từng làm mỗi tuần"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a general rule about how busy couples behave",
+            "vi": "một quy tắc chung về cách các cặp đôi bận rộn cư xử"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a general rule about how busy couples behave",
+          "text_translation": "một quy tắc chung về cách các cặp đôi bận rộn cư xử"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "how a past action could have changed the present",
+            "vi": "một việc trong quá khứ lẽ ra đã thay đổi được hiện tại"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "how a past action could have changed the present",
+          "text_translation": "một việc trong quá khứ lẽ ra đã thay đổi được hiện tại"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"If I had sent that message, he wouldn't be upset now.\" Câu điều kiện hỗn hợp: vế if ở quá khứ (had sent), vế kết quả ở hiện tại (wouldn't be … now)."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"If I had sent that message, he wouldn't be upset now\" express?",
+      "question_vn": "Câu \"Nếu tớ gửi tin đó thì giờ anh ấy đâu có buồn\" diễn tả điều gì?",
+      "explanation": "\"If I had sent that message, he wouldn't be upset now.\" Câu điều kiện hỗn hợp: vế if ở quá khứ (had sent), vế kết quả ở hiện tại (wouldn't be … now)."
+    },
+    {
+      "id": "q_u0304_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "What is Leah afraid of?",
+        "vi": "Leah sợ điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "that she and Ethan are growing apart because they rarely meet",
+            "vi": "rằng cô và Ethan đang xa nhau dần vì hiếm khi gặp"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "that she and Ethan are growing apart because they rarely meet",
+          "text_translation": "rằng cô và Ethan đang xa nhau dần vì hiếm khi gặp"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that she will lose her job if she keeps making mistakes",
+            "vi": "rằng cô sẽ mất việc nếu cứ mắc lỗi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "that she will lose her job if she keeps making mistakes",
+          "text_translation": "rằng cô sẽ mất việc nếu cứ mắc lỗi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that Chloe is angry with her for calling in the middle of the night",
+            "vi": "rằng Chloe giận cô vì gọi giữa đêm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "that Chloe is angry with her for calling in the middle of the night",
+          "text_translation": "rằng Chloe giận cô vì gọi giữa đêm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that Ethan has found a new girlfriend who has more free time",
+            "vi": "rằng Ethan đã có bạn gái mới rảnh rỗi hơn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "that Ethan has found a new girlfriend who has more free time",
+          "text_translation": "rằng Ethan đã có bạn gái mới rảnh rỗi hơn"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"we see each other about twice a week, and sometimes I'm afraid that we're growing apart.\" Grow apart = xa cách dần."
+      },
+      "audio_data": null,
+      "question_jp": "What is Leah afraid of?",
+      "question_vn": "Leah sợ điều gì?",
+      "explanation": "\"we see each other about twice a week, and sometimes I'm afraid that we're growing apart.\" Grow apart = xa cách dần."
+    },
+    {
+      "id": "q_u0304_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "According to Chloe, what is the real problem between Leah and Ethan?",
+        "vi": "Theo Chloe, vấn đề thật sự giữa Leah và Ethan là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They have stopped loving each other since the missed dinner.",
+            "vi": "Hai người đã hết yêu nhau từ sau bữa tối bị lỡ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They have stopped loving each other since the missed dinner.",
+          "text_translation": "Hai người đã hết yêu nhau từ sau bữa tối bị lỡ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They are not compatible, because they both work too hard.",
+            "vi": "Hai người không hợp nhau, vì cả hai đều làm việc quá sức."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They are not compatible, because they both work too hard.",
+          "text_translation": "Hai người không hợp nhau, vì cả hai đều làm việc quá sức."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Their work schedules, not their feelings.",
+            "vi": "Lịch làm việc, chứ không phải tình cảm."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Their work schedules, not their feelings.",
+          "text_translation": "Lịch làm việc, chứ không phải tình cảm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Ethan doesn't like Italian food or restaurants by the harbor.",
+            "vi": "Ethan không thích đồ Ý hay các nhà hàng bên bến cảng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Ethan doesn't like Italian food or restaurants by the harbor.",
+          "text_translation": "Ethan không thích đồ Ý hay các nhà hàng bên bến cảng."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"The problem isn't love. It's the calendar.\" Chloe còn nói hai người \"completely compatible\"."
+      },
+      "audio_data": null,
+      "question_jp": "According to Chloe, what is the real problem between Leah and Ethan?",
+      "question_vn": "Theo Chloe, vấn đề thật sự giữa Leah và Ethan là gì?",
+      "explanation": "\"The problem isn't love. It's the calendar.\" Chloe còn nói hai người \"completely compatible\"."
+    },
+    {
+      "id": "q_u0304_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "Why did Chloe and Dustin decide not to have important conversations by text?",
+        "vi": "Vì sao Chloe và Dustin quyết định không nói chuyện quan trọng qua tin nhắn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Dustin does not own a phone, so they have to speak face to face.",
+            "vi": "Vì Dustin không có điện thoại nên hai người phải nói chuyện trực tiếp."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Dustin does not own a phone, so they have to speak face to face.",
+          "text_translation": "Vì Dustin không có điện thoại nên hai người phải nói chuyện trực tiếp."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Messages make things sound colder than they really are.",
+            "vi": "Vì tin nhắn làm mọi thứ nghe lạnh lùng hơn thực tế."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Messages make things sound colder than they really are.",
+          "text_translation": "Vì tin nhắn làm mọi thứ nghe lạnh lùng hơn thực tế."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Texting is too expensive for two people with their salaries.",
+            "vi": "Vì nhắn tin quá đắt với mức lương của hai người."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Texting is too expensive for two people with their salaries.",
+          "text_translation": "Vì nhắn tin quá đắt với mức lương của hai người."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They work in different cities and talk on the phone every day.",
+            "vi": "Vì hai người làm việc ở hai thành phố và ngày nào cũng gọi điện."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They work in different cities and talk on the phone every day.",
+          "text_translation": "Vì hai người làm việc ở hai thành phố và ngày nào cũng gọi điện."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"Messages make everything sound colder than it really is.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why did Chloe and Dustin decide not to have important conversations by text?",
+      "question_vn": "Vì sao Chloe và Dustin quyết định không nói chuyện quan trọng qua tin nhắn?",
+      "explanation": "\"Messages make everything sound colder than it really is.\""
+    },
+    {
+      "id": "q_u0304_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "What does Chloe advise Leah to do?",
+        "vi": "Chloe khuyên Leah làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "apologize in person and choose one evening each week",
+            "vi": "xin lỗi trực tiếp và chọn một buổi tối mỗi tuần"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "apologize in person and choose one evening each week",
+          "text_translation": "xin lỗi trực tiếp và chọn một buổi tối mỗi tuần"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "send Ethan a long message that explains her shift in detail",
+            "vi": "gửi Ethan một tin nhắn dài giải thích ca trực của cô"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "send Ethan a long message that explains her shift in detail",
+          "text_translation": "gửi Ethan một tin nhắn dài giải thích ca trực của cô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "ask her boss to move her to a job with no night shifts",
+            "vi": "xin sếp chuyển sang việc không phải trực đêm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "ask her boss to move her to a job with no night shifts",
+          "text_translation": "xin sếp chuyển sang việc không phải trực đêm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "wait for Ethan to call her when he is ready to talk",
+            "vi": "chờ Ethan gọi khi anh sẵn sàng nói chuyện"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "wait for Ethan to call her when he is ready to talk",
+          "text_translation": "chờ Ethan gọi khi anh sẵn sàng nói chuyện"
+        }
+      ],
+      "evidence_segments": [
+        16,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"Go and see him tomorrow. Say sorry first, and mean it.\" rồi \"choose one evening a week that nobody can take away from you.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Chloe advise Leah to do?",
+      "question_vn": "Chloe khuyên Leah làm gì?",
+      "explanation": "\"Go and see him tomorrow. Say sorry first, and mean it.\" rồi \"choose one evening a week that nobody can take away from you.\""
+    },
+    {
+      "id": "q_u0304_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "What does Chloe mean by \"It isn't easy. It's simple. Those are different things.\"?",
+        "vi": "Chloe muốn nói gì qua câu \"Nó không dễ. Nó đơn giản. Hai cái đó khác nhau.\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The plan is too complicated for two people with such busy schedules.",
+            "vi": "Kế hoạch quá phức tạp với hai người có lịch bận như vậy."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The plan is too complicated for two people with such busy schedules.",
+          "text_translation": "Kế hoạch quá phức tạp với hai người có lịch bận như vậy."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Leah should give up on the idea of a weekly evening.",
+            "vi": "Leah nên từ bỏ ý định có một buổi tối mỗi tuần."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Leah should give up on the idea of a weekly evening.",
+          "text_translation": "Leah nên từ bỏ ý định có một buổi tối mỗi tuần."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "What to do is clear, even though doing it takes effort.",
+            "vi": "Việc cần làm rất rõ, dù làm được thì phải cố gắng."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "What to do is clear, even though doing it takes effort.",
+          "text_translation": "Việc cần làm rất rõ, dù làm được thì phải cố gắng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Chloe doesn't understand how hard Leah's problem really is.",
+            "vi": "Chloe không hiểu vấn đề của Leah khó đến mức nào."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Chloe doesn't understand how hard Leah's problem really is.",
+          "text_translation": "Chloe không hiểu vấn đề của Leah khó đến mức nào."
+        }
+      ],
+      "evidence_segments": [
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Simple = không phức tạp, ai cũng hiểu phải làm gì. Easy = làm mà không tốn sức. Kế hoạch đơn giản, nhưng giữ được một buổi tối mỗi tuần thì không dễ."
+      },
+      "audio_data": null,
+      "question_jp": "What does Chloe mean by \"It isn't easy. It's simple. Those are different things.\"?",
+      "question_vn": "Chloe muốn nói gì qua câu \"Nó không dễ. Nó đơn giản. Hai cái đó khác nhau.\"?",
+      "explanation": "Câu suy luận. Simple = không phức tạp, ai cũng hiểu phải làm gì. Easy = làm mà không tốn sức. Kế hoạch đơn giản, nhưng giữ được một buổi tối mỗi tuần thì không dễ."
+    },
+    {
+      "id": "q_u0304_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "What is the article mainly about?",
+        "vi": "Bài báo chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how students can get an A in every subject with less study",
+            "vi": "cách học sinh đạt điểm A mọi môn mà học ít hơn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how students can get an A in every subject with less study",
+          "text_translation": "cách học sinh đạt điểm A mọi môn mà học ít hơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "whether grades help students learn, and what different people think",
+            "vi": "điểm số có giúp học sinh học tốt không, và mỗi người nghĩ gì"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "whether grades help students learn, and what different people think",
+          "text_translation": "điểm số có giúp học sinh học tốt không, và mỗi người nghĩ gì"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the life and career of the psychologist Ruth Butler in Israel",
+            "vi": "cuộc đời và sự nghiệp của nhà tâm lý học Ruth Butler ở Israel"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the life and career of the psychologist Ruth Butler in Israel",
+          "text_translation": "cuộc đời và sự nghiệp của nhà tâm lý học Ruth Butler ở Israel"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "why colleges and employers should stop using grades",
+            "vi": "vì sao đại học và nhà tuyển dụng nên thôi dùng điểm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "why colleges and employers should stop using grades",
+          "text_translation": "vì sao đại học và nhà tuyển dụng nên thôi dùng điểm"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"do grades help students learn, or do they get in the way?\" Bài nêu nghiên cứu, ý kiến hai phía, rồi một hướng dung hoà."
+      },
+      "audio_data": null,
+      "question_jp": "What is the article mainly about?",
+      "question_vn": "Bài báo chủ yếu nói về điều gì?",
+      "explanation": "\"do grades help students learn, or do they get in the way?\" Bài nêu nghiên cứu, ý kiến hai phía, rồi một hướng dung hoà."
+    },
+    {
+      "id": "q_u0304_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "How were the students in Butler's study divided?",
+        "vi": "Học sinh trong nghiên cứu của Butler được chia thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "into two groups, one of boys and one of girls",
+            "vi": "thành hai nhóm, một nhóm nam và một nhóm nữ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "into two groups, one of boys and one of girls",
+          "text_translation": "thành hai nhóm, một nhóm nam và một nhóm nữ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "into four groups, according to their age and their earlier results",
+            "vi": "thành bốn nhóm, theo tuổi và kết quả trước đó"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "into four groups, according to their age and their earlier results",
+          "text_translation": "thành bốn nhóm, theo tuổi và kết quả trước đó"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "according to the grades they had received in earlier tests",
+            "vi": "theo điểm họ đã nhận trong các bài kiểm tra trước"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "according to the grades they had received in earlier tests",
+          "text_translation": "theo điểm họ đã nhận trong các bài kiểm tra trước"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "into three groups: comments only, grades only, or both",
+            "vi": "thành ba nhóm: chỉ nhận xét, chỉ điểm, hoặc cả hai"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "into three groups: comments only, grades only, or both",
+          "text_translation": "thành ba nhóm: chỉ nhận xét, chỉ điểm, hoặc cả hai"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"The first group received only written comments on their work, the second received only grades, and the third received both.\""
+      },
+      "audio_data": null,
+      "question_jp": "How were the students in Butler's study divided?",
+      "question_vn": "Học sinh trong nghiên cứu của Butler được chia thế nào?",
+      "explanation": "\"The first group received only written comments on their work, the second received only grades, and the third received both.\""
+    },
+    {
+      "id": "q_u0304_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "Which group did the best when the students did similar tasks again?",
+        "vi": "Khi làm lại bài tương tự, nhóm nào làm tốt nhất?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the comments-only group",
+            "vi": "nhóm chỉ nhận nhận xét"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the comments-only group",
+          "text_translation": "nhóm chỉ nhận nhận xét"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the grades-only group",
+            "vi": "nhóm chỉ nhận điểm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the grades-only group",
+          "text_translation": "nhóm chỉ nhận điểm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the group that received both",
+            "vi": "nhóm nhận cả hai"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the group that received both",
+          "text_translation": "nhóm nhận cả hai"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "All three groups did the same.",
+            "vi": "Cả ba nhóm như nhau."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "All three groups did the same.",
+          "text_translation": "Cả ba nhóm như nhau."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"the comments-only group did the best, while the grades-only group did not improve at all.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which group did the best when the students did similar tasks again?",
+      "question_vn": "Khi làm lại bài tương tự, nhóm nào làm tốt nhất?",
+      "explanation": "\"the comments-only group did the best, while the grades-only group did not improve at all.\""
+    },
+    {
+      "id": "q_u0304_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "According to Butler, why did the group with grades and comments do no better than the grades-only group?",
+        "vi": "Theo Butler, vì sao nhóm nhận cả điểm lẫn nhận xét không khá hơn nhóm chỉ nhận điểm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Their comments were so short that nobody understood them.",
+            "vi": "Vì lời nhận xét ngắn đến mức chẳng ai hiểu."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Their comments were so short that nobody understood them.",
+          "text_translation": "Vì lời nhận xét ngắn đến mức chẳng ai hiểu."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Their tasks were harder than those of the other groups.",
+            "vi": "Vì bài của họ khó hơn bài của các nhóm khác."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Their tasks were harder than those of the other groups.",
+          "text_translation": "Vì bài của họ khó hơn bài của các nhóm khác."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Once students saw a grade, they mostly ignored the comments.",
+            "vi": "Vì một khi đã thấy điểm, học sinh gần như bỏ qua nhận xét."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Once students saw a grade, they mostly ignored the comments.",
+          "text_translation": "Vì một khi đã thấy điểm, học sinh gần như bỏ qua nhận xét."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They didn't receive any grades, so they worked less hard.",
+            "vi": "Vì họ không nhận điểm nào nên làm việc kém chăm chỉ hơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They didn't receive any grades, so they worked less hard.",
+          "text_translation": "Vì họ không nhận điểm nào nên làm việc kém chăm chỉ hơn."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"According to Butler, once students saw a grade, they mostly ignored the comments.\" According to X = theo X, cách dẫn nguồn."
+      },
+      "audio_data": null,
+      "question_jp": "According to Butler, why did the group with grades and comments do no better than the grades-only group?",
+      "question_vn": "Theo Butler, vì sao nhóm nhận cả điểm lẫn nhận xét không khá hơn nhóm chỉ nhận điểm?",
+      "explanation": "\"According to Butler, once students saw a grade, they mostly ignored the comments.\" According to X = theo X, cách dẫn nguồn."
+    },
+    {
+      "id": "q_u0304_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "What does \"the more students focus on the number, the less attention they pay to how they could improve\" mean?",
+        "vi": "Câu \"học sinh càng chú tâm vào con số thì càng ít để ý tới cách mình có thể tiến bộ\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Students who like numbers a lot are usually better at math and science.",
+            "vi": "Học sinh rất thích con số thường giỏi toán và khoa học hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Students who like numbers a lot are usually better at math and science.",
+          "text_translation": "Học sinh rất thích con số thường giỏi toán và khoa học hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Paying attention to grades makes students think less about improving.",
+            "vi": "Càng để tâm vào điểm thì học sinh càng ít nghĩ tới việc tiến bộ."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Paying attention to grades makes students think less about improving.",
+          "text_translation": "Càng để tâm vào điểm thì học sinh càng ít nghĩ tới việc tiến bộ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Students should pay more attention to the teacher in class.",
+            "vi": "Học sinh nên chú ý đến giáo viên nhiều hơn trong lớp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Students should pay more attention to the teacher in class.",
+          "text_translation": "Học sinh nên chú ý đến giáo viên nhiều hơn trong lớp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Grades help students improve quickly because they are so clear.",
+            "vi": "Điểm số giúp học sinh tiến bộ nhanh vì rất rõ ràng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Grades help students improve quickly because they are so clear.",
+          "text_translation": "Điểm số giúp học sinh tiến bộ nhanh vì rất rõ ràng."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"the more students focus on the number, the less attention they pay to how they could improve.\" The + so sánh hơn …, the + so sánh hơn … = càng … càng …"
+      },
+      "audio_data": null,
+      "question_jp": "What does \"the more students focus on the number, the less attention they pay to how they could improve\" mean?",
+      "question_vn": "Câu \"học sinh càng chú tâm vào con số thì càng ít để ý tới cách mình có thể tiến bộ\" nghĩa là gì?",
+      "explanation": "\"the more students focus on the number, the less attention they pay to how they could improve.\" The + so sánh hơn …, the + so sánh hơn … = càng … càng …"
+    },
+    {
+      "id": "q_u0304_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "Why might grades push students toward easy choices?",
+        "vi": "Vì sao điểm số có thể đẩy học sinh tới lựa chọn dễ dãi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Easy subjects are more interesting, so students choose them first.",
+            "vi": "Vì môn dễ thú vị hơn nên học sinh chọn chúng trước."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Easy subjects are more interesting, so students choose them first.",
+          "text_translation": "Vì môn dễ thú vị hơn nên học sinh chọn chúng trước."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Teachers prefer to teach easy subjects to large classes.",
+            "vi": "Vì giáo viên thích dạy môn dễ cho lớp đông."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Teachers prefer to teach easy subjects to large classes.",
+          "text_translation": "Vì giáo viên thích dạy môn dễ cho lớp đông."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Colleges only accept students who chose the easy subjects.",
+            "vi": "Vì đại học chỉ nhận học sinh đã chọn môn dễ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Colleges only accept students who chose the easy subjects.",
+          "text_translation": "Vì đại học chỉ nhận học sinh đã chọn môn dễ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "A difficult elective might lower a student's average.",
+            "vi": "Vì một môn tự chọn khó có thể kéo điểm trung bình xuống."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "A difficult elective might lower a student's average.",
+          "text_translation": "Vì một môn tự chọn khó có thể kéo điểm trung bình xuống."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"why take a difficult elective if it might lower your average?\" Câu hỏi tu từ: người viết không chờ câu trả lời mà dùng nó để nêu lý lẽ."
+      },
+      "audio_data": null,
+      "question_jp": "Why might grades push students toward easy choices?",
+      "question_vn": "Vì sao điểm số có thể đẩy học sinh tới lựa chọn dễ dãi?",
+      "explanation": "\"why take a difficult elective if it might lower your average?\" Câu hỏi tu từ: người viết không chờ câu trả lời mà dùng nó để nêu lý lẽ."
+    },
+    {
+      "id": "q_u0304_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "Which of these is an argument FOR using grades?",
+        "vi": "Lý lẽ nào ỦNG HỘ việc chấm điểm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Grades are quick, clear and easy to compare.",
+            "vi": "Điểm số nhanh, rõ ràng và dễ so sánh."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Grades are quick, clear and easy to compare.",
+          "text_translation": "Điểm số nhanh, rõ ràng và dễ so sánh."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Grades make students ignore the comments on their work.",
+            "vi": "Điểm số khiến học sinh bỏ qua nhận xét trên bài làm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Grades make students ignore the comments on their work.",
+          "text_translation": "Điểm số khiến học sinh bỏ qua nhận xét trên bài làm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Grades push students toward easy choices in their courses.",
+            "vi": "Điểm số đẩy học sinh tới những lựa chọn dễ dãi trong khoá học."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Grades push students toward easy choices in their courses.",
+          "text_translation": "Điểm số đẩy học sinh tới những lựa chọn dễ dãi trong khoá học."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Grades stop students from improving their work over time.",
+            "vi": "Điểm số khiến học sinh không cải thiện bài làm theo thời gian."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Grades stop students from improving their work over time.",
+          "text_translation": "Điểm số khiến học sinh không cải thiện bài làm theo thời gian."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Grades, they argue, are quick, clear and easy to compare, which is why colleges and employers still rely on them.\" Ba phương án còn lại là lý lẽ phản đối."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is an argument FOR using grades?",
+      "question_vn": "Lý lẽ nào ỦNG HỘ việc chấm điểm?",
+      "explanation": "\"Grades, they argue, are quick, clear and easy to compare, which is why colleges and employers still rely on them.\" Ba phương án còn lại là lý lẽ phản đối."
+    },
+    {
+      "id": "q_u0304_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "Why does the writer say \"a single study, however famous, cannot prove that grades are harmful in every classroom\"?",
+        "vi": "Vì sao người viết nói \"một nghiên cứu đơn lẻ, dù nổi tiếng tới đâu, cũng không chứng minh được điểm số có hại ở mọi lớp học\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that Butler's study was badly planned and should be ignored",
+            "vi": "để cho thấy nghiên cứu của Butler được thiết kế tệ và nên bị bỏ qua"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to show that Butler's study was badly planned and should be ignored",
+          "text_translation": "để cho thấy nghiên cứu của Butler được thiết kế tệ và nên bị bỏ qua"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to advertise a new study that will be published soon",
+            "vi": "để quảng cáo một nghiên cứu mới sắp được công bố"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to advertise a new study that will be published soon",
+          "text_translation": "để quảng cáo một nghiên cứu mới sắp được công bố"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to warn readers not to draw too big a conclusion from one study",
+            "vi": "để nhắc người đọc đừng rút ra kết luận quá lớn từ một nghiên cứu"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to warn readers not to draw too big a conclusion from one study",
+          "text_translation": "để nhắc người đọc đừng rút ra kết luận quá lớn từ một nghiên cứu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to say that grades are always helpful in every classroom",
+            "vi": "để nói điểm số luôn có ích trong mọi lớp học"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to say that grades are always helpful in every classroom",
+          "text_translation": "để nói điểm số luôn có ích trong mọi lớp học"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về mục đích. Người viết không nói nghiên cứu sai, chỉ nhắc rằng một nghiên cứu chưa đủ để kết luận cho \"every classroom\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer say \"a single study, however famous, cannot prove that grades are harmful in every classroom\"?",
+      "question_vn": "Vì sao người viết nói \"một nghiên cứu đơn lẻ, dù nổi tiếng tới đâu, cũng không chứng minh được điểm số có hại ở mọi lớp học\"?",
+      "explanation": "Câu suy luận về mục đích. Người viết không nói nghiên cứu sai, chỉ nhắc rằng một nghiên cứu chưa đủ để kết luận cho \"every classroom\"."
+    },
+    {
+      "id": "q_u0304_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "What do some teachers now do?",
+        "vi": "Một số giáo viên giờ làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They give no feedback at all until the end of the year.",
+            "vi": "Họ hoàn toàn không góp ý cho đến cuối năm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They give no feedback at all until the end of the year.",
+          "text_translation": "Họ hoàn toàn không góp ý cho đến cuối năm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They give comments first and grades a few days later.",
+            "vi": "Đưa nhận xét trước, vài ngày sau mới cho điểm."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "They give comments first and grades a few days later.",
+          "text_translation": "Đưa nhận xét trước, vài ngày sau mới cho điểm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They give only grades, and they give them very quickly.",
+            "vi": "Họ chỉ cho điểm, và cho rất nhanh."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They give only grades, and they give them very quickly.",
+          "text_translation": "Họ chỉ cho điểm, và cho rất nhanh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They let students grade themselves before the teacher reads the work.",
+            "vi": "Họ để học sinh tự chấm trước khi giáo viên đọc bài."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They let students grade themselves before the teacher reads the work.",
+          "text_translation": "Họ để học sinh tự chấm trước khi giáo viên đọc bài."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"Some teachers now give comments first and grades a few days later, so that students read the feedback before they see the number.\""
+      },
+      "audio_data": null,
+      "question_jp": "What do some teachers now do?",
+      "question_vn": "Một số giáo viên giờ làm gì?",
+      "explanation": "\"Some teachers now give comments first and grades a few days later, so that students read the feedback before they see the number.\""
+    },
+    {
+      "id": "q_u0304_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "Use both texts. Which idea do Chloe's rule about texting and Butler's study share?",
+        "vi": "Dựa vào cả hai bài. Quy tắc nhắn tin của Chloe và nghiên cứu của Butler có chung ý nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "People should never use phones, because they make students lazy.",
+            "vi": "Không bao giờ nên dùng điện thoại, vì chúng khiến học sinh lười."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "People should never use phones, because they make students lazy.",
+          "text_translation": "Không bao giờ nên dùng điện thoại, vì chúng khiến học sinh lười."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Grades are more important than feelings.",
+            "vi": "Điểm số quan trọng hơn cảm xúc."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Grades are more important than feelings.",
+          "text_translation": "Điểm số quan trọng hơn cảm xúc."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Comments are always better than grades, and texts are always colder.",
+            "vi": "Nhận xét lúc nào cũng tốt hơn điểm, và tin nhắn lúc nào cũng lạnh lùng hơn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Comments are always better than grades, and texts are always colder.",
+          "text_translation": "Nhận xét lúc nào cũng tốt hơn điểm, và tin nhắn lúc nào cũng lạnh lùng hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The way a message is given can change how people react to it.",
+            "vi": "Cách truyền đạt một thông điệp có thể làm thay đổi cách người ta phản ứng."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The way a message is given can change how people react to it.",
+          "text_translation": "Cách truyền đạt một thông điệp có thể làm thay đổi cách người ta phản ứng."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bài 2: khi có điểm, học sinh \"mostly ignored the comments\". Bài 1: Chloe nói tin nhắn \"make everything sound colder than it really is\". Cả hai đều cho thấy hình thức truyền đạt ảnh hưởng tới phản ứng."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. Which idea do Chloe's rule about texting and Butler's study share?",
+      "question_vn": "Dựa vào cả hai bài. Quy tắc nhắn tin của Chloe và nghiên cứu của Butler có chung ý nào?",
+      "explanation": "Câu nối hai bài. Bài 2: khi có điểm, học sinh \"mostly ignored the comments\". Bài 1: Chloe nói tin nhắn \"make everything sound colder than it really is\". Cả hai đều cho thấy hình thức truyền đạt ảnh hưởng tới phản ứng."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u0304_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 3) — Tin nhắn đêm khuya giữa Leah và Chloe",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u0304_01",
+      "question_ids": [
+        "q_u0304_001",
+        "q_u0304_002",
+        "q_u0304_003",
+        "q_u0304_004",
+        "q_u0304_005",
+        "q_u0304_006",
+        "q_u0304_007",
+        "q_u0304_008",
+        "q_u0304_009",
+        "q_u0304_010"
+      ]
+    },
+    {
+      "set_id": "set_u0304_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 4) — Điểm số có giúp ta học tốt hơn?",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u0304_02",
+      "question_ids": [
+        "q_u0304_011",
+        "q_u0304_012",
+        "q_u0304_013",
+        "q_u0304_014",
+        "q_u0304_015",
+        "q_u0304_016",
+        "q_u0304_017",
+        "q_u0304_018",
+        "q_u0304_019",
+        "q_u0304_020"
+      ]
+    }
+  ]
+}

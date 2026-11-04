@@ -1,0 +1,1220 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 13 — Free time",
+      "vi": "Thời gian rảnh"
+    },
+    "title": "Unit 13 — Free time",
+    "title_vn": "Thời gian rảnh",
+    "module_code": "56_u13",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A1",
+    "curriculum_unit": "a1.u13",
+    "curriculum_sheets": [
+      "a1.49",
+      "a1.50",
+      "a1.51",
+      "a1.52"
+    ],
+    "characters": [
+      "Trevor Carter",
+      "Helena Brooks",
+      "Tracy Carter",
+      "Megan Carter",
+      "Jake",
+      "you"
+    ],
+    "story_time_i18n": {
+      "vi": "cuối tháng 5, năm 2"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Hiện tại tiếp diễn, be going to (kế hoạch), hẹn giờ và chỗ gặp, sở thích, giá, điều kiện",
+    "description_vn": "Trevor nhắn tin rủ Jake đi xem bóng chiều thứ Bảy, và áp phích lớp vẽ Chủ nhật của Helena ở quán Harriet's. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 13 khoá A1 · phiếu `a1.49` – `a1.52` (sở thích, thể thao, âm nhạc và phim, lên kế hoạch cuối tuần)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một chuỗi tin nhắn rủ bạn đi xem bóng và một áp phích lớp vẽ; hiểu hiện tại tiếp diễn (I'm doing…) cho việc đang làm, be going to cho kế hoạch, cách hẹn giờ và chỗ gặp (Let's meet at…), giá tiền, điều kiện (only after…), và cách nói về sở thích (interested in, favorite hobby)."
+    },
+    "extra_words": [
+      {
+        "word": "poem",
+        "i18n": {
+          "vi": "bài thơ"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "What are you doing?",
+          "vi": "Bạn đang làm gì đấy?"
+        }
+      },
+      {
+        "i18n": {
+          "en": "come along",
+          "vi": "đi cùng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Let's meet at …",
+          "vi": "Mình gặp nhau ở … nhé"
+        }
+      },
+      {
+        "i18n": {
+          "en": "have fun",
+          "vi": "vui chơi; chơi vui"
+        }
+      },
+      {
+        "i18n": {
+          "en": "put up",
+          "vi": "treo lên, dán lên"
+        }
+      },
+      {
+        "i18n": {
+          "en": "be interested in",
+          "vi": "quan tâm tới; thích"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Phân biệt hai thì: **be + V-ing** (I'm playing…) là việc **đang** làm lúc nhắn tin; **be going to + V** (I'm going to watch…) là **kế hoạch** sắp làm. Câu hỏi \"What is … doing?\" và \"What is … going to do?\" hỏi hai chuyện khác nhau."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Tin nhắn có nhiều người nói: trước khi chọn đáp án, xem câu đó **ai** nói (Trevor hay Jake), vì đề hay lấy việc của người này làm phương án nhiễu cho người kia."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Điều kiện thường nằm sau **only after**, **but**: \"I can go … only after my homework\" nghĩa là phải xong bài tập rồi mới được đi."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Áp phích có nhiều giờ và giá: đọc theo từng dòng (lớp nào, mấy giờ, bao nhiêu tiền). Câu hỏi tính tiền cho nhiều người thì xếp từng người vào đúng lớp rồi mới cộng."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u13_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Trevor rủ bạn đi xem bóng"
+      },
+      "title": "A Plan for Saturday",
+      "category": "letter",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 60,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A Plan for Saturday",
+            "vi": "Kế hoạch cho thứ Bảy"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Trevor is writing to Jake, a new player on his team.",
+            "vi": "Trevor đang nhắn tin cho Jake, một cầu thủ mới trong đội bóng của cậu."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "What are you doing, Jake?",
+            "vi": "Cậu đang làm gì đấy, Jake?"
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Jake",
+          "label": null,
+          "i18n": {
+            "en": "I'm playing a video game with my little brother.",
+            "vi": "Tớ đang chơi điện tử với em trai tớ."
+          }
+        },
+        {
+          "n": 5,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "The Blue Sharks are playing the Red Lions tomorrow afternoon!",
+            "vi": "Chiều mai đội Blue Sharks đá với đội Red Lions đấy!"
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "I'm going to watch it at Pine Street Park. Want to come along?",
+            "vi": "Tớ định đi xem ở công viên Pine Street. Đi cùng không?"
+          }
+        },
+        {
+          "n": 7,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Jake",
+          "label": null,
+          "i18n": {
+            "en": "Sure! But what about our game in the morning?",
+            "vi": "Có chứ! Nhưng còn trận của đội mình sáng mai thì sao?"
+          }
+        },
+        {
+          "n": 8,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "It finishes at ten, and the big match starts at three, so let's meet at Harriet's at half past two.",
+            "vi": "Trận đó xong lúc mười giờ, còn trận lớn ba giờ mới bắt đầu, nên tụi mình gặp nhau ở quán Harriet's lúc hai giờ rưỡi nhé."
+          }
+        },
+        {
+          "n": 9,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Jake",
+          "label": null,
+          "i18n": {
+            "en": "Cool! Are you playing games tonight, too?",
+            "vi": "Tuyệt! Tối nay cậu cũng đang chơi điện tử à?"
+          }
+        },
+        {
+          "n": 10,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "No, I'm doing my homework. On a Friday night!",
+            "vi": "Không, tớ đang làm bài tập. Vào tối thứ Sáu đấy!"
+          }
+        },
+        {
+          "n": 11,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": "Jake",
+          "label": null,
+          "i18n": {
+            "en": "What? You never do your homework!",
+            "vi": "Hả? Cậu có bao giờ làm bài tập đâu!"
+          }
+        },
+        {
+          "n": 12,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "I know! But Mom says I can go only after my homework.",
+            "vi": "Tớ biết mà! Nhưng mẹ tớ bảo phải làm xong bài tập thì mới được đi."
+          }
+        },
+        {
+          "n": 13,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "And my sister Tracy is going to come with us. Mom says, \"No Tracy, no match!\"",
+            "vi": "Với lại chị Tracy của tớ cũng sẽ đi cùng tụi mình. Mẹ tớ bảo: \"Không có Tracy thì không có xem bóng!\""
+          }
+        },
+        {
+          "n": 14,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": "Jake",
+          "label": null,
+          "i18n": {
+            "en": "See you at Harriet's. Have fun with your homework!",
+            "vi": "Hẹn gặp cậu ở quán Harriet's. Làm bài tập vui vẻ nhé!"
+          }
+        }
+      ],
+      "content_ja": "A Plan for Saturday\n\nTrevor is writing to Jake, a new player on his team.\n\nTrevor: What are you doing, Jake?\n\nJake: I'm playing a video game with my little brother.\n\nTrevor: The Blue Sharks are playing the Red Lions tomorrow afternoon! I'm going to watch it at Pine Street Park. Want to come along?\n\nJake: Sure! But what about our game in the morning?\n\nTrevor: It finishes at ten, and the big match starts at three, so let's meet at Harriet's at half past two.\n\nJake: Cool! Are you playing games tonight, too?\n\nTrevor: No, I'm doing my homework. On a Friday night!\n\nJake: What? You never do your homework!\n\nTrevor: I know! But Mom says I can go only after my homework. And my sister Tracy is going to come with us. Mom says, \"No Tracy, no match!\"\n\nJake: See you at Harriet's. Have fun with your homework!",
+      "translation_vn": "(1) Kế hoạch cho thứ Bảy\n(2) Trevor đang nhắn tin cho Jake, một cầu thủ mới trong đội bóng của cậu.\n(3) Trevor: Cậu đang làm gì đấy, Jake?\n(4) Jake: Tớ đang chơi điện tử với em trai tớ.\n(5) Trevor: Chiều mai đội Blue Sharks đá với đội Red Lions đấy!\n(6) Trevor: Tớ định đi xem ở công viên Pine Street. Đi cùng không?\n(7) Jake: Có chứ! Nhưng còn trận của đội mình sáng mai thì sao?\n(8) Trevor: Trận đó xong lúc mười giờ, còn trận lớn ba giờ mới bắt đầu, nên tụi mình gặp nhau ở quán Harriet's lúc hai giờ rưỡi nhé.\n(9) Jake: Tuyệt! Tối nay cậu cũng đang chơi điện tử à?\n(10) Trevor: Không, tớ đang làm bài tập. Vào tối thứ Sáu đấy!\n(11) Jake: Hả? Cậu có bao giờ làm bài tập đâu!\n(12) Trevor: Tớ biết mà! Nhưng mẹ tớ bảo phải làm xong bài tập thì mới được đi.\n(13) Trevor: Với lại chị Tracy của tớ cũng sẽ đi cùng tụi mình. Mẹ tớ bảo: \"Không có Tracy thì không có xem bóng!\"\n(14) Jake: Hẹn gặp cậu ở quán Harriet's. Làm bài tập vui vẻ nhé!",
+      "word_count": 140,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.49",
+        "a1.50",
+        "a1.51",
+        "a1.52"
+      ],
+      "narrator": "announcer"
+    },
+    {
+      "id": "passage_u13_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Áp phích lớp vẽ Chủ nhật"
+      },
+      "title": "Sunday Painting Class at Harriet's",
+      "category": "advertisement",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 90,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sunday Painting Class at Harriet's",
+            "vi": "Lớp vẽ Chủ nhật ở quán Harriet's"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Are you interested in painting? Have fun with us every Sunday afternoon in June!",
+            "vi": "Bạn có thích vẽ tranh không? Hãy đến vui cùng chúng tôi vào mỗi chiều Chủ nhật trong tháng Sáu!"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet's closes at 1 p.m., so the room is free.",
+            "vi": "Chủ nhật quán Harriet's đóng cửa lúc 1 giờ chiều, nên buổi chiều căn phòng để trống."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Kids' class (6 to 11 years old): 2:00 to 3:00 p.m., $5",
+            "vi": "Lớp trẻ em (từ 6 đến 11 tuổi): 2 giờ đến 3 giờ chiều, 5 đô"
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Class for 12 and over: 3:30 to 5:00 p.m., $10",
+            "vi": "Lớp từ 12 tuổi trở lên: 3 giờ 30 đến 5 giờ chiều, 10 đô"
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We are going to paint the beach and the sea.",
+            "vi": "Chúng ta sẽ vẽ bãi biển và biển."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On the last Sunday, we are going to put up our paintings at Harriet's.",
+            "vi": "Vào Chủ nhật cuối cùng, chúng ta sẽ treo tranh của mình lên ở quán Harriet's."
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We have paper and paints.",
+            "vi": "Lớp có sẵn giấy và màu vẽ."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Bring an old T-shirt, because paint can get on your clothes.",
+            "vi": "Hãy mang theo một chiếc áo phông cũ, vì màu vẽ có thể dính vào quần áo của bạn."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You don't need to be good at painting. It's a fun activity!",
+            "vi": "Bạn không cần phải vẽ giỏi. Đây là một hoạt động cho vui thôi!"
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Each class has only ten places, so write your name on the list at Harriet's.",
+            "vi": "Mỗi lớp chỉ có mười chỗ, nên bạn hãy ghi tên vào danh sách ở quán Harriet's."
+          }
+        },
+        {
+          "n": 12,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "From your teacher: I'm an engineer, and I build bridges at work.",
+            "vi": "Lời của giáo viên: Tôi là kỹ sư, công việc của tôi là xây cầu."
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I also play the piano and write poems, but painting is my favorite hobby.",
+            "vi": "Tôi cũng chơi piano và làm thơ, nhưng vẽ tranh mới là sở thích lớn nhất của tôi."
+          }
+        },
+        {
+          "n": 14,
+          "para": 9,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Helena Brooks",
+            "vi": "Helena Brooks"
+          }
+        }
+      ],
+      "content_ja": "Sunday Painting Class at Harriet's\n\nAre you interested in painting? Have fun with us every Sunday afternoon in June! Harriet's closes at 1 p.m., so the room is free.\n\nKids' class (6 to 11 years old): 2:00 to 3:00 p.m., $5\n\nClass for 12 and over: 3:30 to 5:00 p.m., $10\n\nWe are going to paint the beach and the sea. On the last Sunday, we are going to put up our paintings at Harriet's.\n\nWe have paper and paints. Bring an old T-shirt, because paint can get on your clothes. You don't need to be good at painting. It's a fun activity!\n\nEach class has only ten places, so write your name on the list at Harriet's.\n\nFrom your teacher: I'm an engineer, and I build bridges at work. I also play the piano and write poems, but painting is my favorite hobby.\n\nHelena Brooks",
+      "translation_vn": "(1) Lớp vẽ Chủ nhật ở quán Harriet's\n(2) Bạn có thích vẽ tranh không? Hãy đến vui cùng chúng tôi vào mỗi chiều Chủ nhật trong tháng Sáu!\n(3) Chủ nhật quán Harriet's đóng cửa lúc 1 giờ chiều, nên buổi chiều căn phòng để trống.\n(4) Lớp trẻ em (từ 6 đến 11 tuổi): 2 giờ đến 3 giờ chiều, 5 đô\n(5) Lớp từ 12 tuổi trở lên: 3 giờ 30 đến 5 giờ chiều, 10 đô\n(6) Chúng ta sẽ vẽ bãi biển và biển.\n(7) Vào Chủ nhật cuối cùng, chúng ta sẽ treo tranh của mình lên ở quán Harriet's.\n(8) Lớp có sẵn giấy và màu vẽ.\n(9) Hãy mang theo một chiếc áo phông cũ, vì màu vẽ có thể dính vào quần áo của bạn.\n(10) Bạn không cần phải vẽ giỏi. Đây là một hoạt động cho vui thôi!\n(11) Mỗi lớp chỉ có mười chỗ, nên bạn hãy ghi tên vào danh sách ở quán Harriet's.\n(12) Lời của giáo viên: Tôi là kỹ sư, công việc của tôi là xây cầu.\n(13) Tôi cũng chơi piano và làm thơ, nhưng vẽ tranh mới là sở thích lớn nhất của tôi.\n(14) Helena Brooks",
+      "word_count": 140,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.49",
+        "a1.50",
+        "a1.51",
+        "a1.52"
+      ],
+      "narrator": "Helena"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u13_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u13_01",
+      "i18n": {
+        "en": "What is Jake doing when Trevor writes to him?",
+        "vi": "Lúc Trevor nhắn tin tới, Jake đang làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He is doing his homework.",
+            "vi": "Đang làm bài tập."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He is doing his homework.",
+          "text_translation": "Đang làm bài tập."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He is playing a video game.",
+            "vi": "Đang chơi điện tử."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "He is playing a video game.",
+          "text_translation": "Đang chơi điện tử."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He is watching a soccer match.",
+            "vi": "Đang xem một trận bóng đá."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He is watching a soccer match.",
+          "text_translation": "Đang xem một trận bóng đá."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He is playing soccer with his team.",
+            "vi": "Đang đá bóng với đội của mình."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He is playing soccer with his team.",
+          "text_translation": "Đang đá bóng với đội của mình."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"I'm playing a video game with my little brother.\" Người đang làm bài tập là Trevor, không phải Jake. Trận Blue Sharks gặp Red Lions là vào chiều mai. Trận của đội Jake là vào sáng mai (\"our game in the morning\"), nên lúc này Jake chưa đá bóng."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "What are you doing? hỏi việc đang làm ngay lúc nói. Câu trả lời dùng be + V-ing: I'm playing…, I'm doing…"
+      },
+      "question_jp": "What is Jake doing when Trevor writes to him?",
+      "question_vn": "Lúc Trevor nhắn tin tới, Jake đang làm gì?",
+      "explanation": "\"I'm playing a video game with my little brother.\" Người đang làm bài tập là Trevor, không phải Jake. Trận Blue Sharks gặp Red Lions là vào chiều mai. Trận của đội Jake là vào sáng mai (\"our game in the morning\"), nên lúc này Jake chưa đá bóng.",
+      "tip": "What are you doing? hỏi việc đang làm ngay lúc nói. Câu trả lời dùng be + V-ing: I'm playing…, I'm doing…"
+    },
+    {
+      "id": "q_u13_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u13_01",
+      "i18n": {
+        "en": "What time are Trevor and Jake going to meet?",
+        "vi": "Trevor và Jake định gặp nhau lúc mấy giờ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at ten o'clock",
+            "vi": "lúc mười giờ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "at ten o'clock",
+          "text_translation": "lúc mười giờ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at three o'clock",
+            "vi": "lúc ba giờ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "at three o'clock",
+          "text_translation": "lúc ba giờ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "on Friday night",
+            "vi": "vào tối thứ Sáu"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "on Friday night",
+          "text_translation": "vào tối thứ Sáu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at half past two",
+            "vi": "lúc hai giờ rưỡi"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "at half past two",
+          "text_translation": "lúc hai giờ rưỡi"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"It finishes at ten, and the big match starts at three, so let's meet at Harriet's at half past two.\" Mười giờ là lúc trận của đội hai bạn kết thúc, ba giờ là lúc trận lớn bắt đầu. Tối thứ Sáu là lúc hai bạn đang nhắn tin (\"On a Friday night!\"), không phải lúc gặp nhau."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Bài có nhiều giờ: gạch chân từng giờ và ghi bên cạnh việc gì xảy ra lúc đó (finishes at ten, starts at three, meet at half past two)."
+      },
+      "question_jp": "What time are Trevor and Jake going to meet?",
+      "question_vn": "Trevor và Jake định gặp nhau lúc mấy giờ?",
+      "explanation": "\"It finishes at ten, and the big match starts at three, so let's meet at Harriet's at half past two.\" Mười giờ là lúc trận của đội hai bạn kết thúc, ba giờ là lúc trận lớn bắt đầu. Tối thứ Sáu là lúc hai bạn đang nhắn tin (\"On a Friday night!\"), không phải lúc gặp nhau.",
+      "tip": "Bài có nhiều giờ: gạch chân từng giờ và ghi bên cạnh việc gì xảy ra lúc đó (finishes at ten, starts at three, meet at half past two)."
+    },
+    {
+      "id": "q_u13_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u13_01",
+      "i18n": {
+        "en": "Where are they going to watch the big match?",
+        "vi": "Các bạn ấy định xem trận đấu lớn ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at Pine Street Park",
+            "vi": "ở công viên Pine Street"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "at Pine Street Park",
+          "text_translation": "ở công viên Pine Street"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at Harriet's",
+            "vi": "ở quán Harriet's"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "at Harriet's",
+          "text_translation": "ở quán Harriet's"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at Trevor's house",
+            "vi": "ở nhà Trevor"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "at Trevor's house",
+          "text_translation": "ở nhà Trevor"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at Jake's house",
+            "vi": "ở nhà Jake"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "at Jake's house",
+          "text_translation": "ở nhà Jake"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"I'm going to watch it at Pine Street Park.\" Quán Harriet's chỉ là chỗ hẹn gặp trước trận (\"let's meet at Harriet's at half past two\"). Nhà Trevor là chỗ Trevor đang làm bài tập, nhà Jake là chỗ Jake đang chơi điện tử với em trai."
+      },
+      "audio_data": null,
+      "question_jp": "Where are they going to watch the big match?",
+      "question_vn": "Các bạn ấy định xem trận đấu lớn ở đâu?",
+      "explanation": "\"I'm going to watch it at Pine Street Park.\" Quán Harriet's chỉ là chỗ hẹn gặp trước trận (\"let's meet at Harriet's at half past two\"). Nhà Trevor là chỗ Trevor đang làm bài tập, nhà Jake là chỗ Jake đang chơi điện tử với em trai."
+    },
+    {
+      "id": "q_u13_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u13_01",
+      "i18n": {
+        "en": "Why is Trevor doing his homework on a Friday night?",
+        "vi": "Vì sao Trevor làm bài tập vào tối thứ Sáu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "His friend Jake is doing his homework, too.",
+            "vi": "Vì bạn Jake cũng đang làm bài tập."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "His friend Jake is doing his homework, too.",
+          "text_translation": "Vì bạn Jake cũng đang làm bài tập."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tracy is helping him with it.",
+            "vi": "Vì chị Tracy đang giúp cậu làm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Tracy is helping him with it.",
+          "text_translation": "Vì chị Tracy đang giúp cậu làm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He wants to go to the match.",
+            "vi": "Vì cậu muốn được đi xem trận đấu."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "He wants to go to the match.",
+          "text_translation": "Vì cậu muốn được đi xem trận đấu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He always does his homework on Friday.",
+            "vi": "Vì thứ Sáu nào cậu cũng làm bài tập."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He always does his homework on Friday.",
+          "text_translation": "Vì thứ Sáu nào cậu cũng làm bài tập."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Trevor viết: \"But Mom says I can go only after my homework.\" Trevor muốn đi xem bóng chiều mai, nên phải làm xong bài tập ngay tối nay. Jake đang chơi điện tử, không làm bài tập. Bài không nói Tracy giúp Trevor làm bài. Jake còn kêu \"You never do your homework!\", nên không thể nói thứ Sáu nào Trevor cũng làm bài."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi Why…? có khi không có because trong bài. Tìm câu nêu điều kiện (only after…) rồi nối với việc nhân vật muốn làm."
+      },
+      "question_jp": "Why is Trevor doing his homework on a Friday night?",
+      "question_vn": "Vì sao Trevor làm bài tập vào tối thứ Sáu?",
+      "explanation": "Câu suy luận. Trevor viết: \"But Mom says I can go only after my homework.\" Trevor muốn đi xem bóng chiều mai, nên phải làm xong bài tập ngay tối nay. Jake đang chơi điện tử, không làm bài tập. Bài không nói Tracy giúp Trevor làm bài. Jake còn kêu \"You never do your homework!\", nên không thể nói thứ Sáu nào Trevor cũng làm bài.",
+      "tip": "Câu hỏi Why…? có khi không có because trong bài. Tìm câu nêu điều kiện (only after…) rồi nối với việc nhân vật muốn làm."
+    },
+    {
+      "id": "q_u13_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u13_01",
+      "i18n": {
+        "en": "Who is going to go to the big match?",
+        "vi": "Ai sẽ đi xem trận đấu lớn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "only Trevor and Jake",
+            "vi": "Chỉ có Trevor và Jake"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "only Trevor and Jake",
+          "text_translation": "Chỉ có Trevor và Jake"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trevor, Jake and Jake's little brother",
+            "vi": "Trevor, Jake và em trai của Jake"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Trevor, Jake and Jake's little brother",
+          "text_translation": "Trevor, Jake và em trai của Jake"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Trevor, Tracy and Mom",
+            "vi": "Trevor, Tracy và mẹ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Trevor, Tracy and Mom",
+          "text_translation": "Trevor, Tracy và mẹ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Trevor, Jake and Tracy",
+            "vi": "Trevor, Jake và Tracy"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Trevor, Jake and Tracy",
+          "text_translation": "Trevor, Jake và Tracy"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"And my sister Tracy is going to come with us.\" Mẹ còn nói \"No Tracy, no match!\", nghĩa là không có Tracy đi cùng thì hai bạn không được đi. Vậy người đi xem là Trevor, Jake và Tracy. Em trai Jake chỉ chơi điện tử cùng Jake. Mẹ đặt điều kiện, nhưng bài không nói mẹ đi xem."
+      },
+      "audio_data": null,
+      "question_jp": "Who is going to go to the big match?",
+      "question_vn": "Ai sẽ đi xem trận đấu lớn?",
+      "explanation": "\"And my sister Tracy is going to come with us.\" Mẹ còn nói \"No Tracy, no match!\", nghĩa là không có Tracy đi cùng thì hai bạn không được đi. Vậy người đi xem là Trevor, Jake và Tracy. Em trai Jake chỉ chơi điện tử cùng Jake. Mẹ đặt điều kiện, nhưng bài không nói mẹ đi xem."
+    },
+    {
+      "id": "q_u13_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u13_02",
+      "i18n": {
+        "en": "What time does the kids' class start?",
+        "vi": "Lớp trẻ em bắt đầu lúc mấy giờ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at 2 p.m.",
+            "vi": "lúc 2 giờ chiều"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "at 2 p.m.",
+          "text_translation": "lúc 2 giờ chiều"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at 1 p.m.",
+            "vi": "lúc 1 giờ chiều"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "at 1 p.m.",
+          "text_translation": "lúc 1 giờ chiều"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at 3 p.m.",
+            "vi": "lúc 3 giờ chiều"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "at 3 p.m.",
+          "text_translation": "lúc 3 giờ chiều"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at 3:30 p.m.",
+            "vi": "lúc 3 giờ 30 chiều"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "at 3:30 p.m.",
+          "text_translation": "lúc 3 giờ 30 chiều"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Kids' class (6 to 11 years old): 2:00 to 3:00 p.m., $5\". 1 giờ chiều là giờ quán Harriet's đóng cửa ngày Chủ nhật. 3 giờ là giờ lớp trẻ em kết thúc, còn 3 giờ 30 là giờ lớp từ 12 tuổi trở lên bắt đầu."
+      },
+      "audio_data": null,
+      "question_jp": "What time does the kids' class start?",
+      "question_vn": "Lớp trẻ em bắt đầu lúc mấy giờ?",
+      "explanation": "\"Kids' class (6 to 11 years old): 2:00 to 3:00 p.m., $5\". 1 giờ chiều là giờ quán Harriet's đóng cửa ngày Chủ nhật. 3 giờ là giờ lớp trẻ em kết thúc, còn 3 giờ 30 là giờ lớp từ 12 tuổi trở lên bắt đầu."
+    },
+    {
+      "id": "q_u13_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u13_02",
+      "i18n": {
+        "en": "What are the students going to paint in June?",
+        "vi": "Trong tháng Sáu, học viên sẽ vẽ gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet's",
+            "vi": "quán Harriet's"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Harriet's",
+          "text_translation": "quán Harriet's"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "their T-shirts",
+            "vi": "áo phông của mình"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "their T-shirts",
+          "text_translation": "áo phông của mình"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the beach and the sea",
+            "vi": "bãi biển và biển"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "the beach and the sea",
+          "text_translation": "bãi biển và biển"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "bridges",
+            "vi": "những cây cầu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "bridges",
+          "text_translation": "những cây cầu"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"We are going to paint the beach and the sea.\" Quán Harriet's là nơi treo tranh vào Chủ nhật cuối cùng (\"put up our paintings at Harriet's\"), không phải thứ được vẽ. Xây cầu là công việc kỹ sư của Helena, không phải đề tài của lớp vẽ. Áo phông cũ là để mặc khi vẽ, không phải để vẽ lên."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "be going to + động từ nói về kế hoạch đã định: we are going to paint = chúng ta sẽ vẽ (đã lên kế hoạch)."
+      },
+      "question_jp": "What are the students going to paint in June?",
+      "question_vn": "Trong tháng Sáu, học viên sẽ vẽ gì?",
+      "explanation": "\"We are going to paint the beach and the sea.\" Quán Harriet's là nơi treo tranh vào Chủ nhật cuối cùng (\"put up our paintings at Harriet's\"), không phải thứ được vẽ. Xây cầu là công việc kỹ sư của Helena, không phải đề tài của lớp vẽ. Áo phông cũ là để mặc khi vẽ, không phải để vẽ lên.",
+      "tip": "be going to + động từ nói về kế hoạch đã định: we are going to paint = chúng ta sẽ vẽ (đã lên kế hoạch)."
+    },
+    {
+      "id": "q_u13_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u13_02",
+      "i18n": {
+        "en": "What do you need to bring to the class?",
+        "vi": "Bạn cần mang gì tới lớp?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "paper",
+            "vi": "giấy"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "paper",
+          "text_translation": "giấy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "an old T-shirt",
+            "vi": "một chiếc áo phông cũ"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "an old T-shirt",
+          "text_translation": "một chiếc áo phông cũ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "paints",
+            "vi": "màu vẽ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "paints",
+          "text_translation": "màu vẽ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a picture of the beach",
+            "vi": "một bức tranh bãi biển"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a picture of the beach",
+          "text_translation": "một bức tranh bãi biển"
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Bring an old T-shirt, because paint can get on your clothes.\" Giấy và màu vẽ thì lớp có sẵn: \"We have paper and paints.\" Bãi biển là thứ cả lớp sẽ cùng vẽ (\"We are going to paint the beach and the sea.\"), nên không cần mang tranh có sẵn."
+      },
+      "audio_data": null,
+      "question_jp": "What do you need to bring to the class?",
+      "question_vn": "Bạn cần mang gì tới lớp?",
+      "explanation": "\"Bring an old T-shirt, because paint can get on your clothes.\" Giấy và màu vẽ thì lớp có sẵn: \"We have paper and paints.\" Bãi biển là thứ cả lớp sẽ cùng vẽ (\"We are going to paint the beach and the sea.\"), nên không cần mang tranh có sẵn."
+    },
+    {
+      "id": "q_u13_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u13_02",
+      "i18n": {
+        "en": "What is Helena's job?",
+        "vi": "Helena làm nghề gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is a painter.",
+            "vi": "Cô ấy là hoạ sĩ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She is a painter.",
+          "text_translation": "Cô ấy là hoạ sĩ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is a musician.",
+            "vi": "Cô ấy là nhạc sĩ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She is a musician.",
+          "text_translation": "Cô ấy là nhạc sĩ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She is a teacher at a school.",
+            "vi": "Cô ấy là giáo viên ở một trường học."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She is a teacher at a school.",
+          "text_translation": "Cô ấy là giáo viên ở một trường học."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is an engineer.",
+            "vi": "Cô ấy là kỹ sư."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She is an engineer.",
+          "text_translation": "Cô ấy là kỹ sư."
+        }
+      ],
+      "evidence_segments": [
+        12,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"From your teacher: I'm an engineer, and I build bridges at work.\" Helena dạy lớp vẽ và rất thích vẽ, nhưng vẽ tranh là sở thích (\"painting is my favorite hobby\"), không phải nghề của cô. Helena có chơi piano (\"I also play the piano\"), nhưng đó cũng là việc làm lúc rảnh, không phải nghề. Bài cũng không nói Helena dạy ở trường học."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "hobby là việc làm lúc rảnh cho vui, job là nghề kiếm sống. Đề hay lấy sở thích làm phương án nhiễu cho câu hỏi về nghề."
+      },
+      "question_jp": "What is Helena's job?",
+      "question_vn": "Helena làm nghề gì?",
+      "explanation": "\"From your teacher: I'm an engineer, and I build bridges at work.\" Helena dạy lớp vẽ và rất thích vẽ, nhưng vẽ tranh là sở thích (\"painting is my favorite hobby\"), không phải nghề của cô. Helena có chơi piano (\"I also play the piano\"), nhưng đó cũng là việc làm lúc rảnh, không phải nghề. Bài cũng không nói Helena dạy ở trường học.",
+      "tip": "hobby là việc làm lúc rảnh cho vui, job là nghề kiếm sống. Đề hay lấy sở thích làm phương án nhiễu cho câu hỏi về nghề."
+    },
+    {
+      "id": "q_u13_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u13_02",
+      "i18n": {
+        "en": "Megan and her daughter Tina (7 years old) both want to take a class. How much are they going to pay?",
+        "vi": "Megan và con gái Tina (7 tuổi) đều muốn học một lớp. Hai mẹ con sẽ trả bao nhiêu tiền?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "$5",
+            "vi": "5 đô"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "$5",
+          "text_translation": "5 đô"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "$10",
+            "vi": "10 đô"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "$10",
+          "text_translation": "10 đô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "$15",
+            "vi": "15 đô"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "$15",
+          "text_translation": "15 đô"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "$20",
+            "vi": "20 đô"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "$20",
+          "text_translation": "20 đô"
+        }
+      ],
+      "evidence_segments": [
+        4,
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Tina 7 tuổi nên học lớp trẻ em: \"Kids' class (6 to 11 years old): 2:00 to 3:00 p.m., $5\". Megan là người lớn: \"Class for 12 and over: 3:30 to 5:00 p.m., $10\". Cộng lại là 5 + 10 = 15 đô. 5 đô hay 10 đô là giá cho một người, còn 20 đô là giá cho hai người từ 12 tuổi trở lên."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi về giá cho nhiều người: xếp từng người vào đúng lớp hoặc loại vé trước, rồi mới cộng."
+      },
+      "question_jp": "Megan and her daughter Tina (7 years old) both want to take a class. How much are they going to pay?",
+      "question_vn": "Megan và con gái Tina (7 tuổi) đều muốn học một lớp. Hai mẹ con sẽ trả bao nhiêu tiền?",
+      "explanation": "Câu suy luận. Tina 7 tuổi nên học lớp trẻ em: \"Kids' class (6 to 11 years old): 2:00 to 3:00 p.m., $5\". Megan là người lớn: \"Class for 12 and over: 3:30 to 5:00 p.m., $10\". Cộng lại là 5 + 10 = 15 đô. 5 đô hay 10 đô là giá cho một người, còn 20 đô là giá cho hai người từ 12 tuổi trở lên.",
+      "tip": "Câu hỏi về giá cho nhiều người: xếp từng người vào đúng lớp hoặc loại vé trước, rồi mới cộng."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u13_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Trevor rủ bạn đi xem bóng",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u13_01",
+      "question_ids": [
+        "q_u13_001",
+        "q_u13_002",
+        "q_u13_003",
+        "q_u13_004",
+        "q_u13_005"
+      ]
+    },
+    {
+      "set_id": "set_u13_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Áp phích lớp vẽ Chủ nhật",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u13_02",
+      "question_ids": [
+        "q_u13_006",
+        "q_u13_007",
+        "q_u13_008",
+        "q_u13_009",
+        "q_u13_010"
+      ]
+    }
+  ]
+}

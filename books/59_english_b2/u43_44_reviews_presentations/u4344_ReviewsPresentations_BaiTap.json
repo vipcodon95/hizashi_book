@@ -1,0 +1,1962 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 43–44 — Opinions and reviews & Presentations",
+      "vi": "Ý kiến, nhận xét & Thuyết trình"
+    },
+    "title": "Units 43–44 — Opinions and reviews & Presentations",
+    "title_vn": "Ý kiến, nhận xét & Thuyết trình",
+    "module_code": "59_u4344",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.u43+u44",
+    "curriculum_sheets": [
+      "b2.169",
+      "b2.170",
+      "b2.171",
+      "b2.172",
+      "b2.173",
+      "b2.174",
+      "b2.175",
+      "b2.176"
+    ],
+    "characters": [
+      "Trevor Carter",
+      "Tracy Carter",
+      "Leah Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 9, năm 7"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Ý kiến có lý do, mở rộng câu trả lời, giọng đùa, liên hệ chi tiết",
+    "description_vn": "Trevor nhận xét tháng đầu tiên ở đại học cho học sinh Westview High, và Tracy tập phỏng vấn xin việc chính thức với Leah. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 43 + Unit 44 khoá B2 · phiếu `b2.169` – `b2.176` (ý kiến, nhận xét, đánh giá; thuyết trình, phỏng vấn, mở rộng câu trả lời khi nói)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài nhận xét có chấm sao và một buổi tập phỏng vấn; nhận ra cách đưa ý kiến có lý do và ví dụ, các cụm mở rộng câu trả lời (Well, I'd say…, The thing is…, To give you an example…, What I've learned is…), giọng đùa trong bài nhận xét (I am being kind), câu tự hỏi tự đáp, và liên hệ chi tiết với các chương trước."
+    },
+    "extra_words": [
+      {
+        "word": "excite",
+        "i18n": {
+          "vi": "làm hào hứng"
+        }
+      },
+      {
+        "word": "internship",
+        "i18n": {
+          "vi": "kỳ thực tập"
+        }
+      },
+      {
+        "word": "professor",
+        "i18n": {
+          "vi": "giáo sư"
+        }
+      },
+      {
+        "word": "office hours",
+        "i18n": {
+          "vi": "giờ tiếp sinh viên của giáo sư"
+        }
+      },
+      {
+        "word": "quiz",
+        "i18n": {
+          "vi": "bài kiểm tra nhỏ"
+        }
+      },
+      {
+        "word": "dorm",
+        "i18n": {
+          "vi": "ký túc xá"
+        }
+      },
+      {
+        "word": "in a row",
+        "i18n": {
+          "vi": "liên tiếp"
+        }
+      },
+      {
+        "word": "interviewer",
+        "i18n": {
+          "vi": "người phỏng vấn"
+        }
+      },
+      {
+        "word": "perfectionist",
+        "i18n": {
+          "vi": "người cầu toàn"
+        }
+      },
+      {
+        "word": "full-time",
+        "i18n": {
+          "vi": "toàn thời gian, chính thức"
+        }
+      },
+      {
+        "word": "hired",
+        "i18n": {
+          "vi": "được tuyển"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "be honest",
+          "vi": "hãy thành thật"
+        }
+      },
+      {
+        "i18n": {
+          "en": "get someone to yourself",
+          "vi": "được ai dành riêng cho mình"
+        }
+      },
+      {
+        "i18n": {
+          "en": "I am being kind",
+          "vi": "tôi đang nương tay"
+        }
+      },
+      {
+        "i18n": {
+          "en": "look good on paper",
+          "vi": "trông đẹp trên giấy tờ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Well, I'd say…",
+          "vi": "Dạ, tôi nghĩ…"
+        }
+      },
+      {
+        "i18n": {
+          "en": "The thing is…",
+          "vi": "Chuyện là…"
+        }
+      },
+      {
+        "i18n": {
+          "en": "fill every silence",
+          "vi": "lấp đầy mọi khoảng lặng"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Bài nhận xét có chấm điểm: mỗi mục có một con số và lý do. Câu hỏi \"Why does he give … stars?\" lấy lý do ngay sau con số."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu đùa trong bài nhận xét (`two stars, and I am being kind`) nghĩa là thực tế còn tệ hơn con số."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu trả lời phỏng vấn tốt có 3 phần: trả lời → lý do → ví dụ. Câu hỏi về lời khuyên của Leah lấy đúng công thức này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Chi tiết nối với các chương trước (bông cải xanh, cuộc gọi đêm trước kỳ thi) giúp đoán ý ngầm. Hãy nhớ lại câu chuyện cũ của nhân vật."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u4344_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 43) — Trevor nhận xét tháng đầu ở đại học"
+      },
+      "narrator": "Trevor",
+      "title": "An Honest Review of My First Month at College",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "An Honest Review of My First Month at College",
+            "vi": "Nhận xét thật lòng về tháng đầu tiên ở đại học"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Written by: Trevor Carter, for the Westview High \"Life After High School\" page",
+            "vi": "Người viết: Trevor Carter, cho chuyên mục \"Cuộc sống sau trung học\" của trường Westview High"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ms. Park asked me to write something for students who are applying to college this year. She said \"be honest\", so I will be.",
+            "vi": "Cô Park nhờ em viết vài dòng cho các bạn đang nộp hồ sơ đại học năm nay. Cô bảo \"hãy thành thật\", nên em sẽ thành thật."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I am studying environmental engineering at a large public university in Northern California, about eight hours' drive from San Diego. Here is my first-month review.",
+            "vi": "Em đang học kỹ thuật môi trường ở một trường đại học công lập lớn ở Bắc California, cách San Diego khoảng tám tiếng lái xe. Đây là nhận xét tháng đầu của em."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Classes: four stars out of five.",
+            "vi": "Lớp học: bốn trên năm sao."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My first-year engineering class is far harder than anything at high school, and I failed my first quiz. However, the professors hold \"office hours\", when you can visit them and ask questions, and nobody told me how useful they are. Go to them. Everybody else is too shy, so you will get the professor to yourself.",
+            "vi": "Lớp kỹ thuật năm nhất khó hơn hẳn mọi thứ ở trung học, và em trượt bài kiểm tra nhỏ đầu tiên. Nhưng các giáo sư có \"giờ tiếp sinh viên\", lúc mình có thể tới gặp và hỏi bài, mà chẳng ai nói cho em biết nó có ích tới mức nào. Hãy tới. Ai cũng ngại, nên các bạn sẽ được giáo sư dành riêng cho mình."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Living in a dorm: three stars.",
+            "vi": "Sống ở ký túc xá: ba sao."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My roommate is a nice guy from Texas who plays the guitar at midnight. We have had one serious conversation about it. It went better than I expected, partly because I used something that my sister taught me: talk about yourself, not the other person.",
+            "vi": "Bạn cùng phòng của em là một anh chàng tử tế đến từ Texas, hay chơi ghi-ta lúc nửa đêm. Bọn em đã có một cuộc nói chuyện nghiêm túc về chuyện đó. Nó suôn sẻ hơn em tưởng, một phần vì em dùng một mẹo chị gái dạy: nói về mình, đừng nói về người kia."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Food: two stars, and I am being kind.",
+            "vi": "Đồ ăn: hai sao, mà em đang nương tay đấy."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I did not appreciate my dad's cooking until I was eating cold pasta for the third night in a row. Dad, if you are reading this: I miss your salmon. Even the broccoli.",
+            "vi": "Em chưa từng biết quý tài nấu ăn của bố cho tới khi ăn mì Ý nguội tối thứ ba liên tiếp. Bố ơi, nếu bố đang đọc: con nhớ món cá hồi của bố. Nhớ cả bông cải xanh."
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Soccer: five stars.",
+            "vi": "Bóng đá: năm sao."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I didn't make the university team, which was disappointing. But I joined a club team, and the players come from twelve different states and three countries. It is the best part of my week.",
+            "vi": "Em không vào được đội tuyển của trường, hơi thất vọng. Nhưng em vào một đội câu lạc bộ, cầu thủ đến từ mười hai bang và ba nước. Đó là phần vui nhất trong tuần."
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Overall: four stars.",
+            "vi": "Tổng thể: bốn sao."
+          }
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Is it hard? Yes. Do I sometimes miss home? Every Sunday. Would I choose it again? Absolutely. My advice: choose a place that excites you, not just a place that looks good on paper, and call your family more than you think you need to.",
+            "vi": "Có khó không? Có. Có lúc nào nhớ nhà không? Chủ nhật nào cũng nhớ. Có chọn lại không? Chắc chắn. Lời khuyên của em: hãy chọn nơi khiến mình hào hứng, chứ không chỉ nơi trông đẹp trên giấy tờ, và hãy gọi về nhà nhiều hơn mức mình nghĩ là cần."
+          }
+        }
+      ],
+      "content_ja": "An Honest Review of My First Month at College\n\nWritten by: Trevor Carter, for the Westview High \"Life After High School\" page\n\nMs. Park asked me to write something for students who are applying to college this year. She said \"be honest\", so I will be. I am studying environmental engineering at a large public university in Northern California, about eight hours' drive from San Diego. Here is my first-month review.\n\nClasses: four stars out of five.\n\nMy first-year engineering class is far harder than anything at high school, and I failed my first quiz. However, the professors hold \"office hours\", when you can visit them and ask questions, and nobody told me how useful they are. Go to them. Everybody else is too shy, so you will get the professor to yourself.\n\nLiving in a dorm: three stars. My roommate is a nice guy from Texas who plays the guitar at midnight. We have had one serious conversation about it. It went better than I expected, partly because I used something that my sister taught me: talk about yourself, not the other person.\n\nFood: two stars, and I am being kind.\n\nI did not appreciate my dad's cooking until I was eating cold pasta for the third night in a row. Dad, if you are reading this: I miss your salmon. Even the broccoli.\n\nSoccer: five stars.\n\nI didn't make the university team, which was disappointing. But I joined a club team, and the players come from twelve different states and three countries. It is the best part of my week.\n\nOverall: four stars.\n\nIs it hard? Yes. Do I sometimes miss home? Every Sunday. Would I choose it again? Absolutely. My advice: choose a place that excites you, not just a place that looks good on paper, and call your family more than you think you need to.",
+      "translation_vn": "(1) Nhận xét thật lòng về tháng đầu tiên ở đại học\n(2) Người viết: Trevor Carter, cho chuyên mục \"Cuộc sống sau trung học\" của trường Westview High\n(3) Cô Park nhờ em viết vài dòng cho các bạn đang nộp hồ sơ đại học năm nay. Cô bảo \"hãy thành thật\", nên em sẽ thành thật.\n(4) Em đang học kỹ thuật môi trường ở một trường đại học công lập lớn ở Bắc California, cách San Diego khoảng tám tiếng lái xe. Đây là nhận xét tháng đầu của em.\n(5) Lớp học: bốn trên năm sao.\n(6) Lớp kỹ thuật năm nhất khó hơn hẳn mọi thứ ở trung học, và em trượt bài kiểm tra nhỏ đầu tiên. Nhưng các giáo sư có \"giờ tiếp sinh viên\", lúc mình có thể tới gặp và hỏi bài, mà chẳng ai nói cho em biết nó có ích tới mức nào. Hãy tới. Ai cũng ngại, nên các bạn sẽ được giáo sư dành riêng cho mình.\n(7) Sống ở ký túc xá: ba sao.\n(8) Bạn cùng phòng của em là một anh chàng tử tế đến từ Texas, hay chơi ghi-ta lúc nửa đêm. Bọn em đã có một cuộc nói chuyện nghiêm túc về chuyện đó. Nó suôn sẻ hơn em tưởng, một phần vì em dùng một mẹo chị gái dạy: nói về mình, đừng nói về người kia.\n(9) Đồ ăn: hai sao, mà em đang nương tay đấy.\n(10) Em chưa từng biết quý tài nấu ăn của bố cho tới khi ăn mì Ý nguội tối thứ ba liên tiếp. Bố ơi, nếu bố đang đọc: con nhớ món cá hồi của bố. Nhớ cả bông cải xanh.\n(11) Bóng đá: năm sao.\n(12) Em không vào được đội tuyển của trường, hơi thất vọng. Nhưng em vào một đội câu lạc bộ, cầu thủ đến từ mười hai bang và ba nước. Đó là phần vui nhất trong tuần.\n(13) Tổng thể: bốn sao.\n(14) Có khó không? Có. Có lúc nào nhớ nhà không? Chủ nhật nào cũng nhớ. Có chọn lại không? Chắc chắn. Lời khuyên của em: hãy chọn nơi khiến mình hào hứng, chứ không chỉ nơi trông đẹp trên giấy tờ, và hãy gọi về nhà nhiều hơn mức mình nghĩ là cần.",
+      "word_count": 312,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.169",
+        "b2.170",
+        "b2.171",
+        "b2.172"
+      ]
+    },
+    {
+      "id": "passage_u4344_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 44) — Tracy tập phỏng vấn xin việc với Leah"
+      },
+      "narrator": "announcer",
+      "title": "Practicing for the Interview",
+      "category": "story",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Practicing for the Interview",
+            "vi": "Tập dượt cho buổi phỏng vấn"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tracy had a final interview on Monday for a full-time job at Brandt & Lowe, the engineering company where she had done her internship. On Saturday, Leah offered to practice with her.",
+            "vi": "Thứ Hai Tracy có buổi phỏng vấn cuối cho vị trí chính thức ở Brandt & Lowe, công ty kỹ thuật nơi cô từng thực tập. Thứ Bảy, Leah xung phong tập cùng cô."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "OK. First question: why do you want to work here?",
+            "vi": "Được rồi. Câu hỏi đầu: vì sao em muốn làm ở đây?"
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Because I liked my internship.",
+            "vi": "Vì em thích kỳ thực tập."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "That's true, but it's too short. Interviewers want reasons and examples. Try again, and this time, keep going.",
+            "vi": "Đúng, nhưng ngắn quá. Người phỏng vấn muốn lý do và ví dụ. Thử lại đi, và lần này nói tiếp vào."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Well, I'd say there are two main reasons. The first is the work itself. During my internship, I found two mistakes in an old bridge report, and my supervisor gave me a bigger task the next day. I realized that I love checking details that other people miss.",
+            "vi": "Dạ, em nghĩ có hai lý do chính. Thứ nhất là bản thân công việc. Trong kỳ thực tập, em phát hiện hai lỗi trong một bản báo cáo cầu cũ, và hôm sau người hướng dẫn giao em một việc lớn hơn. Em nhận ra mình thích kiểm tra những chi tiết người khác bỏ sót."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "The second is the people. The thing is, nobody there pretends to know everything. People ask questions, and that makes it a safe place to learn.",
+            "vi": "Thứ hai là con người. Chuyện là, ở đó không ai giả vờ biết hết mọi thứ. Mọi người hỏi han nhau, và điều đó khiến nó thành một nơi an toàn để học hỏi."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Much better. Next: tell me about a weakness.",
+            "vi": "Tốt hơn nhiều. Câu sau: kể chị nghe về một điểm yếu."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "Honestly? I'm a perfectionist. To give you an example, before my final exams two years ago, I was so worried about being perfect that I stopped sleeping properly, and my work got worse, not better.",
+            "vi": "Thật lòng ạ? Em là người cầu toàn. Ví dụ, trước kỳ thi cuối kỳ hai năm trước, em lo phải hoàn hảo tới mức không ngủ được ra hồn, và bài làm còn tệ đi chứ không khá lên."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "What I've learned since then is to break big tasks into smaller pieces and to ask for feedback early, instead of hiding my work until it's \"ready\".",
+            "vi": "Từ đó em học được cách chia việc lớn thành phần nhỏ và xin góp ý sớm, thay vì giấu bài cho tới khi nó \"xong\"."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "That's a good answer, because it's true, and because you showed what you did about it. Also, I remember that phone call.",
+            "vi": "Câu trả lời hay đấy, vì nó thật, và vì em cho thấy em đã làm gì với nó. Mà chị còn nhớ cuộc gọi hôm đó đấy."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Leah",
+          "label": null,
+          "i18n": {
+            "en": "Last question. Where do you see yourself in five years?",
+            "vi": "Câu cuối. Năm năm nữa em thấy mình ở đâu?"
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Tracy",
+          "label": null,
+          "i18n": {
+            "en": "That's a hard one. I suppose I'd like to be leading small projects, maybe on bridges or water systems. But to be honest, I'd like to keep learning more than I'd like a particular title.",
+            "vi": "Câu này khó. Chắc em muốn được phụ trách những dự án nhỏ, có thể về cầu hay hệ thống nước. Nhưng thật lòng, em muốn tiếp tục học hỏi hơn là muốn một chức danh cụ thể."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Leah closed her notebook. \"You'll be fine. Just remember: answer the question, add a reason, give an example, and then stop. You don't have to fill every silence.\"",
+            "vi": "Leah gấp sổ lại. \"Em sẽ ổn thôi. Cứ nhớ: trả lời câu hỏi, thêm lý do, đưa ví dụ, rồi dừng. Em không cần lấp đầy mọi khoảng lặng đâu.\""
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On Wednesday, Tracy sent one word to the family chat: \"HIRED!\"",
+            "vi": "Thứ Tư, Tracy gửi một chữ vào nhóm chat gia đình: \"ĐƯỢC NHẬN RỒI!\""
+          }
+        }
+      ],
+      "content_ja": "Practicing for the Interview\n\nTracy had a final interview on Monday for a full-time job at Brandt & Lowe, the engineering company where she had done her internship. On Saturday, Leah offered to practice with her.\n\nLeah: OK. First question: why do you want to work here?\n\nTracy: Because I liked my internship.\n\nLeah: That's true, but it's too short. Interviewers want reasons and examples. Try again, and this time, keep going.\n\nTracy: Well, I'd say there are two main reasons. The first is the work itself. During my internship, I found two mistakes in an old bridge report, and my supervisor gave me a bigger task the next day. I realized that I love checking details that other people miss. The second is the people. The thing is, nobody there pretends to know everything. People ask questions, and that makes it a safe place to learn.\n\nLeah: Much better. Next: tell me about a weakness.\n\nTracy: Honestly? I'm a perfectionist. To give you an example, before my final exams two years ago, I was so worried about being perfect that I stopped sleeping properly, and my work got worse, not better. What I've learned since then is to break big tasks into smaller pieces and to ask for feedback early, instead of hiding my work until it's \"ready\".\n\nLeah: That's a good answer, because it's true, and because you showed what you did about it. Also, I remember that phone call.\n\nLeah: Last question. Where do you see yourself in five years?\n\nTracy: That's a hard one. I suppose I'd like to be leading small projects, maybe on bridges or water systems. But to be honest, I'd like to keep learning more than I'd like a particular title.\n\nLeah closed her notebook. \"You'll be fine. Just remember: answer the question, add a reason, give an example, and then stop. You don't have to fill every silence.\" On Wednesday, Tracy sent one word to the family chat: \"HIRED!\"",
+      "translation_vn": "(1) Tập dượt cho buổi phỏng vấn\n(2) Thứ Hai Tracy có buổi phỏng vấn cuối cho vị trí chính thức ở Brandt & Lowe, công ty kỹ thuật nơi cô từng thực tập. Thứ Bảy, Leah xung phong tập cùng cô.\n(3) Leah: Được rồi. Câu hỏi đầu: vì sao em muốn làm ở đây?\n(4) Tracy: Vì em thích kỳ thực tập.\n(5) Leah: Đúng, nhưng ngắn quá. Người phỏng vấn muốn lý do và ví dụ. Thử lại đi, và lần này nói tiếp vào.\n(6) Tracy: Dạ, em nghĩ có hai lý do chính. Thứ nhất là bản thân công việc. Trong kỳ thực tập, em phát hiện hai lỗi trong một bản báo cáo cầu cũ, và hôm sau người hướng dẫn giao em một việc lớn hơn. Em nhận ra mình thích kiểm tra những chi tiết người khác bỏ sót.\n(7) Tracy: Thứ hai là con người. Chuyện là, ở đó không ai giả vờ biết hết mọi thứ. Mọi người hỏi han nhau, và điều đó khiến nó thành một nơi an toàn để học hỏi.\n(8) Leah: Tốt hơn nhiều. Câu sau: kể chị nghe về một điểm yếu.\n(9) Tracy: Thật lòng ạ? Em là người cầu toàn. Ví dụ, trước kỳ thi cuối kỳ hai năm trước, em lo phải hoàn hảo tới mức không ngủ được ra hồn, và bài làm còn tệ đi chứ không khá lên.\n(10) Tracy: Từ đó em học được cách chia việc lớn thành phần nhỏ và xin góp ý sớm, thay vì giấu bài cho tới khi nó \"xong\".\n(11) Leah: Câu trả lời hay đấy, vì nó thật, và vì em cho thấy em đã làm gì với nó. Mà chị còn nhớ cuộc gọi hôm đó đấy.\n(12) Leah: Câu cuối. Năm năm nữa em thấy mình ở đâu?\n(13) Tracy: Câu này khó. Chắc em muốn được phụ trách những dự án nhỏ, có thể về cầu hay hệ thống nước. Nhưng thật lòng, em muốn tiếp tục học hỏi hơn là muốn một chức danh cụ thể.\n(14) Leah gấp sổ lại. \"Em sẽ ổn thôi. Cứ nhớ: trả lời câu hỏi, thêm lý do, đưa ví dụ, rồi dừng. Em không cần lấp đầy mọi khoảng lặng đâu.\"\n(15) Thứ Tư, Tracy gửi một chữ vào nhóm chat gia đình: \"ĐƯỢC NHẬN RỒI!\"",
+      "word_count": 319,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.173",
+        "b2.174",
+        "b2.175",
+        "b2.176"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u4344_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_01",
+      "i18n": {
+        "en": "Who is Trevor's review written for?",
+        "vi": "Bài nhận xét của Trevor viết cho ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "his professors, who want to know how first-year students feel about their classes",
+            "vi": "các giáo sư của cậu, những người muốn biết sinh viên năm nhất thấy các lớp thế nào"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "his professors, who want to know how first-year students feel about their classes",
+          "text_translation": "các giáo sư của cậu, những người muốn biết sinh viên năm nhất thấy các lớp thế nào"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "students at Westview High who are applying to college this year",
+            "vi": "học sinh Westview High đang nộp hồ sơ đại học năm nay"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "students at Westview High who are applying to college this year",
+          "text_translation": "học sinh Westview High đang nộp hồ sơ đại học năm nay"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "his roommate, who wants to know why Trevor is unhappy in the dorm",
+            "vi": "bạn cùng phòng, người muốn biết vì sao Trevor không vui ở ký túc xá"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "his roommate, who wants to know why Trevor is unhappy in the dorm",
+          "text_translation": "bạn cùng phòng, người muốn biết vì sao Trevor không vui ở ký túc xá"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the university team, which is looking for new players for next year",
+            "vi": "đội tuyển của trường, đang tìm cầu thủ mới cho năm sau"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the university team, which is looking for new players for next year",
+          "text_translation": "đội tuyển của trường, đang tìm cầu thủ mới cho năm sau"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Ms. Park asked me to write something for students who are applying to college this year.\""
+      },
+      "audio_data": null,
+      "question_jp": "Who is Trevor's review written for?",
+      "question_vn": "Bài nhận xét của Trevor viết cho ai?",
+      "explanation": "\"Ms. Park asked me to write something for students who are applying to college this year.\""
+    },
+    {
+      "id": "q_u4344_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_01",
+      "i18n": {
+        "en": "Where is Trevor studying?",
+        "vi": "Trevor đang học ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at a small college in San Diego, close to his family and his old school",
+            "vi": "ở một trường cao đẳng nhỏ tại San Diego, gần gia đình và trường cũ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "at a small college in San Diego, close to his family and his old school",
+          "text_translation": "ở một trường cao đẳng nhỏ tại San Diego, gần gia đình và trường cũ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "in Texas, where his roommate lives and where his sister studied before him",
+            "vi": "ở Texas, nơi bạn cùng phòng sống và chị cậu từng học trước đó"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "in Texas, where his roommate lives and where his sister studied before him",
+          "text_translation": "ở Texas, nơi bạn cùng phòng sống và chị cậu từng học trước đó"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at a large private university in Washington, a short flight from San Diego",
+            "vi": "ở một trường đại học tư lớn tại Washington, cách San Diego một chuyến bay ngắn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "at a large private university in Washington, a short flight from San Diego",
+          "text_translation": "ở một trường đại học tư lớn tại Washington, cách San Diego một chuyến bay ngắn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at a large public university in Northern California, far from San Diego",
+            "vi": "ở một trường đại học công lập lớn ở Bắc California, xa San Diego"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "at a large public university in Northern California, far from San Diego",
+          "text_translation": "ở một trường đại học công lập lớn ở Bắc California, xa San Diego"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"I am studying environmental engineering at a large public university in Northern California, about eight hours' drive from San Diego.\""
+      },
+      "audio_data": null,
+      "question_jp": "Where is Trevor studying?",
+      "question_vn": "Trevor đang học ở đâu?",
+      "explanation": "\"I am studying environmental engineering at a large public university in Northern California, about eight hours' drive from San Diego.\""
+    },
+    {
+      "id": "q_u4344_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_01",
+      "i18n": {
+        "en": "What does Trevor say about office hours?",
+        "vi": "Trevor nói gì về giờ tiếp sinh viên?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They are very useful, and few students go, so you get the professor's attention.",
+            "vi": "Chúng rất có ích, mà ít ai tới, nên bạn được giáo sư dành riêng thời gian."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "They are very useful, and few students go, so you get the professor's attention.",
+          "text_translation": "Chúng rất có ích, mà ít ai tới, nên bạn được giáo sư dành riêng thời gian."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They are a waste of time, because the professors are always busy and never answer questions.",
+            "vi": "Chúng phí thời gian, vì các giáo sư luôn bận và không bao giờ trả lời câu hỏi."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They are a waste of time, because the professors are always busy and never answer questions.",
+          "text_translation": "Chúng phí thời gian, vì các giáo sư luôn bận và không bao giờ trả lời câu hỏi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They are only for students who fail their quizzes and need extra help.",
+            "vi": "Chúng chỉ dành cho sinh viên trượt bài kiểm tra và cần giúp thêm."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They are only for students who fail their quizzes and need extra help.",
+          "text_translation": "Chúng chỉ dành cho sinh viên trượt bài kiểm tra và cần giúp thêm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They are too early in the morning, so most students cannot go to them.",
+            "vi": "Chúng quá sớm vào buổi sáng, nên hầu hết sinh viên không đến được."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They are too early in the morning, so most students cannot go to them.",
+          "text_translation": "Chúng quá sớm vào buổi sáng, nên hầu hết sinh viên không đến được."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Go to them. Everybody else is too shy, so you will get the professor to yourself.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Trevor say about office hours?",
+      "question_vn": "Trevor nói gì về giờ tiếp sinh viên?",
+      "explanation": "\"Go to them. Everybody else is too shy, so you will get the professor to yourself.\""
+    },
+    {
+      "id": "q_u4344_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_01",
+      "i18n": {
+        "en": "How did Trevor deal with his roommate's guitar playing?",
+        "vi": "Trevor giải quyết chuyện bạn cùng phòng chơi ghi-ta thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He moved out of the dorm and found a new roommate who never plays any music at night.",
+            "vi": "Cậu chuyển khỏi ký túc xá và tìm một bạn cùng phòng mới không bao giờ chơi nhạc ban đêm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He moved out of the dorm and found a new roommate who never plays any music at night.",
+          "text_translation": "Cậu chuyển khỏi ký túc xá và tìm một bạn cùng phòng mới không bao giờ chơi nhạc ban đêm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He complained to the university and asked for a different room next semester.",
+            "vi": "Cậu phàn nàn với nhà trường và xin phòng khác vào học kỳ sau."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He complained to the university and asked for a different room next semester.",
+          "text_translation": "Cậu phàn nàn với nhà trường và xin phòng khác vào học kỳ sau."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He had a serious conversation, talking about himself rather than blaming his roommate.",
+            "vi": "Cậu nói chuyện nghiêm túc, nói về mình thay vì trách bạn."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "He had a serious conversation, talking about himself rather than blaming his roommate.",
+          "text_translation": "Cậu nói chuyện nghiêm túc, nói về mình thay vì trách bạn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He started playing the guitar too, and they played together every night.",
+            "vi": "Cậu cũng chơi ghi-ta, và hai người chơi cùng nhau mỗi tối."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He started playing the guitar too, and they played together every night.",
+          "text_translation": "Cậu cũng chơi ghi-ta, và hai người chơi cùng nhau mỗi tối."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"I used something that my sister taught me: talk about yourself, not the other person.\""
+      },
+      "audio_data": null,
+      "question_jp": "How did Trevor deal with his roommate's guitar playing?",
+      "question_vn": "Trevor giải quyết chuyện bạn cùng phòng chơi ghi-ta thế nào?",
+      "explanation": "\"I used something that my sister taught me: talk about yourself, not the other person.\""
+    },
+    {
+      "id": "q_u4344_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_01",
+      "i18n": {
+        "en": "What does \"two stars, and I am being kind\" suggest?",
+        "vi": "Câu \"hai sao, mà em đang nương tay đấy\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The food is excellent, so two stars is far too low for it.",
+            "vi": "Đồ ăn rất ngon, nên hai sao là quá thấp."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The food is excellent, so two stars is far too low for it.",
+          "text_translation": "Đồ ăn rất ngon, nên hai sao là quá thấp."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The food is so bad that two stars is already a generous score.",
+            "vi": "Đồ ăn tệ tới mức hai sao đã là điểm rộng lượng."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The food is so bad that two stars is already a generous score.",
+          "text_translation": "Đồ ăn tệ tới mức hai sao đã là điểm rộng lượng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Trevor is kind to the cooks, who work very hard to feed all the students.",
+            "vi": "Trevor tử tế với các đầu bếp, những người làm việc rất vất vả để nuôi cả sinh viên."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Trevor is kind to the cooks, who work very hard to feed all the students.",
+          "text_translation": "Trevor tử tế với các đầu bếp, những người làm việc rất vất vả để nuôi cả sinh viên."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Trevor doesn't eat there, so he gives the food a low score without trying it.",
+            "vi": "Trevor không ăn ở đó, nên cho điểm thấp mà chưa thử."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Trevor doesn't eat there, so he gives the food a low score without trying it.",
+          "text_translation": "Trevor không ăn ở đó, nên cho điểm thấp mà chưa thử."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về giọng điệu. \"I am being kind\" = mình đang nương tay; thực tế còn tệ hơn hai sao."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"two stars, and I am being kind\" suggest?",
+      "question_vn": "Câu \"hai sao, mà em đang nương tay đấy\" hàm ý gì?",
+      "explanation": "Câu suy luận về giọng điệu. \"I am being kind\" = mình đang nương tay; thực tế còn tệ hơn hai sao."
+    },
+    {
+      "id": "q_u4344_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_01",
+      "i18n": {
+        "en": "What does Trevor's message to his dad show?",
+        "vi": "Lời nhắn của Trevor gửi bố cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He now appreciates his dad's cooking and misses being at home with his family.",
+            "vi": "Giờ cậu biết quý tài nấu ăn của bố và nhớ được ở nhà với gia đình."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "He now appreciates his dad's cooking and misses being at home with his family.",
+          "text_translation": "Giờ cậu biết quý tài nấu ăn của bố và nhớ được ở nhà với gia đình."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He wants his dad to stop cooking and send money for food in the dining hall.",
+            "vi": "Cậu muốn bố thôi nấu ăn và gửi tiền để ăn ở nhà ăn trường."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He wants his dad to stop cooking and send money for food in the dining hall.",
+          "text_translation": "Cậu muốn bố thôi nấu ăn và gửi tiền để ăn ở nhà ăn trường."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He has always loved broccoli and eats it with every meal at the dorm.",
+            "vi": "Cậu vốn luôn mê bông cải xanh và ăn nó trong mọi bữa ở ký túc xá."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He has always loved broccoli and eats it with every meal at the dorm.",
+          "text_translation": "Cậu vốn luôn mê bông cải xanh và ăn nó trong mọi bữa ở ký túc xá."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He is angry with his dad, because his dad did not warn him about the food.",
+            "vi": "Cậu giận bố, vì bố đã không báo trước cho cậu về đồ ăn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He is angry with his dad, because his dad did not warn him about the food.",
+          "text_translation": "Cậu giận bố, vì bố đã không báo trước cho cậu về đồ ăn."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"I miss your salmon. Even the broccoli.\" Hồi B1 (tháng ăn lành mạnh), Trevor ghét bông cải xanh, nên chữ \"Even\" càng cho thấy cậu nhớ nhà."
+      },
+      "audio_data": null,
+      "question_jp": "What does Trevor's message to his dad show?",
+      "question_vn": "Lời nhắn của Trevor gửi bố cho thấy điều gì?",
+      "explanation": "Câu suy luận. \"I miss your salmon. Even the broccoli.\" Hồi B1 (tháng ăn lành mạnh), Trevor ghét bông cải xanh, nên chữ \"Even\" càng cho thấy cậu nhớ nhà."
+    },
+    {
+      "id": "q_u4344_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_01",
+      "i18n": {
+        "en": "Why does Trevor give soccer five stars?",
+        "vi": "Vì sao Trevor cho bóng đá năm sao?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because he made the university team and now plays in front of very large crowds every week",
+            "vi": "vì cậu vào đội tuyển của trường và giờ chơi trước đám đông rất lớn mỗi tuần"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because he made the university team and now plays in front of very large crowds every week",
+          "text_translation": "vì cậu vào đội tuyển của trường và giờ chơi trước đám đông rất lớn mỗi tuần"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the games are easy, so his team wins every match by a lot of goals",
+            "vi": "vì các trận dễ, nên đội cậu thắng mọi trận cách xa nhiều bàn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the games are easy, so his team wins every match by a lot of goals",
+          "text_translation": "vì các trận dễ, nên đội cậu thắng mọi trận cách xa nhiều bàn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the coach is famous and has taught him many new things this month",
+            "vi": "vì huấn luyện viên nổi tiếng và đã dạy cậu nhiều điều mới tháng này"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the coach is famous and has taught him many new things this month",
+          "text_translation": "vì huấn luyện viên nổi tiếng và đã dạy cậu nhiều điều mới tháng này"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because his club team, with players from many places, is the best part of his week",
+            "vi": "vì đội câu lạc bộ, với cầu thủ khắp nơi, là phần vui nhất trong tuần của cậu"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because his club team, with players from many places, is the best part of his week",
+          "text_translation": "vì đội câu lạc bộ, với cầu thủ khắp nơi, là phần vui nhất trong tuần của cậu"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"But I joined a club team, and the players come from twelve different states and three countries. It is the best part of my week.\" Cậu không vào được đội tuyển của trường."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Trevor give soccer five stars?",
+      "question_vn": "Vì sao Trevor cho bóng đá năm sao?",
+      "explanation": "\"But I joined a club team, and the players come from twelve different states and three countries. It is the best part of my week.\" Cậu không vào được đội tuyển của trường."
+    },
+    {
+      "id": "q_u4344_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_01",
+      "i18n": {
+        "en": "Which of these is NOT part of Trevor's advice?",
+        "vi": "Điều nào KHÔNG nằm trong lời khuyên của Trevor?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Go to office hours.",
+            "vi": "Hãy tới giờ tiếp sinh viên."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Go to office hours.",
+          "text_translation": "Hãy tới giờ tiếp sinh viên."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Choose a place that excites you.",
+            "vi": "Chọn nơi khiến mình hào hứng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Choose a place that excites you.",
+          "text_translation": "Chọn nơi khiến mình hào hứng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Choose the college that looks best on paper.",
+            "vi": "Chọn trường trông đẹp nhất trên giấy tờ."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Choose the college that looks best on paper.",
+          "text_translation": "Chọn trường trông đẹp nhất trên giấy tờ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Call your family more than you think you need to.",
+            "vi": "Gọi về nhà nhiều hơn mức mình nghĩ là cần."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Call your family more than you think you need to.",
+          "text_translation": "Gọi về nhà nhiều hơn mức mình nghĩ là cần."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"choose a place that excites you, not just a place that looks good on paper\". Lời khuyên là ngược lại với phương án C."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT part of Trevor's advice?",
+      "question_vn": "Điều nào KHÔNG nằm trong lời khuyên của Trevor?",
+      "explanation": "\"choose a place that excites you, not just a place that looks good on paper\". Lời khuyên là ngược lại với phương án C."
+    },
+    {
+      "id": "q_u4344_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_01",
+      "i18n": {
+        "en": "What is the function of the short questions in the last paragraph (\"Is it hard? Yes. Do I sometimes miss home?\")?",
+        "vi": "Những câu hỏi ngắn ở đoạn cuối (\"Có khó không? Có. Có lúc nào nhớ nhà không?\") có chức năng gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to sum up his honest overall opinion of college life in a lively way",
+            "vi": "để tóm tắt nhận xét thật lòng về đời sống đại học một cách sinh động"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to sum up his honest overall opinion of college life in a lively way",
+          "text_translation": "để tóm tắt nhận xét thật lòng về đời sống đại học một cách sinh động"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to ask readers for help with choosing a college for the next year",
+            "vi": "để nhờ người đọc giúp chọn một trường đại học cho năm sau"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to ask readers for help with choosing a college for the next year",
+          "text_translation": "để nhờ người đọc giúp chọn một trường đại học cho năm sau"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to complain about the university and the way that it treats first-year students",
+            "vi": "để phàn nàn về trường và cách trường đối xử với sinh viên năm nhất"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to complain about the university and the way that it treats first-year students",
+          "text_translation": "để phàn nàn về trường và cách trường đối xử với sinh viên năm nhất"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to start a new topic about the soccer club he joined in his first month",
+            "vi": "để mở chủ đề mới về câu lạc bộ bóng đá cậu tham gia trong tháng đầu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to start a new topic about the soccer club he joined in his first month",
+          "text_translation": "để mở chủ đề mới về câu lạc bộ bóng đá cậu tham gia trong tháng đầu"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi chức năng. Cậu tự hỏi tự đáp để gói lại: khó, nhớ nhà, nhưng \"Would I choose it again? Absolutely.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the function of the short questions in the last paragraph (\"Is it hard? Yes. Do I sometimes miss home?\")?",
+      "question_vn": "Những câu hỏi ngắn ở đoạn cuối (\"Có khó không? Có. Có lúc nào nhớ nhà không?\") có chức năng gì?",
+      "explanation": "Câu hỏi chức năng. Cậu tự hỏi tự đáp để gói lại: khó, nhớ nhà, nhưng \"Would I choose it again? Absolutely.\""
+    },
+    {
+      "id": "q_u4344_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_01",
+      "i18n": {
+        "en": "Overall, how does Trevor feel about his choice?",
+        "vi": "Nhìn chung, Trevor thấy thế nào về lựa chọn của mình?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He regrets it, because it is much too hard and he misses home every day.",
+            "vi": "Cậu hối hận, vì nó quá khó và cậu nhớ nhà mỗi ngày."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He regrets it, because it is much too hard and he misses home every day.",
+          "text_translation": "Cậu hối hận, vì nó quá khó và cậu nhớ nhà mỗi ngày."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He wants to move to Texas, where his roommate says that the classes are easier.",
+            "vi": "Cậu muốn chuyển tới Texas, nơi bạn cùng phòng nói các lớp dễ hơn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He wants to move to Texas, where his roommate says that the classes are easier.",
+          "text_translation": "Cậu muốn chuyển tới Texas, nơi bạn cùng phòng nói các lớp dễ hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is hard, but he is happy with it and would choose it again without doubt.",
+            "vi": "Khó, nhưng cậu hài lòng và chắc chắn sẽ chọn lại."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It is hard, but he is happy with it and would choose it again without doubt.",
+          "text_translation": "Khó, nhưng cậu hài lòng và chắc chắn sẽ chọn lại."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He hasn't decided yet, and he will ask his family what to do next year.",
+            "vi": "Cậu chưa quyết, và sẽ hỏi gia đình nên làm gì vào năm sau."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He hasn't decided yet, and he will ask his family what to do next year.",
+          "text_translation": "Cậu chưa quyết, và sẽ hỏi gia đình nên làm gì vào năm sau."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"Would I choose it again? Absolutely.\""
+      },
+      "audio_data": null,
+      "question_jp": "Overall, how does Trevor feel about his choice?",
+      "question_vn": "Nhìn chung, Trevor thấy thế nào về lựa chọn của mình?",
+      "explanation": "\"Would I choose it again? Absolutely.\""
+    },
+    {
+      "id": "q_u4344_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_02",
+      "i18n": {
+        "en": "What is Tracy preparing for?",
+        "vi": "Tracy đang chuẩn bị cho việc gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a final exam in engineering at the university where she studies",
+            "vi": "kỳ thi cuối về kỹ thuật ở trường đại học nơi cô học"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a final exam in engineering at the university where she studies",
+          "text_translation": "kỳ thi cuối về kỹ thuật ở trường đại học nơi cô học"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a presentation about her internship for the other students at the company",
+            "vi": "một bài thuyết trình về kỳ thực tập cho các bạn thực tập khác ở công ty"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a presentation about her internship for the other students at the company",
+          "text_translation": "một bài thuyết trình về kỳ thực tập cho các bạn thực tập khác ở công ty"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a final interview for a full-time job at Brandt & Lowe, where she did her internship",
+            "vi": "buổi phỏng vấn cuối cho vị trí chính thức ở Brandt & Lowe, nơi cô đã thực tập"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "a final interview for a full-time job at Brandt & Lowe, where she did her internship",
+          "text_translation": "buổi phỏng vấn cuối cho vị trí chính thức ở Brandt & Lowe, nơi cô đã thực tập"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "her graduation speech, which she will give to her family and her friends",
+            "vi": "bài phát biểu tốt nghiệp, cô sẽ đọc cho gia đình và bạn bè"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "her graduation speech, which she will give to her family and her friends",
+          "text_translation": "bài phát biểu tốt nghiệp, cô sẽ đọc cho gia đình và bạn bè"
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"Tracy had a final interview on Monday for a full-time job at Brandt & Lowe\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is Tracy preparing for?",
+      "question_vn": "Tracy đang chuẩn bị cho việc gì?",
+      "explanation": "\"Tracy had a final interview on Monday for a full-time job at Brandt & Lowe\"."
+    },
+    {
+      "id": "q_u4344_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_02",
+      "i18n": {
+        "en": "What is wrong with Tracy's first answer, \"Because I liked my internship\"?",
+        "vi": "Câu trả lời đầu \"Vì em thích kỳ thực tập\" của Tracy có vấn đề gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is too short, and it has no reasons or examples to support what she says.",
+            "vi": "Quá ngắn, và không có lý do hay ví dụ nào để chứng minh điều cô nói."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It is too short, and it has no reasons or examples to support what she says.",
+          "text_translation": "Quá ngắn, và không có lý do hay ví dụ nào để chứng minh điều cô nói."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is not true, and Leah knows that Tracy did not like her internship.",
+            "vi": "Nó không đúng sự thật, và Leah biết Tracy không thích kỳ thực tập."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is not true, and Leah knows that Tracy did not like her internship.",
+          "text_translation": "Nó không đúng sự thật, và Leah biết Tracy không thích kỳ thực tập."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is rude, because Tracy did not thank the company for the internship.",
+            "vi": "Nó bất lịch sự, vì Tracy không cảm ơn công ty về kỳ thực tập."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It is rude, because Tracy did not thank the company for the internship.",
+          "text_translation": "Nó bất lịch sự, vì Tracy không cảm ơn công ty về kỳ thực tập."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is too long, and Tracy talks about too many things in one answer.",
+            "vi": "Nó quá dài, và Tracy nói quá nhiều chuyện trong một câu trả lời."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It is too long, and Tracy talks about too many things in one answer.",
+          "text_translation": "Nó quá dài, và Tracy nói quá nhiều chuyện trong một câu trả lời."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"That's true, but it's too short. Interviewers want reasons and examples.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is wrong with Tracy's first answer, \"Because I liked my internship\"?",
+      "question_vn": "Câu trả lời đầu \"Vì em thích kỳ thực tập\" của Tracy có vấn đề gì?",
+      "explanation": "\"That's true, but it's too short. Interviewers want reasons and examples.\""
+    },
+    {
+      "id": "q_u4344_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_02",
+      "i18n": {
+        "en": "What does Tracy use as an example in her second answer?",
+        "vi": "Tracy lấy ví dụ gì trong câu trả lời thứ hai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "her final exams, when she stopped sleeping because she wanted to be perfect",
+            "vi": "kỳ thi cuối của cô, khi cô mất ngủ vì muốn mọi thứ hoàn hảo"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "her final exams, when she stopped sleeping because she wanted to be perfect",
+          "text_translation": "kỳ thi cuối của cô, khi cô mất ngủ vì muốn mọi thứ hoàn hảo"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "her roommate, who helped her to check the numbers in a bridge report",
+            "vi": "bạn cùng phòng, người giúp cô kiểm tra các con số trong một báo cáo cầu"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "her roommate, who helped her to check the numbers in a bridge report",
+          "text_translation": "bạn cùng phòng, người giúp cô kiểm tra các con số trong một báo cáo cầu"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a bridge that she designed by herself during her internship at Brandt & Lowe",
+            "vi": "một cây cầu cô tự thiết kế trong kỳ thực tập ở Brandt & Lowe"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a bridge that she designed by herself during her internship at Brandt & Lowe",
+          "text_translation": "một cây cầu cô tự thiết kế trong kỳ thực tập ở Brandt & Lowe"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "finding two mistakes in an old bridge report during her internship at the company",
+            "vi": "việc phát hiện hai lỗi trong một bản báo cáo cầu cũ khi thực tập ở công ty"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "finding two mistakes in an old bridge report during her internship at the company",
+          "text_translation": "việc phát hiện hai lỗi trong một bản báo cáo cầu cũ khi thực tập ở công ty"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"During my internship, I found two mistakes in an old bridge report, and my supervisor gave me a bigger task the next day.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Tracy use as an example in her second answer?",
+      "question_vn": "Tracy lấy ví dụ gì trong câu trả lời thứ hai?",
+      "explanation": "\"During my internship, I found two mistakes in an old bridge report, and my supervisor gave me a bigger task the next day.\""
+    },
+    {
+      "id": "q_u4344_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_02",
+      "i18n": {
+        "en": "What is the purpose of phrases such as \"Well, I'd say…\" and \"The thing is…\" in Tracy's answers?",
+        "vi": "Các cụm như \"Dạ, em nghĩ…\" và \"Chuyện là…\" trong câu trả lời của Tracy có tác dụng gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to change the subject when she does not want to answer the question",
+            "vi": "để đổi chủ đề khi cô không muốn trả lời câu hỏi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to change the subject when she does not want to answer the question",
+          "text_translation": "để đổi chủ đề khi cô không muốn trả lời câu hỏi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to introduce and extend her answers in a natural way, as in a real talk",
+            "vi": "để mở đầu và nói tiếp câu trả lời một cách tự nhiên như trong một cuộc trò chuyện thật"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to introduce and extend her answers in a natural way, as in a real talk",
+          "text_translation": "để mở đầu và nói tiếp câu trả lời một cách tự nhiên như trong một cuộc trò chuyện thật"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to avoid answering the question by giving the interviewer more time to think",
+            "vi": "để né câu hỏi bằng cách cho người phỏng vấn thêm thời gian suy nghĩ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to avoid answering the question by giving the interviewer more time to think",
+          "text_translation": "để né câu hỏi bằng cách cho người phỏng vấn thêm thời gian suy nghĩ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to show that she is angry about the question and does not want to answer",
+            "vi": "để cho thấy cô bực vì câu hỏi và không muốn trả lời"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to show that she is angry about the question and does not want to answer",
+          "text_translation": "để cho thấy cô bực vì câu hỏi và không muốn trả lời"
+        }
+      ],
+      "evidence_segments": [
+        6,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi chức năng. Well, I'd say… mở đầu câu trả lời; The thing is… dẫn vào ý giải thích. Đây là cách kéo dài câu trả lời khi nói."
+      },
+      "audio_data": null,
+      "question_jp": "What is the purpose of phrases such as \"Well, I'd say…\" and \"The thing is…\" in Tracy's answers?",
+      "question_vn": "Các cụm như \"Dạ, em nghĩ…\" và \"Chuyện là…\" trong câu trả lời của Tracy có tác dụng gì?",
+      "explanation": "Câu hỏi chức năng. Well, I'd say… mở đầu câu trả lời; The thing is… dẫn vào ý giải thích. Đây là cách kéo dài câu trả lời khi nói."
+    },
+    {
+      "id": "q_u4344_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_02",
+      "i18n": {
+        "en": "Why does Tracy like the people at Brandt & Lowe?",
+        "vi": "Vì sao Tracy thích con người ở Brandt & Lowe?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because they are all famous engineers who have built bridges in many cities",
+            "vi": "vì họ đều là kỹ sư nổi tiếng đã xây cầu ở nhiều thành phố"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because they are all famous engineers who have built bridges in many cities",
+          "text_translation": "vì họ đều là kỹ sư nổi tiếng đã xây cầu ở nhiều thành phố"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because they never work late, so she has time for her family every evening",
+            "vi": "vì họ không bao giờ làm muộn, nên cô có thời gian cho gia đình mỗi tối"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because they never work late, so she has time for her family every evening",
+          "text_translation": "vì họ không bao giờ làm muộn, nên cô có thời gian cho gia đình mỗi tối"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because nobody pretends to know everything, so it is a safe place to learn",
+            "vi": "vì không ai giả vờ biết hết, nên đó là nơi an toàn để học hỏi"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because nobody pretends to know everything, so it is a safe place to learn",
+          "text_translation": "vì không ai giả vờ biết hết, nên đó là nơi an toàn để học hỏi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because they gave her a high salary and a bigger task during her first week",
+            "vi": "vì họ trả cô lương cao và giao cô việc lớn hơn trong tuần đầu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because they gave her a high salary and a bigger task during her first week",
+          "text_translation": "vì họ trả cô lương cao và giao cô việc lớn hơn trong tuần đầu"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"nobody there pretends to know everything. People ask questions, and that makes it a safe place to learn.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Tracy like the people at Brandt & Lowe?",
+      "question_vn": "Vì sao Tracy thích con người ở Brandt & Lowe?",
+      "explanation": "\"nobody there pretends to know everything. People ask questions, and that makes it a safe place to learn.\""
+    },
+    {
+      "id": "q_u4344_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_02",
+      "i18n": {
+        "en": "Why does Leah think Tracy's answer about her weakness is good?",
+        "vi": "Vì sao Leah thấy câu trả lời về điểm yếu của Tracy là hay?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because being a perfectionist is not a real weakness, so it will impress the interviewer",
+            "vi": "vì cầu toàn không phải điểm yếu thật, nên sẽ gây ấn tượng với người phỏng vấn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because being a perfectionist is not a real weakness, so it will impress the interviewer",
+          "text_translation": "vì cầu toàn không phải điểm yếu thật, nên sẽ gây ấn tượng với người phỏng vấn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because it was short, and interviewers prefer very short answers to long ones",
+            "vi": "vì nó ngắn, và người phỏng vấn thích câu trả lời rất ngắn hơn câu dài"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because it was short, and interviewers prefer very short answers to long ones",
+          "text_translation": "vì nó ngắn, và người phỏng vấn thích câu trả lời rất ngắn hơn câu dài"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because Tracy made it funny, and the interviewer laughed during the whole answer",
+            "vi": "vì Tracy nói vui, và người phỏng vấn cười suốt câu trả lời"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because Tracy made it funny, and the interviewer laughed during the whole answer",
+          "text_translation": "vì Tracy nói vui, và người phỏng vấn cười suốt câu trả lời"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because it is true, and Tracy showed clearly what she did about her weakness",
+            "vi": "vì nó thật, và Tracy cho thấy rõ cô đã làm gì với điểm yếu của mình"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because it is true, and Tracy showed clearly what she did about her weakness",
+          "text_translation": "vì nó thật, và Tracy cho thấy rõ cô đã làm gì với điểm yếu của mình"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"That's a good answer, because it's true, and because you showed what you did about it.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Leah think Tracy's answer about her weakness is good?",
+      "question_vn": "Vì sao Leah thấy câu trả lời về điểm yếu của Tracy là hay?",
+      "explanation": "\"That's a good answer, because it's true, and because you showed what you did about it.\""
+    },
+    {
+      "id": "q_u4344_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_02",
+      "i18n": {
+        "en": "What does Leah mean by \"Also, I remember that phone call\"?",
+        "vi": "Leah muốn nói gì qua câu \"Mà chị còn nhớ cuộc gọi hôm đó đấy\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She remembers the night when Tracy called her, stressed, before her exams.",
+            "vi": "Cô nhớ cái đêm Tracy gọi cho cô vì căng thẳng trước kỳ thi."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She remembers the night when Tracy called her, stressed, before her exams.",
+          "text_translation": "Cô nhớ cái đêm Tracy gọi cho cô vì căng thẳng trước kỳ thi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She forgot to call Tracy before her exams and wants to say sorry for it.",
+            "vi": "Cô quên gọi cho Tracy trước kỳ thi và muốn xin lỗi vì điều đó."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She forgot to call Tracy before her exams and wants to say sorry for it.",
+          "text_translation": "Cô quên gọi cho Tracy trước kỳ thi và muốn xin lỗi vì điều đó."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She wants Tracy to call the company on Monday and ask for more time.",
+            "vi": "Cô muốn Tracy gọi cho công ty vào thứ Hai và xin thêm thời gian."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She wants Tracy to call the company on Monday and ask for more time.",
+          "text_translation": "Cô muốn Tracy gọi cho công ty vào thứ Hai và xin thêm thời gian."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She remembers a call from Brandt & Lowe that offered Tracy the internship.",
+            "vi": "Cô nhớ một cuộc gọi từ Brandt & Lowe đã mời Tracy làm thực tập."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She remembers a call from Brandt & Lowe that offered Tracy the internship.",
+          "text_translation": "Cô nhớ một cuộc gọi từ Brandt & Lowe đã mời Tracy làm thực tập."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Tracy kể \"I was so worried about being perfect that I stopped sleeping properly\". Hồi đó cô đã gọi điện lúc nửa đêm cho Leah. Leah biết câu trả lời này là thật."
+      },
+      "audio_data": null,
+      "question_jp": "What does Leah mean by \"Also, I remember that phone call\"?",
+      "question_vn": "Leah muốn nói gì qua câu \"Mà chị còn nhớ cuộc gọi hôm đó đấy\"?",
+      "explanation": "Câu suy luận. Tracy kể \"I was so worried about being perfect that I stopped sleeping properly\". Hồi đó cô đã gọi điện lúc nửa đêm cho Leah. Leah biết câu trả lời này là thật."
+    },
+    {
+      "id": "q_u4344_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_02",
+      "i18n": {
+        "en": "What does Tracy say she wants in five years?",
+        "vi": "Tracy nói năm năm nữa cô muốn gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a famous title, such as chief engineer, at a very large company",
+            "vi": "một chức danh nổi tiếng, như kỹ sư trưởng, ở một công ty rất lớn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a famous title, such as chief engineer, at a very large company",
+          "text_translation": "một chức danh nổi tiếng, như kỹ sư trưởng, ở một công ty rất lớn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to lead small projects and, above all, to keep learning new things",
+            "vi": "phụ trách các dự án nhỏ và trên hết là tiếp tục học hỏi điều mới"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to lead small projects and, above all, to keep learning new things",
+          "text_translation": "phụ trách các dự án nhỏ và trên hết là tiếp tục học hỏi điều mới"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to leave engineering and open a small café with her family",
+            "vi": "bỏ nghề kỹ thuật và mở một quán cà phê nhỏ cùng gia đình"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to leave engineering and open a small café with her family",
+          "text_translation": "bỏ nghề kỹ thuật và mở một quán cà phê nhỏ cùng gia đình"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to work at a hospital, where she can help people who are ill",
+            "vi": "làm ở bệnh viện, nơi cô có thể giúp những người đang ốm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to work at a hospital, where she can help people who are ill",
+          "text_translation": "làm ở bệnh viện, nơi cô có thể giúp những người đang ốm"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"I'd like to keep learning more than I'd like a particular title.\" Cô cũng muốn được phụ trách những dự án nhỏ."
+      },
+      "audio_data": null,
+      "question_jp": "What does Tracy say she wants in five years?",
+      "question_vn": "Tracy nói năm năm nữa cô muốn gì?",
+      "explanation": "\"I'd like to keep learning more than I'd like a particular title.\" Cô cũng muốn được phụ trách những dự án nhỏ."
+    },
+    {
+      "id": "q_u4344_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_02",
+      "i18n": {
+        "en": "What is Leah's final advice?",
+        "vi": "Lời khuyên cuối của Leah là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Talk for as long as possible, so that the interviewer hears every detail.",
+            "vi": "Nói càng lâu càng tốt, để người phỏng vấn nghe được mọi chi tiết."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Talk for as long as possible, so that the interviewer hears every detail.",
+          "text_translation": "Nói càng lâu càng tốt, để người phỏng vấn nghe được mọi chi tiết."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Don't answer difficult questions, and change the subject if you need to.",
+            "vi": "Đừng trả lời câu khó, và đổi chủ đề nếu cần."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Don't answer difficult questions, and change the subject if you need to.",
+          "text_translation": "Đừng trả lời câu khó, và đổi chủ đề nếu cần."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Memorize every answer, so that you never have to think during the interview.",
+            "vi": "Học thuộc mọi câu trả lời, để không phải nghĩ trong buổi phỏng vấn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Memorize every answer, so that you never have to think during the interview.",
+          "text_translation": "Học thuộc mọi câu trả lời, để không phải nghĩ trong buổi phỏng vấn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Answer the question, add a reason, give an example, and then simply stop talking.",
+            "vi": "Trả lời câu hỏi, thêm lý do, đưa ví dụ, rồi cứ thế dừng nói."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Answer the question, add a reason, give an example, and then simply stop talking.",
+          "text_translation": "Trả lời câu hỏi, thêm lý do, đưa ví dụ, rồi cứ thế dừng nói."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"answer the question, add a reason, give an example, and then stop. You don't have to fill every silence.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is Leah's final advice?",
+      "question_vn": "Lời khuyên cuối của Leah là gì?",
+      "explanation": "\"answer the question, add a reason, give an example, and then stop. You don't have to fill every silence.\""
+    },
+    {
+      "id": "q_u4344_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4344_02",
+      "i18n": {
+        "en": "Use both texts. What do Trevor's review and Tracy's interview answers have in common?",
+        "vi": "Dựa vào cả hai bài. Bài nhận xét của Trevor và câu trả lời phỏng vấn của Tracy có điểm gì chung?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both of them are about bridges that the writers helped to design at college.",
+            "vi": "Cả hai đều về những cây cầu mà người viết đã giúp thiết kế ở trường."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both of them are about bridges that the writers helped to design at college.",
+          "text_translation": "Cả hai đều về những cây cầu mà người viết đã giúp thiết kế ở trường."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Both give honest opinions supported by real examples, including their weaknesses.",
+            "vi": "Cả hai đưa ra nhận xét thật lòng, có ví dụ thật, kể cả những điểm yếu của mình."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Both give honest opinions supported by real examples, including their weaknesses.",
+          "text_translation": "Cả hai đưa ra nhận xét thật lòng, có ví dụ thật, kể cả những điểm yếu của mình."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both of them were written for professors who read them before the first class.",
+            "vi": "Cả hai đều viết cho giáo sư đọc trước buổi học đầu tiên."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Both of them were written for professors who read them before the first class.",
+          "text_translation": "Cả hai đều viết cho giáo sư đọc trước buổi học đầu tiên."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Both of them avoid mentioning problems, so that readers only hear good news.",
+            "vi": "Cả hai đều né nhắc tới khó khăn, để người đọc chỉ nghe tin tốt."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Both of them avoid mentioning problems, so that readers only hear good news.",
+          "text_translation": "Cả hai đều né nhắc tới khó khăn, để người đọc chỉ nghe tin tốt."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Leah khen câu trả lời \"because it's true\". Trevor cũng được dặn \"be honest\" và kể cả chuyện trượt bài kiểm tra, đồ ăn dở, không vào được đội tuyển."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do Trevor's review and Tracy's interview answers have in common?",
+      "question_vn": "Dựa vào cả hai bài. Bài nhận xét của Trevor và câu trả lời phỏng vấn của Tracy có điểm gì chung?",
+      "explanation": "Câu nối hai bài. Leah khen câu trả lời \"because it's true\". Trevor cũng được dặn \"be honest\" và kể cả chuyện trượt bài kiểm tra, đồ ăn dở, không vào được đội tuyển."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u4344_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 43) — Trevor nhận xét tháng đầu ở đại học",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u4344_01",
+      "question_ids": [
+        "q_u4344_001",
+        "q_u4344_002",
+        "q_u4344_003",
+        "q_u4344_004",
+        "q_u4344_005",
+        "q_u4344_006",
+        "q_u4344_007",
+        "q_u4344_008",
+        "q_u4344_009",
+        "q_u4344_010"
+      ]
+    },
+    {
+      "set_id": "set_u4344_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 44) — Tracy tập phỏng vấn xin việc với Leah",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u4344_02",
+      "question_ids": [
+        "q_u4344_011",
+        "q_u4344_012",
+        "q_u4344_013",
+        "q_u4344_014",
+        "q_u4344_015",
+        "q_u4344_016",
+        "q_u4344_017",
+        "q_u4344_018",
+        "q_u4344_019",
+        "q_u4344_020"
+      ]
+    }
+  ]
+}

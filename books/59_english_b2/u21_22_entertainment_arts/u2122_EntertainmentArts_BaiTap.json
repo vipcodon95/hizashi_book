@@ -1,0 +1,1993 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 21–22 — Entertainment & Arts",
+      "vi": "Giải trí & Nghệ thuật"
+    },
+    "title": "Units 21–22 — Entertainment & Arts",
+    "title_vn": "Giải trí & Nghệ thuật",
+    "module_code": "59_u2122",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.u21+u22",
+    "curriculum_sheets": [
+      "b2.081",
+      "b2.082",
+      "b2.083",
+      "b2.084",
+      "b2.085",
+      "b2.086",
+      "b2.087",
+      "b2.088"
+    ],
+    "characters": [
+      "Tina Carter",
+      "Amy Brooks",
+      "Megan Carter",
+      "Helena Brooks",
+      "Trevor Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 12, năm 6"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "such/so/too + a + adj + N, as quan hệ, mục đích chi tiết",
+    "description_vn": "Bài điểm vở kịch sân sau của Tina và Amy trên bản tin khu phố, và bài kiến thức về công việc phục chế tranh. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 21 + Unit 22 khoá B2 · phiếu `b2.081` – `b2.088` (so / too + tính từ + a / an + danh từ, giải trí, biểu diễn, phê bình; as trong vai từ quan hệ, nghệ thuật, bảo tàng, phục chế)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài điểm kịch và một bài kiến thức nghệ thuật; hiểu `such a + adj + N + that`, `so + adj + a + N`, `too + adj + a + N`, `as you know`, `the same … as`, `such as`, nhận ra mục đích của chi tiết mở bài và giọng đùa của người viết, và giải thích một quy tắc qua ví dụ."
+    },
+    "extra_words": [
+      {
+        "word": "dragon",
+        "i18n": {
+          "vi": "con rồng"
+        }
+      },
+      {
+        "word": "ukulele",
+        "i18n": {
+          "vi": "đàn ukulele"
+        }
+      },
+      {
+        "word": "backyard",
+        "i18n": {
+          "vi": "sân sau"
+        }
+      },
+      {
+        "word": "folding chair",
+        "i18n": {
+          "vi": "ghế gấp"
+        }
+      },
+      {
+        "word": "upside-down",
+        "i18n": {
+          "vi": "úp ngược"
+        }
+      },
+      {
+        "word": "bucket",
+        "i18n": {
+          "vi": "cái xô"
+        }
+      },
+      {
+        "word": "costume",
+        "i18n": {
+          "vi": "trang phục biểu diễn"
+        }
+      },
+      {
+        "word": "conservator",
+        "i18n": {
+          "vi": "người bảo tồn, phục chế"
+        }
+      },
+      {
+        "word": "varnish",
+        "i18n": {
+          "vi": "lớp véc-ni"
+        }
+      },
+      {
+        "word": "infrared",
+        "i18n": {
+          "vi": "hồng ngoại"
+        }
+      },
+      {
+        "word": "reversible",
+        "i18n": {
+          "vi": "đảo ngược được"
+        }
+      },
+      {
+        "word": "recreate",
+        "i18n": {
+          "vi": "tái tạo"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "go to plan",
+          "vi": "theo kế hoạch"
+        }
+      },
+      {
+        "i18n": {
+          "en": "carry on",
+          "vi": "tiếp tục"
+        }
+      },
+      {
+        "i18n": {
+          "en": "raise money",
+          "vi": "quyên tiền"
+        }
+      },
+      {
+        "i18n": {
+          "en": "as you know",
+          "vi": "như bạn biết"
+        }
+      },
+      {
+        "i18n": {
+          "en": "the same … as",
+          "vi": "giống như"
+        }
+      },
+      {
+        "i18n": {
+          "en": "fill in",
+          "vi": "bù vào, lấp vào"
+        }
+      },
+      {
+        "i18n": {
+          "en": "one … at a time",
+          "vi": "từng … một"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`such a lovely idea that…` / `so sweet a moment that…` = … tới mức mà. `too long a speech for…` = quá … so với."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài phê bình: tìm chỗ người viết khen (`as much as`, `so sweet`) và chỗ chê (`Not everything went to plan`). Câu NOT hay hỏi vào danh sách trục trặc."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài kiến thức: một quy tắc (`every change should be reversible`) thường được giải thích bằng ví dụ ngay sau. Đọc ví dụ để hiểu quy tắc."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu kết có hình ảnh (`one crack at a time`): dịch thành ý thường (dần dần, từng chút một)."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u2122_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 21) — Bài điểm vở kịch sân sau của Tina và Amy"
+      },
+      "narrator": "announcer",
+      "title": "Review: The Dragon Who Was Afraid of the Dark",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Review: The Dragon Who Was Afraid of the Dark",
+            "vi": "Điểm kịch: Chú rồng sợ bóng tối"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Maple Street Neighborhood News · by Corinne Whitfield",
+            "vi": "Bản tin khu phố Maple Street · Corinne Whitfield viết"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I have reviewed shows in real theaters for twenty years, but I have rarely enjoyed an evening as much as I enjoyed Saturday night in the Brooks family's backyard.",
+            "vi": "Tôi đã điểm các vở diễn ở nhà hát thật suốt hai mươi năm, nhưng hiếm khi nào thích một buổi tối như tối thứ Bảy ở sân sau nhà Brooks."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "About forty neighbors sat on folding chairs, blankets and, in one case, an upside-down bucket, to watch The Dragon Who Was Afraid of the Dark.",
+            "vi": "Khoảng bốn mươi hàng xóm ngồi trên ghế gấp, trên chăn, và có một người ngồi trên chiếc xô úp ngược, để xem vở Chú rồng sợ bóng tối."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The play was written by Tina Carter and directed by Amy Brooks, and it was performed by six children from the street.",
+            "vi": "Vở kịch do Tina Carter viết, Amy Brooks đạo diễn, và sáu đứa trẻ trong phố diễn."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The story is simple: a young dragon who can breathe fire is too frightened to leave his cave at night, until a small owl teaches him that the dark is just the day with its eyes closed.",
+            "vi": "Câu chuyện đơn giản: một chú rồng nhỏ biết phun lửa nhưng sợ tới mức không dám ra khỏi hang ban đêm, cho tới khi một chú cú nhỏ dạy chú rằng bóng tối chỉ là ban ngày đang nhắm mắt."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is such a lovely idea that several adults in the audience were seen wiping their eyes.",
+            "vi": "Ý tưởng ấy đẹp tới mức người ta thấy vài người lớn trong khán giả đưa tay lau mắt."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The owl's song near the end, played on the ukulele by Megan Carter, was so sweet a moment that nobody wanted it to finish.",
+            "vi": "Bài hát của chú cú gần cuối, do Megan Carter đệm ukulele, là một khoảnh khắc ngọt ngào tới mức chẳng ai muốn nó kết thúc."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Not everything went to plan.",
+            "vi": "Không phải mọi thứ đều theo kế hoạch."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The dragon's costume, made from cardboard by Helena Brooks, lost its tail in the first scene, and the lights, which were controlled by Trevor Carter, went off at the wrong moment twice.",
+            "vi": "Bộ đồ rồng bằng bìa các-tông do Helena Brooks làm bị rơi mất đuôi ngay cảnh đầu, còn đèn, do Trevor Carter điều khiển, hai lần tắt nhầm lúc."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The owl's first speech was perhaps too long a speech for an eight-year-old, and the actor had to be helped by a loud voice from behind the curtain.",
+            "vi": "Lời thoại đầu tiên của chú cú có lẽ là quá dài với một em tám tuổi, và diễn viên phải nhờ một giọng nói to từ sau tấm màn nhắc."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And Biscuit, the Carters' dog, who had been given a small part as \"the world's laziest dragon\", fell asleep on stage and could not be woken up.",
+            "vi": "Còn Biscuit, chú chó nhà Carter, được giao một vai nhỏ là \"con rồng lười nhất thế giới\", đã ngủ quên trên sân khấu và không ai gọi dậy được."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Strangely, the problems made the evening better.",
+            "vi": "Lạ thay, chính những trục trặc lại làm buổi tối vui hơn."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every time something went wrong, the audience laughed, the actors laughed, and the show simply carried on.",
+            "vi": "Mỗi lần có gì trục trặc, khán giả cười, diễn viên cười, và vở diễn cứ thế tiếp tục."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tickets were free, but donations were collected for the animal shelter on Harbor Street, and $212 was raised.",
+            "vi": "Vé miễn phí, nhưng có quyên góp cho trại cứu hộ động vật ở phố Harbor, và thu được 212 đô."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I am told that a second play is already being written. If so, I will be there, and I will bring my own bucket.",
+            "vi": "Tôi được biết vở thứ hai đã đang được viết. Nếu đúng vậy, tôi sẽ có mặt, và sẽ tự mang xô của mình."
+          }
+        }
+      ],
+      "content_ja": "Review: The Dragon Who Was Afraid of the Dark\n\nMaple Street Neighborhood News · by Corinne Whitfield\n\nI have reviewed shows in real theaters for twenty years, but I have rarely enjoyed an evening as much as I enjoyed Saturday night in the Brooks family's backyard. About forty neighbors sat on folding chairs, blankets and, in one case, an upside-down bucket, to watch The Dragon Who Was Afraid of the Dark. The play was written by Tina Carter and directed by Amy Brooks, and it was performed by six children from the street.\n\nThe story is simple: a young dragon who can breathe fire is too frightened to leave his cave at night, until a small owl teaches him that the dark is just the day with its eyes closed. It is such a lovely idea that several adults in the audience were seen wiping their eyes. The owl's song near the end, played on the ukulele by Megan Carter, was so sweet a moment that nobody wanted it to finish.\n\nNot everything went to plan. The dragon's costume, made from cardboard by Helena Brooks, lost its tail in the first scene, and the lights, which were controlled by Trevor Carter, went off at the wrong moment twice. The owl's first speech was perhaps too long a speech for an eight-year-old, and the actor had to be helped by a loud voice from behind the curtain. And Biscuit, the Carters' dog, who had been given a small part as \"the world's laziest dragon\", fell asleep on stage and could not be woken up.\n\nStrangely, the problems made the evening better. Every time something went wrong, the audience laughed, the actors laughed, and the show simply carried on. Tickets were free, but donations were collected for the animal shelter on Harbor Street, and $212 was raised. I am told that a second play is already being written. If so, I will be there, and I will bring my own bucket.",
+      "translation_vn": "(1) Điểm kịch: Chú rồng sợ bóng tối\n(2) Bản tin khu phố Maple Street · Corinne Whitfield viết\n(3) Tôi đã điểm các vở diễn ở nhà hát thật suốt hai mươi năm, nhưng hiếm khi nào thích một buổi tối như tối thứ Bảy ở sân sau nhà Brooks.\n(4) Khoảng bốn mươi hàng xóm ngồi trên ghế gấp, trên chăn, và có một người ngồi trên chiếc xô úp ngược, để xem vở Chú rồng sợ bóng tối.\n(5) Vở kịch do Tina Carter viết, Amy Brooks đạo diễn, và sáu đứa trẻ trong phố diễn.\n(6) Câu chuyện đơn giản: một chú rồng nhỏ biết phun lửa nhưng sợ tới mức không dám ra khỏi hang ban đêm, cho tới khi một chú cú nhỏ dạy chú rằng bóng tối chỉ là ban ngày đang nhắm mắt.\n(7) Ý tưởng ấy đẹp tới mức người ta thấy vài người lớn trong khán giả đưa tay lau mắt.\n(8) Bài hát của chú cú gần cuối, do Megan Carter đệm ukulele, là một khoảnh khắc ngọt ngào tới mức chẳng ai muốn nó kết thúc.\n(9) Không phải mọi thứ đều theo kế hoạch.\n(10) Bộ đồ rồng bằng bìa các-tông do Helena Brooks làm bị rơi mất đuôi ngay cảnh đầu, còn đèn, do Trevor Carter điều khiển, hai lần tắt nhầm lúc.\n(11) Lời thoại đầu tiên của chú cú có lẽ là quá dài với một em tám tuổi, và diễn viên phải nhờ một giọng nói to từ sau tấm màn nhắc.\n(12) Còn Biscuit, chú chó nhà Carter, được giao một vai nhỏ là \"con rồng lười nhất thế giới\", đã ngủ quên trên sân khấu và không ai gọi dậy được.\n(13) Lạ thay, chính những trục trặc lại làm buổi tối vui hơn.\n(14) Mỗi lần có gì trục trặc, khán giả cười, diễn viên cười, và vở diễn cứ thế tiếp tục.\n(15) Vé miễn phí, nhưng có quyên góp cho trại cứu hộ động vật ở phố Harbor, và thu được 212 đô.\n(16) Tôi được biết vở thứ hai đã đang được viết. Nếu đúng vậy, tôi sẽ có mặt, và sẽ tự mang xô của mình.",
+      "word_count": 330,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.081",
+        "b2.082",
+        "b2.083",
+        "b2.084"
+      ]
+    },
+    {
+      "id": "passage_u2122_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 22) — Công việc của người phục chế tranh"
+      },
+      "narrator": "announcer",
+      "title": "Saving Old Masters: The Quiet Work of Art Conservators",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Saving Old Masters: The Quiet Work of Art Conservators",
+            "vi": "Cứu những kiệt tác: công việc lặng lẽ của người phục chế tranh"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "As you know if you have ever looked closely at an old painting in a museum, time is not kind to art.",
+            "vi": "Như bạn biết nếu từng nhìn kỹ một bức tranh cổ ở bảo tàng, thời gian không mấy tử tế với nghệ thuật."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Colors fade, paint cracks, and the protective layer of varnish that artists put on top slowly turns yellow, so that a bright blue sky can look green and gloomy after a few hundred years.",
+            "vi": "Màu phai, sơn nứt, và lớp véc-ni bảo vệ mà hoạ sĩ phủ lên trên dần ngả vàng, khiến một bầu trời xanh rực rỡ trông xanh lục và u ám sau vài trăm năm."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The people who care for these works are called conservators, and their job is a mixture of science, art and great patience.",
+            "vi": "Những người chăm sóc các tác phẩm này được gọi là người bảo tồn, phục chế, và công việc của họ là sự pha trộn giữa khoa học, nghệ thuật và lòng kiên nhẫn lớn lao."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Before they touch a painting, they study it with the same tools as doctors use: X-rays and infrared cameras can show what lies under the surface, such as earlier sketches or parts that the artist painted over.",
+            "vi": "Trước khi chạm vào một bức tranh, họ nghiên cứu nó bằng chính những công cụ bác sĩ dùng: tia X và máy ảnh hồng ngoại có thể cho thấy những gì nằm dưới bề mặt, như bản phác thảo trước đó hay những phần hoạ sĩ đã vẽ đè lên."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tiny samples of paint, often smaller than a grain of sand, are analyzed to find out which materials were used.",
+            "vi": "Những mẫu sơn bé xíu, thường nhỏ hơn một hạt cát, được phân tích để biết người ta đã dùng chất liệu gì."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One of the most important rules of modern conservation is that every change should be reversible.",
+            "vi": "Một trong những quy tắc quan trọng nhất của ngành phục chế hiện đại là mọi thay đổi đều phải đảo ngược được."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If old varnish is removed, the new varnish must be one that a future conservator can take off without harming the original paint.",
+            "vi": "Nếu lớp véc-ni cũ được bóc đi, lớp mới phải là loại mà người phục chế đời sau có thể gỡ ra mà không làm hại lớp sơn gốc."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Missing areas are filled in so carefully that they cannot be seen from a normal distance, but they can always be found under special light.",
+            "vi": "Những phần bị mất được bù vào cẩn thận tới mức nhìn từ khoảng cách bình thường không thấy, nhưng dưới ánh sáng đặc biệt thì luôn tìm ra được."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The idea is simple: conservators should never pretend that their work is the artist's.",
+            "vi": "Ý tưởng rất đơn giản: người phục chế không bao giờ được giả vờ rằng phần việc của mình là của hoạ sĩ."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some projects are now done in public.",
+            "vi": "Một số dự án giờ được làm công khai."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Since 2019, the Rijksmuseum in Amsterdam has been studying and restoring Rembrandt's huge painting The Night Watch inside a glass room, so that visitors can watch the experts at work.",
+            "vi": "Từ năm 2019, bảo tàng Rijksmuseum ở Amsterdam đã nghiên cứu và phục chế bức tranh khổng lồ Đội tuần đêm của Rembrandt trong một căn phòng kính, để khách tham quan có thể xem các chuyên gia làm việc."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The team even used computer programs to recreate parts of the painting that had been cut off in the 1700s, so that people could see it as close to the way it once looked as possible.",
+            "vi": "Nhóm còn dùng chương trình máy tính để tái tạo những phần tranh bị cắt bỏ từ thế kỷ 18, để mọi người được thấy nó gần nhất có thể với dáng vẻ ban đầu."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Conservation is slow. A single painting can take years, and much of the work is done with brushes as thin as a hair.",
+            "vi": "Phục chế là việc chậm. Một bức tranh có thể mất nhiều năm, và phần lớn công việc được làm bằng những chiếc cọ mảnh như sợi tóc."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But without it, many of the paintings that we travel across the world to see would simply disappear, one crack at a time.",
+            "vi": "Nhưng không có nó, nhiều bức tranh ta đi nửa vòng trái đất để ngắm sẽ đơn giản là biến mất, từng vết nứt một."
+          }
+        }
+      ],
+      "content_ja": "Saving Old Masters: The Quiet Work of Art Conservators\n\nAs you know if you have ever looked closely at an old painting in a museum, time is not kind to art. Colors fade, paint cracks, and the protective layer of varnish that artists put on top slowly turns yellow, so that a bright blue sky can look green and gloomy after a few hundred years.\n\nThe people who care for these works are called conservators, and their job is a mixture of science, art and great patience. Before they touch a painting, they study it with the same tools as doctors use: X-rays and infrared cameras can show what lies under the surface, such as earlier sketches or parts that the artist painted over. Tiny samples of paint, often smaller than a grain of sand, are analyzed to find out which materials were used.\n\nOne of the most important rules of modern conservation is that every change should be reversible. If old varnish is removed, the new varnish must be one that a future conservator can take off without harming the original paint. Missing areas are filled in so carefully that they cannot be seen from a normal distance, but they can always be found under special light. The idea is simple: conservators should never pretend that their work is the artist's.\n\nSome projects are now done in public. Since 2019, the Rijksmuseum in Amsterdam has been studying and restoring Rembrandt's huge painting The Night Watch inside a glass room, so that visitors can watch the experts at work. The team even used computer programs to recreate parts of the painting that had been cut off in the 1700s, so that people could see it as close to the way it once looked as possible.\n\nConservation is slow. A single painting can take years, and much of the work is done with brushes as thin as a hair. But without it, many of the paintings that we travel across the world to see would simply disappear, one crack at a time.",
+      "translation_vn": "(1) Cứu những kiệt tác: công việc lặng lẽ của người phục chế tranh\n(2) Như bạn biết nếu từng nhìn kỹ một bức tranh cổ ở bảo tàng, thời gian không mấy tử tế với nghệ thuật.\n(3) Màu phai, sơn nứt, và lớp véc-ni bảo vệ mà hoạ sĩ phủ lên trên dần ngả vàng, khiến một bầu trời xanh rực rỡ trông xanh lục và u ám sau vài trăm năm.\n(4) Những người chăm sóc các tác phẩm này được gọi là người bảo tồn, phục chế, và công việc của họ là sự pha trộn giữa khoa học, nghệ thuật và lòng kiên nhẫn lớn lao.\n(5) Trước khi chạm vào một bức tranh, họ nghiên cứu nó bằng chính những công cụ bác sĩ dùng: tia X và máy ảnh hồng ngoại có thể cho thấy những gì nằm dưới bề mặt, như bản phác thảo trước đó hay những phần hoạ sĩ đã vẽ đè lên.\n(6) Những mẫu sơn bé xíu, thường nhỏ hơn một hạt cát, được phân tích để biết người ta đã dùng chất liệu gì.\n(7) Một trong những quy tắc quan trọng nhất của ngành phục chế hiện đại là mọi thay đổi đều phải đảo ngược được.\n(8) Nếu lớp véc-ni cũ được bóc đi, lớp mới phải là loại mà người phục chế đời sau có thể gỡ ra mà không làm hại lớp sơn gốc.\n(9) Những phần bị mất được bù vào cẩn thận tới mức nhìn từ khoảng cách bình thường không thấy, nhưng dưới ánh sáng đặc biệt thì luôn tìm ra được.\n(10) Ý tưởng rất đơn giản: người phục chế không bao giờ được giả vờ rằng phần việc của mình là của hoạ sĩ.\n(11) Một số dự án giờ được làm công khai.\n(12) Từ năm 2019, bảo tàng Rijksmuseum ở Amsterdam đã nghiên cứu và phục chế bức tranh khổng lồ Đội tuần đêm của Rembrandt trong một căn phòng kính, để khách tham quan có thể xem các chuyên gia làm việc.\n(13) Nhóm còn dùng chương trình máy tính để tái tạo những phần tranh bị cắt bỏ từ thế kỷ 18, để mọi người được thấy nó gần nhất có thể với dáng vẻ ban đầu.\n(14) Phục chế là việc chậm. Một bức tranh có thể mất nhiều năm, và phần lớn công việc được làm bằng những chiếc cọ mảnh như sợi tóc.\n(15) Nhưng không có nó, nhiều bức tranh ta đi nửa vòng trái đất để ngắm sẽ đơn giản là biến mất, từng vết nứt một.",
+      "word_count": 341,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.085",
+        "b2.086",
+        "b2.087",
+        "b2.088"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u2122_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "What is Corinne's review mainly about?",
+        "vi": "Bài điểm kịch của Corinne chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a professional show in a real theater in the city",
+            "vi": "một vở diễn chuyên nghiệp ở nhà hát thật trong thành phố"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a professional show in a real theater in the city",
+          "text_translation": "một vở diễn chuyên nghiệp ở nhà hát thật trong thành phố"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "how to make a dragon costume out of cardboard",
+            "vi": "cách làm bộ đồ rồng bằng bìa các-tông"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "how to make a dragon costume out of cardboard",
+          "text_translation": "cách làm bộ đồ rồng bằng bìa các-tông"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a children's play performed for neighbors in a backyard",
+            "vi": "một vở kịch thiếu nhi diễn cho hàng xóm xem ở sân sau"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "a children's play performed for neighbors in a backyard",
+          "text_translation": "một vở kịch thiếu nhi diễn cho hàng xóm xem ở sân sau"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a fund-raising evening at the animal shelter on Harbor Street",
+            "vi": "một buổi tối gây quỹ ở trại cứu hộ động vật phố Harbor"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a fund-raising evening at the animal shelter on Harbor Street",
+          "text_translation": "một buổi tối gây quỹ ở trại cứu hộ động vật phố Harbor"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"The play was written by Tina Carter and directed by Amy Brooks, and it was performed by six children from the street.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is Corinne's review mainly about?",
+      "question_vn": "Bài điểm kịch của Corinne chủ yếu nói về điều gì?",
+      "explanation": "\"The play was written by Tina Carter and directed by Amy Brooks, and it was performed by six children from the street.\""
+    },
+    {
+      "id": "q_u2122_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "Why does Corinne mention that she has reviewed shows in real theaters for twenty years?",
+        "vi": "Vì sao Corinne nhắc rằng bà đã điểm kịch ở nhà hát thật hai mươi năm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that her high opinion of this small show means a lot",
+            "vi": "để cho thấy lời khen của bà dành cho vở nhỏ này rất có trọng lượng"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to show that her high opinion of this small show means a lot",
+          "text_translation": "để cho thấy lời khen của bà dành cho vở nhỏ này rất có trọng lượng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to complain that the backyard was not as good as a real theater",
+            "vi": "để phàn nàn sân sau không tốt bằng nhà hát thật"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to complain that the backyard was not as good as a real theater",
+          "text_translation": "để phàn nàn sân sau không tốt bằng nhà hát thật"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to ask the neighbors for a job at the new theater",
+            "vi": "để xin hàng xóm một việc làm ở nhà hát mới"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to ask the neighbors for a job at the new theater",
+          "text_translation": "để xin hàng xóm một việc làm ở nhà hát mới"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to explain why she arrived late to the performance",
+            "vi": "để giải thích vì sao bà tới muộn buổi diễn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to explain why she arrived late to the performance",
+          "text_translation": "để giải thích vì sao bà tới muộn buổi diễn"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về mục đích. Một người phê bình lâu năm mà nói \"I have rarely enjoyed an evening as much\" thì lời khen càng có sức nặng."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Corinne mention that she has reviewed shows in real theaters for twenty years?",
+      "question_vn": "Vì sao Corinne nhắc rằng bà đã điểm kịch ở nhà hát thật hai mươi năm?",
+      "explanation": "Câu suy luận về mục đích. Một người phê bình lâu năm mà nói \"I have rarely enjoyed an evening as much\" thì lời khen càng có sức nặng."
+    },
+    {
+      "id": "q_u2122_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "What does the owl teach the dragon?",
+        "vi": "Chú cú dạy chú rồng điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how to breathe fire without burning the whole cave",
+            "vi": "cách phun lửa mà không thiêu cả hang"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how to breathe fire without burning the whole cave",
+          "text_translation": "cách phun lửa mà không thiêu cả hang"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "how to fly high above the trees at night",
+            "vi": "cách bay cao trên ngọn cây vào ban đêm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "how to fly high above the trees at night",
+          "text_translation": "cách bay cao trên ngọn cây vào ban đêm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "how to sing sweet songs to the animals of the night",
+            "vi": "cách hát những bài ngọt ngào cho các loài vật ban đêm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "how to sing sweet songs to the animals of the night",
+          "text_translation": "cách hát những bài ngọt ngào cho các loài vật ban đêm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that the dark is just the day with its eyes closed",
+            "vi": "rằng bóng tối chỉ là ban ngày đang nhắm mắt"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "that the dark is just the day with its eyes closed",
+          "text_translation": "rằng bóng tối chỉ là ban ngày đang nhắm mắt"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"a small owl teaches him that the dark is just the day with its eyes closed.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the owl teach the dragon?",
+      "question_vn": "Chú cú dạy chú rồng điều gì?",
+      "explanation": "\"a small owl teaches him that the dark is just the day with its eyes closed.\""
+    },
+    {
+      "id": "q_u2122_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "What does \"It is such a lovely idea that several adults in the audience were seen wiping their eyes\" mean?",
+        "vi": "Câu \"Ý tưởng ấy đẹp tới mức người ta thấy vài người lớn lau mắt\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Some adults had dust in their eyes because they sat on the ground.",
+            "vi": "Vài người lớn bị bụi vào mắt vì ngồi dưới đất."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Some adults had dust in their eyes because they sat on the ground.",
+          "text_translation": "Vài người lớn bị bụi vào mắt vì ngồi dưới đất."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The idea was so touching that some adults were moved to tears.",
+            "vi": "Ý tưởng cảm động tới mức vài người lớn rơi nước mắt."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The idea was so touching that some adults were moved to tears.",
+          "text_translation": "Ý tưởng cảm động tới mức vài người lớn rơi nước mắt."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The adults didn't like the idea and were upset about the show.",
+            "vi": "Người lớn không thích ý tưởng và khó chịu về vở diễn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The adults didn't like the idea and were upset about the show.",
+          "text_translation": "Người lớn không thích ý tưởng và khó chịu về vở diễn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It was so dark that the adults could not see the stage clearly.",
+            "vi": "Trời tối đến mức người lớn không nhìn rõ sân khấu."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It was so dark that the adults could not see the stage clearly.",
+          "text_translation": "Trời tối đến mức người lớn không nhìn rõ sân khấu."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"It is such a lovely idea that several adults in the audience were seen wiping their eyes.\" Such + a + adj + N + that = … tới mức mà."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"It is such a lovely idea that several adults in the audience were seen wiping their eyes\" mean?",
+      "question_vn": "Câu \"Ý tưởng ấy đẹp tới mức người ta thấy vài người lớn lau mắt\" nghĩa là gì?",
+      "explanation": "\"It is such a lovely idea that several adults in the audience were seen wiping their eyes.\" Such + a + adj + N + that = … tới mức mà."
+    },
+    {
+      "id": "q_u2122_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "Who played the music for the owl's song?",
+        "vi": "Ai đệm nhạc cho bài hát của chú cú?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tina Carter, on the piano",
+            "vi": "Tina Carter, chơi piano"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Tina Carter, on the piano",
+          "text_translation": "Tina Carter, chơi piano"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Amy Brooks, on the guitar",
+            "vi": "Amy Brooks, chơi ghi-ta"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Amy Brooks, on the guitar",
+          "text_translation": "Amy Brooks, chơi ghi-ta"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Megan Carter, on the ukulele",
+            "vi": "Megan Carter, chơi ukulele"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Megan Carter, on the ukulele",
+          "text_translation": "Megan Carter, chơi ukulele"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Helena Brooks, on the drums",
+            "vi": "Helena Brooks, chơi trống"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Helena Brooks, on the drums",
+          "text_translation": "Helena Brooks, chơi trống"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"The owl's song near the end, played on the ukulele by Megan Carter, was so sweet a moment that nobody wanted it to finish.\" So + adj + a + N = một … đến thế."
+      },
+      "audio_data": null,
+      "question_jp": "Who played the music for the owl's song?",
+      "question_vn": "Ai đệm nhạc cho bài hát của chú cú?",
+      "explanation": "\"The owl's song near the end, played on the ukulele by Megan Carter, was so sweet a moment that nobody wanted it to finish.\" So + adj + a + N = một … đến thế."
+    },
+    {
+      "id": "q_u2122_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "Which of these did NOT go wrong during the play?",
+        "vi": "Điều nào KHÔNG gặp trục trặc trong buổi diễn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the owl's song",
+            "vi": "bài hát của chú cú"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the owl's song",
+          "text_translation": "bài hát của chú cú"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the dragon's costume",
+            "vi": "bộ đồ rồng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the dragon's costume",
+          "text_translation": "bộ đồ rồng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the lights",
+            "vi": "đèn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the lights",
+          "text_translation": "đèn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Biscuit's part",
+            "vi": "vai của Biscuit"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Biscuit's part",
+          "text_translation": "vai của Biscuit"
+        }
+      ],
+      "evidence_segments": [
+        8,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Bộ đồ rồng mất đuôi, đèn tắt nhầm, Biscuit ngủ quên. Bài hát của chú cú thì được khen là \"so sweet a moment\"."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these did NOT go wrong during the play?",
+      "question_vn": "Điều nào KHÔNG gặp trục trặc trong buổi diễn?",
+      "explanation": "Bộ đồ rồng mất đuôi, đèn tắt nhầm, Biscuit ngủ quên. Bài hát của chú cú thì được khen là \"so sweet a moment\"."
+    },
+    {
+      "id": "q_u2122_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "What does \"too long a speech for an eight-year-old\" suggest?",
+        "vi": "Cụm \"quá dài với một em tám tuổi\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The speech was so boring that the audience stopped listening to it.",
+            "vi": "Lời thoại chán đến mức khán giả thôi không nghe nữa."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The speech was so boring that the audience stopped listening to it.",
+          "text_translation": "Lời thoại chán đến mức khán giả thôi không nghe nữa."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The actor was much older than eight and did not need any help.",
+            "vi": "Diễn viên lớn hơn tám tuổi nhiều và không cần ai giúp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The actor was much older than eight and did not need any help.",
+          "text_translation": "Diễn viên lớn hơn tám tuổi nhiều và không cần ai giúp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The audience left early because the speech took too long.",
+            "vi": "Khán giả bỏ về sớm vì lời thoại quá dài."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The audience left early because the speech took too long.",
+          "text_translation": "Khán giả bỏ về sớm vì lời thoại quá dài."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The speech was difficult for such a young actor to remember.",
+            "vi": "Lời thoại quá khó nhớ với một diễn viên nhỏ tuổi như vậy."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The speech was difficult for such a young actor to remember.",
+          "text_translation": "Lời thoại quá khó nhớ với một diễn viên nhỏ tuổi như vậy."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"too long a speech for an eight-year-old, and the actor had to be helped by a loud voice from behind the curtain.\" Too + adj + a + N = quá … so với."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"too long a speech for an eight-year-old\" suggest?",
+      "question_vn": "Cụm \"quá dài với một em tám tuổi\" hàm ý gì?",
+      "explanation": "\"too long a speech for an eight-year-old, and the actor had to be helped by a loud voice from behind the curtain.\" Too + adj + a + N = quá … so với."
+    },
+    {
+      "id": "q_u2122_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "Why does Corinne say that \"the problems made the evening better\"?",
+        "vi": "Vì sao Corinne nói \"chính những trục trặc lại làm buổi tối vui hơn\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the show finished much earlier than the writer had expected",
+            "vi": "vì vở diễn kết thúc sớm hơn nhiều so với dự tính của người viết"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because the show finished much earlier than the writer had expected",
+          "text_translation": "vì vở diễn kết thúc sớm hơn nhiều so với dự tính của người viết"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because everyone laughed together and the show simply carried on",
+            "vi": "vì mọi người cùng cười và vở diễn cứ thế tiếp tục"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because everyone laughed together and the show simply carried on",
+          "text_translation": "vì mọi người cùng cười và vở diễn cứ thế tiếp tục"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the audience got free tickets and a snack at the end",
+            "vi": "vì khán giả được vé miễn phí và một món ăn nhẹ ở cuối buổi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the audience got free tickets and a snack at the end",
+          "text_translation": "vì khán giả được vé miễn phí và một món ăn nhẹ ở cuối buổi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because Biscuit woke up and finally joined the other actors",
+            "vi": "vì Biscuit tỉnh dậy và cuối cùng cũng nhập hội cùng các diễn viên"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because Biscuit woke up and finally joined the other actors",
+          "text_translation": "vì Biscuit tỉnh dậy và cuối cùng cũng nhập hội cùng các diễn viên"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"Every time something went wrong, the audience laughed, the actors laughed, and the show simply carried on.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Corinne say that \"the problems made the evening better\"?",
+      "question_vn": "Vì sao Corinne nói \"chính những trục trặc lại làm buổi tối vui hơn\"?",
+      "explanation": "\"Every time something went wrong, the audience laughed, the actors laughed, and the show simply carried on.\""
+    },
+    {
+      "id": "q_u2122_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "How much money was raised for the animal shelter?",
+        "vi": "Thu được bao nhiêu tiền cho trại cứu hộ động vật?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "$212",
+            "vi": "212 đô"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "$212",
+          "text_translation": "212 đô"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "$40",
+            "vi": "40 đô"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "$40",
+          "text_translation": "40 đô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "nothing, because tickets were free",
+            "vi": "không có gì, vì vé miễn phí"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "nothing, because tickets were free",
+          "text_translation": "không có gì, vì vé miễn phí"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "$20",
+            "vi": "20 đô"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "$20",
+          "text_translation": "20 đô"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"donations were collected for the animal shelter on Harbor Street, and $212 was raised.\" 40 là số khán giả."
+      },
+      "audio_data": null,
+      "question_jp": "How much money was raised for the animal shelter?",
+      "question_vn": "Thu được bao nhiêu tiền cho trại cứu hộ động vật?",
+      "explanation": "\"donations were collected for the animal shelter on Harbor Street, and $212 was raised.\" 40 là số khán giả."
+    },
+    {
+      "id": "q_u2122_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "What does \"I will bring my own bucket\" show about Corinne?",
+        "vi": "Câu \"tôi sẽ tự mang xô của mình\" cho thấy điều gì về Corinne?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She didn't enjoy the show and will not come to the next one.",
+            "vi": "Bà không thích vở diễn và sẽ không tới xem vở sau."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She didn't enjoy the show and will not come to the next one.",
+          "text_translation": "Bà không thích vở diễn và sẽ không tới xem vở sau."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is going to clean the whole backyard before the next play.",
+            "vi": "Bà sẽ dọn cả sân sau trước vở diễn kế tiếp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She is going to clean the whole backyard before the next play.",
+          "text_translation": "Bà sẽ dọn cả sân sau trước vở diễn kế tiếp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She enjoyed the show and is joking about the upside-down bucket.",
+            "vi": "Bà thích vở diễn và đang đùa về chiếc xô úp ngược."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She enjoyed the show and is joking about the upside-down bucket.",
+          "text_translation": "Bà thích vở diễn và đang đùa về chiếc xô úp ngược."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She wants to be in the next play and will bring her own costume.",
+            "vi": "Bà muốn diễn trong vở sau và sẽ tự mang trang phục."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She wants to be in the next play and will bring her own costume.",
+          "text_translation": "Bà muốn diễn trong vở sau và sẽ tự mang trang phục."
+        }
+      ],
+      "evidence_segments": [
+        16,
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về giọng điệu. Đầu bài có người ngồi \"an upside-down bucket\". Câu kết vừa đùa vừa cho thấy bà chắc chắn sẽ quay lại."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"I will bring my own bucket\" show about Corinne?",
+      "question_vn": "Câu \"tôi sẽ tự mang xô của mình\" cho thấy điều gì về Corinne?",
+      "explanation": "Câu suy luận về giọng điệu. Đầu bài có người ngồi \"an upside-down bucket\". Câu kết vừa đùa vừa cho thấy bà chắc chắn sẽ quay lại."
+    },
+    {
+      "id": "q_u2122_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "What is the main purpose of the article?",
+        "vi": "Mục đích chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to teach readers how to paint like the old masters",
+            "vi": "để dạy người đọc vẽ như các bậc thầy xưa"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to teach readers how to paint like the old masters",
+          "text_translation": "để dạy người đọc vẽ như các bậc thầy xưa"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to explain what art conservators do and why their work matters",
+            "vi": "để giải thích người phục chế tranh làm gì và vì sao công việc của họ quan trọng"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to explain what art conservators do and why their work matters",
+          "text_translation": "để giải thích người phục chế tranh làm gì và vì sao công việc của họ quan trọng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to advertise a museum in Amsterdam and its glass room",
+            "vi": "để quảng cáo một bảo tàng ở Amsterdam và căn phòng kính của nó"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to advertise a museum in Amsterdam and its glass room",
+          "text_translation": "để quảng cáo một bảo tàng ở Amsterdam và căn phòng kính của nó"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to criticize old artists for using paint that fades and cracks",
+            "vi": "để chê các hoạ sĩ xưa dùng sơn phai màu và nứt"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to criticize old artists for using paint that fades and cracks",
+          "text_translation": "để chê các hoạ sĩ xưa dùng sơn phai màu và nứt"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"The people who care for these works are called conservators, and their job is a mixture of science, art and great patience.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of the article?",
+      "question_vn": "Mục đích chính của bài báo là gì?",
+      "explanation": "\"The people who care for these works are called conservators, and their job is a mixture of science, art and great patience.\""
+    },
+    {
+      "id": "q_u2122_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "Why can a bright blue sky in an old painting look green and gloomy?",
+        "vi": "Vì sao bầu trời xanh rực rỡ trong tranh cổ có thể trông xanh lục và u ám?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The artist used the wrong paint at the very beginning.",
+            "vi": "Hoạ sĩ dùng nhầm sơn ngay từ đầu."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The artist used the wrong paint at the very beginning.",
+          "text_translation": "Hoạ sĩ dùng nhầm sơn ngay từ đầu."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Museums keep the lights too low for visitors to see it.",
+            "vi": "Bảo tàng để đèn quá tối khiến khách không nhìn rõ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Museums keep the lights too low for visitors to see it.",
+          "text_translation": "Bảo tàng để đèn quá tối khiến khách không nhìn rõ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Conservators painted over it with a darker color years ago.",
+            "vi": "Người phục chế đã vẽ đè màu tối hơn lên từ nhiều năm trước."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Conservators painted over it with a darker color years ago.",
+          "text_translation": "Người phục chế đã vẽ đè màu tối hơn lên từ nhiều năm trước."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The protective varnish on top slowly turns yellow.",
+            "vi": "Lớp véc-ni bảo vệ phía trên dần ngả vàng."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The protective varnish on top slowly turns yellow.",
+          "text_translation": "Lớp véc-ni bảo vệ phía trên dần ngả vàng."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"the protective layer of varnish that artists put on top slowly turns yellow, so that a bright blue sky can look green and gloomy\". Xanh lam + lớp vàng = xanh lục."
+      },
+      "audio_data": null,
+      "question_jp": "Why can a bright blue sky in an old painting look green and gloomy?",
+      "question_vn": "Vì sao bầu trời xanh rực rỡ trong tranh cổ có thể trông xanh lục và u ám?",
+      "explanation": "\"the protective layer of varnish that artists put on top slowly turns yellow, so that a bright blue sky can look green and gloomy\". Xanh lam + lớp vàng = xanh lục."
+    },
+    {
+      "id": "q_u2122_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "What does \"they study it with the same tools as doctors use\" mean?",
+        "vi": "Câu \"họ nghiên cứu nó bằng chính những công cụ bác sĩ dùng\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Conservators use tools like X-rays, just as doctors do.",
+            "vi": "Người phục chế dùng những công cụ như tia X, giống bác sĩ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Conservators use tools like X-rays, just as doctors do.",
+          "text_translation": "Người phục chế dùng những công cụ như tia X, giống bác sĩ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Conservators are also doctors who work in the museum.",
+            "vi": "Người phục chế cũng là bác sĩ làm việc trong bảo tàng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Conservators are also doctors who work in the museum.",
+          "text_translation": "Người phục chế cũng là bác sĩ làm việc trong bảo tàng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Doctors repair old paintings when the museum asks them.",
+            "vi": "Bác sĩ sửa tranh cũ khi bảo tàng nhờ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Doctors repair old paintings when the museum asks them.",
+          "text_translation": "Bác sĩ sửa tranh cũ khi bảo tàng nhờ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Paintings are taken to hospitals to be studied by doctors.",
+            "vi": "Tranh được đưa tới bệnh viện để bác sĩ nghiên cứu."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Paintings are taken to hospitals to be studied by doctors.",
+          "text_translation": "Tranh được đưa tới bệnh viện để bác sĩ nghiên cứu."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"the same tools as doctors use: X-rays and infrared cameras\". The same … as = cũng giống như; ở đây as đóng vai như đại từ quan hệ."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"they study it with the same tools as doctors use\" mean?",
+      "question_vn": "Câu \"họ nghiên cứu nó bằng chính những công cụ bác sĩ dùng\" nghĩa là gì?",
+      "explanation": "\"the same tools as doctors use: X-rays and infrared cameras\". The same … as = cũng giống như; ở đây as đóng vai như đại từ quan hệ."
+    },
+    {
+      "id": "q_u2122_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "What can X-rays and infrared cameras show?",
+        "vi": "Tia X và máy ảnh hồng ngoại cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the price that the painting had when it was first sold",
+            "vi": "giá bức tranh khi nó được bán lần đầu"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the price that the painting had when it was first sold",
+          "text_translation": "giá bức tranh khi nó được bán lần đầu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the name of the person who owned the painting before",
+            "vi": "tên người đã sở hữu bức tranh trước đây"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the name of the person who owned the painting before",
+          "text_translation": "tên người đã sở hữu bức tranh trước đây"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "what lies under the surface, such as earlier sketches",
+            "vi": "những gì nằm dưới bề mặt, như bản phác thảo trước đó"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "what lies under the surface, such as earlier sketches",
+          "text_translation": "những gì nằm dưới bề mặt, như bản phác thảo trước đó"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the color of the frame and the year it was made",
+            "vi": "màu của khung và năm nó được làm ra"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the color of the frame and the year it was made",
+          "text_translation": "màu của khung và năm nó được làm ra"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"X-rays and infrared cameras can show what lies under the surface, such as earlier sketches or parts that the artist painted over.\""
+      },
+      "audio_data": null,
+      "question_jp": "What can X-rays and infrared cameras show?",
+      "question_vn": "Tia X và máy ảnh hồng ngoại cho thấy điều gì?",
+      "explanation": "\"X-rays and infrared cameras can show what lies under the surface, such as earlier sketches or parts that the artist painted over.\""
+    },
+    {
+      "id": "q_u2122_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "What does \"every change should be reversible\" mean?",
+        "vi": "Câu \"mọi thay đổi đều phải đảo ngược được\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Paintings should be turned upside down so that the varnish can be removed.",
+            "vi": "Tranh phải được lật ngược để có thể gỡ lớp véc-ni."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Paintings should be turned upside down so that the varnish can be removed.",
+          "text_translation": "Tranh phải được lật ngược để có thể gỡ lớp véc-ni."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "A future conservator must be able to undo the work without harming the paint.",
+            "vi": "Người phục chế đời sau phải gỡ bỏ được phần việc mà không hại lớp sơn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "A future conservator must be able to undo the work without harming the paint.",
+          "text_translation": "Người phục chế đời sau phải gỡ bỏ được phần việc mà không hại lớp sơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Changes should be made as quickly as possible so that visitors can return.",
+            "vi": "Phải thay đổi nhanh nhất có thể để khách còn quay lại."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Changes should be made as quickly as possible so that visitors can return.",
+          "text_translation": "Phải thay đổi nhanh nhất có thể để khách còn quay lại."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Conservators should never change anything about an old painting at all.",
+            "vi": "Người phục chế tuyệt đối không được thay đổi gì ở bức tranh cũ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Conservators should never change anything about an old painting at all.",
+          "text_translation": "Người phục chế tuyệt đối không được thay đổi gì ở bức tranh cũ."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"the new varnish must be one that a future conservator can take off without harming the original paint.\" Đây là ví dụ giải thích cho quy tắc ở câu trước."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"every change should be reversible\" mean?",
+      "question_vn": "Câu \"mọi thay đổi đều phải đảo ngược được\" nghĩa là gì?",
+      "explanation": "\"the new varnish must be one that a future conservator can take off without harming the original paint.\" Đây là ví dụ giải thích cho quy tắc ở câu trước."
+    },
+    {
+      "id": "q_u2122_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "Why are missing areas filled in so that they can always be found under special light?",
+        "vi": "Vì sao những phần bị mất được bù sao cho dưới ánh sáng đặc biệt luôn tìm ra được?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "so that visitors can see them easily from a normal distance",
+            "vi": "để khách dễ thấy chúng từ khoảng cách bình thường"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "so that visitors can see them easily from a normal distance",
+          "text_translation": "để khách dễ thấy chúng từ khoảng cách bình thường"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the special paint costs less than the original paint",
+            "vi": "vì sơn đặc biệt rẻ hơn sơn gốc"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the special paint costs less than the original paint",
+          "text_translation": "vì sơn đặc biệt rẻ hơn sơn gốc"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the museum asks conservators to leave the paint rough",
+            "vi": "vì bảo tàng yêu cầu người phục chế để sơn thô ráp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the museum asks conservators to leave the paint rough",
+          "text_translation": "vì bảo tàng yêu cầu người phục chế để sơn thô ráp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "so that nobody confuses the conservator's work with the artist's",
+            "vi": "để không ai nhầm phần việc của người phục chế với của hoạ sĩ"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "so that nobody confuses the conservator's work with the artist's",
+          "text_translation": "để không ai nhầm phần việc của người phục chế với của hoạ sĩ"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"conservators should never pretend that their work is the artist's.\" Phần bù vào phải luôn phân biệt được với bản gốc."
+      },
+      "audio_data": null,
+      "question_jp": "Why are missing areas filled in so that they can always be found under special light?",
+      "question_vn": "Vì sao những phần bị mất được bù sao cho dưới ánh sáng đặc biệt luôn tìm ra được?",
+      "explanation": "Câu suy luận. \"conservators should never pretend that their work is the artist's.\" Phần bù vào phải luôn phân biệt được với bản gốc."
+    },
+    {
+      "id": "q_u2122_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "What is special about the work on The Night Watch?",
+        "vi": "Việc phục chế bức Đội tuần đêm có gì đặc biệt?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is being done inside a glass room so that visitors can watch.",
+            "vi": "Nó được làm trong một phòng kính để khách tham quan xem được."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It is being done inside a glass room so that visitors can watch.",
+          "text_translation": "Nó được làm trong một phòng kính để khách tham quan xem được."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It was finished in just one week, so visitors never saw the work.",
+            "vi": "Nó xong chỉ trong một tuần nên khách chưa từng thấy công việc."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It was finished in just one week, so visitors never saw the work.",
+          "text_translation": "Nó xong chỉ trong một tuần nên khách chưa từng thấy công việc."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It was done by Rembrandt himself in front of the visitors.",
+            "vi": "Chính Rembrandt làm ngay trước mặt khách."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It was done by Rembrandt himself in front of the visitors.",
+          "text_translation": "Chính Rembrandt làm ngay trước mặt khách."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is done at night only, when the museum is closed to the public.",
+            "vi": "Chỉ làm ban đêm, lúc bảo tàng đóng cửa với công chúng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It is done at night only, when the museum is closed to the public.",
+          "text_translation": "Chỉ làm ban đêm, lúc bảo tàng đóng cửa với công chúng."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"inside a glass room, so that visitors can watch the experts at work.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is special about the work on The Night Watch?",
+      "question_vn": "Việc phục chế bức Đội tuần đêm có gì đặc biệt?",
+      "explanation": "\"inside a glass room, so that visitors can watch the experts at work.\""
+    },
+    {
+      "id": "q_u2122_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "Why did the team use computer programs?",
+        "vi": "Vì sao nhóm dùng chương trình máy tính?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to print copies of the painting that visitors can buy in the museum shop",
+            "vi": "để in bản sao tranh cho khách mua ở cửa hàng bảo tàng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to print copies of the painting that visitors can buy in the museum shop",
+          "text_translation": "để in bản sao tranh cho khách mua ở cửa hàng bảo tàng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to make the colors brighter than they were in the 1600s",
+            "vi": "để làm màu sáng hơn so với thế kỷ 17"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to make the colors brighter than they were in the 1600s",
+          "text_translation": "để làm màu sáng hơn so với thế kỷ 17"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to recreate parts of the painting that had been cut off in the 1700s",
+            "vi": "để tái tạo những phần tranh bị cắt bỏ từ thế kỷ 18"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to recreate parts of the painting that had been cut off in the 1700s",
+          "text_translation": "để tái tạo những phần tranh bị cắt bỏ từ thế kỷ 18"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to find the name of the artist who painted the first sketch",
+            "vi": "để tìm tên hoạ sĩ vẽ bản phác thảo đầu tiên"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to find the name of the artist who painted the first sketch",
+          "text_translation": "để tìm tên hoạ sĩ vẽ bản phác thảo đầu tiên"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"to recreate parts of the painting that had been cut off in the 1700s\". Had been + V3: bị động quá khứ hoàn thành."
+      },
+      "audio_data": null,
+      "question_jp": "Why did the team use computer programs?",
+      "question_vn": "Vì sao nhóm dùng chương trình máy tính?",
+      "explanation": "\"to recreate parts of the painting that had been cut off in the 1700s\". Had been + V3: bị động quá khứ hoàn thành."
+    },
+    {
+      "id": "q_u2122_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "What does \"would simply disappear, one crack at a time\" suggest?",
+        "vi": "Cụm \"sẽ đơn giản là biến mất, từng vết nứt một\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Paintings would disappear suddenly, all at once, if the museum closed.",
+            "vi": "Tranh sẽ biến mất đột ngột, cùng một lúc, nếu bảo tàng đóng cửa."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Paintings would disappear suddenly, all at once, if the museum closed.",
+          "text_translation": "Tranh sẽ biến mất đột ngột, cùng một lúc, nếu bảo tàng đóng cửa."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Without conservators, paintings would be destroyed slowly, little by little.",
+            "vi": "Nếu không có người phục chế, tranh sẽ bị huỷ hoại dần dần, từng chút một."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Without conservators, paintings would be destroyed slowly, little by little.",
+          "text_translation": "Nếu không có người phục chế, tranh sẽ bị huỷ hoại dần dần, từng chút một."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Cracks are part of the art, so conservators should not repair them.",
+            "vi": "Vết nứt là một phần nghệ thuật nên người phục chế đừng sửa."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Cracks are part of the art, so conservators should not repair them.",
+          "text_translation": "Vết nứt là một phần nghệ thuật nên người phục chế đừng sửa."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Museums should hide their oldest paintings in boxes so nobody can damage them.",
+            "vi": "Bảo tàng nên giấu những bức tranh cổ nhất vào hộp để không ai làm hỏng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Museums should hide their oldest paintings in boxes so nobody can damage them.",
+          "text_translation": "Bảo tàng nên giấu những bức tranh cổ nhất vào hộp để không ai làm hỏng."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về hình ảnh. \"one crack at a time\" = từng chút một, chậm nhưng không dừng."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"would simply disappear, one crack at a time\" suggest?",
+      "question_vn": "Cụm \"sẽ đơn giản là biến mất, từng vết nứt một\" hàm ý gì?",
+      "explanation": "Câu suy luận về hình ảnh. \"one crack at a time\" = từng chút một, chậm nhưng không dừng."
+    },
+    {
+      "id": "q_u2122_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "Use both texts. What do Tina and Amy's play and the work of conservators have in common?",
+        "vi": "Dựa vào cả hai bài. Vở kịch của Tina và Amy với công việc của người phục chế có điểm gì chung?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both of them happen in museums and are watched by visitors from far away.",
+            "vi": "Cả hai đều diễn ra ở bảo tàng và được khách từ xa tới xem."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both of them happen in museums and are watched by visitors from far away.",
+          "text_translation": "Cả hai đều diễn ra ở bảo tàng và được khách từ xa tới xem."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Both of them use X-rays and cameras to see what lies under the surface.",
+            "vi": "Cả hai đều dùng tia X và máy ảnh để xem những gì dưới bề mặt."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Both of them use X-rays and cameras to see what lies under the surface.",
+          "text_translation": "Cả hai đều dùng tia X và máy ảnh để xem những gì dưới bề mặt."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both of them must be perfect, because nobody forgives any mistakes.",
+            "vi": "Cả hai đều phải hoàn hảo, vì không ai tha thứ lỗi nào."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Both of them must be perfect, because nobody forgives any mistakes.",
+          "text_translation": "Cả hai đều phải hoàn hảo, vì không ai tha thứ lỗi nào."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Both of them depend on patient, careful work by people who care about art.",
+            "vi": "Cả hai đều dựa vào công sức kiên nhẫn, tỉ mỉ của những người yêu nghệ thuật."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Both of them depend on patient, careful work by people who care about art.",
+          "text_translation": "Cả hai đều dựa vào công sức kiên nhẫn, tỉ mỉ của những người yêu nghệ thuật."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Công việc phục chế là \"a mixture of science, art and great patience\". Vở kịch cũng là công sức chung của nhiều người: viết kịch, đạo diễn, làm đồ, đệm nhạc, điều khiển đèn."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do Tina and Amy's play and the work of conservators have in common?",
+      "question_vn": "Dựa vào cả hai bài. Vở kịch của Tina và Amy với công việc của người phục chế có điểm gì chung?",
+      "explanation": "Câu nối hai bài. Công việc phục chế là \"a mixture of science, art and great patience\". Vở kịch cũng là công sức chung của nhiều người: viết kịch, đạo diễn, làm đồ, đệm nhạc, điều khiển đèn."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u2122_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 21) — Bài điểm vở kịch sân sau của Tina và Amy",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u2122_01",
+      "question_ids": [
+        "q_u2122_001",
+        "q_u2122_002",
+        "q_u2122_003",
+        "q_u2122_004",
+        "q_u2122_005",
+        "q_u2122_006",
+        "q_u2122_007",
+        "q_u2122_008",
+        "q_u2122_009",
+        "q_u2122_010"
+      ]
+    },
+    {
+      "set_id": "set_u2122_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 22) — Công việc của người phục chế tranh",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u2122_02",
+      "question_ids": [
+        "q_u2122_011",
+        "q_u2122_012",
+        "q_u2122_013",
+        "q_u2122_014",
+        "q_u2122_015",
+        "q_u2122_016",
+        "q_u2122_017",
+        "q_u2122_018",
+        "q_u2122_019",
+        "q_u2122_020"
+      ]
+    }
+  ]
+}

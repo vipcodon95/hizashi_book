@@ -1,0 +1,2054 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 21–22 — Social media & News",
+      "vi": "Mạng xã hội & Tin tức"
+    },
+    "title": "Units 21–22 — Social media & News",
+    "title_vn": "Mạng xã hội & Tin tức",
+    "module_code": "58_u2122",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u21+u22",
+    "curriculum_sheets": [
+      "b1.081",
+      "b1.082",
+      "b1.083",
+      "b1.084",
+      "b1.085",
+      "b1.086",
+      "b1.087",
+      "b1.088"
+    ],
+    "characters": [
+      "Chloe Bennett",
+      "Ethan Hayes",
+      "Leah Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 6, năm 5"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Hiện tại hoàn thành tiếp diễn, lược bớt, mệnh đề phân từ",
+    "description_vn": "Chloe viết blog về sáu tháng làm tự do trên mạng xã hội và bản tin khu phố về vụ Ethan cùng đội cứu một chú chó, kèm tin đồn sai trên mạng. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 21 + Unit 22 khoá B1 · phiếu `b1.081` – `b1.088` (đăng bài và nội dung, bạn trên mạng, quyền riêng tư, tin giả; tiêu đề tin, bản tin, tin địa phương, bàn chuyện thời sự)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài blog và một bản tin; hiểu hiện tại hoàn thành tiếp diễn (I've been posting… since…), câu lược bớt trong chat (Can't. Friday?), mệnh đề phân từ đầu câu (Built in…, Trapped…, Asked about…), và suy luận độ tin cậy của thông tin."
+    },
+    "extra_words": [
+      {
+        "word": "social media",
+        "i18n": {
+          "vi": "mạng xã hội"
+        }
+      },
+      {
+        "word": "freelancing",
+        "i18n": {
+          "vi": "làm việc tự do"
+        }
+      },
+      {
+        "word": "client",
+        "i18n": {
+          "vi": "khách hàng"
+        }
+      },
+      {
+        "word": "follower",
+        "i18n": {
+          "vi": "người theo dõi (trên mạng)"
+        }
+      },
+      {
+        "word": "account",
+        "i18n": {
+          "vi": "tài khoản"
+        }
+      },
+      {
+        "word": "storm drain",
+        "i18n": {
+          "vi": "cống thoát nước mưa"
+        }
+      },
+      {
+        "word": "trapped",
+        "i18n": {
+          "vi": "bị mắc kẹt"
+        }
+      },
+      {
+        "word": "claim",
+        "i18n": {
+          "vi": "khẳng định, điều được khẳng định"
+        }
+      },
+      {
+        "word": "hero",
+        "i18n": {
+          "vi": "người hùng"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "leave a comment",
+          "vi": "để lại bình luận"
+        }
+      },
+      {
+        "i18n": {
+          "en": "meet up with",
+          "vi": "gặp gỡ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "face-to-face",
+          "vi": "trực tiếp, mặt đối mặt"
+        }
+      },
+      {
+        "i18n": {
+          "en": "fall for",
+          "vi": "bị lừa, tin vào (điều sai)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "turn out to be",
+          "vi": "hoá ra là"
+        }
+      },
+      {
+        "i18n": {
+          "en": "on purpose",
+          "vi": "cố tình"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`have been + V-ing + since/for`: việc bắt đầu trong quá khứ và vẫn đang tiếp tục. Đừng chọn phương án nói việc đã dừng."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu lược bớt trong hội thoại (`Can't.`, `Sounds good.`, `Usual place?`): tự điền phần bị bỏ dựa vào câu ngay trước."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Mệnh đề phân từ đầu câu (`Built in the 1960s, the drain…`) luôn nói về chủ ngữ ngay sau dấu phẩy."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Từ như `supposedly`, `claimed`, hay dấu ngoặc kép quanh một chữ (\"witness\") là tín hiệu người viết không tin điều đó."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u2122_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 21) — Blog của Chloe về mạng xã hội"
+      },
+      "narrator": "Chloe",
+      "title": "What Six Months of Freelancing Taught Me About Social Media",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What Six Months of Freelancing Taught Me About Social Media",
+            "vi": "Sáu tháng làm tự do đã dạy tôi điều gì về mạng xã hội"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Posted by: Chloe Bennett",
+            "vi": "Người đăng: Chloe Bennett"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When I left my job at Harriet's café in December, I had three clients and a lot of hope.",
+            "vi": "Khi nghỉ việc ở quán cà phê Harriet's hồi tháng Mười hai, tôi có ba khách hàng và rất nhiều hy vọng."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Today I have eleven clients, and almost all of them found me online.",
+            "vi": "Giờ tôi có mười một khách hàng, và gần như ai cũng tìm thấy tôi trên mạng."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I've been posting my work on social media every day since January, and I've learned a few things that nobody told me at the start.",
+            "vi": "Từ tháng Một tới giờ, ngày nào tôi cũng đăng tác phẩm của mình lên mạng xã hội, và tôi đã học được vài điều mà lúc đầu chẳng ai nói cho tôi biết."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "First, people want to see the process, not just the final design.",
+            "vi": "Thứ nhất, mọi người muốn xem quá trình làm, chứ không chỉ bản thiết kế cuối cùng."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My most popular post wasn't a finished logo; it was a short clip of me drawing twenty bad ideas before I found the good one.",
+            "vi": "Bài đăng được yêu thích nhất của tôi không phải một logo hoàn chỉnh, mà là một đoạn clip ngắn quay cảnh tôi vẽ hai mươi ý tưởng tệ trước khi tìm ra ý hay."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hundreds of people left comments, and one of them, a bakery owner in Oregon, became my biggest client.",
+            "vi": "Hàng trăm người để lại bình luận, và một trong số đó, chủ một tiệm bánh ở Oregon, đã trở thành khách hàng lớn nhất của tôi."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Second, engaging with people matters more than the number of followers.",
+            "vi": "Thứ hai, tương tác với mọi người quan trọng hơn số người theo dõi."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I answer every comment, and I meet up with local clients face-to-face whenever I can.",
+            "vi": "Tôi trả lời mọi bình luận, và gặp trực tiếp khách hàng ở gần mỗi khi có thể."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Online messages are quick, but they are often very short. A typical chat with a client looks like this:",
+            "vi": "Tin nhắn trên mạng thì nhanh, nhưng thường rất ngắn. Một đoạn chat thường gặp với khách trông như thế này:"
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Marco",
+          "label": null,
+          "i18n": {
+            "en": "Free Thursday?",
+            "vi": "Thứ Năm rảnh không?"
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "Can't. Friday?",
+            "vi": "Không được. Thứ Sáu nhé?"
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Marco",
+          "label": null,
+          "i18n": {
+            "en": "Sounds good. Usual place?",
+            "vi": "Được đấy. Chỗ cũ nhé?"
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Chloe",
+          "label": null,
+          "i18n": {
+            "en": "See you there!",
+            "vi": "Hẹn gặp ở đó!"
+          }
+        },
+        {
+          "n": 16,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Third, I've become much more careful about privacy.",
+            "vi": "Thứ ba, tôi đã cẩn thận hơn nhiều về quyền riêng tư."
+          }
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I never post a client's work until they say it's OK, and I don't share where I live or which café I'm working in today.",
+            "vi": "Tôi không bao giờ đăng sản phẩm của khách khi họ chưa đồng ý, và không chia sẻ mình sống ở đâu hay hôm nay đang ngồi làm ở quán cà phê nào."
+          }
+        },
+        {
+          "n": 18,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last month, someone created a fake account with my name and photos and asked my followers for money.",
+            "vi": "Tháng trước, có người lập một tài khoản giả dùng tên và ảnh của tôi rồi xin tiền những người theo dõi tôi."
+          }
+        },
+        {
+          "n": 19,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Luckily, I warned everyone right away, and as far as I know, nobody fell for it.",
+            "vi": "May là tôi cảnh báo mọi người ngay, và theo tôi biết thì không ai bị lừa."
+          }
+        },
+        {
+          "n": 20,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Finally, social media is a tool, not a life.",
+            "vi": "Cuối cùng, mạng xã hội là một công cụ, chứ không phải cả cuộc sống."
+          }
+        },
+        {
+          "n": 21,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I've been trying to stay off my phone after 9 p.m., and I sleep much better now. My friend Leah, who works at a hospital, says that's no surprise at all.",
+            "vi": "Dạo này tôi cố không đụng điện thoại sau 9 giờ tối, và giờ tôi ngủ ngon hơn nhiều. Leah, cô bạn làm ở bệnh viện, bảo chuyện đó chẳng có gì lạ."
+          }
+        }
+      ],
+      "content_ja": "What Six Months of Freelancing Taught Me About Social Media\n\nPosted by: Chloe Bennett\n\nWhen I left my job at Harriet's café in December, I had three clients and a lot of hope. Today I have eleven clients, and almost all of them found me online. I've been posting my work on social media every day since January, and I've learned a few things that nobody told me at the start.\n\nFirst, people want to see the process, not just the final design. My most popular post wasn't a finished logo; it was a short clip of me drawing twenty bad ideas before I found the good one. Hundreds of people left comments, and one of them, a bakery owner in Oregon, became my biggest client.\n\nSecond, engaging with people matters more than the number of followers. I answer every comment, and I meet up with local clients face-to-face whenever I can.\n\nOnline messages are quick, but they are often very short. A typical chat with a client looks like this:\n\nMarco: Free Thursday?\n\nChloe: Can't. Friday?\n\nMarco: Sounds good. Usual place?\n\nChloe: See you there!\n\nThird, I've become much more careful about privacy. I never post a client's work until they say it's OK, and I don't share where I live or which café I'm working in today. Last month, someone created a fake account with my name and photos and asked my followers for money. Luckily, I warned everyone right away, and as far as I know, nobody fell for it.\n\nFinally, social media is a tool, not a life. I've been trying to stay off my phone after 9 p.m., and I sleep much better now. My friend Leah, who works at a hospital, says that's no surprise at all.",
+      "translation_vn": "(1) Sáu tháng làm tự do đã dạy tôi điều gì về mạng xã hội\n(2) Người đăng: Chloe Bennett\n(3) Khi nghỉ việc ở quán cà phê Harriet's hồi tháng Mười hai, tôi có ba khách hàng và rất nhiều hy vọng.\n(4) Giờ tôi có mười một khách hàng, và gần như ai cũng tìm thấy tôi trên mạng.\n(5) Từ tháng Một tới giờ, ngày nào tôi cũng đăng tác phẩm của mình lên mạng xã hội, và tôi đã học được vài điều mà lúc đầu chẳng ai nói cho tôi biết.\n(6) Thứ nhất, mọi người muốn xem quá trình làm, chứ không chỉ bản thiết kế cuối cùng.\n(7) Bài đăng được yêu thích nhất của tôi không phải một logo hoàn chỉnh, mà là một đoạn clip ngắn quay cảnh tôi vẽ hai mươi ý tưởng tệ trước khi tìm ra ý hay.\n(8) Hàng trăm người để lại bình luận, và một trong số đó, chủ một tiệm bánh ở Oregon, đã trở thành khách hàng lớn nhất của tôi.\n(9) Thứ hai, tương tác với mọi người quan trọng hơn số người theo dõi.\n(10) Tôi trả lời mọi bình luận, và gặp trực tiếp khách hàng ở gần mỗi khi có thể.\n(11) Tin nhắn trên mạng thì nhanh, nhưng thường rất ngắn. Một đoạn chat thường gặp với khách trông như thế này:\n(12) Marco: Thứ Năm rảnh không?\n(13) Chloe: Không được. Thứ Sáu nhé?\n(14) Marco: Được đấy. Chỗ cũ nhé?\n(15) Chloe: Hẹn gặp ở đó!\n(16) Thứ ba, tôi đã cẩn thận hơn nhiều về quyền riêng tư.\n(17) Tôi không bao giờ đăng sản phẩm của khách khi họ chưa đồng ý, và không chia sẻ mình sống ở đâu hay hôm nay đang ngồi làm ở quán cà phê nào.\n(18) Tháng trước, có người lập một tài khoản giả dùng tên và ảnh của tôi rồi xin tiền những người theo dõi tôi.\n(19) May là tôi cảnh báo mọi người ngay, và theo tôi biết thì không ai bị lừa.\n(20) Cuối cùng, mạng xã hội là một công cụ, chứ không phải cả cuộc sống.\n(21) Dạo này tôi cố không đụng điện thoại sau 9 giờ tối, và giờ tôi ngủ ngon hơn nhiều. Leah, cô bạn làm ở bệnh viện, bảo chuyện đó chẳng có gì lạ.",
+      "word_count": 291,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.081",
+        "b1.082",
+        "b1.083",
+        "b1.084"
+      ]
+    },
+    {
+      "id": "passage_u2122_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 22) — Bản tin khu phố: cứu chó và tin đồn trên mạng"
+      },
+      "narrator": "announcer",
+      "title": "Dog Rescued from Storm Drain; Online Story Proved False",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dog Rescued from Storm Drain; Online Story Proved False",
+            "vi": "Giải cứu chú chó kẹt dưới cống thoát nước; câu chuyện trên mạng hoá ra sai sự thật"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Maple Street Neighborhood News · June 12",
+            "vi": "Bản tin khu phố Maple Street · 12/6"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Trapped in a storm drain for almost nine hours, a young dog named Pepper was rescued by San Diego firefighters on Tuesday evening.",
+            "vi": "Bị kẹt dưới cống thoát nước gần chín tiếng, chú chó nhỏ tên Pepper đã được lính cứu hoả San Diego giải cứu vào tối thứ Ba."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Pepper had run away from her owner during a walk in Pine Street Park and had climbed into the drain, which is only about two feet wide.",
+            "vi": "Pepper đã chạy khỏi chủ trong lúc đi dạo ở công viên Pine Street và chui vào ống cống chỉ rộng khoảng hai foot."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Two children heard her crying at around 5 p.m. and told a parent, who called the fire department.",
+            "vi": "Khoảng 5 giờ chiều, hai đứa trẻ nghe tiếng chó kêu và báo cho bố mẹ, người đã gọi đội cứu hoả."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Built in the 1960s, the drain is too narrow for an adult to enter, so the team used a small camera to find Pepper and then slowly guided her toward an opening with food.",
+            "vi": "Được xây từ những năm 1960, ống cống quá hẹp, người lớn không chui vào được, nên đội cứu hộ dùng một chiếc máy quay nhỏ để tìm Pepper rồi dùng đồ ăn dụ chú dần ra phía miệng cống."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"She was scared and tired, but she wasn't hurt,\" said firefighter Ethan Hayes, who was part of the team.",
+            "vi": "\"Chú chó sợ và mệt, nhưng không bị thương,\" lính cứu hoả Ethan Hayes, một thành viên trong đội, cho biết."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"The real heroes are the two kids who heard her and didn't give up.\"",
+            "vi": "\"Người hùng thật sự là hai đứa trẻ đã nghe thấy tiếng chó và không bỏ cuộc.\""
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But by the next morning, a very different story was spreading online.",
+            "vi": "Nhưng tới sáng hôm sau, trên mạng lan truyền một câu chuyện hoàn toàn khác."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A post that was shared more than 3,000 times claimed that the firefighters had charged the owner $500 for the rescue.",
+            "vi": "Một bài đăng được chia sẻ hơn 3.000 lần khẳng định lính cứu hoả đã thu của chủ chó 500 đô cho vụ giải cứu."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It also said, supposedly from a witness, that someone had thrown the dog into the drain on purpose.",
+            "vi": "Bài còn viết, được cho là lời của một nhân chứng, rằng có người đã cố tình ném chú chó xuống cống."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Neither claim was true.",
+            "vi": "Cả hai điều đó đều sai."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Asked about the post, the fire department said officially that it never charges for rescues, and the owner explained that Pepper had simply run off.",
+            "vi": "Khi được hỏi về bài đăng, đội cứu hoả chính thức khẳng định họ không bao giờ thu tiền cứu hộ, còn chủ chó giải thích rằng Pepper chỉ chạy đi mất."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The \"witness\" turned out to be an account that someone had created the day before.",
+            "vi": "\"Nhân chứng\" hoá ra là một tài khoản ai đó mới lập hôm trước."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "How can you avoid falling for stories like this?",
+            "vi": "Làm sao để không bị lừa bởi những câu chuyện kiểu này?"
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Check if a reliable news source is reporting the same thing.",
+            "vi": "Hãy kiểm tra xem có nguồn tin đáng tin cậy nào đưa tin giống vậy không."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Look for proof, such as names, dates and photos that you can check, and be careful with posts that make you very angry, because angry people share more and check less.",
+            "vi": "Hãy tìm bằng chứng, như tên, ngày tháng và hình ảnh mà bạn có thể kiểm tra, và cẩn thận với những bài đăng làm bạn rất tức giận, vì khi tức giận người ta chia sẻ nhiều hơn và kiểm tra ít hơn."
+          }
+        },
+        {
+          "n": 18,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Before you share, ask yourself one question: do I know that this is accurate, or do I just want it to be true?",
+            "vi": "Trước khi chia sẻ, hãy tự hỏi một câu: mình có biết chắc điều này chính xác không, hay chỉ là mình muốn nó đúng?"
+          }
+        }
+      ],
+      "content_ja": "Dog Rescued from Storm Drain; Online Story Proved False\n\nMaple Street Neighborhood News · June 12\n\nTrapped in a storm drain for almost nine hours, a young dog named Pepper was rescued by San Diego firefighters on Tuesday evening. Pepper had run away from her owner during a walk in Pine Street Park and had climbed into the drain, which is only about two feet wide. Two children heard her crying at around 5 p.m. and told a parent, who called the fire department.\n\nBuilt in the 1960s, the drain is too narrow for an adult to enter, so the team used a small camera to find Pepper and then slowly guided her toward an opening with food. \"She was scared and tired, but she wasn't hurt,\" said firefighter Ethan Hayes, who was part of the team. \"The real heroes are the two kids who heard her and didn't give up.\"\n\nBut by the next morning, a very different story was spreading online. A post that was shared more than 3,000 times claimed that the firefighters had charged the owner $500 for the rescue. It also said, supposedly from a witness, that someone had thrown the dog into the drain on purpose. Neither claim was true. Asked about the post, the fire department said officially that it never charges for rescues, and the owner explained that Pepper had simply run off. The \"witness\" turned out to be an account that someone had created the day before.\n\nHow can you avoid falling for stories like this? Check if a reliable news source is reporting the same thing. Look for proof, such as names, dates and photos that you can check, and be careful with posts that make you very angry, because angry people share more and check less. Before you share, ask yourself one question: do I know that this is accurate, or do I just want it to be true?",
+      "translation_vn": "(1) Giải cứu chú chó kẹt dưới cống thoát nước; câu chuyện trên mạng hoá ra sai sự thật\n(2) Bản tin khu phố Maple Street · 12/6\n(3) Bị kẹt dưới cống thoát nước gần chín tiếng, chú chó nhỏ tên Pepper đã được lính cứu hoả San Diego giải cứu vào tối thứ Ba.\n(4) Pepper đã chạy khỏi chủ trong lúc đi dạo ở công viên Pine Street và chui vào ống cống chỉ rộng khoảng hai foot.\n(5) Khoảng 5 giờ chiều, hai đứa trẻ nghe tiếng chó kêu và báo cho bố mẹ, người đã gọi đội cứu hoả.\n(6) Được xây từ những năm 1960, ống cống quá hẹp, người lớn không chui vào được, nên đội cứu hộ dùng một chiếc máy quay nhỏ để tìm Pepper rồi dùng đồ ăn dụ chú dần ra phía miệng cống.\n(7) \"Chú chó sợ và mệt, nhưng không bị thương,\" lính cứu hoả Ethan Hayes, một thành viên trong đội, cho biết.\n(8) \"Người hùng thật sự là hai đứa trẻ đã nghe thấy tiếng chó và không bỏ cuộc.\"\n(9) Nhưng tới sáng hôm sau, trên mạng lan truyền một câu chuyện hoàn toàn khác.\n(10) Một bài đăng được chia sẻ hơn 3.000 lần khẳng định lính cứu hoả đã thu của chủ chó 500 đô cho vụ giải cứu.\n(11) Bài còn viết, được cho là lời của một nhân chứng, rằng có người đã cố tình ném chú chó xuống cống.\n(12) Cả hai điều đó đều sai.\n(13) Khi được hỏi về bài đăng, đội cứu hoả chính thức khẳng định họ không bao giờ thu tiền cứu hộ, còn chủ chó giải thích rằng Pepper chỉ chạy đi mất.\n(14) \"Nhân chứng\" hoá ra là một tài khoản ai đó mới lập hôm trước.\n(15) Làm sao để không bị lừa bởi những câu chuyện kiểu này?\n(16) Hãy kiểm tra xem có nguồn tin đáng tin cậy nào đưa tin giống vậy không.\n(17) Hãy tìm bằng chứng, như tên, ngày tháng và hình ảnh mà bạn có thể kiểm tra, và cẩn thận với những bài đăng làm bạn rất tức giận, vì khi tức giận người ta chia sẻ nhiều hơn và kiểm tra ít hơn.\n(18) Trước khi chia sẻ, hãy tự hỏi một câu: mình có biết chắc điều này chính xác không, hay chỉ là mình muốn nó đúng?",
+      "word_count": 316,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.085",
+        "b1.086",
+        "b1.087",
+        "b1.088"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u2122_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "What is the blog post mainly about?",
+        "vi": "Bài blog chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "what Chloe has learned about using social media for work",
+            "vi": "những điều Chloe học được khi dùng mạng xã hội cho công việc"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "what Chloe has learned about using social media for work",
+          "text_translation": "những điều Chloe học được khi dùng mạng xã hội cho công việc"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "why Chloe left Harriet's café and became a designer on her own",
+            "vi": "vì sao Chloe rời quán cà phê của Harriet để làm nhà thiết kế độc lập"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "why Chloe left Harriet's café and became a designer on her own",
+          "text_translation": "vì sao Chloe rời quán cà phê của Harriet để làm nhà thiết kế độc lập"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "how to draw a good logo for a small business client",
+            "vi": "cách vẽ một logo đẹp cho khách hàng kinh doanh nhỏ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "how to draw a good logo for a small business client",
+          "text_translation": "cách vẽ một logo đẹp cho khách hàng kinh doanh nhỏ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "how to get more sleep and stay off the phone",
+            "vi": "cách ngủ nhiều hơn và tránh xa điện thoại"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "how to get more sleep and stay off the phone",
+          "text_translation": "cách ngủ nhiều hơn và tránh xa điện thoại"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"I've learned a few things that nobody told me at the start.\" Bài lần lượt nêu bốn điều: First, Second, Third, Finally."
+      },
+      "audio_data": null,
+      "question_jp": "What is the blog post mainly about?",
+      "question_vn": "Bài blog chủ yếu nói về điều gì?",
+      "explanation": "\"I've learned a few things that nobody told me at the start.\" Bài lần lượt nêu bốn điều: First, Second, Third, Finally."
+    },
+    {
+      "id": "q_u2122_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "How did most of Chloe's clients find her?",
+        "vi": "Phần lớn khách hàng tìm thấy Chloe bằng cách nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "through Harriet",
+            "vi": "qua bà Harriet"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "through Harriet",
+          "text_translation": "qua bà Harriet"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "through a newspaper",
+            "vi": "qua báo"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "through a newspaper",
+          "text_translation": "qua báo"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "online",
+            "vi": "trên mạng"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "online",
+          "text_translation": "trên mạng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at a job fair",
+            "vi": "ở hội chợ việc làm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "at a job fair",
+          "text_translation": "ở hội chợ việc làm"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Today I have eleven clients, and almost all of them found me online.\""
+      },
+      "audio_data": null,
+      "question_jp": "How did most of Chloe's clients find her?",
+      "question_vn": "Phần lớn khách hàng tìm thấy Chloe bằng cách nào?",
+      "explanation": "\"Today I have eleven clients, and almost all of them found me online.\""
+    },
+    {
+      "id": "q_u2122_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "What does \"I've been posting my work on social media every day since January\" tell us?",
+        "vi": "Câu \"I've been posting my work on social media every day since January\" cho biết điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She posted only once in January and then stopped.",
+            "vi": "Cô chỉ đăng một lần vào tháng Giêng rồi dừng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She posted only once in January and then stopped.",
+          "text_translation": "Cô chỉ đăng một lần vào tháng Giêng rồi dừng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She started in January and is still doing it.",
+            "vi": "Cô bắt đầu từ tháng Một và tới giờ vẫn đang làm."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She started in January and is still doing it.",
+          "text_translation": "Cô bắt đầu từ tháng Một và tới giờ vẫn đang làm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She stopped posting in January and never started again.",
+            "vi": "Cô ngừng đăng từ tháng Giêng và không đăng lại."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She stopped posting in January and never started again.",
+          "text_translation": "Cô ngừng đăng từ tháng Giêng và không đăng lại."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She will start posting every day next January.",
+            "vi": "Cô sẽ bắt đầu đăng mỗi ngày vào tháng Giêng năm sau."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She will start posting every day next January.",
+          "text_translation": "Cô sẽ bắt đầu đăng mỗi ngày vào tháng Giêng năm sau."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"I've been posting my work on social media every day since January\". Hiện tại hoàn thành tiếp diễn (have been + V-ing) + since: việc bắt đầu từ quá khứ và vẫn đang tiếp tục."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"I've been posting my work on social media every day since January\" tell us?",
+      "question_vn": "Câu \"I've been posting my work on social media every day since January\" cho biết điều gì?",
+      "explanation": "\"I've been posting my work on social media every day since January\". Hiện tại hoàn thành tiếp diễn (have been + V-ing) + since: việc bắt đầu từ quá khứ và vẫn đang tiếp tục."
+    },
+    {
+      "id": "q_u2122_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "What was Chloe's most popular post?",
+        "vi": "Bài đăng được yêu thích nhất của Chloe là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a finished logo for a bakery in Oregon and its owner",
+            "vi": "một logo hoàn chỉnh cho tiệm bánh ở Oregon và chủ tiệm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a finished logo for a bakery in Oregon and its owner",
+          "text_translation": "một logo hoàn chỉnh cho tiệm bánh ở Oregon và chủ tiệm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a photo of Harriet's café on her last day",
+            "vi": "một bức ảnh quán cà phê của Harriet vào ngày cuối của cô"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a photo of Harriet's café on her last day",
+          "text_translation": "một bức ảnh quán cà phê của Harriet vào ngày cuối của cô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a warning about a fake account using her name",
+            "vi": "một lời cảnh báo về tài khoản giả dùng tên cô"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a warning about a fake account using her name",
+          "text_translation": "một lời cảnh báo về tài khoản giả dùng tên cô"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a short clip of her drawing twenty bad ideas",
+            "vi": "một clip ngắn quay cảnh cô vẽ hai mươi ý tưởng tệ"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "a short clip of her drawing twenty bad ideas",
+          "text_translation": "một clip ngắn quay cảnh cô vẽ hai mươi ý tưởng tệ"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"My most popular post wasn't a finished logo; it was a short clip of me drawing twenty bad ideas before I found the good one.\""
+      },
+      "audio_data": null,
+      "question_jp": "What was Chloe's most popular post?",
+      "question_vn": "Bài đăng được yêu thích nhất của Chloe là gì?",
+      "explanation": "\"My most popular post wasn't a finished logo; it was a short clip of me drawing twenty bad ideas before I found the good one.\""
+    },
+    {
+      "id": "q_u2122_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "Who became Chloe's biggest client?",
+        "vi": "Ai trở thành khách hàng lớn nhất của Chloe?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a bakery owner in Oregon",
+            "vi": "chủ một tiệm bánh ở Oregon"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "a bakery owner in Oregon",
+          "text_translation": "chủ một tiệm bánh ở Oregon"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a client called Marco",
+            "vi": "một khách hàng tên Marco"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a client called Marco",
+          "text_translation": "một khách hàng tên Marco"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "her friend Leah",
+            "vi": "bạn cô là Leah"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "her friend Leah",
+          "text_translation": "bạn cô là Leah"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a surf school owner in Maui",
+            "vi": "chủ một trường lướt sóng ở Maui"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a surf school owner in Maui",
+          "text_translation": "chủ một trường lướt sóng ở Maui"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"one of them, a bakery owner in Oregon, became my biggest client.\""
+      },
+      "audio_data": null,
+      "question_jp": "Who became Chloe's biggest client?",
+      "question_vn": "Ai trở thành khách hàng lớn nhất của Chloe?",
+      "explanation": "\"one of them, a bakery owner in Oregon, became my biggest client.\""
+    },
+    {
+      "id": "q_u2122_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "In the chat, what does Chloe mean by \"Can't. Friday?\"",
+        "vi": "Trong đoạn chat, Chloe muốn nói gì qua câu \"Không được. Thứ Sáu nhé?\""
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She can't work on Friday, so she asks for Thursday.",
+            "vi": "Cô không làm được vào thứ Sáu nên hỏi thứ Năm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She can't work on Friday, so she asks for Thursday.",
+          "text_translation": "Cô không làm được vào thứ Sáu nên hỏi thứ Năm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She doesn't want to meet Marco on Thursday or Friday.",
+            "vi": "Cô không muốn gặp Marco vào thứ Năm hay thứ Sáu."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She doesn't want to meet Marco on Thursday or Friday.",
+          "text_translation": "Cô không muốn gặp Marco vào thứ Năm hay thứ Sáu."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She can't meet on Thursday, but maybe Friday.",
+            "vi": "Thứ Năm cô không gặp được, nhưng có thể thứ Sáu."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She can't meet on Thursday, but maybe Friday.",
+          "text_translation": "Thứ Năm cô không gặp được, nhưng có thể thứ Sáu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She forgot what day it is and asks Marco.",
+            "vi": "Cô quên hôm nay là thứ mấy nên hỏi Marco."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She forgot what day it is and asks Marco.",
+          "text_translation": "Cô quên hôm nay là thứ mấy nên hỏi Marco."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Can't. Friday?\" là câu lược bớt (ellipsis): đầy đủ là \"I can't meet on Thursday. Are you free on Friday?\" Người nói bỏ phần mà cả hai đều đã hiểu."
+      },
+      "audio_data": null,
+      "question_jp": "In the chat, what does Chloe mean by \"Can't. Friday?\"",
+      "question_vn": "Trong đoạn chat, Chloe muốn nói gì qua câu \"Không được. Thứ Sáu nhé?\"",
+      "explanation": "\"Can't. Friday?\" là câu lược bớt (ellipsis): đầy đủ là \"I can't meet on Thursday. Are you free on Friday?\" Người nói bỏ phần mà cả hai đều đã hiểu."
+    },
+    {
+      "id": "q_u2122_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "What does Marco's question \"Usual place?\" suggest?",
+        "vi": "Câu hỏi \"Chỗ cũ nhé?\" của Marco cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He has never met Chloe before and wants to know her.",
+            "vi": "Anh chưa từng gặp Chloe và muốn làm quen với cô."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He has never met Chloe before and wants to know her.",
+          "text_translation": "Anh chưa từng gặp Chloe và muốn làm quen với cô."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He and Chloe have met at the same place before.",
+            "vi": "Anh và Chloe từng gặp nhau ở cùng một chỗ."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "He and Chloe have met at the same place before.",
+          "text_translation": "Anh và Chloe từng gặp nhau ở cùng một chỗ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He wants to meet online instead of face-to-face.",
+            "vi": "Anh muốn gặp trên mạng thay vì gặp trực tiếp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He wants to meet online instead of face-to-face.",
+          "text_translation": "Anh muốn gặp trên mạng thay vì gặp trực tiếp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He doesn't like the café where Chloe works.",
+            "vi": "Anh không thích quán cà phê nơi Chloe làm việc."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He doesn't like the café where Chloe works.",
+          "text_translation": "Anh không thích quán cà phê nơi Chloe làm việc."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Sounds good. Usual place?\" Usual = quen thuộc, như mọi lần. Họ đã gặp nhau ở đó nhiều lần, khớp với việc Chloe \"meet up with local clients face-to-face\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does Marco's question \"Usual place?\" suggest?",
+      "question_vn": "Câu hỏi \"Chỗ cũ nhé?\" của Marco cho thấy điều gì?",
+      "explanation": "Câu suy luận. \"Sounds good. Usual place?\" Usual = quen thuộc, như mọi lần. Họ đã gặp nhau ở đó nhiều lần, khớp với việc Chloe \"meet up with local clients face-to-face\"."
+    },
+    {
+      "id": "q_u2122_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "Which of these does Chloe NOT do?",
+        "vi": "Chloe KHÔNG làm điều nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "answer every comment from her followers",
+            "vi": "trả lời mọi bình luận từ người theo dõi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "answer every comment from her followers",
+          "text_translation": "trả lời mọi bình luận từ người theo dõi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "meet local clients face-to-face",
+            "vi": "gặp trực tiếp khách hàng ở gần"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "meet local clients face-to-face",
+          "text_translation": "gặp trực tiếp khách hàng ở gần"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "warn her followers about the fake account right away",
+            "vi": "cảnh báo người theo dõi về tài khoản giả ngay lập tức"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "warn her followers about the fake account right away",
+          "text_translation": "cảnh báo người theo dõi về tài khoản giả ngay lập tức"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "post a client's work before they say it's OK",
+            "vi": "đăng sản phẩm của khách trước khi họ đồng ý"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "post a client's work before they say it's OK",
+          "text_translation": "đăng sản phẩm của khách trước khi họ đồng ý"
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"I never post a client's work until they say it's OK\". Ba việc còn lại đều có trong bài."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these does Chloe NOT do?",
+      "question_vn": "Chloe KHÔNG làm điều nào?",
+      "explanation": "\"I never post a client's work until they say it's OK\". Ba việc còn lại đều có trong bài."
+    },
+    {
+      "id": "q_u2122_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "Why did nobody fall for the fake account, as far as Chloe knows?",
+        "vi": "Theo Chloe biết, vì sao không ai bị tài khoản giả lừa?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The fake account was closed in one hour.",
+            "vi": "Vì tài khoản giả bị khoá sau một giờ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The fake account was closed in one hour.",
+          "text_translation": "Vì tài khoản giả bị khoá sau một giờ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Her followers had no money.",
+            "vi": "Vì người theo dõi cô không có tiền."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Her followers had no money.",
+          "text_translation": "Vì người theo dõi cô không có tiền."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Chloe warned everyone right away.",
+            "vi": "Vì Chloe cảnh báo mọi người ngay lập tức."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Chloe warned everyone right away.",
+          "text_translation": "Vì Chloe cảnh báo mọi người ngay lập tức."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The fake account used a different name.",
+            "vi": "Vì tài khoản giả dùng tên khác."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The fake account used a different name.",
+          "text_translation": "Vì tài khoản giả dùng tên khác."
+        }
+      ],
+      "evidence_segments": [
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "\"Luckily, I warned everyone right away, and as far as I know, nobody fell for it.\" Tài khoản giả dùng chính tên và ảnh của Chloe."
+      },
+      "audio_data": null,
+      "question_jp": "Why did nobody fall for the fake account, as far as Chloe knows?",
+      "question_vn": "Theo Chloe biết, vì sao không ai bị tài khoản giả lừa?",
+      "explanation": "\"Luckily, I warned everyone right away, and as far as I know, nobody fell for it.\" Tài khoản giả dùng chính tên và ảnh của Chloe."
+    },
+    {
+      "id": "q_u2122_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_01",
+      "i18n": {
+        "en": "What does Chloe mean by \"social media is a tool, not a life\"?",
+        "vi": "Chloe muốn nói gì qua câu \"mạng xã hội là một công cụ, chứ không phải cả cuộc sống\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Social media is not useful for work, so she has stopped using it.",
+            "vi": "Mạng xã hội không có ích cho công việc nên cô đã thôi dùng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Social media is not useful for work, so she has stopped using it.",
+          "text_translation": "Mạng xã hội không có ích cho công việc nên cô đã thôi dùng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It should help with work, not fill her whole life.",
+            "vi": "Nó nên giúp ích cho công việc, chứ không chiếm cả cuộc sống."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "It should help with work, not fill her whole life.",
+          "text_translation": "Nó nên giúp ích cho công việc, chứ không chiếm cả cuộc sống."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She is going to close all of her accounts soon.",
+            "vi": "Cô sắp đóng tất cả tài khoản của mình."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She is going to close all of her accounts soon.",
+          "text_translation": "Cô sắp đóng tất cả tài khoản của mình."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Only young people should use it for their work.",
+            "vi": "Chỉ người trẻ mới nên dùng nó cho công việc."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Only young people should use it for their work.",
+          "text_translation": "Chỉ người trẻ mới nên dùng nó cho công việc."
+        }
+      ],
+      "evidence_segments": [
+        20,
+        21
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Finally, social media is a tool, not a life.\" Ngay sau đó cô kể mình \"trying to stay off my phone after 9 p.m.\". Cô vẫn dùng mạng cho công việc, nhưng giữ giới hạn."
+      },
+      "audio_data": null,
+      "question_jp": "What does Chloe mean by \"social media is a tool, not a life\"?",
+      "question_vn": "Chloe muốn nói gì qua câu \"mạng xã hội là một công cụ, chứ không phải cả cuộc sống\"?",
+      "explanation": "Câu suy luận. \"Finally, social media is a tool, not a life.\" Ngay sau đó cô kể mình \"trying to stay off my phone after 9 p.m.\". Cô vẫn dùng mạng cho công việc, nhưng giữ giới hạn."
+    },
+    {
+      "id": "q_u2122_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "What is the news report mainly about?",
+        "vi": "Bản tin chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how storm drains are built and checked in San Diego",
+            "vi": "cách cống thoát nước mưa được xây và kiểm tra ở San Diego"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how storm drains are built and checked in San Diego",
+          "text_translation": "cách cống thoát nước mưa được xây và kiểm tra ở San Diego"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a new park on Pine Street for children and dogs",
+            "vi": "một công viên mới trên phố Pine cho trẻ em và chó"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a new park on Pine Street for children and dogs",
+          "text_translation": "một công viên mới trên phố Pine cho trẻ em và chó"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "why firefighters charge money for rescuing dogs",
+            "vi": "vì sao lính cứu hoả thu tiền khi cứu chó"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "why firefighters charge money for rescuing dogs",
+          "text_translation": "vì sao lính cứu hoả thu tiền khi cứu chó"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a dog rescue and a false story about it online",
+            "vi": "một vụ cứu chó và câu chuyện sai sự thật về nó trên mạng"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "a dog rescue and a false story about it online",
+          "text_translation": "một vụ cứu chó và câu chuyện sai sự thật về nó trên mạng"
+        }
+      ],
+      "evidence_segments": [
+        1
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề đã nói đủ hai ý: \"Dog Rescued from Storm Drain; Online Story Proved False\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is the news report mainly about?",
+      "question_vn": "Bản tin chủ yếu nói về điều gì?",
+      "explanation": "Tiêu đề đã nói đủ hai ý: \"Dog Rescued from Storm Drain; Online Story Proved False\"."
+    },
+    {
+      "id": "q_u2122_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "How long was Pepper in the storm drain?",
+        "vi": "Pepper bị kẹt dưới cống bao lâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "almost nine hours",
+            "vi": "gần chín tiếng"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "almost nine hours",
+          "text_translation": "gần chín tiếng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "two days",
+            "vi": "hai ngày"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "two days",
+          "text_translation": "hai ngày"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "about thirty minutes",
+            "vi": "khoảng ba mươi phút"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "about thirty minutes",
+          "text_translation": "khoảng ba mươi phút"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "since the 1960s",
+            "vi": "từ những năm 1960"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "since the 1960s",
+          "text_translation": "từ những năm 1960"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Trapped in a storm drain for almost nine hours, a young dog named Pepper was rescued\". Mệnh đề phân từ (Trapped …) đứng đầu câu nói thêm về chủ ngữ a young dog."
+      },
+      "audio_data": null,
+      "question_jp": "How long was Pepper in the storm drain?",
+      "question_vn": "Pepper bị kẹt dưới cống bao lâu?",
+      "explanation": "\"Trapped in a storm drain for almost nine hours, a young dog named Pepper was rescued\". Mệnh đề phân từ (Trapped …) đứng đầu câu nói thêm về chủ ngữ a young dog."
+    },
+    {
+      "id": "q_u2122_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "Who first knew that Pepper was in the drain?",
+        "vi": "Ai là người đầu tiên biết Pepper ở dưới cống?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Ethan Hayes",
+            "vi": "Ethan Hayes"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Ethan Hayes",
+          "text_translation": "Ethan Hayes"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a witness who saw someone throw her",
+            "vi": "một nhân chứng thấy có người ném chú chó"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a witness who saw someone throw her",
+          "text_translation": "một nhân chứng thấy có người ném chú chó"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "her owner",
+            "vi": "chủ của chú chó"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "her owner",
+          "text_translation": "chủ của chú chó"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "two children who heard her crying",
+            "vi": "hai đứa trẻ nghe thấy tiếng chú kêu"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "two children who heard her crying",
+          "text_translation": "hai đứa trẻ nghe thấy tiếng chú kêu"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Two children heard her crying at around 5 p.m. and told a parent, who called the fire department.\""
+      },
+      "audio_data": null,
+      "question_jp": "Who first knew that Pepper was in the drain?",
+      "question_vn": "Ai là người đầu tiên biết Pepper ở dưới cống?",
+      "explanation": "\"Two children heard her crying at around 5 p.m. and told a parent, who called the fire department.\""
+    },
+    {
+      "id": "q_u2122_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "In \"Built in the 1960s, the drain is too narrow for an adult to enter\", what does \"Built in the 1960s\" describe?",
+        "vi": "Trong câu \"Built in the 1960s, the drain is too narrow…\", cụm \"Built in the 1960s\" bổ nghĩa cho cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the fire department",
+            "vi": "đội cứu hoả"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the fire department",
+          "text_translation": "đội cứu hoả"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the drain",
+            "vi": "ống cống"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "the drain",
+          "text_translation": "ống cống"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the camera",
+            "vi": "chiếc máy quay"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the camera",
+          "text_translation": "chiếc máy quay"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the park",
+            "vi": "công viên"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the park",
+          "text_translation": "công viên"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Built in the 1960s, the drain is too narrow for an adult to enter\". Mệnh đề phân từ đầu câu luôn nói về chủ ngữ ngay sau dấu phẩy, ở đây là the drain."
+      },
+      "audio_data": null,
+      "question_jp": "In \"Built in the 1960s, the drain is too narrow for an adult to enter\", what does \"Built in the 1960s\" describe?",
+      "question_vn": "Trong câu \"Built in the 1960s, the drain is too narrow…\", cụm \"Built in the 1960s\" bổ nghĩa cho cái gì?",
+      "explanation": "\"Built in the 1960s, the drain is too narrow for an adult to enter\". Mệnh đề phân từ đầu câu luôn nói về chủ ngữ ngay sau dấu phẩy, ở đây là the drain."
+    },
+    {
+      "id": "q_u2122_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "What does Ethan's comment about \"the real heroes\" show?",
+        "vi": "Lời Ethan nói về \"người hùng thật sự\" cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He thinks the rescue was easy for the team.",
+            "vi": "Anh nghĩ cuộc giải cứu rất dễ với đội."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He thinks the rescue was easy for the team.",
+          "text_translation": "Anh nghĩ cuộc giải cứu rất dễ với đội."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He was angry with the children for going near the drain.",
+            "vi": "Anh giận bọn trẻ vì lại gần cống."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He was angry with the children for going near the drain.",
+          "text_translation": "Anh giận bọn trẻ vì lại gần cống."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He thinks the children deserve the most praise.",
+            "vi": "Anh nghĩ bọn trẻ đáng được khen nhất."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "He thinks the children deserve the most praise.",
+          "text_translation": "Anh nghĩ bọn trẻ đáng được khen nhất."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He wants to be on TV to tell the story.",
+            "vi": "Anh muốn lên TV để kể câu chuyện."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He wants to be on TV to tell the story.",
+          "text_translation": "Anh muốn lên TV để kể câu chuyện."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"The real heroes are the two kids who heard her and didn't give up.\" Ethan không nhận công về mình mà dành lời khen cho bọn trẻ."
+      },
+      "audio_data": null,
+      "question_jp": "What does Ethan's comment about \"the real heroes\" show?",
+      "question_vn": "Lời Ethan nói về \"người hùng thật sự\" cho thấy điều gì?",
+      "explanation": "Câu suy luận. \"The real heroes are the two kids who heard her and didn't give up.\" Ethan không nhận công về mình mà dành lời khen cho bọn trẻ."
+    },
+    {
+      "id": "q_u2122_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "What did the online post claim?",
+        "vi": "Bài đăng trên mạng đã khẳng định điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The owner had to pay $500 for the rescue.",
+            "vi": "Chủ chó phải trả 500 đô la cho vụ cứu hộ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The owner had to pay $500 for the rescue.",
+          "text_translation": "Chủ chó phải trả 500 đô la cho vụ cứu hộ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The dog had been hurt badly in the drain.",
+            "vi": "Con chó bị thương nặng trong cống."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The dog had been hurt badly in the drain.",
+          "text_translation": "Con chó bị thương nặng trong cống."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The children had lost the dog in the park.",
+            "vi": "Bọn trẻ đã làm lạc con chó trong công viên."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The children had lost the dog in the park.",
+          "text_translation": "Bọn trẻ đã làm lạc con chó trong công viên."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The drain had collapsed on the dog after the heavy rain.",
+            "vi": "Cống đã sập xuống con chó sau trận mưa lớn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The drain had collapsed on the dog after the heavy rain.",
+          "text_translation": "Cống đã sập xuống con chó sau trận mưa lớn."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"A post that was shared more than 3,000 times claimed that the firefighters had charged the owner $500 for the rescue.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did the online post claim?",
+      "question_vn": "Bài đăng trên mạng đã khẳng định điều gì?",
+      "explanation": "\"A post that was shared more than 3,000 times claimed that the firefighters had charged the owner $500 for the rescue.\""
+    },
+    {
+      "id": "q_u2122_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "In \"It also said, supposedly from a witness, …\", what does \"supposedly\" mean?",
+        "vi": "Trong câu \"It also said, supposedly from a witness, …\", \"supposedly\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "without any doubt at all",
+            "vi": "hoàn toàn không chút nghi ngờ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "without any doubt at all",
+          "text_translation": "hoàn toàn không chút nghi ngờ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "in a secret way, so nobody knew",
+            "vi": "một cách bí mật nên không ai biết"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "in a secret way, so nobody knew",
+          "text_translation": "một cách bí mật nên không ai biết"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "in an official way, from the government",
+            "vi": "một cách chính thức, từ chính quyền"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "in an official way, from the government",
+          "text_translation": "một cách chính thức, từ chính quyền"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "people say so, but it may not be true",
+            "vi": "người ta nói vậy, nhưng có thể không đúng"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "people say so, but it may not be true",
+          "text_translation": "người ta nói vậy, nhưng có thể không đúng"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"It also said, supposedly from a witness, that someone had thrown the dog into the drain on purpose.\" Câu kế tiếp: \"Neither claim was true.\" Supposedly = được cho là, chưa chắc đúng."
+      },
+      "audio_data": null,
+      "question_jp": "In \"It also said, supposedly from a witness, …\", what does \"supposedly\" mean?",
+      "question_vn": "Trong câu \"It also said, supposedly from a witness, …\", \"supposedly\" nghĩa là gì?",
+      "explanation": "\"It also said, supposedly from a witness, that someone had thrown the dog into the drain on purpose.\" Câu kế tiếp: \"Neither claim was true.\" Supposedly = được cho là, chưa chắc đúng."
+    },
+    {
+      "id": "q_u2122_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "What does \"The witness turned out to be an account that someone had created the day before\" suggest?",
+        "vi": "Câu \"Nhân chứng hoá ra là một tài khoản ai đó mới lập hôm trước\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The witness was probably not real.",
+            "vi": "Nhiều khả năng nhân chứng không có thật."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The witness was probably not real.",
+          "text_translation": "Nhiều khả năng nhân chứng không có thật."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The witness was a firefighter.",
+            "vi": "Nhân chứng là một lính cứu hoả."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The witness was a firefighter.",
+          "text_translation": "Nhân chứng là một lính cứu hoả."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The witness saw everything clearly.",
+            "vi": "Nhân chứng nhìn thấy rõ mọi chuyện."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The witness saw everything clearly.",
+          "text_translation": "Nhân chứng nhìn thấy rõ mọi chuyện."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The witness was Pepper's owner.",
+            "vi": "Nhân chứng là chủ của Pepper."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The witness was Pepper's owner.",
+          "text_translation": "Nhân chứng là chủ của Pepper."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"The \"witness\" turned out to be an account that someone had created the day before.\" Tài khoản mới lập ngay trước bài đăng là dấu hiệu của tài khoản giả. Dấu ngoặc kép quanh \"witness\" cũng cho thấy người viết nghi ngờ."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"The witness turned out to be an account that someone had created the day before\" suggest?",
+      "question_vn": "Câu \"Nhân chứng hoá ra là một tài khoản ai đó mới lập hôm trước\" hàm ý gì?",
+      "explanation": "Câu suy luận. \"The \"witness\" turned out to be an account that someone had created the day before.\" Tài khoản mới lập ngay trước bài đăng là dấu hiệu của tài khoản giả. Dấu ngoặc kép quanh \"witness\" cũng cho thấy người viết nghi ngờ."
+    },
+    {
+      "id": "q_u2122_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "Why should you be careful with posts that make you very angry?",
+        "vi": "Vì sao nên cẩn thận với những bài đăng làm bạn rất tức giận?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They are always about dogs and other animals.",
+            "vi": "Chúng luôn nói về chó và các loài vật khác."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They are always about dogs and other animals.",
+          "text_translation": "Chúng luôn nói về chó và các loài vật khác."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They are too long for most people to read.",
+            "vi": "Chúng quá dài với hầu hết mọi người."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They are too long for most people to read.",
+          "text_translation": "Chúng quá dài với hầu hết mọi người."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Angry people often share without checking.",
+            "vi": "Vì khi tức giận người ta hay chia sẻ mà không kiểm tra."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Angry people often share without checking.",
+          "text_translation": "Vì khi tức giận người ta hay chia sẻ mà không kiểm tra."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They come only from news sources that people trust.",
+            "vi": "Chúng chỉ đến từ các nguồn tin mà mọi người tin cậy."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They come only from news sources that people trust.",
+          "text_translation": "Chúng chỉ đến từ các nguồn tin mà mọi người tin cậy."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"be careful with posts that make you very angry, because angry people share more and check less.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why should you be careful with posts that make you very angry?",
+      "question_vn": "Vì sao nên cẩn thận với những bài đăng làm bạn rất tức giận?",
+      "explanation": "\"be careful with posts that make you very angry, because angry people share more and check less.\""
+    },
+    {
+      "id": "q_u2122_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2122_02",
+      "i18n": {
+        "en": "Use both texts. What lesson do the two texts share?",
+        "vi": "Dựa vào cả hai bài. Hai bài có chung bài học nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Firefighters should use social media more to tell people the truth.",
+            "vi": "Lính cứu hoả nên dùng mạng xã hội nhiều hơn để nói sự thật."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Firefighters should use social media more to tell people the truth.",
+          "text_translation": "Lính cứu hoả nên dùng mạng xã hội nhiều hơn để nói sự thật."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Fake accounts can spread false information, so we should check first.",
+            "vi": "Tài khoản giả có thể lan truyền thông tin sai nên cần kiểm tra trước."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Fake accounts can spread false information, so we should check first.",
+          "text_translation": "Tài khoản giả có thể lan truyền thông tin sai nên cần kiểm tra trước."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "You should never post anything online, because fake accounts will copy it.",
+            "vi": "Bạn đừng bao giờ đăng gì lên mạng vì tài khoản giả sẽ sao chép."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "You should never post anything online, because fake accounts will copy it.",
+          "text_translation": "Bạn đừng bao giờ đăng gì lên mạng vì tài khoản giả sẽ sao chép."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Online messages are always too short to explain things well.",
+            "vi": "Tin nhắn trên mạng luôn quá ngắn để giải thích rõ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Online messages are always too short to explain things well.",
+          "text_translation": "Tin nhắn trên mạng luôn quá ngắn để giải thích rõ."
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bài 2 khuyên \"Before you share, ask yourself one question: do I know that this is accurate\". Ở bài 1, một tài khoản giả dùng tên Chloe để xin tiền; ở bài 2, \"nhân chứng\" là một tài khoản mới lập."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What lesson do the two texts share?",
+      "question_vn": "Dựa vào cả hai bài. Hai bài có chung bài học nào?",
+      "explanation": "Câu nối hai bài. Bài 2 khuyên \"Before you share, ask yourself one question: do I know that this is accurate\". Ở bài 1, một tài khoản giả dùng tên Chloe để xin tiền; ở bài 2, \"nhân chứng\" là một tài khoản mới lập."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u2122_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 21) — Blog của Chloe về mạng xã hội",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u2122_01",
+      "question_ids": [
+        "q_u2122_001",
+        "q_u2122_002",
+        "q_u2122_003",
+        "q_u2122_004",
+        "q_u2122_005",
+        "q_u2122_006",
+        "q_u2122_007",
+        "q_u2122_008",
+        "q_u2122_009",
+        "q_u2122_010"
+      ]
+    },
+    {
+      "set_id": "set_u2122_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 22) — Bản tin khu phố: cứu chó và tin đồn trên mạng",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u2122_02",
+      "question_ids": [
+        "q_u2122_011",
+        "q_u2122_012",
+        "q_u2122_013",
+        "q_u2122_014",
+        "q_u2122_015",
+        "q_u2122_016",
+        "q_u2122_017",
+        "q_u2122_018",
+        "q_u2122_019",
+        "q_u2122_020"
+      ]
+    }
+  ]
+}

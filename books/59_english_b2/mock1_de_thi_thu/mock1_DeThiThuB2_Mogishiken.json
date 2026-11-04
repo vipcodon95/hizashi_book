@@ -1,0 +1,4225 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "B2 Mock Test 1",
+      "vi": "Đề thi thử B2 (giữa sách)"
+    },
+    "title": "B2 Mock Test 1",
+    "title_vn": "Đề thi thử B2 (giữa sách)",
+    "module_code": "59_mock1",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.mock1",
+    "curriculum_sheets": [
+      "b2.001",
+      "b2.002",
+      "b2.003",
+      "b2.004",
+      "b2.005",
+      "b2.006",
+      "b2.007",
+      "b2.008",
+      "b2.009",
+      "b2.010",
+      "b2.011",
+      "b2.012",
+      "b2.013",
+      "b2.014",
+      "b2.015",
+      "b2.016",
+      "b2.017",
+      "b2.018",
+      "b2.019",
+      "b2.020",
+      "b2.021",
+      "b2.022",
+      "b2.023",
+      "b2.024",
+      "b2.025",
+      "b2.026",
+      "b2.027",
+      "b2.028",
+      "b2.029",
+      "b2.030",
+      "b2.031",
+      "b2.032",
+      "b2.033",
+      "b2.034",
+      "b2.035",
+      "b2.036",
+      "b2.037",
+      "b2.038",
+      "b2.039",
+      "b2.040",
+      "b2.041",
+      "b2.042",
+      "b2.043",
+      "b2.044",
+      "b2.045",
+      "b2.046",
+      "b2.047",
+      "b2.048",
+      "b2.049",
+      "b2.050",
+      "b2.051",
+      "b2.052",
+      "b2.053",
+      "b2.054",
+      "b2.055",
+      "b2.056",
+      "b2.057",
+      "b2.058",
+      "b2.059",
+      "b2.060",
+      "b2.061",
+      "b2.062",
+      "b2.063",
+      "b2.064",
+      "b2.065",
+      "b2.066",
+      "b2.067",
+      "b2.068",
+      "b2.069",
+      "b2.070",
+      "b2.071",
+      "b2.072",
+      "b2.073",
+      "b2.074",
+      "b2.075",
+      "b2.076",
+      "b2.077",
+      "b2.078",
+      "b2.079",
+      "b2.080",
+      "b2.081",
+      "b2.082",
+      "b2.083",
+      "b2.084",
+      "b2.085",
+      "b2.086",
+      "b2.087",
+      "b2.088"
+    ],
+    "characters": [
+      "Harriet Brooks",
+      "Amy Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 1, năm 7"
+    },
+    "total_passages": 4,
+    "total_questions": 40,
+    "focus": "Đề thi thử VSTEP bậc 4: 4 bài × 10 câu",
+    "description_vn": "Đề thi thử giữa sách B2: thông báo tình nguyện ở Bệnh viện Sunset Bay, lá thư bà Harriet viết cho Amy, bài khoa học về cái ngáp, bài quan điểm về việc đọc. 4 bài × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Đề thi thử giữa sách · ôn Unit 1 – Unit 22 khoá B2, phiếu `b2.001` – `b2.088`."
+    },
+    "objective_i18n": {
+      "vi": "Đề thi thử 40 câu, làm trong 60 phút (theo format đọc VSTEP bậc 4: 4 bài, 350–450 từ mỗi bài). Đề có 4 phần × 10 câu, khó dần: thông báo chương trình tình nguyện của bệnh viện → lá thư bà Harriet viết cho Amy → bài khoa học về cái ngáp → bài quan điểm về việc đọc. Đề kiểm tra ý chính, chi tiết, áp dụng quy định, nghĩa của từ trong ngữ cảnh, giọng điệu và thái độ, chức năng của chi tiết và đoạn văn, ngôn ngữ rào đón, và khoảng 14 câu suy luận. Bài đọc dùng ngữ pháp nửa đầu khoá B2: provided that, otherwise, had better, if only, đảo ngữ Had I known, bị động tiếp diễn, câu chẻ not that … but that."
+    },
+    "extra_words": [
+      {
+        "word": "born",
+        "i18n": {
+          "vi": "được sinh ra"
+        }
+      },
+      {
+        "word": "cart",
+        "i18n": {
+          "vi": "xe đẩy"
+        }
+      },
+      {
+        "word": "rarer",
+        "i18n": {
+          "vi": "hiếm hơn (so sánh hơn của rare)"
+        }
+      },
+      {
+        "word": "strangest",
+        "i18n": {
+          "vi": "lạ nhất (so sánh nhất của strange)"
+        }
+      },
+      {
+        "word": "pediatric",
+        "i18n": {
+          "vi": "thuộc khoa nhi"
+        }
+      },
+      {
+        "word": "ward",
+        "i18n": {
+          "vi": "khu bệnh"
+        }
+      },
+      {
+        "word": "hygiene",
+        "i18n": {
+          "vi": "vệ sinh"
+        }
+      },
+      {
+        "word": "commit to",
+        "i18n": {
+          "vi": "cam kết"
+        }
+      },
+      {
+        "word": "ultrasound scan",
+        "i18n": {
+          "vi": "ảnh siêu âm"
+        }
+      },
+      {
+        "word": "backbone",
+        "i18n": {
+          "vi": "xương sống"
+        }
+      },
+      {
+        "word": "contagious",
+        "i18n": {
+          "vi": "dễ lây"
+        }
+      },
+      {
+        "word": "empathy",
+        "i18n": {
+          "vi": "sự đồng cảm"
+        }
+      },
+      {
+        "word": "urge",
+        "i18n": {
+          "vi": "sự thôi thúc"
+        }
+      },
+      {
+        "word": "audiobook",
+        "i18n": {
+          "vi": "sách nói"
+        }
+      },
+      {
+        "word": "printing press",
+        "i18n": {
+          "vi": "máy in"
+        }
+      },
+      {
+        "word": "notification",
+        "i18n": {
+          "vi": "thông báo (trên điện thoại)"
+        }
+      },
+      {
+        "word": "interruption",
+        "i18n": {
+          "vi": "sự ngắt quãng"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "keep someone company",
+          "vi": "ở bên trò chuyện cho ai đỡ buồn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "put someone at risk",
+          "vi": "khiến ai gặp nguy hiểm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "run out of time",
+          "vi": "hết thời gian"
+        }
+      },
+      {
+        "i18n": {
+          "en": "carry heat away",
+          "vi": "mang nhiệt đi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "catch a yawn",
+          "vi": "bị lây ngáp"
+        }
+      },
+      {
+        "i18n": {
+          "en": "keep track of",
+          "vi": "theo dõi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "in my view",
+          "vi": "theo tôi"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**Quản lý thời gian:** 60 phút cho 4 bài. Phần 1 khoảng 11 phút, Phần 2 khoảng 14 phút, Phần 3 khoảng 16 phút, Phần 4 khoảng 19 phút."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Thông báo:** câu áp dụng (học sinh 15 tuổi…) luôn hỏi vào điều kiện. Gạch chân con số và từ điều kiện (`from the age of`, `provided that`, `unless`)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Thư cá nhân:** người viết thường đánh số bài học (`The first…`, `The second…`). Câu hỏi giọng điệu cần cân nhắc cả chỗ buồn lẫn chỗ đùa."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Bài khoa học:** theo dõi số phận từng giả thuyết: thuyết nào bị bác (`does not seem to be correct`), thuyết nào được ủng hộ (`Supporting this`), điều gì còn chưa chắc (`still being studied`)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**Bài quan điểm:** tách ý của hai phía và ý của người viết (`In my view`). Câu \"The problem is not that X, but that Y\" cho biết người viết nghĩ Y mới là vấn đề."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_mock1_01",
+      "heading_i18n": {
+        "vi": "Phần 1 — Thông báo chương trình tình nguyện của bệnh viện"
+      },
+      "narrator": "announcer",
+      "title": "Sunset Bay Hospital: Become a Volunteer",
+      "category": "notice",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 200,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sunset Bay Hospital: Become a Volunteer",
+            "vi": "Bệnh viện Sunset Bay: hãy trở thành tình nguyện viên"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every year, more than 300 volunteers give their time to Sunset Bay Hospital. They do not replace our doctors and nurses; they make the hospital a kinder place to be.",
+            "vi": "Mỗi năm, hơn 300 tình nguyện viên dành thời gian cho Bệnh viện Sunset Bay. Họ không thay thế bác sĩ và y tá; họ làm cho bệnh viện thành một nơi ấm áp hơn."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What volunteers do",
+            "vi": "Tình nguyện viên làm gì"
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Volunteers welcome visitors at the information desk, push the library cart around the wards, read to children in the pediatric unit and keep patients company when their families cannot be there.",
+            "vi": "Tình nguyện viên đón khách ở quầy thông tin, đẩy xe sách quanh các khu bệnh, đọc truyện cho trẻ ở khoa nhi và trò chuyện với bệnh nhân khi gia đình họ không thể có mặt."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Volunteers never give medical care, and they are not allowed to help patients get out of bed or eat unless a nurse has asked them to.",
+            "vi": "Tình nguyện viên không bao giờ chăm sóc y tế, và không được đỡ bệnh nhân ra khỏi giường hay cho ăn trừ khi y tá đã đề nghị."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Who can apply",
+            "vi": "Ai có thể đăng ký"
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Adults of any age are welcome. Teenagers can apply from the age of sixteen, provided that a parent signs the application form.",
+            "vi": "Người lớn ở mọi lứa tuổi đều được chào đón. Thanh thiếu niên có thể đăng ký từ mười sáu tuổi, với điều kiện có bố hoặc mẹ ký đơn."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "All volunteers must commit to at least one four-hour shift a week for six months, and they must have had a flu vaccine this season.",
+            "vi": "Mọi tình nguyện viên phải cam kết ít nhất một ca bốn tiếng mỗi tuần trong sáu tháng, và phải đã tiêm vắc-xin cúm trong mùa này."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "How to apply",
+            "vi": "Cách đăng ký"
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "First, complete the online form. Next, you will be invited to a short interview. If you are accepted, you will attend a training day, where you will learn about patient privacy, hand hygiene and what to do in an emergency.",
+            "vi": "Trước hết, điền đơn trực tuyến. Tiếp theo, bạn sẽ được mời phỏng vấn ngắn. Nếu được nhận, bạn sẽ dự một ngày tập huấn về quyền riêng tư của bệnh nhân, vệ sinh tay và cách xử lý khi khẩn cấp."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The whole process usually takes four to six weeks, so you had better apply early if you want to start before the summer.",
+            "vi": "Cả quy trình thường mất bốn tới sáu tuần, nên tốt nhất hãy đăng ký sớm nếu muốn bắt đầu trước mùa hè."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please note",
+            "vi": "Xin lưu ý"
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Volunteering at the hospital is not a way to get medical experience for a college application, although many of our young volunteers do say that it helped them decide on a career.",
+            "vi": "Làm tình nguyện ở bệnh viện không phải cách để lấy kinh nghiệm y khoa cho hồ sơ đại học, dù nhiều tình nguyện viên trẻ nói rằng nó đã giúp họ chọn nghề."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If you are ill, please stay at home and call your supervisor; otherwise, you could put patients at risk.",
+            "vi": "Nếu bị ốm, xin ở nhà và gọi cho người phụ trách; nếu không, bạn có thể khiến bệnh nhân gặp nguy hiểm."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Questions? Visit the volunteer office on the ground floor, Monday to Friday, 9 a.m. to 3 p.m.",
+            "vi": "Có thắc mắc? Hãy tới văn phòng tình nguyện ở tầng trệt, thứ Hai tới thứ Sáu, 9 giờ sáng tới 3 giờ chiều."
+          }
+        }
+      ],
+      "content_ja": "Sunset Bay Hospital: Become a Volunteer\n\nEvery year, more than 300 volunteers give their time to Sunset Bay Hospital. They do not replace our doctors and nurses; they make the hospital a kinder place to be.\n\nWhat volunteers do\n\nVolunteers welcome visitors at the information desk, push the library cart around the wards, read to children in the pediatric unit and keep patients company when their families cannot be there. Volunteers never give medical care, and they are not allowed to help patients get out of bed or eat unless a nurse has asked them to.\n\nWho can apply\n\nAdults of any age are welcome. Teenagers can apply from the age of sixteen, provided that a parent signs the application form. All volunteers must commit to at least one four-hour shift a week for six months, and they must have had a flu vaccine this season.\n\nHow to apply\n\nFirst, complete the online form. Next, you will be invited to a short interview. If you are accepted, you will attend a training day, where you will learn about patient privacy, hand hygiene and what to do in an emergency. The whole process usually takes four to six weeks, so you had better apply early if you want to start before the summer.\n\nPlease note\n\nVolunteering at the hospital is not a way to get medical experience for a college application, although many of our young volunteers do say that it helped them decide on a career. If you are ill, please stay at home and call your supervisor; otherwise, you could put patients at risk. Questions? Visit the volunteer office on the ground floor, Monday to Friday, 9 a.m. to 3 p.m.",
+      "translation_vn": "(1) Bệnh viện Sunset Bay: hãy trở thành tình nguyện viên\n(2) Mỗi năm, hơn 300 tình nguyện viên dành thời gian cho Bệnh viện Sunset Bay. Họ không thay thế bác sĩ và y tá; họ làm cho bệnh viện thành một nơi ấm áp hơn.\n(3) Tình nguyện viên làm gì\n(4) Tình nguyện viên đón khách ở quầy thông tin, đẩy xe sách quanh các khu bệnh, đọc truyện cho trẻ ở khoa nhi và trò chuyện với bệnh nhân khi gia đình họ không thể có mặt.\n(5) Tình nguyện viên không bao giờ chăm sóc y tế, và không được đỡ bệnh nhân ra khỏi giường hay cho ăn trừ khi y tá đã đề nghị.\n(6) Ai có thể đăng ký\n(7) Người lớn ở mọi lứa tuổi đều được chào đón. Thanh thiếu niên có thể đăng ký từ mười sáu tuổi, với điều kiện có bố hoặc mẹ ký đơn.\n(8) Mọi tình nguyện viên phải cam kết ít nhất một ca bốn tiếng mỗi tuần trong sáu tháng, và phải đã tiêm vắc-xin cúm trong mùa này.\n(9) Cách đăng ký\n(10) Trước hết, điền đơn trực tuyến. Tiếp theo, bạn sẽ được mời phỏng vấn ngắn. Nếu được nhận, bạn sẽ dự một ngày tập huấn về quyền riêng tư của bệnh nhân, vệ sinh tay và cách xử lý khi khẩn cấp.\n(11) Cả quy trình thường mất bốn tới sáu tuần, nên tốt nhất hãy đăng ký sớm nếu muốn bắt đầu trước mùa hè.\n(12) Xin lưu ý\n(13) Làm tình nguyện ở bệnh viện không phải cách để lấy kinh nghiệm y khoa cho hồ sơ đại học, dù nhiều tình nguyện viên trẻ nói rằng nó đã giúp họ chọn nghề.\n(14) Nếu bị ốm, xin ở nhà và gọi cho người phụ trách; nếu không, bạn có thể khiến bệnh nhân gặp nguy hiểm.\n(15) Có thắc mắc? Hãy tới văn phòng tình nguyện ở tầng trệt, thứ Hai tới thứ Sáu, 9 giờ sáng tới 3 giờ chiều.",
+      "word_count": 282,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.001",
+        "b2.002",
+        "b2.003",
+        "b2.004",
+        "b2.005",
+        "b2.006",
+        "b2.007",
+        "b2.008",
+        "b2.009",
+        "b2.010",
+        "b2.011",
+        "b2.012",
+        "b2.013",
+        "b2.014",
+        "b2.015",
+        "b2.016",
+        "b2.017",
+        "b2.018",
+        "b2.019",
+        "b2.020",
+        "b2.021",
+        "b2.022",
+        "b2.023",
+        "b2.024",
+        "b2.025",
+        "b2.026",
+        "b2.027",
+        "b2.028",
+        "b2.029",
+        "b2.030",
+        "b2.031",
+        "b2.032",
+        "b2.033",
+        "b2.034",
+        "b2.035",
+        "b2.036",
+        "b2.037",
+        "b2.038",
+        "b2.039",
+        "b2.040",
+        "b2.041",
+        "b2.042",
+        "b2.043",
+        "b2.044",
+        "b2.045",
+        "b2.046",
+        "b2.047",
+        "b2.048",
+        "b2.049",
+        "b2.050",
+        "b2.051",
+        "b2.052",
+        "b2.053",
+        "b2.054",
+        "b2.055",
+        "b2.056",
+        "b2.057",
+        "b2.058",
+        "b2.059",
+        "b2.060",
+        "b2.061",
+        "b2.062",
+        "b2.063",
+        "b2.064",
+        "b2.065",
+        "b2.066",
+        "b2.067",
+        "b2.068",
+        "b2.069",
+        "b2.070",
+        "b2.071",
+        "b2.072",
+        "b2.073",
+        "b2.074",
+        "b2.075",
+        "b2.076",
+        "b2.077",
+        "b2.078",
+        "b2.079",
+        "b2.080",
+        "b2.081",
+        "b2.082",
+        "b2.083",
+        "b2.084",
+        "b2.085",
+        "b2.086",
+        "b2.087",
+        "b2.088"
+      ]
+    },
+    {
+      "id": "passage_mock1_02",
+      "heading_i18n": {
+        "vi": "Phần 2 — Lá thư bà Harriet viết cho Amy"
+      },
+      "narrator": "Harriet",
+      "title": "A Letter to Open When You Are Older",
+      "category": "letter",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 210,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A Letter to Open When You Are Older",
+            "vi": "Lá thư để cháu mở khi lớn hơn"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My dearest Amy,",
+            "vi": "Amy yêu quý nhất của bà,"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You are nine years old as I write this, asleep on my sofa with a book open on your chest. I have asked your mother to keep this letter until you are eighteen, so if you are reading it, you are grown up, and I am probably an old woman who tells the same stories too often.",
+            "vi": "Lúc bà viết lá thư này, cháu chín tuổi, đang ngủ trên sofa nhà bà với cuốn sách mở trên ngực. Bà đã nhờ mẹ cháu giữ thư này tới khi cháu mười tám, nên nếu cháu đang đọc, tức là cháu đã lớn, còn bà có lẽ là một bà già hay kể đi kể lại cùng một chuyện."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I want to tell you a few things that took me far too long to learn.",
+            "vi": "Bà muốn kể cháu nghe vài điều mà bà đã mất quá lâu mới học được."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The first is that you do not have to be good at something to enjoy it. I stopped singing at twelve because a teacher said that my voice was \"unusual\". If only I had kept singing! I sing now, badly and happily, in my kitchen, and nobody has died.",
+            "vi": "Điều thứ nhất là cháu không cần giỏi một việc mới được thích nó. Bà thôi hát từ năm mười hai tuổi vì một cô giáo bảo giọng bà \"khác thường\". Giá mà bà cứ hát tiếp! Giờ bà hát, dở mà vui, trong bếp nhà mình, và chẳng ai chết cả."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The second is that people matter more than plans. When I opened the café, I had a business plan full of numbers. Not one of those numbers predicted the friends that I would make across the counter.",
+            "vi": "Điều thứ hai là con người quan trọng hơn kế hoạch. Khi mở quán, bà có một bản kế hoạch kinh doanh đầy con số. Chẳng con số nào đoán trước được những người bạn bà sẽ quen qua quầy hàng."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The third is harder to write. Had I known how quickly your grandfather and I would run out of time, I would have argued with him less about small things and laughed with him more.",
+            "vi": "Điều thứ ba khó viết hơn. Nếu bà biết ông và bà sẽ hết thời gian bên nhau nhanh như vậy, bà đã bớt cãi nhau với ông về những chuyện vặt và cười với ông nhiều hơn."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We were happy, Amy, but we wasted too many evenings being right instead of being kind.",
+            "vi": "Ông bà đã hạnh phúc, Amy ạ, nhưng ông bà đã phí quá nhiều buổi tối để giành phần đúng thay vì đối tốt với nhau."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please don't make the same mistake with the people you love.",
+            "vi": "Đừng mắc cùng sai lầm ấy với những người cháu yêu nhé."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Finally, be curious about everyone. The quiet man who orders soup on Wednesdays, the lady with the loud laugh, the new boy who sits alone: each of them has a story that would surprise you.",
+            "vi": "Cuối cùng, hãy tò mò về mọi người. Người đàn ông ít nói hay gọi súp thứ Tư, bà cô cười giòn tan, cậu bé mới tới ngồi một mình: mỗi người có một câu chuyện sẽ làm cháu bất ngờ."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ask, and then listen properly. It is the cheapest gift in the world, and the one people remember longest.",
+            "vi": "Hãy hỏi, rồi lắng nghe cho tử tế. Đó là món quà rẻ nhất thế giới, và là món người ta nhớ lâu nhất."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Whatever you decide to become, I am already proud of you. Now go and do something that frightens you a little.",
+            "vi": "Dù cháu chọn trở thành ai, bà đã tự hào về cháu rồi. Giờ thì đi làm điều gì đó khiến cháu hơi sợ một chút đi."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "With all my love, Grandma Harriet",
+            "vi": "Với tất cả tình yêu thương, bà Harriet"
+          }
+        }
+      ],
+      "content_ja": "A Letter to Open When You Are Older\n\nMy dearest Amy,\n\nYou are nine years old as I write this, asleep on my sofa with a book open on your chest. I have asked your mother to keep this letter until you are eighteen, so if you are reading it, you are grown up, and I am probably an old woman who tells the same stories too often.\n\nI want to tell you a few things that took me far too long to learn. The first is that you do not have to be good at something to enjoy it. I stopped singing at twelve because a teacher said that my voice was \"unusual\". If only I had kept singing! I sing now, badly and happily, in my kitchen, and nobody has died. The second is that people matter more than plans. When I opened the café, I had a business plan full of numbers. Not one of those numbers predicted the friends that I would make across the counter.\n\nThe third is harder to write. Had I known how quickly your grandfather and I would run out of time, I would have argued with him less about small things and laughed with him more. We were happy, Amy, but we wasted too many evenings being right instead of being kind. Please don't make the same mistake with the people you love.\n\nFinally, be curious about everyone. The quiet man who orders soup on Wednesdays, the lady with the loud laugh, the new boy who sits alone: each of them has a story that would surprise you. Ask, and then listen properly. It is the cheapest gift in the world, and the one people remember longest.\n\nWhatever you decide to become, I am already proud of you. Now go and do something that frightens you a little.\n\nWith all my love, Grandma Harriet",
+      "translation_vn": "(1) Lá thư để cháu mở khi lớn hơn\n(2) Amy yêu quý nhất của bà,\n(3) Lúc bà viết lá thư này, cháu chín tuổi, đang ngủ trên sofa nhà bà với cuốn sách mở trên ngực. Bà đã nhờ mẹ cháu giữ thư này tới khi cháu mười tám, nên nếu cháu đang đọc, tức là cháu đã lớn, còn bà có lẽ là một bà già hay kể đi kể lại cùng một chuyện.\n(4) Bà muốn kể cháu nghe vài điều mà bà đã mất quá lâu mới học được.\n(5) Điều thứ nhất là cháu không cần giỏi một việc mới được thích nó. Bà thôi hát từ năm mười hai tuổi vì một cô giáo bảo giọng bà \"khác thường\". Giá mà bà cứ hát tiếp! Giờ bà hát, dở mà vui, trong bếp nhà mình, và chẳng ai chết cả.\n(6) Điều thứ hai là con người quan trọng hơn kế hoạch. Khi mở quán, bà có một bản kế hoạch kinh doanh đầy con số. Chẳng con số nào đoán trước được những người bạn bà sẽ quen qua quầy hàng.\n(7) Điều thứ ba khó viết hơn. Nếu bà biết ông và bà sẽ hết thời gian bên nhau nhanh như vậy, bà đã bớt cãi nhau với ông về những chuyện vặt và cười với ông nhiều hơn.\n(8) Ông bà đã hạnh phúc, Amy ạ, nhưng ông bà đã phí quá nhiều buổi tối để giành phần đúng thay vì đối tốt với nhau.\n(9) Đừng mắc cùng sai lầm ấy với những người cháu yêu nhé.\n(10) Cuối cùng, hãy tò mò về mọi người. Người đàn ông ít nói hay gọi súp thứ Tư, bà cô cười giòn tan, cậu bé mới tới ngồi một mình: mỗi người có một câu chuyện sẽ làm cháu bất ngờ.\n(11) Hãy hỏi, rồi lắng nghe cho tử tế. Đó là món quà rẻ nhất thế giới, và là món người ta nhớ lâu nhất.\n(12) Dù cháu chọn trở thành ai, bà đã tự hào về cháu rồi. Giờ thì đi làm điều gì đó khiến cháu hơi sợ một chút đi.\n(13) Với tất cả tình yêu thương, bà Harriet",
+      "word_count": 313,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.001",
+        "b2.002",
+        "b2.003",
+        "b2.004",
+        "b2.005",
+        "b2.006",
+        "b2.007",
+        "b2.008",
+        "b2.009",
+        "b2.010",
+        "b2.011",
+        "b2.012",
+        "b2.013",
+        "b2.014",
+        "b2.015",
+        "b2.016",
+        "b2.017",
+        "b2.018",
+        "b2.019",
+        "b2.020",
+        "b2.021",
+        "b2.022",
+        "b2.023",
+        "b2.024",
+        "b2.025",
+        "b2.026",
+        "b2.027",
+        "b2.028",
+        "b2.029",
+        "b2.030",
+        "b2.031",
+        "b2.032",
+        "b2.033",
+        "b2.034",
+        "b2.035",
+        "b2.036",
+        "b2.037",
+        "b2.038",
+        "b2.039",
+        "b2.040",
+        "b2.041",
+        "b2.042",
+        "b2.043",
+        "b2.044",
+        "b2.045",
+        "b2.046",
+        "b2.047",
+        "b2.048",
+        "b2.049",
+        "b2.050",
+        "b2.051",
+        "b2.052",
+        "b2.053",
+        "b2.054",
+        "b2.055",
+        "b2.056",
+        "b2.057",
+        "b2.058",
+        "b2.059",
+        "b2.060",
+        "b2.061",
+        "b2.062",
+        "b2.063",
+        "b2.064",
+        "b2.065",
+        "b2.066",
+        "b2.067",
+        "b2.068",
+        "b2.069",
+        "b2.070",
+        "b2.071",
+        "b2.072",
+        "b2.073",
+        "b2.074",
+        "b2.075",
+        "b2.076",
+        "b2.077",
+        "b2.078",
+        "b2.079",
+        "b2.080",
+        "b2.081",
+        "b2.082",
+        "b2.083",
+        "b2.084",
+        "b2.085",
+        "b2.086",
+        "b2.087",
+        "b2.088"
+      ]
+    },
+    {
+      "id": "passage_mock1_03",
+      "heading_i18n": {
+        "vi": "Phần 3 — Bài khoa học: vì sao ta ngáp?"
+      },
+      "narrator": "announcer",
+      "title": "Why Do We Yawn?",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 210,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why Do We Yawn?",
+            "vi": "Vì sao chúng ta ngáp?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Yawning is one of the most common things that humans do, and one of the least understood.",
+            "vi": "Ngáp là một trong những việc phổ biến nhất con người làm, và cũng là một trong những việc ít được hiểu nhất."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We start before we are born: babies have been seen yawning on ultrasound scans when they are only about three months into development.",
+            "vi": "Ta bắt đầu ngáp từ trước khi chào đời: người ta đã thấy thai nhi ngáp trên ảnh siêu âm khi mới khoảng ba tháng tuổi."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most animals with backbones yawn too, from dogs and cats to snakes and fish.",
+            "vi": "Phần lớn động vật có xương sống cũng ngáp, từ chó mèo tới rắn và cá."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For a long time, people believed that we yawn because our bodies need more oxygen.",
+            "vi": "Từ lâu, người ta tin rằng ta ngáp vì cơ thể cần thêm oxy."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It sounds sensible, but when scientists tested the idea by giving volunteers air with extra oxygen, or with less, they found that the volunteers yawned just as often.",
+            "vi": "Nghe thì hợp lý, nhưng khi các nhà khoa học thử cho tình nguyện viên hít không khí nhiều oxy hơn, hoặc ít hơn, họ thấy tình nguyện viên vẫn ngáp nhiều như thế."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The oxygen theory, in other words, does not seem to be correct.",
+            "vi": "Nói cách khác, thuyết oxy có vẻ không đúng."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A more recent idea is that yawning helps to cool the brain.",
+            "vi": "Một ý tưởng gần đây hơn là ngáp giúp làm mát não."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A deep yawn pulls a large amount of air into the mouth and increases blood flow around the head, which may carry heat away.",
+            "vi": "Một cái ngáp sâu kéo nhiều không khí vào miệng và tăng lượng máu lưu thông quanh đầu, có thể mang bớt nhiệt đi."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Supporting this, studies have found that people yawn less when they hold something cold against their forehead, and that they yawn more in mild weather than in very hot or very cold weather.",
+            "vi": "Ủng hộ điều này, các nghiên cứu thấy người ta ngáp ít hơn khi áp một vật lạnh lên trán, và ngáp nhiều hơn khi thời tiết dễ chịu so với khi quá nóng hay quá lạnh."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This would also explain why we often yawn when we are tired or bored, since the brain's temperature tends to rise at these times.",
+            "vi": "Điều này cũng giải thích vì sao ta hay ngáp khi mệt hoặc chán, vì nhiệt độ não thường tăng lên vào những lúc ấy."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then there is the strangest part: yawning is contagious.",
+            "vi": "Rồi tới phần kỳ lạ nhất: ngáp có thể lây."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Seeing, hearing or even reading about a yawn can make us yawn, and you may have felt the urge already while reading this article.",
+            "vi": "Nhìn thấy, nghe thấy hay thậm chí đọc về một cái ngáp cũng có thể khiến ta ngáp, và có lẽ bạn đã thấy buồn ngáp trong lúc đọc bài này."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We are more likely to catch a yawn from family and close friends than from strangers, and some studies have found that dogs can catch yawns from their owners.",
+            "vi": "Ta dễ bị lây ngáp từ người nhà và bạn thân hơn từ người lạ, và một số nghiên cứu thấy chó có thể bị lây ngáp từ chủ."
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many researchers think that this is connected to empathy, our ability to share the feelings of others, although the link is still being studied.",
+            "vi": "Nhiều nhà nghiên cứu cho rằng điều này liên quan tới sự đồng cảm, khả năng chia sẻ cảm xúc của người khác, dù mối liên hệ này vẫn đang được nghiên cứu."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So the next time someone yawns while you are talking, don't be offended. They may simply be cooling their brain, or showing, without knowing it, that they feel close to you.",
+            "vi": "Vậy lần tới khi ai đó ngáp lúc bạn đang nói, đừng phật ý. Có thể họ chỉ đang làm mát não, hoặc đang vô tình cho thấy họ thấy gần gũi với bạn."
+          }
+        }
+      ],
+      "content_ja": "Why Do We Yawn?\n\nYawning is one of the most common things that humans do, and one of the least understood. We start before we are born: babies have been seen yawning on ultrasound scans when they are only about three months into development. Most animals with backbones yawn too, from dogs and cats to snakes and fish.\n\nFor a long time, people believed that we yawn because our bodies need more oxygen. It sounds sensible, but when scientists tested the idea by giving volunteers air with extra oxygen, or with less, they found that the volunteers yawned just as often. The oxygen theory, in other words, does not seem to be correct.\n\nA more recent idea is that yawning helps to cool the brain. A deep yawn pulls a large amount of air into the mouth and increases blood flow around the head, which may carry heat away. Supporting this, studies have found that people yawn less when they hold something cold against their forehead, and that they yawn more in mild weather than in very hot or very cold weather. This would also explain why we often yawn when we are tired or bored, since the brain's temperature tends to rise at these times.\n\nThen there is the strangest part: yawning is contagious. Seeing, hearing or even reading about a yawn can make us yawn, and you may have felt the urge already while reading this article. We are more likely to catch a yawn from family and close friends than from strangers, and some studies have found that dogs can catch yawns from their owners. Many researchers think that this is connected to empathy, our ability to share the feelings of others, although the link is still being studied.\n\nSo the next time someone yawns while you are talking, don't be offended. They may simply be cooling their brain, or showing, without knowing it, that they feel close to you.",
+      "translation_vn": "(1) Vì sao chúng ta ngáp?\n(2) Ngáp là một trong những việc phổ biến nhất con người làm, và cũng là một trong những việc ít được hiểu nhất.\n(3) Ta bắt đầu ngáp từ trước khi chào đời: người ta đã thấy thai nhi ngáp trên ảnh siêu âm khi mới khoảng ba tháng tuổi.\n(4) Phần lớn động vật có xương sống cũng ngáp, từ chó mèo tới rắn và cá.\n(5) Từ lâu, người ta tin rằng ta ngáp vì cơ thể cần thêm oxy.\n(6) Nghe thì hợp lý, nhưng khi các nhà khoa học thử cho tình nguyện viên hít không khí nhiều oxy hơn, hoặc ít hơn, họ thấy tình nguyện viên vẫn ngáp nhiều như thế.\n(7) Nói cách khác, thuyết oxy có vẻ không đúng.\n(8) Một ý tưởng gần đây hơn là ngáp giúp làm mát não.\n(9) Một cái ngáp sâu kéo nhiều không khí vào miệng và tăng lượng máu lưu thông quanh đầu, có thể mang bớt nhiệt đi.\n(10) Ủng hộ điều này, các nghiên cứu thấy người ta ngáp ít hơn khi áp một vật lạnh lên trán, và ngáp nhiều hơn khi thời tiết dễ chịu so với khi quá nóng hay quá lạnh.\n(11) Điều này cũng giải thích vì sao ta hay ngáp khi mệt hoặc chán, vì nhiệt độ não thường tăng lên vào những lúc ấy.\n(12) Rồi tới phần kỳ lạ nhất: ngáp có thể lây.\n(13) Nhìn thấy, nghe thấy hay thậm chí đọc về một cái ngáp cũng có thể khiến ta ngáp, và có lẽ bạn đã thấy buồn ngáp trong lúc đọc bài này.\n(14) Ta dễ bị lây ngáp từ người nhà và bạn thân hơn từ người lạ, và một số nghiên cứu thấy chó có thể bị lây ngáp từ chủ.\n(15) Nhiều nhà nghiên cứu cho rằng điều này liên quan tới sự đồng cảm, khả năng chia sẻ cảm xúc của người khác, dù mối liên hệ này vẫn đang được nghiên cứu.\n(16) Vậy lần tới khi ai đó ngáp lúc bạn đang nói, đừng phật ý. Có thể họ chỉ đang làm mát não, hoặc đang vô tình cho thấy họ thấy gần gũi với bạn.",
+      "word_count": 323,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.001",
+        "b2.002",
+        "b2.003",
+        "b2.004",
+        "b2.005",
+        "b2.006",
+        "b2.007",
+        "b2.008",
+        "b2.009",
+        "b2.010",
+        "b2.011",
+        "b2.012",
+        "b2.013",
+        "b2.014",
+        "b2.015",
+        "b2.016",
+        "b2.017",
+        "b2.018",
+        "b2.019",
+        "b2.020",
+        "b2.021",
+        "b2.022",
+        "b2.023",
+        "b2.024",
+        "b2.025",
+        "b2.026",
+        "b2.027",
+        "b2.028",
+        "b2.029",
+        "b2.030",
+        "b2.031",
+        "b2.032",
+        "b2.033",
+        "b2.034",
+        "b2.035",
+        "b2.036",
+        "b2.037",
+        "b2.038",
+        "b2.039",
+        "b2.040",
+        "b2.041",
+        "b2.042",
+        "b2.043",
+        "b2.044",
+        "b2.045",
+        "b2.046",
+        "b2.047",
+        "b2.048",
+        "b2.049",
+        "b2.050",
+        "b2.051",
+        "b2.052",
+        "b2.053",
+        "b2.054",
+        "b2.055",
+        "b2.056",
+        "b2.057",
+        "b2.058",
+        "b2.059",
+        "b2.060",
+        "b2.061",
+        "b2.062",
+        "b2.063",
+        "b2.064",
+        "b2.065",
+        "b2.066",
+        "b2.067",
+        "b2.068",
+        "b2.069",
+        "b2.070",
+        "b2.071",
+        "b2.072",
+        "b2.073",
+        "b2.074",
+        "b2.075",
+        "b2.076",
+        "b2.077",
+        "b2.078",
+        "b2.079",
+        "b2.080",
+        "b2.081",
+        "b2.082",
+        "b2.083",
+        "b2.084",
+        "b2.085",
+        "b2.086",
+        "b2.087",
+        "b2.088"
+      ]
+    },
+    {
+      "id": "passage_mock1_04",
+      "heading_i18n": {
+        "vi": "Phần 4 — Bài quan điểm: chúng ta có đang đọc ít đi?"
+      },
+      "narrator": "announcer",
+      "title": "Are We Forgetting How to Read?",
+      "category": "article",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 220,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Are We Forgetting How to Read?",
+            "vi": "Chúng ta có đang quên cách đọc?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We read more words today than any generation in history: messages, captions, headlines, comments and endless notifications.",
+            "vi": "Ngày nay ta đọc nhiều chữ hơn bất kỳ thế hệ nào trong lịch sử: tin nhắn, chú thích, tiêu đề, bình luận và vô số thông báo."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And yet, according to a large study published in 2025, the share of American adults who read for pleasure on a typical day fell by about 40 percent between 2004 and 2023.",
+            "vi": "Thế nhưng, theo một nghiên cứu lớn công bố năm 2025, tỉ lệ người trưởng thành Mỹ đọc sách giải trí trong một ngày bình thường đã giảm khoảng 40 phần trăm từ năm 2004 tới 2023."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It seems that we are reading more, but reading less deeply.",
+            "vi": "Có vẻ như ta đọc nhiều hơn, nhưng đọc kém sâu hơn."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some researchers are worried about what this means for our minds.",
+            "vi": "Một số nhà nghiên cứu lo ngại điều này có ý nghĩa gì với trí óc chúng ta."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Reading a long book requires the reader to keep track of characters and ideas over hundreds of pages, and many believe that this kind of slow, focused attention is a skill that weakens if it is not used.",
+            "vi": "Đọc một cuốn sách dài đòi hỏi người đọc theo dõi nhân vật và ý tưởng qua hàng trăm trang, và nhiều người tin rằng kiểu chú ý chậm rãi, tập trung này là một kỹ năng sẽ yếu đi nếu không dùng tới."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Teachers report that students increasingly find it hard to finish a novel, and even adults admit that they skim articles rather than reading them to the end.",
+            "vi": "Giáo viên cho biết học sinh ngày càng thấy khó đọc hết một cuốn tiểu thuyết, và ngay cả người lớn cũng thừa nhận họ đọc lướt bài báo chứ không đọc tới cuối."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Others argue that the picture is not so simple.",
+            "vi": "Người khác cho rằng bức tranh không đơn giản như vậy."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Audiobooks have never been more popular, and if listening to a novel on the way to work does not count as reading, they ask, why not?",
+            "vi": "Sách nói chưa bao giờ phổ biến đến thế, và nếu nghe một cuốn tiểu thuyết trên đường đi làm không được tính là đọc, họ hỏi, thì tại sao?"
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Online communities discuss books with great enthusiasm, and some young people who never read as children have discovered long novels through recommendations on social media.",
+            "vi": "Các cộng đồng mạng bàn về sách rất sôi nổi, và một số người trẻ hồi nhỏ chẳng bao giờ đọc đã khám phá tiểu thuyết dài nhờ những lời giới thiệu trên mạng xã hội."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every new technology, from the printing press to the radio, has been accused of destroying reading, and reading has survived them all.",
+            "vi": "Mọi công nghệ mới, từ máy in tới đài phát thanh, đều từng bị buộc tội huỷ hoại việc đọc, và việc đọc vẫn sống sót qua tất cả."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In my view, both sides are partly right.",
+            "vi": "Theo tôi, cả hai phía đều đúng một phần."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Reading is not dying, but the conditions that allow deep reading, such as long periods without interruption, are becoming rarer.",
+            "vi": "Việc đọc không chết, nhưng những điều kiện cho phép đọc sâu, như những quãng thời gian dài không bị ngắt quãng, đang ngày càng hiếm."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The problem is not that we have stopped loving stories, but that our phones are designed to interrupt us, and a book cannot compete with a device that buzzes every few minutes.",
+            "vi": "Vấn đề không phải là ta đã thôi yêu những câu chuyện, mà là điện thoại được thiết kế để ngắt lời ta, và một cuốn sách không thể cạnh tranh với một thiết bị cứ vài phút lại rung một lần."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The solution, then, may be less about books and more about time.",
+            "vi": "Vậy giải pháp có lẽ ít liên quan tới sách mà nhiều hơn tới thời gian."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Twenty minutes a day, with the phone in another room, is enough to rebuild the habit.",
+            "vi": "Hai mươi phút mỗi ngày, với điện thoại để ở phòng khác, là đủ để xây dựng lại thói quen."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is a small act, but in a world that is always asking for our attention, choosing where to put it may be one of the most important decisions that we make.",
+            "vi": "Đó là một việc nhỏ, nhưng trong một thế giới lúc nào cũng đòi sự chú ý của ta, việc chọn đặt sự chú ý ấy vào đâu có lẽ là một trong những quyết định quan trọng nhất ta đưa ra."
+          }
+        }
+      ],
+      "content_ja": "Are We Forgetting How to Read?\n\nWe read more words today than any generation in history: messages, captions, headlines, comments and endless notifications. And yet, according to a large study published in 2025, the share of American adults who read for pleasure on a typical day fell by about 40 percent between 2004 and 2023. It seems that we are reading more, but reading less deeply.\n\nSome researchers are worried about what this means for our minds. Reading a long book requires the reader to keep track of characters and ideas over hundreds of pages, and many believe that this kind of slow, focused attention is a skill that weakens if it is not used. Teachers report that students increasingly find it hard to finish a novel, and even adults admit that they skim articles rather than reading them to the end.\n\nOthers argue that the picture is not so simple. Audiobooks have never been more popular, and if listening to a novel on the way to work does not count as reading, they ask, why not? Online communities discuss books with great enthusiasm, and some young people who never read as children have discovered long novels through recommendations on social media. Every new technology, from the printing press to the radio, has been accused of destroying reading, and reading has survived them all.\n\nIn my view, both sides are partly right. Reading is not dying, but the conditions that allow deep reading, such as long periods without interruption, are becoming rarer. The problem is not that we have stopped loving stories, but that our phones are designed to interrupt us, and a book cannot compete with a device that buzzes every few minutes.\n\nThe solution, then, may be less about books and more about time. Twenty minutes a day, with the phone in another room, is enough to rebuild the habit. It is a small act, but in a world that is always asking for our attention, choosing where to put it may be one of the most important decisions that we make.",
+      "translation_vn": "(1) Chúng ta có đang quên cách đọc?\n(2) Ngày nay ta đọc nhiều chữ hơn bất kỳ thế hệ nào trong lịch sử: tin nhắn, chú thích, tiêu đề, bình luận và vô số thông báo.\n(3) Thế nhưng, theo một nghiên cứu lớn công bố năm 2025, tỉ lệ người trưởng thành Mỹ đọc sách giải trí trong một ngày bình thường đã giảm khoảng 40 phần trăm từ năm 2004 tới 2023.\n(4) Có vẻ như ta đọc nhiều hơn, nhưng đọc kém sâu hơn.\n(5) Một số nhà nghiên cứu lo ngại điều này có ý nghĩa gì với trí óc chúng ta.\n(6) Đọc một cuốn sách dài đòi hỏi người đọc theo dõi nhân vật và ý tưởng qua hàng trăm trang, và nhiều người tin rằng kiểu chú ý chậm rãi, tập trung này là một kỹ năng sẽ yếu đi nếu không dùng tới.\n(7) Giáo viên cho biết học sinh ngày càng thấy khó đọc hết một cuốn tiểu thuyết, và ngay cả người lớn cũng thừa nhận họ đọc lướt bài báo chứ không đọc tới cuối.\n(8) Người khác cho rằng bức tranh không đơn giản như vậy.\n(9) Sách nói chưa bao giờ phổ biến đến thế, và nếu nghe một cuốn tiểu thuyết trên đường đi làm không được tính là đọc, họ hỏi, thì tại sao?\n(10) Các cộng đồng mạng bàn về sách rất sôi nổi, và một số người trẻ hồi nhỏ chẳng bao giờ đọc đã khám phá tiểu thuyết dài nhờ những lời giới thiệu trên mạng xã hội.\n(11) Mọi công nghệ mới, từ máy in tới đài phát thanh, đều từng bị buộc tội huỷ hoại việc đọc, và việc đọc vẫn sống sót qua tất cả.\n(12) Theo tôi, cả hai phía đều đúng một phần.\n(13) Việc đọc không chết, nhưng những điều kiện cho phép đọc sâu, như những quãng thời gian dài không bị ngắt quãng, đang ngày càng hiếm.\n(14) Vấn đề không phải là ta đã thôi yêu những câu chuyện, mà là điện thoại được thiết kế để ngắt lời ta, và một cuốn sách không thể cạnh tranh với một thiết bị cứ vài phút lại rung một lần.\n(15) Vậy giải pháp có lẽ ít liên quan tới sách mà nhiều hơn tới thời gian.\n(16) Hai mươi phút mỗi ngày, với điện thoại để ở phòng khác, là đủ để xây dựng lại thói quen.\n(17) Đó là một việc nhỏ, nhưng trong một thế giới lúc nào cũng đòi sự chú ý của ta, việc chọn đặt sự chú ý ấy vào đâu có lẽ là một trong những quyết định quan trọng nhất ta đưa ra.",
+      "word_count": 340,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.001",
+        "b2.002",
+        "b2.003",
+        "b2.004",
+        "b2.005",
+        "b2.006",
+        "b2.007",
+        "b2.008",
+        "b2.009",
+        "b2.010",
+        "b2.011",
+        "b2.012",
+        "b2.013",
+        "b2.014",
+        "b2.015",
+        "b2.016",
+        "b2.017",
+        "b2.018",
+        "b2.019",
+        "b2.020",
+        "b2.021",
+        "b2.022",
+        "b2.023",
+        "b2.024",
+        "b2.025",
+        "b2.026",
+        "b2.027",
+        "b2.028",
+        "b2.029",
+        "b2.030",
+        "b2.031",
+        "b2.032",
+        "b2.033",
+        "b2.034",
+        "b2.035",
+        "b2.036",
+        "b2.037",
+        "b2.038",
+        "b2.039",
+        "b2.040",
+        "b2.041",
+        "b2.042",
+        "b2.043",
+        "b2.044",
+        "b2.045",
+        "b2.046",
+        "b2.047",
+        "b2.048",
+        "b2.049",
+        "b2.050",
+        "b2.051",
+        "b2.052",
+        "b2.053",
+        "b2.054",
+        "b2.055",
+        "b2.056",
+        "b2.057",
+        "b2.058",
+        "b2.059",
+        "b2.060",
+        "b2.061",
+        "b2.062",
+        "b2.063",
+        "b2.064",
+        "b2.065",
+        "b2.066",
+        "b2.067",
+        "b2.068",
+        "b2.069",
+        "b2.070",
+        "b2.071",
+        "b2.072",
+        "b2.073",
+        "b2.074",
+        "b2.075",
+        "b2.076",
+        "b2.077",
+        "b2.078",
+        "b2.079",
+        "b2.080",
+        "b2.081",
+        "b2.082",
+        "b2.083",
+        "b2.084",
+        "b2.085",
+        "b2.086",
+        "b2.087",
+        "b2.088"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_mock1_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "What is the main purpose of the notice?",
+        "vi": "Mục đích chính của thông báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to advertise jobs for nurses who want to work in the pediatric unit",
+            "vi": "để quảng cáo việc làm cho y tá muốn làm ở khoa nhi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to advertise jobs for nurses who want to work in the pediatric unit",
+          "text_translation": "để quảng cáo việc làm cho y tá muốn làm ở khoa nhi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to explain what hospital volunteers do and how people can apply to become one",
+            "vi": "để giải thích tình nguyện viên bệnh viện làm gì và cách đăng ký để thành tình nguyện viên"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to explain what hospital volunteers do and how people can apply to become one",
+          "text_translation": "để giải thích tình nguyện viên bệnh viện làm gì và cách đăng ký để thành tình nguyện viên"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to ask for money from visitors so that the hospital can buy new equipment",
+            "vi": "để xin tiền khách đến thăm giúp bệnh viện mua thiết bị mới"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to ask for money from visitors so that the hospital can buy new equipment",
+          "text_translation": "để xin tiền khách đến thăm giúp bệnh viện mua thiết bị mới"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to tell patients and their families about the visiting hours in each ward",
+            "vi": "để báo cho bệnh nhân và gia đình giờ thăm ở từng khu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to tell patients and their families about the visiting hours in each ward",
+          "text_translation": "để báo cho bệnh nhân và gia đình giờ thăm ở từng khu"
+        }
+      ],
+      "evidence_segments": [
+        1
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề \"Become a Volunteer\". Thông báo chia mục: tình nguyện viên làm gì, ai được đăng ký, cách đăng ký, lưu ý."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of the notice?",
+      "question_vn": "Mục đích chính của thông báo là gì?",
+      "explanation": "Tiêu đề \"Become a Volunteer\". Thông báo chia mục: tình nguyện viên làm gì, ai được đăng ký, cách đăng ký, lưu ý."
+    },
+    {
+      "id": "q_mock1_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "Which of these can volunteers do without being asked by a nurse?",
+        "vi": "Tình nguyện viên được làm việc nào mà không cần y tá đề nghị?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "help patients get out of bed when they want to walk around the ward",
+            "vi": "đỡ bệnh nhân ra khỏi giường khi họ muốn đi dạo quanh khu điều trị"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "help patients get out of bed when they want to walk around the ward",
+          "text_translation": "đỡ bệnh nhân ra khỏi giường khi họ muốn đi dạo quanh khu điều trị"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "help patients eat their meals when their families cannot be there",
+            "vi": "cho bệnh nhân ăn khi gia đình họ không thể có mặt"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "help patients eat their meals when their families cannot be there",
+          "text_translation": "cho bệnh nhân ăn khi gia đình họ không thể có mặt"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "give medical care to patients who are waiting at the information desk",
+            "vi": "chăm sóc y tế cho bệnh nhân đang chờ ở quầy thông tin"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "give medical care to patients who are waiting at the information desk",
+          "text_translation": "chăm sóc y tế cho bệnh nhân đang chờ ở quầy thông tin"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "read to children in the pediatric unit, which needs no help from a nurse",
+            "vi": "đọc truyện cho trẻ ở khoa nhi, việc không cần y tá nhờ"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "read to children in the pediatric unit, which needs no help from a nurse",
+          "text_translation": "đọc truyện cho trẻ ở khoa nhi, việc không cần y tá nhờ"
+        }
+      ],
+      "evidence_segments": [
+        4,
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"read to children in the pediatric unit\" là việc của tình nguyện viên. Còn đỡ ra khỏi giường hay cho ăn thì chỉ được làm khi \"a nurse has asked them to\"."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these can volunteers do without being asked by a nurse?",
+      "question_vn": "Tình nguyện viên được làm việc nào mà không cần y tá đề nghị?",
+      "explanation": "\"read to children in the pediatric unit\" là việc của tình nguyện viên. Còn đỡ ra khỏi giường hay cho ăn thì chỉ được làm khi \"a nurse has asked them to\"."
+    },
+    {
+      "id": "q_mock1_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "A fifteen-year-old student wants to volunteer this summer. What does the notice say?",
+        "vi": "Một học sinh mười lăm tuổi muốn làm tình nguyện mùa hè này. Thông báo nói gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is too young, because teenagers must be at least sixteen to apply.",
+            "vi": "Bạn ấy còn quá nhỏ, vì thanh thiếu niên phải từ mười sáu tuổi mới được đăng ký."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She is too young, because teenagers must be at least sixteen to apply.",
+          "text_translation": "Bạn ấy còn quá nhỏ, vì thanh thiếu niên phải từ mười sáu tuổi mới được đăng ký."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She can apply at once, because a parent can sign the form for her.",
+            "vi": "Bạn ấy đăng ký được ngay, vì bố mẹ có thể ký đơn thay."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She can apply at once, because a parent can sign the form for her.",
+          "text_translation": "Bạn ấy đăng ký được ngay, vì bố mẹ có thể ký đơn thay."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She can work only at the information desk until she is sixteen years old.",
+            "vi": "Bạn ấy chỉ được làm ở quầy thông tin cho tới khi tròn mười sáu tuổi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She can work only at the information desk until she is sixteen years old.",
+          "text_translation": "Bạn ấy chỉ được làm ở quầy thông tin cho tới khi tròn mười sáu tuổi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She doesn't need a flu vaccine, because teenagers are not at risk of infection.",
+            "vi": "Bạn ấy không cần tiêm vắc-xin cúm, vì thanh thiếu niên không có nguy cơ nhiễm bệnh."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She doesn't need a flu vaccine, because teenagers are not at risk of infection.",
+          "text_translation": "Bạn ấy không cần tiêm vắc-xin cúm, vì thanh thiếu niên không có nguy cơ nhiễm bệnh."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu áp dụng. \"Teenagers can apply from the age of sixteen, provided that a parent signs the application form.\" Chữ ký của bố mẹ chỉ là điều kiện thêm cho người đã đủ mười sáu."
+      },
+      "audio_data": null,
+      "question_jp": "A fifteen-year-old student wants to volunteer this summer. What does the notice say?",
+      "question_vn": "Một học sinh mười lăm tuổi muốn làm tình nguyện mùa hè này. Thông báo nói gì?",
+      "explanation": "Câu áp dụng. \"Teenagers can apply from the age of sixteen, provided that a parent signs the application form.\" Chữ ký của bố mẹ chỉ là điều kiện thêm cho người đã đủ mười sáu."
+    },
+    {
+      "id": "q_mock1_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "What must all volunteers commit to?",
+        "vi": "Mọi tình nguyện viên phải cam kết điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "working every day, including weekends, for the first month of the program",
+            "vi": "làm việc mỗi ngày, kể cả cuối tuần, trong tháng đầu của chương trình"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "working every day, including weekends, for the first month of the program",
+          "text_translation": "làm việc mỗi ngày, kể cả cuối tuần, trong tháng đầu của chương trình"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at least one four-hour shift every week for six months, without a long break",
+            "vi": "ít nhất một ca bốn tiếng mỗi tuần trong sáu tháng, không nghỉ dài"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "at least one four-hour shift every week for six months, without a long break",
+          "text_translation": "ít nhất một ca bốn tiếng mỗi tuần trong sáu tháng, không nghỉ dài"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a full-time job at the hospital after the six months of training",
+            "vi": "một công việc toàn thời gian ở bệnh viện sau sáu tháng tập huấn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a full-time job at the hospital after the six months of training",
+          "text_translation": "một công việc toàn thời gian ở bệnh viện sau sáu tháng tập huấn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "working only at night, when the hospital has fewer visitors",
+            "vi": "chỉ làm ban đêm, khi bệnh viện có ít khách thăm hơn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "working only at night, when the hospital has fewer visitors",
+          "text_translation": "chỉ làm ban đêm, khi bệnh viện có ít khách thăm hơn"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"All volunteers must commit to at least one four-hour shift a week for six months\"."
+      },
+      "audio_data": null,
+      "question_jp": "What must all volunteers commit to?",
+      "question_vn": "Mọi tình nguyện viên phải cam kết điều gì?",
+      "explanation": "\"All volunteers must commit to at least one four-hour shift a week for six months\"."
+    },
+    {
+      "id": "q_mock1_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "What happens after the short interview, if you are accepted?",
+        "vi": "Sau buổi phỏng vấn ngắn, nếu được nhận thì sao?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "You attend a training day.",
+            "vi": "Bạn dự một ngày tập huấn."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "You attend a training day.",
+          "text_translation": "Bạn dự một ngày tập huấn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "You start working immediately.",
+            "vi": "Bạn bắt đầu làm ngay."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "You start working immediately.",
+          "text_translation": "Bạn bắt đầu làm ngay."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "You complete the online form.",
+            "vi": "Bạn điền đơn trực tuyến."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "You complete the online form.",
+          "text_translation": "Bạn điền đơn trực tuyến."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "You get a flu vaccine at the hospital.",
+            "vi": "Bạn tiêm vắc-xin cúm ở bệnh viện."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "You get a flu vaccine at the hospital.",
+          "text_translation": "Bạn tiêm vắc-xin cúm ở bệnh viện."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"If you are accepted, you will attend a training day, where you will learn about patient privacy, hand hygiene and what to do in an emergency.\""
+      },
+      "audio_data": null,
+      "question_jp": "What happens after the short interview, if you are accepted?",
+      "question_vn": "Sau buổi phỏng vấn ngắn, nếu được nhận thì sao?",
+      "explanation": "\"If you are accepted, you will attend a training day, where you will learn about patient privacy, hand hygiene and what to do in an emergency.\""
+    },
+    {
+      "id": "q_mock1_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "Why does the notice say \"you had better apply early\"?",
+        "vi": "Vì sao thông báo nói \"tốt nhất hãy đăng ký sớm\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because places are given to the youngest people first",
+            "vi": "vì người nhỏ tuổi nhất được ưu tiên"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because places are given to the youngest people first",
+          "text_translation": "vì người nhỏ tuổi nhất được ưu tiên"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the volunteer office closes in summer",
+            "vi": "vì văn phòng tình nguyện đóng cửa mùa hè"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the volunteer office closes in summer",
+          "text_translation": "vì văn phòng tình nguyện đóng cửa mùa hè"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the whole process takes four to six weeks",
+            "vi": "vì cả quy trình mất bốn tới sáu tuần"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because the whole process takes four to six weeks",
+          "text_translation": "vì cả quy trình mất bốn tới sáu tuần"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the hospital needs money",
+            "vi": "vì bệnh viện cần tiền"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because the hospital needs money",
+          "text_translation": "vì bệnh viện cần tiền"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"The whole process usually takes four to six weeks, so you had better apply early if you want to start before the summer.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does the notice say \"you had better apply early\"?",
+      "question_vn": "Vì sao thông báo nói \"tốt nhất hãy đăng ký sớm\"?",
+      "explanation": "\"The whole process usually takes four to six weeks, so you had better apply early if you want to start before the summer.\""
+    },
+    {
+      "id": "q_mock1_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "What does the notice say about volunteering and college applications?",
+        "vi": "Thông báo nói gì về việc tình nguyện và hồ sơ đại học?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It guarantees a place at college, because the hospital writes a letter for each young volunteer.",
+            "vi": "Nó đảm bảo một suất vào đại học, vì bệnh viện viết thư cho từng tình nguyện viên trẻ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It guarantees a place at college, because the hospital writes a letter for each young volunteer.",
+          "text_translation": "Nó đảm bảo một suất vào đại học, vì bệnh viện viết thư cho từng tình nguyện viên trẻ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It gives volunteers the medical experience that colleges ask for in their applications.",
+            "vi": "Nó cho tình nguyện viên kinh nghiệm y khoa mà các trường đại học đòi trong hồ sơ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It gives volunteers the medical experience that colleges ask for in their applications.",
+          "text_translation": "Nó cho tình nguyện viên kinh nghiệm y khoa mà các trường đại học đòi trong hồ sơ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Young people are not allowed to mention it in their college applications at all.",
+            "vi": "Người trẻ hoàn toàn không được nhắc tới nó trong hồ sơ đại học."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Young people are not allowed to mention it in their college applications at all.",
+          "text_translation": "Người trẻ hoàn toàn không được nhắc tới nó trong hồ sơ đại học."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It does not give medical experience, although many young volunteers say it helped them choose a career.",
+            "vi": "Nó không cho kinh nghiệm y khoa, dù nhiều tình nguyện viên trẻ nói nó giúp họ chọn nghề."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "It does not give medical experience, although many young volunteers say it helped them choose a career.",
+          "text_translation": "Nó không cho kinh nghiệm y khoa, dù nhiều tình nguyện viên trẻ nói nó giúp họ chọn nghề."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Volunteering at the hospital is not a way to get medical experience for a college application, although many of our young volunteers do say that it helped them decide on a career.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the notice say about volunteering and college applications?",
+      "question_vn": "Thông báo nói gì về việc tình nguyện và hồ sơ đại học?",
+      "explanation": "\"Volunteering at the hospital is not a way to get medical experience for a college application, although many of our young volunteers do say that it helped them decide on a career.\""
+    },
+    {
+      "id": "q_mock1_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "In \"If you are ill, please stay at home and call your supervisor; otherwise, you could put patients at risk\", what does \"otherwise\" mean?",
+        "vi": "Trong câu \"Nếu bị ốm, xin ở nhà và gọi cho người phụ trách; nếu không, bạn có thể khiến bệnh nhân gặp nguy hiểm\", \"otherwise\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in addition to what was said before",
+            "vi": "thêm vào những điều đã nói trước đó"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "in addition to what was said before",
+          "text_translation": "thêm vào những điều đã nói trước đó"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because of what the writer has just said",
+            "vi": "vì điều người viết vừa nói"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because of what the writer has just said",
+          "text_translation": "vì điều người viết vừa nói"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "if you don't do what has just been asked",
+            "vi": "nếu bạn không làm điều vừa được yêu cầu"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "if you don't do what has just been asked",
+          "text_translation": "nếu bạn không làm điều vừa được yêu cầu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at the same time as the other thing",
+            "vi": "cùng lúc với việc kia"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "at the same time as the other thing",
+          "text_translation": "cùng lúc với việc kia"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"otherwise, you could put patients at risk.\" Otherwise = nếu không (làm điều vừa nói)."
+      },
+      "audio_data": null,
+      "question_jp": "In \"If you are ill, please stay at home and call your supervisor; otherwise, you could put patients at risk\", what does \"otherwise\" mean?",
+      "question_vn": "Trong câu \"Nếu bị ốm, xin ở nhà và gọi cho người phụ trách; nếu không, bạn có thể khiến bệnh nhân gặp nguy hiểm\", \"otherwise\" nghĩa là gì?",
+      "explanation": "\"otherwise, you could put patients at risk.\" Otherwise = nếu không (làm điều vừa nói)."
+    },
+    {
+      "id": "q_mock1_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "Why do volunteers learn about hand hygiene during training?",
+        "vi": "Vì sao tình nguyện viên học về vệ sinh tay trong buổi tập huấn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to stop infections from spreading to patients",
+            "vi": "để ngăn nhiễm trùng lây sang bệnh nhân"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to stop infections from spreading to patients",
+          "text_translation": "để ngăn nhiễm trùng lây sang bệnh nhân"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to help patients who feel ill during their shift",
+            "vi": "để giúp bệnh nhân thấy ốm trong ca của họ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to help patients who feel ill during their shift",
+          "text_translation": "để giúp bệnh nhân thấy ốm trong ca của họ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because they will cook meals for patients every week",
+            "vi": "vì họ sẽ nấu bữa ăn cho bệnh nhân mỗi tuần"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because they will cook meals for patients every week",
+          "text_translation": "vì họ sẽ nấu bữa ăn cho bệnh nhân mỗi tuần"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to pass an exam that many colleges ask for",
+            "vi": "để qua một kỳ thi mà nhiều trường đại học yêu cầu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to pass an exam that many colleges ask for",
+          "text_translation": "để qua một kỳ thi mà nhiều trường đại học yêu cầu"
+        }
+      ],
+      "evidence_segments": [
+        10,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Họ tiếp xúc với bệnh nhân, nên vệ sinh tay giúp tránh lây bệnh, cùng lý do với việc ốm thì phải ở nhà \"otherwise, you could put patients at risk\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why do volunteers learn about hand hygiene during training?",
+      "question_vn": "Vì sao tình nguyện viên học về vệ sinh tay trong buổi tập huấn?",
+      "explanation": "Câu suy luận. Họ tiếp xúc với bệnh nhân, nên vệ sinh tay giúp tránh lây bệnh, cùng lý do với việc ốm thì phải ở nhà \"otherwise, you could put patients at risk\"."
+    },
+    {
+      "id": "q_mock1_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_01",
+      "i18n": {
+        "en": "Where and when can people ask questions in person?",
+        "vi": "Có thể hỏi trực tiếp ở đâu và khi nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at the information desk next to the main entrance, every day of the week",
+            "vi": "ở quầy thông tin cạnh cổng chính, mỗi ngày trong tuần"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "at the information desk next to the main entrance, every day of the week",
+          "text_translation": "ở quầy thông tin cạnh cổng chính, mỗi ngày trong tuần"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "online, at any time of the day or night, by sending a message to the volunteer supervisor",
+            "vi": "trực tuyến, bất cứ lúc nào ngày hay đêm, bằng cách nhắn cho người phụ trách tình nguyện viên"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "online, at any time of the day or night, by sending a message to the volunteer supervisor",
+          "text_translation": "trực tuyến, bất cứ lúc nào ngày hay đêm, bằng cách nhắn cho người phụ trách tình nguyện viên"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at the volunteer office on the ground floor, Monday to Friday, 9 a.m. to 3 p.m.",
+            "vi": "ở văn phòng tình nguyện tầng trệt, thứ Hai tới thứ Sáu, 9 giờ sáng tới 3 giờ chiều"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "at the volunteer office on the ground floor, Monday to Friday, 9 a.m. to 3 p.m.",
+          "text_translation": "ở văn phòng tình nguyện tầng trệt, thứ Hai tới thứ Sáu, 9 giờ sáng tới 3 giờ chiều"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "in the pediatric unit, on weekends, when the volunteers read to the children",
+            "vi": "ở khoa nhi, vào cuối tuần, khi tình nguyện viên đọc truyện cho trẻ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "in the pediatric unit, on weekends, when the volunteers read to the children",
+          "text_translation": "ở khoa nhi, vào cuối tuần, khi tình nguyện viên đọc truyện cho trẻ"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"Visit the volunteer office on the ground floor, Monday to Friday, 9 a.m. to 3 p.m.\""
+      },
+      "audio_data": null,
+      "question_jp": "Where and when can people ask questions in person?",
+      "question_vn": "Có thể hỏi trực tiếp ở đâu và khi nào?",
+      "explanation": "\"Visit the volunteer office on the ground floor, Monday to Friday, 9 a.m. to 3 p.m.\""
+    },
+    {
+      "id": "q_mock1_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "Why did Harriet write this letter?",
+        "vi": "Vì sao bà Harriet viết lá thư này?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to invite Amy to the café on her eighteenth birthday for a special lunch",
+            "vi": "để mời Amy tới quán vào sinh nhật mười tám tuổi cho một bữa trưa đặc biệt"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to invite Amy to the café on her eighteenth birthday for a special lunch",
+          "text_translation": "để mời Amy tới quán vào sinh nhật mười tám tuổi cho một bữa trưa đặc biệt"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to apologize to Amy for being absent from her life when she was nine",
+            "vi": "để xin lỗi Amy vì đã vắng mặt trong cuộc sống của cháu lúc cháu chín tuổi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to apologize to Amy for being absent from her life when she was nine",
+          "text_translation": "để xin lỗi Amy vì đã vắng mặt trong cuộc sống của cháu lúc cháu chín tuổi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to tell Amy about the café's business plan and how many customers it had",
+            "vi": "để kể cho Amy về kế hoạch kinh doanh của quán và quán có bao nhiêu khách"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to tell Amy about the café's business plan and how many customers it had",
+          "text_translation": "để kể cho Amy về kế hoạch kinh doanh của quán và quán có bao nhiêu khách"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to share life lessons with Amy for when she is grown up and reads the letter",
+            "vi": "để chia sẻ những bài học cuộc sống cho Amy khi cháu lớn và đọc thư"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to share life lessons with Amy for when she is grown up and reads the letter",
+          "text_translation": "để chia sẻ những bài học cuộc sống cho Amy khi cháu lớn và đọc thư"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"I want to tell you a few things that took me far too long to learn.\" Thư được giữ \"until you are eighteen\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why did Harriet write this letter?",
+      "question_vn": "Vì sao bà Harriet viết lá thư này?",
+      "explanation": "\"I want to tell you a few things that took me far too long to learn.\" Thư được giữ \"until you are eighteen\"."
+    },
+    {
+      "id": "q_mock1_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "What is Amy doing when Harriet writes the letter?",
+        "vi": "Lúc bà Harriet viết thư, Amy đang làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "sleeping on Harriet's sofa with a book on her chest",
+            "vi": "ngủ trên sofa nhà bà với cuốn sách trên ngực"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "sleeping on Harriet's sofa with a book on her chest",
+          "text_translation": "ngủ trên sofa nhà bà với cuốn sách trên ngực"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "reading the letter that her grandmother left on the table",
+            "vi": "đọc lá thư bà để lại trên bàn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "reading the letter that her grandmother left on the table",
+          "text_translation": "đọc lá thư bà để lại trên bàn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "singing in the kitchen while her grandmother cooks dinner for the café",
+            "vi": "hát trong bếp khi bà nấu bữa tối cho quán"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "singing in the kitchen while her grandmother cooks dinner for the café",
+          "text_translation": "hát trong bếp khi bà nấu bữa tối cho quán"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "working at the café, where she helps to serve soup on Wednesdays",
+            "vi": "làm ở quán, nơi cháu giúp phục vụ món súp vào thứ Tư"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "working at the café, where she helps to serve soup on Wednesdays",
+          "text_translation": "làm ở quán, nơi cháu giúp phục vụ món súp vào thứ Tư"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"asleep on my sofa with a book open on your chest.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is Amy doing when Harriet writes the letter?",
+      "question_vn": "Lúc bà Harriet viết thư, Amy đang làm gì?",
+      "explanation": "\"asleep on my sofa with a book open on your chest.\""
+    },
+    {
+      "id": "q_mock1_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "What does \"If only I had kept singing!\" express?",
+        "vi": "Câu \"Giá mà bà cứ hát tiếp!\" thể hiện điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet is proud that she stopped, because her teacher was right about her voice.",
+            "vi": "Bà tự hào vì đã thôi hát, vì giáo viên đã nói đúng về giọng của bà."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Harriet is proud that she stopped, because her teacher was right about her voice.",
+          "text_translation": "Bà tự hào vì đã thôi hát, vì giáo viên đã nói đúng về giọng của bà."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet still sings professionally, and she is glad that she never gave up singing.",
+            "vi": "Bà vẫn hát chuyên nghiệp, và mừng vì chưa bao giờ bỏ hát."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Harriet still sings professionally, and she is glad that she never gave up singing.",
+          "text_translation": "Bà vẫn hát chuyên nghiệp, và mừng vì chưa bao giờ bỏ hát."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Harriet regrets that she stopped singing when she was young because of a teacher's comment.",
+            "vi": "Bà tiếc vì đã thôi hát hồi trẻ chỉ vì lời nhận xét của một giáo viên."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Harriet regrets that she stopped singing when she was young because of a teacher's comment.",
+          "text_translation": "Bà tiếc vì đã thôi hát hồi trẻ chỉ vì lời nhận xét của một giáo viên."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet wants Amy to stop singing, because the teacher said her voice was unusual.",
+            "vi": "Bà muốn Amy thôi hát, vì giáo viên nói giọng bà khác thường."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet wants Amy to stop singing, because the teacher said her voice was unusual.",
+          "text_translation": "Bà muốn Amy thôi hát, vì giáo viên nói giọng bà khác thường."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"If only I had kept singing!\" If only + quá khứ hoàn thành = tiếc nuối về quá khứ."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"If only I had kept singing!\" express?",
+      "question_vn": "Câu \"Giá mà bà cứ hát tiếp!\" thể hiện điều gì?",
+      "explanation": "\"If only I had kept singing!\" If only + quá khứ hoàn thành = tiếc nuối về quá khứ."
+    },
+    {
+      "id": "q_mock1_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "What does Harriet mean by \"nobody has died\"?",
+        "vi": "Bà Harriet muốn nói gì qua câu \"chẳng ai chết cả\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Her singing has made people ill, so they have stopped coming to her café.",
+            "vi": "Giọng hát của bà làm người ta ốm, nên họ thôi tới quán của bà."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Her singing has made people ill, so they have stopped coming to her café.",
+          "text_translation": "Giọng hát của bà làm người ta ốm, nên họ thôi tới quán của bà."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is joking that singing badly hasn't hurt anyone.",
+            "vi": "Bà đùa rằng hát dở cũng chẳng hại ai."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She is joking that singing badly hasn't hurt anyone.",
+          "text_translation": "Bà đùa rằng hát dở cũng chẳng hại ai."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Her neighbors are angry, because she sings loudly in the kitchen every morning.",
+            "vi": "Hàng xóm giận bà, vì sáng nào bà cũng hát to trong bếp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Her neighbors are angry, because she sings loudly in the kitchen every morning.",
+          "text_translation": "Hàng xóm giận bà, vì sáng nào bà cũng hát to trong bếp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She sings at funerals, and nobody there has ever complained about her voice.",
+            "vi": "Bà hát ở đám tang, và chưa ai ở đó phàn nàn về giọng bà."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She sings at funerals, and nobody there has ever complained about her voice.",
+          "text_translation": "Bà hát ở đám tang, và chưa ai ở đó phàn nàn về giọng bà."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về giọng điệu. \"I sing now, badly and happily, in my kitchen, and nobody has died.\" Bà tự giễu nhẹ để nói: làm điều mình thích dù không giỏi cũng chẳng sao."
+      },
+      "audio_data": null,
+      "question_jp": "What does Harriet mean by \"nobody has died\"?",
+      "question_vn": "Bà Harriet muốn nói gì qua câu \"chẳng ai chết cả\"?",
+      "explanation": "Câu suy luận về giọng điệu. \"I sing now, badly and happily, in my kitchen, and nobody has died.\" Bà tự giễu nhẹ để nói: làm điều mình thích dù không giỏi cũng chẳng sao."
+    },
+    {
+      "id": "q_mock1_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "What is the second lesson in the letter?",
+        "vi": "Bài học thứ hai trong thư là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Always make a business plan.",
+            "vi": "Luôn lập kế hoạch kinh doanh."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Always make a business plan.",
+          "text_translation": "Luôn lập kế hoạch kinh doanh."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Numbers are more important than people.",
+            "vi": "Con số quan trọng hơn con người."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Numbers are more important than people.",
+          "text_translation": "Con số quan trọng hơn con người."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Don't open a café.",
+            "vi": "Đừng mở quán cà phê."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Don't open a café.",
+          "text_translation": "Đừng mở quán cà phê."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "People matter more than plans.",
+            "vi": "Con người quan trọng hơn kế hoạch."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "People matter more than plans.",
+          "text_translation": "Con người quan trọng hơn kế hoạch."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"The second is that people matter more than plans.\" Bà kể kế hoạch kinh doanh đầy con số không đoán trước được những người bạn quen qua quầy."
+      },
+      "audio_data": null,
+      "question_jp": "What is the second lesson in the letter?",
+      "question_vn": "Bài học thứ hai trong thư là gì?",
+      "explanation": "\"The second is that people matter more than plans.\" Bà kể kế hoạch kinh doanh đầy con số không đoán trước được những người bạn quen qua quầy."
+    },
+    {
+      "id": "q_mock1_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "What does \"Had I known how quickly your grandfather and I would run out of time\" tell us?",
+        "vi": "Câu \"Nếu bà biết ông và bà sẽ hết thời gian bên nhau nhanh như vậy\" cho ta biết điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet didn't know that their time together would be so short, and she regrets it.",
+            "vi": "Bà Harriet đã không biết thời gian bên nhau sẽ ngắn như vậy, và bà tiếc điều đó."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Harriet didn't know that their time together would be so short, and she regrets it.",
+          "text_translation": "Bà Harriet đã không biết thời gian bên nhau sẽ ngắn như vậy, và bà tiếc điều đó."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet knew exactly how long they had, so she planned every evening carefully.",
+            "vi": "Bà biết chính xác họ có bao lâu, nên lên kế hoạch cho từng buổi tối thật kỹ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Harriet knew exactly how long they had, so she planned every evening carefully.",
+          "text_translation": "Bà biết chính xác họ có bao lâu, nên lên kế hoạch cho từng buổi tối thật kỹ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Harriet's husband is still alive, and they now argue less than before.",
+            "vi": "Chồng bà vẫn còn sống, và giờ hai người cãi nhau ít hơn trước."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Harriet's husband is still alive, and they now argue less than before.",
+          "text_translation": "Chồng bà vẫn còn sống, và giờ hai người cãi nhau ít hơn trước."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet and her husband never argued, because they were always kind to each other.",
+            "vi": "Ông bà chưa từng cãi nhau, vì lúc nào cũng tử tế với nhau"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet and her husband never argued, because they were always kind to each other.",
+          "text_translation": "Ông bà chưa từng cãi nhau, vì lúc nào cũng tử tế với nhau"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Had I known how quickly your grandfather and I would run out of time\". Đảo ngữ điều kiện loại 3 = If I had known: thực tế bà đã không biết."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Had I known how quickly your grandfather and I would run out of time\" tell us?",
+      "question_vn": "Câu \"Nếu bà biết ông và bà sẽ hết thời gian bên nhau nhanh như vậy\" cho ta biết điều gì?",
+      "explanation": "\"Had I known how quickly your grandfather and I would run out of time\". Đảo ngữ điều kiện loại 3 = If I had known: thực tế bà đã không biết."
+    },
+    {
+      "id": "q_mock1_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "What does Harriet mean by \"we wasted too many evenings being right instead of being kind\"?",
+        "vi": "Bà Harriet muốn nói gì qua câu \"ông bà đã phí quá nhiều buổi tối để giành phần đúng thay vì đối tốt với nhau\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They argued to win small points when they could have been kind to each other.",
+            "vi": "Ông bà cãi nhau để thắng những chuyện nhỏ trong khi lẽ ra có thể đối tốt với nhau."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "They argued to win small points when they could have been kind to each other.",
+          "text_translation": "Ông bà cãi nhau để thắng những chuyện nhỏ trong khi lẽ ra có thể đối tốt với nhau."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They were always right, so they never needed to listen to anyone else.",
+            "vi": "Ông bà lúc nào cũng đúng, nên không bao giờ cần nghe ai khác."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They were always right, so they never needed to listen to anyone else.",
+          "text_translation": "Ông bà lúc nào cũng đúng, nên không bao giờ cần nghe ai khác."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They worked too many evenings at the café, so they had no time to rest.",
+            "vi": "Ông bà làm việc quá nhiều buổi tối ở quán, nên không có thời gian nghỉ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They worked too many evenings at the café, so they had no time to rest.",
+          "text_translation": "Ông bà làm việc quá nhiều buổi tối ở quán, nên không có thời gian nghỉ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They were never happy, because they argued about small things every single day.",
+            "vi": "Ông bà chưa bao giờ hạnh phúc, vì ngày nào cũng cãi nhau chuyện nhỏ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They were never happy, because they argued about small things every single day.",
+          "text_translation": "Ông bà chưa bao giờ hạnh phúc, vì ngày nào cũng cãi nhau chuyện nhỏ."
+        }
+      ],
+      "evidence_segments": [
+        8,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Câu trước nói bà muốn \"argued with him less about small things\". Bà vẫn khẳng định \"We were happy\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does Harriet mean by \"we wasted too many evenings being right instead of being kind\"?",
+      "question_vn": "Bà Harriet muốn nói gì qua câu \"ông bà đã phí quá nhiều buổi tối để giành phần đúng thay vì đối tốt với nhau\"?",
+      "explanation": "Câu suy luận. Câu trước nói bà muốn \"argued with him less about small things\". Bà vẫn khẳng định \"We were happy\"."
+    },
+    {
+      "id": "q_mock1_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "Why does Harriet mention \"the quiet man who orders soup on Wednesdays\"?",
+        "vi": "Vì sao bà Harriet nhắc tới \"người đàn ông ít nói hay gọi súp thứ Tư\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to complain about her customers, who order soup and then sit for hours",
+            "vi": "để phàn nàn về khách, những người gọi súp rồi ngồi hàng giờ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to complain about her customers, who order soup and then sit for hours",
+          "text_translation": "để phàn nàn về khách, những người gọi súp rồi ngồi hàng giờ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to show that he is her husband, who always came in on Wednesdays",
+            "vi": "để cho thấy đó là chồng bà, người luôn ghé vào thứ Tư"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to show that he is her husband, who always came in on Wednesdays",
+          "text_translation": "để cho thấy đó là chồng bà, người luôn ghé vào thứ Tư"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "as an example of an ordinary person who may have a surprising story to tell",
+            "vi": "làm ví dụ về một người bình thường có thể có câu chuyện bất ngờ để kể"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "as an example of an ordinary person who may have a surprising story to tell",
+          "text_translation": "làm ví dụ về một người bình thường có thể có câu chuyện bất ngờ để kể"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to tell Amy to avoid strangers, because every one of them has a secret",
+            "vi": "để dặn Amy tránh người lạ, vì ai trong họ cũng có một bí mật"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to tell Amy to avoid strangers, because every one of them has a secret",
+          "text_translation": "để dặn Amy tránh người lạ, vì ai trong họ cũng có một bí mật"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về chức năng. Đó là một trong ba ví dụ cho lời khuyên \"be curious about everyone\": \"each of them has a story that would surprise you.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Harriet mention \"the quiet man who orders soup on Wednesdays\"?",
+      "question_vn": "Vì sao bà Harriet nhắc tới \"người đàn ông ít nói hay gọi súp thứ Tư\"?",
+      "explanation": "Câu suy luận về chức năng. Đó là một trong ba ví dụ cho lời khuyên \"be curious about everyone\": \"each of them has a story that would surprise you.\""
+    },
+    {
+      "id": "q_mock1_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "What does Harriet call \"the cheapest gift in the world\"?",
+        "vi": "Bà Harriet gọi điều gì là \"món quà rẻ nhất thế giới\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a cup of coffee shared with a friend at the café on a quiet afternoon",
+            "vi": "một tách cà phê uống cùng bạn ở quán vào một buổi chiều yên tĩnh"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a cup of coffee shared with a friend at the café on a quiet afternoon",
+          "text_translation": "một tách cà phê uống cùng bạn ở quán vào một buổi chiều yên tĩnh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a letter written by hand and sent to someone that you love",
+            "vi": "một lá thư viết tay gửi cho người bạn yêu thương"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a letter written by hand and sent to someone that you love",
+          "text_translation": "một lá thư viết tay gửi cho người bạn yêu thương"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "asking people about themselves and then listening to them properly",
+            "vi": "hỏi han người khác về chính họ rồi lắng nghe cho tử tế"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "asking people about themselves and then listening to them properly",
+          "text_translation": "hỏi han người khác về chính họ rồi lắng nghe cho tử tế"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "singing in the kitchen, badly and happily, when nobody else is at home",
+            "vi": "hát trong bếp, hát dở mà vui, khi không có ai ở nhà"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "singing in the kitchen, badly and happily, when nobody else is at home",
+          "text_translation": "hát trong bếp, hát dở mà vui, khi không có ai ở nhà"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Ask, and then listen properly. It is the cheapest gift in the world, and the one people remember longest.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Harriet call \"the cheapest gift in the world\"?",
+      "question_vn": "Bà Harriet gọi điều gì là \"món quà rẻ nhất thế giới\"?",
+      "explanation": "\"Ask, and then listen properly. It is the cheapest gift in the world, and the one people remember longest.\""
+    },
+    {
+      "id": "q_mock1_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_02",
+      "i18n": {
+        "en": "What is the tone of Harriet's letter?",
+        "vi": "Giọng điệu của lá thư thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "angry and bitter, because she feels that her life has been wasted",
+            "vi": "giận dữ và cay đắng, vì bà thấy cuộc đời mình đã uổng phí"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "angry and bitter, because she feels that her life has been wasted",
+          "text_translation": "giận dữ và cay đắng, vì bà thấy cuộc đời mình đã uổng phí"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "warm and honest, and sometimes funny even when she writes about sad things",
+            "vi": "ấm áp và chân thành, và đôi khi hài hước ngay cả khi bà viết về chuyện buồn"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "warm and honest, and sometimes funny even when she writes about sad things",
+          "text_translation": "ấm áp và chân thành, và đôi khi hài hước ngay cả khi bà viết về chuyện buồn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "cold and formal, like a letter from a business to a customer",
+            "vi": "lạnh lùng và trang trọng, như thư của một doanh nghiệp gửi khách"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "cold and formal, like a letter from a business to a customer",
+          "text_translation": "lạnh lùng và trang trọng, như thư của một doanh nghiệp gửi khách"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "worried and afraid, because she thinks that Amy will forget her",
+            "vi": "lo lắng và sợ hãi, vì bà nghĩ Amy sẽ quên bà"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "worried and afraid, because she thinks that Amy will forget her",
+          "text_translation": "lo lắng và sợ hãi, vì bà nghĩ Amy sẽ quên bà"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi giọng điệu. \"Whatever you decide to become, I am already proud of you.\" Bà kể cả tiếc nuối thật lòng lẫn những câu đùa về tiếng hát của mình."
+      },
+      "audio_data": null,
+      "question_jp": "What is the tone of Harriet's letter?",
+      "question_vn": "Giọng điệu của lá thư thế nào?",
+      "explanation": "Câu hỏi giọng điệu. \"Whatever you decide to become, I am already proud of you.\" Bà kể cả tiếc nuối thật lòng lẫn những câu đùa về tiếng hát của mình."
+    },
+    {
+      "id": "q_mock1_021",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "What is the article mainly about?",
+        "vi": "Bài báo chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "different scientific ideas about why humans and animals yawn",
+            "vi": "các ý tưởng khoa học khác nhau về vì sao người và động vật ngáp"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "different scientific ideas about why humans and animals yawn",
+          "text_translation": "các ý tưởng khoa học khác nhau về vì sao người và động vật ngáp"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "how to stop yawning in class when you are tired or bored",
+            "vi": "cách nhịn ngáp trong lớp khi bạn mệt hoặc chán"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "how to stop yawning in class when you are tired or bored",
+          "text_translation": "cách nhịn ngáp trong lớp khi bạn mệt hoặc chán"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "why dogs are clever enough to catch yawns from their owners",
+            "vi": "vì sao chó đủ thông minh để bị lây cái ngáp từ chủ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "why dogs are clever enough to catch yawns from their owners",
+          "text_translation": "vì sao chó đủ thông minh để bị lây cái ngáp từ chủ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "how babies grow in the weeks before they are born",
+            "vi": "em bé lớn lên thế nào trong những tuần trước khi chào đời"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "how babies grow in the weeks before they are born",
+          "text_translation": "em bé lớn lên thế nào trong những tuần trước khi chào đời"
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"one of the most common things that humans do, and one of the least understood.\" Bài đi qua thuyết oxy, thuyết làm mát não và hiện tượng lây ngáp."
+      },
+      "audio_data": null,
+      "question_jp": "What is the article mainly about?",
+      "question_vn": "Bài báo chủ yếu nói về điều gì?",
+      "explanation": "\"one of the most common things that humans do, and one of the least understood.\" Bài đi qua thuyết oxy, thuyết làm mát não và hiện tượng lây ngáp."
+    },
+    {
+      "id": "q_mock1_022",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "When do humans first start yawning?",
+        "vi": "Con người bắt đầu ngáp từ khi nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "as soon as they are born",
+            "vi": "ngay khi chào đời"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "as soon as they are born",
+          "text_translation": "ngay khi chào đời"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "before they are born, as scans show",
+            "vi": "từ trước khi chào đời, như ảnh siêu âm cho thấy"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "before they are born, as scans show",
+          "text_translation": "từ trước khi chào đời, như ảnh siêu âm cho thấy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "when they start school",
+            "vi": "khi bắt đầu đi học"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "when they start school",
+          "text_translation": "khi bắt đầu đi học"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "when they are three years old",
+            "vi": "khi được ba tuổi"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "when they are three years old",
+          "text_translation": "khi được ba tuổi"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"babies have been seen yawning on ultrasound scans when they are only about three months into development.\""
+      },
+      "audio_data": null,
+      "question_jp": "When do humans first start yawning?",
+      "question_vn": "Con người bắt đầu ngáp từ khi nào?",
+      "explanation": "\"babies have been seen yawning on ultrasound scans when they are only about three months into development.\""
+    },
+    {
+      "id": "q_mock1_023",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "Why does the oxygen theory not seem to be correct?",
+        "vi": "Vì sao thuyết oxy có vẻ không đúng?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because volunteers yawned just as often with more or less oxygen",
+            "vi": "vì tình nguyện viên vẫn ngáp nhiều như vậy dù có thêm hay bớt oxy"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because volunteers yawned just as often with more or less oxygen",
+          "text_translation": "vì tình nguyện viên vẫn ngáp nhiều như vậy dù có thêm hay bớt oxy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because animals with backbones don't need extra oxygen when they yawn",
+            "vi": "vì động vật có xương sống không cần thêm oxy khi ngáp"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because animals with backbones don't need extra oxygen when they yawn",
+          "text_translation": "vì động vật có xương sống không cần thêm oxy khi ngáp"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because nobody has tested it with volunteers in a laboratory yet",
+            "vi": "vì chưa ai kiểm chứng nó với tình nguyện viên trong phòng thí nghiệm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because nobody has tested it with volunteers in a laboratory yet",
+          "text_translation": "vì chưa ai kiểm chứng nó với tình nguyện viên trong phòng thí nghiệm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because yawning increases the amount of oxygen in the blood",
+            "vi": "vì ngáp làm tăng lượng oxy trong máu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because yawning increases the amount of oxygen in the blood",
+          "text_translation": "vì ngáp làm tăng lượng oxy trong máu"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"they found that the volunteers yawned just as often.\" Nếu ngáp là do thiếu oxy, thêm oxy thì phải ngáp ít đi."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the oxygen theory not seem to be correct?",
+      "question_vn": "Vì sao thuyết oxy có vẻ không đúng?",
+      "explanation": "\"they found that the volunteers yawned just as often.\" Nếu ngáp là do thiếu oxy, thêm oxy thì phải ngáp ít đi."
+    },
+    {
+      "id": "q_mock1_024",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "According to the newer idea, how might yawning cool the brain?",
+        "vi": "Theo ý tưởng mới hơn, ngáp có thể làm mát não thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "by making us feel sleepy, so that the brain can rest and slowly become cooler",
+            "vi": "bằng cách làm ta buồn ngủ, để não nghỉ ngơi và dần mát đi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "by making us feel sleepy, so that the brain can rest and slowly become cooler",
+          "text_translation": "bằng cách làm ta buồn ngủ, để não nghỉ ngơi và dần mát đi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "by stopping the blood flow around the head until the brain has become cooler",
+            "vi": "bằng cách chặn máu lưu thông quanh đầu cho tới khi não mát đi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "by stopping the blood flow around the head until the brain has become cooler",
+          "text_translation": "bằng cách chặn máu lưu thông quanh đầu cho tới khi não mát đi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "by making us drink cold water, which carries the heat away from the head",
+            "vi": "bằng cách khiến ta uống nước lạnh, mang nhiệt ra khỏi đầu"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "by making us drink cold water, which carries the heat away from the head",
+          "text_translation": "bằng cách khiến ta uống nước lạnh, mang nhiệt ra khỏi đầu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "by pulling in a lot of air and increasing blood flow around the head",
+            "vi": "bằng cách hít nhiều không khí vào và tăng lượng máu lưu thông quanh đầu"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "by pulling in a lot of air and increasing blood flow around the head",
+          "text_translation": "bằng cách hít nhiều không khí vào và tăng lượng máu lưu thông quanh đầu"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"A deep yawn pulls a large amount of air into the mouth and increases blood flow around the head, which may carry heat away.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to the newer idea, how might yawning cool the brain?",
+      "question_vn": "Theo ý tưởng mới hơn, ngáp có thể làm mát não thế nào?",
+      "explanation": "\"A deep yawn pulls a large amount of air into the mouth and increases blood flow around the head, which may carry heat away.\""
+    },
+    {
+      "id": "q_mock1_025",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "Which finding supports the idea that yawning cools the brain?",
+        "vi": "Phát hiện nào ủng hộ ý tưởng ngáp làm mát não?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "People yawn more in very hot weather than they do in mild or cold weather.",
+            "vi": "Người ta ngáp nhiều hơn khi trời rất nóng so với khi dịu mát hoặc lạnh"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "People yawn more in very hot weather than they do in mild or cold weather.",
+          "text_translation": "Người ta ngáp nhiều hơn khi trời rất nóng so với khi dịu mát hoặc lạnh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "People yawn less when they hold something cold against their forehead, in studies.",
+            "vi": "Trong các nghiên cứu, người ta ngáp ít hơn khi áp vật lạnh lên trán."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "People yawn less when they hold something cold against their forehead, in studies.",
+          "text_translation": "Trong các nghiên cứu, người ta ngáp ít hơn khi áp vật lạnh lên trán."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Fish never yawn, which shows that they do not need to cool their brains.",
+            "vi": "Cá không bao giờ ngáp, cho thấy chúng không cần làm mát não."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Fish never yawn, which shows that they do not need to cool their brains.",
+          "text_translation": "Cá không bao giờ ngáp, cho thấy chúng không cần làm mát não."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "People yawn more when they are given air with extra oxygen than with less.",
+            "vi": "Người ta ngáp nhiều hơn khi được cho thở khí nhiều oxy hơn là ít oxy."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "People yawn more when they are given air with extra oxygen than with less.",
+          "text_translation": "Người ta ngáp nhiều hơn khi được cho thở khí nhiều oxy hơn là ít oxy."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"people yawn less when they hold something cold against their forehead\". Họ ngáp nhiều hơn khi thời tiết \"mild\", không phải khi rất nóng."
+      },
+      "audio_data": null,
+      "question_jp": "Which finding supports the idea that yawning cools the brain?",
+      "question_vn": "Phát hiện nào ủng hộ ý tưởng ngáp làm mát não?",
+      "explanation": "\"people yawn less when they hold something cold against their forehead\". Họ ngáp nhiều hơn khi thời tiết \"mild\", không phải khi rất nóng."
+    },
+    {
+      "id": "q_mock1_026",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "Why does the writer say \"you may have felt the urge already while reading this article\"?",
+        "vi": "Vì sao người viết nói \"có lẽ bạn đã thấy buồn ngáp trong lúc đọc bài này\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the article is boring and the writer expects readers to fall asleep",
+            "vi": "vì bài báo chán và người viết mong người đọc ngủ gật"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because the article is boring and the writer expects readers to fall asleep",
+          "text_translation": "vì bài báo chán và người viết mong người đọc ngủ gật"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to show the reader that even reading about yawning can make people yawn",
+            "vi": "để cho người đọc thấy chỉ đọc về ngáp cũng có thể khiến người ta ngáp"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to show the reader that even reading about yawning can make people yawn",
+          "text_translation": "để cho người đọc thấy chỉ đọc về ngáp cũng có thể khiến người ta ngáp"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the reader is tired after a long day at school or at work",
+            "vi": "vì người đọc mệt sau một ngày dài ở trường hay ở chỗ làm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the reader is tired after a long day at school or at work",
+          "text_translation": "vì người đọc mệt sau một ngày dài ở trường hay ở chỗ làm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to ask the reader to stop reading now, before the article becomes too boring",
+            "vi": "để bảo người đọc dừng đọc ngay, trước khi bài báo trở nên quá chán"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to ask the reader to stop reading now, before the article becomes too boring",
+          "text_translation": "để bảo người đọc dừng đọc ngay, trước khi bài báo trở nên quá chán"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về mục đích. Người viết dùng chính người đọc làm ví dụ cho ý \"even reading about a yawn can make us yawn\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer say \"you may have felt the urge already while reading this article\"?",
+      "question_vn": "Vì sao người viết nói \"có lẽ bạn đã thấy buồn ngáp trong lúc đọc bài này\"?",
+      "explanation": "Câu suy luận về mục đích. Người viết dùng chính người đọc làm ví dụ cho ý \"even reading about a yawn can make us yawn\"."
+    },
+    {
+      "id": "q_mock1_027",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "From whom are we most likely to catch a yawn?",
+        "vi": "Ta dễ bị lây ngáp nhất từ ai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "strangers who are sitting near us on a bus or a train",
+            "vi": "người lạ ngồi gần ta trên xe buýt hay tàu"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "strangers who are sitting near us on a bus or a train",
+          "text_translation": "người lạ ngồi gần ta trên xe buýt hay tàu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "animals that live with us, such as dogs and cats",
+            "vi": "động vật sống cùng ta, như chó và mèo"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "animals that live with us, such as dogs and cats",
+          "text_translation": "động vật sống cùng ta, như chó và mèo"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "family members and close friends more than from strangers",
+            "vi": "người nhà và bạn thân nhiều hơn là người lạ"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "family members and close friends more than from strangers",
+          "text_translation": "người nhà và bạn thân nhiều hơn là người lạ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "teachers who yawn while they are talking to the class",
+            "vi": "giáo viên ngáp trong lúc nói với cả lớp"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "teachers who yawn while they are talking to the class",
+          "text_translation": "giáo viên ngáp trong lúc nói với cả lớp"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"We are more likely to catch a yawn from family and close friends than from strangers\"."
+      },
+      "audio_data": null,
+      "question_jp": "From whom are we most likely to catch a yawn?",
+      "question_vn": "Ta dễ bị lây ngáp nhất từ ai?",
+      "explanation": "\"We are more likely to catch a yawn from family and close friends than from strangers\"."
+    },
+    {
+      "id": "q_mock1_028",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "What do many researchers think contagious yawning is connected to?",
+        "vi": "Nhiều nhà nghiên cứu cho rằng lây ngáp liên quan tới điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "hunger, because people who are hungry yawn when they see food",
+            "vi": "đói, vì người đang đói ngáp khi nhìn thấy đồ ăn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "hunger, because people who are hungry yawn when they see food",
+          "text_translation": "đói, vì người đang đói ngáp khi nhìn thấy đồ ăn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "intelligence, because clever people yawn more than other people",
+            "vi": "trí thông minh, vì người thông minh ngáp nhiều hơn người khác"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "intelligence, because clever people yawn more than other people",
+          "text_translation": "trí thông minh, vì người thông minh ngáp nhiều hơn người khác"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "lack of sleep, because tired people yawn whenever somebody else does",
+            "vi": "thiếu ngủ, vì người mệt ngáp mỗi khi ai đó ngáp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "lack of sleep, because tired people yawn whenever somebody else does",
+          "text_translation": "thiếu ngủ, vì người mệt ngáp mỗi khi ai đó ngáp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "empathy, our ability to share the feelings of others",
+            "vi": "sự đồng cảm, khả năng chia sẻ cảm xúc của người khác"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "empathy, our ability to share the feelings of others",
+          "text_translation": "sự đồng cảm, khả năng chia sẻ cảm xúc của người khác"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"connected to empathy, our ability to share the feelings of others, although the link is still being studied.\""
+      },
+      "audio_data": null,
+      "question_jp": "What do many researchers think contagious yawning is connected to?",
+      "question_vn": "Nhiều nhà nghiên cứu cho rằng lây ngáp liên quan tới điều gì?",
+      "explanation": "\"connected to empathy, our ability to share the feelings of others, although the link is still being studied.\""
+    },
+    {
+      "id": "q_mock1_029",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "In \"although the link is still being studied\", what is the writer showing?",
+        "vi": "Trong cụm \"dù mối liên hệ này vẫn đang được nghiên cứu\", người viết đang cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "that the idea is completely proven and no more studies are needed",
+            "vi": "rằng ý tưởng đã được chứng minh hoàn toàn và không cần nghiên cứu thêm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "that the idea is completely proven and no more studies are needed",
+          "text_translation": "rằng ý tưởng đã được chứng minh hoàn toàn và không cần nghiên cứu thêm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that the writer doesn't believe it and thinks that it is nonsense",
+            "vi": "rằng người viết không tin và cho đó là vô lý"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "that the writer doesn't believe it and thinks that it is nonsense",
+          "text_translation": "rằng người viết không tin và cho đó là vô lý"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that the connection is not yet certain, and more research is needed",
+            "vi": "rằng mối liên hệ này chưa chắc chắn, và cần nghiên cứu thêm"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "that the connection is not yet certain, and more research is needed",
+          "text_translation": "rằng mối liên hệ này chưa chắc chắn, và cần nghiên cứu thêm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that scientists have stopped studying it because the results were unclear",
+            "vi": "rằng các nhà khoa học đã thôi nghiên cứu vì kết quả không rõ ràng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "that scientists have stopped studying it because the results were unclear",
+          "text_translation": "rằng các nhà khoa học đã thôi nghiên cứu vì kết quả không rõ ràng"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi chức năng ngôn ngữ. Is still being studied (bị động tiếp diễn) cho thấy nghiên cứu đang diễn ra, chưa có kết luận."
+      },
+      "audio_data": null,
+      "question_jp": "In \"although the link is still being studied\", what is the writer showing?",
+      "question_vn": "Trong cụm \"dù mối liên hệ này vẫn đang được nghiên cứu\", người viết đang cho thấy điều gì?",
+      "explanation": "Câu hỏi chức năng ngôn ngữ. Is still being studied (bị động tiếp diễn) cho thấy nghiên cứu đang diễn ra, chưa có kết luận."
+    },
+    {
+      "id": "q_mock1_030",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_03",
+      "i18n": {
+        "en": "What is the purpose of the last paragraph?",
+        "vi": "Đoạn cuối có mục đích gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to give a light, practical conclusion based on the ideas in the article",
+            "vi": "để đưa ra một kết luận nhẹ nhàng, thực tế dựa trên các ý trong bài"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to give a light, practical conclusion based on the ideas in the article",
+          "text_translation": "để đưa ra một kết luận nhẹ nhàng, thực tế dựa trên các ý trong bài"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to introduce a new theory about why we yawn when we are in a group",
+            "vi": "để giới thiệu một thuyết mới về vì sao ta ngáp khi ở trong nhóm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to introduce a new theory about why we yawn when we are in a group",
+          "text_translation": "để giới thiệu một thuyết mới về vì sao ta ngáp khi ở trong nhóm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to criticize people who yawn in meetings and in other people's houses",
+            "vi": "để chê những người hay ngáp trong cuộc họp và ở nhà người khác"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to criticize people who yawn in meetings and in other people's houses",
+          "text_translation": "để chê những người hay ngáp trong cuộc họp và ở nhà người khác"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to tell readers to see a doctor if they yawn more than ten times every single day",
+            "vi": "để khuyên người đọc đi khám nếu ngáp hơn mười lần mỗi ngày"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to tell readers to see a doctor if they yawn more than ten times every single day",
+          "text_translation": "để khuyên người đọc đi khám nếu ngáp hơn mười lần mỗi ngày"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"don't be offended. They may simply be cooling their brain, or showing, without knowing it, that they feel close to you.\" Đoạn cuối gói lại hai ý chính: làm mát não và đồng cảm."
+      },
+      "audio_data": null,
+      "question_jp": "What is the purpose of the last paragraph?",
+      "question_vn": "Đoạn cuối có mục đích gì?",
+      "explanation": "\"don't be offended. They may simply be cooling their brain, or showing, without knowing it, that they feel close to you.\" Đoạn cuối gói lại hai ý chính: làm mát não và đồng cảm."
+    },
+    {
+      "id": "q_mock1_031",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "What is the main idea of the article?",
+        "vi": "Ý chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "People are reading more deeply than ever, because they have so many new things to read.",
+            "vi": "Người ta đọc sâu hơn bao giờ hết, vì có rất nhiều thứ mới để đọc."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "People are reading more deeply than ever, because they have so many new things to read.",
+          "text_translation": "Người ta đọc sâu hơn bao giờ hết, vì có rất nhiều thứ mới để đọc."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Audiobooks should be banned, because they are not a real way of reading books.",
+            "vi": "Nên cấm sách nói, vì chúng không phải cách đọc sách thật sự."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Audiobooks should be banned, because they are not a real way of reading books.",
+          "text_translation": "Nên cấm sách nói, vì chúng không phải cách đọc sách thật sự."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Reading is not dying, but deep reading is harder because of constant interruptions.",
+            "vi": "Việc đọc không chết, nhưng đọc sâu khó hơn vì bị ngắt quãng liên tục."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Reading is not dying, but deep reading is harder because of constant interruptions.",
+          "text_translation": "Việc đọc không chết, nhưng đọc sâu khó hơn vì bị ngắt quãng liên tục."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Phones are better than books, because they let us read many short texts every day.",
+            "vi": "Điện thoại tốt hơn sách, vì chúng cho ta đọc nhiều đoạn ngắn mỗi ngày."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Phones are better than books, because they let us read many short texts every day.",
+          "text_translation": "Điện thoại tốt hơn sách, vì chúng cho ta đọc nhiều đoạn ngắn mỗi ngày."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Reading is not dying, but the conditions that allow deep reading, such as long periods without interruption, are becoming rarer.\" Đây là quan điểm của người viết."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main idea of the article?",
+      "question_vn": "Ý chính của bài báo là gì?",
+      "explanation": "\"Reading is not dying, but the conditions that allow deep reading, such as long periods without interruption, are becoming rarer.\" Đây là quan điểm của người viết."
+    },
+    {
+      "id": "q_mock1_032",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "What did the study published in 2025 find?",
+        "vi": "Nghiên cứu công bố năm 2025 phát hiện gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The share of American adults who read for pleasure each day fell by about 40 percent.",
+            "vi": "Tỉ lệ người trưởng thành Mỹ đọc sách giải trí mỗi ngày giảm khoảng 40 phần trăm."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The share of American adults who read for pleasure each day fell by about 40 percent.",
+          "text_translation": "Tỉ lệ người trưởng thành Mỹ đọc sách giải trí mỗi ngày giảm khoảng 40 phần trăm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Adults read 40 percent more books than they did in 2004, and most of them read on phones.",
+            "vi": "Người lớn đọc nhiều sách hơn 40 phần trăm so với năm 2004, và phần lớn đọc trên điện thoại."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Adults read 40 percent more books than they did in 2004, and most of them read on phones.",
+          "text_translation": "Người lớn đọc nhiều sách hơn 40 phần trăm so với năm 2004, và phần lớn đọc trên điện thoại."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Only children read for pleasure now, and adults have stopped reading books for fun.",
+            "vi": "Giờ chỉ trẻ em đọc sách giải trí, còn người lớn đã thôi đọc sách cho vui."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Only children read for pleasure now, and adults have stopped reading books for fun.",
+          "text_translation": "Giờ chỉ trẻ em đọc sách giải trí, còn người lớn đã thôi đọc sách cho vui."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Nobody reads messages anymore, because people prefer to listen to audiobooks.",
+            "vi": "Không ai đọc tin nhắn nữa, vì người ta thích nghe sách nói hơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Nobody reads messages anymore, because people prefer to listen to audiobooks.",
+          "text_translation": "Không ai đọc tin nhắn nữa, vì người ta thích nghe sách nói hơn."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"the share of American adults who read for pleasure on a typical day fell by about 40 percent between 2004 and 2023.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did the study published in 2025 find?",
+      "question_vn": "Nghiên cứu công bố năm 2025 phát hiện gì?",
+      "explanation": "\"the share of American adults who read for pleasure on a typical day fell by about 40 percent between 2004 and 2023.\""
+    },
+    {
+      "id": "q_mock1_033",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "What does \"we are reading more, but reading less deeply\" mean?",
+        "vi": "Câu \"ta đọc nhiều hơn, nhưng đọc kém sâu hơn\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "We read fewer words than in the past, but we understand all of them much better.",
+            "vi": "Ta đọc ít chữ hơn trước, nhưng hiểu tất cả tốt hơn nhiều."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "We read fewer words than in the past, but we understand all of them much better.",
+          "text_translation": "Ta đọc ít chữ hơn trước, nhưng hiểu tất cả tốt hơn nhiều."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "We read longer books, but we read them more slowly than people did before.",
+            "vi": "Ta đọc sách dài hơn, nhưng đọc chậm hơn so với người trước đây."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "We read longer books, but we read them more slowly than people did before.",
+          "text_translation": "Ta đọc sách dài hơn, nhưng đọc chậm hơn so với người trước đây."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "We read many short texts, but spend less time with long, focused reading.",
+            "vi": "Ta đọc nhiều đoạn chữ ngắn, nhưng ít dành thời gian đọc dài và tập trung."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "We read many short texts, but spend less time with long, focused reading.",
+          "text_translation": "Ta đọc nhiều đoạn chữ ngắn, nhưng ít dành thời gian đọc dài và tập trung."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "We read only in the evening, because we are too busy during the daytime.",
+            "vi": "Ta chỉ đọc buổi tối, vì ban ngày quá bận."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "We read only in the evening, because we are too busy during the daytime.",
+          "text_translation": "Ta chỉ đọc buổi tối, vì ban ngày quá bận."
+        }
+      ],
+      "evidence_segments": [
+        4,
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Đoạn đầu kể \"messages, captions, headlines, comments\" (nhiều chữ), nhưng đọc sách giải trí lại giảm."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"we are reading more, but reading less deeply\" mean?",
+      "question_vn": "Câu \"ta đọc nhiều hơn, nhưng đọc kém sâu hơn\" nghĩa là gì?",
+      "explanation": "Câu suy luận. Đoạn đầu kể \"messages, captions, headlines, comments\" (nhiều chữ), nhưng đọc sách giải trí lại giảm."
+    },
+    {
+      "id": "q_mock1_034",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "Why are some researchers worried?",
+        "vi": "Vì sao một số nhà nghiên cứu lo ngại?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Books are too expensive, so many young people can no longer afford to buy them.",
+            "vi": "Sách quá đắt, nên nhiều người trẻ không còn đủ tiền mua"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Books are too expensive, so many young people can no longer afford to buy them.",
+          "text_translation": "Sách quá đắt, nên nhiều người trẻ không còn đủ tiền mua"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Slow, focused attention may be a skill that weakens if it is not used regularly.",
+            "vi": "Sự chú ý chậm rãi, tập trung có thể là một kỹ năng yếu đi nếu không dùng thường xuyên."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Slow, focused attention may be a skill that weakens if it is not used regularly.",
+          "text_translation": "Sự chú ý chậm rãi, tập trung có thể là một kỹ năng yếu đi nếu không dùng thường xuyên."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Libraries are closing in many towns, so people have nowhere to borrow books.",
+            "vi": "Thư viện đang đóng cửa ở nhiều thị trấn, nên người ta không có chỗ mượn sách."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Libraries are closing in many towns, so people have nowhere to borrow books.",
+          "text_translation": "Thư viện đang đóng cửa ở nhiều thị trấn, nên người ta không có chỗ mượn sách."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Novels are getting shorter every year, so authors have less to say to readers.",
+            "vi": "Tiểu thuyết ngắn lại mỗi năm, nên tác giả có ít điều để nói với người đọc."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Novels are getting shorter every year, so authors have less to say to readers.",
+          "text_translation": "Tiểu thuyết ngắn lại mỗi năm, nên tác giả có ít điều để nói với người đọc."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"many believe that this kind of slow, focused attention is a skill that weakens if it is not used.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why are some researchers worried?",
+      "question_vn": "Vì sao một số nhà nghiên cứu lo ngại?",
+      "explanation": "\"many believe that this kind of slow, focused attention is a skill that weakens if it is not used.\""
+    },
+    {
+      "id": "q_mock1_035",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "Which of these is an argument that \"the picture is not so simple\"?",
+        "vi": "Lý lẽ nào cho rằng \"bức tranh không đơn giản như vậy\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Audiobooks are more popular than ever, and some young people find novels on social media.",
+            "vi": "Sách nói phổ biến hơn bao giờ hết, và một số người trẻ tìm thấy tiểu thuyết trên mạng xã hội."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Audiobooks are more popular than ever, and some young people find novels on social media.",
+          "text_translation": "Sách nói phổ biến hơn bao giờ hết, và một số người trẻ tìm thấy tiểu thuyết trên mạng xã hội."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Students increasingly find it hard to finish a novel, and many adults skim articles.",
+            "vi": "Học sinh ngày càng thấy khó đọc hết tiểu thuyết, và nhiều người lớn đọc lướt bài báo."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Students increasingly find it hard to finish a novel, and many adults skim articles.",
+          "text_translation": "Học sinh ngày càng thấy khó đọc hết tiểu thuyết, và nhiều người lớn đọc lướt bài báo."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Adults skim articles instead of reading them to the end, and say so themselves.",
+            "vi": "Người lớn đọc lướt bài thay vì đọc đến cuối, và tự thừa nhận điều đó."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Adults skim articles instead of reading them to the end, and say so themselves.",
+          "text_translation": "Người lớn đọc lướt bài thay vì đọc đến cuối, và tự thừa nhận điều đó."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Phones buzz every few minutes, so a book cannot compete with them for attention.",
+            "vi": "Điện thoại rung mỗi vài phút, nên sách không cạnh tranh nổi về sự chú ý."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Phones buzz every few minutes, so a book cannot compete with them for attention.",
+          "text_translation": "Điện thoại rung mỗi vài phút, nên sách không cạnh tranh nổi về sự chú ý."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Audiobooks have never been more popular\" và cộng đồng mạng giúp người trẻ khám phá sách. Ba phương án còn lại là bằng chứng cho phía lo ngại."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is an argument that \"the picture is not so simple\"?",
+      "question_vn": "Lý lẽ nào cho rằng \"bức tranh không đơn giản như vậy\"?",
+      "explanation": "\"Audiobooks have never been more popular\" và cộng đồng mạng giúp người trẻ khám phá sách. Ba phương án còn lại là bằng chứng cho phía lo ngại."
+    },
+    {
+      "id": "q_mock1_036",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "Why do the writers who disagree mention the printing press and the radio?",
+        "vi": "Vì sao những người phản biện nhắc tới máy in và đài phát thanh?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that old technology is better, because books and radios were made with more care",
+            "vi": "để cho thấy công nghệ cũ tốt hơn, vì sách và đài được làm cẩn thận hơn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to show that old technology is better, because books and radios were made with more care",
+          "text_translation": "để cho thấy công nghệ cũ tốt hơn, vì sách và đài được làm cẩn thận hơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to explain how books are made and how radios help people to learn about them",
+            "vi": "để giải thích sách được làm ra thế nào và đài giúp người ta tìm hiểu về chúng ra sao"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to explain how books are made and how radios help people to learn about them",
+          "text_translation": "để giải thích sách được làm ra thế nào và đài giúp người ta tìm hiểu về chúng ra sao"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to say that radios destroyed reading, and that printing presses made it much worse",
+            "vi": "để nói đài phát thanh đã huỷ hoại việc đọc, và máy in còn làm nó tệ hơn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to say that radios destroyed reading, and that printing presses made it much worse",
+          "text_translation": "để nói đài phát thanh đã huỷ hoại việc đọc, và máy in còn làm nó tệ hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to show that new technology has often been blamed for killing reading, which has survived",
+            "vi": "để cho thấy công nghệ mới thường bị đổ lỗi là giết chết việc đọc, mà việc đọc vẫn tồn tại"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to show that new technology has often been blamed for killing reading, which has survived",
+          "text_translation": "để cho thấy công nghệ mới thường bị đổ lỗi là giết chết việc đọc, mà việc đọc vẫn tồn tại"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về chức năng. \"has been accused of destroying reading, and reading has survived them all.\" Lịch sử được dùng làm lý lẽ để bớt lo."
+      },
+      "audio_data": null,
+      "question_jp": "Why do the writers who disagree mention the printing press and the radio?",
+      "question_vn": "Vì sao những người phản biện nhắc tới máy in và đài phát thanh?",
+      "explanation": "Câu suy luận về chức năng. \"has been accused of destroying reading, and reading has survived them all.\" Lịch sử được dùng làm lý lẽ để bớt lo."
+    },
+    {
+      "id": "q_mock1_037",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "What is the writer's own opinion?",
+        "vi": "Quan điểm riêng của người viết là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Only the researchers are right.",
+            "vi": "Chỉ các nhà nghiên cứu đúng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Only the researchers are right.",
+          "text_translation": "Chỉ các nhà nghiên cứu đúng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Nobody is right.",
+            "vi": "Không ai đúng cả."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Nobody is right.",
+          "text_translation": "Không ai đúng cả."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both sides are partly right.",
+            "vi": "Cả hai phía đều đúng một phần."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Both sides are partly right.",
+          "text_translation": "Cả hai phía đều đúng một phần."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Reading is dying.",
+            "vi": "Việc đọc đang chết."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Reading is dying.",
+          "text_translation": "Việc đọc đang chết."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"In my view, both sides are partly right.\" In my view mở đầu ý kiến riêng của người viết."
+      },
+      "audio_data": null,
+      "question_jp": "What is the writer's own opinion?",
+      "question_vn": "Quan điểm riêng của người viết là gì?",
+      "explanation": "\"In my view, both sides are partly right.\" In my view mở đầu ý kiến riêng của người viết."
+    },
+    {
+      "id": "q_mock1_038",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "According to the writer, what is the real problem?",
+        "vi": "Theo người viết, vấn đề thật sự là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "People have stopped loving stories and prefer to watch videos on their phones.",
+            "vi": "Người ta thôi yêu những câu chuyện và thích xem video trên điện thoại hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "People have stopped loving stories and prefer to watch videos on their phones.",
+          "text_translation": "Người ta thôi yêu những câu chuyện và thích xem video trên điện thoại hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Phones are designed to interrupt us, and books cannot compete with them for our attention.",
+            "vi": "Điện thoại được thiết kế để ngắt quãng ta, và sách không cạnh tranh nổi về sự chú ý."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Phones are designed to interrupt us, and books cannot compete with them for our attention.",
+          "text_translation": "Điện thoại được thiết kế để ngắt quãng ta, và sách không cạnh tranh nổi về sự chú ý."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Books are too long, so most people cannot finish them in only twenty minutes.",
+            "vi": "Sách quá dài, nên phần lớn người ta không thể đọc hết chỉ trong hai mươi phút."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Books are too long, so most people cannot finish them in only twenty minutes.",
+          "text_translation": "Sách quá dài, nên phần lớn người ta không thể đọc hết chỉ trong hai mươi phút."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Schools don't teach reading, so students never learn to enjoy long books.",
+            "vi": "Trường học không dạy đọc, nên học sinh không bao giờ biết thích sách dài."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Schools don't teach reading, so students never learn to enjoy long books.",
+          "text_translation": "Trường học không dạy đọc, nên học sinh không bao giờ biết thích sách dài."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"The problem is not that we have stopped loving stories, but that our phones are designed to interrupt us\". Cấu trúc not that …, but that … phủ nhận một ý rồi nêu ý đúng."
+      },
+      "audio_data": null,
+      "question_jp": "According to the writer, what is the real problem?",
+      "question_vn": "Theo người viết, vấn đề thật sự là gì?",
+      "explanation": "\"The problem is not that we have stopped loving stories, but that our phones are designed to interrupt us\". Cấu trúc not that …, but that … phủ nhận một ý rồi nêu ý đúng."
+    },
+    {
+      "id": "q_mock1_039",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "What solution does the writer suggest?",
+        "vi": "Người viết gợi ý giải pháp gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "buying many more books and keeping them on a shelf next to the bed",
+            "vi": "mua nhiều sách hơn nữa và để chúng trên giá cạnh giường"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "buying many more books and keeping them on a shelf next to the bed",
+          "text_translation": "mua nhiều sách hơn nữa và để chúng trên giá cạnh giường"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "listening only to audiobooks while walking or traveling to work every day",
+            "vi": "chỉ nghe sách nói khi đi bộ hoặc đi làm mỗi ngày"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "listening only to audiobooks while walking or traveling to work every day",
+          "text_translation": "chỉ nghe sách nói khi đi bộ hoặc đi làm mỗi ngày"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "closing all social media accounts for a month and reading every evening",
+            "vi": "xoá mọi tài khoản mạng xã hội trong một tháng và đọc sách mỗi tối"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "closing all social media accounts for a month and reading every evening",
+          "text_translation": "xoá mọi tài khoản mạng xã hội trong một tháng và đọc sách mỗi tối"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "reading for twenty minutes every day with the phone in another room",
+            "vi": "đọc hai mươi phút mỗi ngày, điện thoại để ở phòng khác"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "reading for twenty minutes every day with the phone in another room",
+          "text_translation": "đọc hai mươi phút mỗi ngày, điện thoại để ở phòng khác"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"Twenty minutes a day, with the phone in another room, is enough to rebuild the habit.\""
+      },
+      "audio_data": null,
+      "question_jp": "What solution does the writer suggest?",
+      "question_vn": "Người viết gợi ý giải pháp gì?",
+      "explanation": "\"Twenty minutes a day, with the phone in another room, is enough to rebuild the habit.\""
+    },
+    {
+      "id": "q_mock1_040",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_mock1_04",
+      "i18n": {
+        "en": "What does the writer mean by \"choosing where to put it may be one of the most important decisions that we make\"?",
+        "vi": "Người viết muốn nói gì qua câu \"việc chọn đặt sự chú ý ấy vào đâu có lẽ là một trong những quyết định quan trọng nhất ta đưa ra\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "We should choose a good place to keep our books so that we can find them easily.",
+            "vi": "Nên chọn chỗ tốt để cất sách sao cho dễ tìm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "We should choose a good place to keep our books so that we can find them easily.",
+          "text_translation": "Nên chọn chỗ tốt để cất sách sao cho dễ tìm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Deciding what to give our attention to has a big effect on the way our lives turn out.",
+            "vi": "Quyết định dành sự chú ý cho điều gì ảnh hưởng lớn tới cuộc sống của ta rốt cuộc ra sao."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Deciding what to give our attention to has a big effect on the way our lives turn out.",
+          "text_translation": "Quyết định dành sự chú ý cho điều gì ảnh hưởng lớn tới cuộc sống của ta rốt cuộc ra sao."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Phones should be kept in the kitchen, where the family can use them together.",
+            "vi": "Điện thoại nên để ở bếp, nơi cả nhà có thể dùng chung."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Phones should be kept in the kitchen, where the family can use them together.",
+          "text_translation": "Điện thoại nên để ở bếp, nơi cả nhà có thể dùng chung."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Decisions are always difficult, so we should let other people choose for us.",
+            "vi": "Quyết định lúc nào cũng khó, nên ta nên để người khác chọn thay."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Decisions are always difficult, so we should let other people choose for us.",
+          "text_translation": "Quyết định lúc nào cũng khó, nên ta nên để người khác chọn thay."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"it\" ở đây là \"our attention\". Trong một thế giới luôn giành sự chú ý của ta, chủ động chọn đặt nó vào đâu là việc rất quan trọng."
+      },
+      "audio_data": null,
+      "question_jp": "What does the writer mean by \"choosing where to put it may be one of the most important decisions that we make\"?",
+      "question_vn": "Người viết muốn nói gì qua câu \"việc chọn đặt sự chú ý ấy vào đâu có lẽ là một trong những quyết định quan trọng nhất ta đưa ra\"?",
+      "explanation": "Câu suy luận. \"it\" ở đây là \"our attention\". Trong một thế giới luôn giành sự chú ý của ta, chủ động chọn đặt nó vào đâu là việc rất quan trọng."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_mock1_reading_1",
+      "set_type": "reading",
+      "name": "Phần 1 — Thông báo chương trình tình nguyện của bệnh viện",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_mock1_01",
+      "question_ids": [
+        "q_mock1_001",
+        "q_mock1_002",
+        "q_mock1_003",
+        "q_mock1_004",
+        "q_mock1_005",
+        "q_mock1_006",
+        "q_mock1_007",
+        "q_mock1_008",
+        "q_mock1_009",
+        "q_mock1_010"
+      ]
+    },
+    {
+      "set_id": "set_mock1_reading_2",
+      "set_type": "reading",
+      "name": "Phần 2 — Lá thư bà Harriet viết cho Amy",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_mock1_02",
+      "question_ids": [
+        "q_mock1_011",
+        "q_mock1_012",
+        "q_mock1_013",
+        "q_mock1_014",
+        "q_mock1_015",
+        "q_mock1_016",
+        "q_mock1_017",
+        "q_mock1_018",
+        "q_mock1_019",
+        "q_mock1_020"
+      ]
+    },
+    {
+      "set_id": "set_mock1_reading_3",
+      "set_type": "reading",
+      "name": "Phần 3 — Bài khoa học: vì sao ta ngáp?",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 3,
+      "reading_passage_ref": "passage_mock1_03",
+      "question_ids": [
+        "q_mock1_021",
+        "q_mock1_022",
+        "q_mock1_023",
+        "q_mock1_024",
+        "q_mock1_025",
+        "q_mock1_026",
+        "q_mock1_027",
+        "q_mock1_028",
+        "q_mock1_029",
+        "q_mock1_030"
+      ]
+    },
+    {
+      "set_id": "set_mock1_reading_4",
+      "set_type": "reading",
+      "name": "Phần 4 — Bài quan điểm: chúng ta có đang đọc ít đi?",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 4,
+      "reading_passage_ref": "passage_mock1_04",
+      "question_ids": [
+        "q_mock1_031",
+        "q_mock1_032",
+        "q_mock1_033",
+        "q_mock1_034",
+        "q_mock1_035",
+        "q_mock1_036",
+        "q_mock1_037",
+        "q_mock1_038",
+        "q_mock1_039",
+        "q_mock1_040"
+      ]
+    }
+  ]
+}

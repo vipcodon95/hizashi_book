@@ -1,0 +1,2027 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 33–34 — History & The future",
+      "vi": "Lịch sử & Tương lai"
+    },
+    "title": "Units 33–34 — History & The future",
+    "title_vn": "Lịch sử & Tương lai",
+    "module_code": "58_u3334",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u33+u34",
+    "curriculum_sheets": [
+      "b1.129",
+      "b1.130",
+      "b1.131",
+      "b1.132",
+      "b1.133",
+      "b1.134",
+      "b1.135",
+      "b1.136"
+    ],
+    "characters": [
+      "Trevor Carter",
+      "Mitchell Carter",
+      "Harriet Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 11, năm 5"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Do/did nhấn mạnh, will have done, should have done, tính từ ghép",
+    "description_vn": "Trevor phỏng vấn bà Harriet về Maple Street những năm 1970 cho lớp sử của bố, và bài báo về thành phố năm 2050. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 33 + Unit 34 khoá B1 · phiếu `b1.129` – `b1.136` (do / did nhấn mạnh, sự kiện lịch sử, di tích, cuộc sống ngày xưa; tương lai và will have done, should have / could have, dự đoán, ước mơ và kế hoạch)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài phỏng vấn lịch sử truyền miệng và một bài báo về tương lai; hiểu `do / did` nhấn mạnh, `will have + V3`, `should have + V3`, tính từ ghép (a fifteen-minute walk), phân biệt dự đoán chắc và chưa chắc, và so sánh quá khứ với tương lai."
+    },
+    "extra_words": [
+      {
+        "word": "project",
+        "i18n": {
+          "vi": "dự án, bài tập lớn"
+        }
+      },
+      {
+        "word": "interview",
+        "i18n": {
+          "vi": "phỏng vấn"
+        }
+      },
+      {
+        "word": "cord",
+        "i18n": {
+          "vi": "dây điện thoại"
+        }
+      },
+      {
+        "word": "closet",
+        "i18n": {
+          "vi": "tủ quần áo"
+        }
+      },
+      {
+        "word": "grocery store",
+        "i18n": {
+          "vi": "cửa hàng tạp hoá"
+        }
+      },
+      {
+        "word": "carve",
+        "i18n": {
+          "vi": "khắc"
+        }
+      },
+      {
+        "word": "planner",
+        "i18n": {
+          "vi": "nhà quy hoạch"
+        }
+      },
+      {
+        "word": "concrete",
+        "i18n": {
+          "vi": "bê tông"
+        }
+      },
+      {
+        "word": "solar panel",
+        "i18n": {
+          "vi": "tấm pin mặt trời"
+        }
+      },
+      {
+        "word": "self-driving",
+        "i18n": {
+          "vi": "tự lái"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "ever since",
+          "vi": "từ đó tới nay"
+        }
+      },
+      {
+        "i18n": {
+          "en": "restore an old building",
+          "vi": "trùng tu một toà nhà cũ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "an inscription",
+          "vi": "dòng chữ khắc"
+        }
+      },
+      {
+        "i18n": {
+          "en": "in retrospect",
+          "vi": "nhìn lại"
+        }
+      },
+      {
+        "i18n": {
+          "en": "with certainty",
+          "vi": "một cách chắc chắn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "two out of every three",
+          "vi": "hai trên ba"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`do / does / did + V` trong câu khẳng định là nhấn mạnh: thật sự, đúng là. Thường dùng để sửa một suy nghĩ sai."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`will have + V3` (by 2050) = tới mốc đó việc đã xong. `should have + V3` = lẽ ra nên làm, nhưng đã không làm."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài dự đoán: chú ý các từ chỉ mức chắc chắn (`likely`, `probably`, `may`, `much less certain`). Câu hỏi hay hỏi dự đoán nào kém chắc nhất."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu nối hai bài kiểu so sánh: tìm định nghĩa ở bài này rồi tìm ví dụ khớp ở bài kia."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u3334_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 33) — Trevor phỏng vấn bà Harriet về Maple Street ngày xưa"
+      },
+      "narrator": "Trevor",
+      "title": "Maple Street in the 1970s: An Interview with Harriet Brooks",
+      "category": "report",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Maple Street in the 1970s: An Interview with Harriet Brooks",
+            "vi": "Maple Street những năm 1970: phỏng vấn bà Harriet Brooks"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Written by: Trevor Carter, for Mr. Carter's history class",
+            "vi": "Người viết: Trevor Carter, cho lớp lịch sử của thầy Carter"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For our history project, my dad, who is also my history teacher (unfortunately), asked us to interview someone who remembers life about fifty years ago.",
+            "vi": "Trong dự án môn lịch sử, bố tôi, cũng là thầy dạy sử của tôi (thật không may), yêu cầu cả lớp phỏng vấn một người còn nhớ cuộc sống khoảng năm mươi năm trước."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I chose Harriet Brooks, who moved to Maple Street in 1978 as a young teacher and has lived here ever since.",
+            "vi": "Tôi chọn bà Harriet Brooks, người chuyển tới Maple Street năm 1978 khi còn là một cô giáo trẻ và sống ở đây từ đó tới giờ."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When I asked her what had changed the most, she didn't hesitate: \"The phones!\"",
+            "vi": "Khi tôi hỏi điều gì thay đổi nhiều nhất, bà trả lời ngay không chút do dự: \"Điện thoại!\""
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"We did have phones, of course,\" she said, \"but ours was attached to the kitchen wall, and the whole family could hear every word that you said.\"",
+            "vi": "\"Tất nhiên là hồi đó cũng có điện thoại chứ,\" bà nói, \"nhưng cái của nhà bà gắn chặt trên tường bếp, và cả nhà nghe được từng lời cháu nói.\""
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If you wanted to talk to a friend privately, you had to pull the long cord into the closet and close the door.",
+            "vi": "Muốn nói chuyện riêng với bạn, phải kéo sợi dây dài vào trong tủ quần áo rồi đóng cửa lại."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Kids spent much more time outdoors.",
+            "vi": "Trẻ con hồi đó ở ngoài trời nhiều hơn hẳn."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"You went out after breakfast, and you came home when the street lights came on. Nobody knew exactly where you were, and nobody worried.\"",
+            "vi": "\"Ăn sáng xong là đi chơi, tới khi đèn đường bật sáng mới về. Chẳng ai biết chính xác cháu ở đâu, mà cũng chẳng ai lo.\""
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Everything was close: children walked to school, to the grocery store and to the park.",
+            "vi": "Cái gì cũng gần: trẻ con đi bộ tới trường, tới cửa hàng tạp hoá và ra công viên."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She admitted that parents today have good reasons to be more careful, \"but I do think that children then were less afraid of things,\" she added.",
+            "vi": "Bà thừa nhận phụ huynh bây giờ có lý do chính đáng để cẩn thận hơn, \"nhưng bà vẫn nghĩ trẻ con hồi đó ít sợ sệt hơn,\" bà nói thêm."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some things haven't changed as much as I expected.",
+            "vi": "Có những thứ không thay đổi nhiều như tôi tưởng."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The old fire station on Pine Street, which was built in 1925, is still there; it was restored in 2010 and is now the public library.",
+            "vi": "Trạm cứu hoả cũ trên phố Pine, xây năm 1925, vẫn còn đó; nó được trùng tu năm 2010 và giờ là thư viện công cộng."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "And the big tree behind the library still has an inscription that some kids carved into it in 1979: \"MAPLE STREET KIDS FOREVER.\"",
+            "vi": "Và cái cây lớn sau thư viện vẫn còn dòng chữ mà mấy đứa trẻ khắc lên năm 1979: \"BỌN TRẺ MAPLE STREET MÃI MÃI.\""
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"I did tell them not to,\" Harriet said with a smile, \"but I'm glad that they didn't listen.\"",
+            "vi": "\"Bà đã bảo bọn nó đừng khắc rồi đấy,\" bà Harriet mỉm cười, \"nhưng bà mừng là bọn nó không nghe.\""
+          }
+        },
+        {
+          "n": 16,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At the end, I asked her if life was better then.",
+            "vi": "Cuối buổi, tôi hỏi bà cuộc sống hồi đó có tốt hơn không."
+          }
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"Not better, not worse. Different,\" she said. \"We wrote letters and waited weeks for an answer. You send a message and get a reply in seconds. But I do miss the waiting. It made every letter feel special.\"",
+            "vi": "\"Không tốt hơn, cũng chẳng tệ hơn. Chỉ khác thôi,\" bà nói. \"Hồi đó bà viết thư rồi chờ hàng tuần mới có hồi âm. Cháu thì gửi tin nhắn rồi vài giây đã có trả lời. Nhưng bà nhớ cái sự chờ đợi lắm. Nó làm lá thư nào cũng thành đặc biệt.\""
+          }
+        },
+        {
+          "n": 18,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I expected this project to be boring. It wasn't.",
+            "vi": "Tôi cứ tưởng dự án này sẽ chán. Hoá ra không."
+          }
+        },
+        {
+          "n": 19,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I've walked past that tree a thousand times, and I had never noticed the words.",
+            "vi": "Tôi đã đi ngang cái cây đó cả nghìn lần, vậy mà chưa từng để ý dòng chữ."
+          }
+        }
+      ],
+      "content_ja": "Maple Street in the 1970s: An Interview with Harriet Brooks\n\nWritten by: Trevor Carter, for Mr. Carter's history class\n\nFor our history project, my dad, who is also my history teacher (unfortunately), asked us to interview someone who remembers life about fifty years ago. I chose Harriet Brooks, who moved to Maple Street in 1978 as a young teacher and has lived here ever since.\n\nWhen I asked her what had changed the most, she didn't hesitate: \"The phones!\" \"We did have phones, of course,\" she said, \"but ours was attached to the kitchen wall, and the whole family could hear every word that you said.\" If you wanted to talk to a friend privately, you had to pull the long cord into the closet and close the door.\n\nKids spent much more time outdoors. \"You went out after breakfast, and you came home when the street lights came on. Nobody knew exactly where you were, and nobody worried.\" Everything was close: children walked to school, to the grocery store and to the park. She admitted that parents today have good reasons to be more careful, \"but I do think that children then were less afraid of things,\" she added.\n\nSome things haven't changed as much as I expected. The old fire station on Pine Street, which was built in 1925, is still there; it was restored in 2010 and is now the public library. And the big tree behind the library still has an inscription that some kids carved into it in 1979: \"MAPLE STREET KIDS FOREVER.\" \"I did tell them not to,\" Harriet said with a smile, \"but I'm glad that they didn't listen.\"\n\nAt the end, I asked her if life was better then. \"Not better, not worse. Different,\" she said. \"We wrote letters and waited weeks for an answer. You send a message and get a reply in seconds. But I do miss the waiting. It made every letter feel special.\"\n\nI expected this project to be boring. It wasn't. I've walked past that tree a thousand times, and I had never noticed the words.",
+      "translation_vn": "(1) Maple Street những năm 1970: phỏng vấn bà Harriet Brooks\n(2) Người viết: Trevor Carter, cho lớp lịch sử của thầy Carter\n(3) Trong dự án môn lịch sử, bố tôi, cũng là thầy dạy sử của tôi (thật không may), yêu cầu cả lớp phỏng vấn một người còn nhớ cuộc sống khoảng năm mươi năm trước.\n(4) Tôi chọn bà Harriet Brooks, người chuyển tới Maple Street năm 1978 khi còn là một cô giáo trẻ và sống ở đây từ đó tới giờ.\n(5) Khi tôi hỏi điều gì thay đổi nhiều nhất, bà trả lời ngay không chút do dự: \"Điện thoại!\"\n(6) \"Tất nhiên là hồi đó cũng có điện thoại chứ,\" bà nói, \"nhưng cái của nhà bà gắn chặt trên tường bếp, và cả nhà nghe được từng lời cháu nói.\"\n(7) Muốn nói chuyện riêng với bạn, phải kéo sợi dây dài vào trong tủ quần áo rồi đóng cửa lại.\n(8) Trẻ con hồi đó ở ngoài trời nhiều hơn hẳn.\n(9) \"Ăn sáng xong là đi chơi, tới khi đèn đường bật sáng mới về. Chẳng ai biết chính xác cháu ở đâu, mà cũng chẳng ai lo.\"\n(10) Cái gì cũng gần: trẻ con đi bộ tới trường, tới cửa hàng tạp hoá và ra công viên.\n(11) Bà thừa nhận phụ huynh bây giờ có lý do chính đáng để cẩn thận hơn, \"nhưng bà vẫn nghĩ trẻ con hồi đó ít sợ sệt hơn,\" bà nói thêm.\n(12) Có những thứ không thay đổi nhiều như tôi tưởng.\n(13) Trạm cứu hoả cũ trên phố Pine, xây năm 1925, vẫn còn đó; nó được trùng tu năm 2010 và giờ là thư viện công cộng.\n(14) Và cái cây lớn sau thư viện vẫn còn dòng chữ mà mấy đứa trẻ khắc lên năm 1979: \"BỌN TRẺ MAPLE STREET MÃI MÃI.\"\n(15) \"Bà đã bảo bọn nó đừng khắc rồi đấy,\" bà Harriet mỉm cười, \"nhưng bà mừng là bọn nó không nghe.\"\n(16) Cuối buổi, tôi hỏi bà cuộc sống hồi đó có tốt hơn không.\n(17) \"Không tốt hơn, cũng chẳng tệ hơn. Chỉ khác thôi,\" bà nói. \"Hồi đó bà viết thư rồi chờ hàng tuần mới có hồi âm. Cháu thì gửi tin nhắn rồi vài giây đã có trả lời. Nhưng bà nhớ cái sự chờ đợi lắm. Nó làm lá thư nào cũng thành đặc biệt.\"\n(18) Tôi cứ tưởng dự án này sẽ chán. Hoá ra không.\n(19) Tôi đã đi ngang cái cây đó cả nghìn lần, vậy mà chưa từng để ý dòng chữ.",
+      "word_count": 345,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.129",
+        "b1.130",
+        "b1.131",
+        "b1.132"
+      ]
+    },
+    {
+      "id": "passage_u3334_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 34) — Thành phố năm 2050"
+      },
+      "narrator": "announcer",
+      "title": "Cities in 2050: What Might Change?",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Cities in 2050: What Might Change?",
+            "vi": "Thành phố năm 2050: điều gì có thể thay đổi?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Today, more than half of the people in the world live in cities.",
+            "vi": "Ngày nay, hơn một nửa dân số thế giới sống ở thành phố."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "By 2050, experts estimate that the number will have grown to about two out of every three people.",
+            "vi": "Tới năm 2050, các chuyên gia ước tính con số này sẽ tăng lên khoảng hai trên ba người."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So what will these cities look like? Nobody can say with certainty, but city planners have a few clear ideas.",
+            "vi": "Vậy những thành phố ấy sẽ trông thế nào? Không ai nói chắc được, nhưng các nhà quy hoạch đô thị đã có vài ý tưởng rõ ràng."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "First, cities are likely to become greener, partly to keep themselves cool.",
+            "vi": "Thứ nhất, thành phố nhiều khả năng sẽ xanh hơn, một phần là để giữ mát cho chính mình."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Concrete streets and dark roofs absorb heat, so a city can be several degrees hotter than the countryside around it.",
+            "vi": "Đường bê tông và mái nhà sẫm màu hấp thụ nhiệt, nên thành phố có thể nóng hơn vùng quê xung quanh vài độ."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many cities have already started planting trees and putting gardens on roofs, and by 2050, some of them will have changed their streets completely.",
+            "vi": "Nhiều thành phố đã bắt đầu trồng cây và làm vườn trên mái nhà, và tới năm 2050, một số nơi sẽ thay đổi hoàn toàn diện mạo đường phố."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In retrospect, some planners say that they should have started much earlier.",
+            "vi": "Nhìn lại, có những nhà quy hoạch nói lẽ ra họ phải bắt đầu sớm hơn nhiều."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Second, more people may live in what are called \"fifteen-minute cities\".",
+            "vi": "Thứ hai, nhiều người hơn có thể sẽ sống trong cái gọi là \"thành phố mười lăm phút\"."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The idea is simple: everything that you need every day, such as shops, schools, doctors and parks, should be within a fifteen-minute walk or bike ride from your home.",
+            "vi": "Ý tưởng rất đơn giản: mọi thứ bạn cần hằng ngày, như cửa hàng, trường học, phòng khám và công viên, đều nên cách nhà bạn không quá mười lăm phút đi bộ hoặc đạp xe."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Supporters say that this would mean less traffic and cleaner air, while others worry that it won't work in places where homes are far apart.",
+            "vi": "Người ủng hộ nói như vậy sẽ bớt xe cộ và không khí sạch hơn, còn người khác lo ý tưởng này không hợp với những nơi nhà cửa cách xa nhau."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Third, buildings will probably produce more of their own energy, with solar panels on their roofs, and walls and windows that keep heat in during the winter and out during the summer.",
+            "vi": "Thứ ba, các toà nhà có lẽ sẽ tự sản xuất nhiều năng lượng hơn, với tấm pin mặt trời trên mái, cùng tường và cửa sổ giữ hơi ấm vào mùa đông và chặn nóng vào mùa hè."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some experts also expect self-driving buses and cars to be common, but this is much less certain: the technology has improved quickly, but there are still many problems to solve.",
+            "vi": "Một số chuyên gia còn dự đoán xe buýt và ô tô tự lái sẽ trở nên phổ biến, nhưng điều này kém chắc chắn hơn nhiều: công nghệ đã tiến bộ nhanh, nhưng vẫn còn nhiều vấn đề phải giải quyết."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Of course, forecasts about the future are often wrong.",
+            "vi": "Tất nhiên, những dự báo về tương lai thường sai."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In the 1960s, many people were sure that we would all have flying cars by the year 2000.",
+            "vi": "Vào những năm 1960, nhiều người tin chắc tới năm 2000 ai cũng sẽ có ô tô bay."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We don't, but we do have phones that can translate languages and maps that know where the traffic is.",
+            "vi": "Chúng ta không có, nhưng chúng ta lại có điện thoại biết dịch ngôn ngữ và bản đồ biết chỗ nào đang tắc đường."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The most useful prediction may be this one: the cities of 2050 will be designed by people who are at school today.",
+            "vi": "Có lẽ dự đoán hữu ích nhất là thế này: những thành phố năm 2050 sẽ được thiết kế bởi những người hôm nay đang ngồi trên ghế nhà trường."
+          }
+        }
+      ],
+      "content_ja": "Cities in 2050: What Might Change?\n\nToday, more than half of the people in the world live in cities. By 2050, experts estimate that the number will have grown to about two out of every three people. So what will these cities look like? Nobody can say with certainty, but city planners have a few clear ideas.\n\nFirst, cities are likely to become greener, partly to keep themselves cool. Concrete streets and dark roofs absorb heat, so a city can be several degrees hotter than the countryside around it. Many cities have already started planting trees and putting gardens on roofs, and by 2050, some of them will have changed their streets completely. In retrospect, some planners say that they should have started much earlier.\n\nSecond, more people may live in what are called \"fifteen-minute cities\". The idea is simple: everything that you need every day, such as shops, schools, doctors and parks, should be within a fifteen-minute walk or bike ride from your home. Supporters say that this would mean less traffic and cleaner air, while others worry that it won't work in places where homes are far apart.\n\nThird, buildings will probably produce more of their own energy, with solar panels on their roofs, and walls and windows that keep heat in during the winter and out during the summer. Some experts also expect self-driving buses and cars to be common, but this is much less certain: the technology has improved quickly, but there are still many problems to solve.\n\nOf course, forecasts about the future are often wrong. In the 1960s, many people were sure that we would all have flying cars by the year 2000. We don't, but we do have phones that can translate languages and maps that know where the traffic is. The most useful prediction may be this one: the cities of 2050 will be designed by people who are at school today.",
+      "translation_vn": "(1) Thành phố năm 2050: điều gì có thể thay đổi?\n(2) Ngày nay, hơn một nửa dân số thế giới sống ở thành phố.\n(3) Tới năm 2050, các chuyên gia ước tính con số này sẽ tăng lên khoảng hai trên ba người.\n(4) Vậy những thành phố ấy sẽ trông thế nào? Không ai nói chắc được, nhưng các nhà quy hoạch đô thị đã có vài ý tưởng rõ ràng.\n(5) Thứ nhất, thành phố nhiều khả năng sẽ xanh hơn, một phần là để giữ mát cho chính mình.\n(6) Đường bê tông và mái nhà sẫm màu hấp thụ nhiệt, nên thành phố có thể nóng hơn vùng quê xung quanh vài độ.\n(7) Nhiều thành phố đã bắt đầu trồng cây và làm vườn trên mái nhà, và tới năm 2050, một số nơi sẽ thay đổi hoàn toàn diện mạo đường phố.\n(8) Nhìn lại, có những nhà quy hoạch nói lẽ ra họ phải bắt đầu sớm hơn nhiều.\n(9) Thứ hai, nhiều người hơn có thể sẽ sống trong cái gọi là \"thành phố mười lăm phút\".\n(10) Ý tưởng rất đơn giản: mọi thứ bạn cần hằng ngày, như cửa hàng, trường học, phòng khám và công viên, đều nên cách nhà bạn không quá mười lăm phút đi bộ hoặc đạp xe.\n(11) Người ủng hộ nói như vậy sẽ bớt xe cộ và không khí sạch hơn, còn người khác lo ý tưởng này không hợp với những nơi nhà cửa cách xa nhau.\n(12) Thứ ba, các toà nhà có lẽ sẽ tự sản xuất nhiều năng lượng hơn, với tấm pin mặt trời trên mái, cùng tường và cửa sổ giữ hơi ấm vào mùa đông và chặn nóng vào mùa hè.\n(13) Một số chuyên gia còn dự đoán xe buýt và ô tô tự lái sẽ trở nên phổ biến, nhưng điều này kém chắc chắn hơn nhiều: công nghệ đã tiến bộ nhanh, nhưng vẫn còn nhiều vấn đề phải giải quyết.\n(14) Tất nhiên, những dự báo về tương lai thường sai.\n(15) Vào những năm 1960, nhiều người tin chắc tới năm 2000 ai cũng sẽ có ô tô bay.\n(16) Chúng ta không có, nhưng chúng ta lại có điện thoại biết dịch ngôn ngữ và bản đồ biết chỗ nào đang tắc đường.\n(17) Có lẽ dự đoán hữu ích nhất là thế này: những thành phố năm 2050 sẽ được thiết kế bởi những người hôm nay đang ngồi trên ghế nhà trường.",
+      "word_count": 318,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.133",
+        "b1.134",
+        "b1.135",
+        "b1.136"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u3334_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "What is Trevor's report about?",
+        "vi": "Bài báo cáo của Trevor nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the history of the old fire station on Pine Street",
+            "vi": "lịch sử trạm cứu hoả cũ trên phố Pine"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the history of the old fire station on Pine Street",
+          "text_translation": "lịch sử trạm cứu hoả cũ trên phố Pine"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "an interview with Harriet about life long ago",
+            "vi": "cuộc phỏng vấn bà Harriet về cuộc sống ngày xưa"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "an interview with Harriet about life long ago",
+          "text_translation": "cuộc phỏng vấn bà Harriet về cuộc sống ngày xưa"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "why phones are bad for children and for families",
+            "vi": "vì sao điện thoại có hại cho trẻ em và gia đình"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "why phones are bad for children and for families",
+          "text_translation": "vì sao điện thoại có hại cho trẻ em và gia đình"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "how to write a letter that feels special",
+            "vi": "cách viết một lá thư thật đặc biệt"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "how to write a letter that feels special",
+          "text_translation": "cách viết một lá thư thật đặc biệt"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"asked us to interview someone who remembers life about fifty years ago.\" Trevor chọn bà Harriet và kể lại những gì bà nói."
+      },
+      "audio_data": null,
+      "question_jp": "What is Trevor's report about?",
+      "question_vn": "Bài báo cáo của Trevor nói về điều gì?",
+      "explanation": "\"asked us to interview someone who remembers life about fifty years ago.\" Trevor chọn bà Harriet và kể lại những gì bà nói."
+    },
+    {
+      "id": "q_u3334_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "Why does Trevor write \"unfortunately\" about his history teacher?",
+        "vi": "Vì sao Trevor viết \"thật không may\" khi nói về thầy dạy sử?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "His dad is a bad teacher who gives too much homework.",
+            "vi": "Vì bố cậu dạy kém và giao quá nhiều bài tập."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "His dad is a bad teacher who gives too much homework.",
+          "text_translation": "Vì bố cậu dạy kém và giao quá nhiều bài tập."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He doesn't like history, so he is unhappy in class.",
+            "vi": "Vì cậu không thích môn sử nên buồn khi ở lớp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He doesn't like history, so he is unhappy in class.",
+          "text_translation": "Vì cậu không thích môn sử nên buồn khi ở lớp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "His dad gave him a low grade on the project.",
+            "vi": "Vì bố cho cậu điểm thấp ở dự án."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "His dad gave him a low grade on the project.",
+          "text_translation": "Vì bố cho cậu điểm thấp ở dự án."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is a joke about having his father as his teacher.",
+            "vi": "Vì đó là lời đùa về việc có bố làm thầy giáo."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "It is a joke about having his father as his teacher.",
+          "text_translation": "Vì đó là lời đùa về việc có bố làm thầy giáo."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"my dad, who is also my history teacher (unfortunately)\". Chữ trong ngoặc là giọng đùa của cậu tuổi teen; bài không hề nói thầy dạy kém."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Trevor write \"unfortunately\" about his history teacher?",
+      "question_vn": "Vì sao Trevor viết \"thật không may\" khi nói về thầy dạy sử?",
+      "explanation": "Câu suy luận. \"my dad, who is also my history teacher (unfortunately)\". Chữ trong ngoặc là giọng đùa của cậu tuổi teen; bài không hề nói thầy dạy kém."
+    },
+    {
+      "id": "q_u3334_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "When did Harriet move to Maple Street?",
+        "vi": "Bà Harriet chuyển tới Maple Street khi nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in 1978, as a young teacher",
+            "vi": "năm 1978, khi còn là cô giáo trẻ"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "in 1978, as a young teacher",
+          "text_translation": "năm 1978, khi còn là cô giáo trẻ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "in 1925",
+            "vi": "năm 1925"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "in 1925",
+          "text_translation": "năm 1925"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "in 1979, when the kids carved the tree",
+            "vi": "năm 1979, khi bọn trẻ khắc chữ lên cây"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "in 1979, when the kids carved the tree",
+          "text_translation": "năm 1979, khi bọn trẻ khắc chữ lên cây"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "in 2010",
+            "vi": "năm 2010"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "in 2010",
+          "text_translation": "năm 2010"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Harriet Brooks, who moved to Maple Street in 1978 as a young teacher and has lived here ever since.\""
+      },
+      "audio_data": null,
+      "question_jp": "When did Harriet move to Maple Street?",
+      "question_vn": "Bà Harriet chuyển tới Maple Street khi nào?",
+      "explanation": "\"Harriet Brooks, who moved to Maple Street in 1978 as a young teacher and has lived here ever since.\""
+    },
+    {
+      "id": "q_u3334_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "According to Harriet, what has changed the most?",
+        "vi": "Theo bà Harriet, điều gì thay đổi nhiều nhất?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the fire station",
+            "vi": "trạm cứu hoả"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the fire station",
+          "text_translation": "trạm cứu hoả"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the schools",
+            "vi": "trường học"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the schools",
+          "text_translation": "trường học"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the phones",
+            "vi": "điện thoại"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "the phones",
+          "text_translation": "điện thoại"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the trees",
+            "vi": "cây cối"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the trees",
+          "text_translation": "cây cối"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"When I asked her what had changed the most, she didn't hesitate: \"The phones!\"\""
+      },
+      "audio_data": null,
+      "question_jp": "According to Harriet, what has changed the most?",
+      "question_vn": "Theo bà Harriet, điều gì thay đổi nhiều nhất?",
+      "explanation": "\"When I asked her what had changed the most, she didn't hesitate: \"The phones!\"\""
+    },
+    {
+      "id": "q_u3334_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "Why does Harriet say \"We did have phones, of course\"?",
+        "vi": "Vì sao bà Harriet nói \"Tất nhiên là hồi đó cũng có điện thoại chứ\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She wants to say that they had no phones in the 1970s.",
+            "vi": "Bà muốn nói thập niên 1970 không có điện thoại."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She wants to say that they had no phones in the 1970s.",
+          "text_translation": "Bà muốn nói thập niên 1970 không có điện thoại."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She wants to make clear that they really had phones.",
+            "vi": "Bà muốn nói rõ hồi đó thật sự có điện thoại."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She wants to make clear that they really had phones.",
+          "text_translation": "Bà muốn nói rõ hồi đó thật sự có điện thoại."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She forgot that she had a phone on the kitchen wall.",
+            "vi": "Bà quên mất mình có điện thoại trên tường bếp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She forgot that she had a phone on the kitchen wall.",
+          "text_translation": "Bà quên mất mình có điện thoại trên tường bếp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is asking Trevor if his family has a phone at home.",
+            "vi": "Bà đang hỏi nhà Trevor có điện thoại ở nhà không."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She is asking Trevor if his family has a phone at home.",
+          "text_translation": "Bà đang hỏi nhà Trevor có điện thoại ở nhà không."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"We did have phones, of course\". Do / did nhấn mạnh (emphatic did) dùng để khẳng định mạnh, thường để sửa một suy nghĩ sai, ở đây là ý \"ngày xưa chưa có điện thoại\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Harriet say \"We did have phones, of course\"?",
+      "question_vn": "Vì sao bà Harriet nói \"Tất nhiên là hồi đó cũng có điện thoại chứ\"?",
+      "explanation": "\"We did have phones, of course\". Do / did nhấn mạnh (emphatic did) dùng để khẳng định mạnh, thường để sửa một suy nghĩ sai, ở đây là ý \"ngày xưa chưa có điện thoại\"."
+    },
+    {
+      "id": "q_u3334_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "Why did people pull the phone cord into the closet?",
+        "vi": "Vì sao người ta kéo dây điện thoại vào tủ quần áo?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to talk to a friend privately",
+            "vi": "để nói chuyện riêng với bạn"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to talk to a friend privately",
+          "text_translation": "để nói chuyện riêng với bạn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to keep the phone safe",
+            "vi": "để giữ điện thoại an toàn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to keep the phone safe",
+          "text_translation": "để giữ điện thoại an toàn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to make the phone work better",
+            "vi": "để điện thoại nghe rõ hơn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to make the phone work better",
+          "text_translation": "để điện thoại nghe rõ hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to hide it from the children in the house",
+            "vi": "để giấu nó khỏi bọn trẻ trong nhà"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to hide it from the children in the house",
+          "text_translation": "để giấu nó khỏi bọn trẻ trong nhà"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"If you wanted to talk to a friend privately, you had to pull the long cord into the closet and close the door.\" Câu trước giải thích: cả nhà \"could hear every word\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why did people pull the phone cord into the closet?",
+      "question_vn": "Vì sao người ta kéo dây điện thoại vào tủ quần áo?",
+      "explanation": "\"If you wanted to talk to a friend privately, you had to pull the long cord into the closet and close the door.\" Câu trước giải thích: cả nhà \"could hear every word\"."
+    },
+    {
+      "id": "q_u3334_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "What was life like for kids on Maple Street in the past, according to Harriet?",
+        "vi": "Theo bà Harriet, trẻ con ở Maple Street ngày xưa sống thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They stayed inside after school.",
+            "vi": "Tan học là ở trong nhà."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They stayed inside after school.",
+          "text_translation": "Tan học là ở trong nhà."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Their parents always knew exactly where they were.",
+            "vi": "Bố mẹ luôn biết chính xác các em ở đâu."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Their parents always knew exactly where they were.",
+          "text_translation": "Bố mẹ luôn biết chính xác các em ở đâu."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They took the bus everywhere, even to the park.",
+            "vi": "Đi đâu cũng đi xe buýt, kể cả tới công viên."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They took the bus everywhere, even to the park.",
+          "text_translation": "Đi đâu cũng đi xe buýt, kể cả tới công viên."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They played outdoors until the street lights came on.",
+            "vi": "Chơi ngoài trời tới khi đèn đường bật sáng."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "They played outdoors until the street lights came on.",
+          "text_translation": "Chơi ngoài trời tới khi đèn đường bật sáng."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"You went out after breakfast, and you came home when the street lights came on. Nobody knew exactly where you were\"."
+      },
+      "audio_data": null,
+      "question_jp": "What was life like for kids on Maple Street in the past, according to Harriet?",
+      "question_vn": "Theo bà Harriet, trẻ con ở Maple Street ngày xưa sống thế nào?",
+      "explanation": "\"You went out after breakfast, and you came home when the street lights came on. Nobody knew exactly where you were\"."
+    },
+    {
+      "id": "q_u3334_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "Which of these is NOT true about the old fire station?",
+        "vi": "Điều nào KHÔNG đúng về trạm cứu hoả cũ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It was built in 1925.",
+            "vi": "Nó được xây năm 1925."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It was built in 1925.",
+          "text_translation": "Nó được xây năm 1925."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It was restored in 2010.",
+            "vi": "Nó được trùng tu năm 2010."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It was restored in 2010.",
+          "text_translation": "Nó được trùng tu năm 2010."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It was pulled down in 2010.",
+            "vi": "Nó bị phá bỏ năm 2010."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It was pulled down in 2010.",
+          "text_translation": "Nó bị phá bỏ năm 2010."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is now the public library.",
+            "vi": "Giờ nó là thư viện công cộng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It is now the public library.",
+          "text_translation": "Giờ nó là thư viện công cộng."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"which was built in 1925, is still there; it was restored in 2010 and is now the public library.\" Restore = trùng tu, khôi phục, ngược với pull down (phá bỏ)."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT true about the old fire station?",
+      "question_vn": "Điều nào KHÔNG đúng về trạm cứu hoả cũ?",
+      "explanation": "\"which was built in 1925, is still there; it was restored in 2010 and is now the public library.\" Restore = trùng tu, khôi phục, ngược với pull down (phá bỏ)."
+    },
+    {
+      "id": "q_u3334_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "What does Harriet mean by \"I did tell them not to, but I'm glad that they didn't listen\"?",
+        "vi": "Bà Harriet muốn nói gì qua câu \"Bà đã bảo bọn nó đừng khắc rồi đấy, nhưng bà mừng là bọn nó không nghe\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is happy that the words are still there.",
+            "vi": "Bà vui vì dòng chữ vẫn còn đó."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She is happy that the words are still there.",
+          "text_translation": "Bà vui vì dòng chữ vẫn còn đó."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is still angry with the kids who carved the tree.",
+            "vi": "Bà vẫn còn giận bọn trẻ đã khắc lên cây."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She is still angry with the kids who carved the tree.",
+          "text_translation": "Bà vẫn còn giận bọn trẻ đã khắc lên cây."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She carved the words herself with the other kids.",
+            "vi": "Chính bà đã khắc dòng chữ cùng bọn trẻ khác."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She carved the words herself with the other kids.",
+          "text_translation": "Chính bà đã khắc dòng chữ cùng bọn trẻ khác."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She wants the words removed from the library tree.",
+            "vi": "Bà muốn xoá dòng chữ trên cái cây sau thư viện."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She wants the words removed from the library tree.",
+          "text_translation": "Bà muốn xoá dòng chữ trên cái cây sau thư viện."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"I did tell them not to,\" … \"but I'm glad that they didn't listen.\" Hồi đó bà ngăn, nhưng giờ dòng chữ thành kỷ niệm của cả con phố. Bà nói câu này \"with a smile\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does Harriet mean by \"I did tell them not to, but I'm glad that they didn't listen\"?",
+      "question_vn": "Bà Harriet muốn nói gì qua câu \"Bà đã bảo bọn nó đừng khắc rồi đấy, nhưng bà mừng là bọn nó không nghe\"?",
+      "explanation": "Câu suy luận. \"I did tell them not to,\" … \"but I'm glad that they didn't listen.\" Hồi đó bà ngăn, nhưng giờ dòng chữ thành kỷ niệm của cả con phố. Bà nói câu này \"with a smile\"."
+    },
+    {
+      "id": "q_u3334_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_01",
+      "i18n": {
+        "en": "What does Harriet miss about the past?",
+        "vi": "Bà Harriet nhớ điều gì ở ngày xưa?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the phone on the kitchen wall with the long cord",
+            "vi": "chiếc điện thoại trên tường bếp có sợi dây dài"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the phone on the kitchen wall with the long cord",
+          "text_translation": "chiếc điện thoại trên tường bếp có sợi dây dài"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "her job as a young teacher on Maple Street",
+            "vi": "công việc cô giáo trẻ của bà ở Maple Street"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "her job as a young teacher on Maple Street",
+          "text_translation": "công việc cô giáo trẻ của bà ở Maple Street"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the old fire station before it was restored",
+            "vi": "trạm cứu hoả cũ trước khi được trùng tu"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the old fire station before it was restored",
+          "text_translation": "trạm cứu hoả cũ trước khi được trùng tu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "waiting for letters, which felt special",
+            "vi": "việc chờ thư, điều làm mỗi lá thư thật đặc biệt"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "waiting for letters, which felt special",
+          "text_translation": "việc chờ thư, điều làm mỗi lá thư thật đặc biệt"
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"But I do miss the waiting. It made every letter feel special.\" I do miss là cách nhấn mạnh: bà thật sự nhớ."
+      },
+      "audio_data": null,
+      "question_jp": "What does Harriet miss about the past?",
+      "question_vn": "Bà Harriet nhớ điều gì ở ngày xưa?",
+      "explanation": "\"But I do miss the waiting. It made every letter feel special.\" I do miss là cách nhấn mạnh: bà thật sự nhớ."
+    },
+    {
+      "id": "q_u3334_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "What is the article mainly about?",
+        "vi": "Bài báo chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "why flying cars never came and what we have instead",
+            "vi": "vì sao ô tô bay chưa xuất hiện và ta có gì thay thế"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "why flying cars never came and what we have instead",
+          "text_translation": "vì sao ô tô bay chưa xuất hiện và ta có gì thay thế"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "how to plant trees and gardens on roofs in a city",
+            "vi": "cách trồng cây và vườn trên mái nhà trong thành phố"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "how to plant trees and gardens on roofs in a city",
+          "text_translation": "cách trồng cây và vườn trên mái nhà trong thành phố"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "how cities might change by 2050",
+            "vi": "thành phố có thể thay đổi thế nào tới năm 2050"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "how cities might change by 2050",
+          "text_translation": "thành phố có thể thay đổi thế nào tới năm 2050"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the history of self-driving cars and solar panels",
+            "vi": "lịch sử ô tô tự lái và pin mặt trời"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the history of self-driving cars and solar panels",
+          "text_translation": "lịch sử ô tô tự lái và pin mặt trời"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"So what will these cities look like? Nobody can say with certainty, but city planners have a few clear ideas.\" Bài nêu ba ý tưởng, rồi nhắc rằng \"forecasts about the future are often wrong\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is the article mainly about?",
+      "question_vn": "Bài báo chủ yếu nói về điều gì?",
+      "explanation": "\"So what will these cities look like? Nobody can say with certainty, but city planners have a few clear ideas.\" Bài nêu ba ý tưởng, rồi nhắc rằng \"forecasts about the future are often wrong\"."
+    },
+    {
+      "id": "q_u3334_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "By 2050, how many people are expected to live in cities?",
+        "vi": "Tới năm 2050, dự kiến bao nhiêu người sẽ sống ở thành phố?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "about two out of every three people",
+            "vi": "khoảng hai trên ba người"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "about two out of every three people",
+          "text_translation": "khoảng hai trên ba người"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "about half of the people in the world",
+            "vi": "khoảng một nửa số người trên thế giới"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "about half of the people in the world",
+          "text_translation": "khoảng một nửa số người trên thế giới"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "everyone, including people in the countryside",
+            "vi": "tất cả mọi người, kể cả người ở nông thôn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "everyone, including people in the countryside",
+          "text_translation": "tất cả mọi người, kể cả người ở nông thôn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "fewer people than there are today",
+            "vi": "ít người hơn hiện nay"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "fewer people than there are today",
+          "text_translation": "ít người hơn hiện nay"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"By 2050, experts estimate that the number will have grown to about two out of every three people.\" Will have grown = tới mốc 2050 thì việc tăng đã xảy ra. \"More than half\" là con số hiện nay."
+      },
+      "audio_data": null,
+      "question_jp": "By 2050, how many people are expected to live in cities?",
+      "question_vn": "Tới năm 2050, dự kiến bao nhiêu người sẽ sống ở thành phố?",
+      "explanation": "\"By 2050, experts estimate that the number will have grown to about two out of every three people.\" Will have grown = tới mốc 2050 thì việc tăng đã xảy ra. \"More than half\" là con số hiện nay."
+    },
+    {
+      "id": "q_u3334_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "Why can a city be hotter than the countryside around it?",
+        "vi": "Vì sao thành phố có thể nóng hơn vùng quê xung quanh?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "There are more people, and people give off a lot of heat.",
+            "vi": "Vì có nhiều người hơn, mà người toả ra nhiều nhiệt."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "There are more people, and people give off a lot of heat.",
+          "text_translation": "Vì có nhiều người hơn, mà người toả ra nhiều nhiệt."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Concrete streets and dark roofs absorb heat.",
+            "vi": "Vì đường bê tông và mái nhà sẫm màu hấp thụ nhiệt."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Concrete streets and dark roofs absorb heat.",
+          "text_translation": "Vì đường bê tông và mái nhà sẫm màu hấp thụ nhiệt."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Cities get more sun because they have no trees.",
+            "vi": "Vì thành phố nhận nhiều nắng hơn do không có cây."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Cities get more sun because they have no trees.",
+          "text_translation": "Vì thành phố nhận nhiều nắng hơn do không có cây."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "There are too many gardens on the roofs.",
+            "vi": "Vì có quá nhiều vườn trên mái nhà."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "There are too many gardens on the roofs.",
+          "text_translation": "Vì có quá nhiều vườn trên mái nhà."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Concrete streets and dark roofs absorb heat, so a city can be several degrees hotter than the countryside around it.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why can a city be hotter than the countryside around it?",
+      "question_vn": "Vì sao thành phố có thể nóng hơn vùng quê xung quanh?",
+      "explanation": "\"Concrete streets and dark roofs absorb heat, so a city can be several degrees hotter than the countryside around it.\""
+    },
+    {
+      "id": "q_u3334_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "What does \"some planners say that they should have started much earlier\" mean?",
+        "vi": "Câu \"có những nhà quy hoạch nói lẽ ra họ phải bắt đầu sớm hơn nhiều\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They started very early and finished long ago.",
+            "vi": "Họ đã bắt đầu rất sớm và xong từ lâu."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They started very early and finished long ago.",
+          "text_translation": "Họ đã bắt đầu rất sớm và xong từ lâu."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They will start next year, a little earlier than planned.",
+            "vi": "Năm sau họ sẽ bắt đầu, sớm hơn kế hoạch một chút."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They will start next year, a little earlier than planned.",
+          "text_translation": "Năm sau họ sẽ bắt đầu, sớm hơn kế hoạch một chút."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They don't want to plant trees in the city streets.",
+            "vi": "Họ không muốn trồng cây trên đường phố."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They don't want to plant trees in the city streets.",
+          "text_translation": "Họ không muốn trồng cây trên đường phố."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It would have been better to start earlier.",
+            "vi": "Lẽ ra bắt đầu sớm hơn thì tốt hơn."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "It would have been better to start earlier.",
+          "text_translation": "Lẽ ra bắt đầu sớm hơn thì tốt hơn."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"In retrospect, some planners say that they should have started much earlier.\" Should have + V3 = lẽ ra nên làm (nhưng đã không làm). In retrospect = nhìn lại."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"some planners say that they should have started much earlier\" mean?",
+      "question_vn": "Câu \"có những nhà quy hoạch nói lẽ ra họ phải bắt đầu sớm hơn nhiều\" nghĩa là gì?",
+      "explanation": "\"In retrospect, some planners say that they should have started much earlier.\" Should have + V3 = lẽ ra nên làm (nhưng đã không làm). In retrospect = nhìn lại."
+    },
+    {
+      "id": "q_u3334_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "What is a \"fifteen-minute city\"?",
+        "vi": "\"Thành phố mười lăm phút\" là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a city where every road can be crossed by car in fifteen minutes",
+            "vi": "thành phố nơi băng qua mọi con đường bằng ô tô mất mười lăm phút"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a city where every road can be crossed by car in fifteen minutes",
+          "text_translation": "thành phố nơi băng qua mọi con đường bằng ô tô mất mười lăm phút"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a city where buses come every fifteen minutes to every home",
+            "vi": "thành phố nơi cứ mười lăm phút có xe buýt tới từng nhà"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a city where buses come every fifteen minutes to every home",
+          "text_translation": "thành phố nơi cứ mười lăm phút có xe buýt tới từng nhà"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a city where daily needs are a fifteen-minute walk or ride away",
+            "vi": "thành phố nơi mọi thứ cần hằng ngày cách mười lăm phút đi bộ hoặc đạp xe"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "a city where daily needs are a fifteen-minute walk or ride away",
+          "text_translation": "thành phố nơi mọi thứ cần hằng ngày cách mười lăm phút đi bộ hoặc đạp xe"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a city that was built in fifteen minutes",
+            "vi": "thành phố được xây trong mười lăm phút"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a city that was built in fifteen minutes",
+          "text_translation": "thành phố được xây trong mười lăm phút"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"everything that you need every day, such as shops, schools, doctors and parks, should be within a fifteen-minute walk or bike ride from your home.\" A fifteen-minute walk là tính từ ghép: số + danh từ số ít có gạch nối."
+      },
+      "audio_data": null,
+      "question_jp": "What is a \"fifteen-minute city\"?",
+      "question_vn": "\"Thành phố mười lăm phút\" là gì?",
+      "explanation": "\"everything that you need every day, such as shops, schools, doctors and parks, should be within a fifteen-minute walk or bike ride from your home.\" A fifteen-minute walk là tính từ ghép: số + danh từ số ít có gạch nối."
+    },
+    {
+      "id": "q_u3334_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "Why might the fifteen-minute idea not work everywhere?",
+        "vi": "Vì sao ý tưởng mười lăm phút có thể không hợp với mọi nơi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "People don't like parks or gardens near their homes.",
+            "vi": "Vì người ta không thích công viên hay vườn gần nhà."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "People don't like parks or gardens near their homes.",
+          "text_translation": "Vì người ta không thích công viên hay vườn gần nhà."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "In some places, homes are far apart.",
+            "vi": "Vì ở một số nơi, nhà cửa cách xa nhau."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "In some places, homes are far apart.",
+          "text_translation": "Vì ở một số nơi, nhà cửa cách xa nhau."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Bikes are too expensive for most families.",
+            "vi": "Vì xe đạp quá đắt với hầu hết các gia đình."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Bikes are too expensive for most families.",
+          "text_translation": "Vì xe đạp quá đắt với hầu hết các gia đình."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Shops close too early in the evening.",
+            "vi": "Vì cửa hàng đóng cửa quá sớm vào buổi tối."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Shops close too early in the evening.",
+          "text_translation": "Vì cửa hàng đóng cửa quá sớm vào buổi tối."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"others worry that it won't work in places where homes are far apart.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why might the fifteen-minute idea not work everywhere?",
+      "question_vn": "Vì sao ý tưởng mười lăm phút có thể không hợp với mọi nơi?",
+      "explanation": "\"others worry that it won't work in places where homes are far apart.\""
+    },
+    {
+      "id": "q_u3334_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "Which prediction does the article say is much less certain?",
+        "vi": "Bài báo nói dự đoán nào kém chắc chắn hơn nhiều?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Self-driving buses and cars will be common.",
+            "vi": "Xe buýt và ô tô tự lái sẽ phổ biến."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Self-driving buses and cars will be common.",
+          "text_translation": "Xe buýt và ô tô tự lái sẽ phổ biến."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Cities will become greener.",
+            "vi": "Thành phố sẽ xanh hơn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Cities will become greener.",
+          "text_translation": "Thành phố sẽ xanh hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "More people will live in cities.",
+            "vi": "Sẽ có nhiều người sống ở thành phố hơn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "More people will live in cities.",
+          "text_translation": "Sẽ có nhiều người sống ở thành phố hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Buildings will produce more of their own energy.",
+            "vi": "Toà nhà sẽ tự sản xuất nhiều năng lượng hơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Buildings will produce more of their own energy.",
+          "text_translation": "Toà nhà sẽ tự sản xuất nhiều năng lượng hơn."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Some experts also expect self-driving buses and cars to be common, but this is much less certain\"."
+      },
+      "audio_data": null,
+      "question_jp": "Which prediction does the article say is much less certain?",
+      "question_vn": "Bài báo nói dự đoán nào kém chắc chắn hơn nhiều?",
+      "explanation": "\"Some experts also expect self-driving buses and cars to be common, but this is much less certain\"."
+    },
+    {
+      "id": "q_u3334_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "Why does the writer mention flying cars?",
+        "vi": "Vì sao người viết nhắc tới ô tô bay?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to say that flying cars will be common before 2050",
+            "vi": "để nói ô tô bay sẽ phổ biến trước năm 2050"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to say that flying cars will be common before 2050",
+          "text_translation": "để nói ô tô bay sẽ phổ biến trước năm 2050"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to explain how self-driving cars work",
+            "vi": "để giải thích ô tô tự lái hoạt động thế nào"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to explain how self-driving cars work",
+          "text_translation": "để giải thích ô tô tự lái hoạt động thế nào"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to show that people in the 1960s did not know much about cars",
+            "vi": "để cho thấy người những năm 1960 không hiểu nhiều về ô tô"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to show that people in the 1960s did not know much about cars",
+          "text_translation": "để cho thấy người những năm 1960 không hiểu nhiều về ô tô"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to show that forecasts about the future are often wrong",
+            "vi": "để cho thấy dự báo về tương lai thường sai"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to show that forecasts about the future are often wrong",
+          "text_translation": "để cho thấy dự báo về tương lai thường sai"
+        }
+      ],
+      "evidence_segments": [
+        14,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về mục đích. \"Of course, forecasts about the future are often wrong.\" Ô tô bay là ví dụ minh hoạ ngay sau câu này."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer mention flying cars?",
+      "question_vn": "Vì sao người viết nhắc tới ô tô bay?",
+      "explanation": "Câu suy luận về mục đích. \"Of course, forecasts about the future are often wrong.\" Ô tô bay là ví dụ minh hoạ ngay sau câu này."
+    },
+    {
+      "id": "q_u3334_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "Why does the writer say \"but we do have phones that can translate languages\"?",
+        "vi": "Vì sao người viết nói \"nhưng chúng ta lại có điện thoại biết dịch ngôn ngữ\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to say that phones are more important than flying cars",
+            "vi": "để nói điện thoại quan trọng hơn ô tô bay"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to say that phones are more important than flying cars",
+          "text_translation": "để nói điện thoại quan trọng hơn ô tô bay"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to complain that phones make people forget to talk",
+            "vi": "để phàn nàn rằng điện thoại khiến người ta quên trò chuyện"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to complain that phones make people forget to talk",
+          "text_translation": "để phàn nàn rằng điện thoại khiến người ta quên trò chuyện"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to stress that other surprising things did come true",
+            "vi": "để nhấn mạnh rằng nhiều điều bất ngờ khác đã thành hiện thực"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to stress that other surprising things did come true",
+          "text_translation": "để nhấn mạnh rằng nhiều điều bất ngờ khác đã thành hiện thực"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to sell a new app that can translate languages",
+            "vi": "để quảng cáo ứng dụng mới có thể dịch ngôn ngữ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to sell a new app that can translate languages",
+          "text_translation": "để quảng cáo ứng dụng mới có thể dịch ngôn ngữ"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"We don't, but we do have phones that can translate languages and maps that know where the traffic is.\" Do nhấn mạnh ý: tuy không có ô tô bay, ta đã có những thứ kỳ diệu khác."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer say \"but we do have phones that can translate languages\"?",
+      "question_vn": "Vì sao người viết nói \"nhưng chúng ta lại có điện thoại biết dịch ngôn ngữ\"?",
+      "explanation": "Câu suy luận. \"We don't, but we do have phones that can translate languages and maps that know where the traffic is.\" Do nhấn mạnh ý: tuy không có ô tô bay, ta đã có những thứ kỳ diệu khác."
+    },
+    {
+      "id": "q_u3334_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u3334_02",
+      "i18n": {
+        "en": "Use both texts. How was Maple Street in the 1970s similar to a \"fifteen-minute city\"?",
+        "vi": "Dựa vào cả hai bài. Maple Street những năm 1970 giống \"thành phố mười lăm phút\" ở điểm nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Everyone had a self-driving car to go to school.",
+            "vi": "Ai cũng có ô tô tự lái để đi học."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Everyone had a self-driving car to go to school.",
+          "text_translation": "Ai cũng có ô tô tự lái để đi học."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Children could walk to school, the store and the park.",
+            "vi": "Trẻ con đi bộ được tới trường, cửa hàng và công viên."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Children could walk to school, the store and the park.",
+          "text_translation": "Trẻ con đi bộ được tới trường, cửa hàng và công viên."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "There were solar panels on every roof in the street.",
+            "vi": "Mái nhà nào trên phố cũng có pin mặt trời."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "There were solar panels on every roof in the street.",
+          "text_translation": "Mái nhà nào trên phố cũng có pin mặt trời."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "There were gardens on every roof to keep the houses cool.",
+            "vi": "Mái nhà nào cũng có vườn để giữ cho nhà mát."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "There were gardens on every roof to keep the houses cool.",
+          "text_translation": "Mái nhà nào cũng có vườn để giữ cho nhà mát."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bài 2: mọi thứ cần hằng ngày \"should be within a fifteen-minute walk or bike ride from your home.\" Bài 1: \"Everything was close: children walked to school, to the grocery store and to the park.\""
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. How was Maple Street in the 1970s similar to a \"fifteen-minute city\"?",
+      "question_vn": "Dựa vào cả hai bài. Maple Street những năm 1970 giống \"thành phố mười lăm phút\" ở điểm nào?",
+      "explanation": "Câu nối hai bài. Bài 2: mọi thứ cần hằng ngày \"should be within a fifteen-minute walk or bike ride from your home.\" Bài 1: \"Everything was close: children walked to school, to the grocery store and to the park.\""
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u3334_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 33) — Trevor phỏng vấn bà Harriet về Maple Street ngày xưa",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u3334_01",
+      "question_ids": [
+        "q_u3334_001",
+        "q_u3334_002",
+        "q_u3334_003",
+        "q_u3334_004",
+        "q_u3334_005",
+        "q_u3334_006",
+        "q_u3334_007",
+        "q_u3334_008",
+        "q_u3334_009",
+        "q_u3334_010"
+      ]
+    },
+    {
+      "set_id": "set_u3334_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 34) — Thành phố năm 2050",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u3334_02",
+      "question_ids": [
+        "q_u3334_011",
+        "q_u3334_012",
+        "q_u3334_013",
+        "q_u3334_014",
+        "q_u3334_015",
+        "q_u3334_016",
+        "q_u3334_017",
+        "q_u3334_018",
+        "q_u3334_019",
+        "q_u3334_020"
+      ]
+    }
+  ]
+}

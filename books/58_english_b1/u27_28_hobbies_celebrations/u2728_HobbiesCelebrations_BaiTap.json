@@ -1,0 +1,2130 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 27–28 — Hobbies and skills & Celebrations and culture",
+      "vi": "Sở thích, kỹ năng & Lễ hội, văn hoá"
+    },
+    "title": "Units 27–28 — Hobbies and skills & Celebrations and culture",
+    "title_vn": "Sở thích, kỹ năng & Lễ hội, văn hoá",
+    "module_code": "58_u2728",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u27+u28",
+    "curriculum_sheets": [
+      "b1.105",
+      "b1.106",
+      "b1.107",
+      "b1.108",
+      "b1.109",
+      "b1.110",
+      "b1.111",
+      "b1.112"
+    ],
+    "characters": [
+      "Megan Carter",
+      "Tina Carter",
+      "Trevor Carter",
+      "Helena Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 9–10, năm 5"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Động từ + V-ing / to V, be to do, áp dụng quy định",
+    "description_vn": "Nhật ký học đàn ukulele của Megan và thông báo hội chợ mùa thu Maple Street kèm quy định trong ngày. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 27 + Unit 28 khoá B1 · phiếu `b1.105` – `b1.112` (stop / remember / try / forget + V-ing hay to V, học kỹ năng mới, sưu tầm, hoạt động cuối tuần; quy định lễ hội, lễ hội, đám cưới, quà tặng và phong tục)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một cuốn nhật ký và một thông báo; phân biệt nghĩa của `remember / stop / try / forget + V-ing` với `+ to V`, hiểu `be + to V` trong quy định (are to arrive, are to be kept), áp dụng quy định vào tình huống, và liên hệ nhân vật ở bài này với hoạt động ở bài kia."
+    },
+    "extra_words": [
+      {
+        "word": "microphone",
+        "i18n": {
+          "vi": "micro"
+        }
+      },
+      {
+        "word": "carve",
+        "i18n": {
+          "vi": "khắc, chạm"
+        }
+      },
+      {
+        "word": "stall holder",
+        "i18n": {
+          "vi": "chủ gian hàng"
+        }
+      },
+      {
+        "word": "ukulele",
+        "i18n": {
+          "vi": "đàn ukulele (đàn bốn dây nhỏ)"
+        }
+      },
+      {
+        "word": "community center",
+        "i18n": {
+          "vi": "nhà văn hoá"
+        }
+      },
+      {
+        "word": "chord",
+        "i18n": {
+          "vi": "hợp âm"
+        }
+      },
+      {
+        "word": "fingertip",
+        "i18n": {
+          "vi": "đầu ngón tay"
+        }
+      },
+      {
+        "word": "tuner",
+        "i18n": {
+          "vi": "máy lên dây đàn"
+        }
+      },
+      {
+        "word": "compliment",
+        "i18n": {
+          "vi": "lời khen"
+        }
+      },
+      {
+        "word": "pumpkin",
+        "i18n": {
+          "vi": "bí ngô"
+        }
+      },
+      {
+        "word": "carving",
+        "i18n": {
+          "vi": "việc khắc, chạm"
+        }
+      },
+      {
+        "word": "lantern",
+        "i18n": {
+          "vi": "đèn lồng"
+        }
+      },
+      {
+        "word": "leash",
+        "i18n": {
+          "vi": "dây dắt chó"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "sign up for",
+          "vi": "đăng ký (lớp học)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "give up",
+          "vi": "bỏ cuộc"
+        }
+      },
+      {
+        "i18n": {
+          "en": "stay in tune",
+          "vi": "giữ đúng âm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "bring along",
+          "vi": "mang theo"
+        }
+      },
+      {
+        "i18n": {
+          "en": "let off fireworks",
+          "vi": "đốt pháo hoa"
+        }
+      },
+      {
+        "i18n": {
+          "en": "give away",
+          "vi": "tặng, cho"
+        }
+      },
+      {
+        "i18n": {
+          "en": "show your gratitude",
+          "vi": "bày tỏ lòng biết ơn"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`remember + V-ing` = nhớ việc đã làm; `remember + to V` = nhớ để làm. Tương tự với `forget`."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`stop + V-ing` = thôi làm; `stop + to V` = dừng việc khác để làm. `try + V-ing` = thử xem sao; `try + to V` = cố gắng."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`be + to V` trong thông báo = quy định bắt buộc, nghĩa gần với must. `are not to` = không được."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu áp dụng quy định: tìm con số hoặc điều kiện (`under 10`, `by 9:30`) rồi so với người trong câu hỏi."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u2728_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 27) — Nhật ký học đàn ukulele của Megan"
+      },
+      "narrator": "Megan",
+      "title": "Megan's Ukulele Diary",
+      "category": "story",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Megan's Ukulele Diary",
+            "vi": "Nhật ký học đàn ukulele của Megan"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Week 1",
+            "vi": "Tuần 1"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I've finally done it: I've signed up for a beginners' ukulele workshop at the community center.",
+            "vi": "Cuối cùng mình cũng làm rồi: mình đã đăng ký một lớp ukulele cho người mới bắt đầu ở nhà văn hoá."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I remember hearing my grandfather play when I was little, and I've always wanted to try.",
+            "vi": "Mình còn nhớ hồi nhỏ được nghe ông ngoại chơi đàn, và mình luôn muốn thử."
+          }
+        },
+        {
+          "n": 5,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Our instructor, a cheerful man called Gus, says that the ukulele is the friendliest instrument in the world: it has only four strings, and it's small and cheap.",
+            "vi": "Thầy dạy, một ông vui tính tên Gus, bảo ukulele là nhạc cụ dễ gần nhất thế giới: chỉ có bốn dây, lại nhỏ và rẻ."
+          }
+        },
+        {
+          "n": 6,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most of the other students are retired, and one of them, a woman of eighty, played in a band when she was young.",
+            "vi": "Phần lớn học viên khác đã nghỉ hưu, và một bà tám mươi tuổi trong số đó hồi trẻ từng chơi trong một ban nhạc."
+          }
+        },
+        {
+          "n": 7,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After two hours, my fingertips hurt, and I could play exactly two chords.",
+            "vi": "Sau hai tiếng, đầu ngón tay mình đau rát, và mình chơi được đúng hai hợp âm."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Week 3",
+            "vi": "Tuần 3"
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This week, I nearly gave up.",
+            "vi": "Tuần này mình suýt bỏ cuộc."
+          }
+        },
+        {
+          "n": 10,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I work night shifts, and after twelve hours at the hospital, practicing is the last thing I want to do.",
+            "vi": "Mình làm ca đêm, và sau mười hai tiếng ở bệnh viện, tập đàn là việc mình ít muốn làm nhất."
+          }
+        },
+        {
+          "n": 11,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then I tried playing for just ten minutes a day instead of an hour on weekends, and it worked much better!",
+            "vi": "Rồi mình thử tập mỗi ngày chỉ mười phút thay vì một tiếng vào cuối tuần, và thế lại hiệu quả hơn hẳn!"
+          }
+        },
+        {
+          "n": 12,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Now I practice before I leave for work, and I keep the ukulele next to the coffee machine, so I can't forget about it.",
+            "vi": "Giờ mình tập trước khi đi làm, và để cây đàn cạnh máy pha cà phê để khỏi quên."
+          }
+        },
+        {
+          "n": 13,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Gus also told us to stop looking at our fingers. \"Your hands know more than you think,\" he said.",
+            "vi": "Thầy Gus còn bảo cả lớp thôi nhìn vào ngón tay. \"Tay các bạn biết nhiều hơn các bạn nghĩ đấy,\" thầy nói."
+          }
+        },
+        {
+          "n": 14,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Week 6",
+            "vi": "Tuần 6"
+          }
+        },
+        {
+          "n": 15,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Big progress: I can play a whole song now, slowly.",
+            "vi": "Tiến bộ lớn: giờ mình chơi được trọn một bài, chậm thôi."
+          }
+        },
+        {
+          "n": 16,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On Tuesday, I was practicing in the kitchen when Tina stopped to listen.",
+            "vi": "Hôm thứ Ba, mình đang tập trong bếp thì Tina dừng lại nghe."
+          }
+        },
+        {
+          "n": 17,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then she grabbed a wooden spoon and started singing into it like a microphone.",
+            "vi": "Rồi con bé vớ lấy cái thìa gỗ và bắt đầu hát vào đó như cầm micro."
+          }
+        },
+        {
+          "n": 18,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mitchell says that I've stopped singing in the shower, because now I sing everywhere else in the house.",
+            "vi": "Mitchell bảo mình đã thôi hát trong phòng tắm, vì giờ mình hát ở mọi chỗ khác trong nhà."
+          }
+        },
+        {
+          "n": 19,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Trevor, who is usually very honest, said, \"Not bad, Mom.\" From a teenager, that's a huge compliment.",
+            "vi": "Trevor, đứa vốn rất thẳng thắn, nói: \"Cũng được đấy mẹ.\" Từ miệng một cậu tuổi teen thì đó là lời khen to lắm."
+          }
+        },
+        {
+          "n": 20,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Week 8",
+            "vi": "Tuần 8"
+          }
+        },
+        {
+          "n": 21,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Note to myself: remember to bring along my tuner on Thursday, and don't forget to change the strings.",
+            "vi": "Tự nhắc mình: nhớ mang theo máy lên dây vào thứ Năm, và đừng quên thay dây đàn."
+          }
+        },
+        {
+          "n": 22,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Gus says that old strings never stay in tune.",
+            "vi": "Thầy Gus bảo dây cũ thì chẳng bao giờ giữ được âm chuẩn."
+          }
+        },
+        {
+          "n": 23,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Learning something new in my forties is challenging, but it makes me feel like a student again, and that's a feeling that I had forgotten.",
+            "vi": "Học điều mới ở tuổi bốn mươi mấy thật là thử thách, nhưng nó làm mình thấy như được làm học trò lần nữa, cảm giác mà mình đã quên mất."
+          }
+        }
+      ],
+      "content_ja": "Megan's Ukulele Diary\n\nWeek 1\n\nI've finally done it: I've signed up for a beginners' ukulele workshop at the community center. I remember hearing my grandfather play when I was little, and I've always wanted to try. Our instructor, a cheerful man called Gus, says that the ukulele is the friendliest instrument in the world: it has only four strings, and it's small and cheap. Most of the other students are retired, and one of them, a woman of eighty, played in a band when she was young. After two hours, my fingertips hurt, and I could play exactly two chords.\n\nWeek 3\n\nThis week, I nearly gave up. I work night shifts, and after twelve hours at the hospital, practicing is the last thing I want to do. Then I tried playing for just ten minutes a day instead of an hour on weekends, and it worked much better! Now I practice before I leave for work, and I keep the ukulele next to the coffee machine, so I can't forget about it. Gus also told us to stop looking at our fingers. \"Your hands know more than you think,\" he said.\n\nWeek 6\n\nBig progress: I can play a whole song now, slowly.\n\nOn Tuesday, I was practicing in the kitchen when Tina stopped to listen. Then she grabbed a wooden spoon and started singing into it like a microphone. Mitchell says that I've stopped singing in the shower, because now I sing everywhere else in the house. Trevor, who is usually very honest, said, \"Not bad, Mom.\" From a teenager, that's a huge compliment.\n\nWeek 8\n\nNote to myself: remember to bring along my tuner on Thursday, and don't forget to change the strings. Gus says that old strings never stay in tune. Learning something new in my forties is challenging, but it makes me feel like a student again, and that's a feeling that I had forgotten.",
+      "translation_vn": "(1) Nhật ký học đàn ukulele của Megan\n(2) Tuần 1\n(3) Cuối cùng mình cũng làm rồi: mình đã đăng ký một lớp ukulele cho người mới bắt đầu ở nhà văn hoá.\n(4) Mình còn nhớ hồi nhỏ được nghe ông ngoại chơi đàn, và mình luôn muốn thử.\n(5) Thầy dạy, một ông vui tính tên Gus, bảo ukulele là nhạc cụ dễ gần nhất thế giới: chỉ có bốn dây, lại nhỏ và rẻ.\n(6) Phần lớn học viên khác đã nghỉ hưu, và một bà tám mươi tuổi trong số đó hồi trẻ từng chơi trong một ban nhạc.\n(7) Sau hai tiếng, đầu ngón tay mình đau rát, và mình chơi được đúng hai hợp âm.\n(8) Tuần 3\n(9) Tuần này mình suýt bỏ cuộc.\n(10) Mình làm ca đêm, và sau mười hai tiếng ở bệnh viện, tập đàn là việc mình ít muốn làm nhất.\n(11) Rồi mình thử tập mỗi ngày chỉ mười phút thay vì một tiếng vào cuối tuần, và thế lại hiệu quả hơn hẳn!\n(12) Giờ mình tập trước khi đi làm, và để cây đàn cạnh máy pha cà phê để khỏi quên.\n(13) Thầy Gus còn bảo cả lớp thôi nhìn vào ngón tay. \"Tay các bạn biết nhiều hơn các bạn nghĩ đấy,\" thầy nói.\n(14) Tuần 6\n(15) Tiến bộ lớn: giờ mình chơi được trọn một bài, chậm thôi.\n(16) Hôm thứ Ba, mình đang tập trong bếp thì Tina dừng lại nghe.\n(17) Rồi con bé vớ lấy cái thìa gỗ và bắt đầu hát vào đó như cầm micro.\n(18) Mitchell bảo mình đã thôi hát trong phòng tắm, vì giờ mình hát ở mọi chỗ khác trong nhà.\n(19) Trevor, đứa vốn rất thẳng thắn, nói: \"Cũng được đấy mẹ.\" Từ miệng một cậu tuổi teen thì đó là lời khen to lắm.\n(20) Tuần 8\n(21) Tự nhắc mình: nhớ mang theo máy lên dây vào thứ Năm, và đừng quên thay dây đàn.\n(22) Thầy Gus bảo dây cũ thì chẳng bao giờ giữ được âm chuẩn.\n(23) Học điều mới ở tuổi bốn mươi mấy thật là thử thách, nhưng nó làm mình thấy như được làm học trò lần nữa, cảm giác mà mình đã quên mất.",
+      "word_count": 317,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.105",
+        "b1.106",
+        "b1.107",
+        "b1.108"
+      ]
+    },
+    {
+      "id": "passage_u2728_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 28) — Thông báo hội chợ mùa thu Maple Street"
+      },
+      "narrator": "announcer",
+      "title": "Maple Street Fall Fair",
+      "category": "notice",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Maple Street Fall Fair",
+            "vi": "Hội chợ mùa thu Maple Street"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Our annual fall fair is back, and this year it's bigger than ever!",
+            "vi": "Hội chợ mùa thu thường niên đã trở lại, và năm nay lớn hơn bao giờ hết!"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Date: Saturday, October 24",
+            "vi": "Ngày: thứ Bảy 24/10"
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Time: 11 a.m. – 8 p.m.",
+            "vi": "Giờ: 11 giờ sáng – 8 giờ tối"
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Place: Pine Street Park",
+            "vi": "Địa điểm: công viên Pine Street"
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There will be more than twenty food stalls, pumpkin carving for kids, and a riddle competition run by the book club at Harriet's.",
+            "vi": "Sẽ có hơn hai mươi gian hàng đồ ăn, khắc bí ngô cho trẻ em, và cuộc thi đố vui do câu lạc bộ sách ở quán Harriet's tổ chức."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The food stalls will sell everything from hot dogs to apple pie, and most dishes will cost less than $8.",
+            "vi": "Các gian hàng sẽ bán đủ thứ, từ xúc xích kẹp bánh mì tới bánh táo, và phần lớn món có giá dưới 8 đô."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A magician will perform at 4 p.m., and our folk music stage will have an open hour at 5 p.m. for beginners: bring along your instrument and play one song.",
+            "vi": "Một ảo thuật gia sẽ biểu diễn lúc 4 giờ chiều, và sân khấu nhạc dân gian sẽ có một giờ mở cửa lúc 5 giờ chiều cho người mới chơi: hãy mang theo nhạc cụ và chơi một bài."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Don't miss the \"Harvest Around the World\" tent, where neighbors share harvest traditions from the places where their families come from.",
+            "vi": "Đừng bỏ lỡ lều \"Mùa gặt khắp thế giới\", nơi hàng xóm chia sẻ những phong tục mùa gặt ở quê hương của gia đình mình."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last year, visitors learned how one family celebrates the end of the rice harvest in their grandparents' village, and how another family still makes apple juice every fall, just as they did on their old farm.",
+            "vi": "Năm ngoái, khách tới thăm được nghe một gia đình kể cách họ mừng xong vụ lúa ở làng của ông bà, và một gia đình khác vẫn ép nước táo mỗi mùa thu, đúng như hồi họ còn ở trang trại cũ."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every family does it differently, and that's the fun of it.",
+            "vi": "Mỗi nhà một kiểu, và vui chính là ở chỗ đó."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Rules for the day",
+            "vi": "Quy định trong ngày"
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Stall holders are to arrive by 9:30 a.m. and are to take all their trash home with them.",
+            "vi": "Chủ gian hàng phải có mặt trước 9:30 sáng và phải mang toàn bộ rác của mình về."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "No fireworks are to be let off in the park; the evening light show will use lanterns and lights only.",
+            "vi": "Không được đốt pháo hoa trong công viên; màn trình diễn ánh sáng buổi tối chỉ dùng đèn lồng và đèn."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dogs are welcome, but they are to be kept on a leash.",
+            "vi": "Chó được chào đón, nhưng phải được giữ bằng dây dắt."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Children under 10 are to stay with an adult at all times.",
+            "vi": "Trẻ dưới 10 tuổi phải ở cùng người lớn suốt thời gian tham dự."
+          }
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At 7:30 p.m., we will give away all the pumpkins that are left, so bring a bag!",
+            "vi": "Lúc 7:30 tối, chúng tôi sẽ tặng hết số bí ngô còn lại, nên nhớ mang túi nhé!"
+          }
+        },
+        {
+          "n": 18,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We still need volunteers to help put up the tents in the morning and to pick up trash in the afternoon. Even one hour helps.",
+            "vi": "Chúng tôi vẫn cần tình nguyện viên giúp dựng lều buổi sáng và nhặt rác buổi chiều. Chỉ một giờ cũng là giúp được nhiều."
+          }
+        },
+        {
+          "n": 19,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We would like to show our gratitude to Harriet's for the free coffee, and to everyone who has offered to help.",
+            "vi": "Chúng tôi xin gửi lời cảm ơn tới quán Harriet's vì cà phê miễn phí, và tới tất cả những ai đã xung phong giúp đỡ."
+          }
+        },
+        {
+          "n": 20,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Want to join them? Contact Helena Brooks at the Maple Street Neighbors Group.",
+            "vi": "Muốn tham gia cùng họ? Hãy liên hệ Helena Brooks ở Nhóm hàng xóm Maple Street."
+          }
+        }
+      ],
+      "content_ja": "Maple Street Fall Fair\n\nOur annual fall fair is back, and this year it's bigger than ever!\n\nDate: Saturday, October 24\n\nTime: 11 a.m. – 8 p.m.\n\nPlace: Pine Street Park\n\nThere will be more than twenty food stalls, pumpkin carving for kids, and a riddle competition run by the book club at Harriet's. The food stalls will sell everything from hot dogs to apple pie, and most dishes will cost less than $8. A magician will perform at 4 p.m., and our folk music stage will have an open hour at 5 p.m. for beginners: bring along your instrument and play one song.\n\nDon't miss the \"Harvest Around the World\" tent, where neighbors share harvest traditions from the places where their families come from. Last year, visitors learned how one family celebrates the end of the rice harvest in their grandparents' village, and how another family still makes apple juice every fall, just as they did on their old farm. Every family does it differently, and that's the fun of it.\n\nRules for the day\n\nStall holders are to arrive by 9:30 a.m. and are to take all their trash home with them. No fireworks are to be let off in the park; the evening light show will use lanterns and lights only. Dogs are welcome, but they are to be kept on a leash. Children under 10 are to stay with an adult at all times.\n\nAt 7:30 p.m., we will give away all the pumpkins that are left, so bring a bag! We still need volunteers to help put up the tents in the morning and to pick up trash in the afternoon. Even one hour helps. We would like to show our gratitude to Harriet's for the free coffee, and to everyone who has offered to help. Want to join them? Contact Helena Brooks at the Maple Street Neighbors Group.",
+      "translation_vn": "(1) Hội chợ mùa thu Maple Street\n(2) Hội chợ mùa thu thường niên đã trở lại, và năm nay lớn hơn bao giờ hết!\n(3) Ngày: thứ Bảy 24/10\n(4) Giờ: 11 giờ sáng – 8 giờ tối\n(5) Địa điểm: công viên Pine Street\n(6) Sẽ có hơn hai mươi gian hàng đồ ăn, khắc bí ngô cho trẻ em, và cuộc thi đố vui do câu lạc bộ sách ở quán Harriet's tổ chức.\n(7) Các gian hàng sẽ bán đủ thứ, từ xúc xích kẹp bánh mì tới bánh táo, và phần lớn món có giá dưới 8 đô.\n(8) Một ảo thuật gia sẽ biểu diễn lúc 4 giờ chiều, và sân khấu nhạc dân gian sẽ có một giờ mở cửa lúc 5 giờ chiều cho người mới chơi: hãy mang theo nhạc cụ và chơi một bài.\n(9) Đừng bỏ lỡ lều \"Mùa gặt khắp thế giới\", nơi hàng xóm chia sẻ những phong tục mùa gặt ở quê hương của gia đình mình.\n(10) Năm ngoái, khách tới thăm được nghe một gia đình kể cách họ mừng xong vụ lúa ở làng của ông bà, và một gia đình khác vẫn ép nước táo mỗi mùa thu, đúng như hồi họ còn ở trang trại cũ.\n(11) Mỗi nhà một kiểu, và vui chính là ở chỗ đó.\n(12) Quy định trong ngày\n(13) Chủ gian hàng phải có mặt trước 9:30 sáng và phải mang toàn bộ rác của mình về.\n(14) Không được đốt pháo hoa trong công viên; màn trình diễn ánh sáng buổi tối chỉ dùng đèn lồng và đèn.\n(15) Chó được chào đón, nhưng phải được giữ bằng dây dắt.\n(16) Trẻ dưới 10 tuổi phải ở cùng người lớn suốt thời gian tham dự.\n(17) Lúc 7:30 tối, chúng tôi sẽ tặng hết số bí ngô còn lại, nên nhớ mang túi nhé!\n(18) Chúng tôi vẫn cần tình nguyện viên giúp dựng lều buổi sáng và nhặt rác buổi chiều. Chỉ một giờ cũng là giúp được nhiều.\n(19) Chúng tôi xin gửi lời cảm ơn tới quán Harriet's vì cà phê miễn phí, và tới tất cả những ai đã xung phong giúp đỡ.\n(20) Muốn tham gia cùng họ? Hãy liên hệ Helena Brooks ở Nhóm hàng xóm Maple Street.",
+      "word_count": 310,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.109",
+        "b1.110",
+        "b1.111",
+        "b1.112"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u2728_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "What is the diary mainly about?",
+        "vi": "Cuốn nhật ký chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Megan's long night shifts at the hospital and how tired she feels",
+            "vi": "những ca đêm dài của Megan ở bệnh viện và việc cô mệt mỏi thế nào"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Megan's long night shifts at the hospital and how tired she feels",
+          "text_translation": "những ca đêm dài của Megan ở bệnh viện và việc cô mệt mỏi thế nào"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Megan's experience of learning the ukulele as an adult",
+            "vi": "trải nghiệm học đàn ukulele khi đã trưởng thành của Megan"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Megan's experience of learning the ukulele as an adult",
+          "text_translation": "trải nghiệm học đàn ukulele khi đã trưởng thành của Megan"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "how to make a cheap ukulele at the community center",
+            "vi": "cách làm một cây ukulele rẻ tiền ở trung tâm cộng đồng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "how to make a cheap ukulele at the community center",
+          "text_translation": "cách làm một cây ukulele rẻ tiền ở trung tâm cộng đồng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tina's dream of becoming a singer",
+            "vi": "ước mơ làm ca sĩ của Tina"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Tina's dream of becoming a singer",
+          "text_translation": "ước mơ làm ca sĩ của Tina"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"I've signed up for a beginners' ukulele workshop at the community center.\" Các trang nhật ký từ tuần 1 tới tuần 8 kể quá trình học."
+      },
+      "audio_data": null,
+      "question_jp": "What is the diary mainly about?",
+      "question_vn": "Cuốn nhật ký chủ yếu nói về điều gì?",
+      "explanation": "\"I've signed up for a beginners' ukulele workshop at the community center.\" Các trang nhật ký từ tuần 1 tới tuần 8 kể quá trình học."
+    },
+    {
+      "id": "q_u2728_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "What does \"I remember hearing my grandfather play\" mean?",
+        "vi": "Câu \"I remember hearing my grandfather play\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Megan must not forget to listen to her grandfather.",
+            "vi": "Megan không được quên nghe ông chơi đàn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Megan must not forget to listen to her grandfather.",
+          "text_translation": "Megan không được quên nghe ông chơi đàn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Megan's grandfather is going to play for her.",
+            "vi": "Ông sắp chơi đàn cho Megan nghe."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Megan's grandfather is going to play for her.",
+          "text_translation": "Ông sắp chơi đàn cho Megan nghe."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Megan wants to hear her grandfather play.",
+            "vi": "Megan muốn được nghe ông chơi đàn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Megan wants to hear her grandfather play.",
+          "text_translation": "Megan muốn được nghe ông chơi đàn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Megan has a memory of her grandfather playing.",
+            "vi": "Megan còn giữ ký ức về lúc ông chơi đàn."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Megan has a memory of her grandfather playing.",
+          "text_translation": "Megan còn giữ ký ức về lúc ông chơi đàn."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"I remember hearing my grandfather play when I was little\". Remember + V-ing = nhớ việc đã xảy ra trong quá khứ. Remember + to V = nhớ để làm việc sắp tới."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"I remember hearing my grandfather play\" mean?",
+      "question_vn": "Câu \"I remember hearing my grandfather play\" nghĩa là gì?",
+      "explanation": "\"I remember hearing my grandfather play when I was little\". Remember + V-ing = nhớ việc đã xảy ra trong quá khứ. Remember + to V = nhớ để làm việc sắp tới."
+    },
+    {
+      "id": "q_u2728_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "Why does Gus call the ukulele \"the friendliest instrument in the world\"?",
+        "vi": "Vì sao thầy Gus gọi ukulele là \"nhạc cụ dễ gần nhất thế giới\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It has only four strings, and it is small and cheap.",
+            "vi": "Vì nó chỉ có bốn dây, lại nhỏ và rẻ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It has only four strings, and it is small and cheap.",
+          "text_translation": "Vì nó chỉ có bốn dây, lại nhỏ và rẻ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is the most popular instrument among the students in his class.",
+            "vi": "Vì nó là nhạc cụ được học viên trong lớp thầy ưa chuộng nhất."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is the most popular instrument among the students in his class.",
+          "text_translation": "Vì nó là nhạc cụ được học viên trong lớp thầy ưa chuộng nhất."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is the oldest instrument, which is why everyone knows it.",
+            "vi": "Vì nó là nhạc cụ lâu đời nhất, nên ai cũng biết đến nó."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It is the oldest instrument, which is why everyone knows it.",
+          "text_translation": "Vì nó là nhạc cụ lâu đời nhất, nên ai cũng biết đến nó."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Everyone in his family plays it.",
+            "vi": "Vì cả nhà thầy đều chơi nó."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Everyone in his family plays it.",
+          "text_translation": "Vì cả nhà thầy đều chơi nó."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"it has only four strings, and it's small and cheap.\" Dấu hai chấm mở ra phần giải thích."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Gus call the ukulele \"the friendliest instrument in the world\"?",
+      "question_vn": "Vì sao thầy Gus gọi ukulele là \"nhạc cụ dễ gần nhất thế giới\"?",
+      "explanation": "\"it has only four strings, and it's small and cheap.\" Dấu hai chấm mở ra phần giải thích."
+    },
+    {
+      "id": "q_u2728_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "What could Megan do after her first lesson?",
+        "vi": "Sau buổi học đầu tiên Megan làm được gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "play a whole song",
+            "vi": "chơi trọn một bài"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "play a whole song",
+          "text_translation": "chơi trọn một bài"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "change the strings",
+            "vi": "thay dây đàn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "change the strings",
+          "text_translation": "thay dây đàn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "play exactly two chords",
+            "vi": "chơi được đúng hai hợp âm"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "play exactly two chords",
+          "text_translation": "chơi được đúng hai hợp âm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "play without looking at her fingers",
+            "vi": "chơi mà không nhìn ngón tay"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "play without looking at her fingers",
+          "text_translation": "chơi mà không nhìn ngón tay"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"After two hours, my fingertips hurt, and I could play exactly two chords.\" Chơi trọn một bài là chuyện của tuần 6."
+      },
+      "audio_data": null,
+      "question_jp": "What could Megan do after her first lesson?",
+      "question_vn": "Sau buổi học đầu tiên Megan làm được gì?",
+      "explanation": "\"After two hours, my fingertips hurt, and I could play exactly two chords.\" Chơi trọn một bài là chuyện của tuần 6."
+    },
+    {
+      "id": "q_u2728_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "Why did Megan nearly give up in Week 3?",
+        "vi": "Vì sao tuần 3 Megan suýt bỏ cuộc?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Her night shifts made her too tired to practice.",
+            "vi": "Vì ca đêm làm cô quá mệt, không tập nổi."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Her night shifts made her too tired to practice.",
+          "text_translation": "Vì ca đêm làm cô quá mệt, không tập nổi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Gus did not explain the lessons clearly enough for her.",
+            "vi": "Vì thầy Gus không giảng bài đủ rõ cho cô."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Gus did not explain the lessons clearly enough for her.",
+          "text_translation": "Vì thầy Gus không giảng bài đủ rõ cho cô."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Her ukulele was broken after the first lessons.",
+            "vi": "Vì đàn của cô bị hỏng sau mấy buổi học đầu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Her ukulele was broken after the first lessons.",
+          "text_translation": "Vì đàn của cô bị hỏng sau mấy buổi học đầu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Her family didn't like the noise she made at night.",
+            "vi": "Vì cả nhà không thích tiếng ồn cô gây ra ban đêm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Her family didn't like the noise she made at night.",
+          "text_translation": "Vì cả nhà không thích tiếng ồn cô gây ra ban đêm."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"I work night shifts, and after twelve hours at the hospital, practicing is the last thing I want to do.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why did Megan nearly give up in Week 3?",
+      "question_vn": "Vì sao tuần 3 Megan suýt bỏ cuộc?",
+      "explanation": "\"I work night shifts, and after twelve hours at the hospital, practicing is the last thing I want to do.\""
+    },
+    {
+      "id": "q_u2728_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "What does \"I tried playing for just ten minutes a day\" mean?",
+        "vi": "Câu \"I tried playing for just ten minutes a day\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She wanted to play for ten minutes a day but she didn't have time.",
+            "vi": "Cô muốn chơi mười phút mỗi ngày nhưng không có thời gian."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She wanted to play for ten minutes a day but she didn't have time.",
+          "text_translation": "Cô muốn chơi mười phút mỗi ngày nhưng không có thời gian."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She tested a new way of practicing to see if it worked.",
+            "vi": "Cô thử một cách tập mới xem có hiệu quả không."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She tested a new way of practicing to see if it worked.",
+          "text_translation": "Cô thử một cách tập mới xem có hiệu quả không."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She stopped practicing completely for the rest of the week.",
+            "vi": "Cô thôi tập hẳn trong suốt phần còn lại của tuần."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She stopped practicing completely for the rest of the week.",
+          "text_translation": "Cô thôi tập hẳn trong suốt phần còn lại của tuần."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She practiced for an hour every day.",
+            "vi": "Cô tập một tiếng mỗi ngày."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She practiced for an hour every day.",
+          "text_translation": "Cô tập một tiếng mỗi ngày."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Then I tried playing for just ten minutes a day instead of an hour on weekends, and it worked much better!\" Try + V-ing = thử làm theo một cách xem kết quả ra sao. Try + to V = cố gắng làm."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"I tried playing for just ten minutes a day\" mean?",
+      "question_vn": "Câu \"I tried playing for just ten minutes a day\" nghĩa là gì?",
+      "explanation": "\"Then I tried playing for just ten minutes a day instead of an hour on weekends, and it worked much better!\" Try + V-ing = thử làm theo một cách xem kết quả ra sao. Try + to V = cố gắng làm."
+    },
+    {
+      "id": "q_u2728_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "What does Gus mean by \"Your hands know more than you think\"?",
+        "vi": "Thầy Gus muốn nói gì qua câu \"Tay các bạn biết nhiều hơn các bạn nghĩ đấy\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Students should play with only one hand until they are ready.",
+            "vi": "Học viên nên chỉ chơi bằng một tay cho tới khi sẵn sàng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Students should play with only one hand until they are ready.",
+          "text_translation": "Học viên nên chỉ chơi bằng một tay cho tới khi sẵn sàng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Students' hands are too small to play the ukulele well.",
+            "vi": "Tay học viên quá nhỏ để chơi ukulele cho tốt."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Students' hands are too small to play the ukulele well.",
+          "text_translation": "Tay học viên quá nhỏ để chơi ukulele cho tốt."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Students should stop practicing and let their hands rest.",
+            "vi": "Học viên nên thôi tập và để tay nghỉ ngơi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Students should stop practicing and let their hands rest.",
+          "text_translation": "Học viên nên thôi tập và để tay nghỉ ngơi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "With practice, hands can find the notes without the eyes.",
+            "vi": "Nhờ tập, tay có thể tìm đúng nốt mà không cần mắt."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "With practice, hands can find the notes without the eyes.",
+          "text_translation": "Nhờ tập, tay có thể tìm đúng nốt mà không cần mắt."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Gus also told us to stop looking at our fingers.\" Thầy muốn học viên tin rằng nhờ luyện tập, tay đã tự nhớ được vị trí."
+      },
+      "audio_data": null,
+      "question_jp": "What does Gus mean by \"Your hands know more than you think\"?",
+      "question_vn": "Thầy Gus muốn nói gì qua câu \"Tay các bạn biết nhiều hơn các bạn nghĩ đấy\"?",
+      "explanation": "Câu suy luận. \"Gus also told us to stop looking at our fingers.\" Thầy muốn học viên tin rằng nhờ luyện tập, tay đã tự nhớ được vị trí."
+    },
+    {
+      "id": "q_u2728_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "What does \"Tina stopped to listen\" mean?",
+        "vi": "Câu \"Tina stopped to listen\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tina stopped listening because the song was too loud.",
+            "vi": "Tina thôi không nghe nữa vì bài hát quá to."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Tina stopped listening because the song was too loud.",
+          "text_translation": "Tina thôi không nghe nữa vì bài hát quá to."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tina told her mother to stop playing in the kitchen.",
+            "vi": "Tina bảo mẹ đừng chơi đàn trong bếp nữa."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Tina told her mother to stop playing in the kitchen.",
+          "text_translation": "Tina bảo mẹ đừng chơi đàn trong bếp nữa."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tina stopped what she was doing to listen.",
+            "vi": "Tina dừng việc đang làm để nghe."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Tina stopped what she was doing to listen.",
+          "text_translation": "Tina dừng việc đang làm để nghe."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tina never listens to music while she is in the kitchen.",
+            "vi": "Tina không bao giờ nghe nhạc khi ở trong bếp."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Tina never listens to music while she is in the kitchen.",
+          "text_translation": "Tina không bao giờ nghe nhạc khi ở trong bếp."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"I was practicing in the kitchen when Tina stopped to listen.\" Stop + to V = dừng (việc khác) lại để làm gì. Stop + V-ing = thôi làm việc đó, như \"stop looking at our fingers\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Tina stopped to listen\" mean?",
+      "question_vn": "Câu \"Tina stopped to listen\" nghĩa là gì?",
+      "explanation": "\"I was practicing in the kitchen when Tina stopped to listen.\" Stop + to V = dừng (việc khác) lại để làm gì. Stop + V-ing = thôi làm việc đó, như \"stop looking at our fingers\"."
+    },
+    {
+      "id": "q_u2728_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "Why is \"Not bad, Mom\" a huge compliment for Megan?",
+        "vi": "Vì sao câu \"Cũng được đấy mẹ\" lại là lời khen to với Megan?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Trevor is a music teacher who plays better than Megan.",
+            "vi": "Vì Trevor là giáo viên dạy nhạc và chơi giỏi hơn Megan."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Trevor is a music teacher who plays better than Megan.",
+          "text_translation": "Vì Trevor là giáo viên dạy nhạc và chơi giỏi hơn Megan."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trevor is honest, and teenagers rarely praise their parents.",
+            "vi": "Vì Trevor thẳng thắn, mà tuổi teen hiếm khi khen bố mẹ."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Trevor is honest, and teenagers rarely praise their parents.",
+          "text_translation": "Vì Trevor thẳng thắn, mà tuổi teen hiếm khi khen bố mẹ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Trevor said it in front of Gus and the other students.",
+            "vi": "Vì Trevor nói câu đó trước mặt thầy Gus và các học viên khác."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Trevor said it in front of Gus and the other students.",
+          "text_translation": "Vì Trevor nói câu đó trước mặt thầy Gus và các học viên khác."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Trevor usually says that everything his mother does is excellent.",
+            "vi": "Vì Trevor thường khen mọi việc mẹ làm đều xuất sắc."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Trevor usually says that everything his mother does is excellent.",
+          "text_translation": "Vì Trevor thường khen mọi việc mẹ làm đều xuất sắc."
+        }
+      ],
+      "evidence_segments": [
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Trevor, who is usually very honest, said, \"Not bad, Mom.\" From a teenager, that's a huge compliment.\" Một người thẳng thắn nói \"không tệ\" nghĩa là thật sự thấy hay."
+      },
+      "audio_data": null,
+      "question_jp": "Why is \"Not bad, Mom\" a huge compliment for Megan?",
+      "question_vn": "Vì sao câu \"Cũng được đấy mẹ\" lại là lời khen to với Megan?",
+      "explanation": "Câu suy luận. \"Trevor, who is usually very honest, said, \"Not bad, Mom.\" From a teenager, that's a huge compliment.\" Một người thẳng thắn nói \"không tệ\" nghĩa là thật sự thấy hay."
+    },
+    {
+      "id": "q_u2728_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_01",
+      "i18n": {
+        "en": "In \"remember to bring along my tuner on Thursday\", what is Megan talking about?",
+        "vi": "Trong câu \"remember to bring along my tuner on Thursday\", Megan đang nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "something that she must do in the future",
+            "vi": "một việc cô phải làm sắp tới"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "something that she must do in the future",
+          "text_translation": "một việc cô phải làm sắp tới"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "something that she did last Thursday",
+            "vi": "một việc cô đã làm thứ Năm tuần trước"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "something that she did last Thursday",
+          "text_translation": "một việc cô đã làm thứ Năm tuần trước"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "something that she has forgotten forever",
+            "vi": "một việc cô đã quên hẳn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "something that she has forgotten forever",
+          "text_translation": "một việc cô đã quên hẳn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "something that Gus did for the students last week",
+            "vi": "một việc thầy Gus đã làm cho học viên tuần trước"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "something that Gus did for the students last week",
+          "text_translation": "một việc thầy Gus đã làm cho học viên tuần trước"
+        }
+      ],
+      "evidence_segments": [
+        21
+      ],
+      "explanation_i18n": {
+        "vi": "\"Note to myself: remember to bring along my tuner on Thursday\". Remember + to V = nhớ để làm một việc chưa xảy ra."
+      },
+      "audio_data": null,
+      "question_jp": "In \"remember to bring along my tuner on Thursday\", what is Megan talking about?",
+      "question_vn": "Trong câu \"remember to bring along my tuner on Thursday\", Megan đang nói về điều gì?",
+      "explanation": "\"Note to myself: remember to bring along my tuner on Thursday\". Remember + to V = nhớ để làm một việc chưa xảy ra."
+    },
+    {
+      "id": "q_u2728_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "What is the main purpose of the notice?",
+        "vi": "Mục đích chính của thông báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to sell tickets for the fall fair to families in the park",
+            "vi": "để bán vé hội chợ mùa thu cho các gia đình trong công viên"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to sell tickets for the fall fair to families in the park",
+          "text_translation": "để bán vé hội chợ mùa thu cho các gia đình trong công viên"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to ask for money to build a new stage in the park",
+            "vi": "để xin tiền xây một sân khấu mới trong công viên"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to ask for money to build a new stage in the park",
+          "text_translation": "để xin tiền xây một sân khấu mới trong công viên"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to tell neighbors about the fall fair and its rules",
+            "vi": "để báo cho hàng xóm về hội chợ mùa thu và các quy định"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to tell neighbors about the fall fair and its rules",
+          "text_translation": "để báo cho hàng xóm về hội chợ mùa thu và các quy định"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to find a new magician for the next fall fair in town",
+            "vi": "để tìm một ảo thuật gia mới cho hội chợ mùa thu sau"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to find a new magician for the next fall fair in town",
+          "text_translation": "để tìm một ảo thuật gia mới cho hội chợ mùa thu sau"
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"Our annual fall fair is back, and this year it's bigger than ever!\" Thông báo nêu thời gian, hoạt động và \"Rules for the day\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of the notice?",
+      "question_vn": "Mục đích chính của thông báo là gì?",
+      "explanation": "\"Our annual fall fair is back, and this year it's bigger than ever!\" Thông báo nêu thời gian, hoạt động và \"Rules for the day\"."
+    },
+    {
+      "id": "q_u2728_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "When and where is the fair?",
+        "vi": "Hội chợ diễn ra khi nào và ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "on Saturday, October 24, in Pine Street Park",
+            "vi": "thứ Bảy 24/10, ở công viên Pine Street"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "on Saturday, October 24, in Pine Street Park",
+          "text_translation": "thứ Bảy 24/10, ở công viên Pine Street"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "on Sunday, October 24, at Harriet's",
+            "vi": "Chủ nhật 24/10, ở quán Harriet's"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "on Sunday, October 24, at Harriet's",
+          "text_translation": "Chủ nhật 24/10, ở quán Harriet's"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "every Saturday in October",
+            "vi": "mọi thứ Bảy trong tháng Mười"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "every Saturday in October",
+          "text_translation": "mọi thứ Bảy trong tháng Mười"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "on Saturday, October 24, at Westview High School",
+            "vi": "thứ Bảy 24/10, ở trường trung học Westview"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "on Saturday, October 24, at Westview High School",
+          "text_translation": "thứ Bảy 24/10, ở trường trung học Westview"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Date: Saturday, October 24\" và \"Place: Pine Street Park\". Quán Harriet's chỉ góp cà phê miễn phí."
+      },
+      "audio_data": null,
+      "question_jp": "When and where is the fair?",
+      "question_vn": "Hội chợ diễn ra khi nào và ở đâu?",
+      "explanation": "\"Date: Saturday, October 24\" và \"Place: Pine Street Park\". Quán Harriet's chỉ góp cà phê miễn phí."
+    },
+    {
+      "id": "q_u2728_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "What happens in the \"Harvest Around the World\" tent?",
+        "vi": "Ở lều \"Mùa gặt khắp thế giới\" diễn ra hoạt động gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Visitors buy rice and apple juice that neighbors made at home",
+            "vi": "Khách mua gạo và nước táo do hàng xóm tự làm ở nhà"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Visitors buy rice and apple juice that neighbors made at home",
+          "text_translation": "Khách mua gạo và nước táo do hàng xóm tự làm ở nhà"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "A magician performs tricks with rice and apple juice",
+            "vi": "Một ảo thuật gia biểu diễn trò ảo thuật với gạo và nước táo"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "A magician performs tricks with rice and apple juice",
+          "text_translation": "Một ảo thuật gia biểu diễn trò ảo thuật với gạo và nước táo"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Children carve pumpkins and sing songs about the harvest",
+            "vi": "Trẻ em khắc bí ngô và hát những bài về mùa gặt"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Children carve pumpkins and sing songs about the harvest",
+          "text_translation": "Trẻ em khắc bí ngô và hát những bài về mùa gặt"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Neighbors talk about harvest traditions from their families' old homes",
+            "vi": "Hàng xóm kể về phong tục mùa gặt ở quê cũ của gia đình mình"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Neighbors talk about harvest traditions from their families' old homes",
+          "text_translation": "Hàng xóm kể về phong tục mùa gặt ở quê cũ của gia đình mình"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"neighbors share harvest traditions from the places where their families come from.\""
+      },
+      "audio_data": null,
+      "question_jp": "What happens in the \"Harvest Around the World\" tent?",
+      "question_vn": "Ở lều \"Mùa gặt khắp thế giới\" diễn ra hoạt động gì?",
+      "explanation": "\"neighbors share harvest traditions from the places where their families come from.\""
+    },
+    {
+      "id": "q_u2728_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "In \"Stall holders are to arrive by 9:30 a.m.\", what does \"are to arrive\" mean?",
+        "vi": "Trong câu \"Stall holders are to arrive by 9:30 a.m.\", \"are to arrive\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "might arrive, but it is not necessary",
+            "vi": "có thể tới, nhưng không bắt buộc"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "might arrive, but it is not necessary",
+          "text_translation": "có thể tới, nhưng không bắt buộc"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "must arrive (it is a rule)",
+            "vi": "phải tới (đó là quy định)"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "must arrive (it is a rule)",
+          "text_translation": "phải tới (đó là quy định)"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "would like to arrive if they have time",
+            "vi": "muốn tới nếu họ có thời gian"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "would like to arrive if they have time",
+          "text_translation": "muốn tới nếu họ có thời gian"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "arrived yesterday morning",
+            "vi": "đã tới sáng hôm qua"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "arrived yesterday morning",
+          "text_translation": "đã tới sáng hôm qua"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Stall holders are to arrive by 9:30 a.m.\" Be + to V dùng trong quy định, kế hoạch chính thức, nghĩa gần với must. Mục này có tiêu đề \"Rules for the day\"."
+      },
+      "audio_data": null,
+      "question_jp": "In \"Stall holders are to arrive by 9:30 a.m.\", what does \"are to arrive\" mean?",
+      "question_vn": "Trong câu \"Stall holders are to arrive by 9:30 a.m.\", \"are to arrive\" nghĩa là gì?",
+      "explanation": "\"Stall holders are to arrive by 9:30 a.m.\" Be + to V dùng trong quy định, kế hoạch chính thức, nghĩa gần với must. Mục này có tiêu đề \"Rules for the day\"."
+    },
+    {
+      "id": "q_u2728_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "What will the evening light show use?",
+        "vi": "Màn trình diễn ánh sáng buổi tối sẽ dùng gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "fireworks and a big fire",
+            "vi": "pháo hoa và một đống lửa lớn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "fireworks and a big fire",
+          "text_translation": "pháo hoa và một đống lửa lớn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "candles in the trees around the park",
+            "vi": "nến treo trên cây quanh công viên"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "candles in the trees around the park",
+          "text_translation": "nến treo trên cây quanh công viên"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "only lanterns and lights",
+            "vi": "chỉ đèn lồng và đèn"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "only lanterns and lights",
+          "text_translation": "chỉ đèn lồng và đèn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "lights from the visitors' phones",
+            "vi": "đèn từ điện thoại của khách"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "lights from the visitors' phones",
+          "text_translation": "đèn từ điện thoại của khách"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"No fireworks are to be let off in the park; the evening light show will use lanterns and lights only.\""
+      },
+      "audio_data": null,
+      "question_jp": "What will the evening light show use?",
+      "question_vn": "Màn trình diễn ánh sáng buổi tối sẽ dùng gì?",
+      "explanation": "\"No fireworks are to be let off in the park; the evening light show will use lanterns and lights only.\""
+    },
+    {
+      "id": "q_u2728_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "Which of these is NOT allowed at the fair?",
+        "vi": "Điều nào KHÔNG được phép ở hội chợ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "bringing a dog on a leash to the park",
+            "vi": "dắt chó có dây vào công viên"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "bringing a dog on a leash to the park",
+          "text_translation": "dắt chó có dây vào công viên"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "playing one song on the folk music stage at 5 p.m.",
+            "vi": "chơi một bài ở sân khấu nhạc dân gian lúc 5 giờ chiều"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "playing one song on the folk music stage at 5 p.m.",
+          "text_translation": "chơi một bài ở sân khấu nhạc dân gian lúc 5 giờ chiều"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "taking a free pumpkin home",
+            "vi": "mang một quả bí ngô miễn phí về"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "taking a free pumpkin home",
+          "text_translation": "mang một quả bí ngô miễn phí về"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "letting a dog run around without a leash",
+            "vi": "thả chó chạy lung tung không có dây"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "letting a dog run around without a leash",
+          "text_translation": "thả chó chạy lung tung không có dây"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"Dogs are welcome, but they are to be kept on a leash.\" Ba việc còn lại thông báo đều mời hoặc cho phép."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT allowed at the fair?",
+      "question_vn": "Điều nào KHÔNG được phép ở hội chợ?",
+      "explanation": "\"Dogs are welcome, but they are to be kept on a leash.\" Ba việc còn lại thông báo đều mời hoặc cho phép."
+    },
+    {
+      "id": "q_u2728_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "A mother brings her seven-year-old son to the fair. What does the notice say about him?",
+        "vi": "Một bà mẹ đưa con trai bảy tuổi tới hội chợ. Thông báo nói gì về cậu bé?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He has to stay with an adult all the time.",
+            "vi": "Cậu bé phải ở cùng người lớn suốt thời gian tham dự."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "He has to stay with an adult all the time.",
+          "text_translation": "Cậu bé phải ở cùng người lớn suốt thời gian tham dự."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He can't come before 7:30 p.m.",
+            "vi": "Cậu bé không được tới trước 7:30 tối."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He can't come before 7:30 p.m.",
+          "text_translation": "Cậu bé không được tới trước 7:30 tối."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He can't carve pumpkins.",
+            "vi": "Cậu bé không được khắc bí ngô."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He can't carve pumpkins.",
+          "text_translation": "Cậu bé không được khắc bí ngô."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He has to take part in the riddle competition.",
+            "vi": "Cậu bé phải tham gia thi đố vui."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He has to take part in the riddle competition.",
+          "text_translation": "Cậu bé phải tham gia thi đố vui."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu áp dụng. \"Children under 10 are to stay with an adult at all times.\" Cậu bé bảy tuổi, dưới 10."
+      },
+      "audio_data": null,
+      "question_jp": "A mother brings her seven-year-old son to the fair. What does the notice say about him?",
+      "question_vn": "Một bà mẹ đưa con trai bảy tuổi tới hội chợ. Thông báo nói gì về cậu bé?",
+      "explanation": "Câu áp dụng. \"Children under 10 are to stay with an adult at all times.\" Cậu bé bảy tuổi, dưới 10."
+    },
+    {
+      "id": "q_u2728_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "What will happen at 7:30 p.m.?",
+        "vi": "Lúc 7:30 tối sẽ có gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The magician will perform for the children.",
+            "vi": "Ảo thuật gia sẽ biểu diễn cho lũ trẻ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The magician will perform for the children.",
+          "text_translation": "Ảo thuật gia sẽ biểu diễn cho lũ trẻ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The pumpkins that are left will be given away.",
+            "vi": "Số bí ngô còn lại sẽ được tặng."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The pumpkins that are left will be given away.",
+          "text_translation": "Số bí ngô còn lại sẽ được tặng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The stall holders will arrive to put up the tents.",
+            "vi": "Chủ gian hàng sẽ tới để dựng lều."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The stall holders will arrive to put up the tents.",
+          "text_translation": "Chủ gian hàng sẽ tới để dựng lều."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The beginners' hour will start on the folk music stage.",
+            "vi": "Giờ dành cho người mới chơi sẽ bắt đầu ở sân khấu nhạc dân gian."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The beginners' hour will start on the folk music stage.",
+          "text_translation": "Giờ dành cho người mới chơi sẽ bắt đầu ở sân khấu nhạc dân gian."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"At 7:30 p.m., we will give away all the pumpkins that are left, so bring a bag!\" Ảo thuật lúc 4 giờ, giờ cho người mới chơi lúc 5 giờ."
+      },
+      "audio_data": null,
+      "question_jp": "What will happen at 7:30 p.m.?",
+      "question_vn": "Lúc 7:30 tối sẽ có gì?",
+      "explanation": "\"At 7:30 p.m., we will give away all the pumpkins that are left, so bring a bag!\" Ảo thuật lúc 4 giờ, giờ cho người mới chơi lúc 5 giờ."
+    },
+    {
+      "id": "q_u2728_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "Why does the notice describe what visitors learned in the tent last year?",
+        "vi": "Vì sao thông báo kể lại những gì khách học được ở lều năm ngoái?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to say that the tent will be closed this year",
+            "vi": "để nói năm nay lều đóng cửa"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to say that the tent will be closed this year",
+          "text_translation": "để nói năm nay lều đóng cửa"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to explain how to grow rice",
+            "vi": "để giải thích cách trồng lúa"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to explain how to grow rice",
+          "text_translation": "để giải thích cách trồng lúa"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to give examples of what visitors might learn there",
+            "vi": "để đưa ví dụ về những điều khách có thể học được ở đó"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to give examples of what visitors might learn there",
+          "text_translation": "để đưa ví dụ về những điều khách có thể học được ở đó"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to show that all families celebrate the harvest in the same way",
+            "vi": "để cho thấy mọi gia đình ăn mừng mùa gặt giống nhau"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to show that all families celebrate the harvest in the same way",
+          "text_translation": "để cho thấy mọi gia đình ăn mừng mùa gặt giống nhau"
+        }
+      ],
+      "evidence_segments": [
+        10,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về mục đích. \"Last year, visitors learned how one family celebrates the end of the rice harvest\". Hai ví dụ cụ thể giúp người đọc hình dung về lều. Câu sau còn nói rõ \"Every family does it differently\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the notice describe what visitors learned in the tent last year?",
+      "question_vn": "Vì sao thông báo kể lại những gì khách học được ở lều năm ngoái?",
+      "explanation": "Câu suy luận về mục đích. \"Last year, visitors learned how one family celebrates the end of the rice harvest\". Hai ví dụ cụ thể giúp người đọc hình dung về lều. Câu sau còn nói rõ \"Every family does it differently\"."
+    },
+    {
+      "id": "q_u2728_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2728_02",
+      "i18n": {
+        "en": "Use both texts. Which part of the fair is Megan most likely to join?",
+        "vi": "Dựa vào cả hai bài. Megan nhiều khả năng sẽ tham gia hoạt động nào ở hội chợ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the riddle competition run by the book club at Harriet's",
+            "vi": "cuộc thi đố vui do câu lạc bộ sách ở Harriet's tổ chức"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the riddle competition run by the book club at Harriet's",
+          "text_translation": "cuộc thi đố vui do câu lạc bộ sách ở Harriet's tổ chức"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the magic show at four in the afternoon",
+            "vi": "màn ảo thuật lúc bốn giờ chiều"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the magic show at four in the afternoon",
+          "text_translation": "màn ảo thuật lúc bốn giờ chiều"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "pumpkin carving for kids with Trevor and Tina",
+            "vi": "khắc bí ngô cho trẻ em cùng Trevor và Tina"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "pumpkin carving for kids with Trevor and Tina",
+          "text_translation": "khắc bí ngô cho trẻ em cùng Trevor và Tina"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the open hour for beginners on the folk stage",
+            "vi": "giờ mở cửa cho người mới chơi ở sân khấu nhạc dân gian"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the open hour for beginners on the folk stage",
+          "text_translation": "giờ mở cửa cho người mới chơi ở sân khấu nhạc dân gian"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Bài 2: sân khấu nhạc dân gian \"will have an open hour at 5 p.m. for beginners: bring along your instrument and play one song.\" Bài 1: Megan đã học ukulele được tám tuần và \"can play a whole song now\"."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. Which part of the fair is Megan most likely to join?",
+      "question_vn": "Dựa vào cả hai bài. Megan nhiều khả năng sẽ tham gia hoạt động nào ở hội chợ?",
+      "explanation": "Câu nối hai bài. Bài 2: sân khấu nhạc dân gian \"will have an open hour at 5 p.m. for beginners: bring along your instrument and play one song.\" Bài 1: Megan đã học ukulele được tám tuần và \"can play a whole song now\"."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u2728_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 27) — Nhật ký học đàn ukulele của Megan",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u2728_01",
+      "question_ids": [
+        "q_u2728_001",
+        "q_u2728_002",
+        "q_u2728_003",
+        "q_u2728_004",
+        "q_u2728_005",
+        "q_u2728_006",
+        "q_u2728_007",
+        "q_u2728_008",
+        "q_u2728_009",
+        "q_u2728_010"
+      ]
+    },
+    {
+      "set_id": "set_u2728_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 28) — Thông báo hội chợ mùa thu Maple Street",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u2728_02",
+      "question_ids": [
+        "q_u2728_011",
+        "q_u2728_012",
+        "q_u2728_013",
+        "q_u2728_014",
+        "q_u2728_015",
+        "q_u2728_016",
+        "q_u2728_017",
+        "q_u2728_018",
+        "q_u2728_019",
+        "q_u2728_020"
+      ]
+    }
+  ]
+}

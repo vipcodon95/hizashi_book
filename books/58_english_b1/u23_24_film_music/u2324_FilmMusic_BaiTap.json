@@ -1,0 +1,2055 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 23–24 — Film and TV & Music and art",
+      "vi": "Phim ảnh, truyền hình & Âm nhạc, nghệ thuật"
+    },
+    "title": "Units 23–24 — Film and TV & Music and art",
+    "title_vn": "Phim ảnh, truyền hình & Âm nhạc, nghệ thuật",
+    "module_code": "58_u2324",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B1",
+    "curriculum_unit": "b1.u23+u24",
+    "curriculum_sheets": [
+      "b1.089",
+      "b1.090",
+      "b1.091",
+      "b1.092",
+      "b1.093",
+      "b1.094",
+      "b1.095",
+      "b1.096"
+    ],
+    "characters": [
+      "Nathan Brooks",
+      "Helena Brooks",
+      "Amy Brooks",
+      "Harriet Brooks"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 7, năm 5"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Mệnh đề where/when, the reason why, thái độ",
+    "description_vn": "Nhà Brooks chọn phim tối thứ Sáu (bà Harriet kể chuyện xem đổ bộ Mặt Trăng năm 1969) và bài khoa học về âm nhạc và não bộ. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 23 + Unit 24 khoá B1 · phiếu `b1.089` – `b1.096` (phim ưa thích, phim bộ và xem trực tuyến, diễn viên và đạo diễn, giới thiệu chương trình; nơi xem biểu diễn, hoà nhạc, nghệ thuật và bảo tàng, sở thích sáng tạo)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một đoạn hội thoại gia đình và một bài khoa học phổ thông; hiểu mệnh đề không xác định với `, where` / `, when`, trạng từ quan hệ `the reason why`, `That's why…`, nhận ra thái độ qua cách nói (Fine.), và phân biệt kết quả nghiên cứu thật với lời hứa hẹn bị thổi phồng."
+    },
+    "extra_words": [
+      {
+        "word": "fox",
+        "i18n": {
+          "vi": "con cáo"
+        }
+      },
+      {
+        "word": "spaceship",
+        "i18n": {
+          "vi": "tàu vũ trụ"
+        }
+      },
+      {
+        "word": "Jupiter",
+        "i18n": {
+          "vi": "sao Mộc"
+        }
+      },
+      {
+        "word": "monster",
+        "i18n": {
+          "vi": "quái vật"
+        }
+      },
+      {
+        "word": "astronaut",
+        "i18n": {
+          "vi": "phi hành gia"
+        }
+      },
+      {
+        "word": "dopamine",
+        "i18n": {
+          "vi": "dopamine, chất liên quan tới cảm giác sung sướng"
+        }
+      },
+      {
+        "word": "therapist",
+        "i18n": {
+          "vi": "nhà trị liệu"
+        }
+      },
+      {
+        "word": "injury",
+        "i18n": {
+          "vi": "chấn thương"
+        }
+      },
+      {
+        "word": "instrument",
+        "i18n": {
+          "vi": "nhạc cụ"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "burst into laughter",
+          "vi": "bật cười"
+        }
+      },
+      {
+        "i18n": {
+          "en": "fall silent",
+          "vi": "im bặt"
+        }
+      },
+      {
+        "i18n": {
+          "en": "it's my turn",
+          "vi": "đến lượt tôi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "recall",
+          "vi": "nhớ lại"
+        }
+      },
+      {
+        "i18n": {
+          "en": "take up the guitar",
+          "vi": "bắt đầu học đàn ghi-ta"
+        }
+      },
+      {
+        "i18n": {
+          "en": "there's no reason why",
+          "vi": "chẳng có lý do gì mà"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`, where …` / `, when …` (có dấu phẩy) nói thêm về nơi chốn, thời gian ngay trước nó. Câu hỏi \"where refers to…\" chỉ cần nhìn danh từ trước dấu phẩy."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`That's why…` / `the reason why…` = đó là lý do. Câu hỏi \"Why…?\" thường có đáp án ở câu ĐỨNG TRƯỚC cụm này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Trong hội thoại, `Fine.` hay `OK, then.` thường là đồng ý miễn cưỡng. Hãy xem câu sau đó người nói còn đòi gì."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài khoa học hay có đoạn `But be careful…`: câu hỏi thái độ thường hỏi đúng chỗ này."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u2324_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 23) — Tối thứ Sáu xem phim nhà Brooks"
+      },
+      "narrator": "announcer",
+      "title": "Friday Movie Night at the Brookses'",
+      "category": "story",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Friday Movie Night at the Brookses'",
+            "vi": "Tối thứ Sáu xem phim ở nhà Brooks"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every Friday, the Brooks family watches a movie together, and Harriet usually comes over with popcorn.",
+            "vi": "Tối thứ Sáu nào nhà Brooks cũng cùng xem một bộ phim, và bà Harriet thường sang chơi, mang theo bỏng ngô."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Choosing the movie is often harder than watching it.",
+            "vi": "Chọn phim thường còn khó hơn xem phim."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Nathan",
+          "label": null,
+          "i18n": {
+            "en": "OK, I've found a great science fiction movie. It's about a spaceship that gets lost near Jupiter.",
+            "vi": "Được rồi, bố tìm được một phim khoa học viễn tưởng hay lắm. Phim kể về một con tàu vũ trụ bị lạc gần sao Mộc."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Amy",
+          "label": null,
+          "i18n": {
+            "en": "Is it scary? I don't like scary ones.",
+            "vi": "Có đáng sợ không bố? Con không thích phim đáng sợ đâu."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Nathan",
+          "label": null,
+          "i18n": {
+            "en": "Only a little. There's one sequence with a monster, but you can close your eyes.",
+            "vi": "Chỉ hơi hơi thôi. Có một cảnh có quái vật, nhưng con nhắm mắt lại là được."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Amy",
+          "label": null,
+          "i18n": {
+            "en": "No way. Can we watch the animated one about the singing fox again?",
+            "vi": "Không đời nào. Mình xem lại phim hoạt hình về con cáo biết hát được không ạ?"
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Helena",
+          "label": null,
+          "i18n": {
+            "en": "We've seen it four times, sweetheart. Even you were bored last time.",
+            "vi": "Mình xem bốn lần rồi con yêu. Lần trước chính con cũng thấy chán mà."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "How about this documentary? It's about the moon landing in 1969, when I was fifteen.",
+            "vi": "Phim tài liệu này thì sao? Phim nói về lần đổ bộ lên Mặt Trăng năm 1969, hồi bà mười lăm tuổi."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Amy",
+          "label": null,
+          "i18n": {
+            "en": "Grandma, you saw it?",
+            "vi": "Bà ơi, bà được xem tận mắt ạ?"
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "On TV, of course. We didn't have a TV, so we went to our neighbor's house, where about twenty people were sitting on the floor.",
+            "vi": "Xem trên ti vi chứ cháu. Nhà bà không có ti vi, nên cả nhà sang nhà hàng xóm, ở đó có chừng hai mươi người ngồi kín sàn."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Amy",
+          "label": null,
+          "i18n": {
+            "en": "Was the TV in color?",
+            "vi": "Ti vi có màu không bà?"
+          }
+        },
+        {
+          "n": 13,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "No, it was black and white, and the picture was so unclear that we could hardly see anything. Nobody cared.",
+            "vi": "Không, ti vi đen trắng, hình mờ tới mức gần như chẳng thấy gì. Nhưng chẳng ai bận tâm."
+          }
+        },
+        {
+          "n": 14,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "When the astronaut stepped onto the moon, the room fell silent, and then everyone burst into laughter and applause. I remember it so vividly.",
+            "vi": "Lúc phi hành gia đặt chân lên Mặt Trăng, cả phòng im phăng phắc, rồi mọi người cùng bật cười và vỗ tay rầm rộ. Bà nhớ rõ mồn một."
+          }
+        },
+        {
+          "n": 15,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "I can even remember the song that was playing on the radio that whole summer.",
+            "vi": "Bà còn nhớ cả bài hát phát trên đài suốt mùa hè năm ấy."
+          }
+        },
+        {
+          "n": 16,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Helena",
+          "label": null,
+          "i18n": {
+            "en": "That sounds worthwhile. And it's not scary, Amy, I promise.",
+            "vi": "Nghe đáng xem đấy. Mà phim này không đáng sợ đâu Amy, mẹ hứa."
+          }
+        },
+        {
+          "n": 17,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Nathan",
+          "label": null,
+          "i18n": {
+            "en": "Fine. A real trip to the moon is better than a movie one anyway.",
+            "vi": "Thôi được. Dù sao chuyến lên Mặt Trăng thật cũng hay hơn chuyến trong phim."
+          }
+        },
+        {
+          "n": 18,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ninety minutes later, the documentary was over.",
+            "vi": "Chín mươi phút sau, bộ phim tài liệu kết thúc."
+          }
+        },
+        {
+          "n": 19,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Amy hadn't closed her eyes once, and she had asked about a hundred questions.",
+            "vi": "Amy chẳng nhắm mắt lần nào, và đã hỏi chừng một trăm câu."
+          }
+        },
+        {
+          "n": 20,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Amy",
+          "label": null,
+          "i18n": {
+            "en": "I want to be an astronaut. Or a film-maker. Or both!",
+            "vi": "Con muốn làm phi hành gia. Hoặc làm phim. Hoặc cả hai!"
+          }
+        },
+        {
+          "n": 21,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Nathan",
+          "label": null,
+          "i18n": {
+            "en": "Next Friday, it's my turn to choose. And we're watching the movie about Jupiter.",
+            "vi": "Thứ Sáu tới đến lượt bố chọn. Và mình sẽ xem phim về sao Mộc."
+          }
+        }
+      ],
+      "content_ja": "Friday Movie Night at the Brookses'\n\nEvery Friday, the Brooks family watches a movie together, and Harriet usually comes over with popcorn. Choosing the movie is often harder than watching it.\n\nNathan: OK, I've found a great science fiction movie. It's about a spaceship that gets lost near Jupiter.\n\nAmy: Is it scary? I don't like scary ones.\n\nNathan: Only a little. There's one sequence with a monster, but you can close your eyes.\n\nAmy: No way. Can we watch the animated one about the singing fox again?\n\nHelena: We've seen it four times, sweetheart. Even you were bored last time.\n\nHarriet: How about this documentary? It's about the moon landing in 1969, when I was fifteen.\n\nAmy: Grandma, you saw it?\n\nHarriet: On TV, of course. We didn't have a TV, so we went to our neighbor's house, where about twenty people were sitting on the floor.\n\nAmy: Was the TV in color?\n\nHarriet: No, it was black and white, and the picture was so unclear that we could hardly see anything. Nobody cared. When the astronaut stepped onto the moon, the room fell silent, and then everyone burst into laughter and applause. I remember it so vividly. I can even remember the song that was playing on the radio that whole summer.\n\nHelena: That sounds worthwhile. And it's not scary, Amy, I promise.\n\nNathan: Fine. A real trip to the moon is better than a movie one anyway.\n\nNinety minutes later, the documentary was over. Amy hadn't closed her eyes once, and she had asked about a hundred questions.\n\nAmy: I want to be an astronaut. Or a film-maker. Or both!\n\nNathan: Next Friday, it's my turn to choose. And we're watching the movie about Jupiter.",
+      "translation_vn": "(1) Tối thứ Sáu xem phim ở nhà Brooks\n(2) Tối thứ Sáu nào nhà Brooks cũng cùng xem một bộ phim, và bà Harriet thường sang chơi, mang theo bỏng ngô.\n(3) Chọn phim thường còn khó hơn xem phim.\n(4) Nathan: Được rồi, bố tìm được một phim khoa học viễn tưởng hay lắm. Phim kể về một con tàu vũ trụ bị lạc gần sao Mộc.\n(5) Amy: Có đáng sợ không bố? Con không thích phim đáng sợ đâu.\n(6) Nathan: Chỉ hơi hơi thôi. Có một cảnh có quái vật, nhưng con nhắm mắt lại là được.\n(7) Amy: Không đời nào. Mình xem lại phim hoạt hình về con cáo biết hát được không ạ?\n(8) Helena: Mình xem bốn lần rồi con yêu. Lần trước chính con cũng thấy chán mà.\n(9) Harriet: Phim tài liệu này thì sao? Phim nói về lần đổ bộ lên Mặt Trăng năm 1969, hồi bà mười lăm tuổi.\n(10) Amy: Bà ơi, bà được xem tận mắt ạ?\n(11) Harriet: Xem trên ti vi chứ cháu. Nhà bà không có ti vi, nên cả nhà sang nhà hàng xóm, ở đó có chừng hai mươi người ngồi kín sàn.\n(12) Amy: Ti vi có màu không bà?\n(13) Harriet: Không, ti vi đen trắng, hình mờ tới mức gần như chẳng thấy gì. Nhưng chẳng ai bận tâm.\n(14) Harriet: Lúc phi hành gia đặt chân lên Mặt Trăng, cả phòng im phăng phắc, rồi mọi người cùng bật cười và vỗ tay rầm rộ. Bà nhớ rõ mồn một.\n(15) Harriet: Bà còn nhớ cả bài hát phát trên đài suốt mùa hè năm ấy.\n(16) Helena: Nghe đáng xem đấy. Mà phim này không đáng sợ đâu Amy, mẹ hứa.\n(17) Nathan: Thôi được. Dù sao chuyến lên Mặt Trăng thật cũng hay hơn chuyến trong phim.\n(18) Chín mươi phút sau, bộ phim tài liệu kết thúc.\n(19) Amy chẳng nhắm mắt lần nào, và đã hỏi chừng một trăm câu.\n(20) Amy: Con muốn làm phi hành gia. Hoặc làm phim. Hoặc cả hai!\n(21) Nathan: Thứ Sáu tới đến lượt bố chọn. Và mình sẽ xem phim về sao Mộc.",
+      "word_count": 274,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.089",
+        "b1.090",
+        "b1.091",
+        "b1.092"
+      ]
+    },
+    {
+      "id": "passage_u2324_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 24) — Âm nhạc và não bộ"
+      },
+      "narrator": "announcer",
+      "title": "Why Music Moves Us: What Happens in Your Brain",
+      "category": "article",
+      "jlpt_level": "B1",
+      "difficulty": 1,
+      "estimated_reading_time": 190,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why Music Moves Us: What Happens in Your Brain",
+            "vi": "Vì sao âm nhạc lay động ta: điều gì diễn ra trong não bạn"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Think of a song that you loved when you were a teenager.",
+            "vi": "Hãy nghĩ tới một bài hát bạn từng mê hồi còn tuổi teen."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You can probably still sing most of the words, and you may even recall where you were when you first heard it.",
+            "vi": "Có lẽ bạn vẫn hát được gần hết lời, thậm chí còn nhớ mình đang ở đâu khi nghe nó lần đầu."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "That's why scientists are so interested in music: few other activities use so many parts of the brain at the same time.",
+            "vi": "Đó là lý do các nhà khoa học rất quan tâm tới âm nhạc: hiếm có hoạt động nào khác dùng tới nhiều vùng não cùng lúc như vậy."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When you listen to music, the part of the brain that deals with sound works hard, of course.",
+            "vi": "Khi bạn nghe nhạc, tất nhiên vùng não xử lý âm thanh phải làm việc vất vả."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But so do the parts that control movement, emotion and memory.",
+            "vi": "Nhưng những vùng điều khiển cử động, cảm xúc và trí nhớ cũng vậy."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "That is the reason why it is so hard to keep your feet still at a concert, and why a sad song can make you cry even when nothing sad has happened to you.",
+            "vi": "Đó là lý do ở buổi hoà nhạc rất khó giữ chân đứng yên, và vì sao một bài hát buồn có thể làm bạn khóc dù chẳng có chuyện gì buồn xảy ra với bạn."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In 2011, researchers in Canada found that when people heard music they loved, their brains released dopamine, a chemical connected to pleasure.",
+            "vi": "Năm 2011, các nhà nghiên cứu ở Canada phát hiện rằng khi người ta nghe bản nhạc mình yêu thích, não tiết ra dopamine, một chất liên quan tới cảm giác sung sướng."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is the same chemical that the brain releases when we eat good food.",
+            "vi": "Đó cũng là chất não tiết ra khi ta ăn món ngon."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Interestingly, the brain started releasing it a few seconds before people's favorite moment in a song, as if it knew what was coming.",
+            "vi": "Thú vị là não bắt đầu tiết chất ấy vài giây trước đoạn người ta thích nhất trong bài, như thể nó biết trước điều sắp đến."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Music also seems to protect memories.",
+            "vi": "Âm nhạc dường như còn giữ gìn được ký ức."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many people with serious memory problems in old age, who may no longer recognize their own family, can still sing songs from their youth.",
+            "vi": "Nhiều người già mắc bệnh trí nhớ nặng, có khi không còn nhận ra người nhà, vẫn hát được những bài hát thời trẻ."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Music therapists use this to help them feel calm and connected, and singing is also used to help some people speak again after brain injuries.",
+            "vi": "Các nhà trị liệu bằng âm nhạc dùng điều này để giúp họ thấy bình tâm và gắn kết, còn việc hát cũng được dùng để giúp một số người nói lại được sau chấn thương não."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But be careful with big promises.",
+            "vi": "Nhưng hãy cẩn thận với những lời hứa hẹn lớn."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In the 1990s, a famous study made many parents believe that playing classical music to babies would make them smarter.",
+            "vi": "Vào những năm 1990, một nghiên cứu nổi tiếng khiến nhiều phụ huynh tin rằng cho em bé nghe nhạc cổ điển sẽ làm bé thông minh hơn."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Later studies found that the effect was small and lasted only about fifteen minutes, so a baby who listens to an orchestra every day will not become much cleverer because of it.",
+            "vi": "Các nghiên cứu sau đó cho thấy tác dụng rất nhỏ và chỉ kéo dài khoảng mười lăm phút, nên một em bé ngày nào cũng nghe dàn nhạc giao hưởng cũng không vì thế mà thông minh hơn bao nhiêu."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Learning to play an instrument is different: it takes years of practice, and many researchers believe that it can train attention and listening skills.",
+            "vi": "Học chơi một nhạc cụ thì khác: việc đó cần nhiều năm luyện tập, và nhiều nhà nghiên cứu tin rằng nó có thể rèn khả năng tập trung và kỹ năng nghe."
+          }
+        },
+        {
+          "n": 18,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So if you've always wanted to take up the guitar or join a choir, there's no reason why you should wait. Your brain will thank you.",
+            "vi": "Vậy nếu bạn luôn muốn học đàn ghi-ta hay tham gia một dàn hợp xướng, chẳng có lý do gì để chờ đợi. Não bạn sẽ cảm ơn bạn."
+          }
+        }
+      ],
+      "content_ja": "Why Music Moves Us: What Happens in Your Brain\n\nThink of a song that you loved when you were a teenager. You can probably still sing most of the words, and you may even recall where you were when you first heard it. That's why scientists are so interested in music: few other activities use so many parts of the brain at the same time.\n\nWhen you listen to music, the part of the brain that deals with sound works hard, of course. But so do the parts that control movement, emotion and memory. That is the reason why it is so hard to keep your feet still at a concert, and why a sad song can make you cry even when nothing sad has happened to you.\n\nIn 2011, researchers in Canada found that when people heard music they loved, their brains released dopamine, a chemical connected to pleasure. It is the same chemical that the brain releases when we eat good food. Interestingly, the brain started releasing it a few seconds before people's favorite moment in a song, as if it knew what was coming.\n\nMusic also seems to protect memories. Many people with serious memory problems in old age, who may no longer recognize their own family, can still sing songs from their youth. Music therapists use this to help them feel calm and connected, and singing is also used to help some people speak again after brain injuries.\n\nBut be careful with big promises. In the 1990s, a famous study made many parents believe that playing classical music to babies would make them smarter. Later studies found that the effect was small and lasted only about fifteen minutes, so a baby who listens to an orchestra every day will not become much cleverer because of it. Learning to play an instrument is different: it takes years of practice, and many researchers believe that it can train attention and listening skills.\n\nSo if you've always wanted to take up the guitar or join a choir, there's no reason why you should wait. Your brain will thank you.",
+      "translation_vn": "(1) Vì sao âm nhạc lay động ta: điều gì diễn ra trong não bạn\n(2) Hãy nghĩ tới một bài hát bạn từng mê hồi còn tuổi teen.\n(3) Có lẽ bạn vẫn hát được gần hết lời, thậm chí còn nhớ mình đang ở đâu khi nghe nó lần đầu.\n(4) Đó là lý do các nhà khoa học rất quan tâm tới âm nhạc: hiếm có hoạt động nào khác dùng tới nhiều vùng não cùng lúc như vậy.\n(5) Khi bạn nghe nhạc, tất nhiên vùng não xử lý âm thanh phải làm việc vất vả.\n(6) Nhưng những vùng điều khiển cử động, cảm xúc và trí nhớ cũng vậy.\n(7) Đó là lý do ở buổi hoà nhạc rất khó giữ chân đứng yên, và vì sao một bài hát buồn có thể làm bạn khóc dù chẳng có chuyện gì buồn xảy ra với bạn.\n(8) Năm 2011, các nhà nghiên cứu ở Canada phát hiện rằng khi người ta nghe bản nhạc mình yêu thích, não tiết ra dopamine, một chất liên quan tới cảm giác sung sướng.\n(9) Đó cũng là chất não tiết ra khi ta ăn món ngon.\n(10) Thú vị là não bắt đầu tiết chất ấy vài giây trước đoạn người ta thích nhất trong bài, như thể nó biết trước điều sắp đến.\n(11) Âm nhạc dường như còn giữ gìn được ký ức.\n(12) Nhiều người già mắc bệnh trí nhớ nặng, có khi không còn nhận ra người nhà, vẫn hát được những bài hát thời trẻ.\n(13) Các nhà trị liệu bằng âm nhạc dùng điều này để giúp họ thấy bình tâm và gắn kết, còn việc hát cũng được dùng để giúp một số người nói lại được sau chấn thương não.\n(14) Nhưng hãy cẩn thận với những lời hứa hẹn lớn.\n(15) Vào những năm 1990, một nghiên cứu nổi tiếng khiến nhiều phụ huynh tin rằng cho em bé nghe nhạc cổ điển sẽ làm bé thông minh hơn.\n(16) Các nghiên cứu sau đó cho thấy tác dụng rất nhỏ và chỉ kéo dài khoảng mười lăm phút, nên một em bé ngày nào cũng nghe dàn nhạc giao hưởng cũng không vì thế mà thông minh hơn bao nhiêu.\n(17) Học chơi một nhạc cụ thì khác: việc đó cần nhiều năm luyện tập, và nhiều nhà nghiên cứu tin rằng nó có thể rèn khả năng tập trung và kỹ năng nghe.\n(18) Vậy nếu bạn luôn muốn học đàn ghi-ta hay tham gia một dàn hợp xướng, chẳng có lý do gì để chờ đợi. Não bạn sẽ cảm ơn bạn.",
+      "word_count": 349,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b1.093",
+        "b1.094",
+        "b1.095",
+        "b1.096"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u2324_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "What is the conversation mainly about?",
+        "vi": "Cuộc trò chuyện chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet's life as a teenager in a small town",
+            "vi": "cuộc sống thời thiếu niên của Harriet ở một thị trấn nhỏ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Harriet's life as a teenager in a small town",
+          "text_translation": "cuộc sống thời thiếu niên của Harriet ở một thị trấn nhỏ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "how to make popcorn for a big family",
+            "vi": "cách làm bắp rang cho một gia đình đông người"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "how to make popcorn for a big family",
+          "text_translation": "cách làm bắp rang cho một gia đình đông người"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "choosing a movie for Friday night",
+            "vi": "chọn phim cho tối thứ Sáu"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "choosing a movie for Friday night",
+          "text_translation": "chọn phim cho tối thứ Sáu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "why Amy wants to be an astronaut one day",
+            "vi": "vì sao Amy muốn làm phi hành gia một ngày nào đó"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "why Amy wants to be an astronaut one day",
+          "text_translation": "vì sao Amy muốn làm phi hành gia một ngày nào đó"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Choosing the movie is often harder than watching it.\" Cả nhà lần lượt đề xuất phim khoa học viễn tưởng, phim hoạt hình, phim tài liệu."
+      },
+      "audio_data": null,
+      "question_jp": "What is the conversation mainly about?",
+      "question_vn": "Cuộc trò chuyện chủ yếu nói về điều gì?",
+      "explanation": "\"Choosing the movie is often harder than watching it.\" Cả nhà lần lượt đề xuất phim khoa học viễn tưởng, phim hoạt hình, phim tài liệu."
+    },
+    {
+      "id": "q_u2324_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "Why doesn't Amy want to watch the science fiction movie?",
+        "vi": "Vì sao Amy không muốn xem phim khoa học viễn tưởng?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She doesn't like scary movies.",
+            "vi": "Vì cô bé không thích phim đáng sợ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She doesn't like scary movies.",
+          "text_translation": "Vì cô bé không thích phim đáng sợ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She has already seen it four times with Dad.",
+            "vi": "Cô bé đã xem nó bốn lần cùng bố."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She has already seen it four times with Dad.",
+          "text_translation": "Cô bé đã xem nó bốn lần cùng bố."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is too long for a school night.",
+            "vi": "Nó quá dài cho một đêm có học."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It is too long for a school night.",
+          "text_translation": "Nó quá dài cho một đêm có học."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She wants to watch the news about Jupiter.",
+            "vi": "Cô bé muốn xem tin tức về sao Mộc."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She wants to watch the news about Jupiter.",
+          "text_translation": "Cô bé muốn xem tin tức về sao Mộc."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Is it scary? I don't like scary ones.\" Bố nói có một cảnh có quái vật, nên Amy từ chối. Bốn lần là số lần đã xem phim con cáo."
+      },
+      "audio_data": null,
+      "question_jp": "Why doesn't Amy want to watch the science fiction movie?",
+      "question_vn": "Vì sao Amy không muốn xem phim khoa học viễn tưởng?",
+      "explanation": "\"Is it scary? I don't like scary ones.\" Bố nói có một cảnh có quái vật, nên Amy từ chối. Bốn lần là số lần đã xem phim con cáo."
+    },
+    {
+      "id": "q_u2324_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "Why does Helena say no to the animated movie?",
+        "vi": "Vì sao Helena không đồng ý xem phim hoạt hình?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is too scary for Amy, and she would cry.",
+            "vi": "Nó quá đáng sợ với Amy và cô bé sẽ khóc."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is too scary for Amy, and she would cry.",
+          "text_translation": "Nó quá đáng sợ với Amy và cô bé sẽ khóc."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet doesn't like animals in cartoon movies.",
+            "vi": "Harriet không thích động vật trong phim hoạt hình."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Harriet doesn't like animals in cartoon movies.",
+          "text_translation": "Harriet không thích động vật trong phim hoạt hình."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It costs too much to stream, so Dad wants something cheaper.",
+            "vi": "Phát trực tuyến quá tốn tiền nên bố muốn phim rẻ hơn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It costs too much to stream, so Dad wants something cheaper.",
+          "text_translation": "Phát trực tuyến quá tốn tiền nên bố muốn phim rẻ hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They have seen it four times, and Amy was bored.",
+            "vi": "Họ đã xem nó bốn lần và Amy đã chán."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "They have seen it four times, and Amy was bored.",
+          "text_translation": "Họ đã xem nó bốn lần và Amy đã chán."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"We've seen it four times, sweetheart. Even you were bored last time.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Helena say no to the animated movie?",
+      "question_vn": "Vì sao Helena không đồng ý xem phim hoạt hình?",
+      "explanation": "\"We've seen it four times, sweetheart. Even you were bored last time.\""
+    },
+    {
+      "id": "q_u2324_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "In \"we went to our neighbor's house, where about twenty people were sitting on the floor\", what does \"where\" refer to?",
+        "vi": "Trong câu \"we went to our neighbor's house, where about twenty people were sitting on the floor\", \"where\" chỉ nơi nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet's house in the city",
+            "vi": "nhà của Harriet trong thành phố"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Harriet's house in the city",
+          "text_translation": "nhà của Harriet trong thành phố"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the neighbor's house",
+            "vi": "nhà hàng xóm"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "the neighbor's house",
+          "text_translation": "nhà hàng xóm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the moon",
+            "vi": "Mặt Trăng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the moon",
+          "text_translation": "Mặt Trăng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the TV studio downtown",
+            "vi": "trường quay truyền hình ở trung tâm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the TV studio downtown",
+          "text_translation": "trường quay truyền hình ở trung tâm"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"we went to our neighbor's house, where about twenty people were sitting on the floor.\" Mệnh đề không xác định \", where …\" nói thêm về danh từ chỉ nơi chốn ngay trước dấu phẩy."
+      },
+      "audio_data": null,
+      "question_jp": "In \"we went to our neighbor's house, where about twenty people were sitting on the floor\", what does \"where\" refer to?",
+      "question_vn": "Trong câu \"we went to our neighbor's house, where about twenty people were sitting on the floor\", \"where\" chỉ nơi nào?",
+      "explanation": "\"we went to our neighbor's house, where about twenty people were sitting on the floor.\" Mệnh đề không xác định \", where …\" nói thêm về danh từ chỉ nơi chốn ngay trước dấu phẩy."
+    },
+    {
+      "id": "q_u2324_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "How old was Harriet in 1969?",
+        "vi": "Năm 1969 bà Harriet bao nhiêu tuổi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "fifteen",
+            "vi": "mười lăm"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "fifteen",
+          "text_translation": "mười lăm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "twenty-five",
+            "vi": "hai mươi lăm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "twenty-five",
+          "text_translation": "hai mươi lăm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "ninety",
+            "vi": "chín mươi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "ninety",
+          "text_translation": "chín mươi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "seven",
+            "vi": "bảy"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "seven",
+          "text_translation": "bảy"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"It's about the moon landing in 1969, when I was fifteen.\" Mệnh đề \", when …\" nói thêm về mốc thời gian 1969."
+      },
+      "audio_data": null,
+      "question_jp": "How old was Harriet in 1969?",
+      "question_vn": "Năm 1969 bà Harriet bao nhiêu tuổi?",
+      "explanation": "\"It's about the moon landing in 1969, when I was fifteen.\" Mệnh đề \", when …\" nói thêm về mốc thời gian 1969."
+    },
+    {
+      "id": "q_u2324_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "What does \"the room fell silent, and then everyone burst into laughter and applause\" show about the people watching?",
+        "vi": "Câu \"cả phòng im phăng phắc, rồi mọi người cùng bật cười và vỗ tay\" cho thấy điều gì về những người đang xem?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They were bored by the program and wanted to leave.",
+            "vi": "Họ chán chương trình và muốn ra về."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They were bored by the program and wanted to leave.",
+          "text_translation": "Họ chán chương trình và muốn ra về."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They were angry with the TV because it was black and white.",
+            "vi": "Họ giận cái TV vì nó chỉ có đen trắng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They were angry with the TV because it was black and white.",
+          "text_translation": "Họ giận cái TV vì nó chỉ có đen trắng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They were amazed at first and then very happy.",
+            "vi": "Lúc đầu họ sửng sốt, rồi vô cùng vui sướng."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "They were amazed at first and then very happy.",
+          "text_translation": "Lúc đầu họ sửng sốt, rồi vô cùng vui sướng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They didn't understand what was happening.",
+            "vi": "Họ không hiểu chuyện gì đang xảy ra."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They didn't understand what was happening.",
+          "text_translation": "Họ không hiểu chuyện gì đang xảy ra."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"the room fell silent, and then everyone burst into laughter and applause.\" Im lặng vì hồi hộp, sửng sốt; cười và vỗ tay vì vui mừng."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"the room fell silent, and then everyone burst into laughter and applause\" show about the people watching?",
+      "question_vn": "Câu \"cả phòng im phăng phắc, rồi mọi người cùng bật cười và vỗ tay\" cho thấy điều gì về những người đang xem?",
+      "explanation": "Câu suy luận. \"the room fell silent, and then everyone burst into laughter and applause.\" Im lặng vì hồi hộp, sửng sốt; cười và vỗ tay vì vui mừng."
+    },
+    {
+      "id": "q_u2324_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "In \"That sounds worthwhile\", what does \"worthwhile\" mean?",
+        "vi": "Trong câu \"That sounds worthwhile\", \"worthwhile\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "very expensive for most families",
+            "vi": "rất đắt với hầu hết các gia đình"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "very expensive for most families",
+          "text_translation": "rất đắt với hầu hết các gia đình"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "too long to finish in one night",
+            "vi": "quá dài để xem hết trong một đêm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "too long to finish in one night",
+          "text_translation": "quá dài để xem hết trong một đêm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "very funny and easy to follow",
+            "vi": "rất hài hước và dễ theo dõi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "very funny and easy to follow",
+          "text_translation": "rất hài hước và dễ theo dõi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "worth the time you spend on it",
+            "vi": "đáng bỏ thời gian"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "worth the time you spend on it",
+          "text_translation": "đáng bỏ thời gian"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"That sounds worthwhile. And it's not scary, Amy, I promise.\" Helena ủng hộ đề xuất của bà Harriet, nên worthwhile = đáng xem, đáng bỏ thời gian."
+      },
+      "audio_data": null,
+      "question_jp": "In \"That sounds worthwhile\", what does \"worthwhile\" mean?",
+      "question_vn": "Trong câu \"That sounds worthwhile\", \"worthwhile\" nghĩa là gì?",
+      "explanation": "\"That sounds worthwhile. And it's not scary, Amy, I promise.\" Helena ủng hộ đề xuất của bà Harriet, nên worthwhile = đáng xem, đáng bỏ thời gian."
+    },
+    {
+      "id": "q_u2324_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "What does Nathan's answer \"Fine. A real trip to the moon is better than a movie one anyway\" show?",
+        "vi": "Câu \"Thôi được. Dù sao chuyến lên Mặt Trăng thật cũng hay hơn chuyến trong phim\" của Nathan cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He is very angry about the plan and leaves the room.",
+            "vi": "Anh rất giận về kế hoạch và bỏ ra khỏi phòng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He is very angry about the plan and leaves the room.",
+          "text_translation": "Anh rất giận về kế hoạch và bỏ ra khỏi phòng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He agrees, although it wasn't his first choice.",
+            "vi": "Anh đồng ý, dù đó không phải lựa chọn đầu tiên của anh."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "He agrees, although it wasn't his first choice.",
+          "text_translation": "Anh đồng ý, dù đó không phải lựa chọn đầu tiên của anh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He has already seen the documentary on TV.",
+            "vi": "Anh đã xem phim tài liệu đó trên TV rồi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He has already seen the documentary on TV.",
+          "text_translation": "Anh đã xem phim tài liệu đó trên TV rồi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He doesn't like science fiction movies at all.",
+            "vi": "Anh không thích phim khoa học viễn tưởng chút nào."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He doesn't like science fiction movies at all.",
+          "text_translation": "Anh không thích phim khoa học viễn tưởng chút nào."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Fine.\" là cách đồng ý hơi miễn cưỡng. Anh tự an ủi bằng câu \"A real trip to the moon is better than a movie one anyway\", và cuối bài vẫn đòi xem phim sao Mộc."
+      },
+      "audio_data": null,
+      "question_jp": "What does Nathan's answer \"Fine. A real trip to the moon is better than a movie one anyway\" show?",
+      "question_vn": "Câu \"Thôi được. Dù sao chuyến lên Mặt Trăng thật cũng hay hơn chuyến trong phim\" của Nathan cho thấy điều gì?",
+      "explanation": "Câu suy luận. \"Fine.\" là cách đồng ý hơi miễn cưỡng. Anh tự an ủi bằng câu \"A real trip to the moon is better than a movie one anyway\", và cuối bài vẫn đòi xem phim sao Mộc."
+    },
+    {
+      "id": "q_u2324_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "What can we guess about Amy during the documentary?",
+        "vi": "Có thể suy ra điều gì về Amy trong lúc xem phim tài liệu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She was very interested in it.",
+            "vi": "Cô bé rất hứng thú."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She was very interested in it.",
+          "text_translation": "Cô bé rất hứng thú."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She fell asleep.",
+            "vi": "Cô bé ngủ gật."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She fell asleep.",
+          "text_translation": "Cô bé ngủ gật."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She was frightened.",
+            "vi": "Cô bé sợ hãi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She was frightened.",
+          "text_translation": "Cô bé sợ hãi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She wanted to watch the fox movie instead.",
+            "vi": "Cô bé muốn xem phim con cáo hơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She wanted to watch the fox movie instead.",
+          "text_translation": "Cô bé muốn xem phim con cáo hơn."
+        }
+      ],
+      "evidence_segments": [
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"Amy hadn't closed her eyes once, and she had asked about a hundred questions.\" Sau đó cô bé còn nói muốn làm phi hành gia."
+      },
+      "audio_data": null,
+      "question_jp": "What can we guess about Amy during the documentary?",
+      "question_vn": "Có thể suy ra điều gì về Amy trong lúc xem phim tài liệu?",
+      "explanation": "Câu suy luận. \"Amy hadn't closed her eyes once, and she had asked about a hundred questions.\" Sau đó cô bé còn nói muốn làm phi hành gia."
+    },
+    {
+      "id": "q_u2324_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_01",
+      "i18n": {
+        "en": "What will happen next Friday, according to Nathan?",
+        "vi": "Theo Nathan, thứ Sáu tới sẽ thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet will choose another documentary about the moon.",
+            "vi": "Harriet sẽ chọn một phim tài liệu khác về mặt trăng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Harriet will choose another documentary about the moon.",
+          "text_translation": "Harriet sẽ chọn một phim tài liệu khác về mặt trăng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They will go to the cinema together with Harriet's friends.",
+            "vi": "Họ sẽ cùng đi rạp với bạn bè của Harriet."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They will go to the cinema together with Harriet's friends.",
+          "text_translation": "Họ sẽ cùng đi rạp với bạn bè của Harriet."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Amy will make her own movie about the astronauts.",
+            "vi": "Amy sẽ tự làm một bộ phim về các phi hành gia."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Amy will make her own movie about the astronauts.",
+          "text_translation": "Amy sẽ tự làm một bộ phim về các phi hành gia."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Nathan will choose, and they will watch the Jupiter movie.",
+            "vi": "Nathan sẽ chọn, và họ sẽ xem phim về sao Mộc."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Nathan will choose, and they will watch the Jupiter movie.",
+          "text_translation": "Nathan sẽ chọn, và họ sẽ xem phim về sao Mộc."
+        }
+      ],
+      "evidence_segments": [
+        21
+      ],
+      "explanation_i18n": {
+        "vi": "\"Next Friday, it's my turn to choose. And we're watching the movie about Jupiter.\""
+      },
+      "audio_data": null,
+      "question_jp": "What will happen next Friday, according to Nathan?",
+      "question_vn": "Theo Nathan, thứ Sáu tới sẽ thế nào?",
+      "explanation": "\"Next Friday, it's my turn to choose. And we're watching the movie about Jupiter.\""
+    },
+    {
+      "id": "q_u2324_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "What is the main idea of the article?",
+        "vi": "Ý chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Playing classical music to babies every day makes them much smarter.",
+            "vi": "Cho em bé nghe nhạc cổ điển mỗi ngày khiến chúng thông minh hơn nhiều."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Playing classical music to babies every day makes them much smarter.",
+          "text_translation": "Cho em bé nghe nhạc cổ điển mỗi ngày khiến chúng thông minh hơn nhiều."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Music has real effects on the brain, but some promises about it are too big.",
+            "vi": "Âm nhạc có tác động thật lên não, nhưng một số lời hứa về nó quá lớn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Music has real effects on the brain, but some promises about it are too big.",
+          "text_translation": "Âm nhạc có tác động thật lên não, nhưng một số lời hứa về nó quá lớn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Only people who play an instrument can enjoy music deeply and fully.",
+            "vi": "Chỉ người chơi nhạc cụ mới thưởng thức âm nhạc sâu sắc trọn vẹn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Only people who play an instrument can enjoy music deeply and fully.",
+          "text_translation": "Chỉ người chơi nhạc cụ mới thưởng thức âm nhạc sâu sắc trọn vẹn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Sad songs are bad for your health, so people should not listen to them.",
+            "vi": "Bài hát buồn có hại cho sức khoẻ nên mọi người không nên nghe."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Sad songs are bad for your health, so people should not listen to them.",
+          "text_translation": "Bài hát buồn có hại cho sức khoẻ nên mọi người không nên nghe."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"few other activities use so many parts of the brain at the same time.\" Bài kể các tác dụng thật, rồi cảnh báo \"But be careful with big promises.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the main idea of the article?",
+      "question_vn": "Ý chính của bài báo là gì?",
+      "explanation": "\"few other activities use so many parts of the brain at the same time.\" Bài kể các tác dụng thật, rồi cảnh báo \"But be careful with big promises.\""
+    },
+    {
+      "id": "q_u2324_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "Why are scientists so interested in music?",
+        "vi": "Vì sao các nhà khoa học rất quan tâm tới âm nhạc?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is the newest kind of art and it keeps changing.",
+            "vi": "Nó là loại hình nghệ thuật mới nhất và luôn thay đổi."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is the newest kind of art and it keeps changing.",
+          "text_translation": "Nó là loại hình nghệ thuật mới nhất và luôn thay đổi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is easy to study because it uses only one part of the brain.",
+            "vi": "Nó dễ nghiên cứu vì chỉ dùng một phần của não."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is easy to study because it uses only one part of the brain.",
+          "text_translation": "Nó dễ nghiên cứu vì chỉ dùng một phần của não."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Few other activities use so many parts of the brain at once.",
+            "vi": "Rất ít hoạt động dùng nhiều vùng não cùng lúc như vậy."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Few other activities use so many parts of the brain at once.",
+          "text_translation": "Rất ít hoạt động dùng nhiều vùng não cùng lúc như vậy."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It cures all memory problems in people of every age.",
+            "vi": "Nó chữa mọi vấn đề trí nhớ ở người mọi lứa tuổi."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It cures all memory problems in people of every age.",
+          "text_translation": "Nó chữa mọi vấn đề trí nhớ ở người mọi lứa tuổi."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"That's why scientists are so interested in music: few other activities use so many parts of the brain at the same time.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why are scientists so interested in music?",
+      "question_vn": "Vì sao các nhà khoa học rất quan tâm tới âm nhạc?",
+      "explanation": "\"That's why scientists are so interested in music: few other activities use so many parts of the brain at the same time.\""
+    },
+    {
+      "id": "q_u2324_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "Why is it hard to keep your feet still at a concert?",
+        "vi": "Vì sao ở buổi hoà nhạc rất khó giữ chân đứng yên?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Music also uses the parts of the brain that control movement.",
+            "vi": "Vì âm nhạc dùng cả vùng não điều khiển cử động."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Music also uses the parts of the brain that control movement.",
+          "text_translation": "Vì âm nhạc dùng cả vùng não điều khiển cử động."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Concerts are very loud, so people cannot sit down.",
+            "vi": "Buổi hoà nhạc rất ồn nên người ta không ngồi yên được."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Concerts are very loud, so people cannot sit down.",
+          "text_translation": "Buổi hoà nhạc rất ồn nên người ta không ngồi yên được."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "People have to stand for a long time, so their feet get tired.",
+            "vi": "Người ta phải đứng lâu nên chân mỏi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "People have to stand for a long time, so their feet get tired.",
+          "text_translation": "Người ta phải đứng lâu nên chân mỏi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The music makes people sad, and sad people move more.",
+            "vi": "Âm nhạc làm người ta buồn, và người buồn cử động nhiều hơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The music makes people sad, and sad people move more.",
+          "text_translation": "Âm nhạc làm người ta buồn, và người buồn cử động nhiều hơn."
+        }
+      ],
+      "evidence_segments": [
+        6,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"But so do the parts that control movement, emotion and memory.\" Câu sau: \"That is the reason why it is so hard to keep your feet still at a concert\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why is it hard to keep your feet still at a concert?",
+      "question_vn": "Vì sao ở buổi hoà nhạc rất khó giữ chân đứng yên?",
+      "explanation": "\"But so do the parts that control movement, emotion and memory.\" Câu sau: \"That is the reason why it is so hard to keep your feet still at a concert\"."
+    },
+    {
+      "id": "q_u2324_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "What did researchers in Canada find in 2011?",
+        "vi": "Năm 2011 các nhà nghiên cứu ở Canada phát hiện điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Music makes people eat more when they are at a concert.",
+            "vi": "Âm nhạc khiến người ta ăn nhiều hơn khi đi hoà nhạc."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Music makes people eat more when they are at a concert.",
+          "text_translation": "Âm nhạc khiến người ta ăn nhiều hơn khi đi hoà nhạc."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Sad songs release dopamine more than happy songs do.",
+            "vi": "Bài hát buồn giải phóng dopamine nhiều hơn bài vui."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Sad songs release dopamine more than happy songs do.",
+          "text_translation": "Bài hát buồn giải phóng dopamine nhiều hơn bài vui."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "People remember songs for only a few minutes after hearing them.",
+            "vi": "Người ta chỉ nhớ bài hát vài phút sau khi nghe."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "People remember songs for only a few minutes after hearing them.",
+          "text_translation": "Người ta chỉ nhớ bài hát vài phút sau khi nghe."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The brain released dopamine when people heard music they loved.",
+            "vi": "Não tiết dopamine khi người ta nghe bản nhạc mình yêu thích."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The brain released dopamine when people heard music they loved.",
+          "text_translation": "Não tiết dopamine khi người ta nghe bản nhạc mình yêu thích."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"when people heard music they loved, their brains released dopamine, a chemical connected to pleasure.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did researchers in Canada find in 2011?",
+      "question_vn": "Năm 2011 các nhà nghiên cứu ở Canada phát hiện điều gì?",
+      "explanation": "\"when people heard music they loved, their brains released dopamine, a chemical connected to pleasure.\""
+    },
+    {
+      "id": "q_u2324_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "What does \"as if it knew what was coming\" suggest?",
+        "vi": "Cụm \"như thể nó biết trước điều sắp đến\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The brain forgets songs quickly, even the ones people love.",
+            "vi": "Não quên bài hát rất nhanh, kể cả những bài người ta yêu."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The brain forgets songs quickly, even the ones people love.",
+          "text_translation": "Não quên bài hát rất nhanh, kể cả những bài người ta yêu."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The brain expects the favorite part of a song before it comes.",
+            "vi": "Não đoán trước phần yêu thích của bài hát trước khi nó đến."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The brain expects the favorite part of a song before it comes.",
+          "text_translation": "Não đoán trước phần yêu thích của bài hát trước khi nó đến."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "People can see the future.",
+            "vi": "Con người nhìn thấy được tương lai."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "People can see the future.",
+          "text_translation": "Con người nhìn thấy được tương lai."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The song was played too fast for the brain to follow.",
+            "vi": "Bài hát được phát quá nhanh nên não không theo kịp."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The song was played too fast for the brain to follow.",
+          "text_translation": "Bài hát được phát quá nhanh nên não không theo kịp."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"the brain started releasing it a few seconds before people's favorite moment in a song, as if it knew what was coming.\" Não phản ứng trước khi đoạn đó tới, nghĩa là nó đang chờ đón."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"as if it knew what was coming\" suggest?",
+      "question_vn": "Cụm \"như thể nó biết trước điều sắp đến\" hàm ý gì?",
+      "explanation": "Câu suy luận. \"the brain started releasing it a few seconds before people's favorite moment in a song, as if it knew what was coming.\" Não phản ứng trước khi đoạn đó tới, nghĩa là nó đang chờ đón."
+    },
+    {
+      "id": "q_u2324_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "What can many older people with serious memory problems still do?",
+        "vi": "Nhiều người già mắc bệnh trí nhớ nặng vẫn làm được gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "recognize every family member",
+            "vi": "nhận ra mọi người trong nhà"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "recognize every family member",
+          "text_translation": "nhận ra mọi người trong nhà"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "play in an orchestra",
+            "vi": "chơi trong dàn nhạc"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "play in an orchestra",
+          "text_translation": "chơi trong dàn nhạc"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "sing songs from their youth",
+            "vi": "hát những bài hát thời trẻ"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "sing songs from their youth",
+          "text_translation": "hát những bài hát thời trẻ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "learn new instruments quickly",
+            "vi": "học nhạc cụ mới thật nhanh"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "learn new instruments quickly",
+          "text_translation": "học nhạc cụ mới thật nhanh"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"Many people with serious memory problems in old age, who may no longer recognize their own family, can still sing songs from their youth.\""
+      },
+      "audio_data": null,
+      "question_jp": "What can many older people with serious memory problems still do?",
+      "question_vn": "Nhiều người già mắc bệnh trí nhớ nặng vẫn làm được gì?",
+      "explanation": "\"Many people with serious memory problems in old age, who may no longer recognize their own family, can still sing songs from their youth.\""
+    },
+    {
+      "id": "q_u2324_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "Which of these is NOT given as a way that music or singing helps people?",
+        "vi": "Điều nào KHÔNG được nêu là cách âm nhạc hay ca hát giúp con người?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It cures memory problems completely.",
+            "vi": "Nó chữa khỏi hoàn toàn bệnh trí nhớ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It cures memory problems completely.",
+          "text_translation": "Nó chữa khỏi hoàn toàn bệnh trí nhớ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It helps people with memory problems feel calm.",
+            "vi": "Nó giúp người bệnh trí nhớ thấy bình tâm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It helps people with memory problems feel calm.",
+          "text_translation": "Nó giúp người bệnh trí nhớ thấy bình tâm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It helps people feel connected.",
+            "vi": "Nó giúp người ta thấy gắn kết."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It helps people feel connected.",
+          "text_translation": "Nó giúp người ta thấy gắn kết."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It helps some people speak again after brain injuries.",
+            "vi": "Nó giúp một số người nói lại được sau chấn thương não."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It helps some people speak again after brain injuries.",
+          "text_translation": "Nó giúp một số người nói lại được sau chấn thương não."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"Music therapists use this to help them feel calm and connected, and singing is also used to help some people speak again after brain injuries.\" Bài không hề nói âm nhạc chữa khỏi bệnh."
+      },
+      "audio_data": null,
+      "question_jp": "Which of these is NOT given as a way that music or singing helps people?",
+      "question_vn": "Điều nào KHÔNG được nêu là cách âm nhạc hay ca hát giúp con người?",
+      "explanation": "\"Music therapists use this to help them feel calm and connected, and singing is also used to help some people speak again after brain injuries.\" Bài không hề nói âm nhạc chữa khỏi bệnh."
+    },
+    {
+      "id": "q_u2324_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "What did later studies find about playing classical music to babies?",
+        "vi": "Các nghiên cứu sau này phát hiện gì về việc cho em bé nghe nhạc cổ điển?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It made babies much smarter for the rest of their childhood.",
+            "vi": "Nó làm em bé thông minh hơn hẳn suốt thời thơ ấu."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It made babies much smarter for the rest of their childhood.",
+          "text_translation": "Nó làm em bé thông minh hơn hẳn suốt thời thơ ấu."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The effect was small and lasted only about fifteen minutes.",
+            "vi": "Tác dụng rất nhỏ và chỉ kéo dài khoảng mười lăm phút."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The effect was small and lasted only about fifteen minutes.",
+          "text_translation": "Tác dụng rất nhỏ và chỉ kéo dài khoảng mười lăm phút."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It was bad for babies' ears if the music was too loud.",
+            "vi": "Nó có hại cho tai em bé nếu nhạc quá to."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It was bad for babies' ears if the music was too loud.",
+          "text_translation": "Nó có hại cho tai em bé nếu nhạc quá to."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Babies preferred jazz to classical music in the test.",
+            "vi": "Trong thử nghiệm, em bé thích nhạc jazz hơn nhạc cổ điển."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Babies preferred jazz to classical music in the test.",
+          "text_translation": "Trong thử nghiệm, em bé thích nhạc jazz hơn nhạc cổ điển."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"Later studies found that the effect was small and lasted only about fifteen minutes\"."
+      },
+      "audio_data": null,
+      "question_jp": "What did later studies find about playing classical music to babies?",
+      "question_vn": "Các nghiên cứu sau này phát hiện gì về việc cho em bé nghe nhạc cổ điển?",
+      "explanation": "\"Later studies found that the effect was small and lasted only about fifteen minutes\"."
+    },
+    {
+      "id": "q_u2324_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "What is the writer's attitude toward \"big promises\" about music?",
+        "vi": "Thái độ của người viết với \"những lời hứa hẹn lớn\" về âm nhạc thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "excited and ready to believe them all",
+            "vi": "hào hứng và sẵn sàng tin tất cả"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "excited and ready to believe them all",
+          "text_translation": "hào hứng và sẵn sàng tin tất cả"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "angry that people talk about music",
+            "vi": "tức giận vì mọi người bàn về âm nhạc"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "angry that people talk about music",
+          "text_translation": "tức giận vì mọi người bàn về âm nhạc"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "not interested in what they say",
+            "vi": "không quan tâm đến những gì chúng nói"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "not interested in what they say",
+          "text_translation": "không quan tâm đến những gì chúng nói"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "careful and not ready to believe them",
+            "vi": "thận trọng, chưa vội tin"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "careful and not ready to believe them",
+          "text_translation": "thận trọng, chưa vội tin"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi thái độ. \"But be careful with big promises.\" Rồi người viết dùng ví dụ nhạc cổ điển cho em bé để chỉ ra lời hứa đó bị thổi phồng."
+      },
+      "audio_data": null,
+      "question_jp": "What is the writer's attitude toward \"big promises\" about music?",
+      "question_vn": "Thái độ của người viết với \"những lời hứa hẹn lớn\" về âm nhạc thế nào?",
+      "explanation": "Câu hỏi thái độ. \"But be careful with big promises.\" Rồi người viết dùng ví dụ nhạc cổ điển cho em bé để chỉ ra lời hứa đó bị thổi phồng."
+    },
+    {
+      "id": "q_u2324_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B1",
+      "passage_ref": "passage_u2324_02",
+      "i18n": {
+        "en": "Use both texts. Which idea from the article helps explain why Harriet still remembers the song from the summer of 1969?",
+        "vi": "Dựa vào cả hai bài. Ý nào trong bài báo giúp giải thích vì sao bà Harriet vẫn nhớ bài hát của mùa hè năm 1969?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Classical music makes people smarter in the long run.",
+            "vi": "Nhạc cổ điển về lâu dài làm con người thông minh hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Classical music makes people smarter in the long run.",
+          "text_translation": "Nhạc cổ điển về lâu dài làm con người thông minh hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Concerts make it hard to keep your feet still, so people dance.",
+            "vi": "Buổi hoà nhạc khiến chân khó đứng yên nên người ta nhảy."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Concerts make it hard to keep your feet still, so people dance.",
+          "text_translation": "Buổi hoà nhạc khiến chân khó đứng yên nên người ta nhảy."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Music is linked to memory, so songs from youth often stay with us.",
+            "vi": "Âm nhạc gắn với trí nhớ nên các bài hát thời trẻ thường ở lại với ta."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Music is linked to memory, so songs from youth often stay with us.",
+          "text_translation": "Âm nhạc gắn với trí nhớ nên các bài hát thời trẻ thường ở lại với ta."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The brain releases dopamine when we eat good food, so we remember songs.",
+            "vi": "Não tiết dopamine khi ta ăn ngon nên ta nhớ các bài hát."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The brain releases dopamine when we eat good food, so we remember songs.",
+          "text_translation": "Não tiết dopamine khi ta ăn ngon nên ta nhớ các bài hát."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. \"Music also seems to protect memories.\" Bài báo mở đầu bằng việc ta vẫn hát được bài hát mình mê hồi tuổi teen. Bà Harriet hồi đó mười lăm tuổi."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. Which idea from the article helps explain why Harriet still remembers the song from the summer of 1969?",
+      "question_vn": "Dựa vào cả hai bài. Ý nào trong bài báo giúp giải thích vì sao bà Harriet vẫn nhớ bài hát của mùa hè năm 1969?",
+      "explanation": "Câu nối hai bài. \"Music also seems to protect memories.\" Bài báo mở đầu bằng việc ta vẫn hát được bài hát mình mê hồi tuổi teen. Bà Harriet hồi đó mười lăm tuổi."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u2324_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 23) — Tối thứ Sáu xem phim nhà Brooks",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u2324_01",
+      "question_ids": [
+        "q_u2324_001",
+        "q_u2324_002",
+        "q_u2324_003",
+        "q_u2324_004",
+        "q_u2324_005",
+        "q_u2324_006",
+        "q_u2324_007",
+        "q_u2324_008",
+        "q_u2324_009",
+        "q_u2324_010"
+      ]
+    },
+    {
+      "set_id": "set_u2324_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 24) — Âm nhạc và não bộ",
+      "description": "Đọc hiểu B1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u2324_02",
+      "question_ids": [
+        "q_u2324_011",
+        "q_u2324_012",
+        "q_u2324_013",
+        "q_u2324_014",
+        "q_u2324_015",
+        "q_u2324_016",
+        "q_u2324_017",
+        "q_u2324_018",
+        "q_u2324_019",
+        "q_u2324_020"
+      ]
+    }
+  ]
+}

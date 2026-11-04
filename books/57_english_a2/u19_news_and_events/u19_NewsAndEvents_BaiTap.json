@@ -1,0 +1,1432 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 19 — News and events",
+      "vi": "Tin tức, sự kiện"
+    },
+    "title": "Unit 19 — News and events",
+    "title_vn": "Tin tức, sự kiện",
+    "module_code": "57_u19",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A2",
+    "curriculum_unit": "a2.u19",
+    "curriculum_sheets": [
+      "a2.73",
+      "a2.74",
+      "a2.75",
+      "a2.76"
+    ],
+    "characters": [
+      "Harriet Brooks",
+      "Chloe Bennett",
+      "Nathan Brooks",
+      "Helena Brooks",
+      "Dustin",
+      "Ethan Hayes"
+    ],
+    "story_time_i18n": {
+      "vi": "giữa tháng 8, năm 3 (số báo khu phố tuần thứ hai của tháng 8, trước thứ Bảy 24/8 Tracy bay đi Washington; quán Harriet's tròn 10 năm, mở vào tháng 8 mười năm trước sau khi bà Harriet nghỉ dạy; vụ cháy bếp ở The Blue Lemon xảy ra tối thứ Ba cùng tuần)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "bị động quá khứ đơn, hiện tại hoàn thành, quá khứ tiếp diễn; ý chính, thông tin cụ thể (by…), quy chiếu (They), cụm động từ trong ngữ cảnh (put out), thái độ người nói, 4 câu suy luận (nhân vật, thái độ, lý do nối hai đoạn, câu đùa)",
+    "description_vn": "Bài báo khu phố của phóng viên Corinne Whitfield về mười năm quán Harriet's (súp rau, máy tính bảng, hộp tiền gỗ, Summer Story Morning, lớp vẽ của Helena, biển mới do Chloe thiết kế), và bản tin vụ cháy chảo dầu nhỏ ở The Blue Lemon được bếp trưởng Rosa Delgado dập bằng nắp chảo, đội của Ethan Hayes tới kiểm tra và khuyên an toàn. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 19 khoá A2 · phiếu `a2.73` – `a2.76` (chuyện gì đã xảy ra, \"it was built in…\", tai nạn và tình huống khẩn cấp, lễ hội)."
+    },
+    "objective_i18n": {
+      "vi": "đọc bài báo khu phố về mười năm quán Harriet's và bản tin một vụ cháy bếp nhỏ ở nhà hàng The Blue Lemon trên phố Pine; hiểu câu bị động ở quá khứ đơn (was opened, was designed by…), hiện tại hoàn thành (has been visited, have been accepted) và quá khứ tiếp diễn (was being cooked); tìm chi tiết, xác định ai làm việc gì qua by, hiểu They chỉ gì, đoán nghĩa cụm put out, nắm ý chính bản tin và suy ra điều bài không nói thẳng."
+    },
+    "extra_words": [
+      {
+        "word": "café",
+        "i18n": {
+          "vi": "quán cà phê"
+        }
+      },
+      {
+        "word": "retired",
+        "i18n": {
+          "vi": "đã nghỉ hưu"
+        }
+      },
+      {
+        "word": "counter",
+        "i18n": {
+          "vi": "quầy (trong quán)"
+        }
+      },
+      {
+        "word": "chef",
+        "i18n": {
+          "vi": "đầu bếp (head chef: bếp trưởng)"
+        }
+      },
+      {
+        "word": "oil",
+        "i18n": {
+          "vi": "dầu ăn"
+        }
+      },
+      {
+        "word": "lid",
+        "i18n": {
+          "vi": "nắp (nồi, chảo)"
+        }
+      },
+      {
+        "word": "firefighter",
+        "i18n": {
+          "vi": "lính cứu hoả"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "was opened / was designed by…",
+          "vi": "được mở / do… thiết kế (bị động quá khứ)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "has been visited by…",
+          "vi": "đã được… ghé thăm (bị động hiện tại hoàn thành)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "was being cooked",
+          "vi": "đang được nấu (bị động quá khứ tiếp diễn)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "put out a fire",
+          "vi": "dập tắt đám cháy"
+        }
+      },
+      {
+        "i18n": {
+          "en": "catch fire",
+          "vi": "bốc cháy"
+        }
+      },
+      {
+        "i18n": {
+          "en": "an emergency in the kitchen",
+          "vi": "sự cố khẩn cấp trong bếp"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "**Bị động** = be + V3. Thì nằm ở động từ be: `is sold` (hiện tại), `was opened` (quá khứ), `has been visited` (hiện tại hoàn thành), `was being cooked` (quá khứ tiếp diễn)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Muốn biết AI làm việc trong câu bị động thì tìm chữ **by**: `It was designed by Chloe Bennett` = Chloe thiết kế. Không có by nghĩa là người làm không quan trọng hoặc ai cũng biết."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài báo và bản tin: tiêu đề và hai câu đầu thường nêu đủ chuyện gì, ở đâu, khi nào, kết quả ra sao. Câu hỏi ý chính chỉ cần khoanh ở đó."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Lời trích trong bài báo (\"…,\" she said) đi kèm những chữ nhỏ như `with a smile`, `laughed`, `with a laugh`. Đó là manh mối về thái độ của người nói."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu suy luận có thể cần nối hai đoạn khác nhau: hành động ở đoạn này (No water!), lý do ở lời khuyên của chuyên gia ở đoạn sau."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u19_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Bài báo khu phố: mười năm quán Harriet's"
+      },
+      "narrator": "announcer",
+      "title": "Harriet's Café: Ten Years on Maple Street",
+      "category": "article",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 120,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet's Café: Ten Years on Maple Street",
+            "vi": "Quán Harriet's: mười năm trên phố Maple"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ten years ago this month, a small café was opened on Maple Street by a retired teacher, and since then it has been visited by thousands of neighbors.",
+            "vi": "Mười năm trước, cũng vào tháng này, một cô giáo về hưu mở một quán cà phê nhỏ trên phố Maple, và từ đó tới nay, hàng nghìn người trong khu phố đã ghé quán."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet Brooks taught second grade for almost forty years.",
+            "vi": "Bà Harriet Brooks dạy lớp hai gần bốn mươi năm."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"When I stopped teaching, I wanted a place where the whole street could gather,\" she told us.",
+            "vi": "\"Khi nghỉ dạy, tôi muốn có một nơi để cả phố tụ họp,\" bà kể với chúng tôi."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The walls were painted yellow by her son, Nathan.",
+            "vi": "Những bức tường do con trai bà, Nathan, sơn màu vàng."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some things have never changed.",
+            "vi": "Có những thứ chưa bao giờ thay đổi."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The famous vegetable soup is still sold for five dollars a bowl.",
+            "vi": "Món súp rau nổi tiếng vẫn được bán năm đô một bát."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"I've eaten it every Wednesday for three years,\" said Dustin, a dog walker.",
+            "vi": "\"Ba năm nay, thứ Tư nào tôi cũng ăn món này,\" Dustin, một người dắt chó đi dạo thuê, cho biết."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"The dogs wait for me outside the window. They know the smell!\"",
+            "vi": "\"Mấy con chó ngồi chờ tôi ngoài cửa sổ. Chúng thuộc mùi súp rồi!\""
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Other things are new.",
+            "vi": "Cũng có những thứ mới."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Since May, cards have been accepted on a small tablet, but the old wooden money box is still kept under the counter \"for days when the battery dies.\"",
+            "vi": "Từ tháng 5, quán đã nhận thanh toán thẻ trên một chiếc máy tính bảng nhỏ, nhưng chiếc hộp đựng tiền bằng gỗ cũ vẫn được cất dưới quầy \"cho những hôm máy hết pin\"."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On Saturday mornings, stories are read to children at Summer Story Morning.",
+            "vi": "Sáng thứ Bảy, các em nhỏ được nghe đọc truyện ở buổi Summer Story Morning."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On Sunday afternoons, art classes are taught there by Helena Brooks, Harriet's daughter-in-law.",
+            "vi": "Chiều Chủ nhật, Helena Brooks, con dâu bà Harriet, dạy vẽ ngay tại quán."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Both have become a tradition on the street.",
+            "vi": "Cả hai đã trở thành truyền thống của khu phố."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last week, a new sign was put up above the door.",
+            "vi": "Tuần trước, một tấm biển mới đã được treo phía trên cửa."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was designed by Chloe Bennett, who works at the café.",
+            "vi": "Tấm biển do Chloe Bennett, người đang làm ở quán, thiết kế."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"The heart on it is a symbol of this place,\" Chloe said.",
+            "vi": "\"Trái tim trên biển là biểu tượng của nơi này,\" Chloe nói."
+          }
+        },
+        {
+          "n": 18,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet's is open Tuesday to Sunday. Come early on Saturdays!",
+            "vi": "Quán Harriet's mở cửa từ thứ Ba tới Chủ nhật. Thứ Bảy thì nhớ tới sớm nhé!"
+          }
+        },
+        {
+          "n": 19,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet turns seventy this month, and she has been asked many times when she is going to stop working.",
+            "vi": "Tháng này bà Harriet tròn bảy mươi tuổi, và bà đã bị hỏi nhiều lần là khi nào bà định nghỉ làm."
+          }
+        },
+        {
+          "n": 20,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"My answer is always the same: not yet!\" she said with a smile.",
+            "vi": "\"Câu trả lời của tôi lúc nào cũng vậy: chưa đâu!\" bà mỉm cười nói."
+          }
+        },
+        {
+          "n": 21,
+          "para": 9,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Written by Corinne Whitfield, Maple Street Neighborhood News",
+            "vi": "Bài viết: Corinne Whitfield, báo Tin khu phố Maple Street"
+          }
+        }
+      ],
+      "content_ja": "Harriet's Café: Ten Years on Maple Street\n\nTen years ago this month, a small café was opened on Maple Street by a retired teacher, and since then it has been visited by thousands of neighbors.\n\nHarriet Brooks taught second grade for almost forty years. \"When I stopped teaching, I wanted a place where the whole street could gather,\" she told us. The walls were painted yellow by her son, Nathan.\n\nSome things have never changed. The famous vegetable soup is still sold for five dollars a bowl. \"I've eaten it every Wednesday for three years,\" said Dustin, a dog walker. \"The dogs wait for me outside the window. They know the smell!\"\n\nOther things are new. Since May, cards have been accepted on a small tablet, but the old wooden money box is still kept under the counter \"for days when the battery dies.\" On Saturday mornings, stories are read to children at Summer Story Morning. On Sunday afternoons, art classes are taught there by Helena Brooks, Harriet's daughter-in-law. Both have become a tradition on the street.\n\nLast week, a new sign was put up above the door. It was designed by Chloe Bennett, who works at the café. \"The heart on it is a symbol of this place,\" Chloe said.\n\nHarriet's is open Tuesday to Sunday. Come early on Saturdays!\n\nHarriet turns seventy this month, and she has been asked many times when she is going to stop working. \"My answer is always the same: not yet!\" she said with a smile.\n\nWritten by Corinne Whitfield, Maple Street Neighborhood News",
+      "translation_vn": "(1) Quán Harriet's: mười năm trên phố Maple\n(2) Mười năm trước, cũng vào tháng này, một cô giáo về hưu mở một quán cà phê nhỏ trên phố Maple, và từ đó tới nay, hàng nghìn người trong khu phố đã ghé quán.\n(3) Bà Harriet Brooks dạy lớp hai gần bốn mươi năm.\n(4) \"Khi nghỉ dạy, tôi muốn có một nơi để cả phố tụ họp,\" bà kể với chúng tôi.\n(5) Những bức tường do con trai bà, Nathan, sơn màu vàng.\n(6) Có những thứ chưa bao giờ thay đổi.\n(7) Món súp rau nổi tiếng vẫn được bán năm đô một bát.\n(8) \"Ba năm nay, thứ Tư nào tôi cũng ăn món này,\" Dustin, một người dắt chó đi dạo thuê, cho biết.\n(9) \"Mấy con chó ngồi chờ tôi ngoài cửa sổ. Chúng thuộc mùi súp rồi!\"\n(10) Cũng có những thứ mới.\n(11) Từ tháng 5, quán đã nhận thanh toán thẻ trên một chiếc máy tính bảng nhỏ, nhưng chiếc hộp đựng tiền bằng gỗ cũ vẫn được cất dưới quầy \"cho những hôm máy hết pin\".\n(12) Sáng thứ Bảy, các em nhỏ được nghe đọc truyện ở buổi Summer Story Morning.\n(13) Chiều Chủ nhật, Helena Brooks, con dâu bà Harriet, dạy vẽ ngay tại quán.\n(14) Cả hai đã trở thành truyền thống của khu phố.\n(15) Tuần trước, một tấm biển mới đã được treo phía trên cửa.\n(16) Tấm biển do Chloe Bennett, người đang làm ở quán, thiết kế.\n(17) \"Trái tim trên biển là biểu tượng của nơi này,\" Chloe nói.\n(18) Quán Harriet's mở cửa từ thứ Ba tới Chủ nhật. Thứ Bảy thì nhớ tới sớm nhé!\n(19) Tháng này bà Harriet tròn bảy mươi tuổi, và bà đã bị hỏi nhiều lần là khi nào bà định nghỉ làm.\n(20) \"Câu trả lời của tôi lúc nào cũng vậy: chưa đâu!\" bà mỉm cười nói.\n(21) Bài viết: Corinne Whitfield, báo Tin khu phố Maple Street",
+      "word_count": 263,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.73",
+        "a2.74",
+        "a2.75",
+        "a2.76"
+      ]
+    },
+    {
+      "id": "passage_u19_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Bản tin: cháy bếp nhỏ ở nhà hàng trên phố Pine"
+      },
+      "narrator": "announcer",
+      "title": "Kitchen Fire at The Blue Lemon: No One Hurt",
+      "category": "article",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 120,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Kitchen Fire at The Blue Lemon: No One Hurt",
+            "vi": "Cháy bếp ở nhà hàng The Blue Lemon: không ai bị thương"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On Tuesday evening, a small fire started in the kitchen of The Blue Lemon on Pine Street.",
+            "vi": "Tối thứ Ba, một đám cháy nhỏ đã bùng lên trong bếp của nhà hàng The Blue Lemon trên phố Pine."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was put out in less than a minute, and no one was seriously injured.",
+            "vi": "Đám cháy được dập tắt trong chưa đầy một phút, và không ai bị thương nặng."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At about 7:30, fish was being cooked in a pan of hot oil when the oil suddenly caught fire.",
+            "vi": "Khoảng 7 giờ 30, cá đang được rán trong một chảo dầu nóng thì dầu bất ngờ bốc cháy."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A young cook picked up a cup of water and ran toward the pan.",
+            "vi": "Một phụ bếp trẻ cầm một cốc nước chạy về phía cái chảo."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"Stop! No water!\" shouted the head chef, Rosa Delgado.",
+            "vi": "\"Dừng lại! Không dùng nước!\" bếp trưởng Rosa Delgado hét lên."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She turned off the heat and slowly slid a metal lid over the pan, and the fire went out in seconds.",
+            "vi": "Chị tắt bếp rồi từ từ trượt một cái nắp kim loại đậy kín chảo, và lửa tắt chỉ sau vài giây."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "However, smoke spread through the kitchen, and the fire alarm went off.",
+            "vi": "Tuy vậy, khói lan khắp bếp, và chuông báo cháy reo lên."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A few customers screamed, but everyone was taken outside calmly, and the fire department was called.",
+            "vi": "Vài người khách hét lên, nhưng mọi người được bình tĩnh đưa ra ngoài, và đội cứu hoả được gọi tới."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Firefighters arrived five minutes later.",
+            "vi": "Năm phút sau, lính cứu hoả có mặt."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"The chef did exactly the right thing,\" said firefighter Ethan Hayes.",
+            "vi": "\"Bếp trưởng đã làm đúng hoàn toàn,\" lính cứu hoả Ethan Hayes nói."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"Never throw water on burning oil. The oil floats on the water, and the fire spreads.\"",
+            "vi": "\"Đừng bao giờ hắt nước vào dầu đang cháy. Dầu nổi trên mặt nước, và lửa sẽ lan ra.\""
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Here is his advice for an emergency in the kitchen.",
+            "vi": "Đây là lời khuyên của anh khi gặp sự cố khẩn cấp trong bếp."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If a pan catches fire, turn off the heat and cover it with a lid.",
+            "vi": "Nếu chảo bốc cháy, hãy tắt bếp và đậy nắp lên chảo."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Leave the lid on until the pan is cool, and don't carry the pan outside.",
+            "vi": "Để nguyên nắp cho tới khi chảo nguội, và đừng bê chảo ra ngoài."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If the fire gets bigger, get out and call 911.",
+            "vi": "Nếu lửa to hơn, hãy ra ngoài và gọi 911."
+          }
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Nobody has blamed the young cook. \"He only wanted to help,\" Delgado said.",
+            "vi": "Không ai trách người phụ bếp trẻ. \"Cậu ấy chỉ muốn giúp thôi,\" chị Delgado nói."
+          }
+        },
+        {
+          "n": 18,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The restaurant opened again on Thursday, and the firefighters were given a lemon cake.",
+            "vi": "Nhà hàng mở cửa lại vào thứ Năm, và đội cứu hoả được tặng một chiếc bánh chanh."
+          }
+        },
+        {
+          "n": 19,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"I'm not allowed to cook at the fire station,\" Hayes laughed, \"so I love eating other people's food!\"",
+            "vi": "\"Ở trạm cứu hoả người ta không cho tôi nấu ăn,\" anh Hayes cười, \"nên tôi rất mê được ăn đồ người khác nấu!\""
+          }
+        },
+        {
+          "n": 20,
+          "para": 8,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Written by Corinne Whitfield, Maple Street Neighborhood News",
+            "vi": "Bài viết: Corinne Whitfield, báo Tin khu phố Maple Street"
+          }
+        }
+      ],
+      "content_ja": "Kitchen Fire at The Blue Lemon: No One Hurt\n\nOn Tuesday evening, a small fire started in the kitchen of The Blue Lemon on Pine Street. It was put out in less than a minute, and no one was seriously injured.\n\nAt about 7:30, fish was being cooked in a pan of hot oil when the oil suddenly caught fire. A young cook picked up a cup of water and ran toward the pan. \"Stop! No water!\" shouted the head chef, Rosa Delgado. She turned off the heat and slowly slid a metal lid over the pan, and the fire went out in seconds.\n\nHowever, smoke spread through the kitchen, and the fire alarm went off. A few customers screamed, but everyone was taken outside calmly, and the fire department was called. Firefighters arrived five minutes later.\n\n\"The chef did exactly the right thing,\" said firefighter Ethan Hayes. \"Never throw water on burning oil. The oil floats on the water, and the fire spreads.\"\n\nHere is his advice for an emergency in the kitchen. If a pan catches fire, turn off the heat and cover it with a lid. Leave the lid on until the pan is cool, and don't carry the pan outside. If the fire gets bigger, get out and call 911.\n\nNobody has blamed the young cook. \"He only wanted to help,\" Delgado said. The restaurant opened again on Thursday, and the firefighters were given a lemon cake. \"I'm not allowed to cook at the fire station,\" Hayes laughed, \"so I love eating other people's food!\"\n\nWritten by Corinne Whitfield, Maple Street Neighborhood News",
+      "translation_vn": "(1) Cháy bếp ở nhà hàng The Blue Lemon: không ai bị thương\n(2) Tối thứ Ba, một đám cháy nhỏ đã bùng lên trong bếp của nhà hàng The Blue Lemon trên phố Pine.\n(3) Đám cháy được dập tắt trong chưa đầy một phút, và không ai bị thương nặng.\n(4) Khoảng 7 giờ 30, cá đang được rán trong một chảo dầu nóng thì dầu bất ngờ bốc cháy.\n(5) Một phụ bếp trẻ cầm một cốc nước chạy về phía cái chảo.\n(6) \"Dừng lại! Không dùng nước!\" bếp trưởng Rosa Delgado hét lên.\n(7) Chị tắt bếp rồi từ từ trượt một cái nắp kim loại đậy kín chảo, và lửa tắt chỉ sau vài giây.\n(8) Tuy vậy, khói lan khắp bếp, và chuông báo cháy reo lên.\n(9) Vài người khách hét lên, nhưng mọi người được bình tĩnh đưa ra ngoài, và đội cứu hoả được gọi tới.\n(10) Năm phút sau, lính cứu hoả có mặt.\n(11) \"Bếp trưởng đã làm đúng hoàn toàn,\" lính cứu hoả Ethan Hayes nói.\n(12) \"Đừng bao giờ hắt nước vào dầu đang cháy. Dầu nổi trên mặt nước, và lửa sẽ lan ra.\"\n(13) Đây là lời khuyên của anh khi gặp sự cố khẩn cấp trong bếp.\n(14) Nếu chảo bốc cháy, hãy tắt bếp và đậy nắp lên chảo.\n(15) Để nguyên nắp cho tới khi chảo nguội, và đừng bê chảo ra ngoài.\n(16) Nếu lửa to hơn, hãy ra ngoài và gọi 911.\n(17) Không ai trách người phụ bếp trẻ. \"Cậu ấy chỉ muốn giúp thôi,\" chị Delgado nói.\n(18) Nhà hàng mở cửa lại vào thứ Năm, và đội cứu hoả được tặng một chiếc bánh chanh.\n(19) \"Ở trạm cứu hoả người ta không cho tôi nấu ăn,\" anh Hayes cười, \"nên tôi rất mê được ăn đồ người khác nấu!\"\n(20) Bài viết: Corinne Whitfield, báo Tin khu phố Maple Street",
+      "word_count": 265,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.73",
+        "a2.74",
+        "a2.75",
+        "a2.76"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u19_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u19_01",
+      "i18n": {
+        "en": "What is the article mainly about?",
+        "vi": "Bài báo chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how to make Harriet's vegetable soup at home",
+            "vi": "cách nấu súp rau của bà Harriet ở nhà"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how to make Harriet's vegetable soup at home",
+          "text_translation": "cách nấu súp rau của bà Harriet ở nhà"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the café's ten years: what has stayed the same and what is new",
+            "vi": "mười năm của quán: những gì vẫn như cũ và những gì mới"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "the café's ten years: what has stayed the same and what is new",
+          "text_translation": "mười năm của quán: những gì vẫn như cũ và những gì mới"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Chloe's new job as a designer",
+            "vi": "công việc mới của Chloe làm nhà thiết kế"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Chloe's new job as a designer",
+          "text_translation": "công việc mới của Chloe làm nhà thiết kế"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a birthday party for Harriet next month",
+            "vi": "tiệc sinh nhật bà Harriet vào tháng sau"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a birthday party for Harriet next month",
+          "text_translation": "tiệc sinh nhật bà Harriet vào tháng sau"
+        }
+      ],
+      "evidence_segments": [
+        1,
+        2,
+        6,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề là \"Harriet's Café: Ten Years on Maple Street\". Bài kể quán được mở thế nào (\"a small café was opened on Maple Street by a retired teacher\"), rồi đi qua hai phần \"Some things have never changed.\" và \"Other things are new.\". Bài chỉ nói giá súp, không dạy cách nấu. Chloe chỉ thiết kế tấm biển và vẫn là người \"works at the café\", bài không nói cô có việc mới. Bài nói \"Harriet turns seventy this month\" (tháng này), không nhắc tiệc nào vào tháng sau."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi ý chính: đọc tiêu đề và các câu mở đoạn (\"Some things have never changed.\", \"Other things are new.\"). Phương án chỉ khớp một chi tiết nhỏ là phương án nhiễu."
+      },
+      "question_jp": "What is the article mainly about?",
+      "question_vn": "Bài báo chủ yếu nói về điều gì?",
+      "explanation": "Tiêu đề là \"Harriet's Café: Ten Years on Maple Street\". Bài kể quán được mở thế nào (\"a small café was opened on Maple Street by a retired teacher\"), rồi đi qua hai phần \"Some things have never changed.\" và \"Other things are new.\". Bài chỉ nói giá súp, không dạy cách nấu. Chloe chỉ thiết kế tấm biển và vẫn là người \"works at the café\", bài không nói cô có việc mới. Bài nói \"Harriet turns seventy this month\" (tháng này), không nhắc tiệc nào vào tháng sau.",
+      "tip": "Câu hỏi ý chính: đọc tiêu đề và các câu mở đoạn (\"Some things have never changed.\", \"Other things are new.\"). Phương án chỉ khớp một chi tiết nhỏ là phương án nhiễu."
+    },
+    {
+      "id": "q_u19_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u19_01",
+      "i18n": {
+        "en": "Who designed the new sign above the door?",
+        "vi": "Ai thiết kế tấm biển mới phía trên cửa?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Nathan, Harriet's son",
+            "vi": "Nathan, con trai bà Harriet"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Nathan, Harriet's son",
+          "text_translation": "Nathan, con trai bà Harriet"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet",
+            "vi": "bà Harriet"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Harriet",
+          "text_translation": "bà Harriet"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Dustin, a dog walker",
+            "vi": "Dustin, người dắt chó đi dạo thuê"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Dustin, a dog walker",
+          "text_translation": "Dustin, người dắt chó đi dạo thuê"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Chloe Bennett",
+            "vi": "Chloe Bennett"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Chloe Bennett",
+          "text_translation": "Chloe Bennett"
+        }
+      ],
+      "evidence_segments": [
+        15,
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"Last week, a new sign was put up above the door.\" \"It was designed by Chloe Bennett, who works at the café.\" Trong câu bị động, người làm việc đó đứng sau by: by Chloe Bennett. Nathan sơn tường (\"The walls were painted yellow by her son, Nathan\"), không phải làm biển. Bà Harriet là chủ quán, còn Dustin là khách ăn súp; không ai trong hai người thiết kế biển."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu bị động (was designed, was painted…): muốn biết AI làm thì tìm chữ by. Cẩn thận vì bài có hai câu bị động với by gần giống nhau."
+      },
+      "question_jp": "Who designed the new sign above the door?",
+      "question_vn": "Ai thiết kế tấm biển mới phía trên cửa?",
+      "explanation": "\"Last week, a new sign was put up above the door.\" \"It was designed by Chloe Bennett, who works at the café.\" Trong câu bị động, người làm việc đó đứng sau by: by Chloe Bennett. Nathan sơn tường (\"The walls were painted yellow by her son, Nathan\"), không phải làm biển. Bà Harriet là chủ quán, còn Dustin là khách ăn súp; không ai trong hai người thiết kế biển.",
+      "tip": "Câu bị động (was designed, was painted…): muốn biết AI làm thì tìm chữ by. Cẩn thận vì bài có hai câu bị động với by gần giống nhau."
+    },
+    {
+      "id": "q_u19_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u19_01",
+      "i18n": {
+        "en": "In \"The dogs wait for me outside the window. They know the smell!\", who or what does \"They\" refer to?",
+        "vi": "Trong câu \"The dogs wait for me outside the window. They know the smell!\", \"They\" chỉ ai hoặc cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the dogs that wait for Dustin",
+            "vi": "mấy con chó chờ Dustin"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the dogs that wait for Dustin",
+          "text_translation": "mấy con chó chờ Dustin"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the thousands of neighbors",
+            "vi": "hàng nghìn người trong khu phố"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the thousands of neighbors",
+          "text_translation": "hàng nghìn người trong khu phố"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the people who work at the café",
+            "vi": "những người làm ở quán"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the people who work at the café",
+          "text_translation": "những người làm ở quán"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the children at Summer Story Morning",
+            "vi": "các em nhỏ ở buổi Summer Story Morning"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the children at Summer Story Morning",
+          "text_translation": "các em nhỏ ở buổi Summer Story Morning"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"They\" chỉ \"The dogs\" ở câu ngay trước: mấy con chó chờ Dustin ngoài cửa sổ và đã thuộc mùi súp. Hàng nghìn người trong khu phố (\"thousands of neighbors\") và các em nhỏ ở Summer Story Morning nằm ở đoạn khác, không phải những ai \"wait for me outside the window\". Câu này không nhắc tới người làm ở quán."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "They thường chỉ danh từ số nhiều đứng gần nhất phía trước. Thử thay vào: \"The dogs know the smell\" là hợp nghĩa."
+      },
+      "question_jp": "In \"The dogs wait for me outside the window. They know the smell!\", who or what does \"They\" refer to?",
+      "question_vn": "Trong câu \"The dogs wait for me outside the window. They know the smell!\", \"They\" chỉ ai hoặc cái gì?",
+      "explanation": "\"They\" chỉ \"The dogs\" ở câu ngay trước: mấy con chó chờ Dustin ngoài cửa sổ và đã thuộc mùi súp. Hàng nghìn người trong khu phố (\"thousands of neighbors\") và các em nhỏ ở Summer Story Morning nằm ở đoạn khác, không phải những ai \"wait for me outside the window\". Câu này không nhắc tới người làm ở quán.",
+      "tip": "They thường chỉ danh từ số nhiều đứng gần nhất phía trước. Thử thay vào: \"The dogs know the smell\" là hợp nghĩa."
+    },
+    {
+      "id": "q_u19_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u19_01",
+      "i18n": {
+        "en": "What can we guess about Dustin from what he said?",
+        "vi": "Từ những gì Dustin nói, ta có thể đoán điều gì về anh?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He does not like the soup very much.",
+            "vi": "Anh không thích món súp lắm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He does not like the soup very much.",
+          "text_translation": "Anh không thích món súp lắm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He has worked at the café for three years.",
+            "vi": "Anh đã làm ở quán được ba năm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He has worked at the café for three years.",
+          "text_translation": "Anh đã làm ở quán được ba năm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He probably brings the dogs he is walking when he comes for lunch.",
+            "vi": "Có lẽ anh dẫn theo mấy con chó anh đang dắt đi dạo khi tới ăn trưa."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "He probably brings the dogs he is walking when he comes for lunch.",
+          "text_translation": "Có lẽ anh dẫn theo mấy con chó anh đang dắt đi dạo khi tới ăn trưa."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He comes to the café every day of the week.",
+            "vi": "Ngày nào trong tuần anh cũng tới quán."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He comes to the café every day of the week.",
+          "text_translation": "Ngày nào trong tuần anh cũng tới quán."
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. Dustin là \"a dog walker\" (người dắt chó đi dạo thuê), và anh nói \"The dogs wait for me outside the window.\" Vậy khi ghé ăn, anh đang đi làm và để mấy con chó chờ ngoài cửa. Anh ăn súp \"every Wednesday for three years\", nên chắc chắn là thích, và ba năm đó là ba năm làm khách, không phải làm ở quán. Anh tới vào thứ Tư, không phải ngày nào cũng tới."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận về nhân vật: ghép nghề của người đó (a dog walker) với điều người đó nói (The dogs wait for me outside)."
+      },
+      "question_jp": "What can we guess about Dustin from what he said?",
+      "question_vn": "Từ những gì Dustin nói, ta có thể đoán điều gì về anh?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. Dustin là \"a dog walker\" (người dắt chó đi dạo thuê), và anh nói \"The dogs wait for me outside the window.\" Vậy khi ghé ăn, anh đang đi làm và để mấy con chó chờ ngoài cửa. Anh ăn súp \"every Wednesday for three years\", nên chắc chắn là thích, và ba năm đó là ba năm làm khách, không phải làm ở quán. Anh tới vào thứ Tư, không phải ngày nào cũng tới.",
+      "tip": "Câu suy luận về nhân vật: ghép nghề của người đó (a dog walker) với điều người đó nói (The dogs wait for me outside)."
+    },
+    {
+      "id": "q_u19_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u19_01",
+      "i18n": {
+        "en": "What does Harriet's answer \"not yet!\" show?",
+        "vi": "Câu trả lời \"not yet!\" (chưa đâu!) của bà Harriet cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is going to close the café next month.",
+            "vi": "Bà sắp đóng cửa quán vào tháng sau."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She is going to close the café next month.",
+          "text_translation": "Bà sắp đóng cửa quán vào tháng sau."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She enjoys her work and does not plan to stop soon.",
+            "vi": "Bà thích công việc của mình và chưa định nghỉ sớm."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She enjoys her work and does not plan to stop soon.",
+          "text_translation": "Bà thích công việc của mình và chưa định nghỉ sớm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She is angry about the same question.",
+            "vi": "Bà bực mình vì cứ bị hỏi một câu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She is angry about the same question.",
+          "text_translation": "Bà bực mình vì cứ bị hỏi một câu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She wants Chloe to run the café for her.",
+            "vi": "Bà muốn Chloe quản lý quán thay mình."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She wants Chloe to run the café for her.",
+          "text_translation": "Bà muốn Chloe quản lý quán thay mình."
+        }
+      ],
+      "evidence_segments": [
+        19,
+        20
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. Bài viết \"she has been asked many times when she is going to stop working\", và bà trả lời \"not yet!\" \"with a smile\". Tròn bảy mươi tuổi mà vẫn vui vẻ nói \"chưa đâu\", nghĩa là bà còn thích làm và chưa muốn nghỉ. Not yet là ngược với chuyện sắp đóng cửa. Bà mỉm cười, không tỏ ra bực. Bài không nói gì về chuyện Chloe quản lý quán."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Thái độ của người nói nằm ở những chữ nhỏ quanh lời trích: with a smile, laughed… Hãy đọc cả phần đó, đừng chỉ đọc lời trích."
+      },
+      "question_jp": "What does Harriet's answer \"not yet!\" show?",
+      "question_vn": "Câu trả lời \"not yet!\" (chưa đâu!) của bà Harriet cho thấy điều gì?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. Bài viết \"she has been asked many times when she is going to stop working\", và bà trả lời \"not yet!\" \"with a smile\". Tròn bảy mươi tuổi mà vẫn vui vẻ nói \"chưa đâu\", nghĩa là bà còn thích làm và chưa muốn nghỉ. Not yet là ngược với chuyện sắp đóng cửa. Bà mỉm cười, không tỏ ra bực. Bài không nói gì về chuyện Chloe quản lý quán.",
+      "tip": "Thái độ của người nói nằm ở những chữ nhỏ quanh lời trích: with a smile, laughed… Hãy đọc cả phần đó, đừng chỉ đọc lời trích."
+    },
+    {
+      "id": "q_u19_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u19_02",
+      "i18n": {
+        "en": "What is the news report mainly about?",
+        "vi": "Bản tin chủ yếu nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a small kitchen fire that was put out quickly",
+            "vi": "một đám cháy nhỏ trong bếp được dập tắt nhanh"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "a small kitchen fire that was put out quickly",
+          "text_translation": "một đám cháy nhỏ trong bếp được dập tắt nhanh"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a new seafood restaurant on Pine Street",
+            "vi": "một nhà hàng hải sản mới trên phố Pine"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a new seafood restaurant on Pine Street",
+          "text_translation": "một nhà hàng hải sản mới trên phố Pine"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a firefighter who wants to open a restaurant",
+            "vi": "một lính cứu hoả muốn mở nhà hàng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a firefighter who wants to open a restaurant",
+          "text_translation": "một lính cứu hoả muốn mở nhà hàng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a cooking class at the fire station",
+            "vi": "một lớp nấu ăn ở trạm cứu hoả"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a cooking class at the fire station",
+          "text_translation": "một lớp nấu ăn ở trạm cứu hoả"
+        }
+      ],
+      "evidence_segments": [
+        1,
+        2,
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề \"Kitchen Fire at The Blue Lemon: No One Hurt\" và hai câu đầu (\"a small fire started in the kitchen\", \"It was put out in less than a minute\") nêu đúng ý chính. The Blue Lemon không phải nhà hàng mới; bài nói nó \"opened again on Thursday\" (mở cửa LẠI). Ethan Hayes không muốn mở nhà hàng. Ở trạm cứu hoả anh còn \"not allowed to cook\", nên không có lớp nấu ăn nào."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Bản tin tiếng Anh thường gói ý chính trong tiêu đề và hai câu đầu: chuyện gì, ở đâu, khi nào, kết quả ra sao."
+      },
+      "question_jp": "What is the news report mainly about?",
+      "question_vn": "Bản tin chủ yếu nói về điều gì?",
+      "explanation": "Tiêu đề \"Kitchen Fire at The Blue Lemon: No One Hurt\" và hai câu đầu (\"a small fire started in the kitchen\", \"It was put out in less than a minute\") nêu đúng ý chính. The Blue Lemon không phải nhà hàng mới; bài nói nó \"opened again on Thursday\" (mở cửa LẠI). Ethan Hayes không muốn mở nhà hàng. Ở trạm cứu hoả anh còn \"not allowed to cook\", nên không có lớp nấu ăn nào.",
+      "tip": "Bản tin tiếng Anh thường gói ý chính trong tiêu đề và hai câu đầu: chuyện gì, ở đâu, khi nào, kết quả ra sao."
+    },
+    {
+      "id": "q_u19_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u19_02",
+      "i18n": {
+        "en": "What was happening when the fire started?",
+        "vi": "Chuyện gì đang diễn ra lúc đám cháy bắt đầu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The customers were being taken outside.",
+            "vi": "Khách đang được đưa ra ngoài."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The customers were being taken outside.",
+          "text_translation": "Khách đang được đưa ra ngoài."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The firefighters were checking the kitchen.",
+            "vi": "Lính cứu hoả đang kiểm tra bếp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The firefighters were checking the kitchen.",
+          "text_translation": "Lính cứu hoả đang kiểm tra bếp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Fish was being cooked in a pan of hot oil.",
+            "vi": "Cá đang được rán trong một chảo dầu nóng."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Fish was being cooked in a pan of hot oil.",
+          "text_translation": "Cá đang được rán trong một chảo dầu nóng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The fire alarm was being tested.",
+            "vi": "Chuông báo cháy đang được kiểm tra."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The fire alarm was being tested.",
+          "text_translation": "Chuông báo cháy đang được kiểm tra."
+        }
+      ],
+      "evidence_segments": [
+        4,
+        8,
+        9,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"At about 7:30, fish was being cooked in a pan of hot oil when the oil suddenly caught fire.\" Was being cooked là bị động quá khứ tiếp diễn: việc rán cá đang diễn ra thì dầu bốc cháy. Khách chỉ được đưa ra ngoài SAU đó, khi khói lan và chuông reo. Lính cứu hoả \"arrived five minutes later\", nên lúc cháy họ chưa có mặt. Chuông báo cháy \"went off\" vì khói, không phải đang được thử."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "was/were being + V3 (was being cooked) = việc đang được làm ở một thời điểm trong quá khứ. Câu \"…when…\" cho biết việc nào đang diễn ra thì việc kia xen vào. Các phương án khác là chuyện xảy ra SAU."
+      },
+      "question_jp": "What was happening when the fire started?",
+      "question_vn": "Chuyện gì đang diễn ra lúc đám cháy bắt đầu?",
+      "explanation": "\"At about 7:30, fish was being cooked in a pan of hot oil when the oil suddenly caught fire.\" Was being cooked là bị động quá khứ tiếp diễn: việc rán cá đang diễn ra thì dầu bốc cháy. Khách chỉ được đưa ra ngoài SAU đó, khi khói lan và chuông reo. Lính cứu hoả \"arrived five minutes later\", nên lúc cháy họ chưa có mặt. Chuông báo cháy \"went off\" vì khói, không phải đang được thử.",
+      "tip": "was/were being + V3 (was being cooked) = việc đang được làm ở một thời điểm trong quá khứ. Câu \"…when…\" cho biết việc nào đang diễn ra thì việc kia xen vào. Các phương án khác là chuyện xảy ra SAU."
+    },
+    {
+      "id": "q_u19_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u19_02",
+      "i18n": {
+        "en": "Why did Rosa Delgado stop the young cook?",
+        "vi": "Vì sao bếp trưởng Rosa Delgado ngăn người phụ bếp trẻ lại?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He was cooking the fish in the wrong way.",
+            "vi": "Cậu rán cá sai cách."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He was cooking the fish in the wrong way.",
+          "text_translation": "Cậu rán cá sai cách."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The cup of water was too small for the fire.",
+            "vi": "Cốc nước quá nhỏ so với đám cháy."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The cup of water was too small for the fire.",
+          "text_translation": "Cốc nước quá nhỏ so với đám cháy."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She wanted him to carry the pan outside.",
+            "vi": "Chị muốn cậu bê chảo ra ngoài."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She wanted him to carry the pan outside.",
+          "text_translation": "Chị muốn cậu bê chảo ra ngoài."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Water on burning oil would make the fire bigger.",
+            "vi": "Hắt nước vào dầu đang cháy sẽ làm lửa to hơn."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Water on burning oil would make the fire bigger.",
+          "text_translation": "Hắt nước vào dầu đang cháy sẽ làm lửa to hơn."
+        }
+      ],
+      "evidence_segments": [
+        5,
+        6,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng lý do ở chỗ Rosa hét, nhưng ta suy ra được khi nối với lời Ethan Hayes ở đoạn sau: \"Never throw water on burning oil. The oil floats on the water, and the fire spreads.\" Người phụ bếp đang cầm \"a cup of water\" chạy về phía chảo dầu cháy, nên Rosa hét \"No water!\". Bài không nói cậu rán cá sai. Vấn đề là dùng nước, chứ không phải cốc nhỏ. Lời khuyên còn dặn \"don't carry the pan outside\", nên Rosa không thể muốn cậu bê chảo đi."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận lý do: lý do đôi khi nằm ở đoạn khác, trong lời giải thích của chuyên gia. Hãy nối hành động (No water!) với lời khuyên (Never throw water on burning oil)."
+      },
+      "question_jp": "Why did Rosa Delgado stop the young cook?",
+      "question_vn": "Vì sao bếp trưởng Rosa Delgado ngăn người phụ bếp trẻ lại?",
+      "explanation": "Bài không nói thẳng lý do ở chỗ Rosa hét, nhưng ta suy ra được khi nối với lời Ethan Hayes ở đoạn sau: \"Never throw water on burning oil. The oil floats on the water, and the fire spreads.\" Người phụ bếp đang cầm \"a cup of water\" chạy về phía chảo dầu cháy, nên Rosa hét \"No water!\". Bài không nói cậu rán cá sai. Vấn đề là dùng nước, chứ không phải cốc nhỏ. Lời khuyên còn dặn \"don't carry the pan outside\", nên Rosa không thể muốn cậu bê chảo đi.",
+      "tip": "Câu suy luận lý do: lý do đôi khi nằm ở đoạn khác, trong lời giải thích của chuyên gia. Hãy nối hành động (No water!) với lời khuyên (Never throw water on burning oil)."
+    },
+    {
+      "id": "q_u19_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u19_02",
+      "i18n": {
+        "en": "In \"It was put out in less than a minute\", what does \"put out\" mean?",
+        "vi": "Trong câu \"It was put out in less than a minute\", \"put out\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "taken outside",
+            "vi": "mang ra ngoài"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "taken outside",
+          "text_translation": "mang ra ngoài"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "stopped from burning",
+            "vi": "làm cho tắt, không cháy nữa"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "stopped from burning",
+          "text_translation": "làm cho tắt, không cháy nữa"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "started again",
+            "vi": "bùng lên lại"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "started again",
+          "text_translation": "bùng lên lại"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "called for help",
+            "vi": "gọi người tới giúp"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "called for help",
+          "text_translation": "gọi người tới giúp"
+        }
+      ],
+      "evidence_segments": [
+        2,
+        3,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"It\" là đám cháy (\"a small fire\" ở câu trước), và put out a fire là dập tắt lửa. Đoạn sau kể đúng như vậy: Rosa đậy nắp \"and the fire went out in seconds\". \"Taken outside\" là việc làm với khách (\"everyone was taken outside calmly\"), không phải với lửa. Lửa không bùng lại; nó tắt trong chưa đầy một phút. \"Called\" là việc gọi đội cứu hoả (\"the fire department was called\"), không phải nghĩa của put out."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Cụm động từ (put out, go off…) đừng dịch từng chữ: put = đặt, out = ra ngoài, nhưng put out a fire = dập lửa. Đọc các câu sau để kiểm tra nghĩa."
+      },
+      "question_jp": "In \"It was put out in less than a minute\", what does \"put out\" mean?",
+      "question_vn": "Trong câu \"It was put out in less than a minute\", \"put out\" nghĩa là gì?",
+      "explanation": "\"It\" là đám cháy (\"a small fire\" ở câu trước), và put out a fire là dập tắt lửa. Đoạn sau kể đúng như vậy: Rosa đậy nắp \"and the fire went out in seconds\". \"Taken outside\" là việc làm với khách (\"everyone was taken outside calmly\"), không phải với lửa. Lửa không bùng lại; nó tắt trong chưa đầy một phút. \"Called\" là việc gọi đội cứu hoả (\"the fire department was called\"), không phải nghĩa của put out.",
+      "tip": "Cụm động từ (put out, go off…) đừng dịch từng chữ: put = đặt, out = ra ngoài, nhưng put out a fire = dập lửa. Đọc các câu sau để kiểm tra nghĩa."
+    },
+    {
+      "id": "q_u19_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u19_02",
+      "i18n": {
+        "en": "What can we guess from Ethan Hayes's joke at the end?",
+        "vi": "Từ câu đùa của Ethan Hayes ở cuối bài, ta có thể đoán điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He is probably not a good cook.",
+            "vi": "Có lẽ anh nấu ăn không giỏi."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "He is probably not a good cook.",
+          "text_translation": "Có lẽ anh nấu ăn không giỏi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He works as a chef on weekends.",
+            "vi": "Cuối tuần anh làm đầu bếp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He works as a chef on weekends.",
+          "text_translation": "Cuối tuần anh làm đầu bếp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He does not like lemon cake.",
+            "vi": "Anh không thích bánh chanh."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He does not like lemon cake.",
+          "text_translation": "Anh không thích bánh chanh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He eats soup at Harriet's every Wednesday.",
+            "vi": "Thứ Tư nào anh cũng ăn súp ở quán Harriet's."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He eats soup at Harriet's every Wednesday.",
+          "text_translation": "Thứ Tư nào anh cũng ăn súp ở quán Harriet's."
+        }
+      ],
+      "evidence_segments": [
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. Anh nói \"I'm not allowed to cook at the fire station,\" rồi thêm \"so I love eating other people's food!\" Một lính cứu hoả lại bị đồng nghiệp cấm nấu ăn ở trạm, mà anh kể chuyện đó trong tiếng cười (\"Hayes laughed\"): chắc hẳn anh nấu dở. Anh không làm đầu bếp; anh là \"firefighter\". Anh nói mình mê đồ người khác nấu, nên không có gì cho thấy anh không thích bánh chanh. Người ăn súp ở Harriet's mỗi thứ Tư là Dustin ở bài 1, không phải Ethan."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu đùa thường giấu một sự thật nhỏ. Tự hỏi: vì sao người ta lại không cho anh ấy nấu? Cẩn thận phương án lấy chi tiết của nhân vật khác ở bài kia."
+      },
+      "question_jp": "What can we guess from Ethan Hayes's joke at the end?",
+      "question_vn": "Từ câu đùa của Ethan Hayes ở cuối bài, ta có thể đoán điều gì?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. Anh nói \"I'm not allowed to cook at the fire station,\" rồi thêm \"so I love eating other people's food!\" Một lính cứu hoả lại bị đồng nghiệp cấm nấu ăn ở trạm, mà anh kể chuyện đó trong tiếng cười (\"Hayes laughed\"): chắc hẳn anh nấu dở. Anh không làm đầu bếp; anh là \"firefighter\". Anh nói mình mê đồ người khác nấu, nên không có gì cho thấy anh không thích bánh chanh. Người ăn súp ở Harriet's mỗi thứ Tư là Dustin ở bài 1, không phải Ethan.",
+      "tip": "Câu đùa thường giấu một sự thật nhỏ. Tự hỏi: vì sao người ta lại không cho anh ấy nấu? Cẩn thận phương án lấy chi tiết của nhân vật khác ở bài kia."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u19_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Bài báo khu phố: mười năm quán Harriet's",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u19_01",
+      "question_ids": [
+        "q_u19_001",
+        "q_u19_002",
+        "q_u19_003",
+        "q_u19_004",
+        "q_u19_005"
+      ]
+    },
+    {
+      "set_id": "set_u19_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Bản tin: cháy bếp nhỏ ở nhà hàng trên phố Pine",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u19_02",
+      "question_ids": [
+        "q_u19_006",
+        "q_u19_007",
+        "q_u19_008",
+        "q_u19_009",
+        "q_u19_010"
+      ]
+    }
+  ]
+}

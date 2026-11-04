@@ -1,0 +1,1988 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 41–42 — The future of work & Debate and argument",
+      "vi": "Tương lai việc làm & Tranh biện"
+    },
+    "title": "Units 41–42 — The future of work & Debate and argument",
+    "title_vn": "Tương lai việc làm & Tranh biện",
+    "module_code": "59_u4142",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "B2",
+    "curriculum_unit": "b2.u41+u42",
+    "curriculum_sheets": [
+      "b2.161",
+      "b2.162",
+      "b2.163",
+      "b2.164",
+      "b2.165",
+      "b2.166",
+      "b2.167",
+      "b2.168"
+    ],
+    "characters": [
+      "Nathan Brooks",
+      "Lydia Park"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 8, năm 7"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Although/despite, danh từ hoá, giới từ + wh-, câu tu từ",
+    "description_vn": "Email đầu tiên của Nathan gửi nhóm khi lên trưởng nhóm, và buổi tranh biện của câu lạc bộ cô Park về chuyện có cần bằng đại học để có việc tốt. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 41 + Unit 42 khoá B2 · phiếu `b2.161` – `b2.168` (although / whereas và despite / in spite of, danh từ hoá, tương lai việc làm; giới từ + từ để hỏi, How + tính từ!, câu không hoàn chỉnh, tranh biện)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một email công việc và một buổi tranh biện; hiểu `although / whereas` (+ mệnh đề) với `despite / in spite of` (+ danh từ), danh từ hoá trong văn phong công việc (a reduction in…, the introduction of…), câu hỏi giới từ + wh- (On what evidence? For whom…?), câu cảm thán `How interesting!`, câu không hoàn chỉnh khi chốt ý, và câu hỏi tu từ."
+    },
+    "extra_words": [
+      {
+        "word": "bachelor",
+        "i18n": {
+          "vi": "cử nhân"
+        }
+      },
+      {
+        "word": "team lead",
+        "i18n": {
+          "vi": "trưởng nhóm"
+        }
+      },
+      {
+        "word": "time zone",
+        "i18n": {
+          "vi": "múi giờ"
+        }
+      },
+      {
+        "word": "proposal",
+        "i18n": {
+          "vi": "đề xuất"
+        }
+      },
+      {
+        "word": "core hours",
+        "i18n": {
+          "vi": "giờ cốt lõi"
+        }
+      },
+      {
+        "word": "intention",
+        "i18n": {
+          "vi": "ý định"
+        }
+      },
+      {
+        "word": "degree",
+        "i18n": {
+          "vi": "bằng (đại học)"
+        }
+      },
+      {
+        "word": "requirement",
+        "i18n": {
+          "vi": "yêu cầu"
+        }
+      },
+      {
+        "word": "debt",
+        "i18n": {
+          "vi": "khoản nợ"
+        }
+      },
+      {
+        "word": "electrician",
+        "i18n": {
+          "vi": "thợ điện"
+        }
+      },
+      {
+        "word": "bachelor's degree",
+        "i18n": {
+          "vi": "bằng cử nhân"
+        }
+      },
+      {
+        "word": "unemployed",
+        "i18n": {
+          "vi": "thất nghiệp"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "work alongside",
+          "vi": "làm việc cùng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a reduction in",
+          "vi": "sự giảm bớt"
+        }
+      },
+      {
+        "i18n": {
+          "en": "in spite of",
+          "vi": "dù, bất chấp"
+        }
+      },
+      {
+        "i18n": {
+          "en": "I would much rather",
+          "vi": "tôi thà … hơn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "on what evidence?",
+          "vi": "dựa trên bằng chứng nào?"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a good deal",
+          "vi": "một món hời"
+        }
+      },
+      {
+        "i18n": {
+          "en": "on paper",
+          "vi": "trên giấy tờ"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "`although / whereas + mệnh đề`, `despite / in spite of + danh từ / V-ing`. Câu hỏi ngữ pháp và nghĩa hay hỏi phần sau các từ này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Danh từ hoá (`a reduction in meetings`) làm câu gọn, trang trọng. Đổi lại thành động từ (reduce meetings) để hiểu nhanh."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi tu từ (`For whom is that a good deal?`): người nói không cần câu trả lời, mà ngầm nói điều ngược lại."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Tranh biện: mỗi người có `First / Second / Third` và một câu chốt. Câu hỏi so sánh hai phía lấy từ các câu chốt này."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u4142_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 41) — Bức thư đầu tiên của Nathan gửi nhóm khi lên trưởng nhóm"
+      },
+      "narrator": "Nathan",
+      "title": "From Your New Team Lead: How We Will Work Together",
+      "category": "email",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "From Your New Team Lead: How We Will Work Together",
+            "vi": "Từ trưởng nhóm mới của các bạn: chúng ta sẽ làm việc cùng nhau thế nào"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hi everyone,",
+            "vi": "Chào cả nhóm,"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "As most of you know, I am now leading our team of nine software engineers. I have worked alongside many of you for years, so this is a strange change for me too.",
+            "vi": "Như phần lớn các bạn đã biết, giờ tôi phụ trách nhóm chín kỹ sư phần mềm của chúng ta. Tôi đã làm cùng nhiều bạn nhiều năm, nên đây cũng là một thay đổi lạ lẫm với chính tôi."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Before I make any changes, I want to explain how I would like us to work, and why.",
+            "vi": "Trước khi thay đổi điều gì, tôi muốn giải thích tôi mong chúng ta làm việc thế nào, và vì sao."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Our biggest challenge is distance. Three of us work in San Diego, four are in Chicago and two are in Lisbon, which is eight hours ahead of California.",
+            "vi": "Thách thức lớn nhất của chúng ta là khoảng cách. Ba người làm ở San Diego, bốn người ở Chicago và hai người ở Lisbon, sớm hơn California tám tiếng."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Although video calls are useful, they are also tiring, and the number of meetings has grown every year. Last month, I counted that we each spent an average of eleven hours a week in calls.",
+            "vi": "Dù gọi video có ích, nó cũng gây mệt, và số cuộc họp năm nào cũng tăng. Tháng trước, tôi đếm thấy trung bình mỗi người chúng ta mất mười một tiếng một tuần cho các cuộc gọi."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So here is my proposal.",
+            "vi": "Vậy đây là đề xuất của tôi."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "First, a reduction in meetings. We will keep one team call a week, at a time that is reasonable in all three cities, and every other update will be written.",
+            "vi": "Thứ nhất, giảm bớt họp. Chúng ta giữ một cuộc gọi cả nhóm mỗi tuần, vào giờ hợp lý ở cả ba thành phố, còn mọi cập nhật khác sẽ viết ra."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Second, the introduction of \"core hours\": two hours a day, from 8 to 10 a.m. in San Diego, when everyone agrees to be online and available.",
+            "vi": "Thứ hai, áp dụng \"giờ cốt lõi\": hai tiếng mỗi ngày, từ 8 tới 10 giờ sáng giờ San Diego, khi ai cũng đồng ý có mặt trực tuyến và sẵn sàng."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Outside those hours, nobody should expect an immediate reply, whereas urgent problems can always be sent to me by phone.",
+            "vi": "Ngoài những giờ đó, không ai nên đòi trả lời ngay, còn vấn đề gấp thì luôn có thể gọi điện cho tôi."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Third, every project will have one clear owner. In spite of our good intentions, too many decisions have been delayed because everyone thought that someone else was responsible.",
+            "vi": "Thứ ba, mỗi dự án sẽ có một người phụ trách rõ ràng. Dù chúng ta có thiện ý, quá nhiều quyết định đã bị chậm vì ai cũng tưởng người khác chịu trách nhiệm."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I know that some of you prefer talking to writing, and that written updates can feel cold.",
+            "vi": "Tôi biết có bạn thích nói hơn viết, và cập nhật bằng chữ có thể nghe lạnh lùng."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Despite that, I think that clear writing will give us back time that we can use for actual work, and, I hope, for our lives.",
+            "vi": "Dù vậy, tôi nghĩ viết rõ ràng sẽ trả lại cho chúng ta thời gian để làm việc thật, và tôi hy vọng, cho cả cuộc sống riêng."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We will try this for two months and then decide together whether to keep it.",
+            "vi": "Chúng ta sẽ thử trong hai tháng rồi cùng quyết định có giữ hay không."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One last thing: I am new at this. If something isn't working, please tell me directly. I would much rather hear it from you than discover it in six months.",
+            "vi": "Một điều cuối: tôi còn mới với việc này. Nếu có gì không ổn, xin cứ nói thẳng với tôi. Tôi thà nghe từ các bạn còn hơn sáu tháng sau mới tự phát hiện ra."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Thanks, Nathan",
+            "vi": "Cảm ơn, Nathan"
+          }
+        }
+      ],
+      "content_ja": "From Your New Team Lead: How We Will Work Together\n\nHi everyone,\n\nAs most of you know, I am now leading our team of nine software engineers. I have worked alongside many of you for years, so this is a strange change for me too. Before I make any changes, I want to explain how I would like us to work, and why.\n\nOur biggest challenge is distance. Three of us work in San Diego, four are in Chicago and two are in Lisbon, which is eight hours ahead of California. Although video calls are useful, they are also tiring, and the number of meetings has grown every year. Last month, I counted that we each spent an average of eleven hours a week in calls.\n\nSo here is my proposal. First, a reduction in meetings. We will keep one team call a week, at a time that is reasonable in all three cities, and every other update will be written. Second, the introduction of \"core hours\": two hours a day, from 8 to 10 a.m. in San Diego, when everyone agrees to be online and available. Outside those hours, nobody should expect an immediate reply, whereas urgent problems can always be sent to me by phone. Third, every project will have one clear owner. In spite of our good intentions, too many decisions have been delayed because everyone thought that someone else was responsible.\n\nI know that some of you prefer talking to writing, and that written updates can feel cold. Despite that, I think that clear writing will give us back time that we can use for actual work, and, I hope, for our lives. We will try this for two months and then decide together whether to keep it.\n\nOne last thing: I am new at this. If something isn't working, please tell me directly. I would much rather hear it from you than discover it in six months.\n\nThanks, Nathan",
+      "translation_vn": "(1) Từ trưởng nhóm mới của các bạn: chúng ta sẽ làm việc cùng nhau thế nào\n(2) Chào cả nhóm,\n(3) Như phần lớn các bạn đã biết, giờ tôi phụ trách nhóm chín kỹ sư phần mềm của chúng ta. Tôi đã làm cùng nhiều bạn nhiều năm, nên đây cũng là một thay đổi lạ lẫm với chính tôi.\n(4) Trước khi thay đổi điều gì, tôi muốn giải thích tôi mong chúng ta làm việc thế nào, và vì sao.\n(5) Thách thức lớn nhất của chúng ta là khoảng cách. Ba người làm ở San Diego, bốn người ở Chicago và hai người ở Lisbon, sớm hơn California tám tiếng.\n(6) Dù gọi video có ích, nó cũng gây mệt, và số cuộc họp năm nào cũng tăng. Tháng trước, tôi đếm thấy trung bình mỗi người chúng ta mất mười một tiếng một tuần cho các cuộc gọi.\n(7) Vậy đây là đề xuất của tôi.\n(8) Thứ nhất, giảm bớt họp. Chúng ta giữ một cuộc gọi cả nhóm mỗi tuần, vào giờ hợp lý ở cả ba thành phố, còn mọi cập nhật khác sẽ viết ra.\n(9) Thứ hai, áp dụng \"giờ cốt lõi\": hai tiếng mỗi ngày, từ 8 tới 10 giờ sáng giờ San Diego, khi ai cũng đồng ý có mặt trực tuyến và sẵn sàng.\n(10) Ngoài những giờ đó, không ai nên đòi trả lời ngay, còn vấn đề gấp thì luôn có thể gọi điện cho tôi.\n(11) Thứ ba, mỗi dự án sẽ có một người phụ trách rõ ràng. Dù chúng ta có thiện ý, quá nhiều quyết định đã bị chậm vì ai cũng tưởng người khác chịu trách nhiệm.\n(12) Tôi biết có bạn thích nói hơn viết, và cập nhật bằng chữ có thể nghe lạnh lùng.\n(13) Dù vậy, tôi nghĩ viết rõ ràng sẽ trả lại cho chúng ta thời gian để làm việc thật, và tôi hy vọng, cho cả cuộc sống riêng.\n(14) Chúng ta sẽ thử trong hai tháng rồi cùng quyết định có giữ hay không.\n(15) Một điều cuối: tôi còn mới với việc này. Nếu có gì không ổn, xin cứ nói thẳng với tôi. Tôi thà nghe từ các bạn còn hơn sáu tháng sau mới tự phát hiện ra.\n(16) Cảm ơn, Nathan",
+      "word_count": 323,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.161",
+        "b2.162",
+        "b2.163",
+        "b2.164"
+      ]
+    },
+    {
+      "id": "passage_u4142_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 42) — Tranh biện: có cần bằng đại học để có việc tốt?"
+      },
+      "narrator": "announcer",
+      "title": "Debate Club: Do You Need a College Degree to Get a Good Job?",
+      "category": "story",
+      "jlpt_level": "B2",
+      "difficulty": 1,
+      "estimated_reading_time": 230,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Debate Club: Do You Need a College Degree to Get a Good Job?",
+            "vi": "Câu lạc bộ tranh biện: có cần bằng đại học để có việc tốt không?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ms. Park's debate club is now in its second year. This week, Maddie and Noah, who started on opposite sides at their very first meeting, faced each other again.",
+            "vi": "Câu lạc bộ tranh biện của cô Park đã sang năm thứ hai. Tuần này, Maddie và Noah, hai bạn từng đứng hai phía ngay từ buổi đầu tiên, lại đối đầu nhau."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Lydia",
+          "label": null,
+          "i18n": {
+            "en": "Maddie, you are arguing that a degree is no longer necessary. On what evidence?",
+            "vi": "Maddie, em lập luận rằng bằng cấp không còn cần thiết nữa. Dựa trên bằng chứng nào?"
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Maddie",
+          "label": null,
+          "i18n": {
+            "en": "Three pieces. First, only about two in five American adults have a four-year degree, so most workers are succeeding without one.",
+            "vi": "Ba điều. Thứ nhất, chỉ khoảng hai trên năm người trưởng thành Mỹ có bằng đại học bốn năm, nên phần lớn người lao động vẫn thành công mà không cần bằng."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Maddie",
+          "label": null,
+          "i18n": {
+            "en": "Second, a growing number of employers, including some very large companies, have removed degree requirements from many jobs and now hire based on skills.",
+            "vi": "Thứ hai, ngày càng nhiều nhà tuyển dụng, kể cả một số công ty rất lớn, đã bỏ yêu cầu bằng cấp ở nhiều vị trí và giờ tuyển dụng dựa trên kỹ năng."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Maddie",
+          "label": null,
+          "i18n": {
+            "en": "Third, cost. Many students finish college with years of debt. For whom is that a good deal, if a shorter training program leads to the same job?",
+            "vi": "Thứ ba, chi phí. Nhiều sinh viên ra trường với khoản nợ kéo dài nhiều năm. Với ai thì đó là một món hời, nếu một chương trình đào tạo ngắn hơn cũng dẫn tới cùng công việc?"
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Lydia",
+          "label": null,
+          "i18n": {
+            "en": "Thank you. Noah?",
+            "vi": "Cảm ơn em. Noah?"
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Noah",
+          "label": null,
+          "i18n": {
+            "en": "I agree that a degree isn't the only path. Electricians, nurses with two-year qualifications, many tech workers: real careers, no four-year degree.",
+            "vi": "Mình đồng ý bằng đại học không phải con đường duy nhất. Thợ điện, y tá có bằng hai năm, nhiều người làm công nghệ: sự nghiệp thật, không cần bằng bốn năm."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Noah",
+          "label": null,
+          "i18n": {
+            "en": "But on average, people with a bachelor's degree still earn considerably more over their lifetimes, and they are less likely to be unemployed.",
+            "vi": "Nhưng tính trung bình, người có bằng cử nhân vẫn kiếm được nhiều hơn đáng kể trong cả đời, và ít có nguy cơ thất nghiệp hơn."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Noah",
+          "label": null,
+          "i18n": {
+            "en": "And removing a requirement on paper isn't the same as hiring people without degrees. Studies have found that, at many companies, the change has made very little difference to who actually gets hired.",
+            "vi": "Mà bỏ yêu cầu trên giấy không giống với việc thật sự tuyển người không có bằng. Các nghiên cứu cho thấy ở nhiều công ty, thay đổi ấy hầu như chẳng làm khác đi chuyện ai được nhận."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Noah",
+          "label": null,
+          "i18n": {
+            "en": "So, a degree: not necessary for everyone, but still very useful for many.",
+            "vi": "Vậy, bằng đại học: không cần cho tất cả mọi người, nhưng vẫn rất có ích với nhiều người."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Lydia",
+          "label": null,
+          "i18n": {
+            "en": "How interesting! You both used the word \"many\" in your final sentence.",
+            "vi": "Thú vị thật! Cả hai em đều dùng chữ \"nhiều\" trong câu chốt."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Maddie",
+          "label": null,
+          "i18n": {
+            "en": "That's because neither of us thinks there's one answer for everyone.",
+            "vi": "Vì không ai trong tụi em nghĩ có một câu trả lời cho tất cả mọi người."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Noah",
+          "label": null,
+          "i18n": {
+            "en": "Exactly. To whom you're talking matters too. A future nurse and a future electrician need very different advice.",
+            "vi": "Chính xác. Mình đang nói với ai cũng quan trọng. Một người sắp làm y tá và một người sắp làm thợ điện cần những lời khuyên rất khác nhau."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ms. Park smiled. A year ago, they had argued loudly about volunteering. Today, they had disagreed more politely, and more usefully, than many adults she knew.",
+            "vi": "Cô Park mỉm cười. Một năm trước, hai em còn to tiếng với nhau về chuyện làm tình nguyện. Hôm nay, các em bất đồng lịch sự hơn, và hữu ích hơn, cả nhiều người lớn cô biết."
+          }
+        }
+      ],
+      "content_ja": "Debate Club: Do You Need a College Degree to Get a Good Job?\n\nMs. Park's debate club is now in its second year. This week, Maddie and Noah, who started on opposite sides at their very first meeting, faced each other again.\n\nLydia: Maddie, you are arguing that a degree is no longer necessary. On what evidence?\n\nMaddie: Three pieces. First, only about two in five American adults have a four-year degree, so most workers are succeeding without one. Second, a growing number of employers, including some very large companies, have removed degree requirements from many jobs and now hire based on skills. Third, cost. Many students finish college with years of debt. For whom is that a good deal, if a shorter training program leads to the same job?\n\nLydia: Thank you. Noah?\n\nNoah: I agree that a degree isn't the only path. Electricians, nurses with two-year qualifications, many tech workers: real careers, no four-year degree. But on average, people with a bachelor's degree still earn considerably more over their lifetimes, and they are less likely to be unemployed. And removing a requirement on paper isn't the same as hiring people without degrees. Studies have found that, at many companies, the change has made very little difference to who actually gets hired. So, a degree: not necessary for everyone, but still very useful for many.\n\nLydia: How interesting! You both used the word \"many\" in your final sentence.\n\nMaddie: That's because neither of us thinks there's one answer for everyone.\n\nNoah: Exactly. To whom you're talking matters too. A future nurse and a future electrician need very different advice.\n\nMs. Park smiled. A year ago, they had argued loudly about volunteering. Today, they had disagreed more politely, and more usefully, than many adults she knew.",
+      "translation_vn": "(1) Câu lạc bộ tranh biện: có cần bằng đại học để có việc tốt không?\n(2) Câu lạc bộ tranh biện của cô Park đã sang năm thứ hai. Tuần này, Maddie và Noah, hai bạn từng đứng hai phía ngay từ buổi đầu tiên, lại đối đầu nhau.\n(3) Lydia: Maddie, em lập luận rằng bằng cấp không còn cần thiết nữa. Dựa trên bằng chứng nào?\n(4) Maddie: Ba điều. Thứ nhất, chỉ khoảng hai trên năm người trưởng thành Mỹ có bằng đại học bốn năm, nên phần lớn người lao động vẫn thành công mà không cần bằng.\n(5) Maddie: Thứ hai, ngày càng nhiều nhà tuyển dụng, kể cả một số công ty rất lớn, đã bỏ yêu cầu bằng cấp ở nhiều vị trí và giờ tuyển dụng dựa trên kỹ năng.\n(6) Maddie: Thứ ba, chi phí. Nhiều sinh viên ra trường với khoản nợ kéo dài nhiều năm. Với ai thì đó là một món hời, nếu một chương trình đào tạo ngắn hơn cũng dẫn tới cùng công việc?\n(7) Lydia: Cảm ơn em. Noah?\n(8) Noah: Mình đồng ý bằng đại học không phải con đường duy nhất. Thợ điện, y tá có bằng hai năm, nhiều người làm công nghệ: sự nghiệp thật, không cần bằng bốn năm.\n(9) Noah: Nhưng tính trung bình, người có bằng cử nhân vẫn kiếm được nhiều hơn đáng kể trong cả đời, và ít có nguy cơ thất nghiệp hơn.\n(10) Noah: Mà bỏ yêu cầu trên giấy không giống với việc thật sự tuyển người không có bằng. Các nghiên cứu cho thấy ở nhiều công ty, thay đổi ấy hầu như chẳng làm khác đi chuyện ai được nhận.\n(11) Noah: Vậy, bằng đại học: không cần cho tất cả mọi người, nhưng vẫn rất có ích với nhiều người.\n(12) Lydia: Thú vị thật! Cả hai em đều dùng chữ \"nhiều\" trong câu chốt.\n(13) Maddie: Vì không ai trong tụi em nghĩ có một câu trả lời cho tất cả mọi người.\n(14) Noah: Chính xác. Mình đang nói với ai cũng quan trọng. Một người sắp làm y tá và một người sắp làm thợ điện cần những lời khuyên rất khác nhau.\n(15) Cô Park mỉm cười. Một năm trước, hai em còn to tiếng với nhau về chuyện làm tình nguyện. Hôm nay, các em bất đồng lịch sự hơn, và hữu ích hơn, cả nhiều người lớn cô biết.",
+      "word_count": 292,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "b2.165",
+        "b2.166",
+        "b2.167",
+        "b2.168"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u4142_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_01",
+      "i18n": {
+        "en": "Why did Nathan write this email?",
+        "vi": "Vì sao Nathan viết email này?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to explain how he would like his team to work as their new team lead, and why",
+            "vi": "để giải thích, trên cương vị trưởng nhóm mới, anh mong nhóm làm việc thế nào và vì sao"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to explain how he would like his team to work as their new team lead, and why",
+          "text_translation": "để giải thích, trên cương vị trưởng nhóm mới, anh mong nhóm làm việc thế nào và vì sao"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to announce that he is leaving the company to work for a team in Lisbon",
+            "vi": "để báo anh sẽ rời công ty để làm cho một nhóm ở Lisbon"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to announce that he is leaving the company to work for a team in Lisbon",
+          "text_translation": "để báo anh sẽ rời công ty để làm cho một nhóm ở Lisbon"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to complain about his team because the engineers spend too many hours in calls",
+            "vi": "để phàn nàn về nhóm vì các kỹ sư dành quá nhiều giờ cho các cuộc gọi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to complain about his team because the engineers spend too many hours in calls",
+          "text_translation": "để phàn nàn về nhóm vì các kỹ sư dành quá nhiều giờ cho các cuộc gọi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to invite the whole team to a meeting in San Diego at the end of the month",
+            "vi": "để mời cả nhóm dự một cuộc họp ở San Diego vào cuối tháng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to invite the whole team to a meeting in San Diego at the end of the month",
+          "text_translation": "để mời cả nhóm dự một cuộc họp ở San Diego vào cuối tháng"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"I want to explain how I would like us to work, and why.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why did Nathan write this email?",
+      "question_vn": "Vì sao Nathan viết email này?",
+      "explanation": "\"I want to explain how I would like us to work, and why.\""
+    },
+    {
+      "id": "q_u4142_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_01",
+      "i18n": {
+        "en": "Why is this change \"strange\" for Nathan too?",
+        "vi": "Vì sao thay đổi này cũng \"lạ lẫm\" với chính Nathan?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because he has never written code before and now has to learn it from his own team",
+            "vi": "vì anh chưa từng viết mã và giờ phải học nó từ chính nhóm của mình"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because he has never written code before and now has to learn it from his own team",
+          "text_translation": "vì anh chưa từng viết mã và giờ phải học nó từ chính nhóm của mình"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because he lives in Lisbon and has never met the other members of the team",
+            "vi": "vì anh sống ở Lisbon và chưa từng gặp các thành viên khác của nhóm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because he lives in Lisbon and has never met the other members of the team",
+          "text_translation": "vì anh sống ở Lisbon và chưa từng gặp các thành viên khác của nhóm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because he has worked alongside many of the team for years and now he leads them",
+            "vi": "vì anh đã làm cùng nhiều người trong nhóm nhiều năm và giờ lại dẫn dắt họ"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because he has worked alongside many of the team for years and now he leads them",
+          "text_translation": "vì anh đã làm cùng nhiều người trong nhóm nhiều năm và giờ lại dẫn dắt họ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because he doesn't like his job and would rather go back to being an engineer",
+            "vi": "vì anh không thích việc của mình và muốn quay lại làm kỹ sư hơn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because he doesn't like his job and would rather go back to being an engineer",
+          "text_translation": "vì anh không thích việc của mình và muốn quay lại làm kỹ sư hơn"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"I have worked alongside many of you for years, so this is a strange change for me too.\" Từ đồng nghiệp thành trưởng nhóm của chính đồng nghiệp."
+      },
+      "audio_data": null,
+      "question_jp": "Why is this change \"strange\" for Nathan too?",
+      "question_vn": "Vì sao thay đổi này cũng \"lạ lẫm\" với chính Nathan?",
+      "explanation": "Câu suy luận. \"I have worked alongside many of you for years, so this is a strange change for me too.\" Từ đồng nghiệp thành trưởng nhóm của chính đồng nghiệp."
+    },
+    {
+      "id": "q_u4142_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_01",
+      "i18n": {
+        "en": "What is the team's biggest challenge, according to Nathan?",
+        "vi": "Theo Nathan, thách thức lớn nhất của nhóm là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "money, because the company cannot pay for enough engineers in three cities",
+            "vi": "tiền bạc, vì công ty không trả nổi đủ kỹ sư ở ba thành phố"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "money, because the company cannot pay for enough engineers in three cities",
+          "text_translation": "tiền bạc, vì công ty không trả nổi đủ kỹ sư ở ba thành phố"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "old computers, because the engineers cannot join video calls without delays",
+            "vi": "máy tính cũ, vì các kỹ sư không thể gọi video mà không bị trễ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "old computers, because the engineers cannot join video calls without delays",
+          "text_translation": "máy tính cũ, vì các kỹ sư không thể gọi video mà không bị trễ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "too few engineers, because nine people cannot finish all the projects on time",
+            "vi": "quá ít kỹ sư, vì chín người không thể xong mọi dự án đúng hạn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "too few engineers, because nine people cannot finish all the projects on time",
+          "text_translation": "quá ít kỹ sư, vì chín người không thể xong mọi dự án đúng hạn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "distance, because team members work in three cities with different time zones",
+            "vi": "khoảng cách, vì các thành viên làm ở ba thành phố khác múi giờ"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "distance, because team members work in three cities with different time zones",
+          "text_translation": "khoảng cách, vì các thành viên làm ở ba thành phố khác múi giờ"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Three of us work in San Diego, four are in Chicago and two are in Lisbon, which is eight hours ahead of California.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the team's biggest challenge, according to Nathan?",
+      "question_vn": "Theo Nathan, thách thức lớn nhất của nhóm là gì?",
+      "explanation": "\"Three of us work in San Diego, four are in Chicago and two are in Lisbon, which is eight hours ahead of California.\""
+    },
+    {
+      "id": "q_u4142_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_01",
+      "i18n": {
+        "en": "What does \"Although video calls are useful, they are also tiring\" show?",
+        "vi": "Câu \"Dù gọi video có ích, nó cũng gây mệt\" cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Video calls are useless, and Nathan wants the team to stop using them.",
+            "vi": "Gọi video vô ích, và Nathan muốn nhóm thôi dùng chúng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Video calls are useless, and Nathan wants the team to stop using them.",
+          "text_translation": "Gọi video vô ích, và Nathan muốn nhóm thôi dùng chúng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Nathan admits one benefit of video calls before he points out a problem with them.",
+            "vi": "Nathan thừa nhận một lợi ích của gọi video trước khi chỉ ra vấn đề của chúng."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Nathan admits one benefit of video calls before he points out a problem with them.",
+          "text_translation": "Nathan thừa nhận một lợi ích của gọi video trước khi chỉ ra vấn đề của chúng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Video calls are not tiring, but Nathan thinks that there are too many of them.",
+            "vi": "Gọi video không mệt, nhưng Nathan thấy có quá nhiều cuộc"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Video calls are not tiring, but Nathan thinks that there are too many of them.",
+          "text_translation": "Gọi video không mệt, nhưng Nathan thấy có quá nhiều cuộc"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Nathan wants more video calls, because they are both useful and tiring.",
+            "vi": "Nathan muốn gọi video nhiều hơn, vì chúng vừa hữu ích vừa mệt."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Nathan wants more video calls, because they are both useful and tiring.",
+          "text_translation": "Nathan muốn gọi video nhiều hơn, vì chúng vừa hữu ích vừa mệt."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Although + mệnh đề = dù. Người viết ghi nhận mặt tốt rồi mới nêu mặt chưa tốt, cách nói khéo léo khi đề xuất thay đổi."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"Although video calls are useful, they are also tiring\" show?",
+      "question_vn": "Câu \"Dù gọi video có ích, nó cũng gây mệt\" cho thấy điều gì?",
+      "explanation": "Although + mệnh đề = dù. Người viết ghi nhận mặt tốt rồi mới nêu mặt chưa tốt, cách nói khéo léo khi đề xuất thay đổi."
+    },
+    {
+      "id": "q_u4142_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_01",
+      "i18n": {
+        "en": "How much time did each team member spend in calls last month, on average?",
+        "vi": "Tháng trước, trung bình mỗi thành viên mất bao nhiêu thời gian cho các cuộc gọi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "eleven hours a week, which is more than a whole working day",
+            "vi": "mười một tiếng một tuần, nhiều hơn cả một ngày làm việc"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "eleven hours a week, which is more than a whole working day",
+          "text_translation": "mười một tiếng một tuần, nhiều hơn cả một ngày làm việc"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "two hours a day, during the core hours in San Diego",
+            "vi": "hai tiếng một ngày, trong giờ cốt lõi ở San Diego"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "two hours a day, during the core hours in San Diego",
+          "text_translation": "hai tiếng một ngày, trong giờ cốt lõi ở San Diego"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "eight hours a week, which is the time difference with Lisbon",
+            "vi": "tám tiếng một tuần, bằng độ lệch múi giờ với Lisbon"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "eight hours a week, which is the time difference with Lisbon",
+          "text_translation": "tám tiếng một tuần, bằng độ lệch múi giờ với Lisbon"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "one hour a week, in the one team call that Nathan wants to keep",
+            "vi": "một tiếng một tuần, trong cuộc họp nhóm duy nhất Nathan muốn giữ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "one hour a week, in the one team call that Nathan wants to keep",
+          "text_translation": "một tiếng một tuần, trong cuộc họp nhóm duy nhất Nathan muốn giữ"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"we each spent an average of eleven hours a week in calls.\" Hai tiếng là giờ cốt lõi; tám tiếng là chênh lệch múi giờ với Lisbon."
+      },
+      "audio_data": null,
+      "question_jp": "How much time did each team member spend in calls last month, on average?",
+      "question_vn": "Tháng trước, trung bình mỗi thành viên mất bao nhiêu thời gian cho các cuộc gọi?",
+      "explanation": "\"we each spent an average of eleven hours a week in calls.\" Hai tiếng là giờ cốt lõi; tám tiếng là chênh lệch múi giờ với Lisbon."
+    },
+    {
+      "id": "q_u4142_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_01",
+      "i18n": {
+        "en": "What are \"core hours\"?",
+        "vi": "\"Giờ cốt lõi\" là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the hours when the office is closed and nobody is allowed to answer messages",
+            "vi": "những giờ văn phòng đóng cửa và không ai được trả lời tin nhắn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the hours when the office is closed and nobody is allowed to answer messages",
+          "text_translation": "những giờ văn phòng đóng cửa và không ai được trả lời tin nhắn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the only hours when people work, so nobody should write to anyone outside them",
+            "vi": "những giờ duy nhất người ta làm việc, nên không ai được nhắn cho ai ngoài giờ đó"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the only hours when people work, so nobody should write to anyone outside them",
+          "text_translation": "những giờ duy nhất người ta làm việc, nên không ai được nhắn cho ai ngoài giờ đó"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "two hours a day when everyone agrees to be online and available",
+            "vi": "hai tiếng mỗi ngày mọi người đồng ý có mặt trực tuyến và sẵn sàng"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "two hours a day when everyone agrees to be online and available",
+          "text_translation": "hai tiếng mỗi ngày mọi người đồng ý có mặt trực tuyến và sẵn sàng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the hours for team calls only, when the whole team talks to Nathan together",
+            "vi": "những giờ chỉ dành cho họp nhóm, khi cả nhóm cùng nói chuyện với Nathan"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the hours for team calls only, when the whole team talks to Nathan together",
+          "text_translation": "những giờ chỉ dành cho họp nhóm, khi cả nhóm cùng nói chuyện với Nathan"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"two hours a day, from 8 to 10 a.m. in San Diego, when everyone agrees to be online and available.\""
+      },
+      "audio_data": null,
+      "question_jp": "What are \"core hours\"?",
+      "question_vn": "\"Giờ cốt lõi\" là gì?",
+      "explanation": "\"two hours a day, from 8 to 10 a.m. in San Diego, when everyone agrees to be online and available.\""
+    },
+    {
+      "id": "q_u4142_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_01",
+      "i18n": {
+        "en": "Why does Nathan want every project to have one clear owner?",
+        "vi": "Vì sao Nathan muốn mỗi dự án có một người phụ trách rõ ràng?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because he wants to do less work himself and leave all the decisions to other people",
+            "vi": "vì anh muốn tự làm ít đi và giao mọi quyết định cho người khác"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because he wants to do less work himself and leave all the decisions to other people",
+          "text_translation": "vì anh muốn tự làm ít đi và giao mọi quyết định cho người khác"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the company asked him to reduce the number of people in each project",
+            "vi": "vì công ty yêu cầu anh giảm số người trong mỗi dự án"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the company asked him to reduce the number of people in each project",
+          "text_translation": "vì công ty yêu cầu anh giảm số người trong mỗi dự án"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "so that people work alone and never have to talk to anyone else in the team",
+            "vi": "để mọi người làm một mình và không bao giờ phải nói chuyện với ai trong nhóm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "so that people work alone and never have to talk to anyone else in the team",
+          "text_translation": "để mọi người làm một mình và không bao giờ phải nói chuyện với ai trong nhóm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because decisions have been delayed when everyone thought someone else was responsible",
+            "vi": "vì quyết định hay bị chậm khi ai cũng tưởng người khác chịu trách nhiệm"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because decisions have been delayed when everyone thought someone else was responsible",
+          "text_translation": "vì quyết định hay bị chậm khi ai cũng tưởng người khác chịu trách nhiệm"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"In spite of our good intentions, too many decisions have been delayed because everyone thought that someone else was responsible.\" In spite of + danh từ = dù."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Nathan want every project to have one clear owner?",
+      "question_vn": "Vì sao Nathan muốn mỗi dự án có một người phụ trách rõ ràng?",
+      "explanation": "\"In spite of our good intentions, too many decisions have been delayed because everyone thought that someone else was responsible.\" In spite of + danh từ = dù."
+    },
+    {
+      "id": "q_u4142_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_01",
+      "i18n": {
+        "en": "In \"First, a reduction in meetings\", why does Nathan use the noun \"reduction\" instead of a verb?",
+        "vi": "Trong câu \"First, a reduction in meetings\", vì sao Nathan dùng danh từ \"reduction\" thay vì động từ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because he forgot the verb and did not have time to check his email",
+            "vi": "vì anh quên động từ và không kịp kiểm tra email"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because he forgot the verb and did not have time to check his email",
+          "text_translation": "vì anh quên động từ và không kịp kiểm tra email"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to make his proposal short, clear and formal, like a list of points for the team",
+            "vi": "để đề xuất ngắn gọn, rõ ràng và trang trọng, như danh sách ý cho cả nhóm"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to make his proposal short, clear and formal, like a list of points for the team",
+          "text_translation": "để đề xuất ngắn gọn, rõ ràng và trang trọng, như danh sách ý cho cả nhóm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because verbs are not allowed in emails that are sent to people in other cities",
+            "vi": "vì email gửi cho người ở thành phố khác không được dùng động từ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because verbs are not allowed in emails that are sent to people in other cities",
+          "text_translation": "vì email gửi cho người ở thành phố khác không được dùng động từ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to sound angry and to show the team that he is now the boss of everyone",
+            "vi": "để nghe có vẻ giận và cho nhóm thấy giờ anh là sếp của mọi người"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to sound angry and to show the team that he is now the boss of everyone",
+          "text_translation": "để nghe có vẻ giận và cho nhóm thấy giờ anh là sếp của mọi người"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi về danh từ hoá. \"a reduction in meetings\", \"the introduction of core hours\": dùng danh từ thay mệnh đề làm câu gọn, hợp văn phong công việc."
+      },
+      "audio_data": null,
+      "question_jp": "In \"First, a reduction in meetings\", why does Nathan use the noun \"reduction\" instead of a verb?",
+      "question_vn": "Trong câu \"First, a reduction in meetings\", vì sao Nathan dùng danh từ \"reduction\" thay vì động từ?",
+      "explanation": "Câu hỏi về danh từ hoá. \"a reduction in meetings\", \"the introduction of core hours\": dùng danh từ thay mệnh đề làm câu gọn, hợp văn phong công việc."
+    },
+    {
+      "id": "q_u4142_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_01",
+      "i18n": {
+        "en": "How will the team decide whether to keep the new system?",
+        "vi": "Nhóm sẽ quyết định có giữ cách làm mới hay không bằng cách nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They will try it for two months and then decide together whether to keep it.",
+            "vi": "Thử hai tháng rồi cùng quyết định có giữ lại không."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "They will try it for two months and then decide together whether to keep it.",
+          "text_translation": "Thử hai tháng rồi cùng quyết định có giữ lại không."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Nathan will decide alone after he has talked to each person by phone.",
+            "vi": "Nathan tự quyết sau khi nói chuyện qua điện thoại với từng người."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Nathan will decide alone after he has talked to each person by phone.",
+          "text_translation": "Nathan tự quyết sau khi nói chuyện qua điện thoại với từng người."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The company will decide after it has read the results of the two months.",
+            "vi": "Công ty sẽ quyết định sau khi đọc kết quả của hai tháng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The company will decide after it has read the results of the two months.",
+          "text_translation": "Công ty sẽ quyết định sau khi đọc kết quả của hai tháng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They will decide at the next team call, before anyone has tried the system.",
+            "vi": "Họ sẽ quyết ở cuộc họp nhóm tới, trước khi ai đó thử hệ thống"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They will decide at the next team call, before anyone has tried the system.",
+          "text_translation": "Họ sẽ quyết ở cuộc họp nhóm tới, trước khi ai đó thử hệ thống"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"We will try this for two months and then decide together whether to keep it.\""
+      },
+      "audio_data": null,
+      "question_jp": "How will the team decide whether to keep the new system?",
+      "question_vn": "Nhóm sẽ quyết định có giữ cách làm mới hay không bằng cách nào?",
+      "explanation": "\"We will try this for two months and then decide together whether to keep it.\""
+    },
+    {
+      "id": "q_u4142_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_01",
+      "i18n": {
+        "en": "What does Nathan's last paragraph show about him as a leader?",
+        "vi": "Đoạn cuối cho thấy Nathan là kiểu trưởng nhóm thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He doesn't want feedback, because he thinks that the team should follow him.",
+            "vi": "Anh không muốn góp ý, vì nghĩ rằng nhóm nên làm theo anh."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He doesn't want feedback, because he thinks that the team should follow him.",
+          "text_translation": "Anh không muốn góp ý, vì nghĩ rằng nhóm nên làm theo anh."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He is sure that his plan is perfect and that nothing will need to change.",
+            "vi": "Anh chắc kế hoạch của mình hoàn hảo và sẽ không cần đổi gì."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He is sure that his plan is perfect and that nothing will need to change.",
+          "text_translation": "Anh chắc kế hoạch của mình hoàn hảo và sẽ không cần đổi gì."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He is humble and wants honest feedback early, before small problems grow.",
+            "vi": "Anh khiêm tốn và muốn được góp ý thẳng thắn sớm, trước khi vấn đề nhỏ lớn lên."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "He is humble and wants honest feedback early, before small problems grow.",
+          "text_translation": "Anh khiêm tốn và muốn được góp ý thẳng thắn sớm, trước khi vấn đề nhỏ lớn lên."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He is going to wait six months to decide, even if the team is unhappy.",
+            "vi": "Anh sẽ chờ sáu tháng để quyết, dù nhóm không hài lòng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He is going to wait six months to decide, even if the team is unhappy.",
+          "text_translation": "Anh sẽ chờ sáu tháng để quyết, dù nhóm không hài lòng."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"I am new at this. If something isn't working, please tell me directly. I would much rather hear it from you than discover it in six months.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Nathan's last paragraph show about him as a leader?",
+      "question_vn": "Đoạn cuối cho thấy Nathan là kiểu trưởng nhóm thế nào?",
+      "explanation": "Câu suy luận. \"I am new at this. If something isn't working, please tell me directly. I would much rather hear it from you than discover it in six months.\""
+    },
+    {
+      "id": "q_u4142_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_02",
+      "i18n": {
+        "en": "What is the debate about?",
+        "vi": "Cuộc tranh biện bàn về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "whether phones should be banned in schools during the whole day",
+            "vi": "có nên cấm điện thoại ở trường trong cả ngày không"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "whether phones should be banned in schools during the whole day",
+          "text_translation": "có nên cấm điện thoại ở trường trong cả ngày không"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "whether you need a college degree to get a good job these days",
+            "vi": "có cần bằng đại học để có việc tốt trong thời nay không"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "whether you need a college degree to get a good job these days",
+          "text_translation": "có cần bằng đại học để có việc tốt trong thời nay không"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "how to become an electrician without going to college for four years",
+            "vi": "làm thế nào để thành thợ điện mà không học đại học bốn năm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "how to become an electrician without going to college for four years",
+          "text_translation": "làm thế nào để thành thợ điện mà không học đại học bốn năm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "which college is the best choice for students who want to become nurses",
+            "vi": "trường đại học nào là lựa chọn tốt nhất cho học sinh muốn làm y tá"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "which college is the best choice for students who want to become nurses",
+          "text_translation": "trường đại học nào là lựa chọn tốt nhất cho học sinh muốn làm y tá"
+        }
+      ],
+      "evidence_segments": [
+        1
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề: \"Do You Need a College Degree to Get a Good Job?\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the debate about?",
+      "question_vn": "Cuộc tranh biện bàn về điều gì?",
+      "explanation": "Tiêu đề: \"Do You Need a College Degree to Get a Good Job?\""
+    },
+    {
+      "id": "q_u4142_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_02",
+      "i18n": {
+        "en": "In \"On what evidence?\", what is Ms. Park asking?",
+        "vi": "Trong câu \"On what evidence?\", cô Park đang hỏi gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "where Maddie found the club and who told her to join it",
+            "vi": "Maddie tìm thấy câu lạc bộ ở đâu và ai bảo cô tham gia"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "where Maddie found the club and who told her to join it",
+          "text_translation": "Maddie tìm thấy câu lạc bộ ở đâu và ai bảo cô tham gia"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "when Maddie started to prepare her argument for the debate",
+            "vi": "Maddie bắt đầu chuẩn bị lập luận cho buổi tranh biện từ khi nào"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "when Maddie started to prepare her argument for the debate",
+          "text_translation": "Maddie bắt đầu chuẩn bị lập luận cho buổi tranh biện từ khi nào"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "why Maddie is late and what she has been doing before the debate",
+            "vi": "vì sao Maddie tới muộn và cô đã làm gì trước buổi tranh biện"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "why Maddie is late and what she has been doing before the debate",
+          "text_translation": "vì sao Maddie tới muộn và cô đã làm gì trước buổi tranh biện"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "what evidence Maddie's argument is based on, and where it comes from",
+            "vi": "lập luận của Maddie dựa trên bằng chứng nào, và bằng chứng đó từ đâu ra"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "what evidence Maddie's argument is based on, and where it comes from",
+          "text_translation": "lập luận của Maddie dựa trên bằng chứng nào, và bằng chứng đó từ đâu ra"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"On what evidence?\" Giới từ + từ để hỏi đứng đầu câu: lối hỏi trang trọng (= What evidence is it based on?)."
+      },
+      "audio_data": null,
+      "question_jp": "In \"On what evidence?\", what is Ms. Park asking?",
+      "question_vn": "Trong câu \"On what evidence?\", cô Park đang hỏi gì?",
+      "explanation": "\"On what evidence?\" Giới từ + từ để hỏi đứng đầu câu: lối hỏi trang trọng (= What evidence is it based on?)."
+    },
+    {
+      "id": "q_u4142_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_02",
+      "i18n": {
+        "en": "What is Maddie's first piece of evidence?",
+        "vi": "Bằng chứng đầu tiên của Maddie là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Only about two in five American adults have a four-year degree, so most workers don't.",
+            "vi": "Chỉ khoảng hai trên năm người trưởng thành Mỹ có bằng đại học bốn năm, nên đa số người lao động không có."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Only about two in five American adults have a four-year degree, so most workers don't.",
+          "text_translation": "Chỉ khoảng hai trên năm người trưởng thành Mỹ có bằng đại học bốn năm, nên đa số người lao động không có."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Degrees are free for students at most colleges, so debt is not a problem.",
+            "vi": "Bằng đại học miễn phí ở hầu hết các trường, nên nợ không phải vấn đề"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Degrees are free for students at most colleges, so debt is not a problem.",
+          "text_translation": "Bằng đại học miễn phí ở hầu hết các trường, nên nợ không phải vấn đề"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Most companies require a degree for every job that they offer to workers.",
+            "vi": "Phần lớn công ty yêu cầu bằng cho mọi việc họ giao cho người lao động."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Most companies require a degree for every job that they offer to workers.",
+          "text_translation": "Phần lớn công ty yêu cầu bằng cho mọi việc họ giao cho người lao động."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Nurses don't need any training, because hospitals teach them everything.",
+            "vi": "Y tá không cần đào tạo gì, vì bệnh viện dạy họ mọi thứ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Nurses don't need any training, because hospitals teach them everything.",
+          "text_translation": "Y tá không cần đào tạo gì, vì bệnh viện dạy họ mọi thứ."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"only about two in five American adults have a four-year degree, so most workers are succeeding without one.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is Maddie's first piece of evidence?",
+      "question_vn": "Bằng chứng đầu tiên của Maddie là gì?",
+      "explanation": "\"only about two in five American adults have a four-year degree, so most workers are succeeding without one.\""
+    },
+    {
+      "id": "q_u4142_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_02",
+      "i18n": {
+        "en": "What does Maddie mean by \"For whom is that a good deal?\"",
+        "vi": "Maddie muốn nói gì qua câu \"Với ai thì đó là một món hời?\""
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She wants to know who will pay for the college and how much it costs every year.",
+            "vi": "Cô muốn biết ai sẽ trả tiền học đại học và mỗi năm tốn bao nhiêu."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She wants to know who will pay for the college and how much it costs every year.",
+          "text_translation": "Cô muốn biết ai sẽ trả tiền học đại học và mỗi năm tốn bao nhiêu."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She thinks that college is a great deal for everyone, because it leads to a good job.",
+            "vi": "Cô nghĩ đại học là món hời với tất cả, vì nó dẫn tới việc tốt."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She thinks that college is a great deal for everyone, because it leads to a good job.",
+          "text_translation": "Cô nghĩ đại học là món hời với tất cả, vì nó dẫn tới việc tốt."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She suggests that years of debt are not worth it if a shorter program leads to the same job.",
+            "vi": "Cô ngụ ý rằng nợ nhiều năm không đáng nếu một chương trình ngắn hơn cũng dẫn tới cùng công việc."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She suggests that years of debt are not worth it if a shorter program leads to the same job.",
+          "text_translation": "Cô ngụ ý rằng nợ nhiều năm không đáng nếu một chương trình ngắn hơn cũng dẫn tới cùng công việc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is asking Noah a question about his family and how much they paid for college.",
+            "vi": "Cô hỏi Noah về gia đình bạn ấy và họ đã trả bao nhiêu cho việc học đại học."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She is asking Noah a question about his family and how much they paid for college.",
+          "text_translation": "Cô hỏi Noah về gia đình bạn ấy và họ đã trả bao nhiêu cho việc học đại học."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Đây là câu hỏi tu từ: cô không chờ trả lời mà dùng nó để nói rằng cái giá ấy không đáng."
+      },
+      "audio_data": null,
+      "question_jp": "What does Maddie mean by \"For whom is that a good deal?\"",
+      "question_vn": "Maddie muốn nói gì qua câu \"Với ai thì đó là một món hời?\"",
+      "explanation": "Câu suy luận. Đây là câu hỏi tu từ: cô không chờ trả lời mà dùng nó để nói rằng cái giá ấy không đáng."
+    },
+    {
+      "id": "q_u4142_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_02",
+      "i18n": {
+        "en": "Which point does Noah agree with?",
+        "vi": "Noah đồng ý với điểm nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Degrees are useless, because most workers never need them in their jobs.",
+            "vi": "Bằng cấp vô dụng, vì hầu hết người lao động không bao giờ cần chúng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Degrees are useless, because most workers never need them in their jobs.",
+          "text_translation": "Bằng cấp vô dụng, vì hầu hết người lao động không bao giờ cần chúng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "A degree isn't the only path to a real career, as electricians and nurses show.",
+            "vi": "Bằng đại học không phải con đường duy nhất tới một sự nghiệp thật, như thợ điện và y tá cho thấy."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "A degree isn't the only path to a real career, as electricians and nurses show.",
+          "text_translation": "Bằng đại học không phải con đường duy nhất tới một sự nghiệp thật, như thợ điện và y tá cho thấy."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Nobody should go to college, because training programs are always better.",
+            "vi": "Không ai nên học đại học, vì các chương trình đào tạo luôn tốt hơn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Nobody should go to college, because training programs are always better.",
+          "text_translation": "Không ai nên học đại học, vì các chương trình đào tạo luôn tốt hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Companies always hire people without degrees if they are good with computers.",
+            "vi": "Công ty luôn tuyển người không có bằng nếu họ giỏi máy tính."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Companies always hire people without degrees if they are good with computers.",
+          "text_translation": "Công ty luôn tuyển người không có bằng nếu họ giỏi máy tính."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"I agree that a degree isn't the only path.\" Rồi Noah đưa ví dụ: thợ điện, y tá có bằng hai năm, người làm công nghệ."
+      },
+      "audio_data": null,
+      "question_jp": "Which point does Noah agree with?",
+      "question_vn": "Noah đồng ý với điểm nào?",
+      "explanation": "\"I agree that a degree isn't the only path.\" Rồi Noah đưa ví dụ: thợ điện, y tá có bằng hai năm, người làm công nghệ."
+    },
+    {
+      "id": "q_u4142_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_02",
+      "i18n": {
+        "en": "What does Noah say about removing degree requirements?",
+        "vi": "Noah nói gì về việc bỏ yêu cầu bằng cấp?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It has completely changed who gets hired, and many more workers now have jobs.",
+            "vi": "Nó thay đổi hoàn toàn chuyện ai được tuyển, và nhiều người lao động hơn nay có việc."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It has completely changed who gets hired, and many more workers now have jobs.",
+          "text_translation": "Nó thay đổi hoàn toàn chuyện ai được tuyển, và nhiều người lao động hơn nay có việc."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is illegal in many cities, so companies have to ask for degrees again.",
+            "vi": "Nó bất hợp pháp ở nhiều thành phố, nên công ty phải đòi bằng trở lại."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is illegal in many cities, so companies have to ask for degrees again.",
+          "text_translation": "Nó bất hợp pháp ở nhiều thành phố, nên công ty phải đòi bằng trở lại."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "No companies have done it, because they all think that degrees are necessary.",
+            "vi": "Chưa công ty nào làm, vì họ đều nghĩ bằng cấp là cần thiết."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "No companies have done it, because they all think that degrees are necessary.",
+          "text_translation": "Chưa công ty nào làm, vì họ đều nghĩ bằng cấp là cần thiết."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "At many companies, it has made very little difference to who actually gets hired.",
+            "vi": "Ở nhiều công ty, nó hầu như không làm thay đổi chuyện ai thật sự được tuyển."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "At many companies, it has made very little difference to who actually gets hired.",
+          "text_translation": "Ở nhiều công ty, nó hầu như không làm thay đổi chuyện ai thật sự được tuyển."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"the change has made very little difference to who actually gets hired.\" Bỏ yêu cầu trên giấy chưa chắc đã thay đổi thực tế tuyển dụng."
+      },
+      "audio_data": null,
+      "question_jp": "What does Noah say about removing degree requirements?",
+      "question_vn": "Noah nói gì về việc bỏ yêu cầu bằng cấp?",
+      "explanation": "\"the change has made very little difference to who actually gets hired.\" Bỏ yêu cầu trên giấy chưa chắc đã thay đổi thực tế tuyển dụng."
+    },
+    {
+      "id": "q_u4142_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_02",
+      "i18n": {
+        "en": "What is the function of Noah's sentence \"So, a degree: not necessary for everyone, but still very useful for many\"?",
+        "vi": "Câu \"Vậy, bằng đại học: không cần cho tất cả mọi người, nhưng vẫn rất có ích với nhiều người\" của Noah có chức năng gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It sums up his position in a short, balanced way, using the word many.",
+            "vi": "Nó tóm tắt lập trường của Noah một cách ngắn gọn, cân bằng, dùng chữ nhiều."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It sums up his position in a short, balanced way, using the word many.",
+          "text_translation": "Nó tóm tắt lập trường của Noah một cách ngắn gọn, cân bằng, dùng chữ nhiều."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It changes the topic to the cost of college and the debt of students.",
+            "vi": "Nó đổi chủ đề sang chi phí đại học và khoản nợ của sinh viên"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It changes the topic to the cost of college and the debt of students.",
+          "text_translation": "Nó đổi chủ đề sang chi phí đại học và khoản nợ của sinh viên"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It agrees completely with Maddie and says that nobody needs a degree.",
+            "vi": "Nó đồng ý hoàn toàn với Maddie và nói rằng không ai cần bằng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It agrees completely with Maddie and says that nobody needs a degree.",
+          "text_translation": "Nó đồng ý hoàn toàn với Maddie và nói rằng không ai cần bằng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It asks Ms. Park a question about the rules of the next debate.",
+            "vi": "Nó hỏi cô Park một câu về luật của buổi tranh biện tới."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It asks Ms. Park a question about the rules of the next debate.",
+          "text_translation": "Nó hỏi cô Park một câu về luật của buổi tranh biện tới."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi chức năng. Đây là một câu không hoàn chỉnh (fragment), thường gặp trong văn nói, dùng để chốt ý gọn."
+      },
+      "audio_data": null,
+      "question_jp": "What is the function of Noah's sentence \"So, a degree: not necessary for everyone, but still very useful for many\"?",
+      "question_vn": "Câu \"Vậy, bằng đại học: không cần cho tất cả mọi người, nhưng vẫn rất có ích với nhiều người\" của Noah có chức năng gì?",
+      "explanation": "Câu hỏi chức năng. Đây là một câu không hoàn chỉnh (fragment), thường gặp trong văn nói, dùng để chốt ý gọn."
+    },
+    {
+      "id": "q_u4142_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_02",
+      "i18n": {
+        "en": "Why does Ms. Park say \"How interesting!\"?",
+        "vi": "Vì sao cô Park thốt lên \"Thú vị thật!\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because she is bored by the long answers and wants the students to finish quickly today",
+            "vi": "vì cô chán những câu trả lời dài và muốn các em xong nhanh hôm nay"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because she is bored by the long answers and wants the students to finish quickly today",
+          "text_translation": "vì cô chán những câu trả lời dài và muốn các em xong nhanh hôm nay"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because Noah won the debate and she is surprised that Maddie did not argue longer",
+            "vi": "vì Noah thắng và cô ngạc nhiên khi Maddie không tranh luận lâu hơn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because Noah won the debate and she is surprised that Maddie did not argue longer",
+          "text_translation": "vì Noah thắng và cô ngạc nhiên khi Maddie không tranh luận lâu hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because both students said \"many\", which shows that neither sees one answer for everyone",
+            "vi": "vì cả hai em đều nói \"nhiều\", cho thấy không ai thấy có một câu trả lời cho tất cả"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because both students said \"many\", which shows that neither sees one answer for everyone",
+          "text_translation": "vì cả hai em đều nói \"nhiều\", cho thấy không ai thấy có một câu trả lời cho tất cả"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the debate was too short and the students did not use all of their time",
+            "vi": "vì cuộc tranh biện quá ngắn và các em không dùng hết thời gian"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because the debate was too short and the students did not use all of their time",
+          "text_translation": "vì cuộc tranh biện quá ngắn và các em không dùng hết thời gian"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"You both used the word \"many\" in your final sentence.\" Maddie đáp: \"neither of us thinks there's one answer for everyone.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Ms. Park say \"How interesting!\"?",
+      "question_vn": "Vì sao cô Park thốt lên \"Thú vị thật!\"?",
+      "explanation": "\"You both used the word \"many\" in your final sentence.\" Maddie đáp: \"neither of us thinks there's one answer for everyone.\""
+    },
+    {
+      "id": "q_u4142_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_02",
+      "i18n": {
+        "en": "What does the last paragraph suggest about Maddie and Noah?",
+        "vi": "Đoạn cuối cho thấy điều gì về Maddie và Noah?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They have become worse at debating, and they argue more loudly than a year ago.",
+            "vi": "Hai em tranh biện kém đi, và cãi to hơn so với một năm trước."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They have become worse at debating, and they argue more loudly than a year ago.",
+          "text_translation": "Hai em tranh biện kém đi, và cãi to hơn so với một năm trước."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They have learned to disagree more politely and more usefully over the past year.",
+            "vi": "Trong một năm qua, hai em đã học được cách bất đồng lịch sự hơn và hữu ích hơn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "They have learned to disagree more politely and more usefully over the past year.",
+          "text_translation": "Trong một năm qua, hai em đã học được cách bất đồng lịch sự hơn và hữu ích hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They no longer disagree about anything, and they now think exactly the same.",
+            "vi": "Hai em không còn bất đồng điều gì, và giờ nghĩ giống hệt nhau."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They no longer disagree about anything, and they now think exactly the same.",
+          "text_translation": "Hai em không còn bất đồng điều gì, và giờ nghĩ giống hệt nhau."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They want to leave the club, because they are tired of arguing with each other.",
+            "vi": "Hai em muốn rời câu lạc bộ, vì đã mệt khi phải cãi nhau với nhau."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They want to leave the club, because they are tired of arguing with each other.",
+          "text_translation": "Hai em muốn rời câu lạc bộ, vì đã mệt khi phải cãi nhau với nhau."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"A year ago, they had argued loudly about volunteering. Today, they had disagreed more politely, and more usefully, than many adults she knew.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the last paragraph suggest about Maddie and Noah?",
+      "question_vn": "Đoạn cuối cho thấy điều gì về Maddie và Noah?",
+      "explanation": "Câu suy luận. \"A year ago, they had argued loudly about volunteering. Today, they had disagreed more politely, and more usefully, than many adults she knew.\""
+    },
+    {
+      "id": "q_u4142_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "B2",
+      "passage_ref": "passage_u4142_02",
+      "i18n": {
+        "en": "Use both texts. What do Nathan's email and the debate have in common?",
+        "vi": "Dựa vào cả hai bài. Email của Nathan và cuộc tranh biện có điểm gì chung?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both of them are about phones, and both ask people to use them less during the working day.",
+            "vi": "Cả hai đều về điện thoại, và đều yêu cầu mọi người dùng chúng ít đi trong ngày làm việc."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both of them are about phones, and both ask people to use them less during the working day.",
+          "text_translation": "Cả hai đều về điện thoại, và đều yêu cầu mọi người dùng chúng ít đi trong ngày làm việc."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Both of them are about college, and both give advice to students who want to get a degree as soon as possible.",
+            "vi": "Cả hai đều về đại học, và đều khuyên học sinh muốn lấy bằng càng sớm càng tốt."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Both of them are about college, and both give advice to students who want to get a degree as soon as possible.",
+          "text_translation": "Cả hai đều về đại học, và đều khuyên học sinh muốn lấy bằng càng sớm càng tốt."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both of them happen in Lisbon, where the writer and the students all live and work together.",
+            "vi": "Cả hai đều diễn ra ở Lisbon, nơi người viết và các học sinh cùng sống và làm việc."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Both of them happen in Lisbon, where the writer and the students all live and work together.",
+          "text_translation": "Cả hai đều diễn ra ở Lisbon, nơi người viết và các học sinh cùng sống và làm việc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Both show people who admit what is good in other views and avoid one simple answer for everyone.",
+            "vi": "Cả hai cho thấy những người thừa nhận mặt tốt trong quan điểm khác và tránh một câu trả lời đơn giản cho tất cả."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Both show people who admit what is good in other views and avoid one simple answer for everyone.",
+          "text_translation": "Cả hai cho thấy những người thừa nhận mặt tốt trong quan điểm khác và tránh một câu trả lời đơn giản cho tất cả."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Maddie: \"neither of us thinks there's one answer for everyone.\" Nathan cũng thừa nhận \"some of you prefer talking to writing\" và đề nghị thử hai tháng rồi cùng quyết định."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do Nathan's email and the debate have in common?",
+      "question_vn": "Dựa vào cả hai bài. Email của Nathan và cuộc tranh biện có điểm gì chung?",
+      "explanation": "Câu nối hai bài. Maddie: \"neither of us thinks there's one answer for everyone.\" Nathan cũng thừa nhận \"some of you prefer talking to writing\" và đề nghị thử hai tháng rồi cùng quyết định."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u4142_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 41) — Bức thư đầu tiên của Nathan gửi nhóm khi lên trưởng nhóm",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u4142_01",
+      "question_ids": [
+        "q_u4142_001",
+        "q_u4142_002",
+        "q_u4142_003",
+        "q_u4142_004",
+        "q_u4142_005",
+        "q_u4142_006",
+        "q_u4142_007",
+        "q_u4142_008",
+        "q_u4142_009",
+        "q_u4142_010"
+      ]
+    },
+    {
+      "set_id": "set_u4142_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 42) — Tranh biện: có cần bằng đại học để có việc tốt?",
+      "description": "Đọc hiểu B2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u4142_02",
+      "question_ids": [
+        "q_u4142_011",
+        "q_u4142_012",
+        "q_u4142_013",
+        "q_u4142_014",
+        "q_u4142_015",
+        "q_u4142_016",
+        "q_u4142_017",
+        "q_u4142_018",
+        "q_u4142_019",
+        "q_u4142_020"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1238 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 15 — Animals and nature",
+      "vi": "Động vật, thiên nhiên"
+    },
+    "title": "Unit 15 — Animals and nature",
+    "title_vn": "Động vật, thiên nhiên",
+    "module_code": "56_u15",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A1",
+    "curriculum_unit": "a1.u15",
+    "curriculum_sheets": [
+      "a1.57",
+      "a1.58",
+      "a1.59",
+      "a1.60"
+    ],
+    "characters": [
+      "Tina Carter",
+      "Harriet Brooks",
+      "Amy Brooks",
+      "Biscuit"
+    ],
+    "story_time_i18n": {
+      "vi": "giữa tháng 6, năm 2 (đầu kỳ nghỉ hè)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "So sánh hơn -er + than, đặc điểm con vật, đọc biển thông tin ở sở thú",
+    "description_vn": "Tina kể về một ngày đi sở thú thành phố cùng bà Harriet và Amy, và biển thông tin về sư tử, hổ, dơi ăn quả. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 15 khoá A1 · phiếu `a1.57` – `a1.60` (thú cưng, động vật ở sở thú, cây cối và khu vườn, vùng nông thôn)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài kể của Tina về ngày đi sở thú và một biển thông tin về ba con vật; hiểu so sánh hơn với -er + than (longer than, taller than, bigger than), đặc điểm con vật (sống ở đâu, ăn gì, to bao nhiêu), và nối câu hỏi Why? của Tina với thông tin trên biển."
+    },
+    "extra_words": [
+      {
+        "word": "fruit bat",
+        "i18n": {
+          "vi": "dơi ăn quả"
+        }
+      },
+      {
+        "word": "upside down",
+        "i18n": {
+          "vi": "lộn ngược, treo ngược"
+        }
+      },
+      {
+        "word": "stripes",
+        "i18n": {
+          "vi": "vằn, sọc (trên mình con hổ)"
+        }
+      },
+      {
+        "word": "kilograms",
+        "i18n": {
+          "vi": "ki-lô-gam (kg)"
+        }
+      },
+      {
+        "word": "fly",
+        "i18n": {
+          "vi": "bay"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "go to the zoo",
+          "vi": "đi sở thú"
+        }
+      },
+      {
+        "i18n": {
+          "en": "climb a tree",
+          "vi": "leo cây"
+        }
+      },
+      {
+        "i18n": {
+          "en": "long tail",
+          "vi": "đuôi dài"
+        }
+      },
+      {
+        "i18n": {
+          "en": "stand up on his back legs",
+          "vi": "đứng lên bằng hai chân sau"
+        }
+      },
+      {
+        "i18n": {
+          "en": "live in family groups",
+          "vi": "sống thành đàn gia đình"
+        }
+      },
+      {
+        "i18n": {
+          "en": "feeding time",
+          "vi": "giờ cho (thú) ăn"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "So sánh hơn: **A + is + tính từ -er + than + B** nghĩa là A hơn B (`longer than`, `taller than`, `bigger than`). Tính từ ngắn tận cùng phụ âm – nguyên âm – phụ âm thì gấp đôi phụ âm cuối: `big → bigger`."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu có `They` / `Their` / `He` / `She`: đọc lại câu ngay trước để biết đó là con vật nào. Trong bài kể có nhiều con vật, rất dễ gán nhầm đặc điểm."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Biển thông tin chia theo tiêu đề (Lion, Tiger, Fruit Bat). Câu hỏi về con nào thì chỉ đọc phần dưới tiêu đề con đó. Phương án nhiễu thường là thông tin đúng nhưng của con vật khác."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi so sánh hai con số (tuổi, cân nặng, giờ): tìm cả hai số trên biển, ghi rõ số nào của con nào, rồi mới cộng hoặc trừ."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u15_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Tina viết về một ngày ở sở thú"
+      },
+      "title": "My Day at the Zoo",
+      "category": "story",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 100,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My Day at the Zoo",
+            "vi": "Một ngày của mình ở sở thú"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Today is Monday, and Harriet's is closed, so Grandma Harriet is at the city zoo with Amy and me!",
+            "vi": "Hôm nay là thứ Hai, quán Harriet's đóng cửa, thế nên bà Harriet đi sở thú thành phố cùng Amy và mình!"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "First, the monkeys are climbing the trees.",
+            "vi": "Đầu tiên, lũ khỉ đang leo cây."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Their tails are longer than Biscuit's, and Amy wants a little monkey for a pet!",
+            "vi": "Đuôi của chúng còn dài hơn đuôi của Biscuit, còn Amy thì đòi nuôi một chú khỉ con!"
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then a brown bear stands up on his back legs, and now he is taller than Grandma Harriet!",
+            "vi": "Sau đó, một con gấu nâu đứng lên bằng hai chân sau, và lúc đó nó còn cao hơn cả bà Harriet!"
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The lion, the king of the animals, is sleeping on the grass, but why is he always sleeping?",
+            "vi": "Con sư tử, chúa sơn lâm, đang ngủ trên bãi cỏ, mà sao lúc nào nó cũng ngủ vậy nhỉ?"
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The tiger is bigger than the lion, and he is in the water!",
+            "vi": "Con hổ to hơn con sư tử, mà nó lại đang ở dưới nước!"
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why? My friend's cat never swims!",
+            "vi": "Sao lại thế? Con mèo nhà bạn mình có bao giờ chịu bơi đâu!"
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The fruit bats are strange: they are sleeping upside down in the day!",
+            "vi": "Lũ dơi ăn quả thì lạ lắm: ban ngày mà chúng ngủ, lại còn treo ngược đầu xuống!"
+          }
+        },
+        {
+          "n": 10,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My favorite animal is the tiger, and his stripes are so beautiful.",
+            "vi": "Con vật mình thích nhất là con hổ, những vằn trên mình nó đẹp lắm."
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The zoo animals are bigger and stronger than Biscuit, but I love him more!",
+            "vi": "Mấy con vật ở sở thú to hơn và khoẻ hơn Biscuit, nhưng mình vẫn thương Biscuit hơn!"
+          }
+        },
+        {
+          "n": 12,
+          "para": 8,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tina",
+            "vi": "Tina"
+          }
+        }
+      ],
+      "content_ja": "My Day at the Zoo\n\nToday is Monday, and Harriet's is closed, so Grandma Harriet is at the city zoo with Amy and me!\n\nFirst, the monkeys are climbing the trees. Their tails are longer than Biscuit's, and Amy wants a little monkey for a pet!\n\nThen a brown bear stands up on his back legs, and now he is taller than Grandma Harriet!\n\nThe lion, the king of the animals, is sleeping on the grass, but why is he always sleeping? The tiger is bigger than the lion, and he is in the water! Why? My friend's cat never swims!\n\nThe fruit bats are strange: they are sleeping upside down in the day!\n\nMy favorite animal is the tiger, and his stripes are so beautiful. The zoo animals are bigger and stronger than Biscuit, but I love him more!\n\nTina",
+      "translation_vn": "(1) Một ngày của mình ở sở thú\n(2) Hôm nay là thứ Hai, quán Harriet's đóng cửa, thế nên bà Harriet đi sở thú thành phố cùng Amy và mình!\n(3) Đầu tiên, lũ khỉ đang leo cây.\n(4) Đuôi của chúng còn dài hơn đuôi của Biscuit, còn Amy thì đòi nuôi một chú khỉ con!\n(5) Sau đó, một con gấu nâu đứng lên bằng hai chân sau, và lúc đó nó còn cao hơn cả bà Harriet!\n(6) Con sư tử, chúa sơn lâm, đang ngủ trên bãi cỏ, mà sao lúc nào nó cũng ngủ vậy nhỉ?\n(7) Con hổ to hơn con sư tử, mà nó lại đang ở dưới nước!\n(8) Sao lại thế? Con mèo nhà bạn mình có bao giờ chịu bơi đâu!\n(9) Lũ dơi ăn quả thì lạ lắm: ban ngày mà chúng ngủ, lại còn treo ngược đầu xuống!\n(10) Con vật mình thích nhất là con hổ, những vằn trên mình nó đẹp lắm.\n(11) Mấy con vật ở sở thú to hơn và khoẻ hơn Biscuit, nhưng mình vẫn thương Biscuit hơn!\n(12) Tina",
+      "word_count": 141,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.57",
+        "a1.58",
+        "a1.59",
+        "a1.60"
+      ],
+      "narrator": "Tina"
+    },
+    {
+      "id": "passage_u15_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Biển thông tin ở sở thú"
+      },
+      "title": "City Zoo: Meet Our Animals",
+      "category": "notice",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 100,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "City Zoo: Meet Our Animals",
+            "vi": "Sở thú thành phố: Làm quen với các con vật của chúng tôi"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Lion",
+            "vi": "Sư tử"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most lions live in Africa, and they live in family groups.",
+            "vi": "Phần lớn sư tử sống ở châu Phi, và chúng sống thành từng đàn gia đình."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They eat meat, and they sleep for 16 to 20 hours a day, so please be quiet!",
+            "vi": "Chúng ăn thịt và ngủ từ 16 đến 20 tiếng mỗi ngày, nên xin hãy giữ yên lặng!"
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Our lion, Leo, is nine years old, and he is 190 kilograms.",
+            "vi": "Chú sư tử của chúng tôi, Leo, chín tuổi và nặng 190 ki-lô-gam."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tiger",
+            "vi": "Hổ"
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tigers live in Asia, and they usually live alone.",
+            "vi": "Hổ sống ở châu Á, và chúng thường sống một mình."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They are bigger than lions, and every tiger has different stripes.",
+            "vi": "Hổ to hơn sư tử, và mỗi con hổ có bộ vằn khác nhau."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tigers love water, and they can swim very well.",
+            "vi": "Hổ rất thích nước, và chúng bơi rất giỏi."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Our tiger, Max, is twelve years old, and he is 220 kilograms.",
+            "vi": "Chú hổ của chúng tôi, Max, mười hai tuổi và nặng 220 ki-lô-gam."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Fruit Bat",
+            "vi": "Dơi ăn quả"
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Bats are not birds, but they have wings, and they can fly.",
+            "vi": "Dơi không phải là chim, nhưng chúng có cánh và biết bay."
+          }
+        },
+        {
+          "n": 13,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Our fruit bats eat fruit and flowers.",
+            "vi": "Lũ dơi ăn quả của chúng tôi ăn trái cây và hoa."
+          }
+        },
+        {
+          "n": 14,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They sleep upside down in the day and wake up at night.",
+            "vi": "Ban ngày chúng ngủ treo ngược, tối mới thức dậy."
+          }
+        },
+        {
+          "n": 15,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Feeding time: lions and tigers at 2:30 p.m., fruit bats at 4 p.m.",
+            "vi": "Giờ cho ăn: sư tử và hổ lúc 2 giờ 30 chiều, dơi ăn quả lúc 4 giờ chiều."
+          }
+        },
+        {
+          "n": 16,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Please do not feed the animals.",
+            "vi": "Xin đừng cho các con vật ăn."
+          }
+        }
+      ],
+      "content_ja": "City Zoo: Meet Our Animals\n\nLion\n\nMost lions live in Africa, and they live in family groups. They eat meat, and they sleep for 16 to 20 hours a day, so please be quiet! Our lion, Leo, is nine years old, and he is 190 kilograms.\n\nTiger\n\nTigers live in Asia, and they usually live alone. They are bigger than lions, and every tiger has different stripes. Tigers love water, and they can swim very well. Our tiger, Max, is twelve years old, and he is 220 kilograms.\n\nFruit Bat\n\nBats are not birds, but they have wings, and they can fly. Our fruit bats eat fruit and flowers. They sleep upside down in the day and wake up at night.\n\nFeeding time: lions and tigers at 2:30 p.m., fruit bats at 4 p.m. Please do not feed the animals.",
+      "translation_vn": "(1) Sở thú thành phố: Làm quen với các con vật của chúng tôi\n(2) Sư tử\n(3) Phần lớn sư tử sống ở châu Phi, và chúng sống thành từng đàn gia đình.\n(4) Chúng ăn thịt và ngủ từ 16 đến 20 tiếng mỗi ngày, nên xin hãy giữ yên lặng!\n(5) Chú sư tử của chúng tôi, Leo, chín tuổi và nặng 190 ki-lô-gam.\n(6) Hổ\n(7) Hổ sống ở châu Á, và chúng thường sống một mình.\n(8) Hổ to hơn sư tử, và mỗi con hổ có bộ vằn khác nhau.\n(9) Hổ rất thích nước, và chúng bơi rất giỏi.\n(10) Chú hổ của chúng tôi, Max, mười hai tuổi và nặng 220 ki-lô-gam.\n(11) Dơi ăn quả\n(12) Dơi không phải là chim, nhưng chúng có cánh và biết bay.\n(13) Lũ dơi ăn quả của chúng tôi ăn trái cây và hoa.\n(14) Ban ngày chúng ngủ treo ngược, tối mới thức dậy.\n(15) Giờ cho ăn: sư tử và hổ lúc 2 giờ 30 chiều, dơi ăn quả lúc 4 giờ chiều.\n(16) Xin đừng cho các con vật ăn.",
+      "word_count": 136,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.57",
+        "a1.58",
+        "a1.59",
+        "a1.60"
+      ],
+      "narrator": "announcer"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u15_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u15_01",
+      "i18n": {
+        "en": "Why can Grandma Harriet go to the zoo today?",
+        "vi": "Vì sao hôm nay bà Harriet đi sở thú được?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is Saturday.",
+            "vi": "Vì hôm nay là thứ Bảy."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is Saturday.",
+          "text_translation": "Vì hôm nay là thứ Bảy."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Amy is sick.",
+            "vi": "Vì Amy bị ốm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Amy is sick.",
+          "text_translation": "Vì Amy bị ốm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Harriet's is closed on Monday.",
+            "vi": "Vì quán Harriet's đóng cửa vào thứ Hai."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Harriet's is closed on Monday.",
+          "text_translation": "Vì quán Harriet's đóng cửa vào thứ Hai."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Biscuit is at the zoo.",
+            "vi": "Vì Biscuit đang ở sở thú."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Biscuit is at the zoo.",
+          "text_translation": "Vì Biscuit đang ở sở thú."
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"Today is Monday, and Harriet's is closed, so Grandma Harriet is at the city zoo with Amy and me!\" Chữ \"so\" cho biết quán đóng cửa nên bà rảnh để đi. Hôm nay là thứ Hai, không phải thứ Bảy. Amy không ốm, Amy đi cùng và còn nhảy như khỉ. Biscuit ở nhà chờ Tina, không đi sở thú."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "So … = vì thế, nên. Câu đứng trước So là lý do, câu đứng sau So là kết quả."
+      },
+      "question_jp": "Why can Grandma Harriet go to the zoo today?",
+      "question_vn": "Vì sao hôm nay bà Harriet đi sở thú được?",
+      "explanation": "\"Today is Monday, and Harriet's is closed, so Grandma Harriet is at the city zoo with Amy and me!\" Chữ \"so\" cho biết quán đóng cửa nên bà rảnh để đi. Hôm nay là thứ Hai, không phải thứ Bảy. Amy không ốm, Amy đi cùng và còn nhảy như khỉ. Biscuit ở nhà chờ Tina, không đi sở thú.",
+      "tip": "So … = vì thế, nên. Câu đứng trước So là lý do, câu đứng sau So là kết quả."
+    },
+    {
+      "id": "q_u15_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u15_01",
+      "i18n": {
+        "en": "What is longer than Biscuit's tail?",
+        "vi": "Cái gì dài hơn đuôi của Biscuit?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the monkeys' tails",
+            "vi": "đuôi của lũ khỉ"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the monkeys' tails",
+          "text_translation": "đuôi của lũ khỉ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the bear's legs",
+            "vi": "chân của con gấu"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the bear's legs",
+          "text_translation": "chân của con gấu"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the lion's tail",
+            "vi": "đuôi của con sư tử"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the lion's tail",
+          "text_translation": "đuôi của con sư tử"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the bats' wings",
+            "vi": "cánh của lũ dơi"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the bats' wings",
+          "text_translation": "cánh của lũ dơi"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"First, the monkeys are climbing the trees.\" \"Their tails are longer than Biscuit's\". Biscuit's ở đây là đuôi của Biscuit. Chữ \"Their\" là lũ khỉ ở câu trước. Bài không so chân con gấu, đuôi con sư tử hay cánh con dơi với đuôi Biscuit."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "A + be + -er + than + B: A hơn B. Đọc lại câu trước để biết They / Their là ai."
+      },
+      "question_jp": "What is longer than Biscuit's tail?",
+      "question_vn": "Cái gì dài hơn đuôi của Biscuit?",
+      "explanation": "\"First, the monkeys are climbing the trees.\" \"Their tails are longer than Biscuit's\". Biscuit's ở đây là đuôi của Biscuit. Chữ \"Their\" là lũ khỉ ở câu trước. Bài không so chân con gấu, đuôi con sư tử hay cánh con dơi với đuôi Biscuit.",
+      "tip": "A + be + -er + than + B: A hơn B. Đọc lại câu trước để biết They / Their là ai."
+    },
+    {
+      "id": "q_u15_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u15_01",
+      "i18n": {
+        "en": "When is the bear taller than Grandma Harriet?",
+        "vi": "Lúc nào con gấu cao hơn bà Harriet?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "when he is sleeping on the grass",
+            "vi": "khi nó đang ngủ trên bãi cỏ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "when he is sleeping on the grass",
+          "text_translation": "khi nó đang ngủ trên bãi cỏ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "when he is in the water",
+            "vi": "khi nó ở dưới nước"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "when he is in the water",
+          "text_translation": "khi nó ở dưới nước"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "when he is climbing a tree",
+            "vi": "khi nó đang leo cây"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "when he is climbing a tree",
+          "text_translation": "khi nó đang leo cây"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "when he stands up on his back legs",
+            "vi": "khi nó đứng lên bằng hai chân sau"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "when he stands up on his back legs",
+          "text_translation": "khi nó đứng lên bằng hai chân sau"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Then a brown bear stands up on his back legs, and now he is taller than Grandma Harriet!\" Chữ \"now\" cho biết chỉ khi đứng lên, con gấu mới cao hơn bà. Ngủ trên bãi cỏ là con sư tử, ở dưới nước là con hổ, leo cây là lũ khỉ."
+      },
+      "audio_data": null,
+      "question_jp": "When is the bear taller than Grandma Harriet?",
+      "question_vn": "Lúc nào con gấu cao hơn bà Harriet?",
+      "explanation": "\"Then a brown bear stands up on his back legs, and now he is taller than Grandma Harriet!\" Chữ \"now\" cho biết chỉ khi đứng lên, con gấu mới cao hơn bà. Ngủ trên bãi cỏ là con sư tử, ở dưới nước là con hổ, leo cây là lũ khỉ."
+    },
+    {
+      "id": "q_u15_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u15_01",
+      "i18n": {
+        "en": "Which animal is Tina's favorite?",
+        "vi": "Tina thích con vật nào nhất?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the monkey",
+            "vi": "con khỉ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the monkey",
+          "text_translation": "con khỉ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the tiger",
+            "vi": "con hổ"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "the tiger",
+          "text_translation": "con hổ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the fruit bat",
+            "vi": "con dơi ăn quả"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the fruit bat",
+          "text_translation": "con dơi ăn quả"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Biscuit",
+            "vi": "Biscuit"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Biscuit",
+          "text_translation": "Biscuit"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"My favorite animal is the tiger, and his stripes are so beautiful.\" Lũ khỉ là con Amy muốn nuôi, lũ dơi thì Tina thấy lạ. Câu cuối \"but I love him more!\" là nói Tina thương chú chó nhà mình hơn mấy con vật ở sở thú, không phải trả lời con vật Tina thích nhất ở sở thú."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "my favorite … = … mình thích nhất. Đề hay đặt bẫy bằng một câu có love / like ở chỗ khác trong bài."
+      },
+      "question_jp": "Which animal is Tina's favorite?",
+      "question_vn": "Tina thích con vật nào nhất?",
+      "explanation": "\"My favorite animal is the tiger, and his stripes are so beautiful.\" Lũ khỉ là con Amy muốn nuôi, lũ dơi thì Tina thấy lạ. Câu cuối \"but I love him more!\" là nói Tina thương chú chó nhà mình hơn mấy con vật ở sở thú, không phải trả lời con vật Tina thích nhất ở sở thú.",
+      "tip": "my favorite … = … mình thích nhất. Đề hay đặt bẫy bằng một câu có love / like ở chỗ khác trong bài."
+    },
+    {
+      "id": "q_u15_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u15_01",
+      "i18n": {
+        "en": "Why is Tina surprised about the tiger?",
+        "vi": "Vì sao Tina ngạc nhiên về con hổ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is sleeping upside down.",
+            "vi": "Vì nó ngủ treo ngược."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is sleeping upside down.",
+          "text_translation": "Vì nó ngủ treo ngược."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It has a long tail.",
+            "vi": "Vì nó có đuôi dài."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It has a long tail.",
+          "text_translation": "Vì nó có đuôi dài."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is in the water.",
+            "vi": "Vì nó đang ở dưới nước."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It is in the water.",
+          "text_translation": "Vì nó đang ở dưới nước."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is always sleeping.",
+            "vi": "Vì nó lúc nào cũng ngủ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It is always sleeping.",
+          "text_translation": "Vì nó lúc nào cũng ngủ."
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"The tiger is bigger than the lion, and he is in the water!\" Rồi Tina hỏi \"Why?\", vì con mèo nhà bạn Tina \"never swims\". Hổ cũng thuộc họ mèo nên Tina thấy lạ. Ngủ treo ngược là lũ dơi, đuôi dài là lũ khỉ, lúc nào cũng ngủ là con sư tử."
+      },
+      "audio_data": null,
+      "question_jp": "Why is Tina surprised about the tiger?",
+      "question_vn": "Vì sao Tina ngạc nhiên về con hổ?",
+      "explanation": "\"The tiger is bigger than the lion, and he is in the water!\" Rồi Tina hỏi \"Why?\", vì con mèo nhà bạn Tina \"never swims\". Hổ cũng thuộc họ mèo nên Tina thấy lạ. Ngủ treo ngược là lũ dơi, đuôi dài là lũ khỉ, lúc nào cũng ngủ là con sư tử."
+    },
+    {
+      "id": "q_u15_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u15_02",
+      "i18n": {
+        "en": "Where do tigers live?",
+        "vi": "Hổ sống ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in Asia",
+            "vi": "ở châu Á"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "in Asia",
+          "text_translation": "ở châu Á"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "in Africa",
+            "vi": "ở châu Phi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "in Africa",
+          "text_translation": "ở châu Phi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "in family groups",
+            "vi": "thành đàn gia đình"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "in family groups",
+          "text_translation": "thành đàn gia đình"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "in the trees",
+            "vi": "trên cây"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "in the trees",
+          "text_translation": "trên cây"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Tigers live in Asia, and they usually live alone.\" Châu Phi và đàn gia đình là thông tin về sư tử. Trên cây là chỗ lũ khỉ ở Bài đọc 1 leo trèo."
+      },
+      "audio_data": null,
+      "question_jp": "Where do tigers live?",
+      "question_vn": "Hổ sống ở đâu?",
+      "explanation": "\"Tigers live in Asia, and they usually live alone.\" Châu Phi và đàn gia đình là thông tin về sư tử. Trên cây là chỗ lũ khỉ ở Bài đọc 1 leo trèo."
+    },
+    {
+      "id": "q_u15_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u15_02",
+      "i18n": {
+        "en": "From the sign, Max is ______ kilograms heavier than Leo.",
+        "vi": "Theo biển thông tin, Max nặng hơn Leo ______ ki-lô-gam."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "190",
+            "vi": "190"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "190",
+          "text_translation": "190"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "220",
+            "vi": "220"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "220",
+          "text_translation": "220"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "12",
+            "vi": "12"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "12",
+          "text_translation": "12"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "30",
+            "vi": "30"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "30",
+          "text_translation": "30"
+        }
+      ],
+      "evidence_segments": [
+        5,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Biển ghi về Leo \"he is 190 kilograms\" và về Max \"he is 220 kilograms\". 220 trừ 190 là 30. 190 và 220 là cân nặng của từng con, 12 là tuổi của Max."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi so sánh hai con số trên biển: tìm cả hai số, rồi trừ. Đừng chọn ngay con số có sẵn trong bài."
+      },
+      "question_jp": "From the sign, Max is ______ kilograms heavier than Leo.",
+      "question_vn": "Theo biển thông tin, Max nặng hơn Leo ______ ki-lô-gam.",
+      "explanation": "Biển ghi về Leo \"he is 190 kilograms\" và về Max \"he is 220 kilograms\". 220 trừ 190 là 30. 190 và 220 là cân nặng của từng con, 12 là tuổi của Max.",
+      "tip": "Câu hỏi so sánh hai con số trên biển: tìm cả hai số, rồi trừ. Đừng chọn ngay con số có sẵn trong bài."
+    },
+    {
+      "id": "q_u15_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u15_02",
+      "i18n": {
+        "en": "What do the fruit bats do in the day?",
+        "vi": "Ban ngày lũ dơi ăn quả làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They eat fruit and flowers.",
+            "vi": "Chúng ăn trái cây và hoa."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They eat fruit and flowers.",
+          "text_translation": "Chúng ăn trái cây và hoa."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They sleep upside down.",
+            "vi": "Chúng ngủ treo ngược."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "They sleep upside down.",
+          "text_translation": "Chúng ngủ treo ngược."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They swim in the water.",
+            "vi": "Chúng bơi dưới nước."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They swim in the water.",
+          "text_translation": "Chúng bơi dưới nước."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They live alone.",
+            "vi": "Chúng sống một mình."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They live alone.",
+          "text_translation": "Chúng sống một mình."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"They sleep upside down in the day and wake up at night.\" Ăn trái cây và hoa là đúng, nhưng biển không nói chúng ăn vào ban ngày; chúng thức dậy vào ban đêm. Bơi giỏi và sống một mình là thông tin về hổ."
+      },
+      "audio_data": null,
+      "question_jp": "What do the fruit bats do in the day?",
+      "question_vn": "Ban ngày lũ dơi ăn quả làm gì?",
+      "explanation": "\"They sleep upside down in the day and wake up at night.\" Ăn trái cây và hoa là đúng, nhưng biển không nói chúng ăn vào ban ngày; chúng thức dậy vào ban đêm. Bơi giỏi và sống một mình là thông tin về hổ."
+    },
+    {
+      "id": "q_u15_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u15_02",
+      "i18n": {
+        "en": "Tina asks about the lion, \"Why is he always sleeping?\" What can we learn from the sign?",
+        "vi": "Tina hỏi về con sư tử: \"Sao lúc nào nó cũng ngủ vậy nhỉ?\" Biển thông tin cho ta biết điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He is sick.",
+            "vi": "Nó bị ốm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He is sick.",
+          "text_translation": "Nó bị ốm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He is a baby lion.",
+            "vi": "Nó là sư tử con."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He is a baby lion.",
+          "text_translation": "Nó là sư tử con."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He wants to swim.",
+            "vi": "Nó muốn đi bơi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He wants to swim.",
+          "text_translation": "Nó muốn đi bơi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He is OK. Lions sleep for many hours a day.",
+            "vi": "Nó không sao cả. Sư tử ngủ rất nhiều tiếng mỗi ngày."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "He is OK. Lions sleep for many hours a day.",
+          "text_translation": "Nó không sao cả. Sư tử ngủ rất nhiều tiếng mỗi ngày."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "Biển ghi về sư tử \"they sleep for 16 to 20 hours a day\", nên Tina thấy con sư tử lúc nào cũng ngủ là chuyện bình thường. Biển không nói Leo ốm. Leo chín tuổi, không phải sư tử con. Thích nước và bơi giỏi là hổ, không phải sư tử."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi nối hai bài: lấy câu hỏi Why? trong bài 1 rồi tìm câu trả lời trên biển ở bài 2."
+      },
+      "question_jp": "Tina asks about the lion, \"Why is he always sleeping?\" What can we learn from the sign?",
+      "question_vn": "Tina hỏi về con sư tử: \"Sao lúc nào nó cũng ngủ vậy nhỉ?\" Biển thông tin cho ta biết điều gì?",
+      "explanation": "Biển ghi về sư tử \"they sleep for 16 to 20 hours a day\", nên Tina thấy con sư tử lúc nào cũng ngủ là chuyện bình thường. Biển không nói Leo ốm. Leo chín tuổi, không phải sư tử con. Thích nước và bơi giỏi là hổ, không phải sư tử.",
+      "tip": "Câu hỏi nối hai bài: lấy câu hỏi Why? trong bài 1 rồi tìm câu trả lời trên biển ở bài 2."
+    },
+    {
+      "id": "q_u15_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u15_02",
+      "i18n": {
+        "en": "Tina wants to see the tiger eat. What time can she watch?",
+        "vi": "Tina muốn xem con hổ ăn. Mấy giờ Tina xem được?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at 4 p.m.",
+            "vi": "lúc 4 giờ chiều"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "at 4 p.m.",
+          "text_translation": "lúc 4 giờ chiều"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at 2:30 p.m.",
+            "vi": "lúc 2 giờ 30 chiều"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "at 2:30 p.m.",
+          "text_translation": "lúc 2 giờ 30 chiều"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at night",
+            "vi": "vào ban đêm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "at night",
+          "text_translation": "vào ban đêm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at twelve",
+            "vi": "lúc mười hai giờ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "at twelve",
+          "text_translation": "lúc mười hai giờ"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"Feeding time: lions and tigers at 2:30 p.m., fruit bats at 4 p.m.\" 4 giờ chiều là giờ cho dơi ăn. Ban đêm là lúc lũ dơi thức dậy. Mười hai là tuổi của Max, không phải giờ."
+      },
+      "audio_data": null,
+      "question_jp": "Tina wants to see the tiger eat. What time can she watch?",
+      "question_vn": "Tina muốn xem con hổ ăn. Mấy giờ Tina xem được?",
+      "explanation": "\"Feeding time: lions and tigers at 2:30 p.m., fruit bats at 4 p.m.\" 4 giờ chiều là giờ cho dơi ăn. Ban đêm là lúc lũ dơi thức dậy. Mười hai là tuổi của Max, không phải giờ."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u15_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Tina viết về một ngày ở sở thú",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u15_01",
+      "question_ids": [
+        "q_u15_001",
+        "q_u15_002",
+        "q_u15_003",
+        "q_u15_004",
+        "q_u15_005"
+      ]
+    },
+    {
+      "set_id": "set_u15_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Biển thông tin ở sở thú",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u15_02",
+      "question_ids": [
+        "q_u15_006",
+        "q_u15_007",
+        "q_u15_008",
+        "q_u15_009",
+        "q_u15_010"
+      ]
+    }
+  ]
+}

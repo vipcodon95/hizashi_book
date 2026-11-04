@@ -52,6 +52,8 @@ state["stages"]["05_exercises"]["modules_done"].append(module.code)
 save_state(state)
 ```
 
+→ **COMMIT + PUSH NGAY** sau khi file JSON của module này pass validator — xem CLAUDE.md mục "Quy tắc COMMIT khi viết sách". Mỗi chương 1 commit, không gom.
+
 ### 3. Validate ngay sau khi tạo
 
 ```bash

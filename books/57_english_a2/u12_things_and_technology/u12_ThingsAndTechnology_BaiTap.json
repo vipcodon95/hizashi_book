@@ -1,0 +1,1351 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 12 — Things and technology",
+      "vi": "Đồ vật và công nghệ"
+    },
+    "title": "Unit 12 — Things and technology",
+    "title_vn": "Đồ vật và công nghệ",
+    "module_code": "57_u12",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A2",
+    "curriculum_unit": "a2.u12",
+    "curriculum_sheets": [
+      "a2.45",
+      "a2.46",
+      "a2.47",
+      "a2.48"
+    ],
+    "characters": [
+      "Harriet Brooks",
+      "Trevor Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 5, năm 3 (sáng Chủ nhật ở quán Harriet's, quán mở 8am–1pm; Harriet 69 tuổi, Trevor 12 tuổi, lớp 7)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Bị động hiện tại, mệnh đề quan hệ tân ngữ không có which / that, what = the thing that, Which…?, thứ tự tính từ; thông tin cụ thể, quy chiếu, từ trong ngữ cảnh, thái độ người viết, suy luận câu đùa và lý do",
+    "description_vn": "Trevor kể chuyện sáng Chủ nhật dạy bà Harriet dùng máy tính bảng thanh toán mới ở quán (chụp nhầm ảnh khách, dán mật khẩu lên màn hình, máy hết pin nên bà quay về hộp đựng tiền bằng gỗ), và bài review đồng hồ thông minh hư cấu Kitebright Orbit. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 12 khoá A2 · phiếu `a2.45` – `a2.48` (đồ dùng công nghệ, chất liệu và nơi sản xuất, \"cái mà…\", hỏi chọn Which…?)."
+    },
+    "objective_i18n": {
+      "vi": "đọc chuyện Trevor dạy bà Harriet dùng máy tính bảng thanh toán mới ở quán, và bài review một chiếc đồng hồ thông minh; hiểu câu bị động hiện tại (It's used for…, It's made in…, are counted automatically), mệnh đề quan hệ tân ngữ không có which / that (the tablet I bought), What … is … (What you need is…), câu hỏi Which…?, thứ tự tính từ (small square black plastic); tìm chi tiết, hiểu It chỉ gì, hiểu nghĩa go off, nhận ra thái độ người viết review và suy ra điều bài không nói thẳng."
+    },
+    "extra_words": [
+      {
+        "word": "card reader",
+        "i18n": {
+          "vi": "máy đọc thẻ (để quẹt / chạm thẻ thanh toán)"
+        }
+      },
+      {
+        "word": "payment",
+        "i18n": {
+          "vi": "sự thanh toán"
+        }
+      },
+      {
+        "word": "cash box",
+        "i18n": {
+          "vi": "hộp đựng tiền mặt"
+        }
+      },
+      {
+        "word": "smartwatch",
+        "i18n": {
+          "vi": "đồng hồ thông minh"
+        }
+      },
+      {
+        "word": "strap",
+        "i18n": {
+          "vi": "dây đeo (đồng hồ)"
+        }
+      },
+      {
+        "word": "bracelet",
+        "i18n": {
+          "vi": "vòng tay"
+        }
+      },
+      {
+        "word": "heart rate",
+        "i18n": {
+          "vi": "nhịp tim"
+        }
+      },
+      {
+        "word": "honey",
+        "i18n": {
+          "vi": "cháu yêu / con yêu (cách gọi thân mật)"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "It's used for…",
+          "vi": "Nó được dùng để…"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Where is it made?",
+          "vi": "Nó được sản xuất ở đâu?"
+        }
+      },
+      {
+        "i18n": {
+          "en": "What you need is…",
+          "vi": "Cái bạn cần là…"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Which model should you buy?",
+          "vi": "Bạn nên mua mẫu nào?"
+        }
+      },
+      {
+        "i18n": {
+          "en": "the alarm goes off",
+          "vi": "chuông báo thức reo"
+        }
+      },
+      {
+        "i18n": {
+          "en": "You're just in time!",
+          "vi": "Bạn tới đúng lúc quá!"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Bị động hiện tại = **am / is / are + V3**: `It's used for card payments`, `It's made in Japan`, `Your steps are counted automatically`. Câu bị động nói chuyện xảy ra với đồ vật, không quan tâm ai làm."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Mệnh đề quan hệ tân ngữ có thể bỏ which / that: `the tablet I bought` = the tablet (that) I bought. Thấy danh từ + chủ ngữ + động từ đứng liền nhau thì đó là cụm \"cái mà ai đó làm\"."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**What + S + V + is …** = Thứ mà … là …: `What you need is the big green button`. Đáp án nằm ở phần sau is."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Thứ tự tính từ: ý kiến → kích cỡ → hình dạng → tuổi → màu → chất liệu (`a lovely old wooden cash box`, `a beautiful small square silver watch`). Câu hỏi lặp lại chuỗi tính từ thì tìm đúng chuỗi đó trong bài."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu suy luận (câu đùa, lý do, thái độ): bài không nói thẳng. Nối lời người này với lời đáp của người kia, nối câu mở bài với câu kết, hoặc hỏi \"món đồ đã mất chức năng gì?\" rồi loại phương án không khớp."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u12_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Trevor dạy bà Harriet dùng máy tính bảng thanh toán"
+      },
+      "narrator": "Trevor",
+      "title": "Grandma Harriet's New Tablet",
+      "category": "story",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 110,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Grandma Harriet's New Tablet",
+            "vi": "Chiếc máy tính bảng mới của bà Harriet"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last Sunday, I went to Harriet's for a hot chocolate, but I became a teacher!",
+            "vi": "Chủ nhật tuần trước, tôi tới quán Harriet's uống một cốc sô-cô-la nóng, vậy mà rốt cuộc tôi lại thành thầy giáo!"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "Trevor, you're just in time! Look at the tablet I bought last week.",
+            "vi": "Trevor, cháu tới đúng lúc quá! Xem cái máy tính bảng bà mua tuần trước này."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "It's used for card payments, and that small square black plastic box is the card reader.",
+            "vi": "Nó dùng để thanh toán bằng thẻ, còn cái hộp nhựa nhỏ, vuông, màu đen kia là máy đọc thẻ."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "Cool! Where is it made?",
+            "vi": "Hay quá! Nó được sản xuất ở đâu hả bà?"
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "The box says it's made in Japan, but the other words are too small for my old eyes.",
+            "vi": "Trên hộp ghi là nó được sản xuất ở Nhật Bản, nhưng mấy chữ còn lại thì nhỏ quá, mắt bà già rồi đọc không nổi."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "This morning, a customer wanted to pay with his phone, and I took his photo instead!",
+            "vi": "Sáng nay có một ông khách muốn trả tiền bằng điện thoại, thế mà bà lại chụp ảnh ông ấy!"
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "That's the camera button. What you need is the green \"New Sale\" button.",
+            "vi": "Đó là nút máy ảnh mà bà. Cái bà cần là nút \"New Sale\" (Đơn mới) màu xanh lá kia."
+          }
+        },
+        {
+          "n": 9,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She touched it and typed $3 for my hot chocolate and $4 for my cake, and the tablet asked for a password.",
+            "vi": "Bà chạm vào nút đó rồi gõ 3 đô cho cốc sô-cô-la nóng và 4 đô cho miếng bánh của tôi, thế là máy tính bảng đòi nhập mật khẩu."
+          }
+        },
+        {
+          "n": 10,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "A password? I remember now! I wrote it on a note and put it on the screen.",
+            "vi": "Mật khẩu á? À, giờ bà nhớ ra rồi! Bà viết nó lên một mẩu giấy và dán lên màn hình mà."
+          }
+        },
+        {
+          "n": 11,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": "Trevor",
+          "label": null,
+          "i18n": {
+            "en": "Grandma Harriet, a password is a secret! Everybody can read that note.",
+            "vi": "Bà Harriet ơi, mật khẩu là bí mật đấy! Ai cũng đọc được mẩu giấy đó."
+          }
+        },
+        {
+          "n": 12,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "Don't worry, honey. That's why I wrote it so small!",
+            "vi": "Đừng lo, cháu yêu. Thế nên bà mới viết chữ bé tí thế chứ!"
+          }
+        },
+        {
+          "n": 13,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We practiced for half an hour, and soon she could do everything by herself.",
+            "vi": "Hai bà cháu tập nửa tiếng, và chẳng mấy chốc bà đã tự làm được mọi thứ."
+          }
+        },
+        {
+          "n": 14,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then, just before one o'clock, the screen went black: the battery was empty.",
+            "vi": "Rồi, ngay trước một giờ, màn hình tắt ngóm: máy đã hết sạch pin."
+          }
+        },
+        {
+          "n": 15,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She only laughed and took out her lovely old wooden cash box.",
+            "vi": "Bà Harriet chỉ cười rồi lấy ra cái hộp đựng tiền bằng gỗ cũ kỹ, xinh xắn của bà."
+          }
+        },
+        {
+          "n": 16,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": "Harriet",
+          "label": null,
+          "i18n": {
+            "en": "What I really need is right here. It never needs a charger!",
+            "vi": "Thứ bà thật sự cần ở ngay đây rồi. Cái này chẳng bao giờ cần cục sạc!"
+          }
+        },
+        {
+          "n": 17,
+          "para": 13,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She didn't let me pay. \"Teachers eat for free here,\" she said with a smile.",
+            "vi": "Bà không cho tôi trả tiền. \"Thầy giáo ăn ở đây miễn phí,\" bà vừa nói vừa cười."
+          }
+        }
+      ],
+      "content_ja": "Grandma Harriet's New Tablet\n\nLast Sunday, I went to Harriet's for a hot chocolate, but I became a teacher!\n\nHarriet: Trevor, you're just in time! Look at the tablet I bought last week. It's used for card payments, and that small square black plastic box is the card reader.\n\nTrevor: Cool! Where is it made?\n\nHarriet: The box says it's made in Japan, but the other words are too small for my old eyes. This morning, a customer wanted to pay with his phone, and I took his photo instead!\n\nTrevor: That's the camera button. What you need is the green \"New Sale\" button.\n\nShe touched it and typed $3 for my hot chocolate and $4 for my cake, and the tablet asked for a password.\n\nHarriet: A password? I remember now! I wrote it on a note and put it on the screen.\n\nTrevor: Grandma Harriet, a password is a secret! Everybody can read that note.\n\nHarriet: Don't worry, honey. That's why I wrote it so small!\n\nWe practiced for half an hour, and soon she could do everything by herself. Then, just before one o'clock, the screen went black: the battery was empty. She only laughed and took out her lovely old wooden cash box.\n\nHarriet: What I really need is right here. It never needs a charger!\n\nShe didn't let me pay. \"Teachers eat for free here,\" she said with a smile.",
+      "translation_vn": "(1) Chiếc máy tính bảng mới của bà Harriet\n(2) Chủ nhật tuần trước, tôi tới quán Harriet's uống một cốc sô-cô-la nóng, vậy mà rốt cuộc tôi lại thành thầy giáo!\n(3) Harriet: Trevor, cháu tới đúng lúc quá! Xem cái máy tính bảng bà mua tuần trước này.\n(4) Harriet: Nó dùng để thanh toán bằng thẻ, còn cái hộp nhựa nhỏ, vuông, màu đen kia là máy đọc thẻ.\n(5) Trevor: Hay quá! Nó được sản xuất ở đâu hả bà?\n(6) Harriet: Trên hộp ghi là nó được sản xuất ở Nhật Bản, nhưng mấy chữ còn lại thì nhỏ quá, mắt bà già rồi đọc không nổi.\n(7) Harriet: Sáng nay có một ông khách muốn trả tiền bằng điện thoại, thế mà bà lại chụp ảnh ông ấy!\n(8) Trevor: Đó là nút máy ảnh mà bà. Cái bà cần là nút \"New Sale\" (Đơn mới) màu xanh lá kia.\n(9) Bà chạm vào nút đó rồi gõ 3 đô cho cốc sô-cô-la nóng và 4 đô cho miếng bánh của tôi, thế là máy tính bảng đòi nhập mật khẩu.\n(10) Harriet: Mật khẩu á? À, giờ bà nhớ ra rồi! Bà viết nó lên một mẩu giấy và dán lên màn hình mà.\n(11) Trevor: Bà Harriet ơi, mật khẩu là bí mật đấy! Ai cũng đọc được mẩu giấy đó.\n(12) Harriet: Đừng lo, cháu yêu. Thế nên bà mới viết chữ bé tí thế chứ!\n(13) Hai bà cháu tập nửa tiếng, và chẳng mấy chốc bà đã tự làm được mọi thứ.\n(14) Rồi, ngay trước một giờ, màn hình tắt ngóm: máy đã hết sạch pin.\n(15) Bà Harriet chỉ cười rồi lấy ra cái hộp đựng tiền bằng gỗ cũ kỹ, xinh xắn của bà.\n(16) Harriet: Thứ bà thật sự cần ở ngay đây rồi. Cái này chẳng bao giờ cần cục sạc!\n(17) Bà không cho tôi trả tiền. \"Thầy giáo ăn ở đây miễn phí,\" bà vừa nói vừa cười.",
+      "word_count": 225,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.45",
+        "a2.46",
+        "a2.47",
+        "a2.48"
+      ]
+    },
+    {
+      "id": "passage_u12_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Bài review đồng hồ thông minh Kitebright Orbit"
+      },
+      "narrator": "Kendra",
+      "title": "Review: The Kitebright Orbit Smartwatch",
+      "category": "review",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 110,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Review: The Kitebright Orbit Smartwatch",
+            "vi": "Đánh giá: đồng hồ thông minh Kitebright Orbit"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Four out of five stars, by Kendra Holloway",
+            "vi": "Bốn trên năm sao, người viết: Kendra Holloway"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I'm a mom of two and a runner, so I need a watch that does a lot but stays simple.",
+            "vi": "Tôi là mẹ của hai đứa nhỏ và hay chạy bộ, nên tôi cần một chiếc đồng hồ làm được nhiều việc mà vẫn đơn giản."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I have worn the Orbit day and night for a month.",
+            "vi": "Tôi đã đeo chiếc Orbit cả ngày lẫn đêm suốt một tháng nay."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What I love",
+            "vi": "Điều tôi thích"
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It's a beautiful small square silver watch, and the soft strap feels nice even in hot weather.",
+            "vi": "Đây là một chiếc đồng hồ đẹp, nhỏ, mặt vuông, màu bạc, và dây đeo mềm đeo vẫn dễ chịu cả khi trời nóng."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Your steps and your sleep are counted automatically.",
+            "vi": "Số bước chân và giấc ngủ của bạn được đếm tự động."
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When the alarm goes off at 5:30, it doesn't make a sound: it just shakes a little on my arm, so my husband keeps sleeping.",
+            "vi": "Khi chuông báo thức reo lúc 5 giờ 30, đồng hồ không phát ra tiếng: nó chỉ rung nhẹ trên tay tôi, nên chồng tôi vẫn ngủ tiếp được."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The battery lasts about five days, which is great.",
+            "vi": "Pin dùng được khoảng năm ngày, thế là tuyệt rồi."
+          }
+        },
+        {
+          "n": 10,
+          "para": 7,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What I don't love",
+            "vi": "Điều tôi không thích"
+          }
+        },
+        {
+          "n": 11,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The display is hard to read in strong sunshine, which is a problem in San Diego!",
+            "vi": "Màn hình khó đọc dưới nắng gắt, mà ở San Diego thì đó là cả một vấn đề!"
+          }
+        },
+        {
+          "n": 12,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Also, the charger is a special one, so when I forgot it on a trip, I had a very expensive bracelet for three days!",
+            "vi": "Ngoài ra, cục sạc là loại riêng, nên có lần tôi quên nó khi đi xa, thế là suốt ba ngày tôi đeo một chiếc vòng tay rất đắt tiền!"
+          }
+        },
+        {
+          "n": 13,
+          "para": 9,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Which model should you buy?",
+            "vi": "Bạn nên mua mẫu nào?"
+          }
+        },
+        {
+          "n": 14,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The basic Orbit costs $129. The Orbit Pro costs $199 and has a map and a phone function, so your phone can stay at home.",
+            "vi": "Mẫu Orbit cơ bản giá 129 đô. Mẫu Orbit Pro giá 199 đô, có bản đồ và chức năng gọi điện, nên điện thoại có thể nằm ở nhà."
+          }
+        },
+        {
+          "n": 15,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What most people need is the basic model, because the phone in your pocket can do the other things.",
+            "vi": "Thứ mà phần lớn mọi người cần là mẫu cơ bản, vì chiếc điện thoại trong túi bạn làm được những việc còn lại."
+          }
+        },
+        {
+          "n": 16,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The heart-rate feature is useful too, but the watch is not a doctor.",
+            "vi": "Tính năng đo nhịp tim cũng có ích, nhưng đồng hồ không phải là bác sĩ."
+          }
+        },
+        {
+          "n": 17,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Am I happy with it? Yes, but now the charger lives in my bag!",
+            "vi": "Tôi có hài lòng với nó không? Có, nhưng giờ thì cục sạc lúc nào cũng nằm trong túi xách của tôi!"
+          }
+        }
+      ],
+      "content_ja": "Review: The Kitebright Orbit Smartwatch\n\nFour out of five stars, by Kendra Holloway\n\nI'm a mom of two and a runner, so I need a watch that does a lot but stays simple. I have worn the Orbit day and night for a month.\n\nWhat I love\n\nIt's a beautiful small square silver watch, and the soft strap feels nice even in hot weather. Your steps and your sleep are counted automatically.\n\nWhen the alarm goes off at 5:30, it doesn't make a sound: it just shakes a little on my arm, so my husband keeps sleeping. The battery lasts about five days, which is great.\n\nWhat I don't love\n\nThe display is hard to read in strong sunshine, which is a problem in San Diego! Also, the charger is a special one, so when I forgot it on a trip, I had a very expensive bracelet for three days!\n\nWhich model should you buy?\n\nThe basic Orbit costs $129. The Orbit Pro costs $199 and has a map and a phone function, so your phone can stay at home. What most people need is the basic model, because the phone in your pocket can do the other things.\n\nThe heart-rate feature is useful too, but the watch is not a doctor.\n\nAm I happy with it? Yes, but now the charger lives in my bag!",
+      "translation_vn": "(1) Đánh giá: đồng hồ thông minh Kitebright Orbit\n(2) Bốn trên năm sao, người viết: Kendra Holloway\n(3) Tôi là mẹ của hai đứa nhỏ và hay chạy bộ, nên tôi cần một chiếc đồng hồ làm được nhiều việc mà vẫn đơn giản.\n(4) Tôi đã đeo chiếc Orbit cả ngày lẫn đêm suốt một tháng nay.\n(5) Điều tôi thích\n(6) Đây là một chiếc đồng hồ đẹp, nhỏ, mặt vuông, màu bạc, và dây đeo mềm đeo vẫn dễ chịu cả khi trời nóng.\n(7) Số bước chân và giấc ngủ của bạn được đếm tự động.\n(8) Khi chuông báo thức reo lúc 5 giờ 30, đồng hồ không phát ra tiếng: nó chỉ rung nhẹ trên tay tôi, nên chồng tôi vẫn ngủ tiếp được.\n(9) Pin dùng được khoảng năm ngày, thế là tuyệt rồi.\n(10) Điều tôi không thích\n(11) Màn hình khó đọc dưới nắng gắt, mà ở San Diego thì đó là cả một vấn đề!\n(12) Ngoài ra, cục sạc là loại riêng, nên có lần tôi quên nó khi đi xa, thế là suốt ba ngày tôi đeo một chiếc vòng tay rất đắt tiền!\n(13) Bạn nên mua mẫu nào?\n(14) Mẫu Orbit cơ bản giá 129 đô. Mẫu Orbit Pro giá 199 đô, có bản đồ và chức năng gọi điện, nên điện thoại có thể nằm ở nhà.\n(15) Thứ mà phần lớn mọi người cần là mẫu cơ bản, vì chiếc điện thoại trong túi bạn làm được những việc còn lại.\n(16) Tính năng đo nhịp tim cũng có ích, nhưng đồng hồ không phải là bác sĩ.\n(17) Tôi có hài lòng với nó không? Có, nhưng giờ thì cục sạc lúc nào cũng nằm trong túi xách của tôi!",
+      "word_count": 224,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.45",
+        "a2.46",
+        "a2.47",
+        "a2.48"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u12_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u12_01",
+      "i18n": {
+        "en": "What is the small square black plastic box?",
+        "vi": "Cái hộp nhựa nhỏ, vuông, màu đen mà bà Harriet chỉ cho Trevor là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the charger",
+            "vi": "cục sạc"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the charger",
+          "text_translation": "cục sạc"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Grandma Harriet's cash box",
+            "vi": "hộp đựng tiền của bà Harriet"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Grandma Harriet's cash box",
+          "text_translation": "hộp đựng tiền của bà Harriet"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the card reader",
+            "vi": "máy đọc thẻ"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "the card reader",
+          "text_translation": "máy đọc thẻ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a camera",
+            "vi": "một cái máy ảnh"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a camera",
+          "text_translation": "một cái máy ảnh"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"It's used for card payments, and that small square black plastic box is the card reader.\" Vậy cái hộp đó là máy đọc thẻ: \"is the card reader\". Hộp đựng tiền của bà Harriet làm bằng gỗ (\"her lovely old wooden cash box\"), không phải nhựa đen. Cục sạc chỉ được nhắc tới khi bà nói hộp gỗ \"never needs a charger\". Máy ảnh là một nút trên máy tính bảng (\"the camera button\"), không phải một cái hộp."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Khi câu hỏi lặp lại cả chuỗi tính từ (small square black plastic), hãy tìm đúng chuỗi đó trong bài: danh từ đứng ngay sau là đáp án."
+      },
+      "question_jp": "What is the small square black plastic box?",
+      "question_vn": "Cái hộp nhựa nhỏ, vuông, màu đen mà bà Harriet chỉ cho Trevor là gì?",
+      "explanation": "\"It's used for card payments, and that small square black plastic box is the card reader.\" Vậy cái hộp đó là máy đọc thẻ: \"is the card reader\". Hộp đựng tiền của bà Harriet làm bằng gỗ (\"her lovely old wooden cash box\"), không phải nhựa đen. Cục sạc chỉ được nhắc tới khi bà nói hộp gỗ \"never needs a charger\". Máy ảnh là một nút trên máy tính bảng (\"the camera button\"), không phải một cái hộp.",
+      "tip": "Khi câu hỏi lặp lại cả chuỗi tính từ (small square black plastic), hãy tìm đúng chuỗi đó trong bài: danh từ đứng ngay sau là đáp án."
+    },
+    {
+      "id": "q_u12_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u12_01",
+      "i18n": {
+        "en": "What happened when a customer wanted to pay with his phone that morning?",
+        "vi": "Chuyện gì xảy ra khi sáng hôm đó một ông khách muốn trả tiền bằng điện thoại?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Grandma Harriet took a photo of him.",
+            "vi": "Bà Harriet chụp ảnh ông ấy."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Grandma Harriet took a photo of him.",
+          "text_translation": "Bà Harriet chụp ảnh ông ấy."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The screen went black.",
+            "vi": "Màn hình tắt ngóm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The screen went black.",
+          "text_translation": "Màn hình tắt ngóm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The tablet asked for a password.",
+            "vi": "Máy tính bảng đòi mật khẩu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The tablet asked for a password.",
+          "text_translation": "Máy tính bảng đòi mật khẩu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He paid with cash from the wooden box.",
+            "vi": "Ông ấy trả bằng tiền mặt cho vào hộp gỗ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He paid with cash from the wooden box.",
+          "text_translation": "Ông ấy trả bằng tiền mặt cho vào hộp gỗ."
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"This morning, a customer wanted to pay with his phone, and I took his photo instead!\" Trevor giải thích ngay: \"That's the camera button.\" Màn hình tắt là chuyện xảy ra sau, \"just before one o'clock\". Máy đòi mật khẩu là lúc bà gõ đơn cho Trevor. Bài không nói ông khách trả tiền mặt."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "instead = thay vào đó, tức là làm việc khác với việc định làm. Câu có instead thường chứa đáp án cho câu hỏi What happened?"
+      },
+      "question_jp": "What happened when a customer wanted to pay with his phone that morning?",
+      "question_vn": "Chuyện gì xảy ra khi sáng hôm đó một ông khách muốn trả tiền bằng điện thoại?",
+      "explanation": "\"This morning, a customer wanted to pay with his phone, and I took his photo instead!\" Trevor giải thích ngay: \"That's the camera button.\" Màn hình tắt là chuyện xảy ra sau, \"just before one o'clock\". Máy đòi mật khẩu là lúc bà gõ đơn cho Trevor. Bài không nói ông khách trả tiền mặt.",
+      "tip": "instead = thay vào đó, tức là làm việc khác với việc định làm. Câu có instead thường chứa đáp án cho câu hỏi What happened?"
+    },
+    {
+      "id": "q_u12_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u12_01",
+      "i18n": {
+        "en": "Why does Grandma Harriet say \"That's why I wrote it so small!\"?",
+        "vi": "Vì sao bà Harriet nói \"That's why I wrote it so small!\" (Thế nên bà mới viết chữ bé tí thế chứ)?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She can't read small letters with her old eyes.",
+            "vi": "Bà không đọc được chữ nhỏ vì mắt đã kém."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She can't read small letters with her old eyes.",
+          "text_translation": "Bà không đọc được chữ nhỏ vì mắt đã kém."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She thinks nobody can read a very small note, so the password is still a secret.",
+            "vi": "Bà nghĩ chẳng ai đọc được mẩu giấy chữ bé tí, nên mật khẩu vẫn còn bí mật."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She thinks nobody can read a very small note, so the password is still a secret.",
+          "text_translation": "Bà nghĩ chẳng ai đọc được mẩu giấy chữ bé tí, nên mật khẩu vẫn còn bí mật."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She wants Trevor to read the password for her.",
+            "vi": "Bà muốn Trevor đọc mật khẩu giúp bà."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She wants Trevor to read the password for her.",
+          "text_translation": "Bà muốn Trevor đọc mật khẩu giúp bà."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She has forgotten the password.",
+            "vi": "Bà đã quên mật khẩu."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She has forgotten the password.",
+          "text_translation": "Bà đã quên mật khẩu."
+        }
+      ],
+      "evidence_segments": [
+        11,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng ta suy ra được. Trevor lo: \"a password is a secret! Everybody can read that note.\" Bà đáp \"Don't worry, honey. That's why I wrote it so small!\": bà cho rằng viết chữ thật nhỏ thì người khác không đọc được, nên Trevor khỏi lo. Đây chính là chỗ gây cười. Chuyện mắt kém là lúc bà đọc chữ trên hộp (\"too small for my old eyes\"), không phải lý do bà viết nhỏ. Bà không nhờ Trevor đọc, và bà nhớ ra ngay (\"I remember now!\"), nên không phải đã quên."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu That's why… (thế nên…) là lời đáp cho nỗi lo ngay trước nó. Đọc câu của người kia trước, rồi hỏi: người này nghĩ gì mà trả lời như vậy?"
+      },
+      "question_jp": "Why does Grandma Harriet say \"That's why I wrote it so small!\"?",
+      "question_vn": "Vì sao bà Harriet nói \"That's why I wrote it so small!\" (Thế nên bà mới viết chữ bé tí thế chứ)?",
+      "explanation": "Bài không nói thẳng, nhưng ta suy ra được. Trevor lo: \"a password is a secret! Everybody can read that note.\" Bà đáp \"Don't worry, honey. That's why I wrote it so small!\": bà cho rằng viết chữ thật nhỏ thì người khác không đọc được, nên Trevor khỏi lo. Đây chính là chỗ gây cười. Chuyện mắt kém là lúc bà đọc chữ trên hộp (\"too small for my old eyes\"), không phải lý do bà viết nhỏ. Bà không nhờ Trevor đọc, và bà nhớ ra ngay (\"I remember now!\"), nên không phải đã quên.",
+      "tip": "Câu That's why… (thế nên…) là lời đáp cho nỗi lo ngay trước nó. Đọc câu của người kia trước, rồi hỏi: người này nghĩ gì mà trả lời như vậy?"
+    },
+    {
+      "id": "q_u12_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u12_01",
+      "i18n": {
+        "en": "In \"It never needs a charger!\", what does \"It\" mean?",
+        "vi": "Trong câu \"It never needs a charger!\", \"It\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the tablet",
+            "vi": "máy tính bảng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the tablet",
+          "text_translation": "máy tính bảng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the card reader",
+            "vi": "máy đọc thẻ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the card reader",
+          "text_translation": "máy đọc thẻ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Trevor's phone",
+            "vi": "điện thoại của Trevor"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Trevor's phone",
+          "text_translation": "điện thoại của Trevor"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the old wooden cash box",
+            "vi": "cái hộp đựng tiền bằng gỗ cũ"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the old wooden cash box",
+          "text_translation": "cái hộp đựng tiền bằng gỗ cũ"
+        }
+      ],
+      "evidence_segments": [
+        15,
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"She only laughed and took out her lovely old wooden cash box.\" Rồi bà nói \"What I really need is right here. It never needs a charger!\" \"It\" là cái hộp gỗ bà vừa lấy ra: hộp gỗ thì không dùng điện. Máy tính bảng chính là thứ vừa tắt vì hết pin (\"the battery was empty\"), nên không thể \"never needs a charger\". Máy đọc thẻ đi cùng máy tính bảng. Bài không nhắc tới điện thoại của Trevor."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "right here (ngay đây) và It thường chỉ thứ người nói vừa cầm lên hoặc vừa lấy ra ở câu ngay trước."
+      },
+      "question_jp": "In \"It never needs a charger!\", what does \"It\" mean?",
+      "question_vn": "Trong câu \"It never needs a charger!\", \"It\" chỉ cái gì?",
+      "explanation": "\"She only laughed and took out her lovely old wooden cash box.\" Rồi bà nói \"What I really need is right here. It never needs a charger!\" \"It\" là cái hộp gỗ bà vừa lấy ra: hộp gỗ thì không dùng điện. Máy tính bảng chính là thứ vừa tắt vì hết pin (\"the battery was empty\"), nên không thể \"never needs a charger\". Máy đọc thẻ đi cùng máy tính bảng. Bài không nhắc tới điện thoại của Trevor.",
+      "tip": "right here (ngay đây) và It thường chỉ thứ người nói vừa cầm lên hoặc vừa lấy ra ở câu ngay trước."
+    },
+    {
+      "id": "q_u12_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u12_01",
+      "i18n": {
+        "en": "Why didn't Trevor pay for his cake?",
+        "vi": "Vì sao Trevor không phải trả tiền bánh?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Grandma Harriet wanted to thank him for his help.",
+            "vi": "Bà Harriet muốn cảm ơn cậu vì đã giúp bà."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Grandma Harriet wanted to thank him for his help.",
+          "text_translation": "Bà Harriet muốn cảm ơn cậu vì đã giúp bà."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The tablet stopped working, so nobody could pay.",
+            "vi": "Máy tính bảng hỏng nên không ai trả tiền được."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The tablet stopped working, so nobody could pay.",
+          "text_translation": "Máy tính bảng hỏng nên không ai trả tiền được."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He had no money with him.",
+            "vi": "Cậu không mang theo tiền."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He had no money with him.",
+          "text_translation": "Cậu không mang theo tiền."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Cake is free at Harriet's on Sundays.",
+            "vi": "Ở quán Harriet's, bánh miễn phí vào Chủ nhật."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Cake is free at Harriet's on Sundays.",
+          "text_translation": "Ở quán Harriet's, bánh miễn phí vào Chủ nhật."
+        }
+      ],
+      "evidence_segments": [
+        2,
+        13,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng đây là quà cảm ơn, nhưng ta suy ra được. Trevor kể \"I became a teacher\" và dạy bà tới khi \"she could do everything by herself\". Cuối bài bà nói \"Teachers eat for free here\": \"teacher\" ở đây chính là Trevor, nên bánh miễn phí là quà cảm ơn. Máy tắt không làm ai hết trả được tiền, vì bà vẫn còn hộp đựng tiền mặt. Bài không nói Trevor không có tiền, cũng không nói bánh miễn phí vào Chủ nhật."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận lý do: nối câu mở bài (I became a teacher) với câu kết (Teachers eat for free). Một chữ được lặp lại ở đầu và cuối bài thường là chìa khoá."
+      },
+      "question_jp": "Why didn't Trevor pay for his cake?",
+      "question_vn": "Vì sao Trevor không phải trả tiền bánh?",
+      "explanation": "Bài không nói thẳng đây là quà cảm ơn, nhưng ta suy ra được. Trevor kể \"I became a teacher\" và dạy bà tới khi \"she could do everything by herself\". Cuối bài bà nói \"Teachers eat for free here\": \"teacher\" ở đây chính là Trevor, nên bánh miễn phí là quà cảm ơn. Máy tắt không làm ai hết trả được tiền, vì bà vẫn còn hộp đựng tiền mặt. Bài không nói Trevor không có tiền, cũng không nói bánh miễn phí vào Chủ nhật.",
+      "tip": "Câu suy luận lý do: nối câu mở bài (I became a teacher) với câu kết (Teachers eat for free). Một chữ được lặp lại ở đầu và cuối bài thường là chìa khoá."
+    },
+    {
+      "id": "q_u12_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u12_02",
+      "i18n": {
+        "en": "What is Kendra's opinion of the Orbit?",
+        "vi": "Nhìn chung Kendra nghĩ gì về chiếc Orbit?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is perfect, and she has no problems with it.",
+            "vi": "Nó hoàn hảo, cô không gặp vấn đề gì."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is perfect, and she has no problems with it.",
+          "text_translation": "Nó hoàn hảo, cô không gặp vấn đề gì."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is only good for runners.",
+            "vi": "Nó chỉ hợp với người chạy bộ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is only good for runners.",
+          "text_translation": "Nó chỉ hợp với người chạy bộ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She likes it a lot, but it has a few problems.",
+            "vi": "Cô rất thích nó, nhưng nó có vài nhược điểm."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She likes it a lot, but it has a few problems.",
+          "text_translation": "Cô rất thích nó, nhưng nó có vài nhược điểm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is too expensive, so people shouldn't buy it.",
+            "vi": "Nó đắt quá nên mọi người đừng mua."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It is too expensive, so people shouldn't buy it.",
+          "text_translation": "Nó đắt quá nên mọi người đừng mua."
+        }
+      ],
+      "evidence_segments": [
+        2,
+        5,
+        10,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Kendra cho \"Four out of five stars\", có cả mục \"What I love\" lẫn mục \"What I don't love\", và kết bài: \"Am I happy with it? Yes, but now the charger lives in my bag!\" Vậy cô rất thích nhưng vẫn thấy vài điểm chưa tốt (màn hình khó đọc dưới nắng, cục sạc riêng). Không phải năm sao, nên không \"perfect\". Cô có chạy bộ, nhưng không nói đồng hồ chỉ hợp với người chạy bộ. Cô còn khuyên mua mẫu cơ bản, nên không phải \"shouldn't buy it\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Thái độ chung của bài review: xem số sao, xem bài có cả phần khen lẫn phần chê không, và đọc câu kết."
+      },
+      "question_jp": "What is Kendra's opinion of the Orbit?",
+      "question_vn": "Nhìn chung Kendra nghĩ gì về chiếc Orbit?",
+      "explanation": "Kendra cho \"Four out of five stars\", có cả mục \"What I love\" lẫn mục \"What I don't love\", và kết bài: \"Am I happy with it? Yes, but now the charger lives in my bag!\" Vậy cô rất thích nhưng vẫn thấy vài điểm chưa tốt (màn hình khó đọc dưới nắng, cục sạc riêng). Không phải năm sao, nên không \"perfect\". Cô có chạy bộ, nhưng không nói đồng hồ chỉ hợp với người chạy bộ. Cô còn khuyên mua mẫu cơ bản, nên không phải \"shouldn't buy it\".",
+      "tip": "Thái độ chung của bài review: xem số sao, xem bài có cả phần khen lẫn phần chê không, và đọc câu kết."
+    },
+    {
+      "id": "q_u12_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u12_02",
+      "i18n": {
+        "en": "How does the alarm wake Kendra up?",
+        "vi": "Chuông báo thức đánh thức Kendra bằng cách nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It makes a big noise at 5:30.",
+            "vi": "Nó kêu thật to lúc 5 giờ 30."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It makes a big noise at 5:30.",
+          "text_translation": "Nó kêu thật to lúc 5 giờ 30."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It shakes a little on her arm.",
+            "vi": "Nó rung nhẹ trên tay cô."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "It shakes a little on her arm.",
+          "text_translation": "Nó rung nhẹ trên tay cô."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Her husband turns it off and wakes her.",
+            "vi": "Chồng cô tắt chuông rồi gọi cô dậy."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Her husband turns it off and wakes her.",
+          "text_translation": "Chồng cô tắt chuông rồi gọi cô dậy."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Her phone rings in her pocket.",
+            "vi": "Điện thoại trong túi cô đổ chuông."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Her phone rings in her pocket.",
+          "text_translation": "Điện thoại trong túi cô đổ chuông."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"When the alarm goes off at 5:30, it doesn't make a sound: it just shakes a little on my arm, so my husband keeps sleeping.\" 5 giờ 30 là đúng giờ, nhưng đồng hồ \"doesn't make a sound\", nên không phải \"a big noise\". Chồng cô vẫn ngủ (\"my husband keeps sleeping\"), không phải người gọi cô dậy. Điện thoại \"in your pocket\" là chuyện ở mục chọn mẫu, không liên quan tới báo thức."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Phương án nhiễu hay giữ một chi tiết đúng (5:30) rồi ghép với chi tiết sai (a big noise). Kiểm tra từng nửa của phương án."
+      },
+      "question_jp": "How does the alarm wake Kendra up?",
+      "question_vn": "Chuông báo thức đánh thức Kendra bằng cách nào?",
+      "explanation": "\"When the alarm goes off at 5:30, it doesn't make a sound: it just shakes a little on my arm, so my husband keeps sleeping.\" 5 giờ 30 là đúng giờ, nhưng đồng hồ \"doesn't make a sound\", nên không phải \"a big noise\". Chồng cô vẫn ngủ (\"my husband keeps sleeping\"), không phải người gọi cô dậy. Điện thoại \"in your pocket\" là chuyện ở mục chọn mẫu, không liên quan tới báo thức.",
+      "tip": "Phương án nhiễu hay giữ một chi tiết đúng (5:30) rồi ghép với chi tiết sai (a big noise). Kiểm tra từng nửa của phương án."
+    },
+    {
+      "id": "q_u12_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u12_02",
+      "i18n": {
+        "en": "Why did Kendra have \"a very expensive bracelet for three days\"?",
+        "vi": "Vì sao suốt ba ngày Kendra có \"một chiếc vòng tay rất đắt tiền\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She bought a new bracelet on her trip.",
+            "vi": "Cô mua một chiếc vòng tay mới trong chuyến đi."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She bought a new bracelet on her trip.",
+          "text_translation": "Cô mua một chiếc vòng tay mới trong chuyến đi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The soft strap broke, so she wore it like a bracelet.",
+            "vi": "Dây đeo mềm bị đứt nên cô đeo nó như vòng tay."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The soft strap broke, so she wore it like a bracelet.",
+          "text_translation": "Dây đeo mềm bị đứt nên cô đeo nó như vòng tay."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She couldn't read the display in the sunshine.",
+            "vi": "Cô không đọc được màn hình dưới nắng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She couldn't read the display in the sunshine.",
+          "text_translation": "Cô không đọc được màn hình dưới nắng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The battery died, and she had no charger, so the watch did nothing.",
+            "vi": "Đồng hồ hết pin mà cô không có cục sạc, nên nó chẳng làm được gì."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The battery died, and she had no charger, so the watch did nothing.",
+          "text_translation": "Đồng hồ hết pin mà cô không có cục sạc, nên nó chẳng làm được gì."
+        }
+      ],
+      "evidence_segments": [
+        9,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng là đồng hồ hết pin, nhưng ta suy ra được. \"the charger is a special one, so when I forgot it on a trip, I had a very expensive bracelet for three days!\" Pin chỉ dùng \"about five days\", và cục sạc là loại riêng nên không mượn được cái khác. Khi hết pin, chiếc đồng hồ đắt tiền chỉ còn là món đeo tay cho đẹp: đó là câu đùa. Cô không mua vòng tay mới, dây đeo không đứt. Màn hình khó đọc dưới nắng là một nhược điểm khác, không phải lý do của \"bracelet\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Người viết review hay đùa bằng cách gọi một món đồ hỏng là một thứ khác (a very expensive bracelet). Hãy hỏi: món đồ đã mất chức năng nào, và vì sao?"
+      },
+      "question_jp": "Why did Kendra have \"a very expensive bracelet for three days\"?",
+      "question_vn": "Vì sao suốt ba ngày Kendra có \"một chiếc vòng tay rất đắt tiền\"?",
+      "explanation": "Bài không nói thẳng là đồng hồ hết pin, nhưng ta suy ra được. \"the charger is a special one, so when I forgot it on a trip, I had a very expensive bracelet for three days!\" Pin chỉ dùng \"about five days\", và cục sạc là loại riêng nên không mượn được cái khác. Khi hết pin, chiếc đồng hồ đắt tiền chỉ còn là món đeo tay cho đẹp: đó là câu đùa. Cô không mua vòng tay mới, dây đeo không đứt. Màn hình khó đọc dưới nắng là một nhược điểm khác, không phải lý do của \"bracelet\".",
+      "tip": "Người viết review hay đùa bằng cách gọi một món đồ hỏng là một thứ khác (a very expensive bracelet). Hãy hỏi: món đồ đã mất chức năng nào, và vì sao?"
+    },
+    {
+      "id": "q_u12_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u12_02",
+      "i18n": {
+        "en": "Which model does Kendra think most people should buy?",
+        "vi": "Kendra cho rằng phần lớn mọi người nên mua mẫu nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the basic Orbit, because their phone can do the other things",
+            "vi": "mẫu Orbit cơ bản, vì điện thoại của họ làm được những việc còn lại"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the basic Orbit, because their phone can do the other things",
+          "text_translation": "mẫu Orbit cơ bản, vì điện thoại của họ làm được những việc còn lại"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the Orbit Pro, because it has a map",
+            "vi": "mẫu Orbit Pro, vì nó có bản đồ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the Orbit Pro, because it has a map",
+          "text_translation": "mẫu Orbit Pro, vì nó có bản đồ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the Orbit Pro, because you can leave your phone at home",
+            "vi": "mẫu Orbit Pro, vì bạn có thể để điện thoại ở nhà"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the Orbit Pro, because you can leave your phone at home",
+          "text_translation": "mẫu Orbit Pro, vì bạn có thể để điện thoại ở nhà"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the basic Orbit, because its battery lasts longer",
+            "vi": "mẫu Orbit cơ bản, vì pin dùng lâu hơn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the basic Orbit, because its battery lasts longer",
+          "text_translation": "mẫu Orbit cơ bản, vì pin dùng lâu hơn"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"What most people need is the basic model, because the phone in your pocket can do the other things.\" \"What most people need\" = thứ mà phần lớn mọi người cần. Bản đồ và việc để điện thoại ở nhà là tính năng của Orbit Pro, nhưng Kendra không khuyên mua mẫu đó. Bài không so sánh pin của hai mẫu."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "What + S + V + is … = Thứ mà … là …: phần sau is mới là câu trả lời. Lý do thì tìm chữ because ngay sau đó."
+      },
+      "question_jp": "Which model does Kendra think most people should buy?",
+      "question_vn": "Kendra cho rằng phần lớn mọi người nên mua mẫu nào?",
+      "explanation": "\"What most people need is the basic model, because the phone in your pocket can do the other things.\" \"What most people need\" = thứ mà phần lớn mọi người cần. Bản đồ và việc để điện thoại ở nhà là tính năng của Orbit Pro, nhưng Kendra không khuyên mua mẫu đó. Bài không so sánh pin của hai mẫu.",
+      "tip": "What + S + V + is … = Thứ mà … là …: phần sau is mới là câu trả lời. Lý do thì tìm chữ because ngay sau đó."
+    },
+    {
+      "id": "q_u12_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u12_02",
+      "i18n": {
+        "en": "In \"When the alarm goes off at 5:30\", what does \"goes off\" mean?",
+        "vi": "Trong câu \"When the alarm goes off at 5:30\", \"goes off\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "is turned off",
+            "vi": "bị tắt đi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "is turned off",
+          "text_translation": "bị tắt đi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "falls off her arm",
+            "vi": "rơi khỏi tay cô"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "falls off her arm",
+          "text_translation": "rơi khỏi tay cô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "stops working",
+            "vi": "ngừng hoạt động"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "stops working",
+          "text_translation": "ngừng hoạt động"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "starts at the time she chose",
+            "vi": "bật lên đúng giờ cô đã cài"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "starts at the time she chose",
+          "text_translation": "bật lên đúng giờ cô đã cài"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"When the alarm goes off at 5:30, it doesn't make a sound: it just shakes a little on my arm\". Báo thức \"goes off\" thì đồng hồ rung lên để gọi cô dậy, vậy \"go off\" là bật lên, reo lên đúng giờ đã cài. \"Off\" ở đây không có nghĩa là tắt hay rơi ra: nếu báo thức tắt hay hỏng thì đồng hồ đã không rung."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Cụm động từ (phrasal verb) như go off không đoán nghĩa theo từng chữ được. Xem việc gì xảy ra ngay sau nó trong câu (it just shakes a little) để đoán nghĩa."
+      },
+      "question_jp": "In \"When the alarm goes off at 5:30\", what does \"goes off\" mean?",
+      "question_vn": "Trong câu \"When the alarm goes off at 5:30\", \"goes off\" nghĩa là gì?",
+      "explanation": "\"When the alarm goes off at 5:30, it doesn't make a sound: it just shakes a little on my arm\". Báo thức \"goes off\" thì đồng hồ rung lên để gọi cô dậy, vậy \"go off\" là bật lên, reo lên đúng giờ đã cài. \"Off\" ở đây không có nghĩa là tắt hay rơi ra: nếu báo thức tắt hay hỏng thì đồng hồ đã không rung.",
+      "tip": "Cụm động từ (phrasal verb) như go off không đoán nghĩa theo từng chữ được. Xem việc gì xảy ra ngay sau nó trong câu (it just shakes a little) để đoán nghĩa."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u12_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Trevor dạy bà Harriet dùng máy tính bảng thanh toán",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u12_01",
+      "question_ids": [
+        "q_u12_001",
+        "q_u12_002",
+        "q_u12_003",
+        "q_u12_004",
+        "q_u12_005"
+      ]
+    },
+    {
+      "set_id": "set_u12_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Bài review đồng hồ thông minh Kitebright Orbit",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u12_02",
+      "question_ids": [
+        "q_u12_006",
+        "q_u12_007",
+        "q_u12_008",
+        "q_u12_009",
+        "q_u12_010"
+      ]
+    }
+  ]
+}

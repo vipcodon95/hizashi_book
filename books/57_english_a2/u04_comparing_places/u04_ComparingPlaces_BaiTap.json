@@ -1,0 +1,1285 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 4 — Comparing places",
+      "vi": "So sánh nơi chốn"
+    },
+    "title": "Unit 4 — Comparing places",
+    "title_vn": "So sánh nơi chốn",
+    "module_code": "57_u04",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A2",
+    "curriculum_unit": "a2.u04",
+    "curriculum_sheets": [
+      "a2.13",
+      "a2.14",
+      "a2.15",
+      "a2.16"
+    ],
+    "characters": [
+      "Leah Carter",
+      "Chloe Bennett"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 11, năm 2 (Leah năm cuối trường y, đang chọn nơi làm nội trú)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "So sánh hơn, so sánh nhất, so sánh bằng, less; tìm thông tin đúng nơi, từ trong ngữ cảnh, quy chiếu, thái độ người viết, suy luận",
+    "description_vn": "Leah thức khuya viết email cho Chloe, so sánh hai bệnh viện ở San Diego và Asheville nơi cô muốn làm nội trú, và một bài giới thiệu ba bãi biển gần San Diego (La Jolla Cove, Mission Beach, Coronado). 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 4 khoá A2 · phiếu `a2.13` – `a2.16` (thành phố của tôi và của bạn, nơi đáng tới nhất, so sánh bằng as … as, so sánh giá cả)."
+    },
+    "objective_i18n": {
+      "vi": "đọc email Leah viết cho Chloe để so sánh hai bệnh viện nơi cô muốn làm nội trú, và một bài giới thiệu ba bãi biển gần San Diego; hiểu so sánh hơn (bigger, more modern, less expensive), so sánh nhất (the busiest, the friendliest, the most convenient, the worst), so sánh bằng (as much as, never as warm as); tìm thông tin của đúng nơi được so sánh, hiểu từ trong ngữ cảnh, đại từ them chỉ gì, đoán cảm xúc người viết và suy ra nơi hợp với một người."
+    },
+    "extra_words": [
+      {
+        "word": "shift",
+        "i18n": {
+          "vi": "ca làm việc"
+        }
+      },
+      {
+        "word": "high tide",
+        "i18n": {
+          "vi": "thuỷ triều lên"
+        }
+      },
+      {
+        "word": "snorkeling",
+        "i18n": {
+          "vi": "lặn có ống thở"
+        }
+      },
+      {
+        "word": "sea lion",
+        "i18n": {
+          "vi": "sư tử biển"
+        }
+      },
+      {
+        "word": "boardwalk",
+        "i18n": {
+          "vi": "lối đi lót ván ven biển"
+        }
+      },
+      {
+        "word": "roller coaster",
+        "i18n": {
+          "vi": "tàu lượn siêu tốc"
+        }
+      },
+      {
+        "word": "sand",
+        "i18n": {
+          "vi": "cát"
+        }
+      },
+      {
+        "word": "calm",
+        "i18n": {
+          "vi": "(biển) lặng, êm"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "on the other side of the country",
+          "vi": "ở tận bên kia đất nước"
+        }
+      },
+      {
+        "i18n": {
+          "en": "cost as much as …",
+          "vi": "tốn bằng …"
+        }
+      },
+      {
+        "i18n": {
+          "en": "the hardest part",
+          "vi": "phần khó nhất"
+        }
+      },
+      {
+        "i18n": {
+          "en": "three of the most popular",
+          "vi": "ba trong số những nơi được ưa chuộng nhất"
+        }
+      },
+      {
+        "i18n": {
+          "en": "stay away from …",
+          "vi": "tránh xa …"
+        }
+      },
+      {
+        "i18n": {
+          "en": "never as warm as you think",
+          "vi": "chẳng bao giờ ấm như bạn nghĩ"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "So sánh hơn: tính từ ngắn thêm **-er** (`big → bigger`, `quiet → quieter`), tính từ dài dùng **more** (`more modern`); kém hơn dùng **less** (`less expensive`, `less lively`). Khi không có `than`, hỏi lại: hơn **cái gì**? Thường là nơi vừa nhắc ở câu trước."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "So sánh nhất: **the + -est** (`the smallest`, `the busiest`, `the friendliest`) hoặc **the most** (`the most convenient`, `the most beautiful`); bất quy tắc `bad → worse → the worst`. `three of the most popular` = ba trong số những nơi được ưa chuộng nhất, không phải chỉ có ba."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "So sánh bằng: `as … as` = bằng (`costs as much as`); `not / never as … as` = không bằng. \"never as warm as you think\" nghĩa là lạnh hơn bạn tưởng."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài so sánh hai, ba nơi: kẻ nhanh một bảng nhỏ (nơi nào → đặc điểm gì). Phương án nhiễu thường lấy đặc điểm của nơi khác trong cùng bài."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi suy luận hay thái độ: gom các từ khen / chê của từng nơi, rồi đọc câu cuối đoạn (I still can't decide, so families love it)."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u04_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Email của Leah gửi Chloe lúc nửa đêm"
+      },
+      "narrator": "Leah",
+      "title": "Help Me Choose!",
+      "category": "email",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 100,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Subject: Help me choose!",
+            "vi": "Tiêu đề: Giúp mình chọn với!"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hi Chloe,",
+            "vi": "Chào Chloe,"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is almost one in the morning, and I am still awake.",
+            "vi": "Đã gần một giờ sáng mà mình vẫn còn thức."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last month I had interviews at two hospitals, and now I have to choose.",
+            "vi": "Tháng trước mình đi phỏng vấn ở hai bệnh viện, và giờ mình phải chọn một nơi."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The first one, Sunset Bay Hospital, is downtown, only twenty minutes from Maple Street.",
+            "vi": "Nơi thứ nhất, Bệnh viện Sunset Bay, nằm ở trung tâm thành phố, cách phố Maple chỉ hai mươi phút."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is bigger and more modern than the second one, and it is the busiest hospital in the area.",
+            "vi": "Nó lớn hơn và hiện đại hơn nơi thứ hai, và là bệnh viện đông bệnh nhân nhất trong khu vực."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The second one, Green Valley Hospital, is in Asheville, on the other side of the country.",
+            "vi": "Nơi thứ hai, Bệnh viện Green Valley, ở Asheville, tận bên kia đất nước."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is smaller and quieter, but its doctors were the friendliest people on my trip.",
+            "vi": "Nó nhỏ hơn và yên tĩnh hơn, nhưng các bác sĩ ở đó là những người thân thiện nhất mình gặp trong chuyến đi."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Also, life there is less expensive: a nice house costs as much as a small room here!",
+            "vi": "Thêm nữa, sống ở đó đỡ tốn kém hơn: một căn nhà xinh xắn chỉ tốn bằng một căn phòng nhỏ ở đây!"
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The weather is the hardest part.",
+            "vi": "Thời tiết là phần khó nhất."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "San Diego is sunny all year, but Asheville has snow in winter and beautiful mountains in autumn.",
+            "vi": "San Diego nắng quanh năm, còn Asheville có tuyết vào mùa đông và núi non tuyệt đẹp vào mùa thu."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Of course, San Diego is the most convenient choice, because my family and friends are here.",
+            "vi": "Tất nhiên, San Diego là lựa chọn thuận tiện nhất, vì gia đình và bạn bè mình đều ở đây."
+          }
+        },
+        {
+          "n": 13,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But maybe I want something new, and that is why I still can't decide.",
+            "vi": "Nhưng biết đâu mình lại muốn một điều gì đó mới mẻ, và vì thế mà mình vẫn chưa quyết được."
+          }
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Can we talk on Saturday after your shift?",
+            "vi": "Thứ Bảy, sau ca làm của cậu, tụi mình nói chuyện được không?"
+          }
+        },
+        {
+          "n": 15,
+          "para": 9,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Leah",
+            "vi": "Leah"
+          }
+        }
+      ],
+      "content_ja": "Subject: Help me choose!\n\nHi Chloe,\n\nIt is almost one in the morning, and I am still awake. Last month I had interviews at two hospitals, and now I have to choose.\n\nThe first one, Sunset Bay Hospital, is downtown, only twenty minutes from Maple Street. It is bigger and more modern than the second one, and it is the busiest hospital in the area.\n\nThe second one, Green Valley Hospital, is in Asheville, on the other side of the country. It is smaller and quieter, but its doctors were the friendliest people on my trip. Also, life there is less expensive: a nice house costs as much as a small room here!\n\nThe weather is the hardest part. San Diego is sunny all year, but Asheville has snow in winter and beautiful mountains in autumn.\n\nOf course, San Diego is the most convenient choice, because my family and friends are here. But maybe I want something new, and that is why I still can't decide.\n\nCan we talk on Saturday after your shift?\n\nLeah",
+      "translation_vn": "(1) Tiêu đề: Giúp mình chọn với!\n(2) Chào Chloe,\n(3) Đã gần một giờ sáng mà mình vẫn còn thức.\n(4) Tháng trước mình đi phỏng vấn ở hai bệnh viện, và giờ mình phải chọn một nơi.\n(5) Nơi thứ nhất, Bệnh viện Sunset Bay, nằm ở trung tâm thành phố, cách phố Maple chỉ hai mươi phút.\n(6) Nó lớn hơn và hiện đại hơn nơi thứ hai, và là bệnh viện đông bệnh nhân nhất trong khu vực.\n(7) Nơi thứ hai, Bệnh viện Green Valley, ở Asheville, tận bên kia đất nước.\n(8) Nó nhỏ hơn và yên tĩnh hơn, nhưng các bác sĩ ở đó là những người thân thiện nhất mình gặp trong chuyến đi.\n(9) Thêm nữa, sống ở đó đỡ tốn kém hơn: một căn nhà xinh xắn chỉ tốn bằng một căn phòng nhỏ ở đây!\n(10) Thời tiết là phần khó nhất.\n(11) San Diego nắng quanh năm, còn Asheville có tuyết vào mùa đông và núi non tuyệt đẹp vào mùa thu.\n(12) Tất nhiên, San Diego là lựa chọn thuận tiện nhất, vì gia đình và bạn bè mình đều ở đây.\n(13) Nhưng biết đâu mình lại muốn một điều gì đó mới mẻ, và vì thế mà mình vẫn chưa quyết được.\n(14) Thứ Bảy, sau ca làm của cậu, tụi mình nói chuyện được không?\n(15) Leah",
+      "word_count": 175,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.13",
+        "a2.14",
+        "a2.15",
+        "a2.16"
+      ]
+    },
+    {
+      "id": "passage_u04_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Bài giới thiệu ba bãi biển gần San Diego"
+      },
+      "narrator": "announcer",
+      "title": "Three Beaches near San Diego",
+      "category": "article",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 100,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Three Beaches near San Diego",
+            "vi": "Ba bãi biển gần San Diego"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "San Diego has many beaches, but which one is best for you?",
+            "vi": "San Diego có rất nhiều bãi biển, nhưng bãi nào là hợp nhất với bạn?"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Here are three of the most popular.",
+            "vi": "Dưới đây là ba trong số những bãi được ưa chuộng nhất."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "First, La Jolla Cove is the smallest, and at high tide it has almost no sand.",
+            "vi": "Đầu tiên, La Jolla Cove là bãi nhỏ nhất, và khi thuỷ triều lên thì gần như không còn bãi cát."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "However, the water is often clear, so it is great for snorkeling.",
+            "vi": "Tuy vậy, nước ở đây thường trong, nên rất tuyệt để lặn ống thở."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You can also watch sea lions on the rocks, but stay away from them.",
+            "vi": "Bạn còn có thể ngắm sư tử biển trên các tảng đá, nhưng hãy tránh xa chúng."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "To the south, Mission Beach is the liveliest, with a boardwalk full of bikes and people.",
+            "vi": "Xuôi về phía nam, Mission Beach là bãi sôi động nhất, với một lối đi lót ván lúc nào cũng đầy xe đạp và người."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Near the beach, you can ride the Giant Dipper, an old roller coaster from nineteen twenty-five.",
+            "vi": "Ngay gần bãi, bạn có thể đi Giant Dipper, một chiếc tàu lượn siêu tốc cũ có từ năm một nghìn chín trăm hai mươi lăm."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In summer it is the busiest beach, and parking is the worst part.",
+            "vi": "Mùa hè, đây là bãi đông nhất, và tìm chỗ đậu xe là phần tệ nhất."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last, Coronado Beach is wide and peaceful, and its sand looks a little like gold in the sun.",
+            "vi": "Cuối cùng, bãi biển Coronado rộng và yên bình, và dưới nắng, cát ở đây trông hơi giống vàng."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A famous old hotel stands behind it, and the water is usually calm, so families love it.",
+            "vi": "Phía sau bãi là một khách sạn cổ nổi tiếng, và biển thường lặng, nên các gia đình rất thích nơi này."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For many people, Coronado is the most beautiful, although it is less lively.",
+            "vi": "Với nhiều người, Coronado là bãi đẹp nhất, dù nó kém sôi động hơn."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One thing is the same everywhere: the water is never as warm as you think!",
+            "vi": "Có một điều ở đâu cũng giống nhau: nước biển chẳng bao giờ ấm như bạn nghĩ!"
+          }
+        }
+      ],
+      "content_ja": "Three Beaches near San Diego\n\nSan Diego has many beaches, but which one is best for you? Here are three of the most popular.\n\nFirst, La Jolla Cove is the smallest, and at high tide it has almost no sand. However, the water is often clear, so it is great for snorkeling. You can also watch sea lions on the rocks, but stay away from them.\n\nTo the south, Mission Beach is the liveliest, with a boardwalk full of bikes and people. Near the beach, you can ride the Giant Dipper, an old roller coaster from nineteen twenty-five. In summer it is the busiest beach, and parking is the worst part.\n\nLast, Coronado Beach is wide and peaceful, and its sand looks a little like gold in the sun. A famous old hotel stands behind it, and the water is usually calm, so families love it. For many people, Coronado is the most beautiful, although it is less lively.\n\nOne thing is the same everywhere: the water is never as warm as you think!",
+      "translation_vn": "(1) Ba bãi biển gần San Diego\n(2) San Diego có rất nhiều bãi biển, nhưng bãi nào là hợp nhất với bạn?\n(3) Dưới đây là ba trong số những bãi được ưa chuộng nhất.\n(4) Đầu tiên, La Jolla Cove là bãi nhỏ nhất, và khi thuỷ triều lên thì gần như không còn bãi cát.\n(5) Tuy vậy, nước ở đây thường trong, nên rất tuyệt để lặn ống thở.\n(6) Bạn còn có thể ngắm sư tử biển trên các tảng đá, nhưng hãy tránh xa chúng.\n(7) Xuôi về phía nam, Mission Beach là bãi sôi động nhất, với một lối đi lót ván lúc nào cũng đầy xe đạp và người.\n(8) Ngay gần bãi, bạn có thể đi Giant Dipper, một chiếc tàu lượn siêu tốc cũ có từ năm một nghìn chín trăm hai mươi lăm.\n(9) Mùa hè, đây là bãi đông nhất, và tìm chỗ đậu xe là phần tệ nhất.\n(10) Cuối cùng, bãi biển Coronado rộng và yên bình, và dưới nắng, cát ở đây trông hơi giống vàng.\n(11) Phía sau bãi là một khách sạn cổ nổi tiếng, và biển thường lặng, nên các gia đình rất thích nơi này.\n(12) Với nhiều người, Coronado là bãi đẹp nhất, dù nó kém sôi động hơn.\n(13) Có một điều ở đâu cũng giống nhau: nước biển chẳng bao giờ ấm như bạn nghĩ!",
+      "word_count": 175,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.13",
+        "a2.14",
+        "a2.15",
+        "a2.16"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u04_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "Where is Sunset Bay Hospital?",
+        "vi": "Bệnh viện Sunset Bay ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in Asheville",
+            "vi": "ở Asheville"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "in Asheville",
+          "text_translation": "ở Asheville"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "in downtown San Diego",
+            "vi": "ở trung tâm San Diego"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "in downtown San Diego",
+          "text_translation": "ở trung tâm San Diego"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "on the other side of the country",
+            "vi": "ở tận bên kia đất nước"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "on the other side of the country",
+          "text_translation": "ở tận bên kia đất nước"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "in the mountains",
+            "vi": "ở vùng núi"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "in the mountains",
+          "text_translation": "ở vùng núi"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"The first one, Sunset Bay Hospital, is downtown, only twenty minutes from Maple Street.\" Leah sống ở phố Maple, San Diego, nên \"downtown\" ở đây là trung tâm San Diego. Asheville và \"on the other side of the country\" là chỗ của Bệnh viện Green Valley (câu 7). Núi là cảnh ở Asheville (câu 11)."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Bài so sánh hai nơi thường để thông tin nơi này ngay cạnh nơi kia. Đọc kỹ chủ ngữ đầu câu (The first one / The second one / It) để không lấy nhầm chi tiết của nơi còn lại."
+      },
+      "question_jp": "Where is Sunset Bay Hospital?",
+      "question_vn": "Bệnh viện Sunset Bay ở đâu?",
+      "explanation": "\"The first one, Sunset Bay Hospital, is downtown, only twenty minutes from Maple Street.\" Leah sống ở phố Maple, San Diego, nên \"downtown\" ở đây là trung tâm San Diego. Asheville và \"on the other side of the country\" là chỗ của Bệnh viện Green Valley (câu 7). Núi là cảnh ở Asheville (câu 11).",
+      "tip": "Bài so sánh hai nơi thường để thông tin nơi này ngay cạnh nơi kia. Đọc kỹ chủ ngữ đầu câu (The first one / The second one / It) để không lấy nhầm chi tiết của nơi còn lại."
+    },
+    {
+      "id": "q_u04_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "Which sentence about Green Valley Hospital is true?",
+        "vi": "Câu nào đúng về Bệnh viện Green Valley?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is bigger and more modern than Sunset Bay.",
+            "vi": "Nó lớn hơn và hiện đại hơn Sunset Bay."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is bigger and more modern than Sunset Bay.",
+          "text_translation": "Nó lớn hơn và hiện đại hơn Sunset Bay."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is the busiest hospital in the area.",
+            "vi": "Nó là bệnh viện đông bệnh nhân nhất khu vực."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is the busiest hospital in the area.",
+          "text_translation": "Nó là bệnh viện đông bệnh nhân nhất khu vực."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is twenty minutes from Maple Street.",
+            "vi": "Nó cách phố Maple hai mươi phút."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It is twenty minutes from Maple Street.",
+          "text_translation": "Nó cách phố Maple hai mươi phút."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is smaller and quieter than Sunset Bay.",
+            "vi": "Nó nhỏ hơn và yên tĩnh hơn Sunset Bay."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "It is smaller and quieter than Sunset Bay.",
+          "text_translation": "Nó nhỏ hơn và yên tĩnh hơn Sunset Bay."
+        }
+      ],
+      "evidence_segments": [
+        6,
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu 7 giới thiệu Green Valley, rồi câu 8: \"It is smaller and quieter, but its doctors were the friendliest people on my trip.\" \"It\" ở đây là Green Valley. Ba phương án còn lại đều là chi tiết của Sunset Bay: \"It is bigger and more modern than the second one, and it is the busiest hospital in the area\" và \"only twenty minutes from Maple Street\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Phương án nhiễu hay đảo chiều so sánh: bài nói A lớn hơn, phương án lại viết B lớn hơn A. Xác định \"It\" của từng câu đang chỉ nơi nào."
+      },
+      "question_jp": "Which sentence about Green Valley Hospital is true?",
+      "question_vn": "Câu nào đúng về Bệnh viện Green Valley?",
+      "explanation": "Câu 7 giới thiệu Green Valley, rồi câu 8: \"It is smaller and quieter, but its doctors were the friendliest people on my trip.\" \"It\" ở đây là Green Valley. Ba phương án còn lại đều là chi tiết của Sunset Bay: \"It is bigger and more modern than the second one, and it is the busiest hospital in the area\" và \"only twenty minutes from Maple Street\".",
+      "tip": "Phương án nhiễu hay đảo chiều so sánh: bài nói A lớn hơn, phương án lại viết B lớn hơn A. Xác định \"It\" của từng câu đang chỉ nơi nào."
+    },
+    {
+      "id": "q_u04_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "In \"The weather is the hardest part.\", \"the hardest part\" means …",
+        "vi": "Trong câu \"The weather is the hardest part.\", \"the hardest part\" có nghĩa là …"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the most difficult thing in her choice",
+            "vi": "điều khó nhất trong lựa chọn của cô ấy"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "the most difficult thing in her choice",
+          "text_translation": "điều khó nhất trong lựa chọn của cô ấy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the coldest month of the year",
+            "vi": "tháng lạnh nhất trong năm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the coldest month of the year",
+          "text_translation": "tháng lạnh nhất trong năm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the most beautiful place in the mountains",
+            "vi": "nơi đẹp nhất trên núi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the most beautiful place in the mountains",
+          "text_translation": "nơi đẹp nhất trên núi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the most expensive thing in Asheville",
+            "vi": "thứ đắt nhất ở Asheville"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the most expensive thing in Asheville",
+          "text_translation": "thứ đắt nhất ở Asheville"
+        }
+      ],
+      "evidence_segments": [
+        10,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"The weather is the hardest part.\" Leah đang so sánh hai nơi để chọn, nên \"the hardest part\" là phần khó quyết nhất: một bên \"sunny all year\", một bên có \"snow in winter\" nhưng lại có \"beautiful mountains\". Hard ở đây là khó, không phải cứng hay lạnh. Câu này không nói tháng nào lạnh nhất, nơi nào đẹp nhất hay thứ gì đắt nhất."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Từ trong ngữ cảnh: đọc câu ngay sau. Câu sau thường giải thích vì sao phần đó khó, đẹp hay tệ."
+      },
+      "question_jp": "In \"The weather is the hardest part.\", \"the hardest part\" means …",
+      "question_vn": "Trong câu \"The weather is the hardest part.\", \"the hardest part\" có nghĩa là …",
+      "explanation": "\"The weather is the hardest part.\" Leah đang so sánh hai nơi để chọn, nên \"the hardest part\" là phần khó quyết nhất: một bên \"sunny all year\", một bên có \"snow in winter\" nhưng lại có \"beautiful mountains\". Hard ở đây là khó, không phải cứng hay lạnh. Câu này không nói tháng nào lạnh nhất, nơi nào đẹp nhất hay thứ gì đắt nhất.",
+      "tip": "Từ trong ngữ cảnh: đọc câu ngay sau. Câu sau thường giải thích vì sao phần đó khó, đẹp hay tệ."
+    },
+    {
+      "id": "q_u04_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "Why is Leah still awake at almost one in the morning?",
+        "vi": "Vì sao gần một giờ sáng mà Leah vẫn còn thức?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is working a night shift at the hospital.",
+            "vi": "Cô ấy đang làm ca đêm ở bệnh viện."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She is working a night shift at the hospital.",
+          "text_translation": "Cô ấy đang làm ca đêm ở bệnh viện."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is waiting for Chloe after her shift.",
+            "vi": "Cô ấy đang đợi Chloe tan ca."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She is waiting for Chloe after her shift.",
+          "text_translation": "Cô ấy đang đợi Chloe tan ca."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She is thinking about her choice and can't decide.",
+            "vi": "Cô ấy đang nghĩ về lựa chọn của mình và chưa quyết được."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She is thinking about her choice and can't decide.",
+          "text_translation": "Cô ấy đang nghĩ về lựa chọn của mình và chưa quyết được."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is getting ready for her interviews.",
+            "vi": "Cô ấy đang chuẩn bị cho các buổi phỏng vấn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She is getting ready for her interviews.",
+          "text_translation": "Cô ấy đang chuẩn bị cho các buổi phỏng vấn."
+        }
+      ],
+      "evidence_segments": [
+        3,
+        4,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không viết thẳng lý do, nhưng ta suy ra được. Leah viết \"now I have to choose\" và \"I still can't decide\". Cả email chỉ nói về hai bệnh viện, nên chính chuyện chọn nơi làm cho cô thức khuya. Leah còn là sinh viên, chưa làm ca đêm. Ca làm của Chloe là chuyện thứ Bảy (\"after your shift\"). Phỏng vấn đã xong từ tháng trước (\"Last month I had interviews at two hospitals\")."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi Why? mà bài không có because: tìm điều người viết nói nhiều nhất và cảm xúc ở cuối bài (still can't decide), rồi ghép lại."
+      },
+      "question_jp": "Why is Leah still awake at almost one in the morning?",
+      "question_vn": "Vì sao gần một giờ sáng mà Leah vẫn còn thức?",
+      "explanation": "Bài không viết thẳng lý do, nhưng ta suy ra được. Leah viết \"now I have to choose\" và \"I still can't decide\". Cả email chỉ nói về hai bệnh viện, nên chính chuyện chọn nơi làm cho cô thức khuya. Leah còn là sinh viên, chưa làm ca đêm. Ca làm của Chloe là chuyện thứ Bảy (\"after your shift\"). Phỏng vấn đã xong từ tháng trước (\"Last month I had interviews at two hospitals\").",
+      "tip": "Câu hỏi Why? mà bài không có because: tìm điều người viết nói nhiều nhất và cảm xúc ở cuối bài (still can't decide), rồi ghép lại."
+    },
+    {
+      "id": "q_u04_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u04_01",
+      "i18n": {
+        "en": "How does Leah feel about the two hospitals?",
+        "vi": "Leah cảm thấy thế nào về hai bệnh viện?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is sure that Sunset Bay is better.",
+            "vi": "Cô ấy chắc chắn Sunset Bay tốt hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She is sure that Sunset Bay is better.",
+          "text_translation": "Cô ấy chắc chắn Sunset Bay tốt hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is sure that Green Valley is better.",
+            "vi": "Cô ấy chắc chắn Green Valley tốt hơn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She is sure that Green Valley is better.",
+          "text_translation": "Cô ấy chắc chắn Green Valley tốt hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She likes things about both, so she can't choose yet.",
+            "vi": "Cô ấy thích những điểm khác nhau ở cả hai, nên chưa chọn được."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She likes things about both, so she can't choose yet.",
+          "text_translation": "Cô ấy thích những điểm khác nhau ở cả hai, nên chưa chọn được."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She doesn't like either of them.",
+            "vi": "Cô ấy không thích nơi nào cả."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She doesn't like either of them.",
+          "text_translation": "Cô ấy không thích nơi nào cả."
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9,
+        12,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Leah khen cả hai nơi: Green Valley có \"the friendliest people\" và \"life there is less expensive\", còn San Diego là \"the most convenient choice\". Rồi cô viết \"But maybe I want something new, and that is why I still can't decide.\" Vậy cô đang phân vân, chưa chắc nơi nào hơn. Cô cũng không chê cả hai."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi thái độ: gom các từ khen (friendliest, less expensive, convenient) của từng bên. Khen cả hai bên + can't decide = phân vân."
+      },
+      "question_jp": "How does Leah feel about the two hospitals?",
+      "question_vn": "Leah cảm thấy thế nào về hai bệnh viện?",
+      "explanation": "Leah khen cả hai nơi: Green Valley có \"the friendliest people\" và \"life there is less expensive\", còn San Diego là \"the most convenient choice\". Rồi cô viết \"But maybe I want something new, and that is why I still can't decide.\" Vậy cô đang phân vân, chưa chắc nơi nào hơn. Cô cũng không chê cả hai.",
+      "tip": "Câu hỏi thái độ: gom các từ khen (friendliest, less expensive, convenient) của từng bên. Khen cả hai bên + can't decide = phân vân."
+    },
+    {
+      "id": "q_u04_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "What is the article about?",
+        "vi": "Bài đọc nói về điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "three popular beaches near San Diego and how they are different",
+            "vi": "ba bãi biển được ưa chuộng gần San Diego và chúng khác nhau thế nào"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "three popular beaches near San Diego and how they are different",
+          "text_translation": "ba bãi biển được ưa chuộng gần San Diego và chúng khác nhau thế nào"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the history of an old roller coaster",
+            "vi": "lịch sử một chiếc tàu lượn cũ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the history of an old roller coaster",
+          "text_translation": "lịch sử một chiếc tàu lượn cũ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "how to find parking in summer",
+            "vi": "cách tìm chỗ đậu xe vào mùa hè"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "how to find parking in summer",
+          "text_translation": "cách tìm chỗ đậu xe vào mùa hè"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "why sea lions like the rocks",
+            "vi": "vì sao sư tử biển thích các tảng đá"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "why sea lions like the rocks",
+          "text_translation": "vì sao sư tử biển thích các tảng đá"
+        }
+      ],
+      "evidence_segments": [
+        2,
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"San Diego has many beaches, but which one is best for you?\" \"Here are three of the most popular.\" Sau đó mỗi đoạn giới thiệu một bãi với điểm riêng: nhỏ nhất, sôi động nhất, đẹp nhất. Tàu lượn, chỗ đậu xe và sư tử biển chỉ là chi tiết nhỏ trong từng đoạn."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Ý chính thường nằm ở 1–2 câu đầu. Phương án chỉ nói về một chi tiết xuất hiện trong một câu là phương án nhiễu."
+      },
+      "question_jp": "What is the article about?",
+      "question_vn": "Bài đọc nói về điều gì?",
+      "explanation": "\"San Diego has many beaches, but which one is best for you?\" \"Here are three of the most popular.\" Sau đó mỗi đoạn giới thiệu một bãi với điểm riêng: nhỏ nhất, sôi động nhất, đẹp nhất. Tàu lượn, chỗ đậu xe và sư tử biển chỉ là chi tiết nhỏ trong từng đoạn.",
+      "tip": "Ý chính thường nằm ở 1–2 câu đầu. Phương án chỉ nói về một chi tiết xuất hiện trong một câu là phương án nhiễu."
+    },
+    {
+      "id": "q_u04_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "Where can you ride an old roller coaster?",
+        "vi": "Bạn có thể đi một chiếc tàu lượn cũ ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at La Jolla Cove",
+            "vi": "ở La Jolla Cove"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "at La Jolla Cove",
+          "text_translation": "ở La Jolla Cove"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "behind Coronado Beach",
+            "vi": "phía sau bãi Coronado"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "behind Coronado Beach",
+          "text_translation": "phía sau bãi Coronado"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "near Mission Beach",
+            "vi": "gần Mission Beach"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "near Mission Beach",
+          "text_translation": "gần Mission Beach"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "on the rocks",
+            "vi": "trên các tảng đá"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "on the rocks",
+          "text_translation": "trên các tảng đá"
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Đoạn về Mission Beach: \"Near the beach, you can ride the Giant Dipper, an old roller coaster from nineteen twenty-five.\" \"The beach\" là Mission Beach ở câu ngay trước. Phía sau bãi Coronado là một khách sạn cổ, còn trên các tảng đá ở La Jolla Cove là sư tử biển."
+      },
+      "audio_data": null,
+      "question_jp": "Where can you ride an old roller coaster?",
+      "question_vn": "Bạn có thể đi một chiếc tàu lượn cũ ở đâu?",
+      "explanation": "Đoạn về Mission Beach: \"Near the beach, you can ride the Giant Dipper, an old roller coaster from nineteen twenty-five.\" \"The beach\" là Mission Beach ở câu ngay trước. Phía sau bãi Coronado là một khách sạn cổ, còn trên các tảng đá ở La Jolla Cove là sư tử biển."
+    },
+    {
+      "id": "q_u04_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "In \"You can also watch sea lions on the rocks, but stay away from them.\", who or what does \"them\" mean?",
+        "vi": "Trong câu \"You can also watch sea lions on the rocks, but stay away from them.\", \"them\" chỉ ai hoặc cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the rocks",
+            "vi": "các tảng đá"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the rocks",
+          "text_translation": "các tảng đá"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the people on the beach",
+            "vi": "những người trên bãi biển"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the people on the beach",
+          "text_translation": "những người trên bãi biển"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "three popular beaches",
+            "vi": "ba bãi biển được ưa chuộng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "three popular beaches",
+          "text_translation": "ba bãi biển được ưa chuộng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the sea lions",
+            "vi": "lũ sư tử biển"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the sea lions",
+          "text_translation": "lũ sư tử biển"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"You can also watch sea lions on the rocks, but stay away from them.\" Thứ cần tránh xa là sư tử biển, vì chúng là động vật hoang dã. Tảng đá chỉ là chỗ chúng nằm; người đọc là \"you\", người được khuyên."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Đại từ them thường chỉ danh từ số nhiều ở gần nhất mà hợp nghĩa. Thử thay từng phương án vào chỗ them xem câu có còn hợp lý không."
+      },
+      "question_jp": "In \"You can also watch sea lions on the rocks, but stay away from them.\", who or what does \"them\" mean?",
+      "question_vn": "Trong câu \"You can also watch sea lions on the rocks, but stay away from them.\", \"them\" chỉ ai hoặc cái gì?",
+      "explanation": "\"You can also watch sea lions on the rocks, but stay away from them.\" Thứ cần tránh xa là sư tử biển, vì chúng là động vật hoang dã. Tảng đá chỉ là chỗ chúng nằm; người đọc là \"you\", người được khuyên.",
+      "tip": "Đại từ them thường chỉ danh từ số nhiều ở gần nhất mà hợp nghĩa. Thử thay từng phương án vào chỗ them xem câu có còn hợp lý không."
+    },
+    {
+      "id": "q_u04_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "A family with a small child wants a quiet day and easy swimming. Which beach is the best for them?",
+        "vi": "Một gia đình có con nhỏ muốn một ngày yên tĩnh và bơi dễ dàng. Bãi nào hợp nhất với họ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "busy Mission Beach in summer",
+            "vi": "Mission Beach đông đúc vào mùa hè"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "busy Mission Beach in summer",
+          "text_translation": "Mission Beach đông đúc vào mùa hè"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the wide beach at Coronado",
+            "vi": "bãi biển rộng ở Coronado"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "the wide beach at Coronado",
+          "text_translation": "bãi biển rộng ở Coronado"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the small beach at La Jolla at high tide",
+            "vi": "bãi nhỏ ở La Jolla lúc thuỷ triều lên"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the small beach at La Jolla at high tide",
+          "text_translation": "bãi nhỏ ở La Jolla lúc thuỷ triều lên"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the beach near the Giant Dipper",
+            "vi": "bãi gần tàu lượn Giant Dipper"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the beach near the Giant Dipper",
+          "text_translation": "bãi gần tàu lượn Giant Dipper"
+        }
+      ],
+      "evidence_segments": [
+        4,
+        9,
+        10,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng, nhưng suy ra được: Coronado \"is wide and peaceful\", và \"the water is usually calm, so families love it\". Mission Beach (cũng là bãi gần Giant Dipper) là \"the busiest beach\" vào mùa hè, không yên tĩnh. La Jolla Cove lúc thuỷ triều lên thì \"it has almost no sand\"."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận kiểu \"ai hợp với nơi nào\": gạch các yêu cầu của người đó (quiet, easy swimming), rồi tìm bãi có từ cùng nghĩa (peaceful, calm)."
+      },
+      "question_jp": "A family with a small child wants a quiet day and easy swimming. Which beach is the best for them?",
+      "question_vn": "Một gia đình có con nhỏ muốn một ngày yên tĩnh và bơi dễ dàng. Bãi nào hợp nhất với họ?",
+      "explanation": "Bài không nói thẳng, nhưng suy ra được: Coronado \"is wide and peaceful\", và \"the water is usually calm, so families love it\". Mission Beach (cũng là bãi gần Giant Dipper) là \"the busiest beach\" vào mùa hè, không yên tĩnh. La Jolla Cove lúc thuỷ triều lên thì \"it has almost no sand\".",
+      "tip": "Câu suy luận kiểu \"ai hợp với nơi nào\": gạch các yêu cầu của người đó (quiet, easy swimming), rồi tìm bãi có từ cùng nghĩa (peaceful, calm)."
+    },
+    {
+      "id": "q_u04_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u04_02",
+      "i18n": {
+        "en": "What is the same at all three beaches?",
+        "vi": "Điều gì giống nhau ở cả ba bãi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "There is almost no sand.",
+            "vi": "Gần như không có cát."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "There is almost no sand.",
+          "text_translation": "Gần như không có cát."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The water is never as warm as you think.",
+            "vi": "Nước chẳng bao giờ ấm như bạn nghĩ."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The water is never as warm as you think.",
+          "text_translation": "Nước chẳng bao giờ ấm như bạn nghĩ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "You can watch sea lions.",
+            "vi": "Bạn có thể ngắm sư tử biển."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "You can watch sea lions.",
+          "text_translation": "Bạn có thể ngắm sư tử biển."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Parking is the worst part.",
+            "vi": "Đậu xe là phần tệ nhất."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Parking is the worst part.",
+          "text_translation": "Đậu xe là phần tệ nhất."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"One thing is the same everywhere: the water is never as warm as you think!\" Gần như không có cát và sư tử biển là chuyện của La Jolla Cove, còn chuyện đậu xe là của Mission Beach vào mùa hè."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "not as … as / never as … as = không bằng. \"never as warm as you think\" nghĩa là nước lạnh hơn bạn tưởng."
+      },
+      "question_jp": "What is the same at all three beaches?",
+      "question_vn": "Điều gì giống nhau ở cả ba bãi?",
+      "explanation": "\"One thing is the same everywhere: the water is never as warm as you think!\" Gần như không có cát và sư tử biển là chuyện của La Jolla Cove, còn chuyện đậu xe là của Mission Beach vào mùa hè.",
+      "tip": "not as … as / never as … as = không bằng. \"never as warm as you think\" nghĩa là nước lạnh hơn bạn tưởng."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u04_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Email của Leah gửi Chloe lúc nửa đêm",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u04_01",
+      "question_ids": [
+        "q_u04_001",
+        "q_u04_002",
+        "q_u04_003",
+        "q_u04_004",
+        "q_u04_005"
+      ]
+    },
+    {
+      "set_id": "set_u04_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Bài giới thiệu ba bãi biển gần San Diego",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u04_02",
+      "question_ids": [
+        "q_u04_006",
+        "q_u04_007",
+        "q_u04_008",
+        "q_u04_009",
+        "q_u04_010"
+      ]
+    }
+  ]
+}

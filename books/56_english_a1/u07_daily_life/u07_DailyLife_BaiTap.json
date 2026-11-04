@@ -1,0 +1,1245 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 7 — Daily life",
+      "vi": "Một ngày của tôi"
+    },
+    "title": "Unit 7 — Daily life",
+    "title_vn": "Một ngày của tôi",
+    "module_code": "56_u07",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A1",
+    "curriculum_unit": "a1.u07",
+    "curriculum_sheets": [
+      "a1.25",
+      "a1.26",
+      "a1.27",
+      "a1.28"
+    ],
+    "characters": [
+      "Trevor Carter",
+      "Tracy Carter",
+      "Megan Carter",
+      "Harriet Brooks",
+      "Chloe Bennett",
+      "you"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 12, năm 1"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Giờ giấc, ngày trong tuần, trạng từ tần suất, hiện tại đơn với he / she",
+    "description_vn": "Tracy kể về một tuần của Trevor và bảng giờ mở cửa quán Harriet's. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 7 khoá A1 · phiếu `a1.25` – `a1.28` (nói giờ, thói quen hằng ngày, ngày trong tuần và tần suất, việc người khác làm mỗi ngày)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài kể về tuần của Trevor và một bảng giờ mở cửa; hiểu giờ giấc (half past, o'clock, a.m./p.m.), ngày trong tuần, trạng từ tần suất (always, usually, never) và hiện tại đơn với he / she (động từ thêm -s)."
+    },
+    "extra_words": [
+      {
+        "word": "soccer",
+        "i18n": {
+          "vi": "bóng đá"
+        }
+      },
+      {
+        "word": "café",
+        "i18n": {
+          "vi": "quán cà phê"
+        }
+      },
+      {
+        "word": "waitress",
+        "i18n": {
+          "vi": "nữ phục vụ (quán ăn, quán cà phê)"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "half past five",
+          "vi": "năm giờ rưỡi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a quarter past seven",
+          "vi": "bảy giờ mười lăm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "get up early",
+          "vi": "dậy sớm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "sleep in",
+          "vi": "ngủ nướng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "on the weekend",
+          "vi": "vào cuối tuần"
+        }
+      },
+      {
+        "i18n": {
+          "en": "once a week",
+          "vi": "mỗi tuần một lần"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a day off",
+          "vi": "một ngày nghỉ"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Câu hỏi **What time …?** hỏi giờ. Bài thường có nhiều giờ khác nhau: gạch chân từng giờ và ghi bên cạnh việc gì xảy ra lúc đó."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi **When …?** về lịch thường hỏi **ngày**. Đọc kỹ nhóm ngày: `Tuesday to Friday` (từ thứ Ba đến thứ Sáu, liền nhau) khác `Tuesday and Friday` (chỉ hai ngày)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi **How often …?** hỏi tần suất: tìm `always / usually / sometimes / never` ngay trước động từ, hoặc `every …`, `once a week` ở cuối câu."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bảng giờ mở cửa: đọc theo hàng. Ngày ở bên trái, giờ mở và giờ đóng ở bên phải. Dòng ghi chú bên dưới hay chứa đáp án cho câu hỏi về người."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u07_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Tracy kể về một tuần của em trai"
+      },
+      "title": "My Brother's Week",
+      "category": "story",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 60,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My Brother's Week",
+            "vi": "Một tuần của em trai tôi"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My brother Trevor is very good at soccer, but not at homework!",
+            "vi": "Em trai tôi, Trevor, đá bóng rất giỏi, nhưng làm bài tập thì không!"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On Monday, Wednesday and Friday, he has soccer after school.",
+            "vi": "Thứ Hai, thứ Tư và thứ Sáu, nó tập bóng đá sau giờ học."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He usually gets home at half past five.",
+            "vi": "Nó thường về tới nhà lúc năm giờ rưỡi."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then he starts his homework.",
+            "vi": "Sau đó nó bắt đầu làm bài tập."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But after ten minutes, he watches TV.",
+            "vi": "Nhưng được mười phút là nó lại ngồi xem TV."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On Saturday, he always gets up early for soccer.",
+            "vi": "Thứ Bảy, nó luôn dậy sớm để đi đá bóng."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He leaves home at a quarter past seven.",
+            "vi": "Nó ra khỏi nhà lúc bảy giờ mười lăm."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On Sunday, he sleeps in.",
+            "vi": "Chủ nhật, nó ngủ nướng."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He gets up at eleven!",
+            "vi": "Mười một giờ nó mới dậy!"
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He never does his homework on the weekend.",
+            "vi": "Cuối tuần thì nó không bao giờ làm bài tập."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At nine o'clock on Sunday night, he always says, \"Tracy, help!\"",
+            "vi": "Rồi đến chín giờ tối Chủ nhật, lần nào nó cũng kêu: \"Chị Tracy ơi, cứu em!\""
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mom says he needs a good habit.",
+            "vi": "Mẹ bảo nó cần tập một thói quen tốt."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But he also has a good sister, and that is me!",
+            "vi": "Nhưng nó cũng có một người chị tốt, chính là tôi đây!"
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tracy",
+            "vi": "Tracy"
+          }
+        }
+      ],
+      "content_ja": "My Brother's Week\n\nMy brother Trevor is very good at soccer, but not at homework!\n\nOn Monday, Wednesday and Friday, he has soccer after school. He usually gets home at half past five. Then he starts his homework. But after ten minutes, he watches TV.\n\nOn Saturday, he always gets up early for soccer. He leaves home at a quarter past seven. On Sunday, he sleeps in. He gets up at eleven!\n\nHe never does his homework on the weekend. At nine o'clock on Sunday night, he always says, \"Tracy, help!\" Mom says he needs a good habit. But he also has a good sister, and that is me!\n\nTracy",
+      "translation_vn": "(1) Một tuần của em trai tôi\n(2) Em trai tôi, Trevor, đá bóng rất giỏi, nhưng làm bài tập thì không!\n(3) Thứ Hai, thứ Tư và thứ Sáu, nó tập bóng đá sau giờ học.\n(4) Nó thường về tới nhà lúc năm giờ rưỡi.\n(5) Sau đó nó bắt đầu làm bài tập.\n(6) Nhưng được mười phút là nó lại ngồi xem TV.\n(7) Thứ Bảy, nó luôn dậy sớm để đi đá bóng.\n(8) Nó ra khỏi nhà lúc bảy giờ mười lăm.\n(9) Chủ nhật, nó ngủ nướng.\n(10) Mười một giờ nó mới dậy!\n(11) Cuối tuần thì nó không bao giờ làm bài tập.\n(12) Rồi đến chín giờ tối Chủ nhật, lần nào nó cũng kêu: \"Chị Tracy ơi, cứu em!\"\n(13) Mẹ bảo nó cần tập một thói quen tốt.\n(14) Nhưng nó cũng có một người chị tốt, chính là tôi đây!\n(15) Tracy",
+      "word_count": 110,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.25",
+        "a1.26",
+        "a1.27",
+        "a1.28"
+      ],
+      "narrator": "Tracy"
+    },
+    {
+      "id": "passage_u07_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Giờ mở cửa quán Harriet's"
+      },
+      "title": "Harriet's Café: Opening Hours",
+      "category": "notice",
+      "jlpt_level": "A1",
+      "difficulty": 1,
+      "estimated_reading_time": 90,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet's Café: Opening Hours",
+            "vi": "Quán cà phê Harriet's: Giờ mở cửa"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Monday: closed",
+            "vi": "Thứ Hai: đóng cửa"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tuesday to Friday: 7 a.m. to 3 p.m.",
+            "vi": "Thứ Ba đến thứ Sáu: 7 giờ sáng đến 3 giờ chiều"
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Saturday: 8 a.m. to 4 p.m.",
+            "vi": "Thứ Bảy: 8 giờ sáng đến 4 giờ chiều"
+          }
+        },
+        {
+          "n": 5,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sunday: 8 a.m. to 1 p.m.",
+            "vi": "Chủ nhật: 8 giờ sáng đến 1 giờ chiều"
+          }
+        },
+        {
+          "n": 6,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We are closed on Monday.",
+            "vi": "Thứ Hai quán đóng cửa."
+          }
+        },
+        {
+          "n": 7,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet needs a day off, too!",
+            "vi": "Bà Harriet cũng cần một ngày nghỉ chứ!"
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The café is always busy on Saturday, so come early!",
+            "vi": "Thứ Bảy quán lúc nào cũng đông, nên hãy đến sớm nhé!"
+          }
+        },
+        {
+          "n": 9,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every Saturday at ten o'clock, Harriet helps kids with their homework.",
+            "vi": "Mười giờ sáng thứ Bảy hằng tuần, bà Harriet kèm các bé làm bài tập."
+          }
+        },
+        {
+          "n": 10,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Trevor Carter, please come, too!",
+            "vi": "Trevor Carter, cháu cũng đến nhé!"
+          }
+        },
+        {
+          "n": 11,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Our waitress, Chloe, works on Tuesday, Thursday and Saturday.",
+            "vi": "Chị phục vụ của quán, Chloe, làm vào thứ Ba, thứ Năm và thứ Bảy."
+          }
+        },
+        {
+          "n": 12,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Say hi to her!",
+            "vi": "Nhớ chào chị ấy nhé!"
+          }
+        },
+        {
+          "n": 13,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "See you at Harriet's!",
+            "vi": "Hẹn gặp bạn ở quán Harriet's!"
+          }
+        },
+        {
+          "n": 14,
+          "para": 10,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet",
+            "vi": "Harriet"
+          }
+        }
+      ],
+      "content_ja": "Harriet's Café: Opening Hours\n\nMonday: closed\n\nTuesday to Friday: 7 a.m. to 3 p.m.\n\nSaturday: 8 a.m. to 4 p.m.\n\nSunday: 8 a.m. to 1 p.m.\n\nWe are closed on Monday. Harriet needs a day off, too! The café is always busy on Saturday, so come early!\n\nEvery Saturday at ten o'clock, Harriet helps kids with their homework. Trevor Carter, please come, too!\n\nOur waitress, Chloe, works on Tuesday, Thursday and Saturday. Say hi to her!\n\nSee you at Harriet's!\n\nHarriet",
+      "translation_vn": "(1) Quán cà phê Harriet's: Giờ mở cửa\n(2) Thứ Hai: đóng cửa\n(3) Thứ Ba đến thứ Sáu: 7 giờ sáng đến 3 giờ chiều\n(4) Thứ Bảy: 8 giờ sáng đến 4 giờ chiều\n(5) Chủ nhật: 8 giờ sáng đến 1 giờ chiều\n(6) Thứ Hai quán đóng cửa.\n(7) Bà Harriet cũng cần một ngày nghỉ chứ!\n(8) Thứ Bảy quán lúc nào cũng đông, nên hãy đến sớm nhé!\n(9) Mười giờ sáng thứ Bảy hằng tuần, bà Harriet kèm các bé làm bài tập.\n(10) Trevor Carter, cháu cũng đến nhé!\n(11) Chị phục vụ của quán, Chloe, làm vào thứ Ba, thứ Năm và thứ Bảy.\n(12) Nhớ chào chị ấy nhé!\n(13) Hẹn gặp bạn ở quán Harriet's!\n(14) Harriet",
+      "word_count": 81,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a1.25",
+        "a1.26",
+        "a1.27",
+        "a1.28"
+      ],
+      "narrator": "Harriet"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u07_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u07_01",
+      "i18n": {
+        "en": "What time does Trevor usually get home after soccer?",
+        "vi": "Sau buổi tập bóng, Trevor thường về tới nhà lúc mấy giờ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at a quarter past seven",
+            "vi": "lúc bảy giờ mười lăm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "at a quarter past seven",
+          "text_translation": "lúc bảy giờ mười lăm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at nine o'clock",
+            "vi": "lúc chín giờ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "at nine o'clock",
+          "text_translation": "lúc chín giờ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at half past five",
+            "vi": "lúc năm giờ rưỡi"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "at half past five",
+          "text_translation": "lúc năm giờ rưỡi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at eleven",
+            "vi": "lúc mười một giờ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "at eleven",
+          "text_translation": "lúc mười một giờ"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"He usually gets home at half past five.\" Bảy giờ mười lăm là giờ Trevor ra khỏi nhà sáng thứ Bảy, chín giờ là lúc Trevor kêu cứu tối Chủ nhật, mười một giờ là giờ Trevor dậy sáng Chủ nhật."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "half past five = 5 giờ 30 (\"quá năm giờ một nửa\"), không phải 4 giờ 30. a quarter past seven = 7 giờ 15."
+      },
+      "question_jp": "What time does Trevor usually get home after soccer?",
+      "question_vn": "Sau buổi tập bóng, Trevor thường về tới nhà lúc mấy giờ?",
+      "explanation": "\"He usually gets home at half past five.\" Bảy giờ mười lăm là giờ Trevor ra khỏi nhà sáng thứ Bảy, chín giờ là lúc Trevor kêu cứu tối Chủ nhật, mười một giờ là giờ Trevor dậy sáng Chủ nhật.",
+      "tip": "half past five = 5 giờ 30 (\"quá năm giờ một nửa\"), không phải 4 giờ 30. a quarter past seven = 7 giờ 15."
+    },
+    {
+      "id": "q_u07_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u07_01",
+      "i18n": {
+        "en": "Trevor has soccer after school on ______.",
+        "vi": "Trevor tập bóng đá sau giờ học vào ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Monday, Wednesday and Friday",
+            "vi": "thứ Hai, thứ Tư và thứ Sáu"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Monday, Wednesday and Friday",
+          "text_translation": "thứ Hai, thứ Tư và thứ Sáu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tuesday, Thursday and Saturday",
+            "vi": "thứ Ba, thứ Năm và thứ Bảy"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Tuesday, Thursday and Saturday",
+          "text_translation": "thứ Ba, thứ Năm và thứ Bảy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Saturday and Sunday",
+            "vi": "thứ Bảy và Chủ nhật"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Saturday and Sunday",
+          "text_translation": "thứ Bảy và Chủ nhật"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Tuesday to Friday",
+            "vi": "từ thứ Ba đến thứ Sáu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Tuesday to Friday",
+          "text_translation": "từ thứ Ba đến thứ Sáu"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"On Monday, Wednesday and Friday, he has soccer after school.\" Thứ Bảy Trevor cũng đá bóng, nhưng là buổi sáng, không phải sau giờ học. Thứ Ba, thứ Năm và thứ Bảy là lịch làm của Chloe, còn \"Tuesday to Friday\" là giờ mở cửa quán ở Bài đọc 2."
+      },
+      "audio_data": null,
+      "question_jp": "Trevor has soccer after school on ______.",
+      "question_vn": "Trevor tập bóng đá sau giờ học vào ______.",
+      "explanation": "\"On Monday, Wednesday and Friday, he has soccer after school.\" Thứ Bảy Trevor cũng đá bóng, nhưng là buổi sáng, không phải sau giờ học. Thứ Ba, thứ Năm và thứ Bảy là lịch làm của Chloe, còn \"Tuesday to Friday\" là giờ mở cửa quán ở Bài đọc 2."
+    },
+    {
+      "id": "q_u07_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u07_01",
+      "i18n": {
+        "en": "What does Trevor do on Sunday morning?",
+        "vi": "Sáng Chủ nhật Trevor làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He leaves home at a quarter past seven.",
+            "vi": "Ra khỏi nhà lúc bảy giờ mười lăm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He leaves home at a quarter past seven.",
+          "text_translation": "Ra khỏi nhà lúc bảy giờ mười lăm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He does his homework.",
+            "vi": "Làm bài tập."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He does his homework.",
+          "text_translation": "Làm bài tập."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He gets up early.",
+            "vi": "Dậy sớm."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He gets up early.",
+          "text_translation": "Dậy sớm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He sleeps in.",
+            "vi": "Ngủ nướng."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "He sleeps in.",
+          "text_translation": "Ngủ nướng."
+        }
+      ],
+      "evidence_segments": [
+        9,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"On Sunday, he sleeps in.\" \"He gets up at eleven!\" Dậy sớm và ra khỏi nhà lúc bảy giờ mười lăm là chuyện của thứ Bảy. Cuối tuần Trevor không làm bài tập."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "sleep in = ngủ nướng, dậy muộn hơn mọi ngày. Ngược nghĩa với get up early."
+      },
+      "question_jp": "What does Trevor do on Sunday morning?",
+      "question_vn": "Sáng Chủ nhật Trevor làm gì?",
+      "explanation": "\"On Sunday, he sleeps in.\" \"He gets up at eleven!\" Dậy sớm và ra khỏi nhà lúc bảy giờ mười lăm là chuyện của thứ Bảy. Cuối tuần Trevor không làm bài tập.",
+      "tip": "sleep in = ngủ nướng, dậy muộn hơn mọi ngày. Ngược nghĩa với get up early."
+    },
+    {
+      "id": "q_u07_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u07_01",
+      "i18n": {
+        "en": "How often does Trevor do his homework on the weekend?",
+        "vi": "Cuối tuần Trevor làm bài tập thường xuyên đến mức nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "always",
+            "vi": "luôn luôn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "always",
+          "text_translation": "luôn luôn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "never",
+            "vi": "không bao giờ"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "never",
+          "text_translation": "không bao giờ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "usually",
+            "vi": "thường thường"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "usually",
+          "text_translation": "thường thường"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "sometimes",
+            "vi": "thỉnh thoảng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "sometimes",
+          "text_translation": "thỉnh thoảng"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"He never does his homework on the weekend.\" Chữ \"always\" trong bài là nói Trevor luôn dậy sớm thứ Bảy và luôn kêu cứu tối Chủ nhật, không phải nói về bài tập. \"usually\" là nói giờ Trevor về nhà."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi How often …? hỏi tần suất. Tìm always / usually / sometimes / never đứng ngay trước động từ."
+      },
+      "question_jp": "How often does Trevor do his homework on the weekend?",
+      "question_vn": "Cuối tuần Trevor làm bài tập thường xuyên đến mức nào?",
+      "explanation": "\"He never does his homework on the weekend.\" Chữ \"always\" trong bài là nói Trevor luôn dậy sớm thứ Bảy và luôn kêu cứu tối Chủ nhật, không phải nói về bài tập. \"usually\" là nói giờ Trevor về nhà.",
+      "tip": "Câu hỏi How often …? hỏi tần suất. Tìm always / usually / sometimes / never đứng ngay trước động từ."
+    },
+    {
+      "id": "q_u07_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u07_01",
+      "i18n": {
+        "en": "Who helps Trevor with his homework on Sunday night?",
+        "vi": "Tối Chủ nhật ai giúp Trevor làm bài tập?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Mom",
+            "vi": "Mẹ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Mom",
+          "text_translation": "Mẹ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Tina",
+            "vi": "Tina"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Tina",
+          "text_translation": "Tina"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tracy",
+            "vi": "Tracy"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Tracy",
+          "text_translation": "Tracy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet",
+            "vi": "Bà Harriet"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet",
+          "text_translation": "Bà Harriet"
+        }
+      ],
+      "evidence_segments": [
+        12,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Trevor kêu \"Tracy, help!\", và Tracy viết \"But he also has a good sister, and that is me!\" Người viết bài là Tracy, chị của Trevor. Mẹ chỉ nói Trevor cần một thói quen tốt. Bà Harriet kèm bài vào sáng thứ Bảy (Bài đọc 2), không phải tối Chủ nhật."
+      },
+      "audio_data": null,
+      "question_jp": "Who helps Trevor with his homework on Sunday night?",
+      "question_vn": "Tối Chủ nhật ai giúp Trevor làm bài tập?",
+      "explanation": "Trevor kêu \"Tracy, help!\", và Tracy viết \"But he also has a good sister, and that is me!\" Người viết bài là Tracy, chị của Trevor. Mẹ chỉ nói Trevor cần một thói quen tốt. Bà Harriet kèm bài vào sáng thứ Bảy (Bài đọc 2), không phải tối Chủ nhật."
+    },
+    {
+      "id": "q_u07_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u07_02",
+      "i18n": {
+        "en": "Harriet's is closed on ______.",
+        "vi": "Quán Harriet's đóng cửa vào ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Sunday",
+            "vi": "Chủ nhật"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Sunday",
+          "text_translation": "Chủ nhật"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Saturday",
+            "vi": "thứ Bảy"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Saturday",
+          "text_translation": "thứ Bảy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tuesday",
+            "vi": "thứ Ba"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Tuesday",
+          "text_translation": "thứ Ba"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Monday",
+            "vi": "thứ Hai"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Monday",
+          "text_translation": "thứ Hai"
+        }
+      ],
+      "evidence_segments": [
+        2,
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Monday: closed\" và \"We are closed on Monday.\" Chủ nhật quán vẫn mở, chỉ đóng sớm lúc 1 giờ chiều. Thứ Bảy quán mở và rất đông."
+      },
+      "audio_data": null,
+      "question_jp": "Harriet's is closed on ______.",
+      "question_vn": "Quán Harriet's đóng cửa vào ______.",
+      "explanation": "\"Monday: closed\" và \"We are closed on Monday.\" Chủ nhật quán vẫn mở, chỉ đóng sớm lúc 1 giờ chiều. Thứ Bảy quán mở và rất đông."
+    },
+    {
+      "id": "q_u07_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u07_02",
+      "i18n": {
+        "en": "What time does Harriet's open on Saturday?",
+        "vi": "Thứ Bảy quán Harriet's mở cửa lúc mấy giờ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at 7 a.m.",
+            "vi": "lúc 7 giờ sáng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "at 7 a.m.",
+          "text_translation": "lúc 7 giờ sáng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at 8 a.m.",
+            "vi": "lúc 8 giờ sáng"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "at 8 a.m.",
+          "text_translation": "lúc 8 giờ sáng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at 10 a.m.",
+            "vi": "lúc 10 giờ sáng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "at 10 a.m.",
+          "text_translation": "lúc 10 giờ sáng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at 4 p.m.",
+            "vi": "lúc 4 giờ chiều"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "at 4 p.m.",
+          "text_translation": "lúc 4 giờ chiều"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"Saturday: 8 a.m. to 4 p.m.\" 7 giờ sáng là giờ mở cửa từ thứ Ba đến thứ Sáu, 10 giờ là giờ bà Harriet kèm bài, 4 giờ chiều là giờ đóng cửa thứ Bảy."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Trong bảng giờ, giờ đứng trước to là giờ mở cửa, giờ đứng sau to là giờ đóng cửa. a.m. = buổi sáng, p.m. = buổi chiều/tối."
+      },
+      "question_jp": "What time does Harriet's open on Saturday?",
+      "question_vn": "Thứ Bảy quán Harriet's mở cửa lúc mấy giờ?",
+      "explanation": "\"Saturday: 8 a.m. to 4 p.m.\" 7 giờ sáng là giờ mở cửa từ thứ Ba đến thứ Sáu, 10 giờ là giờ bà Harriet kèm bài, 4 giờ chiều là giờ đóng cửa thứ Bảy.",
+      "tip": "Trong bảng giờ, giờ đứng trước to là giờ mở cửa, giờ đứng sau to là giờ đóng cửa. a.m. = buổi sáng, p.m. = buổi chiều/tối."
+    },
+    {
+      "id": "q_u07_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u07_02",
+      "i18n": {
+        "en": "Chloe works at Harriet's on ______.",
+        "vi": "Chloe làm ở quán Harriet's vào ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Tuesday, Thursday and Saturday",
+            "vi": "thứ Ba, thứ Năm và thứ Bảy"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Tuesday, Thursday and Saturday",
+          "text_translation": "thứ Ba, thứ Năm và thứ Bảy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Monday, Wednesday and Friday",
+            "vi": "thứ Hai, thứ Tư và thứ Sáu"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Monday, Wednesday and Friday",
+          "text_translation": "thứ Hai, thứ Tư và thứ Sáu"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Tuesday to Friday",
+            "vi": "từ thứ Ba đến thứ Sáu"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Tuesday to Friday",
+          "text_translation": "từ thứ Ba đến thứ Sáu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Saturday and Sunday",
+            "vi": "thứ Bảy và Chủ nhật"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Saturday and Sunday",
+          "text_translation": "thứ Bảy và Chủ nhật"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Our waitress, Chloe, works on Tuesday, Thursday and Saturday.\" \"Tuesday to Friday\" là giờ mở cửa của quán, không phải lịch của Chloe. Thứ Hai, thứ Tư và thứ Sáu là ngày Trevor tập bóng ở Bài đọc 1."
+      },
+      "audio_data": null,
+      "question_jp": "Chloe works at Harriet's on ______.",
+      "question_vn": "Chloe làm ở quán Harriet's vào ______.",
+      "explanation": "\"Our waitress, Chloe, works on Tuesday, Thursday and Saturday.\" \"Tuesday to Friday\" là giờ mở cửa của quán, không phải lịch của Chloe. Thứ Hai, thứ Tư và thứ Sáu là ngày Trevor tập bóng ở Bài đọc 1."
+    },
+    {
+      "id": "q_u07_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u07_02",
+      "i18n": {
+        "en": "How often does Harriet help kids with their homework?",
+        "vi": "Bà Harriet kèm các bé làm bài tập thường xuyên đến mức nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "every day",
+            "vi": "ngày nào cũng kèm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "every day",
+          "text_translation": "ngày nào cũng kèm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "on Sunday night",
+            "vi": "vào tối Chủ nhật"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "on Sunday night",
+          "text_translation": "vào tối Chủ nhật"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "never",
+            "vi": "không bao giờ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "never",
+          "text_translation": "không bao giờ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "once a week",
+            "vi": "mỗi tuần một lần"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "once a week",
+          "text_translation": "mỗi tuần một lần"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Every Saturday at ten o'clock, Harriet helps kids with their homework.\" Mỗi thứ Bảy một lần, tức là once a week. Tối Chủ nhật là lúc Trevor nhờ chị Tracy ở Bài đọc 1."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "every Saturday = mỗi tuần có một thứ Bảy, nên bằng once a week. Đề hay hỏi lại cùng ý bằng chữ khác."
+      },
+      "question_jp": "How often does Harriet help kids with their homework?",
+      "question_vn": "Bà Harriet kèm các bé làm bài tập thường xuyên đến mức nào?",
+      "explanation": "\"Every Saturday at ten o'clock, Harriet helps kids with their homework.\" Mỗi thứ Bảy một lần, tức là once a week. Tối Chủ nhật là lúc Trevor nhờ chị Tracy ở Bài đọc 1.",
+      "tip": "every Saturday = mỗi tuần có một thứ Bảy, nên bằng once a week. Đề hay hỏi lại cùng ý bằng chữ khác."
+    },
+    {
+      "id": "q_u07_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A1",
+      "passage_ref": "passage_u07_02",
+      "i18n": {
+        "en": "On Sunday, Harriet's closes at ______.",
+        "vi": "Chủ nhật quán Harriet's đóng cửa lúc ______."
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "3 p.m.",
+            "vi": "3 giờ chiều"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "3 p.m.",
+          "text_translation": "3 giờ chiều"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "4 p.m.",
+            "vi": "4 giờ chiều"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "4 p.m.",
+          "text_translation": "4 giờ chiều"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "1 p.m.",
+            "vi": "1 giờ chiều"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "1 p.m.",
+          "text_translation": "1 giờ chiều"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "8 a.m.",
+            "vi": "8 giờ sáng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "8 a.m.",
+          "text_translation": "8 giờ sáng"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Sunday: 8 a.m. to 1 p.m.\" 3 giờ chiều là giờ đóng cửa từ thứ Ba đến thứ Sáu, 4 giờ chiều là giờ đóng cửa thứ Bảy, còn 8 giờ sáng là giờ mở cửa Chủ nhật."
+      },
+      "audio_data": null,
+      "question_jp": "On Sunday, Harriet's closes at ______.",
+      "question_vn": "Chủ nhật quán Harriet's đóng cửa lúc ______.",
+      "explanation": "\"Sunday: 8 a.m. to 1 p.m.\" 3 giờ chiều là giờ đóng cửa từ thứ Ba đến thứ Sáu, 4 giờ chiều là giờ đóng cửa thứ Bảy, còn 8 giờ sáng là giờ mở cửa Chủ nhật."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u07_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Tracy kể về một tuần của em trai",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u07_01",
+      "question_ids": [
+        "q_u07_001",
+        "q_u07_002",
+        "q_u07_003",
+        "q_u07_004",
+        "q_u07_005"
+      ]
+    },
+    {
+      "set_id": "set_u07_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Giờ mở cửa quán Harriet's",
+      "description": "Đọc hiểu A1 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u07_02",
+      "question_ids": [
+        "q_u07_006",
+        "q_u07_007",
+        "q_u07_008",
+        "q_u07_009",
+        "q_u07_010"
+      ]
+    }
+  ]
+}

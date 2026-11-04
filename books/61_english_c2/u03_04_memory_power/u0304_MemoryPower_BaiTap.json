@@ -1,0 +1,2154 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 3–4 — History and memory & Politics and power",
+      "vi": "Lịch sử, ký ức & Quyền lực"
+    },
+    "title": "Units 3–4 — History and memory & Politics and power",
+    "title_vn": "Lịch sử, ký ức & Quyền lực",
+    "module_code": "61_u0304",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "C2",
+    "curriculum_unit": "c2.u03+u04",
+    "curriculum_sheets": [
+      "c2.009",
+      "c2.010",
+      "c2.011",
+      "c2.012",
+      "c2.013",
+      "c2.014",
+      "c2.015",
+      "c2.016"
+    ],
+    "characters": [
+      "Mitchell Carter",
+      "Harriet Brooks",
+      "Helena Brooks",
+      "Tina Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 2 – 4, năm 9"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Tự phê bình, ngày tháng vs ý nghĩa, lời thoại hàm ý, quyền lực ở cộng đồng nhỏ",
+    "description_vn": "Mitchell phỏng vấn bà Harriet cho dự án lịch sử truyền miệng và thấy ký ức của bà lệch với kho lưu trữ, còn hội đồng công viên bỏ túi do Helena chủ trì phải quyết có nhận món tài trợ kèm điều kiện hay không. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 3 + Unit 4 khoá C2 · phiếu `c2.009` – `c2.016` (nhìn lại, hoà giải, ký ức; cách bộ máy vận hành, ảnh hưởng và quyền lực, bê bối). Theo kế hoạch: **không** viết chiến tranh hay chính phủ; quyền lực được đặt ở **một hội đồng khu phố**."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài luận lịch sử có dẫn nghiên cứu tâm lý về trí nhớ và một truyện ngắn nhiều nhân vật về quyền lực của đồng tiền; nhận ra cách người viết tự phê bình phản ứng của mình, cặp đối lập ngày tháng / ý nghĩa, lời thoại mang hàm ý (a gift vs a contract), nhân vật không bị vẽ thành kẻ xấu, chi tiết kết truyện mang ý nghĩa, và các cấu trúc C2: was to have + V3, had it not been for, would have liked to have + V3, mệnh đề giả định (asked that the park be renamed)."
+    },
+    "extra_words": [
+      {
+        "word": "archive",
+        "i18n": {
+          "vi": "kho lưu trữ"
+        }
+      },
+      {
+        "word": "suitcase",
+        "i18n": {
+          "vi": "vali"
+        }
+      },
+      {
+        "word": "vividly",
+        "i18n": {
+          "vi": "sống động"
+        }
+      },
+      {
+        "word": "thrill",
+        "i18n": {
+          "vi": "niềm phấn khích"
+        }
+      },
+      {
+        "word": "witness",
+        "i18n": {
+          "vi": "nhân chứng"
+        }
+      },
+      {
+        "word": "space shuttle",
+        "i18n": {
+          "vi": "tàu con thoi"
+        }
+      },
+      {
+        "word": "explode",
+        "i18n": {
+          "vi": "nổ tung"
+        }
+      },
+      {
+        "word": "markedly",
+        "i18n": {
+          "vi": "rõ rệt"
+        }
+      },
+      {
+        "word": "handwriting",
+        "i18n": {
+          "vi": "chữ viết tay"
+        }
+      },
+      {
+        "word": "sandbag",
+        "i18n": {
+          "vi": "bao cát"
+        }
+      },
+      {
+        "word": "chronologically",
+        "i18n": {
+          "vi": "theo niên đại"
+        }
+      },
+      {
+        "word": "oral history",
+        "i18n": {
+          "vi": "lịch sử truyền miệng"
+        }
+      },
+      {
+        "word": "developer",
+        "i18n": {
+          "vi": "nhà phát triển bất động sản"
+        }
+      },
+      {
+        "word": "treasurer",
+        "i18n": {
+          "vi": "thủ quỹ"
+        }
+      },
+      {
+        "word": "skateboard",
+        "i18n": {
+          "vi": "ván trượt"
+        }
+      },
+      {
+        "word": "skateboarders",
+        "i18n": {
+          "vi": "những người trượt ván"
+        }
+      },
+      {
+        "word": "villain",
+        "i18n": {
+          "vi": "kẻ xấu"
+        }
+      },
+      {
+        "word": "plaque",
+        "i18n": {
+          "vi": "tấm biển kỷ niệm"
+        }
+      },
+      {
+        "word": "lemonade",
+        "i18n": {
+          "vi": "nước chanh"
+        }
+      },
+      {
+        "word": "youth representative",
+        "i18n": {
+          "vi": "đại diện thanh thiếu niên"
+        }
+      },
+      {
+        "word": "closer",
+        "i18n": {
+          "vi": "gần hơn"
+        }
+      },
+      {
+        "word": "renamed",
+        "i18n": {
+          "vi": "được đổi tên"
+        }
+      },
+      {
+        "word": "renaming",
+        "i18n": {
+          "vi": "việc đổi tên"
+        }
+      },
+      {
+        "word": "unwelcome",
+        "i18n": {
+          "vi": "không được hoan nghênh, khó chịu"
+        }
+      },
+      {
+        "word": "stubborn",
+        "i18n": {
+          "vi": "bền bỉ, cứng đầu"
+        }
+      },
+      {
+        "word": "check",
+        "i18n": {
+          "vi": "tấm séc"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "was to have taken",
+          "vi": "lẽ ra đã mất (nhưng không)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "turn over in my mind",
+          "vi": "trăn trở trong đầu"
+        }
+      },
+      {
+        "i18n": {
+          "en": "I am ashamed to say",
+          "vi": "tôi xấu hổ mà nói"
+        }
+      },
+      {
+        "i18n": {
+          "en": "bore no relation to",
+          "vi": "chẳng liên quan gì tới"
+        }
+      },
+      {
+        "i18n": {
+          "en": "In hindsight,",
+          "vi": "Nhìn lại,"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Had it not been for…",
+          "vi": "Nếu không có…"
+        }
+      },
+      {
+        "i18n": {
+          "en": "if not",
+          "vi": "dù không"
+        }
+      },
+      {
+        "i18n": {
+          "en": "I would have liked to have been there.",
+          "vi": "Tôi những muốn được có mặt ở đó."
+        }
+      },
+      {
+        "i18n": {
+          "en": "can't afford to",
+          "vi": "không đủ sức để"
+        }
+      },
+      {
+        "i18n": {
+          "en": "in return",
+          "vi": "đổi lại"
+        }
+      },
+      {
+        "i18n": {
+          "en": "hold … together",
+          "vi": "giữ cho … gắn kết"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Bài luận có **hai phản ứng** của người viết (`My first reaction… My second…`). Câu hỏi thái độ hỏi vì sao người viết bác bỏ phản ứng đầu."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Cấu trúc `X if not Y` (`emotionally if not chronologically`) = đúng theo X, dù không đúng theo Y."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Truyện C2 ít khi có kẻ xấu rõ ràng. Câu hỏi về nhân vật (`Helena`, `Mr. Pell`) thường xoay quanh **cách họ cư xử**, không phải ai đúng ai sai."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Chi tiết cuối truyện (tấm biển trên cổng) thường **trả lời lại** xung đột chính. Đối chiếu với điều kiện ban đầu (tên, giờ đóng cửa)."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u0304_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 3) — Mitchell: khi kho lưu trữ không khớp lời kể của hàng xóm"
+      },
+      "narrator": "Mitchell",
+      "title": "When the Archive Disagrees with My Neighbor",
+      "category": "essay",
+      "jlpt_level": "C2",
+      "difficulty": 1,
+      "estimated_reading_time": 310,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When the Archive Disagrees with My Neighbor",
+            "vi": "Khi kho lưu trữ không khớp với lời kể của hàng xóm"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mitchell Carter, volunteer interviewer for the Pine Street Library oral history project \"Voices of Maple Street\"",
+            "vi": "Mitchell Carter, người phỏng vấn tình nguyện cho dự án lịch sử truyền miệng \"Voices of Maple Street\" của thư viện Pine Street"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My interview with Harriet Brooks was to have taken an hour. It took three afternoons, four pots of coffee and, by the end, a small disagreement between my neighbor and the city's newspaper archive that I have been turning over in my mind ever since.",
+            "vi": "Cuộc phỏng vấn của tôi với bà Harriet Brooks lẽ ra chỉ mất một giờ. Nó kéo dài ba buổi chiều, bốn ấm cà phê, và tới cuối thì sinh ra một bất đồng nho nhỏ giữa bà hàng xóm của tôi với kho lưu trữ báo chí của thành phố, điều mà tôi cứ trăn trở mãi từ đó tới giờ."
+          }
+        },
+        {
+          "n": 4,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Harriet remembers arriving on Maple Street in 1978, a young teacher with two suitcases, in the same week as the great storm, when the old fire station on Pine Street flooded and the firefighters rowed a boat down the middle of the street. She told the story vividly, with the confidence of someone who has told it many times.",
+            "vi": "Bà Harriet nhớ mình tới phố Maple năm 1978, một cô giáo trẻ với hai chiếc vali, đúng tuần có trận bão lớn, khi trạm cứu hoả cũ ở phố Pine bị ngập và lính cứu hoả chèo thuyền giữa lòng phố. Bà kể sống động, với sự tự tin của người đã kể chuyện này nhiều lần."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The archive tells a different story. The flood happened, and there is even a photograph of the boat, but it happened in 1980, two years after she moved in.",
+            "vi": "Kho lưu trữ kể một câu chuyện khác. Trận lụt có thật, thậm chí còn có ảnh chiếc thuyền, nhưng nó xảy ra năm 1980, hai năm sau khi bà chuyển tới."
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My first reaction, I am ashamed to say, was the historian's small thrill of catching a witness in an error. My second was to wonder why the error had taken that particular shape.",
+            "vi": "Phản ứng đầu tiên của tôi, tôi xấu hổ mà nói, là niềm phấn khích nhỏ của người làm sử khi bắt được lỗi của một nhân chứng. Phản ứng thứ hai là tự hỏi vì sao cái lỗi lại mang đúng hình dạng ấy."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It would have been easy to chalk the mistake up to the passing of time, correct the date quietly and move on.",
+            "vi": "Lẽ ra rất dễ đổ lỗi cho thời gian, lặng lẽ sửa ngày tháng rồi bỏ qua."
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Psychologists have studied such errors for decades. On the morning after the space shuttle Challenger exploded in January 1986, the psychologists Ulric Neisser and Nicole Harsch asked a group of university students to write down exactly how they had heard the news.",
+            "vi": "Các nhà tâm lý học đã nghiên cứu những lỗi như vậy nhiều thập kỷ. Sáng hôm sau ngày tàu con thoi Challenger nổ tung vào tháng Một năm 1986, hai nhà tâm lý học Ulric Neisser và Nicole Harsch đề nghị một nhóm sinh viên đại học ghi lại chính xác họ đã nghe tin như thế nào."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "More than two years later, they asked the same students again. Many of the new accounts differed markedly from the originals, yet the students were highly confident, and their confidence bore no relation to their accuracy.",
+            "vi": "Hơn hai năm sau, họ hỏi lại chính những sinh viên ấy. Nhiều lời kể mới khác hẳn bản gốc, vậy mà sinh viên rất tự tin, và độ tự tin chẳng liên quan gì tới độ chính xác."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some, it has been reported, when shown the pages in their own handwriting, preferred the later memory.",
+            "vi": "Theo một số tường thuật, có người khi được cho xem những trang giấy chính tay mình viết vẫn tin ký ức về sau hơn."
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In hindsight, Harriet's error looks less like carelessness than like meaning. For her, both events stood for the same thing: the moment when a stranger became a neighbor. Had it not been for the flood, she told me, she might never have met half the street, because everyone spent that week carrying sandbags together.",
+            "vi": "Nhìn lại, lỗi của bà Harriet trông không giống sự cẩu thả bằng giống một ý nghĩa. Với bà, cả hai sự kiện cùng tượng trưng cho một điều: khoảnh khắc một người lạ trở thành hàng xóm. Bà bảo tôi, nếu không có trận lụt, có lẽ bà đã chẳng bao giờ quen được nửa con phố, vì cả tuần đó mọi người cùng nhau khiêng bao cát."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Over time, memory had quietly moved the flood closer to her arrival, where it belonged emotionally if not chronologically.",
+            "vi": "Theo thời gian, ký ức đã lặng lẽ dời trận lụt lại gần ngày bà tới, nơi nó thuộc về về mặt cảm xúc dù không phải về mặt niên đại."
+          }
+        },
+        {
+          "n": 13,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The archival record is not wrong, and neither, in its own way, is Harriet. The task is not to choose between them but to reconcile them, because memories are ephemeral in their details and stubborn in their meaning, whereas dates are exactly the opposite.",
+            "vi": "Hồ sơ lưu trữ không sai, và theo cách riêng của mình, bà Harriet cũng không sai. Việc cần làm không phải là chọn giữa hai bên mà là dung hoà chúng, vì ký ức thì mong manh ở chi tiết nhưng bền bỉ ở ý nghĩa, còn ngày tháng thì hoàn toàn ngược lại."
+          }
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So which version should the archive keep for posterity? Both, I think, and side by side. The newspaper gives us the date; Harriet gives us what the date meant.",
+            "vi": "Vậy kho lưu trữ nên giữ phiên bản nào cho hậu thế? Tôi nghĩ là cả hai, đặt cạnh nhau. Tờ báo cho ta ngày tháng; bà Harriet cho ta biết ngày tháng ấy có nghĩa gì."
+          }
+        },
+        {
+          "n": 15,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "An oral history that has been corrected until it agrees with the documents is no longer an oral history; an archive without memories is merely a list of things that happened to nobody in particular.",
+            "vi": "Một bản lịch sử truyền miệng bị sửa tới khi khớp với tài liệu thì không còn là lịch sử truyền miệng nữa; còn một kho lưu trữ không có ký ức thì chỉ là danh sách những việc xảy ra với chẳng ai cụ thể."
+          }
+        },
+        {
+          "n": 16,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When I showed Harriet the photograph of the boat, she studied it for a long time. \"Well,\" she said at last, \"I would have liked to have been there. I suppose, in a way, I was.\"",
+            "vi": "Khi tôi cho bà Harriet xem bức ảnh chiếc thuyền, bà nhìn nó rất lâu. \"Chà,\" cuối cùng bà nói, \"tôi những muốn được có mặt ở đó. Mà tôi đoán, theo một nghĩa nào đó, tôi đã có mặt.\""
+          }
+        }
+      ],
+      "content_ja": "When the Archive Disagrees with My Neighbor\n\nMitchell Carter, volunteer interviewer for the Pine Street Library oral history project \"Voices of Maple Street\"\n\nMy interview with Harriet Brooks was to have taken an hour. It took three afternoons, four pots of coffee and, by the end, a small disagreement between my neighbor and the city's newspaper archive that I have been turning over in my mind ever since.\n\nHarriet remembers arriving on Maple Street in 1978, a young teacher with two suitcases, in the same week as the great storm, when the old fire station on Pine Street flooded and the firefighters rowed a boat down the middle of the street. She told the story vividly, with the confidence of someone who has told it many times. The archive tells a different story. The flood happened, and there is even a photograph of the boat, but it happened in 1980, two years after she moved in.\n\nMy first reaction, I am ashamed to say, was the historian's small thrill of catching a witness in an error. My second was to wonder why the error had taken that particular shape. It would have been easy to chalk the mistake up to the passing of time, correct the date quietly and move on.\n\nPsychologists have studied such errors for decades. On the morning after the space shuttle Challenger exploded in January 1986, the psychologists Ulric Neisser and Nicole Harsch asked a group of university students to write down exactly how they had heard the news. More than two years later, they asked the same students again. Many of the new accounts differed markedly from the originals, yet the students were highly confident, and their confidence bore no relation to their accuracy. Some, it has been reported, when shown the pages in their own handwriting, preferred the later memory.\n\nIn hindsight, Harriet's error looks less like carelessness than like meaning. For her, both events stood for the same thing: the moment when a stranger became a neighbor. Had it not been for the flood, she told me, she might never have met half the street, because everyone spent that week carrying sandbags together. Over time, memory had quietly moved the flood closer to her arrival, where it belonged emotionally if not chronologically. The archival record is not wrong, and neither, in its own way, is Harriet. The task is not to choose between them but to reconcile them, because memories are ephemeral in their details and stubborn in their meaning, whereas dates are exactly the opposite.\n\nSo which version should the archive keep for posterity? Both, I think, and side by side. The newspaper gives us the date; Harriet gives us what the date meant. An oral history that has been corrected until it agrees with the documents is no longer an oral history; an archive without memories is merely a list of things that happened to nobody in particular.\n\nWhen I showed Harriet the photograph of the boat, she studied it for a long time. \"Well,\" she said at last, \"I would have liked to have been there. I suppose, in a way, I was.\"",
+      "translation_vn": "(1) Khi kho lưu trữ không khớp với lời kể của hàng xóm\n(2) Mitchell Carter, người phỏng vấn tình nguyện cho dự án lịch sử truyền miệng \"Voices of Maple Street\" của thư viện Pine Street\n(3) Cuộc phỏng vấn của tôi với bà Harriet Brooks lẽ ra chỉ mất một giờ. Nó kéo dài ba buổi chiều, bốn ấm cà phê, và tới cuối thì sinh ra một bất đồng nho nhỏ giữa bà hàng xóm của tôi với kho lưu trữ báo chí của thành phố, điều mà tôi cứ trăn trở mãi từ đó tới giờ.\n(4) Bà Harriet nhớ mình tới phố Maple năm 1978, một cô giáo trẻ với hai chiếc vali, đúng tuần có trận bão lớn, khi trạm cứu hoả cũ ở phố Pine bị ngập và lính cứu hoả chèo thuyền giữa lòng phố. Bà kể sống động, với sự tự tin của người đã kể chuyện này nhiều lần.\n(5) Kho lưu trữ kể một câu chuyện khác. Trận lụt có thật, thậm chí còn có ảnh chiếc thuyền, nhưng nó xảy ra năm 1980, hai năm sau khi bà chuyển tới.\n(6) Phản ứng đầu tiên của tôi, tôi xấu hổ mà nói, là niềm phấn khích nhỏ của người làm sử khi bắt được lỗi của một nhân chứng. Phản ứng thứ hai là tự hỏi vì sao cái lỗi lại mang đúng hình dạng ấy.\n(7) Lẽ ra rất dễ đổ lỗi cho thời gian, lặng lẽ sửa ngày tháng rồi bỏ qua.\n(8) Các nhà tâm lý học đã nghiên cứu những lỗi như vậy nhiều thập kỷ. Sáng hôm sau ngày tàu con thoi Challenger nổ tung vào tháng Một năm 1986, hai nhà tâm lý học Ulric Neisser và Nicole Harsch đề nghị một nhóm sinh viên đại học ghi lại chính xác họ đã nghe tin như thế nào.\n(9) Hơn hai năm sau, họ hỏi lại chính những sinh viên ấy. Nhiều lời kể mới khác hẳn bản gốc, vậy mà sinh viên rất tự tin, và độ tự tin chẳng liên quan gì tới độ chính xác.\n(10) Theo một số tường thuật, có người khi được cho xem những trang giấy chính tay mình viết vẫn tin ký ức về sau hơn.\n(11) Nhìn lại, lỗi của bà Harriet trông không giống sự cẩu thả bằng giống một ý nghĩa. Với bà, cả hai sự kiện cùng tượng trưng cho một điều: khoảnh khắc một người lạ trở thành hàng xóm. Bà bảo tôi, nếu không có trận lụt, có lẽ bà đã chẳng bao giờ quen được nửa con phố, vì cả tuần đó mọi người cùng nhau khiêng bao cát.\n(12) Theo thời gian, ký ức đã lặng lẽ dời trận lụt lại gần ngày bà tới, nơi nó thuộc về về mặt cảm xúc dù không phải về mặt niên đại.\n(13) Hồ sơ lưu trữ không sai, và theo cách riêng của mình, bà Harriet cũng không sai. Việc cần làm không phải là chọn giữa hai bên mà là dung hoà chúng, vì ký ức thì mong manh ở chi tiết nhưng bền bỉ ở ý nghĩa, còn ngày tháng thì hoàn toàn ngược lại.\n(14) Vậy kho lưu trữ nên giữ phiên bản nào cho hậu thế? Tôi nghĩ là cả hai, đặt cạnh nhau. Tờ báo cho ta ngày tháng; bà Harriet cho ta biết ngày tháng ấy có nghĩa gì.\n(15) Một bản lịch sử truyền miệng bị sửa tới khi khớp với tài liệu thì không còn là lịch sử truyền miệng nữa; còn một kho lưu trữ không có ký ức thì chỉ là danh sách những việc xảy ra với chẳng ai cụ thể.\n(16) Khi tôi cho bà Harriet xem bức ảnh chiếc thuyền, bà nhìn nó rất lâu. \"Chà,\" cuối cùng bà nói, \"tôi những muốn được có mặt ở đó. Mà tôi đoán, theo một nghĩa nào đó, tôi đã có mặt.\"",
+      "word_count": 520,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c2.009",
+        "c2.010",
+        "c2.011",
+        "c2.012"
+      ]
+    },
+    {
+      "id": "passage_u0304_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 4) — Truyện: nhà tài trợ muốn đặt tên mình cho công viên"
+      },
+      "narrator": "announcer",
+      "title": "The Name on the Gate",
+      "category": "story",
+      "jlpt_level": "C2",
+      "difficulty": 1,
+      "estimated_reading_time": 300,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Name on the Gate",
+            "vi": "Cái tên trên cổng"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The letter from Grayson Pell arrived on a Tuesday, and by Thursday everyone on the Pine Street Pocket Park committee had read it at least three times. Mr. Pell, a property developer whose name was on half the new buildings downtown, was offering $250,000 for a playground and a water fountain.",
+            "vi": "Lá thư của Grayson Pell tới vào thứ Ba, và tới thứ Năm thì ai trong hội đồng công viên bỏ túi Pine Street cũng đã đọc nó ít nhất ba lần. Ông Pell, một nhà phát triển bất động sản có tên trên nửa số toà nhà mới ở trung tâm, đề nghị tặng 250.000 đô cho một sân chơi và một vòi nước uống."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In return, he asked for three things: that the park be renamed Pell Park, that skateboards be banned, and that the gates close at six.",
+            "vi": "Đổi lại, ông yêu cầu ba điều: công viên phải đổi tên thành Pell Park, cấm ván trượt, và cổng phải đóng lúc sáu giờ."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Walt",
+          "label": null,
+          "i18n": {
+            "en": "Let's be honest, we can't afford to say no. Do you know how many tasting nights it would take to raise a quarter of a million dollars?",
+            "vi": "Thành thật nhé, chúng ta không đủ sức từ chối đâu. Mọi người có biết phải tổ chức bao nhiêu đêm nếm thử mới gom được một phần tư triệu đô không?"
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Priya",
+          "label": null,
+          "i18n": {
+            "en": "Of course I do. I'm the treasurer. But I keep coming back to one question: who decides what happens in this park? Two hundred and fourteen neighbors answered our survey before we built it. Mr. Pell is one person.",
+            "vi": "Tất nhiên là tôi biết. Tôi là thủ quỹ mà. Nhưng tôi cứ quay lại một câu hỏi: ai quyết định chuyện gì diễn ra trong công viên này? Hai trăm mười bốn người hàng xóm đã trả lời khảo sát trước khi chúng ta xây nó. Ông Pell chỉ là một người."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Walt",
+          "label": null,
+          "i18n": {
+            "en": "A generous person.",
+            "vi": "Một người hào phóng."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Priya",
+          "label": null,
+          "i18n": {
+            "en": "Generosity with conditions isn't a gift. It's a contract.",
+            "vi": "Hào phóng mà kèm điều kiện thì không phải là quà. Đó là hợp đồng."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": "Walt",
+          "label": null,
+          "i18n": {
+            "en": "That's a bit stringent, isn't it? He isn't trying to muscle in on anything. He just wants to be remembered.",
+            "vi": "Nói thế hơi khắt khe đấy nhỉ? Ông ấy có định chen chân vào cái gì đâu. Ông ấy chỉ muốn được người ta nhớ tới."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tina, who had been invited as the committee's youth representative and had so far said nothing, raised her hand.",
+            "vi": "Tina, người được mời làm đại diện thanh thiếu niên của hội đồng và tới giờ vẫn chưa nói gì, giơ tay."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": "Tina",
+          "label": null,
+          "i18n": {
+            "en": "The skateboarders are the only teenagers who actually use the park after school. If you ban them, it'll be a park for little kids and their parents, and the rest of us will be back in the parking lot of the supermarket.",
+            "vi": "Mấy bạn trượt ván là những thiếu niên duy nhất thật sự dùng công viên sau giờ học. Nếu cấm họ, nó sẽ thành công viên cho trẻ nhỏ và bố mẹ chúng, còn bọn cháu lại quay về bãi đỗ xe của siêu thị."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Helena, who had held the committee together for three years mainly by letting everyone finish their sentences, waited until the room was quiet.",
+            "vi": "Helena, người đã giữ cho hội đồng gắn kết suốt ba năm chủ yếu bằng cách để mọi người nói hết câu, chờ cho tới khi căn phòng im lặng."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Helena",
+          "label": null,
+          "i18n": {
+            "en": "I don't think Mr. Pell is a villain, and I don't think we should treat him like one. I'd like to write back, thank him sincerely, and offer him a different arrangement: we accept the money for the playground, with a plaque that names his family, but the name of the park and its rules stay with the neighbors.",
+            "vi": "Tôi không nghĩ ông Pell là kẻ xấu, và tôi không nghĩ chúng ta nên đối xử với ông như vậy. Tôi muốn viết thư trả lời, cảm ơn ông thật lòng, và đề xuất một cách khác: chúng ta nhận tiền cho sân chơi, có một tấm biển ghi tên gia đình ông, nhưng tên công viên và nội quy vẫn do hàng xóm quyết."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Walt",
+          "label": null,
+          "i18n": {
+            "en": "And if he says no?",
+            "vi": "Thế nếu ông ấy từ chối?"
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": "Helena",
+          "label": null,
+          "i18n": {
+            "en": "Then we'll have a smaller playground that belongs to us.",
+            "vi": "Thì chúng ta sẽ có một sân chơi nhỏ hơn thuộc về chúng ta."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mr. Pell did say no. His reply was short and, Walt thought, rather hurt. He called the committee \"parochial\" and wrote that he did not give money \"in order to be thanked on a piece of metal\".",
+            "vi": "Ông Pell quả thật đã từ chối. Thư trả lời của ông ngắn và, theo Walt, có phần tự ái. Ông gọi hội đồng là \"hẹp hòi\" và viết rằng ông không cho tiền \"để được cảm ơn trên một miếng kim loại\"."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Helena read the word \"parochial\" twice and decided, after some thought, that it was not entirely unfair. They had been a little insular. So the committee did something it had never done before: it asked the whole neighborhood.",
+            "vi": "Helena đọc chữ \"hẹp hòi\" hai lần và sau một hồi suy nghĩ thì thấy nó không hoàn toàn bất công. Họ đã hơi khép kín thật. Vì vậy hội đồng làm một điều chưa từng làm: hỏi ý kiến cả khu phố."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Walt, who had been sure that the committee would succumb in the end, admitted that he had underestimated how much the neighbors cared about one small piece of land.",
+            "vi": "Walt, người từng chắc rằng rốt cuộc hội đồng sẽ chịu thua, thừa nhận ông đã đánh giá thấp mức độ hàng xóm quan tâm tới một mảnh đất nhỏ."
+          }
+        },
+        {
+          "n": 18,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Eleven months later, the playground opened. It was smaller than the one in Mr. Pell's letter, and it had been paid for by more than six hundred people, from a retired judge to a group of skateboarders who sold lemonade every Saturday in June.",
+            "vi": "Mười một tháng sau, sân chơi khai trương. Nó nhỏ hơn sân trong thư của ông Pell, và được trả tiền bởi hơn sáu trăm người, từ một thẩm phán về hưu cho tới một nhóm thiếu niên trượt ván bán nước chanh mỗi thứ Bảy trong tháng Sáu."
+          }
+        },
+        {
+          "n": 19,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "To everyone's surprise, a check for the water fountain arrived from Mr. Pell in the same month, with a note asking that his name appear nowhere.",
+            "vi": "Ai cũng bất ngờ khi cũng trong tháng đó, một tấm séc cho vòi nước uống được gửi tới từ ông Pell, kèm lời nhắn đề nghị không ghi tên ông ở bất cứ đâu."
+          }
+        },
+        {
+          "n": 20,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On the gate, there is no name at all. There is just a small sign that says, \"Built by the neighbors. Open until dark.\"",
+            "vi": "Trên cổng không có cái tên nào cả. Chỉ có một tấm biển nhỏ ghi: \"Hàng xóm cùng xây. Mở cửa tới khi trời tối.\""
+          }
+        }
+      ],
+      "content_ja": "The Name on the Gate\n\nThe letter from Grayson Pell arrived on a Tuesday, and by Thursday everyone on the Pine Street Pocket Park committee had read it at least three times. Mr. Pell, a property developer whose name was on half the new buildings downtown, was offering $250,000 for a playground and a water fountain. In return, he asked for three things: that the park be renamed Pell Park, that skateboards be banned, and that the gates close at six.\n\nWalt: Let's be honest, we can't afford to say no. Do you know how many tasting nights it would take to raise a quarter of a million dollars?\n\nPriya: Of course I do. I'm the treasurer. But I keep coming back to one question: who decides what happens in this park? Two hundred and fourteen neighbors answered our survey before we built it. Mr. Pell is one person.\n\nWalt: A generous person.\n\nPriya: Generosity with conditions isn't a gift. It's a contract.\n\nWalt: That's a bit stringent, isn't it? He isn't trying to muscle in on anything. He just wants to be remembered.\n\nTina, who had been invited as the committee's youth representative and had so far said nothing, raised her hand.\n\nTina: The skateboarders are the only teenagers who actually use the park after school. If you ban them, it'll be a park for little kids and their parents, and the rest of us will be back in the parking lot of the supermarket.\n\nHelena, who had held the committee together for three years mainly by letting everyone finish their sentences, waited until the room was quiet.\n\nHelena: I don't think Mr. Pell is a villain, and I don't think we should treat him like one. I'd like to write back, thank him sincerely, and offer him a different arrangement: we accept the money for the playground, with a plaque that names his family, but the name of the park and its rules stay with the neighbors.\n\nWalt: And if he says no?\n\nHelena: Then we'll have a smaller playground that belongs to us.\n\nMr. Pell did say no. His reply was short and, Walt thought, rather hurt. He called the committee \"parochial\" and wrote that he did not give money \"in order to be thanked on a piece of metal\". Helena read the word \"parochial\" twice and decided, after some thought, that it was not entirely unfair. They had been a little insular. So the committee did something it had never done before: it asked the whole neighborhood. Walt, who had been sure that the committee would succumb in the end, admitted that he had underestimated how much the neighbors cared about one small piece of land.\n\nEleven months later, the playground opened. It was smaller than the one in Mr. Pell's letter, and it had been paid for by more than six hundred people, from a retired judge to a group of skateboarders who sold lemonade every Saturday in June. To everyone's surprise, a check for the water fountain arrived from Mr. Pell in the same month, with a note asking that his name appear nowhere. On the gate, there is no name at all. There is just a small sign that says, \"Built by the neighbors. Open until dark.\"",
+      "translation_vn": "(1) Cái tên trên cổng\n(2) Lá thư của Grayson Pell tới vào thứ Ba, và tới thứ Năm thì ai trong hội đồng công viên bỏ túi Pine Street cũng đã đọc nó ít nhất ba lần. Ông Pell, một nhà phát triển bất động sản có tên trên nửa số toà nhà mới ở trung tâm, đề nghị tặng 250.000 đô cho một sân chơi và một vòi nước uống.\n(3) Đổi lại, ông yêu cầu ba điều: công viên phải đổi tên thành Pell Park, cấm ván trượt, và cổng phải đóng lúc sáu giờ.\n(4) Walt: Thành thật nhé, chúng ta không đủ sức từ chối đâu. Mọi người có biết phải tổ chức bao nhiêu đêm nếm thử mới gom được một phần tư triệu đô không?\n(5) Priya: Tất nhiên là tôi biết. Tôi là thủ quỹ mà. Nhưng tôi cứ quay lại một câu hỏi: ai quyết định chuyện gì diễn ra trong công viên này? Hai trăm mười bốn người hàng xóm đã trả lời khảo sát trước khi chúng ta xây nó. Ông Pell chỉ là một người.\n(6) Walt: Một người hào phóng.\n(7) Priya: Hào phóng mà kèm điều kiện thì không phải là quà. Đó là hợp đồng.\n(8) Walt: Nói thế hơi khắt khe đấy nhỉ? Ông ấy có định chen chân vào cái gì đâu. Ông ấy chỉ muốn được người ta nhớ tới.\n(9) Tina, người được mời làm đại diện thanh thiếu niên của hội đồng và tới giờ vẫn chưa nói gì, giơ tay.\n(10) Tina: Mấy bạn trượt ván là những thiếu niên duy nhất thật sự dùng công viên sau giờ học. Nếu cấm họ, nó sẽ thành công viên cho trẻ nhỏ và bố mẹ chúng, còn bọn cháu lại quay về bãi đỗ xe của siêu thị.\n(11) Helena, người đã giữ cho hội đồng gắn kết suốt ba năm chủ yếu bằng cách để mọi người nói hết câu, chờ cho tới khi căn phòng im lặng.\n(12) Helena: Tôi không nghĩ ông Pell là kẻ xấu, và tôi không nghĩ chúng ta nên đối xử với ông như vậy. Tôi muốn viết thư trả lời, cảm ơn ông thật lòng, và đề xuất một cách khác: chúng ta nhận tiền cho sân chơi, có một tấm biển ghi tên gia đình ông, nhưng tên công viên và nội quy vẫn do hàng xóm quyết.\n(13) Walt: Thế nếu ông ấy từ chối?\n(14) Helena: Thì chúng ta sẽ có một sân chơi nhỏ hơn thuộc về chúng ta.\n(15) Ông Pell quả thật đã từ chối. Thư trả lời của ông ngắn và, theo Walt, có phần tự ái. Ông gọi hội đồng là \"hẹp hòi\" và viết rằng ông không cho tiền \"để được cảm ơn trên một miếng kim loại\".\n(16) Helena đọc chữ \"hẹp hòi\" hai lần và sau một hồi suy nghĩ thì thấy nó không hoàn toàn bất công. Họ đã hơi khép kín thật. Vì vậy hội đồng làm một điều chưa từng làm: hỏi ý kiến cả khu phố.\n(17) Walt, người từng chắc rằng rốt cuộc hội đồng sẽ chịu thua, thừa nhận ông đã đánh giá thấp mức độ hàng xóm quan tâm tới một mảnh đất nhỏ.\n(18) Mười một tháng sau, sân chơi khai trương. Nó nhỏ hơn sân trong thư của ông Pell, và được trả tiền bởi hơn sáu trăm người, từ một thẩm phán về hưu cho tới một nhóm thiếu niên trượt ván bán nước chanh mỗi thứ Bảy trong tháng Sáu.\n(19) Ai cũng bất ngờ khi cũng trong tháng đó, một tấm séc cho vòi nước uống được gửi tới từ ông Pell, kèm lời nhắn đề nghị không ghi tên ông ở bất cứ đâu.\n(20) Trên cổng không có cái tên nào cả. Chỉ có một tấm biển nhỏ ghi: \"Hàng xóm cùng xây. Mở cửa tới khi trời tối.\"",
+      "word_count": 534,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c2.013",
+        "c2.014",
+        "c2.015",
+        "c2.016"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u0304_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "What does Mitchell mean when he says the interview \"was to have taken an hour\"?",
+        "vi": "Mitchell muốn nói gì khi bảo cuộc phỏng vấn \"lẽ ra chỉ mất một giờ\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It was cancelled because Harriet was too busy to continue.",
+            "vi": "Buổi phỏng vấn bị hủy vì Harriet quá bận để tiếp tục."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It was cancelled because Harriet was too busy to continue.",
+          "text_translation": "Buổi phỏng vấn bị hủy vì Harriet quá bận để tiếp tục."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It took exactly one hour, as Harriet had promised him.",
+            "vi": "Nó kéo dài đúng một giờ, như Harriet đã hứa với ông."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It took exactly one hour, as Harriet had promised him.",
+          "text_translation": "Nó kéo dài đúng một giờ, như Harriet đã hứa với ông."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It had been planned to last an hour but took much longer.",
+            "vi": "Nó được dự định kéo dài một giờ nhưng thực tế lâu hơn nhiều."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It had been planned to last an hour but took much longer.",
+          "text_translation": "Nó được dự định kéo dài một giờ nhưng thực tế lâu hơn nhiều."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet refused to be interviewed after the first afternoon.",
+            "vi": "Harriet từ chối được phỏng vấn sau buổi chiều đầu tiên."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet refused to be interviewed after the first afternoon.",
+          "text_translation": "Harriet từ chối được phỏng vấn sau buổi chiều đầu tiên."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Ngữ pháp: was to have + V3 = kế hoạch không thành. \"It took three afternoons, four pots of coffee\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does Mitchell mean when he says the interview \"was to have taken an hour\"?",
+      "question_vn": "Mitchell muốn nói gì khi bảo cuộc phỏng vấn \"lẽ ra chỉ mất một giờ\"?",
+      "explanation": "Ngữ pháp: was to have + V3 = kế hoạch không thành. \"It took three afternoons, four pots of coffee\"."
+    },
+    {
+      "id": "q_u0304_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "According to the archive, what was wrong with Harriet's story?",
+        "vi": "Theo kho lưu trữ, câu chuyện của bà Harriet sai ở đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The flood happened two years after she arrived, not in the week she arrived.",
+            "vi": "Trận lụt xảy ra hai năm sau khi bà tới, không phải đúng tuần bà tới."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The flood happened two years after she arrived, not in the week she arrived.",
+          "text_translation": "Trận lụt xảy ra hai năm sau khi bà tới, không phải đúng tuần bà tới."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "There was never a flood on Pine Street, only a heavy storm that nobody remembers well.",
+            "vi": "Chưa từng có lũ ở phố Pine, chỉ có một cơn bão lớn mà không ai nhớ rõ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "There was never a flood on Pine Street, only a heavy storm that nobody remembers well.",
+          "text_translation": "Chưa từng có lũ ở phố Pine, chỉ có một cơn bão lớn mà không ai nhớ rõ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The fire station did not exist yet when she arrived on Maple Street.",
+            "vi": "Trạm cứu hỏa chưa tồn tại khi bà đến phố Maple."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The fire station did not exist yet when she arrived on Maple Street.",
+          "text_translation": "Trạm cứu hỏa chưa tồn tại khi bà đến phố Maple."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She arrived in 1980, two years later than she remembers.",
+            "vi": "Bà đến vào năm 1980, muộn hơn hai năm so với bà nhớ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She arrived in 1980, two years later than she remembers.",
+          "text_translation": "Bà đến vào năm 1980, muộn hơn hai năm so với bà nhớ."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"The flood happened\" và \"but it happened in 1980, two years after she moved in.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to the archive, what was wrong with Harriet's story?",
+      "question_vn": "Theo kho lưu trữ, câu chuyện của bà Harriet sai ở đâu?",
+      "explanation": "\"The flood happened\" và \"but it happened in 1980, two years after she moved in.\""
+    },
+    {
+      "id": "q_u0304_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "Why does Mitchell say he is \"ashamed\" of his first reaction?",
+        "vi": "Vì sao Mitchell nói ông \"xấu hổ\" về phản ứng đầu tiên?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because he had lost the photograph of the boat that Harriet had asked to see again",
+            "vi": "vì ông đã làm mất tấm ảnh chiếc thuyền mà Harriet muốn xem lại"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because he had lost the photograph of the boat that Harriet had asked to see again",
+          "text_translation": "vì ông đã làm mất tấm ảnh chiếc thuyền mà Harriet muốn xem lại"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because he had been rude to Harriet when she told him the story of the storm",
+            "vi": "vì ông đã thô lỗ với Harriet khi bà kể câu chuyện về cơn bão"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because he had been rude to Harriet when she told him the story of the storm",
+          "text_translation": "vì ông đã thô lỗ với Harriet khi bà kể câu chuyện về cơn bão"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because he had made the same mistake himself in the interview with Harriet",
+            "vi": "vì chính ông đã mắc cùng lỗi đó trong buổi phỏng vấn Harriet"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because he had made the same mistake himself in the interview with Harriet",
+          "text_translation": "vì chính ông đã mắc cùng lỗi đó trong buổi phỏng vấn Harriet"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because he felt pleased at catching his neighbor in an error instead of asking why it happened",
+            "vi": "vì ông thấy thích thú khi bắt lỗi người hàng xóm thay vì hỏi vì sao lỗi xảy ra"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because he felt pleased at catching his neighbor in an error instead of asking why it happened",
+          "text_translation": "vì ông thấy thích thú khi bắt lỗi người hàng xóm thay vì hỏi vì sao lỗi xảy ra"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi thái độ. \"the historian's small thrill of catching a witness in an error\" đối lập với phản ứng thứ hai: \"to wonder why the error had taken that particular shape.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Mitchell say he is \"ashamed\" of his first reaction?",
+      "question_vn": "Vì sao Mitchell nói ông \"xấu hổ\" về phản ứng đầu tiên?",
+      "explanation": "Câu hỏi thái độ. \"the historian's small thrill of catching a witness in an error\" đối lập với phản ứng thứ hai: \"to wonder why the error had taken that particular shape.\""
+    },
+    {
+      "id": "q_u0304_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "What did Neisser and Harsch find when they asked the students again?",
+        "vi": "Neisser và Harsch phát hiện gì khi hỏi lại các sinh viên?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Most students remembered the news perfectly after more than two years.",
+            "vi": "Hầu hết sinh viên nhớ tin đó hoàn hảo sau hơn hai năm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Most students remembered the news perfectly after more than two years.",
+          "text_translation": "Hầu hết sinh viên nhớ tin đó hoàn hảo sau hơn hai năm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Many accounts had changed, but confident students were not more accurate.",
+            "vi": "Nhiều lời kể đã thay đổi, nhưng sinh viên tự tin không chính xác hơn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Many accounts had changed, but confident students were not more accurate.",
+          "text_translation": "Nhiều lời kể đã thay đổi, nhưng sinh viên tự tin không chính xác hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The students refused to answer because they had forgotten the event.",
+            "vi": "Sinh viên từ chối trả lời vì họ đã quên sự kiện."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The students refused to answer because they had forgotten the event.",
+          "text_translation": "Sinh viên từ chối trả lời vì họ đã quên sự kiện."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Only confident students made mistakes, while the careful ones remembered well.",
+            "vi": "Chỉ sinh viên tự tin mới sai, còn người cẩn thận nhớ tốt."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Only confident students made mistakes, while the careful ones remembered well.",
+          "text_translation": "Chỉ sinh viên tự tin mới sai, còn người cẩn thận nhớ tốt."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Many of the new accounts differed markedly from the originals, yet the students were highly confident, and their confidence bore no relation to their accuracy.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did Neisser and Harsch find when they asked the students again?",
+      "question_vn": "Neisser và Harsch phát hiện gì khi hỏi lại các sinh viên?",
+      "explanation": "\"Many of the new accounts differed markedly from the originals, yet the students were highly confident, and their confidence bore no relation to their accuracy.\""
+    },
+    {
+      "id": "q_u0304_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "What is most surprising about the students who were shown their own handwriting?",
+        "vi": "Điều đáng ngạc nhiên nhất về những sinh viên được xem chữ viết tay của chính mình là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They could not read their own handwriting, so they asked the researchers to read it.",
+            "vi": "Họ không đọc được chữ viết tay của chính mình nên nhờ các nhà nghiên cứu đọc hộ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They could not read their own handwriting, so they asked the researchers to read it.",
+          "text_translation": "Họ không đọc được chữ viết tay của chính mình nên nhờ các nhà nghiên cứu đọc hộ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They thanked the researchers for showing them the old pages.",
+            "vi": "Họ cảm ơn các nhà nghiên cứu đã cho xem những trang cũ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They thanked the researchers for showing them the old pages.",
+          "text_translation": "Họ cảm ơn các nhà nghiên cứu đã cho xem những trang cũ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Some trusted their later memory more than their own written record.",
+            "vi": "Có người tin ký ức về sau hơn cả bản ghi chính tay mình viết."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Some trusted their later memory more than their own written record.",
+          "text_translation": "Có người tin ký ức về sau hơn cả bản ghi chính tay mình viết."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They all corrected their stories as soon as they saw the pages.",
+            "vi": "Tất cả họ sửa lại lời kể ngay khi thấy các trang giấy."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They all corrected their stories as soon as they saw the pages.",
+          "text_translation": "Tất cả họ sửa lại lời kể ngay khi thấy các trang giấy."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. Bằng chứng do chính họ viết nằm ngay trước mắt, vậy mà họ \"preferred the later memory\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is most surprising about the students who were shown their own handwriting?",
+      "question_vn": "Điều đáng ngạc nhiên nhất về những sinh viên được xem chữ viết tay của chính mình là gì?",
+      "explanation": "Câu suy luận. Bằng chứng do chính họ viết nằm ngay trước mắt, vậy mà họ \"preferred the later memory\"."
+    },
+    {
+      "id": "q_u0304_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "Why does Mitchell describe the study of the Challenger memories?",
+        "vi": "Vì sao Mitchell kể về nghiên cứu ký ức vụ Challenger?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that Harriet's kind of error is common and does not mean she is careless",
+            "vi": "để cho thấy lỗi như của Harriet là phổ biến và không có nghĩa bà cẩu thả"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to show that Harriet's kind of error is common and does not mean she is careless",
+          "text_translation": "để cho thấy lỗi như của Harriet là phổ biến và không có nghĩa bà cẩu thả"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to prove that the archive is always wrong when it disagrees with people who remember",
+            "vi": "để chứng minh kho lưu trữ luôn sai khi nó mâu thuẫn với người còn nhớ sự việc"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to prove that the archive is always wrong when it disagrees with people who remember",
+          "text_translation": "để chứng minh kho lưu trữ luôn sai khi nó mâu thuẫn với người còn nhớ sự việc"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to explain space travel and how students heard about the Challenger launch",
+            "vi": "để giải thích du hành vũ trụ và cách sinh viên biết về vụ phóng Challenger"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to explain space travel and how students heard about the Challenger launch",
+          "text_translation": "để giải thích du hành vũ trụ và cách sinh viên biết về vụ phóng Challenger"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to criticize university students for forgetting something so important",
+            "vi": "để chê sinh viên đại học vì quên một chuyện quan trọng đến vậy"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to criticize university students for forgetting something so important",
+          "text_translation": "để chê sinh viên đại học vì quên một chuyện quan trọng đến vậy"
+        }
+      ],
+      "evidence_segments": [
+        8,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi chức năng. Nghiên cứu cho thấy người tự tin vẫn nhớ sai, nên ông kết luận lỗi của bà \"looks less like carelessness than like meaning\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Mitchell describe the study of the Challenger memories?",
+      "question_vn": "Vì sao Mitchell kể về nghiên cứu ký ức vụ Challenger?",
+      "explanation": "Câu hỏi chức năng. Nghiên cứu cho thấy người tự tin vẫn nhớ sai, nên ông kết luận lỗi của bà \"looks less like carelessness than like meaning\"."
+    },
+    {
+      "id": "q_u0304_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "According to Mitchell, why did Harriet's memory move the flood closer to her arrival?",
+        "vi": "Theo Mitchell, vì sao ký ức của bà Harriet dời trận lụt lại gần ngày bà tới?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because she was simply confused about the years and had never checked them",
+            "vi": "vì bà chỉ đơn giản nhầm các năm và chưa bao giờ kiểm tra lại"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because she was simply confused about the years and had never checked them",
+          "text_translation": "vì bà chỉ đơn giản nhầm các năm và chưa bao giờ kiểm tra lại"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because a newspaper had reported the date wrongly at the time",
+            "vi": "vì một tờ báo đã đưa sai ngày vào thời điểm đó"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because a newspaper had reported the date wrongly at the time",
+          "text_translation": "vì một tờ báo đã đưa sai ngày vào thời điểm đó"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because she wanted to impress Mitchell and the library with a more dramatic story of arriving",
+            "vi": "vì bà muốn gây ấn tượng với Mitchell và thư viện bằng một câu chuyện đến phố kịch tính hơn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because she wanted to impress Mitchell and the library with a more dramatic story of arriving",
+          "text_translation": "vì bà muốn gây ấn tượng với Mitchell và thư viện bằng một câu chuyện đến phố kịch tính hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because both events meant the same thing to her: becoming part of the neighborhood",
+            "vi": "vì với bà, cả hai sự kiện cùng mang một ý nghĩa: trở thành một phần của khu phố"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because both events meant the same thing to her: becoming part of the neighborhood",
+          "text_translation": "vì với bà, cả hai sự kiện cùng mang một ý nghĩa: trở thành một phần của khu phố"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"both events stood for the same thing: the moment when a stranger became a neighbor.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to Mitchell, why did Harriet's memory move the flood closer to her arrival?",
+      "question_vn": "Theo Mitchell, vì sao ký ức của bà Harriet dời trận lụt lại gần ngày bà tới?",
+      "explanation": "\"both events stood for the same thing: the moment when a stranger became a neighbor.\""
+    },
+    {
+      "id": "q_u0304_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "What does \"where it belonged emotionally if not chronologically\" mean?",
+        "vi": "Cụm \"nơi nó thuộc về về mặt cảm xúc dù không phải về mặt niên đại\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The flood should be moved to a different year in the library's archive.",
+            "vi": "Trận lũ nên được chuyển sang một năm khác trong kho lưu trữ của thư viện."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The flood should be moved to a different year in the library's archive.",
+          "text_translation": "Trận lũ nên được chuyển sang một năm khác trong kho lưu trữ của thư viện."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "In her feelings the flood belonged to her arrival, although the dates differ.",
+            "vi": "Trong cảm xúc của bà, trận lũ thuộc về lúc bà đến, dù ngày tháng khác nhau."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "In her feelings the flood belonged to her arrival, although the dates differ.",
+          "text_translation": "Trong cảm xúc của bà, trận lũ thuộc về lúc bà đến, dù ngày tháng khác nhau."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The flood happened twice, once for her feelings and once in the archive.",
+            "vi": "Trận lũ xảy ra hai lần, một lần trong cảm xúc của bà và một lần trong kho lưu trữ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The flood happened twice, once for her feelings and once in the archive.",
+          "text_translation": "Trận lũ xảy ra hai lần, một lần trong cảm xúc của bà và một lần trong kho lưu trữ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Her emotions were wrong, so her memory of the dates could not be trusted.",
+            "vi": "Cảm xúc của bà sai, nên không thể tin trí nhớ của bà về ngày tháng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Her emotions were wrong, so her memory of the dates could not be trusted.",
+          "text_translation": "Cảm xúc của bà sai, nên không thể tin trí nhớ của bà về ngày tháng."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý. \"if not\" = dù không. Về cảm xúc thì đúng chỗ, về niên đại thì sai."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"where it belonged emotionally if not chronologically\" mean?",
+      "question_vn": "Cụm \"nơi nó thuộc về về mặt cảm xúc dù không phải về mặt niên đại\" nghĩa là gì?",
+      "explanation": "Câu hàm ý. \"if not\" = dù không. Về cảm xúc thì đúng chỗ, về niên đại thì sai."
+    },
+    {
+      "id": "q_u0304_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "Which version does Mitchell think the archive should keep?",
+        "vi": "Mitchell nghĩ kho lưu trữ nên giữ phiên bản nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "both, side by side, because the date and its meaning are both valuable",
+            "vi": "cả hai, đặt cạnh nhau, vì cả ngày tháng lẫn ý nghĩa đều có giá trị"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "both, side by side, because the date and its meaning are both valuable",
+          "text_translation": "cả hai, đặt cạnh nhau, vì cả ngày tháng lẫn ý nghĩa đều có giá trị"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "only the newspaper version, because dates matter more than memories do",
+            "vi": "chỉ bản của tờ báo, vì ngày tháng quan trọng hơn ký ức"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "only the newspaper version, because dates matter more than memories do",
+          "text_translation": "chỉ bản của tờ báo, vì ngày tháng quan trọng hơn ký ức"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "only Harriet's version, because her memory has the deeper meaning",
+            "vi": "chỉ bản của Harriet, vì ký ức của bà có ý nghĩa sâu hơn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "only Harriet's version, because her memory has the deeper meaning",
+          "text_translation": "chỉ bản của Harriet, vì ký ức của bà có ý nghĩa sâu hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a corrected version of Harriet's story, with the right date in place",
+            "vi": "một bản đã sửa của câu chuyện Harriet, với ngày đúng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a corrected version of Harriet's story, with the right date in place",
+          "text_translation": "một bản đã sửa của câu chuyện Harriet, với ngày đúng"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"Both, I think, and side by side. The newspaper gives us the date; Harriet gives us what the date meant.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which version does Mitchell think the archive should keep?",
+      "question_vn": "Mitchell nghĩ kho lưu trữ nên giữ phiên bản nào?",
+      "explanation": "\"Both, I think, and side by side. The newspaper gives us the date; Harriet gives us what the date meant.\""
+    },
+    {
+      "id": "q_u0304_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_01",
+      "i18n": {
+        "en": "What does Harriet's final remark, \"I suppose, in a way, I was\", suggest?",
+        "vi": "Câu cuối của bà Harriet \"Mà tôi đoán, theo một nghĩa nào đó, tôi đã có mặt\" gợi ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She still insists the archive is wrong and that she remembers everything correctly.",
+            "vi": "Bà vẫn khăng khăng kho lưu trữ sai và bà nhớ mọi thứ đúng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She still insists the archive is wrong and that she remembers everything correctly.",
+          "text_translation": "Bà vẫn khăng khăng kho lưu trữ sai và bà nhớ mọi thứ đúng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She is angry with Mitchell for showing her the old photograph.",
+            "vi": "Bà giận Mitchell vì đã cho bà xem tấm ảnh cũ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She is angry with Mitchell for showing her the old photograph.",
+          "text_translation": "Bà giận Mitchell vì đã cho bà xem tấm ảnh cũ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She accepts the facts while keeping the flood as part of her own story of arriving.",
+            "vi": "Bà chấp nhận sự thật nhưng vẫn giữ trận lụt như một phần câu chuyện ngày bà tới."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She accepts the facts while keeping the flood as part of her own story of arriving.",
+          "text_translation": "Bà chấp nhận sự thật nhưng vẫn giữ trận lụt như một phần câu chuyện ngày bà tới."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She has forgotten the flood and now believes it never happened.",
+            "vi": "Bà đã quên trận lũ và giờ tin rằng nó chưa từng xảy ra."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She has forgotten the flood and now believes it never happened.",
+          "text_translation": "Bà đã quên trận lũ và giờ tin rằng nó chưa từng xảy ra."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý. \"I would have liked to have been there\" (chấp nhận mình không có mặt) và \"in a way, I was\" (về ý nghĩa thì vẫn thuộc về câu chuyện của bà)."
+      },
+      "audio_data": null,
+      "question_jp": "What does Harriet's final remark, \"I suppose, in a way, I was\", suggest?",
+      "question_vn": "Câu cuối của bà Harriet \"Mà tôi đoán, theo một nghĩa nào đó, tôi đã có mặt\" gợi ý điều gì?",
+      "explanation": "Câu hàm ý. \"I would have liked to have been there\" (chấp nhận mình không có mặt) và \"in a way, I was\" (về ý nghĩa thì vẫn thuộc về câu chuyện của bà)."
+    },
+    {
+      "id": "q_u0304_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "What did Mr. Pell offer the committee?",
+        "vi": "Ông Pell đề nghị gì với hội đồng?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to buy the park and the land around it, and name it after his family",
+            "vi": "mua công viên và khu đất quanh đó, rồi đặt tên theo gia đình ông"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to buy the park and the land around it, and name it after his family",
+          "text_translation": "mua công viên và khu đất quanh đó, rồi đặt tên theo gia đình ông"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "$250,000 for a playground and a water fountain, with conditions",
+            "vi": "250.000 đô cho sân chơi và vòi nước uống, kèm điều kiện"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "$250,000 for a playground and a water fountain, with conditions",
+          "text_translation": "250.000 đô cho sân chơi và vòi nước uống, kèm điều kiện"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "free skateboards for the teenagers, if they kept the park clean",
+            "vi": "ván trượt miễn phí cho thanh thiếu niên, nếu họ giữ công viên sạch"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "free skateboards for the teenagers, if they kept the park clean",
+          "text_translation": "ván trượt miễn phí cho thanh thiếu niên, nếu họ giữ công viên sạch"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a job for Helena in his company, if she gave up the park",
+            "vi": "một việc làm cho Helena ở công ty ông, nếu cô từ bỏ công viên"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a job for Helena in his company, if she gave up the park",
+          "text_translation": "một việc làm cho Helena ở công ty ông, nếu cô từ bỏ công viên"
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"was offering $250,000 for a playground and a water fountain.\" Ông kèm ba điều kiện."
+      },
+      "audio_data": null,
+      "question_jp": "What did Mr. Pell offer the committee?",
+      "question_vn": "Ông Pell đề nghị gì với hội đồng?",
+      "explanation": "\"was offering $250,000 for a playground and a water fountain.\" Ông kèm ba điều kiện."
+    },
+    {
+      "id": "q_u0304_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "Which of these was NOT one of Mr. Pell's conditions?",
+        "vi": "Điều nào KHÔNG nằm trong điều kiện của ông Pell?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "calling the park Pell Park",
+            "vi": "gọi công viên là Pell Park"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "calling the park Pell Park",
+          "text_translation": "gọi công viên là Pell Park"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "banning skateboards in the park",
+            "vi": "cấm ván trượt trong công viên"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "banning skateboards in the park",
+          "text_translation": "cấm ván trượt trong công viên"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "closing the gates at six o'clock",
+            "vi": "đóng cổng lúc sáu giờ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "closing the gates at six o'clock",
+          "text_translation": "đóng cổng lúc sáu giờ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "removing the committee from the park",
+            "vi": "loại ủy ban khỏi công viên"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "removing the committee from the park",
+          "text_translation": "loại ủy ban khỏi công viên"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Ba điều kiện là \"that the park be renamed Pell Park, that skateboards be banned, and that the gates close at six.\""
+      },
+      "audio_data": null,
+      "question_jp": "Which of these was NOT one of Mr. Pell's conditions?",
+      "question_vn": "Điều nào KHÔNG nằm trong điều kiện của ông Pell?",
+      "explanation": "Ba điều kiện là \"that the park be renamed Pell Park, that skateboards be banned, and that the gates close at six.\""
+    },
+    {
+      "id": "q_u0304_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "What is Priya's main concern?",
+        "vi": "Mối lo chính của Priya là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "who has the power to decide what happens in the park",
+            "vi": "ai có quyền quyết định chuyện gì diễn ra trong công viên"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "who has the power to decide what happens in the park",
+          "text_translation": "ai có quyền quyết định chuyện gì diễn ra trong công viên"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that the money is not enough to build a playground and a fountain",
+            "vi": "rằng số tiền không đủ để xây sân chơi và đài phun nước"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "that the money is not enough to build a playground and a fountain",
+          "text_translation": "rằng số tiền không đủ để xây sân chơi và đài phun nước"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that Mr. Pell is dishonest and may not really pay the money",
+            "vi": "rằng ông Pell không trung thực và có thể không thật sự trả tiền"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "that Mr. Pell is dishonest and may not really pay the money",
+          "text_translation": "rằng ông Pell không trung thực và có thể không thật sự trả tiền"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that the fountain will break because it is cheaply made",
+            "vi": "rằng đài phun nước sẽ hỏng vì làm rẻ tiền"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "that the fountain will break because it is cheaply made",
+          "text_translation": "rằng đài phun nước sẽ hỏng vì làm rẻ tiền"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"who decides what happens in this park? Two hundred and fourteen neighbors answered our survey\" và \"Mr. Pell is one person.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is Priya's main concern?",
+      "question_vn": "Mối lo chính của Priya là gì?",
+      "explanation": "\"who decides what happens in this park? Two hundred and fourteen neighbors answered our survey\" và \"Mr. Pell is one person.\""
+    },
+    {
+      "id": "q_u0304_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "What does Priya mean by \"Generosity with conditions isn't a gift. It's a contract\"?",
+        "vi": "Priya muốn nói gì qua câu \"Hào phóng mà kèm điều kiện thì không phải là quà. Đó là hợp đồng\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Mr. Pell wants a written agreement signed by the whole committee.",
+            "vi": "Ông Pell muốn một thỏa thuận bằng văn bản do cả ủy ban ký."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Mr. Pell wants a written agreement signed by the whole committee.",
+          "text_translation": "Ông Pell muốn một thỏa thuận bằng văn bản do cả ủy ban ký."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Gifts should always be refused, because they bring problems.",
+            "vi": "Quà tặng luôn nên bị từ chối, vì chúng mang rắc rối."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Gifts should always be refused, because they bring problems.",
+          "text_translation": "Quà tặng luôn nên bị từ chối, vì chúng mang rắc rối."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Accepting the money would mean giving Mr. Pell control in exchange.",
+            "vi": "Nhận tiền nghĩa là đổi lại trao cho ông Pell quyền kiểm soát."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Accepting the money would mean giving Mr. Pell control in exchange.",
+          "text_translation": "Nhận tiền nghĩa là đổi lại trao cho ông Pell quyền kiểm soát."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Walt is not generous, and he would rather sign a contract.",
+            "vi": "Walt không hào phóng, và ông thà ký một hợp đồng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Walt is not generous, and he would rather sign a contract.",
+          "text_translation": "Walt không hào phóng, và ông thà ký một hợp đồng."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý. Một món quà không đòi gì; một hợp đồng thì đổi tiền lấy quyền đặt tên và đặt luật."
+      },
+      "audio_data": null,
+      "question_jp": "What does Priya mean by \"Generosity with conditions isn't a gift. It's a contract\"?",
+      "question_vn": "Priya muốn nói gì qua câu \"Hào phóng mà kèm điều kiện thì không phải là quà. Đó là hợp đồng\"?",
+      "explanation": "Câu hàm ý. Một món quà không đòi gì; một hợp đồng thì đổi tiền lấy quyền đặt tên và đặt luật."
+    },
+    {
+      "id": "q_u0304_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "What point does Tina make?",
+        "vi": "Tina nêu ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Skateboarding is dangerous, so the committee should add a safe area.",
+            "vi": "Trượt ván nguy hiểm, nên ủy ban cần thêm một khu an toàn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Skateboarding is dangerous, so the committee should add a safe area.",
+          "text_translation": "Trượt ván nguy hiểm, nên ủy ban cần thêm một khu an toàn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Banning skateboards would push out the teenagers who actually use the park.",
+            "vi": "Cấm ván trượt sẽ đẩy những thiếu niên thật sự dùng công viên ra ngoài."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Banning skateboards would push out the teenagers who actually use the park.",
+          "text_translation": "Cấm ván trượt sẽ đẩy những thiếu niên thật sự dùng công viên ra ngoài."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The park should close earlier, so that parents can take children home.",
+            "vi": "Công viên nên đóng sớm hơn, để cha mẹ đưa con về."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The park should close earlier, so that parents can take children home.",
+          "text_translation": "Công viên nên đóng sớm hơn, để cha mẹ đưa con về."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Teenagers should build their own park far away from the little children.",
+            "vi": "Thanh thiếu niên nên tự xây công viên riêng, xa trẻ nhỏ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Teenagers should build their own park far away from the little children.",
+          "text_translation": "Thanh thiếu niên nên tự xây công viên riêng, xa trẻ nhỏ."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"If you ban them, it'll be a park for little kids and their parents, and the rest of us will be back in the parking lot of the supermarket.\""
+      },
+      "audio_data": null,
+      "question_jp": "What point does Tina make?",
+      "question_vn": "Tina nêu ý gì?",
+      "explanation": "\"If you ban them, it'll be a park for little kids and their parents, and the rest of us will be back in the parking lot of the supermarket.\""
+    },
+    {
+      "id": "q_u0304_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "What does the narrator suggest about Helena's style of leadership?",
+        "vi": "Người kể gợi ý gì về cách lãnh đạo của Helena?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She makes quick decisions alone and then tells the others what the committee has decided.",
+            "vi": "Chị tự quyết nhanh rồi báo cho người khác biết ủy ban đã quyết gì."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She makes quick decisions alone and then tells the others what the committee has decided.",
+          "text_translation": "Chị tự quyết nhanh rồi báo cho người khác biết ủy ban đã quyết gì."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She avoids difficult questions by changing the subject quickly.",
+            "vi": "Chị né những câu hỏi khó bằng cách nhanh chóng đổi chủ đề."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She avoids difficult questions by changing the subject quickly.",
+          "text_translation": "Chị né những câu hỏi khó bằng cách nhanh chóng đổi chủ đề."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She agrees with whoever speaks last, so that nobody is unhappy.",
+            "vi": "Chị đồng ý với ai nói sau cùng, để không ai phật lòng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She agrees with whoever speaks last, so that nobody is unhappy.",
+          "text_translation": "Chị đồng ý với ai nói sau cùng, để không ai phật lòng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She leads patiently, by listening, and speaks only after others have finished.",
+            "vi": "Chị lãnh đạo kiên nhẫn, bằng cách lắng nghe, và chỉ lên tiếng sau khi người khác nói xong."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She leads patiently, by listening, and speaks only after others have finished.",
+          "text_translation": "Chị lãnh đạo kiên nhẫn, bằng cách lắng nghe, và chỉ lên tiếng sau khi người khác nói xong."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"mainly by letting everyone finish their sentences\", và chị \"waited until the room was quiet\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does the narrator suggest about Helena's style of leadership?",
+      "question_vn": "Người kể gợi ý gì về cách lãnh đạo của Helena?",
+      "explanation": "Câu suy luận. \"mainly by letting everyone finish their sentences\", và chị \"waited until the room was quiet\"."
+    },
+    {
+      "id": "q_u0304_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "What did Helena propose to Mr. Pell?",
+        "vi": "Helena đề xuất gì với ông Pell?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "taking the money for the playground, with a plaque naming his family, but keeping the name and rules",
+            "vi": "nhận tiền cho sân chơi, kèm tấm biển ghi tên gia đình ông, nhưng giữ nguyên tên và quy tắc"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "taking the money for the playground, with a plaque naming his family, but keeping the name and rules",
+          "text_translation": "nhận tiền cho sân chơi, kèm tấm biển ghi tên gia đình ông, nhưng giữ nguyên tên và quy tắc"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "calling the park by his family's name but allowing skateboards, with the gates open until dark",
+            "vi": "gọi công viên bằng tên gia đình ông nhưng cho phép ván trượt, với cổng mở đến tối"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "calling the park by his family's name but allowing skateboards, with the gates open until dark",
+          "text_translation": "gọi công viên bằng tên gia đình ông nhưng cho phép ván trượt, với cổng mở đến tối"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "returning the money, and asking him for a smaller gift next year",
+            "vi": "trả lại tiền và xin ông một món quà nhỏ hơn vào năm sau"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "returning the money, and asking him for a smaller gift next year",
+          "text_translation": "trả lại tiền và xin ông một món quà nhỏ hơn vào năm sau"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "letting Mr. Pell join the committee, so that he could choose the rules himself",
+            "vi": "để ông Pell vào ủy ban, để ông tự chọn các quy tắc"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "letting Mr. Pell join the committee, so that he could choose the rules himself",
+          "text_translation": "để ông Pell vào ủy ban, để ông tự chọn các quy tắc"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"we accept the money for the playground, with a plaque that names his family, but the name of the park and its rules stay with the neighbors.\""
+      },
+      "audio_data": null,
+      "question_jp": "What did Helena propose to Mr. Pell?",
+      "question_vn": "Helena đề xuất gì với ông Pell?",
+      "explanation": "\"we accept the money for the playground, with a plaque that names his family, but the name of the park and its rules stay with the neighbors.\""
+    },
+    {
+      "id": "q_u0304_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "How did Helena react to being called \"parochial\"?",
+        "vi": "Helena phản ứng thế nào khi bị gọi là \"hẹp hòi\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She wrote an angry reply defending the committee and refusing to apologize.",
+            "vi": "Chị viết thư đáp giận dữ bênh ủy ban và từ chối xin lỗi."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She wrote an angry reply defending the committee and refusing to apologize.",
+          "text_translation": "Chị viết thư đáp giận dữ bênh ủy ban và từ chối xin lỗi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She resigned from the committee because Mr. Pell had hurt her feelings.",
+            "vi": "Chị rời ủy ban vì ông Pell làm chị tổn thương."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She resigned from the committee because Mr. Pell had hurt her feelings.",
+          "text_translation": "Chị rời ủy ban vì ông Pell làm chị tổn thương."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She thought it was partly fair and involved the whole neighborhood.",
+            "vi": "Chị thấy nó đúng một phần và đưa cả khu phố vào cuộc."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "She thought it was partly fair and involved the whole neighborhood.",
+          "text_translation": "Chị thấy nó đúng một phần và đưa cả khu phố vào cuộc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She ignored it completely and did not tell the other committee members.",
+            "vi": "Chị hoàn toàn phớt lờ và không nói với các thành viên khác."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She ignored it completely and did not tell the other committee members.",
+          "text_translation": "Chị hoàn toàn phớt lờ và không nói với các thành viên khác."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"it was not entirely unfair. They had been a little insular.\" và \"it asked the whole neighborhood.\""
+      },
+      "audio_data": null,
+      "question_jp": "How did Helena react to being called \"parochial\"?",
+      "question_vn": "Helena phản ứng thế nào khi bị gọi là \"hẹp hòi\"?",
+      "explanation": "\"it was not entirely unfair. They had been a little insular.\" và \"it asked the whole neighborhood.\""
+    },
+    {
+      "id": "q_u0304_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "What is the significance of the sign on the gate?",
+        "vi": "Tấm biển trên cổng có ý nghĩa gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It thanks Mr. Pell for the fountain and invites visitors to read about his family.",
+            "vi": "Nó cảm ơn ông Pell vì đài phun nước và mời khách đọc về gia đình ông."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It thanks Mr. Pell for the fountain and invites visitors to read about his family.",
+          "text_translation": "Nó cảm ơn ông Pell vì đài phun nước và mời khách đọc về gia đình ông."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It lists the park's rules, including the hours set by the committee.",
+            "vi": "Nó liệt kê quy tắc của công viên, gồm giờ do ủy ban đặt."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It lists the park's rules, including the hours set by the committee.",
+          "text_translation": "Nó liệt kê quy tắc của công viên, gồm giờ do ủy ban đặt."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It advertises the lemonade sale that paid for part of the playground.",
+            "vi": "Nó quảng cáo buổi bán nước chanh đã trả một phần cho sân chơi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It advertises the lemonade sale that paid for part of the playground.",
+          "text_translation": "Nó quảng cáo buổi bán nước chanh đã trả một phần cho sân chơi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It shows that the park belongs to the neighbors and follows their rules, not Mr. Pell's.",
+            "vi": "Nó cho thấy công viên thuộc về hàng xóm và theo quy tắc của họ, không phải của ông Pell."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "It shows that the park belongs to the neighbors and follows their rules, not Mr. Pell's.",
+          "text_translation": "Nó cho thấy công viên thuộc về hàng xóm và theo quy tắc của họ, không phải của ông Pell."
+        }
+      ],
+      "evidence_segments": [
+        20
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý. \"Built by the neighbors\" (của cộng đồng) và \"Open until dark\" (giờ đóng cửa do hàng xóm đặt, không phải sáu giờ như ông Pell đòi)."
+      },
+      "audio_data": null,
+      "question_jp": "What is the significance of the sign on the gate?",
+      "question_vn": "Tấm biển trên cổng có ý nghĩa gì?",
+      "explanation": "Câu hàm ý. \"Built by the neighbors\" (của cộng đồng) và \"Open until dark\" (giờ đóng cửa do hàng xóm đặt, không phải sáu giờ như ông Pell đòi)."
+    },
+    {
+      "id": "q_u0304_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C2",
+      "passage_ref": "passage_u0304_02",
+      "i18n": {
+        "en": "Use both texts. What do Mitchell and Helena have in common?",
+        "vi": "Dựa vào cả hai bài. Mitchell và Helena có điểm gì chung?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Both of them refuse to change their minds, whatever the evidence says.",
+            "vi": "Cả hai đều không chịu đổi ý, bất kể bằng chứng nói gì."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Both of them refuse to change their minds, whatever the evidence says.",
+          "text_translation": "Cả hai đều không chịu đổi ý, bất kể bằng chứng nói gì."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Both of them consider an unwelcome challenge fairly and learn something from it.",
+            "vi": "Cả hai đều cân nhắc công bằng một thách thức khó chịu và học được điều gì đó từ nó."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Both of them consider an unwelcome challenge fairly and learn something from it.",
+          "text_translation": "Cả hai đều cân nhắc công bằng một thách thức khó chịu và học được điều gì đó từ nó."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both of them work for the library and help to keep its records.",
+            "vi": "Cả hai đều làm cho thư viện và giúp giữ hồ sơ của nó."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Both of them work for the library and help to keep its records.",
+          "text_translation": "Cả hai đều làm cho thư viện và giúp giữ hồ sơ của nó."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Both of them dislike rich people and want to keep them out.",
+            "vi": "Cả hai đều không ưa người giàu và muốn ngăn họ ra ngoài."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Both of them dislike rich people and want to keep them out.",
+          "text_translation": "Cả hai đều không ưa người giàu và muốn ngăn họ ra ngoài."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Mitchell vượt qua niềm phấn khích khi bắt lỗi để hỏi vì sao bà Harriet nhớ sai; Helena thấy chữ \"parochial\" \"not entirely unfair\" và thay đổi cách làm."
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do Mitchell and Helena have in common?",
+      "question_vn": "Dựa vào cả hai bài. Mitchell và Helena có điểm gì chung?",
+      "explanation": "Câu nối hai bài. Mitchell vượt qua niềm phấn khích khi bắt lỗi để hỏi vì sao bà Harriet nhớ sai; Helena thấy chữ \"parochial\" \"not entirely unfair\" và thay đổi cách làm."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u0304_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 3) — Mitchell: khi kho lưu trữ không khớp lời kể của hàng xóm",
+      "description": "Đọc hiểu C2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u0304_01",
+      "question_ids": [
+        "q_u0304_001",
+        "q_u0304_002",
+        "q_u0304_003",
+        "q_u0304_004",
+        "q_u0304_005",
+        "q_u0304_006",
+        "q_u0304_007",
+        "q_u0304_008",
+        "q_u0304_009",
+        "q_u0304_010"
+      ]
+    },
+    {
+      "set_id": "set_u0304_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 4) — Truyện: nhà tài trợ muốn đặt tên mình cho công viên",
+      "description": "Đọc hiểu C2 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u0304_02",
+      "question_ids": [
+        "q_u0304_011",
+        "q_u0304_012",
+        "q_u0304_013",
+        "q_u0304_014",
+        "q_u0304_015",
+        "q_u0304_016",
+        "q_u0304_017",
+        "q_u0304_018",
+        "q_u0304_019",
+        "q_u0304_020"
+      ]
+    }
+  ]
+}

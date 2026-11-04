@@ -1,0 +1,1359 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 10 — Weather and environment",
+      "vi": "Thời tiết, môi trường"
+    },
+    "title": "Unit 10 — Weather and environment",
+    "title_vn": "Thời tiết, môi trường",
+    "module_code": "57_u10",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A2",
+    "curriculum_unit": "a2.u10",
+    "curriculum_sheets": [
+      "a2.37",
+      "a2.38",
+      "a2.39",
+      "a2.40"
+    ],
+    "characters": [
+      "Tina Carter",
+      "Mitchell Carter",
+      "Megan Carter",
+      "Tracy Carter",
+      "Trevor Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 4, năm 3 (Tina 8 tuổi, lớp 3, làm dự án của lớp về tiết kiệm năng lượng và nước ở nhà)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Câu điều kiện if loại 0 và 1, in order to; thông tin cụ thể, ý chính, quy chiếu, từ trong ngữ cảnh, suy luận lý do, cảm xúc và cách xử lý tình huống",
+    "description_vn": "Báo cáo dự án lớp 3 của Tina về năm quy tắc tiết kiệm năng lượng và nước ở nhà Carter, và tờ thông tin của Sở Cứu hoả San Diego về an toàn khi có động đất và cháy rừng. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 10 khoá A2 · phiếu `a2.37` – `a2.40` (thời tiết, cây cối và thiên nhiên, tiết kiệm năng lượng, thiên tai; câu điều kiện if loại 0 và 1, in order to)."
+    },
+    "objective_i18n": {
+      "vi": "đọc bài báo cáo dự án lớp 3 của Tina về tiết kiệm năng lượng và nước ở nhà Carter, và tờ thông tin an toàn khi có động đất và cháy rừng ở California; hiểu câu điều kiện if loại 0 (điều luôn đúng) và loại 1 (If …, … will …), in order to chỉ mục đích; tìm thông tin cụ thể, ý chính, đại từ they chỉ gì, từ trong ngữ cảnh, và suy ra lý do, cảm xúc, cách xử lý tình huống."
+    },
+    "extra_words": [
+      {
+        "word": "project",
+        "i18n": {
+          "vi": "dự án (bài làm của lớp)"
+        }
+      },
+      {
+        "word": "unplug",
+        "i18n": {
+          "vi": "rút phích cắm"
+        }
+      },
+      {
+        "word": "charger",
+        "i18n": {
+          "vi": "cục sạc"
+        }
+      },
+      {
+        "word": "wildfire",
+        "i18n": {
+          "vi": "cháy rừng"
+        }
+      },
+      {
+        "word": "firefighter",
+        "i18n": {
+          "vi": "lính cứu hoả"
+        }
+      },
+      {
+        "word": "flashlight",
+        "i18n": {
+          "vi": "đèn pin"
+        }
+      },
+      {
+        "word": "mask",
+        "i18n": {
+          "vi": "khẩu trang"
+        }
+      },
+      {
+        "word": "flame",
+        "i18n": {
+          "vi": "ngọn lửa"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "save energy",
+          "vi": "tiết kiệm năng lượng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "turn off the light",
+          "vi": "tắt đèn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "turn on the air conditioner",
+          "vi": "bật máy điều hoà"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Drop, Cover, and Hold On",
+          "vi": "Cúi xuống, Che chắn, và Bám chặt (khẩu hiệu an toàn động đất)"
+        }
+      },
+      {
+        "i18n": {
+          "en": "an emergency bag",
+          "vi": "túi khẩn cấp"
+        }
+      },
+      {
+        "i18n": {
+          "en": "burn down",
+          "vi": "cháy rụi"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Câu điều kiện loại 0: **If + hiện tại đơn, hiện tại đơn** (`If the sun shines, they dry for free`): điều luôn đúng. Loại 1: **If + hiện tại đơn, will + V** (`If it is lower, she will take us…`): điều sẽ xảy ra nếu có điều kiện. Vế sau còn có thể là câu mệnh lệnh: `If you are in bed, stay there…`."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "**in order to + V** = để (làm gì): chỉ mục đích. Câu hỏi Why should …? thường có đáp án ngay sau in order to."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Tờ thông tin an toàn: mỗi vế if là một tình huống (in bed, outside, smoke in the air). Đọc câu hỏi, xác định tình huống, rồi tìm đúng vế if khớp."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu suy luận (lý do, cảm xúc, cách xử lý): bài không nói thẳng. Gom 2–3 dấu hiệu (tiêu đề phía trên, `I'm already…`, câu kết bài) rồi loại phương án không khớp."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u10_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Dự án lớp 3 của Tina: tiết kiệm năng lượng và nước ở nhà Carter"
+      },
+      "narrator": "Tina",
+      "title": "My Green Home Project",
+      "category": "report",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 110,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My Green Home Project",
+            "vi": "Dự án Ngôi nhà xanh của em"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For my class project, I asked one question: how can my family save energy and water?",
+            "vi": "Trong dự án của lớp, em đặt ra một câu hỏi: nhà em có thể tiết kiệm năng lượng và nước bằng cách nào?"
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then I put five rules on the fridge.",
+            "vi": "Rồi em dán năm quy tắc lên tủ lạnh."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "1. If you leave a room, turn off the light.",
+            "vi": "1. Nếu ra khỏi phòng, hãy tắt đèn."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dad often forgets his desk lamp, so he already has three yellow cards!",
+            "vi": "Bố hay quên tắt cái đèn bàn, nên bố đã ăn ba chiếc thẻ vàng rồi!"
+          }
+        },
+        {
+          "n": 6,
+          "para": 5,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "2. Unplug chargers and the TV in order to save power.",
+            "vi": "2. Rút sạc và ti vi ra khỏi ổ cắm để tiết kiệm điện."
+          }
+        },
+        {
+          "n": 7,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If a charger stays in the wall, it still uses a little power.",
+            "vi": "Nếu cục sạc vẫn cắm trong ổ, nó vẫn tốn một chút điện."
+          }
+        },
+        {
+          "n": 8,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Trevor isn't happy: now he has to unplug the TV after every game.",
+            "vi": "Trevor chẳng vui chút nào: giờ chơi game xong lần nào anh ấy cũng phải rút điện ti vi."
+          }
+        },
+        {
+          "n": 9,
+          "para": 7,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "3. Take shorter showers.",
+            "vi": "3. Tắm nhanh hơn."
+          }
+        },
+        {
+          "n": 10,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tracy usually sings in the shower for twenty minutes. Now it's only two songs.",
+            "vi": "Chị Tracy thường vừa tắm vừa hát suốt hai mươi phút. Giờ chỉ còn hai bài thôi."
+          }
+        },
+        {
+          "n": 11,
+          "para": 9,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "4. Dry the clothes outside.",
+            "vi": "4. Phơi quần áo ngoài trời."
+          }
+        },
+        {
+          "n": 12,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If the sun shines, they dry for free, and they smell like fresh air.",
+            "vi": "Nếu trời nắng, quần áo khô mà chẳng tốn đồng nào, lại còn thơm mùi không khí trong lành."
+          }
+        },
+        {
+          "n": 13,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mom loves this rule, but Biscuit loves it more: he has pulled Dad's socks off the line twice!",
+            "vi": "Mẹ rất thích quy tắc này, nhưng Biscuit còn thích hơn: nó đã hai lần giật tất của bố khỏi dây phơi!"
+          }
+        },
+        {
+          "n": 14,
+          "para": 11,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "5. Open the windows before you turn on the air conditioner.",
+            "vi": "5. Mở cửa sổ trước khi bật máy điều hoà."
+          }
+        },
+        {
+          "n": 15,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In April, the ocean breeze is cool in the evening.",
+            "vi": "Vào tháng Tư, buổi tối gió biển thổi vào mát rượi."
+          }
+        },
+        {
+          "n": 16,
+          "para": 13,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why does all this matter? If we use less power, power stations will burn less gas, and the air will be cleaner for people and animals.",
+            "vi": "Vì sao những điều này lại quan trọng? Nếu nhà mình dùng ít điện hơn, nhà máy điện sẽ đốt ít khí đốt hơn, và không khí sẽ sạch hơn cho cả người lẫn động vật."
+          }
+        },
+        {
+          "n": 17,
+          "para": 14,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Next month, Mom will check the electric bill.",
+            "vi": "Tháng sau, mẹ sẽ xem hoá đơn tiền điện."
+          }
+        },
+        {
+          "n": 18,
+          "para": 14,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If it is lower, she will take us to the City Zoo. I'm already counting the lights!",
+            "vi": "Nếu hoá đơn thấp hơn, mẹ sẽ đưa cả nhà đi Vườn thú Thành phố. Em đang đếm từng cái đèn rồi đây!"
+          }
+        }
+      ],
+      "content_ja": "My Green Home Project\n\nFor my class project, I asked one question: how can my family save energy and water? Then I put five rules on the fridge.\n\n1. If you leave a room, turn off the light.\n\nDad often forgets his desk lamp, so he already has three yellow cards!\n\n2. Unplug chargers and the TV in order to save power.\n\nIf a charger stays in the wall, it still uses a little power. Trevor isn't happy: now he has to unplug the TV after every game.\n\n3. Take shorter showers.\n\nTracy usually sings in the shower for twenty minutes. Now it's only two songs.\n\n4. Dry the clothes outside.\n\nIf the sun shines, they dry for free, and they smell like fresh air. Mom loves this rule, but Biscuit loves it more: he has pulled Dad's socks off the line twice!\n\n5. Open the windows before you turn on the air conditioner.\n\nIn April, the ocean breeze is cool in the evening.\n\nWhy does all this matter? If we use less power, power stations will burn less gas, and the air will be cleaner for people and animals.\n\nNext month, Mom will check the electric bill. If it is lower, she will take us to the City Zoo. I'm already counting the lights!",
+      "translation_vn": "(1) Dự án Ngôi nhà xanh của em\n(2) Trong dự án của lớp, em đặt ra một câu hỏi: nhà em có thể tiết kiệm năng lượng và nước bằng cách nào?\n(3) Rồi em dán năm quy tắc lên tủ lạnh.\n(4) 1. Nếu ra khỏi phòng, hãy tắt đèn.\n(5) Bố hay quên tắt cái đèn bàn, nên bố đã ăn ba chiếc thẻ vàng rồi!\n(6) 2. Rút sạc và ti vi ra khỏi ổ cắm để tiết kiệm điện.\n(7) Nếu cục sạc vẫn cắm trong ổ, nó vẫn tốn một chút điện.\n(8) Trevor chẳng vui chút nào: giờ chơi game xong lần nào anh ấy cũng phải rút điện ti vi.\n(9) 3. Tắm nhanh hơn.\n(10) Chị Tracy thường vừa tắm vừa hát suốt hai mươi phút. Giờ chỉ còn hai bài thôi.\n(11) 4. Phơi quần áo ngoài trời.\n(12) Nếu trời nắng, quần áo khô mà chẳng tốn đồng nào, lại còn thơm mùi không khí trong lành.\n(13) Mẹ rất thích quy tắc này, nhưng Biscuit còn thích hơn: nó đã hai lần giật tất của bố khỏi dây phơi!\n(14) 5. Mở cửa sổ trước khi bật máy điều hoà.\n(15) Vào tháng Tư, buổi tối gió biển thổi vào mát rượi.\n(16) Vì sao những điều này lại quan trọng? Nếu nhà mình dùng ít điện hơn, nhà máy điện sẽ đốt ít khí đốt hơn, và không khí sẽ sạch hơn cho cả người lẫn động vật.\n(17) Tháng sau, mẹ sẽ xem hoá đơn tiền điện.\n(18) Nếu hoá đơn thấp hơn, mẹ sẽ đưa cả nhà đi Vườn thú Thành phố. Em đang đếm từng cái đèn rồi đây!",
+      "word_count": 210,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.37",
+        "a2.38",
+        "a2.39",
+        "a2.40"
+      ]
+    },
+    {
+      "id": "passage_u10_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Tờ thông tin an toàn khi có động đất và cháy rừng ở California"
+      },
+      "narrator": "announcer",
+      "title": "Be Ready, San Diego!",
+      "category": "notice",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 110,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Be Ready, San Diego! Earthquake and Wildfire Safety",
+            "vi": "Hãy sẵn sàng, San Diego! An toàn khi có động đất và cháy rừng"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In California, an earthquake can happen at any time, and a wildfire can start on any dry, windy day.",
+            "vi": "Ở California, động đất có thể xảy ra bất cứ lúc nào, và cháy rừng có thể bùng lên vào bất kỳ ngày khô, nhiều gió nào."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If you know what to do, you will stay safe.",
+            "vi": "Nếu bạn biết phải làm gì, bạn sẽ giữ được an toàn."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "During an Earthquake",
+            "vi": "Khi đang có động đất"
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Drop, Cover, and Hold On: drop to your hands and knees, cover your head and neck with your arms or get under a strong table, and hold on until the shaking stops.",
+            "vi": "Cúi xuống, Che chắn, và Bám chặt: quỳ xuống chống hai tay, lấy tay che đầu và gáy hoặc chui xuống gầm một cái bàn chắc chắn, rồi bám chặt cho tới khi hết rung."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Stay away from windows, because glass can break, and don't run outside during the shaking.",
+            "vi": "Tránh xa cửa sổ, vì kính có thể vỡ, và đừng chạy ra ngoài khi đang rung."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If you are in bed, stay there and cover your head with a pillow.",
+            "vi": "Nếu bạn đang nằm trên giường, hãy cứ ở đó và lấy gối che đầu."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If you are outside, move away from buildings, trees, and power lines.",
+            "vi": "Nếu bạn đang ở ngoài trời, hãy tránh xa nhà cửa, cây cối và đường dây điện."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After a big earthquake, smaller ones may follow, so be careful.",
+            "vi": "Sau một trận động đất lớn, có thể còn những trận nhỏ hơn tiếp theo, nên hãy cẩn thận."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Wildfires",
+            "vi": "Cháy rừng"
+          }
+        },
+        {
+          "n": 11,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Pack an emergency bag in order to leave quickly: water, food for three days, medicine, a flashlight, batteries, a phone charger, masks, and food for your pets.",
+            "vi": "Chuẩn bị sẵn một túi khẩn cấp để có thể đi ngay: nước, đồ ăn đủ ba ngày, thuốc, đèn pin, pin, sạc điện thoại, khẩu trang và đồ ăn cho thú cưng."
+          }
+        },
+        {
+          "n": 12,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Get emergency messages on your phone.",
+            "vi": "Đăng ký nhận tin nhắn cảnh báo khẩn cấp trên điện thoại."
+          }
+        },
+        {
+          "n": 13,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If firefighters tell you to leave, go right away; don't wait for the flames.",
+            "vi": "Nếu lính cứu hoả bảo bạn rời đi, hãy đi ngay lập tức; đừng đợi tới khi thấy lửa."
+          }
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If there is smoke in the air, stay inside and close the windows.",
+            "vi": "Nếu có khói trong không khí, hãy ở trong nhà và đóng cửa sổ."
+          }
+        },
+        {
+          "n": 15,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A house can burn down in minutes, but people survive when they leave early.",
+            "vi": "Một ngôi nhà có thể cháy rụi trong vài phút, nhưng con người sống sót khi họ rời đi sớm."
+          }
+        },
+        {
+          "n": 16,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Your things are not the most important. You are.",
+            "vi": "Đồ đạc của bạn không phải thứ quan trọng nhất. Bạn mới là thứ quan trọng nhất."
+          }
+        },
+        {
+          "n": 17,
+          "para": 10,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "San Diego Fire Department",
+            "vi": "Sở Cứu hoả San Diego"
+          }
+        }
+      ],
+      "content_ja": "Be Ready, San Diego! Earthquake and Wildfire Safety\n\nIn California, an earthquake can happen at any time, and a wildfire can start on any dry, windy day. If you know what to do, you will stay safe.\n\nDuring an Earthquake\n\nDrop, Cover, and Hold On: drop to your hands and knees, cover your head and neck with your arms or get under a strong table, and hold on until the shaking stops. Stay away from windows, because glass can break, and don't run outside during the shaking.\n\nIf you are in bed, stay there and cover your head with a pillow. If you are outside, move away from buildings, trees, and power lines. After a big earthquake, smaller ones may follow, so be careful.\n\nWildfires\n\nPack an emergency bag in order to leave quickly: water, food for three days, medicine, a flashlight, batteries, a phone charger, masks, and food for your pets.\n\nGet emergency messages on your phone. If firefighters tell you to leave, go right away; don't wait for the flames. If there is smoke in the air, stay inside and close the windows.\n\nA house can burn down in minutes, but people survive when they leave early. Your things are not the most important. You are.\n\nSan Diego Fire Department",
+      "translation_vn": "(1) Hãy sẵn sàng, San Diego! An toàn khi có động đất và cháy rừng\n(2) Ở California, động đất có thể xảy ra bất cứ lúc nào, và cháy rừng có thể bùng lên vào bất kỳ ngày khô, nhiều gió nào.\n(3) Nếu bạn biết phải làm gì, bạn sẽ giữ được an toàn.\n(4) Khi đang có động đất\n(5) Cúi xuống, Che chắn, và Bám chặt: quỳ xuống chống hai tay, lấy tay che đầu và gáy hoặc chui xuống gầm một cái bàn chắc chắn, rồi bám chặt cho tới khi hết rung.\n(6) Tránh xa cửa sổ, vì kính có thể vỡ, và đừng chạy ra ngoài khi đang rung.\n(7) Nếu bạn đang nằm trên giường, hãy cứ ở đó và lấy gối che đầu.\n(8) Nếu bạn đang ở ngoài trời, hãy tránh xa nhà cửa, cây cối và đường dây điện.\n(9) Sau một trận động đất lớn, có thể còn những trận nhỏ hơn tiếp theo, nên hãy cẩn thận.\n(10) Cháy rừng\n(11) Chuẩn bị sẵn một túi khẩn cấp để có thể đi ngay: nước, đồ ăn đủ ba ngày, thuốc, đèn pin, pin, sạc điện thoại, khẩu trang và đồ ăn cho thú cưng.\n(12) Đăng ký nhận tin nhắn cảnh báo khẩn cấp trên điện thoại.\n(13) Nếu lính cứu hoả bảo bạn rời đi, hãy đi ngay lập tức; đừng đợi tới khi thấy lửa.\n(14) Nếu có khói trong không khí, hãy ở trong nhà và đóng cửa sổ.\n(15) Một ngôi nhà có thể cháy rụi trong vài phút, nhưng con người sống sót khi họ rời đi sớm.\n(16) Đồ đạc của bạn không phải thứ quan trọng nhất. Bạn mới là thứ quan trọng nhất.\n(17) Sở Cứu hoả San Diego",
+      "word_count": 212,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.37",
+        "a2.38",
+        "a2.39",
+        "a2.40"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u10_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u10_01",
+      "i18n": {
+        "en": "Why does Dad have three yellow cards from Tina?",
+        "vi": "Vì sao bố đã ăn ba chiếc thẻ vàng của Tina?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He took a long shower.",
+            "vi": "Bố tắm quá lâu."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He took a long shower.",
+          "text_translation": "Bố tắm quá lâu."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He turned on the air conditioner.",
+            "vi": "Bố bật máy điều hoà."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He turned on the air conditioner.",
+          "text_translation": "Bố bật máy điều hoà."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He often forgets the lamp on his desk.",
+            "vi": "Bố hay quên tắt đèn trên bàn làm việc."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "He often forgets the lamp on his desk.",
+          "text_translation": "Bố hay quên tắt đèn trên bàn làm việc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He left his charger in the wall.",
+            "vi": "Bố để cục sạc cắm trong ổ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He left his charger in the wall.",
+          "text_translation": "Bố để cục sạc cắm trong ổ."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Dad often forgets his desk lamp, so he already has three yellow cards!\" Chữ \"so\" nối nguyên nhân (quên đèn) với kết quả (bị thẻ vàng). Người tắm lâu là Tracy. Máy điều hoà và cục sạc là quy tắc 5 và quy tắc 2, bài không nói bố vi phạm hai quy tắc này."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Phương án nhiễu lấy chuyện của quy tắc khác hoặc người khác. Tìm đúng câu có tên người được hỏi (Dad), rồi đọc phần trước chữ so."
+      },
+      "question_jp": "Why does Dad have three yellow cards from Tina?",
+      "question_vn": "Vì sao bố đã ăn ba chiếc thẻ vàng của Tina?",
+      "explanation": "\"Dad often forgets his desk lamp, so he already has three yellow cards!\" Chữ \"so\" nối nguyên nhân (quên đèn) với kết quả (bị thẻ vàng). Người tắm lâu là Tracy. Máy điều hoà và cục sạc là quy tắc 5 và quy tắc 2, bài không nói bố vi phạm hai quy tắc này.",
+      "tip": "Phương án nhiễu lấy chuyện của quy tắc khác hoặc người khác. Tìm đúng câu có tên người được hỏi (Dad), rồi đọc phần trước chữ so."
+    },
+    {
+      "id": "q_u10_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u10_01",
+      "i18n": {
+        "en": "Why should the family unplug chargers and the TV?",
+        "vi": "Vì sao nhà Carter nên rút sạc và ti vi ra khỏi ổ cắm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in order to save power",
+            "vi": "để tiết kiệm điện"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "in order to save power",
+          "text_translation": "để tiết kiệm điện"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "in order to stop Trevor's games",
+            "vi": "để Trevor thôi chơi game"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "in order to stop Trevor's games",
+          "text_translation": "để Trevor thôi chơi game"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "in order to keep the phones safe",
+            "vi": "để giữ an toàn cho điện thoại"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "in order to keep the phones safe",
+          "text_translation": "để giữ an toàn cho điện thoại"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "in order to make the air cooler",
+            "vi": "để không khí mát hơn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "in order to make the air cooler",
+          "text_translation": "để không khí mát hơn"
+        }
+      ],
+      "evidence_segments": [
+        6,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"Unplug chargers and the TV in order to save power.\" Lý do được giải thích ngay sau: \"If a charger stays in the wall, it still uses a little power.\" Trevor phải rút điện ti vi sau mỗi ván game là hệ quả của quy tắc, không phải mục đích. Bài không nói gì về an toàn cho điện thoại. Không khí mát hơn là chuyện mở cửa sổ ở quy tắc 5."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "in order to + động từ = để (làm gì): chỉ mục đích. Câu hỏi Why should …? thường có đáp án ngay sau in order to."
+      },
+      "question_jp": "Why should the family unplug chargers and the TV?",
+      "question_vn": "Vì sao nhà Carter nên rút sạc và ti vi ra khỏi ổ cắm?",
+      "explanation": "\"Unplug chargers and the TV in order to save power.\" Lý do được giải thích ngay sau: \"If a charger stays in the wall, it still uses a little power.\" Trevor phải rút điện ti vi sau mỗi ván game là hệ quả của quy tắc, không phải mục đích. Bài không nói gì về an toàn cho điện thoại. Không khí mát hơn là chuyện mở cửa sổ ở quy tắc 5.",
+      "tip": "in order to + động từ = để (làm gì): chỉ mục đích. Câu hỏi Why should …? thường có đáp án ngay sau in order to."
+    },
+    {
+      "id": "q_u10_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u10_01",
+      "i18n": {
+        "en": "Why does Tracy sing only two songs in the shower now?",
+        "vi": "Vì sao bây giờ Tracy chỉ hát hai bài khi tắm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She doesn't like singing anymore.",
+            "vi": "Cô ấy không còn thích hát nữa."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She doesn't like singing anymore.",
+          "text_translation": "Cô ấy không còn thích hát nữa."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Trevor asked her to be quiet.",
+            "vi": "Trevor bảo cô ấy im lặng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Trevor asked her to be quiet.",
+          "text_translation": "Trevor bảo cô ấy im lặng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The water is too cold.",
+            "vi": "Nước quá lạnh."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The water is too cold.",
+          "text_translation": "Nước quá lạnh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is trying to take a shorter shower.",
+            "vi": "Cô ấy đang cố tắm nhanh hơn."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She is trying to take a shorter shower.",
+          "text_translation": "Cô ấy đang cố tắm nhanh hơn."
+        }
+      ],
+      "evidence_segments": [
+        9,
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không nói thẳng lý do, nhưng ta suy ra được. Câu này nằm ngay dưới quy tắc 3 \"Take shorter showers.\" Trước đây Tracy \"sings in the shower for twenty minutes\", giờ \"only two songs\": hát ít bài hơn nghĩa là đứng dưới vòi sen ít thời gian hơn. Cô vẫn hát, nên không phải hết thích hát. Bài không nhắc Trevor bảo chị im lặng hay nước bị lạnh."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận: xem câu đó nằm dưới tiêu đề nào. Ở dạng bài liệt kê quy tắc, chi tiết bên dưới thường là ví dụ cho chính quy tắc đó."
+      },
+      "question_jp": "Why does Tracy sing only two songs in the shower now?",
+      "question_vn": "Vì sao bây giờ Tracy chỉ hát hai bài khi tắm?",
+      "explanation": "Bài không nói thẳng lý do, nhưng ta suy ra được. Câu này nằm ngay dưới quy tắc 3 \"Take shorter showers.\" Trước đây Tracy \"sings in the shower for twenty minutes\", giờ \"only two songs\": hát ít bài hơn nghĩa là đứng dưới vòi sen ít thời gian hơn. Cô vẫn hát, nên không phải hết thích hát. Bài không nhắc Trevor bảo chị im lặng hay nước bị lạnh.",
+      "tip": "Câu suy luận: xem câu đó nằm dưới tiêu đề nào. Ở dạng bài liệt kê quy tắc, chi tiết bên dưới thường là ví dụ cho chính quy tắc đó."
+    },
+    {
+      "id": "q_u10_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u10_01",
+      "i18n": {
+        "en": "What does \"they\" mean in \"they dry for free, and they smell like fresh air\"?",
+        "vi": "Trong câu \"they dry for free, and they smell like fresh air\", \"they\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Dad's socks only",
+            "vi": "chỉ đôi tất của bố"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Dad's socks only",
+          "text_translation": "chỉ đôi tất của bố"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the clothes",
+            "vi": "quần áo"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "the clothes",
+          "text_translation": "quần áo"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the windows",
+            "vi": "các cửa sổ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the windows",
+          "text_translation": "các cửa sổ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Mom and Biscuit",
+            "vi": "mẹ và Biscuit"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Mom and Biscuit",
+          "text_translation": "mẹ và Biscuit"
+        }
+      ],
+      "evidence_segments": [
+        11,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề ngay trước là \"Dry the clothes outside.\", rồi tới \"If the sun shines, they dry for free, and they smell like fresh air.\" Thứ được phơi khô và thơm mùi không khí là quần áo. Đôi tất của bố chỉ xuất hiện ở câu sau, và chỉ là một phần của quần áo. Cửa sổ thuộc quy tắc 5. Mẹ và Biscuit không \"dry\" (khô) trên dây phơi."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Đại từ they thường chỉ danh từ số nhiều ở câu ngay trước. Thay thử từng phương án vào chỗ they xem câu có nghĩa không."
+      },
+      "question_jp": "What does \"they\" mean in \"they dry for free, and they smell like fresh air\"?",
+      "question_vn": "Trong câu \"they dry for free, and they smell like fresh air\", \"they\" chỉ cái gì?",
+      "explanation": "Tiêu đề ngay trước là \"Dry the clothes outside.\", rồi tới \"If the sun shines, they dry for free, and they smell like fresh air.\" Thứ được phơi khô và thơm mùi không khí là quần áo. Đôi tất của bố chỉ xuất hiện ở câu sau, và chỉ là một phần của quần áo. Cửa sổ thuộc quy tắc 5. Mẹ và Biscuit không \"dry\" (khô) trên dây phơi.",
+      "tip": "Đại từ they thường chỉ danh từ số nhiều ở câu ngay trước. Thay thử từng phương án vào chỗ they xem câu có nghĩa không."
+    },
+    {
+      "id": "q_u10_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u10_01",
+      "i18n": {
+        "en": "How does Tina probably feel at the end of her report?",
+        "vi": "Nhiều khả năng cuối bài Tina cảm thấy thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "bored with the project",
+            "vi": "chán dự án"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "bored with the project",
+          "text_translation": "chán dự án"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "angry with her brother",
+            "vi": "giận anh trai"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "angry with her brother",
+          "text_translation": "giận anh trai"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "excited about the zoo trip",
+            "vi": "háo hức mong được đi sở thú"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "excited about the zoo trip",
+          "text_translation": "háo hức mong được đi sở thú"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "worried about the electric bill",
+            "vi": "lo lắng về hoá đơn tiền điện"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "worried about the electric bill",
+          "text_translation": "lo lắng về hoá đơn tiền điện"
+        }
+      ],
+      "evidence_segments": [
+        17,
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "Bài không có chữ excited, nhưng ta suy ra được. Mẹ hứa \"If it is lower, she will take us to the City Zoo\", và Tina viết \"I'm already counting the lights!\": em đã bắt đầu đếm từng cái đèn, tức là rất muốn hoá đơn giảm để được đi sở thú (Tina lại rất thích động vật). Em đang hăng hái nên không chán. Người không vui là Trevor, còn Tina không hề giận anh. Em mong hoá đơn thấp chứ không tỏ ra lo lắng."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "already = đã … rồi, sớm hơn người ta nghĩ. I'm already counting… cho thấy người nói đã bắt tay vào làm ngay: dấu hiệu của sự háo hức."
+      },
+      "question_jp": "How does Tina probably feel at the end of her report?",
+      "question_vn": "Nhiều khả năng cuối bài Tina cảm thấy thế nào?",
+      "explanation": "Bài không có chữ excited, nhưng ta suy ra được. Mẹ hứa \"If it is lower, she will take us to the City Zoo\", và Tina viết \"I'm already counting the lights!\": em đã bắt đầu đếm từng cái đèn, tức là rất muốn hoá đơn giảm để được đi sở thú (Tina lại rất thích động vật). Em đang hăng hái nên không chán. Người không vui là Trevor, còn Tina không hề giận anh. Em mong hoá đơn thấp chứ không tỏ ra lo lắng.",
+      "tip": "already = đã … rồi, sớm hơn người ta nghĩ. I'm already counting… cho thấy người nói đã bắt tay vào làm ngay: dấu hiệu của sự háo hức."
+    },
+    {
+      "id": "q_u10_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u10_02",
+      "i18n": {
+        "en": "What is the main purpose of the flyer?",
+        "vi": "Mục đích chính của tờ thông tin là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to tell people how to stay safe in an earthquake or a wildfire",
+            "vi": "chỉ cho mọi người cách giữ an toàn khi có động đất hoặc cháy rừng"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to tell people how to stay safe in an earthquake or a wildfire",
+          "text_translation": "chỉ cho mọi người cách giữ an toàn khi có động đất hoặc cháy rừng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to explain why earthquakes happen in California",
+            "vi": "giải thích vì sao ở California có động đất"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to explain why earthquakes happen in California",
+          "text_translation": "giải thích vì sao ở California có động đất"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to ask people to work for the fire department",
+            "vi": "kêu gọi mọi người vào làm cho sở cứu hoả"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to ask people to work for the fire department",
+          "text_translation": "kêu gọi mọi người vào làm cho sở cứu hoả"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to sell emergency bags and face masks",
+            "vi": "bán túi khẩn cấp và khẩu trang"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to sell emergency bags and face masks",
+          "text_translation": "bán túi khẩn cấp và khẩu trang"
+        }
+      ],
+      "evidence_segments": [
+        1,
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "Tiêu đề là \"Earthquake and Wildfire Safety\", và câu mở bài viết \"If you know what to do, you will stay safe.\" Phần còn lại là các việc nên làm. Câu \"an earthquake can happen at any time\" chỉ nói động đất có thể xảy ra, không giải thích vì sao. Bài không tuyển người, cũng không bán túi hay khẩu trang: chỉ khuyên bạn tự chuẩn bị."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Mục đích của tờ thông báo: đọc tiêu đề và câu mở đầu. Phương án nhắc một chi tiết nhỏ (túi khẩn cấp, khẩu trang) là phương án nhiễu."
+      },
+      "question_jp": "What is the main purpose of the flyer?",
+      "question_vn": "Mục đích chính của tờ thông tin là gì?",
+      "explanation": "Tiêu đề là \"Earthquake and Wildfire Safety\", và câu mở bài viết \"If you know what to do, you will stay safe.\" Phần còn lại là các việc nên làm. Câu \"an earthquake can happen at any time\" chỉ nói động đất có thể xảy ra, không giải thích vì sao. Bài không tuyển người, cũng không bán túi hay khẩu trang: chỉ khuyên bạn tự chuẩn bị.",
+      "tip": "Mục đích của tờ thông báo: đọc tiêu đề và câu mở đầu. Phương án nhắc một chi tiết nhỏ (túi khẩn cấp, khẩu trang) là phương án nhiễu."
+    },
+    {
+      "id": "q_u10_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u10_02",
+      "i18n": {
+        "en": "An earthquake starts at night, and you are in bed. What should you do?",
+        "vi": "Động đất xảy ra vào ban đêm, và bạn đang nằm trên giường. Bạn nên làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Run outside quickly.",
+            "vi": "Chạy nhanh ra ngoài."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Run outside quickly.",
+          "text_translation": "Chạy nhanh ra ngoài."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Go to the window and look out.",
+            "vi": "Ra cửa sổ nhìn ra ngoài."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Go to the window and look out.",
+          "text_translation": "Ra cửa sổ nhìn ra ngoài."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Move away from the trees.",
+            "vi": "Tránh xa cây cối."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Move away from the trees.",
+          "text_translation": "Tránh xa cây cối."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Stay in bed and cover your head with a pillow.",
+            "vi": "Ở yên trên giường và lấy gối che đầu."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Stay in bed and cover your head with a pillow.",
+          "text_translation": "Ở yên trên giường và lấy gối che đầu."
+        }
+      ],
+      "evidence_segments": [
+        6,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"If you are in bed, stay there and cover your head with a pillow.\" Chạy ra ngoài và lại gần cửa sổ là hai điều bài cấm: \"Stay away from windows, because glass can break, and don't run outside during the shaking.\" Tránh xa cây cối là lời khuyên cho người \"outside\" (ở ngoài trời), không phải người đang nằm trên giường."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu điều kiện If you are …, (do) …: tìm đúng vế if khớp với tình huống trong câu hỏi (in bed, outside) rồi đọc vế sau."
+      },
+      "question_jp": "An earthquake starts at night, and you are in bed. What should you do?",
+      "question_vn": "Động đất xảy ra vào ban đêm, và bạn đang nằm trên giường. Bạn nên làm gì?",
+      "explanation": "\"If you are in bed, stay there and cover your head with a pillow.\" Chạy ra ngoài và lại gần cửa sổ là hai điều bài cấm: \"Stay away from windows, because glass can break, and don't run outside during the shaking.\" Tránh xa cây cối là lời khuyên cho người \"outside\" (ở ngoài trời), không phải người đang nằm trên giường.",
+      "tip": "Câu điều kiện If you are …, (do) …: tìm đúng vế if khớp với tình huống trong câu hỏi (in bed, outside) rồi đọc vế sau."
+    },
+    {
+      "id": "q_u10_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u10_02",
+      "i18n": {
+        "en": "Why should people pack an emergency bag?",
+        "vi": "Vì sao mọi người nên chuẩn bị sẵn một túi khẩn cấp?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "in order to feed the firefighters",
+            "vi": "để có đồ ăn cho lính cứu hoả"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "in order to feed the firefighters",
+          "text_translation": "để có đồ ăn cho lính cứu hoả"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "in order to leave quickly",
+            "vi": "để có thể rời đi nhanh"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "in order to leave quickly",
+          "text_translation": "để có thể rời đi nhanh"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "in order to stop the fire",
+            "vi": "để dập lửa"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "in order to stop the fire",
+          "text_translation": "để dập lửa"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "in order to stay inside for three days",
+            "vi": "để ở trong nhà suốt ba ngày"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "in order to stay inside for three days",
+          "text_translation": "để ở trong nhà suốt ba ngày"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"Pack an emergency bag in order to leave quickly: water, food for three days, …\" Mục đích nằm ngay sau \"in order to\". Đồ ăn trong túi là cho bạn và thú cưng, không phải cho lính cứu hoả. Túi không dập được lửa. \"Three days\" là lượng đồ ăn cần mang, không phải số ngày ở trong nhà."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Phương án nhiễu hay lấy một con số thật trong bài (three days) nhưng gắn sai ý. Đọc lại cả cụm: food for three days = đồ ăn đủ ba ngày."
+      },
+      "question_jp": "Why should people pack an emergency bag?",
+      "question_vn": "Vì sao mọi người nên chuẩn bị sẵn một túi khẩn cấp?",
+      "explanation": "\"Pack an emergency bag in order to leave quickly: water, food for three days, …\" Mục đích nằm ngay sau \"in order to\". Đồ ăn trong túi là cho bạn và thú cưng, không phải cho lính cứu hoả. Túi không dập được lửa. \"Three days\" là lượng đồ ăn cần mang, không phải số ngày ở trong nhà.",
+      "tip": "Phương án nhiễu hay lấy một con số thật trong bài (three days) nhưng gắn sai ý. Đọc lại cả cụm: food for three days = đồ ăn đủ ba ngày."
+    },
+    {
+      "id": "q_u10_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u10_02",
+      "i18n": {
+        "en": "Firefighters tell a family to leave, but the family can't see any flames yet. What does the flyer suggest?",
+        "vi": "Lính cứu hoả bảo một gia đình rời đi, nhưng gia đình chưa thấy ngọn lửa nào. Tờ thông tin gợi ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They should leave right away.",
+            "vi": "Họ nên rời đi ngay."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "They should leave right away.",
+          "text_translation": "Họ nên rời đi ngay."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They should wait and watch for the flames.",
+            "vi": "Họ nên chờ xem có lửa không."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They should wait and watch for the flames.",
+          "text_translation": "Họ nên chờ xem có lửa không."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They should stay inside and close the windows.",
+            "vi": "Họ nên ở trong nhà và đóng cửa sổ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They should stay inside and close the windows.",
+          "text_translation": "Họ nên ở trong nhà và đóng cửa sổ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They should pack their things first, then decide.",
+            "vi": "Họ nên xếp đồ trước rồi mới quyết định."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They should pack their things first, then decide.",
+          "text_translation": "Họ nên xếp đồ trước rồi mới quyết định."
+        }
+      ],
+      "evidence_segments": [
+        13,
+        15,
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "Tờ thông tin không nói thẳng về tình huống này, nhưng ta suy ra được. \"If firefighters tell you to leave, go right away; don't wait for the flames.\" Câu cuối còn nhấn mạnh \"people survive when they leave early\" và \"Your things are not the most important. You are.\" Vậy không thấy lửa vẫn phải đi ngay. Chờ xem lửa là điều bài cấm. Ở trong nhà, đóng cửa sổ là lời khuyên khi có khói, không phải khi có lệnh sơ tán. Túi khẩn cấp phải chuẩn bị TỪ TRƯỚC để đi được ngay, không phải lúc đó mới xếp đồ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu suy luận dạng áp dụng: tìm lời khuyên khớp với tình huống, rồi kiểm tra câu kết bài. Câu kết thường nhắc lại ý quan trọng nhất."
+      },
+      "question_jp": "Firefighters tell a family to leave, but the family can't see any flames yet. What does the flyer suggest?",
+      "question_vn": "Lính cứu hoả bảo một gia đình rời đi, nhưng gia đình chưa thấy ngọn lửa nào. Tờ thông tin gợi ý điều gì?",
+      "explanation": "Tờ thông tin không nói thẳng về tình huống này, nhưng ta suy ra được. \"If firefighters tell you to leave, go right away; don't wait for the flames.\" Câu cuối còn nhấn mạnh \"people survive when they leave early\" và \"Your things are not the most important. You are.\" Vậy không thấy lửa vẫn phải đi ngay. Chờ xem lửa là điều bài cấm. Ở trong nhà, đóng cửa sổ là lời khuyên khi có khói, không phải khi có lệnh sơ tán. Túi khẩn cấp phải chuẩn bị TỪ TRƯỚC để đi được ngay, không phải lúc đó mới xếp đồ.",
+      "tip": "Câu suy luận dạng áp dụng: tìm lời khuyên khớp với tình huống, rồi kiểm tra câu kết bài. Câu kết thường nhắc lại ý quan trọng nhất."
+    },
+    {
+      "id": "q_u10_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u10_02",
+      "i18n": {
+        "en": "In \"smaller ones may follow\", what does \"follow\" mean?",
+        "vi": "Trong câu \"smaller ones may follow\", \"follow\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "go behind a person",
+            "vi": "đi theo sau một người"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "go behind a person",
+          "text_translation": "đi theo sau một người"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "happen before",
+            "vi": "xảy ra trước"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "happen before",
+          "text_translation": "xảy ra trước"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "stop the shaking",
+            "vi": "làm hết rung"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "stop the shaking",
+          "text_translation": "làm hết rung"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "come after",
+            "vi": "đến sau, xảy ra tiếp theo"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "come after",
+          "text_translation": "đến sau, xảy ra tiếp theo"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"After a big earthquake, smaller ones may follow, so be careful.\" Cụm \"After a big earthquake\" (sau một trận động đất lớn) cho thấy những trận nhỏ hơn có thể xảy ra SAU trận chính. Ở đây follow không có nghĩa đi theo một người. \"Happen before\" thì ngược nghĩa. Động đất nhỏ không làm hết rung, mà lại gây rung thêm."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Từ nhiều nghĩa: chọn nghĩa hợp ngữ cảnh. Tìm từ gợi ý thời gian quanh đó (after, then, later)."
+      },
+      "question_jp": "In \"smaller ones may follow\", what does \"follow\" mean?",
+      "question_vn": "Trong câu \"smaller ones may follow\", \"follow\" nghĩa là gì?",
+      "explanation": "\"After a big earthquake, smaller ones may follow, so be careful.\" Cụm \"After a big earthquake\" (sau một trận động đất lớn) cho thấy những trận nhỏ hơn có thể xảy ra SAU trận chính. Ở đây follow không có nghĩa đi theo một người. \"Happen before\" thì ngược nghĩa. Động đất nhỏ không làm hết rung, mà lại gây rung thêm.",
+      "tip": "Từ nhiều nghĩa: chọn nghĩa hợp ngữ cảnh. Tìm từ gợi ý thời gian quanh đó (after, then, later)."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u10_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Dự án lớp 3 của Tina: tiết kiệm năng lượng và nước ở nhà Carter",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u10_01",
+      "question_ids": [
+        "q_u10_001",
+        "q_u10_002",
+        "q_u10_003",
+        "q_u10_004",
+        "q_u10_005"
+      ]
+    },
+    {
+      "set_id": "set_u10_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Tờ thông tin an toàn khi có động đất và cháy rừng ở California",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u10_02",
+      "question_ids": [
+        "q_u10_006",
+        "q_u10_007",
+        "q_u10_008",
+        "q_u10_009",
+        "q_u10_010"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1275 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Unit 2 — Travel experiences",
+      "vi": "Trải nghiệm du lịch"
+    },
+    "title": "Unit 2 — Travel experiences",
+    "title_vn": "Trải nghiệm du lịch",
+    "module_code": "57_u02",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "A2",
+    "curriculum_unit": "a2.u02",
+    "curriculum_sheets": [
+      "a2.05",
+      "a2.06",
+      "a2.07",
+      "a2.08"
+    ],
+    "characters": [
+      "Tracy Carter",
+      "Mitchell Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 10, năm 2 (Tracy học lớp 12 năm cuối, đi thăm một trường đại học ở Washington; chưa biết có đỗ hay không)"
+    },
+    "total_passages": 2,
+    "total_questions": 10,
+    "focus": "Tương lai tiếp diễn, động từ + giới từ, từ chỉ trình tự, What a…!; nghĩa cụm từ trong ngữ cảnh, quy chiếu one, tính giờ, áp quy định vào nhân vật (nối hai bài)",
+    "description_vn": "Tracy ghi chép chuyến bay cùng bố từ San Diego tới Washington để thăm một trường đại học: va li quá cân, chuyến bay hoãn hai tiếng; bài 2 là bảng giờ bay, thông báo hoãn chuyến và quy định an ninh, hành lý ở sân bay San Diego. 2 bài đọc × 5 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 2 khoá A2 · phiếu `a2.05` – `a2.08` (đặt chuyến đi, ở sân bay, rắc rối khi đi du lịch, bưu thiếp kỳ nghỉ)."
+    },
+    "objective_i18n": {
+      "vi": "đọc sổ ghi chép của Tracy trong chuyến bay đi Washington thăm trường đại học, và bảng giờ bay cùng thông báo ở sân bay San Diego; hiểu thì tương lai tiếp diễn (will be walking), động từ + giới từ (worry about, wait at, speak to), từ chỉ trình tự (first, then, finally) và câu cảm thán What a…!; đoán nghĩa cụm từ trong ngữ cảnh, tính giờ từ thông báo, và áp quy định ở bài thông báo vào nhân vật ở bài kia."
+    },
+    "extra_words": [
+      {
+        "word": "university",
+        "i18n": {
+          "vi": "trường đại học"
+        }
+      },
+      {
+        "word": "engineering",
+        "i18n": {
+          "vi": "ngành kỹ thuật"
+        }
+      },
+      {
+        "word": "limit",
+        "i18n": {
+          "vi": "giới hạn, mức tối đa"
+        }
+      },
+      {
+        "word": "pound",
+        "i18n": {
+          "vi": "pao (đơn vị cân nặng của Mỹ, khoảng 0,45 kg)"
+        }
+      },
+      {
+        "word": "charger",
+        "i18n": {
+          "vi": "cục sạc"
+        }
+      },
+      {
+        "word": "security",
+        "i18n": {
+          "vi": "an ninh; khu kiểm tra an ninh ở sân bay"
+        }
+      },
+      {
+        "word": "liquid",
+        "i18n": {
+          "vi": "chất lỏng"
+        }
+      },
+      {
+        "word": "ounce",
+        "i18n": {
+          "vi": "ao-xơ (đơn vị của Mỹ; 3,4 ao-xơ khoảng 100 ml)"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "travel on a budget",
+          "vi": "đi du lịch tiết kiệm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "book a flight",
+          "vi": "đặt vé máy bay"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a delay of two hours",
+          "vi": "hoãn hai tiếng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "an aisle seat",
+          "vi": "ghế cạnh lối đi"
+        }
+      },
+      {
+        "i18n": {
+          "en": "hand luggage",
+          "vi": "hành lý xách tay"
+        }
+      },
+      {
+        "i18n": {
+          "en": "worry about (something)",
+          "vi": "lo lắng về (điều gì)"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Nhật ký chia theo ngày (Monday, Friday): mỗi việc thuộc về ngày nào thì xem dòng tiêu đề ngay trên nó. Câu hỏi về thời gian thường đặt phương án nhiễu là việc của ngày khác."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Từ chỉ trình tự `first` → `then` → `after (security)` → `finally` đứng đầu câu. Gạch chân chúng là thấy ngay thứ tự các việc."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`will be + V-ing` (will be walking) nói một việc **sẽ đang diễn ra** vào một mốc giờ ở tương lai. Câu hỏi có `will … be doing` thì tìm đúng mốc giờ đó."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài thông báo hay bắt bạn **tính**: giờ bay trừ số phút đóng cổng, cân nặng so với mức tối đa. Đọc kỹ các con số và đơn vị (`fifteen minutes before`, `up to fifty pounds`)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi về tính cách hay cảm xúc (`tell us about`, `How did … feel?`) cần gom các chi tiết: ai lo (`I was worried`), ai bình thản (`Dad just smiled`), ai chuẩn bị kỹ."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u02_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 — Sổ ghi chép chuyến đi của Tracy"
+      },
+      "narrator": "Tracy",
+      "title": "Tracy's Travel Notes",
+      "category": "story",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 100,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tracy's Travel Notes",
+            "vi": "Sổ ghi chép chuyến đi của Tracy"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Monday",
+            "vi": "Thứ Hai"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tonight Dad and I booked a Friday flight to Washington, with a fare of only ninety-nine dollars, because Dad likes to travel on a budget.",
+            "vi": "Tối nay bố và mình đặt một chuyến bay thứ Sáu đi Washington, giá vé chỉ chín mươi chín đô, vì bố thích đi du lịch tiết kiệm."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On Saturday we will visit a university with a great engineering school.",
+            "vi": "Thứ Bảy, hai bố con sẽ đi thăm một trường đại học có khoa kỹ thuật rất giỏi."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Their answer will come in the spring, so I try not to think about it.",
+            "vi": "Phải tới mùa xuân trường mới trả lời có nhận mình hay không, nên mình cố không nghĩ tới chuyện đó."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Friday, at the airport",
+            "vi": "Thứ Sáu, ở sân bay"
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "First, we left home at half past four, because I always worry about being late.",
+            "vi": "Đầu tiên, hai bố con ra khỏi nhà lúc bốn rưỡi sáng, vì lúc nào mình cũng lo bị trễ."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then a woman at the desk weighed my suitcase: fifty-two pounds, over the limit!",
+            "vi": "Sau đó, một cô ở quầy cân va li của mình: năm mươi hai pao, quá giới hạn!"
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I moved three books into Dad's bag.",
+            "vi": "Mình chuyển ba cuốn sách sang túi của bố."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After security, we got the news at Gate twenty-three: a delay of two hours.",
+            "vi": "Qua cửa an ninh xong, tới Cổng hai mươi ba thì hai bố con nhận được tin: chuyến bay bị hoãn hai tiếng."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What a start!",
+            "vi": "Mở màn thế đấy!"
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I was worried, but Dad just smiled and told me about his first flight thirty years ago.",
+            "vi": "Mình thì lo, nhưng bố chỉ mỉm cười và kể cho mình nghe về chuyến bay đầu tiên của bố từ ba mươi năm trước."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He left his phone charger at home, but I had two.",
+            "vi": "Bố để quên sạc điện thoại ở nhà, nhưng mình mang tới hai cái."
+          }
+        },
+        {
+          "n": 14,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Finally, we got on the plane, and I am writing this in my aisle seat.",
+            "vi": "Cuối cùng, hai bố con cũng lên máy bay, và giờ mình đang viết mấy dòng này ở ghế cạnh lối đi."
+          }
+        },
+        {
+          "n": 15,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tomorrow at ten, we will be walking around the university.",
+            "vi": "Mười giờ sáng mai, hai bố con sẽ đang đi một vòng quanh trường đại học."
+          }
+        }
+      ],
+      "content_ja": "Tracy's Travel Notes\n\nMonday\n\nTonight Dad and I booked a Friday flight to Washington, with a fare of only ninety-nine dollars, because Dad likes to travel on a budget. On Saturday we will visit a university with a great engineering school. Their answer will come in the spring, so I try not to think about it.\n\nFriday, at the airport\n\nFirst, we left home at half past four, because I always worry about being late. Then a woman at the desk weighed my suitcase: fifty-two pounds, over the limit! I moved three books into Dad's bag.\n\nAfter security, we got the news at Gate twenty-three: a delay of two hours. What a start! I was worried, but Dad just smiled and told me about his first flight thirty years ago. He left his phone charger at home, but I had two.\n\nFinally, we got on the plane, and I am writing this in my aisle seat. Tomorrow at ten, we will be walking around the university.",
+      "translation_vn": "(1) Sổ ghi chép chuyến đi của Tracy\n(2) Thứ Hai\n(3) Tối nay bố và mình đặt một chuyến bay thứ Sáu đi Washington, giá vé chỉ chín mươi chín đô, vì bố thích đi du lịch tiết kiệm.\n(4) Thứ Bảy, hai bố con sẽ đi thăm một trường đại học có khoa kỹ thuật rất giỏi.\n(5) Phải tới mùa xuân trường mới trả lời có nhận mình hay không, nên mình cố không nghĩ tới chuyện đó.\n(6) Thứ Sáu, ở sân bay\n(7) Đầu tiên, hai bố con ra khỏi nhà lúc bốn rưỡi sáng, vì lúc nào mình cũng lo bị trễ.\n(8) Sau đó, một cô ở quầy cân va li của mình: năm mươi hai pao, quá giới hạn!\n(9) Mình chuyển ba cuốn sách sang túi của bố.\n(10) Qua cửa an ninh xong, tới Cổng hai mươi ba thì hai bố con nhận được tin: chuyến bay bị hoãn hai tiếng.\n(11) Mở màn thế đấy!\n(12) Mình thì lo, nhưng bố chỉ mỉm cười và kể cho mình nghe về chuyến bay đầu tiên của bố từ ba mươi năm trước.\n(13) Bố để quên sạc điện thoại ở nhà, nhưng mình mang tới hai cái.\n(14) Cuối cùng, hai bố con cũng lên máy bay, và giờ mình đang viết mấy dòng này ở ghế cạnh lối đi.\n(15) Mười giờ sáng mai, hai bố con sẽ đang đi một vòng quanh trường đại học.",
+      "word_count": 169,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.05",
+        "a2.06",
+        "a2.07",
+        "a2.08"
+      ]
+    },
+    {
+      "id": "passage_u02_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 — Bảng giờ bay và thông báo ở sân bay San Diego"
+      },
+      "narrator": "announcer",
+      "title": "San Diego Airport: Flights and Notices",
+      "category": "notice",
+      "jlpt_level": "A2",
+      "difficulty": 1,
+      "estimated_reading_time": 100,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "San Diego Airport Today",
+            "vi": "Sân bay San Diego hôm nay"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Flight two-one-four to Washington, seven o'clock, Gate twenty-three: delay, new time nine o'clock.",
+            "vi": "Chuyến bay hai-một-bốn đi Washington, bảy giờ, Cổng hai mươi ba: bị hoãn, giờ mới là chín giờ."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Flight three-three-one to New York, seven forty: on time.",
+            "vi": "Chuyến bay ba-ba-một đi New York, bảy giờ bốn mươi: đúng giờ."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "At Gate Twenty-Three",
+            "vi": "Tại Cổng hai mươi ba"
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Good morning, travelers on Bluebay Air flight two-one-four to Washington.",
+            "vi": "Xin chào quý khách đi chuyến bay hai-một-bốn của hãng Bluebay Air tới Washington."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Because of awful weather on the East Coast, our plane will leave two hours late, at nine o'clock.",
+            "vi": "Do thời tiết rất xấu ở Bờ Đông, máy bay của chúng tôi sẽ cất cánh trễ hai tiếng, vào lúc chín giờ."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Boarding will begin at eight thirty, and the gate will close fifteen minutes before the flight.",
+            "vi": "Việc lên máy bay sẽ bắt đầu lúc tám giờ ba mươi, và cổng sẽ đóng mười lăm phút trước giờ bay."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We are sorry for the trouble, and every traveler will get a free drink on the plane.",
+            "vi": "Chúng tôi thành thật xin lỗi vì sự phiền phức này, và mỗi hành khách sẽ được tặng một đồ uống miễn phí trên máy bay."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Security and Luggage",
+            "vi": "An ninh và hành lý"
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Every adult needs a photo ID card, such as a passport, but children under eighteen on a flight with an adult do not need one.",
+            "vi": "Mỗi người lớn cần một giấy tờ tuỳ thân có ảnh, ví dụ hộ chiếu, nhưng trẻ dưới mười tám tuổi bay cùng một người lớn thì không cần."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In your hand luggage, put all bottles of liquid in one small bag, and each bottle can hold only three point four ounces.",
+            "vi": "Trong hành lý xách tay, hãy để mọi chai lọ đựng chất lỏng vào chung một túi nhỏ, và mỗi chai chỉ được đựng tối đa ba phẩy bốn ao-xơ."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On Bluebay Air, each checked suitcase can weigh up to fifty pounds.",
+            "vi": "Với hãng Bluebay Air, mỗi va li ký gửi được nặng tối đa năm mươi pao."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Never leave your luggage without someone near it.",
+            "vi": "Đừng bao giờ để hành lý của bạn mà không có ai ở bên cạnh."
+          }
+        }
+      ],
+      "content_ja": "San Diego Airport Today\n\nFlight two-one-four to Washington, seven o'clock, Gate twenty-three: delay, new time nine o'clock. Flight three-three-one to New York, seven forty: on time.\n\nAt Gate Twenty-Three\n\nGood morning, travelers on Bluebay Air flight two-one-four to Washington. Because of awful weather on the East Coast, our plane will leave two hours late, at nine o'clock. Boarding will begin at eight thirty, and the gate will close fifteen minutes before the flight. We are sorry for the trouble, and every traveler will get a free drink on the plane.\n\nSecurity and Luggage\n\nEvery adult needs a photo ID card, such as a passport, but children under eighteen on a flight with an adult do not need one. In your hand luggage, put all bottles of liquid in one small bag, and each bottle can hold only three point four ounces. On Bluebay Air, each checked suitcase can weigh up to fifty pounds. Never leave your luggage without someone near it.",
+      "translation_vn": "(1) Sân bay San Diego hôm nay\n(2) Chuyến bay hai-một-bốn đi Washington, bảy giờ, Cổng hai mươi ba: bị hoãn, giờ mới là chín giờ.\n(3) Chuyến bay ba-ba-một đi New York, bảy giờ bốn mươi: đúng giờ.\n(4) Tại Cổng hai mươi ba\n(5) Xin chào quý khách đi chuyến bay hai-một-bốn của hãng Bluebay Air tới Washington.\n(6) Do thời tiết rất xấu ở Bờ Đông, máy bay của chúng tôi sẽ cất cánh trễ hai tiếng, vào lúc chín giờ.\n(7) Việc lên máy bay sẽ bắt đầu lúc tám giờ ba mươi, và cổng sẽ đóng mười lăm phút trước giờ bay.\n(8) Chúng tôi thành thật xin lỗi vì sự phiền phức này, và mỗi hành khách sẽ được tặng một đồ uống miễn phí trên máy bay.\n(9) An ninh và hành lý\n(10) Mỗi người lớn cần một giấy tờ tuỳ thân có ảnh, ví dụ hộ chiếu, nhưng trẻ dưới mười tám tuổi bay cùng một người lớn thì không cần.\n(11) Trong hành lý xách tay, hãy để mọi chai lọ đựng chất lỏng vào chung một túi nhỏ, và mỗi chai chỉ được đựng tối đa ba phẩy bốn ao-xơ.\n(12) Với hãng Bluebay Air, mỗi va li ký gửi được nặng tối đa năm mươi pao.\n(13) Đừng bao giờ để hành lý của bạn mà không có ai ở bên cạnh.",
+      "word_count": 169,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "a2.05",
+        "a2.06",
+        "a2.07",
+        "a2.08"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u02_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "\"Dad likes to travel on a budget.\" What does this mean?",
+        "vi": "\"Dad likes to travel on a budget.\" Câu này nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He likes to travel abroad.",
+            "vi": "Bố thích đi du lịch nước ngoài."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He likes to travel abroad.",
+          "text_translation": "Bố thích đi du lịch nước ngoài."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He does not like to spend a lot of money on a trip.",
+            "vi": "Bố không thích tiêu nhiều tiền cho một chuyến đi."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "He does not like to spend a lot of money on a trip.",
+          "text_translation": "Bố không thích tiêu nhiều tiền cho một chuyến đi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He likes long journeys by car.",
+            "vi": "Bố thích những chuyến đi dài bằng ô tô."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He likes long journeys by car.",
+          "text_translation": "Bố thích những chuyến đi dài bằng ô tô."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He always books an aisle seat.",
+            "vi": "Bố lúc nào cũng đặt ghế cạnh lối đi."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He always books an aisle seat.",
+          "text_translation": "Bố lúc nào cũng đặt ghế cạnh lối đi."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"Tonight Dad and I booked a Friday flight to Washington, with a fare of only ninety-nine dollars, because Dad likes to travel on a budget.\" Hai bố con chọn vé chỉ chín mươi chín đô (\"only ninety-nine dollars\") chính là vì bố muốn đi tiết kiệm, nên \"on a budget\" là tiêu ít tiền. Washington ở ngay trong nước Mỹ, không phải đi nước ngoài. Hai bố con đi máy bay, không đi ô tô. Người ngồi ghế cạnh lối đi là Tracy, và bài không nói bố lúc nào cũng đặt ghế đó."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Gặp cụm lạ, đọc phần đứng trước because: a fare of only ninety-nine dollars (vé chỉ chín mươi chín đô) là lời giải nghĩa cho on a budget."
+      },
+      "question_jp": "\"Dad likes to travel on a budget.\" What does this mean?",
+      "question_vn": "\"Dad likes to travel on a budget.\" Câu này nghĩa là gì?",
+      "explanation": "\"Tonight Dad and I booked a Friday flight to Washington, with a fare of only ninety-nine dollars, because Dad likes to travel on a budget.\" Hai bố con chọn vé chỉ chín mươi chín đô (\"only ninety-nine dollars\") chính là vì bố muốn đi tiết kiệm, nên \"on a budget\" là tiêu ít tiền. Washington ở ngay trong nước Mỹ, không phải đi nước ngoài. Hai bố con đi máy bay, không đi ô tô. Người ngồi ghế cạnh lối đi là Tracy, và bài không nói bố lúc nào cũng đặt ghế đó.",
+      "tip": "Gặp cụm lạ, đọc phần đứng trước because: a fare of only ninety-nine dollars (vé chỉ chín mươi chín đô) là lời giải nghĩa cho on a budget."
+    },
+    {
+      "id": "q_u02_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "What did Tracy do about her suitcase?",
+        "vi": "Tracy đã làm gì với chiếc va li của mình?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She left it at home.",
+            "vi": "Để nó ở nhà."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She left it at home.",
+          "text_translation": "Để nó ở nhà."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She paid more money for it.",
+            "vi": "Trả thêm tiền cho nó."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She paid more money for it.",
+          "text_translation": "Trả thêm tiền cho nó."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She put her phone charger in it.",
+            "vi": "Bỏ sạc điện thoại vào đó."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She put her phone charger in it.",
+          "text_translation": "Bỏ sạc điện thoại vào đó."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She moved three books into her dad's bag.",
+            "vi": "Chuyển ba cuốn sách sang túi của bố."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "She moved three books into her dad's bag.",
+          "text_translation": "Chuyển ba cuốn sách sang túi của bố."
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Then a woman at the desk weighed my suitcase: fifty-two pounds, over the limit!\" \"I moved three books into Dad's bag.\" Tracy bớt sách ra khỏi va li để va li nhẹ đi. Bài không nói Tracy trả thêm tiền. Thứ để ở nhà là sạc điện thoại của bố, không phải va li. Bài cũng không nói Tracy để sạc của mình trong va li."
+      },
+      "audio_data": null,
+      "question_jp": "What did Tracy do about her suitcase?",
+      "question_vn": "Tracy đã làm gì với chiếc va li của mình?",
+      "explanation": "\"Then a woman at the desk weighed my suitcase: fifty-two pounds, over the limit!\" \"I moved three books into Dad's bag.\" Tracy bớt sách ra khỏi va li để va li nhẹ đi. Bài không nói Tracy trả thêm tiền. Thứ để ở nhà là sạc điện thoại của bố, không phải va li. Bài cũng không nói Tracy để sạc của mình trong va li."
+    },
+    {
+      "id": "q_u02_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "What does the story about the phone charger tell us about Tracy?",
+        "vi": "Chuyện cái sạc điện thoại cho ta biết điều gì về Tracy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She thinks about problems before they happen.",
+            "vi": "Cô ấy nghĩ trước tới những rắc rối có thể xảy ra."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She thinks about problems before they happen.",
+          "text_translation": "Cô ấy nghĩ trước tới những rắc rối có thể xảy ra."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She often forgets things at home.",
+            "vi": "Cô ấy hay quên đồ ở nhà."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She often forgets things at home.",
+          "text_translation": "Cô ấy hay quên đồ ở nhà."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She is never worried about trouble.",
+            "vi": "Cô ấy chẳng bao giờ lo về rắc rối."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She is never worried about trouble.",
+          "text_translation": "Cô ấy chẳng bao giờ lo về rắc rối."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She does not like her phone.",
+            "vi": "Cô ấy không thích điện thoại của mình."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She does not like her phone.",
+          "text_translation": "Cô ấy không thích điện thoại của mình."
+        }
+      ],
+      "evidence_segments": [
+        7,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"He left his phone charger at home, but I had two.\" Tracy mang hẳn hai cái sạc cho một chuyến đi ngắn, và câu \"I always worry about being late\" cũng cho thấy cô hay lo xa và chuẩn bị trước. Người quên đồ ở nhà là bố, không phải Tracy. Người bình thản lúc hoãn chuyến cũng là bố (\"Dad just smiled\"), còn Tracy thì \"I was worried\". Bài không nói gì về chuyện Tracy không thích điện thoại."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu hỏi \"tell us about (someone)\" là câu suy luận: bài không nói thẳng, ta phải gom các hành động của người đó lại để đoán tính cách."
+      },
+      "question_jp": "What does the story about the phone charger tell us about Tracy?",
+      "question_vn": "Chuyện cái sạc điện thoại cho ta biết điều gì về Tracy?",
+      "explanation": "\"He left his phone charger at home, but I had two.\" Tracy mang hẳn hai cái sạc cho một chuyến đi ngắn, và câu \"I always worry about being late\" cũng cho thấy cô hay lo xa và chuẩn bị trước. Người quên đồ ở nhà là bố, không phải Tracy. Người bình thản lúc hoãn chuyến cũng là bố (\"Dad just smiled\"), còn Tracy thì \"I was worried\". Bài không nói gì về chuyện Tracy không thích điện thoại.",
+      "tip": "Câu hỏi \"tell us about (someone)\" là câu suy luận: bài không nói thẳng, ta phải gom các hành động của người đó lại để đoán tính cách."
+    },
+    {
+      "id": "q_u02_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "How did Tracy feel when the flight had a delay?",
+        "vi": "Tracy thấy thế nào khi chuyến bay bị hoãn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "excited",
+            "vi": "háo hức"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "excited",
+          "text_translation": "háo hức"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "bored",
+            "vi": "chán"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "bored",
+          "text_translation": "chán"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "worried",
+            "vi": "lo lắng"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "worried",
+          "text_translation": "lo lắng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "happy",
+            "vi": "vui vẻ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "happy",
+          "text_translation": "vui vẻ"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"I was worried, but Dad just smiled and told me about his first flight thirty years ago.\" Người lo là Tracy (\"I\"), còn bố thì chỉ mỉm cười. Bài không nói lúc đó Tracy háo hức, chán hay vui. Câu \"What a start!\" là cảm thán kiểu than thở, vì chuyến đi vừa bắt đầu đã gặp chuyện."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu có but thường so sánh hai người: một bên là người viết (I), một bên là người khác. Đọc kỹ chủ ngữ ở mỗi vế."
+      },
+      "question_jp": "How did Tracy feel when the flight had a delay?",
+      "question_vn": "Tracy thấy thế nào khi chuyến bay bị hoãn?",
+      "explanation": "\"I was worried, but Dad just smiled and told me about his first flight thirty years ago.\" Người lo là Tracy (\"I\"), còn bố thì chỉ mỉm cười. Bài không nói lúc đó Tracy háo hức, chán hay vui. Câu \"What a start!\" là cảm thán kiểu than thở, vì chuyến đi vừa bắt đầu đã gặp chuyện.",
+      "tip": "Câu có but thường so sánh hai người: một bên là người viết (I), một bên là người khác. Đọc kỹ chủ ngữ ở mỗi vế."
+    },
+    {
+      "id": "q_u02_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u02_01",
+      "i18n": {
+        "en": "What will Tracy be doing tomorrow at ten?",
+        "vi": "Mười giờ sáng mai Tracy sẽ đang làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "waiting at Gate twenty-three",
+            "vi": "chờ ở Cổng hai mươi ba"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "waiting at Gate twenty-three",
+          "text_translation": "chờ ở Cổng hai mươi ba"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "booking a flight to Washington",
+            "vi": "đặt vé máy bay đi Washington"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "booking a flight to Washington",
+          "text_translation": "đặt vé máy bay đi Washington"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "writing in her aisle seat",
+            "vi": "viết nhật ký ở ghế cạnh lối đi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "writing in her aisle seat",
+          "text_translation": "viết nhật ký ở ghế cạnh lối đi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "walking around the university",
+            "vi": "đi một vòng quanh trường đại học"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "walking around the university",
+          "text_translation": "đi một vòng quanh trường đại học"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"Tomorrow at ten, we will be walking around the university.\" Thì tương lai tiếp diễn (will be walking) cho biết lúc đó việc này sẽ đang diễn ra. Chờ ở cổng và viết ở ghế máy bay là những việc của hôm thứ Sáu. Đặt vé là việc của tối thứ Hai."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "will be + V-ing đi với một mốc giờ ở tương lai (tomorrow at ten): tìm đúng mốc giờ đó trong bài."
+      },
+      "question_jp": "What will Tracy be doing tomorrow at ten?",
+      "question_vn": "Mười giờ sáng mai Tracy sẽ đang làm gì?",
+      "explanation": "\"Tomorrow at ten, we will be walking around the university.\" Thì tương lai tiếp diễn (will be walking) cho biết lúc đó việc này sẽ đang diễn ra. Chờ ở cổng và viết ở ghế máy bay là những việc của hôm thứ Sáu. Đặt vé là việc của tối thứ Hai.",
+      "tip": "will be + V-ing đi với một mốc giờ ở tương lai (tomorrow at ten): tìm đúng mốc giờ đó trong bài."
+    },
+    {
+      "id": "q_u02_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "Why will flight two-one-four leave late?",
+        "vi": "Vì sao chuyến bay hai-một-bốn sẽ cất cánh trễ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because of awful weather on the East Coast",
+            "vi": "vì thời tiết rất xấu ở Bờ Đông"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because of awful weather on the East Coast",
+          "text_translation": "vì thời tiết rất xấu ở Bờ Đông"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the pilot is late",
+            "vi": "vì phi công tới muộn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the pilot is late",
+          "text_translation": "vì phi công tới muộn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because some suitcases are over the limit",
+            "vi": "vì có va li quá cân"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because some suitcases are over the limit",
+          "text_translation": "vì có va li quá cân"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the gate is closed",
+            "vi": "vì cổng đã đóng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because the gate is closed",
+          "text_translation": "vì cổng đã đóng"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Because of awful weather on the East Coast, our plane will leave two hours late, at nine o'clock.\" Bài không nhắc tới phi công. Va li quá cân là chuyện riêng của Tracy ở bài 1, không phải lý do hoãn chuyến. Cổng chỉ đóng mười lăm phút trước giờ bay, đó là quy định, không phải lý do trễ."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Because of + danh từ (because of awful weather) và because + câu đều trả lời cho câu hỏi Why?."
+      },
+      "question_jp": "Why will flight two-one-four leave late?",
+      "question_vn": "Vì sao chuyến bay hai-một-bốn sẽ cất cánh trễ?",
+      "explanation": "\"Because of awful weather on the East Coast, our plane will leave two hours late, at nine o'clock.\" Bài không nhắc tới phi công. Va li quá cân là chuyện riêng của Tracy ở bài 1, không phải lý do hoãn chuyến. Cổng chỉ đóng mười lăm phút trước giờ bay, đó là quy định, không phải lý do trễ.",
+      "tip": "Because of + danh từ (because of awful weather) và because + câu đều trả lời cho câu hỏi Why?."
+    },
+    {
+      "id": "q_u02_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "What time will the gate for flight two-one-four close?",
+        "vi": "Cổng của chuyến bay hai-một-bốn sẽ đóng lúc mấy giờ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "at seven o'clock",
+            "vi": "lúc bảy giờ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "at seven o'clock",
+          "text_translation": "lúc bảy giờ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "at eight thirty",
+            "vi": "lúc tám giờ ba mươi"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "at eight thirty",
+          "text_translation": "lúc tám giờ ba mươi"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "at eight forty-five",
+            "vi": "lúc tám giờ bốn mươi lăm"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "at eight forty-five",
+          "text_translation": "lúc tám giờ bốn mươi lăm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "at nine o'clock",
+            "vi": "lúc chín giờ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "at nine o'clock",
+          "text_translation": "lúc chín giờ"
+        }
+      ],
+      "evidence_segments": [
+        6,
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Máy bay sẽ bay \"at nine o'clock\", và \"the gate will close fifteen minutes before the flight\". Chín giờ trừ mười lăm phút là tám giờ bốn mươi lăm. Bảy giờ là giờ bay cũ. Tám giờ ba mươi là giờ bắt đầu lên máy bay (\"Boarding will begin at eight thirty\"). Chín giờ là giờ máy bay cất cánh, lúc đó cổng đã đóng rồi."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Bài thông báo hay cho hai con số rồi để bạn tự tính (giờ bay trừ số phút). Đừng chọn ngay con số có sẵn trong bài."
+      },
+      "question_jp": "What time will the gate for flight two-one-four close?",
+      "question_vn": "Cổng của chuyến bay hai-một-bốn sẽ đóng lúc mấy giờ?",
+      "explanation": "Máy bay sẽ bay \"at nine o'clock\", và \"the gate will close fifteen minutes before the flight\". Chín giờ trừ mười lăm phút là tám giờ bốn mươi lăm. Bảy giờ là giờ bay cũ. Tám giờ ba mươi là giờ bắt đầu lên máy bay (\"Boarding will begin at eight thirty\"). Chín giờ là giờ máy bay cất cánh, lúc đó cổng đã đóng rồi.",
+      "tip": "Bài thông báo hay cho hai con số rồi để bạn tự tính (giờ bay trừ số phút). Đừng chọn ngay con số có sẵn trong bài."
+    },
+    {
+      "id": "q_u02_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "In \"children under eighteen on a flight with an adult do not need one\", what does \"one\" mean?",
+        "vi": "Trong câu \"children under eighteen on a flight with an adult do not need one\", từ \"one\" chỉ cái gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a passport only",
+            "vi": "chỉ riêng hộ chiếu"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a passport only",
+          "text_translation": "chỉ riêng hộ chiếu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a photo ID card",
+            "vi": "một giấy tờ tuỳ thân có ảnh"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a photo ID card",
+          "text_translation": "một giấy tờ tuỳ thân có ảnh"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "an adult",
+            "vi": "một người lớn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "an adult",
+          "text_translation": "một người lớn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a small bag",
+            "vi": "một cái túi nhỏ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a small bag",
+          "text_translation": "một cái túi nhỏ"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"Every adult needs a photo ID card, such as a passport, but children under eighteen on a flight with an adult do not need one.\" \"One\" thay cho thứ được nhắc ở vế trước, tức \"a photo ID card\". Hộ chiếu chỉ là một ví dụ (\"such as\"), không phải thứ duy nhất. Trẻ em vẫn phải bay cùng một người lớn, nên \"one\" không phải là người lớn. Túi nhỏ nằm ở câu sau, nói về chai lọ chất lỏng."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "one / ones thường thay cho danh từ đếm được vừa nhắc ở trước, để khỏi lặp lại."
+      },
+      "question_jp": "In \"children under eighteen on a flight with an adult do not need one\", what does \"one\" mean?",
+      "question_vn": "Trong câu \"children under eighteen on a flight with an adult do not need one\", từ \"one\" chỉ cái gì?",
+      "explanation": "\"Every adult needs a photo ID card, such as a passport, but children under eighteen on a flight with an adult do not need one.\" \"One\" thay cho thứ được nhắc ở vế trước, tức \"a photo ID card\". Hộ chiếu chỉ là một ví dụ (\"such as\"), không phải thứ duy nhất. Trẻ em vẫn phải bay cùng một người lớn, nên \"one\" không phải là người lớn. Túi nhỏ nằm ở câu sau, nói về chai lọ chất lỏng.",
+      "tip": "one / ones thường thay cho danh từ đếm được vừa nhắc ở trước, để khỏi lặp lại."
+    },
+    {
+      "id": "q_u02_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "Tracy is seventeen. At security, who needed a photo ID card?",
+        "vi": "Tracy mười bảy tuổi. Ở cửa an ninh, ai cần giấy tờ tuỳ thân có ảnh?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "only Tracy",
+            "vi": "chỉ Tracy"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "only Tracy",
+          "text_translation": "chỉ Tracy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "both Tracy and her dad",
+            "vi": "cả Tracy lẫn bố"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "both Tracy and her dad",
+          "text_translation": "cả Tracy lẫn bố"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "no one",
+            "vi": "không ai cả"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "no one",
+          "text_translation": "không ai cả"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "only her dad",
+            "vi": "chỉ bố"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "only her dad",
+          "text_translation": "chỉ bố"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Bài 2: \"Every adult needs a photo ID card, such as a passport, but children under eighteen on a flight with an adult do not need one.\" Bố là người lớn nên cần giấy tờ. Tracy mới mười bảy tuổi và bay cùng bố (bài 1: \"Dad and I booked a flight to Washington\"), nên không cần. Vì vậy chỉ có bố cần, không phải chỉ Tracy, cũng không phải cả hai hay không ai."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Câu nối hai bài: lấy quy định ở bài thông báo (dưới mười tám tuổi, bay cùng người lớn) rồi áp vào nhân vật ở bài kia."
+      },
+      "question_jp": "Tracy is seventeen. At security, who needed a photo ID card?",
+      "question_vn": "Tracy mười bảy tuổi. Ở cửa an ninh, ai cần giấy tờ tuỳ thân có ảnh?",
+      "explanation": "Bài 2: \"Every adult needs a photo ID card, such as a passport, but children under eighteen on a flight with an adult do not need one.\" Bố là người lớn nên cần giấy tờ. Tracy mới mười bảy tuổi và bay cùng bố (bài 1: \"Dad and I booked a flight to Washington\"), nên không cần. Vì vậy chỉ có bố cần, không phải chỉ Tracy, cũng không phải cả hai hay không ai.",
+      "tip": "Câu nối hai bài: lấy quy định ở bài thông báo (dưới mười tám tuổi, bay cùng người lớn) rồi áp vào nhân vật ở bài kia."
+    },
+    {
+      "id": "q_u02_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "A2",
+      "passage_ref": "passage_u02_02",
+      "i18n": {
+        "en": "Why was Tracy's suitcase a problem at the desk?",
+        "vi": "Vì sao va li của Tracy gặp rắc rối ở quầy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The limit on Bluebay Air is fifty pounds.",
+            "vi": "Hãng Bluebay Air chỉ cho phép va li nặng tối đa năm mươi pao."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The limit on Bluebay Air is fifty pounds.",
+          "text_translation": "Hãng Bluebay Air chỉ cho phép va li nặng tối đa năm mươi pao."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Her bottles of liquid were not in one small bag.",
+            "vi": "Chai lọ chất lỏng của cô không để chung trong một túi nhỏ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Her bottles of liquid were not in one small bag.",
+          "text_translation": "Chai lọ chất lỏng của cô không để chung trong một túi nhỏ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She left it without someone near it.",
+            "vi": "Cô để va li mà không có ai ở bên cạnh."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She left it without someone near it.",
+          "text_translation": "Cô để va li mà không có ai ở bên cạnh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She did not have a photo ID card.",
+            "vi": "Cô không có giấy tờ tuỳ thân có ảnh."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She did not have a photo ID card.",
+          "text_translation": "Cô không có giấy tờ tuỳ thân có ảnh."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Bài 1: va li của Tracy nặng năm mươi hai pao (fifty-two pounds), quá giới hạn hai pao. Bài 2: \"each checked suitcase can weigh up to fifty pounds.\" Năm mươi hai pao là quá năm mươi pao hai pao. Quy định về chai lọ và quy định không bỏ hành lý một mình đều có trong bài 2, nhưng không liên quan tới chuyện cân va li. Tracy mười bảy tuổi, bay cùng bố, nên không cần giấy tờ tuỳ thân (xem câu 9), và chuyện giấy tờ cũng không liên quan tới cân nặng."
+      },
+      "audio_data": null,
+      "tip_i18n": {
+        "vi": "Thấy một con số ở bài này (fifty-two pounds), hãy tìm con số cùng đơn vị ở bài kia (fifty pounds) để so."
+      },
+      "question_jp": "Why was Tracy's suitcase a problem at the desk?",
+      "question_vn": "Vì sao va li của Tracy gặp rắc rối ở quầy?",
+      "explanation": "Bài 1: va li của Tracy nặng năm mươi hai pao (fifty-two pounds), quá giới hạn hai pao. Bài 2: \"each checked suitcase can weigh up to fifty pounds.\" Năm mươi hai pao là quá năm mươi pao hai pao. Quy định về chai lọ và quy định không bỏ hành lý một mình đều có trong bài 2, nhưng không liên quan tới chuyện cân va li. Tracy mười bảy tuổi, bay cùng bố, nên không cần giấy tờ tuỳ thân (xem câu 9), và chuyện giấy tờ cũng không liên quan tới cân nặng.",
+      "tip": "Thấy một con số ở bài này (fifty-two pounds), hãy tìm con số cùng đơn vị ở bài kia (fifty pounds) để so."
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u02_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 — Sổ ghi chép chuyến đi của Tracy",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u02_01",
+      "question_ids": [
+        "q_u02_001",
+        "q_u02_002",
+        "q_u02_003",
+        "q_u02_004",
+        "q_u02_005"
+      ]
+    },
+    {
+      "set_id": "set_u02_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 — Bảng giờ bay và thông báo ở sân bay San Diego",
+      "description": "Đọc hiểu A2 — 5 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 5,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u02_02",
+      "question_ids": [
+        "q_u02_006",
+        "q_u02_007",
+        "q_u02_008",
+        "q_u02_009",
+        "q_u02_010"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1988 @@
+{
+  "_schema_version": "1.2",
+  "_skill": "study-course-questions-builder",
+  "_description": "NGUỒN SỰ THẬT của chương. Mọi đoạn chữ là bản đồ ngôn ngữ i18n {en, vi, …}. Chỉ sửa các trường *_i18n / i18n / segments / evidence_segments / lesson, rồi chạy _shared/scripts/build_en_reading.py để sinh lại khoá cũ (question_vn, translation_vn…) và file _DocHieu*.md.",
+  "meta": {
+    "title_i18n": {
+      "en": "Units 5–6 — Environment and consumption & Mental and physical health",
+      "vi": "Môi trường, tiêu dùng & Sức khoẻ thể chất và tinh thần"
+    },
+    "title": "Units 5–6 — Environment and consumption & Mental and physical health",
+    "title_vn": "Môi trường, tiêu dùng & Sức khoẻ thể chất và tinh thần",
+    "module_code": "60_u0506",
+    "language": "en",
+    "languages": [
+      "vi"
+    ],
+    "cefr_level": "C1",
+    "curriculum_unit": "c1.u05+u06",
+    "curriculum_sheets": [
+      "c1.017",
+      "c1.018",
+      "c1.019",
+      "c1.020",
+      "c1.021",
+      "c1.022",
+      "c1.023",
+      "c1.024"
+    ],
+    "characters": [
+      "Trevor Carter",
+      "Mitchell Carter",
+      "Megan Carter"
+    ],
+    "story_time_i18n": {
+      "vi": "tháng 3 – 4, năm 8"
+    },
+    "total_passages": 2,
+    "total_questions": 20,
+    "focus": "Số liệu vs dự báo, lập luận hai mặt, giọng hài, hàm ý trong nhật ký",
+    "description_vn": "Trevor tìm số liệu thật về điện năng của AI (báo cáo IEA 2025) cho tạp chí trường, và Mitchell ghi nhật ký sáu tuần sau khi bị chẩn đoán tăng huyết áp. 2 bài đọc × 10 câu."
+  },
+  "lesson": {
+    "practice_for_i18n": {
+      "vi": "Unit 5 + Unit 6 khoá C1 · phiếu `c1.017` – `c1.024` (khí hậu và năng lượng, ô nhiễm, thói quen mua sắm, việc một người làm được; chẩn đoán và điều trị, ăn uống và lối sống, căng thẳng và nghỉ ngơi, bệnh viện)."
+    },
+    "objective_i18n": {
+      "vi": "đọc một bài lập luận có số liệu thật về điện năng của AI và một nhật ký bệnh tật nhiều ngày; nhận ra cách người viết đặt câu hỏi rồi trả lời \"Yes and no\", phân biệt số liệu hiện tại với dự báo, chi tiết hài hước ở cuối bài, câu ngắn mang hàm ý (She did not laugh), và các cấu trúc C1: bị động tương lai hoàn thành, whereby, chủ ngữ là vật (technology has enabled…), ought to have + V3, putative should, must have been + V-ing."
+    },
+    "extra_words": [
+      {
+        "word": "chatbot",
+        "i18n": {
+          "vi": "chatbot, phần mềm trò chuyện"
+        }
+      },
+      {
+        "word": "terawatt-hour",
+        "i18n": {
+          "vi": "terawatt-giờ (đơn vị điện năng)"
+        }
+      },
+      {
+        "word": "data center",
+        "i18n": {
+          "vi": "trung tâm dữ liệu"
+        }
+      },
+      {
+        "word": "power grid",
+        "i18n": {
+          "vi": "lưới điện"
+        }
+      },
+      {
+        "word": "solar panel",
+        "i18n": {
+          "vi": "tấm pin mặt trời"
+        }
+      },
+      {
+        "word": "guilty",
+        "i18n": {
+          "vi": "áy náy, có lỗi"
+        }
+      },
+      {
+        "word": "shame",
+        "i18n": {
+          "vi": "sự xấu hổ"
+        }
+      },
+      {
+        "word": "checkup",
+        "i18n": {
+          "vi": "buổi khám sức khoẻ"
+        }
+      },
+      {
+        "word": "blood pressure",
+        "i18n": {
+          "vi": "huyết áp"
+        }
+      },
+      {
+        "word": "hypertension",
+        "i18n": {
+          "vi": "tăng huyết áp"
+        }
+      },
+      {
+        "word": "frown",
+        "i18n": {
+          "vi": "cau mày"
+        }
+      },
+      {
+        "word": "label",
+        "i18n": {
+          "vi": "nhãn"
+        }
+      },
+      {
+        "word": "soup cube",
+        "i18n": {
+          "vi": "viên súp"
+        }
+      },
+      {
+        "word": "closest",
+        "i18n": {
+          "vi": "gần nhất"
+        }
+      }
+    ],
+    "phrases": [
+      {
+        "i18n": {
+          "en": "not because of X, but because of Y",
+          "vi": "không phải vì X mà vì Y"
+        }
+      },
+      {
+        "i18n": {
+          "en": "Yes and no.",
+          "vi": "Vừa đúng vừa sai."
+        }
+      },
+      {
+        "i18n": {
+          "en": "in the first place",
+          "vi": "ngay từ đầu"
+        }
+      },
+      {
+        "i18n": {
+          "en": "in any meaningful way",
+          "vi": "theo cách nào đáng kể"
+        }
+      },
+      {
+        "i18n": {
+          "en": "a matter of",
+          "vi": "chuyện, vấn đề về"
+        }
+      },
+      {
+        "i18n": {
+          "en": "ought to have noticed",
+          "vi": "lẽ ra phải để ý"
+        }
+      },
+      {
+        "i18n": {
+          "en": "walk off the stress",
+          "vi": "đi bộ cho tan căng thẳng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "as she points out",
+          "vi": "như cô ấy chỉ ra"
+        }
+      }
+    ],
+    "tips": [
+      {
+        "i18n": {
+          "vi": "Bài có số liệu: phân biệt **số đã đo** (`used … in 2024`) với **dự báo** (`expected … by 2030`). Câu hỏi hay bẫy bằng cách đổi hai con số cho nhau."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Người viết tự hỏi tự đáp `Yes and no` → câu trả lời có hai nửa. Phương án đúng phải chứa **cả hai** nửa."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu cuối hài hước (đèn thư viện) thường hỏi về **giọng điệu/hiệu ứng**, không phải về lập luận chính."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Trong nhật ký, câu rất ngắn sau một câu đùa (`She did not laugh.`) là chỗ hỏi hàm ý: cảm xúc thật của nhân vật."
+        }
+      }
+    ]
+  },
+  "reading_passages": [
+    {
+      "id": "passage_u0506_01",
+      "heading_i18n": {
+        "vi": "Bài đọc 1 (Unit 5) — Trevor viết về điện năng của AI"
+      },
+      "narrator": "Trevor",
+      "title": "What Does It Cost to Ask a Machine?",
+      "category": "article",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 280,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What Does It Cost to Ask a Machine?",
+            "vi": "Hỏi một cỗ máy thì tốn bao nhiêu?"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Trevor Carter, first-year environmental engineering student, for the campus magazine Green Lines",
+            "vi": "Trevor Carter, sinh viên năm nhất ngành kỹ thuật môi trường, viết cho tạp chí trường Green Lines"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last week, a friend in my dorm refused to use an AI chatbot for his homework, not because of cheating, but because of the planet. \"Every question burns electricity,\" he said. Half of the people in the room laughed, and the other half looked guilty.",
+            "vi": "Tuần trước, một người bạn trong ký túc xá từ chối dùng chatbot AI làm bài tập, không phải vì sợ gian lận mà vì hành tinh. \"Mỗi câu hỏi đều đốt điện,\" cậu ấy nói. Một nửa số người trong phòng bật cười, nửa còn lại trông có vẻ áy náy."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "As an engineering student, I wanted numbers, not feelings, so I looked for them.",
+            "vi": "Là sinh viên kỹ thuật, tôi muốn con số chứ không phải cảm xúc, nên tôi đi tìm chúng."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The most reliable source I found was a 2025 report by the International Energy Agency. It estimated that data centers, the huge buildings full of computers that run the internet and AI, used about 415 terawatt-hours of electricity in 2024, roughly 1.5 percent of all the electricity used in the world.",
+            "vi": "Nguồn đáng tin nhất tôi tìm được là một báo cáo năm 2025 của Cơ quan Năng lượng Quốc tế. Báo cáo ước tính các trung tâm dữ liệu, tức những toà nhà khổng lồ đầy máy tính vận hành internet và AI, đã dùng khoảng 415 terawatt-giờ điện năm 2024, xấp xỉ 1,5 phần trăm toàn bộ lượng điện dùng trên thế giới."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The same report expected that figure to more than double by 2030, to around 945 terawatt-hours, slightly more than the whole of Japan uses today, with AI as the main reason for the growth.",
+            "vi": "Cùng báo cáo đó dự kiến con số này sẽ tăng hơn gấp đôi vào năm 2030, lên khoảng 945 terawatt-giờ, nhỉnh hơn lượng điện cả nước Nhật dùng hiện nay, và AI là lý do chính của mức tăng."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So was my friend right? Yes and no. The electricity used by one question is negligible; it is far less than the energy needed to boil water for a cup of tea. Refusing to ask a chatbot about your homework will not alleviate climate change in any meaningful way.",
+            "vi": "Vậy bạn tôi đúng không? Vừa đúng vừa sai. Lượng điện một câu hỏi tiêu tốn là không đáng kể; nó ít hơn nhiều so với năng lượng cần để đun nước pha một cốc trà. Từ chối hỏi chatbot về bài tập sẽ không giảm nhẹ biến đổi khí hậu theo cách nào đáng kể."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The problem is not any single question but scale: billions of questions a day, plus the enormous amount of computing needed to train each new model in the first place.",
+            "vi": "Vấn đề không nằm ở một câu hỏi riêng lẻ mà ở quy mô: hàng tỷ câu hỏi mỗi ngày, cộng với khối lượng tính toán khổng lồ cần để huấn luyện mỗi mô hình mới ngay từ đầu."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Where that electricity comes from matters enormously. A data center powered by wind turbines and solar panels is a very different thing from one powered by fossil fuels, and many of the centers that will have been built by 2030 are still being planned today.",
+            "vi": "Điện đó đến từ đâu quan trọng vô cùng. Một trung tâm dữ liệu chạy bằng tua-bin gió và tấm pin mặt trời là thứ rất khác so với một trung tâm chạy bằng nhiên liệu hoá thạch, và nhiều trung tâm sẽ được xây xong trước năm 2030 hiện vẫn đang được lên kế hoạch."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Some technology companies have already signed long-term deals to buy electricity directly from power plants, which tells you how much they expect to need.",
+            "vi": "Một số công ty công nghệ đã ký hợp đồng dài hạn mua điện trực tiếp từ các nhà máy điện, điều đó cho thấy họ dự kiến sẽ cần bao nhiêu điện."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The decisions being made now will therefore shape emissions for decades. It is also worth remembering that technology has enabled engineers to cut waste elsewhere; AI is already being used to manage power grids, whereby supply and demand are balanced more precisely.",
+            "vi": "Vì vậy những quyết định đang được đưa ra lúc này sẽ định hình lượng khí thải trong nhiều thập kỷ. Cũng đáng nhớ rằng công nghệ đã giúp các kỹ sư cắt giảm lãng phí ở nơi khác; AI đã được dùng để quản lý lưới điện, nhờ đó cung và cầu được cân bằng chính xác hơn."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Here is my conclusion. Feeling guilty about each question is pointless, and it is detrimental in its own way, because it makes a huge problem look like a matter of personal shame.",
+            "vi": "Đây là kết luận của tôi. Cảm thấy áy náy với từng câu hỏi là vô ích, và theo cách riêng của nó còn có hại, vì nó khiến một vấn đề khổng lồ trông như chuyện xấu hổ cá nhân."
+          }
+        },
+        {
+          "n": 13,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What is viable, and far more useful, is to ask the companies that build these systems to say clearly how much energy they use and where it comes from. Transparency is the first step towards a sustainable answer.",
+            "vi": "Điều khả thi, và hữu ích hơn nhiều, là yêu cầu các công ty xây dựng những hệ thống này nói rõ chúng dùng bao nhiêu năng lượng và năng lượng đó đến từ đâu. Minh bạch là bước đầu tiên để tới một lời giải bền vững."
+          }
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My friend is still not convinced. He now does his homework in the library, under forty bright lights that nobody ever turns off.",
+            "vi": "Bạn tôi vẫn chưa bị thuyết phục. Giờ cậu ấy làm bài tập trong thư viện, dưới bốn mươi bóng đèn sáng trưng mà chẳng ai bao giờ tắt."
+          }
+        }
+      ],
+      "content_ja": "What Does It Cost to Ask a Machine?\n\nTrevor Carter, first-year environmental engineering student, for the campus magazine Green Lines\n\nLast week, a friend in my dorm refused to use an AI chatbot for his homework, not because of cheating, but because of the planet. \"Every question burns electricity,\" he said. Half of the people in the room laughed, and the other half looked guilty. As an engineering student, I wanted numbers, not feelings, so I looked for them.\n\nThe most reliable source I found was a 2025 report by the International Energy Agency. It estimated that data centers, the huge buildings full of computers that run the internet and AI, used about 415 terawatt-hours of electricity in 2024, roughly 1.5 percent of all the electricity used in the world. The same report expected that figure to more than double by 2030, to around 945 terawatt-hours, slightly more than the whole of Japan uses today, with AI as the main reason for the growth.\n\nSo was my friend right? Yes and no. The electricity used by one question is negligible; it is far less than the energy needed to boil water for a cup of tea. Refusing to ask a chatbot about your homework will not alleviate climate change in any meaningful way. The problem is not any single question but scale: billions of questions a day, plus the enormous amount of computing needed to train each new model in the first place.\n\nWhere that electricity comes from matters enormously. A data center powered by wind turbines and solar panels is a very different thing from one powered by fossil fuels, and many of the centers that will have been built by 2030 are still being planned today. Some technology companies have already signed long-term deals to buy electricity directly from power plants, which tells you how much they expect to need. The decisions being made now will therefore shape emissions for decades. It is also worth remembering that technology has enabled engineers to cut waste elsewhere; AI is already being used to manage power grids, whereby supply and demand are balanced more precisely.\n\nHere is my conclusion. Feeling guilty about each question is pointless, and it is detrimental in its own way, because it makes a huge problem look like a matter of personal shame. What is viable, and far more useful, is to ask the companies that build these systems to say clearly how much energy they use and where it comes from. Transparency is the first step towards a sustainable answer.\n\nMy friend is still not convinced. He now does his homework in the library, under forty bright lights that nobody ever turns off.",
+      "translation_vn": "(1) Hỏi một cỗ máy thì tốn bao nhiêu?\n(2) Trevor Carter, sinh viên năm nhất ngành kỹ thuật môi trường, viết cho tạp chí trường Green Lines\n(3) Tuần trước, một người bạn trong ký túc xá từ chối dùng chatbot AI làm bài tập, không phải vì sợ gian lận mà vì hành tinh. \"Mỗi câu hỏi đều đốt điện,\" cậu ấy nói. Một nửa số người trong phòng bật cười, nửa còn lại trông có vẻ áy náy.\n(4) Là sinh viên kỹ thuật, tôi muốn con số chứ không phải cảm xúc, nên tôi đi tìm chúng.\n(5) Nguồn đáng tin nhất tôi tìm được là một báo cáo năm 2025 của Cơ quan Năng lượng Quốc tế. Báo cáo ước tính các trung tâm dữ liệu, tức những toà nhà khổng lồ đầy máy tính vận hành internet và AI, đã dùng khoảng 415 terawatt-giờ điện năm 2024, xấp xỉ 1,5 phần trăm toàn bộ lượng điện dùng trên thế giới.\n(6) Cùng báo cáo đó dự kiến con số này sẽ tăng hơn gấp đôi vào năm 2030, lên khoảng 945 terawatt-giờ, nhỉnh hơn lượng điện cả nước Nhật dùng hiện nay, và AI là lý do chính của mức tăng.\n(7) Vậy bạn tôi đúng không? Vừa đúng vừa sai. Lượng điện một câu hỏi tiêu tốn là không đáng kể; nó ít hơn nhiều so với năng lượng cần để đun nước pha một cốc trà. Từ chối hỏi chatbot về bài tập sẽ không giảm nhẹ biến đổi khí hậu theo cách nào đáng kể.\n(8) Vấn đề không nằm ở một câu hỏi riêng lẻ mà ở quy mô: hàng tỷ câu hỏi mỗi ngày, cộng với khối lượng tính toán khổng lồ cần để huấn luyện mỗi mô hình mới ngay từ đầu.\n(9) Điện đó đến từ đâu quan trọng vô cùng. Một trung tâm dữ liệu chạy bằng tua-bin gió và tấm pin mặt trời là thứ rất khác so với một trung tâm chạy bằng nhiên liệu hoá thạch, và nhiều trung tâm sẽ được xây xong trước năm 2030 hiện vẫn đang được lên kế hoạch.\n(10) Một số công ty công nghệ đã ký hợp đồng dài hạn mua điện trực tiếp từ các nhà máy điện, điều đó cho thấy họ dự kiến sẽ cần bao nhiêu điện.\n(11) Vì vậy những quyết định đang được đưa ra lúc này sẽ định hình lượng khí thải trong nhiều thập kỷ. Cũng đáng nhớ rằng công nghệ đã giúp các kỹ sư cắt giảm lãng phí ở nơi khác; AI đã được dùng để quản lý lưới điện, nhờ đó cung và cầu được cân bằng chính xác hơn.\n(12) Đây là kết luận của tôi. Cảm thấy áy náy với từng câu hỏi là vô ích, và theo cách riêng của nó còn có hại, vì nó khiến một vấn đề khổng lồ trông như chuyện xấu hổ cá nhân.\n(13) Điều khả thi, và hữu ích hơn nhiều, là yêu cầu các công ty xây dựng những hệ thống này nói rõ chúng dùng bao nhiêu năng lượng và năng lượng đó đến từ đâu. Minh bạch là bước đầu tiên để tới một lời giải bền vững.\n(14) Bạn tôi vẫn chưa bị thuyết phục. Giờ cậu ấy làm bài tập trong thư viện, dưới bốn mươi bóng đèn sáng trưng mà chẳng ai bao giờ tắt.",
+      "word_count": 444,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.017",
+        "c1.018",
+        "c1.019",
+        "c1.020"
+      ]
+    },
+    {
+      "id": "passage_u0506_02",
+      "heading_i18n": {
+        "vi": "Bài đọc 2 (Unit 6) — Nhật ký Mitchell nhận chẩn đoán huyết áp cao"
+      },
+      "narrator": "Mitchell",
+      "title": "Fifty, and My Numbers Are Wrong",
+      "category": "story",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 270,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Fifty, and My Numbers Are Wrong",
+            "vi": "Năm mươi tuổi, và các con số của tôi không ổn"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "From the notebook of Mitchell Carter",
+            "vi": "Trích sổ tay của Mitchell Carter"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "March 4. My annual checkup. I went in expecting to be told what I am always told: lose a few pounds, sleep more. Instead, Dr. Ramos measured my blood pressure three times, frowned, and said the word \"hypertension\".",
+            "vi": "Ngày 4 tháng Ba. Buổi khám sức khoẻ định kỳ hằng năm. Tôi đi khám, tưởng sẽ được dặn đúng những gì lần nào cũng được dặn: giảm vài cân, ngủ nhiều hơn. Thay vào đó, bác sĩ Ramos đo huyết áp cho tôi ba lần, cau mày, rồi nói từ \"tăng huyết áp\"."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I told him that I feel perfectly fine. He said that is exactly the problem: high blood pressure is often not symptomatic at all, which is why so many people find out only after something serious has happened.",
+            "vi": "Tôi bảo ông ấy rằng tôi thấy hoàn toàn khoẻ. Ông nói đó chính là vấn đề: huyết áp cao thường chẳng có triệu chứng gì, vì vậy rất nhiều người chỉ phát hiện ra sau khi một chuyện nghiêm trọng đã xảy ra."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "March 5. Megan was quiet at dinner, and later she admitted that she was angry with herself. \"I check other people's blood pressure twelve hours a day,\" she said. \"I ought to have noticed yours.\"",
+            "vi": "Ngày 5 tháng Ba. Megan im lặng trong bữa tối, rồi sau đó thừa nhận cô ấy đang giận chính mình. \"Ngày nào em cũng đo huyết áp cho người khác mười hai tiếng,\" cô nói. \"Lẽ ra em phải để ý huyết áp của anh.\""
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I told her that nobody measures their own husband for fun. She did not laugh.",
+            "vi": "Tôi bảo cô ấy rằng chẳng ai đi đo huyết áp chồng mình cho vui. Cô ấy không cười."
+          }
+        },
+        {
+          "n": 7,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "March 12. The plan has three parts: a small daily pill, a thirty-minute walk every day, and much less salt. The third part is the hardest. It seems strange that a man who cooks as carefully as I do should have been eating so much salt without knowing it.",
+            "vi": "Ngày 12 tháng Ba. Kế hoạch có ba phần: một viên thuốc nhỏ mỗi ngày, đi bộ ba mươi phút mỗi ngày, và ăn bớt muối thật nhiều. Phần thứ ba là khó nhất. Thật lạ là một người nấu ăn cẩn thận như tôi lại đã ăn nhiều muối như vậy mà không hề biết."
+          }
+        },
+        {
+          "n": 8,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But when I read the labels in our kitchen, the answer was there: the bread, the soup cubes, the sauces I add \"just to finish a dish\". I must have been adding salt to almost everything for thirty years.",
+            "vi": "Nhưng khi tôi đọc nhãn trong bếp nhà mình, câu trả lời nằm ngay đó: bánh mì, viên súp, các loại nước sốt tôi thêm vào \"chỉ để hoàn thiện món ăn\". Hẳn là tôi đã cho muối vào gần như mọi thứ suốt ba mươi năm."
+          }
+        },
+        {
+          "n": 9,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "March 30. Teaching history is a sedentary job, whatever my students think. I now walk to school, and I have started a lunchtime walking group with two other teachers, which has turned out to be the best part of my day.",
+            "vi": "Ngày 30 tháng Ba. Dạy lịch sử là một nghề ít vận động, dù học sinh của tôi nghĩ gì đi nữa. Giờ tôi đi bộ tới trường, và tôi đã lập một nhóm đi bộ giờ trưa với hai giáo viên khác, hoá ra đó lại là phần vui nhất trong ngày."
+          }
+        },
+        {
+          "n": 10,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "We reminisce, we complain about our students, and we walk off the stress of the morning.",
+            "vi": "Chúng tôi ôn chuyện cũ, phàn nàn về học trò, và đi bộ cho tan căng thẳng của buổi sáng."
+          }
+        },
+        {
+          "n": 11,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I have also started to unplug in the evenings: no screens after nine, a book instead, and, according to Megan, a much calmer husband by ten o'clock.",
+            "vi": "Tôi cũng bắt đầu rời xa thiết bị vào buổi tối: không màn hình sau chín giờ, thay vào đó là một cuốn sách, và theo Megan thì tới mười giờ cô có một ông chồng điềm tĩnh hơn hẳn."
+          }
+        },
+        {
+          "n": 12,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "April 15. Six weeks later, my numbers are much better, although Dr. Ramos says I am not finished yet. Hypertension is chronic; it does not go away because you have been good for a month and a half.",
+            "vi": "Ngày 15 tháng Tư. Sáu tuần sau, các con số của tôi đã tốt hơn nhiều, dù bác sĩ Ramos nói tôi chưa xong đâu. Tăng huyết áp là bệnh mạn tính; nó không biến mất chỉ vì mình đã ngoan được một tháng rưỡi."
+          }
+        },
+        {
+          "n": 13,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Megan has made me promise to keep taking the pill even on days when I feel fine, which, as she points out, is every day.",
+            "vi": "Megan bắt tôi hứa tiếp tục uống thuốc ngay cả những ngày tôi thấy khoẻ, mà như cô ấy chỉ ra, thì ngày nào tôi cũng thấy khoẻ."
+          }
+        },
+        {
+          "n": 14,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I have been thinking about why I was so shocked. I suppose I believed that illness was something that happened to other people, to the patients Megan talks about, not to a man who makes his own soup.",
+            "vi": "Tôi cứ nghĩ mãi về việc vì sao mình bị sốc đến thế. Có lẽ tôi đã tin rằng bệnh tật là chuyện xảy ra với người khác, với những bệnh nhân Megan hay kể, chứ không phải với một người tự nấu súp cho mình."
+          }
+        },
+        {
+          "n": 15,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Trevor called from college and told me, very seriously, that I should \"protect my longevity\". I told him I would, if he promised to call his father more often. He has called twice this week.",
+            "vi": "Trevor gọi từ trường về và rất nghiêm túc bảo tôi nên \"bảo vệ tuổi thọ của mình\". Tôi bảo sẽ làm vậy, nếu nó hứa gọi về cho bố thường xuyên hơn. Tuần này nó đã gọi hai lần."
+          }
+        }
+      ],
+      "content_ja": "Fifty, and My Numbers Are Wrong\n\nFrom the notebook of Mitchell Carter\n\nMarch 4. My annual checkup. I went in expecting to be told what I am always told: lose a few pounds, sleep more. Instead, Dr. Ramos measured my blood pressure three times, frowned, and said the word \"hypertension\". I told him that I feel perfectly fine. He said that is exactly the problem: high blood pressure is often not symptomatic at all, which is why so many people find out only after something serious has happened.\n\nMarch 5. Megan was quiet at dinner, and later she admitted that she was angry with herself. \"I check other people's blood pressure twelve hours a day,\" she said. \"I ought to have noticed yours.\" I told her that nobody measures their own husband for fun. She did not laugh.\n\nMarch 12. The plan has three parts: a small daily pill, a thirty-minute walk every day, and much less salt. The third part is the hardest. It seems strange that a man who cooks as carefully as I do should have been eating so much salt without knowing it. But when I read the labels in our kitchen, the answer was there: the bread, the soup cubes, the sauces I add \"just to finish a dish\". I must have been adding salt to almost everything for thirty years.\n\nMarch 30. Teaching history is a sedentary job, whatever my students think. I now walk to school, and I have started a lunchtime walking group with two other teachers, which has turned out to be the best part of my day. We reminisce, we complain about our students, and we walk off the stress of the morning. I have also started to unplug in the evenings: no screens after nine, a book instead, and, according to Megan, a much calmer husband by ten o'clock.\n\nApril 15. Six weeks later, my numbers are much better, although Dr. Ramos says I am not finished yet. Hypertension is chronic; it does not go away because you have been good for a month and a half. Megan has made me promise to keep taking the pill even on days when I feel fine, which, as she points out, is every day.\n\nI have been thinking about why I was so shocked. I suppose I believed that illness was something that happened to other people, to the patients Megan talks about, not to a man who makes his own soup. Trevor called from college and told me, very seriously, that I should \"protect my longevity\". I told him I would, if he promised to call his father more often. He has called twice this week.",
+      "translation_vn": "(1) Năm mươi tuổi, và các con số của tôi không ổn\n(2) Trích sổ tay của Mitchell Carter\n(3) Ngày 4 tháng Ba. Buổi khám sức khoẻ định kỳ hằng năm. Tôi đi khám, tưởng sẽ được dặn đúng những gì lần nào cũng được dặn: giảm vài cân, ngủ nhiều hơn. Thay vào đó, bác sĩ Ramos đo huyết áp cho tôi ba lần, cau mày, rồi nói từ \"tăng huyết áp\".\n(4) Tôi bảo ông ấy rằng tôi thấy hoàn toàn khoẻ. Ông nói đó chính là vấn đề: huyết áp cao thường chẳng có triệu chứng gì, vì vậy rất nhiều người chỉ phát hiện ra sau khi một chuyện nghiêm trọng đã xảy ra.\n(5) Ngày 5 tháng Ba. Megan im lặng trong bữa tối, rồi sau đó thừa nhận cô ấy đang giận chính mình. \"Ngày nào em cũng đo huyết áp cho người khác mười hai tiếng,\" cô nói. \"Lẽ ra em phải để ý huyết áp của anh.\"\n(6) Tôi bảo cô ấy rằng chẳng ai đi đo huyết áp chồng mình cho vui. Cô ấy không cười.\n(7) Ngày 12 tháng Ba. Kế hoạch có ba phần: một viên thuốc nhỏ mỗi ngày, đi bộ ba mươi phút mỗi ngày, và ăn bớt muối thật nhiều. Phần thứ ba là khó nhất. Thật lạ là một người nấu ăn cẩn thận như tôi lại đã ăn nhiều muối như vậy mà không hề biết.\n(8) Nhưng khi tôi đọc nhãn trong bếp nhà mình, câu trả lời nằm ngay đó: bánh mì, viên súp, các loại nước sốt tôi thêm vào \"chỉ để hoàn thiện món ăn\". Hẳn là tôi đã cho muối vào gần như mọi thứ suốt ba mươi năm.\n(9) Ngày 30 tháng Ba. Dạy lịch sử là một nghề ít vận động, dù học sinh của tôi nghĩ gì đi nữa. Giờ tôi đi bộ tới trường, và tôi đã lập một nhóm đi bộ giờ trưa với hai giáo viên khác, hoá ra đó lại là phần vui nhất trong ngày.\n(10) Chúng tôi ôn chuyện cũ, phàn nàn về học trò, và đi bộ cho tan căng thẳng của buổi sáng.\n(11) Tôi cũng bắt đầu rời xa thiết bị vào buổi tối: không màn hình sau chín giờ, thay vào đó là một cuốn sách, và theo Megan thì tới mười giờ cô có một ông chồng điềm tĩnh hơn hẳn.\n(12) Ngày 15 tháng Tư. Sáu tuần sau, các con số của tôi đã tốt hơn nhiều, dù bác sĩ Ramos nói tôi chưa xong đâu. Tăng huyết áp là bệnh mạn tính; nó không biến mất chỉ vì mình đã ngoan được một tháng rưỡi.\n(13) Megan bắt tôi hứa tiếp tục uống thuốc ngay cả những ngày tôi thấy khoẻ, mà như cô ấy chỉ ra, thì ngày nào tôi cũng thấy khoẻ.\n(14) Tôi cứ nghĩ mãi về việc vì sao mình bị sốc đến thế. Có lẽ tôi đã tin rằng bệnh tật là chuyện xảy ra với người khác, với những bệnh nhân Megan hay kể, chứ không phải với một người tự nấu súp cho mình.\n(15) Trevor gọi từ trường về và rất nghiêm túc bảo tôi nên \"bảo vệ tuổi thọ của mình\". Tôi bảo sẽ làm vậy, nếu nó hứa gọi về cho bố thường xuyên hơn. Tuần này nó đã gọi hai lần.",
+      "word_count": 442,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.021",
+        "c1.022",
+        "c1.023",
+        "c1.024"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_u0506_001",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "What made Trevor decide to look into the subject?",
+        "vi": "Điều gì khiến Trevor quyết định tìm hiểu chủ đề này?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "a lecture by his professor about the cost of electricity in dorms",
+            "vi": "một bài giảng của giáo sư về chi phí điện ở ký túc xá"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "a lecture by his professor about the cost of electricity in dorms",
+          "text_translation": "một bài giảng của giáo sư về chi phí điện ở ký túc xá"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a friend who would not use an AI chatbot because of the planet",
+            "vi": "một người bạn không chịu dùng chatbot AI vì hành tinh"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "a friend who would not use an AI chatbot because of the planet",
+          "text_translation": "một người bạn không chịu dùng chatbot AI vì hành tinh"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a news report about how much electricity Japan uses",
+            "vi": "một bản tin về lượng điện Nhật Bản sử dụng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a news report about how much electricity Japan uses",
+          "text_translation": "một bản tin về lượng điện Nhật Bản sử dụng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a power cut in his dorm that left the whole building dark",
+            "vi": "một lần mất điện ở ký túc xá làm cả tòa nhà tối om"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a power cut in his dorm that left the whole building dark",
+          "text_translation": "một lần mất điện ở ký túc xá làm cả tòa nhà tối om"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"a friend in my dorm refused to use an AI chatbot for his homework, not because of cheating, but because of the planet.\""
+      },
+      "audio_data": null,
+      "question_jp": "What made Trevor decide to look into the subject?",
+      "question_vn": "Điều gì khiến Trevor quyết định tìm hiểu chủ đề này?",
+      "explanation": "\"a friend in my dorm refused to use an AI chatbot for his homework, not because of cheating, but because of the planet.\""
+    },
+    {
+      "id": "q_u0506_002",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "Why does Trevor mention that he wanted \"numbers, not feelings\"?",
+        "vi": "Vì sao Trevor nhắc rằng cậu muốn \"con số chứ không phải cảm xúc\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that he dislikes his friend and thinks he is being silly",
+            "vi": "để cho thấy cậu không ưa bạn mình và thấy bạn thật ngớ ngẩn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to show that he dislikes his friend and thinks he is being silly",
+          "text_translation": "để cho thấy cậu không ưa bạn mình và thấy bạn thật ngớ ngẩn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to explain why he stopped using AI after reading the report",
+            "vi": "để giải thích vì sao cậu thôi dùng AI sau khi đọc báo cáo"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to explain why he stopped using AI after reading the report",
+          "text_translation": "để giải thích vì sao cậu thôi dùng AI sau khi đọc báo cáo"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to say that feelings are always wrong and should be ignored",
+            "vi": "để nói cảm xúc luôn sai và nên bị bỏ qua"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to say that feelings are always wrong and should be ignored",
+          "text_translation": "để nói cảm xúc luôn sai và nên bị bỏ qua"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to show that he will base his opinion on evidence rather than on how people react",
+            "vi": "để cho thấy cậu sẽ dựa ý kiến vào bằng chứng chứ không vào phản ứng của mọi người"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to show that he will base his opinion on evidence rather than on how people react",
+          "text_translation": "để cho thấy cậu sẽ dựa ý kiến vào bằng chứng chứ không vào phản ứng của mọi người"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận về mục đích. Mọi người chỉ phản ứng bằng cảm xúc (\"laughed\", \"looked guilty\"), còn Trevor đi tìm số liệu."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Trevor mention that he wanted \"numbers, not feelings\"?",
+      "question_vn": "Vì sao Trevor nhắc rằng cậu muốn \"con số chứ không phải cảm xúc\"?",
+      "explanation": "Câu suy luận về mục đích. Mọi người chỉ phản ứng bằng cảm xúc (\"laughed\", \"looked guilty\"), còn Trevor đi tìm số liệu."
+    },
+    {
+      "id": "q_u0506_003",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "According to the 2025 report, how much electricity did data centers use in 2024?",
+        "vi": "Theo báo cáo năm 2025, các trung tâm dữ liệu dùng bao nhiêu điện năm 2024?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "about 1.5 percent of the world's electricity",
+            "vi": "khoảng 1,5 phần trăm điện thế giới"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "about 1.5 percent of the world's electricity",
+          "text_translation": "khoảng 1,5 phần trăm điện thế giới"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "more than the whole of Japan uses in a year",
+            "vi": "nhiều hơn cả nước Nhật dùng trong một năm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "more than the whole of Japan uses in a year",
+          "text_translation": "nhiều hơn cả nước Nhật dùng trong một năm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "about half of the world's electricity, mostly for AI",
+            "vi": "khoảng một nửa điện thế giới, chủ yếu cho AI"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "about half of the world's electricity, mostly for AI",
+          "text_translation": "khoảng một nửa điện thế giới, chủ yếu cho AI"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "945 terawatt-hours, which is slightly more than Japan uses",
+            "vi": "945 terawatt-giờ, hơi nhiều hơn mức Nhật Bản dùng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "945 terawatt-hours, which is slightly more than Japan uses",
+          "text_translation": "945 terawatt-giờ, hơi nhiều hơn mức Nhật Bản dùng"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"about 415 terawatt-hours of electricity in 2024, roughly 1.5 percent of all the electricity used in the world.\" Con số 945 là dự báo cho năm 2030."
+      },
+      "audio_data": null,
+      "question_jp": "According to the 2025 report, how much electricity did data centers use in 2024?",
+      "question_vn": "Theo báo cáo năm 2025, các trung tâm dữ liệu dùng bao nhiêu điện năm 2024?",
+      "explanation": "\"about 415 terawatt-hours of electricity in 2024, roughly 1.5 percent of all the electricity used in the world.\" Con số 945 là dự báo cho năm 2030."
+    },
+    {
+      "id": "q_u0506_004",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "What does the report expect to happen by 2030?",
+        "vi": "Báo cáo dự kiến điều gì sẽ xảy ra trước năm 2030?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Data centers will use less electricity because computers will become smaller.",
+            "vi": "Trung tâm dữ liệu sẽ dùng ít điện hơn vì máy tính sẽ nhỏ đi."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Data centers will use less electricity because computers will become smaller.",
+          "text_translation": "Trung tâm dữ liệu sẽ dùng ít điện hơn vì máy tính sẽ nhỏ đi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Japan will build most of the data centers that are planned.",
+            "vi": "Nhật Bản sẽ xây phần lớn các trung tâm dữ liệu đang được lên kế hoạch."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Japan will build most of the data centers that are planned.",
+          "text_translation": "Nhật Bản sẽ xây phần lớn các trung tâm dữ liệu đang được lên kế hoạch."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Data-center electricity use will more than double, mainly because of AI.",
+            "vi": "Lượng điện của trung tâm dữ liệu sẽ tăng hơn gấp đôi, chủ yếu vì AI."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Data-center electricity use will more than double, mainly because of AI.",
+          "text_translation": "Lượng điện của trung tâm dữ liệu sẽ tăng hơn gấp đôi, chủ yếu vì AI."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "AI will stop growing once the power plants run out of fuel.",
+            "vi": "AI sẽ ngừng phát triển khi các nhà máy điện hết nhiên liệu."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "AI will stop growing once the power plants run out of fuel.",
+          "text_translation": "AI sẽ ngừng phát triển khi các nhà máy điện hết nhiên liệu."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"expected that figure to more than double by 2030\" và \"with AI as the main reason for the growth.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does the report expect to happen by 2030?",
+      "question_vn": "Báo cáo dự kiến điều gì sẽ xảy ra trước năm 2030?",
+      "explanation": "\"expected that figure to more than double by 2030\" và \"with AI as the main reason for the growth.\""
+    },
+    {
+      "id": "q_u0506_005",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "Why does Trevor answer his own question with \"Yes and no\"?",
+        "vi": "Vì sao Trevor tự trả lời câu hỏi của mình bằng \"Vừa đúng vừa sai\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because one question uses very little energy, but the total scale is a real problem",
+            "vi": "vì một câu hỏi dùng rất ít điện, nhưng quy mô tổng thể là vấn đề thật"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because one question uses very little energy, but the total scale is a real problem",
+          "text_translation": "vì một câu hỏi dùng rất ít điện, nhưng quy mô tổng thể là vấn đề thật"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because he has not found any data that clearly supports either side",
+            "vi": "vì cậu chưa tìm được số liệu nào ủng hộ rõ ràng bên nào"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because he has not found any data that clearly supports either side",
+          "text_translation": "vì cậu chưa tìm được số liệu nào ủng hộ rõ ràng bên nào"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because his friend changed his mind after reading the report",
+            "vi": "vì bạn cậu đã đổi ý sau khi đọc báo cáo"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because his friend changed his mind after reading the report",
+          "text_translation": "vì bạn cậu đã đổi ý sau khi đọc báo cáo"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the report is unclear about how much electricity data centers use",
+            "vi": "vì báo cáo không rõ các trung tâm dữ liệu dùng bao nhiêu điện"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because the report is unclear about how much electricity data centers use",
+          "text_translation": "vì báo cáo không rõ các trung tâm dữ liệu dùng bao nhiêu điện"
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi cấu trúc lập luận. Phần sai: điện của một câu hỏi \"is negligible\". Phần đúng: \"The problem is not any single question but scale\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Trevor answer his own question with \"Yes and no\"?",
+      "question_vn": "Vì sao Trevor tự trả lời câu hỏi của mình bằng \"Vừa đúng vừa sai\"?",
+      "explanation": "Câu hỏi cấu trúc lập luận. Phần sai: điện của một câu hỏi \"is negligible\". Phần đúng: \"The problem is not any single question but scale\"."
+    },
+    {
+      "id": "q_u0506_006",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "In the sentence about one question, the word \"negligible\" is closest in meaning to",
+        "vi": "Trong câu nói về một câu hỏi, từ \"negligible\" gần nghĩa nhất với"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "so large that it cannot be ignored",
+            "vi": "lớn tới mức không thể bỏ qua"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "so large that it cannot be ignored",
+          "text_translation": "lớn tới mức không thể bỏ qua"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "so small that it hardly matters",
+            "vi": "nhỏ tới mức gần như không đáng kể"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "so small that it hardly matters",
+          "text_translation": "nhỏ tới mức gần như không đáng kể"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "impossible to measure exactly",
+            "vi": "không thể đo chính xác"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "impossible to measure exactly",
+          "text_translation": "không thể đo chính xác"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "growing quickly every year",
+            "vi": "tăng nhanh mỗi năm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "growing quickly every year",
+          "text_translation": "tăng nhanh mỗi năm"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Từ trong ngữ cảnh. Ngay sau đó: \"it is far less than the energy needed to boil water for a cup of tea.\""
+      },
+      "audio_data": null,
+      "question_jp": "In the sentence about one question, the word \"negligible\" is closest in meaning to",
+      "question_vn": "Trong câu nói về một câu hỏi, từ \"negligible\" gần nghĩa nhất với",
+      "explanation": "Từ trong ngữ cảnh. Ngay sau đó: \"it is far less than the energy needed to boil water for a cup of tea.\""
+    },
+    {
+      "id": "q_u0506_007",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "Why does Trevor say that decisions made now will shape emissions for decades?",
+        "vi": "Vì sao Trevor nói các quyết định lúc này sẽ định hình lượng khí thải trong nhiều thập kỷ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because people will ask fewer questions in the future, so the plans will be cancelled",
+            "vi": "vì sau này người ta sẽ hỏi ít hơn nên các kế hoạch sẽ bị huỷ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because people will ask fewer questions in the future, so the plans will be cancelled",
+          "text_translation": "vì sau này người ta sẽ hỏi ít hơn nên các kế hoạch sẽ bị huỷ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because AI will replace the power grids, and the data centers built today will all have to be built again",
+            "vi": "vì AI sẽ thay thế lưới điện, và các trung tâm dữ liệu xây hôm nay sẽ phải xây lại hết"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because AI will replace the power grids, and the data centers built today will all have to be built again",
+          "text_translation": "vì AI sẽ thay thế lưới điện, và các trung tâm dữ liệu xây hôm nay sẽ phải xây lại hết"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because wind turbines last only a few years and then must be replaced by fossil fuels",
+            "vi": "vì tua-bin gió chỉ dùng được vài năm rồi phải thay bằng nhiên liệu hoá thạch"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because wind turbines last only a few years and then must be replaced by fossil fuels",
+          "text_translation": "vì tua-bin gió chỉ dùng được vài năm rồi phải thay bằng nhiên liệu hoá thạch"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because many data centers are still being planned, and their energy source will matter for years",
+            "vi": "vì nhiều trung tâm dữ liệu vẫn đang được lên kế hoạch, và nguồn điện của chúng sẽ quan trọng nhiều năm"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because many data centers are still being planned, and their energy source will matter for years",
+          "text_translation": "vì nhiều trung tâm dữ liệu vẫn đang được lên kế hoạch, và nguồn điện của chúng sẽ quan trọng nhiều năm"
+        }
+      ],
+      "evidence_segments": [
+        9,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu suy luận. \"many of the centers that will have been built by 2030 are still being planned today\", nên chọn gió, mặt trời hay nhiên liệu hoá thạch bây giờ sẽ kéo dài nhiều năm."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Trevor say that decisions made now will shape emissions for decades?",
+      "question_vn": "Vì sao Trevor nói các quyết định lúc này sẽ định hình lượng khí thải trong nhiều thập kỷ?",
+      "explanation": "Câu suy luận. \"many of the centers that will have been built by 2030 are still being planned today\", nên chọn gió, mặt trời hay nhiên liệu hoá thạch bây giờ sẽ kéo dài nhiều năm."
+    },
+    {
+      "id": "q_u0506_008",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "Why does Trevor think that feeling guilty about each question is \"detrimental\"?",
+        "vi": "Vì sao Trevor cho rằng áy náy với từng câu hỏi là \"có hại\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because it uses more electricity than the chatbot itself does",
+            "vi": "vì nó tốn điện hơn chính chatbot"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because it uses more electricity than the chatbot itself does",
+          "text_translation": "vì nó tốn điện hơn chính chatbot"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because it makes students fail their homework and lose confidence",
+            "vi": "vì nó khiến sinh viên làm hỏng bài tập và mất tự tin"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because it makes students fail their homework and lose confidence",
+          "text_translation": "vì nó khiến sinh viên làm hỏng bài tập và mất tự tin"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because it turns a huge problem into a matter of personal shame",
+            "vi": "vì nó biến một vấn đề khổng lồ thành chuyện xấu hổ cá nhân"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because it turns a huge problem into a matter of personal shame",
+          "text_translation": "vì nó biến một vấn đề khổng lồ thành chuyện xấu hổ cá nhân"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because companies want people to feel guilty so they will buy more",
+            "vi": "vì các công ty muốn người ta áy náy để mua nhiều hơn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because companies want people to feel guilty so they will buy more",
+          "text_translation": "vì các công ty muốn người ta áy náy để mua nhiều hơn"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"it makes a huge problem look like a matter of personal shame.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why does Trevor think that feeling guilty about each question is \"detrimental\"?",
+      "question_vn": "Vì sao Trevor cho rằng áy náy với từng câu hỏi là \"có hại\"?",
+      "explanation": "\"it makes a huge problem look like a matter of personal shame.\""
+    },
+    {
+      "id": "q_u0506_009",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "What does Trevor believe is the most useful action?",
+        "vi": "Trevor tin hành động hữu ích nhất là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "never using AI chatbots again, even for homework or for simple questions about the weather",
+            "vi": "không bao giờ dùng chatbot AI nữa, kể cả cho bài tập hay câu hỏi đơn giản về thời tiết"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "never using AI chatbots again, even for homework or for simple questions about the weather",
+          "text_translation": "không bao giờ dùng chatbot AI nữa, kể cả cho bài tập hay câu hỏi đơn giản về thời tiết"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "asking AI companies to be open about how much energy they use and where it comes from",
+            "vi": "yêu cầu các công ty AI công khai họ dùng bao nhiêu năng lượng và từ đâu"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "asking AI companies to be open about how much energy they use and where it comes from",
+          "text_translation": "yêu cầu các công ty AI công khai họ dùng bao nhiêu năng lượng và từ đâu"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "studying only in the library, where the lights are always turned off",
+            "vi": "chỉ học trong thư viện, nơi đèn luôn được tắt"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "studying only in the library, where the lights are always turned off",
+          "text_translation": "chỉ học trong thư viện, nơi đèn luôn được tắt"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "moving data centers to Japan, where electricity is cheaper and cleaner",
+            "vi": "chuyển trung tâm dữ liệu sang Nhật, nơi điện rẻ và sạch hơn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "moving data centers to Japan, where electricity is cheaper and cleaner",
+          "text_translation": "chuyển trung tâm dữ liệu sang Nhật, nơi điện rẻ và sạch hơn"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"ask the companies that build these systems to say clearly how much energy they use and where it comes from.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Trevor believe is the most useful action?",
+      "question_vn": "Trevor tin hành động hữu ích nhất là gì?",
+      "explanation": "\"ask the companies that build these systems to say clearly how much energy they use and where it comes from.\""
+    },
+    {
+      "id": "q_u0506_010",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_01",
+      "i18n": {
+        "en": "What is the effect of the final paragraph about the library lights?",
+        "vi": "Đoạn cuối về đèn thư viện tạo ra hiệu ứng gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It shows, with gentle humor, that his friend's choice does not really save energy.",
+            "vi": "Nó cho thấy, bằng sự hài hước nhẹ nhàng, rằng lựa chọn của bạn cậu chẳng thực sự tiết kiệm điện."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It shows, with gentle humor, that his friend's choice does not really save energy.",
+          "text_translation": "Nó cho thấy, bằng sự hài hước nhẹ nhàng, rằng lựa chọn của bạn cậu chẳng thực sự tiết kiệm điện."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It proves that libraries waste far more energy than data centers do.",
+            "vi": "Nó chứng minh thư viện lãng phí điện hơn nhiều so với trung tâm dữ liệu."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It proves that libraries waste far more energy than data centers do.",
+          "text_translation": "Nó chứng minh thư viện lãng phí điện hơn nhiều so với trung tâm dữ liệu."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It shows that Trevor has changed his mind and now fully agrees with his friend's decision.",
+            "vi": "Nó cho thấy Trevor đã đổi ý và hoàn toàn đồng ý với quyết định của bạn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It shows that Trevor has changed his mind and now fully agrees with his friend's decision.",
+          "text_translation": "Nó cho thấy Trevor đã đổi ý và hoàn toàn đồng ý với quyết định của bạn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It proves that the library should be closed to save electricity.",
+            "vi": "Nó chứng minh thư viện nên đóng cửa để tiết kiệm điện."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It proves that the library should be closed to save electricity.",
+          "text_translation": "Nó chứng minh thư viện nên đóng cửa để tiết kiệm điện."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi giọng điệu. Bạn cậu tránh chatbot để tiết kiệm điện nhưng lại ngồi \"under forty bright lights that nobody ever turns off\". Đây là chi tiết mỉa nhẹ, không phải lập luận khoa học."
+      },
+      "audio_data": null,
+      "question_jp": "What is the effect of the final paragraph about the library lights?",
+      "question_vn": "Đoạn cuối về đèn thư viện tạo ra hiệu ứng gì?",
+      "explanation": "Câu hỏi giọng điệu. Bạn cậu tránh chatbot để tiết kiệm điện nhưng lại ngồi \"under forty bright lights that nobody ever turns off\". Đây là chi tiết mỉa nhẹ, không phải lập luận khoa học."
+    },
+    {
+      "id": "q_u0506_011",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "Why was Mitchell surprised at his checkup?",
+        "vi": "Vì sao Mitchell bất ngờ ở buổi khám định kỳ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the doctor told him, as usual, to sleep more and to lose a few pounds",
+            "vi": "vì bác sĩ vẫn như mọi khi bảo ông ngủ nhiều hơn và giảm vài pao"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because the doctor told him, as usual, to sleep more and to lose a few pounds",
+          "text_translation": "vì bác sĩ vẫn như mọi khi bảo ông ngủ nhiều hơn và giảm vài pao"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because he had lost weight and the doctor said it was too much",
+            "vi": "vì ông đã giảm cân và bác sĩ nói giảm quá nhiều"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because he had lost weight and the doctor said it was too much",
+          "text_translation": "vì ông đã giảm cân và bác sĩ nói giảm quá nhiều"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because he expected the usual advice but was told he had high blood pressure",
+            "vi": "vì ông tưởng sẽ nghe lời dặn quen thuộc nhưng lại được báo bị huyết áp cao"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because he expected the usual advice but was told he had high blood pressure",
+          "text_translation": "vì ông tưởng sẽ nghe lời dặn quen thuộc nhưng lại được báo bị huyết áp cao"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because Megan came with him and heard the result before he did",
+            "vi": "vì Megan đi cùng và nghe kết quả trước ông"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because Megan came with him and heard the result before he did",
+          "text_translation": "vì Megan đi cùng và nghe kết quả trước ông"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"I went in expecting to be told what I am always told\" rồi \"Instead, Dr. Ramos measured my blood pressure three times, frowned, and said the word\""
+      },
+      "audio_data": null,
+      "question_jp": "Why was Mitchell surprised at his checkup?",
+      "question_vn": "Vì sao Mitchell bất ngờ ở buổi khám định kỳ?",
+      "explanation": "\"I went in expecting to be told what I am always told\" rồi \"Instead, Dr. Ramos measured my blood pressure three times, frowned, and said the word\""
+    },
+    {
+      "id": "q_u0506_012",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "According to Dr. Ramos, why is high blood pressure dangerous even when people feel fine?",
+        "vi": "Theo bác sĩ Ramos, vì sao huyết áp cao nguy hiểm ngay cả khi người ta thấy khoẻ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because it often has no symptoms, so people learn of it only after something serious",
+            "vi": "vì nó thường không có triệu chứng, nên người ta chỉ biết sau khi có chuyện nghiêm trọng"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because it often has no symptoms, so people learn of it only after something serious",
+          "text_translation": "vì nó thường không có triệu chứng, nên người ta chỉ biết sau khi có chuyện nghiêm trọng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because it is always painful, so people cannot work or sleep",
+            "vi": "vì nó luôn gây đau nên người ta không thể làm việc hay ngủ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because it is always painful, so people cannot work or sleep",
+          "text_translation": "vì nó luôn gây đau nên người ta không thể làm việc hay ngủ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because it cannot be treated once it has started to damage the heart",
+            "vi": "vì không thể chữa khi nó đã bắt đầu làm hại tim"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because it cannot be treated once it has started to damage the heart",
+          "text_translation": "vì không thể chữa khi nó đã bắt đầu làm hại tim"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because it spreads to other people, especially to the family members who live with him",
+            "vi": "vì nó lây sang người khác, nhất là các thành viên gia đình sống cùng ông"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because it spreads to other people, especially to the family members who live with him",
+          "text_translation": "vì nó lây sang người khác, nhất là các thành viên gia đình sống cùng ông"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"high blood pressure is often not symptomatic at all, which is why so many people find out only after something serious has happened.\""
+      },
+      "audio_data": null,
+      "question_jp": "According to Dr. Ramos, why is high blood pressure dangerous even when people feel fine?",
+      "question_vn": "Theo bác sĩ Ramos, vì sao huyết áp cao nguy hiểm ngay cả khi người ta thấy khoẻ?",
+      "explanation": "\"high blood pressure is often not symptomatic at all, which is why so many people find out only after something serious has happened.\""
+    },
+    {
+      "id": "q_u0506_013",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "Why was Megan angry with herself?",
+        "vi": "Vì sao Megan giận chính mình?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because she had cooked salty food for thirty years and never read the labels on the bread",
+            "vi": "vì cô đã nấu đồ mặn suốt ba mươi năm mà không bao giờ đọc nhãn bánh mì"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because she had cooked salty food for thirty years and never read the labels on the bread",
+          "text_translation": "vì cô đã nấu đồ mặn suốt ba mươi năm mà không bao giờ đọc nhãn bánh mì"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because she missed his checkup and he went to the doctor alone",
+            "vi": "vì cô lỡ buổi khám và ông đi bác sĩ một mình"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because she missed his checkup and he went to the doctor alone",
+          "text_translation": "vì cô lỡ buổi khám và ông đi bác sĩ một mình"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because she works too many hours and has no time to see her husband",
+            "vi": "vì cô làm quá nhiều giờ và không có thời gian gặp chồng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because she works too many hours and has no time to see her husband",
+          "text_translation": "vì cô làm quá nhiều giờ và không có thời gian gặp chồng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because, as a nurse, she felt she should have noticed her husband's blood pressure",
+            "vi": "vì là y tá, cô thấy lẽ ra mình phải để ý huyết áp của chồng"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because, as a nurse, she felt she should have noticed her husband's blood pressure",
+          "text_translation": "vì là y tá, cô thấy lẽ ra mình phải để ý huyết áp của chồng"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"I check other people's blood pressure twelve hours a day,\" và \"I ought to have noticed yours.\""
+      },
+      "audio_data": null,
+      "question_jp": "Why was Megan angry with herself?",
+      "question_vn": "Vì sao Megan giận chính mình?",
+      "explanation": "\"I check other people's blood pressure twelve hours a day,\" và \"I ought to have noticed yours.\""
+    },
+    {
+      "id": "q_u0506_014",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "What does \"She did not laugh\" suggest?",
+        "vi": "Câu \"Cô ấy không cười\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Megan did not hear the joke because she was busy thinking about her shift at work.",
+            "vi": "Megan không nghe thấy câu đùa vì mải nghĩ về ca làm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Megan did not hear the joke because she was busy thinking about her shift at work.",
+          "text_translation": "Megan không nghe thấy câu đùa vì mải nghĩ về ca làm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Megan was taking the situation seriously and was not comforted by his joke.",
+            "vi": "Megan đang nghiêm túc với chuyện này và câu đùa của ông không làm cô nhẹ lòng."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Megan was taking the situation seriously and was not comforted by his joke.",
+          "text_translation": "Megan đang nghiêm túc với chuyện này và câu đùa của ông không làm cô nhẹ lòng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Megan thought the joke was rude and wanted him to apologize.",
+            "vi": "Megan thấy câu đùa thô lỗ và muốn ông xin lỗi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Megan thought the joke was rude and wanted him to apologize.",
+          "text_translation": "Megan thấy câu đùa thô lỗ và muốn ông xin lỗi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Megan was too tired after her long shift to find anything funny.",
+            "vi": "Megan quá mệt sau ca dài nên chẳng thấy gì buồn cười."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Megan was too tired after her long shift to find anything funny.",
+          "text_translation": "Megan quá mệt sau ca dài nên chẳng thấy gì buồn cười."
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý. Mitchell đùa để an ủi vợ, nhưng câu ngắn \"She did not laugh.\" cho thấy cô vẫn lo, vẫn coi đây là chuyện nghiêm trọng."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"She did not laugh\" suggest?",
+      "question_vn": "Câu \"Cô ấy không cười\" hàm ý gì?",
+      "explanation": "Câu hàm ý. Mitchell đùa để an ủi vợ, nhưng câu ngắn \"She did not laugh.\" cho thấy cô vẫn lo, vẫn coi đây là chuyện nghiêm trọng."
+    },
+    {
+      "id": "q_u0506_015",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "What does Mitchell find strange?",
+        "vi": "Mitchell thấy điều gì lạ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "that his doctor was so young and still gave such serious advice",
+            "vi": "rằng bác sĩ của ông trẻ thế mà lại khuyên nghiêm túc đến vậy"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "that his doctor was so young and still gave such serious advice",
+          "text_translation": "rằng bác sĩ của ông trẻ thế mà lại khuyên nghiêm túc đến vậy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "that walking for thirty minutes every day could be so useful for a history teacher",
+            "vi": "rằng đi bộ ba mươi phút mỗi ngày lại có ích đến thế cho một thầy giáo dạy sử"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "that walking for thirty minutes every day could be so useful for a history teacher",
+          "text_translation": "rằng đi bộ ba mươi phút mỗi ngày lại có ích đến thế cho một thầy giáo dạy sử"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "that the pill is so small and yet has to be taken every single day",
+            "vi": "rằng viên thuốc nhỏ thế mà ngày nào cũng phải uống"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "that the pill is so small and yet has to be taken every single day",
+          "text_translation": "rằng viên thuốc nhỏ thế mà ngày nào cũng phải uống"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "that a careful cook like him had been eating so much salt without knowing",
+            "vi": "rằng một người nấu ăn cẩn thận như ông lại đã ăn nhiều muối mà không biết"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "that a careful cook like him had been eating so much salt without knowing",
+          "text_translation": "rằng một người nấu ăn cẩn thận như ông lại đã ăn nhiều muối mà không biết"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"It seems strange that a man who cooks as carefully as I do should have been eating so much salt without knowing it.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Mitchell find strange?",
+      "question_vn": "Mitchell thấy điều gì lạ?",
+      "explanation": "\"It seems strange that a man who cooks as carefully as I do should have been eating so much salt without knowing it.\""
+    },
+    {
+      "id": "q_u0506_016",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "Where did most of the salt in Mitchell's diet come from?",
+        "vi": "Phần lớn muối trong khẩu phần của Mitchell đến từ đâu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "restaurant meals that he ate with the other teachers at the end of every school day",
+            "vi": "các bữa ăn nhà hàng ông ăn cùng các giáo viên khác vào cuối mỗi ngày học"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "restaurant meals that he ate with the other teachers at the end of every school day",
+          "text_translation": "các bữa ăn nhà hàng ông ăn cùng các giáo viên khác vào cuối mỗi ngày học"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "snacks that his students shared with him at school",
+            "vi": "đồ ăn vặt học sinh chia cho ông ở trường"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "snacks that his students shared with him at school",
+          "text_translation": "đồ ăn vặt học sinh chia cho ông ở trường"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "everyday foods and sauces in his own kitchen, such as bread and soup cubes",
+            "vi": "đồ ăn hằng ngày và nước sốt trong chính bếp nhà ông, như bánh mì và viên súp"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "everyday foods and sauces in his own kitchen, such as bread and soup cubes",
+          "text_translation": "đồ ăn hằng ngày và nước sốt trong chính bếp nhà ông, như bánh mì và viên súp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the café where he buys coffee and a roll every morning",
+            "vi": "quán cà phê nơi ông mua cà phê và bánh mì mỗi sáng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "the café where he buys coffee and a roll every morning",
+          "text_translation": "quán cà phê nơi ông mua cà phê và bánh mì mỗi sáng"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"the bread, the soup cubes, the sauces I add\". Tất cả đều ở trong bếp nhà ông."
+      },
+      "audio_data": null,
+      "question_jp": "Where did most of the salt in Mitchell's diet come from?",
+      "question_vn": "Phần lớn muối trong khẩu phần của Mitchell đến từ đâu?",
+      "explanation": "\"the bread, the soup cubes, the sauces I add\". Tất cả đều ở trong bếp nhà ông."
+    },
+    {
+      "id": "q_u0506_017",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "What unexpected benefit has Mitchell found in his new routine?",
+        "vi": "Mitchell tìm thấy lợi ích bất ngờ nào trong thói quen mới?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The lunchtime walks with colleagues have become the best part of his day.",
+            "vi": "Những buổi đi bộ giờ trưa với đồng nghiệp trở thành phần vui nhất trong ngày."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The lunchtime walks with colleagues have become the best part of his day.",
+          "text_translation": "Những buổi đi bộ giờ trưa với đồng nghiệp trở thành phần vui nhất trong ngày."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He no longer needs to take the pill, because his numbers are now much better than before.",
+            "vi": "Ông không cần uống thuốc nữa, vì các chỉ số của ông giờ tốt hơn trước nhiều."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He no longer needs to take the pill, because his numbers are now much better than before.",
+          "text_translation": "Ông không cần uống thuốc nữa, vì các chỉ số của ông giờ tốt hơn trước nhiều."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "His students now walk to school with him every morning.",
+            "vi": "Học sinh giờ đi bộ đến trường cùng ông mỗi sáng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "His students now walk to school with him every morning.",
+          "text_translation": "Học sinh giờ đi bộ đến trường cùng ông mỗi sáng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He has lost thirty pounds and now sleeps much better.",
+            "vi": "Ông đã giảm ba mươi pao và giờ ngủ ngon hơn nhiều."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He has lost thirty pounds and now sleeps much better.",
+          "text_translation": "Ông đã giảm ba mươi pao và giờ ngủ ngon hơn nhiều."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"I have started a lunchtime walking group with two other teachers, which has turned out to be the best part of my day.\""
+      },
+      "audio_data": null,
+      "question_jp": "What unexpected benefit has Mitchell found in his new routine?",
+      "question_vn": "Mitchell tìm thấy lợi ích bất ngờ nào trong thói quen mới?",
+      "explanation": "\"I have started a lunchtime walking group with two other teachers, which has turned out to be the best part of my day.\""
+    },
+    {
+      "id": "q_u0506_018",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "What does Megan's comment about the pill, \"which, as she points out, is every day\", show?",
+        "vi": "Lời Megan về viên thuốc, \"mà như cô ấy chỉ ra, thì ngày nào tôi cũng thấy khoẻ\", cho thấy điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Mitchell feels ill every day, so he has to take the pill without fail.",
+            "vi": "Ngày nào Mitchell cũng thấy mệt nên ông phải uống thuốc đều đặn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Mitchell feels ill every day, so he has to take the pill without fail.",
+          "text_translation": "Ngày nào Mitchell cũng thấy mệt nên ông phải uống thuốc đều đặn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Mitchell can stop taking the pill on the days when he feels fine.",
+            "vi": "Mitchell có thể ngừng uống thuốc vào những ngày thấy khoẻ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Mitchell can stop taking the pill on the days when he feels fine.",
+          "text_translation": "Mitchell có thể ngừng uống thuốc vào những ngày thấy khoẻ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Hypertension has no symptoms, so feeling fine is no reason to stop the medicine.",
+            "vi": "Tăng huyết áp không có triệu chứng nên thấy khoẻ không phải lý do để ngừng thuốc."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Hypertension has no symptoms, so feeling fine is no reason to stop the medicine.",
+          "text_translation": "Tăng huyết áp không có triệu chứng nên thấy khoẻ không phải lý do để ngừng thuốc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The pill makes him feel fine, which is why he must keep taking it.",
+            "vi": "Viên thuốc làm ông thấy khoẻ, vì thế ông phải uống tiếp."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The pill makes him feel fine, which is why he must keep taking it.",
+          "text_translation": "Viên thuốc làm ông thấy khoẻ, vì thế ông phải uống tiếp."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hàm ý, nối với lời bác sĩ ở đầu bài: huyết áp cao thường không có triệu chứng, nên ngày nào ông cũng thấy khoẻ, nghĩa là ngày nào cũng phải uống."
+      },
+      "audio_data": null,
+      "question_jp": "What does Megan's comment about the pill, \"which, as she points out, is every day\", show?",
+      "question_vn": "Lời Megan về viên thuốc, \"mà như cô ấy chỉ ra, thì ngày nào tôi cũng thấy khoẻ\", cho thấy điều gì?",
+      "explanation": "Câu hàm ý, nối với lời bác sĩ ở đầu bài: huyết áp cao thường không có triệu chứng, nên ngày nào ông cũng thấy khoẻ, nghĩa là ngày nào cũng phải uống."
+    },
+    {
+      "id": "q_u0506_019",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "What does Mitchell realize about why he was so shocked?",
+        "vi": "Mitchell nhận ra điều gì về lý do ông bị sốc?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He had always been afraid of doctors and had avoided every checkup until the day he turned fifty.",
+            "vi": "Ông vốn luôn sợ bác sĩ và né mọi buổi khám cho tới ngày tròn năm mươi tuổi."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He had always been afraid of doctors and had avoided every checkup until the day he turned fifty.",
+          "text_translation": "Ông vốn luôn sợ bác sĩ và né mọi buổi khám cho tới ngày tròn năm mươi tuổi."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He had believed that illness happens to other people, not to someone who looks after himself.",
+            "vi": "Ông đã tin bệnh tật xảy ra với người khác, không phải với người tự chăm lo cho mình."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "He had believed that illness happens to other people, not to someone who looks after himself.",
+          "text_translation": "Ông đã tin bệnh tật xảy ra với người khác, không phải với người tự chăm lo cho mình."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He did not trust Dr. Ramos because the doctor had frowned and seemed unsure.",
+            "vi": "Ông không tin bác sĩ Ramos vì ông ấy cau mày và có vẻ không chắc."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He did not trust Dr. Ramos because the doctor had frowned and seemed unsure.",
+          "text_translation": "Ông không tin bác sĩ Ramos vì ông ấy cau mày và có vẻ không chắc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He had read false information online about how much salt a man needs.",
+            "vi": "Ông đã đọc thông tin sai trên mạng về lượng muối một người đàn ông cần."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He had read false information online about how much salt a man needs.",
+          "text_translation": "Ông đã đọc thông tin sai trên mạng về lượng muối một người đàn ông cần."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"I suppose I believed that illness was something that happened to other people\" và \"not to a man who makes his own soup.\""
+      },
+      "audio_data": null,
+      "question_jp": "What does Mitchell realize about why he was so shocked?",
+      "question_vn": "Mitchell nhận ra điều gì về lý do ông bị sốc?",
+      "explanation": "\"I suppose I believed that illness was something that happened to other people\" và \"not to a man who makes his own soup.\""
+    },
+    {
+      "id": "q_u0506_020",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0506_02",
+      "i18n": {
+        "en": "Use both texts. What do Trevor and Mitchell both discover?",
+        "vi": "Dựa vào cả hai bài. Trevor và Mitchell đều phát hiện ra điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Doctors and engineers never agree about what counts as a serious problem in daily life.",
+            "vi": "Bác sĩ và kỹ sư không bao giờ đồng ý về việc điều gì là vấn đề nghiêm trọng trong đời sống."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Doctors and engineers never agree about what counts as a serious problem in daily life.",
+          "text_translation": "Bác sĩ và kỹ sư không bao giờ đồng ý về việc điều gì là vấn đề nghiêm trọng trong đời sống."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Personal guilt is the best way to solve a problem that affects everyone.",
+            "vi": "Áy náy cá nhân là cách tốt nhất để giải quyết vấn đề ảnh hưởng đến mọi người."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Personal guilt is the best way to solve a problem that affects everyone.",
+          "text_translation": "Áy náy cá nhân là cách tốt nhất để giải quyết vấn đề ảnh hưởng đến mọi người."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Numbers are less important than feelings when the problem is a serious one.",
+            "vi": "Con số kém quan trọng hơn cảm xúc khi vấn đề nghiêm trọng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Numbers are less important than feelings when the problem is a serious one.",
+          "text_translation": "Con số kém quan trọng hơn cảm xúc khi vấn đề nghiêm trọng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "A problem can be hidden in small, everyday things that add up over time.",
+            "vi": "Một vấn đề có thể ẩn trong những thứ nhỏ, hằng ngày, cộng dồn theo thời gian."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "A problem can be hidden in small, everyday things that add up over time.",
+          "text_translation": "Một vấn đề có thể ẩn trong những thứ nhỏ, hằng ngày, cộng dồn theo thời gian."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "Câu nối hai bài. Với Trevor, vấn đề không nằm ở một câu hỏi mà ở quy mô cộng dồn. Với Mitchell: \"I must have been adding salt to almost everything for thirty years.\""
+      },
+      "audio_data": null,
+      "question_jp": "Use both texts. What do Trevor and Mitchell both discover?",
+      "question_vn": "Dựa vào cả hai bài. Trevor và Mitchell đều phát hiện ra điều gì?",
+      "explanation": "Câu nối hai bài. Với Trevor, vấn đề không nằm ở một câu hỏi mà ở quy mô cộng dồn. Với Mitchell: \"I must have been adding salt to almost everything for thirty years.\""
+    }
+  ],
+  "question_sets": [
+    {
+      "set_id": "set_u0506_reading_1",
+      "set_type": "reading",
+      "name": "Bài đọc 1 (Unit 5) — Trevor viết về điện năng của AI",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 1,
+      "reading_passage_ref": "passage_u0506_01",
+      "question_ids": [
+        "q_u0506_001",
+        "q_u0506_002",
+        "q_u0506_003",
+        "q_u0506_004",
+        "q_u0506_005",
+        "q_u0506_006",
+        "q_u0506_007",
+        "q_u0506_008",
+        "q_u0506_009",
+        "q_u0506_010"
+      ]
+    },
+    {
+      "set_id": "set_u0506_reading_2",
+      "set_type": "reading",
+      "name": "Bài đọc 2 (Unit 6) — Nhật ký Mitchell nhận chẩn đoán huyết áp cao",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 2,
+      "reading_passage_ref": "passage_u0506_02",
+      "question_ids": [
+        "q_u0506_011",
+        "q_u0506_012",
+        "q_u0506_013",
+        "q_u0506_014",
+        "q_u0506_015",
+        "q_u0506_016",
+        "q_u0506_017",
+        "q_u0506_018",
+        "q_u0506_019",
+        "q_u0506_020"
+      ]
+    }
+  ]
+}
