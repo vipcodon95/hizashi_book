@@ -6,7 +6,7 @@
   "topic": "Sách bài tập đọc hiểu B1 (sách ôn) bám khoá tiếng Anh Hizashi, dàn nhân vật Maple Street; format VSTEP bậc 3",
   "target_audience": "Người Việt ôn khoá B1 trên app Hizashi, chuẩn bị VSTEP bậc 3",
   "domain_expert_role": "Giáo viên luyện thi VSTEP",
-  "current_stage": 8,
+  "current_stage": "done",
   "stages": {
     "01_research": {
       "status": "done",
@@ -68,7 +68,9 @@
       "completed_at": "2026-11-04"
     },
     "08_finalize": {
-      "status": "pending"
+      "status": "done",
+      "output": "_pipeline/08_revision_log.md",
+      "completed_at": "2026-11-04"
     }
   },
   "chapters": [
