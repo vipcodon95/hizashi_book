@@ -178,7 +178,7 @@
 
 > **What My First Months as a Doctor Taught Me**
 >
-> Written by: Dr. Leah Carter, first-year resident
+> Written by: Dr. Leah Carter, resident doctor
 >
 > When I graduated from medical school, I thought that the hardest part was over. I was wrong. In medical school, you study diseases. In the hospital, you meet people, and people are much more complicated than books.
 >
@@ -195,7 +195,7 @@
 | # | Tiếng Anh | Tiếng Việt |
 |---|---|---|
 | 1 | What My First Months as a Doctor Taught Me | Những tháng đầu làm bác sĩ đã dạy tôi điều gì |
-| 2 | Written by: Dr. Leah Carter, first-year resident | Người viết: bác sĩ Leah Carter, bác sĩ nội trú năm nhất |
+| 2 | Written by: Dr. Leah Carter, resident doctor | Người viết: bác sĩ Leah Carter, bác sĩ nội trú |
 | 3 | When I graduated from medical school, I thought that the hardest part was over. I was wrong. | Khi tốt nghiệp trường y, tôi cứ nghĩ phần khó nhất đã qua. Tôi đã nhầm. |
 | 4 | In medical school, you study diseases. In the hospital, you meet people, and people are much more complicated than books. | Ở trường y, bạn học về bệnh. Trong bệnh viện, bạn gặp con người, mà con người phức tạp hơn sách vở nhiều. |
 | 5 | The first lesson was about time. | Bài học đầu tiên là về thời gian. |

@@ -173,7 +173,7 @@
 >
 > So what ought you to do? For most colds, rest, plenty of water and time are the best treatment, and most people recover within about seven to ten days. The flu is usually more serious, and its symptoms, such as fever, aches and feeling very tired, often come on suddenly. Getting a flu vaccine every year is the best way to protect yourself, and doctors recommend it for almost everyone six months and older.
 >
-> However, see a doctor quickly if you have trouble breathing, chest pain or a fever that does not go away, or if you feel better and then suddenly worse. "Coming to the emergency room for a simple cold is rarely necessary," says Dr. Leah Carter, a first-year resident at Sunset Bay. "But please do not stay at home when you are really unwell. We would rather see you too early than too late."
+> However, see a doctor quickly if you have trouble breathing, chest pain or a fever that does not go away, or if you feel better and then suddenly worse. "Coming to the emergency room for a simple cold is rarely necessary," says Dr. Leah Carter, a resident at Sunset Bay. "But please do not stay at home when you are really unwell. We would rather see you too early than too late."
 >
 > Finally, wash your hands often, and stay away from work or school when you are sick to avoid passing the virus to others.
 >
@@ -194,7 +194,7 @@
 | 9 | The flu is usually more serious, and its symptoms, such as fever, aches and feeling very tired, often come on suddenly. | Cúm thường nặng hơn, và các triệu chứng như sốt, đau nhức, mệt mỏi thường đến đột ngột. |
 | 10 | Getting a flu vaccine every year is the best way to protect yourself, and doctors recommend it for almost everyone six months and older. | Tiêm vắc-xin cúm hằng năm là cách tự bảo vệ tốt nhất, và bác sĩ khuyên gần như mọi người từ sáu tháng tuổi trở lên đều nên tiêm. |
 | 11 | However, see a doctor quickly if you have trouble breathing, chest pain or a fever that does not go away, or if you feel better and then suddenly worse. | Tuy nhiên, hãy đi khám ngay nếu bạn khó thở, đau ngực hoặc sốt mãi không dứt, hay nếu đã đỡ rồi lại đột ngột nặng hơn. |
-| 12 | "Coming to the emergency room for a simple cold is rarely necessary," says Dr. Leah Carter, a first-year resident at Sunset Bay. | "Cảm lạnh thông thường thì hiếm khi cần tới phòng cấp cứu," bác sĩ Leah Carter, bác sĩ nội trú năm nhất ở Sunset Bay, nói. |
+| 12 | "Coming to the emergency room for a simple cold is rarely necessary," says Dr. Leah Carter, a resident at Sunset Bay. | "Cảm lạnh thông thường thì hiếm khi cần tới phòng cấp cứu," bác sĩ Leah Carter, bác sĩ nội trú ở Sunset Bay, nói. |
 | 13 | "But please do not stay at home when you are really unwell. We would rather see you too early than too late." | "Nhưng xin đừng ở nhà khi bạn thật sự không khoẻ. Chúng tôi thà gặp bạn sớm quá còn hơn muộn quá." |
 | 14 | Finally, wash your hands often, and stay away from work or school when you are sick to avoid passing the virus to others. | Cuối cùng, hãy rửa tay thường xuyên, và nghỉ làm, nghỉ học khi đang ốm để tránh lây virus cho người khác. |
 | 15 | Sunset Bay Hospital | Bệnh viện Sunset Bay |

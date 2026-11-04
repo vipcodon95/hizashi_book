@@ -46,19 +46,19 @@
 >
 > Here is the first part of our schedule:
 >
-> September 4: Jollof rice from the Okonkwo family
+> September 3: Jollof rice from the Okonkwo family
 >
 > Grandma Okonkwo warns that every family from her hometown argues about the right amount of pepper, and that hers is "the correct one". You have been warned.
 >
-> September 11: Chicken tamales from Mr. Alvarez
+> September 10: Chicken tamales from Mr. Alvarez
 >
 > His mother made them every winter, and he says that you have to chop the chicken by hand, not in a machine. We will be wrapping them by hand all morning.
 >
-> September 18: Peach pie from my own mother's recipe
+> September 17: Peach pie from my own mother's recipe
 >
 > I have changed only one thing: less sugar. If she knew, she would not be pleased.
 >
-> September 25: Banana bread from Tina Carter
+> September 24: Banana bread from Tina Carter
 >
 > Our youngest cook found the recipe in her great-grandmother's notebook, written in pencil on a page covered in old flour. She has tested it four times, and her family says that they never want to see a banana again.
 >
@@ -79,13 +79,13 @@
 | 3 | Every Friday from September to November, one special dish will be served at lunch, and every one of them will come from a family on Maple Street. | Mỗi thứ Sáu từ tháng Chín tới tháng Mười một, bữa trưa sẽ có một món đặc biệt, và món nào cũng do một gia đình trên phố Maple góp công thức. |
 | 4 | The cooks will be in the kitchen with me, and the story behind each recipe will be written on the board by the door. | Người nấu sẽ vào bếp cùng tôi, và câu chuyện đằng sau mỗi công thức sẽ được viết lên tấm bảng cạnh cửa. |
 | 5 | Here is the first part of our schedule: | Đây là phần đầu lịch của chúng ta: |
-| 6 | September 4: Jollof rice from the Okonkwo family | 4/9: Cơm jollof của gia đình Okonkwo |
+| 6 | September 3: Jollof rice from the Okonkwo family | 3/9: Cơm jollof của gia đình Okonkwo |
 | 7 | Grandma Okonkwo warns that every family from her hometown argues about the right amount of pepper, and that hers is "the correct one". You have been warned. | Bà Okonkwo cảnh báo rằng nhà nào ở quê bà cũng cãi nhau về lượng ớt cho đúng, và công thức nhà bà là "đúng nhất". Các bạn đã được báo trước. |
-| 8 | September 11: Chicken tamales from Mr. Alvarez | 11/9: Bánh tamale gà của ông Alvarez |
+| 8 | September 10: Chicken tamales from Mr. Alvarez | 10/9: Bánh tamale gà của ông Alvarez |
 | 9 | His mother made them every winter, and he says that you have to chop the chicken by hand, not in a machine. We will be wrapping them by hand all morning. | Mẹ ông làm món này mỗi mùa đông, và ông bảo phải băm thịt gà bằng tay, không dùng máy. Cả buổi sáng chúng tôi sẽ ngồi gói bằng tay. |
-| 10 | September 18: Peach pie from my own mother's recipe | 18/9: Bánh đào theo công thức của chính mẹ tôi |
+| 10 | September 17: Peach pie from my own mother's recipe | 17/9: Bánh đào theo công thức của chính mẹ tôi |
 | 11 | I have changed only one thing: less sugar. If she knew, she would not be pleased. | Tôi chỉ đổi một thứ: bớt đường. Mà bà biết thì chắc chẳng vui. |
-| 12 | September 25: Banana bread from Tina Carter | 25/9: Bánh mì chuối của Tina Carter |
+| 12 | September 24: Banana bread from Tina Carter | 24/9: Bánh mì chuối của Tina Carter |
 | 13 | Our youngest cook found the recipe in her great-grandmother's notebook, written in pencil on a page covered in old flour. She has tested it four times, and her family says that they never want to see a banana again. | Đầu bếp nhỏ tuổi nhất của chúng ta tìm thấy công thức trong cuốn sổ của bà cố, viết bút chì trên một trang lấm tấm bột cũ. Cô bé đã làm thử bốn lần, và cả nhà bảo không bao giờ muốn nhìn thấy quả chuối nữa. |
 | 14 | Would you like to share a dish? Please talk to me at the counter. | Bạn muốn góp một món? Hãy nói với tôi ở quầy. |
 | 15 | We will ask for a list of ingredients first. If so, we will plan a test day together; if not, don't worry, there are still plenty of Fridays. | Chúng tôi sẽ xin danh sách nguyên liệu trước. Nếu được, mình sẽ cùng hẹn một ngày nấu thử; nếu không, đừng lo, vẫn còn nhiều thứ Sáu. |

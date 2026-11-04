@@ -42,7 +42,7 @@
 
 > **Tina's Bird Journal: The Travelers at the Bay**
 >
-> Saturday, October 3
+> Saturday, October 2
 >
 > Today was my first morning at the bird count at the wetlands on the south side of San Diego Bay. There was a thick morning mist when we arrived, and our leader, a retired science teacher called Mrs. Delgado, said that we had to be completely silent. For a long time, I couldn't make out anything at all. Then I heard something call across the water, and slowly the mist lifted.
 >
@@ -50,7 +50,7 @@
 >
 > Mrs. Delgado explained that San Diego Bay is on the Pacific Flyway, a kind of highway in the sky that birds follow between the far north and South America. Every fall, millions of birds stop at wetlands like this one to rest and eat before they continue their journey. "Think of it as a gas station," she said. "If the gas stations disappear, the drivers don't make it home."
 >
-> Saturday, October 10
+> Saturday, October 9
 >
 > This week, I counted forty-two different species, and I finally saw an osprey dive. I saw it fall out of the sky, hit the water and rise again with a fish in its feet. Everybody cheered, which Mrs. Delgado said was "very unscientific, but understandable". Our counts are sent to scientists, who use them to see how bird numbers are changing. Mrs. Delgado told us that North America has lost almost three billion birds since 1970. I can't stop thinking about that number. I used to want to be a vet. Now I think that I might want to be the person who counts.
 
@@ -59,7 +59,7 @@
 | # | Tiếng Anh | Tiếng Việt |
 |---|---|---|
 | 1 | Tina's Bird Journal: The Travelers at the Bay | Nhật ký ngắm chim của Tina: những lữ khách ở vịnh |
-| 2 | Saturday, October 3 | Thứ Bảy, 3/10 |
+| 2 | Saturday, October 2 | Thứ Bảy, 2/10 |
 | 3 | Today was my first morning at the bird count at the wetlands on the south side of San Diego Bay. | Hôm nay là buổi sáng đầu tiên mình đi đếm chim ở vùng đất ngập nước phía nam vịnh San Diego. |
 | 4 | There was a thick morning mist when we arrived, and our leader, a retired science teacher called Mrs. Delgado, said that we had to be completely silent. | Lúc tới nơi sương sớm còn dày, và trưởng nhóm, bà Delgado, một cô giáo khoa học đã nghỉ hưu, bảo cả nhóm phải giữ im lặng tuyệt đối. |
 | 5 | For a long time, I couldn't make out anything at all. Then I heard something call across the water, and slowly the mist lifted. | Rất lâu mình chẳng nhìn rõ thứ gì. Rồi mình nghe có con gì kêu vọng qua mặt nước, và sương từ từ tan. |
@@ -69,7 +69,7 @@
 | 9 | Mrs. Delgado explained that San Diego Bay is on the Pacific Flyway, a kind of highway in the sky that birds follow between the far north and South America. | Bà Delgado giải thích vịnh San Diego nằm trên Đường bay Thái Bình Dương, một kiểu xa lộ trên trời mà chim bay theo giữa vùng cực bắc và Nam Mỹ. |
 | 10 | Every fall, millions of birds stop at wetlands like this one to rest and eat before they continue their journey. | Mùa thu nào cũng có hàng triệu con chim dừng chân ở những vùng đất ngập nước như thế này để nghỉ và ăn trước khi bay tiếp. |
 | 11 | "Think of it as a gas station," she said. "If the gas stations disappear, the drivers don't make it home." | "Cứ coi nó như một trạm xăng," bà nói. "Nếu trạm xăng biến mất, người lái xe sẽ không về được tới nhà." |
-| 12 | Saturday, October 10 | Thứ Bảy, 10/10 |
+| 12 | Saturday, October 9 | Thứ Bảy, 9/10 |
 | 13 | This week, I counted forty-two different species, and I finally saw an osprey dive. I saw it fall out of the sky, hit the water and rise again with a fish in its feet. | Tuần này mình đếm được bốn mươi hai loài khác nhau, và cuối cùng cũng thấy một con chim ưng biển lao xuống. Mình thấy nó rơi từ trên trời xuống, đập mặt nước rồi bay lên với con cá trong móng. |
 | 14 | Everybody cheered, which Mrs. Delgado said was "very unscientific, but understandable". | Ai cũng reo lên, mà bà Delgado bảo là "rất phản khoa học, nhưng dễ hiểu". |
 | 15 | Our counts are sent to scientists, who use them to see how bird numbers are changing. | Số liệu đếm được của nhóm được gửi cho các nhà khoa học, họ dùng nó để xem số lượng chim thay đổi ra sao. |

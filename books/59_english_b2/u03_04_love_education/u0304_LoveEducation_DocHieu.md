@@ -40,7 +40,7 @@
 
 > **Late-Night Messages: Leah and Chloe**
 >
-> Sunday, February 15, 1:12 a.m.
+> Monday, February 15, 1:12 a.m.
 >
 > **Leah:** Are you awake? I've really messed up.
 >
@@ -73,7 +73,7 @@
 | # | Tiếng Anh | Tiếng Việt |
 |---|---|---|
 | 1 | Late-Night Messages: Leah and Chloe | Tin nhắn đêm khuya: Leah và Chloe |
-| 2 | Sunday, February 15, 1:12 a.m. | Chủ nhật 15/2, 1:12 sáng |
+| 2 | Monday, February 15, 1:12 a.m. | Thứ Hai 15/2, 1:12 sáng |
 | 3 | **Leah:** Are you awake? I've really messed up. | Cậu còn thức không? Tớ làm hỏng chuyện thật rồi. |
 | 4 | **Chloe:** I'm awake. What happened? | Tớ thức. Có chuyện gì thế? |
 | 5 | **Leah:** Yesterday was Valentine's Day, and Ethan had booked a table at that little Italian place by the harbor. | Hôm qua là Valentine, và Ethan đã đặt bàn ở quán Ý nho nhỏ cạnh bến cảng. |

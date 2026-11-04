@@ -61,7 +61,7 @@
 >
 > Summer events
 >
-> Story mornings for children aged 4 to 8, led by Tina Carter and Amy Brooks, take place every Saturday at 10 a.m. Children under 6 must be with an adult. Music in the Park takes place on the first Friday of each month at 6:30 p.m. Local musicians of all levels are invited to play; beginners are especially welcome. The Bird Count, run by the wetland group, will visit on Sunday, July 12, to show children how to identify the birds that use the park's native trees.
+> Story mornings for children aged 4 to 8, led by Tina Carter and Amy Brooks, take place every Saturday at 10 a.m. Children under 6 must be with an adult. Music in the Park takes place on the first Friday of each month at 6:30 p.m. Local musicians of all levels are invited to play; beginners are especially welcome. The Bird Count, run by the wetland group, will visit on Sunday, July 9, to show children how to identify the birds that use the park's native trees.
 >
 > The park was built by neighbors and is cared for by neighbors. If you notice a problem, such as a broken bench or litter that has not been collected, please report it on the Maple Street Neighbors Chat, or leave a note at the library's front desk.
 
@@ -81,7 +81,7 @@
 | 10 | Summer events | Sự kiện mùa hè |
 | 11 | Story mornings for children aged 4 to 8, led by Tina Carter and Amy Brooks, take place every Saturday at 10 a.m. Children under 6 must be with an adult. | Buổi sáng kể chuyện cho trẻ 4 tới 8 tuổi, do Tina Carter và Amy Brooks dẫn, diễn ra mỗi sáng thứ Bảy lúc 10 giờ. Trẻ dưới 6 tuổi phải có người lớn đi cùng. |
 | 12 | Music in the Park takes place on the first Friday of each month at 6:30 p.m. Local musicians of all levels are invited to play; beginners are especially welcome. | Âm nhạc trong công viên diễn ra vào thứ Sáu đầu tiên mỗi tháng lúc 6:30 tối. Mời nhạc công địa phương ở mọi trình độ tới chơi; đặc biệt hoan nghênh người mới tập. |
-| 13 | The Bird Count, run by the wetland group, will visit on Sunday, July 12, to show children how to identify the birds that use the park's native trees. | Nhóm vùng đất ngập nước sẽ tổ chức buổi đếm chim vào Chủ nhật 12/7, chỉ cho các em cách nhận biết những loài chim hay đậu trên cây bản địa trong công viên. |
+| 13 | The Bird Count, run by the wetland group, will visit on Sunday, July 9, to show children how to identify the birds that use the park's native trees. | Nhóm vùng đất ngập nước sẽ tổ chức buổi đếm chim vào Chủ nhật 9/7, chỉ cho các em cách nhận biết những loài chim hay đậu trên cây bản địa trong công viên. |
 | 14 | The park was built by neighbors and is cared for by neighbors. If you notice a problem, such as a broken bench or litter that has not been collected, please report it on the Maple Street Neighbors Chat, or leave a note at the library's front desk. | Công viên do hàng xóm xây và do hàng xóm chăm sóc. Nếu thấy có vấn đề, như băng ghế hỏng hay rác chưa được dọn, xin báo trên nhóm chat hàng xóm Maple Street, hoặc để lại lời nhắn ở quầy thư viện. |
 
 ### Câu hỏi
@@ -150,8 +150,8 @@
 - C. dog owners who bring their pets to listen *(người dắt chó mang thú cưng tới nghe)*
 - D. musicians who are just beginning to play *(những người mới bắt đầu chơi nhạc)*
 
-**9. What will happen at the Bird Count on July 12?**
-*(Buổi đếm chim ngày 12/7 sẽ có gì?)*
+**9. What will happen at the Bird Count on July 9?**
+*(Buổi đếm chim ngày 9/7 sẽ có gì?)*
 
 - A. Children will be shown how to identify the park's birds. *(Trẻ em được hướng dẫn cách nhận biết các loài chim của công viên.)*
 - B. New trees will be planted by volunteers along the Maple Street gate. *(Tình nguyện viên sẽ trồng cây mới dọc cổng Maple Street.)*

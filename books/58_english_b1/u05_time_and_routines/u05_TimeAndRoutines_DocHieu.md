@@ -45,7 +45,7 @@
 >
 > Sunday, October 26, 9:15 p.m.
 >
-> High school is not like middle school at all. In middle school, I could finish my homework on the bus, but now it takes me the entire evening. Every teacher gives us homework, and every piece of homework has a deadline. This week, my science report is due by Wednesday, Ms. Park wants a two-page essay prior to Friday's class, and I have to finish my history project within five days. The history teacher is my dad, so there is no excuse!
+> Tenth grade is not like ninth grade at all. Last year, I could finish my homework on the bus, but now it takes me the entire evening. Every teacher gives us homework, and every piece of homework has a deadline. This week, my science report is due by Wednesday, Ms. Park wants a two-page essay prior to Friday's class, and I have to finish my history project within five days. The history teacher is my dad, so there is no excuse!
 >
 > My soccer practice is on Tuesday and Thursday until six, and our game is on Saturday morning. I really want to join the school team in the spring, but the coach says that players need good grades first. On Saturday afternoons, I am usually so exhausted that I doze off on the sofa.
 >
@@ -59,8 +59,8 @@
 |---|---|---|
 | 1 | Trevor's Diary: Too Many Deadlines | Nhật ký của Trevor: Quá nhiều hạn nộp |
 | 2 | Sunday, October 26, 9:15 p.m. | Chủ nhật, 26 tháng 10, 9 giờ 15 tối |
-| 3 | High school is not like middle school at all. | Cấp ba chẳng giống cấp hai chút nào. |
-| 4 | In middle school, I could finish my homework on the bus, but now it takes me the entire evening. | Hồi cấp hai, mình làm bài ngay trên xe buýt là xong, giờ thì mất nguyên buổi tối. |
+| 3 | Tenth grade is not like ninth grade at all. | Lớp mười chẳng giống lớp chín chút nào. |
+| 4 | Last year, I could finish my homework on the bus, but now it takes me the entire evening. | Năm ngoái, mình làm bài ngay trên xe buýt là xong, giờ thì mất nguyên buổi tối. |
 | 5 | Every teacher gives us homework, and every piece of homework has a deadline. | Thầy cô nào cũng giao bài tập, và bài nào cũng có hạn nộp. |
 | 6 | This week, my science report is due by Wednesday, Ms. Park wants a two-page essay prior to Friday's class, and I have to finish my history project within five days. | Tuần này, báo cáo môn khoa học phải nộp trước thứ Tư, cô Park muốn một bài luận hai trang trước buổi học thứ Sáu, còn dự án môn sử thì mình phải xong trong vòng năm ngày. |
 | 7 | The history teacher is my dad, so there is no excuse! | Thầy dạy sử lại là bố mình, nên chẳng có lý do gì để thoái thác! |

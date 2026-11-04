@@ -179,7 +179,7 @@
 >
 > **Leah:** Much better. Next: tell me about a weakness.
 >
-> **Tracy:** Honestly? I'm a perfectionist. To give you an example, before my final exams last year, I was so worried about being perfect that I stopped sleeping properly, and my work got worse, not better. What I've learned since then is to break big tasks into smaller pieces and to ask for feedback early, instead of hiding my work until it's "ready".
+> **Tracy:** Honestly? I'm a perfectionist. To give you an example, before my final exams two years ago, I was so worried about being perfect that I stopped sleeping properly, and my work got worse, not better. What I've learned since then is to break big tasks into smaller pieces and to ask for feedback early, instead of hiding my work until it's "ready".
 >
 > **Leah:** That's a good answer, because it's true, and because you showed what you did about it. Also, I remember that phone call.
 >
@@ -201,7 +201,7 @@
 | 6 | **Tracy:** Well, I'd say there are two main reasons. The first is the work itself. During my internship, I found two mistakes in an old bridge report, and my supervisor gave me a bigger task the next day. I realized that I love checking details that other people miss. | Dạ, em nghĩ có hai lý do chính. Thứ nhất là bản thân công việc. Trong kỳ thực tập, em phát hiện hai lỗi trong một bản báo cáo cầu cũ, và hôm sau người hướng dẫn giao em một việc lớn hơn. Em nhận ra mình thích kiểm tra những chi tiết người khác bỏ sót. |
 | 7 | **Tracy:** The second is the people. The thing is, nobody there pretends to know everything. People ask questions, and that makes it a safe place to learn. | Thứ hai là con người. Chuyện là, ở đó không ai giả vờ biết hết mọi thứ. Mọi người hỏi han nhau, và điều đó khiến nó thành một nơi an toàn để học hỏi. |
 | 8 | **Leah:** Much better. Next: tell me about a weakness. | Tốt hơn nhiều. Câu sau: kể chị nghe về một điểm yếu. |
-| 9 | **Tracy:** Honestly? I'm a perfectionist. To give you an example, before my final exams last year, I was so worried about being perfect that I stopped sleeping properly, and my work got worse, not better. | Thật lòng ạ? Em là người cầu toàn. Ví dụ, trước kỳ thi cuối năm ngoái, em lo phải hoàn hảo tới mức không ngủ được ra hồn, và bài làm còn tệ đi chứ không khá lên. |
+| 9 | **Tracy:** Honestly? I'm a perfectionist. To give you an example, before my final exams two years ago, I was so worried about being perfect that I stopped sleeping properly, and my work got worse, not better. | Thật lòng ạ? Em là người cầu toàn. Ví dụ, trước kỳ thi cuối kỳ hai năm trước, em lo phải hoàn hảo tới mức không ngủ được ra hồn, và bài làm còn tệ đi chứ không khá lên. |
 | 10 | **Tracy:** What I've learned since then is to break big tasks into smaller pieces and to ask for feedback early, instead of hiding my work until it's "ready". | Từ đó em học được cách chia việc lớn thành phần nhỏ và xin góp ý sớm, thay vì giấu bài cho tới khi nó "xong". |
 | 11 | **Leah:** That's a good answer, because it's true, and because you showed what you did about it. Also, I remember that phone call. | Câu trả lời hay đấy, vì nó thật, và vì em cho thấy em đã làm gì với nó. Mà chị còn nhớ cuộc gọi hôm đó đấy. |
 | 12 | **Leah:** Last question. Where do you see yourself in five years? | Câu cuối. Năm năm nữa em thấy mình ở đâu? |
