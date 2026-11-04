@@ -90,81 +90,81 @@
 *(Mục đích chính của thông báo là gì?)*
 
 - A. to explain the park's rules and announce its summer events *(để giải thích nội quy công viên và thông báo sự kiện mùa hè)*
-- B. to ask for money to build a park *(để quyên tiền xây công viên)*
-- C. to sell books *(để bán sách)*
-- D. to close the park *(để đóng cửa công viên)*
+- B. to ask neighbors to pay for a new playground next to the library *(để nhờ hàng xóm đóng tiền xây một sân chơi mới cạnh thư viện)*
+- C. to sell books from the little free library to raise money *(để bán sách của thư viện miễn phí nhỏ nhằm gây quỹ)*
+- D. to announce that the park will close for the summer events *(để thông báo công viên sẽ đóng cửa vì các sự kiện mùa hè)*
 
 **2. Why is the ramp entrance on Maple Street always open?**
 *(Vì sao lối vào có đường dốc ở phố Maple luôn mở?)*
 
-- A. for dog owners *(cho người dắt chó)*
-- B. for the library staff *(cho nhân viên thư viện)*
+- A. for dog owners who come late at night *(cho người dắt chó đến muộn vào ban đêm)*
+- B. for library staff who work at night *(cho nhân viên thư viện làm việc ban đêm)*
 - C. for emergency services *(cho lực lượng cứu hộ)*
-- D. for musicians *(cho nhạc công)*
+- D. for musicians carrying their instruments *(cho nhạc công mang theo nhạc cụ)*
 
 **3. Under what condition are dogs welcome?**
 *(Chó được chào đón với điều kiện gì?)*
 
-- A. only on Saturdays *(chỉ thứ Bảy)*
-- B. only if they are small *(chỉ khi chó nhỏ)*
-- C. only before 9 a.m. *(chỉ trước 9 giờ sáng)*
-- D. provided that they are on a leash and owners clean up after them *(với điều kiện có dây dắt và chủ dọn vệ sinh)*
+- A. only on Saturday mornings, when the story events are held *(chỉ vào sáng thứ Bảy, khi có các buổi kể chuyện)*
+- B. only if they are small enough for their owners to carry *(chỉ khi chúng đủ nhỏ để chủ bế được)*
+- C. only in the evening, when the park is quiet and empty *(chỉ vào buổi tối, khi công viên yên tĩnh và vắng)*
+- D. if they are on a leash and their owners clean up *(nếu có dây dắt và chủ dọn vệ sinh)*
 
 **4. Why should people not climb the young trees?**
 *(Vì sao không nên trèo lên cây non?)*
 
-- A. because they are private property *(vì là tài sản riêng)*
+- A. because they belong to the library and cannot be touched *(vì chúng thuộc về thư viện và không được chạm vào)*
 - B. because they were planted recently and are still easily damaged *(vì mới trồng và vẫn dễ bị tổn hại)*
-- C. because birds live in them *(vì có chim sống trên đó)*
-- D. because they are dangerous *(vì nguy hiểm)*
+- C. because birds live in them and might be disturbed *(vì có chim sống trên đó và có thể bị làm phiền)*
+- D. because the branches are dangerous and may break *(vì cành cây nguy hiểm và có thể gãy)*
 
 **5. In the park, what must people do with bicycles?**
 *(Trong công viên, người ta phải làm gì với xe đạp?)*
 
 - A. walk them, not ride them *(dắt bộ, không đạp)*
-- B. leave them outside *(để ở ngoài)*
-- C. lock them to the trees *(khoá vào cây)*
-- D. ride them slowly *(đạp chậm)*
+- B. leave them outside the gate next to the library *(để ngoài cổng cạnh thư viện)*
+- C. lock them to the fence near the entrance *(khoá vào hàng rào gần lối vào)*
+- D. ride them slowly and ring a bell *(đạp chậm và bấm chuông)*
 
 **6. How does the little free library work?**
 *(Tủ sách miễn phí hoạt động thế nào?)*
 
-- A. Books are sold for one dollar. *(Sách bán một đô.)*
-- B. Only children can use it. *(Chỉ trẻ em được dùng.)*
-- C. It works on trust: take a book, leave a book, and take no more than two at a time. *(Dựa trên lòng tin: lấy một cuốn, để lại một cuốn, mỗi lần không quá hai cuốn.)*
-- D. You must ask at the library first. *(Phải hỏi thư viện trước.)*
+- A. Books are sold for one dollar each to pay for new trees. *(Sách bán một đô mỗi cuốn để trả tiền cây mới.)*
+- B. Only children can use it, and they must ask a parent first. *(Chỉ trẻ em được dùng, và phải hỏi cha mẹ trước.)*
+- C. Take a book, leave a book, and never take more than two. *(Lấy một cuốn, để lại một cuốn, không bao giờ lấy quá hai.)*
+- D. You must first ask at the library desk and write your name in a list. *(Bạn phải hỏi ở quầy thư viện trước và ghi tên vào danh sách.)*
 
 **7. A mother wants to bring her five-year-old son to a story morning. What must she do?**
 *(Một bà mẹ muốn đưa con trai năm tuổi tới buổi kể chuyện. Bà phải làm gì?)*
 
-- A. Leave him with Tina and Amy. *(Để cậu bé lại với Tina và Amy.)*
+- A. Leave him with Tina and Amy while she goes to the library. *(Để cậu bé với Tina và Amy trong lúc bà vào thư viện.)*
 - B. Stay with him, because children under 6 must be with an adult. *(Ở cùng cậu bé, vì trẻ dưới 6 tuổi phải có người lớn đi cùng.)*
-- C. Register online. *(Đăng ký trực tuyến.)*
-- D. Bring a book. *(Mang theo một cuốn sách.)*
+- C. Register him online at least a week before the event. *(Đăng ký cho cậu bé trực tuyến ít nhất một tuần trước.)*
+- D. Bring a book for him to give to Tina and Amy. *(Mang theo một cuốn sách để cậu bé tặng Tina và Amy.)*
 
 **8. Who is especially welcome at Music in the Park?**
 *(Ai được đặc biệt hoan nghênh ở Âm nhạc trong công viên?)*
 
-- A. professional musicians only *(chỉ nhạc công chuyên nghiệp)*
-- B. children under 6 *(trẻ dưới 6 tuổi)*
-- C. dog owners *(người dắt chó)*
-- D. beginners *(người mới tập)*
+- A. professional musicians with many years of practice *(nhạc công chuyên nghiệp có nhiều năm luyện tập)*
+- B. children under 6 who come with their parents *(trẻ dưới 6 tuổi đi cùng cha mẹ)*
+- C. dog owners who bring their pets to listen *(người dắt chó mang thú cưng tới nghe)*
+- D. musicians who are just beginning to play *(những người mới bắt đầu chơi nhạc)*
 
 **9. What will happen at the Bird Count on July 12?**
 *(Buổi đếm chim ngày 12/7 sẽ có gì?)*
 
-- A. Children will learn how to identify birds that use the park's native trees. *(Trẻ em được học cách nhận biết các loài chim đậu trên cây bản địa trong công viên.)*
-- B. New trees will be planted. *(Trồng cây mới.)*
-- C. Birds will be sold. *(Bán chim.)*
-- D. The park will be closed. *(Công viên đóng cửa.)*
+- A. Children will be shown how to identify the park's birds. *(Trẻ em được hướng dẫn cách nhận biết các loài chim của công viên.)*
+- B. New trees will be planted by volunteers along the Maple Street gate. *(Tình nguyện viên sẽ trồng cây mới dọc cổng Maple Street.)*
+- C. Rare birds will be brought from the wetland and kept in the library. *(Những con chim quý sẽ được đưa từ vùng đất ngập nước về nuôi trong thư viện.)*
+- D. The park will be closed all day so that the birds are not disturbed. *(Công viên đóng cửa cả ngày để chim không bị làm phiền.)*
 
 **10. What does "The park was built by neighbors and is cared for by neighbors" suggest?**
 *(Câu "Công viên do hàng xóm xây và do hàng xóm chăm sóc" hàm ý gì?)*
 
-- A. The city pays for everything. *(Thành phố trả mọi chi phí.)*
-- B. Neighbors are not allowed to use it. *(Hàng xóm không được dùng.)*
+- A. The city pays for everything, so visitors do not need to help. *(Thành phố trả mọi chi phí nên người dùng không cần giúp.)*
+- B. Only the neighbors who built it are allowed to use the park. *(Chỉ những người hàng xóm đã xây công viên mới được dùng.)*
 - C. Visitors share responsibility for looking after the park. *(Người sử dụng cùng chịu trách nhiệm chăm sóc công viên.)*
-- D. The park is private. *(Công viên là tài sản riêng.)*
+- D. The park is private, owned by one family in the neighborhood. *(Công viên là tài sản riêng của một gia đình trong khu phố.)*
 
 ---
 
@@ -207,82 +207,82 @@
 **11. What is the main idea of Helena's essay?**
 *(Ý chính của bài viết của Helena là gì?)*
 
-- A. Bridges should be cheap. *(Cầu nên rẻ.)*
-- B. Engineering is boring. *(Ngành kỹ thuật nhàm chán.)*
-- C. Concrete is the most important material. *(Bê tông là vật liệu quan trọng nhất.)*
-- D. Her work as an engineer is mostly about people, not just materials and numbers. *(Công việc kỹ sư của chị phần lớn là về con người, chứ không chỉ vật liệu và con số.)*
+- A. Bridges should be cheap and fast so that people can use them. *(Cầu nên rẻ và nhanh để người ta có thể sử dụng.)*
+- B. Engineering is boring work with concrete, steel and numbers. *(Ngành kỹ thuật là công việc nhàm chán với bê tông, thép và con số.)*
+- C. Concrete is the most important thing for any good bridge. *(Bê tông là thứ quan trọng nhất của mọi cây cầu tốt.)*
+- D. Her work as an engineer is mostly about people, not only materials. *(Công việc kỹ sư của chị phần lớn là về con người, không chỉ vật liệu.)*
 
 **12. What does Helena mean by "A bridge, after all, is a promise that two places will be connected"?**
 *(Helena muốn nói gì qua câu "Suy cho cùng, một cây cầu là lời hứa rằng hai nơi sẽ được nối với nhau"?)*
 
-- A. Bridges are made of promises. *(Cầu được làm từ lời hứa.)*
-- B. A bridge matters because of the people who rely on it to reach each other. *(Cây cầu có ý nghĩa vì những con người trông vào nó để tới với nhau.)*
-- C. Engineers make many promises. *(Kỹ sư hứa nhiều.)*
-- D. Bridges always connect two cities. *(Cầu luôn nối hai thành phố.)*
+- A. Bridges are made of promises that engineers write down. *(Cầu được làm từ những lời hứa mà kỹ sư ghi lại.)*
+- B. A bridge matters because of the people who rely on it. *(Cây cầu có ý nghĩa nhờ những người trông cậy vào nó.)*
+- C. Engineers make many promises that they cannot keep. *(Kỹ sư hứa nhiều điều mà họ không giữ được.)*
+- D. Bridges always connect two cities across a river. *(Cầu luôn nối hai thành phố qua một con sông.)*
 
 **13. What did Helena learn from the elderly woman at the community meeting?**
 *(Helena học được gì từ bà cụ ở buổi họp cộng đồng?)*
 
 - A. that she had never imagined people like the woman using her bridge *(rằng chị chưa từng hình dung những người như bà cụ sẽ dùng cây cầu của mình)*
-- B. that the bridge was too expensive *(rằng cây cầu quá đắt)*
-- C. that the bridge was not strong enough *(rằng cây cầu không đủ chắc)*
-- D. that nobody would use the bridge *(rằng không ai dùng cây cầu)*
+- B. that the bridge was too expensive for the town to build *(rằng cây cầu quá đắt để thị trấn xây)*
+- C. that the bridge was not strong enough for older people *(rằng cây cầu không đủ chắc cho người lớn tuổi)*
+- D. that nobody would want to use such a long bridge *(rằng sẽ không ai muốn dùng một cây cầu dài như vậy)*
 
 **14. What does "They are, I am told, the most popular part of the bridge" show?**
 *(Câu "Nghe nói đó là phần được yêu thích nhất của cây cầu" cho thấy điều gì?)*
 
-- A. Benches are expensive. *(Băng ghế đắt.)*
-- B. Helena doesn't like benches. *(Helena không thích băng ghế.)*
+- A. Benches are the most expensive part of the bridge. *(Băng ghế là phần đắt nhất của cây cầu.)*
+- B. Helena does not like the benches that were added. *(Helena không thích những băng ghế đã được thêm vào.)*
 - C. Listening to one user led to an important improvement. *(Lắng nghe một người dùng đã dẫn tới một cải tiến quan trọng.)*
-- D. The bridge is not used. *(Cây cầu không ai dùng.)*
+- D. Nobody has used the bridge since the benches were added. *(Không ai dùng cây cầu kể từ khi thêm băng ghế.)*
 
 **15. What is the second lesson in Helena's essay?**
 *(Bài học thứ hai trong bài viết của Helena là gì?)*
 
-- A. People always hate new bridges. *(Người ta luôn ghét cầu mới.)*
-- B. Farmers like peaches. *(Nông dân thích đào.)*
-- C. Meetings are a waste of time. *(Họp là phí thời gian.)*
-- D. People are rarely against a project itself; they are against being ignored. *(Người ta hiếm khi phản đối bản thân dự án; họ phản đối việc bị phớt lờ.)*
+- A. People always hate new bridges because of the noise. *(Người ta luôn ghét cầu mới vì tiếng ồn.)*
+- B. Farmers are happy when engineers bring them peaches. *(Nông dân vui khi kỹ sư mang đào cho họ.)*
+- C. Meetings are a waste of time unless the engineers are angry. *(Họp là phí thời gian trừ khi các kỹ sư đang giận.)*
+- D. People rarely oppose a project; they oppose being ignored. *(Người ta hiếm khi phản đối dự án; họ phản đối việc bị phớt lờ.)*
 
 **16. What does "Had we simply carried on, the anger would have grown" mean?**
 *(Câu "Nếu cứ thế làm tiếp, cơn giận sẽ lớn dần" nghĩa là gì?)*
 
 - A. If they had continued without listening, the residents would have become angrier. *(Nếu cứ làm tiếp mà không lắng nghe, cư dân sẽ giận hơn.)*
-- B. They carried on, and the anger grew. *(Họ làm tiếp, và cơn giận lớn dần.)*
-- C. The residents were never angry. *(Cư dân chưa bao giờ giận.)*
-- D. They stopped building the bridge. *(Họ ngừng xây cầu.)*
+- B. They carried on working as before, and the residents' anger grew each month. *(Họ cứ làm như cũ, và cơn giận của cư dân lớn dần mỗi tháng.)*
+- C. The residents were never angry about the noise or the traffic. *(Cư dân chưa bao giờ giận vì tiếng ồn hay giao thông.)*
+- D. They stopped building the bridge until the residents agreed. *(Họ ngừng xây cầu cho tới khi cư dân đồng ý.)*
 
 **17. How did Helena's team respond to the residents' anger in Valley Springs?**
 *(Đội của Helena phản ứng thế nào trước cơn giận của cư dân Valley Springs?)*
 
-- A. They ignored it. *(Phớt lờ.)*
-- B. They held monthly meetings, explained the next steps and changed working hours during the harvest. *(Họp hằng tháng, giải thích bước tiếp theo và đổi giờ thi công mùa gặt.)*
-- C. They stopped the project. *(Dừng dự án.)*
-- D. They paid the residents. *(Trả tiền cho cư dân.)*
+- A. They ignored the anger and worked as fast as possible to finish the old bridge. *(Họ phớt lờ cơn giận và làm thật nhanh để hoàn tất cây cầu cũ.)*
+- B. They held monthly meetings and changed working hours at harvest time. *(Họ họp hằng tháng và đổi giờ thi công vào mùa gặt.)*
+- C. They stopped the project until the harvest was over. *(Họ dừng dự án cho tới khi hết mùa gặt.)*
+- D. They paid the residents for the noise and the traffic. *(Họ trả tiền cho cư dân vì tiếng ồn và giao thông.)*
 
 **18. What does Helena mean by "the best work is often invisible"?**
 *(Helena muốn nói gì qua câu "công việc tốt nhất thường vô hình"?)*
 
-- A. Engineers work at night. *(Kỹ sư làm đêm.)*
-- B. Bridges are hard to see. *(Cầu khó nhìn thấy.)*
+- A. Engineers work at night, when nobody can see them. *(Kỹ sư làm việc ban đêm, khi không ai thấy họ.)*
+- B. Bridges are hard to see when they are covered by trees. *(Cầu khó nhìn thấy khi bị cây che.)*
 - C. When engineering works well, nobody notices it. *(Khi công trình kỹ thuật hoạt động tốt, chẳng ai để ý tới.)*
-- D. Engineers don't want to be thanked. *(Kỹ sư không muốn được cảm ơn.)*
+- D. Engineers do not want anyone to thank them for their work. *(Kỹ sư không muốn ai cảm ơn công việc của họ.)*
 
 **19. What does Helena's daughter ask her?**
 *(Con gái hỏi Helena điều gì?)*
 
-- A. how to build a bridge *(cách xây cầu)*
-- B. where she works *(chị làm ở đâu)*
-- C. why she likes peaches *(vì sao chị thích đào)*
+- A. how to build a bridge that would not need any repair *(làm sao xây một cây cầu không cần sửa chữa)*
+- B. where she works and how long she spends there each day *(chị làm ở đâu và mỗi ngày ở đó bao lâu)*
+- C. why she liked the peaches that the farmer brought *(vì sao chị thích những quả đào người nông dân mang tới)*
 - D. whether she wished she had chosen a more exciting job *(chị có ước đã chọn một nghề thú vị hơn không)*
 
 **20. What is the tone of Helena's essay?**
 *(Giọng điệu bài viết của Helena thế nào?)*
 
-- A. bitter and disappointed *(cay đắng và thất vọng)*
+- A. bitter and disappointed about the years of hard work *(cay đắng và thất vọng về những năm làm việc vất vả)*
 - B. thoughtful, honest and proud of her work *(sâu sắc, thành thật và tự hào về công việc)*
-- C. angry and critical *(giận dữ và chỉ trích)*
-- D. funny and careless *(hài hước và hời hợt)*
+- C. angry and critical of the people in the town *(giận dữ và chỉ trích người trong thị trấn)*
+- D. funny and careless, like a story for children *(hài hước và hời hợt, như truyện cho trẻ em)*
 
 ---
 
@@ -323,82 +323,82 @@
 **21. What is the main idea of the article?**
 *(Ý chính của bài báo là gì?)*
 
-- A. Jokes are the main cause of laughter. *(Câu đùa là nguyên nhân chính của tiếng cười.)*
-- B. Only humans laugh. *(Chỉ con người biết cười.)*
-- C. Laughter is mostly a social signal, not just a reaction to jokes. *(Tiếng cười chủ yếu là tín hiệu xã hội, không chỉ là phản ứng với câu đùa.)*
-- D. Laughing alone is healthy. *(Cười một mình tốt cho sức khoẻ.)*
+- A. Jokes are the main cause of laughter in everyday life. *(Câu đùa là nguyên nhân chính của tiếng cười trong đời sống hằng ngày.)*
+- B. Only humans laugh, and they do it to show they are happy. *(Chỉ con người biết cười, và họ cười để thể hiện sự vui.)*
+- C. Laughter is mostly a social signal, not a reaction to jokes. *(Tiếng cười chủ yếu là tín hiệu xã hội, không phải phản ứng với câu đùa.)*
+- D. Laughing alone is healthy, so people should do it more often. *(Cười một mình tốt cho sức khoẻ nên người ta nên cười nhiều hơn.)*
 
 **22. What did Robert Provine and his students do?**
 *(Robert Provine và sinh viên đã làm gì?)*
 
-- A. They listened to people laughing in public places and wrote down what was said just before. *(Họ nghe người ta cười ở nơi công cộng và ghi lại điều được nói ngay trước đó.)*
-- B. They told jokes to strangers. *(Họ kể chuyện cười cho người lạ.)*
-- C. They studied rats. *(Họ nghiên cứu chuột.)*
-- D. They watched comedies. *(Họ xem phim hài.)*
+- A. They listened to people laughing in public and noted what was said just before. *(Họ nghe người ta cười ở nơi công cộng và ghi lại điều được nói ngay trước đó.)*
+- B. They told jokes to strangers in shopping centers and counted the laughs. *(Họ kể chuyện cười cho người lạ ở trung tâm mua sắm và đếm tiếng cười.)*
+- C. They studied rats and apes in a laboratory for several years. *(Họ nghiên cứu chuột và vượn trong phòng thí nghiệm suốt nhiều năm.)*
+- D. They watched comedies with groups of students and recorded laughs. *(Họ xem phim hài cùng nhóm sinh viên và ghi lại tiếng cười.)*
 
 **23. What surprised the researchers?**
 *(Điều gì làm các nhà nghiên cứu ngạc nhiên?)*
 
-- A. People never laughed. *(Không ai cười.)*
+- A. People almost never laughed when they were with others. *(Người ta hầu như không bao giờ cười khi ở cùng người khác.)*
 - B. Fewer than one laugh in five followed anything like a joke. *(Chưa tới một phần năm tiếng cười đến sau điều gì giống câu đùa.)*
-- C. People laughed only at jokes. *(Người ta chỉ cười vì câu đùa.)*
-- D. People laughed more when alone. *(Người ta cười nhiều hơn khi ở một mình.)*
+- C. People laughed only at jokes, and never at ordinary comments. *(Người ta chỉ cười vì câu đùa, không bao giờ cười vì lời nói bình thường.)*
+- D. People laughed much more when they were alone than with others. *(Người ta cười nhiều hơn hẳn khi ở một mình so với khi ở cùng người khác.)*
 
 **24. Why does the writer give examples such as "I'll see you guys later"?**
 *(Vì sao người viết đưa ví dụ như "Lát gặp lại mọi người nhé"?)*
 
-- A. to teach readers some jokes *(để dạy người đọc vài câu đùa)*
-- B. to show how people end a conversation *(để cho thấy người ta kết thúc cuộc trò chuyện thế nào)*
-- C. to show that these are funny *(để cho thấy chúng buồn cười)*
-- D. to show the kind of ordinary comments that most laughter followed *(để cho thấy kiểu câu nói bình thường mà phần lớn tiếng cười theo sau)*
+- A. to teach readers some jokes to use with their friends *(để dạy người đọc vài câu đùa dùng với bạn bè)*
+- B. to show how people end a conversation politely with friends *(để cho thấy người ta kết thúc cuộc trò chuyện lịch sự với bạn bè thế nào)*
+- C. to show that these simple comments are very funny *(để cho thấy những câu nói đơn giản này rất buồn cười)*
+- D. to show the ordinary comments that most laughter followed *(để cho thấy những câu nói bình thường mà phần lớn tiếng cười theo sau)*
 
 **25. How much more likely are we to laugh with other people than alone?**
 *(Ta có khả năng cười khi ở cùng người khác cao hơn khi một mình bao nhiêu?)*
 
-- A. about twice *(khoảng gấp đôi)*
-- B. about five times *(khoảng năm lần)*
-- C. about thirty times *(khoảng ba mươi lần)*
-- D. about the same *(gần như nhau)*
+- A. only about twice as likely *(chỉ khoảng gấp đôi khả năng)*
+- B. a little more than five times as likely *(hơn năm lần một chút)*
+- C. about thirty times more likely *(khoảng ba mươi lần khả năng)*
+- D. about the same, with only small differences *(gần như nhau, chỉ khác chút ít)*
 
 **26. According to many scientists, what does laughter tell others?**
 *(Theo nhiều nhà khoa học, tiếng cười báo cho người khác điều gì?)*
 
-- A. that we want to be alone *(rằng ta muốn ở một mình)*
-- B. that we are angry *(rằng ta đang giận)*
-- C. that something is dangerous *(rằng có gì đó nguy hiểm)*
-- D. that we are friendly, understand them and belong to the same group *(rằng ta thân thiện, hiểu họ và thuộc cùng một nhóm)*
+- A. that we want to be left alone and do not like the group *(rằng ta muốn được yên và không thích nhóm)*
+- B. that we are angry and want to end the conversation *(rằng ta đang giận và muốn kết thúc cuộc trò chuyện)*
+- C. that something is dangerous and the group should leave *(rằng có gì đó nguy hiểm và nhóm nên rời đi)*
+- D. that we are friendly and belong to the same group *(rằng ta thân thiện và thuộc cùng một nhóm)*
 
 **27. What happened when young rats were tickled?**
 *(Chuyện gì xảy ra khi chuột non bị cù?)*
 
-- A. They made high-pitched chirps that humans can't hear without special equipment. *(Chúng phát ra tiếng chít the thé mà tai người không nghe được nếu không có thiết bị đặc biệt.)*
-- B. They ran away. *(Chúng bỏ chạy.)*
-- C. They bit the scientist. *(Chúng cắn nhà khoa học.)*
-- D. They fell asleep. *(Chúng ngủ thiếp đi.)*
+- A. They made high-pitched chirps that humans can't hear without equipment. *(Chúng phát ra tiếng chít the thé mà tai người không nghe được nếu không có thiết bị.)*
+- B. They ran away from the scientist's hand and hid in the corner. *(Chúng chạy khỏi tay nhà khoa học và trốn vào góc.)*
+- C. They bit the scientist's hand and refused to come back. *(Chúng cắn tay nhà khoa học và không chịu quay lại.)*
+- D. They fell asleep quickly and made no sounds at all. *(Chúng ngủ thiếp đi nhanh và không phát ra tiếng nào.)*
 
 **28. What suggests that the rats enjoyed being tickled?**
 *(Điều gì cho thấy lũ chuột thích được cù?)*
 
-- A. They made louder sounds. *(Chúng kêu to hơn.)*
-- B. They kept coming back to the scientist's hand for more. *(Chúng cứ quay lại bàn tay nhà khoa học để được cù tiếp.)*
-- C. They ate more food. *(Chúng ăn nhiều hơn.)*
-- D. They grew faster. *(Chúng lớn nhanh hơn.)*
+- A. They made louder sounds each time they were touched. *(Chúng kêu to hơn mỗi lần bị chạm vào.)*
+- B. They kept coming back to the scientist's hand. *(Chúng cứ quay lại bàn tay nhà khoa học.)*
+- C. They ate more food after every tickling session. *(Chúng ăn nhiều hơn sau mỗi lần được cù.)*
+- D. They grew faster than rats that were not tickled. *(Chúng lớn nhanh hơn những con chuột không được cù.)*
 
 **29. What did the study about watching a comedy find?**
 *(Nghiên cứu về xem phim hài phát hiện điều gì?)*
 
-- A. People who watched alone felt less pain. *(Người xem một mình đỡ đau hơn.)*
-- B. Comedies make people sleepy. *(Phim hài làm người ta buồn ngủ.)*
+- A. People who watched the comedy alone could tolerate more pain afterward. *(Người xem phim hài một mình sau đó chịu đau giỏi hơn.)*
+- B. Comedies made people sleepy and less able to feel pain. *(Phim hài làm người ta buồn ngủ và ít cảm thấy đau hơn.)*
 - C. People who watched a comedy in a group could tolerate more pain afterward. *(Người xem phim hài theo nhóm sau đó chịu đau giỏi hơn.)*
-- D. Laughing is painful. *(Cười gây đau.)*
+- D. Laughing made people feel more pain than a less funny program. *(Cười làm người ta thấy đau hơn so với chương trình ít buồn cười.)*
 
 **30. What does the writer mean by "You are telling your friend that you are on the same side"?**
 *(Người viết muốn nói gì qua câu "Bạn đang nói với bạn mình rằng hai đứa cùng một phe"?)*
 
-- A. Your laughter shows that you feel close to your friend, even if the joke is bad. *(Tiếng cười của bạn cho thấy bạn thấy gần gũi với bạn mình, dù câu đùa có dở.)*
-- B. You agree to play on the same team. *(Bạn đồng ý chơi cùng đội.)*
-- C. You are judging the joke. *(Bạn đang chấm điểm câu đùa.)*
-- D. Your friend is always right. *(Bạn bạn lúc nào cũng đúng.)*
+- A. Your laughter shows you feel close to your friend, even if the joke is bad. *(Tiếng cười cho thấy bạn thấy gần gũi với bạn mình, dù câu đùa có dở.)*
+- B. You agree to play on the same team as your friend this weekend. *(Bạn đồng ý chơi cùng đội với bạn mình vào cuối tuần này.)*
+- C. You are judging the joke and telling your friend it is terrible. *(Bạn đang chấm điểm câu đùa và nói với bạn mình rằng nó rất dở.)*
+- D. Your friend is always right, so you must laugh at everything. *(Bạn của bạn lúc nào cũng đúng nên bạn phải cười mọi thứ.)*
 
 ---
 
@@ -440,81 +440,81 @@
 **31. What question does the article discuss?**
 *(Bài báo bàn về câu hỏi nào?)*
 
-- A. how to become a programmer *(cách trở thành lập trình viên)*
-- B. whether everyone still needs to learn to code now that AI can write code *(liệu ai cũng vẫn cần học lập trình khi AI đã viết được mã)*
-- C. which programming language is best *(ngôn ngữ lập trình nào tốt nhất)*
-- D. whether AI should be banned *(có nên cấm AI)*
+- A. how to become a programmer without going to university *(cách trở thành lập trình viên mà không cần học đại học)*
+- B. whether everyone still needs to learn coding in the age of AI *(liệu ai cũng vẫn cần học lập trình trong thời đại AI)*
+- C. which programming language is best for children to learn first *(ngôn ngữ lập trình nào tốt nhất cho trẻ em học đầu tiên)*
+- D. whether AI should be banned from schools and companies *(có nên cấm AI trong trường học và công ty)*
 
 **32. What did one of the largest technology companies say in 2024?**
 *(Năm 2024, một trong những công ty công nghệ lớn nhất đã nói gì?)*
 
-- A. It had stopped using AI. *(Họ thôi dùng AI.)*
-- B. It would hire more programmers. *(Họ sẽ tuyển thêm lập trình viên.)*
-- C. AI made all of its code. *(AI viết toàn bộ mã.)*
-- D. More than a quarter of its new code was being generated by AI. *(Hơn một phần tư mã mới của họ do AI tạo ra.)*
+- A. It had stopped using AI after finding too many mistakes. *(Họ thôi dùng AI sau khi thấy quá nhiều lỗi.)*
+- B. It would hire more programmers to replace its AI tools. *(Họ sẽ tuyển thêm lập trình viên để thay các công cụ AI.)*
+- C. AI had written all of its code in the previous year. *(AI đã viết toàn bộ mã của họ trong năm trước.)*
+- D. More than a quarter of its new code came from AI. *(Hơn một phần tư mã mới của họ do AI tạo ra.)*
 
 **33. According to some people, what should students spend their time on instead?**
 *(Theo một số người, học sinh nên dành thời gian cho gì thay vào đó?)*
 
-- A. learning more programming languages *(học thêm ngôn ngữ lập trình)*
-- B. playing computer games *(chơi trò chơi điện tử)*
-- C. skills that machines are less good at, such as writing, negotiating or caring for people *(những kỹ năng máy kém hơn, như viết, đàm phán hay chăm sóc con người)*
-- D. building robots *(chế tạo người máy)*
+- A. learning even more programming languages that AI cannot understand yet *(học thêm nhiều ngôn ngữ lập trình mà AI chưa hiểu được)*
+- B. playing computer games to understand how machines think *(chơi trò chơi điện tử để hiểu máy tư duy thế nào)*
+- C. skills that machines do less well, such as writing and negotiating *(những kỹ năng máy làm kém hơn, như viết và đàm phán)*
+- D. building robots that can write code without any help *(chế tạo người máy tự viết mã mà không cần giúp đỡ)*
 
 **34. Why do others say that people still need to understand code?**
 *(Vì sao người khác nói người ta vẫn cần hiểu mã lệnh?)*
 
 - A. because AI tools make mistakes, and someone has to notice them *(vì công cụ AI có mắc lỗi, và phải có người phát hiện)*
-- B. because AI is too expensive *(vì AI quá đắt)*
-- C. because coding is fun *(vì lập trình vui)*
-- D. because AI can't write code *(vì AI không viết được mã)*
+- B. because AI is too expensive for most companies to use *(vì AI quá đắt để đa số công ty dùng)*
+- C. because coding is more fun than any other school subject *(vì lập trình vui hơn mọi môn học khác)*
+- D. because AI cannot write any code without a human typing *(vì AI không viết được mã nếu không có người gõ)*
 
 **35. What does Nathan mean by "You can't check what you don't understand"?**
 *(Nathan muốn nói gì qua câu "Không thể kiểm tra thứ mình không hiểu"?)*
 
-- A. AI should check its own code. *(AI nên tự kiểm tra mã.)*
-- B. To check code that AI writes, people need to understand code themselves. *(Muốn kiểm tra mã AI viết, con người phải tự hiểu mã.)*
-- C. His team doesn't read code. *(Nhóm anh không đọc mã.)*
-- D. Checking code is not important. *(Kiểm tra mã không quan trọng.)*
+- A. AI should check its own code, because people are too slow. *(AI nên tự kiểm tra mã vì con người quá chậm.)*
+- B. To check code that AI writes, people need to understand code. *(Muốn kiểm tra mã AI viết, con người cần hiểu mã.)*
+- C. His team doesn't read code anymore, because the tools check everything. *(Nhóm anh không còn đọc mã vì công cụ kiểm tra hết mọi thứ.)*
+- D. Checking code is not important when the tools are fast. *(Kiểm tra mã không quan trọng khi công cụ chạy nhanh.)*
 
 **36. What does the writer mean by "both sides are asking the wrong question"?**
 *(Người viết muốn nói gì qua câu "cả hai phía đều đang hỏi sai câu hỏi"?)*
 
-- A. Both sides are completely wrong about AI. *(Cả hai phía hoàn toàn sai về AI.)*
-- B. The question should be about money. *(Câu hỏi nên là về tiền.)*
-- C. Nobody should learn to code. *(Không ai nên học lập trình.)*
-- D. The real value of coding classes is a way of thinking, not the code itself. *(Giá trị thật của lớp lập trình là cách tư duy, không phải bản thân mã lệnh.)*
+- A. Both sides are completely wrong about what AI can do. *(Cả hai phía hoàn toàn sai về những gì AI làm được.)*
+- B. The question should be about money, not about learning. *(Câu hỏi nên nói về tiền, không phải về việc học.)*
+- C. Nobody should learn to code, because AI will do all of it. *(Không ai nên học lập trình vì AI sẽ làm hết.)*
+- D. The real value of coding classes is a way of thinking, not the code. *(Giá trị thật của lớp lập trình là cách tư duy, không phải mã lệnh.)*
 
 **37. Which of these is NOT part of the "way of thinking" that the writer describes?**
 *(Điều nào KHÔNG nằm trong "cách tư duy" người viết mô tả?)*
 
 - A. breaking a big problem into small steps *(chia vấn đề lớn thành bước nhỏ)*
-- B. testing an idea *(thử một ý tưởng)*
+- B. testing an idea to see whether it works *(thử một ý tưởng để xem nó có hiệu quả không)*
 - C. memorizing the rules of one programming language *(học thuộc quy tắc của một ngôn ngữ lập trình)*
 - D. finding out why something failed and trying again *(tìm hiểu vì sao thất bại rồi thử lại)*
 
 **38. Why does the writer mention a nurse, a farmer or a designer?**
 *(Vì sao người viết nhắc tới y tá, nông dân hay nhà thiết kế?)*
 
-- A. to show that this way of thinking is useful in many jobs, not only programming *(để cho thấy cách tư duy này có ích ở nhiều nghề, không chỉ lập trình)*
-- B. to say that they should become programmers *(để nói họ nên thành lập trình viên)*
-- C. to say that they don't need computers *(để nói họ không cần máy tính)*
-- D. to criticize these jobs *(để chê những nghề này)*
+- A. to show this way of thinking is useful in many jobs, not only programming *(để cho thấy cách tư duy này có ích ở nhiều nghề, không chỉ lập trình)*
+- B. to say that nurses, farmers and designers should become programmers *(để nói y tá, nông dân và nhà thiết kế nên thành lập trình viên)*
+- C. to say that these workers no longer need computers at all *(để nói những người này không còn cần máy tính nữa)*
+- D. to criticize these jobs because machines can do them better *(để chê những nghề này vì máy làm tốt hơn)*
 
 **39. What is the writer's final opinion?**
 *(Quan điểm cuối cùng của người viết là gì?)*
 
-- A. Students should not learn coding. *(Học sinh không nên học lập trình.)*
-- B. Students should still learn some coding, because people will need to instruct machines clearly and question their answers. *(Học sinh vẫn nên học một chút lập trình, vì con người sẽ cần ra lệnh rõ ràng cho máy và biết đặt câu hỏi với câu trả lời của chúng.)*
-- C. Everyone will become a programmer. *(Ai cũng sẽ thành lập trình viên.)*
-- D. AI will replace all teachers. *(AI sẽ thay thế mọi giáo viên.)*
+- A. Students should not learn coding, because AI will soon write all the code anyway. *(Học sinh không nên học lập trình vì AI sắp tới sẽ viết hết mã.)*
+- B. Students should still learn some coding, so that they can question what machines tell them. *(Học sinh vẫn nên học một chút lập trình, để biết đặt câu hỏi với những gì máy nói.)*
+- C. Everyone will become a programmer if AI tools keep improving. *(Ai cũng sẽ thành lập trình viên nếu công cụ AI tiếp tục tiến bộ.)*
+- D. AI will soon replace all teachers who teach coding classes. *(AI sắp tới sẽ thay thế mọi giáo viên dạy lập trình.)*
 
 **40. Which phrase best describes the structure of the article?**
 *(Cụm nào mô tả đúng nhất cấu trúc bài báo?)*
 
-- A. a story told in time order *(một câu chuyện kể theo thời gian)*
-- B. a list of instructions *(một danh sách hướng dẫn)*
-- C. a description of a place *(một bài tả địa điểm)*
+- A. a story told in time order, from ten years ago until today *(một câu chuyện kể theo thời gian, từ mười năm trước đến nay)*
+- B. a list of instructions for learning to write computer code *(một danh sách hướng dẫn để học viết mã máy tính)*
+- C. a description of a school where children learn to code *(một bài tả ngôi trường nơi trẻ em học lập trình)*
 - D. a question, two opposing views, and then the writer's own position *(một câu hỏi, hai quan điểm đối lập, rồi lập trường của người viết)*
 
 ---

@@ -95,82 +95,82 @@
 **1. What is the main purpose of the notice?**
 *(Mục đích chính của thông báo là gì?)*
 
-- A. to tell people about free winter workshops and how to join them *(để báo cho mọi người về các lớp học mùa đông miễn phí và cách đăng ký)*
-- B. to sell bikes and laptops *(để bán xe đạp và máy tính xách tay)*
+- A. to tell people about free winter workshops and how to join *(để báo cho mọi người về các lớp học mùa đông miễn phí và cách đăng ký)*
+- B. to sell old bikes and laptops from the library at low prices *(để bán xe đạp và máy tính xách tay cũ của thư viện với giá rẻ)*
 - C. to explain the history of the fire station *(để giải thích lịch sử trạm cứu hoả)*
-- D. to ask for volunteers to teach *(để tìm tình nguyện viên dạy học)*
+- D. to ask local people to volunteer as teachers for the workshops *(để nhờ người dân địa phương làm tình nguyện viên dạy các lớp)*
 
 **2. When must people register for a workshop?**
 *(Phải đăng ký lớp học khi nào?)*
 
-- A. on the day of the class *(ngay hôm có lớp)*
+- A. on the day of the class, at the front desk *(vào ngày học, tại quầy lễ tân)*
 - B. at least three days before each class *(ít nhất ba ngày trước mỗi buổi)*
-- C. 24 hours before the class *(24 giờ trước buổi học)*
-- D. only in January *(chỉ trong tháng Một)*
+- C. at least 24 hours before the class starts *(ít nhất 24 giờ trước khi lớp bắt đầu)*
+- D. only in the first week of January *(chỉ trong tuần đầu tiên của tháng Một)*
 
 **3. Which workshop would be best for someone who wants to take better pictures with a phone?**
 *(Lớp nào hợp nhất với người muốn chụp ảnh bằng điện thoại đẹp hơn?)*
 
-- A. Fix Your Own Bike *(Tự sửa xe đạp)*
-- B. Memories of Maple Street *(Ký ức Maple Street)*
+- A. Fix Your Own Bike, on Saturdays *(Tự sửa xe đạp, vào các thứ Bảy)*
+- B. Memories of Maple Street, on Thursdays *(Ký ức Maple Street, vào các thứ Năm)*
 - C. Phone Photography for Beginners *(Chụp ảnh bằng điện thoại cho người mới)*
-- D. Coding Club for Kids *(Câu lạc bộ lập trình cho trẻ em)*
+- D. Coding Club for Kids, on Wednesdays *(Câu lạc bộ lập trình cho trẻ em, vào các thứ Tư)*
 
 **4. What should people bring to the "Memories of Maple Street" workshop?**
 *(Nên mang gì tới lớp "Ký ức Maple Street"?)*
 
-- A. a laptop *(máy tính xách tay)*
-- B. their bikes *(xe đạp)*
-- C. a phone *(điện thoại)*
+- A. a laptop and some games *(một máy tính xách tay và vài trò chơi)*
+- B. their bikes and tools to fix them *(xe đạp và dụng cụ để sửa)*
+- C. a phone with a good camera *(một chiếc điện thoại có máy ảnh tốt)*
 - D. old photos and letters, if they have them *(ảnh và thư cũ, nếu có)*
 
 **5. A mother wants her six-year-old daughter to join the Coding Club. What does the notice say?**
 *(Một bà mẹ muốn cho con gái sáu tuổi vào câu lạc bộ lập trình. Thông báo nói gì?)*
 
-- A. The girl is too young, because the club is for ages 8 to 12. *(Cô bé còn quá nhỏ, vì câu lạc bộ dành cho trẻ 8 tới 12 tuổi.)*
-- B. The girl can join if her mother stays with her. *(Cô bé được tham gia nếu mẹ ở cùng.)*
-- C. The girl must bring her own laptop. *(Cô bé phải mang máy tính riêng.)*
-- D. The girl can join on Saturdays. *(Cô bé có thể học vào thứ Bảy.)*
+- A. She is too young, because the club is for ages 8 to 12. *(Cô bé còn quá nhỏ, vì câu lạc bộ dành cho trẻ 8 tới 12 tuổi.)*
+- B. The girl can join the club if her mother stays with her all the time. *(Cô bé được tham gia nếu mẹ ở cạnh suốt buổi.)*
+- C. The girl must bring her own laptop and a pencil. *(Cô bé phải tự mang máy tính xách tay và một cây bút chì.)*
+- D. The girl can join the club on Saturdays at ten. *(Cô bé có thể vào câu lạc bộ vào sáng thứ Bảy.)*
 
 **6. In "places are limited", what does "limited" mean?**
 *(Trong câu "places are limited", "limited" nghĩa là gì?)*
 
-- A. very expensive *(rất đắt)*
-- B. far away *(ở xa)*
+- A. too expensive for most people to pay *(quá đắt so với khả năng của đa số mọi người)*
+- B. far away from the main road *(ở xa đường chính)*
 - C. only a small number are available *(chỉ có một số lượng nhỏ)*
-- D. closed to children *(không cho trẻ em)*
+- D. open only to adults and teachers *(chỉ mở cho người lớn và giáo viên)*
 
 **7. What happens if a class is already full?**
 *(Nếu lớp đã đủ người thì sao?)*
 
-- A. The library opens a second class. *(Thư viện mở thêm lớp thứ hai.)*
+- A. The library opens a second class on another day. *(Thư viện mở thêm một lớp thứ hai vào ngày khác.)*
 - B. You can join the waiting list. *(Bạn có thể ghi tên vào danh sách chờ.)*
-- C. You have to pay for a place. *(Bạn phải trả tiền để có chỗ.)*
-- D. You can come without registering. *(Bạn có thể tới mà không cần đăng ký.)*
+- C. You have to pay extra to get a place. *(Bạn phải trả thêm tiền để có chỗ.)*
+- D. You can come to the class without registering. *(Bạn có thể đến lớp mà không cần đăng ký.)*
 
 **8. Why does the library ask people to cancel at least 24 hours before a class?**
 *(Vì sao thư viện đề nghị huỷ ít nhất 24 giờ trước buổi học?)*
 
-- A. to charge them a fee *(để thu phí)*
-- B. so that teachers can stay at home *(để giáo viên được ở nhà)*
-- C. because the library closes early *(vì thư viện đóng cửa sớm)*
-- D. so that someone on the waiting list can take the place *(để người trong danh sách chờ có thể thế chỗ)*
+- A. so that the library can charge them a small fee *(để thư viện thu của họ một khoản phí nhỏ)*
+- B. so that the teachers have time to prepare more classes *(để giáo viên có thời gian chuẩn bị thêm lớp học)*
+- C. because the library needs to close the room early *(vì thư viện cần đóng phòng sớm)*
+- D. so that someone else can take their place *(để người khác có thể thế chỗ của họ)*
 
 **9. Where can parents wait during the Coding Club?**
 *(Phụ huynh có thể chờ ở đâu trong giờ câu lạc bộ lập trình?)*
 
 - A. in the reading room *(ở phòng đọc)*
-- B. in the classroom *(trong lớp học)*
-- C. at the front desk *(ở quầy lễ tân)*
-- D. outside the building *(bên ngoài toà nhà)*
+- B. in the classroom next door *(trong phòng học bên cạnh)*
+- C. at the front desk with the staff *(ở quầy lễ tân cùng nhân viên)*
+- D. outside the building, in the car park *(bên ngoài toà nhà, ở bãi đỗ xe)*
 
 **10. What does the last part of the notice suggest about the library?**
 *(Phần cuối thông báo cho thấy điều gì về thư viện?)*
 
-- A. It will become a fire station again. *(Nó sẽ lại thành trạm cứu hoả.)*
-- B. It is a new building. *(Nó là một toà nhà mới.)*
+- A. It plans to become a fire station again soon. *(Nó dự định sớm lại thành trạm cứu hoả.)*
+- B. It was built only a few years ago. *(Nó chỉ mới được xây vài năm trước.)*
 - C. It is proud of the building's history. *(Nó tự hào về lịch sử của toà nhà.)*
-- D. It charges for history tours. *(Nó thu tiền các chuyến tham quan lịch sử.)*
+- D. It charges visitors money for history tours. *(Nó thu tiền khách cho các chuyến tham quan lịch sử.)*
 
 ---
 
@@ -216,9 +216,9 @@
 **11. What is Leah's blog post mainly about?**
 *(Bài blog của Leah chủ yếu nói về điều gì?)*
 
-- A. how to get into medical school *(cách vào trường y)*
-- B. why coffee is bad for doctors *(vì sao cà phê có hại cho bác sĩ)*
-- C. her family's history *(lịch sử gia đình cô)*
+- A. how to get into a good medical school and pass the exams *(cách vào một trường y tốt và vượt qua các kỳ thi)*
+- B. why drinking coffee is dangerous for night-shift doctors *(vì sao uống cà phê nguy hiểm cho bác sĩ trực đêm)*
+- C. the history of her family of nurses and doctors *(lịch sử gia đình y tá và bác sĩ của cô)*
 - D. the lessons that she has learned in her first months as a doctor *(những bài học cô rút ra trong mấy tháng đầu làm bác sĩ)*
 
 **12. What did Leah think when she graduated from medical school?**
@@ -232,66 +232,66 @@
 **13. What was Leah's problem during her first night shift?**
 *(Ca đêm đầu tiên Leah gặp khó khăn gì?)*
 
-- A. She didn't have any patients. *(Cô không có bệnh nhân nào.)*
+- A. She had no patients, so she had nothing to do all night. *(Cô không có bệnh nhân nào nên cả đêm chẳng có việc gì làm.)*
 - B. She worked too slowly because she wanted everything to be perfect. *(Cô làm quá chậm vì muốn mọi thứ hoàn hảo.)*
-- C. She forgot her coffee. *(Cô quên cà phê.)*
-- D. She argued with a nurse. *(Cô cãi nhau với một y tá.)*
+- C. She forgot her coffee and fell asleep at her desk for an hour. *(Cô quên cà phê và ngủ gục ở bàn suốt một tiếng.)*
+- D. She argued with a nurse about what to do first. *(Cô cãi nhau với một y tá về việc nên làm gì trước.)*
 
 **14. What does the nurse's advice "decide what can't wait, and do that first" mean?**
 *(Lời khuyên của chị y tá "quyết định việc gì không thể chờ, rồi làm việc đó trước" nghĩa là gì?)*
 
-- A. Do the easiest jobs first. *(Làm việc dễ nhất trước.)*
-- B. Wait until morning. *(Chờ tới sáng.)*
+- A. Do the easiest jobs first, then the hard ones. *(Làm việc dễ nhất trước, rồi mới đến việc khó.)*
+- B. Wait until the morning shift comes to help. *(Chờ đến khi ca sáng tới giúp.)*
 - C. Deal with the most urgent things first. *(Giải quyết việc gấp nhất trước.)*
-- D. Ask a doctor for help. *(Nhờ bác sĩ giúp.)*
+- D. Ask another doctor to do everything. *(Nhờ một bác sĩ khác làm hết mọi việc.)*
 
 **15. Why do nurses often notice small changes in patients first?**
 *(Vì sao y tá thường là người đầu tiên nhận ra thay đổi nhỏ ở bệnh nhân?)*
 
-- A. They are better trained than doctors. *(Vì họ được đào tạo tốt hơn bác sĩ.)*
-- B. They work only at night. *(Vì họ chỉ làm ban đêm.)*
-- C. Patients tell them everything. *(Vì bệnh nhân kể mọi chuyện với họ.)*
+- A. They have studied for more years than most doctors. *(Họ đã học nhiều năm hơn đa số bác sĩ.)*
+- B. They work only at night, when patients are calm. *(Họ chỉ làm ban đêm, khi bệnh nhân yên tĩnh.)*
+- C. Patients tell them everything before they see the doctor. *(Bệnh nhân kể hết mọi chuyện với họ trước khi gặp bác sĩ.)*
 - D. They spend more time with patients than doctors do. *(Vì họ ở bên bệnh nhân nhiều hơn bác sĩ.)*
 
 **16. What does "I grew up with a nurse in the family, so I should have known this already" suggest?**
 *(Câu "Tôi lớn lên trong một gia đình có người làm y tá, nên lẽ ra phải biết điều này từ lâu" hàm ý gì?)*
 
-- A. Leah's family doesn't like nurses. *(Gia đình Leah không thích y tá.)*
+- A. Leah's family warned her not to trust the nurses at the hospital. *(Gia đình Leah dặn cô đừng tin các y tá ở bệnh viện.)*
 - B. Leah had seen how much nurses know, but she only really understood it in the hospital. *(Leah từng thấy y tá hiểu biết thế nào, nhưng chỉ tới khi vào viện cô mới thật sự hiểu.)*
-- C. Leah wanted to be a nurse. *(Leah muốn làm y tá.)*
-- D. Leah's mother is a doctor. *(Mẹ Leah là bác sĩ.)*
+- C. Leah once wanted to be a nurse, but her family said no. *(Leah từng muốn làm y tá nhưng gia đình không đồng ý.)*
+- D. Leah's mother is a doctor who taught her about the nurses. *(Mẹ Leah là bác sĩ và đã dạy cô về các y tá.)*
 
 **17. What happened in Leah's second month?**
 *(Tháng thứ hai của Leah đã xảy ra chuyện gì?)*
 
 - A. She wrote the wrong amount on a medicine order, but a pharmacist noticed it in time. *(Cô ghi nhầm liều trong y lệnh, nhưng dược sĩ đã kịp phát hiện.)*
-- B. A patient was badly hurt. *(Một bệnh nhân bị ảnh hưởng nặng.)*
-- C. She lost her job. *(Cô bị mất việc.)*
-- D. She became a supervisor. *(Cô trở thành bác sĩ hướng dẫn.)*
+- B. A patient was badly hurt after taking the wrong amount of medicine. *(Một bệnh nhân bị thương nặng sau khi uống sai liều thuốc.)*
+- C. She lost her job after she told her supervisor about the mistake. *(Cô mất việc sau khi báo sai sót cho bác sĩ hướng dẫn.)*
+- D. She became a supervisor after only two months. *(Cô trở thành bác sĩ hướng dẫn chỉ sau hai tháng.)*
 
 **18. According to Leah's supervisor, why are hospitals safer when people report mistakes?**
 *(Theo bác sĩ hướng dẫn, vì sao bệnh viện an toàn hơn khi mọi người báo cáo sai sót?)*
 
-- A. Because people who report mistakes are punished. *(Vì người báo cáo sai sót sẽ bị phạt.)*
-- B. Because patients like it. *(Vì bệnh nhân thích thế.)*
+- A. Because people who report mistakes lose their jobs. *(Vì người báo cáo sai sót bị mất việc.)*
+- B. Because patients feel better when doctors say sorry. *(Vì bệnh nhân thấy dễ chịu hơn khi bác sĩ xin lỗi.)*
 - C. Because that is how everyone learns to prevent them. *(Vì đó là cách để ai cũng học được cách phòng tránh.)*
-- D. Because doctors have more free time. *(Vì bác sĩ có nhiều thời gian rảnh hơn.)*
+- D. Because doctors have more free time to check every order. *(Vì bác sĩ có thêm thời gian rảnh để kiểm tra mọi y lệnh.)*
 
 **19. How did Leah feel after her mistake?**
 *(Leah cảm thấy thế nào sau sai sót của mình?)*
 
-- A. proud *(tự hào)*
-- B. bored *(chán)*
+- A. proud of herself *(tự hào về bản thân)*
+- B. bored and sleepy *(chán và buồn ngủ)*
 - C. angry with the pharmacist *(giận dược sĩ)*
 - D. terribly embarrassed *(xấu hổ vô cùng)*
 
 **20. What does the last paragraph show about Leah's feelings toward her job?**
 *(Đoạn cuối cho thấy Leah cảm thấy thế nào về công việc của mình?)*
 
-- A. She wants to change jobs soon. *(Cô muốn sớm đổi việc.)*
+- A. She wants to change jobs because she is so tired. *(Cô muốn đổi việc vì quá mệt.)*
 - B. Although it is tiring, she loves it and would not change it. *(Dù mệt, cô yêu nghề và không muốn đổi.)*
-- C. She thinks that it is too easy. *(Cô thấy nó quá dễ.)*
-- D. She doesn't care about her patients. *(Cô không quan tâm tới bệnh nhân.)*
+- C. She thinks it is too easy and wants a harder job. *(Cô thấy nó quá dễ và muốn việc khó hơn.)*
+- D. She does not care about her patients, only about her coffee. *(Cô không quan tâm tới bệnh nhân, chỉ quan tâm tới cà phê.)*
 
 ---
 
@@ -338,82 +338,82 @@
 **21. Why does the writer compare the octopus to an alien?**
 *(Vì sao người viết so sánh bạch tuộc với người ngoài hành tinh?)*
 
-- A. Octopuses came to Earth from another planet. *(Vì bạch tuộc tới Trái Đất từ hành tinh khác.)*
-- B. Scientists designed the octopus. *(Vì các nhà khoa học đã thiết kế ra bạch tuộc.)*
+- A. Octopuses really came to Earth from another planet long ago. *(Bạch tuộc thật sự đã tới Trái Đất từ một hành tinh khác từ lâu.)*
+- B. Scientists designed the octopus in a laboratory. *(Các nhà khoa học đã thiết kế bạch tuộc trong phòng thí nghiệm.)*
 - C. It is so unusual that it seems to come from another planet. *(Vì nó khác thường tới mức như đến từ hành tinh khác.)*
-- D. Octopuses can live in space. *(Vì bạch tuộc sống được ngoài vũ trụ.)*
+- D. Octopuses can live in space for a few days. *(Bạch tuộc có thể sống ngoài vũ trụ vài ngày.)*
 
 **22. What do two of the octopus's three hearts do?**
 *(Hai trong ba quả tim của bạch tuộc làm gì?)*
 
-- A. They pump blood around the whole body. *(Bơm máu đi khắp cơ thể.)*
-- B. They change the color of its skin. *(Đổi màu da.)*
-- C. They control its arms. *(Điều khiển các xúc tu.)*
+- A. They pump blood around the whole body. *(Chúng bơm máu đi khắp cơ thể.)*
+- B. They change the color of its skin. *(Chúng làm đổi màu da của nó.)*
+- C. They control the movements of its arms. *(Chúng điều khiển cử động của các xúc tu.)*
 - D. They pump blood through its gills. *(Bơm máu qua mang.)*
 
 **23. Why is an octopus's blood blue?**
 *(Vì sao máu bạch tuộc màu xanh lam?)*
 
-- A. It uses copper instead of iron to carry oxygen. *(Vì nó dùng đồng thay cho sắt để vận chuyển oxy.)*
-- B. It lives in blue water. *(Vì nó sống trong nước xanh.)*
-- C. It has three hearts. *(Vì nó có ba quả tim.)*
-- D. It eats blue fish. *(Vì nó ăn cá xanh.)*
+- A. It uses copper, not iron, to carry oxygen. *(Nó dùng đồng chứ không dùng sắt để chở oxy.)*
+- B. It lives in cold blue water deep in the ocean. *(Nó sống trong làn nước xanh lạnh sâu dưới đại dương.)*
+- C. It has three hearts, and one of them is blue. *(Nó có ba quả tim và một trong số đó màu xanh.)*
+- D. It eats a lot of blue fish and small shells. *(Nó ăn nhiều cá xanh và sò nhỏ.)*
 
 **24. What is surprising about the octopus's nerve cells?**
 *(Điều gì đáng ngạc nhiên về tế bào thần kinh của bạch tuộc?)*
 
-- A. It has more of them than any other animal. *(Nó có nhiều hơn mọi loài khác.)*
+- A. It has more nerve cells than any other animal in the sea. *(Nó có nhiều tế bào thần kinh hơn mọi loài vật khác ở biển.)*
 - B. About two-thirds of them are in its arms, not in its head. *(Khoảng hai phần ba nằm ở xúc tu chứ không ở đầu.)*
-- C. It has none in its arms. *(Xúc tu của nó không có tế bào thần kinh nào.)*
-- D. They are all in its hearts. *(Tất cả đều nằm ở tim.)*
+- C. It has none in its arms, only in its head. *(Xúc tu không có tế bào nào, chỉ có ở đầu.)*
+- D. They are all in its three hearts and its gills. *(Tất cả nằm trong ba quả tim và mang của nó.)*
 
 **25. What does "each arm can touch, taste and even make simple decisions on its own" mean?**
 *(Câu "mỗi xúc tu có thể tự chạm, tự nếm, thậm chí tự đưa ra quyết định đơn giản" nghĩa là gì?)*
 
-- A. Each arm has its own heart. *(Mỗi xúc tu có tim riêng.)*
-- B. The arms cannot move without the head. *(Xúc tu không cử động được nếu không có đầu.)*
+- A. Each arm has its own small heart and its own eyes. *(Mỗi xúc tu có một quả tim nhỏ và đôi mắt riêng.)*
+- B. The arms cannot move unless the head tells them to do so. *(Xúc tu không cử động được trừ khi đầu ra lệnh.)*
 - C. Each arm can do some things without help from the brain in the head. *(Mỗi xúc tu có thể làm vài việc mà không cần bộ não ở đầu.)*
-- D. The arms can leave the body. *(Xúc tu có thể rời khỏi cơ thể.)*
+- D. The arms can leave the body and swim away alone. *(Xúc tu có thể rời khỏi cơ thể và tự bơi đi.)*
 
 **26. What have researchers in Indonesia filmed?**
 *(Các nhà nghiên cứu ở Indonesia đã quay được cảnh gì?)*
 
 - A. octopuses carrying coconut shells and later using them as a shelter *(bạch tuộc mang vỏ dừa rồi sau đó dùng làm chỗ trú)*
-- B. octopuses opening jars *(bạch tuộc mở lọ)*
-- C. an octopus escaping from a tank *(một con bạch tuộc trốn khỏi bể)*
-- D. octopuses eating coconuts *(bạch tuộc ăn dừa)*
+- B. octopuses opening jars in an aquarium *(bạch tuộc mở lọ trong thuỷ cung)*
+- C. an octopus escaping from a tank at night *(một con bạch tuộc trốn khỏi bể vào ban đêm)*
+- D. octopuses eating coconuts and carrying them to the beach *(bạch tuộc ăn dừa và mang chúng lên bãi biển)*
 
 **27. What does the story of the octopus in New Zealand show?**
 *(Câu chuyện con bạch tuộc ở New Zealand cho thấy điều gì?)*
 
-- A. Octopuses don't like aquariums. *(Bạch tuộc không thích thuỷ cung.)*
+- A. Octopuses don't like living in aquariums. *(Bạch tuộc không thích sống trong thuỷ cung.)*
 - B. New Zealand has the biggest octopuses. *(New Zealand có bạch tuộc lớn nhất.)*
 - C. Octopuses can live without water for days. *(Bạch tuộc sống được nhiều ngày không cần nước.)*
-- D. Octopuses can find clever ways to escape. *(Bạch tuộc có thể tìm ra những cách trốn thoát thông minh.)*
+- D. Octopuses can find clever ways to escape. *(Bạch tuộc có thể tìm ra cách thoát thông minh.)*
 
 **28. Why do scientists find the octopus's color changes strange?**
 *(Vì sao các nhà khoa học thấy việc đổi màu của bạch tuộc là lạ?)*
 
-- A. Octopuses change color very slowly. *(Vì bạch tuộc đổi màu rất chậm.)*
+- A. Octopuses change color very slowly, over several hours. *(Bạch tuộc đổi màu rất chậm, mất vài tiếng.)*
 - B. Most octopuses probably cannot see colors in the way that we do. *(Vì phần lớn bạch tuộc có lẽ không nhìn thấy màu sắc theo cách chúng ta nhìn.)*
-- C. Octopuses are always red. *(Vì bạch tuộc lúc nào cũng màu đỏ.)*
-- D. Coral has no color. *(Vì san hô không có màu.)*
+- C. Octopuses can only change into red and blue. *(Bạch tuộc chỉ đổi được sang màu đỏ và xanh.)*
+- D. Coral and rocks have no color at all. *(San hô và đá hoàn toàn không có màu.)*
 
 **29. In "so that it looks exactly like a rock or a piece of coral", what is the purpose of changing color?**
 *(Trong câu "để trông y hệt một hòn đá hay một mẩu san hô", việc đổi màu nhằm mục đích gì?)*
 
-- A. to attract other octopuses *(để thu hút bạch tuộc khác)*
-- B. to keep warm *(để giữ ấm)*
+- A. to attract other octopuses to its shelter *(để thu hút các con bạch tuộc khác tới chỗ trú)*
+- B. to keep warm in cold water *(để giữ ấm trong nước lạnh)*
 - C. to hide by matching its surroundings *(để ẩn mình bằng cách hoà vào môi trường xung quanh)*
-- D. to show that it is angry *(để thể hiện nó đang tức giận)*
+- D. to show other animals that it is angry *(để cho các con vật khác thấy nó đang giận)*
 
 **30. Which of these is TRUE about most octopuses?**
 *(Điều nào ĐÚNG về phần lớn bạch tuộc?)*
 
 - A. They live surprisingly short lives, often only one or two years. *(Chúng sống ngắn một cách bất ngờ, thường chỉ một hai năm.)*
-- B. They live for more than fifty years. *(Chúng sống hơn năm mươi năm.)*
-- C. They have red blood. *(Chúng có máu đỏ.)*
-- D. They have one heart. *(Chúng có một quả tim.)*
+- B. They live for more than fifty years in the wild. *(Chúng sống hơn năm mươi năm ngoài tự nhiên.)*
+- C. They have red blood, like most sea animals. *(Chúng có máu đỏ, như phần lớn động vật biển.)*
+- D. They have one large heart in the head. *(Chúng có một quả tim lớn trong đầu.)*
 
 ---
 
@@ -459,81 +459,81 @@
 **31. What is the article mainly about?**
 *(Bài báo chủ yếu nói về điều gì?)*
 
-- A. how to find a new job *(cách tìm việc mới)*
-- B. the arguments for and against a four-day working week *(những lý lẽ ủng hộ và phản đối tuần làm việc bốn ngày)*
-- C. the history of the United Kingdom *(lịch sử Vương quốc Anh)*
-- D. why nurses work on Fridays *(vì sao y tá làm việc vào thứ Sáu)*
+- A. how to find a new job with shorter hours *(cách tìm việc mới có giờ làm ngắn hơn)*
+- B. the arguments for and against a four-day week *(các lập luận ủng hộ và phản đối tuần làm việc bốn ngày)*
+- C. the history of working hours in the United Kingdom *(lịch sử giờ làm việc ở Vương quốc Anh)*
+- D. why nurses and bus drivers work on Fridays *(vì sao y tá và tài xế xe buýt làm việc vào thứ Sáu)*
 
 **32. What does the four-day week mean in this article?**
 *(Trong bài, tuần làm việc bốn ngày nghĩa là gì?)*
 
-- A. working four days for less money *(làm bốn ngày, lương thấp hơn)*
-- B. working four hours a day *(mỗi ngày làm bốn tiếng)*
+- A. working four days a week for less money *(làm bốn ngày một tuần với ít tiền hơn)*
+- B. working four hours a day for the same pay *(làm bốn tiếng mỗi ngày với cùng mức lương)*
 - C. four days of work, with the same pay *(làm bốn ngày, lương giữ nguyên)*
-- D. working only four weeks a year *(mỗi năm chỉ làm bốn tuần)*
+- D. working only four weeks a year, for the same pay *(chỉ làm bốn tuần mỗi năm với cùng mức lương)*
 
 **33. What did most companies in the 2022 trial decide?**
 *(Phần lớn công ty trong thử nghiệm năm 2022 đã quyết định gì?)*
 
-- A. to go back to five days immediately *(quay lại làm năm ngày ngay lập tức)*
-- B. to pay workers less *(trả lương thấp hơn)*
-- C. to close their offices *(đóng cửa văn phòng)*
+- A. to go back to five days immediately *(quay lại năm ngày ngay lập tức)*
+- B. to pay workers less money *(trả công nhân ít tiền hơn)*
+- C. to close their offices on Fridays *(đóng cửa văn phòng vào thứ Sáu)*
 - D. to continue with the shorter week *(tiếp tục với tuần làm việc ngắn hơn)*
 
 **34. Which of these is NOT given as a result for workers in the trial?**
 *(Điều nào KHÔNG được nêu là kết quả với người lao động trong thử nghiệm?)*
 
-- A. higher pay *(lương cao hơn)*
-- B. less stress *(bớt căng thẳng)*
+- A. higher pay than before *(mức lương cao hơn trước)*
+- B. less stress *(ít căng thẳng hơn)*
 - C. better sleep *(ngủ ngon hơn)*
 - D. fewer sick days *(ít ngày nghỉ ốm hơn)*
 
 **35. According to supporters, why do people work well in a four-day week?**
 *(Theo người ủng hộ, vì sao người ta làm việc tốt trong tuần bốn ngày?)*
 
-- A. They have more meetings. *(Vì họ có nhiều cuộc họp hơn.)*
+- A. They have longer meetings with more people. *(Họ họp lâu hơn với nhiều người hơn.)*
 - B. They waste less time and focus on what really matters. *(Vì họ bớt phí thời gian và tập trung vào việc thật sự quan trọng.)*
-- C. They work twelve hours a day. *(Vì họ làm mười hai tiếng mỗi ngày.)*
-- D. Their managers watch them more closely. *(Vì quản lý giám sát họ chặt hơn.)*
+- C. They work twelve hours a day on three days. *(Họ làm mười hai tiếng mỗi ngày trong ba ngày.)*
+- D. Their managers watch them more closely every day. *(Quản lý theo dõi họ sát hơn mỗi ngày.)*
 
 **36. Why do critics say that the trial results may not be fair?**
 *(Vì sao người phản biện cho rằng kết quả thử nghiệm có thể chưa khách quan?)*
 
-- A. The trial was too long. *(Vì thử nghiệm quá dài.)*
-- B. The workers were paid more. *(Vì người lao động được trả nhiều hơn.)*
-- C. Nobody reported the results. *(Vì không ai công bố kết quả.)*
+- A. The trial was too long, so workers became tired. *(Thử nghiệm quá dài nên người lao động mệt.)*
+- B. The workers were paid more than before the trial. *(Người lao động được trả nhiều hơn trước thử nghiệm.)*
+- C. Nobody reported the results, so no one knows if the trial worked. *(Không ai công bố kết quả nên không ai biết thử nghiệm có hiệu quả không.)*
 - D. The companies chose to take part, so they were probably the most likely to succeed. *(Vì các công ty tự nguyện tham gia, nên có lẽ là những nơi dễ thành công nhất.)*
 
 **37. Why might a four-day week be harder for hospitals, schools and shops?**
 *(Vì sao tuần bốn ngày có thể khó hơn với bệnh viện, trường học và cửa hàng?)*
 
-- A. They are too small. *(Vì chúng quá nhỏ.)*
-- B. Their workers don't want it. *(Vì nhân viên không muốn.)*
+- A. They are too small to have a four-day week. *(Chúng quá nhỏ để áp dụng tuần bốn ngày.)*
+- B. Their workers don't want a shorter week. *(Nhân viên ở đó không muốn tuần làm việc ngắn hơn.)*
 - C. They need people there every day. *(Vì ngày nào chúng cũng cần người.)*
-- D. They already work four days. *(Vì chúng vốn đã làm bốn ngày.)*
+- D. They already work only four days a week. *(Họ vốn đã chỉ làm bốn ngày một tuần.)*
 
 **38. What does "fit five days of work into four longer days" suggest?**
 *(Cụm "dồn năm ngày việc vào bốn ngày dài hơn" hàm ý gì?)*
 
 - A. The amount of work stays the same, so each working day becomes longer. *(Khối lượng việc không đổi, nên mỗi ngày làm việc dài ra.)*
-- B. Workers do less work. *(Người lao động làm ít việc hơn.)*
-- C. Workers get an extra day of pay. *(Người lao động được trả thêm một ngày lương.)*
+- B. Workers do less work in four days than before. *(Người lao động làm ít việc hơn trước trong bốn ngày.)*
+- C. Workers get an extra day of pay for working longer. *(Người lao động được trả thêm một ngày lương vì làm lâu hơn.)*
 - D. The days themselves become longer than 24 hours. *(Bản thân mỗi ngày dài hơn 24 tiếng.)*
 
 **39. What is the writer's opinion?**
 *(Quan điểm của người viết là gì?)*
 
-- A. Every company should have a four-day week now. *(Mọi công ty nên áp dụng tuần bốn ngày ngay.)*
+- A. Every company should have a four-day week as soon as possible. *(Mọi công ty nên áp dụng tuần bốn ngày càng sớm càng tốt.)*
 - B. A four-day week can work for some jobs, but not for all. *(Tuần bốn ngày hợp với một số công việc, nhưng không phải tất cả.)*
-- C. The four-day week is a bad idea for everyone. *(Tuần bốn ngày là ý tồi với tất cả mọi người.)*
-- D. Nurses should work only four days. *(Y tá chỉ nên làm bốn ngày.)*
+- C. The four-day week is a bad idea for every kind of job. *(Tuần bốn ngày là ý tồi với mọi loại công việc.)*
+- D. Nurses should work only four days a week. *(Y tá chỉ nên làm bốn ngày một tuần.)*
 
 **40. According to the writer, what may be the most useful lesson of the experiments?**
 *(Theo người viết, bài học hữu ích nhất từ các thử nghiệm có lẽ là gì?)*
 
-- A. Office workers are lazy. *(Nhân viên văn phòng lười biếng.)*
-- B. Fridays are the least important day. *(Thứ Sáu là ngày kém quan trọng nhất.)*
-- C. Companies should pay more. *(Công ty nên trả lương cao hơn.)*
+- A. Office workers need more time to rest at home. *(Nhân viên văn phòng cần thêm thời gian nghỉ ngơi ở nhà.)*
+- B. Fridays are the least important day of the week. *(Thứ Sáu là ngày ít quan trọng nhất trong tuần.)*
+- C. Companies should pay workers more for the same work. *(Công ty nên trả công nhân nhiều hơn cho cùng một việc.)*
 - D. We waste a lot of time when we are at work. *(Chúng ta lãng phí rất nhiều thời gian khi làm việc.)*
 
 ---
