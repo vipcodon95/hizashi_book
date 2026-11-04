@@ -165,7 +165,7 @@
 - A. because she knew Fitzgerald personally and heard him explain what Gatsby meant *(vì bà quen biết Fitzgerald và nghe ông giải thích Gatsby có ý nghĩa gì)*
 - B. because she dislikes Tom and thinks Gatsby is better than he is *(vì bà không ưa Tom và nghĩ Gatsby tốt hơn ông ta)*
 - C. because she was asked by the book club to defend Gatsby in the debate *(vì câu lạc bộ sách nhờ bà bênh vực Gatsby trong cuộc tranh luận)*
-- D. because this year's change makes her sympathize with the wish to get the past back *(vì sự thay đổi năm nay khiến bà đồng cảm với mong muốn lấy lại quá khứ)*
+- D. because she has spent this year arguing that the old version of anything cannot be recovered *(vì cả năm nay bà đã lập luận rằng không thể lấy lại phiên bản cũ của bất cứ thứ gì)*
 
 **8. How does Nathan's view of the famous last line differ from others'?**
 *(Cách Nathan nhìn câu cuối nổi tiếng khác người khác thế nào?)*
@@ -334,7 +334,7 @@
 | 4 | **C** | Câu 9: Câu suy luận. "anyone who announces his own honesty is usually about to lie" là một nhận xét đời thường dí dỏm áp vào Nick. |
 | 5 | **B** | Câu 9–10: "Nick judges everyone constantly, and the person he judges least is Gatsby" và "the narrator who promises not to judge is, in fact, the novel's harshest judge". |
 | 6 | **A** | Câu 11: "less a story about one man than a parable about believing that you can rebuild your life exactly as it was." |
-| 7 | **D** | Câu 12: Câu suy luận liên chương. Bà vừa viết bài về quán (con tàu Theseus): "you cannot get back the old version of anything", nên bà thấy Gatsby đáng thương. |
+| 7 | **D** | Câu 12: Câu suy luận. Bà nói: "I have spent this year arguing that you cannot get back the old version of anything", nên với bà, nỗ lực lấy lại quá khứ của Gatsby là bi kịch chứ không ngớ ngẩn. Các phương án còn lại không có trong bài. |
 | 8 | **C** | Câu 14: "Nathan found it beautiful but suspicious", "the kind of sentence you write when you want the reader to stop asking questions". |
 | 9 | **A** | Câu 15: "Fitzgerald died in 1940 convinced, by most accounts, that it had failed. Only afterwards did it become one of the most widely read novels in America." |
 | 10 | **D** | Câu 16: Câu hỏi giọng điệu. "as several members requested in writing" là chi tiết dí dỏm: có người đã yêu cầu hẳn bằng văn bản. |
