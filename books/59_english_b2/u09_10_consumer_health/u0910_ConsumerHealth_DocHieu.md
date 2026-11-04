@@ -95,82 +95,82 @@
 **1. What are Helena's notes mainly about?**
 *(Ghi chép của Helena chủ yếu nói về điều gì?)*
 
-- A. how to repair old clothes *(cách sửa quần áo cũ)*
-- B. Nathan's new headphones *(chiếc tai nghe mới của Nathan)*
-- C. the second-hand shop on Pine Street *(cửa hàng đồ cũ phố Pine)*
-- D. a family challenge to buy nothing new for a month, and what they learned *(thử thách cả nhà không mua đồ mới trong một tháng, và điều họ rút ra)*
+- A. how to repair old clothes and shoes with a needle and thread *(cách sửa quần áo và giày cũ bằng kim chỉ)*
+- B. Nathan's new headphones and the day he finally bought them *(chiếc tai nghe mới của Nathan và ngày anh cuối cùng mua nó)*
+- C. the second-hand shop on Pine Street and its low prices *(cửa hàng đồ cũ phố Pine và giá rẻ của nó)*
+- D. a family challenge to buy nothing new for a month, and its results *(thử thách cả nhà không mua đồ mới trong một tháng, và kết quả)*
 
 **2. What must the family do before any purchase?**
 *(Trước mỗi lần mua, cả nhà phải làm gì?)*
 
-- A. wait twenty-four hours and ask if they need it or just want it *(chờ hai mươi bốn giờ và tự hỏi mình cần hay chỉ muốn)*
-- B. ask Harriet for permission *(xin phép bà Harriet)*
-- C. borrow it first *(mượn trước)*
-- D. write it on the fridge *(ghi lên tủ lạnh)*
+- A. wait twenty-four hours and ask whether they need it or want it *(chờ hai mươi bốn giờ và tự hỏi mình cần hay chỉ muốn)*
+- B. ask Harriet or another neighbor for permission to buy it *(xin phép bà Harriet hoặc một người hàng xóm để mua)*
+- C. write the price on the fridge door and wait a week *(ghi giá lên cửa tủ lạnh và chờ một tuần)*
+- D. show it to Helena and ask her to approve the price *(đưa cho Helena xem và nhờ cô duyệt giá)*
 
 **3. What does Nathan mean by "Scarcely had I closed the app when I remembered that my old headphones work perfectly well"?**
 *(Nathan muốn nói gì qua câu "Vừa đóng ứng dụng là anh nhớ ra cái tai nghe cũ vẫn dùng tốt chán"?)*
 
-- A. He couldn't close the app. *(Anh không đóng được ứng dụng.)*
-- B. He bought the headphones anyway. *(Anh vẫn mua tai nghe.)*
-- C. Almost as soon as he closed the app, he realized that he didn't need new headphones. *(Gần như ngay khi đóng ứng dụng, anh nhận ra mình không cần tai nghe mới.)*
-- D. His old headphones were broken. *(Tai nghe cũ của anh bị hỏng.)*
+- A. He could not close the app because his phone had stopped working late at night. *(Anh không đóng được ứng dụng vì điện thoại hỏng lúc đêm khuya.)*
+- B. He bought the headphones anyway and hid them from the family. *(Anh vẫn mua tai nghe và giấu cả nhà.)*
+- C. Almost as soon as he closed the app, he realized that he didn't need them. *(Gần như ngay khi đóng ứng dụng, anh nhận ra mình không cần chúng.)*
+- D. His old headphones were broken, so he had to borrow a pair. *(Tai nghe cũ của anh hỏng nên anh phải mượn một chiếc.)*
 
 **4. What happened when Amy's sneakers came apart?**
 *(Khi giày thể thao của Amy bị bung thì sao?)*
 
-- A. Her parents bought her a new pair online. *(Bố mẹ mua đôi mới trên mạng.)*
-- B. They found an almost new pair at a second-hand shop for eight dollars. *(Cả nhà tìm được một đôi gần như mới ở cửa hàng đồ cũ giá tám đô.)*
-- C. Helena repaired them. *(Helena sửa lại.)*
-- D. She borrowed shoes from Tina. *(Cô bé mượn giày của Tina.)*
+- A. Her parents ordered a new pair online and paid extra for fast delivery. *(Bố mẹ đặt một đôi mới trên mạng và trả thêm tiền để giao nhanh.)*
+- B. They found an almost new pair second-hand for eight dollars. *(Cả nhà tìm được một đôi gần như mới đã qua sử dụng giá tám đô.)*
+- C. Helena repaired them with a needle and thread borrowed from Harriet. *(Helena sửa chúng bằng kim chỉ mượn của bà Harriet.)*
+- D. She borrowed a pair of sneakers from her friend at school. *(Cô bé mượn đôi giày thể thao của một bạn ở trường.)*
 
 **5. What does Amy telling everyone at school that her shoes were "vintage" suggest?**
 *(Việc Amy kể với cả trường rằng giày của mình là "đồ cổ điển" cho thấy điều gì?)*
 
 - A. She quickly found a positive way to see her second-hand shoes. *(Cô bé nhanh chóng tìm được cách nhìn tích cực về đôi giày cũ.)*
-- B. She lied because she was ashamed. *(Cô bé nói dối vì xấu hổ.)*
-- C. The shoes were very old and valuable. *(Đôi giày rất cũ và đắt giá.)*
-- D. She didn't want the shoes. *(Cô bé không muốn đôi giày.)*
+- B. She lied to her friends because she was ashamed of the shoes. *(Cô bé nói dối bạn vì xấu hổ về đôi giày.)*
+- C. The shoes were very old and valuable, so she wore them with pride. *(Đôi giày rất cũ và đắt giá nên cô bé tự hào mang chúng.)*
+- D. She didn't want the shoes and tried to give them to a friend. *(Cô bé không muốn đôi giày và định đem cho bạn.)*
 
 **6. What did the family find when they cleared out the garage?**
 *(Khi dọn nhà xe, cả nhà tìm thấy gì?)*
 
-- A. a new pair of headphones *(một chiếc tai nghe mới)*
-- B. Harriet's sewing box *(hộp kim chỉ của bà Harriet)*
-- C. money *(tiền)*
+- A. a new pair of headphones that Nathan had hidden there *(một chiếc tai nghe mới Nathan đã giấu ở đó)*
+- B. Harriet's sewing box and the needle and thread she lent them *(hộp kim chỉ của bà Harriet và cây kim, sợi chỉ bà cho mượn)*
+- C. some money that Amy had saved for new shoes *(một ít tiền Amy để dành mua giày mới)*
 - D. three umbrellas, two blenders and a box of forgotten toys *(ba cái ô, hai máy xay sinh tố và một thùng đồ chơi bị bỏ quên)*
 
 **7. What does "Little did we know how many things we owned without using them" mean?**
 *(Câu "Chẳng ngờ nhà mình có nhiều thứ đến thế mà không hề dùng" nghĩa là gì?)*
 
-- A. They owned very few things. *(Nhà họ có rất ít đồ.)*
-- B. They knew exactly what they owned. *(Họ biết rõ mình có gì.)*
-- C. They had no idea that they owned so many things that they never used. *(Họ không hề biết mình có nhiều đồ không dùng đến vậy.)*
-- D. They wanted to buy more things. *(Họ muốn mua thêm đồ.)*
+- A. They owned very few things and had to borrow the rest. *(Nhà họ có rất ít đồ và phải mượn phần còn lại.)*
+- B. They knew exactly what they owned and where everything was. *(Họ biết chính xác mình có gì và đồ để ở đâu.)*
+- C. They had no idea how many things they owned but never used. *(Họ không hề biết mình có bao nhiêu đồ mà chưa từng dùng tới.)*
+- D. They wanted to buy more things to fill the empty garage. *(Họ muốn mua thêm đồ để lấp đầy gara trống.)*
 
 **8. How much less did the family spend on things other than food?**
 *(Cả nhà chi ít hơn bao nhiêu cho những thứ ngoài đồ ăn?)*
 
-- A. about 24 percent less *(ít hơn khoảng 24 phần trăm)*
+- A. about 24 percent less than usual *(ít hơn bình thường khoảng 24 phần trăm)*
 - B. about 60 percent less *(ít hơn khoảng 60 phần trăm)*
-- C. about 31 percent less *(ít hơn khoảng 31 phần trăm)*
+- C. about 31 percent less than usual *(ít hơn bình thường khoảng 31 phần trăm)*
 - D. nothing at all *(không chi gì)*
 
 **9. What does "Seldom have we spent so many evenings together" suggest?**
 *(Câu "Hiếm khi nào cả nhà có nhiều buổi tối bên nhau đến vậy" hàm ý gì?)*
 
 - A. The challenge gave the family more time together than usual. *(Thử thách cho cả nhà nhiều thời gian bên nhau hơn bình thường.)*
-- B. The family rarely likes being together. *(Cả nhà hiếm khi thích ở cùng nhau.)*
-- C. They spent every evening shopping. *(Tối nào họ cũng đi mua sắm.)*
-- D. They were bored every evening. *(Tối nào họ cũng chán.)*
+- B. The family rarely enjoys being together in the evening. *(Cả nhà hiếm khi thích ở bên nhau vào buổi tối.)*
+- C. They spent every evening shopping for things to borrow. *(Tối nào họ cũng đi mua sắm đồ để mượn.)*
+- D. They were bored every evening because there was nothing to buy. *(Tối nào họ cũng chán vì chẳng có gì để mua.)*
 
 **10. Which rules has the family decided to keep?**
 *(Cả nhà quyết định giữ lại những luật nào?)*
 
-- A. buying nothing new at all *(không mua bất cứ đồ mới nào)*
-- B. only buying food *(chỉ mua đồ ăn)*
+- A. buying nothing new at all, except food and medicine *(không mua đồ mới nào, trừ đồ ăn và thuốc)*
+- B. only buying food, medicine and things for safety *(chỉ mua đồ ăn, thuốc và đồ cho an toàn)*
 - C. the twenty-four-hour wait and "borrow before you buy" *(chờ hai mươi bốn giờ và "mượn trước khi mua")*
-- D. shopping only at second-hand shops *(chỉ mua ở cửa hàng đồ cũ)*
+- D. shopping only at second-hand shops on Pine Street *(chỉ mua ở các cửa hàng đồ cũ trên phố Pine)*
 
 ---
 
@@ -215,8 +215,8 @@
 **11. What is the main idea of the article?**
 *(Ý chính của bài báo là gì?)*
 
-- A. Living alone is bad for your health. *(Sống một mình có hại cho sức khoẻ.)*
-- B. Loneliness is a serious health risk that people should take seriously. *(Cô đơn là một rủi ro sức khoẻ nghiêm trọng mà mọi người nên coi trọng.)*
+- A. Living alone is bad for your health, so people should move in with others. *(Sống một mình có hại cho sức khoẻ, nên mọi người nên dọn về ở với người khác.)*
+- B. Loneliness is a serious health risk that deserves more attention. *(Cô đơn là một rủi ro sức khoẻ nghiêm trọng đáng được quan tâm hơn.)*
 - C. Smoking is less dangerous than people think. *(Hút thuốc ít nguy hiểm hơn người ta nghĩ.)*
 - D. Older people should visit the emergency room more often. *(Người già nên tới phòng cấp cứu thường xuyên hơn.)*
 
@@ -231,26 +231,26 @@
 **13. What did the large review of 148 studies find?**
 *(Tổng quan lớn gộp 148 nghiên cứu phát hiện gì?)*
 
-- A. People with strong social relationships were about 50 percent more likely to survive over the study period. *(Người có quan hệ xã hội bền chặt có khả năng sống sót trong thời gian nghiên cứu cao hơn khoảng 50 phần trăm.)*
-- B. Lonely people smoke more. *(Người cô đơn hút thuốc nhiều hơn.)*
-- C. Half of all adults have no friends. *(Một nửa số người trưởng thành không có bạn.)*
-- D. Social relationships have no effect on health. *(Quan hệ xã hội không ảnh hưởng tới sức khoẻ.)*
+- A. People with strong social relationships were about 50 percent more likely to survive. *(Người có quan hệ xã hội bền chặt có khả năng sống sót cao hơn khoảng 50 phần trăm.)*
+- B. Lonely people smoke far more than people with strong relationships, and so they die younger. *(Người cô đơn hút thuốc nhiều hơn hẳn người có quan hệ bền chặt, nên chết sớm hơn.)*
+- C. About half of all the adults in the studies had no friends and lived alone. *(Khoảng một nửa số người trưởng thành trong các nghiên cứu không có bạn và sống một mình.)*
+- D. Social relationships have almost no effect on how long people live. *(Quan hệ xã hội hầu như không ảnh hưởng tới tuổi thọ.)*
 
 **14. Why does the report compare a lack of social connection to smoking?**
 *(Vì sao bản báo cáo so sánh việc thiếu kết nối xã hội với hút thuốc?)*
 
-- A. because lonely people often smoke *(vì người cô đơn hay hút thuốc)*
-- B. to sell medicine *(để bán thuốc)*
+- A. because most lonely people smoke up to fifteen cigarettes a day *(vì phần lớn người cô đơn hút tới mười lăm điếu mỗi ngày)*
+- B. to sell new medicine to people who feel lonely *(để bán thuốc mới cho người cảm thấy cô đơn)*
 - C. to help people understand how harmful loneliness can be *(để giúp mọi người hiểu cô đơn có hại tới mức nào)*
-- D. because smoking causes loneliness *(vì hút thuốc gây ra cô đơn)*
+- D. because smoking makes people lonely and lonely people smoke *(vì hút thuốc làm người ta cô đơn và người cô đơn lại hút thuốc)*
 
 **15. According to scientists, how can loneliness lead to physical illness?**
 *(Theo các nhà khoa học, cô đơn dẫn tới bệnh thể chất bằng cách nào?)*
 
-- A. It makes people eat too much sugar. *(Nó khiến người ta ăn quá nhiều đường.)*
-- B. It keeps the body in a state of stress, which can result in poor sleep, high blood pressure and inflammation. *(Nó giữ cơ thể trong trạng thái căng thẳng, có thể dẫn tới mất ngủ, huyết áp cao và viêm.)*
-- C. It spreads like an infectious disease. *(Nó lây như bệnh truyền nhiễm.)*
-- D. It damages the lungs directly. *(Nó làm hại phổi trực tiếp.)*
+- A. It makes people eat too much sugar and gain weight, and the extra weight then damages the heart and the lungs. *(Nó khiến người ta ăn quá nhiều đường và tăng cân, rồi cân nặng dư làm hại tim và phổi.)*
+- B. It keeps the body in a state of stress, which can lead to poor sleep and high blood pressure. *(Nó giữ cơ thể trong trạng thái căng thẳng, có thể dẫn tới mất ngủ và huyết áp cao.)*
+- C. It spreads like an infectious disease from one lonely person to another. *(Nó lây như bệnh truyền nhiễm từ người cô đơn này sang người khác.)*
+- D. It damages the lungs directly, in the same way as cigarette smoke. *(Nó làm hại phổi trực tiếp, giống như khói thuốc lá.)*
 
 **16. Which of these is NOT given as a reason why lonely people may become ill?**
 *(Điều nào KHÔNG được nêu là lý do khiến người cô đơn dễ mắc bệnh?)*
@@ -263,34 +263,34 @@
 **17. According to the article, what is the difference between being alone and being lonely?**
 *(Theo bài, ở một mình và cô đơn khác nhau thế nào?)*
 
-- A. Loneliness is about feeling that nobody truly knows and cares about you, not about how many people are around. *(Cô đơn là cảm giác không ai thật sự hiểu và quan tâm mình, chứ không phải có bao nhiêu người quanh mình.)*
-- B. Being alone is always worse. *(Ở một mình lúc nào cũng tệ hơn.)*
-- C. There is no difference. *(Không khác gì nhau.)*
-- D. Lonely people always live alone. *(Người cô đơn luôn sống một mình.)*
+- A. Loneliness is feeling that nobody truly knows and cares about you, however many people are around. *(Cô đơn là cảm giác không ai thật sự hiểu và quan tâm mình, dù quanh mình có bao nhiêu người.)*
+- B. Being alone is always worse, because people who live by themselves have no one to talk to or eat with. *(Ở một mình lúc nào cũng tệ hơn, vì người sống một mình chẳng có ai để trò chuyện hay ăn cùng.)*
+- C. There is no difference, because both mean having few people around. *(Không khác gì nhau, vì cả hai đều là có ít người xung quanh.)*
+- D. Lonely people always live alone, while people who live alone are always lonely. *(Người cô đơn luôn sống một mình, còn người sống một mình luôn cô đơn.)*
 
 **18. In "I insist that a nurse ask who they see at home", why is the verb "ask" used instead of "asks"?**
 *(Trong câu "I insist that a nurse ask who they see at home", vì sao dùng "ask" chứ không phải "asks"?)*
 
-- A. because it is in the past *(vì nó ở thì quá khứ)*
-- B. because "nurse" is plural *(vì "nurse" là số nhiều)*
+- A. because the verb is in the past tense, not the present *(vì động từ ở thì quá khứ, không phải hiện tại)*
+- B. because "nurse" is plural and needs a plural verb *(vì "nurse" là số nhiều nên cần động từ số nhiều)*
 - C. because after "insist that", the base form of the verb is used *(vì sau "insist that", động từ để ở dạng nguyên mẫu)*
-- D. because it is a question *(vì đó là câu hỏi)*
+- D. because it is a question and questions never take -s *(vì đó là câu hỏi và câu hỏi không bao giờ thêm -s)*
 
 **19. What do experts recommend?**
 *(Các chuyên gia khuyên gì?)*
 
-- A. that people move to big cities *(chuyển tới thành phố lớn)*
-- B. that people stop living alone *(thôi sống một mình)*
-- C. that people make friends online only *(chỉ kết bạn trên mạng)*
-- D. that people treat social connection like exercise, doing it regularly even in small amounts *(coi kết nối xã hội như tập thể dục, làm đều đặn dù chỉ một chút)*
+- A. that people move to big cities, where they can find more friends and more places to meet them *(chuyển tới thành phố lớn, nơi có nhiều bạn và nhiều chỗ gặp gỡ hơn)*
+- B. that people stop living alone and move in with their families *(thôi sống một mình và dọn về ở với gia đình)*
+- C. that people make friends online only, so they never feel alone *(chỉ kết bạn trên mạng để không bao giờ thấy cô đơn)*
+- D. that people treat social connection like exercise, doing it regularly in small amounts *(coi kết nối xã hội như tập thể dục, làm đều đặn với liều lượng nhỏ)*
 
 **20. Use both texts. How might the Brooks family's challenge be good for their health, according to the article?**
 *(Dựa vào cả hai bài. Theo bài báo, thử thách của nhà Brooks có thể tốt cho sức khoẻ của họ thế nào?)*
 
-- A. They walked less, so they rested more. *(Họ đi bộ ít hơn nên được nghỉ nhiều hơn.)*
-- B. It gave them many small, regular connections, such as shared meals and evenings together. *(Nó cho họ nhiều kết nối nhỏ, đều đặn, như những bữa ăn chung và buổi tối bên nhau.)*
-- C. They saved money for the doctor. *(Họ để dành được tiền đi khám.)*
-- D. They bought healthier food. *(Họ mua đồ ăn lành mạnh hơn.)*
+- A. They walked less and rested more, so their bodies had more time to heal. *(Họ đi bộ ít hơn và nghỉ nhiều hơn, nên cơ thể có thêm thời gian hồi phục.)*
+- B. It gave them many small, regular connections, such as shared meals. *(Nó cho họ nhiều kết nối nhỏ, đều đặn, như những bữa ăn chung.)*
+- C. They saved money, so they could visit the doctor more often. *(Họ để dành được tiền nên đi khám thường xuyên hơn.)*
+- D. They bought healthier food from the second-hand shop on Pine Street. *(Họ mua đồ ăn lành mạnh hơn ở cửa hàng đồ cũ phố Pine.)*
 
 ---
 

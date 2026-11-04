@@ -71,16 +71,16 @@
 **1. What is the article mainly about?**
 *(Bài báo chủ yếu nói về điều gì?)*
 
-- A. the stages that a new medicine must pass through before it is approved *(các giai đoạn một loại thuốc mới phải trải qua trước khi được cấp phép)*
-- B. why medicines are expensive *(vì sao thuốc đắt)*
-- C. how to become a doctor *(cách trở thành bác sĩ)*
-- D. the history of a famous medicine *(lịch sử một loại thuốc nổi tiếng)*
+- A. the stages that a new medicine passes before it is approved *(các giai đoạn một loại thuốc mới trải qua trước khi được cấp phép)*
+- B. why new medicines are so expensive for most families around the world *(vì sao thuốc mới đắt đối với đa số gia đình trên thế giới)*
+- C. how to become a doctor who runs clinical trials *(cách trở thành bác sĩ điều hành thử nghiệm lâm sàng)*
+- D. the history of a famous medicine and the man who invented it *(lịch sử một loại thuốc nổi tiếng và người phát minh ra nó)*
 
 **2. What does "thousands of possible new medicines are being tested around the world" tell us?**
 *(Câu "hàng nghìn loại thuốc mới tiềm năng đang được thử nghiệm khắp thế giới" cho biết điều gì?)*
 
 - A. The tests finished long ago. *(Các thử nghiệm đã xong từ lâu.)*
-- B. The medicines are already in pharmacies. *(Thuốc đã có ở hiệu thuốc.)*
+- B. The medicines are on sale in pharmacies. *(Thuốc đang được bán ở hiệu thuốc.)*
 - C. The testing is happening at this moment. *(Việc thử nghiệm đang diễn ra ngay lúc này.)*
 - D. The medicines will be tested next year. *(Năm sau thuốc mới được thử.)*
 
@@ -95,42 +95,42 @@
 **4. What is the main purpose of Phase 1?**
 *(Mục đích chính của pha 1 là gì?)*
 
-- A. to compare the drug with a placebo *(so sánh thuốc với giả dược)*
-- B. to check whether the drug is safe and what dose the body can handle *(kiểm tra thuốc có an toàn không và cơ thể chịu được liều bao nhiêu)*
-- C. to sell the drug *(bán thuốc)*
-- D. to test the drug on animals *(thử thuốc trên động vật)*
+- A. to compare the new drug with a placebo among thousands of patients *(so sánh thuốc mới với giả dược trên hàng nghìn bệnh nhân)*
+- B. to check that the drug is safe and what dose the body can handle *(kiểm tra thuốc có an toàn không và cơ thể chịu được liều bao nhiêu)*
+- C. to sell the drug to hospitals in a few countries *(bán thuốc cho bệnh viện ở vài nước)*
+- D. to test the drug on animals before it is tried on people *(thử thuốc trên động vật trước khi thử trên người)*
 
 **5. What is a placebo?**
 *(Giả dược là gì?)*
 
 - A. a pill that contains no medicine *(một viên thuốc không chứa hoạt chất)*
-- B. a new kind of vaccine *(một loại vắc-xin mới)*
-- C. an existing treatment *(cách điều trị hiện có)*
-- D. a doctor who runs trials *(bác sĩ điều hành thử nghiệm)*
+- B. a new kind of vaccine for children *(một loại vắc-xin mới cho trẻ em)*
+- C. an existing treatment for the same disease *(một cách điều trị hiện có cho cùng căn bệnh)*
+- D. a doctor who runs clinical trials *(bác sĩ điều hành các thử nghiệm lâm sàng)*
 
 **6. Why, in many trials, do neither the patients nor the doctors know who is receiving which?**
 *(Vì sao trong nhiều thử nghiệm, cả bệnh nhân lẫn bác sĩ đều không biết ai đang dùng loại nào?)*
 
-- A. to save money *(để tiết kiệm tiền)*
-- B. because the doctors forget *(vì bác sĩ quên)*
+- A. to save money on the cost of the pills *(để tiết kiệm chi phí thuốc viên)*
+- B. because the doctors forget which patients are which *(vì bác sĩ quên ai là bệnh nhân nào)*
 - C. so that their expectations cannot affect the results *(để kỳ vọng của họ không ảnh hưởng tới kết quả)*
-- D. because the pills look different *(vì các viên thuốc trông khác nhau)*
+- D. because the pills look different, so they are kept secret *(vì các viên thuốc trông khác nhau nên phải giữ bí mật)*
 
 **7. What is the function of the paragraph that begins with "Admittedly"?**
 *(Đoạn bắt đầu bằng "Admittedly" có chức năng gì?)*
 
 - A. to describe Phase 2 in more detail *(để mô tả kỹ hơn pha 2)*
 - B. to tell a story about a patient *(để kể chuyện một bệnh nhân)*
-- C. to show that scientists want to stop trials *(để cho thấy các nhà khoa học muốn dừng thử nghiệm)*
-- D. to admit the weaknesses of the system and then explain why it is still used *(để thừa nhận điểm yếu của hệ thống rồi giải thích vì sao vẫn dùng nó)*
+- C. to show that scientists want to stop all clinical trials as soon as they can *(để cho thấy các nhà khoa học muốn dừng mọi thử nghiệm lâm sàng sớm nhất có thể)*
+- D. to admit the weaknesses of the system and explain why it is still used *(để thừa nhận điểm yếu của hệ thống và giải thích vì sao vẫn dùng nó)*
 
 **8. What must every volunteer be told before joining a trial?**
 *(Trước khi tham gia thử nghiệm, mọi tình nguyện viên phải được cho biết điều gì?)*
 
-- A. how much they will be paid *(họ sẽ được trả bao nhiêu)*
-- B. the possible risks, and that they are free to leave at any time *(những rủi ro có thể xảy ra, và rằng họ được tự do rời đi bất cứ lúc nào)*
-- C. the name of the drug company *(tên công ty dược)*
-- D. which group they are in *(họ ở nhóm nào)*
+- A. how much they will be paid and how long they will stay in hospital *(họ sẽ được trả bao nhiêu và nằm viện bao lâu)*
+- B. the possible risks, and that they can leave at any time *(những rủi ro có thể xảy ra, và rằng họ có thể rời đi bất cứ lúc nào)*
+- C. the name of the drug company that makes the medicine *(tên công ty dược sản xuất thuốc)*
+- D. which group they are in, and whether they receive a placebo *(họ ở nhóm nào, và có được dùng giả dược hay không)*
 
 **9. In Dr. Carter's comment, what does "the former" refer to?**
 *(Trong lời bác sĩ Carter, "the former" chỉ điều gì?)*
@@ -143,10 +143,10 @@
 **10. What is the writer's overall view of the testing process?**
 *(Nhìn chung, người viết đánh giá quá trình thử nghiệm thế nào?)*
 
-- A. It is useless and should end. *(Nó vô ích và nên chấm dứt.)*
-- B. It is too fast. *(Nó quá nhanh.)*
-- C. It is slow, but it is an important reason why our medicines are safe. *(Nó chậm, nhưng là lý do quan trọng giúp thuốc của ta an toàn.)*
-- D. It only matters for rare diseases. *(Nó chỉ quan trọng với bệnh hiếm.)*
+- A. It is useless because it costs too much and should end. *(Nó vô ích vì quá tốn kém và nên chấm dứt.)*
+- B. It is too fast, and it often misses dangerous side effects. *(Nó quá nhanh và thường bỏ sót tác dụng phụ nguy hiểm.)*
+- C. It is slow, but it is an important reason why medicines are safe. *(Nó chậm, nhưng là lý do quan trọng giúp thuốc an toàn.)*
+- D. It only matters for rare diseases and for very old patients. *(Nó chỉ quan trọng với bệnh hiếm và bệnh nhân rất già.)*
 
 ---
 
@@ -191,15 +191,15 @@
 **11. What is Mitchell's article mainly about?**
 *(Bài viết của Mitchell chủ yếu nói về điều gì?)*
 
-- A. how to become a better teacher *(cách làm giáo viên giỏi hơn)*
-- B. why phones are dangerous *(vì sao điện thoại nguy hiểm)*
-- C. Megan's work as a nurse *(công việc y tá của Megan)*
-- D. a month-long experiment with slower mornings, and what he learned *(một tháng thử buổi sáng chậm, và điều anh rút ra)*
+- A. how to become a better teacher at a high school *(cách trở thành giáo viên giỏi hơn ở trường trung học)*
+- B. why phones are dangerous for teenagers and their families *(vì sao điện thoại nguy hiểm với thiếu niên và gia đình)*
+- C. Megan's work as a nurse on the night shift *(công việc y tá ca đêm của Megan)*
+- D. a month of slower mornings, and what he learned *(một tháng buổi sáng chậm lại, và điều anh rút ra)*
 
 **12. What does "she would come home at dawn just as I was about to leave" mean?**
 *(Câu "cô ấy về nhà lúc rạng sáng đúng lúc tôi sắp đi" nghĩa là gì?)*
 
-- A. Mitchell had already left when Megan came home. *(Mitchell đã đi rồi khi Megan về.)*
+- A. Mitchell had already left the house before Megan came *(Mitchell đã rời nhà trước khi Megan về)*
 - B. Megan came home when Mitchell was just going to leave. *(Megan về đúng lúc Mitchell chuẩn bị đi.)*
 - C. They left the house together. *(Hai người cùng ra khỏi nhà.)*
 - D. Megan never came home. *(Megan không bao giờ về nhà.)*
@@ -215,58 +215,58 @@
 **14. Why was the first week harder than expected?**
 *(Vì sao tuần đầu khó hơn dự đoán?)*
 
-- A. Their alarm clock was broken. *(Vì đồng hồ báo thức hỏng.)*
-- B. Megan worked every night. *(Vì Megan làm đêm suốt.)*
-- C. Getting up earlier meant going to bed earlier, but they kept staying up to watch TV. *(Vì dậy sớm hơn thì phải ngủ sớm hơn, mà họ cứ thức xem ti vi.)*
-- D. The weather was bad. *(Vì thời tiết xấu.)*
+- A. Their alarm clock was broken, so they woke up late on most mornings. *(Vì đồng hồ báo thức hỏng nên họ dậy muộn hầu hết các sáng.)*
+- B. Megan worked every night of the week, so Mitchell was alone. *(Vì Megan làm đêm cả tuần nên Mitchell ở một mình.)*
+- C. Getting up earlier meant going to bed earlier, but they stayed up watching TV. *(Vì dậy sớm hơn thì phải ngủ sớm hơn, mà họ vẫn thức xem ti vi.)*
+- D. The weather was bad, so they could not spend time outside. *(Vì thời tiết xấu nên họ không ra ngoài được.)*
 
 **15. What does "our son Trevor kindly took a photo for the family chat" suggest?**
 *(Câu "cậu con trai Trevor tử tế chụp một tấm ảnh gửi vào nhóm chat gia đình" hàm ý gì?)*
 
-- A. Trevor wanted to help his father sleep. *(Trevor muốn giúp bố ngủ.)*
-- B. Trevor is a professional photographer. *(Trevor là thợ ảnh chuyên nghiệp.)*
-- C. Mitchell was angry with Trevor. *(Mitchell giận Trevor.)*
+- A. Trevor wanted to help his father sleep better at night. *(Trevor muốn giúp bố ngủ ngon hơn vào ban đêm.)*
+- B. Trevor is a professional photographer who sells photos online. *(Trevor là thợ ảnh chuyên nghiệp bán ảnh trên mạng.)*
+- C. Mitchell was angry with Trevor for waking him up. *(Mitchell giận Trevor vì đánh thức mình.)*
 - D. Mitchell is joking: Trevor was teasing him, not being kind. *(Mitchell đang đùa: Trevor trêu bố chứ chẳng tử tế gì.)*
 
 **16. What did Mitchell notice once he stopped using his phone in the morning?**
 *(Khi thôi dùng điện thoại buổi sáng, Mitchell để ý điều gì?)*
 
-- A. new emails from students *(email mới của học sinh)*
-- B. small things around him, like birds and the morning light *(những điều nhỏ quanh mình, như chim chóc và ánh sáng buổi sớm)*
-- C. that his dog was sick *(rằng con chó bị ốm)*
-- D. that the lemon tree had died *(rằng cây chanh đã chết)*
+- A. new emails from students who needed urgent help with their homework *(email mới của học sinh cần giúp gấp về bài tập)*
+- B. small things around him, like the birds and the morning light *(những điều nhỏ quanh mình, như chim chóc và ánh sáng buổi sớm)*
+- C. that his dog was sick and needed to see a doctor *(rằng con chó bị ốm và cần đi khám)*
+- D. that the lemon tree had died during the winter *(rằng cây chanh đã chết vào mùa đông)*
 
 **17. Why did one student ask Mitchell, "suspiciously", whether he was feeling well?**
 *(Vì sao một học sinh "nghi ngờ" hỏi Mitchell có khoẻ không?)*
 
 - A. because Mitchell seemed much calmer than usual *(vì Mitchell có vẻ bình thản hơn hẳn mọi khi)*
-- B. because Mitchell was late *(vì Mitchell tới muộn)*
-- C. because Mitchell looked sick *(vì Mitchell trông ốm)*
-- D. because Mitchell forgot the lesson *(vì Mitchell quên bài)*
+- B. because Mitchell was late for the first lesson *(vì Mitchell đến muộn tiết đầu)*
+- C. because Mitchell looked sick and had a cold *(vì Mitchell trông ốm và bị cảm)*
+- D. because Mitchell forgot the lesson plan in the car *(vì Mitchell để quên giáo án trong xe)*
 
 **18. Which part of the experiment did not work well?**
 *(Phần nào của thí nghiệm không suôn sẻ?)*
 
-- A. Megan and Mitchell stopped talking. *(Megan và Mitchell thôi nói chuyện.)*
-- B. The phones broke. *(Điện thoại hỏng.)*
-- C. Their teenagers refused to join, and the time outside was sometimes skipped. *(Bọn trẻ tuổi teen không chịu tham gia, và đôi khi bỏ qua thời gian ngoài trời.)*
-- D. Mitchell arrived at school tired. *(Mitchell tới trường trong trạng thái mệt.)*
+- A. Megan and Mitchell stopped talking to each other because they were so tired. *(Megan và Mitchell thôi nói chuyện với nhau vì quá mệt.)*
+- B. The phones broke, so they could not use them in the kitchen. *(Điện thoại hỏng nên họ không dùng được ở bếp.)*
+- C. Their teenagers refused to join, and some outdoor time was skipped. *(Bọn trẻ tuổi teen không chịu tham gia, và đôi khi bỏ qua thời gian ngoài trời.)*
+- D. Mitchell arrived at school tired and could not teach well. *(Mitchell tới trường mệt và dạy không tốt.)*
 
 **19. What does Mitchell mean by "it has turned the start of the day from a race into a conversation"?**
 *(Mitchell muốn nói gì qua câu "nó đã biến đầu ngày từ một cuộc chạy đua thành một cuộc trò chuyện"?)*
 
-- A. He now runs in the morning. *(Giờ anh chạy bộ buổi sáng.)*
-- B. Mornings used to be rushed, but now they are calm and shared. *(Buổi sáng trước đây vội vã, giờ thì thong thả và có nhau.)*
-- C. He talks on the phone every morning. *(Sáng nào anh cũng nói chuyện điện thoại.)*
-- D. He has joined a running club. *(Anh vào câu lạc bộ chạy bộ.)*
+- A. He now runs in the morning before his wife wakes up. *(Giờ anh chạy bộ buổi sáng trước khi vợ thức dậy.)*
+- B. Mornings used to be rushed, but now they are calm. *(Buổi sáng trước đây vội vã, giờ thì thong thả.)*
+- C. He talks on the phone with his students every morning. *(Sáng nào anh cũng nói chuyện điện thoại với học sinh.)*
+- D. He has joined a running club that meets before work. *(Anh vào câu lạc bộ chạy bộ họp trước giờ làm.)*
 
 **20. Use both texts. What do the medicine trials and the slow-morning experiment have in common?**
 *(Dựa vào cả hai bài. Thử nghiệm thuốc và thí nghiệm buổi sáng chậm có điểm gì chung?)*
 
-- A. Both of them took ten to fifteen years. *(Cả hai đều mất mười tới mười lăm năm.)*
-- B. Both of them used a placebo. *(Cả hai đều dùng giả dược.)*
-- C. Both of them were done in a hospital. *(Cả hai đều làm ở bệnh viện.)*
-- D. Both of them are careful not to claim that one result works for everyone. *(Cả hai đều thận trọng, không khẳng định một kết quả đúng với mọi người.)*
+- A. Both of them took between ten and fifteen years to finish. *(Cả hai đều mất từ mười tới mười lăm năm để hoàn thành.)*
+- B. Both of them used a placebo to test their ideas. *(Cả hai đều dùng giả dược để thử ý tưởng.)*
+- C. Both of them were done in a hospital with doctors and nurses. *(Cả hai đều làm ở bệnh viện với bác sĩ và y tá.)*
+- D. Both are careful not to claim that one result works for everyone. *(Cả hai đều thận trọng không khẳng định một kết quả đúng với mọi người.)*
 
 ---
 

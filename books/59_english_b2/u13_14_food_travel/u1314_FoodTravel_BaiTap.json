@@ -677,46 +677,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to advertise a new cooking class",
-            "vi": "để quảng cáo lớp nấu ăn mới"
+            "en": "to advertise a new cooking class run by Harriet",
+            "vi": "để quảng cáo một lớp nấu ăn mới do Harriet dạy"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to advertise a new cooking class",
-          "text_translation": "để quảng cáo lớp nấu ăn mới"
+          "text": "to advertise a new cooking class run by Harriet",
+          "text_translation": "để quảng cáo một lớp nấu ăn mới do Harriet dạy"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to invite neighbors to share and taste family recipes at the café",
-            "vi": "để mời hàng xóm góp và cùng nếm các công thức gia đình ở quán"
+            "en": "to invite neighbors to share and taste family recipes",
+            "vi": "để mời hàng xóm góp và cùng nếm các công thức gia đình"
           },
           "is_correct": true,
           "order": 1,
-          "text": "to invite neighbors to share and taste family recipes at the café",
-          "text_translation": "để mời hàng xóm góp và cùng nếm các công thức gia đình ở quán"
+          "text": "to invite neighbors to share and taste family recipes",
+          "text_translation": "để mời hàng xóm góp và cùng nếm các công thức gia đình"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to announce that the café will close",
-            "vi": "để báo quán sắp đóng cửa"
+            "en": "to announce that the café will close every Friday",
+            "vi": "để báo quán sẽ đóng cửa mỗi thứ Sáu"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to announce that the café will close",
-          "text_translation": "để báo quán sắp đóng cửa"
+          "text": "to announce that the café will close every Friday",
+          "text_translation": "để báo quán sẽ đóng cửa mỗi thứ Sáu"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to raise prices for lunch",
-            "vi": "để tăng giá bữa trưa"
+            "en": "to raise the price of lunch on Fridays in the fall",
+            "vi": "để tăng giá bữa trưa vào các thứ Sáu mùa thu"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to raise prices for lunch",
-          "text_translation": "để tăng giá bữa trưa"
+          "text": "to raise the price of lunch on Fridays in the fall",
+          "text_translation": "để tăng giá bữa trưa vào các thứ Sáu mùa thu"
         }
       ],
       "evidence_segments": [
@@ -745,13 +745,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "the price of each dish",
-            "vi": "giá của từng món"
+            "en": "the price of each dish and the name of the cook",
+            "vi": "giá của từng món và tên người nấu"
           },
           "is_correct": false,
           "order": 0,
-          "text": "the price of each dish",
-          "text_translation": "giá của từng món"
+          "text": "the price of each dish and the name of the cook",
+          "text_translation": "giá của từng món và tên người nấu"
         },
         {
           "id": "B",
@@ -813,46 +813,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Families from the same place can still cook the same dish in different ways.",
-            "vi": "Các gia đình cùng một nơi vẫn có thể nấu cùng một món theo cách khác nhau."
+            "en": "Families from the same place can cook the same dish differently.",
+            "vi": "Các gia đình cùng một nơi vẫn có thể nấu cùng một món khác nhau."
           },
           "is_correct": true,
           "order": 0,
-          "text": "Families from the same place can still cook the same dish in different ways.",
-          "text_translation": "Các gia đình cùng một nơi vẫn có thể nấu cùng một món theo cách khác nhau."
+          "text": "Families from the same place can cook the same dish differently.",
+          "text_translation": "Các gia đình cùng một nơi vẫn có thể nấu cùng một món khác nhau."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Everyone in her hometown cooks it the same way.",
-            "vi": "Ai ở quê bà cũng nấu y như nhau."
+            "en": "Everyone in her hometown cooks the dish in exactly the same way.",
+            "vi": "Ai ở quê bà cũng nấu món này y hệt nhau."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Everyone in her hometown cooks it the same way.",
-          "text_translation": "Ai ở quê bà cũng nấu y như nhau."
+          "text": "Everyone in her hometown cooks the dish in exactly the same way.",
+          "text_translation": "Ai ở quê bà cũng nấu món này y hệt nhau."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "She doesn't like pepper.",
-            "vi": "Bà không thích ớt."
+            "en": "She doesn't like pepper and never uses it.",
+            "vi": "Bà không thích ớt và không bao giờ dùng."
           },
           "is_correct": false,
           "order": 2,
-          "text": "She doesn't like pepper.",
-          "text_translation": "Bà không thích ớt."
+          "text": "She doesn't like pepper and never uses it.",
+          "text_translation": "Bà không thích ớt và không bao giờ dùng."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The dish is too spicy for the café.",
-            "vi": "Món này quá cay với quán."
+            "en": "The dish is too spicy for the café's other customers.",
+            "vi": "Món này quá cay với những khách khác của quán."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The dish is too spicy for the café.",
-          "text_translation": "Món này quá cay với quán."
+          "text": "The dish is too spicy for the café's other customers.",
+          "text_translation": "Món này quá cay với những khách khác của quán."
         }
       ],
       "evidence_segments": [
@@ -881,24 +881,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The café might be closed that day.",
-            "vi": "Vì hôm đó quán có thể đóng."
+            "en": "The café might be closed on that day for a holiday.",
+            "vi": "Vì hôm đó quán có thể đóng cửa vì ngày lễ."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The café might be closed that day.",
-          "text_translation": "Vì hôm đó quán có thể đóng."
+          "text": "The café might be closed on that day for a holiday.",
+          "text_translation": "Vì hôm đó quán có thể đóng cửa vì ngày lễ."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Grandma Okonkwo is angry.",
-            "vi": "Vì bà Okonkwo đang giận."
+            "en": "Grandma Okonkwo is angry about the recipe.",
+            "vi": "Vì bà Okonkwo đang giận chuyện công thức."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Grandma Okonkwo is angry.",
-          "text_translation": "Vì bà Okonkwo đang giận."
+          "text": "Grandma Okonkwo is angry about the recipe.",
+          "text_translation": "Vì bà Okonkwo đang giận chuyện công thức."
         },
         {
           "id": "C",
@@ -914,13 +914,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "The rice might be late.",
-            "vi": "Vì cơm có thể ra muộn."
+            "en": "The rice might be served late that day.",
+            "vi": "Vì hôm đó cơm có thể ra muộn."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The rice might be late.",
-          "text_translation": "Vì cơm có thể ra muộn."
+          "text": "The rice might be served late that day.",
+          "text_translation": "Vì hôm đó cơm có thể ra muộn."
         }
       ],
       "evidence_segments": [
@@ -949,13 +949,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They should be made in a machine.",
-            "vi": "Phải làm bằng máy."
+            "en": "They should be made in a machine to save time.",
+            "vi": "Phải làm bằng máy cho đỡ tốn thời gian."
           },
           "is_correct": false,
           "order": 0,
-          "text": "They should be made in a machine.",
-          "text_translation": "Phải làm bằng máy."
+          "text": "They should be made in a machine to save time.",
+          "text_translation": "Phải làm bằng máy cho đỡ tốn thời gian."
         },
         {
           "id": "B",
@@ -971,24 +971,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "They are made only in summer.",
-            "vi": "Chỉ làm vào mùa hè."
+            "en": "They are made only in summer, never in winter.",
+            "vi": "Chỉ làm vào mùa hè, không bao giờ vào mùa đông."
           },
           "is_correct": false,
           "order": 2,
-          "text": "They are made only in summer.",
-          "text_translation": "Chỉ làm vào mùa hè."
+          "text": "They are made only in summer, never in winter.",
+          "text_translation": "Chỉ làm vào mùa hè, không bao giờ vào mùa đông."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "They are made without chicken.",
-            "vi": "Làm không có thịt gà."
+            "en": "They are made without chicken, only with vegetables.",
+            "vi": "Làm không có thịt gà, chỉ có rau."
           },
           "is_correct": false,
           "order": 3,
-          "text": "They are made without chicken.",
-          "text_translation": "Làm không có thịt gà."
+          "text": "They are made without chicken, only with vegetables.",
+          "text_translation": "Làm không có thịt gà, chỉ có rau."
         }
       ],
       "evidence_segments": [
@@ -1085,46 +1085,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "If the dish is expensive",
-            "vi": "Nếu món đó đắt"
+            "en": "If the dish is too expensive for the café",
+            "vi": "Nếu món đó quá đắt với quán"
           },
           "is_correct": false,
           "order": 0,
-          "text": "If the dish is expensive",
-          "text_translation": "Nếu món đó đắt"
+          "text": "If the dish is too expensive for the café",
+          "text_translation": "Nếu món đó quá đắt với quán"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "If you are a cook",
-            "vi": "Nếu bạn là đầu bếp"
+            "en": "If you are a good cook in the neighborhood",
+            "vi": "Nếu bạn là đầu bếp giỏi trong khu phố"
           },
           "is_correct": false,
           "order": 1,
-          "text": "If you are a cook",
-          "text_translation": "Nếu bạn là đầu bếp"
+          "text": "If you are a good cook in the neighborhood",
+          "text_translation": "Nếu bạn là đầu bếp giỏi trong khu phố"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "If it rains",
-            "vi": "Nếu trời mưa"
+            "en": "If it rains on the day of the test",
+            "vi": "Nếu trời mưa vào ngày thử món"
           },
           "is_correct": false,
           "order": 2,
-          "text": "If it rains",
-          "text_translation": "Nếu trời mưa"
+          "text": "If it rains on the day of the test",
+          "text_translation": "Nếu trời mưa vào ngày thử món"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "If the ingredients and the dish are suitable",
-            "vi": "Nếu nguyên liệu và món ăn phù hợp"
+            "en": "If the ingredients are suitable",
+            "vi": "Nếu nguyên liệu phù hợp"
           },
           "is_correct": true,
           "order": 3,
-          "text": "If the ingredients and the dish are suitable",
-          "text_translation": "Nếu nguyên liệu và món ăn phù hợp"
+          "text": "If the ingredients are suitable",
+          "text_translation": "Nếu nguyên liệu phù hợp"
         }
       ],
       "evidence_segments": [
@@ -1153,46 +1153,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "whenever she likes",
-            "vi": "bất cứ khi nào bà thích"
+            "en": "whenever she thinks that it will taste better, even if the family does not agree",
+            "vi": "bất cứ khi nào bà nghĩ nó sẽ ngon hơn, kể cả khi gia đình không đồng ý"
           },
           "is_correct": false,
           "order": 0,
-          "text": "whenever she likes",
-          "text_translation": "bất cứ khi nào bà thích"
+          "text": "whenever she thinks that it will taste better, even if the family does not agree",
+          "text_translation": "bất cứ khi nào bà nghĩ nó sẽ ngon hơn, kể cả khi gia đình không đồng ý"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to make it cheaper",
-            "vi": "để làm rẻ hơn"
+            "en": "to make it cheaper so that the price stays low",
+            "vi": "để làm rẻ hơn cho giá luôn thấp"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to make it cheaper",
-          "text_translation": "để làm rẻ hơn"
+          "text": "to make it cheaper so that the price stays low",
+          "text_translation": "để làm rẻ hơn cho giá luôn thấp"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "so that people with allergies can enjoy it, and only with the family's permission",
-            "vi": "để người bị dị ứng cũng ăn được, và chỉ khi gia đình đồng ý"
+            "en": "so that people with allergies can enjoy it, and only with permission",
+            "vi": "để người bị dị ứng cũng ăn được, và chỉ khi được cho phép"
           },
           "is_correct": true,
           "order": 2,
-          "text": "so that people with allergies can enjoy it, and only with the family's permission",
-          "text_translation": "để người bị dị ứng cũng ăn được, và chỉ khi gia đình đồng ý"
+          "text": "so that people with allergies can enjoy it, and only with permission",
+          "text_translation": "để người bị dị ứng cũng ăn được, và chỉ khi được cho phép"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to make it sweeter",
-            "vi": "để làm ngọt hơn"
+            "en": "to make it sweeter because children like sugar",
+            "vi": "để làm ngọt hơn vì trẻ con thích đường"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to make it sweeter",
-          "text_translation": "để làm ngọt hơn"
+          "text": "to make it sweeter because children like sugar",
+          "text_translation": "để làm ngọt hơn vì trẻ con thích đường"
         }
       ],
       "evidence_segments": [
@@ -1232,35 +1232,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "It will be thrown away.",
-            "vi": "Bị bỏ đi."
+            "en": "It will be thrown away at the end of the day.",
+            "vi": "Bị bỏ đi vào cuối ngày."
           },
           "is_correct": false,
           "order": 1,
-          "text": "It will be thrown away.",
-          "text_translation": "Bị bỏ đi."
+          "text": "It will be thrown away at the end of the day.",
+          "text_translation": "Bị bỏ đi vào cuối ngày."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "It will be sold the next day.",
-            "vi": "Được bán hôm sau."
+            "en": "It will be sold at half price the next day.",
+            "vi": "Được bán nửa giá vào hôm sau."
           },
           "is_correct": false,
           "order": 2,
-          "text": "It will be sold the next day.",
-          "text_translation": "Được bán hôm sau."
+          "text": "It will be sold at half price the next day.",
+          "text_translation": "Được bán nửa giá vào hôm sau."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The cooks will take it home.",
-            "vi": "Người nấu mang về."
+            "en": "The cooks will take it home to their families.",
+            "vi": "Người nấu mang về cho gia đình."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The cooks will take it home.",
-          "text_translation": "Người nấu mang về."
+          "text": "The cooks will take it home to their families.",
+          "text_translation": "Người nấu mang về cho gia đình."
         }
       ],
       "evidence_segments": [
@@ -1289,46 +1289,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Everyone should eat very old food.",
-            "vi": "Ai cũng nên ăn đồ cũ."
+            "en": "Everyone should eat very old food that has been kept for years.",
+            "vi": "Ai cũng nên ăn đồ rất cũ đã cất giữ nhiều năm."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Everyone should eat very old food.",
-          "text_translation": "Ai cũng nên ăn đồ cũ."
+          "text": "Everyone should eat very old food that has been kept for years.",
+          "text_translation": "Ai cũng nên ăn đồ rất cũ đã cất giữ nhiều năm."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She wants people to forget the past.",
-            "vi": "Bà muốn mọi người quên quá khứ."
+            "en": "She wants people to forget the past and think only about the future.",
+            "vi": "Bà muốn mọi người quên quá khứ và chỉ nghĩ đến tương lai."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She wants people to forget the past.",
-          "text_translation": "Bà muốn mọi người quên quá khứ."
+          "text": "She wants people to forget the past and think only about the future.",
+          "text_translation": "Bà muốn mọi người quên quá khứ và chỉ nghĩ đến tương lai."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Sharing family dishes is a way of sharing the stories and places that people come from.",
-            "vi": "Chia sẻ món ăn gia đình là cách chia sẻ câu chuyện và nơi chốn mỗi người đã lớn lên."
+            "en": "Sharing family dishes is a way of sharing where people come from.",
+            "vi": "Chia sẻ món ăn gia đình là cách chia sẻ nơi mỗi người xuất thân."
           },
           "is_correct": true,
           "order": 2,
-          "text": "Sharing family dishes is a way of sharing the stories and places that people come from.",
-          "text_translation": "Chia sẻ món ăn gia đình là cách chia sẻ câu chuyện và nơi chốn mỗi người đã lớn lên."
+          "text": "Sharing family dishes is a way of sharing where people come from.",
+          "text_translation": "Chia sẻ món ăn gia đình là cách chia sẻ nơi mỗi người xuất thân."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "She is going to write a book of memories.",
-            "vi": "Bà sắp viết một cuốn hồi ký."
+            "en": "She is going to write a book of memories about the café.",
+            "vi": "Bà sắp viết một cuốn hồi ký về quán."
           },
           "is_correct": false,
           "order": 3,
-          "text": "She is going to write a book of memories.",
-          "text_translation": "Bà sắp viết một cuốn hồi ký."
+          "text": "She is going to write a book of memories about the café.",
+          "text_translation": "Bà sắp viết một cuốn hồi ký về quán."
         }
       ],
       "evidence_segments": [
@@ -1357,46 +1357,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "the best places to visit in summer",
-            "vi": "những nơi đáng đi nhất mùa hè"
+            "en": "the best places to visit in summer if you want to avoid large crowds",
+            "vi": "những nơi đáng đi nhất mùa hè nếu muốn tránh đông người"
           },
           "is_correct": false,
           "order": 0,
-          "text": "the best places to visit in summer",
-          "text_translation": "những nơi đáng đi nhất mùa hè"
+          "text": "the best places to visit in summer if you want to avoid large crowds",
+          "text_translation": "những nơi đáng đi nhất mùa hè nếu muốn tránh đông người"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "how to take better travel photos",
-            "vi": "cách chụp ảnh du lịch đẹp hơn"
+            "en": "how to take better travel photos of famous places",
+            "vi": "cách chụp ảnh du lịch đẹp hơn ở những nơi nổi tiếng"
           },
           "is_correct": false,
           "order": 1,
-          "text": "how to take better travel photos",
-          "text_translation": "cách chụp ảnh du lịch đẹp hơn"
+          "text": "how to take better travel photos of famous places",
+          "text_translation": "cách chụp ảnh du lịch đẹp hơn ở những nơi nổi tiếng"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "overtourism, how some places are dealing with it, and how travelers can help",
-            "vi": "du lịch quá tải, cách một số nơi đối phó, và du khách có thể góp phần thế nào"
+            "en": "overtourism, how places deal with it, and how travelers can help",
+            "vi": "du lịch quá tải, cách các nơi đối phó, và du khách có thể góp phần thế nào"
           },
           "is_correct": true,
           "order": 2,
-          "text": "overtourism, how some places are dealing with it, and how travelers can help",
-          "text_translation": "du lịch quá tải, cách một số nơi đối phó, và du khách có thể góp phần thế nào"
+          "text": "overtourism, how places deal with it, and how travelers can help",
+          "text_translation": "du lịch quá tải, cách các nơi đối phó, và du khách có thể góp phần thế nào"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "the history of Venice",
-            "vi": "lịch sử Venice"
+            "en": "the history of Venice and how it became a famous city",
+            "vi": "lịch sử Venice và việc nó trở thành thành phố nổi tiếng"
           },
           "is_correct": false,
           "order": 3,
-          "text": "the history of Venice",
-          "text_translation": "lịch sử Venice"
+          "text": "the history of Venice and how it became a famous city",
+          "text_translation": "lịch sử Venice và việc nó trở thành thành phố nổi tiếng"
         }
       ],
       "evidence_segments": [
@@ -1447,13 +1447,13 @@
         {
           "id": "C",
           "i18n": {
-            "en": "The travelers saved photos for months.",
-            "vi": "Du khách lưu ảnh nhiều tháng."
+            "en": "The travelers saved photos of the place for several months.",
+            "vi": "Du khách lưu ảnh về nơi đó trong vài tháng."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The travelers saved photos for months.",
-          "text_translation": "Du khách lưu ảnh nhiều tháng."
+          "text": "The travelers saved photos of the place for several months.",
+          "text_translation": "Du khách lưu ảnh về nơi đó trong vài tháng."
         },
         {
           "id": "D",
@@ -1493,46 +1493,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It has no hotels.",
-            "vi": "Vì không có khách sạn."
+            "en": "It has no hotels, so visitors have to sleep on boats in the harbor.",
+            "vi": "Vì không có khách sạn nên du khách phải ngủ trên thuyền ở bến cảng."
           },
           "is_correct": false,
           "order": 0,
-          "text": "It has no hotels.",
-          "text_translation": "Vì không có khách sạn."
+          "text": "It has no hotels, so visitors have to sleep on boats in the harbor.",
+          "text_translation": "Vì không có khách sạn nên du khách phải ngủ trên thuyền ở bến cảng."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Its streets are very wide.",
-            "vi": "Vì đường phố rất rộng."
+            "en": "Its streets are very wide, so visitors cannot find their way.",
+            "vi": "Vì đường phố rất rộng nên du khách không tìm được đường."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Its streets are very wide.",
-          "text_translation": "Vì đường phố rất rộng."
+          "text": "Its streets are very wide, so visitors cannot find their way.",
+          "text_translation": "Vì đường phố rất rộng nên du khách không tìm được đường."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Nobody wants to visit it.",
-            "vi": "Vì không ai muốn tới."
+            "en": "Nobody wants to visit it any more because it is too expensive.",
+            "vi": "Vì không ai muốn tới nữa do quá đắt đỏ."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Nobody wants to visit it.",
-          "text_translation": "Vì không ai muốn tới."
+          "text": "Nobody wants to visit it any more because it is too expensive.",
+          "text_translation": "Vì không ai muốn tới nữa do quá đắt đỏ."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Fewer than 50,000 people live in its center, but millions of visitors come every year.",
-            "vi": "Vì trung tâm chỉ còn chưa tới 50.000 cư dân, trong khi mỗi năm có hằng triệu du khách."
+            "en": "Fewer than 50,000 people live in its center, but millions of visitors come.",
+            "vi": "Vì trung tâm chỉ có chưa tới 50.000 cư dân, nhưng có hằng triệu du khách tới."
           },
           "is_correct": true,
           "order": 3,
-          "text": "Fewer than 50,000 people live in its center, but millions of visitors come every year.",
-          "text_translation": "Vì trung tâm chỉ còn chưa tới 50.000 cư dân, trong khi mỗi năm có hằng triệu du khách."
+          "text": "Fewer than 50,000 people live in its center, but millions of visitors come.",
+          "text_translation": "Vì trung tâm chỉ có chưa tới 50.000 cư dân, nhưng có hằng triệu du khách tới."
         }
       ],
       "evidence_segments": [
@@ -1561,46 +1561,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "close its historic center",
-            "vi": "đóng cửa trung tâm lịch sử"
+            "en": "close its historic center to all foreign visitors",
+            "vi": "đóng cửa trung tâm lịch sử với mọi du khách nước ngoài"
           },
           "is_correct": false,
           "order": 0,
-          "text": "close its historic center",
-          "text_translation": "đóng cửa trung tâm lịch sử"
+          "text": "close its historic center to all foreign visitors",
+          "text_translation": "đóng cửa trung tâm lịch sử với mọi du khách nước ngoài"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "charge day visitors a small entry fee on its busiest days",
-            "vi": "thu phí vào cửa nhỏ với khách đi trong ngày vào những ngày đông nhất"
+            "en": "charge day visitors an entry fee on its busiest days",
+            "vi": "thu phí vào cửa với khách đi trong ngày vào những ngày đông nhất"
           },
           "is_correct": true,
           "order": 1,
-          "text": "charge day visitors a small entry fee on its busiest days",
-          "text_translation": "thu phí vào cửa nhỏ với khách đi trong ngày vào những ngày đông nhất"
+          "text": "charge day visitors an entry fee on its busiest days",
+          "text_translation": "thu phí vào cửa với khách đi trong ngày vào những ngày đông nhất"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "ban photos",
-            "vi": "cấm chụp ảnh"
+            "en": "ban photos in its narrow streets",
+            "vi": "cấm chụp ảnh trong những con phố hẹp"
           },
           "is_correct": false,
           "order": 2,
-          "text": "ban photos",
-          "text_translation": "cấm chụp ảnh"
+          "text": "ban photos in its narrow streets",
+          "text_translation": "cấm chụp ảnh trong những con phố hẹp"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "ban cruise ships",
-            "vi": "cấm tàu du lịch"
+            "en": "ban cruise ships from the harbor",
+            "vi": "cấm tàu du lịch vào bến cảng"
           },
           "is_correct": false,
           "order": 3,
-          "text": "ban cruise ships",
-          "text_translation": "cấm tàu du lịch"
+          "text": "ban cruise ships from the harbor",
+          "text_translation": "cấm tàu du lịch vào bến cảng"
         }
       ],
       "evidence_segments": [
@@ -1629,46 +1629,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The lanes were too narrow for cars.",
-            "vi": "Vì ngõ quá hẹp cho ô tô."
+            "en": "The lanes were too narrow for cars and buses to drive through safely.",
+            "vi": "Vì ngõ quá hẹp để ô tô và xe buýt đi qua an toàn."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The lanes were too narrow for cars.",
-          "text_translation": "Vì ngõ quá hẹp cho ô tô."
+          "text": "The lanes were too narrow for cars and buses to drive through safely.",
+          "text_translation": "Vì ngõ quá hẹp để ô tô và xe buýt đi qua an toàn."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The lanes were being repaired.",
-            "vi": "Vì ngõ đang sửa."
+            "en": "The lanes were being repaired after a long period of heavy rain.",
+            "vi": "Vì ngõ đang được sửa sau đợt mưa lớn kéo dài."
           },
           "is_correct": false,
           "order": 1,
-          "text": "The lanes were being repaired.",
-          "text_translation": "Vì ngõ đang sửa."
+          "text": "The lanes were being repaired after a long period of heavy rain.",
+          "text_translation": "Vì ngõ đang được sửa sau đợt mưa lớn kéo dài."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Residents complained that visitors followed people and took photos without asking.",
-            "vi": "Vì cư dân phàn nàn du khách bám theo người ta và chụp ảnh không xin phép."
+            "en": "Residents complained that visitors followed people and took photos.",
+            "vi": "Vì cư dân phàn nàn du khách bám theo người ta và chụp ảnh."
           },
           "is_correct": true,
           "order": 2,
-          "text": "Residents complained that visitors followed people and took photos without asking.",
-          "text_translation": "Vì cư dân phàn nàn du khách bám theo người ta và chụp ảnh không xin phép."
+          "text": "Residents complained that visitors followed people and took photos.",
+          "text_translation": "Vì cư dân phàn nàn du khách bám theo người ta và chụp ảnh."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Tourists didn't want to go there.",
-            "vi": "Vì du khách không muốn tới."
+            "en": "Tourists didn't want to go there because the lanes were dirty.",
+            "vi": "Vì du khách không muốn tới do các ngõ bẩn."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Tourists didn't want to go there.",
-          "text_translation": "Vì du khách không muốn tới."
+          "text": "Tourists didn't want to go there because the lanes were dirty.",
+          "text_translation": "Vì du khách không muốn tới do các ngõ bẩn."
         }
       ],
       "evidence_segments": [
@@ -1697,46 +1697,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It was turned into a hotel.",
-            "vi": "Thành khách sạn."
+            "en": "It was turned into a large hotel with a car park and a private beach for rich visitors.",
+            "vi": "Nó bị biến thành khách sạn lớn có bãi đỗ xe và bãi biển riêng cho khách giàu."
           },
           "is_correct": false,
           "order": 0,
-          "text": "It was turned into a hotel.",
-          "text_translation": "Thành khách sạn."
+          "text": "It was turned into a large hotel with a car park and a private beach for rich visitors.",
+          "text_translation": "Nó bị biến thành khách sạn lớn có bãi đỗ xe và bãi biển riêng cho khách giàu."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Its coral died.",
-            "vi": "San hô chết hết."
+            "en": "Its coral died because of the closure and never grew back.",
+            "vi": "San hô chết vì việc đóng cửa và không mọc lại."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Its coral died.",
-          "text_translation": "San hô chết hết."
+          "text": "Its coral died because of the closure and never grew back.",
+          "text_translation": "San hô chết vì việc đóng cửa và không mọc lại."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "It never reopened.",
-            "vi": "Không bao giờ mở lại."
+            "en": "It never reopened because the Thai government sold the land.",
+            "vi": "Nó không bao giờ mở lại vì chính phủ Thái Lan bán đất."
           },
           "is_correct": false,
           "order": 2,
-          "text": "It never reopened.",
-          "text_translation": "Không bao giờ mở lại."
+          "text": "It never reopened because the Thai government sold the land.",
+          "text_translation": "Nó không bao giờ mở lại vì chính phủ Thái Lan bán đất."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Its coral and sea life began to recover, and visitor numbers were limited when it reopened.",
-            "vi": "San hô và sinh vật biển bắt đầu hồi phục, và khi mở lại, số khách bị giới hạn."
+            "en": "Its coral and sea life began to recover, and visitor numbers were limited.",
+            "vi": "San hô và sinh vật biển bắt đầu hồi phục, và số khách bị giới hạn."
           },
           "is_correct": true,
           "order": 3,
-          "text": "Its coral and sea life began to recover, and visitor numbers were limited when it reopened.",
-          "text_translation": "San hô và sinh vật biển bắt đầu hồi phục, và khi mở lại, số khách bị giới hạn."
+          "text": "Its coral and sea life began to recover, and visitor numbers were limited.",
+          "text_translation": "San hô và sinh vật biển bắt đầu hồi phục, và số khách bị giới hạn."
         }
       ],
       "evidence_segments": [
@@ -1765,46 +1765,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Fees may make travel a privilege for the wealthy, and many local businesses depend on visitors.",
-            "vi": "Thu phí có thể khiến du lịch thành đặc quyền của người giàu, và nhiều cơ sở địa phương sống nhờ du khách."
+            "en": "Fees may make travel a privilege for the wealthy, and local businesses need visitors.",
+            "vi": "Thu phí có thể khiến du lịch thành đặc quyền của người giàu, và cơ sở địa phương cần du khách."
           },
           "is_correct": true,
           "order": 0,
-          "text": "Fees may make travel a privilege for the wealthy, and many local businesses depend on visitors.",
-          "text_translation": "Thu phí có thể khiến du lịch thành đặc quyền của người giàu, và nhiều cơ sở địa phương sống nhờ du khách."
+          "text": "Fees may make travel a privilege for the wealthy, and local businesses need visitors.",
+          "text_translation": "Thu phí có thể khiến du lịch thành đặc quyền của người giàu, và cơ sở địa phương cần du khách."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Coral grows back quickly.",
-            "vi": "San hô mọc lại nhanh."
+            "en": "Coral grows back quickly, so there is no reason to close a bay for years.",
+            "vi": "San hô mọc lại nhanh nên không có lý do đóng cửa một vịnh nhiều năm."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Coral grows back quickly.",
-          "text_translation": "San hô mọc lại nhanh."
+          "text": "Coral grows back quickly, so there is no reason to close a bay for years.",
+          "text_translation": "San hô mọc lại nhanh nên không có lý do đóng cửa một vịnh nhiều năm."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Residents enjoy having more visitors.",
-            "vi": "Cư dân thích có nhiều khách hơn."
+            "en": "Residents enjoy having more visitors in their streets.",
+            "vi": "Cư dân thích có thêm nhiều du khách trên phố."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Residents enjoy having more visitors.",
-          "text_translation": "Cư dân thích có nhiều khách hơn."
+          "text": "Residents enjoy having more visitors in their streets.",
+          "text_translation": "Cư dân thích có thêm nhiều du khách trên phố."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Photos are good for a city.",
-            "vi": "Ảnh chụp tốt cho thành phố."
+            "en": "Photos are good for a city, so tourists should take more of them.",
+            "vi": "Ảnh chụp tốt cho thành phố nên du khách nên chụp nhiều hơn."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Photos are good for a city.",
-          "text_translation": "Ảnh chụp tốt cho thành phố."
+          "text": "Photos are good for a city, so tourists should take more of them.",
+          "text_translation": "Ảnh chụp tốt cho thành phố nên du khách nên chụp nhiều hơn."
         }
       ],
       "evidence_segments": [
@@ -1833,46 +1833,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Popular places are always destroyed.",
-            "vi": "Nơi nổi tiếng nào cũng bị tàn phá."
+            "en": "Popular places are always destroyed by their visitors in the end.",
+            "vi": "Nơi nổi tiếng nào rốt cuộc cũng bị du khách tàn phá."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Popular places are always destroyed.",
-          "text_translation": "Nơi nổi tiếng nào cũng bị tàn phá."
+          "text": "Popular places are always destroyed by their visitors in the end.",
+          "text_translation": "Nơi nổi tiếng nào rốt cuộc cũng bị du khách tàn phá."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Limiting visitors now can protect tourism in the long run.",
+            "en": "Limiting visitors now can protect tourism in the long term.",
             "vi": "Hạn chế khách bây giờ có thể bảo vệ du lịch về lâu dài."
           },
           "is_correct": true,
           "order": 1,
-          "text": "Limiting visitors now can protect tourism in the long run.",
+          "text": "Limiting visitors now can protect tourism in the long term.",
           "text_translation": "Hạn chế khách bây giờ có thể bảo vệ du lịch về lâu dài."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Nobody should travel.",
-            "vi": "Không ai nên đi du lịch."
+            "en": "Nobody should travel to famous places at all.",
+            "vi": "Không ai nên tới những nơi nổi tiếng."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Nobody should travel.",
-          "text_translation": "Không ai nên đi du lịch."
+          "text": "Nobody should travel to famous places at all.",
+          "text_translation": "Không ai nên tới những nơi nổi tiếng."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Fees should be very high.",
-            "vi": "Phí nên thật cao."
+            "en": "Fees should be very high for every visitor.",
+            "vi": "Phí nên thật cao với mọi du khách."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Fees should be very high.",
-          "text_translation": "Phí nên thật cao."
+          "text": "Fees should be very high for every visitor.",
+          "text_translation": "Phí nên thật cao với mọi du khách."
         }
       ],
       "evidence_segments": [
@@ -1901,45 +1901,45 @@
         {
           "id": "A",
           "i18n": {
-            "en": "visit outside the busiest months",
-            "vi": "đi vào những tháng vắng khách"
+            "en": "visit outside the busiest months of the year",
+            "vi": "đi vào những tháng vắng khách trong năm"
           },
           "is_correct": false,
           "order": 0,
-          "text": "visit outside the busiest months",
-          "text_translation": "đi vào những tháng vắng khách"
+          "text": "visit outside the busiest months of the year",
+          "text_translation": "đi vào những tháng vắng khách trong năm"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "stay longer in one place",
-            "vi": "ở lâu một chỗ"
+            "en": "stay longer in one place rather than rushing between five",
+            "vi": "ở lâu một chỗ thay vì chạy qua năm nơi"
           },
           "is_correct": false,
           "order": 1,
-          "text": "stay longer in one place",
-          "text_translation": "ở lâu một chỗ"
+          "text": "stay longer in one place rather than rushing between five",
+          "text_translation": "ở lâu một chỗ thay vì chạy qua năm nơi"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "buy from local shops",
-            "vi": "mua đồ ở cửa hàng địa phương"
+            "en": "buy from local shops and eat in family restaurants",
+            "vi": "mua ở cửa hàng địa phương và ăn ở quán gia đình"
           },
           "is_correct": false,
           "order": 2,
-          "text": "buy from local shops",
-          "text_translation": "mua đồ ở cửa hàng địa phương"
+          "text": "buy from local shops and eat in family restaurants",
+          "text_translation": "mua ở cửa hàng địa phương và ăn ở quán gia đình"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "visit as many famous places as possible in one trip",
+            "en": "visit as many famous places as you can in one trip",
             "vi": "đi càng nhiều nơi nổi tiếng càng tốt trong một chuyến"
           },
           "is_correct": true,
           "order": 3,
-          "text": "visit as many famous places as possible in one trip",
+          "text": "visit as many famous places as you can in one trip",
           "text_translation": "đi càng nhiều nơi nổi tiếng càng tốt trong một chuyến"
         }
       ],

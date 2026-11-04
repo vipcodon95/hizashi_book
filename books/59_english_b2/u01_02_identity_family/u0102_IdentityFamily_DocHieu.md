@@ -90,82 +90,82 @@
 **1. What is Trevor trying to do in his essay?**
 *(Trevor muốn làm gì trong bài luận?)*
 
-- A. list the trophies that he has won *(liệt kê những chiếc cúp cậu đã giành)*
-- B. complain about his teachers *(phàn nàn về giáo viên)*
+- A. list every trophy that he has won since he was a child *(liệt kê mọi chiếc cúp cậu đã giành từ khi còn nhỏ)*
+- B. complain that his teachers ignored his talent *(phàn nàn rằng giáo viên phớt lờ tài năng của cậu)*
 - C. show that he is more than just an athlete *(cho thấy cậu không chỉ là một vận động viên)*
-- D. explain how to collect rainwater *(giải thích cách hứng nước mưa)*
+- D. teach readers how to run a school garden project *(hướng dẫn người đọc cách điều hành một dự án vườn trường)*
 
 **2. What does Trevor suggest by saying that his grades were expected to be "fine for an athlete"?**
 *(Trevor hàm ý gì khi nói điểm số của cậu chỉ được mong là "tạm được với một vận động viên"?)*
 
 - A. People expected little from him in his studies. *(Mọi người không kỳ vọng nhiều vào chuyện học của cậu.)*
-- B. He had the best grades in his class. *(Cậu có điểm cao nhất lớp.)*
+- B. He earned the highest grades in his class every year. *(Năm nào cậu cũng đạt điểm cao nhất lớp.)*
 - C. His teachers didn't know that he played soccer. *(Giáo viên không biết cậu chơi bóng.)*
-- D. Athletes don't need good grades. *(Vận động viên không cần điểm cao.)*
+- D. Athletes like him are not allowed to take hard classes. *(Những vận động viên như cậu không được học các môn khó.)*
 
 **3. Why did Trevor accept the label for years?**
 *(Vì sao nhiều năm liền Trevor chấp nhận cái nhãn ấy?)*
 
-- A. His father told him to. *(Vì bố bảo cậu thế.)*
-- B. He didn't know what a label was. *(Vì cậu không biết nhãn là gì.)*
-- C. He wanted to become a teacher. *(Vì cậu muốn làm giáo viên.)*
-- D. It was easier than standing up for himself, and it felt good to be known. *(Vì như thế dễ hơn là tự lên tiếng, và được người ta biết tới cũng dễ chịu.)*
+- A. His father told him that soccer was his only real future. *(Bố bảo cậu rằng bóng đá là tương lai thật sự duy nhất của cậu.)*
+- B. He did not understand what people meant by the label. *(Vì cậu không hiểu mọi người muốn nói gì qua cái nhãn ấy.)*
+- C. He hoped that the label would help him get better grades. *(Vì cậu hy vọng cái nhãn ấy giúp cậu có điểm tốt hơn.)*
+- D. It was easier than standing up for himself, and it felt good. *(Vì như thế dễ hơn là tự lên tiếng, và cũng thấy dễ chịu.)*
 
 **4. What did Trevor realize during his injury?**
 *(Trong thời gian chấn thương, Trevor nhận ra điều gì?)*
 
-- A. that he wanted to quit soccer *(rằng cậu muốn bỏ bóng đá)*
+- A. that he wanted to quit soccer and try another sport *(rằng cậu muốn bỏ bóng đá để thử một môn thể thao khác)*
 - B. that he had no idea who he was without soccer *(rằng cậu không biết mình là ai khi không có bóng đá)*
-- C. that his team didn't need him *(rằng đội không cần cậu)*
-- D. that he was a good runner *(rằng cậu chạy giỏi)*
+- C. that his team did not need him while he was injured *(rằng đội không cần cậu trong lúc cậu chấn thương)*
+- D. that running was the best way to recover from his injury *(rằng chạy bộ là cách tốt nhất để hồi phục sau chấn thương)*
 
 **5. In "Prior to that, I had never planted anything in my life", what does "Prior to that" mean?**
 *(Trong câu "Prior to that, I had never planted anything in my life", "Prior to that" nghĩa là gì?)*
 
 - A. before he joined the Green Club *(trước khi cậu vào câu lạc bộ Xanh)*
-- B. after his injury *(sau chấn thương)*
-- C. because of his friend *(vì đứa bạn)*
-- D. during the summer *(trong mùa hè)*
+- B. after he had recovered from his injury *(sau khi cậu đã hồi phục sau chấn thương)*
+- C. as a result of his best friend's advice *(do lời khuyên của người bạn thân nhất)*
+- D. while he was sitting on the bench *(trong lúc cậu ngồi trên ghế dự bị)*
 
 **6. What did Trevor discover while he was on the bench?**
 *(Trong thời gian ngồi ghế dự bị, Trevor phát hiện ra điều gì?)*
 
-- A. that sorting trash is exciting *(rằng phân loại rác rất thú vị)*
-- B. that he hates gardening *(rằng cậu ghét làm vườn)*
-- C. that he enjoys solving problems that nobody has asked him to solve *(rằng cậu thích giải quyết những vấn đề chẳng ai nhờ mình)*
-- D. that he should become a coach *(rằng cậu nên làm huấn luyện viên)*
+- A. that sorting cafeteria trash is one of the most exciting jobs *(rằng phân loại rác nhà ăn là một trong những việc thú vị nhất)*
+- B. that he hates gardening and would rather return to the field *(rằng cậu ghét làm vườn và muốn quay lại sân hơn)*
+- C. that he enjoys solving problems nobody has asked him to solve *(rằng cậu thích giải quyết những vấn đề chẳng ai nhờ mình)*
+- D. that he should become a soccer coach after finishing school *(rằng cậu nên làm huấn luyện viên bóng đá sau khi học xong)*
 
 **7. What does Trevor mean by "I am not claiming that I have outgrown soccer"?**
 *(Trevor muốn nói gì qua câu "Tôi không nói rằng mình đã lớn hơn bóng đá"?)*
 
-- A. He is going to stop playing soccer. *(Cậu sắp thôi đá bóng.)*
-- B. Soccer is still important to him, but it is not his only interest. *(Bóng đá vẫn quan trọng với cậu, nhưng không còn là mối quan tâm duy nhất.)*
-- C. He is too old to play soccer. *(Cậu đã quá tuổi chơi bóng.)*
+- A. He plans to stop playing soccer and join the garden club. *(Cậu định thôi đá bóng và vào câu lạc bộ làm vườn.)*
+- B. Soccer still matters to him, but it is not his only interest. *(Bóng đá vẫn quan trọng với cậu, nhưng không phải mối quan tâm duy nhất.)*
+- C. He is too old to play soccer at a high level any more. *(Cậu đã quá tuổi để chơi bóng ở trình độ cao nữa.)*
 - D. He has never liked soccer. *(Cậu chưa từng thích bóng đá.)*
 
 **8. What would Trevor like to study?**
 *(Trevor muốn học ngành gì?)*
 
-- A. history *(lịch sử)*
-- B. sports science *(khoa học thể thao)*
-- C. medicine *(y khoa)*
+- A. history, with a focus on teaching *(lịch sử, tập trung vào giảng dạy)*
+- B. sports science and coaching *(khoa học thể thao và huấn luyện)*
+- C. physical therapy and medicine *(vật lý trị liệu và y khoa)*
 - D. environmental engineering *(kỹ thuật môi trường)*
 
 **9. What does Trevor's dad tell him to do with the line about grades?**
 *(Bố Trevor bảo cậu làm gì với câu về điểm số?)*
 
 - A. remove it, because it sounds bitter *(bỏ đi, vì nghe có vẻ cay cú)*
-- B. make it longer *(viết dài thêm)*
-- C. move it to the beginning *(chuyển lên đầu bài)*
-- D. ask his teachers about it *(hỏi giáo viên về nó)*
+- B. explain it more clearly in a new paragraph *(giải thích rõ hơn trong một đoạn mới)*
+- C. move it to the end of the essay to make it stronger *(chuyển xuống cuối bài để làm nó mạnh hơn)*
+- D. show it to his teachers and ask what they think *(cho giáo viên xem và hỏi họ nghĩ sao)*
 
 **10. Why does Trevor's dad want him to keep the part about joining the club because of his friend?**
 *(Vì sao bố Trevor muốn cậu giữ đoạn kể vào câu lạc bộ vì bạn?)*
 
-- A. because it is the funniest part *(vì đó là đoạn buồn cười nhất)*
-- B. because his friend will read it *(vì bạn cậu sẽ đọc)*
+- A. because it is the funniest part and makes readers laugh *(vì đó là đoạn buồn cười nhất và làm người đọc bật cười)*
+- B. because his friend will read the essay before it is sent *(vì bạn cậu sẽ đọc bài luận trước khi nó được gửi đi)*
 - C. because honest details like this make the essay stand out *(vì những chi tiết thành thật như vậy làm bài luận nổi bật)*
-- D. because it is about soccer *(vì nó nói về bóng đá)*
+- D. because it shows how much he loves playing soccer *(vì nó cho thấy cậu yêu bóng đá đến mức nào)*
 
 ---
 
@@ -211,82 +211,82 @@
 **11. What is the main idea of the article?**
 *(Ý chính của bài báo là gì?)*
 
-- A. Firstborn children are always leaders. *(Con đầu lúc nào cũng là thủ lĩnh.)*
+- A. Firstborn children always grow up to be the leaders of their families. *(Con đầu lúc nào cũng lớn lên thành người đứng đầu gia đình.)*
 - B. Popular beliefs about birth order are not supported by large studies. *(Những niềm tin phổ biến về thứ tự sinh không được các nghiên cứu lớn ủng hộ.)*
-- C. Middle children have the hardest lives. *(Con giữa có cuộc đời vất vả nhất.)*
-- D. Parents should have only one child. *(Cha mẹ chỉ nên sinh một con.)*
+- C. Middle children have the hardest lives of all brothers and sisters. *(Con giữa có cuộc sống vất vả nhất trong các anh chị em.)*
+- D. Parents should have only one child to avoid arguments at home. *(Cha mẹ chỉ nên sinh một con để tránh cãi vã trong nhà.)*
 
 **12. Who made the idea of birth order popular?**
 *(Ai đã phổ biến ý tưởng về thứ tự sinh?)*
 
-- A. a group of parents in Germany *(một nhóm phụ huynh ở Đức)*
-- B. magazines in the 2010s *(các tạp chí những năm 2010)*
-- C. high school students *(học sinh trung học)*
+- A. a group of researchers in Germany and Britain *(một nhóm nhà nghiên cứu ở Đức và Anh)*
+- B. popular magazines during the 2010s *(các tạp chí nổi tiếng trong những năm 2010)*
+- C. high school students in the United States *(học sinh trung học ở Mỹ)*
 - D. the psychologist Alfred Adler, in the 1920s *(nhà tâm lý học Alfred Adler, những năm 1920)*
 
 **13. According to popular belief, how are firstborns described?**
 *(Theo quan niệm phổ biến, con đầu được miêu tả thế nào?)*
 
 - A. responsible and serious *(có trách nhiệm và nghiêm túc)*
-- B. charming and spoiled *(đáng yêu và được chiều)*
-- C. forgotten and lonely *(bị quên lãng và cô đơn)*
+- B. charming and a little spoiled *(đáng yêu và hơi được chiều)*
+- C. forgotten and fighting for attention *(bị quên lãng và phải giành sự chú ý)*
 - D. lazy and cheeky *(lười và hỗn)*
 
 **14. What did the 2015 study of more than 20,000 adults find?**
 *(Nghiên cứu năm 2015 trên hơn 20.000 người trưởng thành phát hiện gì?)*
 
-- A. Firstborns were much more responsible. *(Con đầu có trách nhiệm hơn nhiều.)*
-- B. Youngest children were more charming. *(Con út đáng yêu hơn.)*
+- A. Firstborns were much more responsible than their younger brothers and sisters. *(Con đầu có trách nhiệm hơn hẳn các em của mình.)*
+- B. Youngest children were more charming than the others in their families. *(Con út đáng yêu hơn những người còn lại trong nhà.)*
 - C. There was no meaningful link between birth order and personality. *(Không có liên hệ đáng kể nào giữa thứ tự sinh và tính cách.)*
-- D. Middle children were the most intelligent. *(Con giữa thông minh nhất.)*
+- D. Middle children were the most intelligent in their families. *(Con giữa thông minh nhất trong gia đình.)*
 
 **15. What does the article say about the difference in intelligence test scores?**
 *(Bài báo nói gì về chênh lệch điểm kiểm tra trí tuệ?)*
 
-- A. Youngest children scored much higher. *(Con út điểm cao hơn nhiều.)*
+- A. Youngest children scored much higher, and the gap was easy to notice. *(Con út điểm cao hơn nhiều, và khoảng cách ấy rất dễ thấy.)*
 - B. Firstborns scored slightly higher on average, but the gap was tiny. *(Trung bình con đầu nhỉnh hơn đôi chút, nhưng khoảng cách rất nhỏ.)*
-- C. There were no tests. *(Không có bài kiểm tra nào.)*
-- D. The gap was easy to notice in every family. *(Trong gia đình nào cũng dễ thấy khoảng cách ấy.)*
+- C. There were no tests of intelligence in any of the studies. *(Không nghiên cứu nào có bài kiểm tra trí thông minh.)*
+- D. The gap was large enough for parents to notice it in every family. *(Khoảng cách đủ lớn để cha mẹ thấy được ở mọi gia đình.)*
 
 **16. Why does the writer mention a twelve-year-old girl and her seven-year-old brother?**
 *(Vì sao người viết nhắc tới cô bé mười hai tuổi và cậu em bảy tuổi?)*
 
-- A. to show that girls are more responsible than boys *(để cho thấy con gái có trách nhiệm hơn con trai)*
-- B. to describe the writer's own children *(để kể về con của người viết)*
-- C. to prove that firstborns are leaders *(để chứng minh con đầu là thủ lĩnh)*
-- D. to show that differences between siblings often come from their age, not their birth order *(để cho thấy khác biệt giữa anh chị em thường do tuổi tác, không phải thứ tự sinh)*
+- A. to prove that girls are naturally more responsible than boys, whatever their age *(để chứng minh con gái vốn có trách nhiệm hơn con trai, bất kể tuổi nào)*
+- B. to describe how the writer's own two children behave at home *(để kể con của người viết cư xử thế nào ở nhà)*
+- C. to prove that firstborn children always become leaders in their families *(để chứng minh con đầu luôn trở thành thủ lĩnh trong gia đình)*
+- D. to show that differences between siblings often come from age, not birth order *(để cho thấy khác biệt giữa anh chị em thường do tuổi tác, không do thứ tự sinh)*
 
 **17. In "our upbringing, the age gap between siblings, …", what does "upbringing" mean?**
 *(Trong cụm "our upbringing, the age gap between siblings, …", "upbringing" nghĩa là gì?)*
 
 - A. the way that a child is raised by their family *(cách một đứa trẻ được gia đình nuôi dạy)*
-- B. a person's height *(chiều cao của một người)*
-- C. the house where a family lives *(ngôi nhà một gia đình sống)*
-- D. a child's school grades *(điểm số ở trường của một đứa trẻ)*
+- B. a person's height and weight at different stages of life *(chiều cao và cân nặng của một người ở các giai đoạn cuộc đời)*
+- C. the house where a family has lived for many years *(ngôi nhà mà một gia đình đã sống nhiều năm)*
+- D. a child's school grades in the first years of school *(điểm số của một đứa trẻ trong những năm đầu đi học)*
 
 **18. According to researchers, what shapes us far more than birth order?**
 *(Theo các nhà nghiên cứu, điều gì định hình ta nhiều hơn hẳn thứ tự sinh?)*
 
-- A. our names *(tên của ta)*
-- B. the month when we were born *(tháng ta sinh ra)*
+- A. the first name that our parents chose for us *(cái tên đầu tiên mà cha mẹ chọn cho ta)*
+- B. the month, the season and the year when we were born *(tháng, mùa và năm ta sinh ra)*
 - C. our upbringing, the age gap, family size and our experiences *(cách được nuôi dạy, khoảng cách tuổi, quy mô gia đình và trải nghiệm của ta)*
-- D. the books we read as children *(những cuốn sách ta đọc hồi nhỏ)*
+- D. the number of books, films and games we enjoyed as children *(số sách, phim và trò chơi ta thích hồi nhỏ)*
 
 **19. What is the writer's attitude toward the popular ideas about birth order?**
 *(Thái độ của người viết với những quan niệm phổ biến về thứ tự sinh thế nào?)*
 
-- A. The writer strongly believes them. *(Người viết tin tuyệt đối.)*
-- B. The writer doubts them because of the evidence, but admits that family position can still matter a little. *(Người viết nghi ngờ chúng dựa trên bằng chứng, nhưng thừa nhận vị trí trong gia đình vẫn có ý nghĩa phần nào.)*
-- C. The writer is angry with Alfred Adler. *(Người viết giận Alfred Adler.)*
-- D. The writer has no opinion. *(Người viết không có ý kiến gì.)*
+- A. The writer accepts them because of the evidence, and says that family position matters most. *(Người viết chấp nhận chúng nhờ bằng chứng, và cho rằng vị trí trong gia đình là quan trọng nhất.)*
+- B. The writer doubts them because of the evidence, but admits that family position can matter a little. *(Người viết nghi ngờ chúng dựa trên bằng chứng, nhưng thừa nhận vị trí trong gia đình vẫn có phần quan trọng.)*
+- C. The writer is angry with Alfred Adler and thinks that scientists should stop studying families. *(Người viết giận Alfred Adler và cho rằng các nhà khoa học nên thôi nghiên cứu về gia đình.)*
+- D. The writer has no opinion and simply lists what researchers and parents believe. *(Người viết không có ý kiến và chỉ liệt kê điều các nhà nghiên cứu và cha mẹ tin.)*
 
 **20. Use both texts. How does Trevor's essay support the idea at the end of the article?**
 *(Dựa vào cả hai bài. Bài luận của Trevor ủng hộ ý cuối bài báo như thế nào?)*
 
-- A. Trevor says that being a younger brother made him a leader. *(Trevor nói làm em giúp cậu thành thủ lĩnh.)*
-- B. Trevor says that his sisters decided his future. *(Trevor nói các chị em quyết định tương lai cậu.)*
-- C. Trevor says that firstborns are better at soccer. *(Trevor nói con đầu đá bóng giỏi hơn.)*
-- D. Trevor was shaped by things that happened to him, such as his injury and the club, not by his place in the family. *(Trevor được định hình bởi những gì xảy ra với cậu, như chấn thương và câu lạc bộ, chứ không phải vị trí trong gia đình.)*
+- A. Trevor says that being a younger brother made him a leader, which proves that birth order shapes who we are. *(Trevor nói làm em giúp cậu thành thủ lĩnh, điều đó chứng tỏ thứ tự sinh định hình con người.)*
+- B. Trevor says that his older sisters decided his future, as the article says that family position matters most. *(Trevor nói các chị quyết định tương lai của cậu, đúng như bài báo nói vị trí trong gia đình là quan trọng nhất.)*
+- C. Trevor says that firstborns are better at soccer because they are more serious and responsible. *(Trevor nói con đầu đá bóng giỏi hơn vì họ nghiêm túc và có trách nhiệm hơn.)*
+- D. Trevor was shaped by things that happened to him, such as his injury and the club, not by his birth order. *(Trevor được định hình bởi những gì xảy ra với cậu, như chấn thương và câu lạc bộ, chứ không phải thứ tự sinh.)*
 
 ---
 

@@ -100,42 +100,42 @@
 **1. What is the main purpose of Chloe's document?**
 *(Mục đích chính của tài liệu Chloe soạn là gì?)*
 
-- A. to advertise her studio to new clients *(để quảng cáo studio với khách mới)*
+- A. to advertise her studio and its prices to new clients *(để quảng cáo studio và bảng giá với khách mới)*
 - B. to set out her plans and risks for the coming year *(để trình bày kế hoạch và rủi ro cho năm tới)*
-- C. to complain about the bakery *(để phàn nàn về tiệm bánh)*
-- D. to explain how to design packaging *(để giải thích cách thiết kế bao bì)*
+- C. to complain that the bakery asked for too big a discount *(để phàn nàn rằng tiệm bánh đòi giảm giá quá nhiều)*
+- D. to explain how to design packaging for a bakery *(để giải thích cách thiết kế bao bì cho một tiệm bánh)*
 
 **2. How has Chloe's revenue changed?**
 *(Doanh thu của Chloe thay đổi thế nào?)*
 
-- A. It has stayed the same. *(Không đổi.)*
-- B. It has fallen by half. *(Giảm một nửa.)*
-- C. It is twice as high as two years ago. *(Cao gấp đôi hai năm trước.)*
-- D. It was almost twice as high in the first three months of this year as in the same period last year. *(Ba tháng đầu năm nay cao gần gấp đôi cùng kỳ năm ngoái.)*
+- A. It has stayed about the same since she started the studio. *(Gần như không đổi từ khi cô lập studio.)*
+- B. It has fallen by half because a client left in the spring. *(Giảm một nửa vì một khách hàng rời đi hồi mùa xuân.)*
+- C. It is exactly twice as high as it was two years ago. *(Cao đúng gấp đôi so với hai năm trước.)*
+- D. It was almost twice as high as in the same period last year. *(Cao gần gấp đôi so với cùng kỳ năm ngoái.)*
 
 **3. What does "By June, I will have been running the studio for a year and a half" tell us?**
 *(Câu "By June, I will have been running the studio for a year and a half" cho biết điều gì?)*
 
 - A. In June, Chloe will have run the studio for eighteen months. *(Tới tháng Sáu, Chloe đã điều hành studio được mười tám tháng.)*
-- B. Chloe will open the studio in June. *(Chloe sẽ mở studio vào tháng Sáu.)*
-- C. Chloe stopped running the studio in June. *(Chloe thôi điều hành studio vào tháng Sáu.)*
-- D. The studio will close in a year and a half. *(Studio sẽ đóng cửa sau một năm rưỡi.)*
+- B. Chloe will open the studio in June, after a year and a half of planning. *(Chloe sẽ mở studio vào tháng Sáu sau một năm rưỡi chuẩn bị.)*
+- C. Chloe stopped running the studio in June after a year and a half. *(Chloe thôi điều hành studio vào tháng Sáu sau một năm rưỡi.)*
+- D. The studio will close in a year and a half if it does not find clients. *(Studio sẽ đóng cửa sau một năm rưỡi nếu không tìm được khách.)*
 
 **4. Who is Chloe going to employ?**
 *(Chloe sẽ tuyển ai?)*
 
-- A. a manager from the bakery *(một quản lý của tiệm bánh)*
-- B. Harriet *(bà Harriet)*
-- C. Ruby, who has been working at Harriet's while finishing a design course *(Ruby, người vừa làm ở quán Harriet's vừa học xong khoá thiết kế)*
-- D. a full-time salesperson *(một nhân viên bán hàng toàn thời gian)*
+- A. a manager from the bakery in Oregon who runs six of its shops *(một quản lý của tiệm bánh ở Oregon đang điều hành sáu cửa hàng)*
+- B. Harriet, the owner of the café on Maple Street *(bà Harriet, chủ quán cà phê trên phố Maple)*
+- C. Ruby, who has been working at Harriet's while finishing her course *(Ruby, người vừa làm ở quán Harriet's vừa học xong khoá thiết kế)*
+- D. a full-time salesperson who has worked for the bakery before *(một nhân viên bán hàng toàn thời gian từng làm cho tiệm bánh)*
 
 **5. What does Chloe mean by "there's no point in saving money if the work isn't good"?**
 *(Chloe muốn nói gì qua câu "tiết kiệm tiền mà làm không tốt thì chẳng để làm gì"?)*
 
-- A. She wants to spend as much as possible. *(Cô muốn tiêu càng nhiều càng tốt.)*
+- A. She wants to spend as much money as possible on staff. *(Cô muốn chi càng nhiều tiền càng tốt cho nhân viên.)*
 - B. Quality matters more to her than paying the lowest wage. *(Với cô, chất lượng quan trọng hơn việc trả lương thấp nhất.)*
-- C. She doesn't care about money. *(Cô không quan tâm tới tiền.)*
-- D. Ruby's work isn't good. *(Ruby làm không tốt.)*
+- C. She doesn't care about money, only about hiring her friends. *(Cô không quan tâm tiền bạc, chỉ muốn thuê bạn bè.)*
+- D. Ruby's work isn't good, so she has to pay more for it. *(Ruby làm không tốt nên cô phải trả thêm tiền.)*
 
 **6. What did the bakery ask for in the first meeting?**
 *(Ở buổi gặp đầu, tiệm bánh đề nghị gì?)*
@@ -148,34 +148,34 @@
 **7. What did Chloe get in exchange for the 10% discount?**
 *(Đổi lại mức giảm 10%, Chloe được gì?)*
 
-- A. a free bakery shop *(một tiệm bánh miễn phí)*
-- B. Ruby's wages *(tiền lương cho Ruby)*
-- C. six new clients *(sáu khách hàng mới)*
-- D. a two-year contract and permission to show the work in her portfolio *(hợp đồng hai năm và được đưa sản phẩm vào hồ sơ năng lực)*
+- A. a free year of coffee, bread and cakes for the whole studio team *(một năm cà phê, bánh mì và bánh ngọt miễn phí cho cả nhóm)*
+- B. a payment for Ruby's wages for the first year *(một khoản trả lương cho Ruby trong năm đầu)*
+- C. six new clients from the bakery's other shops *(sáu khách hàng mới từ các cửa hàng khác của tiệm bánh)*
+- D. a two-year contract and the right to show the work in her portfolio *(hợp đồng hai năm và quyền đưa sản phẩm vào hồ sơ năng lực)*
 
 **8. Why does Chloe want to find at least three new clients by December?**
 *(Vì sao Chloe muốn tìm thêm ít nhất ba khách mới trước tháng Mười hai?)*
 
-- A. because the bakery has already ended the contract *(vì tiệm bánh đã chấm dứt hợp đồng)*
-- B. because Ruby asked her to *(vì Ruby yêu cầu)*
+- A. because the bakery has already ended its contract with the studio *(vì tiệm bánh đã chấm dứt hợp đồng với studio)*
+- B. because Ruby asked her to find clients for the studio *(vì Ruby yêu cầu cô tìm khách cho studio)*
 - C. so that the business doesn't depend too much on one client *(để công việc không phụ thuộc quá nhiều vào một khách hàng)*
-- D. so that she can stop working *(để cô thôi làm việc)*
+- D. so that she can stop working and enjoy the summer *(để cô thôi làm việc và tận hưởng mùa hè)*
 
 **9. What is Chloe's attitude toward growing her business?**
 *(Thái độ của Chloe về việc mở rộng công việc thế nào?)*
 
 - A. careful: she prefers quality to growing fast *(thận trọng: cô đặt chất lượng lên trên tăng trưởng nhanh)*
-- B. very eager to become as big as possible *(rất háo hức trở nên lớn nhất có thể)*
+- B. very eager to become as big as possible as quickly as she can *(rất háo hức trở nên lớn nhất có thể càng nhanh càng tốt)*
 - C. worried that she will go bankrupt next month *(lo sẽ phá sản tháng sau)*
 - D. not interested at all *(hoàn toàn không quan tâm)*
 
 **10. What does Chloe mean by "It's a company now"?**
 *(Chloe muốn nói gì qua câu "Giờ nó là một công ty rồi"?)*
 
-- A. She has sold the studio. *(Cô đã bán studio.)*
-- B. She now works for a big company. *(Giờ cô làm cho một công ty lớn.)*
+- A. She has sold the studio to a bigger company and now works for it. *(Cô đã bán studio cho công ty lớn hơn và giờ làm cho họ.)*
+- B. She now works for a big company that Ruby owns. *(Giờ cô làm cho một công ty lớn của Ruby.)*
 - C. Her work has grown from a one-person job into a real business. *(Công việc của cô đã lớn lên từ việc làm một mình thành một doanh nghiệp thật sự.)*
-- D. She wants to stop designing. *(Cô muốn thôi thiết kế.)*
+- D. She wants to stop designing and manage other people. *(Cô muốn thôi thiết kế và chuyển sang quản lý người khác.)*
 
 ---
 
@@ -220,10 +220,10 @@
 **11. What is the main purpose of the article?**
 *(Mục đích chính của bài báo là gì?)*
 
-- A. to tell readers where to buy cheap coffee *(để chỉ chỗ mua cà phê rẻ)*
-- B. to complain about Harriet's prices *(để phàn nàn về giá ở quán Harriet's)*
-- C. to explain what inflation is, using the price of coffee as an example *(để giải thích lạm phát là gì, lấy giá cà phê làm ví dụ)*
-- D. to compare Brazil and Vietnam *(để so sánh Brazil và Việt Nam)*
+- A. to tell readers where to buy cheap coffee in their town *(để chỉ cho người đọc chỗ mua cà phê rẻ trong thành phố)*
+- B. to complain that Harriet's prices are higher than elsewhere *(để phàn nàn giá ở quán Harriet's cao hơn nơi khác)*
+- C. to explain what inflation is, using coffee prices as an example *(để giải thích lạm phát là gì, lấy giá cà phê làm ví dụ)*
+- D. to compare coffee farming in Brazil with coffee farming in Vietnam *(để so sánh việc trồng cà phê ở Brazil với ở Việt Nam)*
 
 **12. By how much has the price of a cup of coffee at Harriet's risen in three years?**
 *(Trong ba năm, giá một tách cà phê ở quán Harriet's đã tăng bao nhiêu?)*
@@ -244,26 +244,26 @@
 **14. What happened to inflation in the United States in 2022?**
 *(Năm 2022, lạm phát ở Mỹ ra sao?)*
 
-- A. It fell to zero. *(Giảm về không.)*
+- A. It fell to zero for the first time in four decades. *(Giảm về không lần đầu tiên trong bốn thập kỷ.)*
 - B. It rose sharply to about 9 percent, its highest level in four decades. *(Tăng mạnh lên khoảng 9 phần trăm, cao nhất trong bốn thập kỷ.)*
-- C. It stayed at 2 percent. *(Giữ ở mức 2 phần trăm.)*
-- D. It was the lowest in history. *(Thấp nhất trong lịch sử.)*
+- C. It stayed at 2 percent, the level economists see as healthy. *(Giữ ở mức 2 phần trăm, mức các nhà kinh tế coi là lành mạnh.)*
+- D. It was the lowest level in history, thanks to cheap coffee. *(Thấp nhất trong lịch sử nhờ cà phê rẻ.)*
 
 **15. Why did the price of coffee beans reach a record high in early 2025?**
 *(Vì sao đầu năm 2025 giá hạt cà phê lập kỷ lục?)*
 
-- A. Fewer people drank coffee. *(Vì ít người uống cà phê hơn.)*
-- B. Shops raised their rent. *(Vì cửa hàng tăng tiền thuê.)*
-- C. Long dry periods hit Brazil and Vietnam, the two biggest producers. *(Vì khô hạn kéo dài ở Brazil và Việt Nam, hai nước sản xuất lớn nhất.)*
-- D. Milk became more expensive. *(Vì sữa đắt hơn.)*
+- A. Fewer people drank coffee, so farmers stopped growing it. *(Vì ít người uống cà phê hơn nên nông dân thôi trồng.)*
+- B. Shops raised their rent, so cafés had to charge more. *(Vì cửa hàng tăng tiền thuê nên quán phải bán đắt hơn.)*
+- C. Long dry periods hit Brazil and Vietnam, the biggest producers. *(Vì khô hạn kéo dài ở Brazil và Việt Nam, hai nước sản xuất lớn nhất.)*
+- D. Milk became more expensive, so cafés used more coffee beans. *(Vì sữa đắt hơn nên các quán dùng nhiều hạt cà phê hơn.)*
 
 **16. Which of these is an example of the second kind of cause of inflation?**
 *(Trường hợp nào là ví dụ cho loại nguyên nhân thứ hai của lạm phát?)*
 
-- A. Bad weather destroys crops. *(Thời tiết xấu phá hỏng mùa màng.)*
-- B. Fuel becomes more expensive. *(Nhiên liệu đắt hơn.)*
-- C. Shipping is delayed. *(Vận chuyển bị chậm.)*
-- D. Many people want to buy something faster than businesses can produce it. *(Nhiều người muốn mua một thứ nhanh hơn khả năng sản xuất của doanh nghiệp.)*
+- A. Bad weather destroys the crops, so farmers have less to sell this year. *(Thời tiết xấu phá hỏng mùa màng nên năm nay nông dân có ít hàng để bán.)*
+- B. Fuel becomes more expensive and trucks cost more to run. *(Nhiên liệu đắt hơn và xe tải tốn kém hơn khi chạy.)*
+- C. Shipping is delayed, so goods arrive late in the shops. *(Vận chuyển bị chậm nên hàng đến cửa hàng muộn.)*
+- D. Many people want to buy something faster than businesses can make it. *(Nhiều người muốn mua một thứ nhanh hơn khả năng làm ra của doanh nghiệp.)*
 
 **17. Which of Harriet's costs rose by far the least?**
 *(Khoản chi nào của bà Harriet tăng ít nhất, cách xa hẳn?)*
@@ -276,26 +276,26 @@
 **18. Why can you be "poorer" even though your pay is higher?**
 *(Vì sao lương cao hơn mà bạn vẫn có thể "nghèo đi"?)*
 
-- A. because taxes always rise *(vì thuế luôn tăng)*
-- B. because prices rise faster than your pay, so your money buys less *(vì giá tăng nhanh hơn lương, nên tiền mua được ít hơn)*
-- C. because banks keep your money *(vì ngân hàng giữ tiền của bạn)*
-- D. because coffee is expensive *(vì cà phê đắt)*
+- A. Taxes always rise faster than pay in every region. *(Vì thuế luôn tăng nhanh hơn lương ở mọi vùng.)*
+- B. Prices rise faster than your pay, so your money buys less. *(Vì giá tăng nhanh hơn lương nên tiền mua được ít hơn.)*
+- C. Banks keep part of your money when prices go up. *(Vì ngân hàng giữ một phần tiền của bạn khi giá tăng.)*
+- D. Coffee is expensive, so you spend most of your pay on it. *(Vì cà phê đắt nên bạn tiêu phần lớn lương vào đó.)*
 
 **19. What does Harriet's final comment show about her?**
 *(Câu nói cuối của bà Harriet cho thấy điều gì về bà?)*
 
-- A. She is angry with her customers. *(Bà giận khách hàng.)*
-- B. She plans to lower prices next month. *(Bà định giảm giá tháng sau.)*
-- C. She doesn't understand inflation. *(Bà không hiểu lạm phát.)*
-- D. She is honest with her customers and still values her friendly relationship with them. *(Bà thành thật với khách và vẫn trân trọng mối quan hệ thân tình với họ.)*
+- A. She is angry with her customers because they keep complaining about prices. *(Bà giận khách vì họ cứ phàn nàn về giá.)*
+- B. She plans to lower prices next month if the beans become cheaper. *(Bà định giảm giá tháng sau nếu hạt cà phê rẻ đi.)*
+- C. She doesn't understand inflation and blames the price of beans. *(Bà không hiểu lạm phát và đổ lỗi cho giá hạt cà phê.)*
+- D. She is honest with her customers and still values a friendly relationship. *(Bà thành thật với khách và vẫn trân trọng mối quan hệ thân tình.)*
 
 **20. Use both texts. What do Chloe and Harriet have in common as business owners?**
 *(Dựa vào cả hai bài. Chloe và bà Harriet có điểm gì chung khi làm chủ?)*
 
-- A. Both of them have six shops. *(Cả hai đều có sáu cửa hàng.)*
-- B. Both of them think carefully about costs and are honest about difficult decisions. *(Cả hai đều cân nhắc kỹ chi phí và thẳng thắn về những quyết định khó.)*
-- C. Both of them want to grow as fast as possible. *(Cả hai đều muốn mở rộng nhanh nhất có thể.)*
-- D. Both of them sell coffee beans. *(Cả hai đều bán hạt cà phê.)*
+- A. Both of them own six shops and are planning to open more of them next year. *(Cả hai đều có sáu cửa hàng và định mở thêm vào năm sau.)*
+- B. Both think carefully about costs and are honest about hard decisions. *(Cả hai đều cân nhắc kỹ chi phí và thẳng thắn về những quyết định khó.)*
+- C. Both of them want their businesses to grow as fast as possible. *(Cả hai đều muốn việc kinh doanh lớn nhanh nhất có thể.)*
+- D. Both of them buy coffee beans from the same farms in Brazil. *(Cả hai đều mua hạt cà phê từ cùng các trang trại ở Brazil.)*
 
 ---
 

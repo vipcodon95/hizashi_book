@@ -655,35 +655,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to ask for a recipe",
-            "vi": "để xin công thức làm bánh"
+            "en": "to ask Chloe for a recipe for a cake to bake for her patients",
+            "vi": "để xin Chloe công thức làm bánh cho bệnh nhân của cô"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to ask for a recipe",
-          "text_translation": "để xin công thức làm bánh"
+          "text": "to ask Chloe for a recipe for a cake to bake for her patients",
+          "text_translation": "để xin Chloe công thức làm bánh cho bệnh nhân của cô"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to tell her about a difficult patient",
-            "vi": "để kể về một bệnh nhân khó"
+            "en": "to tell her about a difficult patient in the emergency room",
+            "vi": "để kể về một bệnh nhân khó ở phòng cấp cứu"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to tell her about a difficult patient",
-          "text_translation": "để kể về một bệnh nhân khó"
+          "text": "to tell her about a difficult patient in the emergency room",
+          "text_translation": "để kể về một bệnh nhân khó ở phòng cấp cứu"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to invite her to dinner",
-            "vi": "để mời đi ăn tối"
+            "en": "to invite her to dinner at the Italian place by the harbor",
+            "vi": "để mời cô ấy đi ăn tối ở quán Ý bên bến cảng"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to invite her to dinner",
-          "text_translation": "để mời đi ăn tối"
+          "text": "to invite her to dinner at the Italian place by the harbor",
+          "text_translation": "để mời cô ấy đi ăn tối ở quán Ý bên bến cảng"
         },
         {
           "id": "D",
@@ -723,46 +723,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She forgot that it was Valentine's Day.",
-            "vi": "Vì cô quên hôm đó là Valentine."
+            "en": "She forgot that it was Valentine's Day and went out with friends.",
+            "vi": "Vì cô quên hôm đó là Valentine và đi chơi với bạn."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She forgot that it was Valentine's Day.",
-          "text_translation": "Vì cô quên hôm đó là Valentine."
+          "text": "She forgot that it was Valentine's Day and went out with friends.",
+          "text_translation": "Vì cô quên hôm đó là Valentine và đi chơi với bạn."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She was called in for an extra shift and forgot to text Ethan until nine.",
-            "vi": "Vì cô bị gọi trực thêm ca và tới chín giờ mới nhớ nhắn cho Ethan."
+            "en": "She was called in for an extra shift and forgot to text Ethan.",
+            "vi": "Vì cô bị gọi trực thêm ca và quên nhắn cho Ethan."
           },
           "is_correct": true,
           "order": 1,
-          "text": "She was called in for an extra shift and forgot to text Ethan until nine.",
-          "text_translation": "Vì cô bị gọi trực thêm ca và tới chín giờ mới nhớ nhắn cho Ethan."
+          "text": "She was called in for an extra shift and forgot to text Ethan.",
+          "text_translation": "Vì cô bị gọi trực thêm ca và quên nhắn cho Ethan."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "She was angry with Ethan.",
-            "vi": "Vì cô giận Ethan."
+            "en": "She was angry with Ethan and decided not to go to the restaurant.",
+            "vi": "Vì cô giận Ethan và quyết định không đến nhà hàng."
           },
           "is_correct": false,
           "order": 2,
-          "text": "She was angry with Ethan.",
-          "text_translation": "Vì cô giận Ethan."
+          "text": "She was angry with Ethan and decided not to go to the restaurant.",
+          "text_translation": "Vì cô giận Ethan và quyết định không đến nhà hàng."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The restaurant was closed.",
-            "vi": "Vì nhà hàng đóng cửa."
+            "en": "The restaurant was closed because of a problem at the harbor.",
+            "vi": "Vì nhà hàng đóng cửa do có sự cố ở bến cảng."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The restaurant was closed.",
-          "text_translation": "Vì nhà hàng đóng cửa."
+          "text": "The restaurant was closed because of a problem at the harbor.",
+          "text_translation": "Vì nhà hàng đóng cửa do có sự cố ở bến cảng."
         }
       ],
       "evidence_segments": [
@@ -791,46 +791,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It showed that he was deeply hurt, even though he didn't say so.",
-            "vi": "Vì nó cho thấy anh rất buồn, dù không nói ra."
+            "en": "It showed that he was deeply hurt, though he didn't say so.",
+            "vi": "Vì nó cho thấy anh rất buồn, dù anh không nói ra."
           },
           "is_correct": true,
           "order": 0,
-          "text": "It showed that he was deeply hurt, even though he didn't say so.",
-          "text_translation": "Vì nó cho thấy anh rất buồn, dù không nói ra."
+          "text": "It showed that he was deeply hurt, though he didn't say so.",
+          "text_translation": "Vì nó cho thấy anh rất buồn, dù anh không nói ra."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She couldn't hear him.",
-            "vi": "Vì cô không nghe rõ."
+            "en": "She couldn't hear him clearly because he spoke so quietly.",
+            "vi": "Vì anh nói nhỏ quá nên cô không nghe rõ."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She couldn't hear him.",
-          "text_translation": "Vì cô không nghe rõ."
+          "text": "She couldn't hear him clearly because he spoke so quietly.",
+          "text_translation": "Vì anh nói nhỏ quá nên cô không nghe rõ."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "He was laughing at her.",
-            "vi": "Vì anh đang cười cô."
+            "en": "He was laughing at her mistake, and that made her feel very small.",
+            "vi": "Vì anh đang cười trước lỗi của cô, khiến cô thấy mình thật nhỏ bé."
           },
           "is_correct": false,
           "order": 2,
-          "text": "He was laughing at her.",
-          "text_translation": "Vì anh đang cười cô."
+          "text": "He was laughing at her mistake, and that made her feel very small.",
+          "text_translation": "Vì anh đang cười trước lỗi của cô, khiến cô thấy mình thật nhỏ bé."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "He was too tired to talk.",
-            "vi": "Vì anh quá mệt để nói."
+            "en": "He was too tired after waiting at the restaurant to say more.",
+            "vi": "Vì anh quá mệt sau khi chờ ở nhà hàng nên không nói thêm."
           },
           "is_correct": false,
           "order": 3,
-          "text": "He was too tired to talk.",
-          "text_translation": "Vì anh quá mệt để nói."
+          "text": "He was too tired after waiting at the restaurant to say more.",
+          "text_translation": "Vì anh quá mệt sau khi chờ ở nhà hàng nên không nói thêm."
         }
       ],
       "evidence_segments": [
@@ -860,24 +860,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She is going to send a message now.",
-            "vi": "Cô sắp gửi tin nhắn."
+            "en": "She is going to send Ethan a long message as soon as she can.",
+            "vi": "Cô sắp gửi cho Ethan một tin nhắn dài ngay khi có thể."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She is going to send a message now.",
-          "text_translation": "Cô sắp gửi tin nhắn."
+          "text": "She is going to send Ethan a long message as soon as she can.",
+          "text_translation": "Cô sắp gửi cho Ethan một tin nhắn dài ngay khi có thể."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She sent many messages.",
-            "vi": "Cô đã gửi nhiều tin."
+            "en": "She sent many messages during her shift, but Ethan never answered.",
+            "vi": "Cô đã gửi nhiều tin trong ca trực, nhưng Ethan không trả lời."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She sent many messages.",
-          "text_translation": "Cô đã gửi nhiều tin."
+          "text": "She sent many messages during her shift, but Ethan never answered.",
+          "text_translation": "Cô đã gửi nhiều tin trong ca trực, nhưng Ethan không trả lời."
         },
         {
           "id": "C",
@@ -893,13 +893,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "She doesn't like sending messages.",
-            "vi": "Cô không thích nhắn tin."
+            "en": "She does not like sending messages, so she called him instead.",
+            "vi": "Cô không thích nhắn tin nên đã gọi cho anh."
           },
           "is_correct": false,
           "order": 3,
-          "text": "She doesn't like sending messages.",
-          "text_translation": "Cô không thích nhắn tin."
+          "text": "She does not like sending messages, so she called him instead.",
+          "text_translation": "Cô không thích nhắn tin nên đã gọi cho anh."
         }
       ],
       "evidence_segments": [
@@ -928,35 +928,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "a plan for the future",
-            "vi": "một kế hoạch tương lai"
+            "en": "a plan for what she will do tomorrow",
+            "vi": "một kế hoạch cho việc cô sẽ làm ngày mai"
           },
           "is_correct": false,
           "order": 0,
-          "text": "a plan for the future",
-          "text_translation": "một kế hoạch tương lai"
+          "text": "a plan for what she will do tomorrow",
+          "text_translation": "một kế hoạch cho việc cô sẽ làm ngày mai"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "a habit in the past",
-            "vi": "một thói quen trong quá khứ"
+            "en": "something that she used to do every week",
+            "vi": "một việc cô từng làm mỗi tuần"
           },
           "is_correct": false,
           "order": 1,
-          "text": "a habit in the past",
-          "text_translation": "một thói quen trong quá khứ"
+          "text": "something that she used to do every week",
+          "text_translation": "một việc cô từng làm mỗi tuần"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "a rule that is always true",
-            "vi": "một quy luật luôn đúng"
+            "en": "a general rule about how busy couples behave",
+            "vi": "một quy tắc chung về cách các cặp đôi bận rộn cư xử"
           },
           "is_correct": false,
           "order": 2,
-          "text": "a rule that is always true",
-          "text_translation": "một quy luật luôn đúng"
+          "text": "a general rule about how busy couples behave",
+          "text_translation": "một quy tắc chung về cách các cặp đôi bận rộn cư xử"
         },
         {
           "id": "D",
@@ -996,46 +996,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "that she and Ethan are growing apart because they rarely see each other",
-            "vi": "rằng cô và Ethan đang xa nhau dần vì hiếm khi gặp nhau"
+            "en": "that she and Ethan are growing apart because they rarely meet",
+            "vi": "rằng cô và Ethan đang xa nhau dần vì hiếm khi gặp"
           },
           "is_correct": true,
           "order": 0,
-          "text": "that she and Ethan are growing apart because they rarely see each other",
-          "text_translation": "rằng cô và Ethan đang xa nhau dần vì hiếm khi gặp nhau"
+          "text": "that she and Ethan are growing apart because they rarely meet",
+          "text_translation": "rằng cô và Ethan đang xa nhau dần vì hiếm khi gặp"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "that she will lose her job",
-            "vi": "rằng cô sẽ mất việc"
+            "en": "that she will lose her job if she keeps making mistakes",
+            "vi": "rằng cô sẽ mất việc nếu cứ mắc lỗi"
           },
           "is_correct": false,
           "order": 1,
-          "text": "that she will lose her job",
-          "text_translation": "rằng cô sẽ mất việc"
+          "text": "that she will lose her job if she keeps making mistakes",
+          "text_translation": "rằng cô sẽ mất việc nếu cứ mắc lỗi"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "that Chloe is angry with her",
-            "vi": "rằng Chloe giận cô"
+            "en": "that Chloe is angry with her for calling in the middle of the night",
+            "vi": "rằng Chloe giận cô vì gọi giữa đêm"
           },
           "is_correct": false,
           "order": 2,
-          "text": "that Chloe is angry with her",
-          "text_translation": "rằng Chloe giận cô"
+          "text": "that Chloe is angry with her for calling in the middle of the night",
+          "text_translation": "rằng Chloe giận cô vì gọi giữa đêm"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "that Ethan has a new girlfriend",
-            "vi": "rằng Ethan có bạn gái mới"
+            "en": "that Ethan has found a new girlfriend who has more free time",
+            "vi": "rằng Ethan đã có bạn gái mới rảnh rỗi hơn"
           },
           "is_correct": false,
           "order": 3,
-          "text": "that Ethan has a new girlfriend",
-          "text_translation": "rằng Ethan có bạn gái mới"
+          "text": "that Ethan has found a new girlfriend who has more free time",
+          "text_translation": "rằng Ethan đã có bạn gái mới rảnh rỗi hơn"
         }
       ],
       "evidence_segments": [
@@ -1064,24 +1064,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They don't love each other.",
-            "vi": "Hai người không yêu nhau."
+            "en": "They have stopped loving each other since the missed dinner.",
+            "vi": "Hai người đã hết yêu nhau từ sau bữa tối bị lỡ."
           },
           "is_correct": false,
           "order": 0,
-          "text": "They don't love each other.",
-          "text_translation": "Hai người không yêu nhau."
+          "text": "They have stopped loving each other since the missed dinner.",
+          "text_translation": "Hai người đã hết yêu nhau từ sau bữa tối bị lỡ."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "They are not compatible.",
-            "vi": "Hai người không hợp nhau."
+            "en": "They are not compatible, because they both work too hard.",
+            "vi": "Hai người không hợp nhau, vì cả hai đều làm việc quá sức."
           },
           "is_correct": false,
           "order": 1,
-          "text": "They are not compatible.",
-          "text_translation": "Hai người không hợp nhau."
+          "text": "They are not compatible, because they both work too hard.",
+          "text_translation": "Hai người không hợp nhau, vì cả hai đều làm việc quá sức."
         },
         {
           "id": "C",
@@ -1097,13 +1097,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "Ethan doesn't like Italian food.",
-            "vi": "Ethan không thích đồ Ý."
+            "en": "Ethan doesn't like Italian food or restaurants by the harbor.",
+            "vi": "Ethan không thích đồ Ý hay các nhà hàng bên bến cảng."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Ethan doesn't like Italian food.",
-          "text_translation": "Ethan không thích đồ Ý."
+          "text": "Ethan doesn't like Italian food or restaurants by the harbor.",
+          "text_translation": "Ethan không thích đồ Ý hay các nhà hàng bên bến cảng."
         }
       ],
       "evidence_segments": [
@@ -1132,13 +1132,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Dustin doesn't have a phone.",
-            "vi": "Vì Dustin không có điện thoại."
+            "en": "Dustin does not own a phone, so they have to speak face to face.",
+            "vi": "Vì Dustin không có điện thoại nên hai người phải nói chuyện trực tiếp."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Dustin doesn't have a phone.",
-          "text_translation": "Vì Dustin không có điện thoại."
+          "text": "Dustin does not own a phone, so they have to speak face to face.",
+          "text_translation": "Vì Dustin không có điện thoại nên hai người phải nói chuyện trực tiếp."
         },
         {
           "id": "B",
@@ -1154,24 +1154,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Texting is too expensive.",
-            "vi": "Vì nhắn tin quá đắt."
+            "en": "Texting is too expensive for two people with their salaries.",
+            "vi": "Vì nhắn tin quá đắt với mức lương của hai người."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Texting is too expensive.",
-          "text_translation": "Vì nhắn tin quá đắt."
+          "text": "Texting is too expensive for two people with their salaries.",
+          "text_translation": "Vì nhắn tin quá đắt với mức lương của hai người."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "They live in different cities.",
-            "vi": "Vì hai người sống ở hai thành phố."
+            "en": "They work in different cities and talk on the phone every day.",
+            "vi": "Vì hai người làm việc ở hai thành phố và ngày nào cũng gọi điện."
           },
           "is_correct": false,
           "order": 3,
-          "text": "They live in different cities.",
-          "text_translation": "Vì hai người sống ở hai thành phố."
+          "text": "They work in different cities and talk on the phone every day.",
+          "text_translation": "Vì hai người làm việc ở hai thành phố và ngày nào cũng gọi điện."
         }
       ],
       "evidence_segments": [
@@ -1200,46 +1200,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "apologize in person and choose one evening a week together",
-            "vi": "xin lỗi trực tiếp và cùng chọn một buổi tối mỗi tuần"
+            "en": "apologize in person and choose one evening each week",
+            "vi": "xin lỗi trực tiếp và chọn một buổi tối mỗi tuần"
           },
           "is_correct": true,
           "order": 0,
-          "text": "apologize in person and choose one evening a week together",
-          "text_translation": "xin lỗi trực tiếp và cùng chọn một buổi tối mỗi tuần"
+          "text": "apologize in person and choose one evening each week",
+          "text_translation": "xin lỗi trực tiếp và chọn một buổi tối mỗi tuần"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "send Ethan a long message",
-            "vi": "gửi cho Ethan một tin nhắn dài"
+            "en": "send Ethan a long message that explains her shift in detail",
+            "vi": "gửi Ethan một tin nhắn dài giải thích ca trực của cô"
           },
           "is_correct": false,
           "order": 1,
-          "text": "send Ethan a long message",
-          "text_translation": "gửi cho Ethan một tin nhắn dài"
+          "text": "send Ethan a long message that explains her shift in detail",
+          "text_translation": "gửi Ethan một tin nhắn dài giải thích ca trực của cô"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "stop working extra shifts forever",
-            "vi": "thôi trực thêm ca mãi mãi"
+            "en": "ask her boss to move her to a job with no night shifts",
+            "vi": "xin sếp chuyển sang việc không phải trực đêm"
           },
           "is_correct": false,
           "order": 2,
-          "text": "stop working extra shifts forever",
-          "text_translation": "thôi trực thêm ca mãi mãi"
+          "text": "ask her boss to move her to a job with no night shifts",
+          "text_translation": "xin sếp chuyển sang việc không phải trực đêm"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "wait for Ethan to call",
-            "vi": "chờ Ethan gọi"
+            "en": "wait for Ethan to call her when he is ready to talk",
+            "vi": "chờ Ethan gọi khi anh sẵn sàng nói chuyện"
           },
           "is_correct": false,
           "order": 3,
-          "text": "wait for Ethan to call",
-          "text_translation": "chờ Ethan gọi"
+          "text": "wait for Ethan to call her when he is ready to talk",
+          "text_translation": "chờ Ethan gọi khi anh sẵn sàng nói chuyện"
         }
       ],
       "evidence_segments": [
@@ -1269,24 +1269,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The plan is too complicated.",
-            "vi": "Kế hoạch quá phức tạp."
+            "en": "The plan is too complicated for two people with such busy schedules.",
+            "vi": "Kế hoạch quá phức tạp với hai người có lịch bận như vậy."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The plan is too complicated.",
-          "text_translation": "Kế hoạch quá phức tạp."
+          "text": "The plan is too complicated for two people with such busy schedules.",
+          "text_translation": "Kế hoạch quá phức tạp với hai người có lịch bận như vậy."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Leah should give up.",
-            "vi": "Leah nên từ bỏ."
+            "en": "Leah should give up on the idea of a weekly evening.",
+            "vi": "Leah nên từ bỏ ý định có một buổi tối mỗi tuần."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Leah should give up.",
-          "text_translation": "Leah nên từ bỏ."
+          "text": "Leah should give up on the idea of a weekly evening.",
+          "text_translation": "Leah nên từ bỏ ý định có một buổi tối mỗi tuần."
         },
         {
           "id": "C",
@@ -1302,13 +1302,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "Chloe doesn't understand Leah's problem.",
-            "vi": "Chloe không hiểu vấn đề của Leah."
+            "en": "Chloe doesn't understand how hard Leah's problem really is.",
+            "vi": "Chloe không hiểu vấn đề của Leah khó đến mức nào."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Chloe doesn't understand Leah's problem.",
-          "text_translation": "Chloe không hiểu vấn đề của Leah."
+          "text": "Chloe doesn't understand how hard Leah's problem really is.",
+          "text_translation": "Chloe không hiểu vấn đề của Leah khó đến mức nào."
         }
       ],
       "evidence_segments": [
@@ -1337,46 +1337,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "how to get an A in every subject",
-            "vi": "cách đạt điểm A mọi môn"
+            "en": "how students can get an A in every subject with less study",
+            "vi": "cách học sinh đạt điểm A mọi môn mà học ít hơn"
           },
           "is_correct": false,
           "order": 0,
-          "text": "how to get an A in every subject",
-          "text_translation": "cách đạt điểm A mọi môn"
+          "text": "how students can get an A in every subject with less study",
+          "text_translation": "cách học sinh đạt điểm A mọi môn mà học ít hơn"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "whether grades help students learn, and different views on the question",
-            "vi": "điểm số có giúp học sinh học tốt không, và các quan điểm khác nhau"
+            "en": "whether grades help students learn, and what different people think",
+            "vi": "điểm số có giúp học sinh học tốt không, và mỗi người nghĩ gì"
           },
           "is_correct": true,
           "order": 1,
-          "text": "whether grades help students learn, and different views on the question",
-          "text_translation": "điểm số có giúp học sinh học tốt không, và các quan điểm khác nhau"
+          "text": "whether grades help students learn, and what different people think",
+          "text_translation": "điểm số có giúp học sinh học tốt không, và mỗi người nghĩ gì"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "the life of Ruth Butler",
-            "vi": "cuộc đời Ruth Butler"
+            "en": "the life and career of the psychologist Ruth Butler in Israel",
+            "vi": "cuộc đời và sự nghiệp của nhà tâm lý học Ruth Butler ở Israel"
           },
           "is_correct": false,
           "order": 2,
-          "text": "the life of Ruth Butler",
-          "text_translation": "cuộc đời Ruth Butler"
+          "text": "the life and career of the psychologist Ruth Butler in Israel",
+          "text_translation": "cuộc đời và sự nghiệp của nhà tâm lý học Ruth Butler ở Israel"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "why colleges should stop using grades",
-            "vi": "vì sao đại học nên thôi dùng điểm"
+            "en": "why colleges and employers should stop using grades",
+            "vi": "vì sao đại học và nhà tuyển dụng nên thôi dùng điểm"
           },
           "is_correct": false,
           "order": 3,
-          "text": "why colleges should stop using grades",
-          "text_translation": "vì sao đại học nên thôi dùng điểm"
+          "text": "why colleges and employers should stop using grades",
+          "text_translation": "vì sao đại học và nhà tuyển dụng nên thôi dùng điểm"
         }
       ],
       "evidence_segments": [
@@ -1405,46 +1405,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "into boys and girls",
-            "vi": "theo trai và gái"
+            "en": "into two groups, one of boys and one of girls",
+            "vi": "thành hai nhóm, một nhóm nam và một nhóm nữ"
           },
           "is_correct": false,
           "order": 0,
-          "text": "into boys and girls",
-          "text_translation": "theo trai và gái"
+          "text": "into two groups, one of boys and one of girls",
+          "text_translation": "thành hai nhóm, một nhóm nam và một nhóm nữ"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "into two groups by age",
-            "vi": "thành hai nhóm theo tuổi"
+            "en": "into four groups, according to their age and their earlier results",
+            "vi": "thành bốn nhóm, theo tuổi và kết quả trước đó"
           },
           "is_correct": false,
           "order": 1,
-          "text": "into two groups by age",
-          "text_translation": "thành hai nhóm theo tuổi"
+          "text": "into four groups, according to their age and their earlier results",
+          "text_translation": "thành bốn nhóm, theo tuổi và kết quả trước đó"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "by their earlier grades",
-            "vi": "theo điểm trước đó"
+            "en": "according to the grades they had received in earlier tests",
+            "vi": "theo điểm họ đã nhận trong các bài kiểm tra trước"
           },
           "is_correct": false,
           "order": 2,
-          "text": "by their earlier grades",
-          "text_translation": "theo điểm trước đó"
+          "text": "according to the grades they had received in earlier tests",
+          "text_translation": "theo điểm họ đã nhận trong các bài kiểm tra trước"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "into three groups: comments only, grades only, and both",
-            "vi": "thành ba nhóm: chỉ nhận xét, chỉ điểm, và cả hai"
+            "en": "into three groups: comments only, grades only, or both",
+            "vi": "thành ba nhóm: chỉ nhận xét, chỉ điểm, hoặc cả hai"
           },
           "is_correct": true,
           "order": 3,
-          "text": "into three groups: comments only, grades only, and both",
-          "text_translation": "thành ba nhóm: chỉ nhận xét, chỉ điểm, và cả hai"
+          "text": "into three groups: comments only, grades only, or both",
+          "text_translation": "thành ba nhóm: chỉ nhận xét, chỉ điểm, hoặc cả hai"
         }
       ],
       "evidence_segments": [
@@ -1541,24 +1541,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Their comments were too short.",
-            "vi": "Vì lời nhận xét quá ngắn."
+            "en": "Their comments were so short that nobody understood them.",
+            "vi": "Vì lời nhận xét ngắn đến mức chẳng ai hiểu."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Their comments were too short.",
-          "text_translation": "Vì lời nhận xét quá ngắn."
+          "text": "Their comments were so short that nobody understood them.",
+          "text_translation": "Vì lời nhận xét ngắn đến mức chẳng ai hiểu."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Their tasks were harder.",
-            "vi": "Vì bài của họ khó hơn."
+            "en": "Their tasks were harder than those of the other groups.",
+            "vi": "Vì bài của họ khó hơn bài của các nhóm khác."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Their tasks were harder.",
-          "text_translation": "Vì bài của họ khó hơn."
+          "text": "Their tasks were harder than those of the other groups.",
+          "text_translation": "Vì bài của họ khó hơn bài của các nhóm khác."
         },
         {
           "id": "C",
@@ -1574,13 +1574,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "They didn't receive any grades.",
-            "vi": "Vì họ không nhận được điểm nào."
+            "en": "They didn't receive any grades, so they worked less hard.",
+            "vi": "Vì họ không nhận điểm nào nên làm việc kém chăm chỉ hơn."
           },
           "is_correct": false,
           "order": 3,
-          "text": "They didn't receive any grades.",
-          "text_translation": "Vì họ không nhận được điểm nào."
+          "text": "They didn't receive any grades, so they worked less hard.",
+          "text_translation": "Vì họ không nhận điểm nào nên làm việc kém chăm chỉ hơn."
         }
       ],
       "evidence_segments": [
@@ -1609,13 +1609,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Students who like numbers are better at math.",
-            "vi": "Học sinh thích con số thì giỏi toán hơn."
+            "en": "Students who like numbers a lot are usually better at math and science.",
+            "vi": "Học sinh rất thích con số thường giỏi toán và khoa học hơn."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Students who like numbers are better at math.",
-          "text_translation": "Học sinh thích con số thì giỏi toán hơn."
+          "text": "Students who like numbers a lot are usually better at math and science.",
+          "text_translation": "Học sinh rất thích con số thường giỏi toán và khoa học hơn."
         },
         {
           "id": "B",
@@ -1631,24 +1631,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Students should pay more attention in class.",
-            "vi": "Học sinh nên chú ý hơn trong lớp."
+            "en": "Students should pay more attention to the teacher in class.",
+            "vi": "Học sinh nên chú ý đến giáo viên nhiều hơn trong lớp."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Students should pay more attention in class.",
-          "text_translation": "Học sinh nên chú ý hơn trong lớp."
+          "text": "Students should pay more attention to the teacher in class.",
+          "text_translation": "Học sinh nên chú ý đến giáo viên nhiều hơn trong lớp."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Grades help students improve quickly.",
-            "vi": "Điểm số giúp học sinh tiến bộ nhanh."
+            "en": "Grades help students improve quickly because they are so clear.",
+            "vi": "Điểm số giúp học sinh tiến bộ nhanh vì rất rõ ràng."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Grades help students improve quickly.",
-          "text_translation": "Điểm số giúp học sinh tiến bộ nhanh."
+          "text": "Grades help students improve quickly because they are so clear.",
+          "text_translation": "Điểm số giúp học sinh tiến bộ nhanh vì rất rõ ràng."
         }
       ],
       "evidence_segments": [
@@ -1677,35 +1677,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Easy subjects are more interesting.",
-            "vi": "Vì môn dễ thú vị hơn."
+            "en": "Easy subjects are more interesting, so students choose them first.",
+            "vi": "Vì môn dễ thú vị hơn nên học sinh chọn chúng trước."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Easy subjects are more interesting.",
-          "text_translation": "Vì môn dễ thú vị hơn."
+          "text": "Easy subjects are more interesting, so students choose them first.",
+          "text_translation": "Vì môn dễ thú vị hơn nên học sinh chọn chúng trước."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Teachers prefer easy subjects.",
-            "vi": "Vì giáo viên thích môn dễ."
+            "en": "Teachers prefer to teach easy subjects to large classes.",
+            "vi": "Vì giáo viên thích dạy môn dễ cho lớp đông."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Teachers prefer easy subjects.",
-          "text_translation": "Vì giáo viên thích môn dễ."
+          "text": "Teachers prefer to teach easy subjects to large classes.",
+          "text_translation": "Vì giáo viên thích dạy môn dễ cho lớp đông."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Colleges only accept easy subjects.",
-            "vi": "Vì đại học chỉ nhận môn dễ."
+            "en": "Colleges only accept students who chose the easy subjects.",
+            "vi": "Vì đại học chỉ nhận học sinh đã chọn môn dễ."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Colleges only accept easy subjects.",
-          "text_translation": "Vì đại học chỉ nhận môn dễ."
+          "text": "Colleges only accept students who chose the easy subjects.",
+          "text_translation": "Vì đại học chỉ nhận học sinh đã chọn môn dễ."
         },
         {
           "id": "D",
@@ -1756,35 +1756,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "Grades make students ignore comments.",
-            "vi": "Điểm số khiến học sinh bỏ qua nhận xét."
+            "en": "Grades make students ignore the comments on their work.",
+            "vi": "Điểm số khiến học sinh bỏ qua nhận xét trên bài làm."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Grades make students ignore comments.",
-          "text_translation": "Điểm số khiến học sinh bỏ qua nhận xét."
+          "text": "Grades make students ignore the comments on their work.",
+          "text_translation": "Điểm số khiến học sinh bỏ qua nhận xét trên bài làm."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Grades push students toward easy choices.",
-            "vi": "Điểm số đẩy học sinh tới lựa chọn dễ dãi."
+            "en": "Grades push students toward easy choices in their courses.",
+            "vi": "Điểm số đẩy học sinh tới những lựa chọn dễ dãi trong khoá học."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Grades push students toward easy choices.",
-          "text_translation": "Điểm số đẩy học sinh tới lựa chọn dễ dãi."
+          "text": "Grades push students toward easy choices in their courses.",
+          "text_translation": "Điểm số đẩy học sinh tới những lựa chọn dễ dãi trong khoá học."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Grades stop students from improving.",
-            "vi": "Điểm số làm học sinh không tiến bộ."
+            "en": "Grades stop students from improving their work over time.",
+            "vi": "Điểm số khiến học sinh không cải thiện bài làm theo thời gian."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Grades stop students from improving.",
-          "text_translation": "Điểm số làm học sinh không tiến bộ."
+          "text": "Grades stop students from improving their work over time.",
+          "text_translation": "Điểm số khiến học sinh không cải thiện bài làm theo thời gian."
         }
       ],
       "evidence_segments": [
@@ -1813,24 +1813,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to show that Butler's study was wrong",
-            "vi": "để cho thấy nghiên cứu của Butler sai"
+            "en": "to show that Butler's study was badly planned and should be ignored",
+            "vi": "để cho thấy nghiên cứu của Butler được thiết kế tệ và nên bị bỏ qua"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to show that Butler's study was wrong",
-          "text_translation": "để cho thấy nghiên cứu của Butler sai"
+          "text": "to show that Butler's study was badly planned and should be ignored",
+          "text_translation": "để cho thấy nghiên cứu của Butler được thiết kế tệ và nên bị bỏ qua"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to advertise a new study",
-            "vi": "để quảng cáo một nghiên cứu mới"
+            "en": "to advertise a new study that will be published soon",
+            "vi": "để quảng cáo một nghiên cứu mới sắp được công bố"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to advertise a new study",
-          "text_translation": "để quảng cáo một nghiên cứu mới"
+          "text": "to advertise a new study that will be published soon",
+          "text_translation": "để quảng cáo một nghiên cứu mới sắp được công bố"
         },
         {
           "id": "C",
@@ -1846,13 +1846,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "to say that grades are always helpful",
-            "vi": "để nói điểm số luôn có ích"
+            "en": "to say that grades are always helpful in every classroom",
+            "vi": "để nói điểm số luôn có ích trong mọi lớp học"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to say that grades are always helpful",
-          "text_translation": "để nói điểm số luôn có ích"
+          "text": "to say that grades are always helpful in every classroom",
+          "text_translation": "để nói điểm số luôn có ích trong mọi lớp học"
         }
       ],
       "evidence_segments": [
@@ -1881,13 +1881,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They give no feedback at all.",
-            "vi": "Hoàn toàn không góp ý."
+            "en": "They give no feedback at all until the end of the year.",
+            "vi": "Họ hoàn toàn không góp ý cho đến cuối năm."
           },
           "is_correct": false,
           "order": 0,
-          "text": "They give no feedback at all.",
-          "text_translation": "Hoàn toàn không góp ý."
+          "text": "They give no feedback at all until the end of the year.",
+          "text_translation": "Họ hoàn toàn không góp ý cho đến cuối năm."
         },
         {
           "id": "B",
@@ -1903,24 +1903,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "They give only grades.",
-            "vi": "Chỉ cho điểm."
+            "en": "They give only grades, and they give them very quickly.",
+            "vi": "Họ chỉ cho điểm, và cho rất nhanh."
           },
           "is_correct": false,
           "order": 2,
-          "text": "They give only grades.",
-          "text_translation": "Chỉ cho điểm."
+          "text": "They give only grades, and they give them very quickly.",
+          "text_translation": "Họ chỉ cho điểm, và cho rất nhanh."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "They let students grade themselves.",
-            "vi": "Để học sinh tự chấm."
+            "en": "They let students grade themselves before the teacher reads the work.",
+            "vi": "Họ để học sinh tự chấm trước khi giáo viên đọc bài."
           },
           "is_correct": false,
           "order": 3,
-          "text": "They let students grade themselves.",
-          "text_translation": "Để học sinh tự chấm."
+          "text": "They let students grade themselves before the teacher reads the work.",
+          "text_translation": "Họ để học sinh tự chấm trước khi giáo viên đọc bài."
         }
       ],
       "evidence_segments": [
@@ -1949,13 +1949,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "People should never use phones.",
-            "vi": "Không bao giờ nên dùng điện thoại."
+            "en": "People should never use phones, because they make students lazy.",
+            "vi": "Không bao giờ nên dùng điện thoại, vì chúng khiến học sinh lười."
           },
           "is_correct": false,
           "order": 0,
-          "text": "People should never use phones.",
-          "text_translation": "Không bao giờ nên dùng điện thoại."
+          "text": "People should never use phones, because they make students lazy.",
+          "text_translation": "Không bao giờ nên dùng điện thoại, vì chúng khiến học sinh lười."
         },
         {
           "id": "B",
@@ -1971,23 +1971,23 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Comments are always better than grades.",
-            "vi": "Nhận xét lúc nào cũng tốt hơn điểm."
+            "en": "Comments are always better than grades, and texts are always colder.",
+            "vi": "Nhận xét lúc nào cũng tốt hơn điểm, và tin nhắn lúc nào cũng lạnh lùng hơn."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Comments are always better than grades.",
-          "text_translation": "Nhận xét lúc nào cũng tốt hơn điểm."
+          "text": "Comments are always better than grades, and texts are always colder.",
+          "text_translation": "Nhận xét lúc nào cũng tốt hơn điểm, và tin nhắn lúc nào cũng lạnh lùng hơn."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The way that a message is given can change how people react to it.",
+            "en": "The way a message is given can change how people react to it.",
             "vi": "Cách truyền đạt một thông điệp có thể làm thay đổi cách người ta phản ứng."
           },
           "is_correct": true,
           "order": 3,
-          "text": "The way that a message is given can change how people react to it.",
+          "text": "The way a message is given can change how people react to it.",
           "text_translation": "Cách truyền đạt một thông điệp có thể làm thay đổi cách người ta phản ứng."
         }
       ],

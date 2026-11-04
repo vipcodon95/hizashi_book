@@ -672,13 +672,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to advertise her studio to new clients",
-            "vi": "để quảng cáo studio với khách mới"
+            "en": "to advertise her studio and its prices to new clients",
+            "vi": "để quảng cáo studio và bảng giá với khách mới"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to advertise her studio to new clients",
-          "text_translation": "để quảng cáo studio với khách mới"
+          "text": "to advertise her studio and its prices to new clients",
+          "text_translation": "để quảng cáo studio và bảng giá với khách mới"
         },
         {
           "id": "B",
@@ -694,24 +694,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "to complain about the bakery",
-            "vi": "để phàn nàn về tiệm bánh"
+            "en": "to complain that the bakery asked for too big a discount",
+            "vi": "để phàn nàn rằng tiệm bánh đòi giảm giá quá nhiều"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to complain about the bakery",
-          "text_translation": "để phàn nàn về tiệm bánh"
+          "text": "to complain that the bakery asked for too big a discount",
+          "text_translation": "để phàn nàn rằng tiệm bánh đòi giảm giá quá nhiều"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to explain how to design packaging",
-            "vi": "để giải thích cách thiết kế bao bì"
+            "en": "to explain how to design packaging for a bakery",
+            "vi": "để giải thích cách thiết kế bao bì cho một tiệm bánh"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to explain how to design packaging",
-          "text_translation": "để giải thích cách thiết kế bao bì"
+          "text": "to explain how to design packaging for a bakery",
+          "text_translation": "để giải thích cách thiết kế bao bì cho một tiệm bánh"
         }
       ],
       "evidence_segments": [
@@ -740,46 +740,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It has stayed the same.",
-            "vi": "Không đổi."
+            "en": "It has stayed about the same since she started the studio.",
+            "vi": "Gần như không đổi từ khi cô lập studio."
           },
           "is_correct": false,
           "order": 0,
-          "text": "It has stayed the same.",
-          "text_translation": "Không đổi."
+          "text": "It has stayed about the same since she started the studio.",
+          "text_translation": "Gần như không đổi từ khi cô lập studio."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "It has fallen by half.",
-            "vi": "Giảm một nửa."
+            "en": "It has fallen by half because a client left in the spring.",
+            "vi": "Giảm một nửa vì một khách hàng rời đi hồi mùa xuân."
           },
           "is_correct": false,
           "order": 1,
-          "text": "It has fallen by half.",
-          "text_translation": "Giảm một nửa."
+          "text": "It has fallen by half because a client left in the spring.",
+          "text_translation": "Giảm một nửa vì một khách hàng rời đi hồi mùa xuân."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "It is twice as high as two years ago.",
-            "vi": "Cao gấp đôi hai năm trước."
+            "en": "It is exactly twice as high as it was two years ago.",
+            "vi": "Cao đúng gấp đôi so với hai năm trước."
           },
           "is_correct": false,
           "order": 2,
-          "text": "It is twice as high as two years ago.",
-          "text_translation": "Cao gấp đôi hai năm trước."
+          "text": "It is exactly twice as high as it was two years ago.",
+          "text_translation": "Cao đúng gấp đôi so với hai năm trước."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "It was almost twice as high in the first three months of this year as in the same period last year.",
-            "vi": "Ba tháng đầu năm nay cao gần gấp đôi cùng kỳ năm ngoái."
+            "en": "It was almost twice as high as in the same period last year.",
+            "vi": "Cao gần gấp đôi so với cùng kỳ năm ngoái."
           },
           "is_correct": true,
           "order": 3,
-          "text": "It was almost twice as high in the first three months of this year as in the same period last year.",
-          "text_translation": "Ba tháng đầu năm nay cao gần gấp đôi cùng kỳ năm ngoái."
+          "text": "It was almost twice as high as in the same period last year.",
+          "text_translation": "Cao gần gấp đôi so với cùng kỳ năm ngoái."
         }
       ],
       "evidence_segments": [
@@ -819,35 +819,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "Chloe will open the studio in June.",
-            "vi": "Chloe sẽ mở studio vào tháng Sáu."
+            "en": "Chloe will open the studio in June, after a year and a half of planning.",
+            "vi": "Chloe sẽ mở studio vào tháng Sáu sau một năm rưỡi chuẩn bị."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Chloe will open the studio in June.",
-          "text_translation": "Chloe sẽ mở studio vào tháng Sáu."
+          "text": "Chloe will open the studio in June, after a year and a half of planning.",
+          "text_translation": "Chloe sẽ mở studio vào tháng Sáu sau một năm rưỡi chuẩn bị."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Chloe stopped running the studio in June.",
-            "vi": "Chloe thôi điều hành studio vào tháng Sáu."
+            "en": "Chloe stopped running the studio in June after a year and a half.",
+            "vi": "Chloe thôi điều hành studio vào tháng Sáu sau một năm rưỡi."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Chloe stopped running the studio in June.",
-          "text_translation": "Chloe thôi điều hành studio vào tháng Sáu."
+          "text": "Chloe stopped running the studio in June after a year and a half.",
+          "text_translation": "Chloe thôi điều hành studio vào tháng Sáu sau một năm rưỡi."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The studio will close in a year and a half.",
-            "vi": "Studio sẽ đóng cửa sau một năm rưỡi."
+            "en": "The studio will close in a year and a half if it does not find clients.",
+            "vi": "Studio sẽ đóng cửa sau một năm rưỡi nếu không tìm được khách."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The studio will close in a year and a half.",
-          "text_translation": "Studio sẽ đóng cửa sau một năm rưỡi."
+          "text": "The studio will close in a year and a half if it does not find clients.",
+          "text_translation": "Studio sẽ đóng cửa sau một năm rưỡi nếu không tìm được khách."
         }
       ],
       "evidence_segments": [
@@ -876,46 +876,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "a manager from the bakery",
-            "vi": "một quản lý của tiệm bánh"
+            "en": "a manager from the bakery in Oregon who runs six of its shops",
+            "vi": "một quản lý của tiệm bánh ở Oregon đang điều hành sáu cửa hàng"
           },
           "is_correct": false,
           "order": 0,
-          "text": "a manager from the bakery",
-          "text_translation": "một quản lý của tiệm bánh"
+          "text": "a manager from the bakery in Oregon who runs six of its shops",
+          "text_translation": "một quản lý của tiệm bánh ở Oregon đang điều hành sáu cửa hàng"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Harriet",
-            "vi": "bà Harriet"
+            "en": "Harriet, the owner of the café on Maple Street",
+            "vi": "bà Harriet, chủ quán cà phê trên phố Maple"
           },
           "is_correct": false,
           "order": 1,
-          "text": "Harriet",
-          "text_translation": "bà Harriet"
+          "text": "Harriet, the owner of the café on Maple Street",
+          "text_translation": "bà Harriet, chủ quán cà phê trên phố Maple"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Ruby, who has been working at Harriet's while finishing a design course",
+            "en": "Ruby, who has been working at Harriet's while finishing her course",
             "vi": "Ruby, người vừa làm ở quán Harriet's vừa học xong khoá thiết kế"
           },
           "is_correct": true,
           "order": 2,
-          "text": "Ruby, who has been working at Harriet's while finishing a design course",
+          "text": "Ruby, who has been working at Harriet's while finishing her course",
           "text_translation": "Ruby, người vừa làm ở quán Harriet's vừa học xong khoá thiết kế"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "a full-time salesperson",
-            "vi": "một nhân viên bán hàng toàn thời gian"
+            "en": "a full-time salesperson who has worked for the bakery before",
+            "vi": "một nhân viên bán hàng toàn thời gian từng làm cho tiệm bánh"
           },
           "is_correct": false,
           "order": 3,
-          "text": "a full-time salesperson",
-          "text_translation": "một nhân viên bán hàng toàn thời gian"
+          "text": "a full-time salesperson who has worked for the bakery before",
+          "text_translation": "một nhân viên bán hàng toàn thời gian từng làm cho tiệm bánh"
         }
       ],
       "evidence_segments": [
@@ -944,13 +944,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She wants to spend as much as possible.",
-            "vi": "Cô muốn tiêu càng nhiều càng tốt."
+            "en": "She wants to spend as much money as possible on staff.",
+            "vi": "Cô muốn chi càng nhiều tiền càng tốt cho nhân viên."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She wants to spend as much as possible.",
-          "text_translation": "Cô muốn tiêu càng nhiều càng tốt."
+          "text": "She wants to spend as much money as possible on staff.",
+          "text_translation": "Cô muốn chi càng nhiều tiền càng tốt cho nhân viên."
         },
         {
           "id": "B",
@@ -966,24 +966,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "She doesn't care about money.",
-            "vi": "Cô không quan tâm tới tiền."
+            "en": "She doesn't care about money, only about hiring her friends.",
+            "vi": "Cô không quan tâm tiền bạc, chỉ muốn thuê bạn bè."
           },
           "is_correct": false,
           "order": 2,
-          "text": "She doesn't care about money.",
-          "text_translation": "Cô không quan tâm tới tiền."
+          "text": "She doesn't care about money, only about hiring her friends.",
+          "text_translation": "Cô không quan tâm tiền bạc, chỉ muốn thuê bạn bè."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Ruby's work isn't good.",
-            "vi": "Ruby làm không tốt."
+            "en": "Ruby's work isn't good, so she has to pay more for it.",
+            "vi": "Ruby làm không tốt nên cô phải trả thêm tiền."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Ruby's work isn't good.",
-          "text_translation": "Ruby làm không tốt."
+          "text": "Ruby's work isn't good, so she has to pay more for it.",
+          "text_translation": "Ruby làm không tốt nên cô phải trả thêm tiền."
         }
       ],
       "evidence_segments": [
@@ -1080,46 +1080,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "a free bakery shop",
-            "vi": "một tiệm bánh miễn phí"
+            "en": "a free year of coffee, bread and cakes for the whole studio team",
+            "vi": "một năm cà phê, bánh mì và bánh ngọt miễn phí cho cả nhóm"
           },
           "is_correct": false,
           "order": 0,
-          "text": "a free bakery shop",
-          "text_translation": "một tiệm bánh miễn phí"
+          "text": "a free year of coffee, bread and cakes for the whole studio team",
+          "text_translation": "một năm cà phê, bánh mì và bánh ngọt miễn phí cho cả nhóm"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Ruby's wages",
-            "vi": "tiền lương cho Ruby"
+            "en": "a payment for Ruby's wages for the first year",
+            "vi": "một khoản trả lương cho Ruby trong năm đầu"
           },
           "is_correct": false,
           "order": 1,
-          "text": "Ruby's wages",
-          "text_translation": "tiền lương cho Ruby"
+          "text": "a payment for Ruby's wages for the first year",
+          "text_translation": "một khoản trả lương cho Ruby trong năm đầu"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "six new clients",
-            "vi": "sáu khách hàng mới"
+            "en": "six new clients from the bakery's other shops",
+            "vi": "sáu khách hàng mới từ các cửa hàng khác của tiệm bánh"
           },
           "is_correct": false,
           "order": 2,
-          "text": "six new clients",
-          "text_translation": "sáu khách hàng mới"
+          "text": "six new clients from the bakery's other shops",
+          "text_translation": "sáu khách hàng mới từ các cửa hàng khác của tiệm bánh"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "a two-year contract and permission to show the work in her portfolio",
-            "vi": "hợp đồng hai năm và được đưa sản phẩm vào hồ sơ năng lực"
+            "en": "a two-year contract and the right to show the work in her portfolio",
+            "vi": "hợp đồng hai năm và quyền đưa sản phẩm vào hồ sơ năng lực"
           },
           "is_correct": true,
           "order": 3,
-          "text": "a two-year contract and permission to show the work in her portfolio",
-          "text_translation": "hợp đồng hai năm và được đưa sản phẩm vào hồ sơ năng lực"
+          "text": "a two-year contract and the right to show the work in her portfolio",
+          "text_translation": "hợp đồng hai năm và quyền đưa sản phẩm vào hồ sơ năng lực"
         }
       ],
       "evidence_segments": [
@@ -1148,24 +1148,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because the bakery has already ended the contract",
-            "vi": "vì tiệm bánh đã chấm dứt hợp đồng"
+            "en": "because the bakery has already ended its contract with the studio",
+            "vi": "vì tiệm bánh đã chấm dứt hợp đồng với studio"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because the bakery has already ended the contract",
-          "text_translation": "vì tiệm bánh đã chấm dứt hợp đồng"
+          "text": "because the bakery has already ended its contract with the studio",
+          "text_translation": "vì tiệm bánh đã chấm dứt hợp đồng với studio"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because Ruby asked her to",
-            "vi": "vì Ruby yêu cầu"
+            "en": "because Ruby asked her to find clients for the studio",
+            "vi": "vì Ruby yêu cầu cô tìm khách cho studio"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because Ruby asked her to",
-          "text_translation": "vì Ruby yêu cầu"
+          "text": "because Ruby asked her to find clients for the studio",
+          "text_translation": "vì Ruby yêu cầu cô tìm khách cho studio"
         },
         {
           "id": "C",
@@ -1181,13 +1181,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "so that she can stop working",
-            "vi": "để cô thôi làm việc"
+            "en": "so that she can stop working and enjoy the summer",
+            "vi": "để cô thôi làm việc và tận hưởng mùa hè"
           },
           "is_correct": false,
           "order": 3,
-          "text": "so that she can stop working",
-          "text_translation": "để cô thôi làm việc"
+          "text": "so that she can stop working and enjoy the summer",
+          "text_translation": "để cô thôi làm việc và tận hưởng mùa hè"
         }
       ],
       "evidence_segments": [
@@ -1228,13 +1228,13 @@
         {
           "id": "B",
           "i18n": {
-            "en": "very eager to become as big as possible",
-            "vi": "rất háo hức trở nên lớn nhất có thể"
+            "en": "very eager to become as big as possible as quickly as she can",
+            "vi": "rất háo hức trở nên lớn nhất có thể càng nhanh càng tốt"
           },
           "is_correct": false,
           "order": 1,
-          "text": "very eager to become as big as possible",
-          "text_translation": "rất háo hức trở nên lớn nhất có thể"
+          "text": "very eager to become as big as possible as quickly as she can",
+          "text_translation": "rất háo hức trở nên lớn nhất có thể càng nhanh càng tốt"
         },
         {
           "id": "C",
@@ -1285,24 +1285,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She has sold the studio.",
-            "vi": "Cô đã bán studio."
+            "en": "She has sold the studio to a bigger company and now works for it.",
+            "vi": "Cô đã bán studio cho công ty lớn hơn và giờ làm cho họ."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She has sold the studio.",
-          "text_translation": "Cô đã bán studio."
+          "text": "She has sold the studio to a bigger company and now works for it.",
+          "text_translation": "Cô đã bán studio cho công ty lớn hơn và giờ làm cho họ."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She now works for a big company.",
-            "vi": "Giờ cô làm cho một công ty lớn."
+            "en": "She now works for a big company that Ruby owns.",
+            "vi": "Giờ cô làm cho một công ty lớn của Ruby."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She now works for a big company.",
-          "text_translation": "Giờ cô làm cho một công ty lớn."
+          "text": "She now works for a big company that Ruby owns.",
+          "text_translation": "Giờ cô làm cho một công ty lớn của Ruby."
         },
         {
           "id": "C",
@@ -1318,13 +1318,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "She wants to stop designing.",
-            "vi": "Cô muốn thôi thiết kế."
+            "en": "She wants to stop designing and manage other people.",
+            "vi": "Cô muốn thôi thiết kế và chuyển sang quản lý người khác."
           },
           "is_correct": false,
           "order": 3,
-          "text": "She wants to stop designing.",
-          "text_translation": "Cô muốn thôi thiết kế."
+          "text": "She wants to stop designing and manage other people.",
+          "text_translation": "Cô muốn thôi thiết kế và chuyển sang quản lý người khác."
         }
       ],
       "evidence_segments": [
@@ -1353,46 +1353,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to tell readers where to buy cheap coffee",
-            "vi": "để chỉ chỗ mua cà phê rẻ"
+            "en": "to tell readers where to buy cheap coffee in their town",
+            "vi": "để chỉ cho người đọc chỗ mua cà phê rẻ trong thành phố"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to tell readers where to buy cheap coffee",
-          "text_translation": "để chỉ chỗ mua cà phê rẻ"
+          "text": "to tell readers where to buy cheap coffee in their town",
+          "text_translation": "để chỉ cho người đọc chỗ mua cà phê rẻ trong thành phố"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to complain about Harriet's prices",
-            "vi": "để phàn nàn về giá ở quán Harriet's"
+            "en": "to complain that Harriet's prices are higher than elsewhere",
+            "vi": "để phàn nàn giá ở quán Harriet's cao hơn nơi khác"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to complain about Harriet's prices",
-          "text_translation": "để phàn nàn về giá ở quán Harriet's"
+          "text": "to complain that Harriet's prices are higher than elsewhere",
+          "text_translation": "để phàn nàn giá ở quán Harriet's cao hơn nơi khác"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to explain what inflation is, using the price of coffee as an example",
+            "en": "to explain what inflation is, using coffee prices as an example",
             "vi": "để giải thích lạm phát là gì, lấy giá cà phê làm ví dụ"
           },
           "is_correct": true,
           "order": 2,
-          "text": "to explain what inflation is, using the price of coffee as an example",
+          "text": "to explain what inflation is, using coffee prices as an example",
           "text_translation": "để giải thích lạm phát là gì, lấy giá cà phê làm ví dụ"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to compare Brazil and Vietnam",
-            "vi": "để so sánh Brazil và Việt Nam"
+            "en": "to compare coffee farming in Brazil with coffee farming in Vietnam",
+            "vi": "để so sánh việc trồng cà phê ở Brazil với ở Việt Nam"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to compare Brazil and Vietnam",
-          "text_translation": "để so sánh Brazil và Việt Nam"
+          "text": "to compare coffee farming in Brazil with coffee farming in Vietnam",
+          "text_translation": "để so sánh việc trồng cà phê ở Brazil với ở Việt Nam"
         }
       ],
       "evidence_segments": [
@@ -1557,13 +1557,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It fell to zero.",
-            "vi": "Giảm về không."
+            "en": "It fell to zero for the first time in four decades.",
+            "vi": "Giảm về không lần đầu tiên trong bốn thập kỷ."
           },
           "is_correct": false,
           "order": 0,
-          "text": "It fell to zero.",
-          "text_translation": "Giảm về không."
+          "text": "It fell to zero for the first time in four decades.",
+          "text_translation": "Giảm về không lần đầu tiên trong bốn thập kỷ."
         },
         {
           "id": "B",
@@ -1579,24 +1579,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "It stayed at 2 percent.",
-            "vi": "Giữ ở mức 2 phần trăm."
+            "en": "It stayed at 2 percent, the level economists see as healthy.",
+            "vi": "Giữ ở mức 2 phần trăm, mức các nhà kinh tế coi là lành mạnh."
           },
           "is_correct": false,
           "order": 2,
-          "text": "It stayed at 2 percent.",
-          "text_translation": "Giữ ở mức 2 phần trăm."
+          "text": "It stayed at 2 percent, the level economists see as healthy.",
+          "text_translation": "Giữ ở mức 2 phần trăm, mức các nhà kinh tế coi là lành mạnh."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "It was the lowest in history.",
-            "vi": "Thấp nhất trong lịch sử."
+            "en": "It was the lowest level in history, thanks to cheap coffee.",
+            "vi": "Thấp nhất trong lịch sử nhờ cà phê rẻ."
           },
           "is_correct": false,
           "order": 3,
-          "text": "It was the lowest in history.",
-          "text_translation": "Thấp nhất trong lịch sử."
+          "text": "It was the lowest level in history, thanks to cheap coffee.",
+          "text_translation": "Thấp nhất trong lịch sử nhờ cà phê rẻ."
         }
       ],
       "evidence_segments": [
@@ -1625,46 +1625,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Fewer people drank coffee.",
-            "vi": "Vì ít người uống cà phê hơn."
+            "en": "Fewer people drank coffee, so farmers stopped growing it.",
+            "vi": "Vì ít người uống cà phê hơn nên nông dân thôi trồng."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Fewer people drank coffee.",
-          "text_translation": "Vì ít người uống cà phê hơn."
+          "text": "Fewer people drank coffee, so farmers stopped growing it.",
+          "text_translation": "Vì ít người uống cà phê hơn nên nông dân thôi trồng."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Shops raised their rent.",
-            "vi": "Vì cửa hàng tăng tiền thuê."
+            "en": "Shops raised their rent, so cafés had to charge more.",
+            "vi": "Vì cửa hàng tăng tiền thuê nên quán phải bán đắt hơn."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Shops raised their rent.",
-          "text_translation": "Vì cửa hàng tăng tiền thuê."
+          "text": "Shops raised their rent, so cafés had to charge more.",
+          "text_translation": "Vì cửa hàng tăng tiền thuê nên quán phải bán đắt hơn."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Long dry periods hit Brazil and Vietnam, the two biggest producers.",
+            "en": "Long dry periods hit Brazil and Vietnam, the biggest producers.",
             "vi": "Vì khô hạn kéo dài ở Brazil và Việt Nam, hai nước sản xuất lớn nhất."
           },
           "is_correct": true,
           "order": 2,
-          "text": "Long dry periods hit Brazil and Vietnam, the two biggest producers.",
+          "text": "Long dry periods hit Brazil and Vietnam, the biggest producers.",
           "text_translation": "Vì khô hạn kéo dài ở Brazil và Việt Nam, hai nước sản xuất lớn nhất."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Milk became more expensive.",
-            "vi": "Vì sữa đắt hơn."
+            "en": "Milk became more expensive, so cafés used more coffee beans.",
+            "vi": "Vì sữa đắt hơn nên các quán dùng nhiều hạt cà phê hơn."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Milk became more expensive.",
-          "text_translation": "Vì sữa đắt hơn."
+          "text": "Milk became more expensive, so cafés used more coffee beans.",
+          "text_translation": "Vì sữa đắt hơn nên các quán dùng nhiều hạt cà phê hơn."
         }
       ],
       "evidence_segments": [
@@ -1693,46 +1693,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Bad weather destroys crops.",
-            "vi": "Thời tiết xấu phá hỏng mùa màng."
+            "en": "Bad weather destroys the crops, so farmers have less to sell this year.",
+            "vi": "Thời tiết xấu phá hỏng mùa màng nên năm nay nông dân có ít hàng để bán."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Bad weather destroys crops.",
-          "text_translation": "Thời tiết xấu phá hỏng mùa màng."
+          "text": "Bad weather destroys the crops, so farmers have less to sell this year.",
+          "text_translation": "Thời tiết xấu phá hỏng mùa màng nên năm nay nông dân có ít hàng để bán."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Fuel becomes more expensive.",
-            "vi": "Nhiên liệu đắt hơn."
+            "en": "Fuel becomes more expensive and trucks cost more to run.",
+            "vi": "Nhiên liệu đắt hơn và xe tải tốn kém hơn khi chạy."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Fuel becomes more expensive.",
-          "text_translation": "Nhiên liệu đắt hơn."
+          "text": "Fuel becomes more expensive and trucks cost more to run.",
+          "text_translation": "Nhiên liệu đắt hơn và xe tải tốn kém hơn khi chạy."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Shipping is delayed.",
-            "vi": "Vận chuyển bị chậm."
+            "en": "Shipping is delayed, so goods arrive late in the shops.",
+            "vi": "Vận chuyển bị chậm nên hàng đến cửa hàng muộn."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Shipping is delayed.",
-          "text_translation": "Vận chuyển bị chậm."
+          "text": "Shipping is delayed, so goods arrive late in the shops.",
+          "text_translation": "Vận chuyển bị chậm nên hàng đến cửa hàng muộn."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Many people want to buy something faster than businesses can produce it.",
-            "vi": "Nhiều người muốn mua một thứ nhanh hơn khả năng sản xuất của doanh nghiệp."
+            "en": "Many people want to buy something faster than businesses can make it.",
+            "vi": "Nhiều người muốn mua một thứ nhanh hơn khả năng làm ra của doanh nghiệp."
           },
           "is_correct": true,
           "order": 3,
-          "text": "Many people want to buy something faster than businesses can produce it.",
-          "text_translation": "Nhiều người muốn mua một thứ nhanh hơn khả năng sản xuất của doanh nghiệp."
+          "text": "Many people want to buy something faster than businesses can make it.",
+          "text_translation": "Nhiều người muốn mua một thứ nhanh hơn khả năng làm ra của doanh nghiệp."
         }
       ],
       "evidence_segments": [
@@ -1829,46 +1829,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because taxes always rise",
-            "vi": "vì thuế luôn tăng"
+            "en": "Taxes always rise faster than pay in every region.",
+            "vi": "Vì thuế luôn tăng nhanh hơn lương ở mọi vùng."
           },
           "is_correct": false,
           "order": 0,
-          "text": "because taxes always rise",
-          "text_translation": "vì thuế luôn tăng"
+          "text": "Taxes always rise faster than pay in every region.",
+          "text_translation": "Vì thuế luôn tăng nhanh hơn lương ở mọi vùng."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because prices rise faster than your pay, so your money buys less",
-            "vi": "vì giá tăng nhanh hơn lương, nên tiền mua được ít hơn"
+            "en": "Prices rise faster than your pay, so your money buys less.",
+            "vi": "Vì giá tăng nhanh hơn lương nên tiền mua được ít hơn."
           },
           "is_correct": true,
           "order": 1,
-          "text": "because prices rise faster than your pay, so your money buys less",
-          "text_translation": "vì giá tăng nhanh hơn lương, nên tiền mua được ít hơn"
+          "text": "Prices rise faster than your pay, so your money buys less.",
+          "text_translation": "Vì giá tăng nhanh hơn lương nên tiền mua được ít hơn."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because banks keep your money",
-            "vi": "vì ngân hàng giữ tiền của bạn"
+            "en": "Banks keep part of your money when prices go up.",
+            "vi": "Vì ngân hàng giữ một phần tiền của bạn khi giá tăng."
           },
           "is_correct": false,
           "order": 2,
-          "text": "because banks keep your money",
-          "text_translation": "vì ngân hàng giữ tiền của bạn"
+          "text": "Banks keep part of your money when prices go up.",
+          "text_translation": "Vì ngân hàng giữ một phần tiền của bạn khi giá tăng."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because coffee is expensive",
-            "vi": "vì cà phê đắt"
+            "en": "Coffee is expensive, so you spend most of your pay on it.",
+            "vi": "Vì cà phê đắt nên bạn tiêu phần lớn lương vào đó."
           },
           "is_correct": false,
           "order": 3,
-          "text": "because coffee is expensive",
-          "text_translation": "vì cà phê đắt"
+          "text": "Coffee is expensive, so you spend most of your pay on it.",
+          "text_translation": "Vì cà phê đắt nên bạn tiêu phần lớn lương vào đó."
         }
       ],
       "evidence_segments": [
@@ -1897,46 +1897,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She is angry with her customers.",
-            "vi": "Bà giận khách hàng."
+            "en": "She is angry with her customers because they keep complaining about prices.",
+            "vi": "Bà giận khách vì họ cứ phàn nàn về giá."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She is angry with her customers.",
-          "text_translation": "Bà giận khách hàng."
+          "text": "She is angry with her customers because they keep complaining about prices.",
+          "text_translation": "Bà giận khách vì họ cứ phàn nàn về giá."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She plans to lower prices next month.",
-            "vi": "Bà định giảm giá tháng sau."
+            "en": "She plans to lower prices next month if the beans become cheaper.",
+            "vi": "Bà định giảm giá tháng sau nếu hạt cà phê rẻ đi."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She plans to lower prices next month.",
-          "text_translation": "Bà định giảm giá tháng sau."
+          "text": "She plans to lower prices next month if the beans become cheaper.",
+          "text_translation": "Bà định giảm giá tháng sau nếu hạt cà phê rẻ đi."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "She doesn't understand inflation.",
-            "vi": "Bà không hiểu lạm phát."
+            "en": "She doesn't understand inflation and blames the price of beans.",
+            "vi": "Bà không hiểu lạm phát và đổ lỗi cho giá hạt cà phê."
           },
           "is_correct": false,
           "order": 2,
-          "text": "She doesn't understand inflation.",
-          "text_translation": "Bà không hiểu lạm phát."
+          "text": "She doesn't understand inflation and blames the price of beans.",
+          "text_translation": "Bà không hiểu lạm phát và đổ lỗi cho giá hạt cà phê."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "She is honest with her customers and still values her friendly relationship with them.",
-            "vi": "Bà thành thật với khách và vẫn trân trọng mối quan hệ thân tình với họ."
+            "en": "She is honest with her customers and still values a friendly relationship.",
+            "vi": "Bà thành thật với khách và vẫn trân trọng mối quan hệ thân tình."
           },
           "is_correct": true,
           "order": 3,
-          "text": "She is honest with her customers and still values her friendly relationship with them.",
-          "text_translation": "Bà thành thật với khách và vẫn trân trọng mối quan hệ thân tình với họ."
+          "text": "She is honest with her customers and still values a friendly relationship.",
+          "text_translation": "Bà thành thật với khách và vẫn trân trọng mối quan hệ thân tình."
         }
       ],
       "evidence_segments": [
@@ -1965,46 +1965,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Both of them have six shops.",
-            "vi": "Cả hai đều có sáu cửa hàng."
+            "en": "Both of them own six shops and are planning to open more of them next year.",
+            "vi": "Cả hai đều có sáu cửa hàng và định mở thêm vào năm sau."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Both of them have six shops.",
-          "text_translation": "Cả hai đều có sáu cửa hàng."
+          "text": "Both of them own six shops and are planning to open more of them next year.",
+          "text_translation": "Cả hai đều có sáu cửa hàng và định mở thêm vào năm sau."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Both of them think carefully about costs and are honest about difficult decisions.",
+            "en": "Both think carefully about costs and are honest about hard decisions.",
             "vi": "Cả hai đều cân nhắc kỹ chi phí và thẳng thắn về những quyết định khó."
           },
           "is_correct": true,
           "order": 1,
-          "text": "Both of them think carefully about costs and are honest about difficult decisions.",
+          "text": "Both think carefully about costs and are honest about hard decisions.",
           "text_translation": "Cả hai đều cân nhắc kỹ chi phí và thẳng thắn về những quyết định khó."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Both of them want to grow as fast as possible.",
-            "vi": "Cả hai đều muốn mở rộng nhanh nhất có thể."
+            "en": "Both of them want their businesses to grow as fast as possible.",
+            "vi": "Cả hai đều muốn việc kinh doanh lớn nhanh nhất có thể."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Both of them want to grow as fast as possible.",
-          "text_translation": "Cả hai đều muốn mở rộng nhanh nhất có thể."
+          "text": "Both of them want their businesses to grow as fast as possible.",
+          "text_translation": "Cả hai đều muốn việc kinh doanh lớn nhanh nhất có thể."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Both of them sell coffee beans.",
-            "vi": "Cả hai đều bán hạt cà phê."
+            "en": "Both of them buy coffee beans from the same farms in Brazil.",
+            "vi": "Cả hai đều mua hạt cà phê từ cùng các trang trại ở Brazil."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Both of them sell coffee beans.",
-          "text_translation": "Cả hai đều bán hạt cà phê."
+          "text": "Both of them buy coffee beans from the same farms in Brazil.",
+          "text_translation": "Cả hai đều mua hạt cà phê từ cùng các trang trại ở Brazil."
         }
       ],
       "evidence_segments": [

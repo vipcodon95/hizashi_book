@@ -104,82 +104,82 @@
 **1. Why did Tina call Tracy?**
 *(Vì sao Tina gọi cho Tracy?)*
 
-- A. to tell her about a new friend *(để kể về một người bạn mới)*
-- B. to ask about Washington *(để hỏi về Washington)*
+- A. to tell her about a new friend from her science class *(để kể về một người bạn mới trong lớp khoa học)*
+- B. to ask what the weather is like in Washington *(để hỏi thời tiết ở Washington thế nào)*
 - C. She needed help studying for a science test. *(Vì cô bé cần giúp ôn bài kiểm tra khoa học.)*
-- D. Her mother asked her to. *(Vì mẹ bảo gọi.)*
+- D. Her mother had asked her to call because she was away. *(Vì mẹ nhờ gọi do mẹ đang đi vắng.)*
 
 **2. What kind of sentence is "I was wondering if you could help me"?**
 *(Câu "I was wondering if you could help me" thuộc loại câu nào?)*
 
 - A. a polite, indirect request *(một lời nhờ vả lịch sự, gián tiếp)*
-- B. a complaint *(một lời phàn nàn)*
-- C. a question about the past *(một câu hỏi về quá khứ)*
-- D. an order *(một mệnh lệnh)*
+- B. a complaint about too much homework *(một lời phàn nàn về quá nhiều bài tập)*
+- C. a question about something that happened yesterday *(một câu hỏi về chuyện xảy ra hôm qua)*
+- D. an order that Tracy must follow *(một mệnh lệnh mà Tracy phải làm theo)*
 
 **3. What does Tina usually do when she studies?**
 *(Tina thường ôn bài thế nào?)*
 
-- A. She tests herself. *(Tự kiểm tra.)*
-- B. She studies with friends. *(Học cùng bạn.)*
-- C. She watches videos. *(Xem video.)*
+- A. She tests herself with questions every evening. *(Tối nào cũng tự kiểm tra bằng câu hỏi.)*
+- B. She studies with friends in the school library. *(Học cùng bạn trong thư viện trường.)*
+- C. She watches online videos about the human body. *(Xem video trên mạng về cơ thể người.)*
 - D. She rereads her notes and highlights them. *(Đọc lại vở ghi và tô màu.)*
 
 **4. According to Tracy, why can rereading be misleading?**
 *(Theo Tracy, vì sao đọc lại dễ đánh lừa người học?)*
 
-- A. It takes too much time. *(Vì tốn quá nhiều thời gian.)*
-- B. The words look familiar, but recognizing them isn't the same as remembering them. *(Vì chữ trông quen, nhưng nhận ra không giống với nhớ được.)*
-- C. Notes are usually wrong. *(Vì vở ghi thường sai.)*
-- D. Teachers don't like it. *(Vì giáo viên không thích.)*
+- A. It takes much more time than other methods, and students often get bored. *(Vì tốn nhiều thời gian hơn các cách khác, và học sinh hay chán.)*
+- B. The words look familiar, but recognizing is not the same as remembering. *(Vì chữ trông quen, nhưng nhận ra không giống với nhớ được.)*
+- C. The notes are usually full of mistakes, so students learn wrong facts. *(Vì vở ghi thường đầy lỗi nên học sinh học phải điều sai.)*
+- D. Teachers don't like it and often give lower marks to students who use it. *(Vì giáo viên không thích và hay cho điểm thấp hơn với học sinh dùng nó.)*
 
 **5. What is the first study method that Tracy suggests?**
 *(Cách học đầu tiên Tracy gợi ý là gì?)*
 
-- A. writing down what you remember with your notes closed, and then checking *(gấp vở viết ra những gì nhớ được, rồi kiểm tra lại)*
-- B. highlighting in different colors *(tô bằng nhiều màu)*
-- C. reading the notes aloud *(đọc to vở ghi)*
-- D. studying all night *(học thâu đêm)*
+- A. writing down what you remember with your notes closed *(gấp vở viết ra những gì nhớ được)*
+- B. highlighting the notes in several different colors *(tô vở ghi bằng nhiều màu khác nhau)*
+- C. reading the notes aloud to a friend or family member *(đọc to vở ghi cho bạn hoặc người nhà nghe)*
+- D. studying all night and sleeping late on the test day *(học thâu đêm rồi ngủ nướng vào ngày thi)*
 
 **6. Why does Tracy say "It's harder, and that's exactly why it works"?**
 *(Vì sao Tracy nói "Cách này khó hơn, và chính vì thế mà nó hiệu quả"?)*
 
-- A. Hard methods are always better. *(Vì cách khó lúc nào cũng tốt hơn.)*
-- B. Tina likes difficult things. *(Vì Tina thích việc khó.)*
-- C. The effort of pulling information out of memory makes the memory stronger. *(Vì nỗ lực lôi thông tin ra khỏi trí nhớ làm trí nhớ chắc hơn.)*
-- D. Teachers give harder tests. *(Vì giáo viên ra đề khó hơn.)*
+- A. Hard methods are always better than easy ones for every student. *(Vì cách khó lúc nào cũng tốt hơn cách dễ với mọi học sinh.)*
+- B. Tina likes difficult things and wants to be challenged. *(Vì Tina thích việc khó và muốn được thử thách.)*
+- C. The effort of pulling things out of memory makes it stronger. *(Vì nỗ lực lôi điều đã học ra khỏi trí nhớ làm nó chắc hơn.)*
+- D. Teachers give harder tests, so students need harder methods. *(Vì giáo viên ra đề khó hơn nên học sinh cần cách khó hơn.)*
 
 **7. What does Tracy mean by "spread it out"?**
 *(Tracy muốn nói gì qua cụm "chia nhỏ ra"?)*
 
-- A. Study with more people. *(Học với nhiều người hơn.)*
-- B. Study for short periods on different days instead of one long session. *(Học từng buổi ngắn vào các ngày khác nhau thay vì một buổi dài.)*
+- A. Study with many more people at once in a group. *(Học cùng nhiều người hơn trong một nhóm.)*
+- B. Study in short sessions on different days, not one long session. *(Học từng buổi ngắn vào các ngày khác nhau, không dồn một buổi dài.)*
 - C. Use more paper. *(Dùng nhiều giấy hơn.)*
-- D. Study only the easy parts. *(Chỉ học phần dễ.)*
+- D. Study only the easy parts of the notes and leave the hard parts. *(Chỉ học phần dễ của vở ghi và bỏ phần khó.)*
 
 **8. What does Tracy say about getting answers wrong when testing yourself?**
 *(Tracy nói gì về việc trả lời sai khi tự kiểm tra?)*
 
-- A. It means that you should stop. *(Nghĩa là nên dừng lại.)*
-- B. It shows that the method doesn't work. *(Cho thấy cách này không hiệu quả.)*
-- C. You should hide your mistakes. *(Nên giấu lỗi sai.)*
-- D. If you then check the answer, you are more likely to remember it later. *(Nếu sau đó xem lại đáp án, em sẽ dễ nhớ hơn về sau.)*
+- A. It means that you should stop and wait until the next day. *(Nghĩa là nên dừng lại và chờ đến hôm sau.)*
+- B. It shows that the method doesn't work for most students. *(Cho thấy cách này không hiệu quả với phần lớn học sinh.)*
+- C. You should hide your mistakes so that you don't lose confidence. *(Nên giấu lỗi sai để khỏi mất tự tin.)*
+- D. If you then check the answer, you will remember it better later. *(Nếu sau đó xem lại đáp án, em sẽ nhớ nó tốt hơn về sau.)*
 
 **9. Why does Tina ask Tracy to test her on Wednesday?**
 *(Vì sao Tina nhờ Tracy kiểm tra mình vào thứ Tư?)*
 
 - A. Her mother is working nights that week. *(Vì tuần đó mẹ làm ca đêm.)*
-- B. The test is on Wednesday. *(Vì bài kiểm tra vào thứ Tư.)*
-- C. Tracy is coming home on Wednesday. *(Vì thứ Tư Tracy về nhà.)*
-- D. Her teacher told her to. *(Vì cô giáo bảo.)*
+- B. The test is on Wednesday morning, so there is little time. *(Vì bài kiểm tra vào sáng thứ Tư nên không còn nhiều thời gian.)*
+- C. Tracy is coming home for a visit on Wednesday. *(Vì thứ Tư Tracy về nhà chơi.)*
+- D. Her teacher told her to ask her sister to test her. *(Vì cô giáo bảo em nhờ chị kiểm tra.)*
 
 **10. What does Tina's message "Tracy, you're a genius. Don't let it go to your head" show?**
 *(Tin nhắn "Chị Tracy, chị là thiên tài. Nhưng đừng có mà kiêu" của Tina cho thấy điều gì?)*
 
-- A. She is angry with Tracy. *(Cô bé giận Tracy.)*
-- B. She thinks her A was luck. *(Cô bé nghĩ điểm A là do may mắn.)*
+- A. She is angry with Tracy for giving her so much extra work. *(Cô bé giận Tracy vì giao quá nhiều việc thêm.)*
+- B. She thinks her A was luck and that Tracy did very little. *(Cô bé nghĩ điểm A là do may và Tracy chẳng làm bao nhiêu.)*
 - C. She is thanking Tracy, but also teasing her in a friendly way. *(Cô bé cảm ơn Tracy, nhưng cũng trêu chị một cách thân thiện.)*
-- D. She doesn't want Tracy's help again. *(Cô bé không muốn Tracy giúp nữa.)*
+- D. She doesn't want Tracy's help again because she feels embarrassed. *(Cô bé không muốn Tracy giúp nữa vì thấy ngại.)*
 
 ---
 
@@ -231,82 +231,82 @@
 **11. What is the main purpose of Tracy's email?**
 *(Mục đích chính của email Tracy là gì?)*
 
-- A. to ask her parents for money *(để xin tiền bố mẹ)*
+- A. to ask her parents for money to pay for her internship *(để xin bố mẹ tiền trả cho kỳ thực tập)*
 - B. to tell her parents about her first week as an intern *(để kể với bố mẹ về tuần đầu thực tập)*
-- C. to complain about her supervisor *(để phàn nàn về người hướng dẫn)*
-- D. to explain how to design a bridge *(để giải thích cách thiết kế cầu)*
+- C. to complain about her supervisor and the long working hours *(để phàn nàn về người hướng dẫn và giờ làm quá dài)*
+- D. to explain how engineers design a bridge step by step *(để giải thích từng bước kỹ sư thiết kế cầu)*
 
 **12. Who is Dana Okafor?**
 *(Dana Okafor là ai?)*
 
-- A. Tracy's roommate *(bạn cùng phòng của Tracy)*
-- B. an intern at a software company *(thực tập sinh ở công ty phần mềm)*
-- C. Tracy's professor *(giáo sư của Tracy)*
+- A. Tracy's roommate at university, who also works at the company *(bạn cùng phòng của Tracy ở đại học, cũng làm ở công ty)*
+- B. an intern at a software company across the river *(thực tập sinh ở công ty phần mềm bên kia sông)*
+- C. Tracy's professor at university, who teaches engineering *(giáo sư của Tracy ở đại học, dạy kỹ thuật)*
 - D. Tracy's supervisor, a bridge engineer with twenty years of experience *(người hướng dẫn Tracy, kỹ sư cầu đường hai mươi năm kinh nghiệm)*
 
 **13. In "You'd better be punctual", what is Dana doing?**
 *(Trong câu "You'd better be punctual", Dana đang làm gì?)*
 
 - A. giving strong advice, almost a warning *(đưa lời khuyên mạnh, gần như một lời cảnh báo)*
-- B. asking a question *(đặt câu hỏi)*
-- C. making a joke *(nói đùa)*
-- D. talking about the past *(nói về quá khứ)*
+- B. asking Tracy a question about work *(hỏi Tracy một câu về công việc)*
+- C. making a joke about being late *(nói đùa về chuyện đến muộn)*
+- D. talking about what Tracy did last week *(nói về việc Tracy làm tuần trước)*
 
 **14. How does the office's hybrid model work for interns?**
 *(Mô hình làm việc kết hợp áp dụng với thực tập sinh thế nào?)*
 
-- A. They work from home every day. *(Ngày nào cũng làm ở nhà.)*
-- B. They work in the office every day. *(Ngày nào cũng lên văn phòng.)*
-- C. They are in the office on Tuesdays and Thursdays and work from home on other days. *(Lên văn phòng thứ Ba, thứ Năm và làm ở nhà những ngày còn lại.)*
-- D. They choose their own days. *(Tự chọn ngày.)*
+- A. They work from home every day, but they must be online all day. *(Ngày nào cũng làm ở nhà, nhưng phải trực tuyến cả ngày.)*
+- B. They work in the office every day, but may leave early on Fridays. *(Ngày nào cũng lên văn phòng, nhưng thứ Sáu được về sớm.)*
+- C. Office on Tuesdays and Thursdays, and from home the rest of the time. *(Lên văn phòng thứ Ba và thứ Năm, những lúc còn lại làm ở nhà.)*
+- D. They choose their own days, as long as they tell Dana the week before. *(Tự chọn ngày, miễn là báo chị Dana từ tuần trước.)*
 
 **15. In "provided that we're available online between ten and four", what does "provided that" mean?**
 *(Trong câu "provided that we're available online between ten and four", "provided that" nghĩa là gì?)*
 
 - A. because *(bởi vì)*
 - B. only if *(với điều kiện là, chỉ khi)*
-- C. although *(mặc dù)*
+- C. even though *(mặc dù)*
 - D. unless *(trừ khi)*
 
 **16. What must Tracy do if she is going to miss a deadline?**
 *(Nếu sắp trễ hạn, Tracy phải làm gì?)*
 
-- A. work all night *(thức trắng làm)*
-- B. ask Owen for help *(nhờ Owen giúp)*
-- C. come to the office *(lên văn phòng)*
+- A. work all night to finish the task *(thức trắng đêm để làm xong việc)*
+- B. ask Owen for help with the task *(nhờ Owen giúp làm việc đó)*
+- C. come to the office to work on Friday *(lên văn phòng làm việc vào thứ Sáu)*
 - D. tell Dana at least a day before *(báo chị Dana trước ít nhất một ngày)*
 
 **17. Why does Tracy think that Dana gave her a slightly bigger task?**
 *(Vì sao Tracy nghĩ chị Dana giao cô một việc lớn hơn một chút?)*
 
-- A. It was Dana's way of thanking her for finding the mistakes. *(Đó là cách chị Dana cảm ơn cô vì đã tìm ra lỗi.)*
-- B. Dana was too busy. *(Vì chị Dana quá bận.)*
-- C. Tracy asked for it. *(Vì Tracy xin.)*
-- D. It was a punishment. *(Đó là một hình phạt.)*
+- A. It was Dana's way of thanking her for finding mistakes. *(Đó là cách chị Dana cảm ơn cô vì đã tìm ra lỗi.)*
+- B. Dana was too busy with the bridge project to do it herself. *(Vì chị Dana quá bận với dự án cầu nên không tự làm được.)*
+- C. Tracy asked for it because the first tasks were boring. *(Vì Tracy xin thêm do các việc đầu quá chán.)*
+- D. It was a punishment for making mistakes in the old report. *(Đó là hình phạt vì cô mắc lỗi trong bản báo cáo cũ.)*
 
 **18. What does Tracy mean by "Between you and me"?**
 *(Tracy muốn nói gì qua cụm "Nói riêng với bố mẹ thôi"?)*
 
-- A. She is talking about her parents. *(Cô đang nói về bố mẹ.)*
-- B. She wants her parents to tell everyone. *(Cô muốn bố mẹ kể với mọi người.)*
+- A. She is going to talk about her parents' colleagues. *(Cô sắp nói về đồng nghiệp của bố mẹ.)*
+- B. She wants her parents to tell the story to their friends. *(Cô muốn bố mẹ kể chuyện này với bạn bè của họ.)*
 - C. What she is going to say is private and shouldn't be repeated. *(Điều cô sắp nói là chuyện riêng, đừng nói lại với ai.)*
-- D. She is standing between two colleagues. *(Cô đang đứng giữa hai đồng nghiệp.)*
+- D. She is standing between two colleagues at the kitchen. *(Cô đang đứng giữa hai đồng nghiệp trong bếp.)*
 
 **19. What happened during the conference call on Thursday?**
 *(Trong cuộc họp trực tuyến hôm thứ Năm đã xảy ra chuyện gì?)*
 
-- A. Tracy's computer crashed. *(Máy tính của Tracy bị treo.)*
-- B. Tracy forgot to turn off her camera while she was eating a sandwich. *(Tracy quên tắt camera khi đang ăn bánh mì kẹp.)*
-- C. Dana shouted at Tracy. *(Chị Dana quát Tracy.)*
-- D. Owen joined the call. *(Owen vào cuộc họp.)*
+- A. Tracy's computer crashed, so the whole team had to start the call again. *(Máy tính của Tracy bị treo nên cả nhóm phải họp lại từ đầu.)*
+- B. Tracy forgot to turn off her camera while she was eating. *(Tracy quên tắt camera khi đang ăn.)*
+- C. Dana shouted at Tracy for being late to the call. *(Chị Dana quát Tracy vì vào cuộc họp muộn.)*
+- D. Owen joined the call by mistake from his own company. *(Owen vào cuộc họp nhầm từ công ty của cậu ấy.)*
 
 **20. Use both texts. Which idea appears in both Dana's advice and Tracy's advice to Tina?**
 *(Dựa vào cả hai bài. Ý nào xuất hiện cả trong lời dặn của chị Dana lẫn lời khuyên của Tracy cho Tina?)*
 
-- A. Highlighting is the best way to learn. *(Tô màu là cách học tốt nhất.)*
-- B. You should work from home. *(Nên làm việc ở nhà.)*
-- C. You should never make mistakes. *(Không bao giờ được mắc lỗi.)*
-- D. Not knowing something or getting it wrong is a normal part of learning. *(Chưa biết hay làm sai là một phần bình thường của việc học.)*
+- A. Highlighting is the best way to learn, so you should do it every day. *(Tô màu là cách học tốt nhất, nên ngày nào cũng làm.)*
+- B. You should work from home whenever you want to study. *(Nên làm việc ở nhà bất cứ khi nào muốn học.)*
+- C. You should never make mistakes in front of other people. *(Không bao giờ được mắc lỗi trước mặt người khác.)*
+- D. Not knowing or getting things wrong is a normal part of learning. *(Chưa biết hay làm sai là một phần bình thường của việc học.)*
 
 ---
 

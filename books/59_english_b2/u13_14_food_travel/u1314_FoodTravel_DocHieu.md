@@ -101,15 +101,15 @@
 **1. What is the main purpose of Harriet's notice?**
 *(Mục đích chính của thông báo của bà Harriet là gì?)*
 
-- A. to advertise a new cooking class *(để quảng cáo lớp nấu ăn mới)*
-- B. to invite neighbors to share and taste family recipes at the café *(để mời hàng xóm góp và cùng nếm các công thức gia đình ở quán)*
-- C. to announce that the café will close *(để báo quán sắp đóng cửa)*
-- D. to raise prices for lunch *(để tăng giá bữa trưa)*
+- A. to advertise a new cooking class run by Harriet *(để quảng cáo một lớp nấu ăn mới do Harriet dạy)*
+- B. to invite neighbors to share and taste family recipes *(để mời hàng xóm góp và cùng nếm các công thức gia đình)*
+- C. to announce that the café will close every Friday *(để báo quán sẽ đóng cửa mỗi thứ Sáu)*
+- D. to raise the price of lunch on Fridays in the fall *(để tăng giá bữa trưa vào các thứ Sáu mùa thu)*
 
 **2. What will be written on the board by the door?**
 *(Trên tấm bảng cạnh cửa sẽ viết gì?)*
 
-- A. the price of each dish *(giá của từng món)*
+- A. the price of each dish and the name of the cook *(giá của từng món và tên người nấu)*
 - B. the list of ingredients *(danh sách nguyên liệu)*
 - C. the names of the customers *(tên khách hàng)*
 - D. the story behind each recipe *(câu chuyện đằng sau mỗi công thức)*
@@ -117,26 +117,26 @@
 **3. What does Grandma Okonkwo's comment about pepper show?**
 *(Lời bà Okonkwo về lượng ớt cho thấy điều gì?)*
 
-- A. Families from the same place can still cook the same dish in different ways. *(Các gia đình cùng một nơi vẫn có thể nấu cùng một món theo cách khác nhau.)*
-- B. Everyone in her hometown cooks it the same way. *(Ai ở quê bà cũng nấu y như nhau.)*
-- C. She doesn't like pepper. *(Bà không thích ớt.)*
-- D. The dish is too spicy for the café. *(Món này quá cay với quán.)*
+- A. Families from the same place can cook the same dish differently. *(Các gia đình cùng một nơi vẫn có thể nấu cùng một món khác nhau.)*
+- B. Everyone in her hometown cooks the dish in exactly the same way. *(Ai ở quê bà cũng nấu món này y hệt nhau.)*
+- C. She doesn't like pepper and never uses it. *(Bà không thích ớt và không bao giờ dùng.)*
+- D. The dish is too spicy for the café's other customers. *(Món này quá cay với những khách khác của quán.)*
 
 **4. Why does Harriet write "You have been warned"?**
 *(Vì sao bà Harriet viết "Các bạn đã được báo trước"?)*
 
-- A. The café might be closed that day. *(Vì hôm đó quán có thể đóng.)*
-- B. Grandma Okonkwo is angry. *(Vì bà Okonkwo đang giận.)*
+- A. The café might be closed on that day for a holiday. *(Vì hôm đó quán có thể đóng cửa vì ngày lễ.)*
+- B. Grandma Okonkwo is angry about the recipe. *(Vì bà Okonkwo đang giận chuyện công thức.)*
 - C. She is joking that the dish might be very spicy. *(Vì bà đùa rằng món này có thể rất cay.)*
-- D. The rice might be late. *(Vì cơm có thể ra muộn.)*
+- D. The rice might be served late that day. *(Vì hôm đó cơm có thể ra muộn.)*
 
 **5. What does Mr. Alvarez say about making tamales?**
 *(Ông Alvarez nói gì về cách làm bánh tamale?)*
 
-- A. They should be made in a machine. *(Phải làm bằng máy.)*
+- A. They should be made in a machine to save time. *(Phải làm bằng máy cho đỡ tốn thời gian.)*
 - B. You have to chop the chicken by hand. *(Phải băm thịt gà bằng tay.)*
-- C. They are made only in summer. *(Chỉ làm vào mùa hè.)*
-- D. They are made without chicken. *(Làm không có thịt gà.)*
+- C. They are made only in summer, never in winter. *(Chỉ làm vào mùa hè, không bao giờ vào mùa đông.)*
+- D. They are made without chicken, only with vegetables. *(Làm không có thịt gà, chỉ có rau.)*
 
 **6. What has Harriet changed in her mother's peach pie recipe?**
 *(Bà Harriet đã đổi gì trong công thức bánh đào của mẹ?)*
@@ -149,34 +149,34 @@
 **7. In "If so, we will plan a test day together; if not, don't worry", what does "If so" mean?**
 *(Trong câu "If so, we will plan a test day together; if not, don't worry", "If so" nghĩa là gì?)*
 
-- A. If the dish is expensive *(Nếu món đó đắt)*
-- B. If you are a cook *(Nếu bạn là đầu bếp)*
-- C. If it rains *(Nếu trời mưa)*
-- D. If the ingredients and the dish are suitable *(Nếu nguyên liệu và món ăn phù hợp)*
+- A. If the dish is too expensive for the café *(Nếu món đó quá đắt với quán)*
+- B. If you are a good cook in the neighborhood *(Nếu bạn là đầu bếp giỏi trong khu phố)*
+- C. If it rains on the day of the test *(Nếu trời mưa vào ngày thử món)*
+- D. If the ingredients are suitable *(Nếu nguyên liệu phù hợp)*
 
 **8. When might Harriet change a recipe slightly?**
 *(Khi nào bà Harriet có thể chỉnh công thức đôi chút?)*
 
-- A. whenever she likes *(bất cứ khi nào bà thích)*
-- B. to make it cheaper *(để làm rẻ hơn)*
-- C. so that people with allergies can enjoy it, and only with the family's permission *(để người bị dị ứng cũng ăn được, và chỉ khi gia đình đồng ý)*
-- D. to make it sweeter *(để làm ngọt hơn)*
+- A. whenever she thinks that it will taste better, even if the family does not agree *(bất cứ khi nào bà nghĩ nó sẽ ngon hơn, kể cả khi gia đình không đồng ý)*
+- B. to make it cheaper so that the price stays low *(để làm rẻ hơn cho giá luôn thấp)*
+- C. so that people with allergies can enjoy it, and only with permission *(để người bị dị ứng cũng ăn được, và chỉ khi được cho phép)*
+- D. to make it sweeter because children like sugar *(để làm ngọt hơn vì trẻ con thích đường)*
 
 **9. What will happen to food that is not eaten by two o'clock?**
 *(Đồ ăn chưa ăn hết tới hai giờ chiều sẽ ra sao?)*
 
 - A. It will be taken to the Harbor Street Shelter. *(Được mang tới nhà tạm trú Harbor Street.)*
-- B. It will be thrown away. *(Bị bỏ đi.)*
-- C. It will be sold the next day. *(Được bán hôm sau.)*
-- D. The cooks will take it home. *(Người nấu mang về.)*
+- B. It will be thrown away at the end of the day. *(Bị bỏ đi vào cuối ngày.)*
+- C. It will be sold at half price the next day. *(Được bán nửa giá vào hôm sau.)*
+- D. The cooks will take it home to their families. *(Người nấu mang về cho gia đình.)*
 
 **10. What does Harriet mean by "Let's taste each other's memories"?**
 *(Bà Harriet muốn nói gì qua câu "Hãy cùng nếm ký ức của nhau"?)*
 
-- A. Everyone should eat very old food. *(Ai cũng nên ăn đồ cũ.)*
-- B. She wants people to forget the past. *(Bà muốn mọi người quên quá khứ.)*
-- C. Sharing family dishes is a way of sharing the stories and places that people come from. *(Chia sẻ món ăn gia đình là cách chia sẻ câu chuyện và nơi chốn mỗi người đã lớn lên.)*
-- D. She is going to write a book of memories. *(Bà sắp viết một cuốn hồi ký.)*
+- A. Everyone should eat very old food that has been kept for years. *(Ai cũng nên ăn đồ rất cũ đã cất giữ nhiều năm.)*
+- B. She wants people to forget the past and think only about the future. *(Bà muốn mọi người quên quá khứ và chỉ nghĩ đến tương lai.)*
+- C. Sharing family dishes is a way of sharing where people come from. *(Chia sẻ món ăn gia đình là cách chia sẻ nơi mỗi người xuất thân.)*
+- D. She is going to write a book of memories about the café. *(Bà sắp viết một cuốn hồi ký về quán.)*
 
 ---
 
@@ -221,74 +221,74 @@
 **11. What is the article mainly about?**
 *(Bài báo chủ yếu nói về điều gì?)*
 
-- A. the best places to visit in summer *(những nơi đáng đi nhất mùa hè)*
-- B. how to take better travel photos *(cách chụp ảnh du lịch đẹp hơn)*
-- C. overtourism, how some places are dealing with it, and how travelers can help *(du lịch quá tải, cách một số nơi đối phó, và du khách có thể góp phần thế nào)*
-- D. the history of Venice *(lịch sử Venice)*
+- A. the best places to visit in summer if you want to avoid large crowds *(những nơi đáng đi nhất mùa hè nếu muốn tránh đông người)*
+- B. how to take better travel photos of famous places *(cách chụp ảnh du lịch đẹp hơn ở những nơi nổi tiếng)*
+- C. overtourism, how places deal with it, and how travelers can help *(du lịch quá tải, cách các nơi đối phó, và du khách có thể góp phần thế nào)*
+- D. the history of Venice and how it became a famous city *(lịch sử Venice và việc nó trở thành thành phố nổi tiếng)*
 
 **12. What does "Having saved for months, millions of travelers arrive…" tell us?**
 *(Câu "Having saved for months, millions of travelers arrive…" cho biết điều gì?)*
 
 - A. The travelers saved money for months before they arrived. *(Du khách đã dành dụm nhiều tháng trước khi tới.)*
 - B. The travelers will save money after the trip. *(Du khách sẽ dành dụm sau chuyến đi.)*
-- C. The travelers saved photos for months. *(Du khách lưu ảnh nhiều tháng.)*
+- C. The travelers saved photos of the place for several months. *(Du khách lưu ảnh về nơi đó trong vài tháng.)*
 - D. The travelers stayed for months. *(Du khách ở lại nhiều tháng.)*
 
 **13. Why is Venice described as the best-known example of overtourism?**
 *(Vì sao Venice được gọi là ví dụ nổi tiếng nhất về du lịch quá tải?)*
 
-- A. It has no hotels. *(Vì không có khách sạn.)*
-- B. Its streets are very wide. *(Vì đường phố rất rộng.)*
-- C. Nobody wants to visit it. *(Vì không ai muốn tới.)*
-- D. Fewer than 50,000 people live in its center, but millions of visitors come every year. *(Vì trung tâm chỉ còn chưa tới 50.000 cư dân, trong khi mỗi năm có hằng triệu du khách.)*
+- A. It has no hotels, so visitors have to sleep on boats in the harbor. *(Vì không có khách sạn nên du khách phải ngủ trên thuyền ở bến cảng.)*
+- B. Its streets are very wide, so visitors cannot find their way. *(Vì đường phố rất rộng nên du khách không tìm được đường.)*
+- C. Nobody wants to visit it any more because it is too expensive. *(Vì không ai muốn tới nữa do quá đắt đỏ.)*
+- D. Fewer than 50,000 people live in its center, but millions of visitors come. *(Vì trung tâm chỉ có chưa tới 50.000 cư dân, nhưng có hằng triệu du khách tới.)*
 
 **14. What did Venice begin to do in 2024?**
 *(Năm 2024 Venice bắt đầu làm gì?)*
 
-- A. close its historic center *(đóng cửa trung tâm lịch sử)*
-- B. charge day visitors a small entry fee on its busiest days *(thu phí vào cửa nhỏ với khách đi trong ngày vào những ngày đông nhất)*
-- C. ban photos *(cấm chụp ảnh)*
-- D. ban cruise ships *(cấm tàu du lịch)*
+- A. close its historic center to all foreign visitors *(đóng cửa trung tâm lịch sử với mọi du khách nước ngoài)*
+- B. charge day visitors an entry fee on its busiest days *(thu phí vào cửa với khách đi trong ngày vào những ngày đông nhất)*
+- C. ban photos in its narrow streets *(cấm chụp ảnh trong những con phố hẹp)*
+- D. ban cruise ships from the harbor *(cấm tàu du lịch vào bến cảng)*
 
 **15. Why were some lanes in Kyoto's Gion district closed to tourists?**
 *(Vì sao một số ngõ ở khu Gion, Kyoto bị cấm khách du lịch?)*
 
-- A. The lanes were too narrow for cars. *(Vì ngõ quá hẹp cho ô tô.)*
-- B. The lanes were being repaired. *(Vì ngõ đang sửa.)*
-- C. Residents complained that visitors followed people and took photos without asking. *(Vì cư dân phàn nàn du khách bám theo người ta và chụp ảnh không xin phép.)*
-- D. Tourists didn't want to go there. *(Vì du khách không muốn tới.)*
+- A. The lanes were too narrow for cars and buses to drive through safely. *(Vì ngõ quá hẹp để ô tô và xe buýt đi qua an toàn.)*
+- B. The lanes were being repaired after a long period of heavy rain. *(Vì ngõ đang được sửa sau đợt mưa lớn kéo dài.)*
+- C. Residents complained that visitors followed people and took photos. *(Vì cư dân phàn nàn du khách bám theo người ta và chụp ảnh.)*
+- D. Tourists didn't want to go there because the lanes were dirty. *(Vì du khách không muốn tới do các ngõ bẩn.)*
 
 **16. What happened to Maya Bay after it was closed?**
 *(Vịnh Maya ra sao sau khi bị đóng cửa?)*
 
-- A. It was turned into a hotel. *(Thành khách sạn.)*
-- B. Its coral died. *(San hô chết hết.)*
-- C. It never reopened. *(Không bao giờ mở lại.)*
-- D. Its coral and sea life began to recover, and visitor numbers were limited when it reopened. *(San hô và sinh vật biển bắt đầu hồi phục, và khi mở lại, số khách bị giới hạn.)*
+- A. It was turned into a large hotel with a car park and a private beach for rich visitors. *(Nó bị biến thành khách sạn lớn có bãi đỗ xe và bãi biển riêng cho khách giàu.)*
+- B. Its coral died because of the closure and never grew back. *(San hô chết vì việc đóng cửa và không mọc lại.)*
+- C. It never reopened because the Thai government sold the land. *(Nó không bao giờ mở lại vì chính phủ Thái Lan bán đất.)*
+- D. Its coral and sea life began to recover, and visitor numbers were limited. *(San hô và sinh vật biển bắt đầu hồi phục, và số khách bị giới hạn.)*
 
 **17. Which argument AGAINST limits on tourism is given?**
 *(Lý lẽ nào PHẢN ĐỐI việc hạn chế du lịch được nêu ra?)*
 
-- A. Fees may make travel a privilege for the wealthy, and many local businesses depend on visitors. *(Thu phí có thể khiến du lịch thành đặc quyền của người giàu, và nhiều cơ sở địa phương sống nhờ du khách.)*
-- B. Coral grows back quickly. *(San hô mọc lại nhanh.)*
-- C. Residents enjoy having more visitors. *(Cư dân thích có nhiều khách hơn.)*
-- D. Photos are good for a city. *(Ảnh chụp tốt cho thành phố.)*
+- A. Fees may make travel a privilege for the wealthy, and local businesses need visitors. *(Thu phí có thể khiến du lịch thành đặc quyền của người giàu, và cơ sở địa phương cần du khách.)*
+- B. Coral grows back quickly, so there is no reason to close a bay for years. *(San hô mọc lại nhanh nên không có lý do đóng cửa một vịnh nhiều năm.)*
+- C. Residents enjoy having more visitors in their streets. *(Cư dân thích có thêm nhiều du khách trên phố.)*
+- D. Photos are good for a city, so tourists should take more of them. *(Ảnh chụp tốt cho thành phố nên du khách nên chụp nhiều hơn.)*
 
 **18. What do others mean by "a place which is destroyed by its own popularity will soon have no visitors at all"?**
 *(Những người khác muốn nói gì qua câu "một nơi bị chính sự nổi tiếng của mình tàn phá thì chẳng bao lâu sẽ không còn ai tới"?)*
 
-- A. Popular places are always destroyed. *(Nơi nổi tiếng nào cũng bị tàn phá.)*
-- B. Limiting visitors now can protect tourism in the long run. *(Hạn chế khách bây giờ có thể bảo vệ du lịch về lâu dài.)*
-- C. Nobody should travel. *(Không ai nên đi du lịch.)*
-- D. Fees should be very high. *(Phí nên thật cao.)*
+- A. Popular places are always destroyed by their visitors in the end. *(Nơi nổi tiếng nào rốt cuộc cũng bị du khách tàn phá.)*
+- B. Limiting visitors now can protect tourism in the long term. *(Hạn chế khách bây giờ có thể bảo vệ du lịch về lâu dài.)*
+- C. Nobody should travel to famous places at all. *(Không ai nên tới những nơi nổi tiếng.)*
+- D. Fees should be very high for every visitor. *(Phí nên thật cao với mọi du khách.)*
 
 **19. Which of these is NOT advice for travelers in the article?**
 *(Điều nào KHÔNG phải lời khuyên cho du khách trong bài?)*
 
-- A. visit outside the busiest months *(đi vào những tháng vắng khách)*
-- B. stay longer in one place *(ở lâu một chỗ)*
-- C. buy from local shops *(mua đồ ở cửa hàng địa phương)*
-- D. visit as many famous places as possible in one trip *(đi càng nhiều nơi nổi tiếng càng tốt trong một chuyến)*
+- A. visit outside the busiest months of the year *(đi vào những tháng vắng khách trong năm)*
+- B. stay longer in one place rather than rushing between five *(ở lâu một chỗ thay vì chạy qua năm nơi)*
+- C. buy from local shops and eat in family restaurants *(mua ở cửa hàng địa phương và ăn ở quán gia đình)*
+- D. visit as many famous places as you can in one trip *(đi càng nhiều nơi nổi tiếng càng tốt trong một chuyến)*
 
 **20. Use both texts. Which advice from the article would Harriet's lunch project support most clearly?**
 *(Dựa vào cả hai bài. Bữa trưa của bà Harriet thể hiện rõ nhất lời khuyên nào trong bài báo?)*

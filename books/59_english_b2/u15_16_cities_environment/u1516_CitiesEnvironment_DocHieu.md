@@ -77,23 +77,23 @@
 **1. What is the main purpose of Helena's report?**
 *(Mục đích chính của bản báo cáo của Helena là gì?)*
 
-- A. to complain about the library *(để phàn nàn về thư viện)*
-- B. to ask neighbors to stop driving *(để kêu gọi hàng xóm thôi lái xe)*
-- C. to explain how the parking lot will be turned into a park *(để giải thích bãi đỗ xe sẽ được biến thành công viên thế nào)*
-- D. to sell parking spaces *(để bán chỗ đỗ xe)*
+- A. to complain about the library for closing the parking lot *(để phàn nàn thư viện vì đóng bãi đỗ xe)*
+- B. to ask neighbors to stop driving to the library on Saturdays *(để kêu gọi hàng xóm thôi lái xe tới thư viện vào thứ Bảy)*
+- C. to explain how the parking lot will become a small park *(để giải thích bãi đỗ xe sẽ trở thành một công viên nhỏ thế nào)*
+- D. to sell parking spaces behind the library to neighbors *(để bán chỗ đỗ xe sau thư viện cho hàng xóm)*
 
 **2. What gave the neighbors the idea for the park?**
 *(Điều gì đã cho hàng xóm ý tưởng làm công viên?)*
 
-- A. The lot is almost always empty, and there is no park within walking distance. *(Bãi đỗ gần như luôn trống, mà quanh đó không có công viên nào đi bộ tới được.)*
-- B. The library asked for a park. *(Thư viện đề nghị làm công viên.)*
-- C. A tennis club wanted new courts. *(Một câu lạc bộ quần vợt muốn sân mới.)*
-- D. The parking lot was too small. *(Bãi đỗ quá nhỏ.)*
+- A. The lot is almost always empty, and no park is within walking distance. *(Bãi đỗ gần như luôn trống, và không có công viên nào đi bộ tới được.)*
+- B. The library asked the neighbors to build a park for its visitors on Saturdays. *(Thư viện nhờ hàng xóm xây công viên cho khách của họ vào thứ Bảy.)*
+- C. A tennis club wanted to build six new courts for its members. *(Một câu lạc bộ quần vợt muốn xây sáu sân mới cho hội viên.)*
+- D. The parking lot was too small for the library's visitors. *(Bãi đỗ quá nhỏ so với khách của thư viện.)*
 
 **3. Why does Helena mention the survey that 214 neighbors answered?**
 *(Vì sao Helena nhắc tới cuộc khảo sát có 214 người trả lời?)*
 
-- A. to show that the park was her own idea *(để cho thấy công viên là ý của riêng chị)*
+- A. to show that the park was Helena's own idea from the start *(để cho thấy công viên là ý của riêng Helena từ đầu)*
 - B. to complain that few people answered *(để phàn nàn ít người trả lời)*
 - C. to explain how to fill in a survey *(để giải thích cách điền khảo sát)*
 - D. to show that many residents took part in the decision *(để cho thấy nhiều cư dân đã cùng tham gia quyết định)*
@@ -101,10 +101,10 @@
 **4. What will happen to the asphalt?**
 *(Lớp nhựa đường sẽ được xử lý thế nào?)*
 
-- A. All of it will be thrown away. *(Bỏ đi toàn bộ.)*
-- B. It will be removed, and about a third of it will be broken up and used under the new paths. *(Được bóc lên, và khoảng một phần ba được đập nhỏ dùng làm nền lối đi mới.)*
-- C. It will be painted green. *(Được sơn xanh.)*
-- D. It will be kept for parking. *(Được giữ lại để đỗ xe.)*
+- A. All of it will be thrown away, and the library will pay for new asphalt. *(Bỏ đi toàn bộ, và thư viện sẽ trả tiền làm nhựa đường mới.)*
+- B. It will be removed, and about a third will be used again under the new paths. *(Được bóc lên, và khoảng một phần ba được dùng lại làm nền lối đi mới.)*
+- C. It will be painted green and used as a path. *(Được sơn xanh và dùng làm lối đi.)*
+- D. It will be kept for parking cars on Saturday mornings. *(Được giữ lại để đỗ xe vào sáng thứ Bảy.)*
 
 **5. Why will a small drain be added in the lowest corner?**
 *(Vì sao sẽ làm một rãnh thoát nước nhỏ ở góc trũng nhất?)*
@@ -112,47 +112,47 @@
 - A. to water the trees *(để tưới cây)*
 - B. to collect rainwater for the library *(để hứng nước mưa cho thư viện)*
 - C. so that rainwater doesn't collect there *(để nước mưa không đọng lại ở đó)*
-- D. so that cars can park there *(để ô tô đỗ ở đó)*
+- D. so that cars can park there when it rains *(để ô tô đỗ ở đó khi trời mưa)*
 
 **6. Where will the native trees be planted, and why?**
 *(Cây bản địa sẽ được trồng ở đâu, và vì sao?)*
 
-- A. along the north side, to give shade to the benches in the afternoon *(dọc phía bắc, để che bóng cho băng ghế buổi chiều)*
-- B. next to the ramp, to hide it *(cạnh đường dốc, để che nó đi)*
-- C. in the southeast corner, around the free library *(ở góc đông nam, quanh tủ sách)*
-- D. along the street, to block the noise *(dọc đường, để chắn tiếng ồn)*
+- A. along the north side, to shade the benches in the afternoon *(dọc phía bắc, để che bóng cho băng ghế buổi chiều)*
+- B. next to the ramp, to hide it from the street *(cạnh đường dốc, để che nó khỏi đường phố)*
+- C. in the southeast corner, to give shade to the free library in the morning *(ở góc đông nam, để che bóng cho tủ sách vào buổi sáng)*
+- D. along the street, to block the noise from cars *(dọc đường, để chắn tiếng ồn từ ô tô)*
 
 **7. Who is the ramp mainly for?**
 *(Đường dốc chủ yếu dành cho ai?)*
 
-- A. cyclists *(người đi xe đạp)*
-- B. delivery trucks *(xe tải giao hàng)*
-- C. library staff only *(chỉ nhân viên thư viện)*
+- A. cyclists who ride to the library *(người đi xe đạp tới thư viện)*
+- B. delivery trucks that bring new books to the library *(xe tải giao sách mới tới thư viện)*
+- C. library staff who carry heavy boxes *(nhân viên thư viện khuân các thùng nặng)*
 - D. people in wheelchairs and parents with strollers *(người đi xe lăn và bố mẹ đẩy xe nôi)*
 
 **8. Where will the little free library be?**
 *(Tủ sách miễn phí sẽ đặt ở đâu?)*
 
-- A. next to the ramp *(cạnh đường dốc)*
+- A. next to the ramp at the main entrance *(cạnh đường dốc ở lối vào chính)*
 - B. in the southeast corner, opposite the ramp *(ở góc đông nam, đối diện đường dốc)*
-- C. inside the Pine Street Library *(bên trong thư viện Pine Street)*
-- D. across the road *(bên kia đường)*
+- C. inside the library, near the front desk *(bên trong thư viện, gần quầy lễ tân)*
+- D. across the road, in the community center *(bên kia đường, trong trung tâm cộng đồng)*
 
 **9. How does the plan deal with neighbors' worries about parking?**
 *(Kế hoạch giải quyết nỗi lo về chỗ đỗ xe của hàng xóm thế nào?)*
 
-- A. Ten spaces will be kept, and on busy Saturday mornings, cars can use a parking lot across the road. *(Giữ lại mười chỗ, và sáng thứ Bảy đông người thì ô tô được đỗ ở bãi bên kia đường.)*
-- B. No cars will be allowed on Pine Street. *(Cấm ô tô trên phố Pine.)*
-- C. A new parking building will be built. *(Xây một toà nhà đỗ xe mới.)*
-- D. The park will close on Saturdays. *(Công viên đóng cửa thứ Bảy.)*
+- A. Ten spaces will be kept, and cars can use a lot across the road on busy Saturdays. *(Giữ lại mười chỗ, và ô tô được đỗ ở bãi bên kia đường vào những sáng thứ Bảy đông.)*
+- B. No cars will be allowed on Pine Street, and the library will close its Saturday events. *(Cấm ô tô trên phố Pine, và thư viện sẽ ngừng các sự kiện thứ Bảy.)*
+- C. A new parking building will be built next to the community center. *(Xây một toà nhà đỗ xe mới cạnh trung tâm cộng đồng.)*
+- D. The park will close on Saturdays when the library holds events. *(Công viên đóng cửa vào thứ Bảy khi thư viện có sự kiện.)*
 
 **10. What does "If all goes to plan" suggest?**
 *(Cụm "Nếu mọi việc theo đúng kế hoạch" hàm ý gì?)*
 
-- A. The park is already open. *(Công viên đã mở.)*
-- B. The plan has been cancelled. *(Kế hoạch đã bị huỷ.)*
-- C. The opening date depends on the work going well and could change. *(Ngày mở cửa phụ thuộc vào việc thi công suôn sẻ và có thể thay đổi.)*
-- D. Helena is sure that there will be no problems. *(Helena chắc chắn sẽ không có trục trặc.)*
+- A. The park is already open, and Helena is writing about its first week. *(Công viên đã mở, và Helena đang viết về tuần đầu tiên.)*
+- B. The plan has been cancelled because the neighbors disagreed. *(Kế hoạch đã bị huỷ vì hàng xóm không đồng ý.)*
+- C. The date depends on the work going well and could change. *(Ngày mở cửa phụ thuộc vào việc thi công suôn sẻ và có thể đổi.)*
+- D. Helena is sure that there will be no problems with the work. *(Helena chắc chắn việc thi công sẽ không có trục trặc.)*
 
 ---
 
@@ -196,82 +196,82 @@
 **11. What is the article mainly about?**
 *(Bài báo chủ yếu nói về điều gì?)*
 
-- A. how to dive safely *(cách lặn an toàn)*
-- B. why California's kelp forests have disappeared and how they might recover *(vì sao rừng tảo bẹ California biến mất và chúng có thể hồi phục thế nào)*
-- C. the life of sea otters *(đời sống rái cá biển)*
-- D. fishing businesses in Monterey *(các cơ sở đánh bắt ở Monterey)*
+- A. how to dive safely in the cold waters off California *(cách lặn an toàn ở vùng nước lạnh ngoài khơi California)*
+- B. why California's kelp forests disappeared and how they may recover *(vì sao rừng tảo bẹ California biến mất và có thể hồi phục thế nào)*
+- C. the life of sea otters and why they eat so many urchins *(đời sống rái cá biển và vì sao chúng ăn nhiều nhím biển)*
+- D. fishing businesses in Monterey and the divers who lost work *(các cơ sở đánh bắt ở Monterey và những thợ lặn mất việc)*
 
 **12. What is kelp?**
 *(Tảo bẹ là gì?)*
 
-- A. a kind of sea star *(một loài sao biển)*
-- B. a type of fish *(một loài cá)*
-- C. a disease *(một dịch bệnh)*
+- A. a kind of sea star that eats urchins in cold water *(một loài sao biển ăn nhím biển ở vùng nước lạnh)*
+- B. a type of fish that lives in the forests *(một loài cá sống trong các khu rừng)*
+- C. a disease that killed millions of sea stars *(một dịch bệnh giết hàng triệu sao biển)*
 - D. a type of large seaweed that can grow very fast *(một loại rong biển lớn có thể mọc rất nhanh)*
 
 **13. How did the long period of warm water affect the kelp?**
 *(Đợt nước ấm kéo dài ảnh hưởng tới tảo bẹ thế nào?)*
 
 - A. It weakened the kelp, which grows best in cold water. *(Nó làm tảo bẹ yếu đi, vì tảo bẹ phát triển tốt nhất trong nước lạnh.)*
-- B. It made the kelp grow faster. *(Nó làm tảo bẹ mọc nhanh hơn.)*
-- C. It killed the sea otters. *(Nó giết rái cá biển.)*
-- D. It had no effect. *(Không ảnh hưởng gì.)*
+- B. It made the kelp grow faster, because kelp loves warm water. *(Nó làm tảo bẹ mọc nhanh hơn, vì tảo bẹ thích nước ấm.)*
+- C. It killed the sea otters along the coast. *(Nó giết rái cá biển dọc bờ biển.)*
+- D. It had no effect on the kelp or on the sea stars. *(Nó không ảnh hưởng tới tảo bẹ hay sao biển.)*
 
 **14. Why did the number of purple sea urchins increase so quickly?**
 *(Vì sao số nhím biển tím tăng nhanh như vậy?)*
 
-- A. People stopped eating them. *(Vì người ta thôi ăn chúng.)*
-- B. The water became colder. *(Vì nước lạnh đi.)*
+- A. People stopped eating them, and fishing businesses stopped hunting them. *(Người ta thôi ăn chúng, và các cơ sở đánh bắt thôi săn chúng.)*
+- B. The water became colder, which helped them to survive. *(Nước lạnh đi, giúp chúng sống sót.)*
 - C. A disease killed many sea stars, one of their main predators. *(Vì một dịch bệnh giết nhiều sao biển, một trong những kẻ săn mồi chính của chúng.)*
-- D. Divers brought more urchins. *(Vì thợ lặn mang thêm nhím tới.)*
+- D. Divers brought more urchins from other parts of the coast. *(Thợ lặn mang thêm nhím từ những vùng khác của bờ biển.)*
 
 **15. What are "urchin barrens"?**
 *("Bãi nhím" là gì?)*
 
-- A. farms where urchins are grown *(trang trại nuôi nhím biển)*
-- B. rocky sea floors covered in urchins, with almost nothing else *(đáy biển toàn đá, phủ kín nhím biển và hầu như chẳng còn gì khác)*
-- C. new kelp forests *(rừng tảo bẹ mới)*
-- D. beaches where people collect shells *(bãi biển nơi người ta nhặt vỏ sò)*
+- A. farms where urchins are grown to be sold to restaurants *(trang trại nuôi nhím biển để bán cho nhà hàng)*
+- B. rocky sea floors covered in urchins and little else *(đáy biển toàn đá, phủ kín nhím biển và chẳng còn gì khác)*
+- C. new kelp forests planted by volunteer divers *(những rừng tảo bẹ mới do thợ lặn tình nguyện trồng)*
+- D. beaches where people collect shells and other sea animals *(bãi biển nơi người ta nhặt vỏ sò và các sinh vật biển khác)*
 
 **16. What does "Had the kelp survived, many divers and fishing businesses would not have lost their work" mean?**
 *(Câu "Had the kelp survived, many divers and fishing businesses would not have lost their work" nghĩa là gì?)*
 
-- A. The kelp survived, and the divers kept their work. *(Tảo bẹ sống sót, và thợ lặn giữ được việc.)*
+- A. The kelp survived, and the divers kept their work and their homes. *(Tảo bẹ sống sót, và thợ lặn giữ được việc cũng như nhà.)*
 - B. The divers will lose their work in the future. *(Thợ lặn sẽ mất việc trong tương lai.)*
-- C. The divers caused the kelp to die. *(Thợ lặn làm tảo bẹ chết.)*
-- D. The kelp did not survive, so many divers and businesses lost their work. *(Tảo bẹ đã không sống sót, nên nhiều thợ lặn và cơ sở đã mất việc.)*
+- C. The divers caused the kelp to die by taking too much of it. *(Thợ lặn làm tảo bẹ chết vì lấy quá nhiều.)*
+- D. The kelp did not survive, so many divers lost their work. *(Tảo bẹ đã không sống sót, nên nhiều thợ lặn mất việc.)*
 
 **17. Which of these is NOT given as a way of helping the kelp forests recover?**
 *(Điều nào KHÔNG được nêu là cách giúp rừng tảo bẹ hồi phục?)*
 
 - A. planting kelp from laboratories along the whole coast *(trồng tảo bẹ từ phòng thí nghiệm dọc toàn bộ bờ biển)*
-- B. divers removing urchins by hand *(thợ lặn nhặt nhím biển bằng tay)*
-- C. sea otters eating urchins *(rái cá biển ăn nhím biển)*
+- B. divers removing urchins by hand in several small areas *(thợ lặn nhặt nhím biển bằng tay ở vài khu vực nhỏ)*
+- C. sea otters eating large numbers of urchins around Monterey *(rái cá biển ăn rất nhiều nhím biển quanh Monterey)*
 - D. breeding sunflower sea stars in laboratories *(nhân giống sao biển hướng dương trong phòng thí nghiệm)*
 
 **18. Why are kelp forests healthier around Monterey, according to the article?**
 *(Theo bài, vì sao rừng tảo bẹ quanh Monterey khoẻ hơn?)*
 
-- A. The water is warmer there. *(Vì nước ở đó ấm hơn.)*
-- B. There are more divers. *(Vì có nhiều thợ lặn hơn.)*
+- A. The water is warmer there, which helps the kelp grow. *(Vì nước ở đó ấm hơn, giúp tảo bẹ mọc.)*
+- B. Fishing businesses there have planted new kelp each year. *(Vì các cơ sở đánh bắt ở đó năm nào cũng trồng tảo bẹ mới.)*
 - C. Sea otters there eat large numbers of urchins. *(Vì rái cá biển ở đó ăn rất nhiều nhím biển.)*
-- D. There are no urchins there. *(Vì ở đó không có nhím biển.)*
+- D. There are no urchins there, so the kelp is never eaten. *(Vì ở đó không có nhím biển nên tảo bẹ không bao giờ bị ăn.)*
 
 **19. What does the diver mean by "You can't just plant a forest. You have to give it a reason to stay"?**
 *(Người thợ lặn muốn nói gì qua câu "Không thể chỉ trồng một khu rừng. Phải cho nó một lý do để ở lại"?)*
 
-- A. Kelp cannot be planted at all. *(Hoàn toàn không trồng được tảo bẹ.)*
-- B. Divers should stop planting kelp. *(Thợ lặn nên thôi trồng tảo bẹ.)*
-- C. Forests should be moved to new places. *(Nên chuyển rừng tới nơi mới.)*
-- D. Kelp will only last if the balance between plants and animals is restored. *(Tảo bẹ chỉ trụ lại được nếu thế cân bằng giữa thực vật và động vật được khôi phục.)*
+- A. Kelp cannot be planted at all, so the forests are lost forever. *(Hoàn toàn không trồng được tảo bẹ, nên các khu rừng mất vĩnh viễn.)*
+- B. Divers should stop planting kelp and leave the sea alone. *(Thợ lặn nên thôi trồng tảo bẹ và để yên biển.)*
+- C. Forests should be moved to new places where the water is colder. *(Nên chuyển rừng tới nơi mới có nước lạnh hơn.)*
+- D. Kelp only lasts if plants and animals are in balance again. *(Tảo bẹ chỉ trụ lại được khi thực vật và động vật cân bằng trở lại.)*
 
 **20. Use both texts. What do Helena's park project and the kelp recovery have in common?**
 *(Dựa vào cả hai bài. Dự án công viên của Helena và việc phục hồi tảo bẹ có điểm gì chung?)*
 
-- A. Both of them happen under the sea. *(Cả hai đều diễn ra dưới biển.)*
-- B. Both of them show that a damaged or empty place can become alive again when people plan carefully and take action. *(Cả hai cho thấy một nơi bị tàn phá hay bỏ phí có thể sống lại khi con người lên kế hoạch kỹ và bắt tay hành động.)*
-- C. Both of them depend on sea otters. *(Cả hai đều phụ thuộc vào rái cá biển.)*
-- D. Both of them were finished in 2014. *(Cả hai đều xong năm 2014.)*
+- A. Both of them happen under the sea, with the help of volunteer divers and a few sea otters in the bay. *(Cả hai đều diễn ra dưới biển, với sự giúp của thợ lặn tình nguyện và vài con rái cá trong vịnh.)*
+- B. Both show that a damaged or empty place can come alive again when people plan carefully and act. *(Cả hai cho thấy một nơi bị tàn phá hay bỏ phí có thể sống lại khi con người lên kế hoạch kỹ và hành động.)*
+- C. Both of them depend on sea otters eating the plants that grow there. *(Cả hai đều phụ thuộc vào rái cá biển ăn những loài cây mọc ở đó.)*
+- D. Both of them were finished in 2014 and paid for by the same company. *(Cả hai đều xong năm 2014 và do cùng một công ty chi trả.)*
 
 ---
 

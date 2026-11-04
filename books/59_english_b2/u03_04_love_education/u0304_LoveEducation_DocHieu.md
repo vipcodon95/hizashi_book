@@ -99,82 +99,82 @@
 **1. Why does Leah message Chloe in the middle of the night?**
 *(Vì sao Leah nhắn cho Chloe lúc nửa đêm?)*
 
-- A. to ask for a recipe *(để xin công thức làm bánh)*
-- B. to tell her about a difficult patient *(để kể về một bệnh nhân khó)*
-- C. to invite her to dinner *(để mời đi ăn tối)*
+- A. to ask Chloe for a recipe for a cake to bake for her patients *(để xin Chloe công thức làm bánh cho bệnh nhân của cô)*
+- B. to tell her about a difficult patient in the emergency room *(để kể về một bệnh nhân khó ở phòng cấp cứu)*
+- C. to invite her to dinner at the Italian place by the harbor *(để mời cô ấy đi ăn tối ở quán Ý bên bến cảng)*
 - D. She is upset because she missed Valentine's dinner with Ethan. *(Vì cô buồn khi lỡ bữa tối Valentine với Ethan.)*
 
 **2. Why did Leah miss the dinner?**
 *(Vì sao Leah lỡ bữa tối?)*
 
-- A. She forgot that it was Valentine's Day. *(Vì cô quên hôm đó là Valentine.)*
-- B. She was called in for an extra shift and forgot to text Ethan until nine. *(Vì cô bị gọi trực thêm ca và tới chín giờ mới nhớ nhắn cho Ethan.)*
-- C. She was angry with Ethan. *(Vì cô giận Ethan.)*
-- D. The restaurant was closed. *(Vì nhà hàng đóng cửa.)*
+- A. She forgot that it was Valentine's Day and went out with friends. *(Vì cô quên hôm đó là Valentine và đi chơi với bạn.)*
+- B. She was called in for an extra shift and forgot to text Ethan. *(Vì cô bị gọi trực thêm ca và quên nhắn cho Ethan.)*
+- C. She was angry with Ethan and decided not to go to the restaurant. *(Vì cô giận Ethan và quyết định không đến nhà hàng.)*
+- D. The restaurant was closed because of a problem at the harbor. *(Vì nhà hàng đóng cửa do có sự cố ở bến cảng.)*
 
 **3. Why does Leah say that Ethan's quiet "It's fine" was "much worse" than shouting?**
 *(Vì sao Leah nói câu "Không sao" nhẹ nhàng của Ethan "còn tệ hơn nhiều" so với quát?)*
 
-- A. It showed that he was deeply hurt, even though he didn't say so. *(Vì nó cho thấy anh rất buồn, dù không nói ra.)*
-- B. She couldn't hear him. *(Vì cô không nghe rõ.)*
-- C. He was laughing at her. *(Vì anh đang cười cô.)*
-- D. He was too tired to talk. *(Vì anh quá mệt để nói.)*
+- A. It showed that he was deeply hurt, though he didn't say so. *(Vì nó cho thấy anh rất buồn, dù anh không nói ra.)*
+- B. She couldn't hear him clearly because he spoke so quietly. *(Vì anh nói nhỏ quá nên cô không nghe rõ.)*
+- C. He was laughing at her mistake, and that made her feel very small. *(Vì anh đang cười trước lỗi của cô, khiến cô thấy mình thật nhỏ bé.)*
+- D. He was too tired after waiting at the restaurant to say more. *(Vì anh quá mệt sau khi chờ ở nhà hàng nên không nói thêm.)*
 
 **4. What does Leah mean by "If only I had sent one message!"?**
 *(Leah muốn nói gì qua câu "Giá mà tớ gửi lấy một tin!"?)*
 
-- A. She is going to send a message now. *(Cô sắp gửi tin nhắn.)*
-- B. She sent many messages. *(Cô đã gửi nhiều tin.)*
+- A. She is going to send Ethan a long message as soon as she can. *(Cô sắp gửi cho Ethan một tin nhắn dài ngay khi có thể.)*
+- B. She sent many messages during her shift, but Ethan never answered. *(Cô đã gửi nhiều tin trong ca trực, nhưng Ethan không trả lời.)*
 - C. She deeply regrets that she didn't send a message. *(Cô rất tiếc vì đã không gửi tin.)*
-- D. She doesn't like sending messages. *(Cô không thích nhắn tin.)*
+- D. She does not like sending messages, so she called him instead. *(Cô không thích nhắn tin nên đã gọi cho anh.)*
 
 **5. What does "If I had sent that message, he wouldn't be upset now" express?**
 *(Câu "Nếu tớ gửi tin đó thì giờ anh ấy đâu có buồn" diễn tả điều gì?)*
 
-- A. a plan for the future *(một kế hoạch tương lai)*
-- B. a habit in the past *(một thói quen trong quá khứ)*
-- C. a rule that is always true *(một quy luật luôn đúng)*
+- A. a plan for what she will do tomorrow *(một kế hoạch cho việc cô sẽ làm ngày mai)*
+- B. something that she used to do every week *(một việc cô từng làm mỗi tuần)*
+- C. a general rule about how busy couples behave *(một quy tắc chung về cách các cặp đôi bận rộn cư xử)*
 - D. how a past action could have changed the present *(một việc trong quá khứ lẽ ra đã thay đổi được hiện tại)*
 
 **6. What is Leah afraid of?**
 *(Leah sợ điều gì?)*
 
-- A. that she and Ethan are growing apart because they rarely see each other *(rằng cô và Ethan đang xa nhau dần vì hiếm khi gặp nhau)*
-- B. that she will lose her job *(rằng cô sẽ mất việc)*
-- C. that Chloe is angry with her *(rằng Chloe giận cô)*
-- D. that Ethan has a new girlfriend *(rằng Ethan có bạn gái mới)*
+- A. that she and Ethan are growing apart because they rarely meet *(rằng cô và Ethan đang xa nhau dần vì hiếm khi gặp)*
+- B. that she will lose her job if she keeps making mistakes *(rằng cô sẽ mất việc nếu cứ mắc lỗi)*
+- C. that Chloe is angry with her for calling in the middle of the night *(rằng Chloe giận cô vì gọi giữa đêm)*
+- D. that Ethan has found a new girlfriend who has more free time *(rằng Ethan đã có bạn gái mới rảnh rỗi hơn)*
 
 **7. According to Chloe, what is the real problem between Leah and Ethan?**
 *(Theo Chloe, vấn đề thật sự giữa Leah và Ethan là gì?)*
 
-- A. They don't love each other. *(Hai người không yêu nhau.)*
-- B. They are not compatible. *(Hai người không hợp nhau.)*
+- A. They have stopped loving each other since the missed dinner. *(Hai người đã hết yêu nhau từ sau bữa tối bị lỡ.)*
+- B. They are not compatible, because they both work too hard. *(Hai người không hợp nhau, vì cả hai đều làm việc quá sức.)*
 - C. Their work schedules, not their feelings. *(Lịch làm việc, chứ không phải tình cảm.)*
-- D. Ethan doesn't like Italian food. *(Ethan không thích đồ Ý.)*
+- D. Ethan doesn't like Italian food or restaurants by the harbor. *(Ethan không thích đồ Ý hay các nhà hàng bên bến cảng.)*
 
 **8. Why did Chloe and Dustin decide not to have important conversations by text?**
 *(Vì sao Chloe và Dustin quyết định không nói chuyện quan trọng qua tin nhắn?)*
 
-- A. Dustin doesn't have a phone. *(Vì Dustin không có điện thoại.)*
+- A. Dustin does not own a phone, so they have to speak face to face. *(Vì Dustin không có điện thoại nên hai người phải nói chuyện trực tiếp.)*
 - B. Messages make things sound colder than they really are. *(Vì tin nhắn làm mọi thứ nghe lạnh lùng hơn thực tế.)*
-- C. Texting is too expensive. *(Vì nhắn tin quá đắt.)*
-- D. They live in different cities. *(Vì hai người sống ở hai thành phố.)*
+- C. Texting is too expensive for two people with their salaries. *(Vì nhắn tin quá đắt với mức lương của hai người.)*
+- D. They work in different cities and talk on the phone every day. *(Vì hai người làm việc ở hai thành phố và ngày nào cũng gọi điện.)*
 
 **9. What does Chloe advise Leah to do?**
 *(Chloe khuyên Leah làm gì?)*
 
-- A. apologize in person and choose one evening a week together *(xin lỗi trực tiếp và cùng chọn một buổi tối mỗi tuần)*
-- B. send Ethan a long message *(gửi cho Ethan một tin nhắn dài)*
-- C. stop working extra shifts forever *(thôi trực thêm ca mãi mãi)*
-- D. wait for Ethan to call *(chờ Ethan gọi)*
+- A. apologize in person and choose one evening each week *(xin lỗi trực tiếp và chọn một buổi tối mỗi tuần)*
+- B. send Ethan a long message that explains her shift in detail *(gửi Ethan một tin nhắn dài giải thích ca trực của cô)*
+- C. ask her boss to move her to a job with no night shifts *(xin sếp chuyển sang việc không phải trực đêm)*
+- D. wait for Ethan to call her when he is ready to talk *(chờ Ethan gọi khi anh sẵn sàng nói chuyện)*
 
 **10. What does Chloe mean by "It isn't easy. It's simple. Those are different things."?**
 *(Chloe muốn nói gì qua câu "Nó không dễ. Nó đơn giản. Hai cái đó khác nhau."?)*
 
-- A. The plan is too complicated. *(Kế hoạch quá phức tạp.)*
-- B. Leah should give up. *(Leah nên từ bỏ.)*
+- A. The plan is too complicated for two people with such busy schedules. *(Kế hoạch quá phức tạp với hai người có lịch bận như vậy.)*
+- B. Leah should give up on the idea of a weekly evening. *(Leah nên từ bỏ ý định có một buổi tối mỗi tuần.)*
 - C. What to do is clear, even though doing it takes effort. *(Việc cần làm rất rõ, dù làm được thì phải cố gắng.)*
-- D. Chloe doesn't understand Leah's problem. *(Chloe không hiểu vấn đề của Leah.)*
+- D. Chloe doesn't understand how hard Leah's problem really is. *(Chloe không hiểu vấn đề của Leah khó đến mức nào.)*
 
 ---
 
@@ -219,18 +219,18 @@
 **11. What is the article mainly about?**
 *(Bài báo chủ yếu nói về điều gì?)*
 
-- A. how to get an A in every subject *(cách đạt điểm A mọi môn)*
-- B. whether grades help students learn, and different views on the question *(điểm số có giúp học sinh học tốt không, và các quan điểm khác nhau)*
-- C. the life of Ruth Butler *(cuộc đời Ruth Butler)*
-- D. why colleges should stop using grades *(vì sao đại học nên thôi dùng điểm)*
+- A. how students can get an A in every subject with less study *(cách học sinh đạt điểm A mọi môn mà học ít hơn)*
+- B. whether grades help students learn, and what different people think *(điểm số có giúp học sinh học tốt không, và mỗi người nghĩ gì)*
+- C. the life and career of the psychologist Ruth Butler in Israel *(cuộc đời và sự nghiệp của nhà tâm lý học Ruth Butler ở Israel)*
+- D. why colleges and employers should stop using grades *(vì sao đại học và nhà tuyển dụng nên thôi dùng điểm)*
 
 **12. How were the students in Butler's study divided?**
 *(Học sinh trong nghiên cứu của Butler được chia thế nào?)*
 
-- A. into boys and girls *(theo trai và gái)*
-- B. into two groups by age *(thành hai nhóm theo tuổi)*
-- C. by their earlier grades *(theo điểm trước đó)*
-- D. into three groups: comments only, grades only, and both *(thành ba nhóm: chỉ nhận xét, chỉ điểm, và cả hai)*
+- A. into two groups, one of boys and one of girls *(thành hai nhóm, một nhóm nam và một nhóm nữ)*
+- B. into four groups, according to their age and their earlier results *(thành bốn nhóm, theo tuổi và kết quả trước đó)*
+- C. according to the grades they had received in earlier tests *(theo điểm họ đã nhận trong các bài kiểm tra trước)*
+- D. into three groups: comments only, grades only, or both *(thành ba nhóm: chỉ nhận xét, chỉ điểm, hoặc cả hai)*
 
 **13. Which group did the best when the students did similar tasks again?**
 *(Khi làm lại bài tương tự, nhóm nào làm tốt nhất?)*
@@ -243,58 +243,58 @@
 **14. According to Butler, why did the group with grades and comments do no better than the grades-only group?**
 *(Theo Butler, vì sao nhóm nhận cả điểm lẫn nhận xét không khá hơn nhóm chỉ nhận điểm?)*
 
-- A. Their comments were too short. *(Vì lời nhận xét quá ngắn.)*
-- B. Their tasks were harder. *(Vì bài của họ khó hơn.)*
+- A. Their comments were so short that nobody understood them. *(Vì lời nhận xét ngắn đến mức chẳng ai hiểu.)*
+- B. Their tasks were harder than those of the other groups. *(Vì bài của họ khó hơn bài của các nhóm khác.)*
 - C. Once students saw a grade, they mostly ignored the comments. *(Vì một khi đã thấy điểm, học sinh gần như bỏ qua nhận xét.)*
-- D. They didn't receive any grades. *(Vì họ không nhận được điểm nào.)*
+- D. They didn't receive any grades, so they worked less hard. *(Vì họ không nhận điểm nào nên làm việc kém chăm chỉ hơn.)*
 
 **15. What does "the more students focus on the number, the less attention they pay to how they could improve" mean?**
 *(Câu "học sinh càng chú tâm vào con số thì càng ít để ý tới cách mình có thể tiến bộ" nghĩa là gì?)*
 
-- A. Students who like numbers are better at math. *(Học sinh thích con số thì giỏi toán hơn.)*
+- A. Students who like numbers a lot are usually better at math and science. *(Học sinh rất thích con số thường giỏi toán và khoa học hơn.)*
 - B. Paying attention to grades makes students think less about improving. *(Càng để tâm vào điểm thì học sinh càng ít nghĩ tới việc tiến bộ.)*
-- C. Students should pay more attention in class. *(Học sinh nên chú ý hơn trong lớp.)*
-- D. Grades help students improve quickly. *(Điểm số giúp học sinh tiến bộ nhanh.)*
+- C. Students should pay more attention to the teacher in class. *(Học sinh nên chú ý đến giáo viên nhiều hơn trong lớp.)*
+- D. Grades help students improve quickly because they are so clear. *(Điểm số giúp học sinh tiến bộ nhanh vì rất rõ ràng.)*
 
 **16. Why might grades push students toward easy choices?**
 *(Vì sao điểm số có thể đẩy học sinh tới lựa chọn dễ dãi?)*
 
-- A. Easy subjects are more interesting. *(Vì môn dễ thú vị hơn.)*
-- B. Teachers prefer easy subjects. *(Vì giáo viên thích môn dễ.)*
-- C. Colleges only accept easy subjects. *(Vì đại học chỉ nhận môn dễ.)*
+- A. Easy subjects are more interesting, so students choose them first. *(Vì môn dễ thú vị hơn nên học sinh chọn chúng trước.)*
+- B. Teachers prefer to teach easy subjects to large classes. *(Vì giáo viên thích dạy môn dễ cho lớp đông.)*
+- C. Colleges only accept students who chose the easy subjects. *(Vì đại học chỉ nhận học sinh đã chọn môn dễ.)*
 - D. A difficult elective might lower a student's average. *(Vì một môn tự chọn khó có thể kéo điểm trung bình xuống.)*
 
 **17. Which of these is an argument FOR using grades?**
 *(Lý lẽ nào ỦNG HỘ việc chấm điểm?)*
 
 - A. Grades are quick, clear and easy to compare. *(Điểm số nhanh, rõ ràng và dễ so sánh.)*
-- B. Grades make students ignore comments. *(Điểm số khiến học sinh bỏ qua nhận xét.)*
-- C. Grades push students toward easy choices. *(Điểm số đẩy học sinh tới lựa chọn dễ dãi.)*
-- D. Grades stop students from improving. *(Điểm số làm học sinh không tiến bộ.)*
+- B. Grades make students ignore the comments on their work. *(Điểm số khiến học sinh bỏ qua nhận xét trên bài làm.)*
+- C. Grades push students toward easy choices in their courses. *(Điểm số đẩy học sinh tới những lựa chọn dễ dãi trong khoá học.)*
+- D. Grades stop students from improving their work over time. *(Điểm số khiến học sinh không cải thiện bài làm theo thời gian.)*
 
 **18. Why does the writer say "a single study, however famous, cannot prove that grades are harmful in every classroom"?**
 *(Vì sao người viết nói "một nghiên cứu đơn lẻ, dù nổi tiếng tới đâu, cũng không chứng minh được điểm số có hại ở mọi lớp học"?)*
 
-- A. to show that Butler's study was wrong *(để cho thấy nghiên cứu của Butler sai)*
-- B. to advertise a new study *(để quảng cáo một nghiên cứu mới)*
+- A. to show that Butler's study was badly planned and should be ignored *(để cho thấy nghiên cứu của Butler được thiết kế tệ và nên bị bỏ qua)*
+- B. to advertise a new study that will be published soon *(để quảng cáo một nghiên cứu mới sắp được công bố)*
 - C. to warn readers not to draw too big a conclusion from one study *(để nhắc người đọc đừng rút ra kết luận quá lớn từ một nghiên cứu)*
-- D. to say that grades are always helpful *(để nói điểm số luôn có ích)*
+- D. to say that grades are always helpful in every classroom *(để nói điểm số luôn có ích trong mọi lớp học)*
 
 **19. What do some teachers now do?**
 *(Một số giáo viên giờ làm gì?)*
 
-- A. They give no feedback at all. *(Hoàn toàn không góp ý.)*
+- A. They give no feedback at all until the end of the year. *(Họ hoàn toàn không góp ý cho đến cuối năm.)*
 - B. They give comments first and grades a few days later. *(Đưa nhận xét trước, vài ngày sau mới cho điểm.)*
-- C. They give only grades. *(Chỉ cho điểm.)*
-- D. They let students grade themselves. *(Để học sinh tự chấm.)*
+- C. They give only grades, and they give them very quickly. *(Họ chỉ cho điểm, và cho rất nhanh.)*
+- D. They let students grade themselves before the teacher reads the work. *(Họ để học sinh tự chấm trước khi giáo viên đọc bài.)*
 
 **20. Use both texts. Which idea do Chloe's rule about texting and Butler's study share?**
 *(Dựa vào cả hai bài. Quy tắc nhắn tin của Chloe và nghiên cứu của Butler có chung ý nào?)*
 
-- A. People should never use phones. *(Không bao giờ nên dùng điện thoại.)*
+- A. People should never use phones, because they make students lazy. *(Không bao giờ nên dùng điện thoại, vì chúng khiến học sinh lười.)*
 - B. Grades are more important than feelings. *(Điểm số quan trọng hơn cảm xúc.)*
-- C. Comments are always better than grades. *(Nhận xét lúc nào cũng tốt hơn điểm.)*
-- D. The way that a message is given can change how people react to it. *(Cách truyền đạt một thông điệp có thể làm thay đổi cách người ta phản ứng.)*
+- C. Comments are always better than grades, and texts are always colder. *(Nhận xét lúc nào cũng tốt hơn điểm, và tin nhắn lúc nào cũng lạnh lùng hơn.)*
+- D. The way a message is given can change how people react to it. *(Cách truyền đạt một thông điệp có thể làm thay đổi cách người ta phản ứng.)*
 
 ---
 

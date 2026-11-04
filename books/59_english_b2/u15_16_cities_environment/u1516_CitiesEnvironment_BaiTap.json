@@ -600,46 +600,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to complain about the library",
-            "vi": "để phàn nàn về thư viện"
+            "en": "to complain about the library for closing the parking lot",
+            "vi": "để phàn nàn thư viện vì đóng bãi đỗ xe"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to complain about the library",
-          "text_translation": "để phàn nàn về thư viện"
+          "text": "to complain about the library for closing the parking lot",
+          "text_translation": "để phàn nàn thư viện vì đóng bãi đỗ xe"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to ask neighbors to stop driving",
-            "vi": "để kêu gọi hàng xóm thôi lái xe"
+            "en": "to ask neighbors to stop driving to the library on Saturdays",
+            "vi": "để kêu gọi hàng xóm thôi lái xe tới thư viện vào thứ Bảy"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to ask neighbors to stop driving",
-          "text_translation": "để kêu gọi hàng xóm thôi lái xe"
+          "text": "to ask neighbors to stop driving to the library on Saturdays",
+          "text_translation": "để kêu gọi hàng xóm thôi lái xe tới thư viện vào thứ Bảy"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to explain how the parking lot will be turned into a park",
-            "vi": "để giải thích bãi đỗ xe sẽ được biến thành công viên thế nào"
+            "en": "to explain how the parking lot will become a small park",
+            "vi": "để giải thích bãi đỗ xe sẽ trở thành một công viên nhỏ thế nào"
           },
           "is_correct": true,
           "order": 2,
-          "text": "to explain how the parking lot will be turned into a park",
-          "text_translation": "để giải thích bãi đỗ xe sẽ được biến thành công viên thế nào"
+          "text": "to explain how the parking lot will become a small park",
+          "text_translation": "để giải thích bãi đỗ xe sẽ trở thành một công viên nhỏ thế nào"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to sell parking spaces",
-            "vi": "để bán chỗ đỗ xe"
+            "en": "to sell parking spaces behind the library to neighbors",
+            "vi": "để bán chỗ đỗ xe sau thư viện cho hàng xóm"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to sell parking spaces",
-          "text_translation": "để bán chỗ đỗ xe"
+          "text": "to sell parking spaces behind the library to neighbors",
+          "text_translation": "để bán chỗ đỗ xe sau thư viện cho hàng xóm"
         }
       ],
       "evidence_segments": [
@@ -668,46 +668,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The lot is almost always empty, and there is no park within walking distance.",
-            "vi": "Bãi đỗ gần như luôn trống, mà quanh đó không có công viên nào đi bộ tới được."
+            "en": "The lot is almost always empty, and no park is within walking distance.",
+            "vi": "Bãi đỗ gần như luôn trống, và không có công viên nào đi bộ tới được."
           },
           "is_correct": true,
           "order": 0,
-          "text": "The lot is almost always empty, and there is no park within walking distance.",
-          "text_translation": "Bãi đỗ gần như luôn trống, mà quanh đó không có công viên nào đi bộ tới được."
+          "text": "The lot is almost always empty, and no park is within walking distance.",
+          "text_translation": "Bãi đỗ gần như luôn trống, và không có công viên nào đi bộ tới được."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The library asked for a park.",
-            "vi": "Thư viện đề nghị làm công viên."
+            "en": "The library asked the neighbors to build a park for its visitors on Saturdays.",
+            "vi": "Thư viện nhờ hàng xóm xây công viên cho khách của họ vào thứ Bảy."
           },
           "is_correct": false,
           "order": 1,
-          "text": "The library asked for a park.",
-          "text_translation": "Thư viện đề nghị làm công viên."
+          "text": "The library asked the neighbors to build a park for its visitors on Saturdays.",
+          "text_translation": "Thư viện nhờ hàng xóm xây công viên cho khách của họ vào thứ Bảy."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "A tennis club wanted new courts.",
-            "vi": "Một câu lạc bộ quần vợt muốn sân mới."
+            "en": "A tennis club wanted to build six new courts for its members.",
+            "vi": "Một câu lạc bộ quần vợt muốn xây sáu sân mới cho hội viên."
           },
           "is_correct": false,
           "order": 2,
-          "text": "A tennis club wanted new courts.",
-          "text_translation": "Một câu lạc bộ quần vợt muốn sân mới."
+          "text": "A tennis club wanted to build six new courts for its members.",
+          "text_translation": "Một câu lạc bộ quần vợt muốn xây sáu sân mới cho hội viên."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The parking lot was too small.",
-            "vi": "Bãi đỗ quá nhỏ."
+            "en": "The parking lot was too small for the library's visitors.",
+            "vi": "Bãi đỗ quá nhỏ so với khách của thư viện."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The parking lot was too small.",
-          "text_translation": "Bãi đỗ quá nhỏ."
+          "text": "The parking lot was too small for the library's visitors.",
+          "text_translation": "Bãi đỗ quá nhỏ so với khách của thư viện."
         }
       ],
       "evidence_segments": [
@@ -736,13 +736,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to show that the park was her own idea",
-            "vi": "để cho thấy công viên là ý của riêng chị"
+            "en": "to show that the park was Helena's own idea from the start",
+            "vi": "để cho thấy công viên là ý của riêng Helena từ đầu"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to show that the park was her own idea",
-          "text_translation": "để cho thấy công viên là ý của riêng chị"
+          "text": "to show that the park was Helena's own idea from the start",
+          "text_translation": "để cho thấy công viên là ý của riêng Helena từ đầu"
         },
         {
           "id": "B",
@@ -804,46 +804,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "All of it will be thrown away.",
-            "vi": "Bỏ đi toàn bộ."
+            "en": "All of it will be thrown away, and the library will pay for new asphalt.",
+            "vi": "Bỏ đi toàn bộ, và thư viện sẽ trả tiền làm nhựa đường mới."
           },
           "is_correct": false,
           "order": 0,
-          "text": "All of it will be thrown away.",
-          "text_translation": "Bỏ đi toàn bộ."
+          "text": "All of it will be thrown away, and the library will pay for new asphalt.",
+          "text_translation": "Bỏ đi toàn bộ, và thư viện sẽ trả tiền làm nhựa đường mới."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "It will be removed, and about a third of it will be broken up and used under the new paths.",
-            "vi": "Được bóc lên, và khoảng một phần ba được đập nhỏ dùng làm nền lối đi mới."
+            "en": "It will be removed, and about a third will be used again under the new paths.",
+            "vi": "Được bóc lên, và khoảng một phần ba được dùng lại làm nền lối đi mới."
           },
           "is_correct": true,
           "order": 1,
-          "text": "It will be removed, and about a third of it will be broken up and used under the new paths.",
-          "text_translation": "Được bóc lên, và khoảng một phần ba được đập nhỏ dùng làm nền lối đi mới."
+          "text": "It will be removed, and about a third will be used again under the new paths.",
+          "text_translation": "Được bóc lên, và khoảng một phần ba được dùng lại làm nền lối đi mới."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "It will be painted green.",
-            "vi": "Được sơn xanh."
+            "en": "It will be painted green and used as a path.",
+            "vi": "Được sơn xanh và dùng làm lối đi."
           },
           "is_correct": false,
           "order": 2,
-          "text": "It will be painted green.",
-          "text_translation": "Được sơn xanh."
+          "text": "It will be painted green and used as a path.",
+          "text_translation": "Được sơn xanh và dùng làm lối đi."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "It will be kept for parking.",
-            "vi": "Được giữ lại để đỗ xe."
+            "en": "It will be kept for parking cars on Saturday mornings.",
+            "vi": "Được giữ lại để đỗ xe vào sáng thứ Bảy."
           },
           "is_correct": false,
           "order": 3,
-          "text": "It will be kept for parking.",
-          "text_translation": "Được giữ lại để đỗ xe."
+          "text": "It will be kept for parking cars on Saturday mornings.",
+          "text_translation": "Được giữ lại để đỗ xe vào sáng thứ Bảy."
         }
       ],
       "evidence_segments": [
@@ -905,13 +905,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "so that cars can park there",
-            "vi": "để ô tô đỗ ở đó"
+            "en": "so that cars can park there when it rains",
+            "vi": "để ô tô đỗ ở đó khi trời mưa"
           },
           "is_correct": false,
           "order": 3,
-          "text": "so that cars can park there",
-          "text_translation": "để ô tô đỗ ở đó"
+          "text": "so that cars can park there when it rains",
+          "text_translation": "để ô tô đỗ ở đó khi trời mưa"
         }
       ],
       "evidence_segments": [
@@ -940,46 +940,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "along the north side, to give shade to the benches in the afternoon",
+            "en": "along the north side, to shade the benches in the afternoon",
             "vi": "dọc phía bắc, để che bóng cho băng ghế buổi chiều"
           },
           "is_correct": true,
           "order": 0,
-          "text": "along the north side, to give shade to the benches in the afternoon",
+          "text": "along the north side, to shade the benches in the afternoon",
           "text_translation": "dọc phía bắc, để che bóng cho băng ghế buổi chiều"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "next to the ramp, to hide it",
-            "vi": "cạnh đường dốc, để che nó đi"
+            "en": "next to the ramp, to hide it from the street",
+            "vi": "cạnh đường dốc, để che nó khỏi đường phố"
           },
           "is_correct": false,
           "order": 1,
-          "text": "next to the ramp, to hide it",
-          "text_translation": "cạnh đường dốc, để che nó đi"
+          "text": "next to the ramp, to hide it from the street",
+          "text_translation": "cạnh đường dốc, để che nó khỏi đường phố"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "in the southeast corner, around the free library",
-            "vi": "ở góc đông nam, quanh tủ sách"
+            "en": "in the southeast corner, to give shade to the free library in the morning",
+            "vi": "ở góc đông nam, để che bóng cho tủ sách vào buổi sáng"
           },
           "is_correct": false,
           "order": 2,
-          "text": "in the southeast corner, around the free library",
-          "text_translation": "ở góc đông nam, quanh tủ sách"
+          "text": "in the southeast corner, to give shade to the free library in the morning",
+          "text_translation": "ở góc đông nam, để che bóng cho tủ sách vào buổi sáng"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "along the street, to block the noise",
-            "vi": "dọc đường, để chắn tiếng ồn"
+            "en": "along the street, to block the noise from cars",
+            "vi": "dọc đường, để chắn tiếng ồn từ ô tô"
           },
           "is_correct": false,
           "order": 3,
-          "text": "along the street, to block the noise",
-          "text_translation": "dọc đường, để chắn tiếng ồn"
+          "text": "along the street, to block the noise from cars",
+          "text_translation": "dọc đường, để chắn tiếng ồn từ ô tô"
         }
       ],
       "evidence_segments": [
@@ -1008,35 +1008,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "cyclists",
-            "vi": "người đi xe đạp"
+            "en": "cyclists who ride to the library",
+            "vi": "người đi xe đạp tới thư viện"
           },
           "is_correct": false,
           "order": 0,
-          "text": "cyclists",
-          "text_translation": "người đi xe đạp"
+          "text": "cyclists who ride to the library",
+          "text_translation": "người đi xe đạp tới thư viện"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "delivery trucks",
-            "vi": "xe tải giao hàng"
+            "en": "delivery trucks that bring new books to the library",
+            "vi": "xe tải giao sách mới tới thư viện"
           },
           "is_correct": false,
           "order": 1,
-          "text": "delivery trucks",
-          "text_translation": "xe tải giao hàng"
+          "text": "delivery trucks that bring new books to the library",
+          "text_translation": "xe tải giao sách mới tới thư viện"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "library staff only",
-            "vi": "chỉ nhân viên thư viện"
+            "en": "library staff who carry heavy boxes",
+            "vi": "nhân viên thư viện khuân các thùng nặng"
           },
           "is_correct": false,
           "order": 2,
-          "text": "library staff only",
-          "text_translation": "chỉ nhân viên thư viện"
+          "text": "library staff who carry heavy boxes",
+          "text_translation": "nhân viên thư viện khuân các thùng nặng"
         },
         {
           "id": "D",
@@ -1076,13 +1076,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "next to the ramp",
-            "vi": "cạnh đường dốc"
+            "en": "next to the ramp at the main entrance",
+            "vi": "cạnh đường dốc ở lối vào chính"
           },
           "is_correct": false,
           "order": 0,
-          "text": "next to the ramp",
-          "text_translation": "cạnh đường dốc"
+          "text": "next to the ramp at the main entrance",
+          "text_translation": "cạnh đường dốc ở lối vào chính"
         },
         {
           "id": "B",
@@ -1098,24 +1098,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "inside the Pine Street Library",
-            "vi": "bên trong thư viện Pine Street"
+            "en": "inside the library, near the front desk",
+            "vi": "bên trong thư viện, gần quầy lễ tân"
           },
           "is_correct": false,
           "order": 2,
-          "text": "inside the Pine Street Library",
-          "text_translation": "bên trong thư viện Pine Street"
+          "text": "inside the library, near the front desk",
+          "text_translation": "bên trong thư viện, gần quầy lễ tân"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "across the road",
-            "vi": "bên kia đường"
+            "en": "across the road, in the community center",
+            "vi": "bên kia đường, trong trung tâm cộng đồng"
           },
           "is_correct": false,
           "order": 3,
-          "text": "across the road",
-          "text_translation": "bên kia đường"
+          "text": "across the road, in the community center",
+          "text_translation": "bên kia đường, trong trung tâm cộng đồng"
         }
       ],
       "evidence_segments": [
@@ -1144,46 +1144,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Ten spaces will be kept, and on busy Saturday mornings, cars can use a parking lot across the road.",
-            "vi": "Giữ lại mười chỗ, và sáng thứ Bảy đông người thì ô tô được đỗ ở bãi bên kia đường."
+            "en": "Ten spaces will be kept, and cars can use a lot across the road on busy Saturdays.",
+            "vi": "Giữ lại mười chỗ, và ô tô được đỗ ở bãi bên kia đường vào những sáng thứ Bảy đông."
           },
           "is_correct": true,
           "order": 0,
-          "text": "Ten spaces will be kept, and on busy Saturday mornings, cars can use a parking lot across the road.",
-          "text_translation": "Giữ lại mười chỗ, và sáng thứ Bảy đông người thì ô tô được đỗ ở bãi bên kia đường."
+          "text": "Ten spaces will be kept, and cars can use a lot across the road on busy Saturdays.",
+          "text_translation": "Giữ lại mười chỗ, và ô tô được đỗ ở bãi bên kia đường vào những sáng thứ Bảy đông."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "No cars will be allowed on Pine Street.",
-            "vi": "Cấm ô tô trên phố Pine."
+            "en": "No cars will be allowed on Pine Street, and the library will close its Saturday events.",
+            "vi": "Cấm ô tô trên phố Pine, và thư viện sẽ ngừng các sự kiện thứ Bảy."
           },
           "is_correct": false,
           "order": 1,
-          "text": "No cars will be allowed on Pine Street.",
-          "text_translation": "Cấm ô tô trên phố Pine."
+          "text": "No cars will be allowed on Pine Street, and the library will close its Saturday events.",
+          "text_translation": "Cấm ô tô trên phố Pine, và thư viện sẽ ngừng các sự kiện thứ Bảy."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "A new parking building will be built.",
-            "vi": "Xây một toà nhà đỗ xe mới."
+            "en": "A new parking building will be built next to the community center.",
+            "vi": "Xây một toà nhà đỗ xe mới cạnh trung tâm cộng đồng."
           },
           "is_correct": false,
           "order": 2,
-          "text": "A new parking building will be built.",
-          "text_translation": "Xây một toà nhà đỗ xe mới."
+          "text": "A new parking building will be built next to the community center.",
+          "text_translation": "Xây một toà nhà đỗ xe mới cạnh trung tâm cộng đồng."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The park will close on Saturdays.",
-            "vi": "Công viên đóng cửa thứ Bảy."
+            "en": "The park will close on Saturdays when the library holds events.",
+            "vi": "Công viên đóng cửa vào thứ Bảy khi thư viện có sự kiện."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The park will close on Saturdays.",
-          "text_translation": "Công viên đóng cửa thứ Bảy."
+          "text": "The park will close on Saturdays when the library holds events.",
+          "text_translation": "Công viên đóng cửa vào thứ Bảy khi thư viện có sự kiện."
         }
       ],
       "evidence_segments": [
@@ -1213,46 +1213,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The park is already open.",
-            "vi": "Công viên đã mở."
+            "en": "The park is already open, and Helena is writing about its first week.",
+            "vi": "Công viên đã mở, và Helena đang viết về tuần đầu tiên."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The park is already open.",
-          "text_translation": "Công viên đã mở."
+          "text": "The park is already open, and Helena is writing about its first week.",
+          "text_translation": "Công viên đã mở, và Helena đang viết về tuần đầu tiên."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The plan has been cancelled.",
-            "vi": "Kế hoạch đã bị huỷ."
+            "en": "The plan has been cancelled because the neighbors disagreed.",
+            "vi": "Kế hoạch đã bị huỷ vì hàng xóm không đồng ý."
           },
           "is_correct": false,
           "order": 1,
-          "text": "The plan has been cancelled.",
-          "text_translation": "Kế hoạch đã bị huỷ."
+          "text": "The plan has been cancelled because the neighbors disagreed.",
+          "text_translation": "Kế hoạch đã bị huỷ vì hàng xóm không đồng ý."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The opening date depends on the work going well and could change.",
-            "vi": "Ngày mở cửa phụ thuộc vào việc thi công suôn sẻ và có thể thay đổi."
+            "en": "The date depends on the work going well and could change.",
+            "vi": "Ngày mở cửa phụ thuộc vào việc thi công suôn sẻ và có thể đổi."
           },
           "is_correct": true,
           "order": 2,
-          "text": "The opening date depends on the work going well and could change.",
-          "text_translation": "Ngày mở cửa phụ thuộc vào việc thi công suôn sẻ và có thể thay đổi."
+          "text": "The date depends on the work going well and could change.",
+          "text_translation": "Ngày mở cửa phụ thuộc vào việc thi công suôn sẻ và có thể đổi."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Helena is sure that there will be no problems.",
-            "vi": "Helena chắc chắn sẽ không có trục trặc."
+            "en": "Helena is sure that there will be no problems with the work.",
+            "vi": "Helena chắc chắn việc thi công sẽ không có trục trặc."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Helena is sure that there will be no problems.",
-          "text_translation": "Helena chắc chắn sẽ không có trục trặc."
+          "text": "Helena is sure that there will be no problems with the work.",
+          "text_translation": "Helena chắc chắn việc thi công sẽ không có trục trặc."
         }
       ],
       "evidence_segments": [
@@ -1281,46 +1281,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "how to dive safely",
-            "vi": "cách lặn an toàn"
+            "en": "how to dive safely in the cold waters off California",
+            "vi": "cách lặn an toàn ở vùng nước lạnh ngoài khơi California"
           },
           "is_correct": false,
           "order": 0,
-          "text": "how to dive safely",
-          "text_translation": "cách lặn an toàn"
+          "text": "how to dive safely in the cold waters off California",
+          "text_translation": "cách lặn an toàn ở vùng nước lạnh ngoài khơi California"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "why California's kelp forests have disappeared and how they might recover",
-            "vi": "vì sao rừng tảo bẹ California biến mất và chúng có thể hồi phục thế nào"
+            "en": "why California's kelp forests disappeared and how they may recover",
+            "vi": "vì sao rừng tảo bẹ California biến mất và có thể hồi phục thế nào"
           },
           "is_correct": true,
           "order": 1,
-          "text": "why California's kelp forests have disappeared and how they might recover",
-          "text_translation": "vì sao rừng tảo bẹ California biến mất và chúng có thể hồi phục thế nào"
+          "text": "why California's kelp forests disappeared and how they may recover",
+          "text_translation": "vì sao rừng tảo bẹ California biến mất và có thể hồi phục thế nào"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "the life of sea otters",
-            "vi": "đời sống rái cá biển"
+            "en": "the life of sea otters and why they eat so many urchins",
+            "vi": "đời sống rái cá biển và vì sao chúng ăn nhiều nhím biển"
           },
           "is_correct": false,
           "order": 2,
-          "text": "the life of sea otters",
-          "text_translation": "đời sống rái cá biển"
+          "text": "the life of sea otters and why they eat so many urchins",
+          "text_translation": "đời sống rái cá biển và vì sao chúng ăn nhiều nhím biển"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "fishing businesses in Monterey",
-            "vi": "các cơ sở đánh bắt ở Monterey"
+            "en": "fishing businesses in Monterey and the divers who lost work",
+            "vi": "các cơ sở đánh bắt ở Monterey và những thợ lặn mất việc"
           },
           "is_correct": false,
           "order": 3,
-          "text": "fishing businesses in Monterey",
-          "text_translation": "các cơ sở đánh bắt ở Monterey"
+          "text": "fishing businesses in Monterey and the divers who lost work",
+          "text_translation": "các cơ sở đánh bắt ở Monterey và những thợ lặn mất việc"
         }
       ],
       "evidence_segments": [
@@ -1349,35 +1349,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "a kind of sea star",
-            "vi": "một loài sao biển"
+            "en": "a kind of sea star that eats urchins in cold water",
+            "vi": "một loài sao biển ăn nhím biển ở vùng nước lạnh"
           },
           "is_correct": false,
           "order": 0,
-          "text": "a kind of sea star",
-          "text_translation": "một loài sao biển"
+          "text": "a kind of sea star that eats urchins in cold water",
+          "text_translation": "một loài sao biển ăn nhím biển ở vùng nước lạnh"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "a type of fish",
-            "vi": "một loài cá"
+            "en": "a type of fish that lives in the forests",
+            "vi": "một loài cá sống trong các khu rừng"
           },
           "is_correct": false,
           "order": 1,
-          "text": "a type of fish",
-          "text_translation": "một loài cá"
+          "text": "a type of fish that lives in the forests",
+          "text_translation": "một loài cá sống trong các khu rừng"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "a disease",
-            "vi": "một dịch bệnh"
+            "en": "a disease that killed millions of sea stars",
+            "vi": "một dịch bệnh giết hàng triệu sao biển"
           },
           "is_correct": false,
           "order": 2,
-          "text": "a disease",
-          "text_translation": "một dịch bệnh"
+          "text": "a disease that killed millions of sea stars",
+          "text_translation": "một dịch bệnh giết hàng triệu sao biển"
         },
         {
           "id": "D",
@@ -1428,35 +1428,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "It made the kelp grow faster.",
-            "vi": "Nó làm tảo bẹ mọc nhanh hơn."
+            "en": "It made the kelp grow faster, because kelp loves warm water.",
+            "vi": "Nó làm tảo bẹ mọc nhanh hơn, vì tảo bẹ thích nước ấm."
           },
           "is_correct": false,
           "order": 1,
-          "text": "It made the kelp grow faster.",
-          "text_translation": "Nó làm tảo bẹ mọc nhanh hơn."
+          "text": "It made the kelp grow faster, because kelp loves warm water.",
+          "text_translation": "Nó làm tảo bẹ mọc nhanh hơn, vì tảo bẹ thích nước ấm."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "It killed the sea otters.",
-            "vi": "Nó giết rái cá biển."
+            "en": "It killed the sea otters along the coast.",
+            "vi": "Nó giết rái cá biển dọc bờ biển."
           },
           "is_correct": false,
           "order": 2,
-          "text": "It killed the sea otters.",
-          "text_translation": "Nó giết rái cá biển."
+          "text": "It killed the sea otters along the coast.",
+          "text_translation": "Nó giết rái cá biển dọc bờ biển."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "It had no effect.",
-            "vi": "Không ảnh hưởng gì."
+            "en": "It had no effect on the kelp or on the sea stars.",
+            "vi": "Nó không ảnh hưởng tới tảo bẹ hay sao biển."
           },
           "is_correct": false,
           "order": 3,
-          "text": "It had no effect.",
-          "text_translation": "Không ảnh hưởng gì."
+          "text": "It had no effect on the kelp or on the sea stars.",
+          "text_translation": "Nó không ảnh hưởng tới tảo bẹ hay sao biển."
         }
       ],
       "evidence_segments": [
@@ -1485,24 +1485,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "People stopped eating them.",
-            "vi": "Vì người ta thôi ăn chúng."
+            "en": "People stopped eating them, and fishing businesses stopped hunting them.",
+            "vi": "Người ta thôi ăn chúng, và các cơ sở đánh bắt thôi săn chúng."
           },
           "is_correct": false,
           "order": 0,
-          "text": "People stopped eating them.",
-          "text_translation": "Vì người ta thôi ăn chúng."
+          "text": "People stopped eating them, and fishing businesses stopped hunting them.",
+          "text_translation": "Người ta thôi ăn chúng, và các cơ sở đánh bắt thôi săn chúng."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The water became colder.",
-            "vi": "Vì nước lạnh đi."
+            "en": "The water became colder, which helped them to survive.",
+            "vi": "Nước lạnh đi, giúp chúng sống sót."
           },
           "is_correct": false,
           "order": 1,
-          "text": "The water became colder.",
-          "text_translation": "Vì nước lạnh đi."
+          "text": "The water became colder, which helped them to survive.",
+          "text_translation": "Nước lạnh đi, giúp chúng sống sót."
         },
         {
           "id": "C",
@@ -1518,13 +1518,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "Divers brought more urchins.",
-            "vi": "Vì thợ lặn mang thêm nhím tới."
+            "en": "Divers brought more urchins from other parts of the coast.",
+            "vi": "Thợ lặn mang thêm nhím từ những vùng khác của bờ biển."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Divers brought more urchins.",
-          "text_translation": "Vì thợ lặn mang thêm nhím tới."
+          "text": "Divers brought more urchins from other parts of the coast.",
+          "text_translation": "Thợ lặn mang thêm nhím từ những vùng khác của bờ biển."
         }
       ],
       "evidence_segments": [
@@ -1553,46 +1553,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "farms where urchins are grown",
-            "vi": "trang trại nuôi nhím biển"
+            "en": "farms where urchins are grown to be sold to restaurants",
+            "vi": "trang trại nuôi nhím biển để bán cho nhà hàng"
           },
           "is_correct": false,
           "order": 0,
-          "text": "farms where urchins are grown",
-          "text_translation": "trang trại nuôi nhím biển"
+          "text": "farms where urchins are grown to be sold to restaurants",
+          "text_translation": "trang trại nuôi nhím biển để bán cho nhà hàng"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "rocky sea floors covered in urchins, with almost nothing else",
-            "vi": "đáy biển toàn đá, phủ kín nhím biển và hầu như chẳng còn gì khác"
+            "en": "rocky sea floors covered in urchins and little else",
+            "vi": "đáy biển toàn đá, phủ kín nhím biển và chẳng còn gì khác"
           },
           "is_correct": true,
           "order": 1,
-          "text": "rocky sea floors covered in urchins, with almost nothing else",
-          "text_translation": "đáy biển toàn đá, phủ kín nhím biển và hầu như chẳng còn gì khác"
+          "text": "rocky sea floors covered in urchins and little else",
+          "text_translation": "đáy biển toàn đá, phủ kín nhím biển và chẳng còn gì khác"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "new kelp forests",
-            "vi": "rừng tảo bẹ mới"
+            "en": "new kelp forests planted by volunteer divers",
+            "vi": "những rừng tảo bẹ mới do thợ lặn tình nguyện trồng"
           },
           "is_correct": false,
           "order": 2,
-          "text": "new kelp forests",
-          "text_translation": "rừng tảo bẹ mới"
+          "text": "new kelp forests planted by volunteer divers",
+          "text_translation": "những rừng tảo bẹ mới do thợ lặn tình nguyện trồng"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "beaches where people collect shells",
-            "vi": "bãi biển nơi người ta nhặt vỏ sò"
+            "en": "beaches where people collect shells and other sea animals",
+            "vi": "bãi biển nơi người ta nhặt vỏ sò và các sinh vật biển khác"
           },
           "is_correct": false,
           "order": 3,
-          "text": "beaches where people collect shells",
-          "text_translation": "bãi biển nơi người ta nhặt vỏ sò"
+          "text": "beaches where people collect shells and other sea animals",
+          "text_translation": "bãi biển nơi người ta nhặt vỏ sò và các sinh vật biển khác"
         }
       ],
       "evidence_segments": [
@@ -1621,13 +1621,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The kelp survived, and the divers kept their work.",
-            "vi": "Tảo bẹ sống sót, và thợ lặn giữ được việc."
+            "en": "The kelp survived, and the divers kept their work and their homes.",
+            "vi": "Tảo bẹ sống sót, và thợ lặn giữ được việc cũng như nhà."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The kelp survived, and the divers kept their work.",
-          "text_translation": "Tảo bẹ sống sót, và thợ lặn giữ được việc."
+          "text": "The kelp survived, and the divers kept their work and their homes.",
+          "text_translation": "Tảo bẹ sống sót, và thợ lặn giữ được việc cũng như nhà."
         },
         {
           "id": "B",
@@ -1643,24 +1643,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "The divers caused the kelp to die.",
-            "vi": "Thợ lặn làm tảo bẹ chết."
+            "en": "The divers caused the kelp to die by taking too much of it.",
+            "vi": "Thợ lặn làm tảo bẹ chết vì lấy quá nhiều."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The divers caused the kelp to die.",
-          "text_translation": "Thợ lặn làm tảo bẹ chết."
+          "text": "The divers caused the kelp to die by taking too much of it.",
+          "text_translation": "Thợ lặn làm tảo bẹ chết vì lấy quá nhiều."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The kelp did not survive, so many divers and businesses lost their work.",
-            "vi": "Tảo bẹ đã không sống sót, nên nhiều thợ lặn và cơ sở đã mất việc."
+            "en": "The kelp did not survive, so many divers lost their work.",
+            "vi": "Tảo bẹ đã không sống sót, nên nhiều thợ lặn mất việc."
           },
           "is_correct": true,
           "order": 3,
-          "text": "The kelp did not survive, so many divers and businesses lost their work.",
-          "text_translation": "Tảo bẹ đã không sống sót, nên nhiều thợ lặn và cơ sở đã mất việc."
+          "text": "The kelp did not survive, so many divers lost their work.",
+          "text_translation": "Tảo bẹ đã không sống sót, nên nhiều thợ lặn mất việc."
         }
       ],
       "evidence_segments": [
@@ -1700,24 +1700,24 @@
         {
           "id": "B",
           "i18n": {
-            "en": "divers removing urchins by hand",
-            "vi": "thợ lặn nhặt nhím biển bằng tay"
+            "en": "divers removing urchins by hand in several small areas",
+            "vi": "thợ lặn nhặt nhím biển bằng tay ở vài khu vực nhỏ"
           },
           "is_correct": false,
           "order": 1,
-          "text": "divers removing urchins by hand",
-          "text_translation": "thợ lặn nhặt nhím biển bằng tay"
+          "text": "divers removing urchins by hand in several small areas",
+          "text_translation": "thợ lặn nhặt nhím biển bằng tay ở vài khu vực nhỏ"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "sea otters eating urchins",
-            "vi": "rái cá biển ăn nhím biển"
+            "en": "sea otters eating large numbers of urchins around Monterey",
+            "vi": "rái cá biển ăn rất nhiều nhím biển quanh Monterey"
           },
           "is_correct": false,
           "order": 2,
-          "text": "sea otters eating urchins",
-          "text_translation": "rái cá biển ăn nhím biển"
+          "text": "sea otters eating large numbers of urchins around Monterey",
+          "text_translation": "rái cá biển ăn rất nhiều nhím biển quanh Monterey"
         },
         {
           "id": "D",
@@ -1759,24 +1759,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The water is warmer there.",
-            "vi": "Vì nước ở đó ấm hơn."
+            "en": "The water is warmer there, which helps the kelp grow.",
+            "vi": "Vì nước ở đó ấm hơn, giúp tảo bẹ mọc."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The water is warmer there.",
-          "text_translation": "Vì nước ở đó ấm hơn."
+          "text": "The water is warmer there, which helps the kelp grow.",
+          "text_translation": "Vì nước ở đó ấm hơn, giúp tảo bẹ mọc."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "There are more divers.",
-            "vi": "Vì có nhiều thợ lặn hơn."
+            "en": "Fishing businesses there have planted new kelp each year.",
+            "vi": "Vì các cơ sở đánh bắt ở đó năm nào cũng trồng tảo bẹ mới."
           },
           "is_correct": false,
           "order": 1,
-          "text": "There are more divers.",
-          "text_translation": "Vì có nhiều thợ lặn hơn."
+          "text": "Fishing businesses there have planted new kelp each year.",
+          "text_translation": "Vì các cơ sở đánh bắt ở đó năm nào cũng trồng tảo bẹ mới."
         },
         {
           "id": "C",
@@ -1792,13 +1792,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "There are no urchins there.",
-            "vi": "Vì ở đó không có nhím biển."
+            "en": "There are no urchins there, so the kelp is never eaten.",
+            "vi": "Vì ở đó không có nhím biển nên tảo bẹ không bao giờ bị ăn."
           },
           "is_correct": false,
           "order": 3,
-          "text": "There are no urchins there.",
-          "text_translation": "Vì ở đó không có nhím biển."
+          "text": "There are no urchins there, so the kelp is never eaten.",
+          "text_translation": "Vì ở đó không có nhím biển nên tảo bẹ không bao giờ bị ăn."
         }
       ],
       "evidence_segments": [
@@ -1827,46 +1827,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Kelp cannot be planted at all.",
-            "vi": "Hoàn toàn không trồng được tảo bẹ."
+            "en": "Kelp cannot be planted at all, so the forests are lost forever.",
+            "vi": "Hoàn toàn không trồng được tảo bẹ, nên các khu rừng mất vĩnh viễn."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Kelp cannot be planted at all.",
-          "text_translation": "Hoàn toàn không trồng được tảo bẹ."
+          "text": "Kelp cannot be planted at all, so the forests are lost forever.",
+          "text_translation": "Hoàn toàn không trồng được tảo bẹ, nên các khu rừng mất vĩnh viễn."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Divers should stop planting kelp.",
-            "vi": "Thợ lặn nên thôi trồng tảo bẹ."
+            "en": "Divers should stop planting kelp and leave the sea alone.",
+            "vi": "Thợ lặn nên thôi trồng tảo bẹ và để yên biển."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Divers should stop planting kelp.",
-          "text_translation": "Thợ lặn nên thôi trồng tảo bẹ."
+          "text": "Divers should stop planting kelp and leave the sea alone.",
+          "text_translation": "Thợ lặn nên thôi trồng tảo bẹ và để yên biển."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Forests should be moved to new places.",
-            "vi": "Nên chuyển rừng tới nơi mới."
+            "en": "Forests should be moved to new places where the water is colder.",
+            "vi": "Nên chuyển rừng tới nơi mới có nước lạnh hơn."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Forests should be moved to new places.",
-          "text_translation": "Nên chuyển rừng tới nơi mới."
+          "text": "Forests should be moved to new places where the water is colder.",
+          "text_translation": "Nên chuyển rừng tới nơi mới có nước lạnh hơn."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Kelp will only last if the balance between plants and animals is restored.",
-            "vi": "Tảo bẹ chỉ trụ lại được nếu thế cân bằng giữa thực vật và động vật được khôi phục."
+            "en": "Kelp only lasts if plants and animals are in balance again.",
+            "vi": "Tảo bẹ chỉ trụ lại được khi thực vật và động vật cân bằng trở lại."
           },
           "is_correct": true,
           "order": 3,
-          "text": "Kelp will only last if the balance between plants and animals is restored.",
-          "text_translation": "Tảo bẹ chỉ trụ lại được nếu thế cân bằng giữa thực vật và động vật được khôi phục."
+          "text": "Kelp only lasts if plants and animals are in balance again.",
+          "text_translation": "Tảo bẹ chỉ trụ lại được khi thực vật và động vật cân bằng trở lại."
         }
       ],
       "evidence_segments": [
@@ -1895,46 +1895,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Both of them happen under the sea.",
-            "vi": "Cả hai đều diễn ra dưới biển."
+            "en": "Both of them happen under the sea, with the help of volunteer divers and a few sea otters in the bay.",
+            "vi": "Cả hai đều diễn ra dưới biển, với sự giúp của thợ lặn tình nguyện và vài con rái cá trong vịnh."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Both of them happen under the sea.",
-          "text_translation": "Cả hai đều diễn ra dưới biển."
+          "text": "Both of them happen under the sea, with the help of volunteer divers and a few sea otters in the bay.",
+          "text_translation": "Cả hai đều diễn ra dưới biển, với sự giúp của thợ lặn tình nguyện và vài con rái cá trong vịnh."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Both of them show that a damaged or empty place can become alive again when people plan carefully and take action.",
-            "vi": "Cả hai cho thấy một nơi bị tàn phá hay bỏ phí có thể sống lại khi con người lên kế hoạch kỹ và bắt tay hành động."
+            "en": "Both show that a damaged or empty place can come alive again when people plan carefully and act.",
+            "vi": "Cả hai cho thấy một nơi bị tàn phá hay bỏ phí có thể sống lại khi con người lên kế hoạch kỹ và hành động."
           },
           "is_correct": true,
           "order": 1,
-          "text": "Both of them show that a damaged or empty place can become alive again when people plan carefully and take action.",
-          "text_translation": "Cả hai cho thấy một nơi bị tàn phá hay bỏ phí có thể sống lại khi con người lên kế hoạch kỹ và bắt tay hành động."
+          "text": "Both show that a damaged or empty place can come alive again when people plan carefully and act.",
+          "text_translation": "Cả hai cho thấy một nơi bị tàn phá hay bỏ phí có thể sống lại khi con người lên kế hoạch kỹ và hành động."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Both of them depend on sea otters.",
-            "vi": "Cả hai đều phụ thuộc vào rái cá biển."
+            "en": "Both of them depend on sea otters eating the plants that grow there.",
+            "vi": "Cả hai đều phụ thuộc vào rái cá biển ăn những loài cây mọc ở đó."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Both of them depend on sea otters.",
-          "text_translation": "Cả hai đều phụ thuộc vào rái cá biển."
+          "text": "Both of them depend on sea otters eating the plants that grow there.",
+          "text_translation": "Cả hai đều phụ thuộc vào rái cá biển ăn những loài cây mọc ở đó."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Both of them were finished in 2014.",
-            "vi": "Cả hai đều xong năm 2014."
+            "en": "Both of them were finished in 2014 and paid for by the same company.",
+            "vi": "Cả hai đều xong năm 2014 và do cùng một công ty chi trả."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Both of them were finished in 2014.",
-          "text_translation": "Cả hai đều xong năm 2014."
+          "text": "Both of them were finished in 2014 and paid for by the same company.",
+          "text_translation": "Cả hai đều xong năm 2014 và do cùng một công ty chi trả."
         }
       ],
       "evidence_segments": [
