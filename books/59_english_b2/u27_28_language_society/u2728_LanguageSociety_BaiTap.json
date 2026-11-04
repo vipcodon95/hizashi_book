@@ -578,35 +578,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "how to become an emergency nurse",
-            "vi": "cách trở thành y tá cấp cứu"
+            "en": "how to become an emergency nurse in a large hospital",
+            "vi": "cách trở thành y tá cấp cứu ở một bệnh viện lớn"
           },
           "is_correct": false,
           "order": 0,
-          "text": "how to become an emergency nurse",
-          "text_translation": "cách trở thành y tá cấp cứu"
+          "text": "how to become an emergency nurse in a large hospital",
+          "text_translation": "cách trở thành y tá cấp cứu ở một bệnh viện lớn"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "the history of Sunset Bay Hospital",
-            "vi": "lịch sử Bệnh viện Sunset Bay"
+            "en": "the history of Sunset Bay Hospital and its emergency room",
+            "vi": "lịch sử Bệnh viện Sunset Bay và khoa cấp cứu"
           },
           "is_correct": false,
           "order": 1,
-          "text": "the history of Sunset Bay Hospital",
-          "text_translation": "lịch sử Bệnh viện Sunset Bay"
+          "text": "the history of Sunset Bay Hospital and its emergency room",
+          "text_translation": "lịch sử Bệnh viện Sunset Bay và khoa cấp cứu"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "why hospitals need more interpreters",
-            "vi": "vì sao bệnh viện cần thêm phiên dịch"
+            "en": "why hospitals need to hire more interpreters for every night shift",
+            "vi": "vì sao bệnh viện cần thuê thêm phiên dịch cho mọi ca đêm"
           },
           "is_correct": false,
           "order": 2,
-          "text": "why hospitals need more interpreters",
-          "text_translation": "vì sao bệnh viện cần thêm phiên dịch"
+          "text": "why hospitals need to hire more interpreters for every night shift",
+          "text_translation": "vì sao bệnh viện cần thuê thêm phiên dịch cho mọi ca đêm"
         },
         {
           "id": "D",
@@ -646,13 +646,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They don't speak Spanish.",
-            "vi": "Vì họ không nói tiếng Tây Ban Nha."
+            "en": "They don't speak Spanish well enough to help patients in the evening.",
+            "vi": "Vì họ nói tiếng Tây Ban Nha không đủ tốt để giúp bệnh nhân buổi tối."
           },
           "is_correct": false,
           "order": 0,
-          "text": "They don't speak Spanish.",
-          "text_translation": "Vì họ không nói tiếng Tây Ban Nha."
+          "text": "They don't speak Spanish well enough to help patients in the evening.",
+          "text_translation": "Vì họ nói tiếng Tây Ban Nha không đủ tốt để giúp bệnh nhân buổi tối."
         },
         {
           "id": "B",
@@ -668,24 +668,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Patients don't trust them.",
-            "vi": "Vì bệnh nhân không tin họ."
+            "en": "Patients don't trust them with serious medical information.",
+            "vi": "Vì bệnh nhân không tin giao thông tin y tế nghiêm trọng cho họ."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Patients don't trust them.",
-          "text_translation": "Vì bệnh nhân không tin họ."
+          "text": "Patients don't trust them with serious medical information.",
+          "text_translation": "Vì bệnh nhân không tin giao thông tin y tế nghiêm trọng cho họ."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "They are too expensive.",
-            "vi": "Vì quá đắt."
+            "en": "They are too expensive, so the hospital uses them only in the day.",
+            "vi": "Vì họ quá đắt nên bệnh viện chỉ dùng ban ngày."
           },
           "is_correct": false,
           "order": 3,
-          "text": "They are too expensive.",
-          "text_translation": "Vì quá đắt."
+          "text": "They are too expensive, so the hospital uses them only in the day.",
+          "text_translation": "Vì họ quá đắt nên bệnh viện chỉ dùng ban ngày."
         }
       ],
       "evidence_segments": [
@@ -714,46 +714,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "A frightened elderly patient's ten-year-old grandson had to translate.",
-            "vi": "Cậu cháu mười tuổi của một bà cụ đang hoảng sợ phải phiên dịch."
+            "en": "An elderly patient's ten-year-old grandson had to translate for her.",
+            "vi": "Cậu cháu mười tuổi của một bà cụ phải phiên dịch cho bà."
           },
           "is_correct": true,
           "order": 0,
-          "text": "A frightened elderly patient's ten-year-old grandson had to translate.",
-          "text_translation": "Cậu cháu mười tuổi của một bà cụ đang hoảng sợ phải phiên dịch."
+          "text": "An elderly patient's ten-year-old grandson had to translate for her.",
+          "text_translation": "Cậu cháu mười tuổi của một bà cụ phải phiên dịch cho bà."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "An interpreter made a mistake.",
-            "vi": "Một phiên dịch viên dịch sai."
+            "en": "An interpreter made a serious mistake while talking to a patient's family.",
+            "vi": "Một phiên dịch viên dịch sai nghiêm trọng khi nói chuyện với gia đình bệnh nhân."
           },
           "is_correct": false,
           "order": 1,
-          "text": "An interpreter made a mistake.",
-          "text_translation": "Một phiên dịch viên dịch sai."
+          "text": "An interpreter made a serious mistake while talking to a patient's family.",
+          "text_translation": "Một phiên dịch viên dịch sai nghiêm trọng khi nói chuyện với gia đình bệnh nhân."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Megan was moved to a new department.",
-            "vi": "Megan được chuyển khoa."
+            "en": "Megan was moved to a new department with more Spanish patients.",
+            "vi": "Megan được chuyển sang khoa mới có nhiều bệnh nhân nói tiếng Tây Ban Nha hơn."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Megan was moved to a new department.",
-          "text_translation": "Megan được chuyển khoa."
+          "text": "Megan was moved to a new department with more Spanish patients.",
+          "text_translation": "Megan được chuyển sang khoa mới có nhiều bệnh nhân nói tiếng Tây Ban Nha hơn."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "A patient refused to speak English.",
-            "vi": "Một bệnh nhân không chịu nói tiếng Anh."
+            "en": "A patient refused to speak English and asked for another nurse.",
+            "vi": "Một bệnh nhân không chịu nói tiếng Anh và đòi y tá khác."
           },
           "is_correct": false,
           "order": 3,
-          "text": "A patient refused to speak English.",
-          "text_translation": "Một bệnh nhân không chịu nói tiếng Anh."
+          "text": "A patient refused to speak English and asked for another nurse.",
+          "text_translation": "Một bệnh nhân không chịu nói tiếng Anh và đòi y tá khác."
         }
       ],
       "evidence_segments": [
@@ -782,46 +782,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because children speak too fast",
-            "vi": "vì trẻ nói quá nhanh"
+            "en": "because children speak too fast, and doctors cannot follow what they say",
+            "vi": "vì trẻ nói quá nhanh và bác sĩ không theo kịp điều chúng nói"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because children speak too fast",
-          "text_translation": "vì trẻ nói quá nhanh"
+          "text": "because children speak too fast, and doctors cannot follow what they say",
+          "text_translation": "vì trẻ nói quá nhanh và bác sĩ không theo kịp điều chúng nói"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because children don't know Spanish",
-            "vi": "vì trẻ không biết tiếng Tây Ban Nha"
+            "en": "because children don't know enough Spanish to help at the hospital",
+            "vi": "vì trẻ không biết đủ tiếng Tây Ban Nha để giúp ở bệnh viện"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because children don't know Spanish",
-          "text_translation": "vì trẻ không biết tiếng Tây Ban Nha"
+          "text": "because children don't know enough Spanish to help at the hospital",
+          "text_translation": "vì trẻ không biết đủ tiếng Tây Ban Nha để giúp ở bệnh viện"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because it can be frightening for them and they may not understand medical information",
-            "vi": "vì việc đó có thể làm trẻ sợ hãi và trẻ có thể không hiểu thông tin y tế"
+            "en": "because it can frighten them and they may not understand medical information",
+            "vi": "vì việc đó có thể làm trẻ sợ và trẻ có thể không hiểu thông tin y tế"
           },
           "is_correct": true,
           "order": 2,
-          "text": "because it can be frightening for them and they may not understand medical information",
-          "text_translation": "vì việc đó có thể làm trẻ sợ hãi và trẻ có thể không hiểu thông tin y tế"
+          "text": "because it can frighten them and they may not understand medical information",
+          "text_translation": "vì việc đó có thể làm trẻ sợ và trẻ có thể không hiểu thông tin y tế"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because children must be at school",
-            "vi": "vì trẻ phải đi học"
+            "en": "because children must be at school at night and cannot be in the hospital",
+            "vi": "vì ban đêm trẻ phải ở trường và không thể có mặt ở bệnh viện"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because children must be at school",
-          "text_translation": "vì trẻ phải đi học"
+          "text": "because children must be at school at night and cannot be in the hospital",
+          "text_translation": "vì ban đêm trẻ phải ở trường và không thể có mặt ở bệnh viện"
         }
       ],
       "evidence_segments": [
@@ -850,35 +850,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The beginning was very easy.",
-            "vi": "Khởi đầu rất dễ."
+            "en": "The beginning was very easy, so Megan finished the evening class quickly.",
+            "vi": "Khởi đầu rất dễ nên Megan học xong lớp buổi tối nhanh chóng."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The beginning was very easy.",
-          "text_translation": "Khởi đầu rất dễ."
+          "text": "The beginning was very easy, so Megan finished the evening class quickly.",
+          "text_translation": "Khởi đầu rất dễ nên Megan học xong lớp buổi tối nhanh chóng."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The class was expensive.",
-            "vi": "Lớp học đắt."
+            "en": "The class was expensive, and Megan felt embarrassed about the price.",
+            "vi": "Lớp học đắt và Megan thấy ngại vì giá."
           },
           "is_correct": false,
           "order": 1,
-          "text": "The class was expensive.",
-          "text_translation": "Lớp học đắt."
+          "text": "The class was expensive, and Megan felt embarrassed about the price.",
+          "text_translation": "Lớp học đắt và Megan thấy ngại vì giá."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The app didn't work.",
-            "vi": "Ứng dụng không chạy."
+            "en": "The app didn't work, so Megan had to ask Marisol to teach her.",
+            "vi": "Ứng dụng không chạy nên Megan phải nhờ Marisol dạy."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The app didn't work.",
-          "text_translation": "Ứng dụng không chạy."
+          "text": "The app didn't work, so Megan had to ask Marisol to teach her.",
+          "text_translation": "Ứng dụng không chạy nên Megan phải nhờ Marisol dạy."
         },
         {
           "id": "D",
@@ -929,35 +929,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "Megan wasn't allowed to speak.",
-            "vi": "Megan không được phép nói."
+            "en": "Megan wasn't allowed to speak to patients in Spanish.",
+            "vi": "Megan không được phép nói tiếng Tây Ban Nha với bệnh nhân."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Megan wasn't allowed to speak.",
-          "text_translation": "Megan không được phép nói."
+          "text": "Megan wasn't allowed to speak to patients in Spanish.",
+          "text_translation": "Megan không được phép nói tiếng Tây Ban Nha với bệnh nhân."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Megan didn't want to help patients.",
-            "vi": "Megan không muốn giúp bệnh nhân."
+            "en": "Megan didn't want to help patients who spoke Spanish.",
+            "vi": "Megan không muốn giúp những bệnh nhân nói tiếng Tây Ban Nha."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Megan didn't want to help patients.",
-          "text_translation": "Megan không muốn giúp bệnh nhân."
+          "text": "Megan didn't want to help patients who spoke Spanish.",
+          "text_translation": "Megan không muốn giúp những bệnh nhân nói tiếng Tây Ban Nha."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Megan spoke too much.",
-            "vi": "Megan nói quá nhiều."
+            "en": "Megan spoke too much and made her colleagues angry.",
+            "vi": "Megan nói quá nhiều và làm đồng nghiệp giận."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Megan spoke too much.",
-          "text_translation": "Megan nói quá nhiều."
+          "text": "Megan spoke too much and made her colleagues angry.",
+          "text_translation": "Megan nói quá nhiều và làm đồng nghiệp giận."
         }
       ],
       "evidence_segments": [
@@ -986,24 +986,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Marisol was really angry with Megan.",
-            "vi": "Marisol thật sự giận Megan."
+            "en": "Marisol was really angry with Megan for not studying hard.",
+            "vi": "Marisol thật sự giận Megan vì không chịu học chăm."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Marisol was really angry with Megan.",
-          "text_translation": "Marisol thật sự giận Megan."
+          "text": "Marisol was really angry with Megan for not studying hard.",
+          "text_translation": "Marisol thật sự giận Megan vì không chịu học chăm."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Marisol thinks that Megan's English is bad.",
-            "vi": "Marisol nghĩ tiếng Anh của Megan dở."
+            "en": "Marisol thinks that Megan's English is bad and her Spanish is good.",
+            "vi": "Marisol nghĩ tiếng Anh của Megan dở còn tiếng Tây Ban Nha thì giỏi."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Marisol thinks that Megan's English is bad.",
-          "text_translation": "Marisol nghĩ tiếng Anh của Megan dở."
+          "text": "Marisol thinks that Megan's English is bad and her Spanish is good.",
+          "text_translation": "Marisol nghĩ tiếng Anh của Megan dở còn tiếng Tây Ban Nha thì giỏi."
         },
         {
           "id": "C",
@@ -1019,13 +1019,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "Marisol doesn't speak Spanish.",
-            "vi": "Marisol không nói tiếng Tây Ban Nha."
+            "en": "Marisol doesn't speak Spanish, so she asks Megan to try.",
+            "vi": "Marisol không nói tiếng Tây Ban Nha nên nhờ Megan thử."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Marisol doesn't speak Spanish.",
-          "text_translation": "Marisol không nói tiếng Tây Ban Nha."
+          "text": "Marisol doesn't speak Spanish, so she asks Megan to try.",
+          "text_translation": "Marisol không nói tiếng Tây Ban Nha nên nhờ Megan thử."
         }
       ],
       "evidence_segments": [
@@ -1054,13 +1054,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "that her Spanish was perfect",
-            "vi": "rằng tiếng Tây Ban Nha của chị hoàn hảo"
+            "en": "that her Spanish was already perfect after only one sentence to a patient",
+            "vi": "rằng tiếng Tây Ban Nha của chị đã hoàn hảo chỉ sau một câu nói với bệnh nhân"
           },
           "is_correct": false,
           "order": 0,
-          "text": "that her Spanish was perfect",
-          "text_translation": "rằng tiếng Tây Ban Nha của chị hoàn hảo"
+          "text": "that her Spanish was already perfect after only one sentence to a patient",
+          "text_translation": "rằng tiếng Tây Ban Nha của chị đã hoàn hảo chỉ sau một câu nói với bệnh nhân"
         },
         {
           "id": "B",
@@ -1076,24 +1076,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "that she should stop learning",
-            "vi": "rằng chị nên thôi học"
+            "en": "that she should stop learning because the patient was kind",
+            "vi": "rằng chị nên thôi học vì bệnh nhân rất tử tế"
           },
           "is_correct": false,
           "order": 2,
-          "text": "that she should stop learning",
-          "text_translation": "rằng chị nên thôi học"
+          "text": "that she should stop learning because the patient was kind",
+          "text_translation": "rằng chị nên thôi học vì bệnh nhân rất tử tế"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "that patients prefer English",
-            "vi": "rằng bệnh nhân thích tiếng Anh hơn"
+            "en": "that patients prefer English even when they speak Spanish at home",
+            "vi": "rằng bệnh nhân thích tiếng Anh dù ở nhà họ nói tiếng Tây Ban Nha"
           },
           "is_correct": false,
           "order": 3,
-          "text": "that patients prefer English",
-          "text_translation": "rằng bệnh nhân thích tiếng Anh hơn"
+          "text": "that patients prefer English even when they speak Spanish at home",
+          "text_translation": "rằng bệnh nhân thích tiếng Anh dù ở nhà họ nói tiếng Tây Ban Nha"
         }
       ],
       "evidence_segments": [
@@ -1133,35 +1133,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "because surgeons don't allow it",
-            "vi": "vì bác sĩ phẫu thuật không cho"
+            "en": "because surgeons do not allow nurses to talk about it to patients",
+            "vi": "vì bác sĩ phẫu thuật không cho y tá nói chuyện đó với bệnh nhân"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because surgeons don't allow it",
-          "text_translation": "vì bác sĩ phẫu thuật không cho"
+          "text": "because surgeons do not allow nurses to talk about it to patients",
+          "text_translation": "vì bác sĩ phẫu thuật không cho y tá nói chuyện đó với bệnh nhân"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because she doesn't work with surgeons",
-            "vi": "vì chị không làm cùng bác sĩ phẫu thuật"
+            "en": "because she doesn't work with surgeons or surgery patients",
+            "vi": "vì chị không làm việc với bác sĩ phẫu thuật hay bệnh nhân phẫu thuật"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because she doesn't work with surgeons",
-          "text_translation": "vì chị không làm cùng bác sĩ phẫu thuật"
+          "text": "because she doesn't work with surgeons or surgery patients",
+          "text_translation": "vì chị không làm việc với bác sĩ phẫu thuật hay bệnh nhân phẫu thuật"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because patients don't want to know",
-            "vi": "vì bệnh nhân không muốn biết"
+            "en": "because patients don't want to know what will happen to them",
+            "vi": "vì bệnh nhân không muốn biết điều sẽ xảy ra với mình"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because patients don't want to know",
-          "text_translation": "vì bệnh nhân không muốn biết"
+          "text": "because patients don't want to know what will happen to them",
+          "text_translation": "vì bệnh nhân không muốn biết điều sẽ xảy ra với mình"
         }
       ],
       "evidence_segments": [
@@ -1190,46 +1190,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The hospital has moved to another country.",
-            "vi": "Bệnh viện đã chuyển sang nước khác."
+            "en": "The hospital has moved to another country with a different language.",
+            "vi": "Bệnh viện đã chuyển sang một nước khác có ngôn ngữ khác."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The hospital has moved to another country.",
-          "text_translation": "Bệnh viện đã chuyển sang nước khác."
+          "text": "The hospital has moved to another country with a different language.",
+          "text_translation": "Bệnh viện đã chuyển sang một nước khác có ngôn ngữ khác."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Patients don't like the hospital.",
-            "vi": "Bệnh nhân không thích bệnh viện."
+            "en": "Patients don't like the hospital because it feels very foreign.",
+            "vi": "Bệnh nhân không thích bệnh viện vì nó quá xa lạ."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Patients don't like the hospital.",
-          "text_translation": "Bệnh nhân không thích bệnh viện."
+          "text": "Patients don't like the hospital because it feels very foreign.",
+          "text_translation": "Bệnh nhân không thích bệnh viện vì nó quá xa lạ."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Hearing their own language makes patients feel more comfortable and less alone.",
-            "vi": "Được nghe tiếng mẹ đẻ khiến bệnh nhân thấy dễ chịu và bớt lẻ loi hơn."
+            "en": "Hearing their own language makes patients feel more comfortable.",
+            "vi": "Được nghe tiếng mẹ đẻ khiến bệnh nhân thấy dễ chịu hơn."
           },
           "is_correct": true,
           "order": 2,
-          "text": "Hearing their own language makes patients feel more comfortable and less alone.",
-          "text_translation": "Được nghe tiếng mẹ đẻ khiến bệnh nhân thấy dễ chịu và bớt lẻ loi hơn."
+          "text": "Hearing their own language makes patients feel more comfortable.",
+          "text_translation": "Được nghe tiếng mẹ đẻ khiến bệnh nhân thấy dễ chịu hơn."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The hospital has hired foreign nurses.",
-            "vi": "Bệnh viện đã thuê y tá nước ngoài."
+            "en": "The hospital has hired foreign nurses who speak other languages.",
+            "vi": "Bệnh viện đã thuê y tá nước ngoài nói các thứ tiếng khác."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The hospital has hired foreign nurses.",
-          "text_translation": "Bệnh viện đã thuê y tá nước ngoài."
+          "text": "The hospital has hired foreign nurses who speak other languages.",
+          "text_translation": "Bệnh viện đã thuê y tá nước ngoài nói các thứ tiếng khác."
         }
       ],
       "evidence_segments": [
@@ -1258,13 +1258,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Children should take care of older people.",
-            "vi": "Trẻ em nên chăm sóc người già."
+            "en": "Children should take care of older people in their families.",
+            "vi": "Trẻ em nên chăm sóc người già trong gia đình."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Children should take care of older people.",
-          "text_translation": "Trẻ em nên chăm sóc người già."
+          "text": "Children should take care of older people in their families.",
+          "text_translation": "Trẻ em nên chăm sóc người già trong gia đình."
         },
         {
           "id": "B",
@@ -1280,24 +1280,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Older people should work more.",
-            "vi": "Người già nên làm việc nhiều hơn."
+            "en": "Older people should work more to pay for their own care.",
+            "vi": "Người già nên làm việc nhiều hơn để tự trả tiền chăm sóc."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Older people should work more.",
-          "text_translation": "Người già nên làm việc nhiều hơn."
+          "text": "Older people should work more to pay for their own care.",
+          "text_translation": "Người già nên làm việc nhiều hơn để tự trả tiền chăm sóc."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Families should have more children.",
-            "vi": "Các gia đình nên sinh thêm con."
+            "en": "Families should have more children so that the country becomes younger.",
+            "vi": "Các gia đình nên sinh thêm con để đất nước trẻ lại."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Families should have more children.",
-          "text_translation": "Các gia đình nên sinh thêm con."
+          "text": "Families should have more children so that the country becomes younger.",
+          "text_translation": "Các gia đình nên sinh thêm con để đất nước trẻ lại."
         }
       ],
       "evidence_segments": [
@@ -1405,35 +1405,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "Children will outnumber adults.",
-            "vi": "Trẻ em sẽ đông hơn người lớn."
+            "en": "Children will outnumber older adults again after many years.",
+            "vi": "Trẻ em sẽ lại đông hơn người lớn tuổi sau nhiều năm."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Children will outnumber adults.",
-          "text_translation": "Trẻ em sẽ đông hơn người lớn."
+          "text": "Children will outnumber older adults again after many years.",
+          "text_translation": "Trẻ em sẽ lại đông hơn người lớn tuổi sau nhiều năm."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Everyone will retire at 65.",
-            "vi": "Ai cũng nghỉ hưu ở tuổi 65."
+            "en": "Everyone will retire at 65 because of the new rules.",
+            "vi": "Ai cũng sẽ nghỉ hưu ở tuổi 65 vì quy định mới."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Everyone will retire at 65.",
-          "text_translation": "Ai cũng nghỉ hưu ở tuổi 65."
+          "text": "Everyone will retire at 65 because of the new rules.",
+          "text_translation": "Ai cũng sẽ nghỉ hưu ở tuổi 65 vì quy định mới."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The population will stop growing.",
-            "vi": "Dân số sẽ ngừng tăng."
+            "en": "The population will stop growing for the first time.",
+            "vi": "Dân số sẽ lần đầu ngừng tăng."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The population will stop growing.",
-          "text_translation": "Dân số sẽ ngừng tăng."
+          "text": "The population will stop growing for the first time.",
+          "text_translation": "Dân số sẽ lần đầu ngừng tăng."
         }
       ],
       "evidence_segments": [
@@ -1462,24 +1462,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "more immigration and more jobs",
-            "vi": "nhập cư nhiều hơn và nhiều việc làm hơn"
+            "en": "more immigration and more jobs for young people in the cities",
+            "vi": "nhập cư nhiều hơn và nhiều việc làm hơn cho người trẻ ở thành phố"
           },
           "is_correct": false,
           "order": 0,
-          "text": "more immigration and more jobs",
-          "text_translation": "nhập cư nhiều hơn và nhiều việc làm hơn"
+          "text": "more immigration and more jobs for young people in the cities",
+          "text_translation": "nhập cư nhiều hơn và nhiều việc làm hơn cho người trẻ ở thành phố"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "more pollution and fewer hospitals",
-            "vi": "ô nhiễm nhiều hơn và ít bệnh viện hơn"
+            "en": "more pollution, fewer hospitals and fewer doctors in the country",
+            "vi": "ô nhiễm nhiều hơn, ít bệnh viện và ít bác sĩ hơn trong cả nước"
           },
           "is_correct": false,
           "order": 1,
-          "text": "more pollution and fewer hospitals",
-          "text_translation": "ô nhiễm nhiều hơn và ít bệnh viện hơn"
+          "text": "more pollution, fewer hospitals and fewer doctors in the country",
+          "text_translation": "ô nhiễm nhiều hơn, ít bệnh viện và ít bác sĩ hơn trong cả nước"
         },
         {
           "id": "C",
@@ -1495,13 +1495,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "people retire later and work more",
-            "vi": "người ta nghỉ hưu muộn và làm nhiều hơn"
+            "en": "people retire later, move to small towns and work more than before",
+            "vi": "người ta nghỉ hưu muộn, chuyển về thị trấn nhỏ và làm việc nhiều hơn trước"
           },
           "is_correct": false,
           "order": 3,
-          "text": "people retire later and work more",
-          "text_translation": "người ta nghỉ hưu muộn và làm nhiều hơn"
+          "text": "people retire later, move to small towns and work more than before",
+          "text_translation": "người ta nghỉ hưu muộn, chuyển về thị trấn nhỏ và làm việc nhiều hơn trước"
         }
       ],
       "evidence_segments": [
@@ -1598,45 +1598,45 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They can't find jobs.",
-            "vi": "Không tìm được việc."
+            "en": "They can't find jobs, because companies prefer to hire younger people.",
+            "vi": "Họ không tìm được việc vì các công ty thích thuê người trẻ hơn."
           },
           "is_correct": false,
           "order": 0,
-          "text": "They can't find jobs.",
-          "text_translation": "Không tìm được việc."
+          "text": "They can't find jobs, because companies prefer to hire younger people.",
+          "text_translation": "Họ không tìm được việc vì các công ty thích thuê người trẻ hơn."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "They have too much free time.",
-            "vi": "Có quá nhiều thời gian rảnh."
+            "en": "They have too much free time and don't know how to use it.",
+            "vi": "Họ có quá nhiều thời gian rảnh và không biết dùng làm gì."
           },
           "is_correct": false,
           "order": 1,
-          "text": "They have too much free time.",
-          "text_translation": "Có quá nhiều thời gian rảnh."
+          "text": "They have too much free time and don't know how to use it.",
+          "text_translation": "Họ có quá nhiều thời gian rảnh và không biết dùng làm gì."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "They have no parents.",
-            "vi": "Không còn bố mẹ."
+            "en": "They have no parents or children and feel lonely at home.",
+            "vi": "Họ không còn bố mẹ hay con cái và thấy cô đơn ở nhà."
           },
           "is_correct": false,
           "order": 2,
-          "text": "They have no parents.",
-          "text_translation": "Không còn bố mẹ."
+          "text": "They have no parents or children and feel lonely at home.",
+          "text_translation": "Họ không còn bố mẹ hay con cái và thấy cô đơn ở nhà."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "They care for their parents and their teenage children at the same time.",
+            "en": "They care for their parents and teenage children at the same time.",
             "vi": "Vừa chăm bố mẹ vừa chăm con tuổi teen cùng lúc."
           },
           "is_correct": true,
           "order": 3,
-          "text": "They care for their parents and their teenage children at the same time.",
+          "text": "They care for their parents and teenage children at the same time.",
           "text_translation": "Vừa chăm bố mẹ vừa chăm con tuổi teen cùng lúc."
         }
       ],
@@ -1677,35 +1677,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "They don't need health care.",
-            "vi": "Họ không cần chăm sóc y tế."
+            "en": "They don't need health care because they stay at home.",
+            "vi": "Họ không cần chăm sóc y tế vì ở nhà."
           },
           "is_correct": false,
           "order": 1,
-          "text": "They don't need health care.",
-          "text_translation": "Họ không cần chăm sóc y tế."
+          "text": "They don't need health care because they stay at home.",
+          "text_translation": "Họ không cần chăm sóc y tế vì ở nhà."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "They never feel lonely.",
-            "vi": "Họ không bao giờ cô đơn."
+            "en": "They never feel lonely because they live with their families.",
+            "vi": "Họ không bao giờ cô đơn vì sống cùng gia đình."
           },
           "is_correct": false,
           "order": 2,
-          "text": "They never feel lonely.",
-          "text_translation": "Họ không bao giờ cô đơn."
+          "text": "They never feel lonely because they live with their families.",
+          "text_translation": "Họ không bao giờ cô đơn vì sống cùng gia đình."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "They have more children.",
-            "vi": "Họ sinh nhiều con hơn."
+            "en": "They have more children than young adults and teach them well.",
+            "vi": "Họ có nhiều con hơn người trẻ và dạy con rất tốt."
           },
           "is_correct": false,
           "order": 3,
-          "text": "They have more children.",
-          "text_translation": "Họ sinh nhiều con hơn."
+          "text": "They have more children than young adults and teach them well.",
+          "text_translation": "Họ có nhiều con hơn người trẻ và dạy con rất tốt."
         }
       ],
       "evidence_segments": [
@@ -1734,24 +1734,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to show that preschools are expensive",
-            "vi": "để cho thấy mẫu giáo đắt"
+            "en": "to show that preschools are expensive for families with children",
+            "vi": "để cho thấy mẫu giáo đắt đỏ với các gia đình có con"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to show that preschools are expensive",
-          "text_translation": "để cho thấy mẫu giáo đắt"
+          "text": "to show that preschools are expensive for families with children",
+          "text_translation": "để cho thấy mẫu giáo đắt đỏ với các gia đình có con"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to advertise a school",
-            "vi": "để quảng cáo một trường"
+            "en": "to advertise a school where older people can learn to paint",
+            "vi": "để quảng cáo một trường nơi người già học vẽ"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to advertise a school",
-          "text_translation": "để quảng cáo một trường"
+          "text": "to advertise a school where older people can learn to paint",
+          "text_translation": "để quảng cáo một trường nơi người già học vẽ"
         },
         {
           "id": "C",
@@ -1767,13 +1767,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "to show that children don't like older people",
-            "vi": "để cho thấy trẻ không thích người già"
+            "en": "to show that children don't like spending time with older people",
+            "vi": "để cho thấy trẻ không thích dành thời gian với người già"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to show that children don't like older people",
-          "text_translation": "để cho thấy trẻ không thích người già"
+          "text": "to show that children don't like spending time with older people",
+          "text_translation": "để cho thấy trẻ không thích dành thời gian với người già"
         }
       ],
       "evidence_segments": [
@@ -1802,13 +1802,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "whether America will grow older",
-            "vi": "liệu nước Mỹ có già đi không"
+            "en": "whether America will grow older in the next ten years or so",
+            "vi": "liệu nước Mỹ có già đi trong mười năm tới hay không"
           },
           "is_correct": false,
           "order": 0,
-          "text": "whether America will grow older",
-          "text_translation": "liệu nước Mỹ có già đi không"
+          "text": "whether America will grow older in the next ten years or so",
+          "text_translation": "liệu nước Mỹ có già đi trong mười năm tới hay không"
         },
         {
           "id": "B",
@@ -1824,24 +1824,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "whether older people will stop working",
-            "vi": "liệu người già có thôi làm việc không"
+            "en": "whether older people will stop working so that younger people can take their jobs",
+            "vi": "liệu người già có thôi làm việc để người trẻ nhận việc của họ không"
           },
           "is_correct": false,
           "order": 2,
-          "text": "whether older people will stop working",
-          "text_translation": "liệu người già có thôi làm việc không"
+          "text": "whether older people will stop working so that younger people can take their jobs",
+          "text_translation": "liệu người già có thôi làm việc để người trẻ nhận việc của họ không"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "whether families will move to Seattle",
-            "vi": "liệu các gia đình có chuyển tới Seattle không"
+            "en": "whether families will move to Seattle to join the preschool",
+            "vi": "liệu các gia đình có chuyển tới Seattle để vào trường mẫu giáo không"
           },
           "is_correct": false,
           "order": 3,
-          "text": "whether families will move to Seattle",
-          "text_translation": "liệu các gia đình có chuyển tới Seattle không"
+          "text": "whether families will move to Seattle to join the preschool",
+          "text_translation": "liệu các gia đình có chuyển tới Seattle để vào trường mẫu giáo không"
         }
       ],
       "evidence_segments": [
@@ -1870,45 +1870,45 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Older people should learn Spanish.",
-            "vi": "Người già nên học tiếng Tây Ban Nha."
+            "en": "Older people should learn Spanish to talk to their grandchildren.",
+            "vi": "Người già nên học tiếng Tây Ban Nha để nói chuyện với cháu."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Older people should learn Spanish.",
-          "text_translation": "Người già nên học tiếng Tây Ban Nha."
+          "text": "Older people should learn Spanish to talk to their grandchildren.",
+          "text_translation": "Người già nên học tiếng Tây Ban Nha để nói chuyện với cháu."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Hospitals have too many nurses.",
-            "vi": "Bệnh viện thừa y tá."
+            "en": "Hospitals have too many nurses, and older nurses should retire to make room.",
+            "vi": "Bệnh viện thừa y tá, và y tá lớn tuổi nên nghỉ hưu để nhường chỗ."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Hospitals have too many nurses.",
-          "text_translation": "Bệnh viện thừa y tá."
+          "text": "Hospitals have too many nurses, and older nurses should retire to make room.",
+          "text_translation": "Bệnh viện thừa y tá, và y tá lớn tuổi nên nghỉ hưu để nhường chỗ."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Children should work as interpreters.",
-            "vi": "Trẻ em nên làm phiên dịch."
+            "en": "Children should work as interpreters when families have no other help.",
+            "vi": "Trẻ em nên làm phiên dịch khi gia đình không có ai giúp."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Children should work as interpreters.",
-          "text_translation": "Trẻ em nên làm phiên dịch."
+          "text": "Children should work as interpreters when families have no other help.",
+          "text_translation": "Trẻ em nên làm phiên dịch khi gia đình không có ai giúp."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Making the effort to connect with people who are different from us makes a real difference.",
+            "en": "Making an effort to connect with people unlike us makes a real difference.",
             "vi": "Chịu khó kết nối với những người khác mình tạo ra khác biệt thật sự."
           },
           "is_correct": true,
           "order": 3,
-          "text": "Making the effort to connect with people who are different from us makes a real difference.",
+          "text": "Making an effort to connect with people unlike us makes a real difference.",
           "text_translation": "Chịu khó kết nối với những người khác mình tạo ra khác biệt thật sự."
         }
       ],

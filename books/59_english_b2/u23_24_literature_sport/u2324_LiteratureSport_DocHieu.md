@@ -50,18 +50,18 @@
 **1. What is the main purpose of Lydia's notes?**
 *(Mục đích chính của bản ghi chép của Lydia là gì?)*
 
-- A. to sell copies of Frankenstein *(để bán sách Frankenstein)*
+- A. to sell copies of Frankenstein to the members of the club *(để bán sách Frankenstein cho các thành viên câu lạc bộ)*
 - B. to tell club members what was discussed about Frankenstein *(để kể cho thành viên câu lạc bộ những gì đã bàn về Frankenstein)*
-- C. to review a Frankenstein film *(để điểm một bộ phim Frankenstein)*
-- D. to invite people to Switzerland *(để mời mọi người tới Thuỵ Sĩ)*
+- C. to review a new Frankenstein film that the club had seen *(để điểm một bộ phim Frankenstein mới mà câu lạc bộ đã xem)*
+- D. to invite club members on a trip to the lake in Switzerland *(để mời thành viên câu lạc bộ đi chơi tới hồ ở Thuỵ Sĩ)*
 
 **2. What does "all of us thought we knew the story" suggest?**
 *(Câu "ai cũng tưởng mình biết câu chuyện" hàm ý gì?)*
 
-- A. Everyone had read the book many times. *(Ai cũng đã đọc sách nhiều lần.)*
-- B. Nobody had heard of Frankenstein. *(Chưa ai nghe tới Frankenstein.)*
-- C. Lydia had told them the story. *(Lydia đã kể chuyện cho họ.)*
-- D. People knew the story from films and popular ideas, which turned out to be different from the book. *(Người ta biết câu chuyện qua phim và quan niệm phổ biến, mà hoá ra khác với sách.)*
+- A. Everyone had read the book many times, so nobody expected any surprises at all. *(Ai cũng đã đọc sách nhiều lần nên chẳng ai chờ đợi bất ngờ nào.)*
+- B. Nobody had ever heard of Frankenstein until Lydia talked about it. *(Chưa ai từng nghe tới Frankenstein cho đến khi Lydia nhắc tới.)*
+- C. Lydia had told them the whole story before they began reading it. *(Lydia đã kể cho họ cả câu chuyện trước khi họ bắt đầu đọc.)*
+- D. People knew the story from films, which turned out to differ from the book. *(Người ta biết truyện qua phim, mà hoá ra khác với sách.)*
 
 **3. What does "Started by Mary Shelley when she was only eighteen" describe?**
 *(Cụm "Được Mary Shelley bắt đầu viết khi mới mười tám tuổi" bổ nghĩa cho cái gì?)*
@@ -74,58 +74,58 @@
 **4. How did the novel begin?**
 *(Cuốn tiểu thuyết đã ra đời thế nào?)*
 
-- A. as a school project *(từ một bài tập ở trường)*
-- B. as a film script *(từ một kịch bản phim)*
+- A. as homework for a teacher at her school in Switzerland *(từ bài tập về nhà cho một thầy giáo ở trường của cô tại Thuỵ Sĩ)*
+- B. as a film script that her friends wanted to make *(từ một kịch bản phim mà bạn bè cô muốn làm)*
 - C. as part of a ghost story competition between friends *(từ một cuộc thi viết truyện ma giữa những người bạn)*
-- D. as a letter to a scientist *(từ một lá thư gửi nhà khoa học)*
+- D. as a letter to a scientist who lived near the lake *(từ một lá thư gửi nhà khoa học sống gần hồ)*
 
 **5. Who is Frankenstein in the novel?**
 *(Trong tiểu thuyết, Frankenstein là ai?)*
 
-- A. the creature *(sinh vật)*
+- A. the creature, who was made by the young scientist *(sinh vật do nhà khoa học trẻ tạo ra)*
 - B. the young scientist who makes the creature *(nhà khoa học trẻ tạo ra sinh vật)*
-- C. Mary Shelley's husband *(chồng Mary Shelley)*
-- D. a friend at the lake *(một người bạn ở hồ)*
+- C. the friend who challenged Mary Shelley to write a story *(người bạn thách Mary Shelley viết một câu chuyện)*
+- D. a rejected man who becomes cruel after years of loneliness *(một người bị ruồng bỏ trở nên tàn nhẫn sau nhiều năm cô độc)*
 
 **6. How is the creature in the novel different from the one in old films?**
 *(Sinh vật trong tiểu thuyết khác với trong phim cũ thế nào?)*
 
 - A. He teaches himself to read, speaks beautifully and wants to be loved. *(Nó tự học đọc, nói năng hay và muốn được yêu thương.)*
-- B. He is slower and more silent. *(Nó chậm chạp và lặng lẽ hơn.)*
-- C. He is a scientist. *(Nó là nhà khoa học.)*
-- D. He has a different name. *(Nó có tên khác.)*
+- B. He is even slower and more silent, and he never learns to speak or read. *(Nó còn chậm chạp và lặng lẽ hơn, và không bao giờ học nói hay đọc.)*
+- C. He is a scientist who runs away from his own laboratory. *(Nó là nhà khoa học bỏ chạy khỏi phòng thí nghiệm của chính mình.)*
+- D. He has a different name in the book, which he chooses himself. *(Nó có tên khác trong sách, do chính nó chọn.)*
 
 **7. According to the novel, why does the creature become cruel?**
 *(Theo tiểu thuyết, vì sao sinh vật trở nên tàn nhẫn?)*
 
-- A. He was born cruel. *(Nó sinh ra đã tàn nhẫn.)*
-- B. He wanted to become famous. *(Nó muốn nổi tiếng.)*
-- C. He was angry with Mary Shelley. *(Nó giận Mary Shelley.)*
+- A. He was born cruel, and nothing that people did could change him. *(Nó sinh ra đã tàn nhẫn và không gì người ta làm có thể thay đổi nó.)*
+- B. He wanted to become famous, so he did terrible things in the town. *(Nó muốn nổi tiếng nên làm những điều khủng khiếp trong thị trấn.)*
+- C. He was angry with Mary Shelley, who did not put her name on the book. *(Nó giận Mary Shelley vì bà không ghi tên mình lên cuốn sách.)*
 - D. He was rejected by everyone because of his appearance and lonely for years. *(Nó bị mọi người xua đuổi vì vẻ ngoài và cô độc nhiều năm.)*
 
 **8. What was Harriet's view in the discussion?**
 *(Quan điểm của bà Harriet trong buổi bàn luận là gì?)*
 
-- A. Victor Frankenstein was right to run away. *(Victor Frankenstein bỏ chạy là đúng.)*
-- B. The creature is the real monster. *(Sinh vật mới là quái vật thật.)*
-- C. Panicking is no excuse for not taking responsibility for a living person that you have made. *(Hoảng loạn không phải lời biện hộ cho việc chối bỏ trách nhiệm với một con người sống mình tạo ra.)*
-- D. The book is too long. *(Cuốn sách quá dài.)*
+- A. Victor Frankenstein was right to run away when he saw what he had made. *(Victor Frankenstein bỏ chạy là đúng khi thấy thứ mình đã tạo ra.)*
+- B. The creature is the real monster, because he became cruel to other people. *(Sinh vật mới là quái vật thật, vì nó trở nên tàn nhẫn với người khác.)*
+- C. Panicking is no excuse for not taking responsibility for a living person. *(Hoảng loạn không phải lời biện hộ cho việc chối bỏ trách nhiệm với một con người sống.)*
+- D. The book is too long, and she fell asleep during the first chapter. *(Cuốn sách quá dài, và bà đã ngủ gật trong chương đầu.)*
 
 **9. Why does Nathan say that the questions in the book feel very modern?**
 *(Vì sao Nathan nói những câu hỏi trong sách rất hiện đại?)*
 
 - A. because the question of what scientists owe to their creations still matters today *(vì câu hỏi nhà khoa học nợ gì với những thứ họ tạo ra vẫn còn ý nghĩa hôm nay)*
-- B. because the book was written recently *(vì sách mới được viết gần đây)*
-- C. because the book is about computers *(vì sách viết về máy tính)*
-- D. because the language is modern *(vì ngôn ngữ hiện đại)*
+- B. because the book was written only a few years ago by a young scientist in Switzerland *(vì sách mới được viết cách đây vài năm bởi một nhà khoa học trẻ ở Thuỵ Sĩ)*
+- C. because the book is mainly about computers and modern technology *(vì sách chủ yếu viết về máy tính và công nghệ hiện đại)*
+- D. because the language is modern and easy to read for teenagers *(vì ngôn ngữ hiện đại và dễ đọc với thiếu niên)*
 
 **10. What does Lydia's last line, "Next month: something lighter, I promise", suggest?**
 *(Câu cuối của Lydia "Tháng sau: một cuốn nhẹ nhàng hơn, tôi hứa" hàm ý gì?)*
 
-- A. She didn't like Frankenstein. *(Cô không thích Frankenstein.)*
-- B. Frankenstein was the shortest book that they had read. *(Frankenstein là cuốn ngắn nhất họ từng đọc.)*
+- A. She didn't like Frankenstein and wishes the club had chosen another book. *(Cô không thích Frankenstein và ước câu lạc bộ chọn cuốn khác.)*
+- B. Frankenstein was the shortest book that the club had ever read. *(Frankenstein là cuốn ngắn nhất câu lạc bộ từng đọc.)*
 - C. She knows that Frankenstein was quite heavy and dark for some members. *(Cô biết Frankenstein khá nặng nề, u tối với vài thành viên.)*
-- D. The club will stop meeting. *(Câu lạc bộ sẽ ngừng họp.)*
+- D. The club will stop meeting after this month, because people were bored. *(Câu lạc bộ sẽ ngừng họp sau tháng này vì mọi người chán.)*
 
 ---
 
@@ -170,34 +170,34 @@
 **11. What is the article mainly about?**
 *(Bài báo chủ yếu nói về điều gì?)*
 
-- A. the rules of women's basketball *(luật bóng rổ nữ)*
-- B. why men's sports are less popular *(vì sao thể thao nam kém hấp dẫn)*
+- A. the rules of women's basketball and how the championship works *(luật bóng rổ nữ và cách giải vô địch vận hành)*
+- B. why men's sports are less popular than women's sports today *(vì sao thể thao nam ngày nay kém được yêu thích hơn thể thao nữ)*
 - C. why more people are watching women's sports, and what problems remain *(vì sao ngày càng nhiều người xem thể thao nữ, và vấn đề nào còn tồn tại)*
-- D. how to become a professional athlete *(cách trở thành vận động viên chuyên nghiệp)*
+- D. how young players can become professional athletes in women's sports *(cách các cầu thủ trẻ trở thành vận động viên chuyên nghiệp ở thể thao nữ)*
 
 **12. What happened in April 2024?**
 *(Tháng 4 năm 2024 đã xảy ra chuyện gì?)*
 
-- A. The college women's basketball final had more TV viewers than the men's final. *(Chung kết bóng rổ nữ đại học có nhiều người xem truyền hình hơn chung kết nam.)*
-- B. Women's basketball was shown on TV for the first time. *(Bóng rổ nữ lần đầu được lên truyền hình.)*
-- C. The men's final was cancelled. *(Chung kết nam bị huỷ.)*
-- D. A new women's league started. *(Một giải nữ mới ra đời.)*
+- A. The college women's final had more TV viewers than the men's final. *(Chung kết nữ đại học có nhiều người xem truyền hình hơn chung kết nam.)*
+- B. Women's basketball was shown on TV for the first time in history. *(Bóng rổ nữ lần đầu tiên trong lịch sử được lên truyền hình.)*
+- C. The men's final was cancelled because nobody wanted to watch it. *(Chung kết nam bị huỷ vì không ai muốn xem.)*
+- D. A new women's league started, and its first final sold out. *(Một giải nữ mới ra đời, và trận chung kết đầu tiên cháy vé.)*
 
 **13. Why do fans and researchers say that the old reasoning "went in a circle"?**
 *(Vì sao người hâm mộ và nhà nghiên cứu nói lập luận cũ "luẩn quẩn"?)*
 
-- A. because games were shown too often *(vì trận đấu được phát quá nhiều)*
-- B. because the players ran in circles *(vì vận động viên chạy vòng tròn)*
-- C. because nobody wanted to play *(vì không ai muốn chơi)*
-- D. because games weren't shown since nobody watched, and nobody watched since they weren't shown *(vì trận không được phát do không ai xem, và không ai xem do không được phát)*
+- A. because games were shown so often at the wrong times that fans stopped watching *(vì trận đấu được phát quá nhiều vào giờ không hợp nên người hâm mộ thôi xem)*
+- B. because the players were so tired that they ran in circles at the end of games *(vì vận động viên mệt đến mức chạy vòng tròn vào cuối trận)*
+- C. because nobody wanted to play, since there was no money in women's sports *(vì không ai muốn chơi, do thể thao nữ không có tiền)*
+- D. because games weren't shown if nobody watched, and nobody watched if they weren't shown *(vì trận không được phát nếu không ai xem, và không ai xem nếu không được phát)*
 
 **14. What does "Not being on television meant fewer fans" mean?**
 *(Câu "Không được lên truyền hình nghĩa là ít người hâm mộ hơn" nghĩa là gì?)*
 
-- A. Being on TV made fewer fans. *(Lên truyền hình khiến ít người hâm mộ hơn.)*
+- A. Being on TV made fewer fans want to go to the matches. *(Lên truyền hình khiến ít người hâm mộ muốn tới sân hơn.)*
 - B. The fact that women's sports weren't on TV led to fewer fans. *(Việc thể thao nữ không được lên truyền hình dẫn tới ít người hâm mộ hơn.)*
-- C. Fans didn't have televisions. *(Người hâm mộ không có ti vi.)*
-- D. Players didn't want to be on TV. *(Vận động viên không muốn lên truyền hình.)*
+- C. Fans didn't have televisions, so they went to the matches instead. *(Người hâm mộ không có ti vi nên họ tới sân xem thay vào đó.)*
+- D. Players didn't want to be on TV because they were afraid of it. *(Vận động viên không muốn lên truyền hình vì họ sợ nó.)*
 
 **15. Which of these is NOT given as a reason why women's sports are more popular now?**
 *(Điều nào KHÔNG được nêu là lý do thể thao nữ giờ được yêu thích hơn?)*
@@ -210,42 +210,42 @@
 **16. What does the article say about attendance at women's professional games?**
 *(Bài nói gì về lượng khán giả tới sân xem các trận nữ chuyên nghiệp?)*
 
-- A. It has fallen. *(Đã giảm.)*
-- B. It is the same as ten years ago. *(Bằng mười năm trước.)*
-- C. It is only high for basketball. *(Chỉ cao ở môn bóng rổ.)*
+- A. It has fallen in the last few years, and many seats stay empty. *(Đã giảm trong vài năm qua, và nhiều ghế bỏ trống.)*
+- B. It is the same as ten years ago, with very few sold-out games. *(Bằng mười năm trước, với rất ít trận cháy vé.)*
+- C. It is only high for basketball, while soccer has far fewer fans. *(Chỉ cao ở bóng rổ, còn bóng đá có ít người hâm mộ hơn nhiều.)*
 - D. It has reached record levels, and many games sell out. *(Đạt mức kỷ lục, và nhiều trận cháy vé.)*
 
 **17. What does "Some commentators are always claiming that the new interest is just a fashion" show about the writer's attitude?**
 *(Câu "Một số bình luận viên cứ luôn miệng nói rằng sự quan tâm mới này chỉ là trào lưu" cho thấy thái độ gì của người viết?)*
 
 - A. The writer is a little annoyed by these comments and doesn't agree with them. *(Người viết hơi bực với những lời này và không đồng tình.)*
-- B. The writer agrees with them completely. *(Người viết hoàn toàn đồng ý.)*
-- C. The writer thinks that fashion is important. *(Người viết nghĩ trào lưu là quan trọng.)*
-- D. The writer has no opinion. *(Người viết không có ý kiến.)*
+- B. The writer agrees with them completely and thinks the interest will pass. *(Người viết hoàn toàn đồng ý và nghĩ sự quan tâm rồi sẽ qua.)*
+- C. The writer thinks that fashion is important and wants to follow it. *(Người viết nghĩ trào lưu là quan trọng và muốn chạy theo nó.)*
+- D. The writer has no opinion and simply reports what the commentators say. *(Người viết không có ý kiến và chỉ thuật lại điều các bình luận viên nói.)*
 
 **18. In "The numbers, so far, suggest otherwise", what does "otherwise" mean?**
 *(Trong câu "The numbers, so far, suggest otherwise", "otherwise" nghĩa là gì?)*
 
-- A. in addition *(thêm vào đó)*
+- A. in addition, adding a second reason why the interest is just a fashion *(thêm vào đó, nêu một lý do nữa cho thấy sự quan tâm chỉ là trào lưu)*
 - B. something different, that the interest is not just a passing fashion *(điều khác, rằng sự quan tâm không chỉ là trào lưu nhất thời)*
-- C. at the same time *(cùng lúc)*
-- D. in the same way *(theo cùng cách)*
+- C. at the same time, as the records were being broken *(cùng lúc, khi các kỷ lục đang bị phá)*
+- D. in the same way, agreeing with what the commentators claim *(theo cùng cách, đồng ý với điều các bình luận viên nói)*
 
 **19. What is the writer's main lesson at the end?**
 *(Bài học chính của người viết ở cuối bài là gì?)*
 
-- A. People should only watch women's sports. *(Người ta chỉ nên xem thể thao nữ.)*
-- B. Television is no longer important. *(Truyền hình không còn quan trọng.)*
-- C. Players should be paid less. *(Vận động viên nên được trả ít hơn.)*
+- A. People should only watch women's sports and stop watching other sports. *(Người ta chỉ nên xem thể thao nữ và thôi xem các môn khác.)*
+- B. Television is no longer important, because fans use social media only. *(Truyền hình không còn quan trọng vì người hâm mộ chỉ dùng mạng xã hội.)*
+- C. Players should be paid less until more people begin to watch them. *(Vận động viên nên được trả ít hơn cho đến khi có nhiều người xem hơn.)*
 - D. People need a chance to see something before they can become fans of it. *(Người ta cần có cơ hội nhìn thấy một thứ rồi mới thành người hâm mộ nó được.)*
 
 **20. Use both texts. What do Mary Shelley's story and the history of women's sports have in common?**
 *(Dựa vào cả hai bài. Câu chuyện của Mary Shelley và lịch sử thể thao nữ có điểm gì chung?)*
 
-- A. Both of them are about basketball. *(Cả hai đều về bóng rổ.)*
-- B. In both, women's work was not given full attention at first, but it proved its value. *(Trong cả hai, công sức của phụ nữ ban đầu không được chú ý đúng mức, nhưng rồi đã chứng tỏ giá trị.)*
-- C. Both of them happened in Switzerland. *(Cả hai đều xảy ra ở Thuỵ Sĩ.)*
-- D. Both of them were on television in 1818. *(Cả hai đều lên truyền hình năm 1818.)*
+- A. Both of them are mostly about basketball players who studied at American colleges. *(Cả hai chủ yếu nói về các cầu thủ bóng rổ học ở đại học Mỹ.)*
+- B. In both, women's work was not fully noticed at first, but it proved its value. *(Trong cả hai, công sức của phụ nữ ban đầu chưa được chú ý đủ, nhưng rồi đã chứng tỏ giá trị.)*
+- C. Both of them started near a lake in Switzerland, in the same summer. *(Cả hai bắt đầu gần một hồ ở Thuỵ Sĩ, vào cùng một mùa hè.)*
+- D. Both of them were shown on television in 1818, then again in 2024. *(Cả hai được chiếu trên truyền hình năm 1818, rồi lại năm 2024.)*
 
 ---
 

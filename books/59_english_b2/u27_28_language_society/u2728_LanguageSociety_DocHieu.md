@@ -77,82 +77,82 @@
 **1. What is the article about Megan mainly about?**
 *(Bài viết về Megan chủ yếu nói về điều gì?)*
 
-- A. how to become an emergency nurse *(cách trở thành y tá cấp cứu)*
-- B. the history of Sunset Bay Hospital *(lịch sử Bệnh viện Sunset Bay)*
-- C. why hospitals need more interpreters *(vì sao bệnh viện cần thêm phiên dịch)*
+- A. how to become an emergency nurse in a large hospital *(cách trở thành y tá cấp cứu ở một bệnh viện lớn)*
+- B. the history of Sunset Bay Hospital and its emergency room *(lịch sử Bệnh viện Sunset Bay và khoa cấp cứu)*
+- C. why hospitals need to hire more interpreters for every night shift *(vì sao bệnh viện cần thuê thêm phiên dịch cho mọi ca đêm)*
 - D. why Megan learned Spanish and what it has meant for her work *(vì sao Megan học tiếng Tây Ban Nha và điều đó có ý nghĩa gì với công việc của chị)*
 
 **2. Why can't interpreters always help patients?**
 *(Vì sao phiên dịch viên không phải lúc nào cũng giúp được bệnh nhân?)*
 
-- A. They don't speak Spanish. *(Vì họ không nói tiếng Tây Ban Nha.)*
+- A. They don't speak Spanish well enough to help patients in the evening. *(Vì họ nói tiếng Tây Ban Nha không đủ tốt để giúp bệnh nhân buổi tối.)*
 - B. They can't be in every room at all hours, such as three in the morning. *(Vì họ không thể có mặt ở mọi phòng vào mọi giờ, như lúc ba giờ sáng.)*
-- C. Patients don't trust them. *(Vì bệnh nhân không tin họ.)*
-- D. They are too expensive. *(Vì quá đắt.)*
+- C. Patients don't trust them with serious medical information. *(Vì bệnh nhân không tin giao thông tin y tế nghiêm trọng cho họ.)*
+- D. They are too expensive, so the hospital uses them only in the day. *(Vì họ quá đắt nên bệnh viện chỉ dùng ban ngày.)*
 
 **3. What happened on the night that changed Megan's mind?**
 *(Đêm đã khiến Megan đổi ý đã xảy ra chuyện gì?)*
 
-- A. A frightened elderly patient's ten-year-old grandson had to translate. *(Cậu cháu mười tuổi của một bà cụ đang hoảng sợ phải phiên dịch.)*
-- B. An interpreter made a mistake. *(Một phiên dịch viên dịch sai.)*
-- C. Megan was moved to a new department. *(Megan được chuyển khoa.)*
-- D. A patient refused to speak English. *(Một bệnh nhân không chịu nói tiếng Anh.)*
+- A. An elderly patient's ten-year-old grandson had to translate for her. *(Cậu cháu mười tuổi của một bà cụ phải phiên dịch cho bà.)*
+- B. An interpreter made a serious mistake while talking to a patient's family. *(Một phiên dịch viên dịch sai nghiêm trọng khi nói chuyện với gia đình bệnh nhân.)*
+- C. Megan was moved to a new department with more Spanish patients. *(Megan được chuyển sang khoa mới có nhiều bệnh nhân nói tiếng Tây Ban Nha hơn.)*
+- D. A patient refused to speak English and asked for another nurse. *(Một bệnh nhân không chịu nói tiếng Anh và đòi y tá khác.)*
 
 **4. Why do hospitals try not to use children as interpreters?**
 *(Vì sao bệnh viện cố không nhờ trẻ con phiên dịch?)*
 
-- A. because children speak too fast *(vì trẻ nói quá nhanh)*
-- B. because children don't know Spanish *(vì trẻ không biết tiếng Tây Ban Nha)*
-- C. because it can be frightening for them and they may not understand medical information *(vì việc đó có thể làm trẻ sợ hãi và trẻ có thể không hiểu thông tin y tế)*
-- D. because children must be at school *(vì trẻ phải đi học)*
+- A. because children speak too fast, and doctors cannot follow what they say *(vì trẻ nói quá nhanh và bác sĩ không theo kịp điều chúng nói)*
+- B. because children don't know enough Spanish to help at the hospital *(vì trẻ không biết đủ tiếng Tây Ban Nha để giúp ở bệnh viện)*
+- C. because it can frighten them and they may not understand medical information *(vì việc đó có thể làm trẻ sợ và trẻ có thể không hiểu thông tin y tế)*
+- D. because children must be at school at night and cannot be in the hospital *(vì ban đêm trẻ phải ở trường và không thể có mặt ở bệnh viện)*
 
 **5. What does "The beginning was humbling" mean?**
 *(Câu "Khởi đầu thật khiến người ta khiêm tốn" nghĩa là gì?)*
 
-- A. The beginning was very easy. *(Khởi đầu rất dễ.)*
-- B. The class was expensive. *(Lớp học đắt.)*
-- C. The app didn't work. *(Ứng dụng không chạy.)*
+- A. The beginning was very easy, so Megan finished the evening class quickly. *(Khởi đầu rất dễ nên Megan học xong lớp buổi tối nhanh chóng.)*
+- B. The class was expensive, and Megan felt embarrassed about the price. *(Lớp học đắt và Megan thấy ngại vì giá.)*
+- C. The app didn't work, so Megan had to ask Marisol to teach her. *(Ứng dụng không chạy nên Megan phải nhờ Marisol dạy.)*
 - D. The beginning showed Megan how much she still had to learn. *(Khởi đầu cho Megan thấy chị còn phải học nhiều tới mức nào.)*
 
 **6. What does "I didn't dare to speak to real patients" mean?**
 *(Câu "I didn't dare to speak to real patients" nghĩa là gì?)*
 
 - A. Megan was too afraid to speak to real patients. *(Megan quá sợ, không dám nói với bệnh nhân thật.)*
-- B. Megan wasn't allowed to speak. *(Megan không được phép nói.)*
-- C. Megan didn't want to help patients. *(Megan không muốn giúp bệnh nhân.)*
-- D. Megan spoke too much. *(Megan nói quá nhiều.)*
+- B. Megan wasn't allowed to speak to patients in Spanish. *(Megan không được phép nói tiếng Tây Ban Nha với bệnh nhân.)*
+- C. Megan didn't want to help patients who spoke Spanish. *(Megan không muốn giúp những bệnh nhân nói tiếng Tây Ban Nha.)*
+- D. Megan spoke too much and made her colleagues angry. *(Megan nói quá nhiều và làm đồng nghiệp giận.)*
 
 **7. What does Marisol's "How dare you be so perfect in English and so shy in Spanish?" show?**
 *(Câu "Sao chị dám hoàn hảo bằng tiếng Anh mà lại nhút nhát bằng tiếng Tây Ban Nha thế?" của Marisol cho thấy điều gì?)*
 
-- A. Marisol was really angry with Megan. *(Marisol thật sự giận Megan.)*
-- B. Marisol thinks that Megan's English is bad. *(Marisol nghĩ tiếng Anh của Megan dở.)*
+- A. Marisol was really angry with Megan for not studying hard. *(Marisol thật sự giận Megan vì không chịu học chăm.)*
+- B. Marisol thinks that Megan's English is bad and her Spanish is good. *(Marisol nghĩ tiếng Anh của Megan dở còn tiếng Tây Ban Nha thì giỏi.)*
 - C. Marisol is teasing Megan to push her to try. *(Marisol trêu Megan để thúc chị thử nói.)*
-- D. Marisol doesn't speak Spanish. *(Marisol không nói tiếng Tây Ban Nha.)*
+- D. Marisol doesn't speak Spanish, so she asks Megan to try. *(Marisol không nói tiếng Tây Ban Nha nên nhờ Megan thử.)*
 
 **8. What did Megan realize after her first sentence to a patient?**
 *(Sau câu nói đầu tiên với bệnh nhân, Megan nhận ra điều gì?)*
 
-- A. that her Spanish was perfect *(rằng tiếng Tây Ban Nha của chị hoàn hảo)*
+- A. that her Spanish was already perfect after only one sentence to a patient *(rằng tiếng Tây Ban Nha của chị đã hoàn hảo chỉ sau một câu nói với bệnh nhân)*
 - B. that people don't need her to be perfect, but they need her to try *(rằng người ta không cần chị hoàn hảo, họ cần chị cố gắng)*
-- C. that she should stop learning *(rằng chị nên thôi học)*
-- D. that patients prefer English *(rằng bệnh nhân thích tiếng Anh hơn)*
+- C. that she should stop learning because the patient was kind *(rằng chị nên thôi học vì bệnh nhân rất tử tế)*
+- D. that patients prefer English even when they speak Spanish at home *(rằng bệnh nhân thích tiếng Anh dù ở nhà họ nói tiếng Tây Ban Nha)*
 
 **9. Why would Megan never explain a surgery in her Spanish?**
 *(Vì sao Megan sẽ không bao giờ giải thích ca phẫu thuật bằng tiếng Tây Ban Nha của mình?)*
 
 - A. because serious medical decisions need a trained interpreter *(vì quyết định y tế nghiêm trọng cần phiên dịch viên được đào tạo)*
-- B. because surgeons don't allow it *(vì bác sĩ phẫu thuật không cho)*
-- C. because she doesn't work with surgeons *(vì chị không làm cùng bác sĩ phẫu thuật)*
-- D. because patients don't want to know *(vì bệnh nhân không muốn biết)*
+- B. because surgeons do not allow nurses to talk about it to patients *(vì bác sĩ phẫu thuật không cho y tá nói chuyện đó với bệnh nhân)*
+- C. because she doesn't work with surgeons or surgery patients *(vì chị không làm việc với bác sĩ phẫu thuật hay bệnh nhân phẫu thuật)*
+- D. because patients don't want to know what will happen to them *(vì bệnh nhân không muốn biết điều sẽ xảy ra với mình)*
 
 **10. What does "For a moment, the hospital is a little less foreign" suggest?**
 *(Câu "Trong một khoảnh khắc, bệnh viện bớt xa lạ đi một chút" hàm ý gì?)*
 
-- A. The hospital has moved to another country. *(Bệnh viện đã chuyển sang nước khác.)*
-- B. Patients don't like the hospital. *(Bệnh nhân không thích bệnh viện.)*
-- C. Hearing their own language makes patients feel more comfortable and less alone. *(Được nghe tiếng mẹ đẻ khiến bệnh nhân thấy dễ chịu và bớt lẻ loi hơn.)*
-- D. The hospital has hired foreign nurses. *(Bệnh viện đã thuê y tá nước ngoài.)*
+- A. The hospital has moved to another country with a different language. *(Bệnh viện đã chuyển sang một nước khác có ngôn ngữ khác.)*
+- B. Patients don't like the hospital because it feels very foreign. *(Bệnh nhân không thích bệnh viện vì nó quá xa lạ.)*
+- C. Hearing their own language makes patients feel more comfortable. *(Được nghe tiếng mẹ đẻ khiến bệnh nhân thấy dễ chịu hơn.)*
+- D. The hospital has hired foreign nurses who speak other languages. *(Bệnh viện đã thuê y tá nước ngoài nói các thứ tiếng khác.)*
 
 ---
 
@@ -195,10 +195,10 @@
 **11. What is the main idea of the article?**
 *(Ý chính của bài báo là gì?)*
 
-- A. Children should take care of older people. *(Trẻ em nên chăm sóc người già.)*
+- A. Children should take care of older people in their families. *(Trẻ em nên chăm sóc người già trong gia đình.)*
 - B. America is getting older, which brings both challenges and strengths. *(Nước Mỹ đang già đi, điều này mang tới cả thách thức lẫn thế mạnh.)*
-- C. Older people should work more. *(Người già nên làm việc nhiều hơn.)*
-- D. Families should have more children. *(Các gia đình nên sinh thêm con.)*
+- C. Older people should work more to pay for their own care. *(Người già nên làm việc nhiều hơn để tự trả tiền chăm sóc.)*
+- D. Families should have more children so that the country becomes younger. *(Các gia đình nên sinh thêm con để đất nước trẻ lại.)*
 
 **12. In 2022, about what share of Americans were aged 65 or older?**
 *(Năm 2022, khoảng bao nhiêu phần dân số Mỹ từ 65 tuổi trở lên?)*
@@ -212,17 +212,17 @@
 *(Các chuyên gia dự đoán điều gì sẽ xảy ra trong khoảng mười năm tới?)*
 
 - A. Older adults will outnumber children for the first time. *(Lần đầu tiên người lớn tuổi sẽ đông hơn trẻ em.)*
-- B. Children will outnumber adults. *(Trẻ em sẽ đông hơn người lớn.)*
-- C. Everyone will retire at 65. *(Ai cũng nghỉ hưu ở tuổi 65.)*
-- D. The population will stop growing. *(Dân số sẽ ngừng tăng.)*
+- B. Children will outnumber older adults again after many years. *(Trẻ em sẽ lại đông hơn người lớn tuổi sau nhiều năm.)*
+- C. Everyone will retire at 65 because of the new rules. *(Ai cũng sẽ nghỉ hưu ở tuổi 65 vì quy định mới.)*
+- D. The population will stop growing for the first time. *(Dân số sẽ lần đầu ngừng tăng.)*
 
 **14. What are the two main reasons why the country is getting older?**
 *(Hai lý do chính khiến đất nước già đi là gì?)*
 
-- A. more immigration and more jobs *(nhập cư nhiều hơn và nhiều việc làm hơn)*
-- B. more pollution and fewer hospitals *(ô nhiễm nhiều hơn và ít bệnh viện hơn)*
+- A. more immigration and more jobs for young people in the cities *(nhập cư nhiều hơn và nhiều việc làm hơn cho người trẻ ở thành phố)*
+- B. more pollution, fewer hospitals and fewer doctors in the country *(ô nhiễm nhiều hơn, ít bệnh viện và ít bác sĩ hơn trong cả nước)*
 - C. people are living longer, and families are having fewer children *(người ta sống lâu hơn, và các gia đình sinh ít con hơn)*
-- D. people retire later and work more *(người ta nghỉ hưu muộn và làm nhiều hơn)*
+- D. people retire later, move to small towns and work more than before *(người ta nghỉ hưu muộn, chuyển về thị trấn nhỏ và làm việc nhiều hơn trước)*
 
 **15. In "the cost of caring for the elderly is rising", what does "the elderly" mean?**
 *(Trong câu "the cost of caring for the elderly is rising", "the elderly" nghĩa là gì?)*
@@ -235,42 +235,42 @@
 **16. What problem do many adults in their fifties face?**
 *(Nhiều người ngoài năm mươi gặp khó khăn gì?)*
 
-- A. They can't find jobs. *(Không tìm được việc.)*
-- B. They have too much free time. *(Có quá nhiều thời gian rảnh.)*
-- C. They have no parents. *(Không còn bố mẹ.)*
-- D. They care for their parents and their teenage children at the same time. *(Vừa chăm bố mẹ vừa chăm con tuổi teen cùng lúc.)*
+- A. They can't find jobs, because companies prefer to hire younger people. *(Họ không tìm được việc vì các công ty thích thuê người trẻ hơn.)*
+- B. They have too much free time and don't know how to use it. *(Họ có quá nhiều thời gian rảnh và không biết dùng làm gì.)*
+- C. They have no parents or children and feel lonely at home. *(Họ không còn bố mẹ hay con cái và thấy cô đơn ở nhà.)*
+- D. They care for their parents and teenage children at the same time. *(Vừa chăm bố mẹ vừa chăm con tuổi teen cùng lúc.)*
 
 **17. Which of these is given as a strength of older people?**
 *(Điều nào được nêu là thế mạnh của người lớn tuổi?)*
 
 - A. They pass down skills that would otherwise be lost. *(Họ truyền lại những kỹ năng mà nếu không thì sẽ mất.)*
-- B. They don't need health care. *(Họ không cần chăm sóc y tế.)*
-- C. They never feel lonely. *(Họ không bao giờ cô đơn.)*
-- D. They have more children. *(Họ sinh nhiều con hơn.)*
+- B. They don't need health care because they stay at home. *(Họ không cần chăm sóc y tế vì ở nhà.)*
+- C. They never feel lonely because they live with their families. *(Họ không bao giờ cô đơn vì sống cùng gia đình.)*
+- D. They have more children than young adults and teach them well. *(Họ có nhiều con hơn người trẻ và dạy con rất tốt.)*
 
 **18. Why does the writer mention the preschool in Seattle?**
 *(Vì sao người viết nhắc tới trường mẫu giáo ở Seattle?)*
 
-- A. to show that preschools are expensive *(để cho thấy mẫu giáo đắt)*
-- B. to advertise a school *(để quảng cáo một trường)*
+- A. to show that preschools are expensive for families with children *(để cho thấy mẫu giáo đắt đỏ với các gia đình có con)*
+- B. to advertise a school where older people can learn to paint *(để quảng cáo một trường nơi người già học vẽ)*
 - C. as an example of a program that brings the young and the old together *(làm ví dụ về một chương trình gắn kết người trẻ và người già)*
-- D. to show that children don't like older people *(để cho thấy trẻ không thích người già)*
+- D. to show that children don't like spending time with older people *(để cho thấy trẻ không thích dành thời gian với người già)*
 
 **19. According to the writer, what is the real question for the future?**
 *(Theo người viết, câu hỏi thật sự cho tương lai là gì?)*
 
-- A. whether America will grow older *(liệu nước Mỹ có già đi không)*
+- A. whether America will grow older in the next ten years or so *(liệu nước Mỹ có già đi trong mười năm tới hay không)*
 - B. whether communities will keep the old and the young meeting each other *(liệu các cộng đồng có giữ cho người già và người trẻ tiếp tục gặp gỡ nhau không)*
-- C. whether older people will stop working *(liệu người già có thôi làm việc không)*
-- D. whether families will move to Seattle *(liệu các gia đình có chuyển tới Seattle không)*
+- C. whether older people will stop working so that younger people can take their jobs *(liệu người già có thôi làm việc để người trẻ nhận việc của họ không)*
+- D. whether families will move to Seattle to join the preschool *(liệu các gia đình có chuyển tới Seattle để vào trường mẫu giáo không)*
 
 **20. Use both texts. Which idea do the two texts share?**
 *(Dựa vào cả hai bài. Hai bài có chung ý nào?)*
 
-- A. Older people should learn Spanish. *(Người già nên học tiếng Tây Ban Nha.)*
-- B. Hospitals have too many nurses. *(Bệnh viện thừa y tá.)*
-- C. Children should work as interpreters. *(Trẻ em nên làm phiên dịch.)*
-- D. Making the effort to connect with people who are different from us makes a real difference. *(Chịu khó kết nối với những người khác mình tạo ra khác biệt thật sự.)*
+- A. Older people should learn Spanish to talk to their grandchildren. *(Người già nên học tiếng Tây Ban Nha để nói chuyện với cháu.)*
+- B. Hospitals have too many nurses, and older nurses should retire to make room. *(Bệnh viện thừa y tá, và y tá lớn tuổi nên nghỉ hưu để nhường chỗ.)*
+- C. Children should work as interpreters when families have no other help. *(Trẻ em nên làm phiên dịch khi gia đình không có ai giúp.)*
+- D. Making an effort to connect with people unlike us makes a real difference. *(Chịu khó kết nối với những người khác mình tạo ra khác biệt thật sự.)*
 
 ---
 

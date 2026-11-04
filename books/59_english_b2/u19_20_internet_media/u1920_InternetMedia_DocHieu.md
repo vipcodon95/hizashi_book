@@ -79,34 +79,34 @@
 **1. What is the story mainly about?**
 *(Câu chuyện chủ yếu nói về điều gì?)*
 
-- A. how to treat a twisted ankle *(cách sơ cứu trẹo mắt cá)*
+- A. how to give first aid to a player with a twisted ankle during a game *(cách sơ cứu cho một cầu thủ bị trẹo mắt cá trong trận đấu)*
 - B. what happened when a clip of Trevor helping an injured player went viral *(chuyện gì xảy ra khi đoạn clip Trevor giúp một cầu thủ bị thương lan khắp mạng)*
-- C. why Westview High lost the game *(vì sao Westview High thua)*
-- D. how Jake became famous *(Jake nổi tiếng thế nào)*
+- C. why Westview High lost its game after Trevor kicked the ball out of play *(vì sao Westview High thua trận sau khi Trevor đá bóng ra ngoài)*
+- D. how Jake became famous for filming the best game of the whole season *(Jake nổi tiếng thế nào nhờ quay trận đấu hay nhất cả mùa giải)*
 
 **2. What did Trevor do when the other player fell?**
 *(Trevor làm gì khi cầu thủ đội bạn ngã?)*
 
-- A. He kept running and scored. *(Cậu cứ chạy và ghi bàn.)*
-- B. He called the referee. *(Cậu gọi trọng tài.)*
-- C. He filmed it on his phone. *(Cậu quay bằng điện thoại.)*
+- A. He kept running with the ball and scored to make it 1–1 for Westview. *(Cậu cứ chạy với quả bóng và ghi bàn gỡ hoà 1–1 cho Westview.)*
+- B. He called the referee over and waited for the game to start again. *(Cậu gọi trọng tài tới rồi chờ trận đấu bắt đầu lại.)*
+- C. He filmed it on his phone from the bench and posted twenty seconds that evening. *(Cậu quay bằng điện thoại từ băng ghế dự bị và đăng hai mươi giây clip vào buổi tối.)*
 - D. He kicked the ball out of play and stayed with him until the coaches arrived. *(Cậu đá bóng ra ngoài và ở cạnh bạn cho tới khi huấn luyện viên tới.)*
 
 **3. Why is it important that Westview High was losing 1–0 at the time?**
 *(Vì sao chi tiết Westview High đang thua 0–1 lại quan trọng?)*
 
-- A. It shows that Trevor stopped helping even though his team needed a goal. *(Nó cho thấy Trevor dừng lại giúp bạn dù đội cậu đang cần bàn thắng.)*
-- B. It explains why the coaches were angry. *(Nó giải thích vì sao huấn luyện viên giận.)*
-- C. It shows that Westview is a weak team. *(Nó cho thấy Westview là đội yếu.)*
-- D. It explains why Jake was on the bench. *(Nó giải thích vì sao Jake ngồi dự bị.)*
+- A. It shows that Trevor stopped to help even though his team needed a goal. *(Nó cho thấy Trevor dừng lại giúp bạn dù đội cậu đang cần bàn thắng.)*
+- B. It explains why the coaches were angry with Trevor and his team after the game. *(Nó giải thích vì sao huấn luyện viên giận Trevor và cả đội sau trận.)*
+- C. It shows that Westview is a weak team that usually loses its games. *(Nó cho thấy Westview là đội yếu thường thua các trận.)*
+- D. It explains why Jake was on the bench instead of playing in the match. *(Nó giải thích vì sao Jake ngồi dự bị thay vì thi đấu.)*
 
 **4. What does "being talked about by people he had never met felt even stranger" mean?**
 *(Câu "bị những người chưa từng gặp đem ra bàn tán thì còn kỳ hơn" nghĩa là gì?)*
 
-- A. Trevor liked talking to strangers. *(Trevor thích nói chuyện với người lạ.)*
-- B. Trevor talked about strangers. *(Trevor bàn tán về người lạ.)*
+- A. Trevor liked talking to strangers about his clip online. *(Trevor thích nói chuyện với người lạ về clip của mình trên mạng.)*
+- B. Trevor talked about strangers he had met at the supermarket. *(Trevor bàn tán về những người lạ cậu gặp ở siêu thị.)*
 - C. Trevor felt uncomfortable when strangers discussed him. *(Trevor thấy không thoải mái khi người lạ bàn tán về mình.)*
-- D. Nobody talked about Trevor. *(Không ai bàn tán về Trevor.)*
+- D. Nobody talked about Trevor except the people who knew him well. *(Không ai bàn tán về Trevor ngoài những người quen biết cậu rõ.)*
 
 **5. Which of these was NOT one of the unkind reactions online?**
 *(Điều nào KHÔNG nằm trong những phản ứng ác ý trên mạng?)*
@@ -120,41 +120,41 @@
 *(Vì sao Trevor ghét những bình luận ác ý nhất?)*
 
 - A. because the injured boy was being made fun of because of him *(vì cậu bé bị thương bị chế giễu vì cậu)*
-- B. because people called him a hero *(vì người ta gọi cậu là người hùng)*
-- C. because his team lost *(vì đội cậu thua)*
-- D. because Jake had posted the clip *(vì Jake đăng clip)*
+- B. because strangers called him a hero in the supermarket and at school *(vì người lạ gọi cậu là người hùng ở siêu thị và ở trường)*
+- C. because his team lost the game while he was helping the other boy *(vì đội cậu thua trận trong lúc cậu giúp cậu bé kia)*
+- D. because Jake had posted the clip without asking him and made him famous *(vì Jake đăng clip mà không hỏi cậu và khiến cậu nổi tiếng)*
 
 **7. What was Trevor's condition for doing the TV interview?**
 *(Điều kiện của Trevor để nhận lời phỏng vấn truyền hình là gì?)*
 
-- A. He had to be paid. *(Cậu phải được trả tiền.)*
-- B. Jake had to come too. *(Jake cũng phải tới.)*
-- C. His parents had to speak for him. *(Bố mẹ phải nói thay cậu.)*
+- A. He had to be paid a fair price for the TV interview. *(Cậu phải được trả một khoản hợp lý cho buổi phỏng vấn truyền hình.)*
+- B. Jake had to come too, because he had filmed the clip. *(Jake cũng phải tới, vì cậu ấy đã quay clip.)*
+- C. His parents had to speak for him during the whole interview. *(Bố mẹ phải nói thay cậu trong suốt buổi phỏng vấn.)*
 - D. Diego, the injured boy, had to be invited too. *(Diego, cậu bé bị thương, cũng phải được mời.)*
 
 **8. What does Trevor's condition show about him?**
 *(Điều kiện của Trevor cho thấy điều gì về cậu?)*
 
-- A. He wanted to be more famous. *(Cậu muốn nổi tiếng hơn.)*
-- B. He was afraid of TV cameras. *(Cậu sợ ống kính truyền hình.)*
+- A. He wanted to become more famous than the other players on his team. *(Cậu muốn nổi tiếng hơn những cầu thủ khác trong đội.)*
+- B. He was afraid of the TV cameras and needed a friend to help him feel calm. *(Cậu sợ ống kính truyền hình và cần một người bạn giúp mình bình tĩnh.)*
 - C. He wanted to share the attention and protect Diego from being mocked. *(Cậu muốn chia sẻ sự chú ý và bảo vệ Diego khỏi bị chế giễu.)*
-- D. He didn't want to be interviewed. *(Cậu không muốn bị phỏng vấn.)*
+- D. He didn't want to be interviewed, but his parents made him say yes. *(Cậu không muốn được phỏng vấn, nhưng bố mẹ bắt cậu nhận lời.)*
 
 **9. What does "the internet had moved on to a dog that could skateboard" suggest?**
 *(Câu "mạng xã hội đã chuyển sang một chú chó biết trượt ván" hàm ý gì?)*
 
 - A. Online attention is short and quickly moves to the next thing. *(Sự chú ý trên mạng ngắn ngủi và nhanh chóng chuyển sang thứ khác.)*
-- B. Trevor has a new dog. *(Trevor có chó mới.)*
-- C. Dogs are more popular than soccer. *(Chó được yêu thích hơn bóng đá.)*
-- D. The clip was deleted. *(Đoạn clip bị xoá.)*
+- B. Trevor bought a new dog that learned to ride a skateboard. *(Trevor mua một chú chó mới học được cách trượt ván.)*
+- C. Dogs are more popular than soccer clips on all video sites. *(Chó được yêu thích hơn các clip bóng đá trên mọi trang video.)*
+- D. The clip was deleted by the website after the other team complained. *(Đoạn clip bị trang web xoá sau khi đội bạn phàn nàn.)*
 
 **10. What does Trevor mean by "I'd rather be known by the people who actually know me"?**
 *(Trevor muốn nói gì qua câu "con thà được biết tới bởi những người thật sự biết con"?)*
 
-- A. He wants more followers. *(Cậu muốn có nhiều người theo dõi hơn.)*
-- B. He wants to change schools. *(Cậu muốn chuyển trường.)*
+- A. He wants more followers who will watch each new clip. *(Cậu muốn có thêm người theo dõi xem mọi clip mới.)*
+- B. He wants to change schools so that strangers can't recognize him. *(Cậu muốn chuyển trường để người lạ không nhận ra mình.)*
 - C. Real relationships matter more to him than online fame. *(Với cậu, các mối quan hệ thật quan trọng hơn sự nổi tiếng trên mạng.)*
-- D. He doesn't like his friends. *(Cậu không thích bạn bè mình.)*
+- D. He doesn't like his friends and prefers talking to strangers. *(Cậu không thích bạn bè mình và thích nói chuyện với người lạ hơn.)*
 
 ---
 
@@ -197,66 +197,66 @@
 **11. What is the main purpose of the article?**
 *(Mục đích chính của bài báo là gì?)*
 
-- A. to advertise a video app *(để quảng cáo một ứng dụng video)*
-- B. to tell readers to stop watching videos *(để bảo người đọc thôi xem video)*
-- C. to explain how recommendation algorithms shape what we watch and how to stay in control *(để giải thích thuật toán đề xuất định hình thứ ta xem thế nào và cách giữ quyền kiểm soát)*
-- D. to teach readers how to write algorithms *(để dạy viết thuật toán)*
+- A. to advertise a new video app that has better recommendations *(để quảng cáo một ứng dụng video mới có đề xuất tốt hơn)*
+- B. to tell readers to stop watching videos and delete their apps for good *(để bảo người đọc thôi xem video và xoá hẳn ứng dụng)*
+- C. to explain how algorithms shape what we watch and how to stay in control *(để giải thích thuật toán định hình thứ ta xem thế nào và cách giữ quyền kiểm soát)*
+- D. to teach readers how to write their own recommendation algorithms *(để dạy người đọc tự viết thuật toán đề xuất)*
 
 **12. What does "It was not you who chose most of those videos" emphasize?**
 *(Câu "Không phải bạn đã chọn phần lớn những video ấy" nhấn mạnh điều gì?)*
 
 - A. that the choice was really made by the algorithm, not by the viewer *(rằng lựa chọn thật ra do thuật toán đưa ra, không phải người xem)*
-- B. that someone else used your phone *(rằng ai đó đã dùng điện thoại của bạn)*
-- C. that you chose the videos carefully *(rằng bạn chọn video rất kỹ)*
-- D. that the videos were short *(rằng video ngắn)*
+- B. that someone else in your family chose the videos on your phone *(rằng người khác trong nhà đã chọn video trên điện thoại của bạn)*
+- C. that you chose the videos carefully, one at a time, over forty minutes *(rằng bạn chọn từng video rất kỹ trong suốt bốn mươi phút)*
+- D. that the videos were so short that you forgot about the time *(rằng video ngắn đến mức bạn quên mất thời gian)*
 
 **13. What did one of the largest video platforms say about recommendations?**
 *(Một trong những nền tảng video lớn nhất đã nói gì về các đề xuất?)*
 
-- A. They were used by fewer than 10 percent of viewers. *(Dưới 10 phần trăm người xem dùng.)*
-- B. They were turned off. *(Chúng đã bị tắt.)*
-- C. They only worked at night. *(Chúng chỉ hoạt động ban đêm.)*
+- A. They were used by fewer than 10 percent of viewers on the site. *(Dưới 10 phần trăm người xem trên trang dùng chúng.)*
+- B. They were turned off for most users after viewers complained. *(Chúng bị tắt với phần lớn người dùng sau khi người xem phàn nàn.)*
+- C. They only worked at night, when most people were watching videos. *(Chúng chỉ hoạt động ban đêm, lúc phần lớn mọi người xem video.)*
 - D. More than 70 percent of viewing time on its site came from them. *(Hơn 70 phần trăm thời gian xem trên trang đến từ chúng.)*
 
 **14. According to the article, what is the main goal of most recommendation algorithms?**
 *(Theo bài, mục tiêu chính của hầu hết thuật toán đề xuất là gì?)*
 
-- A. to teach people new things *(dạy người ta điều mới)*
+- A. to teach people new things that they could not find on their own *(dạy người ta những điều mới mà họ không tự tìm được)*
 - B. to keep people watching, because longer viewing means more advertisements *(giữ người ta xem tiếp, vì xem lâu hơn thì xem nhiều quảng cáo hơn)*
-- C. to show people only true information *(chỉ cho xem thông tin đúng)*
-- D. to help people sleep *(giúp người ta ngủ)*
+- C. to show people only true information that has been checked by experts *(chỉ cho xem thông tin đúng đã được chuyên gia kiểm chứng)*
+- D. to help people sleep better by showing them calm videos at night *(giúp người ta ngủ ngon hơn bằng các video êm dịu ban đêm)*
 
 **15. Why is content that causes strong emotions often pushed to the top?**
 *(Vì sao nội dung gây cảm xúc mạnh hay được đẩy lên đầu?)*
 
-- A. because it is always true *(vì nó luôn đúng)*
-- B. because experts choose it *(vì chuyên gia chọn)*
+- A. because it is always true and checked by experts *(vì nó luôn đúng và được chuyên gia kiểm tra)*
+- B. because experts choose it for the front page *(vì chuyên gia chọn nó cho trang chủ)*
 - C. because it tends to keep people watching *(vì nó thường giữ chân người xem)*
-- D. because it is cheaper to make *(vì làm rẻ hơn)*
+- D. because it is cheaper to make than other videos *(vì nó làm rẻ hơn các video khác)*
 
 **16. In "The research on this is, to some extent, mixed", why does the writer use "to some extent" and "arguably"?**
 *(Trong câu "Nghiên cứu về chuyện này, ở mức độ nào đó, chưa thống nhất", vì sao người viết dùng "to some extent" và "arguably"?)*
 
-- A. to show that the writer has no opinion *(để cho thấy người viết không có ý kiến)*
-- B. to make the text longer *(để bài dài hơn)*
-- C. to criticize scientists *(để chê các nhà khoa học)*
+- A. to show that the writer has no opinion about the question *(để cho thấy người viết không có ý kiến gì về vấn đề)*
+- B. to make the text longer and sound more difficult for readers *(để bài dài hơn và nghe khó hơn với người đọc)*
+- C. to criticize scientists for not finishing their research *(để chê các nhà khoa học không hoàn thành nghiên cứu)*
 - D. to avoid making a claim that is stronger than the evidence *(để tránh khẳng định mạnh hơn mức bằng chứng cho phép)*
 
 **17. What does the writer say that algorithms can do with extreme opinions?**
 *(Người viết nói thuật toán có thể làm gì với những ý kiến cực đoan?)*
 
 - A. make them seem far more common than they really are *(khiến chúng trông phổ biến hơn thực tế nhiều)*
-- B. delete them *(xoá chúng)*
-- C. translate them *(dịch chúng)*
-- D. make them disappear *(làm chúng biến mất)*
+- B. delete them before most viewers have a chance to see them *(xoá chúng trước khi phần lớn người xem kịp thấy)*
+- C. translate them into other languages so more people read them *(dịch chúng sang ngôn ngữ khác để nhiều người đọc hơn)*
+- D. make them disappear from the screens of people who disagree *(làm chúng biến mất khỏi màn hình của những người không đồng tình)*
 
 **18. Why does the writer say that "algorithms are not evil"?**
 *(Vì sao người viết nói "thuật toán không xấu xa"?)*
 
-- A. to defend video companies *(để bênh các công ty video)*
+- A. to defend video companies and tell readers to trust all their apps *(để bênh các công ty video và bảo người đọc tin mọi ứng dụng của họ)*
 - B. to give a balanced view by showing that algorithms can also be helpful *(để đưa cái nhìn cân bằng, cho thấy thuật toán cũng có ích)*
-- C. to say that critics are wrong about everything *(để nói các nhà phê bình sai hết)*
-- D. to change the topic *(để đổi chủ đề)*
+- C. to say that the critics are wrong about almost everything they write *(để nói các nhà phê bình sai hầu hết những gì họ viết)*
+- D. to change the topic and start talking about music and cooking *(để đổi chủ đề và bắt đầu nói về âm nhạc và nấu ăn)*
 
 **19. Which of these is NOT one of the experts' suggestions?**
 *(Điều nào KHÔNG nằm trong gợi ý của chuyên gia?)*
@@ -269,10 +269,10 @@
 **20. Use both texts. Which idea from the article best explains why Trevor's clip spread so quickly?**
 *(Dựa vào cả hai bài. Ý nào trong bài báo giải thích rõ nhất vì sao clip của Trevor lan nhanh như vậy?)*
 
-- A. Algorithms only show videos from friends. *(Thuật toán chỉ cho xem video của bạn bè.)*
+- A. Algorithms only show videos that were posted by close friends and family. *(Thuật toán chỉ cho xem video do bạn thân và người nhà đăng.)*
 - B. Content that makes people feel strong emotions tends to be pushed to the top. *(Nội dung khiến người ta cảm xúc mạnh thường được đẩy lên đầu.)*
-- C. People only watch videos late at night. *(Người ta chỉ xem video đêm khuya.)*
-- D. Filter bubbles stop videos from spreading. *(Bong bóng lọc ngăn video lan truyền.)*
+- C. People only watch videos late at night, when they have time to share them. *(Người ta chỉ xem video đêm khuya, lúc có thời gian chia sẻ chúng.)*
+- D. Filter bubbles stop videos from spreading to people outside a group. *(Bong bóng lọc ngăn video lan tới người ngoài một nhóm.)*
 
 ---
 

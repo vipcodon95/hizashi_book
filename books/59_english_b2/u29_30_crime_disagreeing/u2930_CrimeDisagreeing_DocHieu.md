@@ -47,82 +47,82 @@
 **1. What is the news report mainly about?**
 *(Bản tin chủ yếu nói về điều gì?)*
 
-- A. how a phone scam almost worked on Harriet, and how to avoid such scams *(một vụ lừa qua điện thoại suýt thành công với bà Harriet, và cách tránh những vụ như vậy)*
-- B. Nathan's car accident *(vụ tai nạn ô tô của Nathan)*
-- C. a new police officer *(một cảnh sát mới)*
-- D. the price of gift cards *(giá thẻ quà tặng)*
+- A. how a phone scam almost worked on Harriet, and how to avoid scams *(một vụ lừa qua điện thoại suýt thành công với bà Harriet, và cách tránh các vụ lừa)*
+- B. Nathan's car accident and the police officer who helped him *(vụ tai nạn ô tô của Nathan và viên cảnh sát đã giúp cậu)*
+- C. a new police officer who joined the San Diego Police Department *(một cảnh sát mới vào Sở Cảnh sát San Diego)*
+- D. the price of gift cards in the stores near Harriet's café *(giá thẻ quà tặng ở các cửa hàng gần quán của Harriet)*
 
 **2. What did the caller say had happened?**
 *(Người gọi nói chuyện gì đã xảy ra?)*
 
-- A. Harriet's café had been robbed. *(Quán bà Harriet bị trộm.)*
-- B. Helena had lost her phone. *(Helena mất điện thoại.)*
+- A. Harriet's café had been robbed, and she needed to pay $3,000. *(Quán bà Harriet bị trộm và bà phải trả 3.000 đô.)*
+- B. Helena had lost her phone and needed help with $3,000. *(Helena mất điện thoại và cần giúp 3.000 đô.)*
 - C. Nathan had been arrested after a car accident and needed $3,000. *(Nathan bị bắt sau tai nạn ô tô và cần 3.000 đô.)*
-- D. Amy was lost. *(Amy bị lạc.)*
+- D. Amy was lost in the city and needed $3,000 to get home. *(Amy bị lạc trong thành phố và cần 3.000 đô để về nhà.)*
 
 **3. Why did the caller say that Harriet must not tell anyone?**
 *(Vì sao người gọi bảo bà Harriet không được nói với ai?)*
 
-- A. because Nathan was embarrassed *(vì Nathan xấu hổ)*
-- B. because it was a surprise *(vì đó là bất ngờ)*
-- C. because the police were busy *(vì cảnh sát bận)*
-- D. because he claimed that the case was confidential, so that she couldn't check his story *(vì hắn bảo vụ việc là bí mật, để bà không kiểm tra được câu chuyện)*
+- A. because Nathan was embarrassed and did not want his family to know *(vì Nathan xấu hổ và không muốn gia đình biết)*
+- B. because the police needed time to find the man who caused the accident *(vì cảnh sát cần thời gian tìm người gây ra tai nạn)*
+- C. because the police were busy and could not talk to other people *(vì cảnh sát bận và không thể nói chuyện với người khác)*
+- D. because he said the case was confidential, so she could not check his story *(vì hắn bảo vụ việc là bí mật, nên bà không thể kiểm tra câu chuyện của hắn)*
 
 **4. Why did Harriet believe the caller at first?**
 *(Vì sao lúc đầu bà Harriet tin người gọi?)*
 
-- A. He sounded like Nathan. *(Vì giọng hắn giống Nathan.)*
+- A. He sounded exactly like Nathan when he asked for help. *(Vì giọng hắn y như Nathan khi nhờ giúp.)*
 - B. He knew Nathan's name and the color of his car. *(Vì hắn biết tên Nathan và màu xe của Nathan.)*
-- C. He came to the café. *(Vì hắn tới quán.)*
-- D. Helena told her to. *(Vì Helena bảo vậy.)*
+- C. He came to the café and showed his police badge. *(Vì hắn tới quán và đưa huy hiệu cảnh sát.)*
+- D. Helena told her on the phone that she must believe him. *(Vì Helena nói qua điện thoại rằng bà phải tin hắn.)*
 
 **5. What made Harriet feel that something was wrong?**
 *(Điều gì khiến bà Harriet thấy có gì không ổn?)*
 
-- A. the request to pay with gift cards, and not being able to hear Nathan's voice *(việc đòi trả bằng thẻ quà tặng, và không được nghe giọng Nathan)*
-- B. the caller's accent *(giọng của người gọi)*
-- C. the time of the call *(giờ gọi)*
-- D. the amount of money *(số tiền)*
+- A. the request to pay with gift cards, and not hearing Nathan's voice *(việc đòi trả bằng thẻ quà tặng, và không nghe được giọng Nathan)*
+- B. the caller's strange accent and the noise in the background *(giọng lạ của người gọi và tiếng ồn ở nền)*
+- C. the time of the call, because the café was about to close *(giờ gọi, vì quán sắp đóng cửa)*
+- D. the amount of money, which was more than Harriet had at the café *(số tiền, nhiều hơn số Harriet có ở quán)*
 
 **6. Why did Harriet tell the caller that she needed to find her glasses?**
 *(Vì sao bà Harriet bảo người gọi là bà cần tìm kính?)*
 
-- A. because she couldn't read the gift cards *(vì bà không đọc được thẻ)*
-- B. because she really had lost them *(vì bà mất kính thật)*
+- A. because she couldn't read the gift cards without her glasses on *(vì bà không đọc được thẻ khi không đeo kính)*
+- B. because she really had lost them and needed to look for them *(vì bà mất kính thật và cần đi tìm)*
 - C. as an excuse to end the call so that she could check with her family *(làm cớ để kết thúc cuộc gọi và kiểm tra với gia đình)*
-- D. because she wanted to write down his name *(vì bà muốn ghi tên hắn)*
+- D. because she wanted to write down his name and phone number *(vì bà muốn ghi tên và số điện thoại của hắn)*
 
 **7. Why do scam stories like this one sound believable, according to Officer Grant?**
 *(Theo cảnh sát Grant, vì sao những câu chuyện lừa đảo kiểu này nghe đáng tin?)*
 
-- A. because scammers are trained actors *(vì kẻ lừa đảo là diễn viên được đào tạo)*
-- B. because they call at night *(vì chúng gọi ban đêm)*
-- C. because they use real police phones *(vì chúng dùng điện thoại cảnh sát thật)*
+- A. because scammers are trained actors who know the family well *(vì kẻ lừa đảo là diễn viên được đào tạo và biết rõ gia đình)*
+- B. because they call at night when people are tired and afraid *(vì chúng gọi ban đêm khi người ta mệt và sợ)*
+- C. because they use real police phones to call people from the station *(vì chúng dùng điện thoại cảnh sát thật để gọi từ đồn)*
 - D. because scammers can find names, photos and other details online *(vì kẻ lừa đảo có thể tìm được tên, ảnh và chi tiết khác trên mạng)*
 
 **8. What does "thousands of dollars could have been saved in some recent cases" mean?**
 *(Câu "lẽ ra đã giữ được hàng nghìn đô trong một số vụ gần đây" nghĩa là gì?)*
 
-- A. People saved thousands of dollars. *(Mọi người đã giữ được hàng nghìn đô.)*
-- B. In some cases, money was lost that could have been kept if the calls had been checked. *(Trong một số vụ, tiền đã bị mất, mà lẽ ra giữ được nếu cuộc gọi được kiểm tra.)*
-- C. The police will save money next year. *(Năm sau cảnh sát sẽ tiết kiệm tiền.)*
-- D. Gift cards are worth thousands of dollars. *(Thẻ quà tặng trị giá hàng nghìn đô.)*
+- A. People saved thousands of dollars by checking calls with a family member. *(Mọi người giữ được hàng nghìn đô nhờ kiểm tra cuộc gọi với người nhà.)*
+- B. In some cases, people lost money that checking the call could have saved. *(Trong một số vụ, người ta mất tiền mà kiểm tra cuộc gọi lẽ ra đã giữ được.)*
+- C. The police will save thousands of dollars next year by stopping scams. *(Năm sau cảnh sát sẽ tiết kiệm hàng nghìn đô nhờ chặn lừa đảo.)*
+- D. Gift cards are worth thousands of dollars in some stores near the café. *(Thẻ quà tặng trị giá hàng nghìn đô ở vài cửa hàng gần quán.)*
 
 **9. Why should calls like these be reported even when no money is lost?**
 *(Vì sao nên báo những cuộc gọi như vậy dù không mất tiền?)*
 
 - A. because each report helps officers track down the people behind them *(vì mỗi lần báo giúp cảnh sát lần ra những kẻ đứng sau)*
-- B. because the police pay for reports *(vì cảnh sát trả tiền cho người báo)*
-- C. because it is a rule for café owners *(vì đó là quy định với chủ quán)*
-- D. because the phone company asks for it *(vì công ty điện thoại yêu cầu)*
+- B. because the police pay people a small fee for each report *(vì cảnh sát trả cho người báo một khoản nhỏ mỗi lần báo)*
+- C. because it is a rule for café owners and shopkeepers *(vì đó là quy định với chủ quán và chủ cửa hàng)*
+- D. because the phone company asks for every call to be reported *(vì công ty điện thoại yêu cầu báo mọi cuộc gọi)*
 
 **10. What does Harriet's reply "Nice try, Corinne" show?**
 *(Câu "Cố hay đấy, Corinne" của bà Harriet cho thấy điều gì?)*
 
-- A. She is angry with Corinne. *(Bà giận Corinne.)*
-- B. She doesn't trust the police. *(Bà không tin cảnh sát.)*
+- A. She is angry with Corinne for asking such a rude question. *(Bà giận Corinne vì hỏi một câu thô lỗ như vậy.)*
+- B. She doesn't trust the police, so she will not tell anyone the word. *(Bà không tin cảnh sát nên sẽ không nói từ đó cho ai.)*
 - C. She is joking, but she takes keeping the code word secret seriously. *(Bà đùa, nhưng nghiêm túc giữ bí mật mật khẩu.)*
-- D. She has forgotten the code word. *(Bà quên mật khẩu.)*
+- D. She has forgotten the code word and does not want to admit it. *(Bà quên mật khẩu và không muốn thừa nhận.)*
 
 ---
 
@@ -165,17 +165,17 @@
 **11. What is the main purpose of the article?**
 *(Mục đích chính của bài báo là gì?)*
 
-- A. to decide whether pineapple belongs on pizza *(để quyết định pizza có nên có dứa không)*
+- A. to decide whether pineapple belongs on pizza at family dinners *(để quyết định pizza ở bữa tối gia đình có nên có dứa không)*
 - B. to give advice on how to disagree without damaging relationships *(để khuyên cách bất đồng mà không làm tổn hại các mối quan hệ)*
-- C. to tell families to stop eating together *(để bảo các gia đình thôi ăn chung)*
-- D. to explain how the heart works *(để giải thích tim hoạt động thế nào)*
+- C. to tell families to stop eating dinner together to avoid arguments *(để bảo các gia đình thôi ăn tối chung cho khỏi cãi nhau)*
+- D. to explain how the heart works when people are in danger *(để giải thích tim hoạt động thế nào khi con người gặp nguy hiểm)*
 
 **12. What does "Rarely does anyone change their mind during these arguments" mean?**
 *(Câu "Hiếm khi có ai đổi ý trong những cuộc cãi vã ấy" nghĩa là gì?)*
 
-- A. People often change their minds. *(Người ta hay đổi ý.)*
-- B. People change their minds only at dinner. *(Người ta chỉ đổi ý trong bữa tối.)*
-- C. Nobody argues at dinner. *(Không ai cãi nhau trong bữa tối.)*
+- A. People often change their minds when they hear a good point. *(Người ta hay đổi ý khi nghe một ý hay.)*
+- B. People change their minds only at dinner, and never at other times. *(Người ta chỉ đổi ý trong bữa tối, và không bao giờ vào lúc khác.)*
+- C. Nobody argues at dinner, because everyone is polite. *(Không ai cãi nhau trong bữa tối vì ai cũng lịch sự.)*
 - D. People almost never change their minds in these arguments. *(Người ta gần như không bao giờ đổi ý trong những cuộc cãi vã này.)*
 
 **13. According to psychologists, what is usually the real problem?**
@@ -183,64 +183,64 @@
 
 - A. how the disagreement happens *(cách sự bất đồng diễn ra)*
 - B. the disagreement itself *(bản thân sự bất đồng)*
-- C. the food at dinner *(đồ ăn trong bữa tối)*
-- D. the topic of pizza *(chủ đề pizza)*
+- C. the food and the drinks at the family dinner *(đồ ăn và đồ uống trong bữa tối gia đình)*
+- D. the kind of pizza that the family orders *(loại pizza mà gia đình gọi)*
 
 **14. What does "No sooner has one person raised their voice than the other raises theirs" describe?**
 *(Câu "Một người vừa cao giọng là người kia cũng cao giọng theo" mô tả điều gì?)*
 
-- A. People take turns politely. *(Mọi người lịch sự thay phiên nhau.)*
-- B. Only one person shouts. *(Chỉ một người quát.)*
+- A. People take turns politely and listen to each other. *(Mọi người lịch sự thay phiên nhau và lắng nghe nhau.)*
+- B. Only one person shouts, and the other stays calm. *(Chỉ một người quát, còn người kia vẫn bình tĩnh.)*
 - C. As soon as one person shouts, the other does the same. *(Ngay khi một người quát, người kia cũng làm vậy.)*
-- D. People stop talking. *(Mọi người thôi nói.)*
+- D. People stop talking as soon as one person raises a voice. *(Mọi người thôi nói ngay khi một người lớn tiếng.)*
 
 **15. Why does a question like "What makes you see it that way?" help?**
 *(Vì sao câu hỏi kiểu "Điều gì khiến anh nhìn nhận như vậy?" có ích?)*
 
-- A. because it ends the conversation *(vì nó kết thúc cuộc nói chuyện)*
+- A. because it ends the conversation before it becomes an argument *(vì nó kết thúc cuộc nói chuyện trước khi thành cãi vã)*
 - B. because people listen more once they feel that they have been heard *(vì người ta lắng nghe hơn khi thấy mình đã được lắng nghe)*
-- C. because it proves the other person wrong *(vì nó chứng minh người kia sai)*
-- D. because it is clever *(vì nó khôn ngoan)*
+- C. because it proves the other person wrong in front of everyone *(vì nó chứng minh người kia sai trước mặt mọi người)*
+- D. because it is a clever point that the other person cannot answer *(vì đó là một ý khôn ngoan mà người kia không đáp lại được)*
 
 **16. Why does the writer give the example of two parents who disagree about phones?**
 *(Vì sao người viết đưa ví dụ hai bố mẹ bất đồng về điện thoại?)*
 
-- A. to say that phones are dangerous *(để nói điện thoại nguy hiểm)*
-- B. to show that parents always argue *(để cho thấy bố mẹ luôn cãi nhau)*
-- C. to criticize parents *(để chê bố mẹ)*
+- A. to say that phones are dangerous for children and teenagers *(để nói điện thoại nguy hiểm với trẻ em và thiếu niên)*
+- B. to show that parents always argue about their children's habits *(để cho thấy bố mẹ luôn cãi nhau về thói quen của con)*
+- C. to criticize parents who let their children use phones too much *(để chê bố mẹ để con dùng điện thoại quá nhiều)*
 - D. to show how people who disagree can still share the same goal *(để cho thấy những người bất đồng vẫn có thể cùng một mục tiêu)*
 
 **17. Why is "I worry when…" easier to hear than "You always…"?**
 *(Vì sao "Con lo khi…" dễ nghe hơn "Bố lúc nào cũng…"?)*
 
-- A. because it talks about the speaker's feelings instead of attacking the other person *(vì nó nói về cảm xúc của người nói thay vì tấn công người kia)*
-- B. because it is shorter *(vì nó ngắn hơn)*
-- C. because it is a question *(vì nó là câu hỏi)*
-- D. because it is more polite to shout *(vì quát thì lịch sự hơn)*
+- A. because it describes the speaker's feelings instead of attacking someone *(vì nó mô tả cảm xúc của người nói thay vì tấn công ai đó)*
+- B. because it is shorter and takes less time to say at dinner *(vì nó ngắn hơn và nói nhanh hơn trong bữa tối)*
+- C. because it is a question that the other person has to answer *(vì nó là câu hỏi mà người kia phải trả lời)*
+- D. because it is more polite to shout when you are really worried *(vì quát lên khi thật sự lo thì lịch sự hơn)*
 
 **18. According to the writer, when might someone actually change their mind?**
 *(Theo người viết, khi nào người ta có thể thật sự đổi ý?)*
 
-- A. immediately, at the table *(ngay lập tức, trên bàn ăn)*
-- B. never *(không bao giờ)*
+- A. immediately, at the table, as soon as they hear a good point *(ngay lập tức, trên bàn ăn, khi vừa nghe một ý hay)*
+- B. never, because people always keep their opinions *(không bao giờ, vì người ta luôn giữ ý kiến của mình)*
 - C. perhaps days later, when nobody is watching *(có thể vài ngày sau, khi không ai để ý)*
-- D. only when they are shouted at *(chỉ khi bị quát)*
+- D. only when they are shouted at by their family *(chỉ khi bị gia đình quát)*
 
 **19. What does "Never has an argument been improved by continuing it at the top of your voice" suggest?**
 *(Câu "Chưa từng có cuộc tranh cãi nào tốt lên nhờ cứ tiếp tục gào to" hàm ý gì?)*
 
-- A. Shouting helps people win arguments. *(Quát tháo giúp thắng tranh cãi.)*
-- B. Shouting never makes an argument better, so it is better to take a break. *(Quát tháo không bao giờ làm cuộc tranh cãi tốt hơn, nên tốt hơn là tạm nghỉ.)*
-- C. Arguments are always bad. *(Tranh cãi lúc nào cũng xấu.)*
-- D. People should speak more quietly at work. *(Nên nói nhỏ hơn ở chỗ làm.)*
+- A. Shouting helps people win arguments if they keep going until the end. *(Quát tháo giúp thắng tranh cãi nếu cứ tiếp tục tới cùng.)*
+- B. Shouting never makes an argument better, so it's best to take a break. *(Quát tháo không bao giờ làm tranh cãi tốt hơn, nên tốt nhất là tạm nghỉ.)*
+- C. Arguments are always bad, so families should avoid every one of them. *(Tranh cãi lúc nào cũng xấu nên gia đình phải tránh mọi cuộc.)*
+- D. People should speak more quietly at work than they do at home. *(Ở chỗ làm nên nói nhỏ hơn ở nhà.)*
 
 **20. Use both texts. What do Harriet's code word and the advice in the article have in common?**
 *(Dựa vào cả hai bài. Mật khẩu gia đình của bà Harriet và lời khuyên trong bài báo có điểm gì chung?)*
 
-- A. Both are about money. *(Cả hai đều về tiền.)*
-- B. Both tell people to keep secrets from their families. *(Cả hai đều bảo giấu gia đình.)*
-- C. Both are about pizza. *(Cả hai đều về pizza.)*
-- D. Both show that clear, calm communication within a family protects it. *(Cả hai cho thấy giao tiếp rõ ràng, bình tĩnh trong gia đình giúp bảo vệ gia đình.)*
+- A. Both are about money and how families can save it for later. *(Cả hai đều về tiền và cách gia đình để dành cho sau này.)*
+- B. Both tell people to keep secrets from their families and friends. *(Cả hai đều bảo giấu bí mật với gia đình và bạn bè.)*
+- C. Both are about pizza, pineapple and the food of family dinners. *(Cả hai đều về pizza, dứa và đồ ăn bữa tối gia đình.)*
+- D. Both show that clear, calm communication in a family protects it. *(Cả hai cho thấy giao tiếp rõ ràng, bình tĩnh trong gia đình giúp bảo vệ gia đình.)*
 
 ---
 

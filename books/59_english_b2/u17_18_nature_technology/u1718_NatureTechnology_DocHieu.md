@@ -82,81 +82,81 @@
 *(Nhật ký của Tina chủ yếu nói về điều gì?)*
 
 - A. her experience of counting birds at the wetlands and what she learned *(trải nghiệm đi đếm chim ở vùng đất ngập nước và điều cô bé học được)*
-- B. a trip to Alaska *(một chuyến đi Alaska)*
-- C. how to become a vet *(cách trở thành bác sĩ thú y)*
-- D. a science test *(một bài kiểm tra khoa học)*
+- B. a long trip she took to Alaska to follow the birds that fly south *(một chuyến đi dài tới Alaska để theo dõi những loài chim bay về phương nam)*
+- C. her plan to become a vet and the subjects she needs to study *(kế hoạch trở thành bác sĩ thú y và những môn cô bé cần học)*
+- D. a science test about the birds of the bay that Mrs. Delgado gave to her class *(một bài kiểm tra khoa học về các loài chim ở vịnh mà cô Delgado giao cho lớp)*
 
 **2. Why couldn't Tina see anything at first?**
 *(Vì sao lúc đầu Tina chẳng nhìn thấy gì?)*
 
-- A. She had forgotten her glasses. *(Vì quên kính.)*
-- B. It was still dark. *(Vì trời còn tối.)*
+- A. She had forgotten her glasses at home. *(Vì cô bé để quên kính ở nhà.)*
+- B. It was still dark when the group arrived. *(Vì trời vẫn còn tối khi cả nhóm đến.)*
 - C. There was a thick morning mist. *(Vì sương sớm còn dày.)*
-- D. The birds were hiding. *(Vì chim đang trốn.)*
+- D. The birds were hiding in the tall grass. *(Vì chim đang trốn trong đám cỏ cao.)*
 
 **3. What does "I heard something call across the water" mean?**
 *(Câu "I heard something call across the water" nghĩa là gì?)*
 
-- A. Tina called someone across the water. *(Tina gọi ai đó bên kia mặt nước.)*
-- B. Someone was calling Tina on the phone. *(Có người gọi điện cho Tina.)*
-- C. Tina will hear a call later. *(Lát nữa Tina sẽ nghe thấy tiếng gọi.)*
+- A. Tina shouted to someone far away across the water. *(Tina gọi to một người ở xa bên kia mặt nước.)*
+- B. Someone on the far side of the bay was calling Tina by name. *(Có người ở bờ bên kia vịnh đang gọi tên Tina.)*
+- C. Tina will hear an animal call later in the morning. *(Lát nữa trong buổi sáng Tina sẽ nghe thấy một con vật kêu.)*
 - D. Tina heard the whole sound of some animal calling. *(Tina nghe trọn tiếng một con vật nào đó kêu.)*
 
 **4. Which birds were running along the edge of the mud?**
 *(Những con chim nào đang chạy dọc mép bùn?)*
 
-- A. ospreys *(chim ưng biển)*
+- A. ospreys that had flown from the north to fish there *(chim ưng biển đã bay từ phương bắc tới đây để bắt cá)*
 - B. western sandpipers, some of which had flown from Alaska *(chim choắt cát miền tây, có con đã bay từ Alaska tới)*
-- C. geese from South America *(ngỗng từ Nam Mỹ)*
-- D. sea stars *(sao biển)*
+- C. geese that had flown all the way from South America *(ngỗng đã bay suốt từ Nam Mỹ tới)*
+- D. ducks that were standing still at the water's edge *(vịt đang đứng yên bên mép nước)*
 
 **5. What is the Pacific Flyway?**
 *(Đường bay Thái Bình Dương là gì?)*
 
 - A. a route in the sky that birds follow between the far north and South America *(một tuyến đường trên trời chim bay theo giữa vùng cực bắc và Nam Mỹ)*
-- B. a highway near San Diego *(một xa lộ gần San Diego)*
-- C. an airline *(một hãng hàng không)*
-- D. a kind of bird *(một loài chim)*
+- B. a road along the bay where volunteers drive to count birds *(một con đường dọc vịnh mà các tình nguyện viên lái xe tới để đếm chim)*
+- C. an airline that flies people who like birds from San Diego to Alaska and South America *(một hãng hàng không chở những người thích chim từ San Diego tới Alaska và Nam Mỹ)*
+- D. a kind of bird that travels from the north to South America *(một loài chim di chuyển từ phương bắc tới Nam Mỹ)*
 
 **6. What does Mrs. Delgado mean by "Think of it as a gas station"?**
 *(Bà Delgado muốn nói gì qua câu "Cứ coi nó như một trạm xăng"?)*
 
-- A. Birds drink gas. *(Chim uống xăng.)*
-- B. The wetlands are near a gas station. *(Vùng đất ngập nước nằm gần trạm xăng.)*
-- C. Wetlands are places where birds rest and eat; without them, birds cannot finish their journey. *(Đất ngập nước là nơi chim nghỉ và ăn; không có nó chim không đi hết hành trình.)*
-- D. Birds should travel by car. *(Chim nên đi bằng ô tô.)*
+- A. Birds need to fill up with fuel from machines near the bay before flying. *(Chim cần nạp nhiên liệu từ máy móc gần vịnh trước khi bay.)*
+- B. The wetlands are close to a gas station that the volunteers often use. *(Vùng đất ngập nước nằm gần một trạm xăng mà các tình nguyện viên hay dùng.)*
+- C. Wetlands let birds rest and eat; without them, birds cannot finish their journey. *(Đất ngập nước giúp chim nghỉ và ăn; không có nó, chim không thể đi hết hành trình.)*
+- D. Birds follow the cars along the highway because they find food at gas stations. *(Chim bay theo xe trên xa lộ vì tìm được thức ăn ở các trạm xăng.)*
 
 **7. What does "I saw it fall out of the sky, hit the water and rise again" describe?**
 *(Câu "I saw it fall out of the sky, hit the water and rise again" mô tả điều gì?)*
 
-- A. an osprey that was hurt *(một con chim ưng biển bị thương)*
-- B. rain falling *(mưa rơi)*
-- C. a plane *(một chiếc máy bay)*
+- A. an osprey that was hurt and could not rise from the water *(một con chim ưng biển bị thương và không thể bay lên khỏi mặt nước)*
+- B. a fish that jumped out of the water to catch a bird *(một con cá nhảy khỏi mặt nước để bắt chim)*
+- C. a plane that landed on the water and took off again *(một chiếc máy bay hạ cánh xuống nước rồi cất cánh lại)*
 - D. the whole dive of an osprey, from beginning to end *(trọn cú lao xuống của con chim ưng biển, từ đầu tới cuối)*
 
 **8. Why does Mrs. Delgado call the cheering "very unscientific, but understandable"?**
 *(Vì sao bà Delgado gọi tiếng reo là "rất phản khoa học, nhưng dễ hiểu"?)*
 
-- A. She was angry with the group. *(Vì bà giận cả nhóm.)*
-- B. Noise isn't ideal when you are watching birds, but she understands their excitement. *(Vì làm ồn không hay khi ngắm chim, nhưng bà hiểu niềm phấn khích của họ.)*
-- C. She didn't see the osprey. *(Vì bà không thấy con chim ưng.)*
-- D. Scientists never cheer. *(Vì nhà khoa học không bao giờ reo hò.)*
+- A. She was angry with the group because the cheering ruined the whole bird count. *(Vì bà giận cả nhóm do tiếng reo hò làm hỏng cả buổi đếm chim.)*
+- B. Noise isn't ideal when watching birds, but she understands their excitement. *(Vì làm ồn không hay khi ngắm chim, nhưng bà hiểu niềm phấn khích của họ.)*
+- C. She did not see the osprey, so she did not understand why they cheered. *(Vì bà không thấy con chim ưng nên không hiểu sao họ reo hò.)*
+- D. She thinks real scientists never cheer, so the group had behaved very badly. *(Vì bà cho rằng nhà khoa học thật không bao giờ reo hò, nên cả nhóm đã cư xử rất tệ.)*
 
 **9. What happens to the group's bird counts?**
 *(Số liệu đếm chim của nhóm được dùng vào việc gì?)*
 
-- A. They are sent to scientists, who use them to see how bird numbers are changing. *(Được gửi cho các nhà khoa học để theo dõi số lượng chim thay đổi thế nào.)*
-- B. They are kept in Tina's journal only. *(Chỉ được giữ trong nhật ký của Tina.)*
-- C. They are sold to a company. *(Được bán cho một công ty.)*
-- D. They are used to plan a new highway. *(Được dùng để quy hoạch xa lộ mới.)*
+- A. They are sent to scientists, who use them to see how bird numbers change. *(Được gửi cho nhà khoa học, họ dùng để xem số lượng chim thay đổi ra sao.)*
+- B. They are kept in Tina's journal so that she can compare them next year. *(Được giữ trong nhật ký của Tina để cô bé so sánh vào năm sau.)*
+- C. They are sold to a company that makes bird food for the wetlands. *(Được bán cho một công ty làm thức ăn cho chim ở vùng đất ngập nước.)*
+- D. They are used by the city to decide where a new highway will cross the bay. *(Được thành phố dùng để quyết định nơi xa lộ mới băng qua vịnh.)*
 
 **10. What does the end of the journal suggest about Tina?**
 *(Phần cuối nhật ký cho thấy điều gì về Tina?)*
 
-- A. She has lost interest in animals. *(Cô bé hết quan tâm tới động vật.)*
-- B. She is going to move to Alaska. *(Cô bé sắp chuyển tới Alaska.)*
+- A. She has lost interest in animals after seeing how many birds have died. *(Cô bé hết quan tâm tới động vật sau khi thấy có bao nhiêu chim đã chết.)*
+- B. She is going to move to Alaska to follow the sandpipers on their journey. *(Cô bé sắp chuyển tới Alaska để theo chân những con chim choắt trên hành trình của chúng.)*
 - C. The experience has made her think about working in science to protect birds. *(Trải nghiệm này khiến cô bé nghĩ tới việc làm khoa học để bảo vệ loài chim.)*
-- D. She thinks that counting birds is boring. *(Cô bé nghĩ đếm chim thật chán.)*
+- D. She thinks counting birds is boring, but she will continue to please Mrs. Delgado. *(Cô bé nghĩ đếm chim thật chán, nhưng vẫn sẽ tiếp tục để làm hài lòng cô Delgado.)*
 
 ---
 
@@ -198,82 +198,82 @@
 **11. What is the main idea of the article?**
 *(Ý chính của bài báo là gì?)*
 
-- A. Smart speakers should be banned. *(Nên cấm loa thông minh.)*
-- B. Smart speakers are useful, but families should think carefully about privacy and children. *(Loa thông minh hữu ích, nhưng các gia đình nên suy nghĩ kỹ về quyền riêng tư và trẻ em.)*
-- C. Smart speakers are only for cooking. *(Loa thông minh chỉ để nấu ăn.)*
-- D. Children should not do homework. *(Trẻ em không nên làm bài tập.)*
+- A. Smart speakers are dangerous, so families should stop using them as soon as possible. *(Loa thông minh nguy hiểm, nên các gia đình cần ngừng dùng càng sớm càng tốt.)*
+- B. Smart speakers are useful, but families should think about privacy and children. *(Loa thông minh hữu ích, nhưng các gia đình nên cân nhắc về quyền riêng tư và trẻ em.)*
+- C. Smart speakers are mainly for cooking, because they read recipes and set timers. *(Loa thông minh chủ yếu để nấu ăn, vì chúng đọc công thức và đặt hẹn giờ.)*
+- D. Children should stop doing homework because speakers can now answer every question. *(Trẻ em nên thôi làm bài tập vì loa giờ đã trả lời được mọi câu hỏi.)*
 
 **12. What does "It is estimated that about a third of households … own at least one smart speaker" tell us?**
 *(Câu "Người ta ước tính khoảng một phần ba số hộ … có ít nhất một chiếc loa thông minh" cho biết gì?)*
 
-- A. Exactly 33 households have smart speakers. *(Đúng 33 hộ có loa.)*
-- B. Everyone owns a smart speaker. *(Ai cũng có loa thông minh.)*
-- C. Most households own three speakers. *(Phần lớn hộ có ba chiếc loa.)*
+- A. Exactly thirty-three households in the country own a smart speaker. *(Đúng ba mươi ba hộ trong cả nước có loa thông minh.)*
+- B. Nearly every household in the United States owns a smart speaker. *(Gần như hộ nào ở Hoa Kỳ cũng có loa thông minh.)*
+- C. Most households own three speakers, one for each family member. *(Phần lớn hộ có ba chiếc loa, mỗi thành viên một chiếc.)*
 - D. Roughly one in three households has one, according to estimates. *(Theo ước tính, khoảng một trong ba hộ có loa.)*
 
 **13. Why might a parent with flour on her hands find a smart speaker useful?**
 *(Vì sao một bà mẹ tay dính bột thấy loa thông minh tiện?)*
 
 - A. She can set a timer just by speaking. *(Vì bà có thể đặt hẹn giờ chỉ bằng giọng nói.)*
-- B. It can clean the kitchen. *(Vì nó dọn bếp được.)*
-- C. It can make bread. *(Vì nó làm được bánh mì.)*
-- D. It can call the police. *(Vì nó gọi được cảnh sát.)*
+- B. It can wash the dishes and clean up the kitchen. *(Vì nó rửa bát và dọn bếp được.)*
+- C. It can bake the bread while she is out. *(Vì nó nướng bánh mì được khi bà đi vắng.)*
+- D. It can call her husband when the cooking is done. *(Vì nó gọi chồng bà khi nấu xong.)*
 
 **14. Why must smart speakers listen all the time?**
 *(Vì sao loa thông minh phải nghe liên tục?)*
 
-- A. to record every conversation *(để ghi âm mọi cuộc trò chuyện)*
-- B. to play music *(để phát nhạc)*
+- A. to record every private talk *(để ghi âm mọi cuộc nói chuyện riêng)*
+- B. to play music all day long *(để phát nhạc cả ngày)*
 - C. to hear their wake word *(để nghe được từ đánh thức)*
-- D. to check the weather *(để xem thời tiết)*
+- D. to look up the weather *(để tra cứu thời tiết)*
 
 **15. What are some users unaware of?**
 *(Một số người dùng không biết điều gì?)*
 
-- A. how to turn on the lights *(cách bật đèn)*
-- B. that recordings may be stored and sometimes reviewed by people working for the company *(rằng bản ghi có thể được lưu và đôi khi được nhân viên công ty nghe lại)*
-- C. that speakers can play music *(rằng loa phát được nhạc)*
-- D. that speakers need electricity *(rằng loa cần điện)*
+- A. how to set a timer or turn off the lights by speaking to the device *(cách đặt hẹn giờ hoặc tắt đèn bằng cách nói với thiết bị)*
+- B. that recordings may be stored and sometimes reviewed by company staff *(rằng bản ghi có thể được lưu và đôi khi được nhân viên công ty nghe lại)*
+- C. that the speaker plays music only when the wake word is shouted *(rằng loa chỉ phát nhạc khi từ đánh thức được hét lên)*
+- D. that the speaker needs electricity or a strong internet connection to work *(rằng loa cần điện hoặc kết nối mạng mạnh để hoạt động)*
 
 **16. What does "Most speakers allow users to delete their recordings, but few people ever check the settings" suggest?**
 *(Câu "Phần lớn loa cho phép xoá bản ghi, nhưng ít ai từng kiểm tra cài đặt" hàm ý gì?)*
 
-- A. The settings are very difficult to find. *(Phần cài đặt rất khó tìm.)*
-- B. Recordings are deleted automatically. *(Bản ghi tự động bị xoá.)*
-- C. The companies don't allow deleting. *(Công ty không cho xoá.)*
+- A. The settings are hidden so well that users cannot find them even if they try. *(Phần cài đặt được giấu kỹ đến mức người dùng cố cũng không tìm ra.)*
+- B. Recordings are deleted automatically every night, so nobody needs to check. *(Bản ghi tự động bị xoá mỗi đêm nên không ai cần kiểm tra.)*
+- C. The companies refuse to let users delete their recordings in any case. *(Các công ty từ chối cho người dùng xoá bản ghi trong mọi trường hợp.)*
 - D. Users could protect their privacy more, but most don't take the trouble. *(Người dùng có thể tự bảo vệ quyền riêng tư tốt hơn, nhưng phần lớn không chịu bỏ công.)*
 
 **17. Why do some parents find it worrying how their children talk to smart speakers?**
 *(Vì sao một số phụ huynh thấy lo về cách con mình nói chuyện với loa thông minh?)*
 
 - A. The children shout orders at the device without saying "please". *(Vì trẻ quát ra lệnh cho thiết bị mà chẳng nói "làm ơn".)*
-- B. The children never use the device. *(Vì trẻ không bao giờ dùng thiết bị.)*
-- C. The device teaches bad words. *(Vì thiết bị dạy từ xấu.)*
-- D. The children are afraid of it. *(Vì trẻ sợ nó.)*
+- B. The children refuse to use the device and shout at their parents instead. *(Vì trẻ từ chối dùng thiết bị mà quát bố mẹ.)*
+- C. The device teaches the children bad words when they ask it questions. *(Vì thiết bị dạy trẻ những từ xấu khi chúng hỏi.)*
+- D. The children are afraid of the device and will not sleep near it. *(Vì trẻ sợ thiết bị và không chịu ngủ gần nó.)*
 
 **18. What is the homework worry about?**
 *(Nỗi lo về bài tập là gì?)*
 
-- A. Speakers give wrong answers. *(Loa trả lời sai.)*
+- A. Speakers often give wrong answers, so children make mistakes in class. *(Loa hay trả lời sai nên trẻ mắc lỗi ở lớp.)*
 - B. Children may not learn how to find things out for themselves. *(Trẻ có thể không học được cách tự tìm hiểu.)*
-- C. Speakers are too slow. *(Loa quá chậm.)*
-- D. Teachers will ban speakers. *(Giáo viên sẽ cấm loa.)*
+- C. Speakers are too slow to answer, so children stop doing their homework. *(Loa trả lời quá chậm nên trẻ bỏ không làm bài tập.)*
+- D. Teachers will ban speakers and punish children who use them at home. *(Giáo viên sẽ cấm loa và phạt trẻ dùng chúng ở nhà.)*
 
 **19. What does the writer mean by "It should not become the quietest member of the family, always listening and never asked"?**
 *(Người viết muốn nói gì qua câu "Nó không nên trở thành thành viên lặng lẽ nhất trong nhà, lúc nào cũng nghe mà chẳng bao giờ được hỏi ý"?)*
 
-- A. Families should talk to the speaker more. *(Cả nhà nên nói chuyện với loa nhiều hơn.)*
-- B. The speaker should be louder. *(Loa nên to hơn.)*
-- C. Families should not let the device listen to them without thinking about it and controlling it. *(Gia đình không nên để thiết bị nghe mình mà không suy nghĩ và kiểm soát nó.)*
-- D. Speakers are part of the family. *(Loa là một thành viên gia đình.)*
+- A. Families should talk to the speaker more often so that it feels like part of the family. *(Cả nhà nên nói chuyện với loa thường xuyên hơn để nó giống như một phần của gia đình.)*
+- B. The speaker should be louder, so that the whole family can hear it clearly. *(Loa nên to hơn để cả nhà nghe rõ.)*
+- C. Families should not let it listen without thinking about it and controlling it. *(Gia đình không nên để nó nghe mà không suy nghĩ và kiểm soát nó.)*
+- D. Speakers are already part of the family, so nobody needs to worry about them. *(Loa đã là một phần của gia đình nên không ai cần lo về chúng.)*
 
 **20. Use both texts. What do Tina's bird counts and the article's advice about smart speakers have in common?**
 *(Dựa vào cả hai bài. Việc đếm chim của Tina và lời khuyên về loa thông minh có điểm gì chung?)*
 
-- A. Both of them are about birds. *(Cả hai đều về loài chim.)*
-- B. Both of them are about recording music. *(Cả hai đều về ghi âm nhạc.)*
-- C. Both of them show that technology is dangerous. *(Cả hai cho thấy công nghệ nguy hiểm.)*
-- D. Both of them show that paying careful attention is the first step to protecting something. *(Cả hai cho thấy chú ý cẩn thận là bước đầu để bảo vệ một điều gì đó.)*
+- A. Both of them are about birds that fly between the north and the south. *(Cả hai đều nói về loài chim bay giữa phương bắc và phương nam.)*
+- B. Both of them are about recording music and sounds for a school project. *(Cả hai đều nói về việc ghi âm nhạc và âm thanh cho một dự án ở trường.)*
+- C. Both of them show that new technology is dangerous and should be avoided. *(Cả hai cho thấy công nghệ mới nguy hiểm và nên tránh.)*
+- D. Both show that careful attention is the first step to protecting something. *(Cả hai cho thấy chú ý cẩn thận là bước đầu để bảo vệ một điều gì đó.)*
 
 ---
 

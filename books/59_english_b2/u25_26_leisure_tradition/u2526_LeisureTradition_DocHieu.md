@@ -47,82 +47,82 @@
 **1. What is Ethan's article mainly about?**
 *(Bài viết của Ethan chủ yếu nói về điều gì?)*
 
-- A. how to become a firefighter *(cách trở thành lính cứu hoả)*
-- B. the best food for runners *(đồ ăn tốt nhất cho người chạy bộ)*
+- A. how to become a firefighter while training for long mountain races *(cách trở thành lính cứu hoả trong lúc tập cho các cuộc chạy núi dài)*
+- B. the best food for runners to eat during a long race *(đồ ăn tốt nhất cho người chạy bộ ăn trong cuộc đua dài)*
 - C. his experience of running his first 50-kilometer race *(trải nghiệm chạy cuộc đua 50 km đầu tiên của anh)*
-- D. Leah's work at the hospital *(công việc của Leah ở bệnh viện)*
+- D. Leah's work at the hospital where she changes her shifts *(công việc của Leah ở bệnh viện nơi cô đổi ca trực)*
 
 **2. What is an ultramarathon?**
 *(Siêu marathon là gì?)*
 
 - A. any race that is longer than a marathon *(bất kỳ cuộc chạy nào dài hơn marathon)*
-- B. a race in the mountains *(một cuộc chạy trên núi)*
-- C. a race for firefighters *(một cuộc chạy cho lính cứu hoả)*
-- D. a race of exactly thirty-one miles *(một cuộc chạy đúng ba mươi mốt dặm)*
+- B. a trail race in the mountains east of San Diego *(một cuộc chạy đường mòn trên núi phía đông San Diego)*
+- C. a race that only firefighters are allowed to run *(một cuộc chạy mà chỉ lính cứu hoả mới được tham gia)*
+- D. a race of exactly thirty-one miles, no more and no less *(một cuộc chạy dài đúng ba mươi mốt dặm, không hơn không kém)*
 
 **3. Why does Ethan say that feeling easy in the first ten miles is "a dangerous feeling"?**
 *(Vì sao Ethan nói cảm giác dễ dàng ở mười dặm đầu là "cảm giác nguy hiểm"?)*
 
-- A. because he fell *(vì anh bị ngã)*
-- B. because the trail was dangerous *(vì đường mòn nguy hiểm)*
-- C. because other runners were angry *(vì người khác giận)*
+- A. because he fell on the rocks and hurt his legs early on *(vì anh ngã trên đá và đau chân từ sớm)*
+- B. because the trail was dangerous and the rocks were too loose *(vì đường mòn nguy hiểm và đá quá lỏng lẻo)*
+- C. because other runners were angry that he ran in front of them *(vì những người chạy khác giận anh chạy lên trước họ)*
 - D. because it made him start too fast, and he was tired too early *(vì nó khiến anh chạy quá nhanh từ đầu và đuối sức quá sớm)*
 
 **4. What does "I didn't mind them passing me" mean?**
 *(Câu "I didn't mind them passing me" nghĩa là gì?)*
 
-- A. Ethan passed many runners. *(Ethan vượt nhiều người.)*
+- A. Ethan passed many runners during the climb in the middle. *(Ethan vượt nhiều người trong đoạn leo dốc ở giữa.)*
 - B. Ethan wasn't bothered by other runners passing him. *(Ethan không bận tâm việc người khác vượt mình.)*
-- C. Ethan asked them to pass. *(Ethan bảo họ vượt.)*
-- D. Ethan was angry with the runners. *(Ethan giận những người chạy.)*
+- C. Ethan asked the other runners to pass him on the hill. *(Ethan bảo những người chạy khác vượt mình trên dốc.)*
+- D. Ethan was angry with the runners who went past him. *(Ethan giận những người chạy vượt qua mình.)*
 
 **5. What does Ethan regret?**
 *(Ethan tiếc điều gì?)*
 
 - A. not training on more hills *(không tập leo dốc nhiều hơn)*
-- B. running the race at all *(đã tham gia cuộc chạy)*
-- C. eating the potato *(ăn củ khoai tây)*
-- D. asking Leah to come *(nhờ Leah tới)*
+- B. choosing such a long race *(chọn một cuộc chạy dài như vậy)*
+- C. eating the salty potato *(ăn củ khoai tây mặn)*
+- D. asking Leah to move her shift to come *(nhờ Leah đổi ca để tới)*
 
 **6. Why does Ethan describe the boiled potato as the most delicious thing he had ever eaten?**
 *(Vì sao Ethan tả củ khoai luộc là món ngon nhất đời?)*
 
-- A. because it was cooked by a famous chef *(vì do đầu bếp nổi tiếng nấu)*
-- B. because he had never eaten a potato before *(vì anh chưa từng ăn khoai)*
+- A. because it was cooked by a famous chef at the aid station *(vì do một đầu bếp nổi tiếng nấu ở trạm tiếp tế)*
+- B. because he had never eaten a potato in his whole life *(vì cả đời anh chưa từng ăn khoai tây)*
 - C. because he was so tired and hungry at that point in the race *(vì lúc đó trong cuộc đua anh quá mệt và đói)*
-- D. because it was free *(vì nó miễn phí)*
+- D. because it was free and the volunteer gave him two more *(vì nó miễn phí và tình nguyện viên cho anh thêm hai củ)*
 
 **7. What kept Ethan going in the last eleven miles?**
 *(Điều gì giúp Ethan đi tiếp ở mười một dặm cuối?)*
 
-- A. the volunteers' soup *(súp của tình nguyện viên)*
-- B. the other runners *(những người chạy khác)*
-- C. music on his phone *(nhạc trên điện thoại)*
+- A. the soup that the volunteers gave him at mile twenty *(món súp tình nguyện viên đưa cho anh ở dặm hai mươi)*
+- B. the other runners who walked and talked with him *(những người chạy khác cùng đi bộ và trò chuyện với anh)*
+- C. the music that he listened to on his phone *(bản nhạc anh nghe trên điện thoại)*
 - D. the thought of Leah waiting at the finish line *(ý nghĩ Leah đang chờ ở vạch đích)*
 
 **8. What does the article tell us about Leah and Ethan's relationship now?**
 *(Bài viết cho biết gì về mối quan hệ hiện nay của Leah và Ethan?)*
 
-- A. They have broken up. *(Hai người đã chia tay.)*
-- B. Since a difficult winter, they have kept one evening a week for themselves, and Leah supports him. *(Từ một mùa đông khó khăn, họ giữ một buổi tối mỗi tuần cho nhau, và Leah ủng hộ anh.)*
-- C. They never see each other. *(Họ không bao giờ gặp nhau.)*
-- D. Leah didn't come to the race. *(Leah không tới cuộc đua.)*
+- A. They broke up last winter, but they still meet one evening a week. *(Họ chia tay mùa đông trước nhưng vẫn gặp nhau một buổi tối mỗi tuần.)*
+- B. They have kept one evening a week for each other since a difficult winter. *(Từ một mùa đông khó khăn, họ giữ một buổi tối mỗi tuần dành cho nhau.)*
+- C. They hardly see each other, because their work shifts never match. *(Họ hầu như không gặp nhau vì ca làm không bao giờ khớp.)*
+- D. Leah didn't come to the race because she could not move her shift. *(Leah không tới cuộc đua vì không đổi được ca.)*
 
 **9. What does Leah's sign "I'm so proud of you (and also: why?)" show?**
 *(Tấm biển "Em tự hào về anh lắm (nhưng mà: để làm gì vậy?)" của Leah cho thấy điều gì?)*
 
-- A. She is proud of him but also teasing him about why anyone would run so far. *(Cô tự hào về anh nhưng cũng trêu chuyện sao lại có người chạy xa đến thế.)*
-- B. She is angry that he ran. *(Cô giận vì anh chạy.)*
-- C. She didn't understand the race. *(Cô không hiểu cuộc đua.)*
-- D. She wants him to stop running. *(Cô muốn anh thôi chạy.)*
+- A. She is proud of him but also teasing him about running so far. *(Cô tự hào về anh nhưng cũng trêu chuyện anh chạy xa đến thế.)*
+- B. She is angry that he ran so far and left her alone for the day. *(Cô giận vì anh chạy xa và bỏ cô ở nhà một mình cả ngày.)*
+- C. She didn't understand the race and thought he had lost. *(Cô không hiểu cuộc đua và tưởng anh đã thua.)*
+- D. She wants him to stop running and spend more time at home. *(Cô muốn anh thôi chạy và ở nhà nhiều hơn.)*
 
 **10. What does Ethan mean by "Ask me when my legs work again"?**
 *(Ethan muốn nói gì qua câu "Hỏi lại khi nào chân tôi đi lại được nhé"?)*
 
-- A. He has hurt his legs badly and must see a doctor. *(Anh bị thương chân nặng và phải đi khám.)*
-- B. He will never run again. *(Anh sẽ không bao giờ chạy nữa.)*
+- A. He has hurt his legs badly and must go and see a doctor today. *(Anh bị thương chân nặng và hôm nay phải đi khám.)*
+- B. He will never run again, because the race was too hard. *(Anh sẽ không bao giờ chạy nữa vì cuộc đua quá khó.)*
 - C. He is too tired to decide now, and he is joking about how sore he is. *(Anh quá mệt để quyết định lúc này, và đang đùa về việc mình đau nhức.)*
-- D. He wants someone to carry him. *(Anh muốn có người cõng.)*
+- D. He wants someone to carry him back to the car after the race. *(Anh muốn có người cõng về xe sau cuộc đua.)*
 
 ---
 
@@ -164,10 +164,10 @@
 **11. What is the main idea of the article?**
 *(Ý chính của bài báo là gì?)*
 
-- A. Thanksgiving is the oldest holiday in the world. *(Lễ Tạ ơn là ngày lễ lâu đời nhất thế giới.)*
+- A. Thanksgiving is the oldest holiday and has never changed since 1621. *(Lễ Tạ ơn là ngày lễ lâu đời nhất và chưa từng đổi từ năm 1621.)*
 - B. Traditions change over time and differ from family to family. *(Truyền thống thay đổi theo thời gian và khác nhau giữa các nhà.)*
-- C. Everyone should eat turkey. *(Ai cũng nên ăn gà tây.)*
-- D. Young people don't like traditions. *(Người trẻ không thích truyền thống.)*
+- C. Everyone should eat turkey at Thanksgiving to keep the tradition. *(Ai cũng nên ăn gà tây dịp Lễ Tạ ơn để giữ truyền thống.)*
+- D. Young people don't like traditions and prefer to celebrate with friends. *(Người trẻ không thích truyền thống và thích ăn mừng với bạn bè hơn.)*
 
 **12. What does the only written description of the 1621 meal mention?**
 *(Bản ghi chép duy nhất về bữa ăn năm 1621 nhắc tới gì?)*
@@ -180,65 +180,65 @@
 **13. Why does the writer mention the 1621 meal?**
 *(Vì sao người viết nhắc tới bữa ăn năm 1621?)*
 
-- A. to show that a tradition people think is very old has actually changed a lot *(để cho thấy một truyền thống tưởng rất cổ thực ra đã thay đổi nhiều)*
-- B. to give a recipe *(để đưa công thức nấu ăn)*
-- C. to say that turkey is unhealthy *(để nói gà tây không tốt cho sức khoẻ)*
-- D. to tell the history of Plymouth *(để kể lịch sử Plymouth)*
+- A. to show that a tradition people think is old has actually changed a lot *(để cho thấy một truyền thống người ta tưởng cổ thực ra đã thay đổi nhiều)*
+- B. to give a recipe for the famous meal that was served in 1621 *(để đưa công thức cho bữa ăn nổi tiếng năm 1621)*
+- C. to say that turkey is unhealthy and should not be served *(để nói gà tây không tốt cho sức khoẻ và không nên dọn)*
+- D. to tell the whole history of Plymouth and its first families *(để kể toàn bộ lịch sử Plymouth và các gia đình đầu tiên)*
 
 **14. According to the article, what decides which dishes some families serve next to the turkey?**
 *(Theo bài, điều gì quyết định món nào được bày cạnh gà tây ở một số nhà?)*
 
-- A. the price of food *(giá đồ ăn)*
-- B. the weather *(thời tiết)*
+- A. how much the food costs in the shops *(giá đồ ăn ở các cửa hàng)*
+- B. the weather on the day of the meal *(thời tiết vào ngày ăn)*
 - C. where grandparents grew up *(nơi ông bà lớn lên)*
-- D. the advice of chefs *(lời khuyên của đầu bếp)*
+- D. the advice of chefs on television *(lời khuyên của đầu bếp trên truyền hình)*
 
 **15. In "My grandmother would make twelve dishes", what does "would" show?**
 *(Trong câu "My grandmother would make twelve dishes", "would" cho thấy điều gì?)*
 
-- A. a future plan *(một kế hoạch tương lai)*
+- A. a plan for the near future *(một kế hoạch cho tương lai gần)*
 - B. a repeated habit in the past *(một thói quen lặp lại trong quá khứ)*
-- C. a polite request *(một lời nhờ lịch sự)*
-- D. an imaginary situation *(một tình huống tưởng tượng)*
+- C. a polite request to her family *(một lời nhờ lịch sự với gia đình)*
+- D. an imaginary situation that never happened *(một tình huống tưởng tượng chưa từng xảy ra)*
 
 **16. What does the woman mean by "It is less perfect, but nobody falls asleep from exhaustion"?**
 *(Người phụ nữ muốn nói gì qua câu "Kém hoàn hảo hơn, nhưng chẳng ai ngủ gục vì kiệt sức"?)*
 
-- A. The food is not as good now. *(Đồ ăn giờ không ngon bằng.)*
-- B. Everyone sleeps during the meal. *(Ai cũng ngủ trong bữa ăn.)*
-- C. Her grandmother was lazy. *(Bà cô lười.)*
+- A. The food is not as good now, because nobody cooks the way she did. *(Đồ ăn giờ không ngon bằng vì không ai nấu như bà.)*
+- B. Everyone sleeps during the meal because they eat too much. *(Ai cũng ngủ trong bữa ăn vì ăn quá nhiều.)*
+- C. Her grandmother was lazy and let others cook for her. *(Bà cô lười và để người khác nấu cho.)*
 - D. Sharing the cooking is better, even if the meal is not perfect. *(Chia nhau nấu thì tốt hơn, dù bữa ăn không hoàn hảo.)*
 
 **17. What is "Friendsgiving"?**
 *("Friendsgiving" là gì?)*
 
 - A. a meal shared with friends instead of family *(bữa ăn chung với bạn bè thay vì gia đình)*
-- B. a very old tradition *(một truyền thống rất cổ)*
-- C. a kind of pie *(một loại bánh)*
-- D. a holiday in the 1600s *(một ngày lễ thế kỷ 17)*
+- B. a very old tradition that families have kept since 1621 *(một truyền thống rất cổ mà các gia đình giữ từ năm 1621)*
+- C. a kind of pie that is served with sweet potatoes *(một loại bánh ăn kèm khoai lang)*
+- D. a holiday that families began celebrating in the 1600s *(một ngày lễ các gia đình bắt đầu ăn mừng từ thế kỷ 17)*
 
 **18. What does "So do I" mean in the roommates' conversation?**
 *(Trong đoạn hội thoại của hai bạn cùng phòng, "So do I" nghĩa là gì?)*
 
-- A. I don't miss my family. *(Mình không nhớ nhà.)*
-- B. I will cook dinner. *(Mình sẽ nấu bữa tối.)*
+- A. I don't miss my family's dinner at all. *(Mình chẳng nhớ bữa tối ở nhà chút nào.)*
+- B. I will cook the dinner for both of us. *(Mình sẽ nấu bữa tối cho cả hai.)*
 - C. I also miss my family's dinner. *(Mình cũng nhớ bữa tối ở nhà.)*
-- D. I want to go home now. *(Mình muốn về nhà ngay.)*
+- D. I want to go home now for the dinner. *(Mình muốn về nhà ngay để ăn tối.)*
 
 **19. What do some people mean by "a tradition that never changed would be one that nobody needed any more"?**
 *(Một số người muốn nói gì qua câu "một truyền thống không bao giờ thay đổi sẽ là truyền thống chẳng còn ai cần nữa"?)*
 
-- A. Traditions should be stopped. *(Nên bỏ hết truyền thống.)*
+- A. Traditions should be stopped because nobody needs them anymore. *(Nên bỏ truyền thống vì không ai cần chúng nữa.)*
 - B. Traditions stay alive because they change to fit people's lives. *(Truyền thống sống được vì nó thay đổi cho hợp với cuộc sống của con người.)*
-- C. Old people don't need traditions. *(Người già không cần truyền thống.)*
-- D. Traditions never change. *(Truyền thống không bao giờ thay đổi.)*
+- C. Old people don't need traditions because they have their memories. *(Người già không cần truyền thống vì họ đã có ký ức.)*
+- D. Traditions never change, and that is why people need them. *(Truyền thống không bao giờ đổi, và đó là lý do người ta cần chúng.)*
 
 **20. Use both texts. What do Ethan's race and the changing traditions have in common?**
 *(Dựa vào cả hai bài. Cuộc chạy của Ethan và những truyền thống đổi thay có điểm gì chung?)*
 
-- A. Both of them happened in 1621. *(Cả hai đều xảy ra năm 1621.)*
-- B. Both of them are about turkey. *(Cả hai đều về gà tây.)*
-- C. Both of them show that people never change. *(Cả hai cho thấy con người không bao giờ thay đổi.)*
+- A. Both of them happened in 1621, in the mountains near Plymouth. *(Cả hai đều xảy ra năm 1621, trên núi gần Plymouth.)*
+- B. Both of them are about turkey, soup and other holiday food. *(Cả hai đều nói về gà tây, súp và các món ăn ngày lễ.)*
+- C. Both of them show that people never change their habits or their food. *(Cả hai cho thấy con người không bao giờ đổi thói quen hay món ăn.)*
 - D. In both, what matters most is the people who share the experience. *(Trong cả hai, điều quan trọng nhất là những người cùng chia sẻ trải nghiệm.)*
 
 ---

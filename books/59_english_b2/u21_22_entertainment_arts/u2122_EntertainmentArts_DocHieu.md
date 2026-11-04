@@ -75,42 +75,42 @@
 **1. What is Corinne's review mainly about?**
 *(Bài điểm kịch của Corinne chủ yếu nói về điều gì?)*
 
-- A. a professional show in a real theater *(một vở diễn chuyên nghiệp ở nhà hát thật)*
-- B. how to make a dragon costume *(cách làm bộ đồ rồng)*
+- A. a professional show in a real theater in the city *(một vở diễn chuyên nghiệp ở nhà hát thật trong thành phố)*
+- B. how to make a dragon costume out of cardboard *(cách làm bộ đồ rồng bằng bìa các-tông)*
 - C. a children's play performed for neighbors in a backyard *(một vở kịch thiếu nhi diễn cho hàng xóm xem ở sân sau)*
-- D. the animal shelter on Harbor Street *(trại cứu hộ động vật phố Harbor)*
+- D. a fund-raising evening at the animal shelter on Harbor Street *(một buổi tối gây quỹ ở trại cứu hộ động vật phố Harbor)*
 
 **2. Why does Corinne mention that she has reviewed shows in real theaters for twenty years?**
 *(Vì sao Corinne nhắc rằng bà đã điểm kịch ở nhà hát thật hai mươi năm?)*
 
 - A. to show that her high opinion of this small show means a lot *(để cho thấy lời khen của bà dành cho vở nhỏ này rất có trọng lượng)*
-- B. to complain that the backyard was not a real theater *(để phàn nàn sân sau không phải nhà hát)*
-- C. to ask for a job *(để xin việc)*
-- D. to explain why she arrived late *(để giải thích vì sao bà tới muộn)*
+- B. to complain that the backyard was not as good as a real theater *(để phàn nàn sân sau không tốt bằng nhà hát thật)*
+- C. to ask the neighbors for a job at the new theater *(để xin hàng xóm một việc làm ở nhà hát mới)*
+- D. to explain why she arrived late to the performance *(để giải thích vì sao bà tới muộn buổi diễn)*
 
 **3. What does the owl teach the dragon?**
 *(Chú cú dạy chú rồng điều gì?)*
 
-- A. how to breathe fire *(cách phun lửa)*
-- B. how to fly *(cách bay)*
-- C. how to sing *(cách hát)*
+- A. how to breathe fire without burning the whole cave *(cách phun lửa mà không thiêu cả hang)*
+- B. how to fly high above the trees at night *(cách bay cao trên ngọn cây vào ban đêm)*
+- C. how to sing sweet songs to the animals of the night *(cách hát những bài ngọt ngào cho các loài vật ban đêm)*
 - D. that the dark is just the day with its eyes closed *(rằng bóng tối chỉ là ban ngày đang nhắm mắt)*
 
 **4. What does "It is such a lovely idea that several adults in the audience were seen wiping their eyes" mean?**
 *(Câu "Ý tưởng ấy đẹp tới mức người ta thấy vài người lớn lau mắt" nghĩa là gì?)*
 
-- A. Some adults had something in their eyes. *(Vài người lớn bị bụi vào mắt.)*
+- A. Some adults had dust in their eyes because they sat on the ground. *(Vài người lớn bị bụi vào mắt vì ngồi dưới đất.)*
 - B. The idea was so touching that some adults were moved to tears. *(Ý tưởng cảm động tới mức vài người lớn rơi nước mắt.)*
-- C. The adults didn't like the idea. *(Người lớn không thích ý tưởng.)*
-- D. It was too dark to see. *(Trời tối quá không thấy gì.)*
+- C. The adults didn't like the idea and were upset about the show. *(Người lớn không thích ý tưởng và khó chịu về vở diễn.)*
+- D. It was so dark that the adults could not see the stage clearly. *(Trời tối đến mức người lớn không nhìn rõ sân khấu.)*
 
 **5. Who played the music for the owl's song?**
 *(Ai đệm nhạc cho bài hát của chú cú?)*
 
-- A. Tina Carter *(Tina Carter)*
-- B. Amy Brooks *(Amy Brooks)*
+- A. Tina Carter, on the piano *(Tina Carter, chơi piano)*
+- B. Amy Brooks, on the guitar *(Amy Brooks, chơi ghi-ta)*
 - C. Megan Carter, on the ukulele *(Megan Carter, chơi ukulele)*
-- D. Trevor Carter *(Trevor Carter)*
+- D. Helena Brooks, on the drums *(Helena Brooks, chơi trống)*
 
 **6. Which of these did NOT go wrong during the play?**
 *(Điều nào KHÔNG gặp trục trặc trong buổi diễn?)*
@@ -123,18 +123,18 @@
 **7. What does "too long a speech for an eight-year-old" suggest?**
 *(Cụm "quá dài với một em tám tuổi" hàm ý gì?)*
 
-- A. The speech was boring. *(Lời thoại nhàm chán.)*
-- B. The actor was older than eight. *(Diễn viên hơn tám tuổi.)*
-- C. The audience left early. *(Khán giả bỏ về sớm.)*
+- A. The speech was so boring that the audience stopped listening to it. *(Lời thoại chán đến mức khán giả thôi không nghe nữa.)*
+- B. The actor was much older than eight and did not need any help. *(Diễn viên lớn hơn tám tuổi nhiều và không cần ai giúp.)*
+- C. The audience left early because the speech took too long. *(Khán giả bỏ về sớm vì lời thoại quá dài.)*
 - D. The speech was difficult for such a young actor to remember. *(Lời thoại quá khó nhớ với một diễn viên nhỏ tuổi như vậy.)*
 
 **8. Why does Corinne say that "the problems made the evening better"?**
 *(Vì sao Corinne nói "chính những trục trặc lại làm buổi tối vui hơn"?)*
 
-- A. because the show was shorter *(vì vở diễn ngắn hơn)*
+- A. because the show finished much earlier than the writer had expected *(vì vở diễn kết thúc sớm hơn nhiều so với dự tính của người viết)*
 - B. because everyone laughed together and the show simply carried on *(vì mọi người cùng cười và vở diễn cứ thế tiếp tục)*
-- C. because the audience got free tickets *(vì khán giả được vé miễn phí)*
-- D. because Biscuit woke up *(vì Biscuit tỉnh dậy)*
+- C. because the audience got free tickets and a snack at the end *(vì khán giả được vé miễn phí và một món ăn nhẹ ở cuối buổi)*
+- D. because Biscuit woke up and finally joined the other actors *(vì Biscuit tỉnh dậy và cuối cùng cũng nhập hội cùng các diễn viên)*
 
 **9. How much money was raised for the animal shelter?**
 *(Thu được bao nhiêu tiền cho trại cứu hộ động vật?)*
@@ -147,10 +147,10 @@
 **10. What does "I will bring my own bucket" show about Corinne?**
 *(Câu "tôi sẽ tự mang xô của mình" cho thấy điều gì về Corinne?)*
 
-- A. She didn't enjoy the show. *(Bà không thích vở diễn.)*
-- B. She is going to clean the backyard. *(Bà sẽ dọn sân sau.)*
+- A. She didn't enjoy the show and will not come to the next one. *(Bà không thích vở diễn và sẽ không tới xem vở sau.)*
+- B. She is going to clean the whole backyard before the next play. *(Bà sẽ dọn cả sân sau trước vở diễn kế tiếp.)*
 - C. She enjoyed the show and is joking about the upside-down bucket. *(Bà thích vở diễn và đang đùa về chiếc xô úp ngược.)*
-- D. She wants to be in the next play. *(Bà muốn diễn vở sau.)*
+- D. She wants to be in the next play and will bring her own costume. *(Bà muốn diễn trong vở sau và sẽ tự mang trang phục.)*
 
 ---
 
@@ -193,81 +193,81 @@
 **11. What is the main purpose of the article?**
 *(Mục đích chính của bài báo là gì?)*
 
-- A. to teach readers how to paint *(để dạy người đọc vẽ)*
+- A. to teach readers how to paint like the old masters *(để dạy người đọc vẽ như các bậc thầy xưa)*
 - B. to explain what art conservators do and why their work matters *(để giải thích người phục chế tranh làm gì và vì sao công việc của họ quan trọng)*
-- C. to advertise a museum in Amsterdam *(để quảng cáo một bảo tàng ở Amsterdam)*
-- D. to criticize old artists *(để chê các hoạ sĩ xưa)*
+- C. to advertise a museum in Amsterdam and its glass room *(để quảng cáo một bảo tàng ở Amsterdam và căn phòng kính của nó)*
+- D. to criticize old artists for using paint that fades and cracks *(để chê các hoạ sĩ xưa dùng sơn phai màu và nứt)*
 
 **12. Why can a bright blue sky in an old painting look green and gloomy?**
 *(Vì sao bầu trời xanh rực rỡ trong tranh cổ có thể trông xanh lục và u ám?)*
 
-- A. The artist used the wrong paint. *(Hoạ sĩ dùng nhầm sơn.)*
-- B. Museums keep the lights too low. *(Bảo tàng để đèn quá tối.)*
-- C. Conservators painted over it. *(Người phục chế vẽ đè lên.)*
+- A. The artist used the wrong paint at the very beginning. *(Hoạ sĩ dùng nhầm sơn ngay từ đầu.)*
+- B. Museums keep the lights too low for visitors to see it. *(Bảo tàng để đèn quá tối khiến khách không nhìn rõ.)*
+- C. Conservators painted over it with a darker color years ago. *(Người phục chế đã vẽ đè màu tối hơn lên từ nhiều năm trước.)*
 - D. The protective varnish on top slowly turns yellow. *(Lớp véc-ni bảo vệ phía trên dần ngả vàng.)*
 
 **13. What does "they study it with the same tools as doctors use" mean?**
 *(Câu "họ nghiên cứu nó bằng chính những công cụ bác sĩ dùng" nghĩa là gì?)*
 
 - A. Conservators use tools like X-rays, just as doctors do. *(Người phục chế dùng những công cụ như tia X, giống bác sĩ.)*
-- B. Conservators are also doctors. *(Người phục chế cũng là bác sĩ.)*
-- C. Doctors repair paintings. *(Bác sĩ sửa tranh.)*
-- D. Paintings are taken to hospitals. *(Tranh được mang tới bệnh viện.)*
+- B. Conservators are also doctors who work in the museum. *(Người phục chế cũng là bác sĩ làm việc trong bảo tàng.)*
+- C. Doctors repair old paintings when the museum asks them. *(Bác sĩ sửa tranh cũ khi bảo tàng nhờ.)*
+- D. Paintings are taken to hospitals to be studied by doctors. *(Tranh được đưa tới bệnh viện để bác sĩ nghiên cứu.)*
 
 **14. What can X-rays and infrared cameras show?**
 *(Tia X và máy ảnh hồng ngoại cho thấy điều gì?)*
 
-- A. the price of a painting *(giá bức tranh)*
-- B. the name of the artist *(tên hoạ sĩ)*
+- A. the price that the painting had when it was first sold *(giá bức tranh khi nó được bán lần đầu)*
+- B. the name of the person who owned the painting before *(tên người đã sở hữu bức tranh trước đây)*
 - C. what lies under the surface, such as earlier sketches *(những gì nằm dưới bề mặt, như bản phác thảo trước đó)*
-- D. the color of the frame *(màu của khung)*
+- D. the color of the frame and the year it was made *(màu của khung và năm nó được làm ra)*
 
 **15. What does "every change should be reversible" mean?**
 *(Câu "mọi thay đổi đều phải đảo ngược được" nghĩa là gì?)*
 
-- A. Paintings should be turned upside down. *(Tranh phải được lật ngược.)*
-- B. A future conservator must be able to undo the work without harming the original. *(Người phục chế đời sau phải gỡ bỏ được phần việc mà không hại bản gốc.)*
-- C. Changes should be made quickly. *(Phải thay đổi thật nhanh.)*
-- D. Conservators should never change anything. *(Người phục chế không bao giờ được thay đổi gì.)*
+- A. Paintings should be turned upside down so that the varnish can be removed. *(Tranh phải được lật ngược để có thể gỡ lớp véc-ni.)*
+- B. A future conservator must be able to undo the work without harming the paint. *(Người phục chế đời sau phải gỡ bỏ được phần việc mà không hại lớp sơn.)*
+- C. Changes should be made as quickly as possible so that visitors can return. *(Phải thay đổi nhanh nhất có thể để khách còn quay lại.)*
+- D. Conservators should never change anything about an old painting at all. *(Người phục chế tuyệt đối không được thay đổi gì ở bức tranh cũ.)*
 
 **16. Why are missing areas filled in so that they can always be found under special light?**
 *(Vì sao những phần bị mất được bù sao cho dưới ánh sáng đặc biệt luôn tìm ra được?)*
 
-- A. so that visitors can see them easily *(để khách dễ thấy)*
-- B. because the paint is cheaper *(vì sơn rẻ hơn)*
-- C. because the museum asks for it *(vì bảo tàng yêu cầu)*
+- A. so that visitors can see them easily from a normal distance *(để khách dễ thấy chúng từ khoảng cách bình thường)*
+- B. because the special paint costs less than the original paint *(vì sơn đặc biệt rẻ hơn sơn gốc)*
+- C. because the museum asks conservators to leave the paint rough *(vì bảo tàng yêu cầu người phục chế để sơn thô ráp)*
 - D. so that nobody confuses the conservator's work with the artist's *(để không ai nhầm phần việc của người phục chế với của hoạ sĩ)*
 
 **17. What is special about the work on The Night Watch?**
 *(Việc phục chế bức Đội tuần đêm có gì đặc biệt?)*
 
 - A. It is being done inside a glass room so that visitors can watch. *(Nó được làm trong một phòng kính để khách tham quan xem được.)*
-- B. It was finished in one week. *(Nó xong trong một tuần.)*
-- C. It was done by Rembrandt himself. *(Chính Rembrandt làm.)*
-- D. It is done at night only. *(Chỉ làm ban đêm.)*
+- B. It was finished in just one week, so visitors never saw the work. *(Nó xong chỉ trong một tuần nên khách chưa từng thấy công việc.)*
+- C. It was done by Rembrandt himself in front of the visitors. *(Chính Rembrandt làm ngay trước mặt khách.)*
+- D. It is done at night only, when the museum is closed to the public. *(Chỉ làm ban đêm, lúc bảo tàng đóng cửa với công chúng.)*
 
 **18. Why did the team use computer programs?**
 *(Vì sao nhóm dùng chương trình máy tính?)*
 
-- A. to sell copies of the painting *(để bán bản sao)*
-- B. to make the painting brighter *(để làm tranh sáng hơn)*
+- A. to print copies of the painting that visitors can buy in the museum shop *(để in bản sao tranh cho khách mua ở cửa hàng bảo tàng)*
+- B. to make the colors brighter than they were in the 1600s *(để làm màu sáng hơn so với thế kỷ 17)*
 - C. to recreate parts of the painting that had been cut off in the 1700s *(để tái tạo những phần tranh bị cắt bỏ từ thế kỷ 18)*
-- D. to find the artist's name *(để tìm tên hoạ sĩ)*
+- D. to find the name of the artist who painted the first sketch *(để tìm tên hoạ sĩ vẽ bản phác thảo đầu tiên)*
 
 **19. What does "would simply disappear, one crack at a time" suggest?**
 *(Cụm "sẽ đơn giản là biến mất, từng vết nứt một" hàm ý gì?)*
 
-- A. Paintings disappear suddenly. *(Tranh biến mất đột ngột.)*
+- A. Paintings would disappear suddenly, all at once, if the museum closed. *(Tranh sẽ biến mất đột ngột, cùng một lúc, nếu bảo tàng đóng cửa.)*
 - B. Without conservators, paintings would be destroyed slowly, little by little. *(Nếu không có người phục chế, tranh sẽ bị huỷ hoại dần dần, từng chút một.)*
-- C. Cracks are part of the art. *(Vết nứt là một phần nghệ thuật.)*
-- D. Museums should hide their paintings. *(Bảo tàng nên giấu tranh đi.)*
+- C. Cracks are part of the art, so conservators should not repair them. *(Vết nứt là một phần nghệ thuật nên người phục chế đừng sửa.)*
+- D. Museums should hide their oldest paintings in boxes so nobody can damage them. *(Bảo tàng nên giấu những bức tranh cổ nhất vào hộp để không ai làm hỏng.)*
 
 **20. Use both texts. What do Tina and Amy's play and the work of conservators have in common?**
 *(Dựa vào cả hai bài. Vở kịch của Tina và Amy với công việc của người phục chế có điểm gì chung?)*
 
-- A. Both of them happen in museums. *(Cả hai đều diễn ra ở bảo tàng.)*
-- B. Both of them use X-rays. *(Cả hai đều dùng tia X.)*
-- C. Both of them must be perfect. *(Cả hai đều phải hoàn hảo.)*
+- A. Both of them happen in museums and are watched by visitors from far away. *(Cả hai đều diễn ra ở bảo tàng và được khách từ xa tới xem.)*
+- B. Both of them use X-rays and cameras to see what lies under the surface. *(Cả hai đều dùng tia X và máy ảnh để xem những gì dưới bề mặt.)*
+- C. Both of them must be perfect, because nobody forgives any mistakes. *(Cả hai đều phải hoàn hảo, vì không ai tha thứ lỗi nào.)*
 - D. Both of them depend on patient, careful work by people who care about art. *(Cả hai đều dựa vào công sức kiên nhẫn, tỉ mỉ của những người yêu nghệ thuật.)*
 
 ---

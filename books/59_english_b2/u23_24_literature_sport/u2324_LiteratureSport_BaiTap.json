@@ -625,13 +625,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to sell copies of Frankenstein",
-            "vi": "để bán sách Frankenstein"
+            "en": "to sell copies of Frankenstein to the members of the club",
+            "vi": "để bán sách Frankenstein cho các thành viên câu lạc bộ"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to sell copies of Frankenstein",
-          "text_translation": "để bán sách Frankenstein"
+          "text": "to sell copies of Frankenstein to the members of the club",
+          "text_translation": "để bán sách Frankenstein cho các thành viên câu lạc bộ"
         },
         {
           "id": "B",
@@ -647,24 +647,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "to review a Frankenstein film",
-            "vi": "để điểm một bộ phim Frankenstein"
+            "en": "to review a new Frankenstein film that the club had seen",
+            "vi": "để điểm một bộ phim Frankenstein mới mà câu lạc bộ đã xem"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to review a Frankenstein film",
-          "text_translation": "để điểm một bộ phim Frankenstein"
+          "text": "to review a new Frankenstein film that the club had seen",
+          "text_translation": "để điểm một bộ phim Frankenstein mới mà câu lạc bộ đã xem"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to invite people to Switzerland",
-            "vi": "để mời mọi người tới Thuỵ Sĩ"
+            "en": "to invite club members on a trip to the lake in Switzerland",
+            "vi": "để mời thành viên câu lạc bộ đi chơi tới hồ ở Thuỵ Sĩ"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to invite people to Switzerland",
-          "text_translation": "để mời mọi người tới Thuỵ Sĩ"
+          "text": "to invite club members on a trip to the lake in Switzerland",
+          "text_translation": "để mời thành viên câu lạc bộ đi chơi tới hồ ở Thuỵ Sĩ"
         }
       ],
       "evidence_segments": [
@@ -693,46 +693,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Everyone had read the book many times.",
-            "vi": "Ai cũng đã đọc sách nhiều lần."
+            "en": "Everyone had read the book many times, so nobody expected any surprises at all.",
+            "vi": "Ai cũng đã đọc sách nhiều lần nên chẳng ai chờ đợi bất ngờ nào."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Everyone had read the book many times.",
-          "text_translation": "Ai cũng đã đọc sách nhiều lần."
+          "text": "Everyone had read the book many times, so nobody expected any surprises at all.",
+          "text_translation": "Ai cũng đã đọc sách nhiều lần nên chẳng ai chờ đợi bất ngờ nào."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Nobody had heard of Frankenstein.",
-            "vi": "Chưa ai nghe tới Frankenstein."
+            "en": "Nobody had ever heard of Frankenstein until Lydia talked about it.",
+            "vi": "Chưa ai từng nghe tới Frankenstein cho đến khi Lydia nhắc tới."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Nobody had heard of Frankenstein.",
-          "text_translation": "Chưa ai nghe tới Frankenstein."
+          "text": "Nobody had ever heard of Frankenstein until Lydia talked about it.",
+          "text_translation": "Chưa ai từng nghe tới Frankenstein cho đến khi Lydia nhắc tới."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Lydia had told them the story.",
-            "vi": "Lydia đã kể chuyện cho họ."
+            "en": "Lydia had told them the whole story before they began reading it.",
+            "vi": "Lydia đã kể cho họ cả câu chuyện trước khi họ bắt đầu đọc."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Lydia had told them the story.",
-          "text_translation": "Lydia đã kể chuyện cho họ."
+          "text": "Lydia had told them the whole story before they began reading it.",
+          "text_translation": "Lydia đã kể cho họ cả câu chuyện trước khi họ bắt đầu đọc."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "People knew the story from films and popular ideas, which turned out to be different from the book.",
-            "vi": "Người ta biết câu chuyện qua phim và quan niệm phổ biến, mà hoá ra khác với sách."
+            "en": "People knew the story from films, which turned out to differ from the book.",
+            "vi": "Người ta biết truyện qua phim, mà hoá ra khác với sách."
           },
           "is_correct": true,
           "order": 3,
-          "text": "People knew the story from films and popular ideas, which turned out to be different from the book.",
-          "text_translation": "Người ta biết câu chuyện qua phim và quan niệm phổ biến, mà hoá ra khác với sách."
+          "text": "People knew the story from films, which turned out to differ from the book.",
+          "text_translation": "Người ta biết truyện qua phim, mà hoá ra khác với sách."
         }
       ],
       "evidence_segments": [
@@ -830,24 +830,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "as a school project",
-            "vi": "từ một bài tập ở trường"
+            "en": "as homework for a teacher at her school in Switzerland",
+            "vi": "từ bài tập về nhà cho một thầy giáo ở trường của cô tại Thuỵ Sĩ"
           },
           "is_correct": false,
           "order": 0,
-          "text": "as a school project",
-          "text_translation": "từ một bài tập ở trường"
+          "text": "as homework for a teacher at her school in Switzerland",
+          "text_translation": "từ bài tập về nhà cho một thầy giáo ở trường của cô tại Thuỵ Sĩ"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "as a film script",
-            "vi": "từ một kịch bản phim"
+            "en": "as a film script that her friends wanted to make",
+            "vi": "từ một kịch bản phim mà bạn bè cô muốn làm"
           },
           "is_correct": false,
           "order": 1,
-          "text": "as a film script",
-          "text_translation": "từ một kịch bản phim"
+          "text": "as a film script that her friends wanted to make",
+          "text_translation": "từ một kịch bản phim mà bạn bè cô muốn làm"
         },
         {
           "id": "C",
@@ -863,13 +863,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "as a letter to a scientist",
-            "vi": "từ một lá thư gửi nhà khoa học"
+            "en": "as a letter to a scientist who lived near the lake",
+            "vi": "từ một lá thư gửi nhà khoa học sống gần hồ"
           },
           "is_correct": false,
           "order": 3,
-          "text": "as a letter to a scientist",
-          "text_translation": "từ một lá thư gửi nhà khoa học"
+          "text": "as a letter to a scientist who lived near the lake",
+          "text_translation": "từ một lá thư gửi nhà khoa học sống gần hồ"
         }
       ],
       "evidence_segments": [
@@ -898,13 +898,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "the creature",
-            "vi": "sinh vật"
+            "en": "the creature, who was made by the young scientist",
+            "vi": "sinh vật do nhà khoa học trẻ tạo ra"
           },
           "is_correct": false,
           "order": 0,
-          "text": "the creature",
-          "text_translation": "sinh vật"
+          "text": "the creature, who was made by the young scientist",
+          "text_translation": "sinh vật do nhà khoa học trẻ tạo ra"
         },
         {
           "id": "B",
@@ -920,24 +920,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Mary Shelley's husband",
-            "vi": "chồng Mary Shelley"
+            "en": "the friend who challenged Mary Shelley to write a story",
+            "vi": "người bạn thách Mary Shelley viết một câu chuyện"
           },
           "is_correct": false,
           "order": 2,
-          "text": "Mary Shelley's husband",
-          "text_translation": "chồng Mary Shelley"
+          "text": "the friend who challenged Mary Shelley to write a story",
+          "text_translation": "người bạn thách Mary Shelley viết một câu chuyện"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "a friend at the lake",
-            "vi": "một người bạn ở hồ"
+            "en": "a rejected man who becomes cruel after years of loneliness",
+            "vi": "một người bị ruồng bỏ trở nên tàn nhẫn sau nhiều năm cô độc"
           },
           "is_correct": false,
           "order": 3,
-          "text": "a friend at the lake",
-          "text_translation": "một người bạn ở hồ"
+          "text": "a rejected man who becomes cruel after years of loneliness",
+          "text_translation": "một người bị ruồng bỏ trở nên tàn nhẫn sau nhiều năm cô độc"
         }
       ],
       "evidence_segments": [
@@ -977,35 +977,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "He is slower and more silent.",
-            "vi": "Nó chậm chạp và lặng lẽ hơn."
+            "en": "He is even slower and more silent, and he never learns to speak or read.",
+            "vi": "Nó còn chậm chạp và lặng lẽ hơn, và không bao giờ học nói hay đọc."
           },
           "is_correct": false,
           "order": 1,
-          "text": "He is slower and more silent.",
-          "text_translation": "Nó chậm chạp và lặng lẽ hơn."
+          "text": "He is even slower and more silent, and he never learns to speak or read.",
+          "text_translation": "Nó còn chậm chạp và lặng lẽ hơn, và không bao giờ học nói hay đọc."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "He is a scientist.",
-            "vi": "Nó là nhà khoa học."
+            "en": "He is a scientist who runs away from his own laboratory.",
+            "vi": "Nó là nhà khoa học bỏ chạy khỏi phòng thí nghiệm của chính mình."
           },
           "is_correct": false,
           "order": 2,
-          "text": "He is a scientist.",
-          "text_translation": "Nó là nhà khoa học."
+          "text": "He is a scientist who runs away from his own laboratory.",
+          "text_translation": "Nó là nhà khoa học bỏ chạy khỏi phòng thí nghiệm của chính mình."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "He has a different name.",
-            "vi": "Nó có tên khác."
+            "en": "He has a different name in the book, which he chooses himself.",
+            "vi": "Nó có tên khác trong sách, do chính nó chọn."
           },
           "is_correct": false,
           "order": 3,
-          "text": "He has a different name.",
-          "text_translation": "Nó có tên khác."
+          "text": "He has a different name in the book, which he chooses himself.",
+          "text_translation": "Nó có tên khác trong sách, do chính nó chọn."
         }
       ],
       "evidence_segments": [
@@ -1034,35 +1034,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "He was born cruel.",
-            "vi": "Nó sinh ra đã tàn nhẫn."
+            "en": "He was born cruel, and nothing that people did could change him.",
+            "vi": "Nó sinh ra đã tàn nhẫn và không gì người ta làm có thể thay đổi nó."
           },
           "is_correct": false,
           "order": 0,
-          "text": "He was born cruel.",
-          "text_translation": "Nó sinh ra đã tàn nhẫn."
+          "text": "He was born cruel, and nothing that people did could change him.",
+          "text_translation": "Nó sinh ra đã tàn nhẫn và không gì người ta làm có thể thay đổi nó."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "He wanted to become famous.",
-            "vi": "Nó muốn nổi tiếng."
+            "en": "He wanted to become famous, so he did terrible things in the town.",
+            "vi": "Nó muốn nổi tiếng nên làm những điều khủng khiếp trong thị trấn."
           },
           "is_correct": false,
           "order": 1,
-          "text": "He wanted to become famous.",
-          "text_translation": "Nó muốn nổi tiếng."
+          "text": "He wanted to become famous, so he did terrible things in the town.",
+          "text_translation": "Nó muốn nổi tiếng nên làm những điều khủng khiếp trong thị trấn."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "He was angry with Mary Shelley.",
-            "vi": "Nó giận Mary Shelley."
+            "en": "He was angry with Mary Shelley, who did not put her name on the book.",
+            "vi": "Nó giận Mary Shelley vì bà không ghi tên mình lên cuốn sách."
           },
           "is_correct": false,
           "order": 2,
-          "text": "He was angry with Mary Shelley.",
-          "text_translation": "Nó giận Mary Shelley."
+          "text": "He was angry with Mary Shelley, who did not put her name on the book.",
+          "text_translation": "Nó giận Mary Shelley vì bà không ghi tên mình lên cuốn sách."
         },
         {
           "id": "D",
@@ -1102,46 +1102,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Victor Frankenstein was right to run away.",
-            "vi": "Victor Frankenstein bỏ chạy là đúng."
+            "en": "Victor Frankenstein was right to run away when he saw what he had made.",
+            "vi": "Victor Frankenstein bỏ chạy là đúng khi thấy thứ mình đã tạo ra."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Victor Frankenstein was right to run away.",
-          "text_translation": "Victor Frankenstein bỏ chạy là đúng."
+          "text": "Victor Frankenstein was right to run away when he saw what he had made.",
+          "text_translation": "Victor Frankenstein bỏ chạy là đúng khi thấy thứ mình đã tạo ra."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The creature is the real monster.",
-            "vi": "Sinh vật mới là quái vật thật."
+            "en": "The creature is the real monster, because he became cruel to other people.",
+            "vi": "Sinh vật mới là quái vật thật, vì nó trở nên tàn nhẫn với người khác."
           },
           "is_correct": false,
           "order": 1,
-          "text": "The creature is the real monster.",
-          "text_translation": "Sinh vật mới là quái vật thật."
+          "text": "The creature is the real monster, because he became cruel to other people.",
+          "text_translation": "Sinh vật mới là quái vật thật, vì nó trở nên tàn nhẫn với người khác."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Panicking is no excuse for not taking responsibility for a living person that you have made.",
-            "vi": "Hoảng loạn không phải lời biện hộ cho việc chối bỏ trách nhiệm với một con người sống mình tạo ra."
+            "en": "Panicking is no excuse for not taking responsibility for a living person.",
+            "vi": "Hoảng loạn không phải lời biện hộ cho việc chối bỏ trách nhiệm với một con người sống."
           },
           "is_correct": true,
           "order": 2,
-          "text": "Panicking is no excuse for not taking responsibility for a living person that you have made.",
-          "text_translation": "Hoảng loạn không phải lời biện hộ cho việc chối bỏ trách nhiệm với một con người sống mình tạo ra."
+          "text": "Panicking is no excuse for not taking responsibility for a living person.",
+          "text_translation": "Hoảng loạn không phải lời biện hộ cho việc chối bỏ trách nhiệm với một con người sống."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The book is too long.",
-            "vi": "Cuốn sách quá dài."
+            "en": "The book is too long, and she fell asleep during the first chapter.",
+            "vi": "Cuốn sách quá dài, và bà đã ngủ gật trong chương đầu."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The book is too long.",
-          "text_translation": "Cuốn sách quá dài."
+          "text": "The book is too long, and she fell asleep during the first chapter.",
+          "text_translation": "Cuốn sách quá dài, và bà đã ngủ gật trong chương đầu."
         }
       ],
       "evidence_segments": [
@@ -1181,35 +1181,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "because the book was written recently",
-            "vi": "vì sách mới được viết gần đây"
+            "en": "because the book was written only a few years ago by a young scientist in Switzerland",
+            "vi": "vì sách mới được viết cách đây vài năm bởi một nhà khoa học trẻ ở Thuỵ Sĩ"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because the book was written recently",
-          "text_translation": "vì sách mới được viết gần đây"
+          "text": "because the book was written only a few years ago by a young scientist in Switzerland",
+          "text_translation": "vì sách mới được viết cách đây vài năm bởi một nhà khoa học trẻ ở Thuỵ Sĩ"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because the book is about computers",
-            "vi": "vì sách viết về máy tính"
+            "en": "because the book is mainly about computers and modern technology",
+            "vi": "vì sách chủ yếu viết về máy tính và công nghệ hiện đại"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because the book is about computers",
-          "text_translation": "vì sách viết về máy tính"
+          "text": "because the book is mainly about computers and modern technology",
+          "text_translation": "vì sách chủ yếu viết về máy tính và công nghệ hiện đại"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because the language is modern",
-            "vi": "vì ngôn ngữ hiện đại"
+            "en": "because the language is modern and easy to read for teenagers",
+            "vi": "vì ngôn ngữ hiện đại và dễ đọc với thiếu niên"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because the language is modern",
-          "text_translation": "vì ngôn ngữ hiện đại"
+          "text": "because the language is modern and easy to read for teenagers",
+          "text_translation": "vì ngôn ngữ hiện đại và dễ đọc với thiếu niên"
         }
       ],
       "evidence_segments": [
@@ -1238,24 +1238,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She didn't like Frankenstein.",
-            "vi": "Cô không thích Frankenstein."
+            "en": "She didn't like Frankenstein and wishes the club had chosen another book.",
+            "vi": "Cô không thích Frankenstein và ước câu lạc bộ chọn cuốn khác."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She didn't like Frankenstein.",
-          "text_translation": "Cô không thích Frankenstein."
+          "text": "She didn't like Frankenstein and wishes the club had chosen another book.",
+          "text_translation": "Cô không thích Frankenstein và ước câu lạc bộ chọn cuốn khác."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Frankenstein was the shortest book that they had read.",
-            "vi": "Frankenstein là cuốn ngắn nhất họ từng đọc."
+            "en": "Frankenstein was the shortest book that the club had ever read.",
+            "vi": "Frankenstein là cuốn ngắn nhất câu lạc bộ từng đọc."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Frankenstein was the shortest book that they had read.",
-          "text_translation": "Frankenstein là cuốn ngắn nhất họ từng đọc."
+          "text": "Frankenstein was the shortest book that the club had ever read.",
+          "text_translation": "Frankenstein là cuốn ngắn nhất câu lạc bộ từng đọc."
         },
         {
           "id": "C",
@@ -1271,13 +1271,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "The club will stop meeting.",
-            "vi": "Câu lạc bộ sẽ ngừng họp."
+            "en": "The club will stop meeting after this month, because people were bored.",
+            "vi": "Câu lạc bộ sẽ ngừng họp sau tháng này vì mọi người chán."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The club will stop meeting.",
-          "text_translation": "Câu lạc bộ sẽ ngừng họp."
+          "text": "The club will stop meeting after this month, because people were bored.",
+          "text_translation": "Câu lạc bộ sẽ ngừng họp sau tháng này vì mọi người chán."
         }
       ],
       "evidence_segments": [
@@ -1306,24 +1306,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "the rules of women's basketball",
-            "vi": "luật bóng rổ nữ"
+            "en": "the rules of women's basketball and how the championship works",
+            "vi": "luật bóng rổ nữ và cách giải vô địch vận hành"
           },
           "is_correct": false,
           "order": 0,
-          "text": "the rules of women's basketball",
-          "text_translation": "luật bóng rổ nữ"
+          "text": "the rules of women's basketball and how the championship works",
+          "text_translation": "luật bóng rổ nữ và cách giải vô địch vận hành"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "why men's sports are less popular",
-            "vi": "vì sao thể thao nam kém hấp dẫn"
+            "en": "why men's sports are less popular than women's sports today",
+            "vi": "vì sao thể thao nam ngày nay kém được yêu thích hơn thể thao nữ"
           },
           "is_correct": false,
           "order": 1,
-          "text": "why men's sports are less popular",
-          "text_translation": "vì sao thể thao nam kém hấp dẫn"
+          "text": "why men's sports are less popular than women's sports today",
+          "text_translation": "vì sao thể thao nam ngày nay kém được yêu thích hơn thể thao nữ"
         },
         {
           "id": "C",
@@ -1339,13 +1339,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "how to become a professional athlete",
-            "vi": "cách trở thành vận động viên chuyên nghiệp"
+            "en": "how young players can become professional athletes in women's sports",
+            "vi": "cách các cầu thủ trẻ trở thành vận động viên chuyên nghiệp ở thể thao nữ"
           },
           "is_correct": false,
           "order": 3,
-          "text": "how to become a professional athlete",
-          "text_translation": "cách trở thành vận động viên chuyên nghiệp"
+          "text": "how young players can become professional athletes in women's sports",
+          "text_translation": "cách các cầu thủ trẻ trở thành vận động viên chuyên nghiệp ở thể thao nữ"
         }
       ],
       "evidence_segments": [
@@ -1374,46 +1374,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The college women's basketball final had more TV viewers than the men's final.",
-            "vi": "Chung kết bóng rổ nữ đại học có nhiều người xem truyền hình hơn chung kết nam."
+            "en": "The college women's final had more TV viewers than the men's final.",
+            "vi": "Chung kết nữ đại học có nhiều người xem truyền hình hơn chung kết nam."
           },
           "is_correct": true,
           "order": 0,
-          "text": "The college women's basketball final had more TV viewers than the men's final.",
-          "text_translation": "Chung kết bóng rổ nữ đại học có nhiều người xem truyền hình hơn chung kết nam."
+          "text": "The college women's final had more TV viewers than the men's final.",
+          "text_translation": "Chung kết nữ đại học có nhiều người xem truyền hình hơn chung kết nam."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Women's basketball was shown on TV for the first time.",
-            "vi": "Bóng rổ nữ lần đầu được lên truyền hình."
+            "en": "Women's basketball was shown on TV for the first time in history.",
+            "vi": "Bóng rổ nữ lần đầu tiên trong lịch sử được lên truyền hình."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Women's basketball was shown on TV for the first time.",
-          "text_translation": "Bóng rổ nữ lần đầu được lên truyền hình."
+          "text": "Women's basketball was shown on TV for the first time in history.",
+          "text_translation": "Bóng rổ nữ lần đầu tiên trong lịch sử được lên truyền hình."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The men's final was cancelled.",
-            "vi": "Chung kết nam bị huỷ."
+            "en": "The men's final was cancelled because nobody wanted to watch it.",
+            "vi": "Chung kết nam bị huỷ vì không ai muốn xem."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The men's final was cancelled.",
-          "text_translation": "Chung kết nam bị huỷ."
+          "text": "The men's final was cancelled because nobody wanted to watch it.",
+          "text_translation": "Chung kết nam bị huỷ vì không ai muốn xem."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "A new women's league started.",
-            "vi": "Một giải nữ mới ra đời."
+            "en": "A new women's league started, and its first final sold out.",
+            "vi": "Một giải nữ mới ra đời, và trận chung kết đầu tiên cháy vé."
           },
           "is_correct": false,
           "order": 3,
-          "text": "A new women's league started.",
-          "text_translation": "Một giải nữ mới ra đời."
+          "text": "A new women's league started, and its first final sold out.",
+          "text_translation": "Một giải nữ mới ra đời, và trận chung kết đầu tiên cháy vé."
         }
       ],
       "evidence_segments": [
@@ -1442,46 +1442,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because games were shown too often",
-            "vi": "vì trận đấu được phát quá nhiều"
+            "en": "because games were shown so often at the wrong times that fans stopped watching",
+            "vi": "vì trận đấu được phát quá nhiều vào giờ không hợp nên người hâm mộ thôi xem"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because games were shown too often",
-          "text_translation": "vì trận đấu được phát quá nhiều"
+          "text": "because games were shown so often at the wrong times that fans stopped watching",
+          "text_translation": "vì trận đấu được phát quá nhiều vào giờ không hợp nên người hâm mộ thôi xem"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because the players ran in circles",
-            "vi": "vì vận động viên chạy vòng tròn"
+            "en": "because the players were so tired that they ran in circles at the end of games",
+            "vi": "vì vận động viên mệt đến mức chạy vòng tròn vào cuối trận"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because the players ran in circles",
-          "text_translation": "vì vận động viên chạy vòng tròn"
+          "text": "because the players were so tired that they ran in circles at the end of games",
+          "text_translation": "vì vận động viên mệt đến mức chạy vòng tròn vào cuối trận"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because nobody wanted to play",
-            "vi": "vì không ai muốn chơi"
+            "en": "because nobody wanted to play, since there was no money in women's sports",
+            "vi": "vì không ai muốn chơi, do thể thao nữ không có tiền"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because nobody wanted to play",
-          "text_translation": "vì không ai muốn chơi"
+          "text": "because nobody wanted to play, since there was no money in women's sports",
+          "text_translation": "vì không ai muốn chơi, do thể thao nữ không có tiền"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because games weren't shown since nobody watched, and nobody watched since they weren't shown",
-            "vi": "vì trận không được phát do không ai xem, và không ai xem do không được phát"
+            "en": "because games weren't shown if nobody watched, and nobody watched if they weren't shown",
+            "vi": "vì trận không được phát nếu không ai xem, và không ai xem nếu không được phát"
           },
           "is_correct": true,
           "order": 3,
-          "text": "because games weren't shown since nobody watched, and nobody watched since they weren't shown",
-          "text_translation": "vì trận không được phát do không ai xem, và không ai xem do không được phát"
+          "text": "because games weren't shown if nobody watched, and nobody watched if they weren't shown",
+          "text_translation": "vì trận không được phát nếu không ai xem, và không ai xem nếu không được phát"
         }
       ],
       "evidence_segments": [
@@ -1510,13 +1510,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Being on TV made fewer fans.",
-            "vi": "Lên truyền hình khiến ít người hâm mộ hơn."
+            "en": "Being on TV made fewer fans want to go to the matches.",
+            "vi": "Lên truyền hình khiến ít người hâm mộ muốn tới sân hơn."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Being on TV made fewer fans.",
-          "text_translation": "Lên truyền hình khiến ít người hâm mộ hơn."
+          "text": "Being on TV made fewer fans want to go to the matches.",
+          "text_translation": "Lên truyền hình khiến ít người hâm mộ muốn tới sân hơn."
         },
         {
           "id": "B",
@@ -1532,24 +1532,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Fans didn't have televisions.",
-            "vi": "Người hâm mộ không có ti vi."
+            "en": "Fans didn't have televisions, so they went to the matches instead.",
+            "vi": "Người hâm mộ không có ti vi nên họ tới sân xem thay vào đó."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Fans didn't have televisions.",
-          "text_translation": "Người hâm mộ không có ti vi."
+          "text": "Fans didn't have televisions, so they went to the matches instead.",
+          "text_translation": "Người hâm mộ không có ti vi nên họ tới sân xem thay vào đó."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Players didn't want to be on TV.",
-            "vi": "Vận động viên không muốn lên truyền hình."
+            "en": "Players didn't want to be on TV because they were afraid of it.",
+            "vi": "Vận động viên không muốn lên truyền hình vì họ sợ nó."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Players didn't want to be on TV.",
-          "text_translation": "Vận động viên không muốn lên truyền hình."
+          "text": "Players didn't want to be on TV because they were afraid of it.",
+          "text_translation": "Vận động viên không muốn lên truyền hình vì họ sợ nó."
         }
       ],
       "evidence_segments": [
@@ -1646,35 +1646,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It has fallen.",
-            "vi": "Đã giảm."
+            "en": "It has fallen in the last few years, and many seats stay empty.",
+            "vi": "Đã giảm trong vài năm qua, và nhiều ghế bỏ trống."
           },
           "is_correct": false,
           "order": 0,
-          "text": "It has fallen.",
-          "text_translation": "Đã giảm."
+          "text": "It has fallen in the last few years, and many seats stay empty.",
+          "text_translation": "Đã giảm trong vài năm qua, và nhiều ghế bỏ trống."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "It is the same as ten years ago.",
-            "vi": "Bằng mười năm trước."
+            "en": "It is the same as ten years ago, with very few sold-out games.",
+            "vi": "Bằng mười năm trước, với rất ít trận cháy vé."
           },
           "is_correct": false,
           "order": 1,
-          "text": "It is the same as ten years ago.",
-          "text_translation": "Bằng mười năm trước."
+          "text": "It is the same as ten years ago, with very few sold-out games.",
+          "text_translation": "Bằng mười năm trước, với rất ít trận cháy vé."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "It is only high for basketball.",
-            "vi": "Chỉ cao ở môn bóng rổ."
+            "en": "It is only high for basketball, while soccer has far fewer fans.",
+            "vi": "Chỉ cao ở bóng rổ, còn bóng đá có ít người hâm mộ hơn nhiều."
           },
           "is_correct": false,
           "order": 2,
-          "text": "It is only high for basketball.",
-          "text_translation": "Chỉ cao ở môn bóng rổ."
+          "text": "It is only high for basketball, while soccer has far fewer fans.",
+          "text_translation": "Chỉ cao ở bóng rổ, còn bóng đá có ít người hâm mộ hơn nhiều."
         },
         {
           "id": "D",
@@ -1725,35 +1725,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "The writer agrees with them completely.",
-            "vi": "Người viết hoàn toàn đồng ý."
+            "en": "The writer agrees with them completely and thinks the interest will pass.",
+            "vi": "Người viết hoàn toàn đồng ý và nghĩ sự quan tâm rồi sẽ qua."
           },
           "is_correct": false,
           "order": 1,
-          "text": "The writer agrees with them completely.",
-          "text_translation": "Người viết hoàn toàn đồng ý."
+          "text": "The writer agrees with them completely and thinks the interest will pass.",
+          "text_translation": "Người viết hoàn toàn đồng ý và nghĩ sự quan tâm rồi sẽ qua."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The writer thinks that fashion is important.",
-            "vi": "Người viết nghĩ trào lưu là quan trọng."
+            "en": "The writer thinks that fashion is important and wants to follow it.",
+            "vi": "Người viết nghĩ trào lưu là quan trọng và muốn chạy theo nó."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The writer thinks that fashion is important.",
-          "text_translation": "Người viết nghĩ trào lưu là quan trọng."
+          "text": "The writer thinks that fashion is important and wants to follow it.",
+          "text_translation": "Người viết nghĩ trào lưu là quan trọng và muốn chạy theo nó."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The writer has no opinion.",
-            "vi": "Người viết không có ý kiến."
+            "en": "The writer has no opinion and simply reports what the commentators say.",
+            "vi": "Người viết không có ý kiến và chỉ thuật lại điều các bình luận viên nói."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The writer has no opinion.",
-          "text_translation": "Người viết không có ý kiến."
+          "text": "The writer has no opinion and simply reports what the commentators say.",
+          "text_translation": "Người viết không có ý kiến và chỉ thuật lại điều các bình luận viên nói."
         }
       ],
       "evidence_segments": [
@@ -1783,13 +1783,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "in addition",
-            "vi": "thêm vào đó"
+            "en": "in addition, adding a second reason why the interest is just a fashion",
+            "vi": "thêm vào đó, nêu một lý do nữa cho thấy sự quan tâm chỉ là trào lưu"
           },
           "is_correct": false,
           "order": 0,
-          "text": "in addition",
-          "text_translation": "thêm vào đó"
+          "text": "in addition, adding a second reason why the interest is just a fashion",
+          "text_translation": "thêm vào đó, nêu một lý do nữa cho thấy sự quan tâm chỉ là trào lưu"
         },
         {
           "id": "B",
@@ -1805,24 +1805,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "at the same time",
-            "vi": "cùng lúc"
+            "en": "at the same time, as the records were being broken",
+            "vi": "cùng lúc, khi các kỷ lục đang bị phá"
           },
           "is_correct": false,
           "order": 2,
-          "text": "at the same time",
-          "text_translation": "cùng lúc"
+          "text": "at the same time, as the records were being broken",
+          "text_translation": "cùng lúc, khi các kỷ lục đang bị phá"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "in the same way",
-            "vi": "theo cùng cách"
+            "en": "in the same way, agreeing with what the commentators claim",
+            "vi": "theo cùng cách, đồng ý với điều các bình luận viên nói"
           },
           "is_correct": false,
           "order": 3,
-          "text": "in the same way",
-          "text_translation": "theo cùng cách"
+          "text": "in the same way, agreeing with what the commentators claim",
+          "text_translation": "theo cùng cách, đồng ý với điều các bình luận viên nói"
         }
       ],
       "evidence_segments": [
@@ -1851,35 +1851,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "People should only watch women's sports.",
-            "vi": "Người ta chỉ nên xem thể thao nữ."
+            "en": "People should only watch women's sports and stop watching other sports.",
+            "vi": "Người ta chỉ nên xem thể thao nữ và thôi xem các môn khác."
           },
           "is_correct": false,
           "order": 0,
-          "text": "People should only watch women's sports.",
-          "text_translation": "Người ta chỉ nên xem thể thao nữ."
+          "text": "People should only watch women's sports and stop watching other sports.",
+          "text_translation": "Người ta chỉ nên xem thể thao nữ và thôi xem các môn khác."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Television is no longer important.",
-            "vi": "Truyền hình không còn quan trọng."
+            "en": "Television is no longer important, because fans use social media only.",
+            "vi": "Truyền hình không còn quan trọng vì người hâm mộ chỉ dùng mạng xã hội."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Television is no longer important.",
-          "text_translation": "Truyền hình không còn quan trọng."
+          "text": "Television is no longer important, because fans use social media only.",
+          "text_translation": "Truyền hình không còn quan trọng vì người hâm mộ chỉ dùng mạng xã hội."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Players should be paid less.",
-            "vi": "Vận động viên nên được trả ít hơn."
+            "en": "Players should be paid less until more people begin to watch them.",
+            "vi": "Vận động viên nên được trả ít hơn cho đến khi có nhiều người xem hơn."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Players should be paid less.",
-          "text_translation": "Vận động viên nên được trả ít hơn."
+          "text": "Players should be paid less until more people begin to watch them.",
+          "text_translation": "Vận động viên nên được trả ít hơn cho đến khi có nhiều người xem hơn."
         },
         {
           "id": "D",
@@ -1919,46 +1919,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Both of them are about basketball.",
-            "vi": "Cả hai đều về bóng rổ."
+            "en": "Both of them are mostly about basketball players who studied at American colleges.",
+            "vi": "Cả hai chủ yếu nói về các cầu thủ bóng rổ học ở đại học Mỹ."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Both of them are about basketball.",
-          "text_translation": "Cả hai đều về bóng rổ."
+          "text": "Both of them are mostly about basketball players who studied at American colleges.",
+          "text_translation": "Cả hai chủ yếu nói về các cầu thủ bóng rổ học ở đại học Mỹ."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "In both, women's work was not given full attention at first, but it proved its value.",
-            "vi": "Trong cả hai, công sức của phụ nữ ban đầu không được chú ý đúng mức, nhưng rồi đã chứng tỏ giá trị."
+            "en": "In both, women's work was not fully noticed at first, but it proved its value.",
+            "vi": "Trong cả hai, công sức của phụ nữ ban đầu chưa được chú ý đủ, nhưng rồi đã chứng tỏ giá trị."
           },
           "is_correct": true,
           "order": 1,
-          "text": "In both, women's work was not given full attention at first, but it proved its value.",
-          "text_translation": "Trong cả hai, công sức của phụ nữ ban đầu không được chú ý đúng mức, nhưng rồi đã chứng tỏ giá trị."
+          "text": "In both, women's work was not fully noticed at first, but it proved its value.",
+          "text_translation": "Trong cả hai, công sức của phụ nữ ban đầu chưa được chú ý đủ, nhưng rồi đã chứng tỏ giá trị."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Both of them happened in Switzerland.",
-            "vi": "Cả hai đều xảy ra ở Thuỵ Sĩ."
+            "en": "Both of them started near a lake in Switzerland, in the same summer.",
+            "vi": "Cả hai bắt đầu gần một hồ ở Thuỵ Sĩ, vào cùng một mùa hè."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Both of them happened in Switzerland.",
-          "text_translation": "Cả hai đều xảy ra ở Thuỵ Sĩ."
+          "text": "Both of them started near a lake in Switzerland, in the same summer.",
+          "text_translation": "Cả hai bắt đầu gần một hồ ở Thuỵ Sĩ, vào cùng một mùa hè."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Both of them were on television in 1818.",
-            "vi": "Cả hai đều lên truyền hình năm 1818."
+            "en": "Both of them were shown on television in 1818, then again in 2024.",
+            "vi": "Cả hai được chiếu trên truyền hình năm 1818, rồi lại năm 2024."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Both of them were on television in 1818.",
-          "text_translation": "Cả hai đều lên truyền hình năm 1818."
+          "text": "Both of them were shown on television in 1818, then again in 2024.",
+          "text_translation": "Cả hai được chiếu trên truyền hình năm 1818, rồi lại năm 2024."
         }
       ],
       "evidence_segments": [
