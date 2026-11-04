@@ -46,7 +46,7 @@
 >
 > Amy is in the living room. There is a big sofa in the middle of the room. Her books are on the shelf beside the TV.
 >
-> There is some water for you on the kitchen table. Amy's pink pillow is in a box under the table. She hides things a lot! Please put it on her bed.
+> There is some water for you on the kitchen table. Amy's pink pillow is in a box under the kitchen table. She hides things a lot! Please put it on her bed.
 >
 > Any questions? Please phone me.
 >
@@ -66,7 +66,7 @@
 | 8 | There is a big sofa in the middle of the room. | Có một cái ghế sofa to ở giữa phòng. |
 | 9 | Her books are on the shelf beside the TV. | Sách của con bé ở trên kệ, cạnh cái tivi. |
 | 10 | There is some water for you on the kitchen table. | Trên bàn bếp có sẵn nước cho bạn. |
-| 11 | Amy's pink pillow is in a box under the table. | Cái gối màu hồng của Amy nằm trong một cái hộp dưới gầm bàn. |
+| 11 | Amy's pink pillow is in a box under the kitchen table. | Cái gối màu hồng của Amy nằm trong một cái hộp dưới gầm bàn bếp. |
 | 12 | She hides things a lot! | Con bé hay giấu đồ lắm! |
 | 13 | Please put it on her bed. | Bạn để giúp mình cái gối lên giường con bé nhé. |
 | 14 | Any questions? Please phone me. | Có gì cần hỏi thì bạn cứ gọi cho mình nhé. |
@@ -207,7 +207,7 @@
 | 1 | **B** | Câu 4–5: "Please don't ring the bell." rồi ngay sau là "Harriet is sick, and she is in bed." Người nằm trên giường là bà Harriet, còn Amy đang ở phòng khách. Nathan đi vắng là đúng, nhưng không phải lý do Helena dặn đừng bấm chuông. Bài không nói gì về chuông cũ. |
 | 2 | **A** | Câu 7: "Amy is in the living room." Người đang nằm trên giường là bà Harriet. Giường của Amy là chỗ Helena muốn bạn để gối vào, còn bếp là chỗ để nước và cái hộp, không phải chỗ Amy đang ở. |
 | 3 | **D** | Câu 8: "There is a big sofa in the middle of the room." Tivi và kệ cũng ở phòng khách, nhưng nằm cạnh nhau ("the shelf beside the TV"), không ở giữa phòng. Cái hộp thì ở dưới bàn bếp. |
-| 4 | **C** | Câu 10–11: "Amy's pink pillow is in a box under the table." "the table" ở đây là cái bàn vừa nói ở câu trước: "the kitchen table". "On her bed" là chỗ Helena muốn bạn để gối vào, chưa phải chỗ gối đang nằm. Trên kệ là sách của Amy. |
+| 4 | **C** | Câu 10–11: "Amy's pink pillow is in a box under the kitchen table." "the table" ở đây là cái bàn vừa nói ở câu trước: "the kitchen table". "On her bed" là chỗ Helena muốn bạn để gối vào, chưa phải chỗ gối đang nằm. Trên kệ là sách của Amy. |
 | 5 | **B** | Câu 11, 13: "Please put it on her bed." "it" là cái gối hồng ở câu 11, "her bed" là giường của Amy. Sách của Amy đã nằm sẵn trên kệ ("Her books are on the shelf beside the TV"), không cần tìm. Helena bảo gọi cho chính cô ấy ("phone me") nếu có câu hỏi, không phải gọi Nathan. "take off your shoes" là cởi giày của bạn, không phải rửa giày cho Amy. |
 | 6 | **C** | Câu 2–3: Mục 1 là ngôi nhà: "There are two bedrooms and one bathroom." "one" là số phòng tắm của ngôi nhà, và cũng là số phòng ngủ của căn hộ ở mục 2 ("There is one bedroom"). |
 | 7 | **D** | Câu 7, 11: Căn hộ là mục 2: "Rent: $1,900 a month." $2,400 là giá của ngôi nhà ở mục 1. 40 là số nhà ("40 Pine Street"), không phải giá. $1,090 đọc gần giống nhưng sai số. |

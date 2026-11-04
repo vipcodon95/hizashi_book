@@ -108,7 +108,7 @@
 
 - A. sorry *(xin lỗi)*
 - B. hello and welcome *(xin chào và chào mừng)*
-- C. bye *(tạm biệt)*
+- C. good night *(chúc ngủ ngon)*
 - D. pardon *(xin nhắc lại)*
 
 ---
