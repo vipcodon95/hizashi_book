@@ -88,82 +88,82 @@
 **1. What made Trevor decide to look into the subject?**
 *(Điều gì khiến Trevor quyết định tìm hiểu chủ đề này?)*
 
-- A. a lecture by his professor *(một bài giảng của giáo sư)*
-- B. a friend who refused to use an AI chatbot because of its effect on the planet *(một người bạn từ chối dùng chatbot AI vì ảnh hưởng của nó tới hành tinh)*
-- C. a news report about Japan *(một bản tin về Nhật Bản)*
-- D. a power cut in his dorm *(một lần mất điện ở ký túc xá)*
+- A. a lecture by his professor about the cost of electricity in dorms *(một bài giảng của giáo sư về chi phí điện ở ký túc xá)*
+- B. a friend who would not use an AI chatbot because of the planet *(một người bạn không chịu dùng chatbot AI vì hành tinh)*
+- C. a news report about how much electricity Japan uses *(một bản tin về lượng điện Nhật Bản sử dụng)*
+- D. a power cut in his dorm that left the whole building dark *(một lần mất điện ở ký túc xá làm cả tòa nhà tối om)*
 
 **2. Why does Trevor mention that he wanted "numbers, not feelings"?**
 *(Vì sao Trevor nhắc rằng cậu muốn "con số chứ không phải cảm xúc"?)*
 
-- A. to show that he dislikes his friend *(để cho thấy cậu không ưa bạn mình)*
-- B. to explain why he stopped using AI *(để giải thích vì sao cậu thôi dùng AI)*
-- C. to say that feelings are always wrong *(để nói cảm xúc luôn sai)*
+- A. to show that he dislikes his friend and thinks he is being silly *(để cho thấy cậu không ưa bạn mình và thấy bạn thật ngớ ngẩn)*
+- B. to explain why he stopped using AI after reading the report *(để giải thích vì sao cậu thôi dùng AI sau khi đọc báo cáo)*
+- C. to say that feelings are always wrong and should be ignored *(để nói cảm xúc luôn sai và nên bị bỏ qua)*
 - D. to show that he will base his opinion on evidence rather than on how people react *(để cho thấy cậu sẽ dựa ý kiến vào bằng chứng chứ không vào phản ứng của mọi người)*
 
 **3. According to the 2025 report, how much electricity did data centers use in 2024?**
 *(Theo báo cáo năm 2025, các trung tâm dữ liệu dùng bao nhiêu điện năm 2024?)*
 
 - A. about 1.5 percent of the world's electricity *(khoảng 1,5 phần trăm điện thế giới)*
-- B. more than Japan uses *(nhiều hơn Nhật Bản dùng)*
-- C. about half of the world's electricity *(khoảng một nửa điện thế giới)*
-- D. 945 terawatt-hours *(945 terawatt-giờ)*
+- B. more than the whole of Japan uses in a year *(nhiều hơn cả nước Nhật dùng trong một năm)*
+- C. about half of the world's electricity, mostly for AI *(khoảng một nửa điện thế giới, chủ yếu cho AI)*
+- D. 945 terawatt-hours, which is slightly more than Japan uses *(945 terawatt-giờ, hơi nhiều hơn mức Nhật Bản dùng)*
 
 **4. What does the report expect to happen by 2030?**
 *(Báo cáo dự kiến điều gì sẽ xảy ra trước năm 2030?)*
 
-- A. Data centers will use less electricity. *(Trung tâm dữ liệu sẽ dùng ít điện hơn.)*
-- B. Japan will build most of the data centers. *(Nhật Bản sẽ xây phần lớn trung tâm dữ liệu.)*
+- A. Data centers will use less electricity because computers will become smaller. *(Trung tâm dữ liệu sẽ dùng ít điện hơn vì máy tính sẽ nhỏ đi.)*
+- B. Japan will build most of the data centers that are planned. *(Nhật Bản sẽ xây phần lớn các trung tâm dữ liệu đang được lên kế hoạch.)*
 - C. Data-center electricity use will more than double, mainly because of AI. *(Lượng điện của trung tâm dữ liệu sẽ tăng hơn gấp đôi, chủ yếu vì AI.)*
-- D. AI will stop growing. *(AI sẽ ngừng phát triển.)*
+- D. AI will stop growing once the power plants run out of fuel. *(AI sẽ ngừng phát triển khi các nhà máy điện hết nhiên liệu.)*
 
 **5. Why does Trevor answer his own question with "Yes and no"?**
 *(Vì sao Trevor tự trả lời câu hỏi của mình bằng "Vừa đúng vừa sai"?)*
 
-- A. because a single question uses very little energy, but the total scale is a real problem *(vì một câu hỏi dùng rất ít điện, nhưng quy mô tổng thể là vấn đề thật)*
-- B. because he has not found any data *(vì cậu chưa tìm được số liệu)*
-- C. because his friend changed his mind *(vì bạn cậu đã đổi ý)*
-- D. because the report is unclear *(vì báo cáo không rõ ràng)*
+- A. because one question uses very little energy, but the total scale is a real problem *(vì một câu hỏi dùng rất ít điện, nhưng quy mô tổng thể là vấn đề thật)*
+- B. because he has not found any data that clearly supports either side *(vì cậu chưa tìm được số liệu nào ủng hộ rõ ràng bên nào)*
+- C. because his friend changed his mind after reading the report *(vì bạn cậu đã đổi ý sau khi đọc báo cáo)*
+- D. because the report is unclear about how much electricity data centers use *(vì báo cáo không rõ các trung tâm dữ liệu dùng bao nhiêu điện)*
 
 **6. In the sentence about one question, the word "negligible" is closest in meaning to**
 *(Trong câu nói về một câu hỏi, từ "negligible" gần nghĩa nhất với)*
 
-- A. dangerous *(nguy hiểm)*
+- A. so large that it cannot be ignored *(lớn tới mức không thể bỏ qua)*
 - B. so small that it hardly matters *(nhỏ tới mức gần như không đáng kể)*
-- C. impossible to measure *(không thể đo)*
-- D. growing quickly *(tăng nhanh)*
+- C. impossible to measure exactly *(không thể đo chính xác)*
+- D. growing quickly every year *(tăng nhanh mỗi năm)*
 
 **7. Why does Trevor say that decisions made now will shape emissions for decades?**
 *(Vì sao Trevor nói các quyết định lúc này sẽ định hình lượng khí thải trong nhiều thập kỷ?)*
 
-- A. because people will ask fewer questions in the future *(vì sau này người ta sẽ hỏi ít hơn)*
-- B. because AI will replace power grids *(vì AI sẽ thay thế lưới điện)*
-- C. because wind turbines last only a few years *(vì tua-bin gió chỉ dùng được vài năm)*
-- D. because many future data centers are still being planned, and their energy source will matter for a long time *(vì nhiều trung tâm dữ liệu tương lai vẫn đang được lên kế hoạch, và nguồn điện của chúng sẽ quan trọng rất lâu)*
+- A. because people will ask fewer questions in the future, so the plans will be cancelled *(vì sau này người ta sẽ hỏi ít hơn nên các kế hoạch sẽ bị huỷ)*
+- B. because AI will replace the power grids, and the data centers built today will all have to be built again *(vì AI sẽ thay thế lưới điện, và các trung tâm dữ liệu xây hôm nay sẽ phải xây lại hết)*
+- C. because wind turbines last only a few years and then must be replaced by fossil fuels *(vì tua-bin gió chỉ dùng được vài năm rồi phải thay bằng nhiên liệu hoá thạch)*
+- D. because many data centers are still being planned, and their energy source will matter for years *(vì nhiều trung tâm dữ liệu vẫn đang được lên kế hoạch, và nguồn điện của chúng sẽ quan trọng nhiều năm)*
 
 **8. Why does Trevor think that feeling guilty about each question is "detrimental"?**
 *(Vì sao Trevor cho rằng áy náy với từng câu hỏi là "có hại"?)*
 
-- A. because it uses more electricity *(vì nó tốn thêm điện)*
-- B. because it makes students fail their homework *(vì nó khiến sinh viên làm hỏng bài tập)*
+- A. because it uses more electricity than the chatbot itself does *(vì nó tốn điện hơn chính chatbot)*
+- B. because it makes students fail their homework and lose confidence *(vì nó khiến sinh viên làm hỏng bài tập và mất tự tin)*
 - C. because it turns a huge problem into a matter of personal shame *(vì nó biến một vấn đề khổng lồ thành chuyện xấu hổ cá nhân)*
-- D. because companies want people to feel guilty *(vì các công ty muốn người ta áy náy)*
+- D. because companies want people to feel guilty so they will buy more *(vì các công ty muốn người ta áy náy để mua nhiều hơn)*
 
 **9. What does Trevor believe is the most useful action?**
 *(Trevor tin hành động hữu ích nhất là gì?)*
 
-- A. never using AI chatbots *(không bao giờ dùng chatbot AI)*
+- A. never using AI chatbots again, even for homework or for simple questions about the weather *(không bao giờ dùng chatbot AI nữa, kể cả cho bài tập hay câu hỏi đơn giản về thời tiết)*
 - B. asking AI companies to be open about how much energy they use and where it comes from *(yêu cầu các công ty AI công khai họ dùng bao nhiêu năng lượng và từ đâu)*
-- C. studying only in the library *(chỉ học trong thư viện)*
-- D. moving data centers to Japan *(chuyển trung tâm dữ liệu sang Nhật)*
+- C. studying only in the library, where the lights are always turned off *(chỉ học trong thư viện, nơi đèn luôn được tắt)*
+- D. moving data centers to Japan, where electricity is cheaper and cleaner *(chuyển trung tâm dữ liệu sang Nhật, nơi điện rẻ và sạch hơn)*
 
 **10. What is the effect of the final paragraph about the library lights?**
 *(Đoạn cuối về đèn thư viện tạo ra hiệu ứng gì?)*
 
-- A. It gently shows, with humor, that his friend's choice does not really save energy. *(Nó nhẹ nhàng cho thấy, bằng giọng hài hước, rằng lựa chọn của bạn cậu chẳng thực sự tiết kiệm điện.)*
-- B. It proves that libraries waste more energy than data centers. *(Nó chứng minh thư viện lãng phí điện hơn trung tâm dữ liệu.)*
-- C. It shows that Trevor has changed his mind. *(Nó cho thấy Trevor đã đổi ý.)*
-- D. It criticizes the university for its lights. *(Nó chỉ trích trường đại học vì đèn.)*
+- A. It shows, with gentle humor, that his friend's choice does not really save energy. *(Nó cho thấy, bằng sự hài hước nhẹ nhàng, rằng lựa chọn của bạn cậu chẳng thực sự tiết kiệm điện.)*
+- B. It proves that libraries waste far more energy than data centers do. *(Nó chứng minh thư viện lãng phí điện hơn nhiều so với trung tâm dữ liệu.)*
+- C. It shows that Trevor has changed his mind and now fully agrees with his friend's decision. *(Nó cho thấy Trevor đã đổi ý và hoàn toàn đồng ý với quyết định của bạn.)*
+- D. It proves that the library should be closed to save electricity. *(Nó chứng minh thư viện nên đóng cửa để tiết kiệm điện.)*
 
 ---
 
@@ -210,81 +210,81 @@
 **11. Why was Mitchell surprised at his checkup?**
 *(Vì sao Mitchell bất ngờ ở buổi khám định kỳ?)*
 
-- A. because the doctor told him to sleep more *(vì bác sĩ bảo ông ngủ nhiều hơn)*
-- B. because he had lost weight *(vì ông đã giảm cân)*
+- A. because the doctor told him, as usual, to sleep more and to lose a few pounds *(vì bác sĩ vẫn như mọi khi bảo ông ngủ nhiều hơn và giảm vài pao)*
+- B. because he had lost weight and the doctor said it was too much *(vì ông đã giảm cân và bác sĩ nói giảm quá nhiều)*
 - C. because he expected the usual advice but was told he had high blood pressure *(vì ông tưởng sẽ nghe lời dặn quen thuộc nhưng lại được báo bị huyết áp cao)*
-- D. because Megan came with him *(vì Megan đi cùng)*
+- D. because Megan came with him and heard the result before he did *(vì Megan đi cùng và nghe kết quả trước ông)*
 
 **12. According to Dr. Ramos, why is high blood pressure dangerous even when people feel fine?**
 *(Theo bác sĩ Ramos, vì sao huyết áp cao nguy hiểm ngay cả khi người ta thấy khoẻ?)*
 
-- A. because it often has no symptoms, so people may find out only after something serious happens *(vì nó thường không có triệu chứng, nên người ta có thể chỉ phát hiện sau khi chuyện nghiêm trọng xảy ra)*
-- B. because it is always painful *(vì nó luôn gây đau)*
-- C. because it cannot be treated *(vì nó không chữa được)*
-- D. because it spreads to other people *(vì nó lây sang người khác)*
+- A. because it often has no symptoms, so people learn of it only after something serious *(vì nó thường không có triệu chứng, nên người ta chỉ biết sau khi có chuyện nghiêm trọng)*
+- B. because it is always painful, so people cannot work or sleep *(vì nó luôn gây đau nên người ta không thể làm việc hay ngủ)*
+- C. because it cannot be treated once it has started to damage the heart *(vì không thể chữa khi nó đã bắt đầu làm hại tim)*
+- D. because it spreads to other people, especially to the family members who live with him *(vì nó lây sang người khác, nhất là các thành viên gia đình sống cùng ông)*
 
 **13. Why was Megan angry with herself?**
 *(Vì sao Megan giận chính mình?)*
 
-- A. because she had cooked salty food *(vì cô nấu đồ mặn)*
-- B. because she missed his checkup *(vì cô lỡ buổi khám của ông)*
-- C. because she works too many hours *(vì cô làm quá nhiều giờ)*
+- A. because she had cooked salty food for thirty years and never read the labels on the bread *(vì cô đã nấu đồ mặn suốt ba mươi năm mà không bao giờ đọc nhãn bánh mì)*
+- B. because she missed his checkup and he went to the doctor alone *(vì cô lỡ buổi khám và ông đi bác sĩ một mình)*
+- C. because she works too many hours and has no time to see her husband *(vì cô làm quá nhiều giờ và không có thời gian gặp chồng)*
 - D. because, as a nurse, she felt she should have noticed her husband's blood pressure *(vì là y tá, cô thấy lẽ ra mình phải để ý huyết áp của chồng)*
 
 **14. What does "She did not laugh" suggest?**
 *(Câu "Cô ấy không cười" hàm ý gì?)*
 
-- A. Megan did not hear the joke. *(Megan không nghe thấy câu đùa.)*
+- A. Megan did not hear the joke because she was busy thinking about her shift at work. *(Megan không nghe thấy câu đùa vì mải nghĩ về ca làm.)*
 - B. Megan was taking the situation seriously and was not comforted by his joke. *(Megan đang nghiêm túc với chuyện này và câu đùa của ông không làm cô nhẹ lòng.)*
-- C. Megan thought the joke was rude. *(Megan thấy câu đùa thô lỗ.)*
-- D. Megan was too tired after work. *(Megan quá mệt sau giờ làm.)*
+- C. Megan thought the joke was rude and wanted him to apologize. *(Megan thấy câu đùa thô lỗ và muốn ông xin lỗi.)*
+- D. Megan was too tired after her long shift to find anything funny. *(Megan quá mệt sau ca dài nên chẳng thấy gì buồn cười.)*
 
 **15. What does Mitchell find strange?**
 *(Mitchell thấy điều gì lạ?)*
 
-- A. that his doctor was so young *(rằng bác sĩ của ông trẻ quá)*
-- B. that walking helps *(rằng đi bộ có ích)*
-- C. that the pill is so small *(rằng viên thuốc nhỏ quá)*
+- A. that his doctor was so young and still gave such serious advice *(rằng bác sĩ của ông trẻ thế mà lại khuyên nghiêm túc đến vậy)*
+- B. that walking for thirty minutes every day could be so useful for a history teacher *(rằng đi bộ ba mươi phút mỗi ngày lại có ích đến thế cho một thầy giáo dạy sử)*
+- C. that the pill is so small and yet has to be taken every single day *(rằng viên thuốc nhỏ thế mà ngày nào cũng phải uống)*
 - D. that a careful cook like him had been eating so much salt without knowing *(rằng một người nấu ăn cẩn thận như ông lại đã ăn nhiều muối mà không biết)*
 
 **16. Where did most of the salt in Mitchell's diet come from?**
 *(Phần lớn muối trong khẩu phần của Mitchell đến từ đâu?)*
 
-- A. restaurant meals *(các bữa ăn nhà hàng)*
-- B. snacks at school *(đồ ăn vặt ở trường)*
+- A. restaurant meals that he ate with the other teachers at the end of every school day *(các bữa ăn nhà hàng ông ăn cùng các giáo viên khác vào cuối mỗi ngày học)*
+- B. snacks that his students shared with him at school *(đồ ăn vặt học sinh chia cho ông ở trường)*
 - C. everyday foods and sauces in his own kitchen, such as bread and soup cubes *(đồ ăn hằng ngày và nước sốt trong chính bếp nhà ông, như bánh mì và viên súp)*
-- D. Harriet's café *(quán của bà Harriet)*
+- D. the café where he buys coffee and a roll every morning *(quán cà phê nơi ông mua cà phê và bánh mì mỗi sáng)*
 
 **17. What unexpected benefit has Mitchell found in his new routine?**
 *(Mitchell tìm thấy lợi ích bất ngờ nào trong thói quen mới?)*
 
 - A. The lunchtime walks with colleagues have become the best part of his day. *(Những buổi đi bộ giờ trưa với đồng nghiệp trở thành phần vui nhất trong ngày.)*
-- B. He no longer needs to take the pill. *(Ông không cần uống thuốc nữa.)*
-- C. His students now walk with him. *(Học sinh giờ đi bộ cùng ông.)*
-- D. He has lost thirty pounds. *(Ông đã giảm ba mươi pao.)*
+- B. He no longer needs to take the pill, because his numbers are now much better than before. *(Ông không cần uống thuốc nữa, vì các chỉ số của ông giờ tốt hơn trước nhiều.)*
+- C. His students now walk to school with him every morning. *(Học sinh giờ đi bộ đến trường cùng ông mỗi sáng.)*
+- D. He has lost thirty pounds and now sleeps much better. *(Ông đã giảm ba mươi pao và giờ ngủ ngon hơn nhiều.)*
 
 **18. What does Megan's comment about the pill, "which, as she points out, is every day", show?**
 *(Lời Megan về viên thuốc, "mà như cô ấy chỉ ra, thì ngày nào tôi cũng thấy khoẻ", cho thấy điều gì?)*
 
-- A. Mitchell feels ill every day. *(Ngày nào Mitchell cũng thấy mệt.)*
-- B. Mitchell can stop when he feels fine. *(Mitchell có thể ngừng khi thấy khoẻ.)*
-- C. Because hypertension has no symptoms, feeling fine is not a reason to stop the medicine. *(Vì tăng huyết áp không có triệu chứng, thấy khoẻ không phải lý do để ngừng thuốc.)*
-- D. The pill makes him feel fine. *(Viên thuốc làm ông thấy khoẻ.)*
+- A. Mitchell feels ill every day, so he has to take the pill without fail. *(Ngày nào Mitchell cũng thấy mệt nên ông phải uống thuốc đều đặn.)*
+- B. Mitchell can stop taking the pill on the days when he feels fine. *(Mitchell có thể ngừng uống thuốc vào những ngày thấy khoẻ.)*
+- C. Hypertension has no symptoms, so feeling fine is no reason to stop the medicine. *(Tăng huyết áp không có triệu chứng nên thấy khoẻ không phải lý do để ngừng thuốc.)*
+- D. The pill makes him feel fine, which is why he must keep taking it. *(Viên thuốc làm ông thấy khoẻ, vì thế ông phải uống tiếp.)*
 
 **19. What does Mitchell realize about why he was so shocked?**
 *(Mitchell nhận ra điều gì về lý do ông bị sốc?)*
 
-- A. He had always been afraid of doctors. *(Ông vốn luôn sợ bác sĩ.)*
-- B. He had believed that illness happened to other people, not to someone who looked after himself like him. *(Ông đã tin bệnh tật là chuyện của người khác, không phải của người tự chăm lo cho mình như ông.)*
-- C. He did not trust Dr. Ramos. *(Ông không tin bác sĩ Ramos.)*
-- D. He had read false information online. *(Ông đã đọc thông tin sai trên mạng.)*
+- A. He had always been afraid of doctors and had avoided every checkup until the day he turned fifty. *(Ông vốn luôn sợ bác sĩ và né mọi buổi khám cho tới ngày tròn năm mươi tuổi.)*
+- B. He had believed that illness happens to other people, not to someone who looks after himself. *(Ông đã tin bệnh tật xảy ra với người khác, không phải với người tự chăm lo cho mình.)*
+- C. He did not trust Dr. Ramos because the doctor had frowned and seemed unsure. *(Ông không tin bác sĩ Ramos vì ông ấy cau mày và có vẻ không chắc.)*
+- D. He had read false information online about how much salt a man needs. *(Ông đã đọc thông tin sai trên mạng về lượng muối một người đàn ông cần.)*
 
 **20. Use both texts. What do Trevor and Mitchell both discover?**
 *(Dựa vào cả hai bài. Trevor và Mitchell đều phát hiện ra điều gì?)*
 
-- A. Doctors and engineers never agree. *(Bác sĩ và kỹ sư không bao giờ đồng ý.)*
-- B. Personal guilt is the best way to solve problems. *(Áy náy cá nhân là cách tốt nhất để giải quyết vấn đề.)*
-- C. Numbers are less important than feelings. *(Con số kém quan trọng hơn cảm xúc.)*
+- A. Doctors and engineers never agree about what counts as a serious problem in daily life. *(Bác sĩ và kỹ sư không bao giờ đồng ý về việc điều gì là vấn đề nghiêm trọng trong đời sống.)*
+- B. Personal guilt is the best way to solve a problem that affects everyone. *(Áy náy cá nhân là cách tốt nhất để giải quyết vấn đề ảnh hưởng đến mọi người.)*
+- C. Numbers are less important than feelings when the problem is a serious one. *(Con số kém quan trọng hơn cảm xúc khi vấn đề nghiêm trọng.)*
 - D. A problem can be hidden in small, everyday things that add up over time. *(Một vấn đề có thể ẩn trong những thứ nhỏ, hằng ngày, cộng dồn theo thời gian.)*
 
 ---

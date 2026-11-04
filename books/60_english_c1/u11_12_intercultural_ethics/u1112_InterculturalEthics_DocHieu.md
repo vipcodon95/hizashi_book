@@ -95,81 +95,81 @@
 *(Vì sao Nathan tưởng mình đã sẵn sàng dẫn dắt nhóm mới?)*
 
 - A. because he had read articles about working across cultures *(vì anh đã đọc các bài viết về làm việc đa văn hoá)*
-- B. because he had lived in Lisbon *(vì anh từng sống ở Lisbon)*
-- C. because the team was small *(vì nhóm nhỏ)*
-- D. because he had led the team before *(vì anh từng dẫn dắt nhóm này)*
+- B. because he had lived in Lisbon for several years *(vì anh đã sống ở Lisbon vài năm)*
+- C. because the team was small and everyone knew each other well *(vì nhóm nhỏ và mọi người đều quen nhau rõ)*
+- D. because he had led the same team of engineers before *(vì anh từng dẫn dắt chính nhóm kỹ sư này)*
 
 **2. What mistake did Nathan make in the weekly meetings?**
 *(Nathan đã mắc sai lầm gì trong các cuộc họp hằng tuần?)*
 
-- A. He did not ask for objections. *(Anh không hỏi ý kiến phản đối.)*
-- B. He talked too quickly. *(Anh nói quá nhanh.)*
-- C. He held meetings too often. *(Anh họp quá thường xuyên.)*
+- A. He did not ask for objections before the meeting started. *(Anh không hỏi ý kiến phản đối trước khi họp bắt đầu.)*
+- B. He talked so quickly that no one could interrupt him. *(Anh nói nhanh tới mức không ai chen vào được.)*
+- C. He held meetings too often and let them go on too long. *(Anh họp quá thường xuyên và để cuộc họp kéo dài quá lâu.)*
 - D. He assumed that silence meant everyone agreed. *(Anh mặc định im lặng nghĩa là ai cũng đồng ý.)*
 
 **3. What was the cost of Nathan's misunderstanding?**
 *(Sự hiểu lầm của Nathan gây ra hậu quả gì?)*
 
-- A. Greg left the team. *(Greg rời nhóm.)*
+- A. Greg left the team and the project was handed to someone else. *(Greg rời nhóm và dự án được giao cho người khác.)*
 - B. The team lost three weeks on a plan that would not work. *(Nhóm mất ba tuần cho một kế hoạch không thành.)*
-- C. The project was cancelled. *(Dự án bị huỷ.)*
-- D. Tomás was angry. *(Tomás tức giận.)*
+- C. The project was cancelled and the team was sent home. *(Dự án bị huỷ và cả nhóm bị cho về.)*
+- D. Tomás was so angry that he refused to join the next meetings. *(Tomás giận tới mức từ chối dự các cuộc họp sau.)*
 
 **4. Why had Greg said nothing in the meeting?**
 *(Vì sao Greg không nói gì trong cuộc họp?)*
 
-- A. He did not understand the plan. *(Anh không hiểu kế hoạch.)*
-- B. He was not at the meeting. *(Anh không dự họp.)*
-- C. He felt it was not his place to question the team lead in front of others, and preferred to raise doubts privately. *(Anh thấy mình không có tư cách chất vấn trưởng nhóm trước mặt người khác, và thích nêu băn khoăn riêng tư.)*
-- D. He agreed with the plan at first. *(Lúc đầu anh đồng ý với kế hoạch.)*
+- A. He did not understand the plan well enough to say anything about it. *(Anh không hiểu kế hoạch đủ rõ để nói gì về nó.)*
+- B. He was not at the meeting because of a problem with the video call. *(Anh không dự họp vì cuộc gọi video bị trục trặc.)*
+- C. He felt it was not his place to question his lead in public, and preferred to do so privately. *(Anh thấy mình không có tư cách chất vấn trưởng nhóm trước đám đông, và thích làm việc đó riêng tư.)*
+- D. He agreed with the plan at first, and changed his mind only when the first problems appeared. *(Lúc đầu anh đồng ý với kế hoạch, và chỉ đổi ý khi những vấn đề đầu tiên xuất hiện.)*
 
 **5. Why does Nathan mention where Tomás and Greg come from?**
 *(Vì sao Nathan nhắc tới nơi Tomás và Greg xuất thân?)*
 
-- A. to show that their styles were the opposite of what a stereotype about their countries might predict *(để cho thấy cách của họ ngược hẳn với điều mà định kiến về đất nước họ có thể đoán)*
-- B. to suggest that people from Lisbon are rude *(để gợi ý người Lisbon thô lỗ)*
-- C. to explain why Greg should move *(để giải thích vì sao Greg nên chuyển đi)*
-- D. to praise San Diego *(để khen San Diego)*
+- A. to show that their styles were the opposite of what a national stereotype would predict *(để cho thấy cách của họ ngược hẳn với điều mà một định kiến theo quốc gia sẽ đoán)*
+- B. to explain why the two men had never agreed about anything at work *(để giải thích vì sao hai người chưa từng đồng ý chuyện gì ở chỗ làm)*
+- C. to explain why Greg should move to Lisbon and work with Tomás *(để giải thích vì sao Greg nên chuyển tới Lisbon làm cùng Tomás)*
+- D. to praise San Diego as the best place to learn how to work in teams *(để khen San Diego là nơi tốt nhất để học làm việc nhóm)*
 
 **6. According to Nathan, what does the way a person disagrees depend on?**
 *(Theo Nathan, cách một người bày tỏ sự không đồng ý phụ thuộc vào điều gì?)*
 
-- A. only the country where they were born *(chỉ đất nước nơi họ sinh ra)*
-- B. only their age *(chỉ tuổi tác)*
+- A. only the country where they were born and the language that they spoke as children *(chỉ đất nước nơi họ sinh ra và ngôn ngữ họ nói từ nhỏ)*
+- B. only their age and the number of years they have worked *(chỉ tuổi tác và số năm họ đã đi làm)*
 - C. their family, personality and past teams, at least as much as their birthplace *(gia đình, tính cách và các nhóm cũ, ít nhất cũng nhiều như nơi sinh)*
-- D. the time zone they live in *(múi giờ họ sống)*
+- D. the time zone they live in and the hours they work each week *(múi giờ họ sống và số giờ làm mỗi tuần)*
 
 **7. What is Nathan's position on culture in the paragraph that begins "That does not mean"?**
 *(Trong đoạn bắt đầu bằng "That does not mean", Nathan nhìn nhận văn hoá thế nào?)*
 
-- A. Culture has no influence at all. *(Văn hoá không có ảnh hưởng gì.)*
-- B. Culture explains everything. *(Văn hoá giải thích mọi thứ.)*
-- C. Culture should not be discussed at work. *(Không nên bàn văn hoá ở chỗ làm.)*
-- D. Culture matters, but it cannot be used as a reliable shortcut to understand an individual. *(Văn hoá có ý nghĩa, nhưng không thể dùng làm lối tắt đáng tin để hiểu một cá nhân.)*
+- A. Culture has no influence at all on how people work in a team. *(Văn hoá không có ảnh hưởng gì tới cách người ta làm việc nhóm.)*
+- B. Culture explains everything about how a person behaves at work. *(Văn hoá giải thích mọi điều về cách một người cư xử ở chỗ làm.)*
+- C. Culture should not be discussed at work because it makes people uncomfortable. *(Không nên bàn văn hoá ở chỗ làm vì nó khiến người ta khó chịu.)*
+- D. Culture matters, but it is not a reliable shortcut to understanding an individual. *(Văn hoá có ý nghĩa, nhưng không phải lối tắt đáng tin để hiểu một cá nhân.)*
 
 **8. What is the purpose of the three questions at the start of each project?**
 *(Ba câu hỏi đầu mỗi dự án nhằm mục đích gì?)*
 
-- A. to test the engineers' English *(để kiểm tra tiếng Anh của kỹ sư)*
+- A. to test the engineers' English before the project starts *(để kiểm tra tiếng Anh của các kỹ sư trước khi dự án bắt đầu)*
 - B. to learn each person's own preferences instead of guessing them *(để biết thói quen riêng của từng người thay vì đoán)*
-- C. to choose a new team lead *(để chọn trưởng nhóm mới)*
-- D. to reduce the number of meetings *(để giảm số cuộc họp)*
+- C. to choose a new team lead who suits the whole team *(để chọn một trưởng nhóm mới hợp với cả nhóm)*
+- D. to reduce the number of meetings and the time spent on video calls *(để giảm số cuộc họp và thời gian họp qua video)*
 
 **9. Why does asking each person for "one risk they can see" work better than "Any objections?"?**
 *(Vì sao hỏi từng người về "một rủi ro mà họ thấy" hiệu quả hơn "Có ai phản đối không?"?)*
 
 - A. It makes raising a doubt a normal part of the job, not a challenge to the boss. *(Nó biến việc nêu băn khoăn thành phần bình thường của công việc, không phải thách thức sếp.)*
-- B. It makes meetings shorter. *(Nó làm cuộc họp ngắn hơn.)*
-- C. It allows Nathan to decide alone. *(Nó cho Nathan tự quyết một mình.)*
-- D. It stops Tomás from speaking. *(Nó khiến Tomás thôi nói.)*
+- B. It makes meetings shorter because fewer people need to speak. *(Nó làm cuộc họp ngắn hơn vì ít người cần phát biểu.)*
+- C. It allows Nathan to make decisions alone, without having to listen to the whole team. *(Nó cho Nathan tự quyết định một mình mà không phải nghe cả nhóm.)*
+- D. It stops Tomás from speaking before the others have had a chance. *(Nó ngăn Tomás nói trước khi những người khác có cơ hội.)*
 
 **10. What does Nathan's final sentence imply?**
 *(Câu cuối của Nathan hàm ý gì?)*
 
-- A. The meetings are now completely silent. *(Các cuộc họp giờ hoàn toàn im lặng.)*
+- A. The meetings are now completely silent because the team is afraid. *(Các cuộc họp giờ hoàn toàn im lặng vì cả nhóm sợ.)*
 - B. The new method has stopped silence from being mistaken for agreement. *(Cách làm mới đã chấm dứt việc im lặng bị hiểu nhầm là đồng ý.)*
-- C. He no longer listens to his team. *(Anh không còn nghe nhóm mình.)*
-- D. The team has stopped disagreeing. *(Nhóm đã thôi bất đồng.)*
+- C. He no longer listens to his team, because he asks them by name. *(Anh không còn nghe nhóm mình, vì anh gọi tên từng người để hỏi.)*
+- D. The team has stopped disagreeing now that everyone knows the plan. *(Nhóm đã thôi bất đồng vì ai cũng biết kế hoạch.)*
 
 ---
 
@@ -216,82 +216,82 @@
 **11. What does the AI note-taker do?**
 *(Trợ lý ghi chép AI làm gì?)*
 
-- A. It examines patients. *(Nó khám bệnh nhân.)*
-- B. It decides on treatment. *(Nó quyết định cách điều trị.)*
-- C. With permission, it listens to the conversation and writes a draft of the doctor's notes. *(Khi được cho phép, nó nghe cuộc trò chuyện và viết bản nháp ghi chép cho bác sĩ.)*
-- D. It translates for patients. *(Nó phiên dịch cho bệnh nhân.)*
+- A. It examines patients and writes down what it finds on a tablet. *(Nó khám bệnh nhân và ghi kết quả lên máy tính bảng.)*
+- B. It decides on treatment and sends the plan to the pharmacy. *(Nó quyết định cách điều trị và gửi kế hoạch tới nhà thuốc.)*
+- C. With permission, it listens to the conversation and writes a draft of the notes. *(Khi được cho phép, nó nghe cuộc trò chuyện và viết bản nháp ghi chép.)*
+- D. It translates for patients who speak little English and sends each of them a written summary. *(Nó phiên dịch cho bệnh nhân ít nói tiếng Anh và gửi mỗi người một bản tóm tắt.)*
 
 **12. What is the main benefit of the tool, according to Leah?**
 *(Theo Leah, lợi ích chính của công cụ là gì?)*
 
-- A. It makes fewer mistakes than doctors. *(Nó ít sai hơn bác sĩ.)*
+- A. It makes far fewer mistakes than doctors do when they write their own notes. *(Nó ít sai hơn nhiều so với bác sĩ khi tự viết ghi chép.)*
 - B. It gives her more time and attention for patients instead of typing. *(Nó cho cô thêm thời gian và sự chú ý dành cho bệnh nhân thay vì gõ máy.)*
-- C. It is cheaper than nurses. *(Nó rẻ hơn điều dưỡng.)*
-- D. It replaces the need to read notes. *(Nó khiến không cần đọc ghi chép nữa.)*
+- C. It is cheaper than hiring more nurses for the department. *(Nó rẻ hơn việc thuê thêm điều dưỡng cho khoa.)*
+- D. It replaces the need to read the notes before she signs them. *(Nó khiến cô không cần đọc ghi chép trước khi ký.)*
 
 **13. What does the sentence "Without it, I would not have gone back to sit with an elderly man" show?**
 *(Câu "Nếu không có nó, tuần trước tôi đã chẳng quay lại ngồi với một ông cụ" cho thấy điều gì?)*
 
-- A. The elderly man did not need help. *(Ông cụ không cần giúp.)*
-- B. Leah dislikes the tool. *(Leah ghét công cụ này.)*
-- C. The tool talked to the man. *(Công cụ nói chuyện với ông cụ.)*
+- A. The elderly man did not need any help from the doctor. *(Ông cụ không cần bác sĩ giúp gì.)*
+- B. Leah dislikes the tool and would be happy if the hospital stopped using it. *(Leah ghét công cụ này và sẽ vui nếu bệnh viện thôi dùng nó.)*
+- C. The tool talked to the man and calmed him down. *(Công cụ nói chuyện với ông cụ và làm ông bình tĩnh.)*
 - D. The time saved allowed Leah to give a patient human comfort. *(Thời gian tiết kiệm được giúp Leah dành cho bệnh nhân sự an ủi của con người.)*
 
 **14. Why does Leah say the tool is "not sentient"?**
 *(Vì sao Leah nói công cụ "không có tri giác"?)*
 
-- A. to explain that it predicts words without understanding, which is why it can invent things *(để giải thích nó đoán chữ mà không hiểu, vì vậy nó có thể bịa ra điều không có)*
-- B. to say it is broken *(để nói nó bị hỏng)*
-- C. to show that it is better than humans *(để cho thấy nó giỏi hơn người)*
-- D. to complain about its price *(để phàn nàn về giá)*
+- A. to explain that it predicts words without understanding, so it can invent things *(để giải thích nó đoán chữ mà không hiểu, nên có thể bịa ra điều không có)*
+- B. to say it is broken and should be returned to the company *(để nói nó bị hỏng và nên trả lại cho công ty)*
+- C. to show that it is better than humans at remembering details *(để cho thấy nó nhớ chi tiết giỏi hơn người)*
+- D. to complain about its price and the way it was sold to the hospital *(để phàn nàn về giá và cách nó được bán cho bệnh viện)*
 
 **15. According to Leah, what is the real danger of the tool's mistakes?**
 *(Theo Leah, mối nguy thật sự từ lỗi của công cụ là gì?)*
 
-- A. They are rare. *(Chúng hiếm.)*
-- B. They are always about chest pain. *(Chúng luôn về đau ngực.)*
+- A. They are very frequent, and she finds several of them every night. *(Chúng rất thường xuyên và cô thấy vài lỗi mỗi đêm.)*
+- B. They are always about chest pain and other serious illnesses. *(Chúng luôn về đau ngực và các bệnh nặng khác.)*
 - C. They are written so smoothly that a tired doctor might believe them. *(Chúng được viết trơn tru tới mức một bác sĩ mệt mỏi có thể tin.)*
-- D. They are easy to notice. *(Chúng dễ thấy.)*
+- D. They are easy to notice because the tool marks every uncertain word. *(Chúng dễ thấy vì công cụ đánh dấu mọi từ không chắc.)*
 
 **16. What point does Megan help Leah to make about consent?**
 *(Megan giúp Leah nêu ý gì về sự đồng ý?)*
 
-- A. Patients always understand the tool. *(Bệnh nhân luôn hiểu công cụ.)*
-- B. Nurses should decide for patients. *(Điều dưỡng nên quyết định thay bệnh nhân.)*
-- C. Only English speakers should be asked. *(Chỉ hỏi người nói tiếng Anh.)*
-- D. A patient in pain with little English may not feel free to refuse, so their "yes" may not be real consent. *(Một bệnh nhân đang đau, ít tiếng Anh có thể không thấy mình được tự do từ chối, nên cái "có" của họ có thể không phải đồng ý thật.)*
+- A. Patients always understand exactly what the tool does, so their consent is always real. *(Bệnh nhân luôn hiểu chính xác công cụ làm gì nên sự đồng ý luôn là thật.)*
+- B. Nurses should decide for patients who speak little English. *(Điều dưỡng nên quyết định thay những bệnh nhân ít nói tiếng Anh.)*
+- C. Only patients who speak English should be asked for consent. *(Chỉ nên xin đồng ý của bệnh nhân nói tiếng Anh.)*
+- D. A patient in pain who speaks little English may not feel free to say no. *(Một bệnh nhân đang đau, ít tiếng Anh có thể không thấy mình được tự do nói không.)*
 
 **17. Why must the doctor read every note before signing it?**
 *(Vì sao bác sĩ phải đọc mọi ghi chép trước khi ký?)*
 
-- A. because the software is too slow *(vì phần mềm quá chậm)*
+- A. because the software is too slow and often stops in the middle *(vì phần mềm quá chậm và hay dừng giữa chừng)*
 - B. because the doctor's signature, not the software, carries the responsibility *(vì chữ ký của bác sĩ, chứ không phải phần mềm, chịu trách nhiệm)*
-- C. because patients ask for it *(vì bệnh nhân yêu cầu)*
-- D. because recordings are erased *(vì bản ghi âm bị xoá)*
+- C. because patients ask to hear it read aloud before they leave *(vì bệnh nhân đòi nghe đọc to trước khi ra về)*
+- D. because the recordings are erased after the note is approved *(vì bản ghi âm bị xoá sau khi ghi chép được duyệt)*
 
 **18. What is Leah's attitude towards the sales team?**
 *(Thái độ của Leah với đội bán hàng là gì?)*
 
 - A. doubtful of their claims *(hoài nghi những gì họ tuyên bố)*
-- B. grateful *(biết ơn)*
-- C. completely trusting *(hoàn toàn tin tưởng)*
-- D. indifferent *(thờ ơ)*
+- B. grateful for their free training *(biết ơn khoản đào tạo miễn phí của họ)*
+- C. completely trusting of everything they say *(hoàn toàn tin mọi điều họ nói)*
+- D. indifferent to what they say *(thờ ơ với những gì họ nói)*
 
 **19. What is the meaning of the final two sentences?**
 *(Hai câu cuối có nghĩa gì?)*
 
-- A. Machines should replace doctors. *(Máy nên thay bác sĩ.)*
-- B. The tool should be removed. *(Nên bỏ công cụ.)*
-- C. Doctors should talk less. *(Bác sĩ nên nói ít hơn.)*
-- D. The tool is valuable only if the time it saves is used to listen to patients more, not less. *(Công cụ chỉ có giá trị nếu thời gian nó tiết kiệm được dùng để nghe bệnh nhân nhiều hơn, chứ không ít đi.)*
+- A. Machines should replace doctors completely, so that doctors can finally get some rest. *(Máy nên thay hẳn bác sĩ để bác sĩ cuối cùng được nghỉ ngơi.)*
+- B. The tool should be removed because it makes too many mistakes. *(Nên bỏ công cụ vì nó mắc quá nhiều lỗi.)*
+- C. Doctors should talk less so that machines can write more notes. *(Bác sĩ nên nói ít đi để máy ghi được nhiều hơn.)*
+- D. The tool is valuable only if the time it saves is used to listen to patients more. *(Công cụ chỉ có giá trị nếu thời gian nó tiết kiệm được dùng để nghe bệnh nhân nhiều hơn.)*
 
 **20. Use both texts. What do Nathan and Leah both argue?**
 *(Dựa vào cả hai bài. Nathan và Leah đều lập luận điều gì?)*
 
-- A. Technology should not be used at work. *(Không nên dùng công nghệ ở chỗ làm.)*
-- B. Leaders should make decisions alone. *(Người lãnh đạo nên tự quyết một mình.)*
-- C. Silence or a quick "yes" should not be taken as real agreement; people must be asked in a way that makes refusing easy. *(Không nên coi im lặng hay một cái "có" vội là đồng ý thật; phải hỏi theo cách khiến việc từ chối trở nên dễ dàng.)*
-- D. Patients and engineers have the same problems. *(Bệnh nhân và kỹ sư có cùng vấn đề.)*
+- A. Technology should not be used at work, because it causes more problems than it solves. *(Không nên dùng công nghệ ở chỗ làm vì nó gây nhiều vấn đề hơn là giải quyết.)*
+- B. Leaders should make decisions alone, because groups take too long to agree. *(Người lãnh đạo nên tự quyết một mình vì cả nhóm mất quá nhiều thời gian để đồng ý.)*
+- C. Silence or a quick "yes" should not be taken as real agreement; people need an easy way to say no. *(Không nên coi im lặng hay một cái "có" vội là đồng ý thật; người ta cần cách dễ dàng để nói không.)*
+- D. Patients and engineers have exactly the same problems and need the same solutions. *(Bệnh nhân và kỹ sư có đúng cùng vấn đề và cần cùng giải pháp.)*
 
 ---
 

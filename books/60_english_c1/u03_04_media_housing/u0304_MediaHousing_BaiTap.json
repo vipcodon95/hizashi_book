@@ -601,24 +601,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Nathan's house after a storm",
-            "vi": "nhà Nathan sau bão"
+            "en": "Nathan's house flooded after the January storm",
+            "vi": "nhà Nathan bị ngập sau cơn bão tháng Một"
           },
           "is_correct": false,
           "order": 0,
-          "text": "Nathan's house after a storm",
-          "text_translation": "nhà Nathan sau bão"
+          "text": "Nathan's house flooded after the January storm",
+          "text_translation": "nhà Nathan bị ngập sau cơn bão tháng Một"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "a beach covered in books",
-            "vi": "một bãi biển đầy sách"
+            "en": "the Maple Street Library covered in snow after the January storm",
+            "vi": "thư viện Maple Street phủ đầy tuyết sau cơn bão tháng Một"
           },
           "is_correct": false,
           "order": 1,
-          "text": "a beach covered in books",
-          "text_translation": "một bãi biển đầy sách"
+          "text": "the Maple Street Library covered in snow after the January storm",
+          "text_translation": "thư viện Maple Street phủ đầy tuyết sau cơn bão tháng Một"
         },
         {
           "id": "C",
@@ -634,13 +634,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "a library closing for good",
-            "vi": "một thư viện đóng cửa hẳn"
+            "en": "a library closing for good after it ran out of money",
+            "vi": "một thư viện đóng cửa hẳn vì hết tiền"
           },
           "is_correct": false,
           "order": 3,
-          "text": "a library closing for good",
-          "text_translation": "một thư viện đóng cửa hẳn"
+          "text": "a library closing for good after it ran out of money",
+          "text_translation": "một thư viện đóng cửa hẳn vì hết tiền"
         }
       ],
       "evidence_segments": [
@@ -680,35 +680,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "because his mother asked him to",
-            "vi": "vì mẹ anh nhờ"
+            "en": "because his mother asked him to show everyone how he found the photo",
+            "vi": "vì mẹ anh nhờ anh chỉ cho mọi người cách anh tìm ra bức ảnh"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because his mother asked him to",
-          "text_translation": "vì mẹ anh nhờ"
+          "text": "because his mother asked him to show everyone how he found the photo",
+          "text_translation": "vì mẹ anh nhờ anh chỉ cho mọi người cách anh tìm ra bức ảnh"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because he made the photo himself",
-            "vi": "vì chính anh làm ra bức ảnh"
+            "en": "because he made the photo himself to show how easy it is",
+            "vi": "vì chính anh làm ra bức ảnh để cho thấy việc đó dễ thế nào"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because he made the photo himself",
-          "text_translation": "vì chính anh làm ra bức ảnh"
+          "text": "because he made the photo himself to show how easy it is",
+          "text_translation": "vì chính anh làm ra bức ảnh để cho thấy việc đó dễ thế nào"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because the library paid him",
-            "vi": "vì thư viện trả tiền cho anh"
+            "en": "because the library paid him to write about the flood story",
+            "vi": "vì thư viện trả tiền để anh viết về chuyện lũ"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because the library paid him",
-          "text_translation": "vì thư viện trả tiền cho anh"
+          "text": "because the library paid him to write about the flood story",
+          "text_translation": "vì thư viện trả tiền để anh viết về chuyện lũ"
         }
       ],
       "evidence_segments": [
@@ -737,45 +737,45 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because people no longer share photos",
-            "vi": "vì người ta không còn chia sẻ ảnh"
+            "en": "because people no longer share photos on the neighborhood group chat",
+            "vi": "vì người ta không còn chia sẻ ảnh trên nhóm chat của khu phố"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because people no longer share photos",
-          "text_translation": "vì người ta không còn chia sẻ ảnh"
+          "text": "because people no longer share photos on the neighborhood group chat",
+          "text_translation": "vì người ta không còn chia sẻ ảnh trên nhóm chat của khu phố"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because fake photos are always obvious now",
-            "vi": "vì ảnh giả giờ luôn lộ rõ"
+            "en": "because fake photos have become so easy to recognize that nobody needs to check them any more",
+            "vi": "vì ảnh giả đã trở nên dễ nhận ra đến mức không ai cần kiểm tra nữa"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because fake photos are always obvious now",
-          "text_translation": "vì ảnh giả giờ luôn lộ rõ"
+          "text": "because fake photos have become so easy to recognize that nobody needs to check them any more",
+          "text_translation": "vì ảnh giả đã trở nên dễ nhận ra đến mức không ai cần kiểm tra nữa"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because signs are no longer used",
-            "vi": "vì biển hiệu không còn được dùng"
+            "en": "because signs and hands are now hidden by the websites that carry the photos",
+            "vi": "vì biển hiệu và bàn tay giờ bị các trang web đăng ảnh che đi"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because signs are no longer used",
-          "text_translation": "vì biển hiệu không còn được dùng"
+          "text": "because signs and hands are now hidden by the websites that carry the photos",
+          "text_translation": "vì biển hiệu và bàn tay giờ bị các trang web đăng ảnh che đi"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because image generators have improved so much that staring at a picture is not reliable",
+            "en": "because image generators have improved so much that staring at a picture is unreliable",
             "vi": "vì công cụ tạo ảnh tiến bộ tới mức nhìn chằm chằm vào ảnh không còn đáng tin"
           },
           "is_correct": true,
           "order": 3,
-          "text": "because image generators have improved so much that staring at a picture is not reliable",
+          "text": "because image generators have improved so much that staring at a picture is unreliable",
           "text_translation": "vì công cụ tạo ảnh tiến bộ tới mức nhìn chằm chằm vào ảnh không còn đáng tin"
         }
       ],
@@ -805,13 +805,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They read every page from top to bottom.",
-            "vi": "Họ đọc mỗi trang từ trên xuống dưới."
+            "en": "They read every page carefully from top to bottom before deciding.",
+            "vi": "Họ đọc kỹ mỗi trang từ trên xuống dưới rồi mới quyết định."
           },
           "is_correct": false,
           "order": 0,
-          "text": "They read every page from top to bottom.",
-          "text_translation": "Họ đọc mỗi trang từ trên xuống dưới."
+          "text": "They read every page carefully from top to bottom before deciding.",
+          "text_translation": "Họ đọc kỹ mỗi trang từ trên xuống dưới rồi mới quyết định."
         },
         {
           "id": "B",
@@ -827,24 +827,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "They looked carefully at the logos.",
-            "vi": "Họ nhìn kỹ các logo."
+            "en": "They looked carefully at the logos to decide which sites were official.",
+            "vi": "Họ nhìn kỹ các logo để quyết định trang nào là chính thức."
           },
           "is_correct": false,
           "order": 2,
-          "text": "They looked carefully at the logos.",
-          "text_translation": "Họ nhìn kỹ các logo."
+          "text": "They looked carefully at the logos to decide which sites were official.",
+          "text_translation": "Họ nhìn kỹ các logo để quyết định trang nào là chính thức."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "They asked historians for help.",
-            "vi": "Họ nhờ các nhà sử học giúp."
+            "en": "They asked a group of historians to help them judge each website.",
+            "vi": "Họ nhờ một nhóm nhà sử học giúp đánh giá từng trang web."
           },
           "is_correct": false,
           "order": 3,
-          "text": "They asked historians for help.",
-          "text_translation": "Họ nhờ các nhà sử học giúp."
+          "text": "They asked a group of historians to help them judge each website.",
+          "text_translation": "Họ nhờ một nhóm nhà sử học giúp đánh giá từng trang web."
         }
       ],
       "evidence_segments": [
@@ -884,35 +884,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "They were faster than the fact-checkers.",
-            "vi": "Họ nhanh hơn người kiểm chứng tin."
+            "en": "They were faster than the fact-checkers at reaching a conclusion.",
+            "vi": "Họ đưa ra kết luận nhanh hơn người kiểm chứng tin."
           },
           "is_correct": false,
           "order": 1,
-          "text": "They were faster than the fact-checkers.",
-          "text_translation": "Họ nhanh hơn người kiểm chứng tin."
+          "text": "They were faster than the fact-checkers at reaching a conclusion.",
+          "text_translation": "Họ đưa ra kết luận nhanh hơn người kiểm chứng tin."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "They refused to take part.",
-            "vi": "Họ từ chối tham gia."
+            "en": "They refused to take part once they saw the websites.",
+            "vi": "Họ từ chối tham gia khi thấy các trang web."
           },
           "is_correct": false,
           "order": 2,
-          "text": "They refused to take part.",
-          "text_translation": "Họ từ chối tham gia."
+          "text": "They refused to take part once they saw the websites.",
+          "text_translation": "Họ từ chối tham gia khi thấy các trang web."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "They knew nothing about history.",
-            "vi": "Họ không biết gì về lịch sử."
+            "en": "They knew almost nothing about history or about how websites work.",
+            "vi": "Họ hầu như không biết gì về lịch sử hay cách các trang web hoạt động."
           },
           "is_correct": false,
           "order": 3,
-          "text": "They knew nothing about history.",
-          "text_translation": "Họ không biết gì về lịch sử."
+          "text": "They knew almost nothing about history or about how websites work.",
+          "text_translation": "Họ hầu như không biết gì về lịch sử hay cách các trang web hoạt động."
         }
       ],
       "evidence_segments": [
@@ -942,24 +942,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The account belonged to a news site.",
-            "vi": "Tài khoản thuộc về một trang tin."
+            "en": "The account belonged to a well-known local news site.",
+            "vi": "Tài khoản thuộc về một trang tin địa phương có tiếng."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The account belonged to a news site.",
-          "text_translation": "Tài khoản thuộc về một trang tin."
+          "text": "The account belonged to a well-known local news site.",
+          "text_translation": "Tài khoản thuộc về một trang tin địa phương có tiếng."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The account was very popular.",
-            "vi": "Tài khoản rất nổi tiếng."
+            "en": "The account was very popular because it posted so many photos.",
+            "vi": "Tài khoản rất nổi tiếng vì đăng rất nhiều ảnh."
           },
           "is_correct": false,
           "order": 1,
-          "text": "The account was very popular.",
-          "text_translation": "Tài khoản rất nổi tiếng."
+          "text": "The account was very popular because it posted so many photos.",
+          "text_translation": "Tài khoản rất nổi tiếng vì đăng rất nhiều ảnh."
         },
         {
           "id": "C",
@@ -975,13 +975,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "The account had good photos.",
-            "vi": "Tài khoản có ảnh đẹp."
+            "en": "The account had good photos taken by a professional.",
+            "vi": "Tài khoản có những bức ảnh đẹp do người chuyên nghiệp chụp."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The account had good photos.",
-          "text_translation": "Tài khoản có ảnh đẹp."
+          "text": "The account had good photos taken by a professional.",
+          "text_translation": "Tài khoản có những bức ảnh đẹp do người chuyên nghiệp chụp."
         }
       ],
       "evidence_segments": [
@@ -1010,46 +1010,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The photo had been shared fourteen times.",
-            "vi": "Bức ảnh đã được chia sẻ mười bốn lần."
+            "en": "The photo had been shared fourteen times in less than an hour.",
+            "vi": "Bức ảnh đã được chia sẻ mười bốn lần trong chưa đầy một giờ."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The photo had been shared fourteen times.",
-          "text_translation": "Bức ảnh đã được chia sẻ mười bốn lần."
+          "text": "The photo had been shared fourteen times in less than an hour.",
+          "text_translation": "Bức ảnh đã được chia sẻ mười bốn lần trong chưa đầy một giờ."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Harriet added crying faces.",
-            "vi": "Bà Harriet thêm biểu tượng mặt khóc."
+            "en": "Harriet added crying faces and asked whether the photo was true.",
+            "vi": "Bà Harriet thêm biểu tượng mặt khóc và hỏi bức ảnh có thật không."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Harriet added crying faces.",
-          "text_translation": "Bà Harriet thêm biểu tượng mặt khóc."
+          "text": "Harriet added crying faces and asked whether the photo was true.",
+          "text_translation": "Bà Harriet thêm biểu tượng mặt khóc và hỏi bức ảnh có thật không."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "No local news reported a flood, and the library posted a photo of itself open and dry.",
-            "vi": "Không trang tin địa phương nào đưa tin lũ, và thư viện đăng ảnh mình mở cửa, khô ráo."
+            "en": "No local news site reported a flood, and the library's page showed it open and dry.",
+            "vi": "Không trang tin địa phương nào đưa tin lũ, và trang của thư viện cho thấy nó mở cửa, khô ráo."
           },
           "is_correct": true,
           "order": 2,
-          "text": "No local news reported a flood, and the library posted a photo of itself open and dry.",
-          "text_translation": "Không trang tin địa phương nào đưa tin lũ, và thư viện đăng ảnh mình mở cửa, khô ráo."
+          "text": "No local news site reported a flood, and the library's page showed it open and dry.",
+          "text_translation": "Không trang tin địa phương nào đưa tin lũ, và trang của thư viện cho thấy nó mở cửa, khô ráo."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The storm happened in January.",
-            "vi": "Cơn bão xảy ra vào tháng Một."
+            "en": "The storm happened in January, and the photo showed a meter of water.",
+            "vi": "Cơn bão xảy ra vào tháng Một và bức ảnh cho thấy nước sâu một mét."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The storm happened in January.",
-          "text_translation": "Cơn bão xảy ra vào tháng Một."
+          "text": "The storm happened in January, and the photo showed a meter of water.",
+          "text_translation": "Cơn bão xảy ra vào tháng Một và bức ảnh cho thấy nước sâu một mét."
         }
       ],
       "evidence_segments": [
@@ -1078,46 +1078,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because he also shared the photo",
-            "vi": "vì anh cũng chia sẻ bức ảnh"
+            "en": "because he also shared the photo at first and now feels embarrassed about doing so",
+            "vi": "vì lúc đầu anh cũng chia sẻ bức ảnh và giờ thấy xấu hổ về việc đó"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because he also shared the photo",
-          "text_translation": "vì anh cũng chia sẻ bức ảnh"
+          "text": "because he also shared the photo at first and now feels embarrassed about doing so",
+          "text_translation": "vì lúc đầu anh cũng chia sẻ bức ảnh và giờ thấy xấu hổ về việc đó"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because he wants to be kind to readers like his mother and explain why fakes work on caring people",
-            "vi": "vì anh muốn tử tế với những người đọc như mẹ anh và giải thích vì sao ảnh giả đánh trúng những người biết quan tâm"
+            "en": "because he wants to be kind and explain why fakes work on people who care",
+            "vi": "vì anh muốn tử tế và giải thích vì sao ảnh giả đánh trúng những người biết quan tâm"
           },
           "is_correct": true,
           "order": 1,
-          "text": "because he wants to be kind to readers like his mother and explain why fakes work on caring people",
-          "text_translation": "vì anh muốn tử tế với những người đọc như mẹ anh và giải thích vì sao ảnh giả đánh trúng những người biết quan tâm"
+          "text": "because he wants to be kind and explain why fakes work on people who care",
+          "text_translation": "vì anh muốn tử tế và giải thích vì sao ảnh giả đánh trúng những người biết quan tâm"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because he is afraid of his mother",
-            "vi": "vì anh sợ mẹ"
+            "en": "because he is afraid his mother will be angry with him for writing about it",
+            "vi": "vì anh sợ mẹ sẽ giận anh vì viết về chuyện này"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because he is afraid of his mother",
-          "text_translation": "vì anh sợ mẹ"
+          "text": "because he is afraid his mother will be angry with him for writing about it",
+          "text_translation": "vì anh sợ mẹ sẽ giận anh vì viết về chuyện này"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because the library asked him to be polite",
-            "vi": "vì thư viện nhờ anh lịch sự"
+            "en": "because the library asked him to be polite to people who shared the photo",
+            "vi": "vì thư viện nhờ anh lịch sự với những người đã chia sẻ bức ảnh"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because the library asked him to be polite",
-          "text_translation": "vì thư viện nhờ anh lịch sự"
+          "text": "because the library asked him to be polite to people who shared the photo",
+          "text_translation": "vì thư viện nhờ anh lịch sự với những người đã chia sẻ bức ảnh"
         }
       ],
       "evidence_segments": [
@@ -1157,35 +1157,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "We should trust nothing at all.",
-            "vi": "Ta không nên tin gì cả."
+            "en": "We should trust nothing at all, because anything online could be a fake.",
+            "vi": "Ta không nên tin gì cả, vì mọi thứ trên mạng đều có thể là giả."
           },
           "is_correct": false,
           "order": 1,
-          "text": "We should trust nothing at all.",
-          "text_translation": "Ta không nên tin gì cả."
+          "text": "We should trust nothing at all, because anything online could be a fake.",
+          "text_translation": "Ta không nên tin gì cả, vì mọi thứ trên mạng đều có thể là giả."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "We should trust photos but not words.",
-            "vi": "Ta nên tin ảnh nhưng không tin chữ."
+            "en": "We should trust photos more than words, since photos are harder to fake.",
+            "vi": "Ta nên tin ảnh hơn chữ, vì ảnh khó làm giả hơn."
           },
           "is_correct": false,
           "order": 2,
-          "text": "We should trust photos but not words.",
-          "text_translation": "Ta nên tin ảnh nhưng không tin chữ."
+          "text": "We should trust photos more than words, since photos are harder to fake.",
+          "text_translation": "Ta nên tin ảnh hơn chữ, vì ảnh khó làm giả hơn."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "We should stop using group chats.",
-            "vi": "Ta nên bỏ nhóm chat."
+            "en": "We should stop using group chats, since fakes spread there so quickly.",
+            "vi": "Ta nên bỏ nhóm chat, vì ảnh giả lan ở đó rất nhanh."
           },
           "is_correct": false,
           "order": 3,
-          "text": "We should stop using group chats.",
-          "text_translation": "Ta nên bỏ nhóm chat."
+          "text": "We should stop using group chats, since fakes spread there so quickly.",
+          "text_translation": "Ta nên bỏ nhóm chat, vì ảnh giả lan ở đó rất nhanh."
         }
       ],
       "evidence_segments": [
@@ -1214,46 +1214,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "a list of rules with no examples",
-            "vi": "một danh sách quy tắc không có ví dụ"
+            "en": "a list of rules with no examples, followed by a short story",
+            "vi": "một danh sách quy tắc không có ví dụ, rồi đến một câu chuyện ngắn"
           },
           "is_correct": false,
           "order": 0,
-          "text": "a list of rules with no examples",
-          "text_translation": "một danh sách quy tắc không có ví dụ"
+          "text": "a list of rules with no examples, followed by a short story",
+          "text_translation": "một danh sách quy tắc không có ví dụ, rồi đến một câu chuyện ngắn"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "a story about the library's history",
-            "vi": "một câu chuyện về lịch sử thư viện"
+            "en": "a story about the library's history, followed by advice for its readers",
+            "vi": "một câu chuyện về lịch sử thư viện, rồi lời khuyên cho độc giả"
           },
           "is_correct": false,
           "order": 1,
-          "text": "a story about the library's history",
-          "text_translation": "một câu chuyện về lịch sử thư viện"
+          "text": "a story about the library's history, followed by advice for its readers",
+          "text_translation": "một câu chuyện về lịch sử thư viện, rồi lời khuyên cho độc giả"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "a comparison of two image generators",
-            "vi": "so sánh hai công cụ tạo ảnh"
+            "en": "a comparison of two image generators, followed by a warning about each",
+            "vi": "so sánh hai công cụ tạo ảnh, rồi cảnh báo về từng công cụ"
           },
           "is_correct": false,
           "order": 2,
-          "text": "a comparison of two image generators",
-          "text_translation": "so sánh hai công cụ tạo ảnh"
+          "text": "a comparison of two image generators, followed by a warning about each",
+          "text_translation": "so sánh hai công cụ tạo ảnh, rồi cảnh báo về từng công cụ"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "a real example, a research-based method, the method applied to the example, and the writer's conclusion",
-            "vi": "một ví dụ thật, một phương pháp dựa trên nghiên cứu, áp dụng phương pháp vào ví dụ, rồi kết luận của người viết"
+            "en": "a real example, a research-based method, its use on the example, and a conclusion",
+            "vi": "một ví dụ thật, một phương pháp dựa trên nghiên cứu, việc áp dụng vào ví dụ, và một kết luận"
           },
           "is_correct": true,
           "order": 3,
-          "text": "a real example, a research-based method, the method applied to the example, and the writer's conclusion",
-          "text_translation": "một ví dụ thật, một phương pháp dựa trên nghiên cứu, áp dụng phương pháp vào ví dụ, rồi kết luận của người viết"
+          "text": "a real example, a research-based method, its use on the example, and a conclusion",
+          "text_translation": "một ví dụ thật, một phương pháp dựa trên nghiên cứu, việc áp dụng vào ví dụ, và một kết luận"
         }
       ],
       "evidence_segments": [
@@ -1285,13 +1285,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "He forgot the ring at home.",
-            "vi": "Anh quên nhẫn ở nhà."
+            "en": "He forgot the ring at home and had to go back to get it.",
+            "vi": "Anh quên nhẫn ở nhà và phải quay về lấy."
           },
           "is_correct": false,
           "order": 0,
-          "text": "He forgot the ring at home.",
-          "text_translation": "Anh quên nhẫn ở nhà."
+          "text": "He forgot the ring at home and had to go back to get it.",
+          "text_translation": "Anh quên nhẫn ở nhà và phải quay về lấy."
         },
         {
           "id": "B",
@@ -1307,24 +1307,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Leah said no at first.",
-            "vi": "Lúc đầu Leah từ chối."
+            "en": "Leah said no at first, then changed her mind the next morning.",
+            "vi": "Lúc đầu Leah từ chối, rồi đổi ý vào sáng hôm sau."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Leah said no at first.",
-          "text_translation": "Lúc đầu Leah từ chối."
+          "text": "Leah said no at first, then changed her mind the next morning.",
+          "text_translation": "Lúc đầu Leah từ chối, rồi đổi ý vào sáng hôm sau."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "It rained on the beach.",
-            "vi": "Trời mưa trên bãi biển."
+            "en": "It rained on the beach, so they went back to the house.",
+            "vi": "Trời mưa trên bãi biển nên họ quay về nhà."
           },
           "is_correct": false,
           "order": 3,
-          "text": "It rained on the beach.",
-          "text_translation": "Trời mưa trên bãi biển."
+          "text": "It rained on the beach, so they went back to the house.",
+          "text_translation": "Trời mưa trên bãi biển nên họ quay về nhà."
         }
       ],
       "evidence_segments": [
@@ -1353,35 +1353,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because Leah's lease ends next week",
-            "vi": "vì hợp đồng thuê của Leah hết tuần tới"
+            "en": "because Leah's lease ends next week and the landlord wants the room",
+            "vi": "vì hợp đồng thuê của Leah hết tuần tới và chủ nhà cần lấy lại phòng"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because Leah's lease ends next week",
-          "text_translation": "vì hợp đồng thuê của Leah hết tuần tới"
+          "text": "because Leah's lease ends next week and the landlord wants the room",
+          "text_translation": "vì hợp đồng thuê của Leah hết tuần tới và chủ nhà cần lấy lại phòng"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because Tracy is moving into Leah's room",
-            "vi": "vì Tracy sắp chuyển vào phòng Leah"
+            "en": "because Tracy is moving into Leah's room after the wedding",
+            "vi": "vì Tracy sẽ chuyển vào phòng Leah sau đám cưới"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because Tracy is moving into Leah's room",
-          "text_translation": "vì Tracy sắp chuyển vào phòng Leah"
+          "text": "because Tracy is moving into Leah's room after the wedding",
+          "text_translation": "vì Tracy sẽ chuyển vào phòng Leah sau đám cưới"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because the hospital is moving",
-            "vi": "vì bệnh viện sắp chuyển đi"
+            "en": "because the hospital is moving to another city next spring",
+            "vi": "vì bệnh viện sẽ chuyển sang thành phố khác vào mùa xuân tới"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because the hospital is moving",
-          "text_translation": "vì bệnh viện sắp chuyển đi"
+          "text": "because the hospital is moving to another city next spring",
+          "text_translation": "vì bệnh viện sẽ chuyển sang thành phố khác vào mùa xuân tới"
         },
         {
           "id": "D",
@@ -1421,46 +1421,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It would use almost all their savings and leave them no money for emergencies.",
-            "vi": "Nó ngốn gần hết tiền tiết kiệm và không để lại tiền dự phòng."
+            "en": "It would take almost all their savings and leave no buffer.",
+            "vi": "Nó ngốn gần hết tiền tiết kiệm và không còn khoản dự phòng."
           },
           "is_correct": true,
           "order": 0,
-          "text": "It would use almost all their savings and leave them no money for emergencies.",
-          "text_translation": "Nó ngốn gần hết tiền tiết kiệm và không để lại tiền dự phòng."
+          "text": "It would take almost all their savings and leave no buffer.",
+          "text_translation": "Nó ngốn gần hết tiền tiết kiệm và không còn khoản dự phòng."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "It is far from the hospital.",
-            "vi": "Nó xa bệnh viện."
+            "en": "It is far from the hospital, which would make the commute long.",
+            "vi": "Nó xa bệnh viện nên đường đi làm sẽ dài."
           },
           "is_correct": false,
           "order": 1,
-          "text": "It is far from the hospital.",
-          "text_translation": "Nó xa bệnh viện."
+          "text": "It is far from the hospital, which would make the commute long.",
+          "text_translation": "Nó xa bệnh viện nên đường đi làm sẽ dài."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "It has no view.",
-            "vi": "Nó không có cảnh đẹp."
+            "en": "It has no view, and the building has no gym or garden.",
+            "vi": "Nó không có cảnh đẹp, và tòa nhà không có phòng tập hay vườn."
           },
           "is_correct": false,
           "order": 2,
-          "text": "It has no view.",
-          "text_translation": "Nó không có cảnh đẹp."
+          "text": "It has no view, and the building has no gym or garden.",
+          "text_translation": "Nó không có cảnh đẹp, và tòa nhà không có phòng tập hay vườn."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Its layout is badly designed.",
-            "vi": "Bố trí căn hộ tệ."
+            "en": "Its layout is badly designed and the rooms are too small.",
+            "vi": "Bố trí căn hộ tệ và các phòng quá nhỏ."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Its layout is badly designed.",
-          "text_translation": "Bố trí căn hộ tệ."
+          "text": "Its layout is badly designed and the rooms are too small.",
+          "text_translation": "Bố trí căn hộ tệ và các phòng quá nhỏ."
         }
       ],
       "evidence_segments": [
@@ -1489,24 +1489,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "admiring",
-            "vi": "ngưỡng mộ"
+            "en": "full of admiration and trust",
+            "vi": "đầy ngưỡng mộ và tin tưởng"
           },
           "is_correct": false,
           "order": 0,
-          "text": "admiring",
-          "text_translation": "ngưỡng mộ"
+          "text": "full of admiration and trust",
+          "text_translation": "đầy ngưỡng mộ và tin tưởng"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "angry",
-            "vi": "giận dữ"
+            "en": "angry and impatient",
+            "vi": "giận dữ và mất kiên nhẫn"
           },
           "is_correct": false,
           "order": 1,
-          "text": "angry",
-          "text_translation": "giận dữ"
+          "text": "angry and impatient",
+          "text_translation": "giận dữ và mất kiên nhẫn"
         },
         {
           "id": "C",
@@ -1522,13 +1522,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "worried and sad",
-            "vi": "lo lắng và buồn"
+            "en": "deeply worried and sad",
+            "vi": "lo lắng và buồn sâu sắc"
           },
           "is_correct": false,
           "order": 3,
-          "text": "worried and sad",
-          "text_translation": "lo lắng và buồn"
+          "text": "deeply worried and sad",
+          "text_translation": "lo lắng và buồn sâu sắc"
         }
       ],
       "evidence_segments": [
@@ -1558,13 +1558,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The roads in the suburbs are badly built.",
-            "vi": "Đường ở ngoại ô xây kém."
+            "en": "The roads in the suburbs are badly built and are dangerous in bad weather.",
+            "vi": "Đường ở ngoại ô xây kém và nguy hiểm khi thời tiết xấu."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The roads in the suburbs are badly built.",
-          "text_translation": "Đường ở ngoại ô xây kém."
+          "text": "The roads in the suburbs are badly built and are dangerous in bad weather.",
+          "text_translation": "Đường ở ngoại ô xây kém và nguy hiểm khi thời tiết xấu."
         },
         {
           "id": "B",
@@ -1580,24 +1580,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Ethan drives too fast.",
-            "vi": "Ethan lái quá nhanh."
+            "en": "Ethan drives too fast when he is tired after work.",
+            "vi": "Ethan lái quá nhanh khi mệt sau giờ làm."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Ethan drives too fast.",
-          "text_translation": "Ethan lái quá nhanh."
+          "text": "Ethan drives too fast when he is tired after work.",
+          "text_translation": "Ethan lái quá nhanh khi mệt sau giờ làm."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Traffic makes her angry.",
-            "vi": "Kẹt xe làm cô bực."
+            "en": "Traffic makes her so angry that she cannot concentrate.",
+            "vi": "Kẹt xe làm cô bực đến mức không tập trung được."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Traffic makes her angry.",
-          "text_translation": "Kẹt xe làm cô bực."
+          "text": "Traffic makes her so angry that she cannot concentrate.",
+          "text_translation": "Kẹt xe làm cô bực đến mức không tập trung được."
         }
       ],
       "evidence_segments": [
@@ -1626,35 +1626,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because it was expensive",
-            "vi": "vì nó đắt"
+            "en": "because it was expensive and would use most of their savings",
+            "vi": "vì nó đắt và sẽ ngốn phần lớn tiền tiết kiệm của họ"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because it was expensive",
-          "text_translation": "vì nó đắt"
+          "text": "because it was expensive and would use most of their savings",
+          "text_translation": "vì nó đắt và sẽ ngốn phần lớn tiền tiết kiệm của họ"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because Ethan suggested it",
-            "vi": "vì Ethan đề xuất"
+            "en": "because Ethan suggested it before she did",
+            "vi": "vì Ethan đề xuất nó trước cô"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because Ethan suggested it",
-          "text_translation": "vì Ethan đề xuất"
+          "text": "because Ethan suggested it before she did",
+          "text_translation": "vì Ethan đề xuất nó trước cô"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because it was in Washington",
-            "vi": "vì nó ở Washington"
+            "en": "because it was in Washington, far from the hospital",
+            "vi": "vì nó ở Washington, xa bệnh viện"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because it was in Washington",
-          "text_translation": "vì nó ở Washington"
+          "text": "because it was in Washington, far from the hospital",
+          "text_translation": "vì nó ở Washington, xa bệnh viện"
         },
         {
           "id": "D",
@@ -1694,46 +1694,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She wants more independence as a married couple, although she appreciates the offer.",
+            "en": "She wants more independence as a married couple, though she values the offer.",
             "vi": "Cô muốn tự lập hơn khi đã là vợ chồng, dù cô trân trọng lời đề nghị."
           },
           "is_correct": true,
           "order": 0,
-          "text": "She wants more independence as a married couple, although she appreciates the offer.",
+          "text": "She wants more independence as a married couple, though she values the offer.",
           "text_translation": "Cô muốn tự lập hơn khi đã là vợ chồng, dù cô trân trọng lời đề nghị."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She dislikes Megan's cooking.",
-            "vi": "Cô không thích món Megan nấu."
+            "en": "She dislikes Megan's cooking and would rather not eat with her family.",
+            "vi": "Cô không thích món Megan nấu và không muốn ăn cùng gia đình bà."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She dislikes Megan's cooking.",
-          "text_translation": "Cô không thích món Megan nấu."
+          "text": "She dislikes Megan's cooking and would rather not eat with her family.",
+          "text_translation": "Cô không thích món Megan nấu và không muốn ăn cùng gia đình bà."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "She needs a new frying pan.",
-            "vi": "Cô cần một cái chảo mới."
+            "en": "She needs a new frying pan and wants Tracy's family to give her one.",
+            "vi": "Cô cần một cái chảo mới và muốn nhà Tracy tặng cho cô một cái."
           },
           "is_correct": false,
           "order": 2,
-          "text": "She needs a new frying pan.",
-          "text_translation": "Cô cần một cái chảo mới."
+          "text": "She needs a new frying pan and wants Tracy's family to give her one.",
+          "text_translation": "Cô cần một cái chảo mới và muốn nhà Tracy tặng cho cô một cái."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "She wants to move to Washington.",
-            "vi": "Cô muốn chuyển tới Washington."
+            "en": "She wants to move to Washington to live near Tracy.",
+            "vi": "Cô muốn chuyển tới Washington để sống gần Tracy."
           },
           "is_correct": false,
           "order": 3,
-          "text": "She wants to move to Washington.",
-          "text_translation": "Cô muốn chuyển tới Washington."
+          "text": "She wants to move to Washington to live near Tracy.",
+          "text_translation": "Cô muốn chuyển tới Washington để sống gần Tracy."
         }
       ],
       "evidence_segments": [
@@ -1762,24 +1762,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to buy the downtown apartment",
-            "vi": "mua căn hộ ở trung tâm"
+            "en": "to buy the downtown apartment with the help of Ethan's family",
+            "vi": "mua căn hộ ở trung tâm với sự giúp đỡ của gia đình Ethan"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to buy the downtown apartment",
-          "text_translation": "mua căn hộ ở trung tâm"
+          "text": "to buy the downtown apartment with the help of Ethan's family",
+          "text_translation": "mua căn hộ ở trung tâm với sự giúp đỡ của gia đình Ethan"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to buy the house in the suburbs",
-            "vi": "mua ngôi nhà ở ngoại ô"
+            "en": "to buy the house in the suburbs and fix the plumbing themselves",
+            "vi": "mua ngôi nhà ở ngoại ô và tự sửa ống nước"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to buy the house in the suburbs",
-          "text_translation": "mua ngôi nhà ở ngoại ô"
+          "text": "to buy the house in the suburbs and fix the plumbing themselves",
+          "text_translation": "mua ngôi nhà ở ngoại ô và tự sửa ống nước"
         },
         {
           "id": "C",
@@ -1795,13 +1795,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "to live in the Carters' garage",
-            "vi": "sống trong nhà xe của nhà Carter"
+            "en": "to live in the Carters' garage cottage while they save",
+            "vi": "sống trong căn nhà nhỏ cải tạo từ nhà xe của nhà Carter trong lúc tiết kiệm"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to live in the Carters' garage",
-          "text_translation": "sống trong nhà xe của nhà Carter"
+          "text": "to live in the Carters' garage cottage while they save",
+          "text_translation": "sống trong căn nhà nhỏ cải tạo từ nhà xe của nhà Carter trong lúc tiết kiệm"
         }
       ],
       "evidence_segments": [
@@ -1830,35 +1830,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Ethan has bought a house.",
-            "vi": "Ethan đã mua một ngôi nhà."
+            "en": "Ethan has bought a house and plans to surprise Leah soon.",
+            "vi": "Ethan đã mua một ngôi nhà và định làm Leah bất ngờ sớm."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Ethan has bought a house.",
-          "text_translation": "Ethan đã mua một ngôi nhà."
+          "text": "Ethan has bought a house and plans to surprise Leah soon.",
+          "text_translation": "Ethan đã mua một ngôi nhà và định làm Leah bất ngờ sớm."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "They have given up on owning a home forever.",
-            "vi": "Họ đã từ bỏ hẳn việc có nhà."
+            "en": "They have given up on owning a home and will rent forever.",
+            "vi": "Họ đã từ bỏ việc có nhà và sẽ thuê nhà mãi mãi."
           },
           "is_correct": false,
           "order": 1,
-          "text": "They have given up on owning a home forever.",
-          "text_translation": "Họ đã từ bỏ hẳn việc có nhà."
+          "text": "They have given up on owning a home and will rent forever.",
+          "text_translation": "Họ đã từ bỏ việc có nhà và sẽ thuê nhà mãi mãi."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Leah has stopped using the spreadsheet.",
-            "vi": "Leah đã thôi dùng bảng tính."
+            "en": "Leah has stopped using the spreadsheet because they argue over it.",
+            "vi": "Leah đã thôi dùng bảng tính vì họ cãi nhau về nó."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Leah has stopped using the spreadsheet.",
-          "text_translation": "Leah đã thôi dùng bảng tính."
+          "text": "Leah has stopped using the spreadsheet because they argue over it.",
+          "text_translation": "Leah đã thôi dùng bảng tính vì họ cãi nhau về nó."
         },
         {
           "id": "D",
@@ -1898,13 +1898,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They follow their first feelings.",
-            "vi": "Họ làm theo cảm xúc đầu tiên."
+            "en": "They follow their first feelings and decide as quickly as they can.",
+            "vi": "Họ làm theo cảm xúc đầu tiên và quyết định nhanh nhất có thể."
           },
           "is_correct": false,
           "order": 0,
-          "text": "They follow their first feelings.",
-          "text_translation": "Họ làm theo cảm xúc đầu tiên."
+          "text": "They follow their first feelings and decide as quickly as they can.",
+          "text_translation": "Họ làm theo cảm xúc đầu tiên và quyết định nhanh nhất có thể."
         },
         {
           "id": "B",
@@ -1920,24 +1920,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "They ask their mothers.",
-            "vi": "Họ hỏi mẹ."
+            "en": "They ask their mothers what they should do and then follow the advice.",
+            "vi": "Họ hỏi mẹ nên làm gì rồi làm theo lời khuyên."
           },
           "is_correct": false,
           "order": 2,
-          "text": "They ask their mothers.",
-          "text_translation": "Họ hỏi mẹ."
+          "text": "They ask their mothers what they should do and then follow the advice.",
+          "text_translation": "Họ hỏi mẹ nên làm gì rồi làm theo lời khuyên."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "They avoid making any decision.",
-            "vi": "Họ tránh đưa ra quyết định."
+            "en": "They avoid making any decision until someone else decides for them.",
+            "vi": "Họ tránh đưa ra quyết định cho đến khi người khác quyết định giúp."
           },
           "is_correct": false,
           "order": 3,
-          "text": "They avoid making any decision.",
-          "text_translation": "Họ tránh đưa ra quyết định."
+          "text": "They avoid making any decision until someone else decides for them.",
+          "text_translation": "Họ tránh đưa ra quyết định cho đến khi người khác quyết định giúp."
         }
       ],
       "evidence_segments": [

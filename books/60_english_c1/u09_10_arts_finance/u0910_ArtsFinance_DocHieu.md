@@ -90,82 +90,82 @@
 **1. What did the critic expect before visiting the exhibition?**
 *(Trước khi tới xem, nhà phê bình đã đoán điều gì?)*
 
-- A. a famous artist's latest work *(tác phẩm mới nhất của một hoạ sĩ nổi tiếng)*
-- B. an exhibition about engineering *(một triển lãm về kỹ thuật)*
+- A. a famous artist's latest work in a big city museum *(tác phẩm mới nhất của một hoạ sĩ nổi tiếng trong một bảo tàng lớn)*
+- B. an exhibition about engineering and bridge design *(một triển lãm về kỹ thuật và thiết kế cầu)*
 - C. a pleasant but slightly amateur show *(một triển lãm dễ chịu nhưng hơi nghiệp dư)*
-- D. a show that would be closed *(một triển lãm đã đóng cửa)*
+- D. a show that would be closed on the day he visited *(một triển lãm sẽ đóng cửa vào ngày ông đến)*
 
 **2. What does the word "uneven" suggest about the exhibition?**
 *(Từ "uneven" gợi ý gì về triển lãm?)*
 
 - A. Some works are much stronger than others. *(Có tác phẩm mạnh hơn hẳn những tác phẩm khác.)*
-- B. The paintings are hung at different heights. *(Tranh được treo ở độ cao khác nhau.)*
-- C. The gallery floor is not flat. *(Sàn phòng tranh không phẳng.)*
-- D. The show is too short. *(Triển lãm quá ngắn.)*
+- B. The paintings are hung at different heights around the gallery. *(Tranh được treo ở những độ cao khác nhau quanh phòng tranh.)*
+- C. The gallery floor is not flat, so visitors must walk carefully. *(Sàn phòng tranh không phẳng nên khách phải đi cẩn thận.)*
+- D. The show is too short for the number of works it contains. *(Triển lãm quá ngắn so với số tác phẩm trưng bày.)*
 
 **3. What do the small paintings mainly show?**
 *(Các bức tranh nhỏ chủ yếu vẽ gì?)*
 
-- A. famous bridges *(những cây cầu nổi tiếng)*
+- A. famous bridges seen from far away at sunset *(những cây cầu nổi tiếng nhìn từ xa lúc hoàng hôn)*
 - B. ordinary everyday moments and objects *(những khoảnh khắc và đồ vật bình thường hằng ngày)*
-- C. abstract shapes *(hình khối trừu tượng)*
-- D. portraits of famous people *(chân dung người nổi tiếng)*
+- C. abstract shapes in bright colors without any objects *(hình khối trừu tượng nhiều màu rực rỡ, không có đồ vật nào)*
+- D. portraits of famous people and their families *(chân dung người nổi tiếng và gia đình họ)*
 
 **4. What does the sentence beginning "So quiet are these pictures" suggest?**
 *(Câu bắt đầu bằng "So quiet are these pictures" gợi ý điều gì?)*
 
-- A. The paintings are too dark to see. *(Tranh quá tối để nhìn.)*
-- B. Visitors are asked to be quiet. *(Khách được yêu cầu giữ im lặng.)*
-- C. The paintings should be bigger. *(Tranh nên to hơn.)*
+- A. The paintings are too dark to see unless visitors use a light. *(Tranh quá tối, khách phải dùng đèn mới nhìn được.)*
+- B. Visitors are asked to be quiet in front of the paintings. *(Khách được yêu cầu giữ im lặng trước các bức tranh.)*
+- C. The paintings should be bigger so that visitors will not miss them. *(Tranh nên to hơn để khách khỏi bỏ sót.)*
 - D. The paintings are modest and easy to miss, but they repay careful attention. *(Tranh khiêm tốn, dễ bị bỏ qua, nhưng đáng được nhìn kỹ.)*
 
 **5. How did the critic's opinion of the poems change?**
 *(Ý kiến của nhà phê bình về các bài thơ thay đổi thế nào?)*
 
-- A. He liked them at first, then found them boring. *(Ban đầu thích, sau thấy chán.)*
-- B. He did not read them. *(Ông không đọc chúng.)*
+- A. He liked them at first, but later found them boring and too long. *(Ban đầu ông thích, nhưng sau thấy chúng chán và quá dài.)*
+- B. He did not read them because he expected to dislike them. *(Ông không đọc vì nghĩ mình sẽ không thích.)*
 - C. He was ready to dislike them, but found them witty and original. *(Ông đã sẵn sàng để không thích, nhưng lại thấy chúng hóm hỉnh và độc đáo.)*
-- D. He thought they should be removed. *(Ông nghĩ nên gỡ chúng xuống.)*
+- D. He thought they should be removed because they distracted from the paintings. *(Ông nghĩ nên gỡ chúng xuống vì làm xao nhãng khỏi tranh.)*
 
 **6. Why does the critic quote the poem about the cold coffee?**
 *(Vì sao nhà phê bình trích bài thơ về cốc cà phê nguội?)*
 
 - A. to give an example of the gentle humor he describes *(để đưa ví dụ cho nét hài hước nhẹ nhàng ông vừa nói)*
-- B. to show that the poems are too long *(để cho thấy thơ quá dài)*
-- C. to criticize the artist's coffee *(để chê cà phê của hoạ sĩ)*
-- D. to explain how to make coffee *(để giải thích cách pha cà phê)*
+- B. to show that the poems are too long for such small pictures *(để cho thấy thơ quá dài so với những bức tranh nhỏ như vậy)*
+- C. to criticize the artist's coffee and the way it was painted *(để chê cà phê của hoạ sĩ và cách nó được vẽ)*
+- D. to explain how the artist prepares coffee while she paints *(để giải thích cách hoạ sĩ pha cà phê khi đang vẽ)*
 
 **7. What is the critic's main criticism of the large bridge paintings?**
 *(Lời chê chính của nhà phê bình với các bức tranh cầu khổ lớn là gì?)*
 
-- A. They are technically poor. *(Chúng kém về kỹ thuật.)*
-- B. They are too small. *(Chúng quá nhỏ.)*
-- C. They show the wrong bridges. *(Chúng vẽ sai cầu.)*
-- D. They are accurate but feel like technical drawings for a client, not art for a viewer. *(Chúng chính xác nhưng giống bản vẽ kỹ thuật cho khách hơn là tranh cho người xem.)*
+- A. They are technically poor, with many cables and beams drawn in the wrong place. *(Chúng kém về kỹ thuật, nhiều dây cáp và dầm bị vẽ sai chỗ.)*
+- B. They are too small to be seen from the other side of the room. *(Chúng quá nhỏ nên không nhìn thấy được từ phía bên kia phòng.)*
+- C. They show the wrong bridges and lack any sense of the place. *(Chúng vẽ sai cầu và thiếu cảm giác về nơi chốn.)*
+- D. They are accurate but feel like drawings for a client, not paintings for a viewer. *(Chúng chính xác nhưng giống bản vẽ cho khách hơn là tranh cho người xem.)*
 
 **8. What does the critic mean by "the engineer and the painter had not quite agreed who was in charge"?**
 *(Nhà phê bình muốn nói gì qua câu "người kỹ sư và người hoạ sĩ chưa thống nhất được ai là người cầm trịch"?)*
 
-- A. Two different people painted the pictures. *(Hai người khác nhau vẽ tranh.)*
-- B. In the large paintings, Helena's technical precision competes with her artistic feeling. *(Trong tranh lớn, sự chính xác kỹ thuật của Helena tranh chấp với cảm xúc nghệ thuật của chị.)*
-- C. Helena argued with the library. *(Helena cãi nhau với thư viện.)*
-- D. The bridge was built badly. *(Cây cầu xây kém.)*
+- A. Two different people painted the pictures and they could not agree on the style or the colors. *(Hai người khác nhau vẽ tranh và họ không thống nhất được về phong cách hay màu sắc.)*
+- B. In the large works, her technical precision competes with her artistic feeling. *(Trong các tác phẩm lớn, sự chính xác kỹ thuật của chị tranh chấp với cảm xúc nghệ thuật.)*
+- C. Helena argued with the library about who should choose the paintings. *(Helena cãi nhau với thư viện về việc ai chọn tranh.)*
+- D. The bridge was built badly because the engineer and the painter disagreed. *(Cây cầu xây kém vì người kỹ sư và người hoạ sĩ bất đồng.)*
 
 **9. Overall, what is the critic's verdict?**
 *(Nhìn chung, kết luận của nhà phê bình là gì?)*
 
 - A. The show is uneven but clearly worth visiting, mainly for the small works. *(Triển lãm không đều tay nhưng rõ ràng đáng xem, chủ yếu nhờ các tác phẩm nhỏ.)*
-- B. The show should be closed. *(Triển lãm nên đóng cửa.)*
-- C. Only the bridge paintings are worth seeing. *(Chỉ tranh cầu là đáng xem.)*
-- D. Helena should stop painting. *(Helena nên thôi vẽ.)*
+- B. The show should be closed because most of the works are weak. *(Triển lãm nên đóng cửa vì phần lớn tác phẩm yếu.)*
+- C. Only the bridge paintings are worth seeing, because they are the most skillful. *(Chỉ tranh cầu là đáng xem vì chúng điêu luyện nhất.)*
+- D. Helena should stop painting and return to her work as an engineer. *(Helena nên thôi vẽ và quay lại làm kỹ sư.)*
 
 **10. What is the function of the final question, "isn't that, in the end, what these paintings are asking of us?"**
 *(Câu hỏi cuối "chẳng phải đó chính là điều những bức tranh này đang đòi hỏi ở chúng ta sao?" có chức năng gì?)*
 
-- A. to ask readers to write to the newspaper *(để mời bạn đọc viết thư cho báo)*
-- B. to show that the critic is unsure *(để cho thấy nhà phê bình không chắc chắn)*
-- C. to link his advice to take your time with the paintings' message about noticing ordinary moments *(để nối lời khuyên "đừng vội" với thông điệp của tranh về việc để ý những khoảnh khắc bình thường)*
-- D. to criticize the library *(để chê thư viện)*
+- A. to ask readers to write to the newspaper with their opinions of the show *(để mời bạn đọc viết thư cho báo nêu ý kiến về triển lãm)*
+- B. to show that the critic is unsure whether the show is worth visiting *(để cho thấy nhà phê bình không chắc triển lãm có đáng xem không)*
+- C. to link his advice to take your time with the paintings' message about ordinary moments *(để nối lời khuyên đừng vội với thông điệp của tranh về những khoảnh khắc bình thường)*
+- D. to criticize the library for charging nothing for such a good show *(để chê thư viện vì không thu tiền một triển lãm hay như vậy)*
 
 ---
 
@@ -213,82 +213,82 @@
 **11. Why did Nathan write the memo?**
 *(Vì sao Nathan viết bản ghi nhớ?)*
 
-- A. to convince his mother to retire *(để thuyết phục mẹ nghỉ hưu)*
-- B. to ask for a loan *(để xin vay tiền)*
-- C. to complain about the rent *(để phàn nàn về tiền thuê)*
+- A. to convince his mother to retire and sell the café before the empty shop is rented to somebody else *(để thuyết phục mẹ nghỉ hưu và bán quán trước khi tiệm trống được thuê cho người khác)*
+- B. to ask his mother for a loan so that he could open his own shop *(để xin mẹ cho vay tiền để anh mở tiệm riêng)*
+- C. to complain about the rent that the owner of the bakery charges *(để phàn nàn về tiền thuê mà chủ tiệm bánh đòi)*
 - D. because Harriet asked him to set out the numbers before she decided about the empty shop *(vì bà Harriet nhờ anh trình bày các con số trước khi quyết định về tiệm bỏ trống)*
 
 **12. What does Nathan mean by "honest rather than encouraging"?**
 *(Nathan muốn nói gì qua cụm "trung thực chứ không cố động viên"?)*
 
-- A. He wants his mother to say no. *(Anh muốn mẹ từ chối.)*
+- A. He wants his mother to say no to every one of the options. *(Anh muốn mẹ từ chối mọi phương án.)*
 - B. He will show the risks clearly, even if they are discouraging. *(Anh sẽ nêu rõ rủi ro, kể cả khi chúng làm nản lòng.)*
-- C. He does not know the numbers. *(Anh không biết các con số.)*
-- D. He thinks every option is good. *(Anh nghĩ phương án nào cũng tốt.)*
+- C. He does not know the numbers and wants his mother to check them. *(Anh không biết các con số và muốn mẹ tự kiểm tra.)*
+- D. He thinks every option is good and wants his mother to be happy. *(Anh nghĩ phương án nào cũng tốt và muốn mẹ vui.)*
 
 **13. Why might Option A be risky?**
 *(Vì sao phương án A có thể rủi ro?)*
 
-- A. because more seats do not guarantee more customers, and a bigger café loses money faster in a downturn *(vì thêm chỗ ngồi không đảm bảo thêm khách, và quán lớn lỗ nhanh hơn khi kinh tế đi xuống)*
-- B. because the rent is free *(vì tiền thuê miễn phí)*
-- C. because the ovens are broken *(vì lò nướng hỏng)*
-- D. because Harriet cannot cook *(vì bà Harriet không biết nấu)*
+- A. because more seats do not guarantee more customers, and a bigger café loses more in a downturn *(vì thêm chỗ ngồi không đảm bảo thêm khách, và quán lớn lỗ nhiều hơn khi kinh tế đi xuống)*
+- B. because the rent is very high, and the owner may raise it again next year *(vì tiền thuê rất cao và chủ có thể tăng giá nữa vào năm sau)*
+- C. because the ovens are broken and would have to be replaced at a high cost *(vì lò nướng hỏng và phải thay với giá cao)*
+- D. because Harriet cannot cook, so the new staff would have to bake everything *(vì bà Harriet không biết nấu nên nhân viên mới phải nướng mọi thứ)*
 
 **14. Why does Nathan mention the bakery and the bookstore that closed?**
 *(Vì sao Nathan nhắc tới tiệm bánh và tiệm sách đã đóng cửa?)*
 
-- A. to suggest opening a bookstore *(để gợi ý mở tiệm sách)*
-- B. to show that the street is unpopular *(để cho thấy con phố ế ẩm)*
+- A. to suggest opening a bookstore in the empty shop instead of a café *(để gợi ý mở tiệm sách trong cửa hàng trống thay cho quán cà phê)*
+- B. to show that the street is unpopular and that nobody will come *(để cho thấy con phố ế ẩm và sẽ không ai đến)*
 - C. to give real local examples of the risk he has just described *(để đưa ví dụ thật ở địa phương cho rủi ro anh vừa nói)*
-- D. to blame their owners *(để trách chủ của họ)*
+- D. to blame their owners for not listening to their customers *(để trách chủ của họ không lắng nghe khách)*
 
 **15. Why would Option B cost much less to prepare?**
 *(Vì sao phương án B tốn ít tiền chuẩn bị hơn nhiều?)*
 
-- A. because Nathan would do the work himself *(vì Nathan tự làm)*
-- B. because the families would pay for it *(vì các gia đình trả tiền)*
-- C. because the city would help *(vì thành phố hỗ trợ)*
+- A. because Nathan would do all the work himself during the weekends *(vì Nathan sẽ tự làm mọi việc vào các cuối tuần)*
+- B. because the families who will rent the kitchen would pay for all the refurbishment *(vì các gia đình thuê bếp sẽ trả toàn bộ chi phí sửa sang)*
+- C. because the city would help the café with the cost of the work *(vì thành phố sẽ hỗ trợ quán chi phí sửa sang)*
 - D. because the bakery already has large ovens and a professional kitchen *(vì tiệm bánh đã có sẵn lò lớn và bếp chuyên nghiệp)*
 
 **16. How does Nathan compare the financial results of Options A and B?**
 *(Nathan so sánh kết quả tài chính của A và B thế nào?)*
 
-- A. B earns more and loses more. *(B lời nhiều hơn và lỗ nhiều hơn.)*
+- A. B earns more and also loses more than A, so it is riskier *(B lời nhiều hơn và cũng lỗ nhiều hơn A nên rủi ro hơn)*
 - B. B earns less at best but loses much less at worst. *(B lúc tốt nhất lời ít hơn nhưng lúc tệ nhất lỗ ít hơn nhiều.)*
-- C. A and B are exactly the same. *(A và B y hệt nhau.)*
-- D. A has no risk. *(A không có rủi ro.)*
+- C. A and B are exactly the same in what they earn and what they lose *(A và B y hệt nhau về khoản lời và khoản lỗ)*
+- D. A has no risk, because more seats always bring more customers *(A không có rủi ro vì thêm chỗ ngồi luôn mang thêm khách)*
 
 **17. Why does Nathan include Option C "seriously"?**
 *(Vì sao Nathan đưa phương án C vào "một cách nghiêm túc"?)*
 
-- A. because he thinks Harriet is too old to work *(vì anh nghĩ bà quá già để làm việc)*
-- B. because the café is losing money *(vì quán đang lỗ)*
-- C. because he wants his mother to know that choosing not to expand is a real, respectable choice *(vì anh muốn mẹ biết chọn không mở rộng cũng là lựa chọn thật, đáng trân trọng)*
-- D. because he wants to buy the shop himself *(vì anh muốn tự mua tiệm)*
+- A. because he thinks Harriet is too old to work and should rest *(vì anh nghĩ bà Harriet quá già để làm việc và nên nghỉ ngơi)*
+- B. because the café is losing money every month and will soon have to close down *(vì quán lỗ mỗi tháng và sắp phải đóng cửa)*
+- C. because he wants her to know that choosing not to expand is a respectable decision *(vì anh muốn mẹ biết chọn không mở rộng là một quyết định đáng trân trọng)*
+- D. because he wants to buy the shop himself and keep it empty *(vì anh muốn tự mua tiệm và để trống)*
 
 **18. According to Nathan, what is the real question?**
 *(Theo Nathan, câu hỏi thật sự là gì?)*
 
 - A. what kind of place Harriet wants the café to be in five years *(bà Harriet muốn quán là nơi như thế nào trong năm năm tới)*
-- B. how to make the most money *(làm sao kiếm nhiều tiền nhất)*
-- C. how many seats to add *(thêm bao nhiêu chỗ ngồi)*
-- D. who should bake the scones *(ai nên nướng bánh scone)*
+- B. how to make the most money from the two spaces in the next five years *(làm sao kiếm nhiều tiền nhất từ hai không gian trong năm năm tới)*
+- C. how many seats to add in the new space *(thêm bao nhiêu chỗ ngồi vào không gian mới)*
+- D. who should bake the scones for the new shared kitchen *(ai nên nướng bánh scone cho bếp chung mới)*
 
 **19. What does Harriet's note show about her decision?**
 *(Lời ghi của bà Harriet cho thấy gì về quyết định của bà?)*
 
-- A. She rejected all three options. *(Bà bác cả ba phương án.)*
-- B. She chose Option A. *(Bà chọn phương án A.)*
-- C. She will stop baking. *(Bà sẽ thôi nướng bánh.)*
+- A. She rejected all three options and decided to sell the café to Nathan. *(Bà bác cả ba phương án và quyết định bán quán cho Nathan.)*
+- B. She chose Option A, because she wants the café to double its seats within two years. *(Bà chọn phương án A vì muốn quán tăng gấp đôi chỗ ngồi trong hai năm.)*
+- C. She will stop baking and leave the scones to the new staff. *(Bà sẽ thôi nướng bánh và giao bánh scone cho nhân viên mới.)*
 - D. She chose Option B as a two-year trial, while keeping her own role in the café. *(Bà chọn phương án B, thử hai năm, và vẫn giữ vai trò của mình ở quán.)*
 
 **20. Use both texts. What advice do the critic and Nathan both give, in different ways?**
 *(Dựa vào cả hai bài. Nhà phê bình và Nathan đều đưa lời khuyên gì, theo cách khác nhau?)*
 
-- A. Bigger is always better. *(Lớn hơn luôn tốt hơn.)*
+- A. Bigger is always better, so a successful business should expand quickly. *(Lớn hơn luôn tốt hơn nên một việc kinh doanh thành công cần mở rộng nhanh.)*
 - B. Build on what is already strong and true to you, rather than simply getting bigger. *(Hãy phát huy điều vốn đã mạnh và đúng với mình, thay vì chỉ làm cho to hơn.)*
-- C. Borrow money to grow quickly. *(Vay tiền để phát triển nhanh.)*
-- D. Stop doing what you love. *(Thôi làm điều mình yêu thích.)*
+- C. Borrow as much money as you can so that you can grow quickly. *(Hãy vay thật nhiều tiền để phát triển nhanh.)*
+- D. Stop doing what you love when it does not make enough money. *(Hãy thôi làm điều mình yêu khi nó không đủ sinh lời.)*
 
 ---
 

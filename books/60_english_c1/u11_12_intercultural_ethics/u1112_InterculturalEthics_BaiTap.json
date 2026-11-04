@@ -645,35 +645,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "because he had lived in Lisbon",
-            "vi": "vì anh từng sống ở Lisbon"
+            "en": "because he had lived in Lisbon for several years",
+            "vi": "vì anh đã sống ở Lisbon vài năm"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because he had lived in Lisbon",
-          "text_translation": "vì anh từng sống ở Lisbon"
+          "text": "because he had lived in Lisbon for several years",
+          "text_translation": "vì anh đã sống ở Lisbon vài năm"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because the team was small",
-            "vi": "vì nhóm nhỏ"
+            "en": "because the team was small and everyone knew each other well",
+            "vi": "vì nhóm nhỏ và mọi người đều quen nhau rõ"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because the team was small",
-          "text_translation": "vì nhóm nhỏ"
+          "text": "because the team was small and everyone knew each other well",
+          "text_translation": "vì nhóm nhỏ và mọi người đều quen nhau rõ"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because he had led the team before",
-            "vi": "vì anh từng dẫn dắt nhóm này"
+            "en": "because he had led the same team of engineers before",
+            "vi": "vì anh từng dẫn dắt chính nhóm kỹ sư này"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because he had led the team before",
-          "text_translation": "vì anh từng dẫn dắt nhóm này"
+          "text": "because he had led the same team of engineers before",
+          "text_translation": "vì anh từng dẫn dắt chính nhóm kỹ sư này"
         }
       ],
       "evidence_segments": [
@@ -702,35 +702,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "He did not ask for objections.",
-            "vi": "Anh không hỏi ý kiến phản đối."
+            "en": "He did not ask for objections before the meeting started.",
+            "vi": "Anh không hỏi ý kiến phản đối trước khi họp bắt đầu."
           },
           "is_correct": false,
           "order": 0,
-          "text": "He did not ask for objections.",
-          "text_translation": "Anh không hỏi ý kiến phản đối."
+          "text": "He did not ask for objections before the meeting started.",
+          "text_translation": "Anh không hỏi ý kiến phản đối trước khi họp bắt đầu."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "He talked too quickly.",
-            "vi": "Anh nói quá nhanh."
+            "en": "He talked so quickly that no one could interrupt him.",
+            "vi": "Anh nói nhanh tới mức không ai chen vào được."
           },
           "is_correct": false,
           "order": 1,
-          "text": "He talked too quickly.",
-          "text_translation": "Anh nói quá nhanh."
+          "text": "He talked so quickly that no one could interrupt him.",
+          "text_translation": "Anh nói nhanh tới mức không ai chen vào được."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "He held meetings too often.",
-            "vi": "Anh họp quá thường xuyên."
+            "en": "He held meetings too often and let them go on too long.",
+            "vi": "Anh họp quá thường xuyên và để cuộc họp kéo dài quá lâu."
           },
           "is_correct": false,
           "order": 2,
-          "text": "He held meetings too often.",
-          "text_translation": "Anh họp quá thường xuyên."
+          "text": "He held meetings too often and let them go on too long.",
+          "text_translation": "Anh họp quá thường xuyên và để cuộc họp kéo dài quá lâu."
         },
         {
           "id": "D",
@@ -770,13 +770,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Greg left the team.",
-            "vi": "Greg rời nhóm."
+            "en": "Greg left the team and the project was handed to someone else.",
+            "vi": "Greg rời nhóm và dự án được giao cho người khác."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Greg left the team.",
-          "text_translation": "Greg rời nhóm."
+          "text": "Greg left the team and the project was handed to someone else.",
+          "text_translation": "Greg rời nhóm và dự án được giao cho người khác."
         },
         {
           "id": "B",
@@ -792,24 +792,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "The project was cancelled.",
-            "vi": "Dự án bị huỷ."
+            "en": "The project was cancelled and the team was sent home.",
+            "vi": "Dự án bị huỷ và cả nhóm bị cho về."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The project was cancelled.",
-          "text_translation": "Dự án bị huỷ."
+          "text": "The project was cancelled and the team was sent home.",
+          "text_translation": "Dự án bị huỷ và cả nhóm bị cho về."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Tomás was angry.",
-            "vi": "Tomás tức giận."
+            "en": "Tomás was so angry that he refused to join the next meetings.",
+            "vi": "Tomás giận tới mức từ chối dự các cuộc họp sau."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Tomás was angry.",
-          "text_translation": "Tomás tức giận."
+          "text": "Tomás was so angry that he refused to join the next meetings.",
+          "text_translation": "Tomás giận tới mức từ chối dự các cuộc họp sau."
         }
       ],
       "evidence_segments": [
@@ -838,46 +838,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "He did not understand the plan.",
-            "vi": "Anh không hiểu kế hoạch."
+            "en": "He did not understand the plan well enough to say anything about it.",
+            "vi": "Anh không hiểu kế hoạch đủ rõ để nói gì về nó."
           },
           "is_correct": false,
           "order": 0,
-          "text": "He did not understand the plan.",
-          "text_translation": "Anh không hiểu kế hoạch."
+          "text": "He did not understand the plan well enough to say anything about it.",
+          "text_translation": "Anh không hiểu kế hoạch đủ rõ để nói gì về nó."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "He was not at the meeting.",
-            "vi": "Anh không dự họp."
+            "en": "He was not at the meeting because of a problem with the video call.",
+            "vi": "Anh không dự họp vì cuộc gọi video bị trục trặc."
           },
           "is_correct": false,
           "order": 1,
-          "text": "He was not at the meeting.",
-          "text_translation": "Anh không dự họp."
+          "text": "He was not at the meeting because of a problem with the video call.",
+          "text_translation": "Anh không dự họp vì cuộc gọi video bị trục trặc."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "He felt it was not his place to question the team lead in front of others, and preferred to raise doubts privately.",
-            "vi": "Anh thấy mình không có tư cách chất vấn trưởng nhóm trước mặt người khác, và thích nêu băn khoăn riêng tư."
+            "en": "He felt it was not his place to question his lead in public, and preferred to do so privately.",
+            "vi": "Anh thấy mình không có tư cách chất vấn trưởng nhóm trước đám đông, và thích làm việc đó riêng tư."
           },
           "is_correct": true,
           "order": 2,
-          "text": "He felt it was not his place to question the team lead in front of others, and preferred to raise doubts privately.",
-          "text_translation": "Anh thấy mình không có tư cách chất vấn trưởng nhóm trước mặt người khác, và thích nêu băn khoăn riêng tư."
+          "text": "He felt it was not his place to question his lead in public, and preferred to do so privately.",
+          "text_translation": "Anh thấy mình không có tư cách chất vấn trưởng nhóm trước đám đông, và thích làm việc đó riêng tư."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "He agreed with the plan at first.",
-            "vi": "Lúc đầu anh đồng ý với kế hoạch."
+            "en": "He agreed with the plan at first, and changed his mind only when the first problems appeared.",
+            "vi": "Lúc đầu anh đồng ý với kế hoạch, và chỉ đổi ý khi những vấn đề đầu tiên xuất hiện."
           },
           "is_correct": false,
           "order": 3,
-          "text": "He agreed with the plan at first.",
-          "text_translation": "Lúc đầu anh đồng ý với kế hoạch."
+          "text": "He agreed with the plan at first, and changed his mind only when the first problems appeared.",
+          "text_translation": "Lúc đầu anh đồng ý với kế hoạch, và chỉ đổi ý khi những vấn đề đầu tiên xuất hiện."
         }
       ],
       "evidence_segments": [
@@ -906,46 +906,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to show that their styles were the opposite of what a stereotype about their countries might predict",
-            "vi": "để cho thấy cách của họ ngược hẳn với điều mà định kiến về đất nước họ có thể đoán"
+            "en": "to show that their styles were the opposite of what a national stereotype would predict",
+            "vi": "để cho thấy cách của họ ngược hẳn với điều mà một định kiến theo quốc gia sẽ đoán"
           },
           "is_correct": true,
           "order": 0,
-          "text": "to show that their styles were the opposite of what a stereotype about their countries might predict",
-          "text_translation": "để cho thấy cách của họ ngược hẳn với điều mà định kiến về đất nước họ có thể đoán"
+          "text": "to show that their styles were the opposite of what a national stereotype would predict",
+          "text_translation": "để cho thấy cách của họ ngược hẳn với điều mà một định kiến theo quốc gia sẽ đoán"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to suggest that people from Lisbon are rude",
-            "vi": "để gợi ý người Lisbon thô lỗ"
+            "en": "to explain why the two men had never agreed about anything at work",
+            "vi": "để giải thích vì sao hai người chưa từng đồng ý chuyện gì ở chỗ làm"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to suggest that people from Lisbon are rude",
-          "text_translation": "để gợi ý người Lisbon thô lỗ"
+          "text": "to explain why the two men had never agreed about anything at work",
+          "text_translation": "để giải thích vì sao hai người chưa từng đồng ý chuyện gì ở chỗ làm"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to explain why Greg should move",
-            "vi": "để giải thích vì sao Greg nên chuyển đi"
+            "en": "to explain why Greg should move to Lisbon and work with Tomás",
+            "vi": "để giải thích vì sao Greg nên chuyển tới Lisbon làm cùng Tomás"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to explain why Greg should move",
-          "text_translation": "để giải thích vì sao Greg nên chuyển đi"
+          "text": "to explain why Greg should move to Lisbon and work with Tomás",
+          "text_translation": "để giải thích vì sao Greg nên chuyển tới Lisbon làm cùng Tomás"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to praise San Diego",
-            "vi": "để khen San Diego"
+            "en": "to praise San Diego as the best place to learn how to work in teams",
+            "vi": "để khen San Diego là nơi tốt nhất để học làm việc nhóm"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to praise San Diego",
-          "text_translation": "để khen San Diego"
+          "text": "to praise San Diego as the best place to learn how to work in teams",
+          "text_translation": "để khen San Diego là nơi tốt nhất để học làm việc nhóm"
         }
       ],
       "evidence_segments": [
@@ -974,24 +974,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "only the country where they were born",
-            "vi": "chỉ đất nước nơi họ sinh ra"
+            "en": "only the country where they were born and the language that they spoke as children",
+            "vi": "chỉ đất nước nơi họ sinh ra và ngôn ngữ họ nói từ nhỏ"
           },
           "is_correct": false,
           "order": 0,
-          "text": "only the country where they were born",
-          "text_translation": "chỉ đất nước nơi họ sinh ra"
+          "text": "only the country where they were born and the language that they spoke as children",
+          "text_translation": "chỉ đất nước nơi họ sinh ra và ngôn ngữ họ nói từ nhỏ"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "only their age",
-            "vi": "chỉ tuổi tác"
+            "en": "only their age and the number of years they have worked",
+            "vi": "chỉ tuổi tác và số năm họ đã đi làm"
           },
           "is_correct": false,
           "order": 1,
-          "text": "only their age",
-          "text_translation": "chỉ tuổi tác"
+          "text": "only their age and the number of years they have worked",
+          "text_translation": "chỉ tuổi tác và số năm họ đã đi làm"
         },
         {
           "id": "C",
@@ -1007,13 +1007,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "the time zone they live in",
-            "vi": "múi giờ họ sống"
+            "en": "the time zone they live in and the hours they work each week",
+            "vi": "múi giờ họ sống và số giờ làm mỗi tuần"
           },
           "is_correct": false,
           "order": 3,
-          "text": "the time zone they live in",
-          "text_translation": "múi giờ họ sống"
+          "text": "the time zone they live in and the hours they work each week",
+          "text_translation": "múi giờ họ sống và số giờ làm mỗi tuần"
         }
       ],
       "evidence_segments": [
@@ -1042,46 +1042,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Culture has no influence at all.",
-            "vi": "Văn hoá không có ảnh hưởng gì."
+            "en": "Culture has no influence at all on how people work in a team.",
+            "vi": "Văn hoá không có ảnh hưởng gì tới cách người ta làm việc nhóm."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Culture has no influence at all.",
-          "text_translation": "Văn hoá không có ảnh hưởng gì."
+          "text": "Culture has no influence at all on how people work in a team.",
+          "text_translation": "Văn hoá không có ảnh hưởng gì tới cách người ta làm việc nhóm."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Culture explains everything.",
-            "vi": "Văn hoá giải thích mọi thứ."
+            "en": "Culture explains everything about how a person behaves at work.",
+            "vi": "Văn hoá giải thích mọi điều về cách một người cư xử ở chỗ làm."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Culture explains everything.",
-          "text_translation": "Văn hoá giải thích mọi thứ."
+          "text": "Culture explains everything about how a person behaves at work.",
+          "text_translation": "Văn hoá giải thích mọi điều về cách một người cư xử ở chỗ làm."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Culture should not be discussed at work.",
-            "vi": "Không nên bàn văn hoá ở chỗ làm."
+            "en": "Culture should not be discussed at work because it makes people uncomfortable.",
+            "vi": "Không nên bàn văn hoá ở chỗ làm vì nó khiến người ta khó chịu."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Culture should not be discussed at work.",
-          "text_translation": "Không nên bàn văn hoá ở chỗ làm."
+          "text": "Culture should not be discussed at work because it makes people uncomfortable.",
+          "text_translation": "Không nên bàn văn hoá ở chỗ làm vì nó khiến người ta khó chịu."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Culture matters, but it cannot be used as a reliable shortcut to understand an individual.",
-            "vi": "Văn hoá có ý nghĩa, nhưng không thể dùng làm lối tắt đáng tin để hiểu một cá nhân."
+            "en": "Culture matters, but it is not a reliable shortcut to understanding an individual.",
+            "vi": "Văn hoá có ý nghĩa, nhưng không phải lối tắt đáng tin để hiểu một cá nhân."
           },
           "is_correct": true,
           "order": 3,
-          "text": "Culture matters, but it cannot be used as a reliable shortcut to understand an individual.",
-          "text_translation": "Văn hoá có ý nghĩa, nhưng không thể dùng làm lối tắt đáng tin để hiểu một cá nhân."
+          "text": "Culture matters, but it is not a reliable shortcut to understanding an individual.",
+          "text_translation": "Văn hoá có ý nghĩa, nhưng không phải lối tắt đáng tin để hiểu một cá nhân."
         }
       ],
       "evidence_segments": [
@@ -1110,13 +1110,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to test the engineers' English",
-            "vi": "để kiểm tra tiếng Anh của kỹ sư"
+            "en": "to test the engineers' English before the project starts",
+            "vi": "để kiểm tra tiếng Anh của các kỹ sư trước khi dự án bắt đầu"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to test the engineers' English",
-          "text_translation": "để kiểm tra tiếng Anh của kỹ sư"
+          "text": "to test the engineers' English before the project starts",
+          "text_translation": "để kiểm tra tiếng Anh của các kỹ sư trước khi dự án bắt đầu"
         },
         {
           "id": "B",
@@ -1132,24 +1132,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "to choose a new team lead",
-            "vi": "để chọn trưởng nhóm mới"
+            "en": "to choose a new team lead who suits the whole team",
+            "vi": "để chọn một trưởng nhóm mới hợp với cả nhóm"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to choose a new team lead",
-          "text_translation": "để chọn trưởng nhóm mới"
+          "text": "to choose a new team lead who suits the whole team",
+          "text_translation": "để chọn một trưởng nhóm mới hợp với cả nhóm"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to reduce the number of meetings",
-            "vi": "để giảm số cuộc họp"
+            "en": "to reduce the number of meetings and the time spent on video calls",
+            "vi": "để giảm số cuộc họp và thời gian họp qua video"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to reduce the number of meetings",
-          "text_translation": "để giảm số cuộc họp"
+          "text": "to reduce the number of meetings and the time spent on video calls",
+          "text_translation": "để giảm số cuộc họp và thời gian họp qua video"
         }
       ],
       "evidence_segments": [
@@ -1189,35 +1189,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "It makes meetings shorter.",
-            "vi": "Nó làm cuộc họp ngắn hơn."
+            "en": "It makes meetings shorter because fewer people need to speak.",
+            "vi": "Nó làm cuộc họp ngắn hơn vì ít người cần phát biểu."
           },
           "is_correct": false,
           "order": 1,
-          "text": "It makes meetings shorter.",
-          "text_translation": "Nó làm cuộc họp ngắn hơn."
+          "text": "It makes meetings shorter because fewer people need to speak.",
+          "text_translation": "Nó làm cuộc họp ngắn hơn vì ít người cần phát biểu."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "It allows Nathan to decide alone.",
-            "vi": "Nó cho Nathan tự quyết một mình."
+            "en": "It allows Nathan to make decisions alone, without having to listen to the whole team.",
+            "vi": "Nó cho Nathan tự quyết định một mình mà không phải nghe cả nhóm."
           },
           "is_correct": false,
           "order": 2,
-          "text": "It allows Nathan to decide alone.",
-          "text_translation": "Nó cho Nathan tự quyết một mình."
+          "text": "It allows Nathan to make decisions alone, without having to listen to the whole team.",
+          "text_translation": "Nó cho Nathan tự quyết định một mình mà không phải nghe cả nhóm."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "It stops Tomás from speaking.",
-            "vi": "Nó khiến Tomás thôi nói."
+            "en": "It stops Tomás from speaking before the others have had a chance.",
+            "vi": "Nó ngăn Tomás nói trước khi những người khác có cơ hội."
           },
           "is_correct": false,
           "order": 3,
-          "text": "It stops Tomás from speaking.",
-          "text_translation": "Nó khiến Tomás thôi nói."
+          "text": "It stops Tomás from speaking before the others have had a chance.",
+          "text_translation": "Nó ngăn Tomás nói trước khi những người khác có cơ hội."
         }
       ],
       "evidence_segments": [
@@ -1246,13 +1246,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The meetings are now completely silent.",
-            "vi": "Các cuộc họp giờ hoàn toàn im lặng."
+            "en": "The meetings are now completely silent because the team is afraid.",
+            "vi": "Các cuộc họp giờ hoàn toàn im lặng vì cả nhóm sợ."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The meetings are now completely silent.",
-          "text_translation": "Các cuộc họp giờ hoàn toàn im lặng."
+          "text": "The meetings are now completely silent because the team is afraid.",
+          "text_translation": "Các cuộc họp giờ hoàn toàn im lặng vì cả nhóm sợ."
         },
         {
           "id": "B",
@@ -1268,24 +1268,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "He no longer listens to his team.",
-            "vi": "Anh không còn nghe nhóm mình."
+            "en": "He no longer listens to his team, because he asks them by name.",
+            "vi": "Anh không còn nghe nhóm mình, vì anh gọi tên từng người để hỏi."
           },
           "is_correct": false,
           "order": 2,
-          "text": "He no longer listens to his team.",
-          "text_translation": "Anh không còn nghe nhóm mình."
+          "text": "He no longer listens to his team, because he asks them by name.",
+          "text_translation": "Anh không còn nghe nhóm mình, vì anh gọi tên từng người để hỏi."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The team has stopped disagreeing.",
-            "vi": "Nhóm đã thôi bất đồng."
+            "en": "The team has stopped disagreeing now that everyone knows the plan.",
+            "vi": "Nhóm đã thôi bất đồng vì ai cũng biết kế hoạch."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The team has stopped disagreeing.",
-          "text_translation": "Nhóm đã thôi bất đồng."
+          "text": "The team has stopped disagreeing now that everyone knows the plan.",
+          "text_translation": "Nhóm đã thôi bất đồng vì ai cũng biết kế hoạch."
         }
       ],
       "evidence_segments": [
@@ -1314,46 +1314,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It examines patients.",
-            "vi": "Nó khám bệnh nhân."
+            "en": "It examines patients and writes down what it finds on a tablet.",
+            "vi": "Nó khám bệnh nhân và ghi kết quả lên máy tính bảng."
           },
           "is_correct": false,
           "order": 0,
-          "text": "It examines patients.",
-          "text_translation": "Nó khám bệnh nhân."
+          "text": "It examines patients and writes down what it finds on a tablet.",
+          "text_translation": "Nó khám bệnh nhân và ghi kết quả lên máy tính bảng."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "It decides on treatment.",
-            "vi": "Nó quyết định cách điều trị."
+            "en": "It decides on treatment and sends the plan to the pharmacy.",
+            "vi": "Nó quyết định cách điều trị và gửi kế hoạch tới nhà thuốc."
           },
           "is_correct": false,
           "order": 1,
-          "text": "It decides on treatment.",
-          "text_translation": "Nó quyết định cách điều trị."
+          "text": "It decides on treatment and sends the plan to the pharmacy.",
+          "text_translation": "Nó quyết định cách điều trị và gửi kế hoạch tới nhà thuốc."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "With permission, it listens to the conversation and writes a draft of the doctor's notes.",
-            "vi": "Khi được cho phép, nó nghe cuộc trò chuyện và viết bản nháp ghi chép cho bác sĩ."
+            "en": "With permission, it listens to the conversation and writes a draft of the notes.",
+            "vi": "Khi được cho phép, nó nghe cuộc trò chuyện và viết bản nháp ghi chép."
           },
           "is_correct": true,
           "order": 2,
-          "text": "With permission, it listens to the conversation and writes a draft of the doctor's notes.",
-          "text_translation": "Khi được cho phép, nó nghe cuộc trò chuyện và viết bản nháp ghi chép cho bác sĩ."
+          "text": "With permission, it listens to the conversation and writes a draft of the notes.",
+          "text_translation": "Khi được cho phép, nó nghe cuộc trò chuyện và viết bản nháp ghi chép."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "It translates for patients.",
-            "vi": "Nó phiên dịch cho bệnh nhân."
+            "en": "It translates for patients who speak little English and sends each of them a written summary.",
+            "vi": "Nó phiên dịch cho bệnh nhân ít nói tiếng Anh và gửi mỗi người một bản tóm tắt."
           },
           "is_correct": false,
           "order": 3,
-          "text": "It translates for patients.",
-          "text_translation": "Nó phiên dịch cho bệnh nhân."
+          "text": "It translates for patients who speak little English and sends each of them a written summary.",
+          "text_translation": "Nó phiên dịch cho bệnh nhân ít nói tiếng Anh và gửi mỗi người một bản tóm tắt."
         }
       ],
       "evidence_segments": [
@@ -1382,13 +1382,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It makes fewer mistakes than doctors.",
-            "vi": "Nó ít sai hơn bác sĩ."
+            "en": "It makes far fewer mistakes than doctors do when they write their own notes.",
+            "vi": "Nó ít sai hơn nhiều so với bác sĩ khi tự viết ghi chép."
           },
           "is_correct": false,
           "order": 0,
-          "text": "It makes fewer mistakes than doctors.",
-          "text_translation": "Nó ít sai hơn bác sĩ."
+          "text": "It makes far fewer mistakes than doctors do when they write their own notes.",
+          "text_translation": "Nó ít sai hơn nhiều so với bác sĩ khi tự viết ghi chép."
         },
         {
           "id": "B",
@@ -1404,24 +1404,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "It is cheaper than nurses.",
-            "vi": "Nó rẻ hơn điều dưỡng."
+            "en": "It is cheaper than hiring more nurses for the department.",
+            "vi": "Nó rẻ hơn việc thuê thêm điều dưỡng cho khoa."
           },
           "is_correct": false,
           "order": 2,
-          "text": "It is cheaper than nurses.",
-          "text_translation": "Nó rẻ hơn điều dưỡng."
+          "text": "It is cheaper than hiring more nurses for the department.",
+          "text_translation": "Nó rẻ hơn việc thuê thêm điều dưỡng cho khoa."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "It replaces the need to read notes.",
-            "vi": "Nó khiến không cần đọc ghi chép nữa."
+            "en": "It replaces the need to read the notes before she signs them.",
+            "vi": "Nó khiến cô không cần đọc ghi chép trước khi ký."
           },
           "is_correct": false,
           "order": 3,
-          "text": "It replaces the need to read notes.",
-          "text_translation": "Nó khiến không cần đọc ghi chép nữa."
+          "text": "It replaces the need to read the notes before she signs them.",
+          "text_translation": "Nó khiến cô không cần đọc ghi chép trước khi ký."
         }
       ],
       "evidence_segments": [
@@ -1450,35 +1450,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The elderly man did not need help.",
-            "vi": "Ông cụ không cần giúp."
+            "en": "The elderly man did not need any help from the doctor.",
+            "vi": "Ông cụ không cần bác sĩ giúp gì."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The elderly man did not need help.",
-          "text_translation": "Ông cụ không cần giúp."
+          "text": "The elderly man did not need any help from the doctor.",
+          "text_translation": "Ông cụ không cần bác sĩ giúp gì."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Leah dislikes the tool.",
-            "vi": "Leah ghét công cụ này."
+            "en": "Leah dislikes the tool and would be happy if the hospital stopped using it.",
+            "vi": "Leah ghét công cụ này và sẽ vui nếu bệnh viện thôi dùng nó."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Leah dislikes the tool.",
-          "text_translation": "Leah ghét công cụ này."
+          "text": "Leah dislikes the tool and would be happy if the hospital stopped using it.",
+          "text_translation": "Leah ghét công cụ này và sẽ vui nếu bệnh viện thôi dùng nó."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The tool talked to the man.",
-            "vi": "Công cụ nói chuyện với ông cụ."
+            "en": "The tool talked to the man and calmed him down.",
+            "vi": "Công cụ nói chuyện với ông cụ và làm ông bình tĩnh."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The tool talked to the man.",
-          "text_translation": "Công cụ nói chuyện với ông cụ."
+          "text": "The tool talked to the man and calmed him down.",
+          "text_translation": "Công cụ nói chuyện với ông cụ và làm ông bình tĩnh."
         },
         {
           "id": "D",
@@ -1518,46 +1518,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to explain that it predicts words without understanding, which is why it can invent things",
-            "vi": "để giải thích nó đoán chữ mà không hiểu, vì vậy nó có thể bịa ra điều không có"
+            "en": "to explain that it predicts words without understanding, so it can invent things",
+            "vi": "để giải thích nó đoán chữ mà không hiểu, nên có thể bịa ra điều không có"
           },
           "is_correct": true,
           "order": 0,
-          "text": "to explain that it predicts words without understanding, which is why it can invent things",
-          "text_translation": "để giải thích nó đoán chữ mà không hiểu, vì vậy nó có thể bịa ra điều không có"
+          "text": "to explain that it predicts words without understanding, so it can invent things",
+          "text_translation": "để giải thích nó đoán chữ mà không hiểu, nên có thể bịa ra điều không có"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to say it is broken",
-            "vi": "để nói nó bị hỏng"
+            "en": "to say it is broken and should be returned to the company",
+            "vi": "để nói nó bị hỏng và nên trả lại cho công ty"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to say it is broken",
-          "text_translation": "để nói nó bị hỏng"
+          "text": "to say it is broken and should be returned to the company",
+          "text_translation": "để nói nó bị hỏng và nên trả lại cho công ty"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to show that it is better than humans",
-            "vi": "để cho thấy nó giỏi hơn người"
+            "en": "to show that it is better than humans at remembering details",
+            "vi": "để cho thấy nó nhớ chi tiết giỏi hơn người"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to show that it is better than humans",
-          "text_translation": "để cho thấy nó giỏi hơn người"
+          "text": "to show that it is better than humans at remembering details",
+          "text_translation": "để cho thấy nó nhớ chi tiết giỏi hơn người"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to complain about its price",
-            "vi": "để phàn nàn về giá"
+            "en": "to complain about its price and the way it was sold to the hospital",
+            "vi": "để phàn nàn về giá và cách nó được bán cho bệnh viện"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to complain about its price",
-          "text_translation": "để phàn nàn về giá"
+          "text": "to complain about its price and the way it was sold to the hospital",
+          "text_translation": "để phàn nàn về giá và cách nó được bán cho bệnh viện"
         }
       ],
       "evidence_segments": [
@@ -1586,24 +1586,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They are rare.",
-            "vi": "Chúng hiếm."
+            "en": "They are very frequent, and she finds several of them every night.",
+            "vi": "Chúng rất thường xuyên và cô thấy vài lỗi mỗi đêm."
           },
           "is_correct": false,
           "order": 0,
-          "text": "They are rare.",
-          "text_translation": "Chúng hiếm."
+          "text": "They are very frequent, and she finds several of them every night.",
+          "text_translation": "Chúng rất thường xuyên và cô thấy vài lỗi mỗi đêm."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "They are always about chest pain.",
-            "vi": "Chúng luôn về đau ngực."
+            "en": "They are always about chest pain and other serious illnesses.",
+            "vi": "Chúng luôn về đau ngực và các bệnh nặng khác."
           },
           "is_correct": false,
           "order": 1,
-          "text": "They are always about chest pain.",
-          "text_translation": "Chúng luôn về đau ngực."
+          "text": "They are always about chest pain and other serious illnesses.",
+          "text_translation": "Chúng luôn về đau ngực và các bệnh nặng khác."
         },
         {
           "id": "C",
@@ -1619,13 +1619,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "They are easy to notice.",
-            "vi": "Chúng dễ thấy."
+            "en": "They are easy to notice because the tool marks every uncertain word.",
+            "vi": "Chúng dễ thấy vì công cụ đánh dấu mọi từ không chắc."
           },
           "is_correct": false,
           "order": 3,
-          "text": "They are easy to notice.",
-          "text_translation": "Chúng dễ thấy."
+          "text": "They are easy to notice because the tool marks every uncertain word.",
+          "text_translation": "Chúng dễ thấy vì công cụ đánh dấu mọi từ không chắc."
         }
       ],
       "evidence_segments": [
@@ -1654,46 +1654,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Patients always understand the tool.",
-            "vi": "Bệnh nhân luôn hiểu công cụ."
+            "en": "Patients always understand exactly what the tool does, so their consent is always real.",
+            "vi": "Bệnh nhân luôn hiểu chính xác công cụ làm gì nên sự đồng ý luôn là thật."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Patients always understand the tool.",
-          "text_translation": "Bệnh nhân luôn hiểu công cụ."
+          "text": "Patients always understand exactly what the tool does, so their consent is always real.",
+          "text_translation": "Bệnh nhân luôn hiểu chính xác công cụ làm gì nên sự đồng ý luôn là thật."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Nurses should decide for patients.",
-            "vi": "Điều dưỡng nên quyết định thay bệnh nhân."
+            "en": "Nurses should decide for patients who speak little English.",
+            "vi": "Điều dưỡng nên quyết định thay những bệnh nhân ít nói tiếng Anh."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Nurses should decide for patients.",
-          "text_translation": "Điều dưỡng nên quyết định thay bệnh nhân."
+          "text": "Nurses should decide for patients who speak little English.",
+          "text_translation": "Điều dưỡng nên quyết định thay những bệnh nhân ít nói tiếng Anh."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Only English speakers should be asked.",
-            "vi": "Chỉ hỏi người nói tiếng Anh."
+            "en": "Only patients who speak English should be asked for consent.",
+            "vi": "Chỉ nên xin đồng ý của bệnh nhân nói tiếng Anh."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Only English speakers should be asked.",
-          "text_translation": "Chỉ hỏi người nói tiếng Anh."
+          "text": "Only patients who speak English should be asked for consent.",
+          "text_translation": "Chỉ nên xin đồng ý của bệnh nhân nói tiếng Anh."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "A patient in pain with little English may not feel free to refuse, so their \"yes\" may not be real consent.",
-            "vi": "Một bệnh nhân đang đau, ít tiếng Anh có thể không thấy mình được tự do từ chối, nên cái \"có\" của họ có thể không phải đồng ý thật."
+            "en": "A patient in pain who speaks little English may not feel free to say no.",
+            "vi": "Một bệnh nhân đang đau, ít tiếng Anh có thể không thấy mình được tự do nói không."
           },
           "is_correct": true,
           "order": 3,
-          "text": "A patient in pain with little English may not feel free to refuse, so their \"yes\" may not be real consent.",
-          "text_translation": "Một bệnh nhân đang đau, ít tiếng Anh có thể không thấy mình được tự do từ chối, nên cái \"có\" của họ có thể không phải đồng ý thật."
+          "text": "A patient in pain who speaks little English may not feel free to say no.",
+          "text_translation": "Một bệnh nhân đang đau, ít tiếng Anh có thể không thấy mình được tự do nói không."
         }
       ],
       "evidence_segments": [
@@ -1723,13 +1723,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because the software is too slow",
-            "vi": "vì phần mềm quá chậm"
+            "en": "because the software is too slow and often stops in the middle",
+            "vi": "vì phần mềm quá chậm và hay dừng giữa chừng"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because the software is too slow",
-          "text_translation": "vì phần mềm quá chậm"
+          "text": "because the software is too slow and often stops in the middle",
+          "text_translation": "vì phần mềm quá chậm và hay dừng giữa chừng"
         },
         {
           "id": "B",
@@ -1745,24 +1745,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "because patients ask for it",
-            "vi": "vì bệnh nhân yêu cầu"
+            "en": "because patients ask to hear it read aloud before they leave",
+            "vi": "vì bệnh nhân đòi nghe đọc to trước khi ra về"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because patients ask for it",
-          "text_translation": "vì bệnh nhân yêu cầu"
+          "text": "because patients ask to hear it read aloud before they leave",
+          "text_translation": "vì bệnh nhân đòi nghe đọc to trước khi ra về"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because recordings are erased",
-            "vi": "vì bản ghi âm bị xoá"
+            "en": "because the recordings are erased after the note is approved",
+            "vi": "vì bản ghi âm bị xoá sau khi ghi chép được duyệt"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because recordings are erased",
-          "text_translation": "vì bản ghi âm bị xoá"
+          "text": "because the recordings are erased after the note is approved",
+          "text_translation": "vì bản ghi âm bị xoá sau khi ghi chép được duyệt"
         }
       ],
       "evidence_segments": [
@@ -1802,35 +1802,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "grateful",
-            "vi": "biết ơn"
+            "en": "grateful for their free training",
+            "vi": "biết ơn khoản đào tạo miễn phí của họ"
           },
           "is_correct": false,
           "order": 1,
-          "text": "grateful",
-          "text_translation": "biết ơn"
+          "text": "grateful for their free training",
+          "text_translation": "biết ơn khoản đào tạo miễn phí của họ"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "completely trusting",
-            "vi": "hoàn toàn tin tưởng"
+            "en": "completely trusting of everything they say",
+            "vi": "hoàn toàn tin mọi điều họ nói"
           },
           "is_correct": false,
           "order": 2,
-          "text": "completely trusting",
-          "text_translation": "hoàn toàn tin tưởng"
+          "text": "completely trusting of everything they say",
+          "text_translation": "hoàn toàn tin mọi điều họ nói"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "indifferent",
-            "vi": "thờ ơ"
+            "en": "indifferent to what they say",
+            "vi": "thờ ơ với những gì họ nói"
           },
           "is_correct": false,
           "order": 3,
-          "text": "indifferent",
-          "text_translation": "thờ ơ"
+          "text": "indifferent to what they say",
+          "text_translation": "thờ ơ với những gì họ nói"
         }
       ],
       "evidence_segments": [
@@ -1859,46 +1859,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Machines should replace doctors.",
-            "vi": "Máy nên thay bác sĩ."
+            "en": "Machines should replace doctors completely, so that doctors can finally get some rest.",
+            "vi": "Máy nên thay hẳn bác sĩ để bác sĩ cuối cùng được nghỉ ngơi."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Machines should replace doctors.",
-          "text_translation": "Máy nên thay bác sĩ."
+          "text": "Machines should replace doctors completely, so that doctors can finally get some rest.",
+          "text_translation": "Máy nên thay hẳn bác sĩ để bác sĩ cuối cùng được nghỉ ngơi."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The tool should be removed.",
-            "vi": "Nên bỏ công cụ."
+            "en": "The tool should be removed because it makes too many mistakes.",
+            "vi": "Nên bỏ công cụ vì nó mắc quá nhiều lỗi."
           },
           "is_correct": false,
           "order": 1,
-          "text": "The tool should be removed.",
-          "text_translation": "Nên bỏ công cụ."
+          "text": "The tool should be removed because it makes too many mistakes.",
+          "text_translation": "Nên bỏ công cụ vì nó mắc quá nhiều lỗi."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Doctors should talk less.",
-            "vi": "Bác sĩ nên nói ít hơn."
+            "en": "Doctors should talk less so that machines can write more notes.",
+            "vi": "Bác sĩ nên nói ít đi để máy ghi được nhiều hơn."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Doctors should talk less.",
-          "text_translation": "Bác sĩ nên nói ít hơn."
+          "text": "Doctors should talk less so that machines can write more notes.",
+          "text_translation": "Bác sĩ nên nói ít đi để máy ghi được nhiều hơn."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The tool is valuable only if the time it saves is used to listen to patients more, not less.",
-            "vi": "Công cụ chỉ có giá trị nếu thời gian nó tiết kiệm được dùng để nghe bệnh nhân nhiều hơn, chứ không ít đi."
+            "en": "The tool is valuable only if the time it saves is used to listen to patients more.",
+            "vi": "Công cụ chỉ có giá trị nếu thời gian nó tiết kiệm được dùng để nghe bệnh nhân nhiều hơn."
           },
           "is_correct": true,
           "order": 3,
-          "text": "The tool is valuable only if the time it saves is used to listen to patients more, not less.",
-          "text_translation": "Công cụ chỉ có giá trị nếu thời gian nó tiết kiệm được dùng để nghe bệnh nhân nhiều hơn, chứ không ít đi."
+          "text": "The tool is valuable only if the time it saves is used to listen to patients more.",
+          "text_translation": "Công cụ chỉ có giá trị nếu thời gian nó tiết kiệm được dùng để nghe bệnh nhân nhiều hơn."
         }
       ],
       "evidence_segments": [
@@ -1927,46 +1927,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Technology should not be used at work.",
-            "vi": "Không nên dùng công nghệ ở chỗ làm."
+            "en": "Technology should not be used at work, because it causes more problems than it solves.",
+            "vi": "Không nên dùng công nghệ ở chỗ làm vì nó gây nhiều vấn đề hơn là giải quyết."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Technology should not be used at work.",
-          "text_translation": "Không nên dùng công nghệ ở chỗ làm."
+          "text": "Technology should not be used at work, because it causes more problems than it solves.",
+          "text_translation": "Không nên dùng công nghệ ở chỗ làm vì nó gây nhiều vấn đề hơn là giải quyết."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Leaders should make decisions alone.",
-            "vi": "Người lãnh đạo nên tự quyết một mình."
+            "en": "Leaders should make decisions alone, because groups take too long to agree.",
+            "vi": "Người lãnh đạo nên tự quyết một mình vì cả nhóm mất quá nhiều thời gian để đồng ý."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Leaders should make decisions alone.",
-          "text_translation": "Người lãnh đạo nên tự quyết một mình."
+          "text": "Leaders should make decisions alone, because groups take too long to agree.",
+          "text_translation": "Người lãnh đạo nên tự quyết một mình vì cả nhóm mất quá nhiều thời gian để đồng ý."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Silence or a quick \"yes\" should not be taken as real agreement; people must be asked in a way that makes refusing easy.",
-            "vi": "Không nên coi im lặng hay một cái \"có\" vội là đồng ý thật; phải hỏi theo cách khiến việc từ chối trở nên dễ dàng."
+            "en": "Silence or a quick \"yes\" should not be taken as real agreement; people need an easy way to say no.",
+            "vi": "Không nên coi im lặng hay một cái \"có\" vội là đồng ý thật; người ta cần cách dễ dàng để nói không."
           },
           "is_correct": true,
           "order": 2,
-          "text": "Silence or a quick \"yes\" should not be taken as real agreement; people must be asked in a way that makes refusing easy.",
-          "text_translation": "Không nên coi im lặng hay một cái \"có\" vội là đồng ý thật; phải hỏi theo cách khiến việc từ chối trở nên dễ dàng."
+          "text": "Silence or a quick \"yes\" should not be taken as real agreement; people need an easy way to say no.",
+          "text_translation": "Không nên coi im lặng hay một cái \"có\" vội là đồng ý thật; người ta cần cách dễ dàng để nói không."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Patients and engineers have the same problems.",
-            "vi": "Bệnh nhân và kỹ sư có cùng vấn đề."
+            "en": "Patients and engineers have exactly the same problems and need the same solutions.",
+            "vi": "Bệnh nhân và kỹ sư có đúng cùng vấn đề và cần cùng giải pháp."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Patients and engineers have the same problems.",
-          "text_translation": "Bệnh nhân và kỹ sư có cùng vấn đề."
+          "text": "Patients and engineers have exactly the same problems and need the same solutions.",
+          "text_translation": "Bệnh nhân và kỹ sư có đúng cùng vấn đề và cần cùng giải pháp."
         }
       ],
       "evidence_segments": [

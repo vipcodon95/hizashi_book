@@ -90,79 +90,79 @@
 *(Mục đích chính của bản báo cáo của Megan là gì?)*
 
 - A. to report the results of a trial and recommend what to do next *(báo cáo kết quả một đợt thử nghiệm và đề xuất bước tiếp theo)*
-- B. to complain about the pay of nurses *(phàn nàn về lương điều dưỡng)*
-- C. to announce that she is leaving the hospital *(thông báo cô sắp rời bệnh viện)*
-- D. to ask the director for more nurses *(xin giám đốc thêm điều dưỡng)*
+- B. to complain that the director refuses to pay nurses for overtime shifts *(phàn nàn rằng giám đốc từ chối trả tiền làm thêm giờ cho điều dưỡng)*
+- C. to announce that she is leaving the hospital after twenty years *(thông báo cô sắp rời bệnh viện sau hai mươi năm)*
+- D. to ask the director for more nurses to cover the night shift *(xin giám đốc thêm điều dưỡng để phụ trách ca đêm)*
 
 **2. Why did staff identify handover as the main problem?**
 *(Vì sao nhân viên xác định giao ca là vấn đề chính?)*
 
-- A. because it happened only once a day *(vì nó chỉ diễn ra một lần mỗi ngày)*
+- A. because it happened only once a day and the nurses had far too little time to prepare for it *(vì nó chỉ diễn ra một lần mỗi ngày và điều dưỡng có quá ít thời gian để chuẩn bị)*
 - B. because information about many patients was passed on quickly in a crowded place *(vì thông tin về nhiều bệnh nhân được chuyển vội trong một nơi đông đúc)*
-- C. because patients complained about it *(vì bệnh nhân phàn nàn về nó)*
-- D. because the director told them to *(vì giám đốc bảo họ vậy)*
+- C. because patients complained that the nurses spoke too quietly *(vì bệnh nhân phàn nàn rằng điều dưỡng nói quá nhỏ)*
+- D. because the director had told them to find a cheaper way to work *(vì giám đốc bảo họ tìm cách làm việc rẻ hơn)*
 
 **3. Why does the new protocol take place at the bedside?**
 *(Vì sao quy trình mới diễn ra cạnh giường bệnh?)*
 
 - A. because the corridor is being repaired *(vì hành lang đang sửa)*
-- B. because it is quicker *(vì nhanh hơn)*
+- B. because it is quicker than the old corridor way *(vì nhanh hơn cách cũ ở hành lang)*
 - C. so that patients can correct mistakes in what the nurses say *(để bệnh nhân có thể sửa chỗ sai trong lời điều dưỡng nói)*
-- D. so that nurses can sit down *(để điều dưỡng được ngồi)*
+- D. so that nurses can sit down for a while *(để điều dưỡng được ngồi nghỉ một lúc)*
 
 **4. What condition did the director attach to the fifteen-minute overlap?**
 *(Giám đốc đặt điều kiện gì cho mười lăm phút chồng ca?)*
 
-- A. that nurses would not be paid for it *(điều dưỡng không được trả tiền)*
-- B. that it would be used only at night *(chỉ dùng vào ban đêm)*
-- C. that Megan would work it alone *(Megan tự làm một mình)*
+- A. that nurses would not be paid for the extra time they worked *(điều dưỡng sẽ không được trả tiền cho thời gian làm thêm)*
+- B. that it would be used only at night for the first twelve weeks *(chỉ dùng vào ban đêm trong mười hai tuần đầu)*
+- C. that Megan would work the overlap alone every evening *(Megan sẽ tự làm phần giờ chồng lấn một mình mỗi tối)*
 - D. that the team would measure whether it was worth the cost *(nhóm phải đo xem nó có đáng tiền không)*
 
 **5. In the sentence about the checklist, the word "tedious" is closest in meaning to**
 *(Trong câu nói về bảng kiểm, từ "tedious" gần nghĩa nhất với)*
 
-- A. dangerous *(nguy hiểm)*
+- A. dangerous and difficult *(nguy hiểm và khó khăn)*
 - B. boring and repetitive *(nhàm chán và lặp đi lặp lại)*
-- C. expensive *(tốn kém)*
-- D. confusing *(khó hiểu)*
+- C. confusing and unclear *(khó hiểu và không rõ ràng)*
+- D. expensive and wasteful *(tốn kém và lãng phí)*
 
 **6. What is the function of the paragraph that begins "So, was it?"**
 *(Đoạn bắt đầu bằng "So, was it?" có chức năng gì?)*
 
 - A. It presents the results, including both a benefit and a cost. *(Nó trình bày kết quả, gồm cả một lợi ích và một cái giá.)*
-- B. It describes the background of the problem. *(Nó mô tả bối cảnh của vấn đề.)*
-- C. It makes a final recommendation. *(Nó đưa ra đề xuất cuối cùng.)*
-- D. It tells a personal story. *(Nó kể một câu chuyện riêng.)*
+- B. It describes the background of the problem and the staff's complaints. *(Nó mô tả bối cảnh của vấn đề và lời phàn nàn của nhân viên.)*
+- C. It makes a final recommendation about the night shift. *(Nó đưa ra đề xuất cuối cùng về ca đêm.)*
+- D. It tells a personal story about her own career. *(Nó kể một câu chuyện riêng về sự nghiệp của cô.)*
 
 **7. What can be inferred about the night-shift version of the protocol?**
 *(Có thể suy ra gì về phiên bản ca đêm của quy trình?)*
 
-- A. It has already been tested and works well. *(Nó đã được thử và hiệu quả.)*
-- B. It will use more nurses. *(Nó sẽ dùng nhiều điều dưỡng hơn.)*
-- C. The director has rejected it. *(Giám đốc đã bác bỏ nó.)*
+- A. It has already been tested at the door of each room and it works very well. *(Nó đã được thử ở cửa từng phòng và hiệu quả rất tốt.)*
+- B. It will use more nurses than the day version, so it will cost more. *(Nó sẽ dùng nhiều điều dưỡng hơn bản ban ngày nên tốn kém hơn.)*
+- C. The director has already rejected it and made a final decision. *(Giám đốc đã bác bỏ nó và đưa ra quyết định cuối cùng.)*
 - D. It has not been tried yet, and its aim is to avoid waking patients. *(Nó chưa được thử, và mục đích là tránh đánh thức bệnh nhân.)*
 
 **8. Why does Megan mention that she nearly left the department herself?**
 *(Vì sao Megan nhắc rằng chính cô cũng suýt rời khoa?)*
 
-- A. to ask for a pay rise *(để xin tăng lương)*
-- B. to announce her retirement *(để báo nghỉ hưu)*
-- C. to show that she understands how her exhausted colleagues feel, and to support her point about retention *(để cho thấy cô hiểu cảm giác của đồng nghiệp đang kiệt sức, và để củng cố ý của cô về giữ chân nhân viên)*
-- D. to criticize the director *(để chỉ trích giám đốc)*
+- A. to ask the director for a pay rise, since she has worked in the department for more than twenty years *(để xin giám đốc tăng lương, vì cô đã làm ở khoa hơn hai mươi năm)*
+- B. to announce her retirement because she has been exhausted all winter *(để báo nghỉ hưu vì cô đã kiệt sức suốt mùa đông)*
+- C. to show she understands her exhausted colleagues and to support her point about retention *(để cho thấy cô hiểu những đồng nghiệp đang kiệt sức và củng cố ý của cô về giữ chân nhân viên)*
+- D. to criticize the director for letting three experienced nurses leave *(để chỉ trích giám đốc vì để ba điều dưỡng giàu kinh nghiệm rời đi)*
 
 **9. Which statement best describes Megan's attitude in the report?**
 *(Câu nào mô tả đúng nhất thái độ của Megan trong báo cáo?)*
 
 - A. honest about the problems, but positive overall *(thành thật về các vấn đề nhưng nhìn chung tích cực)*
 - B. completely satisfied with every part of the trial *(hoàn toàn hài lòng với mọi phần của thử nghiệm)*
-- C. angry with her colleagues *(giận đồng nghiệp)*
-- D. doubtful that anything can change *(nghi ngờ rằng mọi thứ có thể thay đổi)*
+- C. angry that her colleagues were slow to try the new protocol *(giận vì đồng nghiệp chậm thử quy trình mới)*
+- D. doubtful that anything in the hospital can change *(nghi ngờ rằng bất cứ điều gì trong bệnh viện có thể thay đổi)*
 
 **10. According to Megan, what is retention really about?**
 *(Theo Megan, việc giữ chân nhân viên thực chất là chuyện gì?)*
 
-- A. only salaries *(chỉ lương)*
-- B. longer holidays *(kỳ nghỉ dài hơn)*
+- A. only how much the hospital pays its nurses each month *(chỉ là bệnh viện trả lương điều dưỡng bao nhiêu mỗi tháng)*
+- B. whether the hospital can offer nurses longer holidays *(bệnh viện có thể cho điều dưỡng nghỉ dài hơn không)*
 - C. whether staff believe their ideas can change their workplace *(nhân viên có tin ý tưởng của mình thay đổi được nơi làm việc không)*
 - D. hiring younger nurses *(tuyển điều dưỡng trẻ hơn)*
 
@@ -213,82 +213,82 @@
 **11. What is the traditional idea of the "bystander effect"?**
 *(Ý tưởng truyền thống về "hiệu ứng người ngoài cuộc" là gì?)*
 
-- A. People help more when they are tired. *(Người ta giúp nhiều hơn khi mệt.)*
+- A. People are much more likely to help a stranger when they feel tired and under pressure. *(Người ta có nhiều khả năng giúp người lạ hơn nhiều khi mệt và chịu áp lực.)*
 - B. The more people who see an emergency, the less likely any one of them is to help. *(Càng nhiều người chứng kiến, càng ít khả năng một người trong số đó giúp.)*
-- C. Doctors are the only people who help. *(Chỉ bác sĩ mới giúp.)*
-- D. Strangers never help. *(Người lạ không bao giờ giúp.)*
+- C. Doctors and nurses are the only people who ever step in to help. *(Chỉ bác sĩ và điều dưỡng mới từng đứng ra giúp.)*
+- D. Strangers never help, however few people see the emergency. *(Người lạ không bao giờ giúp, dù chỉ có rất ít người chứng kiến.)*
 
 **12. According to the article, why might each person in a crowd fail to act?**
 *(Theo bài, vì sao mỗi người trong đám đông có thể không hành động?)*
 
 - A. They do not care about strangers. *(Họ không quan tâm người lạ.)*
-- B. They are afraid of the police. *(Họ sợ cảnh sát.)*
-- C. They have never learned first aid. *(Họ chưa từng học sơ cứu.)*
+- B. They are afraid that the police will blame them for getting involved. *(Họ sợ cảnh sát sẽ trách họ vì can dự vào.)*
+- C. They have never learned first aid and do not know whom to call. *(Họ chưa từng học sơ cứu và không biết gọi ai.)*
 - D. They assume someone else has already called, and fear making a fuss about nothing. *(Họ cho rằng ai đó đã gọi rồi, và ngại làm ầm lên vì không có gì.)*
 
 **13. What does the sentence "However, a laboratory is not a street" suggest?**
 *(Câu "Tuy nhiên, phòng thí nghiệm không phải là đường phố" hàm ý gì?)*
 
 - A. Results from experiments may not show what people really do in real life. *(Kết quả thí nghiệm có thể không cho thấy người ta thực sự làm gì ngoài đời.)*
-- B. Laboratories are more dangerous than streets. *(Phòng thí nghiệm nguy hiểm hơn đường phố.)*
-- C. Scientists should not do experiments. *(Nhà khoa học không nên làm thí nghiệm.)*
-- D. Streets need more cameras. *(Đường phố cần thêm camera.)*
+- B. Laboratories are more dangerous places than streets, so experiments should be avoided. *(Phòng thí nghiệm là nơi nguy hiểm hơn đường phố nên cần tránh làm thí nghiệm.)*
+- C. Scientists should stop doing experiments and only watch real life. *(Nhà khoa học nên thôi làm thí nghiệm và chỉ quan sát đời thật.)*
+- D. Streets need more cameras so that every emergency can be recorded. *(Đường phố cần thêm camera để ghi lại mọi tình huống khẩn cấp.)*
 
 **14. How was the 2020 study different from the earlier experiments?**
 *(Nghiên cứu năm 2020 khác các thí nghiệm trước thế nào?)*
 
-- A. It used only students. *(Nó chỉ dùng sinh viên.)*
-- B. It took place in one hospital. *(Nó diễn ra ở một bệnh viện.)*
+- A. It used only university students who were told that they were the only witness. *(Nó chỉ dùng sinh viên đại học được báo rằng họ là người chứng kiến duy nhất.)*
+- B. It took place in a single hospital emergency department over twelve weeks. *(Nó diễn ra ở một khoa cấp cứu của một bệnh viện trong mười hai tuần.)*
 - C. It studied real events recorded by security cameras in several countries. *(Nó nghiên cứu các sự việc thật do camera an ninh ghi lại ở nhiều nước.)*
-- D. It asked people what they would do. *(Nó hỏi người ta sẽ làm gì.)*
+- D. It asked people in three countries what they would do in an emergency. *(Nó hỏi người ở ba nước họ sẽ làm gì khi có tình huống khẩn cấp.)*
 
 **15. Which of these is NOT mentioned as a way bystanders helped?**
 *(Cách nào KHÔNG được nhắc tới như cách người ngoài cuộc đã giúp?)*
 
-- A. calming someone down *(làm ai đó bình tĩnh lại)*
-- B. pulling someone away *(kéo ai đó ra)*
-- C. standing between two people *(đứng chắn giữa hai người)*
-- D. taking photos for the police *(chụp ảnh cho cảnh sát)*
+- A. calming down someone who was angry *(làm dịu người đang tức giận)*
+- B. pulling someone away from the fight *(kéo ai đó ra khỏi cuộc ẩu đả)*
+- C. standing between two people who were arguing *(đứng chắn giữa hai người đang cãi nhau)*
+- D. taking photos of the fight for the police *(chụp ảnh cuộc ẩu đả cho cảnh sát)*
 
 **16. In the paragraph about the surprising result, what does "The very thing" refer to?**
 *(Trong đoạn nói về kết quả bất ngờ, "The very thing" chỉ điều gì?)*
 
-- A. the security cameras *(các camera an ninh)*
+- A. the security cameras in three countries *(các camera an ninh ở ba nước)*
 - B. the presence of many people *(sự có mặt của nhiều người)*
-- C. the laboratory experiments *(các thí nghiệm trong phòng)*
-- D. first-aid classes *(các lớp sơ cứu)*
+- C. the laboratory experiments of the late 1960s *(các thí nghiệm trong phòng thí nghiệm cuối thập niên 1960)*
+- D. Ethan's first-aid classes at the fire department *(các lớp sơ cứu của Ethan ở sở cứu hoả)*
 
 **17. In the paragraph that begins "Does this mean", what is the writer's view of the old idea?**
 *(Trong đoạn bắt đầu bằng "Does this mean", người viết nhìn nhận ý tưởng cũ thế nào?)*
 
 - A. It is partly true: each person may hesitate, but a crowd has more possible helpers. *(Đúng một phần: mỗi người có thể chần chừ, nhưng đám đông có nhiều người có thể giúp hơn.)*
 - B. It is completely true. *(Hoàn toàn đúng.)*
-- C. It is completely false. *(Hoàn toàn sai.)*
-- D. It is impossible to test. *(Không thể kiểm chứng.)*
+- C. It is completely false, because crowds always make help more likely. *(Hoàn toàn sai, vì đám đông luôn làm việc giúp đỡ dễ xảy ra hơn.)*
+- D. It is impossible to test, because real emergencies cannot be studied. *(Không thể kiểm chứng, vì không thể nghiên cứu các tình huống khẩn cấp thật.)*
 
 **18. Why does Ethan advise pointing at one person?**
 *(Vì sao Ethan khuyên chỉ vào một người cụ thể?)*
 
-- A. because it is more polite *(vì lịch sự hơn)*
-- B. because people in red jackets are calmer *(vì người mặc áo đỏ bình tĩnh hơn)*
-- C. because crowds cannot hear shouting *(vì đám đông không nghe được tiếng hét)*
+- A. because it is more polite than shouting at the whole crowd at once *(vì lịch sự hơn so với việc hét lên với cả đám đông)*
+- B. because people who wear red jackets are usually calmer and quicker to act in an emergency *(vì người mặc áo khoác đỏ thường bình tĩnh và hành động nhanh hơn khi khẩn cấp)*
+- C. because crowds are too noisy for anyone to hear a shout for help *(vì đám đông quá ồn nên không ai nghe được tiếng kêu cứu)*
 - D. because a direct request removes the doubt about whether someone else has called *(vì lời nhờ trực tiếp xoá nghi ngờ về việc ai đó đã gọi chưa)*
 
 **19. What does the final sentence, "In our job, that someone is very often us", imply?**
 *(Câu cuối "Trong nghề của chúng ta, người đó rất thường là chính chúng ta" hàm ý gì?)*
 
-- A. Hospital staff should avoid emergencies outside work. *(Nhân viên bệnh viện nên tránh tình huống khẩn cấp ngoài giờ.)*
+- A. Hospital staff should avoid getting involved in emergencies outside work, since they are tired. *(Nhân viên bệnh viện nên tránh dính vào tình huống khẩn cấp ngoài giờ vì họ đã mệt.)*
 - B. Health workers are often the person who should take charge and tell others what to do. *(Nhân viên y tế thường là người nên đứng ra chỉ huy và bảo người khác phải làm gì.)*
-- C. Doctors are more cynical than other people. *(Bác sĩ hoài nghi hơn người khác.)*
-- D. Nurses should teach first aid. *(Điều dưỡng nên dạy sơ cứu.)*
+- C. Doctors are more cynical about strangers than most other people are. *(Bác sĩ hoài nghi người lạ hơn hầu hết mọi người.)*
+- D. Nurses should teach first aid to the fire department. *(Điều dưỡng nên dạy sơ cứu cho sở cứu hoả.)*
 
 **20. Use both texts. What do Megan's report and Leah's article have in common?**
 *(Dựa vào cả hai bài. Báo cáo của Megan và bài viết của Leah có điểm gì chung?)*
 
 - A. Both of them reject research. *(Cả hai đều bác bỏ nghiên cứu.)*
-- B. Both of them describe a fight in public. *(Cả hai đều tả một vụ xô xát nơi công cộng.)*
-- C. Both of them show that clear communication about who does what can reduce mistakes and delays. *(Cả hai cho thấy giao tiếp rõ ràng về việc ai làm gì có thể giảm sai sót và chậm trễ.)*
-- D. Both of them were written for patients. *(Cả hai đều viết cho bệnh nhân.)*
+- B. Both of them describe a fight in a public place that nurses had to stop. *(Cả hai đều tả một vụ xô xát nơi công cộng mà điều dưỡng phải can ngăn.)*
+- C. Both of them show that clear communication about who does what can reduce mistakes. *(Cả hai cho thấy giao tiếp rõ ràng về việc ai làm gì có thể giảm sai sót.)*
+- D. Both of them were written mainly to reassure patients about hospital care. *(Cả hai chủ yếu được viết để trấn an bệnh nhân về việc chăm sóc ở bệnh viện.)*
 
 ---
 

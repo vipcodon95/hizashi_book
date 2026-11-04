@@ -97,82 +97,82 @@
 **1. What surprised Mitchell about his experience on the jury?**
 *(Điều gì làm Mitchell bất ngờ về trải nghiệm làm bồi thẩm?)*
 
-- A. that trials last only one day *(rằng phiên toà chỉ kéo dài một ngày)*
-- B. that jurors are paid well *(rằng bồi thẩm được trả lương cao)*
-- C. that his students knew more than he did *(rằng học sinh biết nhiều hơn ông)*
-- D. that, despite teaching about trials for years, he understood little about being a juror *(rằng dù dạy về phiên toà nhiều năm, ông hiểu rất ít về việc làm bồi thẩm)*
+- A. that trials last only one day, although he had always told his students they last a week *(rằng phiên toà chỉ kéo dài một ngày, dù ông luôn nói với học sinh là kéo dài một tuần)*
+- B. that jurors are paid very well for the days they spend in court *(rằng bồi thẩm được trả lương rất cao cho những ngày ở toà)*
+- C. that his students knew more about trials than he did after all those years *(rằng học sinh biết về phiên toà nhiều hơn ông dù ông dạy bấy nhiêu năm)*
+- D. that, after teaching about trials for years, he knew so little about being a juror *(rằng sau nhiều năm dạy về phiên toà, ông lại biết quá ít về việc làm bồi thẩm)*
 
 **2. Which of these was NOT part of the prosecution's evidence?**
 *(Điều nào KHÔNG nằm trong bằng chứng của bên công tố?)*
 
 - A. the stolen tools found in the young man's home *(các dụng cụ bị mất tìm thấy ở nhà chàng trai)*
-- B. a blurry security video *(một đoạn video an ninh mờ)*
-- C. a witness who saw a white van *(một nhân chứng thấy xe tải trắng)*
-- D. the fact that he owned a gray hoodie *(việc anh ta có áo hoodie xám)*
+- B. a blurry security video of a man in a gray hoodie *(một đoạn video an ninh mờ quay người đàn ông áo hoodie xám)*
+- C. a witness who had seen a white van that night *(một nhân chứng đã thấy chiếc xe tải trắng đêm đó)*
+- D. the fact that he owned a gray hoodie and had once worked at the site *(việc anh ta có áo hoodie xám và từng làm ở công trường)*
 
 **3. Why did the judge tell the jurors not to search online?**
 *(Vì sao thẩm phán dặn bồi thẩm không tìm kiếm trên mạng?)*
 
-- A. because the internet was not working *(vì mạng bị hỏng)*
-- B. because searching online is illegal for everyone *(vì tìm kiếm trên mạng là phạm pháp với mọi người)*
+- A. because the internet in the court building was not working that month *(vì mạng trong toà nhà toà án tháng đó bị hỏng)*
+- B. because searching online is illegal for everyone, whether or not they are on a jury *(vì tìm kiếm trên mạng là phạm pháp với mọi người, dù có làm bồi thẩm hay không)*
 - C. so that the verdict would be based only on the evidence presented in court *(để phán quyết chỉ dựa trên bằng chứng được trình bày trước toà)*
-- D. so that the trial would finish faster *(để phiên toà kết thúc nhanh hơn)*
+- D. so that the trial would finish faster and cost the court less money *(để phiên toà kết thúc nhanh hơn và toà đỡ tốn tiền)*
 
 **4. What does "unanimous" mean in this text?**
 *(Trong bài, "unanimous" nghĩa là gì?)*
 
-- A. made quickly *(được đưa ra nhanh)*
+- A. decided without much thought *(được quyết định mà không suy nghĩ nhiều)*
 - B. agreed by everyone *(được mọi người đồng ý)*
-- C. made in secret *(được đưa ra bí mật)*
-- D. agreed by most people *(được đa số đồng ý)*
+- C. made in a private room *(được đưa ra trong một căn phòng riêng)*
+- D. agreed by most of the members *(được đa số thành viên đồng ý)*
 
 **5. Why does Mitchell say "I am not proud of the reason"?**
 *(Vì sao Mitchell nói "tôi không tự hào về lý do"?)*
 
 - A. because he had judged the young man on how nervous he looked, not on the evidence *(vì ông đã đánh giá chàng trai qua vẻ căng thẳng chứ không qua bằng chứng)*
-- B. because he had read about the case online *(vì ông đã đọc về vụ án trên mạng)*
-- C. because he knew the young man *(vì ông quen chàng trai)*
-- D. because he had fallen asleep in court *(vì ông ngủ gật ở toà)*
+- B. because he had read about the case online before the trial began, against the judge's orders *(vì ông đã đọc về vụ án trên mạng trước phiên toà, trái lệnh của thẩm phán)*
+- C. because he knew the young man from the building site where he worked *(vì ông quen chàng trai từ công trường nơi anh ta làm việc)*
+- D. because he had fallen asleep in court during the second day of the trial *(vì ông ngủ gật ở toà vào ngày thứ hai của phiên xử)*
 
 **6. How did Mrs. Ellison change the other jurors' minds?**
 *(Bà Ellison làm các bồi thẩm khác đổi ý bằng cách nào?)*
 
-- A. by shouting at them *(bằng cách quát họ)*
-- B. by showing them new evidence *(bằng cách đưa bằng chứng mới)*
-- C. by telling them a personal story *(bằng cách kể chuyện riêng)*
+- A. by shouting at them until they agreed with her *(bằng cách quát họ cho tới khi họ đồng ý với bà)*
+- B. by showing them new evidence that the police had missed on the building site *(bằng cách đưa ra bằng chứng mới mà cảnh sát đã bỏ sót ở công trường)*
+- C. by telling them a long personal story about her own family *(bằng cách kể một câu chuyện dài về gia đình bà)*
 - D. by asking polite questions that made them check the evidence honestly *(bằng cách đặt những câu hỏi lịch sự khiến họ kiểm lại bằng chứng một cách trung thực)*
 
 **7. What is suggested by the detail "Several of us were wearing one"?**
 *(Chi tiết "Vài người trong chúng tôi đang mặc một cái" gợi ý điều gì?)*
 
-- A. The jurors had planned to wear hoodies. *(Các bồi thẩm đã hẹn nhau mặc hoodie.)*
+- A. The jurors had agreed to wear hoodies so that they could hide from the cameras. *(Các bồi thẩm đã hẹn mặc hoodie để tránh camera.)*
 - B. A gray hoodie is so common that it proves almost nothing about who the thief was. *(Áo hoodie xám phổ biến tới mức gần như chẳng chứng minh được ai là kẻ trộm.)*
-- C. The jury room was cold. *(Phòng nghị án lạnh.)*
-- D. The jurors supported the young man. *(Các bồi thẩm ủng hộ chàng trai.)*
+- C. The jury room was so cold that the jurors had put on warm clothes. *(Phòng nghị án lạnh tới mức các bồi thẩm phải mặc thêm áo ấm.)*
+- D. The jurors supported the young man and wanted him to go free. *(Các bồi thẩm ủng hộ chàng trai và muốn anh được thả.)*
 
 **8. According to Mitchell, what does a verdict of "not guilty" mean?**
 *(Theo Mitchell, phán quyết "vô tội" nghĩa là gì?)*
 
-- A. The jury was sure the young man was innocent. *(Bồi thẩm đoàn chắc chắn chàng trai vô tội.)*
-- B. The young man will be tried again. *(Chàng trai sẽ bị xử lại.)*
+- A. The jury was sure the young man was innocent of the crime. *(Bồi thẩm đoàn chắc chắn chàng trai vô tội trong vụ này.)*
+- B. The young man will be tried again by a different jury. *(Chàng trai sẽ bị xử lại trước một bồi thẩm đoàn khác.)*
 - C. The evidence was not strong enough to prove guilt. *(Bằng chứng không đủ mạnh để chứng minh có tội.)*
-- D. The judge made the final decision. *(Thẩm phán ra quyết định cuối cùng.)*
+- D. The judge made the final decision after the jury had talked. *(Thẩm phán ra quyết định cuối cùng sau khi bồi thẩm đoàn bàn bạc.)*
 
 **9. Why does Mitchell say the difference between "not guilty" and "innocent" is "the whole point of the system"?**
 *(Vì sao Mitchell nói khác biệt giữa "không đủ căn cứ kết tội" và "vô tội" là "toàn bộ ý nghĩa của hệ thống"?)*
 
-- A. because the system requires guilt to be proved, rather than requiring people to prove that they did nothing wrong *(vì hệ thống đòi phải chứng minh có tội, chứ không bắt người ta chứng minh mình vô tội)*
-- B. because the system wants more people in prison *(vì hệ thống muốn nhiều người vào tù hơn)*
-- C. because juries never make mistakes *(vì bồi thẩm đoàn không bao giờ sai)*
-- D. because judges prefer not to decide *(vì thẩm phán ngại quyết định)*
+- A. because guilt must be proved; people do not have to prove they did nothing wrong *(vì phải chứng minh có tội; người ta không phải chứng minh mình không làm gì sai)*
+- B. because the system wants more people to go to prison for their crimes *(vì hệ thống muốn nhiều người phải vào tù vì tội của họ)*
+- C. because juries never make mistakes, so a verdict is always correct *(vì bồi thẩm đoàn không bao giờ sai nên phán quyết luôn đúng)*
+- D. because judges prefer not to decide, so the jury makes every choice *(vì thẩm phán ngại quyết định nên bồi thẩm đoàn đưa ra mọi lựa chọn)*
 
 **10. What is Mitchell's main advice to readers?**
 *(Lời khuyên chính của Mitchell cho người đọc là gì?)*
 
-- A. Avoid jury duty if possible. *(Tránh làm bồi thẩm nếu được.)*
-- B. Trust your first impressions. *(Hãy tin ấn tượng đầu tiên.)*
+- A. Avoid jury duty if possible, because it takes up too much time. *(Tránh làm bồi thẩm nếu được, vì nó tốn quá nhiều thời gian.)*
+- B. Trust your first impressions, because they are usually correct and save a lot of time. *(Hãy tin ấn tượng đầu tiên, vì chúng thường đúng và đỡ mất nhiều thời gian.)*
 - C. If called for jury duty, go, and be careful about your own first impressions. *(Nếu được gọi làm bồi thẩm, hãy đi, và cẩn thận với ấn tượng đầu tiên của chính mình.)*
-- D. Become a lawyer. *(Hãy làm luật sư.)*
+- D. Become a lawyer so that you can help people in court. *(Hãy làm luật sư để giúp người ta ở toà.)*
 
 ---
 
@@ -217,82 +217,82 @@
 **11. Why is a protein's shape so important?**
 *(Vì sao hình dạng của protein lại quan trọng đến thế?)*
 
-- A. because it decides the protein's color *(vì nó quyết định màu của protein)*
+- A. because it decides the protein's color and how heavy it is *(vì nó quyết định màu và độ nặng của protein)*
 - B. because its function depends on it, and a change in shape can cause disease *(vì chức năng của nó phụ thuộc vào hình dạng, và hình dạng đổi có thể gây bệnh)*
-- C. because it makes the protein heavier *(vì nó làm protein nặng hơn)*
-- D. because it helps scientists win prizes *(vì nó giúp nhà khoa học đoạt giải)*
+- C. because it makes the protein heavier and easier to measure *(vì nó làm protein nặng hơn và dễ đo hơn)*
+- D. because it helps scientists win prizes and attract money for research *(vì nó giúp nhà khoa học đoạt giải và thu hút tiền nghiên cứu)*
 
 **12. What did Christian Anfinsen show?**
 *(Christian Anfinsen đã chứng minh điều gì?)*
 
-- A. that proteins have no fixed shape *(rằng protein không có hình dạng cố định)*
-- B. that AI can predict shapes *(rằng AI có thể dự đoán hình dạng)*
+- A. that proteins have no fixed shape and change it in every cell *(rằng protein không có hình dạng cố định và đổi hình ở mỗi tế bào)*
+- B. that AI can predict shapes better than any laboratory method *(rằng AI dự đoán hình dạng tốt hơn mọi phương pháp trong phòng thí nghiệm)*
 - C. that the chain itself contains the information needed to find the shape *(rằng bản thân chuỗi chứa thông tin cần để tìm ra hình dạng)*
-- D. that proteins carry oxygen *(rằng protein chở oxy)*
+- D. that proteins carry oxygen and help muscles to move *(rằng protein chở oxy và giúp cơ bắp chuyển động)*
 
 **13. Why was the problem so difficult to solve "in practice"?**
 *(Vì sao bài toán khó giải đến thế "trên thực tế"?)*
 
-- A. because nobody was interested in it *(vì không ai quan tâm)*
-- B. because laboratories were closed *(vì phòng thí nghiệm đóng cửa)*
-- C. because the chain contains no information *(vì chuỗi không chứa thông tin gì)*
+- A. because nobody was interested in solving it until the 1990s *(vì không ai quan tâm giải nó cho đến thập niên 1990)*
+- B. because laboratories were closed for most of the twentieth century *(vì phòng thí nghiệm đóng cửa gần suốt thế kỷ hai mươi)*
+- C. because the chain contains no information about the shape at all *(vì chuỗi không chứa thông tin nào về hình dạng)*
 - D. because there are so many possible shapes that testing each one would take far too long *(vì có quá nhiều hình dạng khả dĩ tới mức thử từng cái sẽ mất thời gian không tưởng)*
 
 **14. What is the purpose of the competition that started in 1994?**
 *(Cuộc thi bắt đầu từ năm 1994 nhằm mục đích gì?)*
 
 - A. to test how well teams can predict shapes that have been measured but not yet made public *(để kiểm tra các nhóm dự đoán tốt tới đâu những hình dạng đã đo nhưng chưa công bố)*
-- B. to award the Nobel Prize *(để trao giải Nobel)*
-- C. to build new laboratories *(để xây phòng thí nghiệm mới)*
-- D. to teach students about proteins *(để dạy sinh viên về protein)*
+- B. to award the Nobel Prize to the team that finds the most shapes *(để trao giải Nobel cho nhóm tìm được nhiều hình dạng nhất)*
+- C. to build new laboratories in the countries that take part *(để xây phòng thí nghiệm mới ở các nước tham gia)*
+- D. to teach students about proteins and how to measure them *(để dạy sinh viên về protein và cách đo chúng)*
 
 **15. What was remarkable about AlphaFold's results in 2020?**
 *(Kết quả của AlphaFold năm 2020 có gì đáng chú ý?)*
 
-- A. They were slower than laboratory methods. *(Chúng chậm hơn phương pháp phòng thí nghiệm.)*
+- A. They were slower than laboratory methods but much cheaper. *(Chúng chậm hơn phương pháp phòng thí nghiệm nhưng rẻ hơn nhiều.)*
 - B. For many proteins, they were about as accurate as laboratory measurements. *(Với nhiều protein, chúng chính xác gần bằng phép đo trong phòng thí nghiệm.)*
-- C. They covered only one protein. *(Chúng chỉ có một protein.)*
-- D. They were completely wrong. *(Chúng sai hoàn toàn.)*
+- C. They covered only one protein, which had been measured already. *(Chúng chỉ có một protein, vốn đã được đo rồi.)*
+- D. They were completely wrong, so the competition was stopped. *(Chúng sai hoàn toàn nên cuộc thi bị dừng lại.)*
 
 **16. What does the growth of the public database from about 360,000 to around 200 million predictions show?**
 *(Việc cơ sở dữ liệu tăng từ khoảng 360.000 lên khoảng 200 triệu dự đoán cho thấy điều gì?)*
 
-- A. The database has become less reliable. *(Cơ sở dữ liệu kém tin cậy hơn.)*
-- B. Only a few scientists use it. *(Chỉ vài nhà khoa học dùng nó.)*
-- C. Laboratories now measure 200 million proteins a year. *(Phòng thí nghiệm giờ đo 200 triệu protein mỗi năm.)*
+- A. The database has become less reliable as it has grown so much. *(Cơ sở dữ liệu kém tin cậy hơn khi lớn lên quá nhiều.)*
+- B. Only a few scientists use it, mostly those who work for DeepMind. *(Chỉ vài nhà khoa học dùng nó, chủ yếu là người làm cho DeepMind.)*
+- C. Laboratories now measure about 200 million proteins every single year. *(Phòng thí nghiệm giờ đo khoảng 200 triệu protein mỗi năm.)*
 - D. How quickly the technology spread to cover almost all known proteins. *(Công nghệ lan nhanh tới mức bao phủ gần như mọi protein đã biết.)*
 
 **17. Who shared the 2024 Nobel Prize in Chemistry?**
 *(Ai cùng nhận giải Nobel Hoá học năm 2024?)*
 
 - A. Demis Hassabis, John Jumper and David Baker *(Demis Hassabis, John Jumper và David Baker)*
-- B. Christian Anfinsen and David Baker *(Christian Anfinsen và David Baker)*
-- C. only the company DeepMind *(chỉ công ty DeepMind)*
-- D. all the teams in the competition *(tất cả các nhóm trong cuộc thi)*
+- B. Christian Anfinsen, Demis Hassabis and David Baker *(Christian Anfinsen, Demis Hassabis và David Baker)*
+- C. only the company DeepMind, which built AlphaFold *(chỉ công ty DeepMind, nơi xây dựng AlphaFold)*
+- D. all the teams that took part in the competition *(tất cả các nhóm tham gia cuộc thi)*
 
 **18. Why does the writer say that concluding "laboratories are no longer needed" would be a mistake?**
 *(Vì sao người viết nói kết luận "không còn cần phòng thí nghiệm" là sai lầm?)*
 
-- A. because AI predictions are always wrong *(vì dự đoán của AI luôn sai)*
-- B. because laboratories are cheaper *(vì phòng thí nghiệm rẻ hơn)*
-- C. because predictions are approximations, and AI is still limited in predicting how proteins move and work together *(vì dự đoán chỉ là gần đúng, và AI vẫn hạn chế khi dự đoán protein chuyển động và phối hợp ra sao)*
-- D. because the Nobel Prize requires experiments *(vì giải Nobel đòi thí nghiệm)*
+- A. because AI predictions are always wrong whenever scientists check them *(vì dự đoán của AI luôn sai mỗi khi nhà khoa học kiểm tra)*
+- B. because laboratories are cheaper and faster than AI, and they can measure every protein in minutes *(vì phòng thí nghiệm rẻ và nhanh hơn AI, và đo được mọi protein trong vài phút)*
+- C. because predictions are approximations, and AI is still limited in predicting how proteins move *(vì dự đoán chỉ là gần đúng, và AI vẫn hạn chế khi dự đoán cách protein chuyển động)*
+- D. because the Nobel Prize can only be won by scientists who use experiments *(vì giải Nobel chỉ trao cho nhà khoa học dùng thí nghiệm)*
 
 **19. According to the writer, what is the most important change AlphaFold has brought?**
 *(Theo người viết, thay đổi quan trọng nhất AlphaFold mang lại là gì?)*
 
-- A. Scientists no longer need to work for years. *(Nhà khoa học không còn phải làm việc nhiều năm.)*
-- B. Proteins can now be built in minutes. *(Giờ có thể tạo protein trong vài phút.)*
-- C. Diseases have been cured. *(Bệnh tật đã được chữa khỏi.)*
-- D. Scientists can start with a good guess and spend their time on deeper questions about what shapes mean. *(Nhà khoa học bắt đầu bằng một phỏng đoán tốt và dành thời gian cho những câu hỏi sâu hơn về ý nghĩa của hình dạng.)*
+- A. Scientists no longer need laboratories, because every prediction is now certain to be right. *(Nhà khoa học không còn cần phòng thí nghiệm, vì mọi dự đoán giờ chắc chắn đúng.)*
+- B. Proteins can now be built in minutes by anyone with a computer. *(Giờ ai có máy tính cũng có thể tạo protein trong vài phút.)*
+- C. Diseases caused by protein mutations have all been cured. *(Mọi bệnh do đột biến protein đều đã được chữa khỏi.)*
+- D. Scientists can start with a good guess and spend their time asking what the shape means. *(Nhà khoa học có thể bắt đầu bằng một phỏng đoán tốt và dành thời gian hỏi hình dạng có ý nghĩa gì.)*
 
 **20. Use both texts. What do Mitchell's essay and the article about proteins have in common?**
 *(Dựa vào cả hai bài. Bài của Mitchell và bài về protein có điểm gì chung?)*
 
-- A. Both of them are about hospitals. *(Cả hai đều về bệnh viện.)*
-- B. Both of them warn against treating a first impression or a prediction as certain without checking the evidence. *(Cả hai cảnh báo việc coi một ấn tượng đầu tiên hay một dự đoán là chắc chắn mà không kiểm chứng bằng chứng.)*
-- C. Both of them describe a competition. *(Cả hai đều tả một cuộc thi.)*
-- D. Both of them say that experts are always right. *(Cả hai đều nói chuyên gia luôn đúng.)*
+- A. Both of them are about hospitals and the people who work in them. *(Cả hai đều về bệnh viện và những người làm việc ở đó.)*
+- B. Both of them warn against treating a first impression or a prediction as certain without checking. *(Cả hai cảnh báo việc coi ấn tượng đầu tiên hay dự đoán là chắc chắn mà không kiểm chứng.)*
+- C. Both of them describe a competition between two teams of experts. *(Cả hai đều tả một cuộc thi giữa hai nhóm chuyên gia.)*
+- D. Both of them say that experts are always right and that ordinary people should never question their decisions. *(Cả hai đều nói chuyên gia luôn đúng và người thường không bao giờ nên nghi ngờ quyết định của họ.)*
 
 ---
 

@@ -84,17 +84,17 @@
 *(Mục đích chính của thông báo là gì?)*
 
 - A. to announce the opening of a studio and invite people to its events *(thông báo khai trương một studio và mời mọi người tới các sự kiện)*
-- B. to advertise jobs at the studio *(quảng cáo tuyển người ở studio)*
-- C. to sell bikes *(bán xe đạp)*
-- D. to announce that Harriet's is closing *(thông báo quán Harriet's đóng cửa)*
+- B. to advertise jobs at the studio for designers and illustrators *(để quảng cáo tuyển nhà thiết kế và hoạ sĩ minh hoạ ở studio)*
+- C. to sell bikes from the shop below the studio *(để bán xe đạp từ cửa hàng bên dưới studio)*
+- D. to announce that Harriet's café is closing after three years *(để thông báo quán Harriet's đóng cửa sau ba năm)*
 
 **2. Where did Chloe work before opening the studio?**
 *(Trước khi mở studio, Chloe làm việc ở đâu?)*
 
-- A. in the bike shop *(trong cửa hàng xe đạp)*
-- B. at a large design company *(ở một công ty thiết kế lớn)*
+- A. in a rented room above the bike shop on Ocean Avenue *(trong một căn phòng thuê phía trên cửa hàng xe đạp ở Ocean Avenue)*
+- B. at a large design company before she moved to San Diego *(ở một công ty thiết kế lớn trước khi cô chuyển tới San Diego)*
 - C. at her kitchen table and in a corner of Harriet's café *(trên bàn bếp và ở một góc quán Harriet's)*
-- D. at Pine Street Library *(ở thư viện Pine Street)*
+- D. at Pine Street Library, where she ran the art program *(ở thư viện Pine Street, nơi cô điều hành chương trình nghệ thuật)*
 
 **3. Which event does NOT need to be booked?**
 *(Sự kiện nào KHÔNG cần đăng ký?)*
@@ -107,58 +107,58 @@
 **4. A 9-year-old wants to join "Draw Your Street". What must happen?**
 *(Một em 9 tuổi muốn tham gia "Vẽ con phố của em". Điều gì bắt buộc?)*
 
-- A. The child must pay $10. *(Em phải trả 10 đô.)*
-- B. The child must bring their own materials. *(Em phải tự mang dụng cụ.)*
-- C. The child must book a portfolio review. *(Em phải đăng ký góp ý hồ sơ.)*
+- A. The child must pay $10 at the door. *(Em phải trả 10 đô ở cửa.)*
+- B. The child must bring their own materials and paper. *(Em phải tự mang dụng cụ và giấy.)*
+- C. The child must book a portfolio review first. *(Em phải đăng ký góp ý hồ sơ trước.)*
 - D. An adult must come with the child. *(Phải có người lớn đi cùng.)*
 
 **5. Who can book a portfolio review?**
 *(Ai được đăng ký góp ý hồ sơ năng lực?)*
 
 - A. students and recent graduates *(sinh viên và người mới tốt nghiệp)*
-- B. children aged 8 to 12 *(trẻ 8 tới 12 tuổi)*
-- C. only freelancers *(chỉ người làm tự do)*
-- D. anyone who buys a ticket *(bất kỳ ai mua vé)*
+- B. children aged 8 to 12 with an adult *(trẻ 8 tới 12 tuổi đi cùng người lớn)*
+- C. only freelancers who work from home *(chỉ người làm tự do làm việc tại nhà)*
+- D. anyone who buys a ticket for the talk *(bất kỳ ai mua vé buổi nói chuyện)*
 
 **6. What can be inferred from Chloe's words "too grateful to ask for a fair price"?**
 *(Có thể suy ra gì từ lời Chloe "biết ơn quá nên không dám đòi một mức giá công bằng"?)*
 
-- A. Her clients refused to pay her. *(Khách không chịu trả tiền cho cô.)*
-- B. In her first year, she charged less than her work was worth because she was thankful just to have clients. *(Năm đầu, cô lấy giá thấp hơn giá trị công việc vì biết ơn chỉ riêng việc có khách.)*
-- C. She has stopped working as a freelancer. *(Cô đã thôi làm tự do.)*
-- D. She now charges too much. *(Giờ cô lấy giá quá cao.)*
+- A. Her clients refused to pay her for the work that she had done in her first year. *(Khách không chịu trả tiền cho công việc cô làm trong năm đầu.)*
+- B. She charged too little in her first year because she was thankful to have clients. *(Năm đầu, cô lấy giá quá thấp vì biết ơn có khách.)*
+- C. She has stopped working as a freelancer and now works for a big company. *(Cô đã thôi làm tự do và giờ làm cho một công ty lớn.)*
+- D. She now charges too much and has lost most of her clients. *(Giờ cô lấy giá quá cao và đã mất phần lớn khách.)*
 
 **7. What will happen to the money from the Wednesday talk?**
 *(Tiền từ buổi nói chuyện thứ Tư sẽ được dùng thế nào?)*
 
-- A. It will pay for the new studio. *(Trả cho studio mới.)*
-- B. It will go to Ruby and Sam. *(Trả cho Ruby và Sam.)*
+- A. It will pay for the new studio and the rent for the first year. *(Dùng để trả cho studio mới và tiền thuê năm đầu.)*
+- B. It will go to Ruby and Sam as payment for their work that week. *(Trả cho Ruby và Sam vì công việc của họ trong tuần đó.)*
 - C. It will go to the youth art program at Pine Street Library. *(Dành cho chương trình nghệ thuật thiếu nhi ở thư viện Pine Street.)*
-- D. It will buy drawing materials. *(Mua dụng cụ vẽ.)*
+- D. It will buy drawing materials for the children's drawing afternoon. *(Mua dụng cụ vẽ cho buổi chiều vẽ của trẻ em.)*
 
 **8. Why does the notice give a phone number at the end?**
 *(Vì sao cuối thông báo có ghi số điện thoại?)*
 
-- A. so that people can book the Open House *(để người ta đăng ký ngày mở cửa)*
-- B. so that people can order coffee *(để người ta gọi cà phê)*
-- C. so that people can complain *(để người ta phàn nàn)*
-- D. so that visitors who need help with the stairs can arrange for someone to meet them *(để khách cần giúp lên cầu thang có thể hẹn người xuống đón)*
+- A. so that people can book a place at the Open House on Saturday morning *(để người ta đăng ký chỗ ở ngày mở cửa vào sáng thứ Bảy)*
+- B. so that people can order coffee for the opening week in advance *(để người ta đặt cà phê trước cho tuần khai trương)*
+- C. so that people who want to complain about the stairs can do so *(để người muốn phàn nàn về cầu thang có thể gọi)*
+- D. so that visitors who need help with the stairs can ask for someone to meet them *(để khách cần giúp lên cầu thang có thể nhờ người xuống đón)*
 
 **9. Which word best describes the tone of the notice?**
 *(Từ nào mô tả đúng nhất giọng của thông báo?)*
 
 - A. warm and welcoming, with a little humor *(ấm áp, niềm nở, có chút hài hước)*
-- B. formal and strict *(trang trọng và nghiêm khắc)*
-- C. worried *(lo lắng)*
-- D. sad *(buồn)*
+- B. formal and strict, like a warning from an office *(trang trọng và nghiêm khắc, như lời cảnh cáo từ văn phòng)*
+- C. worried and slightly nervous *(lo lắng và hơi bồn chồn)*
+- D. sad and a little disappointed *(buồn và hơi thất vọng)*
 
 **10. What can be inferred about the talk "What Should I Charge?"**
 *(Có thể suy ra gì về buổi nói chuyện "Tôi nên lấy giá bao nhiêu?")*
 
-- A. It is only for designers. *(Chỉ dành cho nhà thiết kế.)*
-- B. It is free. *(Miễn phí.)*
-- C. It is meant to be useful to anyone who works for themselves, not only people in Chloe's field. *(Nó nhằm giúp ích cho bất kỳ ai tự làm cho mình, không chỉ người cùng ngành với Chloe.)*
-- D. It takes place on Saturday. *(Diễn ra thứ Bảy.)*
+- A. It is only for designers who want to open their own studio. *(Chỉ dành cho nhà thiết kế muốn mở studio riêng.)*
+- B. It is free for students and recent graduates, but not for others. *(Miễn phí cho sinh viên và người mới tốt nghiệp, người khác thì không.)*
+- C. It is meant to be useful to anyone who works for themselves, not only designers. *(Nó nhằm giúp ích cho bất kỳ ai tự làm cho mình, không chỉ nhà thiết kế.)*
+- D. It takes place on Saturday, after the Open House has finished. *(Diễn ra thứ Bảy, sau khi ngày mở cửa kết thúc.)*
 
 ---
 
@@ -197,82 +197,82 @@
 **11. What did the researchers do while wearing the cave-man mask?**
 *(Các nhà nghiên cứu làm gì khi đeo mặt nạ người tiền sử?)*
 
-- A. They fed the crows. *(Họ cho quạ ăn.)*
+- A. They fed the crows every day to make them friendly towards the masks. *(Họ cho quạ ăn mỗi ngày để chúng thân thiện với mặt nạ.)*
 - B. They caught seven crows, put bands on their legs and released them. *(Họ bắt bảy con quạ, đeo vòng vào chân rồi thả ra.)*
-- C. They took photos of the crows. *(Họ chụp ảnh quạ.)*
-- D. They hurt the crows. *(Họ làm quạ bị thương.)*
+- C. They took photos of the crows from the trees. *(Họ chụp ảnh quạ từ trên cây.)*
+- D. They hurt the crows so that they would remember the mask. *(Họ làm quạ bị thương để chúng nhớ chiếc mặt nạ.)*
 
 **12. Why did the researchers also use an ordinary mask?**
 *(Vì sao các nhà nghiên cứu còn dùng một chiếc mặt nạ bình thường?)*
 
-- A. because the cave-man mask broke *(vì mặt nạ người tiền sử bị hỏng)*
-- B. to frighten the crows more *(để doạ quạ nhiều hơn)*
-- C. to hide from students *(để trốn sinh viên)*
-- D. to compare the crows' reactions to a face that had not been linked to danger *(để so sánh phản ứng của quạ với một khuôn mặt không gắn với mối nguy)*
+- A. because the cave-man mask broke and the researchers needed another one *(vì mặt nạ người tiền sử bị hỏng và các nhà nghiên cứu cần cái khác)*
+- B. to frighten the crows more than the first mask had done *(để doạ quạ nhiều hơn chiếc mặt nạ đầu)*
+- C. to hide from students who walked across the campus *(để trốn những sinh viên đi qua khuôn viên)*
+- D. to compare the crows' reactions with a face not linked to danger *(để so sánh phản ứng của quạ với một khuôn mặt không gắn với mối nguy)*
 
 **13. What does "scold" mean in the article?**
 *(Trong bài, "scold" nghĩa là gì?)*
 
 - A. to make loud, angry calls at someone *(kêu to, giận dữ vào ai đó)*
-- B. to fly away quickly *(bay đi thật nhanh)*
-- C. to hide in the trees *(trốn trên cây)*
-- D. to follow someone quietly *(lặng lẽ đi theo ai đó)*
+- B. to fly away quickly when a person comes near *(bay đi thật nhanh khi có người lại gần)*
+- C. to hide in the trees until the person leaves *(trốn trên cây cho tới khi người đó đi)*
+- D. to follow someone quietly without making a sound *(lặng lẽ đi theo ai đó mà không phát ra tiếng)*
 
 **14. What shows that the crows really recognized the face, not just the mask's shape?**
 *(Điều gì cho thấy quạ thật sự nhận ra khuôn mặt chứ không chỉ hình dáng mặt nạ?)*
 
-- A. They ignored the cave-man mask. *(Chúng phớt lờ mặt nạ người tiền sử.)*
-- B. They only reacted on campus. *(Chúng chỉ phản ứng trong khuôn viên trường.)*
+- A. They ignored the cave-man mask and flew away from the campus. *(Chúng phớt lờ mặt nạ người tiền sử và bay khỏi khuôn viên.)*
+- B. They only reacted on campus, never in the nearby streets. *(Chúng chỉ phản ứng trong khuôn viên, không bao giờ ở các phố gần đó.)*
 - C. They reacted even when it was partly hidden under a hat or worn upside down. *(Chúng phản ứng cả khi nó bị che một phần dưới mũ hay đeo ngược.)*
-- D. They reacted to the ordinary mask too. *(Chúng cũng phản ứng với mặt nạ bình thường.)*
+- D. They reacted to the ordinary mask as strongly as to the cave-man mask. *(Chúng phản ứng với mặt nạ bình thường mạnh như với mặt nạ người tiền sử.)*
 
 **15. Why does the writer describe the next finding as "Even more startling"?**
 *(Vì sao người viết gọi phát hiện tiếp theo là "Đáng kinh ngạc hơn nữa"?)*
 
-- A. because the researchers were attacked *(vì các nhà nghiên cứu bị tấn công)*
+- A. because the researchers were attacked by dozens of crows whenever they left the building *(vì các nhà nghiên cứu bị hàng chục con quạ tấn công mỗi khi rời toà nhà)*
 - B. because crows that had never been caught also learned to scold the mask *(vì cả những con quạ chưa từng bị bắt cũng học cách mắng chiếc mặt nạ)*
-- C. because the crows forgot the face *(vì quạ quên khuôn mặt)*
-- D. because the crows left the campus *(vì quạ bỏ khuôn viên trường)*
+- C. because the crows forgot the face after only a few days *(vì quạ quên khuôn mặt chỉ sau vài ngày)*
+- D. because the crows left the campus and never came back *(vì quạ bỏ khuôn viên và không bao giờ quay lại)*
 
 **16. According to the article, how did the crows that were never caught probably learn about the mask?**
 *(Theo bài, những con quạ chưa bị bắt có lẽ đã biết về chiếc mặt nạ bằng cách nào?)*
 
-- A. by being banded later *(bằng cách bị đeo vòng sau đó)*
-- B. by watching humans *(bằng cách quan sát người)*
-- C. by watching television *(bằng cách xem ti vi)*
+- A. by being banded later in the study *(bằng cách bị đeo vòng sau đó trong nghiên cứu)*
+- B. by watching the researchers put the bands on *(bằng cách xem các nhà nghiên cứu đeo vòng)*
+- C. by listening to a recording of the researchers' voices *(bằng cách nghe bản ghi giọng của các nhà nghiên cứu)*
 - D. by seeing other crows scold it *(bằng cách thấy những con quạ khác mắng nó)*
 
 **17. Which phrases show that the writer is presenting an explanation rather than a certain fact?**
 *(Những cụm nào cho thấy người viết đang đưa ra cách giải thích chứ không phải sự thật chắc chắn?)*
 
-- A. "In 2006" and "seven wild crows" *("In 2006" và "seven wild crows")*
-- B. "rose sharply" and "far outnumbered" *("rose sharply" và "far outnumbered")*
+- A. "In 2006" and "the University of Washington in Seattle" *("In 2006" và "the University of Washington in Seattle")*
+- B. "Even more startling" and "far outnumbered" *("Even more startling" và "far outnumbered")*
 - C. "The most plausible explanation" and "it seems" *("The most plausible explanation" và "it seems")*
-- D. "loud, angry calls" *("loud, angry calls")*
+- D. "loud, angry calls" and "diving towards them" *("loud, angry calls" và "diving towards them")*
 
 **18. Why, according to the article, is recognizing faces useful for crows?**
 *(Theo bài, vì sao nhận ra khuôn mặt có ích cho quạ?)*
 
-- A. They live a long time in the same area as humans, so knowing which people to be careful of helps them survive. *(Chúng sống lâu ở cùng khu vực với người, nên biết người nào cần dè chừng giúp chúng sống sót.)*
-- B. It helps them find food in shops. *(Nó giúp chúng tìm thức ăn trong cửa hàng.)*
-- C. It helps them choose a partner. *(Nó giúp chúng chọn bạn đời.)*
-- D. It helps them migrate. *(Nó giúp chúng di cư.)*
+- A. They live a long time near humans, so knowing which people to be careful of helps them survive. *(Chúng sống lâu gần con người, nên biết người nào cần dè chừng giúp chúng sống sót.)*
+- B. It helps them find food in shops and in restaurants, where people leave food for them every night. *(Nó giúp chúng tìm thức ăn ở cửa hàng và nhà hàng, nơi người ta để thức ăn cho chúng mỗi đêm.)*
+- C. It helps them choose a partner who is not afraid of humans. *(Nó giúp chúng chọn bạn đời không sợ con người.)*
+- D. It helps them migrate safely over long distances each winter. *(Nó giúp chúng di cư an toàn quãng đường dài mỗi mùa đông.)*
 
 **19. How has the study affected the way some scientists think about animal intelligence?**
 *(Nghiên cứu đã ảnh hưởng tới cách một số nhà khoa học nghĩ về trí thông minh động vật thế nào?)*
 
-- A. They now believe crows are smarter than humans. *(Giờ họ tin quạ thông minh hơn người.)*
-- B. They now measure intelligence only in laboratories. *(Giờ họ chỉ đo trí thông minh trong phòng thí nghiệm.)*
-- C. They have stopped studying birds. *(Họ đã ngừng nghiên cứu chim.)*
+- A. They now believe that crows are smarter than humans, and that they will soon learn to talk. *(Giờ họ tin quạ thông minh hơn người, và sắp biết nói.)*
+- B. They now measure intelligence only in laboratories, using single animals. *(Giờ họ chỉ đo trí thông minh trong phòng thí nghiệm, trên từng con vật riêng lẻ.)*
+- C. They have stopped studying birds and moved on to other animals. *(Họ đã ngừng nghiên cứu chim và chuyển sang các loài khác.)*
 - D. They see that intelligence can be shared by a group, not only shown by one animal alone. *(Họ thấy trí thông minh có thể được cả nhóm chia sẻ, không chỉ thể hiện ở một con vật đơn lẻ.)*
 
 **20. What is the tone of the final paragraph?**
 *(Đoạn cuối có giọng điệu thế nào?)*
 
-- A. angry *(giận dữ)*
+- A. angry and impatient *(giận dữ và thiếu kiên nhẫn)*
 - B. lightly humorous *(hài hước nhẹ nhàng)*
-- C. scientific and technical *(khoa học, kỹ thuật)*
-- D. sad *(buồn)*
+- C. scientific and technical, like a report *(khoa học, kỹ thuật, như một bản báo cáo)*
+- D. sad and full of regret *(buồn và đầy tiếc nuối)*
 
 ---
 
@@ -324,82 +324,82 @@
 **21. When did Tracy find the mistake?**
 *(Tracy tìm ra lỗi khi nào?)*
 
-- A. on Wednesday morning *(sáng thứ Tư)*
-- B. on Monday, during the call *(thứ Hai, trong cuộc gọi)*
+- A. on Wednesday morning, at the moment when she sent the report *(sáng thứ Tư, đúng lúc cô gửi báo cáo)*
+- B. on Monday morning, during the call with the client *(sáng thứ Hai, trong cuộc gọi với khách hàng)*
 - C. late on Friday afternoon, after the report had been sent *(chiều muộn thứ Sáu, sau khi báo cáo đã được gửi)*
-- D. in July *(tháng Bảy)*
+- D. in July, when the construction started *(tháng Bảy, khi việc xây dựng bắt đầu)*
 
 **22. How serious was the mistake?**
 *(Lỗi đó nghiêm trọng tới mức nào?)*
 
 - A. The bridge was safe, but one beam did not meet the rules and had to be changed. *(Cây cầu an toàn, nhưng một dầm không đạt quy định và phải thay.)*
-- B. The bridge would fall down. *(Cây cầu sẽ sập.)*
-- C. It was only a spelling mistake. *(Chỉ là lỗi chính tả.)*
-- D. The client had already built the bridge. *(Khách hàng đã xây xong cầu.)*
+- B. The bridge would fall down unless the client stopped the work at once. *(Cây cầu sẽ sập trừ khi khách hàng dừng công việc ngay.)*
+- C. It was only a spelling mistake on page fourteen of the report. *(Chỉ là lỗi chính tả ở trang mười bốn của báo cáo.)*
+- D. The client had already built the bridge before the mistake was found. *(Khách hàng đã xây xong cầu trước khi lỗi được phát hiện.)*
 
 **23. What temptation did Tracy face?**
 *(Tracy đã đứng trước cám dỗ nào?)*
 
-- A. to blame Dana *(đổ lỗi cho Dana)*
-- B. to quit her job *(bỏ việc)*
-- C. to call the client directly *(gọi thẳng cho khách hàng)*
+- A. to blame Dana for signing the report without checking *(đổ lỗi cho Dana vì ký báo cáo mà không kiểm)*
+- B. to quit her job and leave the office before Monday *(bỏ việc và rời văn phòng trước thứ Hai)*
+- C. to call the client directly and offer to pay for the change *(gọi thẳng cho khách hàng và đề nghị trả tiền cho việc thay đổi)*
 - D. to correct the drawings quietly and tell nobody *(lặng lẽ sửa bản vẽ và không nói với ai)*
 
 **24. What made Tracy decide to call?**
 *(Điều gì khiến Tracy quyết định gọi điện?)*
 
-- A. She was afraid that the bridge would fall. *(Cô sợ cầu sập.)*
+- A. She was afraid that the bridge would fall down on the people using it. *(Cô sợ cầu sẽ sập xuống người đang đi.)*
 - B. She thought about Dana, who had trusted her numbers when signing the report. *(Cô nghĩ tới Dana, người đã tin các con số của cô khi ký báo cáo.)*
-- C. The client called her first. *(Khách hàng gọi cô trước.)*
-- D. A colleague saw the mistake. *(Một đồng nghiệp thấy lỗi.)*
+- C. The client called her first and asked about the railings. *(Khách hàng gọi cô trước và hỏi về lan can.)*
+- D. A colleague saw the mistake and told her that she should call Dana. *(Một đồng nghiệp thấy lỗi và bảo cô nên gọi Dana.)*
 
 **25. What does Dana's first question, "Is anyone in danger?", show about her?**
 *(Câu hỏi đầu tiên của Dana, "Có ai gặp nguy hiểm không?", cho thấy điều gì về chị?)*
 
-- A. She is angry with Tracy. *(Chị giận Tracy.)*
-- B. She does not trust Tracy. *(Chị không tin Tracy.)*
-- C. She thinks first about safety, which is the most important issue, rather than blame. *(Chị nghĩ trước tiên tới an toàn, vấn đề quan trọng nhất, chứ không phải đổ lỗi.)*
-- D. She wants to end the call quickly. *(Chị muốn kết thúc cuộc gọi nhanh.)*
+- A. She is angry with Tracy and wants to know how it happened. *(Chị giận Tracy và muốn biết chuyện xảy ra thế nào.)*
+- B. She does not trust Tracy and will check all her work again. *(Chị không tin Tracy và sẽ kiểm lại mọi việc của cô.)*
+- C. She thinks first about safety, which matters most, rather than about blame. *(Chị nghĩ trước tiên tới an toàn, điều quan trọng nhất, chứ không phải đổ lỗi.)*
+- D. She wants to end the call quickly because it is late on Friday. *(Chị muốn kết thúc cuộc gọi nhanh vì đã muộn chiều thứ Sáu.)*
 
 **26. What is Dana's plan?**
 *(Kế hoạch của Dana là gì?)*
 
-- A. to keep the mistake secret *(giữ bí mật lỗi)*
-- B. to give the project to another engineer *(giao dự án cho kỹ sư khác)*
-- C. to wait until July *(chờ tới tháng Bảy)*
-- D. to check Tracy's correction, then call the client together on Monday and send a revised report *(kiểm tra phép tính đã sửa, rồi thứ Hai cùng gọi khách hàng và gửi báo cáo sửa đổi)*
+- A. to keep the mistake secret until the client starts building in July *(giữ bí mật lỗi cho tới khi khách hàng bắt đầu xây vào tháng Bảy)*
+- B. to give the project to another engineer who has more experience *(giao dự án cho một kỹ sư khác có nhiều kinh nghiệm hơn)*
+- C. to wait until July and then tell the client about the beam *(chờ tới tháng Bảy rồi mới báo khách hàng về cái dầm)*
+- D. to check Tracy's corrected calculation, then call the client with her on Monday *(kiểm tra phép tính đã sửa của Tracy, rồi thứ Hai cùng cô gọi khách hàng)*
 
 **27. What does Dana mean when she says "that is the part I will remember"?**
 *(Dana muốn nói gì khi bảo "đó mới là phần chị sẽ nhớ"?)*
 
 - A. She values Tracy's honesty more than she worries about the mistake. *(Chị trân trọng sự trung thực của Tracy hơn là lo về lỗi.)*
-- B. She will remember the mistake forever. *(Chị sẽ nhớ mãi cái lỗi.)*
-- C. She will report Tracy to the director. *(Chị sẽ báo Tracy lên giám đốc.)*
-- D. She will check every report herself. *(Chị sẽ tự kiểm mọi báo cáo.)*
+- B. She will remember the mistake for years and will never trust Tracy's numbers again. *(Chị sẽ nhớ lỗi này nhiều năm và không bao giờ tin các con số của Tracy nữa.)*
+- C. She will report Tracy to the director on Monday morning. *(Chị sẽ báo Tracy lên giám đốc vào sáng thứ Hai.)*
+- D. She will check every report herself from now on. *(Từ giờ chị sẽ tự kiểm mọi báo cáo.)*
 
 **28. How did the client react?**
 *(Khách hàng phản ứng thế nào?)*
 
-- A. They cancelled the project. *(Họ huỷ dự án.)*
+- A. They cancelled the project and asked for their money back. *(Họ huỷ dự án và đòi lại tiền.)*
 - B. They thanked Tracy and Dana for being open. *(Họ cảm ơn Tracy và Dana vì đã thẳng thắn.)*
-- C. They asked for a new engineer. *(Họ đòi kỹ sư khác.)*
-- D. They did not answer the phone. *(Họ không nghe máy.)*
+- C. They asked for a new engineer to take over the whole project. *(Họ đòi một kỹ sư mới tiếp quản cả dự án.)*
+- D. They did not answer the phone, so the call took eleven minutes. *(Họ không nghe máy nên cuộc gọi mất mười một phút.)*
 
 **29. What does the sticky note on Tracy's screen suggest?**
 *(Tờ giấy nhớ trên màn hình Tracy gợi ý điều gì?)*
 
-- A. She was ordered to put it there. *(Cô bị yêu cầu dán nó.)*
-- B. She is afraid of Dana. *(Cô sợ Dana.)*
+- A. She was ordered to put it there by Dana, as a punishment. *(Cô bị Dana yêu cầu dán nó, như một hình phạt.)*
+- B. She is afraid of Dana and wants to remember what she said. *(Cô sợ Dana và muốn nhớ lời chị nói.)*
 - C. She has learned from the mistake and wants to avoid repeating it. *(Cô đã rút kinh nghiệm từ lỗi và muốn tránh lặp lại.)*
-- D. She is working on another railing project. *(Cô đang làm một dự án lan can khác.)*
+- D. She is working on another railing project for the same client. *(Cô đang làm một dự án lan can khác cho cùng khách hàng.)*
 
 **30. Which statement best describes the main message of the story?**
 *(Câu nào mô tả đúng nhất thông điệp chính của câu chuyện?)*
 
 - A. Admitting a mistake quickly and honestly is part of being a professional. *(Nhận lỗi nhanh và trung thực là một phần của tính chuyên nghiệp.)*
-- B. Engineers never make mistakes. *(Kỹ sư không bao giờ mắc lỗi.)*
-- C. Clients should check every report. *(Khách hàng nên tự kiểm mọi báo cáo.)*
-- D. It is better to work late on Fridays. *(Tốt hơn là làm muộn vào thứ Sáu.)*
+- B. Engineers never make mistakes if they check their work three times. *(Kỹ sư không bao giờ mắc lỗi nếu kiểm tra ba lần.)*
+- C. Clients should check every report that they receive from an engineer. *(Khách hàng nên kiểm mọi báo cáo nhận từ kỹ sư.)*
+- D. It is better to work late on Fridays so that the week finishes well. *(Tốt hơn là làm muộn vào thứ Sáu để tuần kết thúc tốt đẹp.)*
 
 ---
 
@@ -441,58 +441,58 @@
 **31. What does Lydia think is the most interesting part of the story?**
 *(Lydia cho rằng phần thú vị nhất của câu chuyện là gì?)*
 
-- A. that phones were locked in pouches *(rằng điện thoại bị khoá trong túi)*
-- B. that the experiment lasted a week *(rằng thử nghiệm kéo dài một tuần)*
-- C. that parents were worried *(rằng phụ huynh lo lắng)*
+- A. that phones were locked in pouches at the start of the day *(rằng điện thoại bị khoá trong túi từ đầu ngày)*
+- B. that the experiment lasted a whole week *(rằng thử nghiệm kéo dài trọn một tuần)*
+- C. that parents were worried about emergencies *(rằng phụ huynh lo về các tình huống khẩn cấp)*
 - D. that the idea came from students *(rằng ý tưởng đến từ học sinh)*
 
 **32. How did some students feel on Monday?**
 *(Thứ Hai, một số học sinh cảm thấy thế nào?)*
 
-- A. excited *(hào hứng)*
+- A. excited, because they wanted a week without their phones *(hào hứng vì muốn có một tuần không điện thoại)*
 - B. angry, comparing the week to a prison sentence *(giận dữ, ví cả tuần như bản án tù)*
-- C. bored *(chán)*
-- D. relieved *(nhẹ nhõm)*
+- C. bored, because there was nothing to do at lunch *(chán vì giờ ăn trưa chẳng có gì làm)*
+- D. relieved, because they no longer had to answer messages *(nhẹ nhõm vì không còn phải trả lời tin nhắn)*
 
 **33. What does the example of the hot dog debate show?**
 *(Ví dụ cuộc tranh biện về bánh mì kẹp xúc xích cho thấy điều gì?)*
 
-- A. Students were hungry at lunch. *(Học sinh đói giờ ăn trưa.)*
-- B. The debate club needs new topics. *(Câu lạc bộ tranh biện cần chủ đề mới.)*
+- A. Students were hungry at lunch and wanted to eat more food. *(Học sinh đói giờ ăn trưa và muốn ăn nhiều hơn.)*
+- B. The debate club needs new topics for its weekly meetings. *(Câu lạc bộ tranh biện cần chủ đề mới cho các buổi họp hằng tuần.)*
 - C. Without phones, students talked and played together more. *(Không có điện thoại, học sinh trò chuyện và chơi với nhau nhiều hơn.)*
-- D. Students argued more angrily. *(Học sinh cãi nhau gay gắt hơn.)*
+- D. Students argued more angrily because they had no phones. *(Học sinh cãi nhau gay gắt hơn vì không có điện thoại.)*
 
 **34. How does Lydia describe the change in her own classes?**
 *(Lydia mô tả thay đổi trong lớp của cô thế nào?)*
 
 - A. smaller than she hoped, but real *(nhỏ hơn cô mong, nhưng có thật)*
-- B. huge and immediate *(rất lớn và ngay lập tức)*
-- C. none at all *(không có gì)*
-- D. negative *(tiêu cực)*
+- B. huge and immediate, much more than she hoped *(rất lớn và ngay lập tức, nhiều hơn cô mong)*
+- C. none at all, as students still found ways to use phones *(không có gì, vì học sinh vẫn tìm cách dùng điện thoại)*
+- D. negative, because students were angry all week *(tiêu cực, vì học sinh giận dữ cả tuần)*
 
 **35. Why does Lydia mention the student who looks after a younger brother?**
 *(Vì sao Lydia nhắc tới học sinh chăm em trai?)*
 
-- A. to show that the experiment was a complete failure *(để cho thấy thử nghiệm thất bại hoàn toàn)*
-- B. to criticize the student's family *(để chỉ trích gia đình em)*
-- C. to suggest that only some students need phones *(để gợi ý chỉ một số học sinh cần điện thoại)*
-- D. to show that for some students a phone is a real responsibility, so one rule for everyone has costs *(để cho thấy với một số học sinh, điện thoại là trách nhiệm thật, nên một luật chung cho mọi người có cái giá của nó)*
+- A. to show that the experiment was a complete failure for every student *(để cho thấy thử nghiệm thất bại hoàn toàn với mọi học sinh)*
+- B. to criticize the student's family for giving her too many duties *(để chỉ trích gia đình em vì giao cho em quá nhiều việc)*
+- C. to suggest that only some students need phones and others do not *(để gợi ý chỉ một số học sinh cần điện thoại còn số khác thì không)*
+- D. to show that for some students a phone is a responsibility, so one rule for all has costs *(để cho thấy với một số học sinh điện thoại là trách nhiệm, nên một luật chung cho tất cả có cái giá)*
 
 **36. Why does Lydia say that "should we lock phones away for good?" is "the wrong question"?**
 *(Vì sao Lydia nói câu "có nên khoá điện thoại mãi mãi?" là "câu hỏi sai"?)*
 
 - A. because a permanent ban treats every phone use as the same, which it is not *(vì lệnh cấm vĩnh viễn coi mọi cách dùng điện thoại như nhau, mà thực tế không phải vậy)*
-- B. because the school has already decided *(vì trường đã quyết rồi)*
-- C. because phones will soon disappear *(vì điện thoại sắp biến mất)*
-- D. because students should decide alone *(vì học sinh nên tự quyết một mình)*
+- B. because the school has already decided to ban phones for good *(vì trường đã quyết định cấm điện thoại vĩnh viễn)*
+- C. because phones will soon disappear from the lives of students *(vì điện thoại sắp biến mất khỏi đời sống học sinh)*
+- D. because students should decide alone without any help from adults *(vì học sinh nên tự quyết một mình không cần người lớn giúp)*
 
 **37. According to Lydia, what do students find hard?**
 *(Theo Lydia, học sinh thấy điều gì khó?)*
 
-- A. living without phones for a few hours *(sống thiếu điện thoại vài tiếng)*
+- A. living without phones for a few hours in the afternoon *(sống thiếu điện thoại vài tiếng vào buổi chiều)*
 - B. being the only one without a phone *(là người duy nhất không có điện thoại)*
-- C. finishing their reading *(đọc xong bài)*
-- D. eating lunch *(ăn trưa)*
+- C. finishing their reading in class *(đọc xong bài trong lớp)*
+- D. eating lunch without talking *(ăn trưa mà không nói chuyện)*
 
 **38. Which of these is NOT part of Lydia's proposal?**
 *(Điều nào KHÔNG nằm trong đề xuất của Lydia?)*
@@ -505,18 +505,18 @@
 **39. What does the final sentence, "it was students who suggested the experiment in the first place", support?**
 *(Câu cuối "chính học sinh là người đề xuất thử nghiệm ngay từ đầu" củng cố ý nào?)*
 
-- A. Students should not have phones. *(Học sinh không nên có điện thoại.)*
-- B. Teachers should make all the rules. *(Giáo viên nên đặt mọi nội quy.)*
+- A. Students should not be allowed to have phones in school at all. *(Học sinh hoàn toàn không nên được có điện thoại ở trường.)*
+- B. Teachers should make all the rules without asking students. *(Giáo viên nên đặt mọi nội quy mà không hỏi học sinh.)*
 - C. Students can be trusted to help write the rules. *(Có thể tin học sinh cùng viết nội quy.)*
-- D. The experiment should be repeated every month. *(Thử nghiệm nên lặp lại mỗi tháng.)*
+- D. The experiment should be repeated every month for a year. *(Thử nghiệm nên lặp lại mỗi tháng trong một năm.)*
 
 **40. How is Lydia's essay organized?**
 *(Bài của Lydia được tổ chức thế nào?)*
 
-- A. a list of rules followed by punishments *(danh sách nội quy rồi tới hình phạt)*
+- A. a list of rules followed by punishments for students who break them *(danh sách nội quy rồi tới hình phạt cho học sinh vi phạm)*
 - B. an experience, its benefits and costs, a question asked in a new way, and a proposal *(một trải nghiệm, lợi ích và cái giá, một câu hỏi được đặt lại, rồi một đề xuất)*
-- C. a story told only from a student's point of view *(một câu chuyện chỉ kể từ góc nhìn học sinh)*
-- D. a comparison of two schools *(so sánh hai trường)*
+- C. a story told only from a student's point of view, with no proposal *(một câu chuyện chỉ kể từ góc nhìn học sinh, không có đề xuất)*
+- D. a comparison of two schools, one with phones and one without *(so sánh hai trường, một trường có điện thoại và một trường không)*
 
 ---
 

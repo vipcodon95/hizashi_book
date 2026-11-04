@@ -82,82 +82,82 @@
 **1. Why did Tracy ask Leah for advice about the speech?**
 *(Vì sao Tracy xin Leah lời khuyên cho bài phát biểu?)*
 
-- A. because Leah writes speeches for a living *(vì Leah viết diễn văn kiếm sống)*
+- A. because Leah writes speeches for a living and has done it for years *(vì Leah viết diễn văn kiếm sống và đã làm vậy nhiều năm)*
 - B. because she has asked Leah for advice about everything for a very long time *(vì từ rất lâu rồi chuyện gì cô cũng xin Leah lời khuyên)*
-- C. because Ethan told her to *(vì Ethan bảo cô)*
-- D. because she had forgotten her notes *(vì cô quên ghi chú)*
+- C. because Ethan told her that Leah always gives the best advice about speeches *(vì Ethan bảo cô rằng Leah luôn cho lời khuyên diễn văn hay nhất)*
+- D. because she had forgotten her notes at home *(vì cô để quên ghi chú ở nhà)*
 
 **2. How does Tracy organize her speech?**
 *(Tracy tổ chức bài phát biểu thế nào?)*
 
-- A. as a list of thank-yous *(như một danh sách lời cảm ơn)*
-- B. as a story told in time order from childhood *(như một câu chuyện kể theo thời gian từ thời thơ ấu)*
-- C. as a poem *(như một bài thơ)*
+- A. as a list of thank-yous to everyone who helped with the wedding *(như một danh sách lời cảm ơn mọi người đã giúp đám cưới)*
+- B. as a story told in time order from childhood to the wedding day *(như một câu chuyện kể theo thời gian từ thời thơ ấu đến ngày cưới)*
+- C. as a poem with a verse for each guest at the table *(như một bài thơ có một khổ cho mỗi vị khách ở bàn)*
 - D. using Leah's interview advice: a question, a reason, an example, then she stops *(dùng lời khuyên phỏng vấn của Leah: câu hỏi, lý do, ví dụ, rồi dừng)*
 
 **3. According to Tracy, why are Leah and Ethan right for each other?**
 *(Theo Tracy, vì sao Leah và Ethan hợp nhau?)*
 
 - A. Each is brave in a way that the other is not. *(Mỗi người dũng cảm theo cách người kia không có.)*
-- B. They both work in hospitals. *(Cả hai đều làm ở bệnh viện.)*
-- C. They never argue. *(Họ không bao giờ cãi nhau.)*
-- D. They have known each other since childhood. *(Họ quen nhau từ nhỏ.)*
+- B. They both work in hospitals and share the same long shifts. *(Cả hai đều làm ở bệnh viện và chung những ca dài.)*
+- C. They never argue, because they agree about everything. *(Họ không bao giờ cãi nhau vì đồng ý mọi chuyện.)*
+- D. They have known each other since childhood and went to the same school. *(Họ quen nhau từ nhỏ và học cùng một trường.)*
 
 **4. What does the "emergency contact" story show about Ethan?**
 *(Chuyện "người liên lạc khẩn cấp" cho thấy gì về Ethan?)*
 
-- A. He was joking. *(Anh đang đùa.)*
-- B. He works too much. *(Anh làm việc quá nhiều.)*
+- A. He was joking, and Leah knew it from the start. *(Anh đang đùa và Leah biết ngay từ đầu.)*
+- B. He works too much and never finds enough time to think about love or marriage. *(Anh làm việc quá nhiều và chẳng bao giờ đủ thời gian nghĩ về tình yêu hay hôn nhân.)*
 - C. Although he is brave at work, he is nervous about expressing his feelings. *(Dù dũng cảm trong công việc, anh lại run khi bày tỏ tình cảm.)*
-- D. He does not trust Leah. *(Anh không tin Leah.)*
+- D. He does not trust Leah enough to say how he feels. *(Anh không đủ tin Leah để nói cảm xúc của mình.)*
 
 **5. What kind of courage does Tracy say Leah lacks?**
 *(Tracy nói Leah thiếu kiểu dũng cảm nào?)*
 
-- A. the courage to work at night *(dám làm ca đêm)*
+- A. the courage to work at night in a busy emergency room *(dám làm ca đêm ở một khoa cấp cứu đông đúc)*
 - B. the courage to tell Ethan directly when she is hurt *(dám nói thẳng với Ethan khi chị bị tổn thương)*
-- C. the courage to give bad news to families *(dám báo tin xấu cho gia đình bệnh nhân)*
-- D. the courage to travel *(dám đi xa)*
+- C. the courage to give bad news to families after a long shift *(dám báo tin xấu cho gia đình bệnh nhân sau một ca dài)*
+- D. the courage to travel far from home to start a new job *(dám đi xa nhà để bắt đầu công việc mới)*
 
 **6. What does Leah's reply, "Yes. Obviously yes. Now please stand up", suggest?**
 *(Câu đáp của Leah "Có. Dĩ nhiên là có. Giờ anh làm ơn đứng dậy đi" gợi ý điều gì?)*
 
 - A. She was sure of her answer and wanted to save Ethan from more embarrassment. *(Chị chắc chắn câu trả lời và muốn cứu Ethan khỏi ngượng thêm.)*
-- B. She was angry about the ring. *(Chị giận vì chiếc nhẫn.)*
-- C. She wanted to think about it. *(Chị muốn suy nghĩ thêm.)*
-- D. She did not want strangers to help. *(Chị không muốn người lạ giúp.)*
+- B. She was angry about the ring and about the strangers who joined in. *(Chị giận vì chiếc nhẫn và vì những người lạ đã chen vào.)*
+- C. She wanted to think about it before she gave an answer. *(Chị muốn suy nghĩ trước khi trả lời.)*
+- D. She did not want strangers to help look for the ring. *(Chị không muốn người lạ giúp tìm nhẫn.)*
 
 **7. What does "he takes the risk, she finds what was lost" mean as a description of their marriage?**
 *(Câu "anh ấy dám liều, chị ấy tìm lại thứ đã mất" có nghĩa gì khi mô tả cuộc hôn nhân của họ?)*
 
-- A. Ethan often loses things. *(Ethan hay đánh mất đồ.)*
-- B. Leah never takes risks. *(Leah không bao giờ liều.)*
-- C. They should not go to the beach. *(Họ không nên ra biển.)*
-- D. Using the ring story, it shows how their different strengths complete each other. *(Qua chuyện chiếc nhẫn, nó cho thấy thế mạnh khác nhau của họ bổ sung cho nhau.)*
+- A. Ethan often loses important things, and Leah is always annoyed. *(Ethan hay đánh mất đồ quan trọng và Leah luôn bực.)*
+- B. Leah never takes risks, and Ethan never finds anything. *(Leah không bao giờ liều và Ethan chẳng tìm được gì.)*
+- C. They should not go to the beach again after the ring story. *(Họ không nên ra biển lần nữa sau chuyện chiếc nhẫn.)*
+- D. It shows how their different strengths complete each other. *(Nó cho thấy thế mạnh khác nhau của họ bổ sung cho nhau.)*
 
 **8. What can be inferred about the custom of ringing a bell?**
 *(Có thể suy ra gì về tục rung chuông?)*
 
-- A. It is common in every American family. *(Mọi gia đình Mỹ đều có.)*
-- B. Tracy's family invented it for the wedding. *(Nhà Tracy nghĩ ra cho đám cưới.)*
-- C. It is a tradition in Ethan's family, which Tracy has only recently learned about. *(Đó là truyền thống của nhà Ethan, Tracy mới biết gần đây.)*
-- D. Amy refuses to do it. *(Amy từ chối làm.)*
+- A. It is a custom that every family follows at weddings. *(Đó là phong tục mà mọi gia đình đều theo ở đám cưới.)*
+- B. Tracy's family invented it for the wedding as a joke. *(Nhà Tracy nghĩ ra nó cho đám cưới như một trò đùa.)*
+- C. It is a tradition in Ethan's family, which Tracy has only recently learned. *(Đó là truyền thống của nhà Ethan, mà Tracy mới biết gần đây.)*
+- D. Amy refuses to do it because she is too shy and does not like being watched. *(Amy từ chối làm vì quá nhút nhát và không thích bị nhìn.)*
 
 **9. What is the tone of the line "In my family, we have no such custom. We just cry"?**
 *(Câu "Ở nhà em thì không có tục đó. Bọn em chỉ khóc thôi" có giọng điệu thế nào?)*
 
 - A. affectionate and humorous *(trìu mến và hài hước)*
-- B. sad and serious *(buồn và nghiêm trọng)*
-- C. critical of Ethan's family *(chê nhà Ethan)*
-- D. angry *(giận dữ)*
+- B. sad and serious, as at a funeral *(buồn và nghiêm trọng, như ở đám tang)*
+- C. critical of Ethan's family and its customs *(chê nhà Ethan và phong tục của họ)*
+- D. angry and a little bit impatient *(giận dữ và hơi thiếu kiên nhẫn)*
 
 **10. Why does Tracy end with "as instructed, I will stop"?**
 *(Vì sao Tracy kết thúc bằng câu "đúng như được dặn, em sẽ dừng"?)*
 
-- A. because she has run out of time *(vì hết giờ)*
-- B. because the guests are bored *(vì khách chán)*
+- A. because she has run out of time and the band is waiting to start the music *(vì cô hết giờ và ban nhạc đang chờ chơi nhạc)*
+- B. because the guests are bored and have started to talk *(vì khách chán và bắt đầu nói chuyện)*
 - C. to playfully complete Leah's advice, which ended with "and then stop" *(để hoàn tất một cách tinh nghịch lời khuyên của Leah, vốn kết thúc bằng "rồi dừng")*
-- D. because Amy rang the bell too early *(vì Amy rung chuông sớm quá)*
+- D. because Amy rang the bell too early and stopped her *(vì Amy rung chuông quá sớm làm cô phải dừng)*
 
 ---
 
@@ -195,82 +195,82 @@
 **11. According to the article, what do most people believe about forming a habit?**
 *(Theo bài, phần lớn mọi người tin gì về việc hình thành thói quen?)*
 
-- A. It takes about a year. *(Mất khoảng một năm.)*
-- B. It is impossible for adults. *(Người lớn không thể làm được.)*
-- C. It takes twenty-one days. *(Mất hai mươi mốt ngày.)*
-- D. It depends on the app you use. *(Tuỳ ứng dụng bạn dùng.)*
+- A. It takes about a year to form a habit. *(Mất khoảng một năm để hình thành thói quen.)*
+- B. It is impossible for adults to do. *(Người lớn không thể làm được.)*
+- C. It takes about twenty-one days. *(Mất khoảng hai mươi mốt ngày.)*
+- D. It depends mostly on the app you use. *(Phần lớn tuỳ ứng dụng bạn dùng.)*
 
 **12. Where does the twenty-one-day idea seem to have come from?**
 *(Ý tưởng hai mươi mốt ngày dường như bắt nguồn từ đâu?)*
 
-- A. a 1960 book by a plastic surgeon who was describing how long patients took to get used to their new faces *(một cuốn sách năm 1960 của bác sĩ phẫu thuật thẩm mỹ mô tả bệnh nhân mất bao lâu để quen khuôn mặt mới)*
-- B. the 2010 study *(nghiên cứu năm 2010)*
-- C. a motivational video *(một video truyền động lực)*
-- D. a study of 96 volunteers *(một nghiên cứu 96 tình nguyện viên)*
+- A. a 1960 book by a plastic surgeon describing how long patients took to get used to new faces *(một cuốn sách năm 1960 của bác sĩ phẫu thuật thẩm mỹ mô tả bệnh nhân mất bao lâu để quen khuôn mặt mới)*
+- B. the 2010 study by a team at University College London that tracked 96 people *(nghiên cứu năm 2010 của một nhóm ở University College London theo dõi 96 người)*
+- C. a motivational video that appeared on many apps *(một video truyền động lực xuất hiện trên nhiều ứng dụng)*
+- D. a study of 96 volunteers who each chose one daily behavior for twelve weeks *(một nghiên cứu 96 tình nguyện viên, mỗi người chọn một hành vi hằng ngày trong mười hai tuần)*
 
 **13. Why does the writer point out that the surgeon "was not studying habits at all"?**
 *(Vì sao người viết chỉ ra rằng vị bác sĩ "hoàn toàn không nghiên cứu thói quen"?)*
 
-- A. to praise the surgeon *(để khen vị bác sĩ)*
-- B. to show that plastic surgery is dangerous *(để cho thấy phẫu thuật thẩm mỹ nguy hiểm)*
-- C. to suggest that habits form in three weeks *(để gợi ý thói quen hình thành trong ba tuần)*
-- D. to show that the popular number is based on something unrelated, so it should not be trusted *(để cho thấy con số phổ biến dựa trên điều không liên quan, nên không đáng tin)*
+- A. to praise the surgeon for his careful study of patients *(để khen vị bác sĩ vì nghiên cứu bệnh nhân cẩn thận)*
+- B. to show that plastic surgery is dangerous, so people should not trust anything a surgeon writes *(để cho thấy phẫu thuật thẩm mỹ nguy hiểm nên không ai nên tin điều bác sĩ phẫu thuật viết)*
+- C. to suggest that habits really do form in three weeks *(để gợi ý thói quen thật sự hình thành trong ba tuần)*
+- D. to show that the popular number is based on something unrelated, so it is unreliable *(để cho thấy con số phổ biến dựa trên điều không liên quan nên không đáng tin)*
 
 **14. What did the volunteers in the 2010 study have to do?**
 *(Các tình nguyện viên trong nghiên cứu năm 2010 phải làm gì?)*
 
-- A. run fifteen minutes every morning *(chạy mười lăm phút mỗi sáng)*
+- A. run for fifteen minutes before dinner and report their weight *(chạy mười lăm phút trước bữa tối và báo cân nặng)*
 - B. choose one new daily behavior and report each day how automatic it felt *(chọn một hành vi mới hằng ngày và báo mỗi ngày nó tự động tới mức nào)*
-- C. stop a bad habit *(bỏ một thói quen xấu)*
-- D. eat fruit for twelve weeks *(ăn trái cây trong mười hai tuần)*
+- C. stop a bad habit that they had had for years *(bỏ một thói quen xấu đã có nhiều năm)*
+- D. eat fruit with lunch every day for twelve weeks *(ăn trái cây với bữa trưa mỗi ngày trong mười hai tuần)*
 
 **15. What does "automaticity" mean in the article?**
 *(Trong bài, "automaticity" nghĩa là gì?)*
 
-- A. a machine that helps form habits *(một cỗ máy giúp hình thành thói quen)*
-- B. the speed of a behavior *(tốc độ của một hành vi)*
+- A. a machine that is used in the laboratory to help form habits *(một cỗ máy dùng trong phòng thí nghiệm để giúp hình thành thói quen)*
+- B. the speed at which a behavior can be learned *(tốc độ mà một hành vi có thể được học)*
 - C. the state in which a behavior happens without much thought *(trạng thái một hành vi diễn ra mà không cần nghĩ nhiều)*
-- D. the number of days in a study *(số ngày trong một nghiên cứu)*
+- D. the number of days that a study lasts *(số ngày một nghiên cứu kéo dài)*
 
 **16. What does the article say about the figure of 66 days?**
 *(Bài nói gì về con số 66 ngày?)*
 
-- A. It applies to everyone. *(Nó đúng với mọi người.)*
-- B. It was a mistake. *(Nó là một sai sót.)*
-- C. It is shorter than twenty-one days. *(Nó ngắn hơn hai mươi mốt ngày.)*
-- D. It hides a very wide range, from 18 days to an estimated 250 or more. *(Nó che giấu một khoảng dao động rất rộng, từ 18 ngày tới ước tính hơn 250 ngày.)*
+- A. It applies to everyone who tries to form a new habit. *(Nó đúng với mọi người cố tạo thói quen mới.)*
+- B. It was a mistake that the researchers later corrected. *(Nó là sai sót mà các nhà nghiên cứu sau đó sửa.)*
+- C. It is shorter than twenty-one days for simple habits. *(Nó ngắn hơn hai mươi mốt ngày với thói quen đơn giản.)*
+- D. It hides a very wide range, from 18 days to more than 250. *(Nó che giấu một khoảng dao động rất rộng, từ 18 ngày tới hơn 250 ngày.)*
 
 **17. Which finding does the writer call "encouraging"?**
 *(Người viết gọi phát hiện nào là "đáng khích lệ"?)*
 
 - A. Missing a single day did not seriously damage the process. *(Bỏ lỡ một ngày không làm hỏng nghiêm trọng quá trình.)*
-- B. Habits form in exactly 66 days. *(Thói quen hình thành đúng 66 ngày.)*
-- C. Difficult habits form fastest. *(Thói quen khó hình thành nhanh nhất.)*
-- D. Apps make habits easier. *(Ứng dụng giúp tạo thói quen dễ hơn.)*
+- B. Habits form in exactly 66 days for every volunteer in the study. *(Thói quen hình thành đúng 66 ngày với mọi tình nguyện viên.)*
+- C. Difficult habits form faster than simple ones. *(Thói quen khó hình thành nhanh hơn thói quen đơn giản.)*
+- D. Apps make habits easier to form than books do. *(Ứng dụng giúp tạo thói quen dễ hơn sách.)*
 
 **18. According to the article, why does the twenty-one-day myth survive?**
 *(Theo bài, vì sao huyền thoại hai mươi mốt ngày vẫn tồn tại?)*
 
-- A. because scientists support it *(vì nhà khoa học ủng hộ)*
+- A. because scientists support it in their studies *(vì nhà khoa học ủng hộ nó trong các nghiên cứu)*
 - B. because a short, achievable number is comforting *(vì một con số ngắn, làm được thì an ủi)*
-- C. because it is true for simple habits *(vì nó đúng với thói quen đơn giản)*
-- D. because apps are paid to repeat it *(vì ứng dụng được trả tiền để nhắc lại)*
+- C. because it is true for simple habits like drinking water *(vì nó đúng với thói quen đơn giản như uống nước)*
+- D. because apps are paid to repeat it to their users *(vì ứng dụng được trả tiền để lặp lại nó với người dùng)*
 
 **19. What is the "price" of believing the myth?**
 *("Cái giá" của việc tin vào huyền thoại là gì?)*
 
-- A. People spend money on apps. *(Người ta tốn tiền mua ứng dụng.)*
-- B. People form habits too quickly. *(Người ta hình thành thói quen quá nhanh.)*
-- C. People choose difficult habits. *(Người ta chọn thói quen khó.)*
+- A. People spend a lot of money on apps that do not work and then feel angry about it. *(Người ta tốn nhiều tiền mua ứng dụng không hiệu quả rồi bực bội về điều đó.)*
+- B. People form habits so quickly that they do not notice. *(Người ta hình thành thói quen nhanh tới mức không nhận ra.)*
+- C. People choose habits that are too difficult for them. *(Người ta chọn thói quen quá khó với mình.)*
 - D. People may think they have failed and give up just before the habit forms. *(Người ta có thể nghĩ mình thất bại và bỏ cuộc ngay trước khi thói quen hình thành.)*
 
 **20. What is the writer's main message?**
 *(Thông điệp chính của người viết là gì?)*
 
-- A. Habits cannot be changed. *(Thói quen không thể thay đổi.)*
-- B. Forming a habit usually takes longer than people think, and that is normal, so keep repeating. *(Hình thành thói quen thường lâu hơn người ta nghĩ, và điều đó bình thường, nên hãy tiếp tục lặp lại.)*
-- C. Twenty-one days is enough for simple habits. *(Hai mươi mốt ngày là đủ cho thói quen đơn giản.)*
-- D. Studies about habits are unreliable. *(Nghiên cứu về thói quen không đáng tin.)*
+- A. Habits cannot be changed once people are grown up. *(Thói quen không thể thay đổi khi đã trưởng thành.)*
+- B. Forming a habit usually takes longer than people think, and that is normal. *(Hình thành thói quen thường lâu hơn người ta nghĩ, và điều đó bình thường.)*
+- C. Twenty-one days is enough to form any simple habit. *(Hai mươi mốt ngày đủ để tạo bất kỳ thói quen đơn giản nào.)*
+- D. Studies about habits are unreliable and should be ignored. *(Nghiên cứu về thói quen không đáng tin và nên bỏ qua.)*
 
 ---
 
@@ -310,81 +310,81 @@
 *(Ý tưởng chính của The Neighbors' Kitchen là gì?)*
 
 - A. People who cook for a living can rent a professional kitchen by the hour. *(Người nấu ăn kiếm sống có thể thuê bếp chuyên nghiệp theo giờ.)*
-- B. Neighbors can eat free meals. *(Hàng xóm được ăn miễn phí.)*
-- C. Harriet's café moves into a bigger space. *(Quán Harriet's chuyển sang chỗ rộng hơn.)*
-- D. Children learn to bake. *(Trẻ em học làm bánh.)*
+- B. Neighbors can eat free meals at the old bakery every day if they bring their own plates. *(Hàng xóm được ăn miễn phí ở tiệm bánh cũ mỗi ngày nếu tự mang đĩa.)*
+- C. Harriet's café moves into a bigger space next door. *(Quán Harriet's chuyển sang chỗ rộng hơn bên cạnh.)*
+- D. Children learn to bake at the café on Saturdays. *(Trẻ em học làm bánh ở quán vào thứ Bảy.)*
 
 **22. How did the first month compare with the target?**
 *(Tháng đầu so với mục tiêu thế nào?)*
 
-- A. It was far above the target. *(Vượt xa mục tiêu.)*
-- B. It exactly met the target. *(Đạt đúng mục tiêu.)*
-- C. It was slightly below the four hours needed, but better than Harriet expected and rising. *(Thấp hơn một chút so với bốn tiếng cần thiết, nhưng tốt hơn bà Harriet mong và đang tăng.)*
-- D. Nobody used the kitchen. *(Không ai dùng bếp.)*
+- A. It was far above the target of four hours, so the kitchen made a big profit already. *(Vượt xa mục tiêu bốn tiếng nên bếp đã lời lớn.)*
+- B. It exactly met the target of four hours a day. *(Đạt đúng mục tiêu bốn tiếng mỗi ngày.)*
+- C. It was slightly below the four hours needed, but better than Harriet expected. *(Thấp hơn một chút so với bốn tiếng cần thiết, nhưng tốt hơn bà Harriet mong.)*
+- D. Nobody used the kitchen in the first two weeks. *(Không ai dùng bếp trong hai tuần đầu.)*
 
 **23. Which of these is NOT mentioned as a regular user of the kitchen?**
 *(Ai KHÔNG được nhắc tới như người dùng bếp thường xuyên?)*
 
-- A. a woman who sells tamales *(một chị bán bánh tamale)*
-- B. a baker who opened a restaurant downtown *(một thợ bánh đã mở nhà hàng ở trung tâm)*
+- A. a woman who sells tamales at the farmers' market *(một chị bán bánh tamale ở chợ nông sản)*
+- B. a baker who has since opened a restaurant downtown *(một thợ bánh sau đó đã mở nhà hàng ở trung tâm)*
 - C. a young man who bakes bread for people who cannot eat wheat *(một chàng trai nướng bánh cho người không ăn được lúa mì)*
-- D. a retired chef who teaches teenagers *(một đầu bếp nghỉ hưu dạy thanh thiếu niên)*
+- D. a retired chef who teaches teenagers on Saturdays *(một đầu bếp nghỉ hưu dạy thanh thiếu niên vào thứ Bảy)*
 
 **24. Why were labeled shelves introduced?**
 *(Vì sao có kệ dán nhãn?)*
 
-- A. because the health inspector asked *(vì thanh tra y tế yêu cầu)*
-- B. because the fridge broke *(vì tủ lạnh hỏng)*
-- C. because Harriet wanted to sell cheese *(vì bà Harriet muốn bán pho mát)*
+- A. because the health inspector visited the kitchen and asked for much clearer rules *(vì thanh tra y tế đến bếp và yêu cầu quy định rõ ràng hơn nhiều)*
+- B. because the fridge broke and the food went bad *(vì tủ lạnh hỏng và thức ăn bị hư)*
+- C. because Harriet wanted to sell cheese at the café *(vì bà Harriet muốn bán pho mát ở quán)*
 - D. because two cooks argued about fridge space and one left the other's food out *(vì hai người nấu cãi nhau về chỗ trong tủ lạnh và một người để đồ ăn của người kia ra ngoài)*
 
 **25. What does "standards vary, to put it politely" suggest?**
 *(Cụm "nói một cách lịch sự thì tiêu chuẩn mỗi người mỗi khác" gợi ý gì?)*
 
 - A. Some cooks leave the kitchen quite dirty. *(Có người nấu để bếp khá bẩn.)*
-- B. All cooks are very clean. *(Mọi người nấu đều rất sạch.)*
-- C. Harriet is not polite. *(Bà Harriet không lịch sự.)*
-- D. Cleaning is not necessary. *(Không cần dọn dẹp.)*
+- B. All cooks are very clean and leave the kitchen perfect. *(Mọi người nấu đều rất sạch và để bếp hoàn hảo.)*
+- C. Harriet is not polite when she speaks to the cooks. *(Bà Harriet không lịch sự khi nói với người nấu.)*
+- D. Cleaning is not necessary after each cook has finished. *(Không cần dọn dẹp sau khi mỗi người nấu xong.)*
 
 **26. How is the extra cleaning paid for?**
 *(Phần dọn dẹp thêm được trả bằng tiền nào?)*
 
-- A. by Harriet's savings *(tiền tiết kiệm của bà Harriet)*
-- B. out of the booking fees *(từ tiền thuê bếp)*
-- C. by the neighbors *(do hàng xóm góp)*
-- D. by a loan *(bằng một khoản vay)*
+- A. by Harriet's savings and a loan from Nathan *(bằng tiền tiết kiệm của bà Harriet và khoản vay từ Nathan)*
+- B. out of the booking fees that the cooks pay *(từ tiền thuê bếp mà người nấu trả)*
+- C. by donations from the neighbors who use the kitchen *(nhờ hàng xóm dùng bếp quyên góp)*
+- D. by a loan from the local bank that Nathan arranged *(bằng khoản vay từ ngân hàng địa phương do Nathan thu xếp)*
 
 **27. What was the "best surprise"?**
 *("Bất ngờ dễ chịu nhất" là gì?)*
 
-- A. The kitchen made a large profit. *(Bếp lời lớn.)*
-- B. A famous chef joined. *(Một đầu bếp nổi tiếng tham gia.)*
+- A. The kitchen made a large profit in the first month. *(Bếp lời lớn ngay tháng đầu.)*
+- B. A famous chef joined the kitchen as a regular cook. *(Một đầu bếp nổi tiếng tham gia làm người nấu thường xuyên.)*
 - C. The kitchen helped the café: lunchtime sales rose by about a tenth. *(Bếp giúp quán: doanh thu buổi trưa tăng khoảng một phần mười.)*
-- D. The cooks cleaned perfectly. *(Người nấu dọn sạch hoàn hảo.)*
+- D. The cooks cleaned the kitchen perfectly every night. *(Người nấu dọn bếp hoàn hảo mỗi đêm.)*
 
 **28. How does the kitchen bring new customers to the café?**
 *(Bếp mang thêm khách cho quán bằng cách nào?)*
 
-- A. by advertising online *(quảng cáo trên mạng)*
-- B. by giving free coffee *(tặng cà phê miễn phí)*
-- C. by closing the café at lunch *(đóng quán giờ trưa)*
-- D. Cooks come in for coffee while they wait, and customers become curious about the cooking they see. *(Người nấu sang uống cà phê lúc chờ, và khách tò mò về món họ thấy đang nấu.)*
+- A. by advertising online and in local newspapers *(bằng quảng cáo trên mạng và báo địa phương)*
+- B. by giving free coffee to every cook who rents the kitchen *(bằng cách tặng cà phê cho mọi người thuê bếp)*
+- C. by closing the café at lunch and sending all its customers next door *(bằng cách đóng quán giờ trưa và gửi mọi khách sang bên cạnh)*
+- D. Cooks come in for coffee while they wait, and customers become curious about what they see. *(Người nấu sang uống cà phê lúc chờ, và khách tò mò về điều họ thấy.)*
 
 **29. Which statement about the next month's goals is correct?**
 *(Câu nào về mục tiêu tháng tới là đúng?)*
 
 - A. They want to reach four hours a day and start a monthly tasting night. *(Họ muốn đạt bốn tiếng mỗi ngày và mở đêm nếm thử hằng tháng.)*
-- B. They want to close the café. *(Họ muốn đóng quán.)*
-- C. They want to raise the price to $40 an hour. *(Họ muốn tăng giá lên 40 đô một giờ.)*
-- D. They want Harriet to stop baking. *(Họ muốn bà Harriet thôi nướng bánh.)*
+- B. They want to close the café and move into the old bakery. *(Họ muốn đóng quán và dọn sang tiệm bánh cũ.)*
+- C. They want to raise the price to $40 an hour for new cooks. *(Họ muốn tăng giá lên 40 đô một giờ cho người nấu mới.)*
+- D. They want Harriet to stop baking and hire a professional baker for the café. *(Họ muốn bà Harriet thôi nướng bánh và thuê thợ bánh chuyên nghiệp cho quán.)*
 
 **30. What does the last sentence show about Harriet?**
 *(Câu cuối cho thấy gì về bà Harriet?)*
 
-- A. She is tired of baking. *(Bà chán làm bánh.)*
-- B. She plans to sell the oven. *(Bà định bán lò.)*
+- A. She is tired of baking and wants to give it up soon. *(Bà chán làm bánh và muốn sớm bỏ.)*
+- B. She plans to sell the oven and retire to the country. *(Bà định bán lò và về quê nghỉ hưu.)*
 - C. She keeps her own role in the café with pride and good humor. *(Bà giữ vai trò riêng ở quán với niềm tự hào và sự hài hước.)*
-- D. She does not trust Nathan. *(Bà không tin Nathan.)*
+- D. She does not trust Nathan with the numbers or the oven. *(Bà không tin Nathan về con số hay cái lò.)*
 
 ---
 
@@ -425,82 +425,82 @@
 **31. How does Nathan now see the boring work of his first year?**
 *(Giờ Nathan nhìn những việc nhàm chán năm đầu thế nào?)*
 
-- A. as a waste of time *(phí thời gian)*
-- B. as something only juniors should do *(việc chỉ người mới nên làm)*
-- C. as the reason he nearly quit *(lý do anh suýt bỏ nghề)*
+- A. as a waste of time that taught him nothing *(như việc phí thời gian chẳng dạy anh điều gì)*
+- B. as something only juniors should do, never seniors *(như việc chỉ người mới nên làm, người lâu năm thì không)*
+- C. as the reason he nearly quit his first job *(như lý do anh suýt bỏ công việc đầu tiên)*
 - D. as the most important training he ever received *(khoá đào tạo quan trọng nhất anh từng nhận)*
 
 **32. What did fixing small errors teach Nathan?**
 *(Việc sửa lỗi nhỏ dạy Nathan điều gì?)*
 
-- A. how to work faster than others *(cách làm nhanh hơn người khác)*
-- B. how the larger system worked *(hệ thống lớn hơn vận hành thế nào)*
+- A. how to work much faster than the others *(cách làm nhanh hơn hẳn những người khác)*
+- B. how the larger system worked as a whole *(hệ thống lớn hơn vận hành thế nào như một tổng thể)*
 - C. how to avoid senior engineers *(cách tránh kỹ sư lâu năm)*
-- D. how to write documents *(cách viết tài liệu)*
+- D. how to write documents that other people would read *(cách viết tài liệu mà người khác sẽ đọc)*
 
 **33. Why might AI tools be "a gift" for some people and "a problem" for others?**
 *(Vì sao công cụ AI có thể là "món quà" với người này và "vấn đề" với người khác?)*
 
-- A. They are expensive for small companies. *(Chúng đắt với công ty nhỏ.)*
-- B. Only experienced engineers can use them. *(Chỉ kỹ sư kinh nghiệm dùng được.)*
-- C. They save experienced engineers time, but they take over the tasks that beginners used to learn from. *(Chúng tiết kiệm thời gian cho người giàu kinh nghiệm, nhưng lấy mất những việc mà người mới từng học từ đó.)*
-- D. They make mistakes only for beginners. *(Chúng chỉ mắc lỗi với người mới.)*
+- A. They are expensive for small companies, which must pay for each user. *(Chúng đắt với công ty nhỏ, vốn phải trả cho từng người dùng.)*
+- B. Only experienced engineers can use them well enough, so beginners are left out of the profession. *(Chỉ kỹ sư giàu kinh nghiệm dùng đủ tốt, nên người mới bị loại khỏi nghề.)*
+- C. They save experienced engineers time, but take over tasks beginners used to learn from. *(Chúng tiết kiệm thời gian cho kỹ sư giàu kinh nghiệm, nhưng lấy mất những việc người mới từng học từ đó.)*
+- D. They make mistakes only when beginners use them, never experts. *(Chúng chỉ mắc lỗi khi người mới dùng, không bao giờ với chuyên gia.)*
 
 **34. What did the 2025 Stanford study find?**
 *(Nghiên cứu Stanford năm 2025 phát hiện điều gì?)*
 
-- A. Employment of 22- to 25-year-olds in the jobs most exposed to AI fell by more than a tenth compared with less exposed jobs. *(Số người 22–25 tuổi có việc ở những công việc chịu tác động AI nhiều nhất giảm hơn một phần mười so với công việc ít chịu tác động hơn.)*
-- B. All workers lost a tenth of their pay. *(Mọi người lao động mất một phần mười lương.)*
-- C. Older workers lost their jobs fastest. *(Người lớn tuổi mất việc nhanh nhất.)*
-- D. AI created a tenth more jobs. *(AI tạo thêm một phần mười việc làm.)*
+- A. Employment of 22- to 25-year-olds in the jobs most exposed to AI fell by more than a tenth. *(Số người 22–25 tuổi có việc ở những công việc chịu tác động AI nhiều nhất giảm hơn một phần mười.)*
+- B. All workers lost a tenth of their pay in the most exposed jobs. *(Mọi người lao động mất một phần mười lương ở những công việc chịu tác động nhiều nhất.)*
+- C. Older workers lost their jobs faster than younger workers did. *(Người lớn tuổi mất việc nhanh hơn người trẻ.)*
+- D. AI created a tenth more jobs for young workers than for older ones in total. *(AI tạo thêm một phần mười việc làm cho người trẻ so với người lớn tuổi.)*
 
 **35. Why does Nathan mention that the researchers "were careful to say that other factors may have played a part"?**
 *(Vì sao Nathan nhắc rằng các nhà nghiên cứu "thận trọng nói rằng có thể có những yếu tố khác góp phần"?)*
 
-- A. to show that the study is worthless *(để cho thấy nghiên cứu vô giá trị)*
-- B. to criticize Stanford *(để chê Stanford)*
-- C. to prove that AI is not the cause *(để chứng minh AI không phải nguyên nhân)*
+- A. to show that the study is worthless and should be ignored by everyone who reads it *(để cho thấy nghiên cứu vô giá trị và mọi người đọc nên bỏ qua nó)*
+- B. to criticize Stanford for not checking its own numbers *(để chê Stanford không kiểm lại số liệu của mình)*
+- C. to prove that AI is not the cause of the problem *(để chứng minh AI không phải nguyên nhân của vấn đề)*
 - D. to present the evidence fairly, without claiming more than it shows *(để trình bày bằng chứng công bằng, không khẳng định quá những gì nó cho thấy)*
 
 **36. What is the flaw in the argument "why hire a junior?"**
 *(Lỗ hổng của lập luận "tuyển người mới làm gì?" là gì?)*
 
-- A. Juniors are cheaper than machines. *(Người mới rẻ hơn máy.)*
-- B. Machines cannot do any junior work. *(Máy không làm được việc nào của người mới.)*
-- C. Every senior was once a junior, so without training beginners, a company will have no experienced people later. *(Người lâu năm nào cũng từng là người mới, nên không đào tạo người mới thì sau này công ty sẽ không còn người giàu kinh nghiệm.)*
-- D. Managers do not understand AI. *(Quản lý không hiểu AI.)*
+- A. Juniors are cheaper than machines, so companies should hire them. *(Người mới rẻ hơn máy nên công ty nên thuê họ.)*
+- B. Machines cannot do any of the work that juniors do. *(Máy không làm được việc nào của người mới.)*
+- C. Every senior was once a junior, so without beginners there will be no experts later. *(Người lâu năm nào cũng từng là người mới, nên không có người mới thì sau này sẽ không có chuyên gia.)*
+- D. Managers do not understand how AI tools actually work. *(Quản lý không hiểu công cụ AI thực sự hoạt động ra sao.)*
 
 **37. What does "Not so much protect the old training as design a new one" mean?**
 *(Câu "Không phải bảo vệ cách đào tạo cũ mà là thiết kế một cách mới" nghĩa là gì?)*
 
 - A. The goal is to create a new way of training rather than to keep the old one. *(Mục tiêu là tạo cách đào tạo mới chứ không giữ cách cũ.)*
-- B. The old training should be protected at all costs. *(Phải bảo vệ cách đào tạo cũ bằng mọi giá.)*
-- C. Training is no longer needed. *(Không cần đào tạo nữa.)*
-- D. Machines should design the training. *(Máy nên thiết kế việc đào tạo.)*
+- B. The old training should be protected at all costs, whatever the price and effort. *(Phải bảo vệ cách đào tạo cũ bằng mọi giá, dù tốn kém và công sức đến đâu.)*
+- C. Training is no longer needed because AI can teach itself. *(Không cần đào tạo nữa vì AI tự dạy được.)*
+- D. Machines should design the training for the new engineers. *(Máy nên thiết kế việc đào tạo cho kỹ sư mới.)*
 
 **38. Why is checking the AI's work a good way for juniors to learn?**
 *(Vì sao kiểm tra bài của AI là cách học tốt cho người mới?)*
 
-- A. because the AI is always wrong *(vì AI luôn sai)*
-- B. because you cannot judge an answer you do not understand, so checking forces real learning *(vì không thể đánh giá câu trả lời mình không hiểu, nên việc kiểm tra buộc phải học thật)*
-- C. because it is faster than writing code *(vì nhanh hơn viết mã)*
-- D. because seniors do not want to do it *(vì người lâu năm không muốn làm)*
+- A. because the AI is always wrong, so juniors find many errors *(vì AI luôn sai nên người mới tìm được nhiều lỗi)*
+- B. because you cannot judge an answer you do not understand, so checking makes you learn *(vì không thể đánh giá câu trả lời mình không hiểu, nên việc kiểm tra buộc phải học)*
+- C. because it is much faster than writing all the code from the beginning *(vì nhanh hơn nhiều so với viết toàn bộ mã từ đầu)*
+- D. because seniors do not want to check the work themselves *(vì người lâu năm không muốn tự kiểm việc)*
 
 **39. Who is probably the "young engineer I know" in the last paragraph?**
 *("Một kỹ sư trẻ tôi quen" ở đoạn cuối có lẽ là ai?)*
 
-- A. Leah *(Leah)*
-- B. his colleague Greg *(đồng nghiệp Greg)*
-- C. Chloe *(Chloe)*
+- A. Leah, who found the lost ring on the beach *(Leah, người đã tìm thấy chiếc nhẫn rơi trên bãi biển)*
+- B. his colleague Greg, who stayed silent in meetings *(đồng nghiệp Greg, người im lặng trong các cuộc họp)*
+- C. Chloe, who opened a studio of her own *(Chloe, người mở studio riêng)*
 - D. Tracy, who found and reported her own calculation mistake *(Tracy, người đã tự tìm ra và báo lỗi tính toán của mình)*
 
 **40. How is Nathan's essay organized?**
 *(Bài của Nathan được tổ chức thế nào?)*
 
-- A. a list of AI tools *(danh sách công cụ AI)*
-- B. a personal memory, evidence of a problem, an opposing argument and its flaw, a solution, and a closing example *(một kỷ niệm riêng, bằng chứng về vấn đề, một lập luận trái chiều và lỗ hổng của nó, giải pháp, rồi ví dụ kết)*
-- C. a story about Stanford *(một câu chuyện về Stanford)*
-- D. a comparison of two companies *(so sánh hai công ty)*
+- A. a list of AI tools followed by a review of each one *(danh sách công cụ AI rồi đánh giá từng công cụ)*
+- B. a personal memory, evidence of a problem, an opposing view, a solution, and a closing example *(một kỷ niệm riêng, bằng chứng về vấn đề, một quan điểm trái chiều, giải pháp, rồi ví dụ kết)*
+- C. a story about Stanford University and the researchers who work there *(một câu chuyện về Đại học Stanford và các nhà nghiên cứu ở đó)*
+- D. a comparison of two companies, one with juniors and one without them *(so sánh hai công ty, một có người mới và một không)*
 
 ---
 
