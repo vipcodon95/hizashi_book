@@ -84,10 +84,10 @@
 **1. Why does Mr. Carter tell the class about his childhood?**
 *(Vì sao thầy Carter kể cho cả lớp nghe về tuổi thơ của mình?)*
 
-- A. to show that life was better in the past *(để cho thấy ngày xưa cuộc sống tốt đẹp hơn)*
-- B. to give an example before the students interview an older person *(để làm mẫu trước khi học sinh đi phỏng vấn một người lớn tuổi)*
-- C. to explain why Trevor is hiding behind his book *(để giải thích vì sao Trevor nấp sau cuốn sách)*
-- D. to teach the class how to cook vegetable soup *(để dạy cả lớp nấu súp rau)*
+- A. to show that life in a small town was better in the past than it is today *(để cho thấy cuộc sống ở thị trấn nhỏ ngày xưa tốt hơn bây giờ)*
+- B. to give an example first, before the students interview an older person *(để làm mẫu trước, rồi học sinh mới phỏng vấn một người lớn tuổi)*
+- C. to explain why Trevor is hiding behind his book during the lesson *(để giải thích vì sao Trevor nấp sau quyển sách trong giờ học)*
+- D. to teach the class how to cook vegetable soup the way his mother did *(để dạy cả lớp nấu súp rau củ theo cách mẹ thầy đã làm)*
 
 **2. Who taught Mr. Carter the alphabet?**
 *(Ai đã dạy thầy Carter bảng chữ cái?)*
@@ -100,18 +100,18 @@
 **3. What happened when Mr. Carter was twelve?**
 *(Chuyện gì đã xảy ra khi thầy Carter mười hai tuổi?)*
 
-- A. He put far too much salt in his mother's soup. *(Thầy cho quá nhiều muối vào nồi súp của mẹ.)*
-- B. He took his first flight to New York. *(Thầy đi máy bay lần đầu tới New York.)*
-- C. He started cooking for his whole class. *(Thầy bắt đầu nấu ăn cho cả lớp.)*
-- D. He was afraid of the clowns at the circus. *(Thầy sợ mấy chú hề ở rạp xiếc.)*
+- A. He put far too much salt in his mother's vegetable soup. *(Thầy cho quá nhiều muối vào nồi súp rau của mẹ.)*
+- B. He took his first flight to visit his aunt in New York. *(Thầy đi chuyến bay đầu tiên để thăm dì ở New York.)*
+- C. He started cooking for his whole family at the kitchen table. *(Thầy bắt đầu nấu ăn cho cả nhà ở bàn bếp.)*
+- D. He went to the circus for the first time with his grandmother. *(Thầy lần đầu đi xem xiếc cùng bà.)*
 
 **4. In "My brother and I used to get into mischief all the time", what does "get into mischief" mean?**
 *(Trong câu "My brother and I used to get into mischief all the time", "get into mischief" nghĩa là gì?)*
 
-- A. work hard in the garden *(chăm chỉ làm vườn)*
-- B. get lost on the way home *(bị lạc trên đường về nhà)*
-- C. do silly things that cause small trouble *(bày những trò nghịch gây phiền phức nho nhỏ)*
-- D. help their neighbors *(giúp đỡ hàng xóm)*
+- A. work hard in the garden with their grandmother every day *(chăm chỉ làm vườn cùng bà mỗi ngày)*
+- B. get lost on the way home and ask the neighbors for help *(bị lạc trên đường về nhà và nhờ hàng xóm giúp)*
+- C. do silly things that cause small trouble for other people *(làm những việc ngớ ngẩn gây rắc rối nhỏ cho người khác)*
+- D. help their neighbors carry things between the two houses *(giúp hàng xóm mang đồ giữa hai căn nhà)*
 
 **5. In "between our house and theirs", what does "theirs" refer to?**
 *(Trong cụm "between our house and theirs", "theirs" chỉ cái gì?)*
@@ -124,10 +124,10 @@
 **6. Which of these is NOT mentioned as something Mr. Carter did or felt as a child?**
 *(Điều nào sau đây KHÔNG được nhắc tới như một việc thầy Carter từng làm hoặc từng cảm thấy hồi nhỏ?)*
 
-- A. He chased chickens with his brother. *(Thầy cùng em trai đuổi gà.)*
-- B. He was afraid of the darkness. *(Thầy sợ bóng tối.)*
-- C. He was afraid of the clowns at the circus. *(Thầy sợ mấy chú hề ở rạp xiếc.)*
-- D. He played football with his schoolmates every afternoon. *(Chiều nào thầy cũng đá bóng với bạn cùng trường.)*
+- A. He chased the neighbors' chickens with his brother. *(Thầy đuổi theo đàn gà của hàng xóm cùng em trai.)*
+- B. He was afraid of the darkness, so his grandma left a light on. *(Thầy sợ bóng tối nên bà để đèn sáng.)*
+- C. He was afraid of the clowns at the circus that came every summer. *(Thầy sợ những chú hề ở rạp xiếc đến thị trấn mỗi mùa hè.)*
+- D. He played football with his schoolmates after school. *(Thầy chơi bóng đá với bạn cùng trường sau giờ học.)*
 
 **7. How many people lived in Mr. Carter's home when he was a child?**
 *(Hồi thầy Carter còn nhỏ, nhà thầy có bao nhiêu người?)*
@@ -149,9 +149,9 @@
 *(Bài nói cho thấy điều gì về quê của thầy Carter?)*
 
 - A. It has more houses now than it had in his childhood. *(Bây giờ ở đó có nhiều nhà hơn so với hồi thầy còn nhỏ.)*
-- B. It is now a big city with many farms. *(Bây giờ nó là một thành phố lớn với nhiều trang trại.)*
-- C. It is west of San Diego. *(Nó nằm ở phía tây San Diego.)*
-- D. Nobody lives there anymore. *(Không còn ai sống ở đó nữa.)*
+- B. It is now a big city with many farms and a small number of houses. *(Bây giờ đó là một thành phố lớn có nhiều nông trại và ít nhà.)*
+- C. It is west of San Diego, near where his aunt lives. *(Nó nằm ở phía tây San Diego, gần nơi dì của thầy sống.)*
+- D. Nobody lives there anymore, because the farms and the houses are gone. *(Không còn ai sống ở đó nữa vì các nông trại và nhà cửa đều biến mất.)*
 
 **10. How does Mr. Carter feel about his childhood?**
 *(Thầy Carter cảm thấy thế nào về tuổi thơ của mình?)*
@@ -208,16 +208,16 @@
 
 - A. How to Improve Your Memory in One Week *(Cách cải thiện trí nhớ trong một tuần)*
 - B. A Day at the Zoo with Three-Year-Olds *(Một ngày ở sở thú với trẻ ba tuổi)*
-- C. Why Our Earliest Memories Fade *(Vì sao những ký ức sớm nhất của ta phai mờ)*
+- C. Why Our Earliest Memories Fade Away Over Time *(Vì sao những ký ức sớm nhất của ta phai nhạt theo thời gian)*
 - D. Newborn Babies and Their Mothers' Voices *(Trẻ sơ sinh và giọng nói của mẹ)*
 
 **12. What does the passage say about most adults' memories?**
 *(Đoạn văn nói gì về ký ức của đa số người lớn?)*
 
-- A. They start from before birth. *(Chúng bắt đầu từ trước khi chào đời.)*
-- B. They go back to around the age of three or four, but not earlier. *(Chúng chỉ quay lại được tới khoảng ba hoặc bốn tuổi, không sớm hơn.)*
-- C. They go back to the age of two or younger. *(Chúng quay lại được tới lúc hai tuổi hoặc nhỏ hơn.)*
-- D. They start at the age of eight or nine. *(Chúng bắt đầu từ tám hoặc chín tuổi.)*
+- A. They start from before birth, when a baby hears its mother's voice. *(Chúng bắt đầu từ trước khi sinh, khi em bé nghe giọng mẹ.)*
+- B. They go back to around the age of three or four, but not before that. *(Chúng chỉ quay về khoảng ba hoặc bốn tuổi, không sớm hơn.)*
+- C. They go back to the age of two or younger, like a first birthday party. *(Chúng quay về tận lúc hai tuổi hoặc nhỏ hơn, như bữa tiệc sinh nhật đầu tiên.)*
+- D. They start at the age of eight or nine, when the hippocampus is ready. *(Chúng bắt đầu từ tám hoặc chín tuổi, khi vùng hải mã đã sẵn sàng.)*
 
 **13. In the Emory study, how much did the children remember at the age of five to seven?**
 *(Trong nghiên cứu ở Emory, bọn trẻ nhớ được bao nhiêu ở tuổi năm tới bảy?)*
@@ -230,10 +230,10 @@
 **14. In "they slowly faded away", what does "faded away" mean?**
 *(Trong câu "they slowly faded away", "faded away" nghĩa là gì?)*
 
-- A. became weaker until they were gone *(yếu dần cho tới khi mất hẳn)*
-- B. became stronger and clearer *(mạnh hơn và rõ hơn)*
-- C. were written down in a book *(được ghi lại trong một cuốn sách)*
-- D. disappeared in one day *(biến mất trong một ngày)*
+- A. became weaker and weaker until they were gone *(ngày càng yếu đi cho đến khi mất hẳn)*
+- B. became stronger and clearer as the children grew older *(trở nên mạnh và rõ hơn khi bọn trẻ lớn lên)*
+- C. were written down in a book by the researchers *(được các nhà nghiên cứu ghi vào một cuốn sách)*
+- D. disappeared in one day after the zoo trip *(biến mất trong một ngày sau chuyến đi sở thú)*
 
 **15. In "when we can tell them as stories", what does "them" refer to?**
 *(Trong cụm "when we can tell them as stories", "them" chỉ cái gì?)*
@@ -247,25 +247,25 @@
 *(Điều nào sau đây KHÔNG được nêu là một lý do của chứng quên tuổi thơ?)*
 
 - A. A part of the brain is still developing. *(Một bộ phận của não vẫn đang phát triển.)*
-- B. Babies can't hear their mothers well. *(Em bé không nghe rõ giọng mẹ.)*
+- B. Babies can't hear their mothers' voices well at all. *(Em bé hoàn toàn không nghe rõ giọng mẹ.)*
 - C. Young children don't know many words yet. *(Trẻ nhỏ chưa biết nhiều từ.)*
 - D. Young children may not have a clear sense of self yet. *(Có thể trẻ nhỏ chưa có ý thức rõ ràng về bản thân.)*
 
 **17. Why can a newborn baby already recognize its mother's voice?**
 *(Vì sao em bé sơ sinh đã nhận ra được giọng mẹ?)*
 
-- A. Its mother tells it stories about its first birthday. *(Mẹ kể cho bé nghe chuyện sinh nhật đầu tiên.)*
-- B. Its hippocampus is fully developed. *(Hồi hải mã của bé đã phát triển đầy đủ.)*
-- C. It has seen family photos. *(Bé đã xem ảnh gia đình.)*
-- D. It probably heard that voice for months before birth. *(Có lẽ bé đã nghe giọng ấy suốt mấy tháng trước khi chào đời.)*
+- A. Its mother tells it stories about its first birthday every single night. *(Mẹ nó kể cho nó nghe chuyện sinh nhật đầu tiên mỗi đêm.)*
+- B. Its hippocampus is already fully developed and stores every sound. *(Vùng hải mã của nó đã phát triển đầy đủ và lưu lại mọi âm thanh.)*
+- C. It has looked at family photos of its mother for many months. *(Nó đã nhìn ảnh gia đình có mẹ mình suốt nhiều tháng.)*
+- D. It probably heard that voice for many months before its birth. *(Nhiều khả năng nó đã nghe giọng đó suốt nhiều tháng trước khi sinh ra.)*
 
 **18. A friend says, "I clearly remember my first birthday party." What would the writer probably think?**
 *(Một người bạn nói: "Tớ nhớ rõ bữa tiệc sinh nhật đầu tiên của tớ." Có lẽ người viết sẽ nghĩ gì?)*
 
-- A. The memory probably comes from photos and family stories, not from the real day. *(Ký ức đó có lẽ đến từ ảnh và chuyện gia đình kể, không phải từ chính ngày hôm ấy.)*
-- B. The friend has an unusually strong hippocampus. *(Người bạn có hồi hải mã khoẻ khác thường.)*
-- C. The friend remembers more than sixty percent of the party. *(Người bạn nhớ được hơn sáu mươi phần trăm bữa tiệc.)*
-- D. Everyone can remember their first birthday clearly. *(Ai cũng nhớ rõ sinh nhật đầu tiên của mình.)*
+- A. It probably comes from photos and family stories, not from the real day itself. *(Ký ức đó nhiều khả năng đến từ ảnh và chuyện kể của gia đình, không phải từ chính ngày thật.)*
+- B. The friend has an unusually strong hippocampus that stores things from when it was a baby. *(Người bạn có vùng hải mã khỏe bất thường nên lưu được những chuyện từ lúc còn nhỏ xíu.)*
+- C. The friend remembers sixty percent of the party, like the study children. *(Người bạn nhớ sáu mươi phần trăm bữa tiệc, giống bọn trẻ trong nghiên cứu.)*
+- D. Everyone can remember their first birthday clearly if they try hard enough. *(Ai cũng có thể nhớ rõ sinh nhật đầu tiên của mình nếu cố gắng đủ.)*
 
 **19. Why does the writer mention the 2018 survey?**
 *(Vì sao người viết nhắc tới cuộc khảo sát năm 2018?)*
@@ -278,10 +278,10 @@
 **20. Based on both passages, why can Mr. Carter probably still remember the salt story so well?**
 *(Dựa vào cả hai bài, vì sao có lẽ thầy Carter vẫn nhớ rõ chuyện cốc muối?)*
 
-- A. because it happened before he was three *(vì chuyện đó xảy ra trước khi thầy ba tuổi)*
-- B. because his mother recorded it, like the mothers in the Emory study *(vì mẹ thầy đã ghi âm lại, giống các bà mẹ trong nghiên cứu ở Emory)*
+- A. because it happened before he was three, when the strongest memories are made *(vì chuyện đó xảy ra trước khi thầy lên ba, lúc những ký ức mạnh nhất được tạo ra)*
+- B. because his mother recorded him telling it, just like the mothers did in the Emory study *(vì mẹ thầy đã ghi âm lúc thầy kể chuyện đó, giống các bà mẹ trong nghiên cứu ở Emory)*
 - C. because he was twelve, long after the age when early memories usually fade *(vì lúc đó thầy đã mười hai tuổi, lớn hơn nhiều so với độ tuổi mà ký ức sớm thường phai mờ)*
-- D. because he saw it in a family photo *(vì thầy thấy chuyện đó trong một tấm ảnh gia đình)*
+- D. because he saw it in a family photo that was taken on the same day *(vì thầy đã thấy nó trong một tấm ảnh gia đình chụp đúng ngày hôm đó)*
 
 ---
 
@@ -301,7 +301,7 @@
 |---|---|---|
 | 1 | **B** | Câu 3, 17: Thầy nói ngay đầu bài: "each of you will interview an older person about their childhood, so I'll go first." và cuối bài nhắc lại "choose an older person to interview". Vậy thầy kể chuyện của mình để làm mẫu. Thầy không nói ngày xưa tốt hơn; thầy chỉ "cherish those years". Chuyện Trevor nấp sau sách chỉ là câu đùa. Súp rau là một kỷ niệm, không phải bài học nấu ăn. |
 | 2 | **D** | Câu 6: "Grandma taught me the alphabet at the kitchen table before I started preschool." Vậy người dạy là bà, và việc này diễn ra trước khi thầy đi học mầm non, nên không phải cô giáo mầm non. Mẹ xuất hiện trong chuyện súp rau và chuyện gọi hai anh em vào nhà ("until Mom called us inside"). Em trai là bạn nghịch cùng thầy. |
-| 3 | **A** | Câu 12: "At twelve, she asked me to add a little salt, and I poured in a whole cup!" Mẹ chỉ cần một chút muối, thầy lại đổ cả cốc, tức là quá nhiều. Chuyến bay đầu tiên là năm mười lăm tuổi ("At fifteen, I took my first flight"). Chuyện súp chỉ là "the beginning of my love of cooking", bài không nói thầy nấu cho cả lớp. Chuyện sợ hề là chuyện các mùa hè thơ ấu, bài không gắn với tuổi mười hai. |
+| 3 | **A** | Câu 12: "At twelve, she asked me to add a little salt, and I poured in a whole cup!" Mẹ chỉ cần một chút muối, thầy lại đổ cả cốc, tức là quá nhiều. Chuyến bay đầu tiên là năm mười lăm tuổi ("At fifteen, I took my first flight"). Chuyện súp chỉ là "the beginning of my love of cooking", bài không nói thầy nấu cho cả nhà. Chuyện sợ hề là chuyện các mùa hè thơ ấu, bài không gắn với tuổi mười hai và cũng không nói thầy đi xem xiếc cùng bà. |
 | 4 | **C** | Câu 7–8: Câu ngay sau đó đưa ví dụ: "We used to chase the neighbors' chickens between our house and theirs and giggle until Mom called us inside." Đuổi gà nhà hàng xóm rồi cười khúc khích cho tới khi mẹ gọi vào chính là nghịch ngợm. Bài không nói hai anh em làm vườn hay bị lạc. Đuổi gà nhà hàng xóm cũng không phải giúp họ, mà còn làm phiền họ. |
 | 5 | **A** | Câu 8: Câu đầy đủ là "We used to chase the neighbors' chickens between our house and theirs". theirs = their house, và their ở đây là của the neighbors, người được nhắc ngay trước đó. Gà không có nhà hay vườn riêng. Học sinh và gánh xiếc không có trong câu này. |
 | 6 | **D** | Câu 8–10: Ba việc đầu đều có trong bài: "We used to chase the neighbors' chickens", "I also used to be afraid of the darkness", và "only I was afraid of the clowns". Bài không hề nhắc tới chuyện đá bóng với bạn cùng trường. |
@@ -315,7 +315,7 @@
 | 14 | **A** | Câu 9: Câu đầy đủ là "The memories did not disappear in one day; they slowly faded away." Vế đầu phủ định việc mất trong một ngày, vế sau nói ký ức mất đi "slowly", tức là mờ dần rồi mất. Vì vậy "disappeared in one day" là đáp án sai, đúng là điều câu văn bác bỏ. Ký ức không mạnh lên, và bài không nói ghi vào sách. |
 | 15 | **C** | Câu 11: Câu đầy đủ là "memories are easier to keep when we can tell them as stories." Thứ được kể thành chuyện chính là memories, chủ ngữ của vế này. Trẻ nhỏ và từ ngữ nằm ở vế trước ("young children don't have many words yet"), nhưng ta không kể trẻ nhỏ hay kể từ ngữ thành chuyện. Sự kiện ở sở thú thuộc đoạn nói về nghiên cứu, không nằm trong câu này. |
 | 16 | **B** | Câu 4, 10, 11, 12: Ba lý do có trong bài: "the hippocampus, the part of the brain that helps us store memories, is still developing", "young children don't have many words yet", và "a child may need a clear sense of self". Chuyện em bé không nghe rõ giọng mẹ thì ngược với bài: "a newborn can already recognize its mother's voice". |
-| 17 | **D** | Câu 4: "a newborn can already recognize its mother's voice, probably because it heard that voice for months before birth." Hồi hải mã thì ngược lại, "is still developing" trong những năm đầu. Ảnh gia đình và chuyện sinh nhật là nguồn của những ký ức không có thật ở người lớn, không liên quan tới em bé sơ sinh. |
+| 17 | **D** | Câu 4: "a newborn can already recognize its mother's voice, probably because it heard that voice for months before birth." Hải mã thì ngược lại, "is still developing" trong những năm đầu. Ảnh gia đình và chuyện sinh nhật là nguồn của những ký ức không có thật ở người lớn, không liên quan tới em bé sơ sinh. |
 | 18 | **A** | Câu 2, 15, 16, 17: Bài không nhắc tới người bạn này, nên ta phải suy ra. Sinh nhật đầu tiên là lúc một tuổi, sớm hơn nhiều so với mốc "before the age of three or four". Người viết nói những ký ức sớm như vậy "never really happened" và "were probably built later from family photos and stories told again and again", rồi khuyên "don't expect to find that day in your own memory". Bài không nói ai có hồi hải mã khoẻ khác thường. "sixty percent" là kết quả của trẻ năm tới bảy tuổi trong nghiên cứu Emory. Ý "ai cũng nhớ" ngược với cả bài. |
 | 19 | **B** | Câu 13–15: Đoạn này mở đầu bằng lời nhắc "Be careful with your own" (hãy cẩn thận với "ký ức đầu tiên" của chính bạn), rồi đưa cuộc khảo sát ra làm bằng chứng: "The researchers believe most of these memories never really happened." Vậy mục đích là cảnh báo. Cuộc khảo sát không cho thấy đa số nhớ được lúc hai tuổi: chỉ gần bốn mươi phần trăm người kể như vậy, và phần lớn những ký ức đó không có thật. Hồi hải mã nằm ở đoạn trước. Bài không khuyên chụp thêm ảnh. |
 | 20 | **C** | Câu 2, 8: Câu này nối hai bài. Ở bài 1, thầy kể chuyện đổ cả cốc muối vào súp xảy ra năm thầy mười hai tuổi. Ở bài 2, người lớn hầu như không nhớ gì "before the age of three or four", và ký ức sớm mờ dần trong những năm đầu đi học: tới tám, chín tuổi bọn trẻ chỉ còn nhớ "less than forty percent" những chuyện hồi ba tuổi. Mười hai tuổi đã qua xa độ tuổi đó, nên chuyện này dễ nhớ hơn nhiều. Chuyện không xảy ra trước ba tuổi. Bài 1 không nói mẹ ghi âm hay có ảnh; ảnh gia đình là nguồn của những ký ức không có thật ở bài 2. |

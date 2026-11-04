@@ -81,10 +81,10 @@
 **1. What is the main problem in Trevor's diary?**
 *(Vấn đề chính trong nhật ký của Trevor là gì?)*
 
-- A. He does not like his new teachers. *(Cậu không thích các thầy cô mới.)*
-- B. He has too much free time. *(Cậu có quá nhiều thời gian rảnh.)*
-- C. He has trouble managing his time and deadlines. *(Cậu khó xoay xở thời gian và các hạn nộp.)*
-- D. He has lost his phone. *(Cậu bị mất điện thoại.)*
+- A. He does not like his new teachers and finds the homework boring *(Cậu không thích các thầy cô mới và thấy bài tập nhàm chán)*
+- B. He has too much free time and does not know how to use it *(Cậu có quá nhiều thời gian rảnh và không biết dùng làm gì)*
+- C. He has trouble managing his time and meeting his deadlines. *(Cậu gặp khó khăn trong việc quản lý thời gian và kịp hạn nộp.)*
+- D. He has lost his phone and cannot text anyone for help *(Cậu làm mất điện thoại và không thể nhắn tin nhờ ai giúp)*
 
 **2. When is Trevor's science report due?**
 *(Báo cáo môn khoa học của Trevor phải nộp khi nào?)*
@@ -97,10 +97,10 @@
 **3. Why does Trevor say "there is no excuse" about his history project?**
 *(Vì sao Trevor nói "chẳng có lý do gì để thoái thác" với dự án môn sử?)*
 
-- A. The project is very easy. *(Vì dự án rất dễ.)*
-- B. He has already finished it. *(Vì cậu đã làm xong rồi.)*
-- C. The coach wants good grades. *(Vì huấn luyện viên muốn điểm tốt.)*
-- D. His father is the teacher, so he cannot hide anything. *(Vì bố cậu là thầy dạy môn đó, nên cậu chẳng giấu được gì.)*
+- A. The project is very easy, so he has no reason to complain *(Dự án rất dễ nên cậu không có lý do để phàn nàn)*
+- B. He has already finished it and his dad has given him top marks *(Cậu đã làm xong và bố đã cho cậu điểm cao nhất)*
+- C. The coach wants good grades before Trevor can join the team *(Huấn luyện viên muốn có điểm tốt trước khi Trevor vào đội)*
+- D. His father is his teacher, so he cannot hide anything from him. *(Bố cậu là thầy giáo của cậu nên cậu không thể giấu gì ông.)*
 
 **4. In "I always put things off until the last minute", what does "put things off" mean?**
 *(Trong câu "I always put things off until the last minute", "put things off" nghĩa là gì?)*
@@ -113,10 +113,10 @@
 **5. In "I'll reward myself with ten minutes of soccer videos after each one", what does "one" refer to?**
 *(Trong câu "... after each one", "one" chỉ cái gì?)*
 
-- A. a soccer game *(một trận bóng)*
+- A. a soccer game on Saturday morning *(một trận bóng đá sáng thứ Bảy)*
 - B. a short time slot of homework *(một khoảng thời gian ngắn làm bài)*
-- C. a text message *(một tin nhắn)*
-- D. a school day *(một ngày học)*
+- C. a text message from the neighbor *(một tin nhắn từ người hàng xóm)*
+- D. a school day with many deadlines *(một ngày học với nhiều hạn nộp)*
 
 **6. Why can't Trevor shout "Tracy, help!" this year?**
 *(Vì sao năm nay Trevor không thể hét "Chị Tracy ơi, cứu em!"?)*
@@ -129,15 +129,15 @@
 **7. Who most probably answered Trevor's text?**
 *(Nhiều khả năng ai đã trả lời tin nhắn của Trevor?)*
 
-- A. Tracy *(Tracy)*
-- B. the coach *(thầy huấn luyện viên)*
+- A. Tracy, who is studying in Washington and answers him quickly *(Tracy, người đang học ở Washington và trả lời cậu rất nhanh)*
+- B. the coach, who checks Trevor's grades before every game *(huấn luyện viên, người kiểm tra điểm của Trevor trước mỗi trận)*
 - C. the neighbor he texted, who often helps him *(người hàng xóm cậu nhắn tin, người hay giúp cậu)*
 - D. his history teacher *(thầy dạy sử)*
 
 **8. Which of these is NOT part of Trevor's new plan?**
 *(Điều nào KHÔNG nằm trong kế hoạch mới của Trevor?)*
 
-- A. stopping soccer practice *(thôi tập bóng)*
+- A. stopping soccer practice for a month *(nghỉ tập bóng đá một tháng)*
 - B. doing homework in short time slots *(làm bài theo từng khoảng ngắn)*
 - C. rewarding himself with soccer videos *(tự thưởng bằng video bóng đá)*
 - D. starting his plan from tomorrow *(bắt đầu kế hoạch từ ngày mai)*
@@ -145,10 +145,10 @@
 **9. What does Mom's answer "I'll believe it when I see it" show?**
 *(Câu "Thấy tận mắt rồi mẹ mới tin" của mẹ cho thấy điều gì?)*
 
-- A. She is angry with Trevor. *(Mẹ đang giận Trevor.)*
-- B. She wants to watch soccer videos too. *(Mẹ cũng muốn xem video bóng đá.)*
-- C. She will check his homework every hour. *(Mẹ sẽ kiểm tra bài cậu mỗi giờ.)*
-- D. She is not sure that Trevor will really follow his plan. *(Mẹ chưa tin Trevor sẽ làm đúng kế hoạch.)*
+- A. She is angry with Trevor because he wastes the evening on his phone *(Mẹ giận Trevor vì cậu phí cả buổi tối vào điện thoại)*
+- B. She wants to watch soccer videos with Trevor after every time slot *(Mẹ muốn xem video bóng đá cùng Trevor sau mỗi khoảng thời gian học)*
+- C. She will check his homework every hour and take his phone away *(Mẹ sẽ kiểm tra bài tập của cậu mỗi giờ và lấy điện thoại của cậu)*
+- D. She is not sure that Trevor will really follow his plan this time. *(Mẹ không chắc lần này Trevor có thật sự làm theo kế hoạch của mình.)*
 
 **10. In "The answer came immediately", what does "immediately" mean?**
 *(Trong câu "The answer came immediately", "immediately" nghĩa là gì?)*
@@ -209,18 +209,18 @@
 **12. Who created the Pomodoro Technique?**
 *(Ai đã tạo ra kỹ thuật Pomodoro?)*
 
-- A. a kitchen designer *(một nhà thiết kế bếp)*
-- B. a group of doctors *(một nhóm bác sĩ)*
-- C. an Italian university student *(một sinh viên đại học người Ý)*
-- D. a math teacher *(một giáo viên toán)*
+- A. a kitchen designer who made tomato timers *(một nhà thiết kế bếp chuyên làm đồng hồ hẹn giờ hình quả cà chua)*
+- B. a group of doctors who studied tired students *(một nhóm bác sĩ nghiên cứu về những học sinh mệt mỏi)*
+- C. an Italian university student, Francesco Cirillo *(một sinh viên đại học người Ý, Francesco Cirillo)*
+- D. a math teacher in a school in the 1980s *(một giáo viên toán ở một trường học vào những năm 1980)*
 
 **13. Why is the method called "Pomodoro"?**
 *(Vì sao phương pháp có tên là "Pomodoro"?)*
 
-- A. Cirillo loved tomatoes. *(Vì Cirillo thích cà chua.)*
-- B. It was first used in a restaurant. *(Vì lần đầu nó được dùng ở nhà hàng.)*
-- C. Each break lasts as long as cooking a tomato. *(Vì mỗi lần nghỉ dài bằng thời gian nấu cà chua.)*
-- D. Cirillo's timer looked like a tomato, and "pomodoro" means tomato in Italian. *(Vì đồng hồ của Cirillo hình quả cà chua, và "pomodoro" nghĩa là cà chua trong tiếng Ý.)*
+- A. Cirillo loved tomatoes and put them on his desk while he studied *(Cirillo rất thích cà chua và đặt chúng trên bàn khi học)*
+- B. It was first used in an Italian restaurant, where cooks timed each tomato dish *(Nó lần đầu được dùng ở một nhà hàng Ý, nơi các đầu bếp bấm giờ từng món cà chua)*
+- C. Each break lasts as long as it takes to cook a tomato in a pot of water *(Mỗi lần nghỉ kéo dài bằng thời gian nấu một quả cà chua trong nồi nước)*
+- D. Cirillo's timer looked like a tomato, and pomodoro is Italian for tomato. *(Chiếc đồng hồ hẹn giờ của Cirillo trông như quả cà chua, và pomodoro là từ tiếng Ý chỉ cà chua.)*
 
 **14. How long is one "pomodoro"?**
 *(Một "pomodoro" dài bao lâu?)*
@@ -233,25 +233,25 @@
 **15. What should you do after four pomodoros?**
 *(Sau bốn pomodoro thì nên làm gì?)*
 
-- A. take a break of fifteen to thirty minutes *(nghỉ từ mười lăm tới ba mươi phút)*
-- B. start a new task without a break *(làm việc mới ngay, không nghỉ)*
-- C. stop working for the day *(nghỉ hẳn trong ngày)*
-- D. set the timer for one hour *(hẹn giờ một tiếng)*
+- A. take a longer break of fifteen to thirty minutes *(nghỉ dài hơn, từ mười lăm đến ba mươi phút)*
+- B. start a new task right away without any break *(bắt đầu ngay một việc mới mà không nghỉ chút nào)*
+- C. stop working for the day and go out with friends *(ngừng làm việc trong ngày và đi chơi với bạn)*
+- D. set the timer for one hour and keep working *(hẹn giờ một tiếng và tiếp tục làm việc)*
 
 **16. In "Short, frequent breaks also stop you from getting exhausted", what does "exhausted" mean?**
 *(Trong câu "... stop you from getting exhausted", "exhausted" nghĩa là gì?)*
 
-- A. bored *(chán)*
-- B. hungry *(đói)*
-- C. very tired *(rất mệt, kiệt sức)*
-- D. late *(muộn)*
+- A. very bored and unable to focus *(rất chán và không thể tập trung)*
+- B. very hungry before lunch time *(rất đói trước giờ ăn trưa)*
+- C. very tired after working hard *(rất mệt sau khi làm việc vất vả)*
+- D. very late for the next class *(rất muộn cho tiết học tiếp theo)*
 
 **17. In "try it for a week and then decide if it suits you", what does "it" refer to?**
 *(Trong câu "try it for a week…", "it" chỉ cái gì?)*
 
 - A. a long story *(một câu chuyện dài)*
-- B. the kitchen timer *(chiếc đồng hồ hẹn giờ)*
-- C. a week *(một tuần)*
+- B. the tomato-shaped kitchen timer *(chiếc đồng hồ hẹn giờ hình quả cà chua)*
+- C. a week of studying *(một tuần học bài)*
 - D. the Pomodoro Technique *(kỹ thuật Pomodoro)*
 
 **18. In the article, which is NOT a problem with the technique?**
@@ -265,18 +265,18 @@
 **19. A student has to write a long story that needs deep thinking. What would the writer probably say?**
 *(Một học sinh phải viết một câu chuyện dài cần suy nghĩ sâu. Người viết nhiều khả năng sẽ nói gì?)*
 
-- A. Pomodoros may not be the best method for this task. *(Pomodoro có thể không phải cách tốt nhất cho việc này.)*
-- B. Twenty-five minutes is always enough for any task. *(Hai mươi lăm phút lúc nào cũng đủ cho mọi việc.)*
-- C. The student should not take any breaks. *(Học sinh đó không nên nghỉ chút nào.)*
-- D. The student should buy a tomato timer. *(Học sinh đó nên mua đồng hồ hình cà chua.)*
+- A. Pomodoros may not be the best method for this kind of task. *(Kỹ thuật Pomodoro có thể không phải cách tốt nhất cho loại việc này.)*
+- B. Twenty-five minutes is always enough for any kind of task. *(Hai mươi lăm phút luôn đủ cho mọi loại việc.)*
+- C. The student should not take any breaks until the story is finished. *(Học sinh không nên nghỉ chút nào cho đến khi viết xong truyện.)*
+- D. The student should buy a tomato timer and use it all day long. *(Học sinh nên mua đồng hồ hẹn giờ hình cà chua và dùng cả ngày.)*
 
 **20. Use both texts. Which part of Trevor's plan is most like the Pomodoro Technique?**
 *(Dựa vào cả hai bài. Phần nào trong kế hoạch của Trevor giống kỹ thuật Pomodoro nhất?)*
 
-- A. joining the school soccer team *(vào đội bóng của trường)*
-- B. shouting for help on Sunday nights *(hét lên nhờ giúp tối Chủ nhật)*
-- C. working in short time slots with a reward after each one *(làm bài theo từng khoảng ngắn, xong mỗi khoảng được thưởng)*
-- D. finishing his history project within five days *(làm xong dự án sử trong năm ngày)*
+- A. joining the school soccer team after getting good grades in the spring term *(vào đội bóng đá của trường sau khi có điểm tốt trong học kỳ mùa xuân)*
+- B. shouting for help on Sunday nights, as he did last year with Tracy *(la lên nhờ giúp vào tối Chủ nhật, như năm ngoái với Tracy)*
+- C. working in short time slots, with a small reward after each one he finishes *(làm việc theo các khoảng thời gian ngắn, với một phần thưởng nhỏ sau mỗi khoảng xong)*
+- D. finishing his history project within five days by working all night *(hoàn thành dự án lịch sử trong năm ngày bằng cách làm suốt đêm)*
 
 ---
 

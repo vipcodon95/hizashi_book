@@ -83,10 +83,10 @@
 **1. What is the main topic of Trevor's diary?**
 *(Chủ đề chính trong nhật ký của Trevor là gì?)*
 
-- A. his plan to save money for new soccer boots *(kế hoạch để dành tiền mua giày bóng đá mới)*
-- B. his first day at a new job *(ngày đầu đi làm của cậu)*
-- C. a fight with his sister *(một trận cãi nhau với em gái)*
-- D. the school soccer tryouts *(buổi tuyển chọn vào đội bóng)*
+- A. his plan to save enough money for new soccer boots by January *(kế hoạch để dành đủ tiền mua giày bóng đá mới trước tháng Một)*
+- B. his first day at a new job clearing tables on Saturdays at the café *(ngày đầu tiên đi làm dọn bàn vào các sáng thứ Bảy ở quán)*
+- C. a big fight with his sister about the money he owes her *(một trận cãi nhau lớn với em gái về số tiền cậu nợ em)*
+- D. the school soccer tryouts that will take place in March *(buổi tuyển chọn đội bóng đá của trường diễn ra vào tháng Ba)*
 
 **2. How much do the boots cost?**
 *(Đôi giày giá bao nhiêu?)*
@@ -107,34 +107,34 @@
 **4. In "I usually splash out on snacks after practice", what does "splash out on" mean?**
 *(Trong câu "I usually splash out on snacks after practice", "splash out on" nghĩa là gì?)*
 
-- A. save money for *(để dành tiền cho)*
-- B. share with friends *(chia với bạn bè)*
-- C. refuse to buy *(từ chối mua)*
-- D. spend a lot of money freely on *(vung tiền mua)*
+- A. save money for something important *(để dành tiền cho việc quan trọng)*
+- B. share with friends after practice *(chia sẻ với bạn bè sau buổi tập)*
+- C. refuse to buy snacks and drinks *(từ chối mua đồ ăn vặt và đồ uống)*
+- D. spend a lot of money easily and freely on *(tiêu nhiều tiền một cách dễ dàng và thoải mái vào)*
 
 **5. Which things does Trevor decide to cut back on?**
 *(Trevor quyết định bớt chi những gì?)*
 
-- A. energy drinks and in-game coins *(nước tăng lực và tiền ảo trong game)*
-- B. soccer practice *(buổi tập bóng)*
-- C. his allowance *(tiền tiêu vặt)*
-- D. lunch at school *(bữa trưa ở trường)*
+- A. energy drinks and in-game coins for his phone games *(nước tăng lực và xu trong game điện thoại)*
+- B. soccer practice and the games on Saturday *(buổi tập bóng đá và các trận đấu vào thứ Bảy)*
+- C. his allowance and the money from Grandma *(tiền tiêu vặt và tiền từ bà)*
+- D. lunch at school and the bus to practice *(bữa trưa ở trường và xe buýt đến buổi tập)*
 
 **6. Why does Dad call Tina "a tougher banker than any real bank"?**
 *(Vì sao bố gọi Tina là "người làm ngân hàng khó tính hơn cả ngân hàng thật"?)*
 
-- A. Tina wants to work in a bank. *(Vì Tina muốn làm ở ngân hàng.)*
-- B. Tina has more money than Trevor. *(Vì Tina có nhiều tiền hơn Trevor.)*
-- C. Tina wants Trevor to pay an extra dollar every week. *(Vì Tina đòi Trevor tuần nào cũng trả thêm một đô.)*
-- D. Tina refused to lend any money. *(Vì Tina không chịu cho vay đồng nào.)*
+- A. Tina wants to work in a bank when she grows up, because Dad is a banker *(Tina muốn làm ở ngân hàng khi lớn lên vì bố là nhân viên ngân hàng)*
+- B. Tina keeps all her money in a real bank, not in a jar *(Tina gửi hết tiền vào ngân hàng thật chứ không để trong lọ)*
+- C. Tina wants Trevor to pay an extra dollar every week when he pays her back. *(Tina muốn Trevor trả thêm một đô mỗi tuần khi cậu trả tiền cho em.)*
+- D. Tina refused to lend any money unless Dad agreed to it *(Tina không chịu cho mượn tiền trừ khi bố đồng ý)*
 
 **7. What does Grandma Harriet offer Trevor?**
 *(Bà Harriet đề nghị gì với Trevor?)*
 
-- A. a free pair of boots *(một đôi giày miễn phí)*
-- B. to lend him thirty dollars *(cho cậu vay ba mươi đô)*
-- C. free snacks after practice *(đồ ăn vặt miễn phí sau buổi tập)*
-- D. work clearing tables on Saturday mornings *(việc dọn bàn vào sáng thứ Bảy)*
+- A. a free pair of boots for his birthday in March *(một đôi giày bốt miễn phí cho sinh nhật tháng Ba)*
+- B. to lend him thirty dollars from the café's money box *(cho cậu mượn ba mươi đô từ hộp tiền của quán)*
+- C. free snacks after every practice if he plays well *(đồ ăn vặt miễn phí sau mỗi buổi tập nếu cậu chơi tốt)*
+- D. work clearing tables at the café on Saturday mornings *(công việc dọn bàn ở quán vào các sáng thứ Bảy)*
 
 **8. In "but I'm definitely a hungry one", what does "one" refer to?**
 *(Trong câu "but I'm definitely a hungry one", "one" chỉ cái gì?)*
@@ -155,10 +155,10 @@
 **10. What does "I bet Tina will still ask me for the extra dollar anyway" tell us?**
 *(Câu "Mình cá là Tina vẫn sẽ đòi thêm một đô" cho ta biết điều gì?)*
 
-- A. Trevor thinks Tina will try to get money from him even if he does not borrow. *(Trevor nghĩ Tina vẫn sẽ tìm cách lấy tiền của cậu dù cậu không vay.)*
-- B. Trevor has already borrowed money from Tina. *(Trevor đã vay tiền Tina rồi.)*
-- C. Tina has lost her savings jar. *(Tina làm mất hũ tiết kiệm.)*
-- D. Trevor is angry with Tina. *(Trevor đang giận Tina.)*
+- A. Trevor thinks Tina will try to get an extra dollar from him anyway. *(Trevor nghĩ Tina vẫn sẽ tìm cách lấy thêm một đô từ cậu.)*
+- B. Trevor has already borrowed money from Tina and must pay it back every week *(Trevor đã mượn tiền của Tina và phải trả lại mỗi tuần)*
+- C. Tina has lost her savings jar and wants Trevor to find it *(Tina làm mất lọ tiết kiệm và muốn Trevor tìm giúp)*
+- D. Trevor is angry with Tina and will never talk to her again *(Trevor giận Tina và sẽ không bao giờ nói chuyện với em nữa)*
 
 ---
 
@@ -200,18 +200,18 @@
 **11. What is the main purpose of the article?**
 *(Mục đích chính của bài báo là gì?)*
 
-- A. to sell washing powder online *(để bán bột giặt online)*
-- B. to tell people to stop shopping online *(để khuyên mọi người thôi mua online)*
-- C. to compare prices in different stores *(để so giá các cửa hàng)*
+- A. to sell shoes and washing powder to people who shop online *(để bán giày và bột giặt cho những người mua sắm trực tuyến)*
+- B. to tell people to stop shopping online and go back to real stores *(để bảo mọi người ngừng mua sắm trực tuyến và quay lại cửa hàng thật)*
+- C. to compare prices in different stores and find the cheapest *(để so sánh giá ở các cửa hàng khác nhau và tìm nơi rẻ nhất)*
 - D. to help consumers understand their rights and avoid problems *(để giúp người tiêu dùng hiểu quyền của mình và tránh rắc rối)*
 
 **12. Why should shoppers read the return policy before they pay?**
 *(Vì sao người mua nên đọc chính sách đổi trả trước khi thanh toán?)*
 
-- A. Every store must accept all returns. *(Vì cửa hàng nào cũng phải nhận mọi món hàng trả lại.)*
-- B. There is no general law about returns, so each company has its own rules. *(Vì không có luật chung về đổi trả, nên mỗi công ty có quy định riêng.)*
-- C. The policy shows the delivery date. *(Vì chính sách cho biết ngày giao hàng.)*
-- D. It is required by the bank. *(Vì ngân hàng yêu cầu.)*
+- A. Every store must accept all returns within thirty days by law *(Mọi cửa hàng đều phải nhận trả hàng trong vòng ba mươi ngày theo luật)*
+- B. No general law covers returns, so every company has its own rules. *(Không có luật chung nào về đổi trả nên mỗi công ty có quy định riêng.)*
+- C. The policy shows the delivery date and the name of the seller *(Chính sách cho biết ngày giao hàng và tên người bán)*
+- D. It is required by the bank that takes the money for the order *(Ngân hàng nhận tiền cho đơn hàng yêu cầu điều đó)*
 
 **13. What do you need to keep if you want a product repaired under warranty?**
 *(Muốn được sửa hàng theo bảo hành, bạn cần giữ gì?)*
@@ -224,10 +224,10 @@
 **14. In "watch out for hidden costs at the checkout", what are "hidden costs"?**
 *(Trong câu "watch out for hidden costs at the checkout", "hidden costs" là gì?)*
 
-- A. prices that are lower online *(giá rẻ hơn khi mua online)*
-- B. money that the store returns to you *(tiền cửa hàng trả lại cho bạn)*
-- C. extra costs that you do not notice at first *(các khoản phí thêm mà lúc đầu bạn không để ý)*
-- D. costs that the seller pays *(chi phí người bán tự trả)*
+- A. prices that are lower online than in the stores *(giá thấp hơn trên mạng so với trong cửa hàng)*
+- B. money that the store returns to you after you pay *(tiền cửa hàng trả lại cho bạn sau khi bạn thanh toán)*
+- C. extra costs that you do not notice at first glance *(những chi phí thêm mà thoạt nhìn bạn không để ý)*
+- D. costs that the seller pays for storing your order *(chi phí người bán trả để lưu giữ đơn hàng của bạn)*
 
 **15. If a seller did not promise a delivery date, what is the usual time limit?**
 *(Nếu người bán không hứa ngày giao hàng, thời hạn thường là bao lâu?)*
@@ -240,10 +240,10 @@
 **16. In "because they are useful evidence", what does "they" refer to?**
 *(Trong câu "because they are useful evidence", "they" chỉ cái gì?)*
 
-- A. the people who sell things *(những người bán hàng)*
-- B. photos of the damaged package *(ảnh chụp kiện hàng bị hỏng)*
-- C. the delivery fees *(các khoản phí giao hàng)*
-- D. store rules *(quy định của cửa hàng)*
+- A. the people who send damaged packages *(những người gửi các gói hàng bị hỏng)*
+- B. the photos of the damaged package *(những tấm ảnh chụp gói hàng bị hỏng)*
+- C. the delivery fees at the checkout *(phí giao hàng ở bước thanh toán)*
+- D. the store rules about returns and refunds *(quy định của cửa hàng về đổi trả và hoàn tiền)*
 
 **17. Which store policy is NOT mentioned in the article?**
 *(Chính sách nào KHÔNG được nhắc trong bài?)*
@@ -256,26 +256,26 @@
 **18. A woman buys shoes online. They are fine, but she does not like the color. What can we say?**
 *(Một người mua giày online. Giày không hỏng, nhưng cô không thích màu. Ta có thể nói gì?)*
 
-- A. Whether she can return them depends on the store's own rules. *(Trả được hay không tuỳ quy định riêng của cửa hàng.)*
-- B. The store must give her a full refund by law. *(Luật buộc cửa hàng phải hoàn lại toàn bộ tiền.)*
-- C. She can never return them. *(Cô không bao giờ trả lại được.)*
-- D. She must wait thirty days for a refund. *(Cô phải đợi ba mươi ngày mới được hoàn tiền.)*
+- A. Whether she can return them depends on the store's rules. *(Cô có trả lại được hay không tuỳ thuộc vào quy định của cửa hàng.)*
+- B. The store must give her a full refund by law within thirty days *(Cửa hàng phải hoàn tiền đầy đủ cho cô theo luật trong vòng ba mươi ngày)*
+- C. She can never return them, because nothing is wrong with them *(Cô không bao giờ trả lại được vì chúng không có lỗi gì)*
+- D. She must wait thirty days before she can ask for a refund *(Cô phải chờ ba mươi ngày rồi mới được xin hoàn tiền)*
 
 **19. What does the last sentence mean?**
 *(Câu cuối bài có nghĩa là gì?)*
 
-- A. Cheap things are always bad. *(Đồ rẻ lúc nào cũng kém.)*
-- B. A low price is less useful if you cannot return a bad product. *(Giá rẻ cũng kém giá trị nếu không trả lại được món hàng hỏng.)*
-- C. You should never shop around. *(Đừng bao giờ đi so giá.)*
-- D. Stores should give such good deals more often. *(Cửa hàng nên giảm giá nhiều hơn.)*
+- A. Cheap things are always of bad quality, so people should avoid them *(Đồ rẻ luôn kém chất lượng nên mọi người cần tránh)*
+- B. A low price is not helpful if you can't return a bad product. *(Giá thấp không có ích nếu bạn không thể trả lại món hàng tệ.)*
+- C. You should never shop around, because prices are the same *(Bạn không nên so sánh giá vì giá ở đâu cũng như nhau)*
+- D. Stores should give such good deals more often to every shopper *(Các cửa hàng nên đưa ra ưu đãi tốt như vậy thường xuyên hơn cho mọi người mua)*
 
 **20. Use both texts. Trevor wants to buy his boots online. What should he do first?**
 *(Dựa vào cả hai bài. Trevor muốn mua giày online. Cậu nên làm gì trước?)*
 
-- A. borrow money from Tina *(vay tiền của Tina)*
-- B. buy the cheapest boots that he can find *(mua đôi rẻ nhất tìm được)*
-- C. read the store's return policy before he pays *(đọc chính sách đổi trả của cửa hàng trước khi trả tiền)*
-- D. wait until after the tryouts *(đợi tới sau buổi tuyển chọn)*
+- A. borrow money from Tina and pay the extra dollar *(mượn tiền của Tina và trả thêm một đô)*
+- B. buy the cheapest boots that he can find on any website *(mua đôi bốt rẻ nhất cậu tìm được trên bất kỳ trang web nào)*
+- C. read the store's return policy carefully before he pays *(đọc kỹ chính sách đổi trả của cửa hàng trước khi thanh toán)*
+- D. wait until after the tryouts to look at the prices *(đợi đến sau buổi tuyển chọn rồi mới xem giá)*
 
 ---
 

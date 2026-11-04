@@ -87,10 +87,10 @@
 **1. What is the main purpose of Chloe's letter?**
 *(Mục đích chính của lá thư của Chloe là gì?)*
 
-- A. to ask Harriet for a higher salary *(để xin bà Harriet tăng lương)*
-- B. to tell Harriet that she is leaving to work in design *(để báo bà Harriet rằng cô sẽ nghỉ để làm thiết kế)*
-- C. to invite Harriet to a party *(để mời bà Harriet dự tiệc)*
-- D. to complain about her job *(để than phiền về công việc)*
+- A. to ask Harriet for a higher salary because she designed the new sign *(để xin bà Harriet tăng lương vì cô đã thiết kế tấm biển mới)*
+- B. to tell Harriet that she is leaving the café to work in design *(để báo với bà Harriet rằng cô sẽ rời quán để làm thiết kế)*
+- C. to invite Harriet to a farewell party at the end of December *(để mời bà Harriet đến bữa tiệc chia tay cuối tháng Mười Hai)*
+- D. to complain about her job and the long hours at the café *(để phàn nàn về công việc và giờ làm dài ở quán)*
 
 **2. Why does Chloe write a letter instead of telling Harriet?**
 *(Vì sao Chloe viết thư mà không nói trực tiếp với bà Harriet?)*
@@ -103,18 +103,18 @@
 **3. Who first asked Chloe to design a website?**
 *(Ai là người đầu tiên nhờ Chloe thiết kế trang web?)*
 
-- A. a small company *(một công ty nhỏ)*
-- B. Harriet *(bà Harriet)*
-- C. a big firm *(một công ty lớn)*
-- D. Dustin *(Dustin)*
+- A. a small company, back in September *(một công ty nhỏ, hồi tháng Chín)*
+- B. Harriet, who owns the café *(bà Harriet, chủ quán cà phê)*
+- C. a big firm in the city *(một công ty lớn trong thành phố)*
+- D. Dustin, her friend *(Dustin, bạn của cô)*
 
 **4. In "a freelance income is not as steady as a regular salary", what does "steady" mean?**
 *(Trong câu "a freelance income is not as steady as a regular salary", "steady" nghĩa là gì?)*
 
-- A. very high *(rất cao)*
-- B. easy to spend *(dễ tiêu)*
-- C. regular and reliable *(đều đặn, ổn định)*
-- D. paid in cash *(trả bằng tiền mặt)*
+- A. very high every month *(rất cao mỗi tháng)*
+- B. easy to spend quickly *(dễ tiêu hết nhanh)*
+- C. regular and easy to count on *(đều đặn và có thể trông cậy vào)*
+- D. paid in cash on the same day *(trả bằng tiền mặt ngay trong ngày)*
 
 **5. Why does Chloe write "Some months I will earn a lot, and other months almost nothing"?**
 *(Vì sao Chloe viết "Có tháng kiếm nhiều, có tháng gần như chẳng có gì"?)*
@@ -143,18 +143,18 @@
 **8. Who is Ruby?**
 *(Ruby là ai?)*
 
-- A. Chloe's sister *(em gái của Chloe)*
-- B. a new customer at the café *(một khách mới của quán)*
+- A. Chloe's sister, who works at a design firm *(chị gái của Chloe, người làm ở một công ty thiết kế)*
+- B. a new customer at the café who often orders soup *(một khách mới của quán hay gọi món súp)*
 - C. a student who is looking for part-time work *(một sinh viên đang tìm việc bán thời gian)*
-- D. the owner of a big firm *(chủ một công ty lớn)*
+- D. the owner of a big firm that offered Chloe a job *(chủ một công ty lớn đã mời Chloe vào làm)*
 
 **9. Why does Chloe mention Ruby in her letter?**
 *(Vì sao Chloe nhắc tới Ruby trong thư?)*
 
-- A. so that the café will not be left without help *(để quán không bị thiếu người làm)*
-- B. because Ruby wants to learn design *(vì Ruby muốn học thiết kế)*
-- C. because Ruby is her new business partner *(vì Ruby là đối tác làm ăn mới của cô)*
-- D. to say that Ruby is unhappy at her job *(để nói Ruby không vui với công việc)*
+- A. so that the café will not be left without help after she leaves *(để quán không bị thiếu người giúp sau khi cô rời đi)*
+- B. because Ruby wants to learn design and work with Chloe *(vì Ruby muốn học thiết kế và làm việc cùng Chloe)*
+- C. because Ruby is her new business partner at the design company *(vì Ruby là đối tác kinh doanh mới của cô ở công ty thiết kế)*
+- D. to say that Ruby is unhappy at her job at the community college *(để nói rằng Ruby không hài lòng với việc làm ở trường cao đẳng cộng đồng)*
 
 **10. Which of these is NOT true about Chloe's plans?**
 *(Điều nào KHÔNG đúng về dự định của Chloe?)*
@@ -209,34 +209,34 @@
 **11. What is the main purpose of Laura's email?**
 *(Mục đích chính của email của Laura là gì?)*
 
-- A. to tell the team that the office is closing *(để báo văn phòng sắp đóng cửa)*
-- B. to ask Nathan to find a new job *(để bảo Nathan tìm việc mới)*
+- A. to tell the team that the company will close the office next year *(để báo với nhóm rằng công ty sẽ đóng cửa văn phòng vào năm sau)*
+- B. to ask Nathan to lead the team while the manager is away *(để nhờ Nathan dẫn dắt nhóm khi quản lý đi vắng)*
 - C. to invite the team to a meeting about a hybrid work trial *(để mời cả nhóm họp bàn về đợt thử làm việc kết hợp)*
-- D. to cancel all meetings with clients *(để huỷ mọi cuộc gặp khách hàng)*
+- D. to cancel all meetings with clients for the whole week *(để huỷ mọi cuộc họp với khách hàng trong cả tuần)*
 
 **12. What is the main objective of the hybrid work trial?**
 *(Mục tiêu chính của đợt thử là gì?)*
 
-- A. to save money on the office *(để tiết kiệm tiền văn phòng)*
-- B. to find out if working from home two days a week helps or hurts results *(để biết làm ở nhà hai ngày một tuần giúp hay làm hại kết quả)*
-- C. to give everyone a day off *(để cho mọi người thêm một ngày nghỉ)*
-- D. to choose a new team leader *(để chọn trưởng nhóm mới)*
+- A. to save money on the office by moving everyone to another building *(để tiết kiệm tiền văn phòng bằng cách chuyển mọi người sang toà nhà khác)*
+- B. to find out whether working at home twice a week helps or hurts *(để tìm hiểu xem làm việc tại nhà hai ngày một tuần có giúp ích hay gây hại)*
+- C. to give everyone one free day every week so that they can rest *(để cho mọi người một ngày nghỉ mỗi tuần để nghỉ ngơi)*
+- D. to choose a new team leader who can manage people at home *(để chọn một trưởng nhóm mới biết quản lý người làm ở nhà)*
 
 **13. When and where is the meeting?**
 *(Buổi họp diễn ra khi nào và ở đâu?)*
 
-- A. on Tuesday at 10 a.m. online *(thứ Ba lúc 10 giờ sáng, trực tuyến)*
-- B. on Wednesday in Room 3B *(thứ Tư ở Phòng 3B)*
-- C. on Friday at Nathan's house *(thứ Sáu ở nhà Nathan)*
-- D. on Thursday, December 4, at 10 a.m. in Room 3B *(thứ Năm 4/12 lúc 10 giờ sáng ở Phòng 3B)*
+- A. on Tuesday, December 2, at 10 a.m. online, on video *(vào thứ Ba, ngày 2 tháng 12, lúc 10 giờ sáng, trực tuyến qua video)*
+- B. on Wednesday, December 3, at 2 p.m. in Room 3B, for one hour *(vào thứ Tư, ngày 3 tháng 12, lúc 2 giờ chiều, ở phòng 3B, trong một giờ)*
+- C. on Friday, December 5, at Nathan's house at noon *(vào thứ Sáu, ngày 5 tháng 12, ở nhà Nathan lúc trưa)*
+- D. on Thursday, December 4, at 10 a.m. in Room 3B, for an hour *(vào thứ Năm, ngày 4 tháng 12, lúc 10 giờ sáng ở phòng 3B, trong một giờ)*
 
 **14. What will Nathan do at the meeting?**
 *(Nathan sẽ làm gì ở buổi họp?)*
 
-- A. give a short presentation on online tools *(trình bày ngắn về các công cụ trực tuyến)*
-- B. write the notes for everyone *(ghi biên bản cho mọi người)*
-- C. lead the whole meeting *(chủ trì cả buổi họp)*
-- D. meet a client *(gặp khách hàng)*
+- A. give a short presentation on the online tools they use *(trình bày ngắn về các công cụ trực tuyến họ đang dùng)*
+- B. write the notes for everyone who cannot come *(viết biên bản cho những ai không đến được)*
+- C. lead the whole meeting and ask the questions *(dẫn cả cuộc họp và đặt câu hỏi)*
+- D. meet a client who wants to see the new office *(gặp một khách hàng muốn xem văn phòng mới)*
 
 **15. What should team members do if they cannot come?**
 *(Thành viên không tới được thì phải làm gì?)*
@@ -257,34 +257,34 @@
 **17. In "so please do not call off any meetings with clients for it", what does "it" refer to?**
 *(Trong câu "... for it", "it" chỉ cái gì?)*
 
-- A. the survey *(bản khảo sát)*
-- B. the office *(văn phòng)*
-- C. the hybrid work plan *(kế hoạch làm việc kết hợp)*
+- A. the short survey in the second document *(bản khảo sát ngắn trong tài liệu thứ hai)*
+- B. the office in Room 3B *(văn phòng ở phòng 3B)*
+- C. the hybrid work plan for next year *(kế hoạch làm việc kết hợp cho năm sau)*
 - D. the brainstorming meeting *(buổi họp động não)*
 
 **18. Why does Laura probably want to know how much time people spend traveling to the office?**
 *(Nhiều khả năng vì sao Laura muốn biết mọi người mất bao lâu đi lại tới văn phòng?)*
 
 - A. to see how much time working from home could save *(để xem làm ở nhà có thể tiết kiệm bao nhiêu thời gian)*
-- B. to choose who will lose their job *(để chọn ai bị cho nghỉ)*
-- C. to plan a team trip *(để lên kế hoạch đi chơi cả nhóm)*
-- D. to check who arrives late *(để kiểm tra ai hay đi muộn)*
+- B. to choose who will lose their job when the trial ends *(để chọn ai sẽ mất việc khi đợt thử nghiệm kết thúc)*
+- C. to plan a team trip for the end of the year *(để lên kế hoạch chuyến đi của nhóm vào cuối năm)*
+- D. to check who arrives late to work most often *(để kiểm tra ai đến làm muộn thường xuyên nhất)*
 
 **19. Which word best describes the tone of Laura's email?**
 *(Từ nào mô tả đúng nhất giọng văn trong email của Laura?)*
 
-- A. angry *(giận dữ)*
-- B. worried *(lo lắng)*
+- A. angry and impatient *(tức giận và thiếu kiên nhẫn)*
+- B. worried and afraid of change *(lo lắng và sợ thay đổi)*
 - C. polite and organized *(lịch sự và có tổ chức)*
-- D. funny and careless *(hài hước và cẩu thả)*
+- D. funny and careless about details *(hài hước và cẩu thả về chi tiết)*
 
 **20. Use both texts. What do Chloe and Laura both do in their messages?**
 *(Dựa vào cả hai bài. Chloe và Laura đều làm điều gì trong thư của mình?)*
 
-- A. They both ask for more money. *(Cả hai đều xin thêm tiền.)*
+- A. They both ask their readers for more money next year *(Cả hai đều xin người đọc thêm tiền vào năm sau)*
 - B. They both explain a change and suggest a plan to make it easier. *(Cả hai đều giải thích một sự thay đổi và đưa ra kế hoạch để mọi việc suôn sẻ hơn.)*
-- C. They both say that they are leaving their jobs. *(Cả hai đều nói mình sẽ nghỉ việc.)*
-- D. They both invite people to a party. *(Cả hai đều mời mọi người dự tiệc.)*
+- C. They both say that they are leaving their jobs at the end of the year *(Cả hai đều nói rằng họ sẽ nghỉ việc vào cuối năm)*
+- D. They both invite people to a party after work next week *(Cả hai đều mời mọi người đến một bữa tiệc sau giờ làm vào tuần sau)*
 
 ---
 

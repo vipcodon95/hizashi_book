@@ -84,7 +84,7 @@
 **2. How did Tina feel on her first day at Westview Middle School?**
 *(Tina cảm thấy thế nào vào ngày đầu tiên ở trường cấp hai Westview?)*
 
-- A. nervous, because she didn't know anyone *(hồi hộp, vì không quen ai)*
+- A. nervous, because she didn't know anyone at the new school *(lo lắng, vì cô bé không quen ai ở trường mới)*
 - B. cheerful, because Harriet was waiting for her at school *(vui vẻ, vì bà Harriet đợi cô bé ở trường)*
 - C. curious, because the school had many animals *(tò mò, vì trường có nhiều con vật)*
 - D. tired, because she got a math problem wrong five times *(mệt, vì làm sai một bài toán tới năm lần)*
@@ -94,7 +94,7 @@
 
 - A. She ran a café on Maple Street. *(Bà mở quán cà phê ở phố Maple.)*
 - B. She helped kids with homework on Saturday mornings. *(Bà kèm trẻ con làm bài tập vào các sáng thứ Bảy.)*
-- C. She taught second grade. *(Bà dạy lớp hai.)*
+- C. She taught second grade before opening her café. *(Bà dạy lớp hai trước khi mở quán cà phê.)*
 - D. She taught Tina's dad to cook. *(Bà dạy bố của Tina nấu ăn.)*
 
 **4. In "she never lost her temper", what does "lost her temper" mean?**
@@ -124,34 +124,34 @@
 **7. Why does Harriet probably keep her old wooden money box?**
 *(Có lẽ vì sao bà Harriet vẫn giữ cái hộp đựng tiền bằng gỗ cũ?)*
 
-- A. She wants to show off her old things to customers. *(Bà muốn khoe đồ cũ với khách.)*
-- B. She doesn't fully trust the tablet and wants to be ready if it stops working. *(Bà không hoàn toàn tin chiếc máy tính bảng và muốn sẵn sàng phòng khi nó ngừng chạy.)*
-- C. The kids use it during homework time on Saturdays. *(Bọn trẻ dùng nó trong giờ làm bài sáng thứ Bảy.)*
-- D. Tina's dad gave it to her as a gift. *(Bố của Tina tặng nó cho bà.)*
+- A. She wants to show her customers how people paid long ago, before there were tablets *(Bà muốn cho khách xem người ta đã trả tiền như thế nào từ lâu, trước khi có máy tính bảng)*
+- B. She doesn't fully trust the tablet and wants to be ready if it ever stops working. *(Bà không hoàn toàn tin máy tính bảng và muốn sẵn sàng phòng khi nó ngừng hoạt động.)*
+- C. The kids use it to save their pocket money while they do homework on Saturdays *(Bọn trẻ dùng nó để cất tiền tiêu vặt trong lúc làm bài tập vào các sáng thứ Bảy)*
+- D. It was a birthday present from her family at the surprise party, and she keeps it to remember that day *(Đó là món quà sinh nhật gia đình tặng bà trong bữa tiệc bất ngờ, và bà giữ nó để nhớ ngày hôm đó)*
 
 **8. Why was it probably hard to keep the party a secret from Harriet?**
 *(Có lẽ vì sao giữ bí mật bữa tiệc với bà Harriet lại khó?)*
 
-- A. Tina is not good at math. *(Tina không giỏi toán.)*
-- B. The party was at Westview Middle School. *(Bữa tiệc tổ chức ở trường cấp hai Westview.)*
-- C. Harriet knows everybody's news, so secrets rarely stay hidden from her. *(Bà Harriet biết hết chuyện của mọi người, nên khó có bí mật nào giấu được bà.)*
-- D. Harriet asked Tina about the party every day. *(Ngày nào bà Harriet cũng hỏi Tina về bữa tiệc.)*
+- A. Tina is not good at math, so she kept forgetting what the family had planned *(Tina học toán không giỏi nên cô bé cứ quên mất gia đình đã lên kế hoạch gì)*
+- B. The party was at Westview Middle School, so Harriet kept walking past the building *(Bữa tiệc diễn ra ở trường cấp hai Westview nên bà Harriet cứ đi ngang qua toà nhà đó)*
+- C. Harriet knows everybody's news, so secrets rarely stay hidden from her for long. *(Bà Harriet biết tin của mọi người nên bí mật hiếm khi giấu được bà lâu.)*
+- D. Harriet was away from Maple Street for the whole month before the birthday *(Bà Harriet đi khỏi phố Maple suốt cả tháng trước ngày sinh nhật)*
 
 **9. What does Tina say is changing about Harriet?**
 *(Tina nói điều gì ở bà Harriet đang thay đổi?)*
 
-- A. Her hands are getting slower, and her laugh is getting louder. *(Tay bà ngày càng chậm, còn tiếng cười của bà ngày càng to.)*
-- B. She is getting tired of Tina's questions. *(Bà ngày càng mệt với những câu hỏi của Tina.)*
-- C. She is getting more stubborn about technology. *(Bà ngày càng cứng đầu hơn với công nghệ.)*
-- D. Her café is getting quieter. *(Quán của bà ngày càng vắng.)*
+- A. Her hands are getting slower, and her laugh is getting louder and louder. *(Tay bà ngày càng chậm hơn, còn tiếng cười của bà ngày càng vang hơn.)*
+- B. She is getting tired of Tina's questions, so she answers more slowly now *(Bà đang chán những câu hỏi của Tina nên bây giờ bà trả lời chậm hơn)*
+- C. She is getting more stubborn about technology and keeps adding old things to the café *(Bà ngày càng cứng đầu về công nghệ và cứ thêm đồ cũ vào quán cà phê)*
+- D. Her café is getting quieter, and fewer neighbors come in on Saturday mornings *(Quán của bà ngày càng vắng hơn, và các sáng thứ Bảy có ít hàng xóm ghé vào hơn)*
 
 **10. Which best describes Tina's feelings toward Harriet?**
 *(Câu nào mô tả đúng nhất tình cảm của Tina với bà Harriet?)*
 
-- A. She is worried about Harriet's health. *(Cô bé lo cho sức khoẻ của bà Harriet.)*
-- B. She thinks Harriet is too talkative. *(Cô bé cho rằng bà Harriet nói nhiều quá.)*
-- C. She admires her deeply but can also see her weaknesses. *(Cô bé rất ngưỡng mộ bà nhưng cũng nhìn ra điểm yếu của bà.)*
-- D. She feels nervous when she is with her. *(Cô bé thấy hồi hộp khi ở cạnh bà.)*
+- A. She is worried about Harriet's health because her hands are getting slower *(Cô bé lo cho sức khoẻ của bà Harriet vì tay bà ngày càng chậm hơn)*
+- B. She thinks Harriet is too talkative and sometimes wants to avoid her café *(Cô bé nghĩ bà Harriet nói quá nhiều và đôi khi muốn tránh quán của bà)*
+- C. She admires her very much, yet she is honest about Harriet's weaknesses, too. *(Cô bé rất ngưỡng mộ bà, nhưng cũng thành thật về điểm yếu của bà Harriet.)*
+- D. She feels nervous with Harriet because Harriet always expects perfect answers *(Cô bé thấy hồi hộp khi ở bên bà Harriet vì bà luôn mong có câu trả lời hoàn hảo)*
 
 ---
 
@@ -202,18 +202,18 @@
 **11. What is the passage mainly about?**
 *(Đoạn văn chủ yếu nói về điều gì?)*
 
-- A. why extroverts are happier than introverts *(vì sao người hướng ngoại hạnh phúc hơn người hướng nội)*
-- B. the life of Carl Jung *(cuộc đời của Carl Jung)*
-- C. how to stop being shy *(làm sao để hết nhút nhát)*
-- D. that personality is a range, and one word can't describe a person *(tính cách là một dải liên tục, và một từ không thể mô tả một con người)*
+- A. why extroverts are happier than introverts at big parties, at school and at work *(vì sao người hướng ngoại hạnh phúc hơn người hướng nội ở tiệc lớn, ở trường và ở nơi làm việc)*
+- B. the life of Carl Jung and the book he wrote in 1921 about the human mind *(cuộc đời của Carl Jung và cuốn sách ông viết năm 1921 về tâm trí con người)*
+- C. how to stop being shy when you start at a new school or meet new people *(cách thôi ngại ngùng khi bắt đầu ở một trường mới hoặc gặp người mới)*
+- D. that personality is a range, and a single word can't describe a whole person *(rằng tính cách là một dải liên tục, và một từ đơn lẻ không thể mô tả cả một con người)*
 
 **12. What does the passage say that Carl Jung did?**
 *(Đoạn văn nói Carl Jung đã làm gì?)*
 
-- A. He wrote the first online personality quiz. *(Ông viết bài trắc nghiệm tính cách trên mạng đầu tiên.)*
-- B. He made the words "introvert" and "extrovert" famous in a 1921 book. *(Ông làm cho hai từ "introvert" và "extrovert" trở nên nổi tiếng trong một cuốn sách năm 1921.)*
-- C. He showed that introverts are always shy. *(Ông chứng minh người hướng nội lúc nào cũng nhút nhát.)*
-- D. He taught a child who was called "the quiet one". *(Ông dạy một đứa trẻ bị gọi là "đứa ít nói".)*
+- A. He made the first online personality quiz that tells people where they stand *(Ông làm ra bài trắc nghiệm tính cách trực tuyến đầu tiên cho biết mỗi người đứng ở đâu)*
+- B. He made the words "introvert" and "extrovert" famous in a 1921 book, as a Swiss doctor *(Ông, một bác sĩ người Thụy Sĩ, làm cho hai từ "hướng nội" và "hướng ngoại" nổi tiếng trong một cuốn sách năm 1921)*
+- C. He showed that introverts are always shy and that extroverts are never bored *(Ông chứng minh rằng người hướng nội luôn nhút nhát còn người hướng ngoại không bao giờ chán)*
+- D. He taught a child who was called "the quiet one" and helped her try new things in class *(Ông dạy một đứa trẻ bị gọi là "đứa trầm lặng" và giúp em thử những điều mới trong lớp)*
 
 **13. What does the passage say about extroverts?**
 *(Đoạn văn nói gì về người hướng ngoại?)*
@@ -245,7 +245,7 @@
 - A. Most people are somewhere in the middle. *(Phần lớn mọi người ở đâu đó quãng giữa.)*
 - B. Your place on the line is not always the same. *(Vị trí của bạn trên đường thẳng không phải lúc nào cũng như nhau.)*
 - C. An introvert can be confident in class. *(Người hướng nội có thể tự tin trong lớp.)*
-- D. Introverts can't enjoy parties. *(Người hướng nội không thể vui ở bữa tiệc.)*
+- D. Introverts can't enjoy parties and always need to be alone. *(Người hướng nội không thể thích tiệc tùng và lúc nào cũng cần ở một mình.)*
 
 **17. What may happen when a teacher calls a child "the quiet one"?**
 *(Điều gì có thể xảy ra khi thầy cô gọi một đứa trẻ là "đứa ít nói"?)*
@@ -258,18 +258,18 @@
 **18. Which person is most likely an introvert, as the passage describes one?**
 *(Người nào nhiều khả năng là người hướng nội nhất, theo cách đoạn văn mô tả?)*
 
-- A. someone who feels bored after an hour alone *(người thấy chán sau một tiếng ở một mình)*
-- B. someone who is afraid of what classmates think of him *(người sợ bạn cùng lớp nghĩ gì về mình)*
-- C. someone who enjoys a friend's party but wants a quiet day alone afterwards *(người vui vẻ ở bữa tiệc của bạn nhưng sau đó muốn có một ngày yên tĩnh một mình)*
-- D. someone who takes an online personality quiz every week *(người tuần nào cũng làm bài trắc nghiệm tính cách trên mạng)*
+- A. someone who feels bored after an hour alone and needs people around to feel good *(người thấy chán sau một giờ ở một mình và cần có người xung quanh để thấy dễ chịu)*
+- B. someone who is afraid of what classmates think of him and never speaks in class *(người sợ bạn cùng lớp nghĩ gì về mình và không bao giờ phát biểu trong lớp)*
+- C. someone who enjoys a friend's party but usually wants a quiet day alone afterwards *(người thích bữa tiệc của bạn nhưng thường muốn có một ngày yên tĩnh một mình sau đó)*
+- D. someone who takes an online personality quiz every week and calls himself the quiet one *(người tuần nào cũng làm một bài trắc nghiệm tính cách trực tuyến và tự gọi mình là người trầm lặng)*
 
 **19. Why does the writer say "no group of people is simply quiet or loud"?**
 *(Vì sao tác giả viết "no group of people is simply quiet or loud"?)*
 
-- A. to say that families are more important than friends *(để nói gia đình quan trọng hơn bạn bè)*
-- B. to warn readers not to describe a whole group of people with one personality word *(để nhắc người đọc đừng dùng một từ chỉ tính cách để mô tả cả một nhóm người)*
-- C. to show that introverts come from quiet families *(để cho thấy người hướng nội xuất thân từ những gia đình trầm lặng)*
-- D. to explain how online quizzes work *(để giải thích các bài trắc nghiệm trên mạng hoạt động thế nào)*
+- A. to say that families and friends matter more than the experiences a person has *(để nói rằng gia đình và bạn bè quan trọng hơn những trải nghiệm của một người)*
+- B. to warn readers not to describe a whole group of people with one personality word *(để cảnh báo người đọc đừng mô tả cả một nhóm người chỉ bằng một từ chỉ tính cách)*
+- C. to show that introverts usually come from quiet families and extroverts from loud ones *(để cho thấy người hướng nội thường đến từ gia đình trầm lặng còn người hướng ngoại từ gia đình ồn ào)*
+- D. to explain how online quizzes decide which personality word fits each person *(để giải thích các bài trắc nghiệm trực tuyến quyết định từ tính cách nào hợp với mỗi người)*
 
 **20. Which idea from this passage does Tina's essay about Harriet show best?**
 *(Bài luận của Tina về bà Harriet minh hoạ rõ nhất ý nào trong đoạn văn này?)*
@@ -302,7 +302,7 @@
 | 5 | **A** | Câu 5: Câu đầy đủ là "She taught second grade for almost forty years and then opened Harriet's, a café which is now the heart of Maple Street." "which" đứng ngay sau "a café", tức là quán Harriet's. Mệnh đề which mô tả quán đó là "trái tim" của phố Maple, nên which không thể là chính phố Maple. Lớp hai là nơi bà từng dạy, còn nhà bà không được nhắc tới trong câu này. |
 | 6 | **D** | Câu 6, 12: Tina viết "She is pretty talkative and knows everybody's news, but she is also honest" và "she is a bit stubborn about technology". Ba phương án đầu đều có trong bài. Bài không nói bà cẩu thả với tiền. Ngược lại, bà còn giữ cả hộp đựng tiền bằng gỗ "just in case", tức là rất cẩn thận. |
 | 7 | **B** | Câu 12: Bài không nói thẳng lý do, nhưng ta suy ra được: "she is a bit stubborn about technology, so next to the café's tablet she still keeps her old wooden money box". Bà hơi "cứng đầu" với công nghệ, và "just in case" nghĩa là phòng khi có chuyện, ở đây là khi máy tính bảng không dùng được. Bài không nói bà khoe đồ, không nhắc bọn trẻ dùng hộp, cũng không nói ai tặng hộp. |
-| 8 | **C** | Câu 6–7: Bài không nói thẳng lý do. Nhưng ngay trước chuyện bữa tiệc, Tina viết bà "knows everybody's news", rồi kể "keeping it secret from her was hard!" Ghép hai câu lại: một người biết hết chuyện cả phố thì rất khó bị giấu điều gì. Chuyện bài toán là ở đoạn khác. Bài không nói tiệc tổ chức ở trường, và cũng không nói bà hỏi Tina về bữa tiệc (đó là tiệc BẤT NGỜ, bà không biết). |
+| 8 | **C** | Câu 6–7: Bài không nói thẳng lý do. Nhưng ngay trước chuyện bữa tiệc, Tina viết bà "knows everybody's news", rồi kể "keeping it secret from her was hard!" Ghép hai câu lại: một người biết hết chuyện cả phố thì rất khó bị giấu điều gì. Chuyện bài toán là ở đoạn khác. Bài không nói tiệc tổ chức ở trường, không nói bà đi vắng cả tháng, và cũng không nói Tina quên kế hoạch của gia đình. |
 | 9 | **A** | Câu 13: Tina viết: "Her hands are getting slower, but her laugh is getting louder." Thì hiện tại tiếp diễn với get + so sánh hơn (getting slower, getting louder) diễn tả sự thay đổi dần. Bài nói ngược lại phương án B: "she never gets tired of my Why?". Bà "a bit stubborn about technology", nhưng bài không nói bà ngày càng cứng đầu hơn. Bài cũng không nói quán vắng đi. |
 | 10 | **C** | Câu 12, 15: Tina kết bài: "I really look up to her, and I hope I resemble her a little when I am old." Nhưng cô bé cũng viết thật: "She has weaknesses, too". Vậy Tina rất ngưỡng mộ bà mà vẫn nhìn ra điểm yếu. Tay bà chậm hơn, nhưng Tina nói ngay "her laugh is getting louder", nên đây không phải giọng lo lắng. Tina có nói bà "pretty talkative" nhưng không chê. Tina hồi hộp ở trường, không phải khi ở cạnh bà. |
 | 11 | **D** | Câu 11, 15: Bài nói "most psychologists see personality as a spectrum" và "a single word can't characterize a whole person". Bài không so ai hạnh phúc hơn, còn nói rõ "neither type is better". Carl Jung chỉ được nhắc trong một câu. Bài giải thích nhút nhát khác hướng nội, nhưng không dạy cách hết nhút nhát. |

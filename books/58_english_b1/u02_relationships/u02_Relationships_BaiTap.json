@@ -623,46 +623,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She can't sleep before her shift at seven.",
-            "vi": "Cô không ngủ được trước ca làm lúc bảy giờ."
+            "en": "She is worried about her shift at seven and needs Chloe to take her place",
+            "vi": "Cô lo về ca làm lúc bảy giờ và cần Chloe làm thay mình"
           },
           "is_correct": false,
           "order": 0,
-          "text": "She can't sleep before her shift at seven.",
-          "text_translation": "Cô không ngủ được trước ca làm lúc bảy giờ."
+          "text": "She is worried about her shift at seven and needs Chloe to take her place",
+          "text_translation": "Cô lo về ca làm lúc bảy giờ và cần Chloe làm thay mình"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She wants to share the news that she and Ethan are now a couple.",
-            "vi": "Cô muốn kể tin cô và Ethan giờ đã thành một cặp."
+            "en": "She wants to tell Chloe the exciting news that she and Ethan are now a couple.",
+            "vi": "Cô muốn kể cho Chloe tin thú vị rằng cô và Ethan giờ là một cặp."
           },
           "is_correct": true,
           "order": 1,
-          "text": "She wants to share the news that she and Ethan are now a couple.",
-          "text_translation": "Cô muốn kể tin cô và Ethan giờ đã thành một cặp."
+          "text": "She wants to tell Chloe the exciting news that she and Ethan are now a couple.",
+          "text_translation": "Cô muốn kể cho Chloe tin thú vị rằng cô và Ethan giờ là một cặp."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "She wants to ask Chloe where Ethan bought the cake.",
-            "vi": "Cô muốn hỏi Chloe Ethan mua bánh ở đâu."
+            "en": "She wants to ask Chloe where Ethan bought the cake that he brought for dessert",
+            "vi": "Cô muốn hỏi Chloe xem Ethan đã mua chiếc bánh anh mang đến để tráng miệng ở đâu"
           },
           "is_correct": false,
           "order": 2,
-          "text": "She wants to ask Chloe where Ethan bought the cake.",
-          "text_translation": "Cô muốn hỏi Chloe Ethan mua bánh ở đâu."
+          "text": "She wants to ask Chloe where Ethan bought the cake that he brought for dessert",
+          "text_translation": "Cô muốn hỏi Chloe xem Ethan đã mua chiếc bánh anh mang đến để tráng miệng ở đâu"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "She needs Chloe's advice about Ethan's cooking.",
-            "vi": "Cô cần Chloe cho lời khuyên về chuyện nấu ăn của Ethan."
+            "en": "She needs Chloe's advice about how to deal with Ethan's burned pasta and his cooking",
+            "vi": "Cô cần lời khuyên của Chloe về cách xử lý món mì ống cháy và tài nấu ăn của Ethan"
           },
           "is_correct": false,
           "order": 3,
-          "text": "She needs Chloe's advice about Ethan's cooking.",
-          "text_translation": "Cô cần Chloe cho lời khuyên về chuyện nấu ăn của Ethan."
+          "text": "She needs Chloe's advice about how to deal with Ethan's burned pasta and his cooking",
+          "text_translation": "Cô cần lời khuyên của Chloe về cách xử lý món mì ống cháy và tài nấu ăn của Ethan"
         }
       ],
       "evidence_segments": [
@@ -671,7 +671,7 @@
         11
       ],
       "explanation_i18n": {
-        "vi": "Leah mở đầu: \"I start at seven tomorrow, but this news can't wait!\" Tin đó là Ethan hỏi cô làm bạn gái (\"Sorry, I mean my girlfriend.\") và cô trả lời \"Yes to both, of course!\". Ca bảy giờ chỉ là lý do lẽ ra cô nên đi ngủ, không phải lý do cô nhắn. Chloe là người tự kể chuyện chiếc bánh, Leah không hỏi. Leah không xin lời khuyên về chuyện nấu ăn."
+        "vi": "Leah mở đầu: \"I start at seven tomorrow, but this news can't wait!\" Tin đó là Ethan hỏi cô làm bạn gái (\"Sorry, I mean my girlfriend.\") và cô trả lời \"Yes to both, of course!\". Ca bảy giờ chỉ là lý do lẽ ra cô nên đi ngủ, cô không hề nhờ Chloe làm thay. Chloe là người tự kể chuyện chiếc bánh, Leah không hỏi. Leah không xin lời khuyên về chuyện nấu ăn."
       },
       "audio_data": null,
       "tip_i18n": {
@@ -679,7 +679,7 @@
       },
       "question_jp": "Why does Leah send messages to Chloe so late at night?",
       "question_vn": "Vì sao Leah nhắn tin cho Chloe vào lúc khuya như vậy?",
-      "explanation": "Leah mở đầu: \"I start at seven tomorrow, but this news can't wait!\" Tin đó là Ethan hỏi cô làm bạn gái (\"Sorry, I mean my girlfriend.\") và cô trả lời \"Yes to both, of course!\". Ca bảy giờ chỉ là lý do lẽ ra cô nên đi ngủ, không phải lý do cô nhắn. Chloe là người tự kể chuyện chiếc bánh, Leah không hỏi. Leah không xin lời khuyên về chuyện nấu ăn.",
+      "explanation": "Leah mở đầu: \"I start at seven tomorrow, but this news can't wait!\" Tin đó là Ethan hỏi cô làm bạn gái (\"Sorry, I mean my girlfriend.\") và cô trả lời \"Yes to both, of course!\". Ca bảy giờ chỉ là lý do lẽ ra cô nên đi ngủ, cô không hề nhờ Chloe làm thay. Chloe là người tự kể chuyện chiếc bánh, Leah không hỏi. Leah không xin lời khuyên về chuyện nấu ăn.",
       "tip": "Câu hỏi về mục đích cả cuộc trò chuyện: đọc tin nhắn đầu tiên (this news can't wait) rồi tìm xem \"tin\" đó là gì. Phương án chỉ nói về một chi tiết nhỏ thường là phương án sai."
     },
     {
@@ -842,35 +842,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "decided to break up for a short time",
-            "vi": "quyết định chia tay một thời gian ngắn"
+            "en": "decided to stop seeing each other for a short time",
+            "vi": "quyết định tạm thời không gặp nhau"
           },
           "is_correct": false,
           "order": 0,
-          "text": "decided to break up for a short time",
-          "text_translation": "quyết định chia tay một thời gian ngắn"
+          "text": "decided to stop seeing each other for a short time",
+          "text_translation": "quyết định tạm thời không gặp nhau"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "had another disagreement",
-            "vi": "lại có một bất đồng khác"
+            "en": "had another disagreement about the woman who walks dogs with Dustin",
+            "vi": "lại cãi nhau thêm một lần về người phụ nữ dắt chó cùng Dustin"
           },
           "is_correct": false,
           "order": 1,
-          "text": "had another disagreement",
-          "text_translation": "lại có một bất đồng khác"
+          "text": "had another disagreement about the woman who walks dogs with Dustin",
+          "text_translation": "lại cãi nhau thêm một lần về người phụ nữ dắt chó cùng Dustin"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "agreed to eat soup together every Wednesday",
-            "vi": "đồng ý ăn súp cùng nhau mỗi thứ Tư"
+            "en": "agreed to eat soup together every Wednesday at Harriet's",
+            "vi": "đồng ý ăn súp cùng nhau vào mỗi thứ Tư ở quán của bà Harriet"
           },
           "is_correct": false,
           "order": 2,
-          "text": "agreed to eat soup together every Wednesday",
-          "text_translation": "đồng ý ăn súp cùng nhau mỗi thứ Tư"
+          "text": "agreed to eat soup together every Wednesday at Harriet's",
+          "text_translation": "đồng ý ăn súp cùng nhau vào mỗi thứ Tư ở quán của bà Harriet"
         },
         {
           "id": "D",
@@ -914,13 +914,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Chloe",
-            "vi": "Chloe"
+            "en": "Chloe's older sister",
+            "vi": "chị gái của Chloe"
           },
           "is_correct": false,
           "order": 0,
-          "text": "Chloe",
-          "text_translation": "Chloe"
+          "text": "Chloe's older sister",
+          "text_translation": "chị gái của Chloe"
         },
         {
           "id": "B",
@@ -936,24 +936,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Leah",
-            "vi": "Leah"
+            "en": "Leah's friend from work",
+            "vi": "bạn đồng nghiệp của Leah"
           },
           "is_correct": false,
           "order": 2,
-          "text": "Leah",
-          "text_translation": "Leah"
+          "text": "Leah's friend from work",
+          "text_translation": "bạn đồng nghiệp của Leah"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Harriet",
-            "vi": "bà Harriet"
+            "en": "Harriet, who owns the café",
+            "vi": "bà Harriet, chủ quán cà phê"
           },
           "is_correct": false,
           "order": 3,
-          "text": "Harriet",
-          "text_translation": "bà Harriet"
+          "text": "Harriet, who owns the café",
+          "text_translation": "bà Harriet, chủ quán cà phê"
         }
       ],
       "evidence_segments": [
@@ -1062,46 +1062,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Ethan planned the evening before dinner and wanted it to be a surprise.",
-            "vi": "Ethan đã lên kế hoạch cho buổi tối từ trước và muốn đó là một bất ngờ."
+            "en": "Ethan planned the evening before dinner and wanted it to be a surprise for her.",
+            "vi": "Ethan đã lên kế hoạch cho buổi tối từ trước bữa tối và muốn tạo bất ngờ cho cô."
           },
           "is_correct": true,
           "order": 0,
-          "text": "Ethan planned the evening before dinner and wanted it to be a surprise.",
-          "text_translation": "Ethan đã lên kế hoạch cho buổi tối từ trước và muốn đó là một bất ngờ."
+          "text": "Ethan planned the evening before dinner and wanted it to be a surprise for her.",
+          "text_translation": "Ethan đã lên kế hoạch cho buổi tối từ trước bữa tối và muốn tạo bất ngờ cho cô."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Chloe told Leah about the cake in the morning.",
-            "vi": "Chloe đã kể với Leah về chiếc bánh từ sáng."
+            "en": "Chloe told Leah about the cake in the morning, so Leah expected the red heart on top",
+            "vi": "Sáng đó Chloe đã kể cho Leah về chiếc bánh nên Leah đoán trước hình trái tim đỏ phía trên"
           },
           "is_correct": false,
           "order": 1,
-          "text": "Chloe told Leah about the cake in the morning.",
-          "text_translation": "Chloe đã kể với Leah về chiếc bánh từ sáng."
+          "text": "Chloe told Leah about the cake in the morning, so Leah expected the red heart on top",
+          "text_translation": "Sáng đó Chloe đã kể cho Leah về chiếc bánh nên Leah đoán trước hình trái tim đỏ phía trên"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Ethan forgot to pay for the cake.",
-            "vi": "Ethan quên trả tiền chiếc bánh."
+            "en": "Ethan forgot to pay for the cake, so Chloe asked him to come back later",
+            "vi": "Ethan quên trả tiền chiếc bánh nên Chloe bảo anh quay lại sau"
           },
           "is_correct": false,
           "order": 2,
-          "text": "Ethan forgot to pay for the cake.",
-          "text_translation": "Ethan quên trả tiền chiếc bánh."
+          "text": "Ethan forgot to pay for the cake, so Chloe asked him to come back later",
+          "text_translation": "Ethan quên trả tiền chiếc bánh nên Chloe bảo anh quay lại sau"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Leah ordered the cake for Ethan.",
-            "vi": "Leah đặt chiếc bánh cho Ethan."
+            "en": "Leah ordered the cake for Ethan and asked Chloe to keep the order secret",
+            "vi": "Leah đặt chiếc bánh cho Ethan và nhờ Chloe giữ kín đơn hàng"
           },
           "is_correct": false,
           "order": 3,
-          "text": "Leah ordered the cake for Ethan.",
-          "text_translation": "Leah đặt chiếc bánh cho Ethan."
+          "text": "Leah ordered the cake for Ethan and asked Chloe to keep the order secret",
+          "text_translation": "Leah đặt chiếc bánh cho Ethan và nhờ Chloe giữ kín đơn hàng"
         }
       ],
       "evidence_segments": [
@@ -1351,46 +1351,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Many Online Friends, but Close Friends Need Time and Care",
-            "vi": "Nhiều bạn trên mạng, nhưng bạn thân cần thời gian và sự quan tâm"
+            "en": "Many Online Friends, but Close Friends Need Time and Face-to-Face Care",
+            "vi": "Nhiều bạn trực tuyến, nhưng bạn thân cần thời gian và sự quan tâm trực tiếp"
           },
           "is_correct": true,
           "order": 0,
-          "text": "Many Online Friends, but Close Friends Need Time and Care",
-          "text_translation": "Nhiều bạn trên mạng, nhưng bạn thân cần thời gian và sự quan tâm"
+          "text": "Many Online Friends, but Close Friends Need Time and Face-to-Face Care",
+          "text_translation": "Nhiều bạn trực tuyến, nhưng bạn thân cần thời gian và sự quan tâm trực tiếp"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "How to Get More Followers Than Your Classmates",
-            "vi": "Cách có nhiều người theo dõi hơn bạn cùng lớp"
+            "en": "How to Get More Followers Than Your Classmates Without Ever Meeting Them",
+            "vi": "Cách có nhiều người theo dõi hơn các bạn cùng lớp mà không cần gặp họ lần nào"
           },
           "is_correct": false,
           "order": 1,
-          "text": "How to Get More Followers Than Your Classmates",
-          "text_translation": "Cách có nhiều người theo dõi hơn bạn cùng lớp"
+          "text": "How to Get More Followers Than Your Classmates Without Ever Meeting Them",
+          "text_translation": "Cách có nhiều người theo dõi hơn các bạn cùng lớp mà không cần gặp họ lần nào"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Why Students Should Stop Using Social Media",
-            "vi": "Vì sao học sinh nên ngừng dùng mạng xã hội"
+            "en": "Why Students Should Stop Using Social Media and Call Friends Instead",
+            "vi": "Vì sao học sinh nên ngừng dùng mạng xã hội và gọi điện cho bạn thay vào đó"
           },
           "is_correct": false,
           "order": 2,
-          "text": "Why Students Should Stop Using Social Media",
-          "text_translation": "Vì sao học sinh nên ngừng dùng mạng xã hội"
+          "text": "Why Students Should Stop Using Social Media and Call Friends Instead",
+          "text_translation": "Vì sao học sinh nên ngừng dùng mạng xã hội và gọi điện cho bạn thay vào đó"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Working Side by Side Makes the Best Friends",
-            "vi": "Làm việc cạnh nhau tạo nên những người bạn tốt nhất"
+            "en": "Working Side by Side Makes the Best Friends at School and at Work",
+            "vi": "Làm việc kề vai sát cánh tạo nên những người bạn tốt nhất ở trường và ở chỗ làm"
           },
           "is_correct": false,
           "order": 3,
-          "text": "Working Side by Side Makes the Best Friends",
-          "text_translation": "Làm việc cạnh nhau tạo nên những người bạn tốt nhất"
+          "text": "Working Side by Side Makes the Best Friends at School and at Work",
+          "text_translation": "Làm việc kề vai sát cánh tạo nên những người bạn tốt nhất ở trường và ở chỗ làm"
         }
       ],
       "evidence_segments": [
@@ -1509,13 +1509,13 @@
         {
           "id": "B",
           "i18n": {
-            "en": "about fifty hours",
-            "vi": "khoảng năm mươi giờ"
+            "en": "about fifty hours together",
+            "vi": "khoảng năm mươi giờ bên nhau"
           },
           "is_correct": true,
           "order": 1,
-          "text": "about fifty hours",
-          "text_translation": "khoảng năm mươi giờ"
+          "text": "about fifty hours together",
+          "text_translation": "khoảng năm mươi giờ bên nhau"
         },
         {
           "id": "C",
@@ -1570,46 +1570,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "become weaker little by little",
-            "vi": "yếu dần đi từng chút một"
+            "en": "become weaker little by little over time",
+            "vi": "yếu đi từng chút một theo thời gian"
           },
           "is_correct": true,
           "order": 0,
-          "text": "become weaker little by little",
-          "text_translation": "yếu dần đi từng chút một"
+          "text": "become weaker little by little over time",
+          "text_translation": "yếu đi từng chút một theo thời gian"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "grow stronger",
-            "vi": "mạnh lên"
+            "en": "grow stronger every time two friends meet",
+            "vi": "mạnh lên mỗi lần hai người bạn gặp nhau"
           },
           "is_correct": false,
           "order": 1,
-          "text": "grow stronger",
-          "text_translation": "mạnh lên"
+          "text": "grow stronger every time two friends meet",
+          "text_translation": "mạnh lên mỗi lần hai người bạn gặp nhau"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "end suddenly",
-            "vi": "kết thúc đột ngột"
+            "en": "end suddenly after a big disagreement",
+            "vi": "chấm dứt đột ngột sau một cuộc cãi vã lớn"
           },
           "is_correct": false,
           "order": 2,
-          "text": "end suddenly",
-          "text_translation": "kết thúc đột ngột"
+          "text": "end suddenly after a big disagreement",
+          "text_translation": "chấm dứt đột ngột sau một cuộc cãi vã lớn"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "move online",
-            "vi": "chuyển lên mạng"
+            "en": "move online and become easier to keep",
+            "vi": "chuyển lên mạng và trở nên dễ giữ hơn"
           },
           "is_correct": false,
           "order": 3,
-          "text": "move online",
-          "text_translation": "chuyển lên mạng"
+          "text": "move online and become easier to keep",
+          "text_translation": "chuyển lên mạng và trở nên dễ giữ hơn"
         }
       ],
       "evidence_segments": [
@@ -1642,35 +1642,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "a quick message",
-            "vi": "một tin nhắn ngắn"
+            "en": "a quick message that one friend sends to another every day",
+            "vi": "một tin nhắn nhanh mà người bạn này gửi cho người bạn kia mỗi ngày"
           },
           "is_correct": false,
           "order": 0,
-          "text": "a quick message",
-          "text_translation": "một tin nhắn ngắn"
+          "text": "a quick message that one friend sends to another every day",
+          "text_translation": "một tin nhắn nhanh mà người bạn này gửi cho người bạn kia mỗi ngày"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Hall's study",
-            "vi": "nghiên cứu của Hall"
+            "en": "the number of online friends that people have on Facebook",
+            "vi": "số bạn trực tuyến mà mọi người có trên Facebook"
           },
           "is_correct": false,
           "order": 1,
-          "text": "Hall's study",
-          "text_translation": "nghiên cứu của Hall"
+          "text": "the number of online friends that people have on Facebook",
+          "text_translation": "số bạn trực tuyến mà mọi người có trên Facebook"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "meeting face to face",
-            "vi": "việc gặp mặt trực tiếp"
+            "en": "friends meeting face to face and spending many hours together",
+            "vi": "những người bạn gặp mặt trực tiếp và dành nhiều giờ bên nhau"
           },
           "is_correct": false,
           "order": 2,
-          "text": "meeting face to face",
-          "text_translation": "việc gặp mặt trực tiếp"
+          "text": "friends meeting face to face and spending many hours together",
+          "text_translation": "những người bạn gặp mặt trực tiếp và dành nhiều giờ bên nhau"
         },
         {
           "id": "D",
@@ -1714,46 +1714,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Online contact alone is enough to keep a friendship.",
-            "vi": "Chỉ liên lạc trên mạng là đủ để giữ một tình bạn."
+            "en": "Online contact alone is enough to keep a friendship strong for many years.",
+            "vi": "Chỉ liên lạc trực tuyến là đủ để giữ một tình bạn bền chặt trong nhiều năm."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Online contact alone is enough to keep a friendship.",
-          "text_translation": "Chỉ liên lạc trên mạng là đủ để giữ một tình bạn."
+          "text": "Online contact alone is enough to keep a friendship strong for many years.",
+          "text_translation": "Chỉ liên lạc trực tuyến là đủ để giữ một tình bạn bền chặt trong nhiều năm."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Most people can rely on all of their online friends.",
-            "vi": "Đa số mọi người có thể dựa vào tất cả bạn bè trên mạng."
+            "en": "Most people can rely on all of their online friends when they need help.",
+            "vi": "Hầu hết mọi người có thể dựa vào tất cả bạn trực tuyến khi cần giúp đỡ."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Most people can rely on all of their online friends.",
-          "text_translation": "Đa số mọi người có thể dựa vào tất cả bạn bè trên mạng."
+          "text": "Most people can rely on all of their online friends when they need help.",
+          "text_translation": "Hầu hết mọi người có thể dựa vào tất cả bạn trực tuyến khi cần giúp đỡ."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Joking and talking together count more than working side by side.",
-            "vi": "Đùa vui và trò chuyện cùng nhau có giá trị hơn làm việc cạnh nhau."
+            "en": "Joking, talking and having fun together count more than working side by side.",
+            "vi": "Đùa vui, trò chuyện và vui chơi cùng nhau có giá trị hơn việc làm việc cạnh nhau."
           },
           "is_correct": true,
           "order": 2,
-          "text": "Joking and talking together count more than working side by side.",
-          "text_translation": "Đùa vui và trò chuyện cùng nhau có giá trị hơn làm việc cạnh nhau."
+          "text": "Joking, talking and having fun together count more than working side by side.",
+          "text_translation": "Đùa vui, trò chuyện và vui chơi cùng nhau có giá trị hơn việc làm việc cạnh nhau."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Dunbar asked 150 adults about their Facebook friends.",
-            "vi": "Dunbar đã hỏi 150 người trưởng thành về bạn bè trên Facebook."
+            "en": "Dunbar asked 150 adults at the University of Oxford about their Facebook friends.",
+            "vi": "Dunbar hỏi 150 người lớn ở Đại học Oxford về bạn bè trên Facebook của họ."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Dunbar asked 150 adults about their Facebook friends.",
-          "text_translation": "Dunbar đã hỏi 150 người trưởng thành về bạn bè trên Facebook."
+          "text": "Dunbar asked 150 adults at the University of Oxford about their Facebook friends.",
+          "text_translation": "Dunbar hỏi 150 người lớn ở Đại học Oxford về bạn bè trên Facebook của họ."
         }
       ],
       "evidence_segments": [
@@ -1797,35 +1797,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "having more followers than your classmates",
-            "vi": "có nhiều người theo dõi hơn bạn cùng lớp"
+            "en": "having more followers than your classmates and answering them all",
+            "vi": "có nhiều người theo dõi hơn các bạn cùng lớp và trả lời tất cả họ"
           },
           "is_correct": false,
           "order": 1,
-          "text": "having more followers than your classmates",
-          "text_translation": "có nhiều người theo dõi hơn bạn cùng lớp"
+          "text": "having more followers than your classmates and answering them all",
+          "text_translation": "có nhiều người theo dõi hơn các bạn cùng lớp và trả lời tất cả họ"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "working side by side",
-            "vi": "làm việc cạnh nhau"
+            "en": "working side by side with a friend for fifty hours",
+            "vi": "làm việc kề vai sát cánh với một người bạn trong năm mươi giờ"
           },
           "is_correct": false,
           "order": 2,
-          "text": "working side by side",
-          "text_translation": "làm việc cạnh nhau"
+          "text": "working side by side with a friend for fifty hours",
+          "text_translation": "làm việc kề vai sát cánh với một người bạn trong năm mươi giờ"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "asking 3,300 adults about friendship",
-            "vi": "hỏi 3.300 người trưởng thành về tình bạn"
+            "en": "asking 3,300 adults about friendship every year at the university",
+            "vi": "hỏi 3.300 người lớn về tình bạn mỗi năm ở trường đại học"
           },
           "is_correct": false,
           "order": 3,
-          "text": "asking 3,300 adults about friendship",
-          "text_translation": "hỏi 3.300 người trưởng thành về tình bạn"
+          "text": "asking 3,300 adults about friendship every year at the university",
+          "text_translation": "hỏi 3.300 người lớn về tình bạn mỗi năm ở trường đại học"
         }
       ],
       "evidence_segments": [
@@ -1858,35 +1858,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It is the best way to make close friends.",
-            "vi": "Đó là cách tốt nhất để có bạn thân."
+            "en": "It is the best way to make close friends, because it saves a lot of time.",
+            "vi": "Đó là cách tốt nhất để có bạn thân vì nó tiết kiệm rất nhiều thời gian."
           },
           "is_correct": false,
           "order": 0,
-          "text": "It is the best way to make close friends.",
-          "text_translation": "Đó là cách tốt nhất để có bạn thân."
+          "text": "It is the best way to make close friends, because it saves a lot of time.",
+          "text_translation": "Đó là cách tốt nhất để có bạn thân vì nó tiết kiệm rất nhiều thời gian."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "It is dangerous, and people should stop using it.",
-            "vi": "Nó nguy hiểm, và mọi người nên ngừng dùng."
+            "en": "It is dangerous, and people should stop using it as soon as possible.",
+            "vi": "Nó nguy hiểm và mọi người nên ngừng dùng nó càng sớm càng tốt."
           },
           "is_correct": false,
           "order": 1,
-          "text": "It is dangerous, and people should stop using it.",
-          "text_translation": "Nó nguy hiểm, và mọi người nên ngừng dùng."
+          "text": "It is dangerous, and people should stop using it as soon as possible.",
+          "text_translation": "Nó nguy hiểm và mọi người nên ngừng dùng nó càng sớm càng tốt."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The writer doesn't have an opinion about it.",
-            "vi": "Người viết không có ý kiến gì về nó."
+            "en": "The writer doesn't have an opinion about it and only reports the numbers.",
+            "vi": "Người viết không có ý kiến gì về nó và chỉ đưa ra các con số."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The writer doesn't have an opinion about it.",
-          "text_translation": "Người viết không có ý kiến gì về nó."
+          "text": "The writer doesn't have an opinion about it and only reports the numbers.",
+          "text_translation": "Người viết không có ý kiến gì về nó và chỉ đưa ra các con số."
         },
         {
           "id": "D",

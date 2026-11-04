@@ -86,10 +86,10 @@
 **1. What is the main purpose of Tracy's email?**
 *(Mục đích chính của email của Tracy là gì?)*
 
-- A. to complain about her professors *(để than phiền về các giáo sư)*
-- B. to share news about her second year at university *(để kể chuyện năm hai đại học của mình)*
-- C. to ask for help with an assignment *(để nhờ giúp một bài tập)*
-- D. to describe the weather in Washington *(để tả thời tiết ở Washington)*
+- A. to complain about her professors and the fast lectures *(để phàn nàn về các giáo sư và những bài giảng nói quá nhanh)*
+- B. to share news about her second year of studies at university *(để chia sẻ tin về năm học thứ hai của cô ở đại học)*
+- C. to ask for help with an assignment about water filters *(để nhờ giúp một bài tập về máy lọc nước)*
+- D. to describe the weather in Washington and her warm boots for the first snow *(để tả thời tiết ở Washington và đôi bốt ấm của cô cho trận tuyết đầu mùa)*
 
 **2. In "At first, the engineering curriculum felt overwhelming", what does "overwhelming" mean?**
 *(Trong câu "At first, the engineering curriculum felt overwhelming", "overwhelming" nghĩa là gì?)*
@@ -102,10 +102,10 @@
 **3. How does Tracy deal with fast lectures now?**
 *(Giờ Tracy xử lý các giờ giảng nhanh thế nào?)*
 
-- A. She asks the professors to speak slowly. *(Cô xin giáo sư nói chậm lại.)*
-- B. She stopped going to lectures. *(Cô thôi đi học.)*
-- C. She studies all night before exams. *(Cô thức trắng đêm trước kỳ thi.)*
-- D. She records every session and goes over her notes the same evening. *(Cô ghi âm mọi buổi học và xem lại ghi chép ngay tối đó.)*
+- A. She asks the professors to speak slowly and to repeat everything *(Cô nhờ các giáo sư nói chậm lại và nhắc lại mọi thứ)*
+- B. She stopped going to lectures and reads her roommate's notes instead *(Cô thôi đi nghe giảng và đọc ghi chú của bạn cùng phòng thay vào đó)*
+- C. She studies all night before exams with her study group *(Cô học thâu đêm trước kỳ thi cùng nhóm học tập)*
+- D. She records each lecture and goes over her notes that evening. *(Cô ghi âm mỗi bài giảng và xem lại ghi chú ngay tối đó.)*
 
 **4. Why is it essential for Tracy to hand in every assignment on time?**
 *(Vì sao với Tracy, nộp bài đúng hạn là điều bắt buộc?)*
@@ -126,26 +126,26 @@
 **6. What is Tracy's research team working on?**
 *(Nhóm nghiên cứu của Tracy đang làm gì?)*
 
-- A. a faster way to record lectures *(một cách ghi âm bài giảng nhanh hơn)*
-- B. a small water filter for villages without clean water *(một bộ lọc nước nhỏ cho làng thiếu nước sạch)*
-- C. a new exam for engineering students *(một bài thi mới cho sinh viên kỹ thuật)*
-- D. a new kind of winter cookie *(một loại bánh quy mùa đông mới)*
+- A. a faster way to record lectures and share them with students *(một cách ghi âm bài giảng nhanh hơn và chia sẻ cho sinh viên)*
+- B. a small water filter for villages without any clean water *(một máy lọc nước nhỏ cho các ngôi làng không có nước sạch)*
+- C. a new exam for engineering students at her university *(một bài thi mới cho sinh viên kỹ thuật ở trường cô)*
+- D. a new kind of winter cookie for Harriet's café in December *(một loại bánh quy mùa đông mới cho quán của bà Harriet vào tháng Mười Hai)*
 
 **7. What can we guess about Tracy from "Now I revise a little every day instead of studying all night"?**
 *(Từ câu "Now I revise a little every day instead of studying all night", ta đoán được gì về Tracy?)*
 
-- A. She has stopped caring about exams. *(Cô không còn quan tâm tới thi cử.)*
-- B. She studies less than before. *(Cô học ít hơn trước.)*
-- C. She learned a better way to prepare from her bad experience. *(Cô rút ra cách ôn tốt hơn từ trải nghiệm không vui.)*
-- D. She failed her first examination. *(Cô trượt kỳ thi đầu tiên.)*
+- A. She has stopped caring about exams and no longer feels any anxiety *(Cô không còn quan tâm đến kỳ thi và không còn thấy lo lắng nữa)*
+- B. She stopped studying alone and now only works with her study group *(Cô thôi học một mình và giờ chỉ học cùng nhóm học tập)*
+- C. She learned a better way to prepare from her bad experience. *(Cô học được cách chuẩn bị tốt hơn từ trải nghiệm tệ của mình.)*
+- D. She failed her first examination and had to repeat the whole course *(Cô trượt kỳ thi đầu tiên và phải học lại cả môn)*
 
 **8. Who is now helping Trevor with math?**
 *(Giờ ai đang kèm Trevor học toán?)*
 
-- A. Tracy, by video call *(Tracy, qua gọi video)*
-- B. Tina *(Tina)*
-- C. one of Tracy's professors *(một giáo sư của Tracy)*
-- D. the person who receives this email *(chính người nhận email này)*
+- A. Tracy, by video call every Sunday evening *(Tracy, qua cuộc gọi video mỗi tối Chủ nhật)*
+- B. Tina, who studies in the same class *(Tina, người học cùng lớp với cậu)*
+- C. one of Tracy's professors at her university *(một giáo sư của Tracy ở trường đại học)*
+- D. the person who is reading this email now *(người đang đọc email này)*
 
 **9. In "just in time for Harriet's winter cookies", what does "in time" mean?**
 *(Trong "just in time for Harriet's winter cookies", "in time" nghĩa là gì?)*
@@ -158,10 +158,10 @@
 **10. Which of these is NOT true about Tracy?**
 *(Điều nào KHÔNG đúng về Tracy?)*
 
-- A. She is in her second year. *(Cô đang học năm hai.)*
-- B. She joined a research team in October. *(Cô vào nhóm nghiên cứu hồi tháng Mười.)*
-- C. She will come home in December. *(Tháng Mười Hai cô sẽ về nhà.)*
-- D. Her lectures all have fewer than fifty students. *(Lớp nào của cô cũng dưới năm mươi sinh viên.)*
+- A. She is a sophomore, so her second academic year has just started. *(Cô là sinh viên năm hai nên năm học thứ hai vừa mới bắt đầu.)*
+- B. She joined a research team in October that designs a water filter. *(Cô tham gia một nhóm nghiên cứu thiết kế máy lọc nước vào tháng Mười.)*
+- C. She will come home in December, in time for Harriet's winter cookies. *(Cô sẽ về nhà vào tháng Mười Hai, kịp ăn bánh quy mùa đông của bà Harriet.)*
+- D. Her lectures all have fewer than fifty students. *(Mọi bài giảng của cô đều có dưới năm mươi sinh viên.)*
 
 ---
 
@@ -207,18 +207,18 @@
 **11. What is the main idea of the article?**
 *(Ý chính của bài báo là gì?)*
 
-- A. Online learning is always better. *(Học trực tuyến lúc nào cũng tốt hơn.)*
-- B. The best way to learn depends on the student. *(Cách học tốt nhất tuỳ vào người học.)*
-- C. Schools should stop online courses. *(Trường học nên ngừng các khoá trực tuyến.)*
-- D. Students should study in cafés. *(Học sinh nên học ở quán cà phê.)*
+- A. Online learning is always better because it is cheaper. *(Học trực tuyến luôn tốt hơn vì rẻ hơn.)*
+- B. The best way of learning depends on the student and his or her habits. *(Cách học tốt nhất tuỳ thuộc vào người học và thói quen của họ.)*
+- C. Schools should stop online courses and go back to classrooms for every subject *(Các trường nên dừng khoá học trực tuyến và quay lại lớp học cho mọi môn)*
+- D. Students should study in cafés because it is more relaxing. *(Học sinh nên học ở quán cà phê vì thư giãn hơn.)*
 
 **12. Which is an advantage of online learning in the article?**
 *(Theo bài báo, đâu là một ưu điểm của học trực tuyến?)*
 
-- A. Students can watch recorded lectures again and again. *(Có thể xem lại bài giảng ghi sẵn nhiều lần.)*
-- B. Students never feel lonely. *(Người học không bao giờ thấy cô đơn.)*
-- C. It needs no motivation. *(Không cần động lực.)*
-- D. Teachers can help very quickly in the room. *(Giáo viên giúp rất nhanh ngay trong phòng.)*
+- A. Students can watch recorded lectures again and again if needed. *(Học sinh có thể xem lại bài giảng đã ghi hình nhiều lần nếu cần.)*
+- B. Students never feel lonely when they study at home alone *(Học sinh không bao giờ thấy cô đơn khi học một mình ở nhà)*
+- C. It needs no motivation, because a teacher is always online *(Nó không cần động lực vì lúc nào cũng có giáo viên trực tuyến)*
+- D. Teachers can help very quickly when everyone is in the room *(Giáo viên có thể giúp rất nhanh khi mọi người ở trong phòng)*
 
 **13. In "It is accessible to people who live far from a school", what does "accessible" mean?**
 *(Trong câu "It is accessible to people who live far from a school", "accessible" nghĩa là gì?)*
@@ -231,34 +231,34 @@
 **14. Why do some online students feel lonely?**
 *(Vì sao một số người học trực tuyến thấy cô đơn?)*
 
-- A. Their courses are too difficult. *(Vì khoá học quá khó.)*
-- B. They study in the canteen. *(Vì họ học ở căng tin.)*
-- C. They have too many classmates. *(Vì họ có quá nhiều bạn học.)*
-- D. A webcam cannot fully replace a real conversation. *(Vì webcam không thể thay hẳn một cuộc trò chuyện thật.)*
+- A. Their courses are too difficult for them to follow alone *(Khoá học quá khó để họ tự theo kịp)*
+- B. They study in the canteen where there is nobody to talk to *(Họ học ở căng tin nơi không có ai để trò chuyện)*
+- C. They have too many classmates and cannot find a quiet place *(Họ có quá nhiều bạn cùng lớp và không tìm được chỗ yên tĩnh)*
+- D. A webcam cannot fully replace a real conversation in the canteen. *(Webcam không thể thay thế hoàn toàn một cuộc trò chuyện thật ở căng tin.)*
 
 **15. In "choose the one that fits your life", what does "the one" refer to?**
 *(Trong câu "choose the one that fits your life", "the one" chỉ cái gì?)*
 
 - A. the way of learning *(cách học)*
-- B. the teacher *(giáo viên)*
-- C. the webcam *(chiếc webcam)*
-- D. the canteen *(căng tin)*
+- B. the teacher who helps you *(giáo viên giúp bạn)*
+- C. the webcam on your laptop *(chiếc webcam trên máy tính của bạn)*
+- D. the canteen near the school *(căng tin gần trường)*
 
 **16. What do many experts now suggest?**
 *(Nhiều chuyên gia hiện gợi ý điều gì?)*
 
-- A. only online courses *(chỉ học trực tuyến)*
-- B. a mix of lessons in person and online materials *(kết hợp học trực tiếp với tài liệu trực tuyến)*
-- C. more lectures with three hundred students *(nhiều giờ giảng ba trăm người hơn)*
-- D. no homework at all *(không giao bài tập nữa)*
+- A. only online courses, with no lessons in a classroom *(chỉ các khoá trực tuyến, không có tiết học nào trong lớp)*
+- B. a mix of lessons in person and online materials for revision *(kết hợp tiết học trực tiếp với tài liệu trực tuyến để ôn tập)*
+- C. more lectures with three hundred students in each room *(nhiều bài giảng hơn với ba trăm sinh viên mỗi phòng)*
+- D. no homework at all and more time for group work *(hoàn toàn không có bài tập và thêm thời gian làm việc nhóm)*
 
 **17. Which student would probably find online learning MOST difficult?**
 *(Học sinh nào nhiều khả năng thấy học trực tuyến KHÓ nhất?)*
 
-- A. a student who lives far from any school *(người sống xa mọi trường học)*
-- B. a student who works during the day *(người đi làm ban ngày)*
-- C. a student who easily loses concentration at home *(người ở nhà rất dễ mất tập trung)*
-- D. a student who likes to watch lectures again *(người thích xem lại bài giảng)*
+- A. a student who lives far from any school and has very little free time at home *(một học sinh sống xa mọi trường học và có rất ít thời gian rảnh ở nhà)*
+- B. a student who works during the day and studies in the evening *(một học sinh đi làm ban ngày và học vào buổi tối)*
+- C. a student who easily loses concentration when he or she studies at home *(một học sinh dễ mất tập trung khi học ở nhà)*
+- D. a student who likes to watch lectures again and learns slowly *(một học sinh thích xem lại bài giảng và học chậm)*
 
 **18. What is the writer's attitude in the last paragraph?**
 *(Thái độ của người viết ở đoạn cuối là gì?)*
@@ -279,10 +279,10 @@
 **20. Use both texts. Which idea from the article does Tracy already use?**
 *(Dựa vào cả hai bài. Tracy đã áp dụng ý nào trong bài báo?)*
 
-- A. She studies only online. *(Cô chỉ học trực tuyến.)*
+- A. She studies only online, from her kitchen, and never meets her classmates *(Cô chỉ học trực tuyến ở bếp và không bao giờ gặp bạn học)*
 - B. She goes to lectures in person and uses recordings for revision. *(Cô đi học trực tiếp và dùng bản ghi âm để ôn.)*
-- C. She studies in a café every day. *(Ngày nào cô cũng học ở quán cà phê.)*
-- D. She stopped going to lectures with three hundred students. *(Cô thôi đi những giờ giảng ba trăm người.)*
+- C. She studies in a café every day with her roommate *(Cô ngày nào cũng học ở quán cà phê cùng bạn cùng phòng)*
+- D. She stopped going to lectures with three hundred students and studies at home *(Cô thôi đi các buổi giảng có ba trăm sinh viên và học ở nhà)*
 
 ---
 

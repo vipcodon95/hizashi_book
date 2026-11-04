@@ -88,10 +88,10 @@
 **1. Why does Leah send messages to Chloe so late at night?**
 *(Vì sao Leah nhắn tin cho Chloe vào lúc khuya như vậy?)*
 
-- A. She can't sleep before her shift at seven. *(Cô không ngủ được trước ca làm lúc bảy giờ.)*
-- B. She wants to share the news that she and Ethan are now a couple. *(Cô muốn kể tin cô và Ethan giờ đã thành một cặp.)*
-- C. She wants to ask Chloe where Ethan bought the cake. *(Cô muốn hỏi Chloe Ethan mua bánh ở đâu.)*
-- D. She needs Chloe's advice about Ethan's cooking. *(Cô cần Chloe cho lời khuyên về chuyện nấu ăn của Ethan.)*
+- A. She is worried about her shift at seven and needs Chloe to take her place *(Cô lo về ca làm lúc bảy giờ và cần Chloe làm thay mình)*
+- B. She wants to tell Chloe the exciting news that she and Ethan are now a couple. *(Cô muốn kể cho Chloe tin thú vị rằng cô và Ethan giờ là một cặp.)*
+- C. She wants to ask Chloe where Ethan bought the cake that he brought for dessert *(Cô muốn hỏi Chloe xem Ethan đã mua chiếc bánh anh mang đến để tráng miệng ở đâu)*
+- D. She needs Chloe's advice about how to deal with Ethan's burned pasta and his cooking *(Cô cần lời khuyên của Chloe về cách xử lý món mì ống cháy và tài nấu ăn của Ethan)*
 
 **2. What happened while Ethan and Leah were having dinner?**
 *(Chuyện gì đã xảy ra khi Ethan và Leah đang ăn tối?)*
@@ -112,18 +112,18 @@
 **4. In "reached a compromise: he tells me more, and I ask before I guess", what does "reached a compromise" mean?**
 *(Trong câu "reached a compromise: he tells me more, and I ask before I guess", "reached a compromise" nghĩa là gì?)*
 
-- A. decided to break up for a short time *(quyết định chia tay một thời gian ngắn)*
-- B. had another disagreement *(lại có một bất đồng khác)*
-- C. agreed to eat soup together every Wednesday *(đồng ý ăn súp cùng nhau mỗi thứ Tư)*
+- A. decided to stop seeing each other for a short time *(quyết định tạm thời không gặp nhau)*
+- B. had another disagreement about the woman who walks dogs with Dustin *(lại cãi nhau thêm một lần về người phụ nữ dắt chó cùng Dustin)*
+- C. agreed to eat soup together every Wednesday at Harriet's *(đồng ý ăn súp cùng nhau vào mỗi thứ Tư ở quán của bà Harriet)*
 - D. agreed on a plan in which both of them change a little *(thống nhất một cách mà cả hai đều thay đổi một chút)*
 
 **5. In "half of the dogs are hers", who does "hers" refer to?**
 *(Trong câu "half of the dogs are hers", "hers" chỉ ai?)*
 
-- A. Chloe *(Chloe)*
+- A. Chloe's older sister *(chị gái của Chloe)*
 - B. Dustin's older sister *(chị gái của Dustin)*
-- C. Leah *(Leah)*
-- D. Harriet *(bà Harriet)*
+- C. Leah's friend from work *(bạn đồng nghiệp của Leah)*
+- D. Harriet, who owns the café *(bà Harriet, chủ quán cà phê)*
 
 **6. Which of the following is NOT true about Ethan's evening with Leah?**
 *(Điều nào sau đây KHÔNG đúng về buổi tối của Ethan với Leah?)*
@@ -136,10 +136,10 @@
 **7. What can we learn from Chloe's message "He ordered it from me this morning and made me promise to keep it secret!"?**
 *(Có thể suy ra điều gì từ tin nhắn của Chloe "He ordered it from me this morning and made me promise to keep it secret!"?)*
 
-- A. Ethan planned the evening before dinner and wanted it to be a surprise. *(Ethan đã lên kế hoạch cho buổi tối từ trước và muốn đó là một bất ngờ.)*
-- B. Chloe told Leah about the cake in the morning. *(Chloe đã kể với Leah về chiếc bánh từ sáng.)*
-- C. Ethan forgot to pay for the cake. *(Ethan quên trả tiền chiếc bánh.)*
-- D. Leah ordered the cake for Ethan. *(Leah đặt chiếc bánh cho Ethan.)*
+- A. Ethan planned the evening before dinner and wanted it to be a surprise for her. *(Ethan đã lên kế hoạch cho buổi tối từ trước bữa tối và muốn tạo bất ngờ cho cô.)*
+- B. Chloe told Leah about the cake in the morning, so Leah expected the red heart on top *(Sáng đó Chloe đã kể cho Leah về chiếc bánh nên Leah đoán trước hình trái tim đỏ phía trên)*
+- C. Ethan forgot to pay for the cake, so Chloe asked him to come back later *(Ethan quên trả tiền chiếc bánh nên Chloe bảo anh quay lại sau)*
+- D. Leah ordered the cake for Ethan and asked Chloe to keep the order secret *(Leah đặt chiếc bánh cho Ethan và nhờ Chloe giữ kín đơn hàng)*
 
 **8. How does Chloe feel about the way Ethan asked Leah?**
 *(Chloe thấy thế nào về cách Ethan ngỏ lời với Leah?)*
@@ -219,10 +219,10 @@
 **11. Which is the best title for the article?**
 *(Đâu là tiêu đề phù hợp nhất cho bài báo?)*
 
-- A. Many Online Friends, but Close Friends Need Time and Care *(Nhiều bạn trên mạng, nhưng bạn thân cần thời gian và sự quan tâm)*
-- B. How to Get More Followers Than Your Classmates *(Cách có nhiều người theo dõi hơn bạn cùng lớp)*
-- C. Why Students Should Stop Using Social Media *(Vì sao học sinh nên ngừng dùng mạng xã hội)*
-- D. Working Side by Side Makes the Best Friends *(Làm việc cạnh nhau tạo nên những người bạn tốt nhất)*
+- A. Many Online Friends, but Close Friends Need Time and Face-to-Face Care *(Nhiều bạn trực tuyến, nhưng bạn thân cần thời gian và sự quan tâm trực tiếp)*
+- B. How to Get More Followers Than Your Classmates Without Ever Meeting Them *(Cách có nhiều người theo dõi hơn các bạn cùng lớp mà không cần gặp họ lần nào)*
+- C. Why Students Should Stop Using Social Media and Call Friends Instead *(Vì sao học sinh nên ngừng dùng mạng xã hội và gọi điện cho bạn thay vào đó)*
+- D. Working Side by Side Makes the Best Friends at School and at Work *(Làm việc kề vai sát cánh tạo nên những người bạn tốt nhất ở trường và ở chỗ làm)*
 
 **12. In Dunbar's study, how many of their online friends could people rely on in a crisis, on average?**
 *(Trong nghiên cứu của Dunbar, trung bình người ta có thể dựa vào bao nhiêu người bạn trên mạng khi gặp chuyện khó khăn?)*
@@ -236,48 +236,48 @@
 *(Theo Hall, cần bao lâu để biến một người quen thành một người bạn xã giao?)*
 
 - A. about ninety hours *(khoảng chín mươi giờ)*
-- B. about fifty hours *(khoảng năm mươi giờ)*
+- B. about fifty hours together *(khoảng năm mươi giờ bên nhau)*
 - C. more than two hundred hours *(hơn hai trăm giờ)*
 - D. about fourteen hours *(khoảng mười bốn giờ)*
 
 **14. In "friendships slowly fade when people stop seeing each other", what does "fade" mean?**
 *(Trong câu "friendships slowly fade when people stop seeing each other", "fade" nghĩa là gì?)*
 
-- A. become weaker little by little *(yếu dần đi từng chút một)*
-- B. grow stronger *(mạnh lên)*
-- C. end suddenly *(kết thúc đột ngột)*
-- D. move online *(chuyển lên mạng)*
+- A. become weaker little by little over time *(yếu đi từng chút một theo thời gian)*
+- B. grow stronger every time two friends meet *(mạnh lên mỗi lần hai người bạn gặp nhau)*
+- C. end suddenly after a big disagreement *(chấm dứt đột ngột sau một cuộc cãi vã lớn)*
+- D. move online and become easier to keep *(chuyển lên mạng và trở nên dễ giữ hơn)*
 
 **15. In "social media can slow this down", what does "this" refer to?**
 *(Trong câu "social media can slow this down", "this" chỉ điều gì?)*
 
-- A. a quick message *(một tin nhắn ngắn)*
-- B. Hall's study *(nghiên cứu của Hall)*
-- C. meeting face to face *(việc gặp mặt trực tiếp)*
+- A. a quick message that one friend sends to another every day *(một tin nhắn nhanh mà người bạn này gửi cho người bạn kia mỗi ngày)*
+- B. the number of online friends that people have on Facebook *(số bạn trực tuyến mà mọi người có trên Facebook)*
+- C. friends meeting face to face and spending many hours together *(những người bạn gặp mặt trực tiếp và dành nhiều giờ bên nhau)*
 - D. friendships becoming weaker when friends stop seeing each other *(việc tình bạn yếu dần khi bạn bè không gặp nhau nữa)*
 
 **16. Which statement is TRUE, based on the article?**
 *(Theo bài báo, câu nào ĐÚNG?)*
 
-- A. Online contact alone is enough to keep a friendship. *(Chỉ liên lạc trên mạng là đủ để giữ một tình bạn.)*
-- B. Most people can rely on all of their online friends. *(Đa số mọi người có thể dựa vào tất cả bạn bè trên mạng.)*
-- C. Joking and talking together count more than working side by side. *(Đùa vui và trò chuyện cùng nhau có giá trị hơn làm việc cạnh nhau.)*
-- D. Dunbar asked 150 adults about their Facebook friends. *(Dunbar đã hỏi 150 người trưởng thành về bạn bè trên Facebook.)*
+- A. Online contact alone is enough to keep a friendship strong for many years. *(Chỉ liên lạc trực tuyến là đủ để giữ một tình bạn bền chặt trong nhiều năm.)*
+- B. Most people can rely on all of their online friends when they need help. *(Hầu hết mọi người có thể dựa vào tất cả bạn trực tuyến khi cần giúp đỡ.)*
+- C. Joking, talking and having fun together count more than working side by side. *(Đùa vui, trò chuyện và vui chơi cùng nhau có giá trị hơn việc làm việc cạnh nhau.)*
+- D. Dunbar asked 150 adults at the University of Oxford about their Facebook friends. *(Dunbar hỏi 150 người lớn ở Đại học Oxford về bạn bè trên Facebook của họ.)*
 
 **17. What can keep a bond alive, as the article says?**
 *(Theo bài báo, điều gì có thể giữ cho một mối gắn kết còn sống?)*
 
 - A. a quick message to a friend who you no longer see every day *(một tin nhắn ngắn gửi người bạn mà bạn không còn gặp hằng ngày)*
-- B. having more followers than your classmates *(có nhiều người theo dõi hơn bạn cùng lớp)*
-- C. working side by side *(làm việc cạnh nhau)*
-- D. asking 3,300 adults about friendship *(hỏi 3.300 người trưởng thành về tình bạn)*
+- B. having more followers than your classmates and answering them all *(có nhiều người theo dõi hơn các bạn cùng lớp và trả lời tất cả họ)*
+- C. working side by side with a friend for fifty hours *(làm việc kề vai sát cánh với một người bạn trong năm mươi giờ)*
+- D. asking 3,300 adults about friendship every year at the university *(hỏi 3.300 người lớn về tình bạn mỗi năm ở trường đại học)*
 
 **18. What is the writer's attitude toward social media?**
 *(Thái độ của người viết đối với mạng xã hội là gì?)*
 
-- A. It is the best way to make close friends. *(Đó là cách tốt nhất để có bạn thân.)*
-- B. It is dangerous, and people should stop using it. *(Nó nguy hiểm, và mọi người nên ngừng dùng.)*
-- C. The writer doesn't have an opinion about it. *(Người viết không có ý kiến gì về nó.)*
+- A. It is the best way to make close friends, because it saves a lot of time. *(Đó là cách tốt nhất để có bạn thân vì nó tiết kiệm rất nhiều thời gian.)*
+- B. It is dangerous, and people should stop using it as soon as possible. *(Nó nguy hiểm và mọi người nên ngừng dùng nó càng sớm càng tốt.)*
+- C. The writer doesn't have an opinion about it and only reports the numbers. *(Người viết không có ý kiến gì về nó và chỉ đưa ra các con số.)*
 - D. It can help friendships, but it can't take the place of time together. *(Nó có thể giúp tình bạn, nhưng không thay được thời gian ở bên nhau.)*
 
 **19. Why does the writer mention calling "a friend who you have been ignoring"?**
@@ -312,7 +312,7 @@
 
 | Câu | Đáp án | Giải thích |
 |---|---|---|
-| 1 | **B** | Câu 2, 8, 11: Leah mở đầu: "I start at seven tomorrow, but this news can't wait!" Tin đó là Ethan hỏi cô làm bạn gái ("Sorry, I mean my girlfriend.") và cô trả lời "Yes to both, of course!". Ca bảy giờ chỉ là lý do lẽ ra cô nên đi ngủ, không phải lý do cô nhắn. Chloe là người tự kể chuyện chiếc bánh, Leah không hỏi. Leah không xin lời khuyên về chuyện nấu ăn. |
+| 1 | **B** | Câu 2, 8, 11: Leah mở đầu: "I start at seven tomorrow, but this news can't wait!" Tin đó là Ethan hỏi cô làm bạn gái ("Sorry, I mean my girlfriend.") và cô trả lời "Yes to both, of course!". Ca bảy giờ chỉ là lý do lẽ ra cô nên đi ngủ, cô không hề nhờ Chloe làm thay. Chloe là người tự kể chuyện chiếc bánh, Leah không hỏi. Leah không xin lời khuyên về chuyện nấu ăn. |
 | 2 | **C** | Câu 5: Leah viết: "The pasta that he made was burned, and his own smoke alarm went off in the middle of dinner." Người nấu và làm cháy mì là Ethan ("that he made"), không phải Leah. Trạm cứu hoả chỉ được nhắc tới vì không cho anh lại gần bếp, không gọi điện cho anh. Bánh là Ethan đặt ở chỗ Chloe rồi tự mang tới ("the chocolate cake that he brought"). |
 | 3 | **A** | Câu 7–8: Leah kể Ethan cuống lên và hỏi: "Will you be my emergency contact?" Ngay sau đó anh sửa lại: "Sorry, I mean my girlfriend." Câu "you are the person whom I trust most" là điều Ethan nói về Leah, không phải câu hỏi. Bài không nói anh hỏi cô có muốn ăn bánh hay có đọc được thiệp không. |
 | 4 | **D** | Câu 16: Sau dấu hai chấm, Chloe giải thích thoả thuận: "he tells me more, and I ask before I guess." Mỗi người đều nhường một bước: Dustin kể nhiều hơn, Chloe hỏi trước khi đoán. Reach a compromise = đạt được thoả hiệp. Hai người vừa làm lành ("We made up"), nên không phải chia tay hay lại bất đồng. Bát súp thứ Tư là nơi họ làm lành, không phải nội dung thoả thuận. |

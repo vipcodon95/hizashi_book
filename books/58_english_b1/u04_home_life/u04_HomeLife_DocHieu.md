@@ -88,10 +88,10 @@
 **1. What is the main purpose of Megan's email?**
 *(Mục đích chính của email Megan viết là gì?)*
 
-- A. to ask Tracy to help pay for a new carpet *(nhờ Tracy góp tiền mua thảm mới)*
-- B. to tell Tracy, in a funny way, about a leaking pipe and the repairs at home *(kể cho Tracy, một cách hài hước, về vụ rò ống nước và chuyện sửa chữa ở nhà)*
-- C. to complain to the plumber about the noise he made *(phàn nàn với người thợ về tiếng ồn anh ấy gây ra)*
-- D. to tell Tracy that Trevor's room is messy again *(báo cho Tracy biết phòng của Trevor lại bừa bộn)*
+- A. to ask Tracy to help pay for a new carpet and for the plumber's work *(để nhờ Tracy góp tiền mua tấm thảm mới và trả công thợ sửa ống nước)*
+- B. to tell Tracy in a funny way about the leaking pipe and the repairs at home *(để kể cho Tracy nghe một cách vui vẻ về đường ống bị rò và việc sửa chữa ở nhà)*
+- C. to complain to the plumber about the noise he made while Leah was sleeping downstairs *(để phàn nàn với thợ sửa ống nước về tiếng ồn ông gây ra khi Leah đang ngủ dưới nhà)*
+- D. to tell Tracy that Trevor's room is messy again and that Biscuit must go *(để báo với Tracy rằng phòng Trevor lại bừa bộn và Biscuit phải đi)*
 
 **2. Why did Megan ask Vince not to bang anything?**
 *(Vì sao Megan dặn Vince đừng gõ đập gì mạnh?)*
@@ -104,34 +104,34 @@
 **3. Where did Vince find his glove?**
 *(Vince tìm thấy chiếc găng tay của mình ở đâu?)*
 
-- A. under the bathroom sink *(dưới bồn rửa trong phòng tắm)*
-- B. in Biscuit's water bowl *(trong bát nước của Biscuit)*
-- C. behind the cupboard that he moved *(sau cái tủ anh ấy đã dời)*
-- D. under Trevor's bed, next to some socks *(dưới gầm giường của Trevor, cạnh mấy chiếc tất)*
+- A. under the bathroom sink, next to the leaking pipe *(dưới bồn rửa phòng tắm, cạnh đường ống bị rò)*
+- B. in Biscuit's water bowl, next to the wet carpet *(trong bát nước của Biscuit, cạnh tấm thảm ướt)*
+- C. behind the cupboard that he moved, next to his tools *(sau chiếc tủ ông đã dời, cạnh dụng cụ của ông)*
+- D. under Trevor's bed, next to three of Trevor's socks *(dưới giường Trevor, cạnh ba chiếc tất của Trevor)*
 
 **4. In "we had the whole thing looked over by a plumber", what does "looked over" mean?**
 *(Trong câu "we had the whole thing looked over by a plumber", "looked over" nghĩa là gì?)*
 
-- A. cleaned very quickly *(lau chùi thật nhanh)*
-- B. taken out of the house *(mang ra khỏi nhà)*
-- C. checked carefully to find problems *(kiểm tra kỹ để tìm chỗ hỏng)*
-- D. made bigger *(làm to ra)*
+- A. cleaned quickly with water and a soft cloth *(lau nhanh bằng nước và một miếng vải mềm)*
+- B. taken out of the house and put in the garden *(đem ra khỏi nhà và để ngoài vườn)*
+- C. checked carefully to find any problems with it *(kiểm tra kỹ để tìm mọi vấn đề của nó)*
+- D. made bigger so that more water can pass through *(làm to hơn để nước chảy qua được nhiều hơn)*
 
 **5. In "he stole one of Vince's gloves and hid it under Trevor's bed", what does "it" refer to?**
 *(Trong câu "he stole one of Vince's gloves and hid it under Trevor's bed", "it" chỉ cái gì?)*
 
-- A. one of Vince's gloves *(một chiếc găng tay của Vince)*
-- B. the old pipe *(cái ống cũ)*
-- C. Trevor's sock *(chiếc tất của Trevor)*
-- D. the water bowl *(bát nước)*
+- A. the glove that Biscuit stole from Vince *(chiếc găng tay Biscuit lấy trộm của Vince)*
+- B. the old pipe under the sink *(đường ống cũ dưới bồn rửa)*
+- C. one of Trevor's three socks *(một trong ba chiếc tất của Trevor)*
+- D. the water bowl in the kitchen *(chiếc bát nước trong bếp)*
 
 **6. Which of these is NOT a job that the Carters had done or are having done?**
 *(Việc nào dưới đây KHÔNG phải là việc nhà Carter đã nhờ người làm hoặc đang nhờ người làm?)*
 
-- A. putting in a new pipe *(lắp ống nước mới)*
-- B. cleaning the carpet *(giặt tấm thảm)*
-- C. checking the roof *(kiểm tra mái nhà)*
-- D. putting in a carpet with a football field on it *(lắp tấm thảm có hình sân bóng)*
+- A. putting in a new pipe under the bathroom sink *(lắp một đường ống mới dưới bồn rửa phòng tắm)*
+- B. having the carpet in Trevor's room cleaned *(cho giặt tấm thảm trong phòng Trevor)*
+- C. having the roof checked before the winter rain *(cho kiểm tra mái nhà trước mùa mưa đông)*
+- D. buying a new carpet with a football field on it *(mua một tấm thảm mới có hình sân bóng trên đó)*
 
 **7. What advice did Vince give the family?**
 *(Vince đã khuyên gia đình điều gì?)*
@@ -144,26 +144,26 @@
 **8. What does the email suggest about Tracy's dad and the pipe?**
 *(Bức email gợi ý điều gì về bố của Tracy và cái ống nước?)*
 
-- A. He fixed it before the plumber arrived. *(Ông sửa được nó trước khi thợ tới.)*
-- B. He knows more about pipes than Vince. *(Ông hiểu về ống nước hơn cả Vince.)*
-- C. He couldn't fix it, so the family needed a professional. *(Ông không sửa được, nên cả nhà cần tới thợ chuyên nghiệp.)*
-- D. He wanted to put in a new pipe himself. *(Ông muốn tự lắp ống mới.)*
+- A. He fixed it very well, so the plumber only had to clean the carpet afterwards *(Ông sửa rất tốt nên thợ chỉ cần giặt thảm sau đó)*
+- B. He knows more about pipes than Vince, but he had no time to work *(Ông biết về ống nước nhiều hơn Vince nhưng không có thời gian làm)*
+- C. He couldn't fix it himself, so the family needed to call a professional. *(Ông không tự sửa được nên cả nhà cần gọi một thợ chuyên nghiệp.)*
+- D. He wanted to put in a new pipe himself, but Megan stopped him *(Ông muốn tự lắp ống mới nhưng Megan ngăn lại)*
 
 **9. When Megan answers "Would you? Keep your room tidy for a month and I'll think about it", what does she mean?**
 *(Khi Megan đáp "Would you? Keep your room tidy for a month and I'll think about it", ý bà là gì?)*
 
-- A. She may think about a new carpet only if Trevor keeps his room tidy first. *(Bà có thể tính chuyện thảm mới, nhưng chỉ khi Trevor giữ phòng gọn gàng trước đã.)*
-- B. She has already bought the football carpet for him. *(Bà đã mua tấm thảm hình sân bóng cho em rồi.)*
-- C. She doesn't believe that Trevor likes football. *(Bà không tin là Trevor thích bóng đá.)*
-- D. She wants Trevor to clean the carpet himself. *(Bà muốn Trevor tự giặt tấm thảm.)*
+- A. She may think about a new carpet only if Trevor keeps his room tidy. *(Cô có thể nghĩ đến tấm thảm mới chỉ khi Trevor giữ phòng gọn gàng.)*
+- B. She has already bought the football carpet and will give it to him next month *(Cô đã mua tấm thảm hình sân bóng và sẽ tặng cậu vào tháng sau)*
+- C. She doesn't believe that Trevor really likes football, so she says no *(Cô không tin Trevor thật sự thích bóng đá nên cô từ chối)*
+- D. She wants Trevor to clean the wet carpet himself before next month *(Cô muốn Trevor tự giặt tấm thảm ướt trước tháng sau)*
 
 **10. What did Trevor think when he first saw the wet carpet?**
 *(Lúc đầu thấy tấm thảm ướt, Trevor nghĩ gì?)*
 
-- A. that the roof was leaking *(rằng mái nhà bị dột)*
-- B. that Leah had spilled some water *(rằng Leah đã làm đổ nước)*
-- C. that his dad had broken the pipe *(rằng bố em đã làm vỡ ống nước)*
-- D. that Biscuit had knocked over his water bowl *(rằng Biscuit đã làm đổ bát nước của nó)*
+- A. that the roof was leaking after the autumn rain *(rằng mái nhà bị dột sau cơn mưa mùa thu)*
+- B. that Leah had spilled some water when she came home *(rằng Leah đã làm đổ nước khi cô về nhà)*
+- C. that his dad had broken the pipe while fixing it *(rằng bố đã làm hỏng đường ống khi sửa)*
+- D. that Biscuit had knocked over his water bowl again *(rằng Biscuit lại làm đổ bát nước của nó)*
 
 ---
 
@@ -213,10 +213,10 @@
 **11. What is the article mainly about?**
 *(Bài báo chủ yếu nói về điều gì?)*
 
-- A. why older people should move into care homes *(vì sao người già nên chuyển vào viện dưỡng lão)*
-- B. how to share the housework in a small apartment *(cách chia việc nhà trong một căn hộ nhỏ)*
-- C. the good points, the problems and some tips for families with several generations in one home *(mặt tốt, khó khăn và vài mẹo cho những gia đình có nhiều thế hệ sống chung một nhà)*
-- D. the history of the Brooks family on Maple Street *(lịch sử của nhà Brooks ở phố Maple)*
+- A. why older people should move into care homes instead of living with family *(vì sao người lớn tuổi nên chuyển vào viện dưỡng lão thay vì sống cùng gia đình)*
+- B. how to share the housework and the bills in a small apartment *(cách chia việc nhà và hoá đơn trong một căn hộ nhỏ)*
+- C. the good points, the problems and some tips for families sharing a home *(những điểm tốt, những vấn đề và vài lời khuyên cho các gia đình sống chung nhà)*
+- D. the history of the Brooks family and their café on Maple Street *(lịch sử gia đình Brooks và quán cà phê của họ trên phố Maple)*
 
 **12. In the article, what is the most common reason for living with several generations in one home?**
 *(Theo bài báo, lý do phổ biến nhất để nhiều thế hệ sống chung một nhà là gì?)*
@@ -237,9 +237,9 @@
 **14. In "You learn to put up with small things", what does "put up with" mean?**
 *(Trong câu "You learn to put up with small things", "put up with" nghĩa là gì?)*
 
-- A. to build *(xây dựng)*
-- B. to get rid of *(loại bỏ)*
-- C. to write down *(ghi lại)*
+- A. to build something small next to your own house *(xây một thứ nhỏ cạnh nhà mình)*
+- B. to get rid of something annoying as soon as you can *(loại bỏ thứ gây phiền càng sớm càng tốt)*
+- C. to write down small things so you do not forget *(ghi lại những điều nhỏ để khỏi quên)*
 - D. to accept something annoying without getting angry *(chấp nhận một điều khó chịu mà không nổi giận)*
 
 **15. In "Actually, they live with me!", who does "they" refer to?**
@@ -261,26 +261,26 @@
 **17. Who uses the handrail on the stairs every day?**
 *(Theo bài báo, ai dùng tay vịn cầu thang mỗi ngày?)*
 
-- A. both Amy and her grandmother *(cả Amy lẫn bà nội của em)*
-- B. only Harriet *(chỉ bà Harriet)*
-- C. only Amy *(chỉ Amy)*
-- D. Nathan and Helena *(Nathan và Helena)*
+- A. both Amy and her grandmother, Harriet *(cả Amy và bà của em, bà Harriet)*
+- B. only Harriet, because she is the oldest *(chỉ bà Harriet, vì bà lớn tuổi nhất)*
+- C. only Amy, because she is the youngest *(chỉ Amy, vì em nhỏ tuổi nhất)*
+- D. Nathan and Helena, when they come home from work *(Nathan và Helena, khi họ đi làm về)*
 
 **18. What does Harriet's joke "Actually, they live with me!" suggest about her?**
 *(Câu đùa "Actually, they live with me!" của bà Harriet gợi ý điều gì về bà?)*
 
-- A. She would like to live alone. *(Bà muốn sống một mình.)*
-- B. She is unhappy that people talk about her family. *(Bà buồn vì người ta bàn tán về gia đình bà.)*
-- C. She is planning to sell the house. *(Bà đang định bán ngôi nhà.)*
-- D. She is still active and doesn't see herself as someone who needs looking after. *(Bà vẫn năng động và không coi mình là người cần được chăm sóc.)*
+- A. She would like to live alone, because she finds the house too noisy *(Bà muốn sống một mình vì thấy ngôi nhà quá ồn)*
+- B. She is unhappy that people talk about her family and her café all the time *(Bà không vui vì người ta lúc nào cũng bàn về gia đình và quán của bà)*
+- C. She is planning to sell the house and move in with her son's family *(Bà định bán nhà và về sống cùng gia đình con trai)*
+- D. She is still active and doesn't see herself as someone who needs care. *(Bà vẫn năng động và không xem mình là người cần được chăm sóc.)*
 
 **19. What do Helena's words "We all had different ideas about an orderly kitchen" suggest?**
 *(Lời Helena "We all had different ideas about an orderly kitchen" gợi ý điều gì?)*
 
-- A. Helena does all the cooking in the Brooks home. *(Helena nấu hết các bữa ở nhà Brooks.)*
-- B. The Brooks family wants to build a second kitchen. *(Nhà Brooks muốn làm thêm một gian bếp nữa.)*
-- C. Sharing a home has not always been easy for the Brooks family either. *(Sống chung một nhà cũng không phải lúc nào cũng dễ với nhà Brooks.)*
-- D. Harriet never cleans the kitchen. *(Bà Harriet không bao giờ dọn bếp.)*
+- A. Helena does all the cooking in the Brooks home, and the others never help her at all *(Helena nấu hết mọi bữa ăn trong nhà Brooks và những người khác chẳng bao giờ giúp cô)*
+- B. The Brooks family wants to build a second kitchen so that nobody argues *(Gia đình Brooks muốn xây bếp thứ hai để không ai cãi nhau)*
+- C. Sharing a home has not always been easy for the Brooks family either, Helena says. *(Helena nói việc sống chung nhà cũng không phải lúc nào cũng dễ với gia đình Brooks.)*
+- D. Harriet never cleans the kitchen, so Helena has to do it every evening *(Bà Harriet không bao giờ dọn bếp nên Helena phải dọn mỗi tối)*
 
 **20. What is the writer's attitude toward several generations sharing a home?**
 *(Thái độ của người viết đối với việc nhiều thế hệ sống chung một nhà là gì?)*
