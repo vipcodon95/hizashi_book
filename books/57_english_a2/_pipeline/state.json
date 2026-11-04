@@ -6,7 +6,7 @@
   "topic": "Sách bài tập đọc hiểu A2 (sách ôn) bám khoá tiếng Anh Hizashi, dàn nhân vật Maple Street",
   "target_audience": "Người Việt đã học xong / đang ôn khoá A2 trên app Hizashi",
   "domain_expert_role": "Giáo viên luyện thi VSTEP / CEFR",
-  "current_stage": 5,
+  "current_stage": "done",
   "stages": {
     "01_research": {
       "status": "done",
@@ -53,16 +53,24 @@
       "completed_at": "2026-11-03T07:47:16"
     },
     "05_review": {
-      "status": "pending"
+      "status": "done",
+      "output": "_pipeline/05_08_review.md",
+      "completed_at": "2026-11-04"
     },
     "06_consistency": {
-      "status": "pending"
+      "status": "done",
+      "output": "_pipeline/05_08_review.md",
+      "completed_at": "2026-11-04"
     },
     "07_council": {
-      "status": "pending"
+      "status": "done",
+      "output": "_pipeline/05_08_review.md",
+      "completed_at": "2026-11-04"
     },
     "08_finalize": {
-      "status": "pending"
+      "status": "done",
+      "output": "_pipeline/05_08_review.md",
+      "completed_at": "2026-11-04"
     }
   },
   "chapters": [

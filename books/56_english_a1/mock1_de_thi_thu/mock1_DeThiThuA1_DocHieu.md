@@ -117,7 +117,7 @@
 *(Biển 4 có nghĩa là gì?)*
 
 - A. There are no buses this week. *(Tuần này không có xe buýt nào.)*
-- B. This week, the number 7 bus stops in front of the bank. *(Tuần này, xe buýt số 7 dừng trước cửa ngân hàng.)*
+- B. You must walk to another bus stop this week. *(Tuần này bạn phải đi bộ tới một trạm xe buýt khác.)*
 - C. The bank is closed this week. *(Tuần này ngân hàng đóng cửa.)*
 - D. You can buy bus tickets at the bank. *(Bạn có thể mua vé xe buýt ở ngân hàng.)*
 
@@ -389,7 +389,7 @@
 | 1 | **C** | Câu 4: "Children under eight need an adult with them in the water." Trẻ dưới 8 tuổi phải có người lớn đi cùng. Bé 5, 6 và 7 tuổi đều dưới 8 tuổi. Chỉ bé 10 tuổi là đã quá 8 tuổi, nên được bơi một mình. |
 | 2 | **A** | Câu 7, 8, 10: "People are reading and studying here." Nơi mọi người đọc sách, học bài, phải giữ yên lặng và tắt điện thoại là thư viện. Quán cà phê chỉ là chỗ được ăn uống ở tầng trệt ("You can eat and drink in the cafe on the first floor."), không phải chỗ đặt biển. |
 | 3 | **D** | Câu 12: "Buy two, get one free." Mua hai cái thì được tặng thêm một cái: trả tiền hai, mang về ba. Bánh không được tặng không, và biển không giới hạn chỉ mua hai cái. "Only on Sundays" là nói khuyến mãi chỉ có vào sáng Chủ nhật. |
-| 4 | **B** | Câu 15–16: "This week, the number 7 bus does not stop here." và "Please walk to the bus stop in front of the bank." Xe số 7 vẫn chạy, chỉ đổi chỗ dừng sang trạm trước cửa ngân hàng. Biển không nói ngân hàng đóng cửa hay bán vé. |
+| 4 | **B** | Câu 15–16: "This week, the number 7 bus does not stop here." và "Please walk to the bus stop in front of the bank." Biển bảo đi bộ tới trạm trước cửa ngân hàng, tức tuần này phải đón xe ở một trạm khác. Biển không nói ngân hàng đóng cửa hay bán vé. |
 | 5 | **C** | Câu 19–20: "Is this your jacket?" và "We found a small blue jacket in the park on Tuesday." Biển hỏi người có chiếc áo khoác này, tức là người đã để quên áo trong công viên, và chỉ chỗ nhận lại ở thư viện. Thư viện chỉ là nơi giữ áo; biển không bán áo. |
 | 6 | **A** | Câu 3: "There are a lot of sick people here today, so I'll be home late, at about nine." Megan là y tá, hôm nay bệnh viện đông người bệnh. Người ở trận bóng đá là Mitchell và Trevor; người đi đón Tina là Tracy. |
 | 7 | **D** | Câu 7: "Can you get Tina from Amy's house at five?" Megan nhờ Tracy sang nhà Amy đón Tina, tức là lúc này Tina đang ở nhà Amy. Người ở nhà là Leah và Tracy; người ở bệnh viện là Megan. |

@@ -212,8 +212,8 @@
 - C. because a tight bandage keeps the foot warm *(vì băng chặt giữ cho bàn chân ấm)*
 - D. because a very tight bandage can make your toes cold or blue *(vì băng quá chặt có thể làm ngón chân lạnh hoặc tím)*
 
-**9. How much sleep does a twelve-year-old like Trevor need?**
-*(Theo tờ hướng dẫn, một bạn mười hai tuổi như Trevor cần ngủ bao nhiêu?)*
+**9. How much sleep do children from six to twelve need?**
+*(Theo tờ hướng dẫn, trẻ từ sáu đến mười hai tuổi cần ngủ bao nhiêu?)*
 
 - A. about six hours a night *(khoảng sáu tiếng mỗi đêm)*
 - B. nine to twelve hours a night *(chín đến mười hai tiếng mỗi đêm)*
@@ -252,5 +252,5 @@
 | 6 | **C** | Câu 4, 14, 17: "Most small sprains get better at home, and an easy word can help: RICE, like the food!" Sau đó văn bản giải thích RICE, khi nào cần đi khám, và phần "Healthy Habits for Young Players". Nó không bán hàng, không báo tin trận đấu, và còn chúc "enjoy the game!", tức là vẫn khuyến khích chơi thể thao. |
 | 7 | **A** | Câu 7: "Never put ice right on your skin; use a thin towel." Megan cũng dặn Tracy y như vậy ở bài 1. Đi bộ là việc tờ hướng dẫn bảo tránh ("Don't walk on the injured foot"), băng thì "not too tightly", còn gập gối chậm là việc khởi động trước trận, không liên quan tới việc chườm đá. |
 | 8 | **D** | Câu 8–9: "Put a soft bandage around the ankle, but not too tightly." Ngay sau đó: "Cold or blue toes mean that it is too tight." Vậy băng chặt quá làm ngón chân lạnh, tím, chứ không giữ ấm. Bài không nói phải tháo băng mỗi ngày. |
-| 9 | **B** | Câu 16: "Sleep well, too: children from six to twelve need nine to twelve hours a night." Trevor mười hai tuổi nên nằm trong nhóm này. "Six" là tuổi nhỏ nhất của nhóm, không phải số giờ ngủ. "Ten minutes" là thời gian khởi động, còn "fifteen to twenty minutes" là thời gian chườm đá. |
+| 9 | **B** | Câu 16: "Sleep well, too: children from six to twelve need nine to twelve hours a night." "Six" là tuổi nhỏ nhất của nhóm, không phải số giờ ngủ. "Ten minutes" là thời gian khởi động, còn "fifteen to twenty minutes" là thời gian chườm đá. |
 | 10 | **C** | Câu 12: Ghép hai bài. Tờ hướng dẫn viết: "See a doctor when you are not able to put any weight on the foot, when the ankle looks very swollen" (bài 2, câu 12). Megan cũng đã dặn: "We will see a doctor when it is more swollen tomorrow, or when you still can't stand on it on Monday." (bài 1, câu 14). Các phương án khác trái với lời dặn: không đợi rồi cho đá tiếp, không đặt đá thẳng lên da, và phải hỏi dược sĩ trước khi uống thuốc vì "some drugs are not safe for children". |

@@ -41,7 +41,7 @@
 >
 > **Sunday night**
 >
-> Yesterday morning, we set off for Monterey at six o'clock, and Biscuit stayed with Amy at number fifteen. The drive was almost seven hours, but it was not boring, because Dad told us old stories.
+> Yesterday morning, we set off for Monterey at six o'clock, and Biscuit stayed with Amy at number fifteen. The drive was more than seven hours, but it was not boring, because Dad told us old stories.
 >
 > Tracy never forgets anything, so she brought coats for everyone. Trevor laughed, but Monterey was cold and gray, and he was the first one in a coat!
 >
@@ -60,7 +60,7 @@
 | 1 | Tina's Diary | Nhật ký của Tina |
 | 2 | Sunday night | Tối Chủ nhật |
 | 3 | Yesterday morning, we set off for Monterey at six o'clock, and Biscuit stayed with Amy at number fifteen. | Sáng hôm qua, cả nhà mình lên đường đi Monterey lúc sáu giờ, còn Biscuit thì ở lại với Amy bên nhà số mười lăm. |
-| 4 | The drive was almost seven hours, but it was not boring, because Dad told us old stories. | Đường đi mất gần bảy tiếng, nhưng không chán chút nào, vì bố kể cho tụi mình nghe chuyện ngày xưa. |
+| 4 | The drive was more than seven hours, but it was not boring, because Dad told us old stories. | Đường đi mất hơn bảy tiếng, nhưng không chán chút nào, vì bố kể cho tụi mình nghe chuyện ngày xưa. |
 | 5 | Tracy never forgets anything, so she brought coats for everyone. | Chị Tracy chẳng bao giờ quên thứ gì, nên chị mang theo áo khoác cho cả nhà. |
 | 6 | Trevor laughed, but Monterey was cold and gray, and he was the first one in a coat! | Anh Trevor cười chị, nhưng Monterey vừa lạnh vừa u ám, và rốt cuộc chính anh lại là người mặc áo khoác đầu tiên! |
 | 7 | First, we checked in at a small hotel. | Đầu tiên, cả nhà nhận phòng ở một khách sạn nhỏ. |
@@ -94,7 +94,7 @@
 **3. Trevor laughed at Tracy, but later he was the first one in a coat. Why?**
 *(Trevor cười chị Tracy, nhưng sau đó lại là người mặc áo khoác đầu tiên. Vì sao?)*
 
-- A. The drive was almost seven hours. *(Vì đường đi mất gần bảy tiếng.)*
+- A. The drive was more than seven hours. *(Vì đường đi mất hơn bảy tiếng.)*
 - B. Dad told old stories. *(Vì bố kể chuyện ngày xưa.)*
 - C. They checked in at a small hotel. *(Vì cả nhà nhận phòng ở một khách sạn nhỏ.)*
 - D. Monterey was cold and gray. *(Vì Monterey vừa lạnh vừa u ám.)*
@@ -219,5 +219,5 @@
 | 6 | **D** | Câu 4–5: "First, we read a story about a prince, a princess and a fairy." "Then the kids wrote short poems". Chuyện ma đến sau phần làm thơ ("After that, I began a ghost story"). Chuyện gián điệp là để thứ Bảy sắp tới. Hôm đó không có bài tập vì "School is over". |
 | 7 | **A** | Câu 6–7: "After that, I began a ghost story, and the room was quiet." "Then something pushed the door, and the kids were scared!" Cả phòng đang im lặng nghe chuyện ma, nên tiếng đẩy cửa làm các bạn tưởng có ma. Cô bé thấy hình con chó trên áo thì reo lên vui vẻ ("Look, two Biscuits!"), không phải sợ. Không có bài tập và Amy tới nơi đều không làm ai sợ. |
 | 8 | **B** | Câu 12: "My T-shirt that day had a dog like Biscuit on it, so a little girl said, "Look, two Biscuits!"" Một Biscuit là chú chó thật, một Biscuit là hình trên áo của bà Harriet. Bài không nói Amy có chó: Amy chỉ đi cùng bố tới đón Biscuit. Chỉ có một con chó đẩy cửa. Câu chuyện bà kể là chuyện ma, không có Biscuit trong đó. |
-| 9 | **D** | Câu 3, 6, 9: Bài đọc 2: buổi kể chuyện bắt đầu lúc "ten o'clock", và chuyện ma đến sau truyện cổ tích và phần làm thơ, tức là sau mười giờ. Bài đọc 1: nhà Carter đi lúc "six o'clock" và "The drive was almost seven hours", nên gần một giờ chiều mới tới nơi. Vậy lúc Biscuit tới quán, Tina vẫn còn trên xe. Thuỷ cung và khách sạn là chỗ cả nhà tới sau khi đến Monterey. Tina không ở quán, vì "The Carters were in Monterey". |
+| 9 | **D** | Câu 3, 6, 9: Bài đọc 2: buổi kể chuyện bắt đầu lúc "ten o'clock", và chuyện ma đến sau truyện cổ tích và phần làm thơ, tức là sau mười giờ. Bài đọc 1: nhà Carter đi lúc "six o'clock" và "The drive was more than seven hours", nên gần một giờ chiều mới tới nơi. Vậy lúc Biscuit tới quán, Tina vẫn còn trên xe. Thuỷ cung và khách sạn là chỗ cả nhà tới sau khi đến Monterey. Tina không ở quán, vì "The Carters were in Monterey". |
 | 10 | **A** | Câu 13: "This Saturday at ten, we will read a spy story." Bài viết kể về thứ Bảy vừa rồi, nên "This Saturday" là thứ Bảy sắp tới. Chuyện ma và làm thơ là những việc đã xảy ra thứ Bảy vừa rồi. Năm học đã kết thúc ("School is over"), nên không còn buổi kèm bài tập. |

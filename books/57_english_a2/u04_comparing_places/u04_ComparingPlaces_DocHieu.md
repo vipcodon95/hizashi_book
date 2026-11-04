@@ -50,7 +50,7 @@
 >
 > The first one, Sunset Bay Hospital, is downtown, only twenty minutes from Maple Street. It is bigger and more modern than the second one, and it is the busiest hospital in the area.
 >
-> The second one, Green Valley Hospital, is in Asheville, on the other side of the country. It is smaller and quieter, but its doctors were the friendliest people on my trip. Also, life there is less expensive: a nice house costs as much as a small room here!
+> The second one, Green Valley Hospital, is in Asheville, on the other side of the country. It is smaller and quieter, but its doctors were the friendliest people on my trip. Also, life there is less expensive: a nice house there costs about as much as a small apartment here!
 >
 > The weather is the hardest part. San Diego is sunny all year, but Asheville has snow in winter and beautiful mountains in autumn.
 >
@@ -72,7 +72,7 @@
 | 6 | It is bigger and more modern than the second one, and it is the busiest hospital in the area. | Nó lớn hơn và hiện đại hơn nơi thứ hai, và là bệnh viện đông bệnh nhân nhất trong khu vực. |
 | 7 | The second one, Green Valley Hospital, is in Asheville, on the other side of the country. | Nơi thứ hai, Bệnh viện Green Valley, ở Asheville, tận bên kia đất nước. |
 | 8 | It is smaller and quieter, but its doctors were the friendliest people on my trip. | Nó nhỏ hơn và yên tĩnh hơn, nhưng các bác sĩ ở đó là những người thân thiện nhất mình gặp trong chuyến đi. |
-| 9 | Also, life there is less expensive: a nice house costs as much as a small room here! | Thêm nữa, sống ở đó đỡ tốn kém hơn: một căn nhà xinh xắn chỉ tốn bằng một căn phòng nhỏ ở đây! |
+| 9 | Also, life there is less expensive: a nice house there costs about as much as a small apartment here! | Thêm nữa, sống ở đó đỡ tốn kém hơn: một căn nhà xinh xắn ở đó chỉ tốn chừng bằng một căn hộ nhỏ ở đây! |
 | 10 | The weather is the hardest part. | Thời tiết là phần khó nhất. |
 | 11 | San Diego is sunny all year, but Asheville has snow in winter and beautiful mountains in autumn. | San Diego nắng quanh năm, còn Asheville có tuyết vào mùa đông và núi non tuyệt đẹp vào mùa thu. |
 | 12 | Of course, San Diego is the most convenient choice, because my family and friends are here. | Tất nhiên, San Diego là lựa chọn thuận tiện nhất, vì gia đình và bạn bè mình đều ở đây. |
