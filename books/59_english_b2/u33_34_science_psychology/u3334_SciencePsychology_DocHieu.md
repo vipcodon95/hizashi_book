@@ -86,82 +86,82 @@
 **1. What was Tina's question?**
 *(Câu hỏi của Tina là gì?)*
 
-- A. how to plant a garden *(cách trồng một khu vườn)*
-- B. why bees are small *(vì sao ong nhỏ)*
+- A. how to plant a garden at Westview High so that more bees would visit it in spring *(cách trồng một khu vườn ở Westview High để mùa xuân có nhiều ong ghé hơn)*
+- B. whether non-native flowers attract more pollinators than native ones in the Westview High garden *(liệu hoa không bản địa có thu hút nhiều loài thụ phấn hơn hoa bản địa trong vườn trường Westview High không)*
 - C. whether native flowers attract more pollinators than non-native ones in the Westview High garden *(liệu hoa bản địa có thu hút nhiều loài thụ phấn hơn hoa không bản địa trong vườn trường Westview High không)*
-- D. which flowers smell the best *(hoa nào thơm nhất)*
+- D. which pollinators prefer flowers that grow in other parts of the world in a school garden *(loài thụ phấn nào thích hoa mọc ở những nơi khác trên thế giới trong một khu vườn trường)*
 
 **2. How is a pollinator defined in the report?**
 *(Báo cáo định nghĩa loài thụ phấn thế nào?)*
 
-- A. any animal that carries pollen from one flower to another *(bất kỳ động vật nào mang phấn hoa từ bông này sang bông khác)*
-- B. any insect that lives in a garden *(bất kỳ côn trùng nào sống trong vườn)*
+- A. any insect that lives in a garden and feeds on the nectar of flowers all year *(bất kỳ côn trùng nào sống trong vườn và ăn mật hoa quanh năm)*
+- B. any bee that makes honey from the flowers growing in a school garden *(bất kỳ con ong nào làm mật từ những bông hoa mọc trong vườn trường)*
 - C. a kind of flower *(một loại hoa)*
 - D. a bee that makes honey *(một con ong làm mật)*
 
 **3. What does "its first native flowers are said to have been grown from seeds" tell us?**
 *(Câu "nghe nói những cây hoa bản địa đầu tiên được ươm từ hạt" cho biết điều gì?)*
 
-- A. The flowers will be grown from seeds next year. *(Năm sau hoa mới được ươm từ hạt.)*
-- B. Tina grew the flowers herself. *(Chính Tina ươm hoa.)*
-- C. The flowers are being grown now. *(Hoa đang được ươm.)*
-- D. People say that this happened in the past, but Tina did not see it herself. *(Người ta kể chuyện này đã xảy ra, nhưng Tina không tận mắt thấy.)*
+- A. The seeds will be planted by the Green Club next year, after the science fair. *(Năm sau, sau hội chợ khoa học, Câu lạc bộ Xanh sẽ gieo những hạt giống này)*
+- B. Tina collected the seeds herself and watched the flowers grow for two years. *(Chính Tina thu hạt giống và theo dõi hoa lớn suốt hai năm.)*
+- C. The flowers are being grown from seeds that the students are collecting now. *(Hoa đang được ươm từ những hạt giống mà học sinh đang thu thập lúc này.)*
+- D. People say that this happened in the past, but Tina herself did not see it happen. *(Người ta kể chuyện này đã xảy ra trong quá khứ, nhưng chính Tina không tận mắt thấy.)*
 
 **4. How did Tina make her test fair?**
 *(Tina làm thí nghiệm công bằng bằng cách nào?)*
 
-- A. by watching only native plants *(chỉ quan sát cây bản địa)*
+- A. by watching only the native plants, so that she could count their visits more easily *(chỉ quan sát cây bản địa để đếm lượt ghé của chúng dễ hơn)*
 - B. by changing the order in which she watched the plants every day *(ngày nào cũng đổi thứ tự quan sát các cây)*
-- C. by asking her friends to count *(nhờ bạn đếm hộ)*
-- D. by watching the plants at night *(quan sát vào ban đêm)*
+- C. by asking her friends to watch half of the plants while she watched the others *(nhờ bạn bè theo dõi một nửa số cây trong lúc cô bé theo dõi số còn lại)*
+- D. by watching the plants at the same warm time of the day every morning *(ngày nào cũng quan sát các cây vào đúng cùng một giờ ấm áp trong ngày)*
 
 **5. Why did Tina choose plants of similar size and color?**
 *(Vì sao Tina chọn những cây có kích thước và màu sắc tương tự?)*
 
-- A. because they were the cheapest *(vì chúng rẻ nhất)*
-- B. because she likes those colors *(vì cô bé thích những màu đó)*
+- A. because they were the cheapest plants that the Green Club could buy for the garden behind the gym *(vì đó là những cây rẻ nhất mà Câu lạc bộ Xanh có thể mua cho khu vườn sau nhà thi đấu)*
+- B. because the judges at the fair had asked her to choose plants that looked the same *(vì giám khảo ở hội chợ đã yêu cầu cô bé chọn những cây trông giống nhau)*
 - C. so that size and color would not affect the results, and only the type of plant was different *(để kích thước và màu sắc không ảnh hưởng kết quả, chỉ có loại cây là khác)*
-- D. because the judges asked her to *(vì giám khảo yêu cầu)*
+- D. because she wanted to tell the plants apart easily when she was counting the visits *(vì cô bé muốn dễ phân biệt các cây khi đếm lượt ghé)*
 
 **6. How many more visits did the native plants receive?**
 *(Cây bản địa nhận được nhiều lượt ghé hơn bao nhiêu?)*
 
-- A. almost two and a half times as many *(gần gấp hai lần rưỡi)*
-- B. about the same number *(gần bằng nhau)*
-- C. ten times as many *(gấp mười lần)*
-- D. fewer visits *(ít lượt hơn)*
+- A. almost two and a half times as many as the non-native plants *(gần gấp hai lần rưỡi so với cây không bản địa)*
+- B. about the same number as the non-native plants had received *(gần bằng số lượt mà cây không bản địa nhận được)*
+- C. ten times as many as the non-native plants had received *(gấp mười lần số lượt mà cây không bản địa nhận được)*
+- D. fewer visits than the non-native plants had received *(ít lượt hơn so với cây không bản địa)*
 
 **7. Why does Tina think that the results from two mornings were affected by the weather?**
 *(Vì sao Tina nghĩ kết quả của hai buổi sáng bị thời tiết ảnh hưởng?)*
 
-- A. because it rained *(vì trời mưa)*
-- B. because she was late *(vì cô bé tới muộn)*
-- C. because the plants died *(vì cây chết)*
+- A. because it rained heavily on both mornings and the plants were wet *(vì cả hai buổi sáng trời mưa to và cây bị ướt)*
+- B. because she arrived late and could only watch each plant for five minutes *(vì cô bé đến muộn và chỉ quan sát được mỗi cây năm phút)*
+- C. because the plants had died after the Green Club forgot to water them *(vì cây đã chết sau khi Câu lạc bộ Xanh quên tưới nước)*
 - D. because the counts were much lower for all plants on those windy mornings *(vì vào hai buổi sáng nhiều gió ấy, số lượt ở mọi cây đều thấp hơn hẳn)*
 
 **8. Why does Tina say that "more research is needed"?**
 *(Vì sao Tina nói "cần nghiên cứu thêm"?)*
 
-- A. because her results were wrong *(vì kết quả của cô bé sai)*
+- A. because her results were wrong and the judges had told her to start again *(vì kết quả của cô bé sai và giám khảo đã bảo cô bé làm lại từ đầu)*
 - B. because she studied only eight plants in one garden *(vì cô bé chỉ nghiên cứu tám cây trong một khu vườn)*
-- C. because the judges didn't like it *(vì giám khảo không thích)*
-- D. because she wants to do it again next year *(vì cô bé muốn làm lại năm sau)*
+- C. because the judges didn't like her method for choosing the eight plants *(vì giám khảo không thích cách cô bé chọn tám cây)*
+- D. because she wants to repeat the same test at a different school next year *(vì cô bé muốn lặp lại cùng thí nghiệm ở một trường khác vào năm sau)*
 
 **9. What does Tina mean by "I wish I had known that before I started"?**
 *(Tina muốn nói gì qua câu "Ước gì em biết điều đó trước khi bắt đầu"?)*
 
-- A. She regrets worrying so much, because nobody noticed her nervousness. *(Cô bé tiếc vì đã lo nhiều quá, khi chẳng ai nhận ra mình hồi hộp.)*
-- B. She wishes she had studied more plants. *(Cô bé ước đã nghiên cứu nhiều cây hơn.)*
-- C. She wishes the judges had been kinder. *(Cô bé ước giám khảo tử tế hơn.)*
-- D. She didn't want to take part. *(Cô bé không muốn tham gia.)*
+- A. She regrets worrying so much, because nobody noticed that she was nervous at all. *(Cô bé tiếc vì đã lo nhiều quá, khi chẳng ai nhận ra cô hồi hộp.)*
+- B. She wishes she had studied more plants before the judges came to see her work. *(Cô bé ước đã nghiên cứu nhiều cây hơn trước khi giám khảo đến xem bài của mình.)*
+- C. She wishes the judges had been kinder, because their comments made her nervous. *(Cô bé ước giám khảo tử tế hơn, vì những nhận xét của họ làm cô bé hồi hộp.)*
+- D. She didn't want to take part in the fair, because she thought it would be boring. *(Cô bé không muốn tham gia hội chợ, vì nghĩ rằng nó sẽ chán)*
 
 **10. What kind of attitude does Tina show in her conclusion?**
 *(Phần kết luận cho thấy Tina có thái độ thế nào?)*
 
-- A. She is sure that her results are true everywhere. *(Cô bé chắc chắn kết quả đúng ở mọi nơi.)*
-- B. She thinks that science is boring. *(Cô bé nghĩ khoa học nhàm chán.)*
-- C. She is careful not to claim more than her results show. *(Cô bé thận trọng, không khẳng định quá những gì kết quả cho thấy.)*
-- D. She doesn't trust her own results. *(Cô bé không tin kết quả của mình.)*
+- A. She is sure that her results are true in every garden in the whole world. *(Cô bé chắc chắn kết quả của mình đúng ở mọi khu vườn trên khắp thế giới)*
+- B. She thinks that science is boring and that nobody should repeat her work. *(Cô bé nghĩ khoa học nhàm chán và không ai nên lặp lại công trình của mình.)*
+- C. She is careful not to claim more than her small study of eight plants can show. *(Cô bé thận trọng, không khẳng định quá những gì nghiên cứu nhỏ với tám cây có thể cho thấy.)*
+- D. She doesn't trust her own results, so she asks the judges to check them. *(Cô bé không tin kết quả của mình, nên nhờ giám khảo kiểm tra.)*
 
 ---
 
@@ -204,81 +204,81 @@
 **11. What is the main idea of the article?**
 *(Ý chính của bài báo là gì?)*
 
-- A. People should never wear funny T-shirts. *(Không nên mặc áo phông ngộ nghĩnh.)*
-- B. People notice us much less than we think they do. *(Người khác để ý tới ta ít hơn nhiều so với ta nghĩ.)*
-- C. Giving speeches is always frightening. *(Phát biểu lúc nào cũng đáng sợ.)*
-- D. Coffee stains are hard to remove. *(Vết cà phê khó tẩy.)*
+- A. People should never wear funny T-shirts to a meeting or a school event. *(Không bao giờ nên mặc áo phông ngộ nghĩnh đến buổi họp hay sự kiện ở trường.)*
+- B. People notice us much less than we think they do, and most forget it soon. *(Người khác để ý tới ta ít hơn nhiều so với ta nghĩ, và phần lớn nhanh quên.)*
+- C. Giving a speech is always frightening, even for people who practise a lot. *(Phát biểu lúc nào cũng đáng sợ, kể cả với người luyện tập nhiều.)*
+- D. Coffee stains are hard to remove from clothes, so people should be careful. *(Vết cà phê khó tẩy khỏi quần áo, nên mọi người cần cẩn thận.)*
 
 **12. What is the spotlight effect?**
 *(Hiệu ứng ánh đèn sân khấu là gì?)*
 
-- A. a way of lighting a stage *(một cách chiếu sáng sân khấu)*
-- B. the fear of speaking in public *(nỗi sợ nói trước đám đông)*
-- C. the habit of looking at ourselves in mirrors *(thói quen soi gương)*
-- D. the feeling that others notice us far more than they really do *(cảm giác người khác để ý tới ta nhiều hơn thực tế rất nhiều)*
+- A. a way of lighting a stage so that every actor can be seen by the audience *(một cách chiếu sáng sân khấu để khán giả nhìn thấy mọi diễn viên)*
+- B. the fear of speaking in public in front of a large group of strangers *(nỗi sợ nói trước đám đông gồm nhiều người lạ)*
+- C. the habit of looking at ourselves in mirrors before we go into a room *(thói quen soi gương trước khi bước vào một căn phòng)*
+- D. the feeling that other people notice us far more than they really do *(cảm giác người khác để ý tới ta nhiều hơn thực tế rất nhiều)*
 
 **13. What did the students who wore the T-shirt guess?**
 *(Những sinh viên mặc áo đã đoán thế nào?)*
 
-- A. that about half of the people in the room had noticed it *(rằng khoảng một nửa số người trong phòng đã để ý)*
-- B. that nobody had noticed it *(rằng không ai để ý)*
-- C. that everyone had noticed it *(rằng ai cũng để ý)*
-- D. that about a quarter had noticed it *(rằng khoảng một phần tư đã để ý)*
+- A. that about half of the people in the room had noticed the picture on it *(rằng khoảng một nửa số người trong phòng đã để ý hình trên áo)*
+- B. that nobody in the room had noticed the picture on the T-shirt *(rằng không ai trong phòng để ý hình trên chiếc áo phông)*
+- C. that everyone in the room had noticed it and remembered it afterward *(rằng mọi người trong phòng đều để ý và nhớ nó về sau)*
+- D. that only about a quarter of the people in the room had noticed it *(rằng chỉ khoảng một phần tư số người trong phòng đã để ý)*
 
 **14. What did the experiment show?**
 *(Thí nghiệm cho thấy điều gì?)*
 
-- A. Everyone noticed the shirt. *(Ai cũng để ý chiếc áo.)*
-- B. The singer was popular. *(Ca sĩ đó được yêu thích.)*
+- A. Everyone in the room noticed the shirt, and most students remembered the singer. *(Ai trong phòng cũng để ý chiếc áo, và phần lớn sinh viên nhớ ca sĩ đó.)*
+- B. The singer on the T-shirt was very popular with the students at the time. *(Ca sĩ trên chiếc áo phông khi ấy rất được sinh viên yêu thích.)*
 - C. Only about a quarter noticed, much fewer than the students in the shirt guessed. *(Chỉ khoảng một phần tư để ý, ít hơn nhiều so với người mặc đoán.)*
-- D. The students liked the shirt. *(Sinh viên thích chiếc áo.)*
+- D. The students who wore the shirt guessed correctly how many people had noticed it. *(Những sinh viên mặc áo đã đoán đúng có bao nhiêu người để ý.)*
 
 **15. According to the article, why do we overestimate how much others notice us?**
 *(Theo bài, vì sao ta đánh giá quá cao việc người khác để ý tới mình?)*
 
-- A. because other people are always watching *(vì người khác lúc nào cũng nhìn)*
+- A. because other people are always watching us closely and waiting for us to make mistakes *(vì người khác lúc nào cũng quan sát ta kỹ và chờ ta mắc lỗi)*
 - B. because we are the center of our own world, so we assume that others see what we see *(vì ta là trung tâm thế giới của mình, nên mặc định người khác cũng thấy điều ta thấy)*
-- C. because we wear bright clothes *(vì ta mặc đồ sặc sỡ)*
-- D. because we are not intelligent *(vì ta không thông minh)*
+- C. because we wear bright clothes that make other people look at us *(vì ta mặc đồ sặc sỡ khiến người khác nhìn ta)*
+- D. because we are not intelligent enough to see what other people are really thinking *(vì ta không đủ thông minh để thấy người khác thật sự nghĩ gì)*
 
 **16. What does "They are far more likely to be thinking about their own coffee stains than about yours" suggest?**
 *(Câu "Nhiều khả năng họ đang nghĩ về vết cà phê trên áo mình hơn là trên áo bạn" hàm ý gì?)*
 
-- A. Everyone has coffee stains. *(Ai cũng có vết cà phê.)*
-- B. People don't drink coffee. *(Người ta không uống cà phê.)*
-- C. Others are watching you closely. *(Người khác đang nhìn bạn kỹ.)*
+- A. Everyone has coffee stains on their clothes, so nobody can see yours at all. *(Ai cũng có vết cà phê trên áo, nên chẳng ai thấy vết của bạn cả.)*
+- B. People don't drink coffee in meetings, so they will not notice any stains. *(Người ta không uống cà phê trong cuộc họp, nên sẽ không để ý vết bẩn nào.)*
+- C. Others are watching you closely and will remember your stain. *(Người khác đang nhìn bạn kỹ và sẽ nhớ vết bẩn của bạn.)*
 - D. Other people are mostly thinking about their own worries, not about you. *(Người khác phần lớn đang nghĩ về nỗi lo của chính họ, không phải về bạn.)*
 
 **17. What is the "illusion of transparency"?**
 *("Ảo tưởng trong suốt" là gì?)*
 
-- A. the belief that our feelings are easy for others to see *(niềm tin rằng người khác dễ nhìn thấu cảm xúc của ta)*
-- B. the ability to see through glass *(khả năng nhìn xuyên kính)*
-- C. the habit of telling the truth *(thói quen nói thật)*
-- D. the fear of being invisible *(nỗi sợ bị vô hình)*
+- A. the belief that our feelings are easy for other people to see *(niềm tin rằng người khác dễ nhìn thấy cảm xúc của ta)*
+- B. the ability to see through glass windows and doors from far away *(khả năng nhìn xuyên qua cửa kính và cửa ra vào từ rất xa)*
+- C. the habit of always telling other people the truth about how we feel *(thói quen luôn nói thật với người khác về cảm xúc của mình)*
+- D. the fear of being invisible when we walk into a room full of people *(nỗi sợ bị vô hình khi bước vào căn phòng đầy người)*
 
 **18. What helped speakers feel calmer in one study?**
 *(Trong một nghiên cứu, điều gì giúp người phát biểu thấy bình tĩnh hơn?)*
 
-- A. drinking coffee *(uống cà phê)*
-- B. wearing a T-shirt *(mặc áo phông)*
+- A. drinking a cup of coffee with friends just before they started speaking *(uống một tách cà phê với bạn bè ngay trước khi bắt đầu nói)*
+- B. wearing a funny T-shirt while they gave their speeches to the audience *(mặc áo phông ngộ nghĩnh khi phát biểu trước khán giả)*
 - C. being told about the illusion of transparency before they spoke *(được nói cho biết về ảo tưởng trong suốt trước khi lên nói)*
-- D. speaking to fewer people *(nói trước ít người hơn)*
+- D. speaking to a smaller audience than the one they had expected *(nói trước một nhóm khán giả nhỏ hơn nhóm họ đã dự kiến)*
 
 **19. What does the writer mean by "The spotlight that you feel is mostly a light that you are shining on yourself"?**
 *(Người viết muốn nói gì qua câu "Ánh đèn sân khấu bạn cảm thấy phần lớn là ánh đèn do chính bạn rọi vào mình"?)*
 
-- A. You should buy a lamp. *(Bạn nên mua đèn.)*
+- A. You should buy a strong lamp so that people can see you more clearly. *(Bạn nên mua một chiếc đèn mạnh để mọi người nhìn bạn rõ hơn.)*
 - B. The feeling of being watched mostly comes from your own mind. *(Cảm giác bị theo dõi phần lớn đến từ chính đầu óc bạn.)*
-- C. Other people shine lights on you. *(Người khác rọi đèn vào bạn.)*
-- D. You should stay in the dark. *(Bạn nên ở trong bóng tối.)*
+- C. Other people shine lights on you because they are interested in what you do. *(Người khác rọi đèn vào bạn vì họ quan tâm đến việc bạn làm.)*
+- D. You should stay in the dark so that nobody can notice your mistakes. *(Bạn nên ở trong bóng tối để không ai nhận ra lỗi của bạn.)*
 
 **20. Use both texts. How does Tina's experience at the science fair fit the article?**
 *(Dựa vào cả hai bài. Trải nghiệm của Tina ở hội chợ khoa học khớp với bài báo thế nào?)*
 
-- A. It shows that judges are unkind. *(Nó cho thấy giám khảo không tử tế.)*
-- B. It shows that science fairs are dangerous. *(Nó cho thấy hội chợ khoa học nguy hiểm.)*
-- C. It shows that Tina was very nervous and everyone saw it. *(Nó cho thấy Tina rất hồi hộp và ai cũng thấy.)*
+- A. It shows that the judges were unkind: they told Tina that she seemed nervous, which made her feel worse. *(Nó cho thấy giám khảo không tử tế: họ nói Tina trông hồi hộp, khiến cô bé thấy tệ hơn.)*
+- B. It shows that science fairs are dangerous because everyone watches the speaker closely. *(Nó cho thấy hội chợ khoa học nguy hiểm vì ai cũng quan sát người trình bày rất kỹ.)*
+- C. It shows that Tina was very nervous, and that the judges and everyone else in the room saw it clearly. *(Nó cho thấy Tina rất hồi hộp, và giám khảo cùng mọi người trong phòng đều thấy rõ.)*
 - D. It is an example of the illusion of transparency: she felt her nervousness was obvious, but others didn't notice it. *(Nó là ví dụ của ảo tưởng trong suốt: cô bé thấy sự hồi hộp của mình quá rõ, nhưng người khác không nhận ra.)*
 
 ---

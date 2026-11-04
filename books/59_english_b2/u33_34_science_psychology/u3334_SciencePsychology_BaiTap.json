@@ -606,24 +606,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "how to plant a garden",
-            "vi": "cách trồng một khu vườn"
+            "en": "how to plant a garden at Westview High so that more bees would visit it in spring",
+            "vi": "cách trồng một khu vườn ở Westview High để mùa xuân có nhiều ong ghé hơn"
           },
           "is_correct": false,
           "order": 0,
-          "text": "how to plant a garden",
-          "text_translation": "cách trồng một khu vườn"
+          "text": "how to plant a garden at Westview High so that more bees would visit it in spring",
+          "text_translation": "cách trồng một khu vườn ở Westview High để mùa xuân có nhiều ong ghé hơn"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "why bees are small",
-            "vi": "vì sao ong nhỏ"
+            "en": "whether non-native flowers attract more pollinators than native ones in the Westview High garden",
+            "vi": "liệu hoa không bản địa có thu hút nhiều loài thụ phấn hơn hoa bản địa trong vườn trường Westview High không"
           },
           "is_correct": false,
           "order": 1,
-          "text": "why bees are small",
-          "text_translation": "vì sao ong nhỏ"
+          "text": "whether non-native flowers attract more pollinators than native ones in the Westview High garden",
+          "text_translation": "liệu hoa không bản địa có thu hút nhiều loài thụ phấn hơn hoa bản địa trong vườn trường Westview High không"
         },
         {
           "id": "C",
@@ -639,13 +639,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "which flowers smell the best",
-            "vi": "hoa nào thơm nhất"
+            "en": "which pollinators prefer flowers that grow in other parts of the world in a school garden",
+            "vi": "loài thụ phấn nào thích hoa mọc ở những nơi khác trên thế giới trong một khu vườn trường"
           },
           "is_correct": false,
           "order": 3,
-          "text": "which flowers smell the best",
-          "text_translation": "hoa nào thơm nhất"
+          "text": "which pollinators prefer flowers that grow in other parts of the world in a school garden",
+          "text_translation": "loài thụ phấn nào thích hoa mọc ở những nơi khác trên thế giới trong một khu vườn trường"
         }
       ],
       "evidence_segments": [
@@ -674,24 +674,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "any animal that carries pollen from one flower to another",
-            "vi": "bất kỳ động vật nào mang phấn hoa từ bông này sang bông khác"
+            "en": "any insect that lives in a garden and feeds on the nectar of flowers all year",
+            "vi": "bất kỳ côn trùng nào sống trong vườn và ăn mật hoa quanh năm"
           },
           "is_correct": true,
           "order": 0,
-          "text": "any animal that carries pollen from one flower to another",
-          "text_translation": "bất kỳ động vật nào mang phấn hoa từ bông này sang bông khác"
+          "text": "any insect that lives in a garden and feeds on the nectar of flowers all year",
+          "text_translation": "bất kỳ côn trùng nào sống trong vườn và ăn mật hoa quanh năm"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "any insect that lives in a garden",
-            "vi": "bất kỳ côn trùng nào sống trong vườn"
+            "en": "any bee that makes honey from the flowers growing in a school garden",
+            "vi": "bất kỳ con ong nào làm mật từ những bông hoa mọc trong vườn trường"
           },
           "is_correct": false,
           "order": 1,
-          "text": "any insect that lives in a garden",
-          "text_translation": "bất kỳ côn trùng nào sống trong vườn"
+          "text": "any bee that makes honey from the flowers growing in a school garden",
+          "text_translation": "bất kỳ con ong nào làm mật từ những bông hoa mọc trong vườn trường"
         },
         {
           "id": "C",
@@ -742,46 +742,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The flowers will be grown from seeds next year.",
-            "vi": "Năm sau hoa mới được ươm từ hạt."
+            "en": "The seeds will be planted by the Green Club next year, after the science fair.",
+            "vi": "Năm sau, sau hội chợ khoa học, Câu lạc bộ Xanh sẽ gieo những hạt giống này"
           },
           "is_correct": false,
           "order": 0,
-          "text": "The flowers will be grown from seeds next year.",
-          "text_translation": "Năm sau hoa mới được ươm từ hạt."
+          "text": "The seeds will be planted by the Green Club next year, after the science fair.",
+          "text_translation": "Năm sau, sau hội chợ khoa học, Câu lạc bộ Xanh sẽ gieo những hạt giống này"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Tina grew the flowers herself.",
-            "vi": "Chính Tina ươm hoa."
+            "en": "Tina collected the seeds herself and watched the flowers grow for two years.",
+            "vi": "Chính Tina thu hạt giống và theo dõi hoa lớn suốt hai năm."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Tina grew the flowers herself.",
-          "text_translation": "Chính Tina ươm hoa."
+          "text": "Tina collected the seeds herself and watched the flowers grow for two years.",
+          "text_translation": "Chính Tina thu hạt giống và theo dõi hoa lớn suốt hai năm."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The flowers are being grown now.",
-            "vi": "Hoa đang được ươm."
+            "en": "The flowers are being grown from seeds that the students are collecting now.",
+            "vi": "Hoa đang được ươm từ những hạt giống mà học sinh đang thu thập lúc này."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The flowers are being grown now.",
-          "text_translation": "Hoa đang được ươm."
+          "text": "The flowers are being grown from seeds that the students are collecting now.",
+          "text_translation": "Hoa đang được ươm từ những hạt giống mà học sinh đang thu thập lúc này."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "People say that this happened in the past, but Tina did not see it herself.",
-            "vi": "Người ta kể chuyện này đã xảy ra, nhưng Tina không tận mắt thấy."
+            "en": "People say that this happened in the past, but Tina herself did not see it happen.",
+            "vi": "Người ta kể chuyện này đã xảy ra trong quá khứ, nhưng chính Tina không tận mắt thấy."
           },
           "is_correct": true,
           "order": 3,
-          "text": "People say that this happened in the past, but Tina did not see it herself.",
-          "text_translation": "Người ta kể chuyện này đã xảy ra, nhưng Tina không tận mắt thấy."
+          "text": "People say that this happened in the past, but Tina herself did not see it happen.",
+          "text_translation": "Người ta kể chuyện này đã xảy ra trong quá khứ, nhưng chính Tina không tận mắt thấy."
         }
       ],
       "evidence_segments": [
@@ -810,13 +810,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "by watching only native plants",
-            "vi": "chỉ quan sát cây bản địa"
+            "en": "by watching only the native plants, so that she could count their visits more easily",
+            "vi": "chỉ quan sát cây bản địa để đếm lượt ghé của chúng dễ hơn"
           },
           "is_correct": false,
           "order": 0,
-          "text": "by watching only native plants",
-          "text_translation": "chỉ quan sát cây bản địa"
+          "text": "by watching only the native plants, so that she could count their visits more easily",
+          "text_translation": "chỉ quan sát cây bản địa để đếm lượt ghé của chúng dễ hơn"
         },
         {
           "id": "B",
@@ -832,24 +832,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "by asking her friends to count",
-            "vi": "nhờ bạn đếm hộ"
+            "en": "by asking her friends to watch half of the plants while she watched the others",
+            "vi": "nhờ bạn bè theo dõi một nửa số cây trong lúc cô bé theo dõi số còn lại"
           },
           "is_correct": false,
           "order": 2,
-          "text": "by asking her friends to count",
-          "text_translation": "nhờ bạn đếm hộ"
+          "text": "by asking her friends to watch half of the plants while she watched the others",
+          "text_translation": "nhờ bạn bè theo dõi một nửa số cây trong lúc cô bé theo dõi số còn lại"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "by watching the plants at night",
-            "vi": "quan sát vào ban đêm"
+            "en": "by watching the plants at the same warm time of the day every morning",
+            "vi": "ngày nào cũng quan sát các cây vào đúng cùng một giờ ấm áp trong ngày"
           },
           "is_correct": false,
           "order": 3,
-          "text": "by watching the plants at night",
-          "text_translation": "quan sát vào ban đêm"
+          "text": "by watching the plants at the same warm time of the day every morning",
+          "text_translation": "ngày nào cũng quan sát các cây vào đúng cùng một giờ ấm áp trong ngày"
         }
       ],
       "evidence_segments": [
@@ -878,24 +878,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because they were the cheapest",
-            "vi": "vì chúng rẻ nhất"
+            "en": "because they were the cheapest plants that the Green Club could buy for the garden behind the gym",
+            "vi": "vì đó là những cây rẻ nhất mà Câu lạc bộ Xanh có thể mua cho khu vườn sau nhà thi đấu"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because they were the cheapest",
-          "text_translation": "vì chúng rẻ nhất"
+          "text": "because they were the cheapest plants that the Green Club could buy for the garden behind the gym",
+          "text_translation": "vì đó là những cây rẻ nhất mà Câu lạc bộ Xanh có thể mua cho khu vườn sau nhà thi đấu"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because she likes those colors",
-            "vi": "vì cô bé thích những màu đó"
+            "en": "because the judges at the fair had asked her to choose plants that looked the same",
+            "vi": "vì giám khảo ở hội chợ đã yêu cầu cô bé chọn những cây trông giống nhau"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because she likes those colors",
-          "text_translation": "vì cô bé thích những màu đó"
+          "text": "because the judges at the fair had asked her to choose plants that looked the same",
+          "text_translation": "vì giám khảo ở hội chợ đã yêu cầu cô bé chọn những cây trông giống nhau"
         },
         {
           "id": "C",
@@ -911,13 +911,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "because the judges asked her to",
-            "vi": "vì giám khảo yêu cầu"
+            "en": "because she wanted to tell the plants apart easily when she was counting the visits",
+            "vi": "vì cô bé muốn dễ phân biệt các cây khi đếm lượt ghé"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because the judges asked her to",
-          "text_translation": "vì giám khảo yêu cầu"
+          "text": "because she wanted to tell the plants apart easily when she was counting the visits",
+          "text_translation": "vì cô bé muốn dễ phân biệt các cây khi đếm lượt ghé"
         }
       ],
       "evidence_segments": [
@@ -946,46 +946,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "almost two and a half times as many",
-            "vi": "gần gấp hai lần rưỡi"
+            "en": "almost two and a half times as many as the non-native plants",
+            "vi": "gần gấp hai lần rưỡi so với cây không bản địa"
           },
           "is_correct": true,
           "order": 0,
-          "text": "almost two and a half times as many",
-          "text_translation": "gần gấp hai lần rưỡi"
+          "text": "almost two and a half times as many as the non-native plants",
+          "text_translation": "gần gấp hai lần rưỡi so với cây không bản địa"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "about the same number",
-            "vi": "gần bằng nhau"
+            "en": "about the same number as the non-native plants had received",
+            "vi": "gần bằng số lượt mà cây không bản địa nhận được"
           },
           "is_correct": false,
           "order": 1,
-          "text": "about the same number",
-          "text_translation": "gần bằng nhau"
+          "text": "about the same number as the non-native plants had received",
+          "text_translation": "gần bằng số lượt mà cây không bản địa nhận được"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "ten times as many",
-            "vi": "gấp mười lần"
+            "en": "ten times as many as the non-native plants had received",
+            "vi": "gấp mười lần số lượt mà cây không bản địa nhận được"
           },
           "is_correct": false,
           "order": 2,
-          "text": "ten times as many",
-          "text_translation": "gấp mười lần"
+          "text": "ten times as many as the non-native plants had received",
+          "text_translation": "gấp mười lần số lượt mà cây không bản địa nhận được"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "fewer visits",
-            "vi": "ít lượt hơn"
+            "en": "fewer visits than the non-native plants had received",
+            "vi": "ít lượt hơn so với cây không bản địa"
           },
           "is_correct": false,
           "order": 3,
-          "text": "fewer visits",
-          "text_translation": "ít lượt hơn"
+          "text": "fewer visits than the non-native plants had received",
+          "text_translation": "ít lượt hơn so với cây không bản địa"
         }
       ],
       "evidence_segments": [
@@ -1014,35 +1014,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because it rained",
-            "vi": "vì trời mưa"
+            "en": "because it rained heavily on both mornings and the plants were wet",
+            "vi": "vì cả hai buổi sáng trời mưa to và cây bị ướt"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because it rained",
-          "text_translation": "vì trời mưa"
+          "text": "because it rained heavily on both mornings and the plants were wet",
+          "text_translation": "vì cả hai buổi sáng trời mưa to và cây bị ướt"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because she was late",
-            "vi": "vì cô bé tới muộn"
+            "en": "because she arrived late and could only watch each plant for five minutes",
+            "vi": "vì cô bé đến muộn và chỉ quan sát được mỗi cây năm phút"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because she was late",
-          "text_translation": "vì cô bé tới muộn"
+          "text": "because she arrived late and could only watch each plant for five minutes",
+          "text_translation": "vì cô bé đến muộn và chỉ quan sát được mỗi cây năm phút"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because the plants died",
-            "vi": "vì cây chết"
+            "en": "because the plants had died after the Green Club forgot to water them",
+            "vi": "vì cây đã chết sau khi Câu lạc bộ Xanh quên tưới nước"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because the plants died",
-          "text_translation": "vì cây chết"
+          "text": "because the plants had died after the Green Club forgot to water them",
+          "text_translation": "vì cây đã chết sau khi Câu lạc bộ Xanh quên tưới nước"
         },
         {
           "id": "D",
@@ -1082,13 +1082,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because her results were wrong",
-            "vi": "vì kết quả của cô bé sai"
+            "en": "because her results were wrong and the judges had told her to start again",
+            "vi": "vì kết quả của cô bé sai và giám khảo đã bảo cô bé làm lại từ đầu"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because her results were wrong",
-          "text_translation": "vì kết quả của cô bé sai"
+          "text": "because her results were wrong and the judges had told her to start again",
+          "text_translation": "vì kết quả của cô bé sai và giám khảo đã bảo cô bé làm lại từ đầu"
         },
         {
           "id": "B",
@@ -1104,24 +1104,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "because the judges didn't like it",
-            "vi": "vì giám khảo không thích"
+            "en": "because the judges didn't like her method for choosing the eight plants",
+            "vi": "vì giám khảo không thích cách cô bé chọn tám cây"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because the judges didn't like it",
-          "text_translation": "vì giám khảo không thích"
+          "text": "because the judges didn't like her method for choosing the eight plants",
+          "text_translation": "vì giám khảo không thích cách cô bé chọn tám cây"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because she wants to do it again next year",
-            "vi": "vì cô bé muốn làm lại năm sau"
+            "en": "because she wants to repeat the same test at a different school next year",
+            "vi": "vì cô bé muốn lặp lại cùng thí nghiệm ở một trường khác vào năm sau"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because she wants to do it again next year",
-          "text_translation": "vì cô bé muốn làm lại năm sau"
+          "text": "because she wants to repeat the same test at a different school next year",
+          "text_translation": "vì cô bé muốn lặp lại cùng thí nghiệm ở một trường khác vào năm sau"
         }
       ],
       "evidence_segments": [
@@ -1150,46 +1150,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She regrets worrying so much, because nobody noticed her nervousness.",
-            "vi": "Cô bé tiếc vì đã lo nhiều quá, khi chẳng ai nhận ra mình hồi hộp."
+            "en": "She regrets worrying so much, because nobody noticed that she was nervous at all.",
+            "vi": "Cô bé tiếc vì đã lo nhiều quá, khi chẳng ai nhận ra cô hồi hộp."
           },
           "is_correct": true,
           "order": 0,
-          "text": "She regrets worrying so much, because nobody noticed her nervousness.",
-          "text_translation": "Cô bé tiếc vì đã lo nhiều quá, khi chẳng ai nhận ra mình hồi hộp."
+          "text": "She regrets worrying so much, because nobody noticed that she was nervous at all.",
+          "text_translation": "Cô bé tiếc vì đã lo nhiều quá, khi chẳng ai nhận ra cô hồi hộp."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She wishes she had studied more plants.",
-            "vi": "Cô bé ước đã nghiên cứu nhiều cây hơn."
+            "en": "She wishes she had studied more plants before the judges came to see her work.",
+            "vi": "Cô bé ước đã nghiên cứu nhiều cây hơn trước khi giám khảo đến xem bài của mình."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She wishes she had studied more plants.",
-          "text_translation": "Cô bé ước đã nghiên cứu nhiều cây hơn."
+          "text": "She wishes she had studied more plants before the judges came to see her work.",
+          "text_translation": "Cô bé ước đã nghiên cứu nhiều cây hơn trước khi giám khảo đến xem bài của mình."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "She wishes the judges had been kinder.",
-            "vi": "Cô bé ước giám khảo tử tế hơn."
+            "en": "She wishes the judges had been kinder, because their comments made her nervous.",
+            "vi": "Cô bé ước giám khảo tử tế hơn, vì những nhận xét của họ làm cô bé hồi hộp."
           },
           "is_correct": false,
           "order": 2,
-          "text": "She wishes the judges had been kinder.",
-          "text_translation": "Cô bé ước giám khảo tử tế hơn."
+          "text": "She wishes the judges had been kinder, because their comments made her nervous.",
+          "text_translation": "Cô bé ước giám khảo tử tế hơn, vì những nhận xét của họ làm cô bé hồi hộp."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "She didn't want to take part.",
-            "vi": "Cô bé không muốn tham gia."
+            "en": "She didn't want to take part in the fair, because she thought it would be boring.",
+            "vi": "Cô bé không muốn tham gia hội chợ, vì nghĩ rằng nó sẽ chán"
           },
           "is_correct": false,
           "order": 3,
-          "text": "She didn't want to take part.",
-          "text_translation": "Cô bé không muốn tham gia."
+          "text": "She didn't want to take part in the fair, because she thought it would be boring.",
+          "text_translation": "Cô bé không muốn tham gia hội chợ, vì nghĩ rằng nó sẽ chán"
         }
       ],
       "evidence_segments": [
@@ -1218,46 +1218,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She is sure that her results are true everywhere.",
-            "vi": "Cô bé chắc chắn kết quả đúng ở mọi nơi."
+            "en": "She is sure that her results are true in every garden in the whole world.",
+            "vi": "Cô bé chắc chắn kết quả của mình đúng ở mọi khu vườn trên khắp thế giới"
           },
           "is_correct": false,
           "order": 0,
-          "text": "She is sure that her results are true everywhere.",
-          "text_translation": "Cô bé chắc chắn kết quả đúng ở mọi nơi."
+          "text": "She is sure that her results are true in every garden in the whole world.",
+          "text_translation": "Cô bé chắc chắn kết quả của mình đúng ở mọi khu vườn trên khắp thế giới"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She thinks that science is boring.",
-            "vi": "Cô bé nghĩ khoa học nhàm chán."
+            "en": "She thinks that science is boring and that nobody should repeat her work.",
+            "vi": "Cô bé nghĩ khoa học nhàm chán và không ai nên lặp lại công trình của mình."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She thinks that science is boring.",
-          "text_translation": "Cô bé nghĩ khoa học nhàm chán."
+          "text": "She thinks that science is boring and that nobody should repeat her work.",
+          "text_translation": "Cô bé nghĩ khoa học nhàm chán và không ai nên lặp lại công trình của mình."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "She is careful not to claim more than her results show.",
-            "vi": "Cô bé thận trọng, không khẳng định quá những gì kết quả cho thấy."
+            "en": "She is careful not to claim more than her small study of eight plants can show.",
+            "vi": "Cô bé thận trọng, không khẳng định quá những gì nghiên cứu nhỏ với tám cây có thể cho thấy."
           },
           "is_correct": true,
           "order": 2,
-          "text": "She is careful not to claim more than her results show.",
-          "text_translation": "Cô bé thận trọng, không khẳng định quá những gì kết quả cho thấy."
+          "text": "She is careful not to claim more than her small study of eight plants can show.",
+          "text_translation": "Cô bé thận trọng, không khẳng định quá những gì nghiên cứu nhỏ với tám cây có thể cho thấy."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "She doesn't trust her own results.",
-            "vi": "Cô bé không tin kết quả của mình."
+            "en": "She doesn't trust her own results, so she asks the judges to check them.",
+            "vi": "Cô bé không tin kết quả của mình, nên nhờ giám khảo kiểm tra."
           },
           "is_correct": false,
           "order": 3,
-          "text": "She doesn't trust her own results.",
-          "text_translation": "Cô bé không tin kết quả của mình."
+          "text": "She doesn't trust her own results, so she asks the judges to check them.",
+          "text_translation": "Cô bé không tin kết quả của mình, nên nhờ giám khảo kiểm tra."
         }
       ],
       "evidence_segments": [
@@ -1286,46 +1286,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "People should never wear funny T-shirts.",
-            "vi": "Không nên mặc áo phông ngộ nghĩnh."
+            "en": "People should never wear funny T-shirts to a meeting or a school event.",
+            "vi": "Không bao giờ nên mặc áo phông ngộ nghĩnh đến buổi họp hay sự kiện ở trường."
           },
           "is_correct": false,
           "order": 0,
-          "text": "People should never wear funny T-shirts.",
-          "text_translation": "Không nên mặc áo phông ngộ nghĩnh."
+          "text": "People should never wear funny T-shirts to a meeting or a school event.",
+          "text_translation": "Không bao giờ nên mặc áo phông ngộ nghĩnh đến buổi họp hay sự kiện ở trường."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "People notice us much less than we think they do.",
-            "vi": "Người khác để ý tới ta ít hơn nhiều so với ta nghĩ."
+            "en": "People notice us much less than we think they do, and most forget it soon.",
+            "vi": "Người khác để ý tới ta ít hơn nhiều so với ta nghĩ, và phần lớn nhanh quên."
           },
           "is_correct": true,
           "order": 1,
-          "text": "People notice us much less than we think they do.",
-          "text_translation": "Người khác để ý tới ta ít hơn nhiều so với ta nghĩ."
+          "text": "People notice us much less than we think they do, and most forget it soon.",
+          "text_translation": "Người khác để ý tới ta ít hơn nhiều so với ta nghĩ, và phần lớn nhanh quên."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Giving speeches is always frightening.",
-            "vi": "Phát biểu lúc nào cũng đáng sợ."
+            "en": "Giving a speech is always frightening, even for people who practise a lot.",
+            "vi": "Phát biểu lúc nào cũng đáng sợ, kể cả với người luyện tập nhiều."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Giving speeches is always frightening.",
-          "text_translation": "Phát biểu lúc nào cũng đáng sợ."
+          "text": "Giving a speech is always frightening, even for people who practise a lot.",
+          "text_translation": "Phát biểu lúc nào cũng đáng sợ, kể cả với người luyện tập nhiều."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Coffee stains are hard to remove.",
-            "vi": "Vết cà phê khó tẩy."
+            "en": "Coffee stains are hard to remove from clothes, so people should be careful.",
+            "vi": "Vết cà phê khó tẩy khỏi quần áo, nên mọi người cần cẩn thận."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Coffee stains are hard to remove.",
-          "text_translation": "Vết cà phê khó tẩy."
+          "text": "Coffee stains are hard to remove from clothes, so people should be careful.",
+          "text_translation": "Vết cà phê khó tẩy khỏi quần áo, nên mọi người cần cẩn thận."
         }
       ],
       "evidence_segments": [
@@ -1354,45 +1354,45 @@
         {
           "id": "A",
           "i18n": {
-            "en": "a way of lighting a stage",
-            "vi": "một cách chiếu sáng sân khấu"
+            "en": "a way of lighting a stage so that every actor can be seen by the audience",
+            "vi": "một cách chiếu sáng sân khấu để khán giả nhìn thấy mọi diễn viên"
           },
           "is_correct": false,
           "order": 0,
-          "text": "a way of lighting a stage",
-          "text_translation": "một cách chiếu sáng sân khấu"
+          "text": "a way of lighting a stage so that every actor can be seen by the audience",
+          "text_translation": "một cách chiếu sáng sân khấu để khán giả nhìn thấy mọi diễn viên"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "the fear of speaking in public",
-            "vi": "nỗi sợ nói trước đám đông"
+            "en": "the fear of speaking in public in front of a large group of strangers",
+            "vi": "nỗi sợ nói trước đám đông gồm nhiều người lạ"
           },
           "is_correct": false,
           "order": 1,
-          "text": "the fear of speaking in public",
-          "text_translation": "nỗi sợ nói trước đám đông"
+          "text": "the fear of speaking in public in front of a large group of strangers",
+          "text_translation": "nỗi sợ nói trước đám đông gồm nhiều người lạ"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "the habit of looking at ourselves in mirrors",
-            "vi": "thói quen soi gương"
+            "en": "the habit of looking at ourselves in mirrors before we go into a room",
+            "vi": "thói quen soi gương trước khi bước vào một căn phòng"
           },
           "is_correct": false,
           "order": 2,
-          "text": "the habit of looking at ourselves in mirrors",
-          "text_translation": "thói quen soi gương"
+          "text": "the habit of looking at ourselves in mirrors before we go into a room",
+          "text_translation": "thói quen soi gương trước khi bước vào một căn phòng"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "the feeling that others notice us far more than they really do",
+            "en": "the feeling that other people notice us far more than they really do",
             "vi": "cảm giác người khác để ý tới ta nhiều hơn thực tế rất nhiều"
           },
           "is_correct": true,
           "order": 3,
-          "text": "the feeling that others notice us far more than they really do",
+          "text": "the feeling that other people notice us far more than they really do",
           "text_translation": "cảm giác người khác để ý tới ta nhiều hơn thực tế rất nhiều"
         }
       ],
@@ -1422,46 +1422,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "that about half of the people in the room had noticed it",
-            "vi": "rằng khoảng một nửa số người trong phòng đã để ý"
+            "en": "that about half of the people in the room had noticed the picture on it",
+            "vi": "rằng khoảng một nửa số người trong phòng đã để ý hình trên áo"
           },
           "is_correct": true,
           "order": 0,
-          "text": "that about half of the people in the room had noticed it",
-          "text_translation": "rằng khoảng một nửa số người trong phòng đã để ý"
+          "text": "that about half of the people in the room had noticed the picture on it",
+          "text_translation": "rằng khoảng một nửa số người trong phòng đã để ý hình trên áo"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "that nobody had noticed it",
-            "vi": "rằng không ai để ý"
+            "en": "that nobody in the room had noticed the picture on the T-shirt",
+            "vi": "rằng không ai trong phòng để ý hình trên chiếc áo phông"
           },
           "is_correct": false,
           "order": 1,
-          "text": "that nobody had noticed it",
-          "text_translation": "rằng không ai để ý"
+          "text": "that nobody in the room had noticed the picture on the T-shirt",
+          "text_translation": "rằng không ai trong phòng để ý hình trên chiếc áo phông"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "that everyone had noticed it",
-            "vi": "rằng ai cũng để ý"
+            "en": "that everyone in the room had noticed it and remembered it afterward",
+            "vi": "rằng mọi người trong phòng đều để ý và nhớ nó về sau"
           },
           "is_correct": false,
           "order": 2,
-          "text": "that everyone had noticed it",
-          "text_translation": "rằng ai cũng để ý"
+          "text": "that everyone in the room had noticed it and remembered it afterward",
+          "text_translation": "rằng mọi người trong phòng đều để ý và nhớ nó về sau"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "that about a quarter had noticed it",
-            "vi": "rằng khoảng một phần tư đã để ý"
+            "en": "that only about a quarter of the people in the room had noticed it",
+            "vi": "rằng chỉ khoảng một phần tư số người trong phòng đã để ý"
           },
           "is_correct": false,
           "order": 3,
-          "text": "that about a quarter had noticed it",
-          "text_translation": "rằng khoảng một phần tư đã để ý"
+          "text": "that only about a quarter of the people in the room had noticed it",
+          "text_translation": "rằng chỉ khoảng một phần tư số người trong phòng đã để ý"
         }
       ],
       "evidence_segments": [
@@ -1490,24 +1490,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Everyone noticed the shirt.",
-            "vi": "Ai cũng để ý chiếc áo."
+            "en": "Everyone in the room noticed the shirt, and most students remembered the singer.",
+            "vi": "Ai trong phòng cũng để ý chiếc áo, và phần lớn sinh viên nhớ ca sĩ đó."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Everyone noticed the shirt.",
-          "text_translation": "Ai cũng để ý chiếc áo."
+          "text": "Everyone in the room noticed the shirt, and most students remembered the singer.",
+          "text_translation": "Ai trong phòng cũng để ý chiếc áo, và phần lớn sinh viên nhớ ca sĩ đó."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The singer was popular.",
-            "vi": "Ca sĩ đó được yêu thích."
+            "en": "The singer on the T-shirt was very popular with the students at the time.",
+            "vi": "Ca sĩ trên chiếc áo phông khi ấy rất được sinh viên yêu thích."
           },
           "is_correct": false,
           "order": 1,
-          "text": "The singer was popular.",
-          "text_translation": "Ca sĩ đó được yêu thích."
+          "text": "The singer on the T-shirt was very popular with the students at the time.",
+          "text_translation": "Ca sĩ trên chiếc áo phông khi ấy rất được sinh viên yêu thích."
         },
         {
           "id": "C",
@@ -1523,13 +1523,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "The students liked the shirt.",
-            "vi": "Sinh viên thích chiếc áo."
+            "en": "The students who wore the shirt guessed correctly how many people had noticed it.",
+            "vi": "Những sinh viên mặc áo đã đoán đúng có bao nhiêu người để ý."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The students liked the shirt.",
-          "text_translation": "Sinh viên thích chiếc áo."
+          "text": "The students who wore the shirt guessed correctly how many people had noticed it.",
+          "text_translation": "Những sinh viên mặc áo đã đoán đúng có bao nhiêu người để ý."
         }
       ],
       "evidence_segments": [
@@ -1558,13 +1558,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because other people are always watching",
-            "vi": "vì người khác lúc nào cũng nhìn"
+            "en": "because other people are always watching us closely and waiting for us to make mistakes",
+            "vi": "vì người khác lúc nào cũng quan sát ta kỹ và chờ ta mắc lỗi"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because other people are always watching",
-          "text_translation": "vì người khác lúc nào cũng nhìn"
+          "text": "because other people are always watching us closely and waiting for us to make mistakes",
+          "text_translation": "vì người khác lúc nào cũng quan sát ta kỹ và chờ ta mắc lỗi"
         },
         {
           "id": "B",
@@ -1580,24 +1580,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "because we wear bright clothes",
-            "vi": "vì ta mặc đồ sặc sỡ"
+            "en": "because we wear bright clothes that make other people look at us",
+            "vi": "vì ta mặc đồ sặc sỡ khiến người khác nhìn ta"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because we wear bright clothes",
-          "text_translation": "vì ta mặc đồ sặc sỡ"
+          "text": "because we wear bright clothes that make other people look at us",
+          "text_translation": "vì ta mặc đồ sặc sỡ khiến người khác nhìn ta"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because we are not intelligent",
-            "vi": "vì ta không thông minh"
+            "en": "because we are not intelligent enough to see what other people are really thinking",
+            "vi": "vì ta không đủ thông minh để thấy người khác thật sự nghĩ gì"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because we are not intelligent",
-          "text_translation": "vì ta không thông minh"
+          "text": "because we are not intelligent enough to see what other people are really thinking",
+          "text_translation": "vì ta không đủ thông minh để thấy người khác thật sự nghĩ gì"
         }
       ],
       "evidence_segments": [
@@ -1627,35 +1627,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Everyone has coffee stains.",
-            "vi": "Ai cũng có vết cà phê."
+            "en": "Everyone has coffee stains on their clothes, so nobody can see yours at all.",
+            "vi": "Ai cũng có vết cà phê trên áo, nên chẳng ai thấy vết của bạn cả."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Everyone has coffee stains.",
-          "text_translation": "Ai cũng có vết cà phê."
+          "text": "Everyone has coffee stains on their clothes, so nobody can see yours at all.",
+          "text_translation": "Ai cũng có vết cà phê trên áo, nên chẳng ai thấy vết của bạn cả."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "People don't drink coffee.",
-            "vi": "Người ta không uống cà phê."
+            "en": "People don't drink coffee in meetings, so they will not notice any stains.",
+            "vi": "Người ta không uống cà phê trong cuộc họp, nên sẽ không để ý vết bẩn nào."
           },
           "is_correct": false,
           "order": 1,
-          "text": "People don't drink coffee.",
-          "text_translation": "Người ta không uống cà phê."
+          "text": "People don't drink coffee in meetings, so they will not notice any stains.",
+          "text_translation": "Người ta không uống cà phê trong cuộc họp, nên sẽ không để ý vết bẩn nào."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Others are watching you closely.",
-            "vi": "Người khác đang nhìn bạn kỹ."
+            "en": "Others are watching you closely and will remember your stain.",
+            "vi": "Người khác đang nhìn bạn kỹ và sẽ nhớ vết bẩn của bạn."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Others are watching you closely.",
-          "text_translation": "Người khác đang nhìn bạn kỹ."
+          "text": "Others are watching you closely and will remember your stain.",
+          "text_translation": "Người khác đang nhìn bạn kỹ và sẽ nhớ vết bẩn của bạn."
         },
         {
           "id": "D",
@@ -1695,46 +1695,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "the belief that our feelings are easy for others to see",
-            "vi": "niềm tin rằng người khác dễ nhìn thấu cảm xúc của ta"
+            "en": "the belief that our feelings are easy for other people to see",
+            "vi": "niềm tin rằng người khác dễ nhìn thấy cảm xúc của ta"
           },
           "is_correct": true,
           "order": 0,
-          "text": "the belief that our feelings are easy for others to see",
-          "text_translation": "niềm tin rằng người khác dễ nhìn thấu cảm xúc của ta"
+          "text": "the belief that our feelings are easy for other people to see",
+          "text_translation": "niềm tin rằng người khác dễ nhìn thấy cảm xúc của ta"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "the ability to see through glass",
-            "vi": "khả năng nhìn xuyên kính"
+            "en": "the ability to see through glass windows and doors from far away",
+            "vi": "khả năng nhìn xuyên qua cửa kính và cửa ra vào từ rất xa"
           },
           "is_correct": false,
           "order": 1,
-          "text": "the ability to see through glass",
-          "text_translation": "khả năng nhìn xuyên kính"
+          "text": "the ability to see through glass windows and doors from far away",
+          "text_translation": "khả năng nhìn xuyên qua cửa kính và cửa ra vào từ rất xa"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "the habit of telling the truth",
-            "vi": "thói quen nói thật"
+            "en": "the habit of always telling other people the truth about how we feel",
+            "vi": "thói quen luôn nói thật với người khác về cảm xúc của mình"
           },
           "is_correct": false,
           "order": 2,
-          "text": "the habit of telling the truth",
-          "text_translation": "thói quen nói thật"
+          "text": "the habit of always telling other people the truth about how we feel",
+          "text_translation": "thói quen luôn nói thật với người khác về cảm xúc của mình"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "the fear of being invisible",
-            "vi": "nỗi sợ bị vô hình"
+            "en": "the fear of being invisible when we walk into a room full of people",
+            "vi": "nỗi sợ bị vô hình khi bước vào căn phòng đầy người"
           },
           "is_correct": false,
           "order": 3,
-          "text": "the fear of being invisible",
-          "text_translation": "nỗi sợ bị vô hình"
+          "text": "the fear of being invisible when we walk into a room full of people",
+          "text_translation": "nỗi sợ bị vô hình khi bước vào căn phòng đầy người"
         }
       ],
       "evidence_segments": [
@@ -1763,24 +1763,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "drinking coffee",
-            "vi": "uống cà phê"
+            "en": "drinking a cup of coffee with friends just before they started speaking",
+            "vi": "uống một tách cà phê với bạn bè ngay trước khi bắt đầu nói"
           },
           "is_correct": false,
           "order": 0,
-          "text": "drinking coffee",
-          "text_translation": "uống cà phê"
+          "text": "drinking a cup of coffee with friends just before they started speaking",
+          "text_translation": "uống một tách cà phê với bạn bè ngay trước khi bắt đầu nói"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "wearing a T-shirt",
-            "vi": "mặc áo phông"
+            "en": "wearing a funny T-shirt while they gave their speeches to the audience",
+            "vi": "mặc áo phông ngộ nghĩnh khi phát biểu trước khán giả"
           },
           "is_correct": false,
           "order": 1,
-          "text": "wearing a T-shirt",
-          "text_translation": "mặc áo phông"
+          "text": "wearing a funny T-shirt while they gave their speeches to the audience",
+          "text_translation": "mặc áo phông ngộ nghĩnh khi phát biểu trước khán giả"
         },
         {
           "id": "C",
@@ -1796,13 +1796,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "speaking to fewer people",
-            "vi": "nói trước ít người hơn"
+            "en": "speaking to a smaller audience than the one they had expected",
+            "vi": "nói trước một nhóm khán giả nhỏ hơn nhóm họ đã dự kiến"
           },
           "is_correct": false,
           "order": 3,
-          "text": "speaking to fewer people",
-          "text_translation": "nói trước ít người hơn"
+          "text": "speaking to a smaller audience than the one they had expected",
+          "text_translation": "nói trước một nhóm khán giả nhỏ hơn nhóm họ đã dự kiến"
         }
       ],
       "evidence_segments": [
@@ -1831,13 +1831,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "You should buy a lamp.",
-            "vi": "Bạn nên mua đèn."
+            "en": "You should buy a strong lamp so that people can see you more clearly.",
+            "vi": "Bạn nên mua một chiếc đèn mạnh để mọi người nhìn bạn rõ hơn."
           },
           "is_correct": false,
           "order": 0,
-          "text": "You should buy a lamp.",
-          "text_translation": "Bạn nên mua đèn."
+          "text": "You should buy a strong lamp so that people can see you more clearly.",
+          "text_translation": "Bạn nên mua một chiếc đèn mạnh để mọi người nhìn bạn rõ hơn."
         },
         {
           "id": "B",
@@ -1853,24 +1853,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Other people shine lights on you.",
-            "vi": "Người khác rọi đèn vào bạn."
+            "en": "Other people shine lights on you because they are interested in what you do.",
+            "vi": "Người khác rọi đèn vào bạn vì họ quan tâm đến việc bạn làm."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Other people shine lights on you.",
-          "text_translation": "Người khác rọi đèn vào bạn."
+          "text": "Other people shine lights on you because they are interested in what you do.",
+          "text_translation": "Người khác rọi đèn vào bạn vì họ quan tâm đến việc bạn làm."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "You should stay in the dark.",
-            "vi": "Bạn nên ở trong bóng tối."
+            "en": "You should stay in the dark so that nobody can notice your mistakes.",
+            "vi": "Bạn nên ở trong bóng tối để không ai nhận ra lỗi của bạn."
           },
           "is_correct": false,
           "order": 3,
-          "text": "You should stay in the dark.",
-          "text_translation": "Bạn nên ở trong bóng tối."
+          "text": "You should stay in the dark so that nobody can notice your mistakes.",
+          "text_translation": "Bạn nên ở trong bóng tối để không ai nhận ra lỗi của bạn."
         }
       ],
       "evidence_segments": [
@@ -1899,35 +1899,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It shows that judges are unkind.",
-            "vi": "Nó cho thấy giám khảo không tử tế."
+            "en": "It shows that the judges were unkind: they told Tina that she seemed nervous, which made her feel worse.",
+            "vi": "Nó cho thấy giám khảo không tử tế: họ nói Tina trông hồi hộp, khiến cô bé thấy tệ hơn."
           },
           "is_correct": false,
           "order": 0,
-          "text": "It shows that judges are unkind.",
-          "text_translation": "Nó cho thấy giám khảo không tử tế."
+          "text": "It shows that the judges were unkind: they told Tina that she seemed nervous, which made her feel worse.",
+          "text_translation": "Nó cho thấy giám khảo không tử tế: họ nói Tina trông hồi hộp, khiến cô bé thấy tệ hơn."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "It shows that science fairs are dangerous.",
-            "vi": "Nó cho thấy hội chợ khoa học nguy hiểm."
+            "en": "It shows that science fairs are dangerous because everyone watches the speaker closely.",
+            "vi": "Nó cho thấy hội chợ khoa học nguy hiểm vì ai cũng quan sát người trình bày rất kỹ."
           },
           "is_correct": false,
           "order": 1,
-          "text": "It shows that science fairs are dangerous.",
-          "text_translation": "Nó cho thấy hội chợ khoa học nguy hiểm."
+          "text": "It shows that science fairs are dangerous because everyone watches the speaker closely.",
+          "text_translation": "Nó cho thấy hội chợ khoa học nguy hiểm vì ai cũng quan sát người trình bày rất kỹ."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "It shows that Tina was very nervous and everyone saw it.",
-            "vi": "Nó cho thấy Tina rất hồi hộp và ai cũng thấy."
+            "en": "It shows that Tina was very nervous, and that the judges and everyone else in the room saw it clearly.",
+            "vi": "Nó cho thấy Tina rất hồi hộp, và giám khảo cùng mọi người trong phòng đều thấy rõ."
           },
           "is_correct": false,
           "order": 2,
-          "text": "It shows that Tina was very nervous and everyone saw it.",
-          "text_translation": "Nó cho thấy Tina rất hồi hộp và ai cũng thấy."
+          "text": "It shows that Tina was very nervous, and that the judges and everyone else in the room saw it clearly.",
+          "text_translation": "Nó cho thấy Tina rất hồi hộp, và giám khảo cùng mọi người trong phòng đều thấy rõ."
         },
         {
           "id": "D",

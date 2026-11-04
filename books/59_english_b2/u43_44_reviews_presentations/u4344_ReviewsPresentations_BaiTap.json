@@ -568,46 +568,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "his professors",
-            "vi": "các giáo sư"
+            "en": "his professors, who want to know how first-year students feel about their classes",
+            "vi": "các giáo sư của cậu, những người muốn biết sinh viên năm nhất thấy các lớp thế nào"
           },
           "is_correct": false,
           "order": 0,
-          "text": "his professors",
-          "text_translation": "các giáo sư"
+          "text": "his professors, who want to know how first-year students feel about their classes",
+          "text_translation": "các giáo sư của cậu, những người muốn biết sinh viên năm nhất thấy các lớp thế nào"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "students at Westview High who are applying to college",
-            "vi": "học sinh Westview High đang nộp hồ sơ đại học"
+            "en": "students at Westview High who are applying to college this year",
+            "vi": "học sinh Westview High đang nộp hồ sơ đại học năm nay"
           },
           "is_correct": true,
           "order": 1,
-          "text": "students at Westview High who are applying to college",
-          "text_translation": "học sinh Westview High đang nộp hồ sơ đại học"
+          "text": "students at Westview High who are applying to college this year",
+          "text_translation": "học sinh Westview High đang nộp hồ sơ đại học năm nay"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "his roommate",
-            "vi": "bạn cùng phòng"
+            "en": "his roommate, who wants to know why Trevor is unhappy in the dorm",
+            "vi": "bạn cùng phòng, người muốn biết vì sao Trevor không vui ở ký túc xá"
           },
           "is_correct": false,
           "order": 2,
-          "text": "his roommate",
-          "text_translation": "bạn cùng phòng"
+          "text": "his roommate, who wants to know why Trevor is unhappy in the dorm",
+          "text_translation": "bạn cùng phòng, người muốn biết vì sao Trevor không vui ở ký túc xá"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "the university team",
-            "vi": "đội tuyển của trường"
+            "en": "the university team, which is looking for new players for next year",
+            "vi": "đội tuyển của trường, đang tìm cầu thủ mới cho năm sau"
           },
           "is_correct": false,
           "order": 3,
-          "text": "the university team",
-          "text_translation": "đội tuyển của trường"
+          "text": "the university team, which is looking for new players for next year",
+          "text_translation": "đội tuyển của trường, đang tìm cầu thủ mới cho năm sau"
         }
       ],
       "evidence_segments": [
@@ -636,46 +636,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "at a small college in San Diego",
-            "vi": "ở một trường cao đẳng nhỏ tại San Diego"
+            "en": "at a small college in San Diego, close to his family and his old school",
+            "vi": "ở một trường cao đẳng nhỏ tại San Diego, gần gia đình và trường cũ"
           },
           "is_correct": false,
           "order": 0,
-          "text": "at a small college in San Diego",
-          "text_translation": "ở một trường cao đẳng nhỏ tại San Diego"
+          "text": "at a small college in San Diego, close to his family and his old school",
+          "text_translation": "ở một trường cao đẳng nhỏ tại San Diego, gần gia đình và trường cũ"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "in Texas",
-            "vi": "ở Texas"
+            "en": "in Texas, where his roommate lives and where his sister studied before him",
+            "vi": "ở Texas, nơi bạn cùng phòng sống và chị cậu từng học trước đó"
           },
           "is_correct": false,
           "order": 1,
-          "text": "in Texas",
-          "text_translation": "ở Texas"
+          "text": "in Texas, where his roommate lives and where his sister studied before him",
+          "text_translation": "ở Texas, nơi bạn cùng phòng sống và chị cậu từng học trước đó"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "in Washington",
-            "vi": "ở Washington"
+            "en": "at a large private university in Washington, a short flight from San Diego",
+            "vi": "ở một trường đại học tư lớn tại Washington, cách San Diego một chuyến bay ngắn"
           },
           "is_correct": false,
           "order": 2,
-          "text": "in Washington",
-          "text_translation": "ở Washington"
+          "text": "at a large private university in Washington, a short flight from San Diego",
+          "text_translation": "ở một trường đại học tư lớn tại Washington, cách San Diego một chuyến bay ngắn"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "at a large public university in Northern California",
-            "vi": "ở một trường đại học công lập lớn ở Bắc California"
+            "en": "at a large public university in Northern California, far from San Diego",
+            "vi": "ở một trường đại học công lập lớn ở Bắc California, xa San Diego"
           },
           "is_correct": true,
           "order": 3,
-          "text": "at a large public university in Northern California",
-          "text_translation": "ở một trường đại học công lập lớn ở Bắc California"
+          "text": "at a large public university in Northern California, far from San Diego",
+          "text_translation": "ở một trường đại học công lập lớn ở Bắc California, xa San Diego"
         }
       ],
       "evidence_segments": [
@@ -715,35 +715,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "They are a waste of time.",
-            "vi": "Chúng phí thời gian."
+            "en": "They are a waste of time, because the professors are always busy and never answer questions.",
+            "vi": "Chúng phí thời gian, vì các giáo sư luôn bận và không bao giờ trả lời câu hỏi."
           },
           "is_correct": false,
           "order": 1,
-          "text": "They are a waste of time.",
-          "text_translation": "Chúng phí thời gian."
+          "text": "They are a waste of time, because the professors are always busy and never answer questions.",
+          "text_translation": "Chúng phí thời gian, vì các giáo sư luôn bận và không bao giờ trả lời câu hỏi."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "They are only for students who fail.",
-            "vi": "Chúng chỉ dành cho sinh viên trượt."
+            "en": "They are only for students who fail their quizzes and need extra help.",
+            "vi": "Chúng chỉ dành cho sinh viên trượt bài kiểm tra và cần giúp thêm."
           },
           "is_correct": false,
           "order": 2,
-          "text": "They are only for students who fail.",
-          "text_translation": "Chúng chỉ dành cho sinh viên trượt."
+          "text": "They are only for students who fail their quizzes and need extra help.",
+          "text_translation": "Chúng chỉ dành cho sinh viên trượt bài kiểm tra và cần giúp thêm."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "They are too early in the morning.",
-            "vi": "Chúng quá sớm."
+            "en": "They are too early in the morning, so most students cannot go to them.",
+            "vi": "Chúng quá sớm vào buổi sáng, nên hầu hết sinh viên không đến được."
           },
           "is_correct": false,
           "order": 3,
-          "text": "They are too early in the morning.",
-          "text_translation": "Chúng quá sớm."
+          "text": "They are too early in the morning, so most students cannot go to them.",
+          "text_translation": "Chúng quá sớm vào buổi sáng, nên hầu hết sinh viên không đến được."
         }
       ],
       "evidence_segments": [
@@ -772,24 +772,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "He moved out.",
-            "vi": "Cậu chuyển đi."
+            "en": "He moved out of the dorm and found a new roommate who never plays any music at night.",
+            "vi": "Cậu chuyển khỏi ký túc xá và tìm một bạn cùng phòng mới không bao giờ chơi nhạc ban đêm."
           },
           "is_correct": false,
           "order": 0,
-          "text": "He moved out.",
-          "text_translation": "Cậu chuyển đi."
+          "text": "He moved out of the dorm and found a new roommate who never plays any music at night.",
+          "text_translation": "Cậu chuyển khỏi ký túc xá và tìm một bạn cùng phòng mới không bao giờ chơi nhạc ban đêm."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "He complained to the university.",
-            "vi": "Cậu phàn nàn với nhà trường."
+            "en": "He complained to the university and asked for a different room next semester.",
+            "vi": "Cậu phàn nàn với nhà trường và xin phòng khác vào học kỳ sau."
           },
           "is_correct": false,
           "order": 1,
-          "text": "He complained to the university.",
-          "text_translation": "Cậu phàn nàn với nhà trường."
+          "text": "He complained to the university and asked for a different room next semester.",
+          "text_translation": "Cậu phàn nàn với nhà trường và xin phòng khác vào học kỳ sau."
         },
         {
           "id": "C",
@@ -805,13 +805,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "He started playing the guitar too.",
-            "vi": "Cậu cũng chơi ghi-ta."
+            "en": "He started playing the guitar too, and they played together every night.",
+            "vi": "Cậu cũng chơi ghi-ta, và hai người chơi cùng nhau mỗi tối."
           },
           "is_correct": false,
           "order": 3,
-          "text": "He started playing the guitar too.",
-          "text_translation": "Cậu cũng chơi ghi-ta."
+          "text": "He started playing the guitar too, and they played together every night.",
+          "text_translation": "Cậu cũng chơi ghi-ta, và hai người chơi cùng nhau mỗi tối."
         }
       ],
       "evidence_segments": [
@@ -840,46 +840,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The food is excellent.",
-            "vi": "Đồ ăn rất ngon."
+            "en": "The food is excellent, so two stars is far too low for it.",
+            "vi": "Đồ ăn rất ngon, nên hai sao là quá thấp."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The food is excellent.",
-          "text_translation": "Đồ ăn rất ngon."
+          "text": "The food is excellent, so two stars is far too low for it.",
+          "text_translation": "Đồ ăn rất ngon, nên hai sao là quá thấp."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The food is so bad that two stars is generous.",
-            "vi": "Đồ ăn tệ tới mức cho hai sao là đã rộng lượng."
+            "en": "The food is so bad that two stars is already a generous score.",
+            "vi": "Đồ ăn tệ tới mức hai sao đã là điểm rộng lượng."
           },
           "is_correct": true,
           "order": 1,
-          "text": "The food is so bad that two stars is generous.",
-          "text_translation": "Đồ ăn tệ tới mức cho hai sao là đã rộng lượng."
+          "text": "The food is so bad that two stars is already a generous score.",
+          "text_translation": "Đồ ăn tệ tới mức hai sao đã là điểm rộng lượng."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Trevor is kind to the cooks.",
-            "vi": "Trevor tử tế với đầu bếp."
+            "en": "Trevor is kind to the cooks, who work very hard to feed all the students.",
+            "vi": "Trevor tử tế với các đầu bếp, những người làm việc rất vất vả để nuôi cả sinh viên."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Trevor is kind to the cooks.",
-          "text_translation": "Trevor tử tế với đầu bếp."
+          "text": "Trevor is kind to the cooks, who work very hard to feed all the students.",
+          "text_translation": "Trevor tử tế với các đầu bếp, những người làm việc rất vất vả để nuôi cả sinh viên."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Trevor doesn't eat there.",
-            "vi": "Trevor không ăn ở đó."
+            "en": "Trevor doesn't eat there, so he gives the food a low score without trying it.",
+            "vi": "Trevor không ăn ở đó, nên cho điểm thấp mà chưa thử."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Trevor doesn't eat there.",
-          "text_translation": "Trevor không ăn ở đó."
+          "text": "Trevor doesn't eat there, so he gives the food a low score without trying it.",
+          "text_translation": "Trevor không ăn ở đó, nên cho điểm thấp mà chưa thử."
         }
       ],
       "evidence_segments": [
@@ -908,46 +908,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "He now appreciates his dad's cooking and misses home.",
-            "vi": "Giờ cậu biết quý tài nấu ăn của bố và nhớ nhà."
+            "en": "He now appreciates his dad's cooking and misses being at home with his family.",
+            "vi": "Giờ cậu biết quý tài nấu ăn của bố và nhớ được ở nhà với gia đình."
           },
           "is_correct": true,
           "order": 0,
-          "text": "He now appreciates his dad's cooking and misses home.",
-          "text_translation": "Giờ cậu biết quý tài nấu ăn của bố và nhớ nhà."
+          "text": "He now appreciates his dad's cooking and misses being at home with his family.",
+          "text_translation": "Giờ cậu biết quý tài nấu ăn của bố và nhớ được ở nhà với gia đình."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "He wants his dad to stop cooking.",
-            "vi": "Cậu muốn bố thôi nấu ăn."
+            "en": "He wants his dad to stop cooking and send money for food in the dining hall.",
+            "vi": "Cậu muốn bố thôi nấu ăn và gửi tiền để ăn ở nhà ăn trường."
           },
           "is_correct": false,
           "order": 1,
-          "text": "He wants his dad to stop cooking.",
-          "text_translation": "Cậu muốn bố thôi nấu ăn."
+          "text": "He wants his dad to stop cooking and send money for food in the dining hall.",
+          "text_translation": "Cậu muốn bố thôi nấu ăn và gửi tiền để ăn ở nhà ăn trường."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "He has always loved broccoli.",
-            "vi": "Cậu vốn luôn mê bông cải xanh."
+            "en": "He has always loved broccoli and eats it with every meal at the dorm.",
+            "vi": "Cậu vốn luôn mê bông cải xanh và ăn nó trong mọi bữa ở ký túc xá."
           },
           "is_correct": false,
           "order": 2,
-          "text": "He has always loved broccoli.",
-          "text_translation": "Cậu vốn luôn mê bông cải xanh."
+          "text": "He has always loved broccoli and eats it with every meal at the dorm.",
+          "text_translation": "Cậu vốn luôn mê bông cải xanh và ăn nó trong mọi bữa ở ký túc xá."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "He is angry with his dad.",
-            "vi": "Cậu giận bố."
+            "en": "He is angry with his dad, because his dad did not warn him about the food.",
+            "vi": "Cậu giận bố, vì bố đã không báo trước cho cậu về đồ ăn."
           },
           "is_correct": false,
           "order": 3,
-          "text": "He is angry with his dad.",
-          "text_translation": "Cậu giận bố."
+          "text": "He is angry with his dad, because his dad did not warn him about the food.",
+          "text_translation": "Cậu giận bố, vì bố đã không báo trước cho cậu về đồ ăn."
         }
       ],
       "evidence_segments": [
@@ -976,35 +976,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because he made the university team",
-            "vi": "vì cậu vào đội tuyển của trường"
+            "en": "because he made the university team and now plays in front of very large crowds every week",
+            "vi": "vì cậu vào đội tuyển của trường và giờ chơi trước đám đông rất lớn mỗi tuần"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because he made the university team",
-          "text_translation": "vì cậu vào đội tuyển của trường"
+          "text": "because he made the university team and now plays in front of very large crowds every week",
+          "text_translation": "vì cậu vào đội tuyển của trường và giờ chơi trước đám đông rất lớn mỗi tuần"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because the games are easy",
-            "vi": "vì các trận dễ"
+            "en": "because the games are easy, so his team wins every match by a lot of goals",
+            "vi": "vì các trận dễ, nên đội cậu thắng mọi trận cách xa nhiều bàn"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because the games are easy",
-          "text_translation": "vì các trận dễ"
+          "text": "because the games are easy, so his team wins every match by a lot of goals",
+          "text_translation": "vì các trận dễ, nên đội cậu thắng mọi trận cách xa nhiều bàn"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because the coach is famous",
-            "vi": "vì huấn luyện viên nổi tiếng"
+            "en": "because the coach is famous and has taught him many new things this month",
+            "vi": "vì huấn luyện viên nổi tiếng và đã dạy cậu nhiều điều mới tháng này"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because the coach is famous",
-          "text_translation": "vì huấn luyện viên nổi tiếng"
+          "text": "because the coach is famous and has taught him many new things this month",
+          "text_translation": "vì huấn luyện viên nổi tiếng và đã dạy cậu nhiều điều mới tháng này"
         },
         {
           "id": "D",
@@ -1112,46 +1112,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to sum up his honest overall opinion in a lively way",
-            "vi": "để tóm tắt nhận xét tổng thể thật lòng một cách sinh động"
+            "en": "to sum up his honest overall opinion of college life in a lively way",
+            "vi": "để tóm tắt nhận xét thật lòng về đời sống đại học một cách sinh động"
           },
           "is_correct": true,
           "order": 0,
-          "text": "to sum up his honest overall opinion in a lively way",
-          "text_translation": "để tóm tắt nhận xét tổng thể thật lòng một cách sinh động"
+          "text": "to sum up his honest overall opinion of college life in a lively way",
+          "text_translation": "để tóm tắt nhận xét thật lòng về đời sống đại học một cách sinh động"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to ask readers for help",
-            "vi": "để nhờ người đọc giúp"
+            "en": "to ask readers for help with choosing a college for the next year",
+            "vi": "để nhờ người đọc giúp chọn một trường đại học cho năm sau"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to ask readers for help",
-          "text_translation": "để nhờ người đọc giúp"
+          "text": "to ask readers for help with choosing a college for the next year",
+          "text_translation": "để nhờ người đọc giúp chọn một trường đại học cho năm sau"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to complain about the university",
-            "vi": "để phàn nàn về trường"
+            "en": "to complain about the university and the way that it treats first-year students",
+            "vi": "để phàn nàn về trường và cách trường đối xử với sinh viên năm nhất"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to complain about the university",
-          "text_translation": "để phàn nàn về trường"
+          "text": "to complain about the university and the way that it treats first-year students",
+          "text_translation": "để phàn nàn về trường và cách trường đối xử với sinh viên năm nhất"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to start a new topic",
-            "vi": "để mở chủ đề mới"
+            "en": "to start a new topic about the soccer club he joined in his first month",
+            "vi": "để mở chủ đề mới về câu lạc bộ bóng đá cậu tham gia trong tháng đầu"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to start a new topic",
-          "text_translation": "để mở chủ đề mới"
+          "text": "to start a new topic about the soccer club he joined in his first month",
+          "text_translation": "để mở chủ đề mới về câu lạc bộ bóng đá cậu tham gia trong tháng đầu"
         }
       ],
       "evidence_segments": [
@@ -1180,46 +1180,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "He regrets it.",
-            "vi": "Cậu hối hận."
+            "en": "He regrets it, because it is much too hard and he misses home every day.",
+            "vi": "Cậu hối hận, vì nó quá khó và cậu nhớ nhà mỗi ngày."
           },
           "is_correct": false,
           "order": 0,
-          "text": "He regrets it.",
-          "text_translation": "Cậu hối hận."
+          "text": "He regrets it, because it is much too hard and he misses home every day.",
+          "text_translation": "Cậu hối hận, vì nó quá khó và cậu nhớ nhà mỗi ngày."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "He wants to move to Texas.",
-            "vi": "Cậu muốn chuyển tới Texas."
+            "en": "He wants to move to Texas, where his roommate says that the classes are easier.",
+            "vi": "Cậu muốn chuyển tới Texas, nơi bạn cùng phòng nói các lớp dễ hơn."
           },
           "is_correct": false,
           "order": 1,
-          "text": "He wants to move to Texas.",
-          "text_translation": "Cậu muốn chuyển tới Texas."
+          "text": "He wants to move to Texas, where his roommate says that the classes are easier.",
+          "text_translation": "Cậu muốn chuyển tới Texas, nơi bạn cùng phòng nói các lớp dễ hơn."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "It is hard, but he is happy with it and would choose it again.",
-            "vi": "Khó, nhưng cậu hài lòng và sẽ chọn lại."
+            "en": "It is hard, but he is happy with it and would choose it again without doubt.",
+            "vi": "Khó, nhưng cậu hài lòng và chắc chắn sẽ chọn lại."
           },
           "is_correct": true,
           "order": 2,
-          "text": "It is hard, but he is happy with it and would choose it again.",
-          "text_translation": "Khó, nhưng cậu hài lòng và sẽ chọn lại."
+          "text": "It is hard, but he is happy with it and would choose it again without doubt.",
+          "text_translation": "Khó, nhưng cậu hài lòng và chắc chắn sẽ chọn lại."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "He hasn't decided yet.",
-            "vi": "Cậu chưa quyết."
+            "en": "He hasn't decided yet, and he will ask his family what to do next year.",
+            "vi": "Cậu chưa quyết, và sẽ hỏi gia đình nên làm gì vào năm sau."
           },
           "is_correct": false,
           "order": 3,
-          "text": "He hasn't decided yet.",
-          "text_translation": "Cậu chưa quyết."
+          "text": "He hasn't decided yet, and he will ask his family what to do next year.",
+          "text_translation": "Cậu chưa quyết, và sẽ hỏi gia đình nên làm gì vào năm sau."
         }
       ],
       "evidence_segments": [
@@ -1248,46 +1248,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "a final exam",
-            "vi": "kỳ thi cuối"
+            "en": "a final exam in engineering at the university where she studies",
+            "vi": "kỳ thi cuối về kỹ thuật ở trường đại học nơi cô học"
           },
           "is_correct": false,
           "order": 0,
-          "text": "a final exam",
-          "text_translation": "kỳ thi cuối"
+          "text": "a final exam in engineering at the university where she studies",
+          "text_translation": "kỳ thi cuối về kỹ thuật ở trường đại học nơi cô học"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "a presentation",
-            "vi": "một bài thuyết trình"
+            "en": "a presentation about her internship for the other students at the company",
+            "vi": "một bài thuyết trình về kỳ thực tập cho các bạn thực tập khác ở công ty"
           },
           "is_correct": false,
           "order": 1,
-          "text": "a presentation",
-          "text_translation": "một bài thuyết trình"
+          "text": "a presentation about her internship for the other students at the company",
+          "text_translation": "một bài thuyết trình về kỳ thực tập cho các bạn thực tập khác ở công ty"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "a final interview for a full-time job at Brandt & Lowe",
-            "vi": "buổi phỏng vấn cuối cho vị trí chính thức ở Brandt & Lowe"
+            "en": "a final interview for a full-time job at Brandt & Lowe, where she did her internship",
+            "vi": "buổi phỏng vấn cuối cho vị trí chính thức ở Brandt & Lowe, nơi cô đã thực tập"
           },
           "is_correct": true,
           "order": 2,
-          "text": "a final interview for a full-time job at Brandt & Lowe",
-          "text_translation": "buổi phỏng vấn cuối cho vị trí chính thức ở Brandt & Lowe"
+          "text": "a final interview for a full-time job at Brandt & Lowe, where she did her internship",
+          "text_translation": "buổi phỏng vấn cuối cho vị trí chính thức ở Brandt & Lowe, nơi cô đã thực tập"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "her graduation speech",
-            "vi": "bài phát biểu tốt nghiệp"
+            "en": "her graduation speech, which she will give to her family and her friends",
+            "vi": "bài phát biểu tốt nghiệp, cô sẽ đọc cho gia đình và bạn bè"
           },
           "is_correct": false,
           "order": 3,
-          "text": "her graduation speech",
-          "text_translation": "bài phát biểu tốt nghiệp"
+          "text": "her graduation speech, which she will give to her family and her friends",
+          "text_translation": "bài phát biểu tốt nghiệp, cô sẽ đọc cho gia đình và bạn bè"
         }
       ],
       "evidence_segments": [
@@ -1316,46 +1316,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It is too short and has no reasons or examples.",
-            "vi": "Quá ngắn, không có lý do hay ví dụ."
+            "en": "It is too short, and it has no reasons or examples to support what she says.",
+            "vi": "Quá ngắn, và không có lý do hay ví dụ nào để chứng minh điều cô nói."
           },
           "is_correct": true,
           "order": 0,
-          "text": "It is too short and has no reasons or examples.",
-          "text_translation": "Quá ngắn, không có lý do hay ví dụ."
+          "text": "It is too short, and it has no reasons or examples to support what she says.",
+          "text_translation": "Quá ngắn, và không có lý do hay ví dụ nào để chứng minh điều cô nói."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "It is not true.",
-            "vi": "Không đúng sự thật."
+            "en": "It is not true, and Leah knows that Tracy did not like her internship.",
+            "vi": "Nó không đúng sự thật, và Leah biết Tracy không thích kỳ thực tập."
           },
           "is_correct": false,
           "order": 1,
-          "text": "It is not true.",
-          "text_translation": "Không đúng sự thật."
+          "text": "It is not true, and Leah knows that Tracy did not like her internship.",
+          "text_translation": "Nó không đúng sự thật, và Leah biết Tracy không thích kỳ thực tập."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "It is rude.",
-            "vi": "Bất lịch sự."
+            "en": "It is rude, because Tracy did not thank the company for the internship.",
+            "vi": "Nó bất lịch sự, vì Tracy không cảm ơn công ty về kỳ thực tập."
           },
           "is_correct": false,
           "order": 2,
-          "text": "It is rude.",
-          "text_translation": "Bất lịch sự."
+          "text": "It is rude, because Tracy did not thank the company for the internship.",
+          "text_translation": "Nó bất lịch sự, vì Tracy không cảm ơn công ty về kỳ thực tập."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "It is too long.",
-            "vi": "Quá dài."
+            "en": "It is too long, and Tracy talks about too many things in one answer.",
+            "vi": "Nó quá dài, và Tracy nói quá nhiều chuyện trong một câu trả lời."
           },
           "is_correct": false,
           "order": 3,
-          "text": "It is too long.",
-          "text_translation": "Quá dài."
+          "text": "It is too long, and Tracy talks about too many things in one answer.",
+          "text_translation": "Nó quá dài, và Tracy nói quá nhiều chuyện trong một câu trả lời."
         }
       ],
       "evidence_segments": [
@@ -1384,46 +1384,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "her final exams",
-            "vi": "kỳ thi cuối"
+            "en": "her final exams, when she stopped sleeping because she wanted to be perfect",
+            "vi": "kỳ thi cuối của cô, khi cô mất ngủ vì muốn mọi thứ hoàn hảo"
           },
           "is_correct": false,
           "order": 0,
-          "text": "her final exams",
-          "text_translation": "kỳ thi cuối"
+          "text": "her final exams, when she stopped sleeping because she wanted to be perfect",
+          "text_translation": "kỳ thi cuối của cô, khi cô mất ngủ vì muốn mọi thứ hoàn hảo"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "her roommate",
-            "vi": "bạn cùng phòng"
+            "en": "her roommate, who helped her to check the numbers in a bridge report",
+            "vi": "bạn cùng phòng, người giúp cô kiểm tra các con số trong một báo cáo cầu"
           },
           "is_correct": false,
           "order": 1,
-          "text": "her roommate",
-          "text_translation": "bạn cùng phòng"
+          "text": "her roommate, who helped her to check the numbers in a bridge report",
+          "text_translation": "bạn cùng phòng, người giúp cô kiểm tra các con số trong một báo cáo cầu"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "a bridge she designed",
-            "vi": "một cây cầu cô thiết kế"
+            "en": "a bridge that she designed by herself during her internship at Brandt & Lowe",
+            "vi": "một cây cầu cô tự thiết kế trong kỳ thực tập ở Brandt & Lowe"
           },
           "is_correct": false,
           "order": 2,
-          "text": "a bridge she designed",
-          "text_translation": "một cây cầu cô thiết kế"
+          "text": "a bridge that she designed by herself during her internship at Brandt & Lowe",
+          "text_translation": "một cây cầu cô tự thiết kế trong kỳ thực tập ở Brandt & Lowe"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "finding two mistakes in an old bridge report during her internship",
-            "vi": "việc phát hiện hai lỗi trong một bản báo cáo cầu cũ khi thực tập"
+            "en": "finding two mistakes in an old bridge report during her internship at the company",
+            "vi": "việc phát hiện hai lỗi trong một bản báo cáo cầu cũ khi thực tập ở công ty"
           },
           "is_correct": true,
           "order": 3,
-          "text": "finding two mistakes in an old bridge report during her internship",
-          "text_translation": "việc phát hiện hai lỗi trong một bản báo cáo cầu cũ khi thực tập"
+          "text": "finding two mistakes in an old bridge report during her internship at the company",
+          "text_translation": "việc phát hiện hai lỗi trong một bản báo cáo cầu cũ khi thực tập ở công ty"
         }
       ],
       "evidence_segments": [
@@ -1452,46 +1452,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to change the subject",
-            "vi": "để đổi chủ đề"
+            "en": "to change the subject when she does not want to answer the question",
+            "vi": "để đổi chủ đề khi cô không muốn trả lời câu hỏi"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to change the subject",
-          "text_translation": "để đổi chủ đề"
+          "text": "to change the subject when she does not want to answer the question",
+          "text_translation": "để đổi chủ đề khi cô không muốn trả lời câu hỏi"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to introduce and extend her answers naturally",
-            "vi": "để mở đầu và nói tiếp câu trả lời một cách tự nhiên"
+            "en": "to introduce and extend her answers in a natural way, as in a real talk",
+            "vi": "để mở đầu và nói tiếp câu trả lời một cách tự nhiên như trong một cuộc trò chuyện thật"
           },
           "is_correct": true,
           "order": 1,
-          "text": "to introduce and extend her answers naturally",
-          "text_translation": "để mở đầu và nói tiếp câu trả lời một cách tự nhiên"
+          "text": "to introduce and extend her answers in a natural way, as in a real talk",
+          "text_translation": "để mở đầu và nói tiếp câu trả lời một cách tự nhiên như trong một cuộc trò chuyện thật"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to avoid answering",
-            "vi": "để né câu hỏi"
+            "en": "to avoid answering the question by giving the interviewer more time to think",
+            "vi": "để né câu hỏi bằng cách cho người phỏng vấn thêm thời gian suy nghĩ"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to avoid answering",
-          "text_translation": "để né câu hỏi"
+          "text": "to avoid answering the question by giving the interviewer more time to think",
+          "text_translation": "để né câu hỏi bằng cách cho người phỏng vấn thêm thời gian suy nghĩ"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to show that she is angry",
-            "vi": "để cho thấy cô đang bực"
+            "en": "to show that she is angry about the question and does not want to answer",
+            "vi": "để cho thấy cô bực vì câu hỏi và không muốn trả lời"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to show that she is angry",
-          "text_translation": "để cho thấy cô đang bực"
+          "text": "to show that she is angry about the question and does not want to answer",
+          "text_translation": "để cho thấy cô bực vì câu hỏi và không muốn trả lời"
         }
       ],
       "evidence_segments": [
@@ -1521,24 +1521,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because they are all famous engineers",
-            "vi": "vì họ đều là kỹ sư nổi tiếng"
+            "en": "because they are all famous engineers who have built bridges in many cities",
+            "vi": "vì họ đều là kỹ sư nổi tiếng đã xây cầu ở nhiều thành phố"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because they are all famous engineers",
-          "text_translation": "vì họ đều là kỹ sư nổi tiếng"
+          "text": "because they are all famous engineers who have built bridges in many cities",
+          "text_translation": "vì họ đều là kỹ sư nổi tiếng đã xây cầu ở nhiều thành phố"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because they never work late",
-            "vi": "vì họ không bao giờ làm muộn"
+            "en": "because they never work late, so she has time for her family every evening",
+            "vi": "vì họ không bao giờ làm muộn, nên cô có thời gian cho gia đình mỗi tối"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because they never work late",
-          "text_translation": "vì họ không bao giờ làm muộn"
+          "text": "because they never work late, so she has time for her family every evening",
+          "text_translation": "vì họ không bao giờ làm muộn, nên cô có thời gian cho gia đình mỗi tối"
         },
         {
           "id": "C",
@@ -1554,13 +1554,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "because they gave her a high salary",
-            "vi": "vì họ trả lương cao"
+            "en": "because they gave her a high salary and a bigger task during her first week",
+            "vi": "vì họ trả cô lương cao và giao cô việc lớn hơn trong tuần đầu"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because they gave her a high salary",
-          "text_translation": "vì họ trả lương cao"
+          "text": "because they gave her a high salary and a bigger task during her first week",
+          "text_translation": "vì họ trả cô lương cao và giao cô việc lớn hơn trong tuần đầu"
         }
       ],
       "evidence_segments": [
@@ -1589,46 +1589,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because being a perfectionist is not a real weakness",
-            "vi": "vì cầu toàn không phải điểm yếu thật"
+            "en": "because being a perfectionist is not a real weakness, so it will impress the interviewer",
+            "vi": "vì cầu toàn không phải điểm yếu thật, nên sẽ gây ấn tượng với người phỏng vấn"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because being a perfectionist is not a real weakness",
-          "text_translation": "vì cầu toàn không phải điểm yếu thật"
+          "text": "because being a perfectionist is not a real weakness, so it will impress the interviewer",
+          "text_translation": "vì cầu toàn không phải điểm yếu thật, nên sẽ gây ấn tượng với người phỏng vấn"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because it was short",
-            "vi": "vì nó ngắn"
+            "en": "because it was short, and interviewers prefer very short answers to long ones",
+            "vi": "vì nó ngắn, và người phỏng vấn thích câu trả lời rất ngắn hơn câu dài"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because it was short",
-          "text_translation": "vì nó ngắn"
+          "text": "because it was short, and interviewers prefer very short answers to long ones",
+          "text_translation": "vì nó ngắn, và người phỏng vấn thích câu trả lời rất ngắn hơn câu dài"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because Tracy made it funny",
-            "vi": "vì Tracy nói vui"
+            "en": "because Tracy made it funny, and the interviewer laughed during the whole answer",
+            "vi": "vì Tracy nói vui, và người phỏng vấn cười suốt câu trả lời"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because Tracy made it funny",
-          "text_translation": "vì Tracy nói vui"
+          "text": "because Tracy made it funny, and the interviewer laughed during the whole answer",
+          "text_translation": "vì Tracy nói vui, và người phỏng vấn cười suốt câu trả lời"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because it is true, and Tracy showed what she did about it",
-            "vi": "vì nó thật, và Tracy cho thấy cô đã làm gì với nó"
+            "en": "because it is true, and Tracy showed clearly what she did about her weakness",
+            "vi": "vì nó thật, và Tracy cho thấy rõ cô đã làm gì với điểm yếu của mình"
           },
           "is_correct": true,
           "order": 3,
-          "text": "because it is true, and Tracy showed what she did about it",
-          "text_translation": "vì nó thật, và Tracy cho thấy cô đã làm gì với nó"
+          "text": "because it is true, and Tracy showed clearly what she did about her weakness",
+          "text_translation": "vì nó thật, và Tracy cho thấy rõ cô đã làm gì với điểm yếu của mình"
         }
       ],
       "evidence_segments": [
@@ -1668,35 +1668,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "She forgot to call Tracy.",
-            "vi": "Cô quên gọi cho Tracy."
+            "en": "She forgot to call Tracy before her exams and wants to say sorry for it.",
+            "vi": "Cô quên gọi cho Tracy trước kỳ thi và muốn xin lỗi vì điều đó."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She forgot to call Tracy.",
-          "text_translation": "Cô quên gọi cho Tracy."
+          "text": "She forgot to call Tracy before her exams and wants to say sorry for it.",
+          "text_translation": "Cô quên gọi cho Tracy trước kỳ thi và muốn xin lỗi vì điều đó."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "She wants Tracy to call the company.",
-            "vi": "Cô muốn Tracy gọi cho công ty."
+            "en": "She wants Tracy to call the company on Monday and ask for more time.",
+            "vi": "Cô muốn Tracy gọi cho công ty vào thứ Hai và xin thêm thời gian."
           },
           "is_correct": false,
           "order": 2,
-          "text": "She wants Tracy to call the company.",
-          "text_translation": "Cô muốn Tracy gọi cho công ty."
+          "text": "She wants Tracy to call the company on Monday and ask for more time.",
+          "text_translation": "Cô muốn Tracy gọi cho công ty vào thứ Hai và xin thêm thời gian."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "She remembers a call from Brandt & Lowe.",
-            "vi": "Cô nhớ một cuộc gọi từ Brandt & Lowe."
+            "en": "She remembers a call from Brandt & Lowe that offered Tracy the internship.",
+            "vi": "Cô nhớ một cuộc gọi từ Brandt & Lowe đã mời Tracy làm thực tập."
           },
           "is_correct": false,
           "order": 3,
-          "text": "She remembers a call from Brandt & Lowe.",
-          "text_translation": "Cô nhớ một cuộc gọi từ Brandt & Lowe."
+          "text": "She remembers a call from Brandt & Lowe that offered Tracy the internship.",
+          "text_translation": "Cô nhớ một cuộc gọi từ Brandt & Lowe đã mời Tracy làm thực tập."
         }
       ],
       "evidence_segments": [
@@ -1725,46 +1725,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "a famous title",
-            "vi": "một chức danh nổi tiếng"
+            "en": "a famous title, such as chief engineer, at a very large company",
+            "vi": "một chức danh nổi tiếng, như kỹ sư trưởng, ở một công ty rất lớn"
           },
           "is_correct": false,
           "order": 0,
-          "text": "a famous title",
-          "text_translation": "một chức danh nổi tiếng"
+          "text": "a famous title, such as chief engineer, at a very large company",
+          "text_translation": "một chức danh nổi tiếng, như kỹ sư trưởng, ở một công ty rất lớn"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to lead small projects and, above all, to keep learning",
-            "vi": "phụ trách các dự án nhỏ và trên hết là tiếp tục học hỏi"
+            "en": "to lead small projects and, above all, to keep learning new things",
+            "vi": "phụ trách các dự án nhỏ và trên hết là tiếp tục học hỏi điều mới"
           },
           "is_correct": true,
           "order": 1,
-          "text": "to lead small projects and, above all, to keep learning",
-          "text_translation": "phụ trách các dự án nhỏ và trên hết là tiếp tục học hỏi"
+          "text": "to lead small projects and, above all, to keep learning new things",
+          "text_translation": "phụ trách các dự án nhỏ và trên hết là tiếp tục học hỏi điều mới"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to leave engineering",
-            "vi": "bỏ nghề kỹ thuật"
+            "en": "to leave engineering and open a small café with her family",
+            "vi": "bỏ nghề kỹ thuật và mở một quán cà phê nhỏ cùng gia đình"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to leave engineering",
-          "text_translation": "bỏ nghề kỹ thuật"
+          "text": "to leave engineering and open a small café with her family",
+          "text_translation": "bỏ nghề kỹ thuật và mở một quán cà phê nhỏ cùng gia đình"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to work at a hospital",
-            "vi": "làm ở bệnh viện"
+            "en": "to work at a hospital, where she can help people who are ill",
+            "vi": "làm ở bệnh viện, nơi cô có thể giúp những người đang ốm"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to work at a hospital",
-          "text_translation": "làm ở bệnh viện"
+          "text": "to work at a hospital, where she can help people who are ill",
+          "text_translation": "làm ở bệnh viện, nơi cô có thể giúp những người đang ốm"
         }
       ],
       "evidence_segments": [
@@ -1793,46 +1793,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Talk for as long as possible.",
-            "vi": "Nói càng lâu càng tốt."
+            "en": "Talk for as long as possible, so that the interviewer hears every detail.",
+            "vi": "Nói càng lâu càng tốt, để người phỏng vấn nghe được mọi chi tiết."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Talk for as long as possible.",
-          "text_translation": "Nói càng lâu càng tốt."
+          "text": "Talk for as long as possible, so that the interviewer hears every detail.",
+          "text_translation": "Nói càng lâu càng tốt, để người phỏng vấn nghe được mọi chi tiết."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Don't answer difficult questions.",
-            "vi": "Đừng trả lời câu khó."
+            "en": "Don't answer difficult questions, and change the subject if you need to.",
+            "vi": "Đừng trả lời câu khó, và đổi chủ đề nếu cần."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Don't answer difficult questions.",
-          "text_translation": "Đừng trả lời câu khó."
+          "text": "Don't answer difficult questions, and change the subject if you need to.",
+          "text_translation": "Đừng trả lời câu khó, và đổi chủ đề nếu cần."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Memorize every answer.",
-            "vi": "Học thuộc mọi câu trả lời."
+            "en": "Memorize every answer, so that you never have to think during the interview.",
+            "vi": "Học thuộc mọi câu trả lời, để không phải nghĩ trong buổi phỏng vấn."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Memorize every answer.",
-          "text_translation": "Học thuộc mọi câu trả lời."
+          "text": "Memorize every answer, so that you never have to think during the interview.",
+          "text_translation": "Học thuộc mọi câu trả lời, để không phải nghĩ trong buổi phỏng vấn."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Answer, add a reason, give an example, then stop.",
-            "vi": "Trả lời, thêm lý do, đưa ví dụ, rồi dừng."
+            "en": "Answer the question, add a reason, give an example, and then simply stop talking.",
+            "vi": "Trả lời câu hỏi, thêm lý do, đưa ví dụ, rồi cứ thế dừng nói."
           },
           "is_correct": true,
           "order": 3,
-          "text": "Answer, add a reason, give an example, then stop.",
-          "text_translation": "Trả lời, thêm lý do, đưa ví dụ, rồi dừng."
+          "text": "Answer the question, add a reason, give an example, and then simply stop talking.",
+          "text_translation": "Trả lời câu hỏi, thêm lý do, đưa ví dụ, rồi cứ thế dừng nói."
         }
       ],
       "evidence_segments": [
@@ -1861,46 +1861,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Both of them are about bridges.",
-            "vi": "Cả hai đều về cầu."
+            "en": "Both of them are about bridges that the writers helped to design at college.",
+            "vi": "Cả hai đều về những cây cầu mà người viết đã giúp thiết kế ở trường."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Both of them are about bridges.",
-          "text_translation": "Cả hai đều về cầu."
+          "text": "Both of them are about bridges that the writers helped to design at college.",
+          "text_translation": "Cả hai đều về những cây cầu mà người viết đã giúp thiết kế ở trường."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Both of them give honest opinions supported by real examples, including weaknesses.",
-            "vi": "Cả hai đưa ra nhận xét thật lòng, có ví dụ thật, kể cả điểm yếu."
+            "en": "Both give honest opinions supported by real examples, including their weaknesses.",
+            "vi": "Cả hai đưa ra nhận xét thật lòng, có ví dụ thật, kể cả những điểm yếu của mình."
           },
           "is_correct": true,
           "order": 1,
-          "text": "Both of them give honest opinions supported by real examples, including weaknesses.",
-          "text_translation": "Cả hai đưa ra nhận xét thật lòng, có ví dụ thật, kể cả điểm yếu."
+          "text": "Both give honest opinions supported by real examples, including their weaknesses.",
+          "text_translation": "Cả hai đưa ra nhận xét thật lòng, có ví dụ thật, kể cả những điểm yếu của mình."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Both of them were written for professors.",
-            "vi": "Cả hai đều viết cho giáo sư."
+            "en": "Both of them were written for professors who read them before the first class.",
+            "vi": "Cả hai đều viết cho giáo sư đọc trước buổi học đầu tiên."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Both of them were written for professors.",
-          "text_translation": "Cả hai đều viết cho giáo sư."
+          "text": "Both of them were written for professors who read them before the first class.",
+          "text_translation": "Cả hai đều viết cho giáo sư đọc trước buổi học đầu tiên."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Both of them avoid mentioning problems.",
-            "vi": "Cả hai đều né nhắc tới khó khăn."
+            "en": "Both of them avoid mentioning problems, so that readers only hear good news.",
+            "vi": "Cả hai đều né nhắc tới khó khăn, để người đọc chỉ nghe tin tốt."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Both of them avoid mentioning problems.",
-          "text_translation": "Cả hai đều né nhắc tới khó khăn."
+          "text": "Both of them avoid mentioning problems, so that readers only hear good news.",
+          "text_translation": "Cả hai đều né nhắc tới khó khăn, để người đọc chỉ nghe tin tốt."
         }
       ],
       "evidence_segments": [

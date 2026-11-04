@@ -606,35 +606,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "to announce that he is leaving the company",
-            "vi": "để báo anh nghỉ việc"
+            "en": "to announce that he is leaving the company to work for a team in Lisbon",
+            "vi": "để báo anh sẽ rời công ty để làm cho một nhóm ở Lisbon"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to announce that he is leaving the company",
-          "text_translation": "để báo anh nghỉ việc"
+          "text": "to announce that he is leaving the company to work for a team in Lisbon",
+          "text_translation": "để báo anh sẽ rời công ty để làm cho một nhóm ở Lisbon"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to complain about his team",
-            "vi": "để phàn nàn về nhóm"
+            "en": "to complain about his team because the engineers spend too many hours in calls",
+            "vi": "để phàn nàn về nhóm vì các kỹ sư dành quá nhiều giờ cho các cuộc gọi"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to complain about his team",
-          "text_translation": "để phàn nàn về nhóm"
+          "text": "to complain about his team because the engineers spend too many hours in calls",
+          "text_translation": "để phàn nàn về nhóm vì các kỹ sư dành quá nhiều giờ cho các cuộc gọi"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to invite the team to San Diego",
-            "vi": "để mời nhóm tới San Diego"
+            "en": "to invite the whole team to a meeting in San Diego at the end of the month",
+            "vi": "để mời cả nhóm dự một cuộc họp ở San Diego vào cuối tháng"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to invite the team to San Diego",
-          "text_translation": "để mời nhóm tới San Diego"
+          "text": "to invite the whole team to a meeting in San Diego at the end of the month",
+          "text_translation": "để mời cả nhóm dự một cuộc họp ở San Diego vào cuối tháng"
         }
       ],
       "evidence_segments": [
@@ -663,24 +663,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because he has never written code",
-            "vi": "vì anh chưa từng viết mã"
+            "en": "because he has never written code before and now has to learn it from his own team",
+            "vi": "vì anh chưa từng viết mã và giờ phải học nó từ chính nhóm của mình"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because he has never written code",
-          "text_translation": "vì anh chưa từng viết mã"
+          "text": "because he has never written code before and now has to learn it from his own team",
+          "text_translation": "vì anh chưa từng viết mã và giờ phải học nó từ chính nhóm của mình"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because he lives in Lisbon",
-            "vi": "vì anh sống ở Lisbon"
+            "en": "because he lives in Lisbon and has never met the other members of the team",
+            "vi": "vì anh sống ở Lisbon và chưa từng gặp các thành viên khác của nhóm"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because he lives in Lisbon",
-          "text_translation": "vì anh sống ở Lisbon"
+          "text": "because he lives in Lisbon and has never met the other members of the team",
+          "text_translation": "vì anh sống ở Lisbon và chưa từng gặp các thành viên khác của nhóm"
         },
         {
           "id": "C",
@@ -696,13 +696,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "because he doesn't like his job",
-            "vi": "vì anh không thích việc của mình"
+            "en": "because he doesn't like his job and would rather go back to being an engineer",
+            "vi": "vì anh không thích việc của mình và muốn quay lại làm kỹ sư hơn"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because he doesn't like his job",
-          "text_translation": "vì anh không thích việc của mình"
+          "text": "because he doesn't like his job and would rather go back to being an engineer",
+          "text_translation": "vì anh không thích việc của mình và muốn quay lại làm kỹ sư hơn"
         }
       ],
       "evidence_segments": [
@@ -731,35 +731,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "money",
-            "vi": "tiền bạc"
+            "en": "money, because the company cannot pay for enough engineers in three cities",
+            "vi": "tiền bạc, vì công ty không trả nổi đủ kỹ sư ở ba thành phố"
           },
           "is_correct": false,
           "order": 0,
-          "text": "money",
-          "text_translation": "tiền bạc"
+          "text": "money, because the company cannot pay for enough engineers in three cities",
+          "text_translation": "tiền bạc, vì công ty không trả nổi đủ kỹ sư ở ba thành phố"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "old computers",
-            "vi": "máy tính cũ"
+            "en": "old computers, because the engineers cannot join video calls without delays",
+            "vi": "máy tính cũ, vì các kỹ sư không thể gọi video mà không bị trễ"
           },
           "is_correct": false,
           "order": 1,
-          "text": "old computers",
-          "text_translation": "máy tính cũ"
+          "text": "old computers, because the engineers cannot join video calls without delays",
+          "text_translation": "máy tính cũ, vì các kỹ sư không thể gọi video mà không bị trễ"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "too few engineers",
-            "vi": "quá ít kỹ sư"
+            "en": "too few engineers, because nine people cannot finish all the projects on time",
+            "vi": "quá ít kỹ sư, vì chín người không thể xong mọi dự án đúng hạn"
           },
           "is_correct": false,
           "order": 2,
-          "text": "too few engineers",
-          "text_translation": "quá ít kỹ sư"
+          "text": "too few engineers, because nine people cannot finish all the projects on time",
+          "text_translation": "quá ít kỹ sư, vì chín người không thể xong mọi dự án đúng hạn"
         },
         {
           "id": "D",
@@ -799,46 +799,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Video calls are useless.",
-            "vi": "Gọi video vô ích."
+            "en": "Video calls are useless, and Nathan wants the team to stop using them.",
+            "vi": "Gọi video vô ích, và Nathan muốn nhóm thôi dùng chúng."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Video calls are useless.",
-          "text_translation": "Gọi video vô ích."
+          "text": "Video calls are useless, and Nathan wants the team to stop using them.",
+          "text_translation": "Gọi video vô ích, và Nathan muốn nhóm thôi dùng chúng."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Nathan admits a benefit of video calls before pointing out a problem.",
-            "vi": "Nathan thừa nhận một lợi ích của gọi video trước khi chỉ ra vấn đề."
+            "en": "Nathan admits one benefit of video calls before he points out a problem with them.",
+            "vi": "Nathan thừa nhận một lợi ích của gọi video trước khi chỉ ra vấn đề của chúng."
           },
           "is_correct": true,
           "order": 1,
-          "text": "Nathan admits a benefit of video calls before pointing out a problem.",
-          "text_translation": "Nathan thừa nhận một lợi ích của gọi video trước khi chỉ ra vấn đề."
+          "text": "Nathan admits one benefit of video calls before he points out a problem with them.",
+          "text_translation": "Nathan thừa nhận một lợi ích của gọi video trước khi chỉ ra vấn đề của chúng."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Video calls are not tiring.",
-            "vi": "Gọi video không mệt."
+            "en": "Video calls are not tiring, but Nathan thinks that there are too many of them.",
+            "vi": "Gọi video không mệt, nhưng Nathan thấy có quá nhiều cuộc"
           },
           "is_correct": false,
           "order": 2,
-          "text": "Video calls are not tiring.",
-          "text_translation": "Gọi video không mệt."
+          "text": "Video calls are not tiring, but Nathan thinks that there are too many of them.",
+          "text_translation": "Gọi video không mệt, nhưng Nathan thấy có quá nhiều cuộc"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Nathan wants more video calls.",
-            "vi": "Nathan muốn gọi video nhiều hơn."
+            "en": "Nathan wants more video calls, because they are both useful and tiring.",
+            "vi": "Nathan muốn gọi video nhiều hơn, vì chúng vừa hữu ích vừa mệt."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Nathan wants more video calls.",
-          "text_translation": "Nathan muốn gọi video nhiều hơn."
+          "text": "Nathan wants more video calls, because they are both useful and tiring.",
+          "text_translation": "Nathan muốn gọi video nhiều hơn, vì chúng vừa hữu ích vừa mệt."
         }
       ],
       "evidence_segments": [
@@ -867,46 +867,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "eleven hours a week",
-            "vi": "mười một tiếng một tuần"
+            "en": "eleven hours a week, which is more than a whole working day",
+            "vi": "mười một tiếng một tuần, nhiều hơn cả một ngày làm việc"
           },
           "is_correct": true,
           "order": 0,
-          "text": "eleven hours a week",
-          "text_translation": "mười một tiếng một tuần"
+          "text": "eleven hours a week, which is more than a whole working day",
+          "text_translation": "mười một tiếng một tuần, nhiều hơn cả một ngày làm việc"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "two hours a day",
-            "vi": "hai tiếng một ngày"
+            "en": "two hours a day, during the core hours in San Diego",
+            "vi": "hai tiếng một ngày, trong giờ cốt lõi ở San Diego"
           },
           "is_correct": false,
           "order": 1,
-          "text": "two hours a day",
-          "text_translation": "hai tiếng một ngày"
+          "text": "two hours a day, during the core hours in San Diego",
+          "text_translation": "hai tiếng một ngày, trong giờ cốt lõi ở San Diego"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "eight hours a week",
-            "vi": "tám tiếng một tuần"
+            "en": "eight hours a week, which is the time difference with Lisbon",
+            "vi": "tám tiếng một tuần, bằng độ lệch múi giờ với Lisbon"
           },
           "is_correct": false,
           "order": 2,
-          "text": "eight hours a week",
-          "text_translation": "tám tiếng một tuần"
+          "text": "eight hours a week, which is the time difference with Lisbon",
+          "text_translation": "tám tiếng một tuần, bằng độ lệch múi giờ với Lisbon"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "one hour a week",
-            "vi": "một tiếng một tuần"
+            "en": "one hour a week, in the one team call that Nathan wants to keep",
+            "vi": "một tiếng một tuần, trong cuộc họp nhóm duy nhất Nathan muốn giữ"
           },
           "is_correct": false,
           "order": 3,
-          "text": "one hour a week",
-          "text_translation": "một tiếng một tuần"
+          "text": "one hour a week, in the one team call that Nathan wants to keep",
+          "text_translation": "một tiếng một tuần, trong cuộc họp nhóm duy nhất Nathan muốn giữ"
         }
       ],
       "evidence_segments": [
@@ -935,24 +935,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "the hours when the office is closed",
-            "vi": "những giờ văn phòng đóng cửa"
+            "en": "the hours when the office is closed and nobody is allowed to answer messages",
+            "vi": "những giờ văn phòng đóng cửa và không ai được trả lời tin nhắn"
           },
           "is_correct": false,
           "order": 0,
-          "text": "the hours when the office is closed",
-          "text_translation": "những giờ văn phòng đóng cửa"
+          "text": "the hours when the office is closed and nobody is allowed to answer messages",
+          "text_translation": "những giờ văn phòng đóng cửa và không ai được trả lời tin nhắn"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "the only hours when people work",
-            "vi": "những giờ duy nhất người ta làm việc"
+            "en": "the only hours when people work, so nobody should write to anyone outside them",
+            "vi": "những giờ duy nhất người ta làm việc, nên không ai được nhắn cho ai ngoài giờ đó"
           },
           "is_correct": false,
           "order": 1,
-          "text": "the only hours when people work",
-          "text_translation": "những giờ duy nhất người ta làm việc"
+          "text": "the only hours when people work, so nobody should write to anyone outside them",
+          "text_translation": "những giờ duy nhất người ta làm việc, nên không ai được nhắn cho ai ngoài giờ đó"
         },
         {
           "id": "C",
@@ -968,13 +968,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "the hours for team calls only",
-            "vi": "những giờ chỉ dành cho họp nhóm"
+            "en": "the hours for team calls only, when the whole team talks to Nathan together",
+            "vi": "những giờ chỉ dành cho họp nhóm, khi cả nhóm cùng nói chuyện với Nathan"
           },
           "is_correct": false,
           "order": 3,
-          "text": "the hours for team calls only",
-          "text_translation": "những giờ chỉ dành cho họp nhóm"
+          "text": "the hours for team calls only, when the whole team talks to Nathan together",
+          "text_translation": "những giờ chỉ dành cho họp nhóm, khi cả nhóm cùng nói chuyện với Nathan"
         }
       ],
       "evidence_segments": [
@@ -1003,35 +1003,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because he wants to do less work",
-            "vi": "vì anh muốn làm ít đi"
+            "en": "because he wants to do less work himself and leave all the decisions to other people",
+            "vi": "vì anh muốn tự làm ít đi và giao mọi quyết định cho người khác"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because he wants to do less work",
-          "text_translation": "vì anh muốn làm ít đi"
+          "text": "because he wants to do less work himself and leave all the decisions to other people",
+          "text_translation": "vì anh muốn tự làm ít đi và giao mọi quyết định cho người khác"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because the company asked him",
-            "vi": "vì công ty yêu cầu"
+            "en": "because the company asked him to reduce the number of people in each project",
+            "vi": "vì công ty yêu cầu anh giảm số người trong mỗi dự án"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because the company asked him",
-          "text_translation": "vì công ty yêu cầu"
+          "text": "because the company asked him to reduce the number of people in each project",
+          "text_translation": "vì công ty yêu cầu anh giảm số người trong mỗi dự án"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "so that people work alone",
-            "vi": "để mọi người làm một mình"
+            "en": "so that people work alone and never have to talk to anyone else in the team",
+            "vi": "để mọi người làm một mình và không bao giờ phải nói chuyện với ai trong nhóm"
           },
           "is_correct": false,
           "order": 2,
-          "text": "so that people work alone",
-          "text_translation": "để mọi người làm một mình"
+          "text": "so that people work alone and never have to talk to anyone else in the team",
+          "text_translation": "để mọi người làm một mình và không bao giờ phải nói chuyện với ai trong nhóm"
         },
         {
           "id": "D",
@@ -1071,46 +1071,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because he forgot the verb",
-            "vi": "vì anh quên động từ"
+            "en": "because he forgot the verb and did not have time to check his email",
+            "vi": "vì anh quên động từ và không kịp kiểm tra email"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because he forgot the verb",
-          "text_translation": "vì anh quên động từ"
+          "text": "because he forgot the verb and did not have time to check his email",
+          "text_translation": "vì anh quên động từ và không kịp kiểm tra email"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to make his proposal short, clear and formal, like a list of points",
-            "vi": "để đề xuất ngắn gọn, rõ ràng và trang trọng, như một danh sách ý"
+            "en": "to make his proposal short, clear and formal, like a list of points for the team",
+            "vi": "để đề xuất ngắn gọn, rõ ràng và trang trọng, như danh sách ý cho cả nhóm"
           },
           "is_correct": true,
           "order": 1,
-          "text": "to make his proposal short, clear and formal, like a list of points",
-          "text_translation": "để đề xuất ngắn gọn, rõ ràng và trang trọng, như một danh sách ý"
+          "text": "to make his proposal short, clear and formal, like a list of points for the team",
+          "text_translation": "để đề xuất ngắn gọn, rõ ràng và trang trọng, như danh sách ý cho cả nhóm"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because verbs are not allowed in emails",
-            "vi": "vì email không được dùng động từ"
+            "en": "because verbs are not allowed in emails that are sent to people in other cities",
+            "vi": "vì email gửi cho người ở thành phố khác không được dùng động từ"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because verbs are not allowed in emails",
-          "text_translation": "vì email không được dùng động từ"
+          "text": "because verbs are not allowed in emails that are sent to people in other cities",
+          "text_translation": "vì email gửi cho người ở thành phố khác không được dùng động từ"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to sound angry",
-            "vi": "để nghe có vẻ giận"
+            "en": "to sound angry and to show the team that he is now the boss of everyone",
+            "vi": "để nghe có vẻ giận và cho nhóm thấy giờ anh là sếp của mọi người"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to sound angry",
-          "text_translation": "để nghe có vẻ giận"
+          "text": "to sound angry and to show the team that he is now the boss of everyone",
+          "text_translation": "để nghe có vẻ giận và cho nhóm thấy giờ anh là sếp của mọi người"
         }
       ],
       "evidence_segments": [
@@ -1139,46 +1139,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They will try it for two months and then decide together.",
-            "vi": "Thử hai tháng rồi cùng quyết định."
+            "en": "They will try it for two months and then decide together whether to keep it.",
+            "vi": "Thử hai tháng rồi cùng quyết định có giữ lại không."
           },
           "is_correct": true,
           "order": 0,
-          "text": "They will try it for two months and then decide together.",
-          "text_translation": "Thử hai tháng rồi cùng quyết định."
+          "text": "They will try it for two months and then decide together whether to keep it.",
+          "text_translation": "Thử hai tháng rồi cùng quyết định có giữ lại không."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Nathan will decide alone.",
-            "vi": "Nathan tự quyết."
+            "en": "Nathan will decide alone after he has talked to each person by phone.",
+            "vi": "Nathan tự quyết sau khi nói chuyện qua điện thoại với từng người."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Nathan will decide alone.",
-          "text_translation": "Nathan tự quyết."
+          "text": "Nathan will decide alone after he has talked to each person by phone.",
+          "text_translation": "Nathan tự quyết sau khi nói chuyện qua điện thoại với từng người."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The company will decide.",
-            "vi": "Công ty quyết định."
+            "en": "The company will decide after it has read the results of the two months.",
+            "vi": "Công ty sẽ quyết định sau khi đọc kết quả của hai tháng."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The company will decide.",
-          "text_translation": "Công ty quyết định."
+          "text": "The company will decide after it has read the results of the two months.",
+          "text_translation": "Công ty sẽ quyết định sau khi đọc kết quả của hai tháng."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "They will decide at the next team call.",
-            "vi": "Quyết ở cuộc họp nhóm tới."
+            "en": "They will decide at the next team call, before anyone has tried the system.",
+            "vi": "Họ sẽ quyết ở cuộc họp nhóm tới, trước khi ai đó thử hệ thống"
           },
           "is_correct": false,
           "order": 3,
-          "text": "They will decide at the next team call.",
-          "text_translation": "Quyết ở cuộc họp nhóm tới."
+          "text": "They will decide at the next team call, before anyone has tried the system.",
+          "text_translation": "Họ sẽ quyết ở cuộc họp nhóm tới, trước khi ai đó thử hệ thống"
         }
       ],
       "evidence_segments": [
@@ -1207,46 +1207,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "He doesn't want feedback.",
-            "vi": "Anh không muốn góp ý."
+            "en": "He doesn't want feedback, because he thinks that the team should follow him.",
+            "vi": "Anh không muốn góp ý, vì nghĩ rằng nhóm nên làm theo anh."
           },
           "is_correct": false,
           "order": 0,
-          "text": "He doesn't want feedback.",
-          "text_translation": "Anh không muốn góp ý."
+          "text": "He doesn't want feedback, because he thinks that the team should follow him.",
+          "text_translation": "Anh không muốn góp ý, vì nghĩ rằng nhóm nên làm theo anh."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "He is sure that his plan is perfect.",
-            "vi": "Anh chắc kế hoạch của mình hoàn hảo."
+            "en": "He is sure that his plan is perfect and that nothing will need to change.",
+            "vi": "Anh chắc kế hoạch của mình hoàn hảo và sẽ không cần đổi gì."
           },
           "is_correct": false,
           "order": 1,
-          "text": "He is sure that his plan is perfect.",
-          "text_translation": "Anh chắc kế hoạch của mình hoàn hảo."
+          "text": "He is sure that his plan is perfect and that nothing will need to change.",
+          "text_translation": "Anh chắc kế hoạch của mình hoàn hảo và sẽ không cần đổi gì."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "He is humble and wants honest feedback early.",
-            "vi": "Anh khiêm tốn và muốn được góp ý thẳng thắn sớm."
+            "en": "He is humble and wants honest feedback early, before small problems grow.",
+            "vi": "Anh khiêm tốn và muốn được góp ý thẳng thắn sớm, trước khi vấn đề nhỏ lớn lên."
           },
           "is_correct": true,
           "order": 2,
-          "text": "He is humble and wants honest feedback early.",
-          "text_translation": "Anh khiêm tốn và muốn được góp ý thẳng thắn sớm."
+          "text": "He is humble and wants honest feedback early, before small problems grow.",
+          "text_translation": "Anh khiêm tốn và muốn được góp ý thẳng thắn sớm, trước khi vấn đề nhỏ lớn lên."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "He is going to wait six months to decide.",
-            "vi": "Anh sẽ chờ sáu tháng để quyết."
+            "en": "He is going to wait six months to decide, even if the team is unhappy.",
+            "vi": "Anh sẽ chờ sáu tháng để quyết, dù nhóm không hài lòng."
           },
           "is_correct": false,
           "order": 3,
-          "text": "He is going to wait six months to decide.",
-          "text_translation": "Anh sẽ chờ sáu tháng để quyết."
+          "text": "He is going to wait six months to decide, even if the team is unhappy.",
+          "text_translation": "Anh sẽ chờ sáu tháng để quyết, dù nhóm không hài lòng."
         }
       ],
       "evidence_segments": [
@@ -1275,46 +1275,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "whether phones should be banned",
-            "vi": "có nên cấm điện thoại"
+            "en": "whether phones should be banned in schools during the whole day",
+            "vi": "có nên cấm điện thoại ở trường trong cả ngày không"
           },
           "is_correct": false,
           "order": 0,
-          "text": "whether phones should be banned",
-          "text_translation": "có nên cấm điện thoại"
+          "text": "whether phones should be banned in schools during the whole day",
+          "text_translation": "có nên cấm điện thoại ở trường trong cả ngày không"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "whether you need a college degree to get a good job",
-            "vi": "có cần bằng đại học để có việc tốt không"
+            "en": "whether you need a college degree to get a good job these days",
+            "vi": "có cần bằng đại học để có việc tốt trong thời nay không"
           },
           "is_correct": true,
           "order": 1,
-          "text": "whether you need a college degree to get a good job",
-          "text_translation": "có cần bằng đại học để có việc tốt không"
+          "text": "whether you need a college degree to get a good job these days",
+          "text_translation": "có cần bằng đại học để có việc tốt trong thời nay không"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "how to become an electrician",
-            "vi": "cách trở thành thợ điện"
+            "en": "how to become an electrician without going to college for four years",
+            "vi": "làm thế nào để thành thợ điện mà không học đại học bốn năm"
           },
           "is_correct": false,
           "order": 2,
-          "text": "how to become an electrician",
-          "text_translation": "cách trở thành thợ điện"
+          "text": "how to become an electrician without going to college for four years",
+          "text_translation": "làm thế nào để thành thợ điện mà không học đại học bốn năm"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "which college is the best",
-            "vi": "trường đại học nào tốt nhất"
+            "en": "which college is the best choice for students who want to become nurses",
+            "vi": "trường đại học nào là lựa chọn tốt nhất cho học sinh muốn làm y tá"
           },
           "is_correct": false,
           "order": 3,
-          "text": "which college is the best",
-          "text_translation": "trường đại học nào tốt nhất"
+          "text": "which college is the best choice for students who want to become nurses",
+          "text_translation": "trường đại học nào là lựa chọn tốt nhất cho học sinh muốn làm y tá"
         }
       ],
       "evidence_segments": [
@@ -1343,46 +1343,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "where Maddie found the club",
-            "vi": "Maddie tìm thấy câu lạc bộ ở đâu"
+            "en": "where Maddie found the club and who told her to join it",
+            "vi": "Maddie tìm thấy câu lạc bộ ở đâu và ai bảo cô tham gia"
           },
           "is_correct": false,
           "order": 0,
-          "text": "where Maddie found the club",
-          "text_translation": "Maddie tìm thấy câu lạc bộ ở đâu"
+          "text": "where Maddie found the club and who told her to join it",
+          "text_translation": "Maddie tìm thấy câu lạc bộ ở đâu và ai bảo cô tham gia"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "when Maddie started",
-            "vi": "Maddie bắt đầu khi nào"
+            "en": "when Maddie started to prepare her argument for the debate",
+            "vi": "Maddie bắt đầu chuẩn bị lập luận cho buổi tranh biện từ khi nào"
           },
           "is_correct": false,
           "order": 1,
-          "text": "when Maddie started",
-          "text_translation": "Maddie bắt đầu khi nào"
+          "text": "when Maddie started to prepare her argument for the debate",
+          "text_translation": "Maddie bắt đầu chuẩn bị lập luận cho buổi tranh biện từ khi nào"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "why Maddie is late",
-            "vi": "vì sao Maddie tới muộn"
+            "en": "why Maddie is late and what she has been doing before the debate",
+            "vi": "vì sao Maddie tới muộn và cô đã làm gì trước buổi tranh biện"
           },
           "is_correct": false,
           "order": 2,
-          "text": "why Maddie is late",
-          "text_translation": "vì sao Maddie tới muộn"
+          "text": "why Maddie is late and what she has been doing before the debate",
+          "text_translation": "vì sao Maddie tới muộn và cô đã làm gì trước buổi tranh biện"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "what evidence Maddie's argument is based on",
-            "vi": "lập luận của Maddie dựa trên bằng chứng nào"
+            "en": "what evidence Maddie's argument is based on, and where it comes from",
+            "vi": "lập luận của Maddie dựa trên bằng chứng nào, và bằng chứng đó từ đâu ra"
           },
           "is_correct": true,
           "order": 3,
-          "text": "what evidence Maddie's argument is based on",
-          "text_translation": "lập luận của Maddie dựa trên bằng chứng nào"
+          "text": "what evidence Maddie's argument is based on, and where it comes from",
+          "text_translation": "lập luận của Maddie dựa trên bằng chứng nào, và bằng chứng đó từ đâu ra"
         }
       ],
       "evidence_segments": [
@@ -1411,46 +1411,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Only about two in five American adults have a four-year degree.",
-            "vi": "Chỉ khoảng hai trên năm người trưởng thành Mỹ có bằng đại học bốn năm."
+            "en": "Only about two in five American adults have a four-year degree, so most workers don't.",
+            "vi": "Chỉ khoảng hai trên năm người trưởng thành Mỹ có bằng đại học bốn năm, nên đa số người lao động không có."
           },
           "is_correct": true,
           "order": 0,
-          "text": "Only about two in five American adults have a four-year degree.",
-          "text_translation": "Chỉ khoảng hai trên năm người trưởng thành Mỹ có bằng đại học bốn năm."
+          "text": "Only about two in five American adults have a four-year degree, so most workers don't.",
+          "text_translation": "Chỉ khoảng hai trên năm người trưởng thành Mỹ có bằng đại học bốn năm, nên đa số người lao động không có."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Degrees are free.",
-            "vi": "Bằng đại học miễn phí."
+            "en": "Degrees are free for students at most colleges, so debt is not a problem.",
+            "vi": "Bằng đại học miễn phí ở hầu hết các trường, nên nợ không phải vấn đề"
           },
           "is_correct": false,
           "order": 1,
-          "text": "Degrees are free.",
-          "text_translation": "Bằng đại học miễn phí."
+          "text": "Degrees are free for students at most colleges, so debt is not a problem.",
+          "text_translation": "Bằng đại học miễn phí ở hầu hết các trường, nên nợ không phải vấn đề"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Most companies require degrees.",
-            "vi": "Phần lớn công ty yêu cầu bằng."
+            "en": "Most companies require a degree for every job that they offer to workers.",
+            "vi": "Phần lớn công ty yêu cầu bằng cho mọi việc họ giao cho người lao động."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Most companies require degrees.",
-          "text_translation": "Phần lớn công ty yêu cầu bằng."
+          "text": "Most companies require a degree for every job that they offer to workers.",
+          "text_translation": "Phần lớn công ty yêu cầu bằng cho mọi việc họ giao cho người lao động."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Nurses don't need training.",
-            "vi": "Y tá không cần đào tạo."
+            "en": "Nurses don't need any training, because hospitals teach them everything.",
+            "vi": "Y tá không cần đào tạo gì, vì bệnh viện dạy họ mọi thứ."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Nurses don't need training.",
-          "text_translation": "Y tá không cần đào tạo."
+          "text": "Nurses don't need any training, because hospitals teach them everything.",
+          "text_translation": "Y tá không cần đào tạo gì, vì bệnh viện dạy họ mọi thứ."
         }
       ],
       "evidence_segments": [
@@ -1479,46 +1479,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She wants to know who will pay.",
-            "vi": "Cô muốn biết ai sẽ trả tiền."
+            "en": "She wants to know who will pay for the college and how much it costs every year.",
+            "vi": "Cô muốn biết ai sẽ trả tiền học đại học và mỗi năm tốn bao nhiêu."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She wants to know who will pay.",
-          "text_translation": "Cô muốn biết ai sẽ trả tiền."
+          "text": "She wants to know who will pay for the college and how much it costs every year.",
+          "text_translation": "Cô muốn biết ai sẽ trả tiền học đại học và mỗi năm tốn bao nhiêu."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She thinks college is a great deal for everyone.",
-            "vi": "Cô nghĩ đại học là món hời với tất cả."
+            "en": "She thinks that college is a great deal for everyone, because it leads to a good job.",
+            "vi": "Cô nghĩ đại học là món hời với tất cả, vì nó dẫn tới việc tốt."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She thinks college is a great deal for everyone.",
-          "text_translation": "Cô nghĩ đại học là món hời với tất cả."
+          "text": "She thinks that college is a great deal for everyone, because it leads to a good job.",
+          "text_translation": "Cô nghĩ đại học là món hời với tất cả, vì nó dẫn tới việc tốt."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "She is suggesting that years of debt are not worth it if a shorter program leads to the same job.",
+            "en": "She suggests that years of debt are not worth it if a shorter program leads to the same job.",
             "vi": "Cô ngụ ý rằng nợ nhiều năm không đáng nếu một chương trình ngắn hơn cũng dẫn tới cùng công việc."
           },
           "is_correct": true,
           "order": 2,
-          "text": "She is suggesting that years of debt are not worth it if a shorter program leads to the same job.",
+          "text": "She suggests that years of debt are not worth it if a shorter program leads to the same job.",
           "text_translation": "Cô ngụ ý rằng nợ nhiều năm không đáng nếu một chương trình ngắn hơn cũng dẫn tới cùng công việc."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "She is asking Noah a question about his family.",
-            "vi": "Cô hỏi Noah về gia đình bạn ấy."
+            "en": "She is asking Noah a question about his family and how much they paid for college.",
+            "vi": "Cô hỏi Noah về gia đình bạn ấy và họ đã trả bao nhiêu cho việc học đại học."
           },
           "is_correct": false,
           "order": 3,
-          "text": "She is asking Noah a question about his family.",
-          "text_translation": "Cô hỏi Noah về gia đình bạn ấy."
+          "text": "She is asking Noah a question about his family and how much they paid for college.",
+          "text_translation": "Cô hỏi Noah về gia đình bạn ấy và họ đã trả bao nhiêu cho việc học đại học."
         }
       ],
       "evidence_segments": [
@@ -1547,46 +1547,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Degrees are useless.",
-            "vi": "Bằng cấp vô dụng."
+            "en": "Degrees are useless, because most workers never need them in their jobs.",
+            "vi": "Bằng cấp vô dụng, vì hầu hết người lao động không bao giờ cần chúng."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Degrees are useless.",
-          "text_translation": "Bằng cấp vô dụng."
+          "text": "Degrees are useless, because most workers never need them in their jobs.",
+          "text_translation": "Bằng cấp vô dụng, vì hầu hết người lao động không bao giờ cần chúng."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "A degree isn't the only path to a real career.",
-            "vi": "Bằng đại học không phải con đường duy nhất tới một sự nghiệp thật."
+            "en": "A degree isn't the only path to a real career, as electricians and nurses show.",
+            "vi": "Bằng đại học không phải con đường duy nhất tới một sự nghiệp thật, như thợ điện và y tá cho thấy."
           },
           "is_correct": true,
           "order": 1,
-          "text": "A degree isn't the only path to a real career.",
-          "text_translation": "Bằng đại học không phải con đường duy nhất tới một sự nghiệp thật."
+          "text": "A degree isn't the only path to a real career, as electricians and nurses show.",
+          "text_translation": "Bằng đại học không phải con đường duy nhất tới một sự nghiệp thật, như thợ điện và y tá cho thấy."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Nobody should go to college.",
-            "vi": "Không ai nên học đại học."
+            "en": "Nobody should go to college, because training programs are always better.",
+            "vi": "Không ai nên học đại học, vì các chương trình đào tạo luôn tốt hơn."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Nobody should go to college.",
-          "text_translation": "Không ai nên học đại học."
+          "text": "Nobody should go to college, because training programs are always better.",
+          "text_translation": "Không ai nên học đại học, vì các chương trình đào tạo luôn tốt hơn."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Companies always hire people without degrees.",
-            "vi": "Công ty luôn tuyển người không có bằng."
+            "en": "Companies always hire people without degrees if they are good with computers.",
+            "vi": "Công ty luôn tuyển người không có bằng nếu họ giỏi máy tính."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Companies always hire people without degrees.",
-          "text_translation": "Công ty luôn tuyển người không có bằng."
+          "text": "Companies always hire people without degrees if they are good with computers.",
+          "text_translation": "Công ty luôn tuyển người không có bằng nếu họ giỏi máy tính."
         }
       ],
       "evidence_segments": [
@@ -1615,35 +1615,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It has completely changed who gets hired.",
-            "vi": "Nó thay đổi hoàn toàn chuyện ai được tuyển."
+            "en": "It has completely changed who gets hired, and many more workers now have jobs.",
+            "vi": "Nó thay đổi hoàn toàn chuyện ai được tuyển, và nhiều người lao động hơn nay có việc."
           },
           "is_correct": false,
           "order": 0,
-          "text": "It has completely changed who gets hired.",
-          "text_translation": "Nó thay đổi hoàn toàn chuyện ai được tuyển."
+          "text": "It has completely changed who gets hired, and many more workers now have jobs.",
+          "text_translation": "Nó thay đổi hoàn toàn chuyện ai được tuyển, và nhiều người lao động hơn nay có việc."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "It is illegal.",
-            "vi": "Nó bất hợp pháp."
+            "en": "It is illegal in many cities, so companies have to ask for degrees again.",
+            "vi": "Nó bất hợp pháp ở nhiều thành phố, nên công ty phải đòi bằng trở lại."
           },
           "is_correct": false,
           "order": 1,
-          "text": "It is illegal.",
-          "text_translation": "Nó bất hợp pháp."
+          "text": "It is illegal in many cities, so companies have to ask for degrees again.",
+          "text_translation": "Nó bất hợp pháp ở nhiều thành phố, nên công ty phải đòi bằng trở lại."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "No companies have done it.",
-            "vi": "Chưa công ty nào làm."
+            "en": "No companies have done it, because they all think that degrees are necessary.",
+            "vi": "Chưa công ty nào làm, vì họ đều nghĩ bằng cấp là cần thiết."
           },
           "is_correct": false,
           "order": 2,
-          "text": "No companies have done it.",
-          "text_translation": "Chưa công ty nào làm."
+          "text": "No companies have done it, because they all think that degrees are necessary.",
+          "text_translation": "Chưa công ty nào làm, vì họ đều nghĩ bằng cấp là cần thiết."
         },
         {
           "id": "D",
@@ -1683,46 +1683,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It sums up his position in a short, balanced way.",
-            "vi": "Nó tóm tắt lập trường của Noah một cách ngắn gọn, cân bằng."
+            "en": "It sums up his position in a short, balanced way, using the word many.",
+            "vi": "Nó tóm tắt lập trường của Noah một cách ngắn gọn, cân bằng, dùng chữ nhiều."
           },
           "is_correct": true,
           "order": 0,
-          "text": "It sums up his position in a short, balanced way.",
-          "text_translation": "Nó tóm tắt lập trường của Noah một cách ngắn gọn, cân bằng."
+          "text": "It sums up his position in a short, balanced way, using the word many.",
+          "text_translation": "Nó tóm tắt lập trường của Noah một cách ngắn gọn, cân bằng, dùng chữ nhiều."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "It changes the topic.",
-            "vi": "Nó đổi chủ đề."
+            "en": "It changes the topic to the cost of college and the debt of students.",
+            "vi": "Nó đổi chủ đề sang chi phí đại học và khoản nợ của sinh viên"
           },
           "is_correct": false,
           "order": 1,
-          "text": "It changes the topic.",
-          "text_translation": "Nó đổi chủ đề."
+          "text": "It changes the topic to the cost of college and the debt of students.",
+          "text_translation": "Nó đổi chủ đề sang chi phí đại học và khoản nợ của sinh viên"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "It agrees completely with Maddie.",
-            "vi": "Nó đồng ý hoàn toàn với Maddie."
+            "en": "It agrees completely with Maddie and says that nobody needs a degree.",
+            "vi": "Nó đồng ý hoàn toàn với Maddie và nói rằng không ai cần bằng."
           },
           "is_correct": false,
           "order": 2,
-          "text": "It agrees completely with Maddie.",
-          "text_translation": "Nó đồng ý hoàn toàn với Maddie."
+          "text": "It agrees completely with Maddie and says that nobody needs a degree.",
+          "text_translation": "Nó đồng ý hoàn toàn với Maddie và nói rằng không ai cần bằng."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "It asks Ms. Park a question.",
-            "vi": "Nó đặt câu hỏi cho cô Park."
+            "en": "It asks Ms. Park a question about the rules of the next debate.",
+            "vi": "Nó hỏi cô Park một câu về luật của buổi tranh biện tới."
           },
           "is_correct": false,
           "order": 3,
-          "text": "It asks Ms. Park a question.",
-          "text_translation": "Nó đặt câu hỏi cho cô Park."
+          "text": "It asks Ms. Park a question about the rules of the next debate.",
+          "text_translation": "Nó hỏi cô Park một câu về luật của buổi tranh biện tới."
         }
       ],
       "evidence_segments": [
@@ -1751,46 +1751,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because she is bored",
-            "vi": "vì cô thấy chán"
+            "en": "because she is bored by the long answers and wants the students to finish quickly today",
+            "vi": "vì cô chán những câu trả lời dài và muốn các em xong nhanh hôm nay"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because she is bored",
-          "text_translation": "vì cô thấy chán"
+          "text": "because she is bored by the long answers and wants the students to finish quickly today",
+          "text_translation": "vì cô chán những câu trả lời dài và muốn các em xong nhanh hôm nay"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because Noah won",
-            "vi": "vì Noah thắng"
+            "en": "because Noah won the debate and she is surprised that Maddie did not argue longer",
+            "vi": "vì Noah thắng và cô ngạc nhiên khi Maddie không tranh luận lâu hơn"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because Noah won",
-          "text_translation": "vì Noah thắng"
+          "text": "because Noah won the debate and she is surprised that Maddie did not argue longer",
+          "text_translation": "vì Noah thắng và cô ngạc nhiên khi Maddie không tranh luận lâu hơn"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because both students used the word \"many\", which shows that they don't see one answer for everyone",
-            "vi": "vì cả hai em đều dùng chữ \"nhiều\", cho thấy không ai nghĩ có một câu trả lời cho tất cả"
+            "en": "because both students said \"many\", which shows that neither sees one answer for everyone",
+            "vi": "vì cả hai em đều nói \"nhiều\", cho thấy không ai thấy có một câu trả lời cho tất cả"
           },
           "is_correct": true,
           "order": 2,
-          "text": "because both students used the word \"many\", which shows that they don't see one answer for everyone",
-          "text_translation": "vì cả hai em đều dùng chữ \"nhiều\", cho thấy không ai nghĩ có một câu trả lời cho tất cả"
+          "text": "because both students said \"many\", which shows that neither sees one answer for everyone",
+          "text_translation": "vì cả hai em đều nói \"nhiều\", cho thấy không ai thấy có một câu trả lời cho tất cả"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because the debate was too short",
-            "vi": "vì cuộc tranh biện quá ngắn"
+            "en": "because the debate was too short and the students did not use all of their time",
+            "vi": "vì cuộc tranh biện quá ngắn và các em không dùng hết thời gian"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because the debate was too short",
-          "text_translation": "vì cuộc tranh biện quá ngắn"
+          "text": "because the debate was too short and the students did not use all of their time",
+          "text_translation": "vì cuộc tranh biện quá ngắn và các em không dùng hết thời gian"
         }
       ],
       "evidence_segments": [
@@ -1819,46 +1819,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They have become worse at debating.",
-            "vi": "Hai em tranh biện kém đi."
+            "en": "They have become worse at debating, and they argue more loudly than a year ago.",
+            "vi": "Hai em tranh biện kém đi, và cãi to hơn so với một năm trước."
           },
           "is_correct": false,
           "order": 0,
-          "text": "They have become worse at debating.",
-          "text_translation": "Hai em tranh biện kém đi."
+          "text": "They have become worse at debating, and they argue more loudly than a year ago.",
+          "text_translation": "Hai em tranh biện kém đi, và cãi to hơn so với một năm trước."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "They have learned to disagree more politely and usefully over the past year.",
-            "vi": "Trong một năm qua, hai em đã học được cách bất đồng lịch sự và hữu ích hơn."
+            "en": "They have learned to disagree more politely and more usefully over the past year.",
+            "vi": "Trong một năm qua, hai em đã học được cách bất đồng lịch sự hơn và hữu ích hơn."
           },
           "is_correct": true,
           "order": 1,
-          "text": "They have learned to disagree more politely and usefully over the past year.",
-          "text_translation": "Trong một năm qua, hai em đã học được cách bất đồng lịch sự và hữu ích hơn."
+          "text": "They have learned to disagree more politely and more usefully over the past year.",
+          "text_translation": "Trong một năm qua, hai em đã học được cách bất đồng lịch sự hơn và hữu ích hơn."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "They no longer disagree.",
-            "vi": "Hai em không còn bất đồng."
+            "en": "They no longer disagree about anything, and they now think exactly the same.",
+            "vi": "Hai em không còn bất đồng điều gì, và giờ nghĩ giống hệt nhau."
           },
           "is_correct": false,
           "order": 2,
-          "text": "They no longer disagree.",
-          "text_translation": "Hai em không còn bất đồng."
+          "text": "They no longer disagree about anything, and they now think exactly the same.",
+          "text_translation": "Hai em không còn bất đồng điều gì, và giờ nghĩ giống hệt nhau."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "They want to leave the club.",
-            "vi": "Hai em muốn rời câu lạc bộ."
+            "en": "They want to leave the club, because they are tired of arguing with each other.",
+            "vi": "Hai em muốn rời câu lạc bộ, vì đã mệt khi phải cãi nhau với nhau."
           },
           "is_correct": false,
           "order": 3,
-          "text": "They want to leave the club.",
-          "text_translation": "Hai em muốn rời câu lạc bộ."
+          "text": "They want to leave the club, because they are tired of arguing with each other.",
+          "text_translation": "Hai em muốn rời câu lạc bộ, vì đã mệt khi phải cãi nhau với nhau."
         }
       ],
       "evidence_segments": [
@@ -1887,46 +1887,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Both of them are about phones.",
-            "vi": "Cả hai đều về điện thoại."
+            "en": "Both of them are about phones, and both ask people to use them less during the working day.",
+            "vi": "Cả hai đều về điện thoại, và đều yêu cầu mọi người dùng chúng ít đi trong ngày làm việc."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Both of them are about phones.",
-          "text_translation": "Cả hai đều về điện thoại."
+          "text": "Both of them are about phones, and both ask people to use them less during the working day.",
+          "text_translation": "Cả hai đều về điện thoại, và đều yêu cầu mọi người dùng chúng ít đi trong ngày làm việc."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Both of them are about college.",
-            "vi": "Cả hai đều về đại học."
+            "en": "Both of them are about college, and both give advice to students who want to get a degree as soon as possible.",
+            "vi": "Cả hai đều về đại học, và đều khuyên học sinh muốn lấy bằng càng sớm càng tốt."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Both of them are about college.",
-          "text_translation": "Cả hai đều về đại học."
+          "text": "Both of them are about college, and both give advice to students who want to get a degree as soon as possible.",
+          "text_translation": "Cả hai đều về đại học, và đều khuyên học sinh muốn lấy bằng càng sớm càng tốt."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Both of them happen in Lisbon.",
-            "vi": "Cả hai đều diễn ra ở Lisbon."
+            "en": "Both of them happen in Lisbon, where the writer and the students all live and work together.",
+            "vi": "Cả hai đều diễn ra ở Lisbon, nơi người viết và các học sinh cùng sống và làm việc."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Both of them happen in Lisbon.",
-          "text_translation": "Cả hai đều diễn ra ở Lisbon."
+          "text": "Both of them happen in Lisbon, where the writer and the students all live and work together.",
+          "text_translation": "Cả hai đều diễn ra ở Lisbon, nơi người viết và các học sinh cùng sống và làm việc."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Both of them show people who admit what is good about other views and avoid one simple answer for everyone.",
-            "vi": "Cả hai cho thấy những người thừa nhận mặt tốt của quan điểm khác và tránh một câu trả lời đơn giản cho tất cả."
+            "en": "Both show people who admit what is good in other views and avoid one simple answer for everyone.",
+            "vi": "Cả hai cho thấy những người thừa nhận mặt tốt trong quan điểm khác và tránh một câu trả lời đơn giản cho tất cả."
           },
           "is_correct": true,
           "order": 3,
-          "text": "Both of them show people who admit what is good about other views and avoid one simple answer for everyone.",
-          "text_translation": "Cả hai cho thấy những người thừa nhận mặt tốt của quan điểm khác và tránh một câu trả lời đơn giản cho tất cả."
+          "text": "Both show people who admit what is good in other views and avoid one simple answer for everyone.",
+          "text_translation": "Cả hai cho thấy những người thừa nhận mặt tốt trong quan điểm khác và tránh một câu trả lời đơn giản cho tất cả."
         }
       ],
       "evidence_segments": [

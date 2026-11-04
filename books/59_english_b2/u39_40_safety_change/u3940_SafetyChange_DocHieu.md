@@ -53,34 +53,34 @@
 **1. What is the main purpose of Ethan's article?**
 *(Mục đích chính của bài viết của Ethan là gì?)*
 
-- A. to describe his training camp *(để tả trại huấn luyện)*
-- B. to tell neighbors how to prepare for a wildfire *(để chỉ hàng xóm cách chuẩn bị cho cháy rừng)*
-- C. to sell go-bags *(để bán túi đi ngay)*
-- D. to explain how fires start *(để giải thích cháy bắt đầu thế nào)*
+- A. to describe his training camp and the mountains where he learns to fight fires *(để tả trại huấn luyện và những ngọn núi nơi anh học chữa cháy)*
+- B. to tell neighbors how to prepare for a wildfire before the smoke arrives *(để chỉ hàng xóm cách chuẩn bị cho cháy rừng trước khi khói tới)*
+- C. to sell go-bags that neighbors can order from the fire station *(để bán túi đi ngay mà hàng xóm có thể đặt ở trạm cứu hoả)*
+- D. to explain how fires start in the mountains and why they spread so fast *(để giải thích cháy ở vùng núi bắt đầu thế nào và vì sao lan nhanh)*
 
 **2. Where is Ethan writing from?**
 *(Ethan viết bài từ đâu?)*
 
-- A. the fire station on Maple Street *(trạm cứu hoả trên phố Maple)*
-- B. Sunset Bay Hospital *(Bệnh viện Sunset Bay)*
-- C. his home *(nhà anh)*
+- A. the fire station on Maple Street, where he works with his old team *(trạm cứu hoả trên phố Maple, nơi anh làm việc cùng đội cũ)*
+- B. Sunset Bay Hospital, where he is visiting a friend this week *(Bệnh viện Sunset Bay, nơi anh đang thăm một người bạn tuần này)*
+- C. his home on Maple Street, where he is resting after the training *(nhà anh trên phố Maple, nơi anh nghỉ ngơi sau khoá huấn luyện)*
 - D. a training camp in the north of the state *(một trại huấn luyện ở phía bắc bang)*
 
 **3. Why does Ethan say that you don't have to live in a forest to be at risk?**
 *(Vì sao Ethan nói không cần sống trong rừng mới gặp nguy?)*
 
-- A. because smoke and sparks can travel for miles *(vì khói và tàn lửa có thể bay xa nhiều dặm)*
-- B. because all houses are made of wood *(vì nhà nào cũng bằng gỗ)*
-- C. because forests are far away *(vì rừng ở xa)*
-- D. because fires only start in cities *(vì cháy chỉ xảy ra ở thành phố)*
+- A. because smoke and sparks can travel for miles, far away from the forest *(vì khói và tàn lửa có thể bay xa nhiều dặm, cách rừng rất xa)*
+- B. because all the houses in the area are made of wood and burn very quickly *(vì mọi ngôi nhà trong vùng đều bằng gỗ và cháy rất nhanh)*
+- C. because forests are far away, so people there need to be more careful *(vì rừng ở xa, nên người ở đó cần cẩn thận hơn)*
+- D. because fires only start in cities, where people leave their stoves on *(vì cháy chỉ xảy ra ở thành phố, nơi người ta để bếp cháy)*
 
 **4. What is a go-bag?**
 *(Túi đi ngay là gì?)*
 
-- A. a bag for going to the gym *(túi đi tập thể dục)*
-- B. a bag for shopping *(túi đi chợ)*
+- A. a bag for going to the gym, packed with clothes, water and a towel for a long workout *(túi đi tập thể dục, xếp sẵn quần áo, nước và khăn cho buổi tập dài)*
+- B. a bag for shopping at the market, with room for all the food a family needs *(túi đi chợ, đủ chỗ cho mọi thức ăn một gia đình cần)*
 - C. a bag that is packed and waiting near the door in case you have to leave quickly *(một chiếc túi xếp sẵn để gần cửa phòng khi phải rời đi gấp)*
-- D. a firefighter's bag *(túi của lính cứu hoả)*
+- D. a bag that a firefighter carries to every fire, filled with tools and equipment *(túi lính cứu hoả mang theo tới mọi đám cháy, đầy dụng cụ và thiết bị)*
 
 **5. Which of these is NOT on Ethan's list for a go-bag?**
 *(Thứ nào KHÔNG có trong danh sách túi đi ngay của Ethan?)*
@@ -93,42 +93,42 @@
 **6. Why does Ethan mention Biscuit?**
 *(Vì sao Ethan nhắc tới Biscuit?)*
 
-- A. to add a light, friendly touch while reminding people about pets *(để thêm chút vui vẻ, thân thiện trong lúc nhắc mọi người về thú cưng)*
-- B. because Biscuit is lost *(vì Biscuit đi lạc)*
-- C. because Biscuit is his dog *(vì Biscuit là chó của anh)*
-- D. because dogs can smell smoke *(vì chó ngửi được khói)*
+- A. to add a light, friendly touch while reminding people to pack food for their pets *(để thêm chút vui vẻ, thân thiện trong lúc nhắc mọi người chuẩn bị thức ăn cho thú cưng)*
+- B. because Biscuit is lost and Ethan wants neighbors to help him look for the dog *(vì Biscuit bị lạc và Ethan muốn hàng xóm giúp tìm con chó)*
+- C. because Biscuit is Ethan's own dog and he misses him at the training camp *(vì Biscuit là chó của chính Ethan và anh nhớ nó ở trại huấn luyện)*
+- D. because dogs can smell smoke before people can, so they warn the family *(vì chó ngửi thấy khói trước người, nên chúng báo cho cả nhà)*
 
 **7. Why should you plan at least two routes out of the neighborhood?**
 *(Vì sao nên lên ít nhất hai tuyến ra khỏi khu phố?)*
 
-- A. because one route is always closed *(vì một tuyến luôn bị chặn)*
-- B. so that you can visit friends *(để ghé thăm bạn bè)*
-- C. because the city requires it *(vì thành phố bắt buộc)*
-- D. because roads can be closed by fire or blocked by traffic *(vì đường có thể bị lửa chặn hoặc kẹt xe)*
+- A. because one route is always closed in the summer, when fire season begins *(vì một tuyến luôn bị chặn vào mùa hè, khi mùa cháy bắt đầu)*
+- B. so that you can visit friends in other neighborhoods before you leave *(để bạn ghé thăm bạn bè ở các khu khác trước khi rời đi)*
+- C. because the city requires every family to plan two routes in writing *(vì thành phố bắt mỗi gia đình phải lập hai tuyến bằng văn bản)*
+- D. because roads can be closed by fire or blocked by traffic when people leave *(vì đường có thể bị lửa chặn hoặc kẹt xe khi mọi người cùng rời đi)*
 
 **8. What does "Don't be the person who waits to see how bad it gets" mean?**
 *(Câu "Đừng là người cứ chờ xem tình hình tệ tới mức nào" nghĩa là gì?)*
 
-- A. Wait until you can see the fire. *(Chờ tới khi thấy lửa.)*
-- B. Leave as soon as you are told to, instead of waiting. *(Hãy rời đi ngay khi được báo, thay vì chờ đợi.)*
-- C. Stay at home and watch the news. *(Ở nhà xem tin tức.)*
-- D. Call a firefighter first. *(Gọi lính cứu hoả trước.)*
+- A. Wait until you can see the fire from your window, and then decide whether to leave. *(Chờ tới khi thấy lửa từ cửa sổ, rồi mới quyết định có đi không.)*
+- B. Leave as soon as officials tell you to, instead of waiting to see what happens. *(Hãy rời đi ngay khi các viên chức báo, thay vì chờ xem chuyện gì xảy ra.)*
+- C. Stay at home and watch the news until officials call you on the phone. *(Ở nhà xem tin tức cho tới khi các viên chức gọi điện cho bạn.)*
+- D. Call a firefighter first and ask whether the situation is really bad. *(Gọi cho lính cứu hoả trước và hỏi xem tình hình có thật sự tệ không.)*
 
 **9. According to Ethan, how did many of the most dangerous situations begin?**
 *(Theo Ethan, nhiều tình huống nguy hiểm nhất bắt đầu thế nào?)*
 
 - A. with someone who thought that there was nothing to worry about yet *(từ một người nghĩ rằng chưa có gì phải lo)*
-- B. with bad weather *(từ thời tiết xấu)*
-- C. with a broken phone *(từ một chiếc điện thoại hỏng)*
-- D. with too many firefighters *(từ quá nhiều lính cứu hoả)*
+- B. with bad weather that nobody had expected, such as strong wind or heavy rain *(từ thời tiết xấu không ai ngờ tới, như gió mạnh hay mưa to)*
+- C. with a broken phone, so that people could not hear the call to leave *(từ một chiếc điện thoại hỏng, nên người ta không nghe được lời kêu gọi rời đi)*
+- D. with too many firefighters arriving at the same time on a narrow road *(từ quá nhiều lính cứu hoả cùng đến một lúc trên con đường hẹp)*
 
 **10. What does Ethan's last paragraph suggest about why people don't prepare?**
 *(Đoạn cuối của Ethan cho thấy vì sao người ta không chuẩn bị?)*
 
-- A. Go-bags are very expensive. *(Túi đi ngay rất đắt.)*
-- B. Nobody knows how to pack one. *(Không ai biết cách xếp.)*
-- C. It is an easy job to put off until later. *(Đó là việc dễ bị trì hoãn.)*
-- D. They don't believe firefighters. *(Họ không tin lính cứu hoả.)*
+- A. Go-bags are very expensive, so most families can't pay for one. *(Túi đi ngay rất đắt, nên hầu hết các gia đình không mua nổi.)*
+- B. Nobody knows how to pack one, because firefighters never explain it. *(Không ai biết cách xếp, vì lính cứu hoả chưa bao giờ giải thích.)*
+- C. It is an easy job to put off until later, so people keep waiting. *(Đó là việc dễ trì hoãn, nên người ta cứ chờ mãi.)*
+- D. They don't believe firefighters, who often tell them to leave too early. *(Họ không tin lính cứu hoả, những người hay bảo họ đi quá sớm.)*
 
 ---
 
@@ -186,81 +186,81 @@
 **11. What is the story mainly about?**
 *(Câu chuyện chủ yếu nói về điều gì?)*
 
-- A. the history of the bakery *(lịch sử tiệm bánh)*
+- A. the history of the bakery next door and why its owners had to close it last winter *(lịch sử tiệm bánh bên cạnh và vì sao chủ tiệm phải đóng cửa hồi mùa đông)*
 - B. Harriet deciding whether to expand her café into the empty shop next door *(bà Harriet cân nhắc có mở rộng quán sang cửa hàng trống bên cạnh không)*
-- C. Nathan's new job *(công việc mới của Nathan)*
-- D. a dinner recipe *(một công thức nấu bữa tối)*
+- C. Nathan's plan to rent the empty shop and start a business of his own *(kế hoạch của Nathan thuê cửa hàng trống để tự kinh doanh)*
+- D. a dinner recipe that Harriet cooks for Nathan whenever he visits the café *(một công thức bữa tối mà bà Harriet nấu cho Nathan mỗi khi anh ghé quán)*
 
 **12. What does "she invited Nathan for dinner, which he knew was never only about dinner" suggest?**
 *(Câu "bà mời Nathan sang ăn tối, mà anh biết là chẳng bao giờ chỉ để ăn tối" hàm ý gì?)*
 
-- A. Harriet's dinners are very large. *(Bữa tối của bà Harriet rất thịnh soạn.)*
-- B. Nathan doesn't like dinner. *(Nathan không thích ăn tối.)*
-- C. Harriet never cooks. *(Bà Harriet không bao giờ nấu.)*
+- A. Harriet's dinners are always very large, so Nathan knows he will eat far too much afterward. *(Bữa tối của bà Harriet luôn rất thịnh soạn, nên Nathan biết mình sẽ ăn quá nhiều.)*
+- B. Nathan doesn't like Harriet's cooking, so he always finds a reason to leave early. *(Nathan không thích món bà Harriet nấu, nên luôn tìm lý do về sớm.)*
+- C. Harriet never cooks at home, so she always asks Nathan to take her to a restaurant. *(Bà Harriet không bao giờ nấu ở nhà, nên luôn nhờ Nathan đưa bà đi nhà hàng.)*
 - D. When Harriet invites him for dinner, she usually wants to discuss something important. *(Khi bà Harriet mời anh ăn tối, bà thường muốn bàn chuyện quan trọng.)*
 
 **13. What does Nathan mean by "You must be thinking about the shop next door"?**
 *(Nathan muốn nói gì qua câu "Mẹ hẳn đang nghĩ về cái cửa hàng bên cạnh"?)*
 
-- A. He is almost sure that his mother is thinking about the shop. *(Anh gần như chắc chắn mẹ đang nghĩ về cửa hàng.)*
-- B. He orders her to think about it. *(Anh ra lệnh cho mẹ nghĩ về nó.)*
-- C. He doesn't know about the shop. *(Anh không biết gì về cửa hàng.)*
-- D. He wants to rent the shop himself. *(Anh muốn tự thuê cửa hàng.)*
+- A. He is almost sure that his mother is already thinking about the shop next door. *(Anh gần như chắc chắn mẹ đang nghĩ về cửa hàng bên cạnh.)*
+- B. He orders his mother to think about the shop and to give him an answer soon. *(Anh ra lệnh cho mẹ nghĩ về cửa hàng và sớm trả lời anh)*
+- C. He doesn't know about the shop and wants his mother to explain what it is. *(Anh không biết gì về cửa hàng và muốn mẹ giải thích nó là gì.)*
+- D. He wants to rent the shop himself and open a second café for his family. *(Anh muốn tự thuê cửa hàng và mở quán thứ hai cho gia đình.)*
 
 **14. What could Harriet do if she took the shop?**
 *(Nếu thuê cửa hàng, bà Harriet có thể làm gì?)*
 
-- A. close the old café *(đóng quán cũ)*
-- B. sell bread *(bán bánh mì)*
-- C. double the number of tables and start breakfast earlier *(tăng gấp đôi số bàn và mở bữa sáng sớm hơn)*
-- D. work fewer days *(làm ít ngày hơn)*
+- A. close the old café and move everything to the new, bigger room *(đóng quán cũ và chuyển mọi thứ sang gian mới to hơn)*
+- B. sell bread and cakes to people who walk past the shop in the morning *(bán bánh mì và bánh ngọt cho người đi ngang qua cửa hàng buổi sáng)*
+- C. double the number of tables and start breakfast earlier in the morning *(tăng gấp đôi số bàn và mở bữa sáng sớm hơn vào buổi sáng)*
+- D. work fewer days each week, because Nathan would give her more help *(làm ít ngày hơn mỗi tuần, vì Nathan sẽ giúp bà nhiều hơn)*
 
 **15. Why does Harriet say she is thinking about it now and not in ten years?**
 *(Vì sao bà Harriet nói bà nghĩ tới nó bây giờ chứ không phải mười năm nữa?)*
 
-- A. because the rent will go down *(vì tiền thuê sẽ giảm)*
-- B. because, at her age, she doesn't want to wait too long *(vì ở tuổi bà, bà không muốn chờ quá lâu)*
-- C. because Nathan told her to *(vì Nathan bảo vậy)*
-- D. because the shop will be sold *(vì cửa hàng sắp bị bán)*
+- A. because the rent will go down a lot if she waits for another ten years *(vì tiền thuê sẽ giảm nhiều nếu bà đợi thêm mười năm nữa)*
+- B. because, at her age, she doesn't want to wait too long to try something new *(vì ở tuổi bà, bà không muốn chờ quá lâu mới thử điều mới)*
+- C. because Nathan told her to decide quickly before he leaves on a trip *(vì Nathan bảo bà quyết nhanh trước khi anh đi xa)*
+- D. because the shop will be sold to someone else if she doesn't rent it soon *(vì cửa hàng sẽ bị bán cho người khác nếu bà không thuê sớm)*
 
 **16. Why does Harriet think that the café might be able to pay the high rent?**
 *(Vì sao bà Harriet nghĩ quán có thể trả nổi tiền thuê cao?)*
 
-- A. because Nathan will pay *(vì Nathan sẽ trả)*
-- B. because the book club pays rent *(vì câu lạc bộ sách trả tiền)*
-- C. because the rent is low *(vì tiền thuê thấp)*
+- A. because Nathan will pay half of the rent every month until she is ready *(vì Nathan sẽ trả một nửa tiền thuê mỗi tháng cho tới khi bà sẵn sàng)*
+- B. because the book club has promised to pay a high rent for the new room every week *(vì câu lạc bộ sách đã hứa trả tiền thuê cao cho gian mới mỗi tuần)*
+- C. because the rent is low compared with other shops in the same street *(vì tiền thuê thấp so với các cửa hàng khác trên cùng phố)*
 - D. because the café is busier than ever, and people often wait for a table *(vì quán đông hơn bao giờ hết, và người ta hay phải chờ bàn)*
 
 **17. What is Harriet's biggest worry?**
 *(Nỗi lo lớn nhất của bà Harriet là gì?)*
 
-- A. that a bigger café might stop feeling like home *(rằng quán to hơn có thể không còn giống nhà)*
-- B. that she will run out of coffee *(rằng bà sẽ hết cà phê)*
-- C. that Nathan will be angry *(rằng Nathan sẽ giận)*
-- D. that the bakery will open again *(rằng tiệm bánh sẽ mở lại)*
+- A. that a bigger café might stop feeling like home to the people who come *(rằng quán to hơn có thể không còn giống nhà với những người tới quán)*
+- B. that she will run out of coffee when the new customers start to arrive *(rằng bà sẽ hết cà phê khi khách mới bắt đầu đến)*
+- C. that Nathan will be angry because she is too old to run a bigger café *(rằng Nathan sẽ giận vì bà quá già để điều hành quán lớn hơn)*
+- D. that the bakery will open again and take away many of her customers *(rằng tiệm bánh sẽ mở lại và cướp đi nhiều khách của bà)*
 
 **18. What does Nathan suggest?**
 *(Nathan gợi ý gì?)*
 
-- A. selling the café *(bán quán)*
-- B. making the whole café bigger and more modern *(làm cả quán to và hiện đại hơn)*
+- A. selling the café and using the money to rest, since she is already seventy-three *(bán quán và dùng tiền để nghỉ ngơi, vì bà đã bảy mươi ba tuổi)*
+- B. making the whole café bigger and more modern, so that more customers come *(làm cả quán to và hiện đại hơn, để có thêm khách tới)*
 - C. using the new room for community events and keeping the old room as it is *(dùng phòng mới cho các hoạt động cộng đồng và giữ nguyên phòng cũ)*
-- D. waiting ten years *(chờ mười năm)*
+- D. waiting ten years, until the rent goes down and the café is less busy *(chờ mười năm, tới khi tiền thuê giảm và quán bớt đông)*
 
 **19. What does "In his experience, his mother never called just to ask" suggest?**
 *(Câu "Theo kinh nghiệm của anh, mẹ anh chưa bao giờ gọi chỉ để hỏi cả" hàm ý gì?)*
 
-- A. Harriet never makes phone calls. *(Bà Harriet không bao giờ gọi điện.)*
-- B. Harriet has probably already decided to take the shop. *(Có lẽ bà Harriet đã quyết định thuê cửa hàng rồi.)*
-- C. Nathan doesn't believe his mother. *(Nathan không tin mẹ.)*
-- D. Harriet will not call tomorrow. *(Mai bà Harriet sẽ không gọi.)*
+- A. Harriet never makes phone calls, because she prefers to talk to people in person. *(Bà Harriet không bao giờ gọi điện, vì bà thích nói chuyện trực tiếp.)*
+- B. Harriet has probably already decided to take the shop, whatever she says. *(Có lẽ bà Harriet đã quyết định thuê cửa hàng rồi, dù bà nói gì.)*
+- C. Nathan doesn't believe his mother, because she often says things that are not true. *(Nathan không tin mẹ, vì bà hay nói những điều không đúng.)*
+- D. Harriet will not call tomorrow, because she has already decided against the shop. *(Mai bà Harriet sẽ không gọi, vì bà đã quyết định không thuê cửa hàng.)*
 
 **20. Use both texts. What do Ethan's advice and Harriet's situation have in common?**
 *(Dựa vào cả hai bài. Lời khuyên của Ethan và hoàn cảnh của bà Harriet có điểm gì chung?)*
 
-- A. Both of them are about wildfires. *(Cả hai đều về cháy rừng.)*
-- B. Both of them are about renting a shop. *(Cả hai đều về thuê cửa hàng.)*
-- C. Both of them happen at the fire station. *(Cả hai đều diễn ra ở trạm cứu hoả.)*
+- A. Both of them are about wildfires and give advice on how to stay safe in a fire. *(Cả hai đều về cháy rừng và cho lời khuyên cách giữ an toàn khi có cháy.)*
+- B. Both of them are about renting a shop and talking to the owner about the price. *(Cả hai đều về việc thuê cửa hàng và bàn giá với chủ.)*
+- C. Both of them happen at the fire station, where the neighbors often meet to talk. *(Cả hai đều diễn ra ở trạm cứu hoả, nơi hàng xóm hay gặp nhau trò chuyện.)*
 - D. Both of them show the value of thinking ahead instead of waiting until it is too late. *(Cả hai cho thấy giá trị của việc tính trước thay vì chờ tới khi quá muộn.)*
 
 ---

@@ -34,3 +34,15 @@ Main đã tự đối chiếu từng mục báo ở trên và đồng ý với t
 - u0910: lương dọn bàn 10 → **17 đô/giờ** (cả bài, câu hỏi, giải thích; `characters.md` sửa theo). Phép tính để dành không phụ thuộc con số này.
 - u2324: hiệu ứng Mozart "a few minutes" → **"about fifteen minutes"**.
 - mock1: cầu Cổng Vàng "thousands of cars" → **"more than a hundred thousand cars"**.
+
+---
+
+## Cân lại độ dài phương án (04/11/2026)
+
+Lỗi phát hiện khi rà sách 61: đáp án đúng gần như luôn là phương án dài nhất, nên học viên chọn câu dài nhất là đúng.
+Sonnet (chia nhóm file) viết lại phương án sai cả EN + VI. Main đo lại và so với git, kết quả:
+
+- Đáp án đúng là phương án dài nhất: 81% (438/540) → **23% (125/540)**.
+- Đáp án đúng là phương án ngắn nhất: **16% (91/540)** (kiểm để tránh lệch ngược chiều; mức ngẫu nhiên là 25%).
+- Dài ≥1,5× phương án dài thứ hai: 233 → **0**.
+- 0 câu đổi đáp án, câu hỏi, evidence; 0 bài đọc bị đổi; verify mọi thư mục ĐẠT. Main đọc kiểm câu mẫu ở từng nhóm.

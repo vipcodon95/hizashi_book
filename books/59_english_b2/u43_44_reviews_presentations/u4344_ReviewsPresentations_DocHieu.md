@@ -84,57 +84,57 @@
 **1. Who is Trevor's review written for?**
 *(Bài nhận xét của Trevor viết cho ai?)*
 
-- A. his professors *(các giáo sư)*
-- B. students at Westview High who are applying to college *(học sinh Westview High đang nộp hồ sơ đại học)*
-- C. his roommate *(bạn cùng phòng)*
-- D. the university team *(đội tuyển của trường)*
+- A. his professors, who want to know how first-year students feel about their classes *(các giáo sư của cậu, những người muốn biết sinh viên năm nhất thấy các lớp thế nào)*
+- B. students at Westview High who are applying to college this year *(học sinh Westview High đang nộp hồ sơ đại học năm nay)*
+- C. his roommate, who wants to know why Trevor is unhappy in the dorm *(bạn cùng phòng, người muốn biết vì sao Trevor không vui ở ký túc xá)*
+- D. the university team, which is looking for new players for next year *(đội tuyển của trường, đang tìm cầu thủ mới cho năm sau)*
 
 **2. Where is Trevor studying?**
 *(Trevor đang học ở đâu?)*
 
-- A. at a small college in San Diego *(ở một trường cao đẳng nhỏ tại San Diego)*
-- B. in Texas *(ở Texas)*
-- C. in Washington *(ở Washington)*
-- D. at a large public university in Northern California *(ở một trường đại học công lập lớn ở Bắc California)*
+- A. at a small college in San Diego, close to his family and his old school *(ở một trường cao đẳng nhỏ tại San Diego, gần gia đình và trường cũ)*
+- B. in Texas, where his roommate lives and where his sister studied before him *(ở Texas, nơi bạn cùng phòng sống và chị cậu từng học trước đó)*
+- C. at a large private university in Washington, a short flight from San Diego *(ở một trường đại học tư lớn tại Washington, cách San Diego một chuyến bay ngắn)*
+- D. at a large public university in Northern California, far from San Diego *(ở một trường đại học công lập lớn ở Bắc California, xa San Diego)*
 
 **3. What does Trevor say about office hours?**
 *(Trevor nói gì về giờ tiếp sinh viên?)*
 
 - A. They are very useful, and few students go, so you get the professor's attention. *(Chúng rất có ích, mà ít ai tới, nên bạn được giáo sư dành riêng thời gian.)*
-- B. They are a waste of time. *(Chúng phí thời gian.)*
-- C. They are only for students who fail. *(Chúng chỉ dành cho sinh viên trượt.)*
-- D. They are too early in the morning. *(Chúng quá sớm.)*
+- B. They are a waste of time, because the professors are always busy and never answer questions. *(Chúng phí thời gian, vì các giáo sư luôn bận và không bao giờ trả lời câu hỏi.)*
+- C. They are only for students who fail their quizzes and need extra help. *(Chúng chỉ dành cho sinh viên trượt bài kiểm tra và cần giúp thêm.)*
+- D. They are too early in the morning, so most students cannot go to them. *(Chúng quá sớm vào buổi sáng, nên hầu hết sinh viên không đến được.)*
 
 **4. How did Trevor deal with his roommate's guitar playing?**
 *(Trevor giải quyết chuyện bạn cùng phòng chơi ghi-ta thế nào?)*
 
-- A. He moved out. *(Cậu chuyển đi.)*
-- B. He complained to the university. *(Cậu phàn nàn với nhà trường.)*
+- A. He moved out of the dorm and found a new roommate who never plays any music at night. *(Cậu chuyển khỏi ký túc xá và tìm một bạn cùng phòng mới không bao giờ chơi nhạc ban đêm.)*
+- B. He complained to the university and asked for a different room next semester. *(Cậu phàn nàn với nhà trường và xin phòng khác vào học kỳ sau.)*
 - C. He had a serious conversation, talking about himself rather than blaming his roommate. *(Cậu nói chuyện nghiêm túc, nói về mình thay vì trách bạn.)*
-- D. He started playing the guitar too. *(Cậu cũng chơi ghi-ta.)*
+- D. He started playing the guitar too, and they played together every night. *(Cậu cũng chơi ghi-ta, và hai người chơi cùng nhau mỗi tối.)*
 
 **5. What does "two stars, and I am being kind" suggest?**
 *(Câu "hai sao, mà em đang nương tay đấy" hàm ý gì?)*
 
-- A. The food is excellent. *(Đồ ăn rất ngon.)*
-- B. The food is so bad that two stars is generous. *(Đồ ăn tệ tới mức cho hai sao là đã rộng lượng.)*
-- C. Trevor is kind to the cooks. *(Trevor tử tế với đầu bếp.)*
-- D. Trevor doesn't eat there. *(Trevor không ăn ở đó.)*
+- A. The food is excellent, so two stars is far too low for it. *(Đồ ăn rất ngon, nên hai sao là quá thấp.)*
+- B. The food is so bad that two stars is already a generous score. *(Đồ ăn tệ tới mức hai sao đã là điểm rộng lượng.)*
+- C. Trevor is kind to the cooks, who work very hard to feed all the students. *(Trevor tử tế với các đầu bếp, những người làm việc rất vất vả để nuôi cả sinh viên.)*
+- D. Trevor doesn't eat there, so he gives the food a low score without trying it. *(Trevor không ăn ở đó, nên cho điểm thấp mà chưa thử.)*
 
 **6. What does Trevor's message to his dad show?**
 *(Lời nhắn của Trevor gửi bố cho thấy điều gì?)*
 
-- A. He now appreciates his dad's cooking and misses home. *(Giờ cậu biết quý tài nấu ăn của bố và nhớ nhà.)*
-- B. He wants his dad to stop cooking. *(Cậu muốn bố thôi nấu ăn.)*
-- C. He has always loved broccoli. *(Cậu vốn luôn mê bông cải xanh.)*
-- D. He is angry with his dad. *(Cậu giận bố.)*
+- A. He now appreciates his dad's cooking and misses being at home with his family. *(Giờ cậu biết quý tài nấu ăn của bố và nhớ được ở nhà với gia đình.)*
+- B. He wants his dad to stop cooking and send money for food in the dining hall. *(Cậu muốn bố thôi nấu ăn và gửi tiền để ăn ở nhà ăn trường.)*
+- C. He has always loved broccoli and eats it with every meal at the dorm. *(Cậu vốn luôn mê bông cải xanh và ăn nó trong mọi bữa ở ký túc xá.)*
+- D. He is angry with his dad, because his dad did not warn him about the food. *(Cậu giận bố, vì bố đã không báo trước cho cậu về đồ ăn.)*
 
 **7. Why does Trevor give soccer five stars?**
 *(Vì sao Trevor cho bóng đá năm sao?)*
 
-- A. because he made the university team *(vì cậu vào đội tuyển của trường)*
-- B. because the games are easy *(vì các trận dễ)*
-- C. because the coach is famous *(vì huấn luyện viên nổi tiếng)*
+- A. because he made the university team and now plays in front of very large crowds every week *(vì cậu vào đội tuyển của trường và giờ chơi trước đám đông rất lớn mỗi tuần)*
+- B. because the games are easy, so his team wins every match by a lot of goals *(vì các trận dễ, nên đội cậu thắng mọi trận cách xa nhiều bàn)*
+- C. because the coach is famous and has taught him many new things this month *(vì huấn luyện viên nổi tiếng và đã dạy cậu nhiều điều mới tháng này)*
 - D. because his club team, with players from many places, is the best part of his week *(vì đội câu lạc bộ, với cầu thủ khắp nơi, là phần vui nhất trong tuần của cậu)*
 
 **8. Which of these is NOT part of Trevor's advice?**
@@ -148,18 +148,18 @@
 **9. What is the function of the short questions in the last paragraph ("Is it hard? Yes. Do I sometimes miss home?")?**
 *(Những câu hỏi ngắn ở đoạn cuối ("Có khó không? Có. Có lúc nào nhớ nhà không?") có chức năng gì?)*
 
-- A. to sum up his honest overall opinion in a lively way *(để tóm tắt nhận xét tổng thể thật lòng một cách sinh động)*
-- B. to ask readers for help *(để nhờ người đọc giúp)*
-- C. to complain about the university *(để phàn nàn về trường)*
-- D. to start a new topic *(để mở chủ đề mới)*
+- A. to sum up his honest overall opinion of college life in a lively way *(để tóm tắt nhận xét thật lòng về đời sống đại học một cách sinh động)*
+- B. to ask readers for help with choosing a college for the next year *(để nhờ người đọc giúp chọn một trường đại học cho năm sau)*
+- C. to complain about the university and the way that it treats first-year students *(để phàn nàn về trường và cách trường đối xử với sinh viên năm nhất)*
+- D. to start a new topic about the soccer club he joined in his first month *(để mở chủ đề mới về câu lạc bộ bóng đá cậu tham gia trong tháng đầu)*
 
 **10. Overall, how does Trevor feel about his choice?**
 *(Nhìn chung, Trevor thấy thế nào về lựa chọn của mình?)*
 
-- A. He regrets it. *(Cậu hối hận.)*
-- B. He wants to move to Texas. *(Cậu muốn chuyển tới Texas.)*
-- C. It is hard, but he is happy with it and would choose it again. *(Khó, nhưng cậu hài lòng và sẽ chọn lại.)*
-- D. He hasn't decided yet. *(Cậu chưa quyết.)*
+- A. He regrets it, because it is much too hard and he misses home every day. *(Cậu hối hận, vì nó quá khó và cậu nhớ nhà mỗi ngày.)*
+- B. He wants to move to Texas, where his roommate says that the classes are easier. *(Cậu muốn chuyển tới Texas, nơi bạn cùng phòng nói các lớp dễ hơn.)*
+- C. It is hard, but he is happy with it and would choose it again without doubt. *(Khó, nhưng cậu hài lòng và chắc chắn sẽ chọn lại.)*
+- D. He hasn't decided yet, and he will ask his family what to do next year. *(Cậu chưa quyết, và sẽ hỏi gia đình nên làm gì vào năm sau.)*
 
 ---
 
@@ -214,82 +214,82 @@
 **11. What is Tracy preparing for?**
 *(Tracy đang chuẩn bị cho việc gì?)*
 
-- A. a final exam *(kỳ thi cuối)*
-- B. a presentation *(một bài thuyết trình)*
-- C. a final interview for a full-time job at Brandt & Lowe *(buổi phỏng vấn cuối cho vị trí chính thức ở Brandt & Lowe)*
-- D. her graduation speech *(bài phát biểu tốt nghiệp)*
+- A. a final exam in engineering at the university where she studies *(kỳ thi cuối về kỹ thuật ở trường đại học nơi cô học)*
+- B. a presentation about her internship for the other students at the company *(một bài thuyết trình về kỳ thực tập cho các bạn thực tập khác ở công ty)*
+- C. a final interview for a full-time job at Brandt & Lowe, where she did her internship *(buổi phỏng vấn cuối cho vị trí chính thức ở Brandt & Lowe, nơi cô đã thực tập)*
+- D. her graduation speech, which she will give to her family and her friends *(bài phát biểu tốt nghiệp, cô sẽ đọc cho gia đình và bạn bè)*
 
 **12. What is wrong with Tracy's first answer, "Because I liked my internship"?**
 *(Câu trả lời đầu "Vì em thích kỳ thực tập" của Tracy có vấn đề gì?)*
 
-- A. It is too short and has no reasons or examples. *(Quá ngắn, không có lý do hay ví dụ.)*
-- B. It is not true. *(Không đúng sự thật.)*
-- C. It is rude. *(Bất lịch sự.)*
-- D. It is too long. *(Quá dài.)*
+- A. It is too short, and it has no reasons or examples to support what she says. *(Quá ngắn, và không có lý do hay ví dụ nào để chứng minh điều cô nói.)*
+- B. It is not true, and Leah knows that Tracy did not like her internship. *(Nó không đúng sự thật, và Leah biết Tracy không thích kỳ thực tập.)*
+- C. It is rude, because Tracy did not thank the company for the internship. *(Nó bất lịch sự, vì Tracy không cảm ơn công ty về kỳ thực tập.)*
+- D. It is too long, and Tracy talks about too many things in one answer. *(Nó quá dài, và Tracy nói quá nhiều chuyện trong một câu trả lời.)*
 
 **13. What does Tracy use as an example in her second answer?**
 *(Tracy lấy ví dụ gì trong câu trả lời thứ hai?)*
 
-- A. her final exams *(kỳ thi cuối)*
-- B. her roommate *(bạn cùng phòng)*
-- C. a bridge she designed *(một cây cầu cô thiết kế)*
-- D. finding two mistakes in an old bridge report during her internship *(việc phát hiện hai lỗi trong một bản báo cáo cầu cũ khi thực tập)*
+- A. her final exams, when she stopped sleeping because she wanted to be perfect *(kỳ thi cuối của cô, khi cô mất ngủ vì muốn mọi thứ hoàn hảo)*
+- B. her roommate, who helped her to check the numbers in a bridge report *(bạn cùng phòng, người giúp cô kiểm tra các con số trong một báo cáo cầu)*
+- C. a bridge that she designed by herself during her internship at Brandt & Lowe *(một cây cầu cô tự thiết kế trong kỳ thực tập ở Brandt & Lowe)*
+- D. finding two mistakes in an old bridge report during her internship at the company *(việc phát hiện hai lỗi trong một bản báo cáo cầu cũ khi thực tập ở công ty)*
 
 **14. What is the purpose of phrases such as "Well, I'd say…" and "The thing is…" in Tracy's answers?**
 *(Các cụm như "Dạ, em nghĩ…" và "Chuyện là…" trong câu trả lời của Tracy có tác dụng gì?)*
 
-- A. to change the subject *(để đổi chủ đề)*
-- B. to introduce and extend her answers naturally *(để mở đầu và nói tiếp câu trả lời một cách tự nhiên)*
-- C. to avoid answering *(để né câu hỏi)*
-- D. to show that she is angry *(để cho thấy cô đang bực)*
+- A. to change the subject when she does not want to answer the question *(để đổi chủ đề khi cô không muốn trả lời câu hỏi)*
+- B. to introduce and extend her answers in a natural way, as in a real talk *(để mở đầu và nói tiếp câu trả lời một cách tự nhiên như trong một cuộc trò chuyện thật)*
+- C. to avoid answering the question by giving the interviewer more time to think *(để né câu hỏi bằng cách cho người phỏng vấn thêm thời gian suy nghĩ)*
+- D. to show that she is angry about the question and does not want to answer *(để cho thấy cô bực vì câu hỏi và không muốn trả lời)*
 
 **15. Why does Tracy like the people at Brandt & Lowe?**
 *(Vì sao Tracy thích con người ở Brandt & Lowe?)*
 
-- A. because they are all famous engineers *(vì họ đều là kỹ sư nổi tiếng)*
-- B. because they never work late *(vì họ không bao giờ làm muộn)*
+- A. because they are all famous engineers who have built bridges in many cities *(vì họ đều là kỹ sư nổi tiếng đã xây cầu ở nhiều thành phố)*
+- B. because they never work late, so she has time for her family every evening *(vì họ không bao giờ làm muộn, nên cô có thời gian cho gia đình mỗi tối)*
 - C. because nobody pretends to know everything, so it is a safe place to learn *(vì không ai giả vờ biết hết, nên đó là nơi an toàn để học hỏi)*
-- D. because they gave her a high salary *(vì họ trả lương cao)*
+- D. because they gave her a high salary and a bigger task during her first week *(vì họ trả cô lương cao và giao cô việc lớn hơn trong tuần đầu)*
 
 **16. Why does Leah think Tracy's answer about her weakness is good?**
 *(Vì sao Leah thấy câu trả lời về điểm yếu của Tracy là hay?)*
 
-- A. because being a perfectionist is not a real weakness *(vì cầu toàn không phải điểm yếu thật)*
-- B. because it was short *(vì nó ngắn)*
-- C. because Tracy made it funny *(vì Tracy nói vui)*
-- D. because it is true, and Tracy showed what she did about it *(vì nó thật, và Tracy cho thấy cô đã làm gì với nó)*
+- A. because being a perfectionist is not a real weakness, so it will impress the interviewer *(vì cầu toàn không phải điểm yếu thật, nên sẽ gây ấn tượng với người phỏng vấn)*
+- B. because it was short, and interviewers prefer very short answers to long ones *(vì nó ngắn, và người phỏng vấn thích câu trả lời rất ngắn hơn câu dài)*
+- C. because Tracy made it funny, and the interviewer laughed during the whole answer *(vì Tracy nói vui, và người phỏng vấn cười suốt câu trả lời)*
+- D. because it is true, and Tracy showed clearly what she did about her weakness *(vì nó thật, và Tracy cho thấy rõ cô đã làm gì với điểm yếu của mình)*
 
 **17. What does Leah mean by "Also, I remember that phone call"?**
 *(Leah muốn nói gì qua câu "Mà chị còn nhớ cuộc gọi hôm đó đấy"?)*
 
 - A. She remembers the night when Tracy called her, stressed, before her exams. *(Cô nhớ cái đêm Tracy gọi cho cô vì căng thẳng trước kỳ thi.)*
-- B. She forgot to call Tracy. *(Cô quên gọi cho Tracy.)*
-- C. She wants Tracy to call the company. *(Cô muốn Tracy gọi cho công ty.)*
-- D. She remembers a call from Brandt & Lowe. *(Cô nhớ một cuộc gọi từ Brandt & Lowe.)*
+- B. She forgot to call Tracy before her exams and wants to say sorry for it. *(Cô quên gọi cho Tracy trước kỳ thi và muốn xin lỗi vì điều đó.)*
+- C. She wants Tracy to call the company on Monday and ask for more time. *(Cô muốn Tracy gọi cho công ty vào thứ Hai và xin thêm thời gian.)*
+- D. She remembers a call from Brandt & Lowe that offered Tracy the internship. *(Cô nhớ một cuộc gọi từ Brandt & Lowe đã mời Tracy làm thực tập.)*
 
 **18. What does Tracy say she wants in five years?**
 *(Tracy nói năm năm nữa cô muốn gì?)*
 
-- A. a famous title *(một chức danh nổi tiếng)*
-- B. to lead small projects and, above all, to keep learning *(phụ trách các dự án nhỏ và trên hết là tiếp tục học hỏi)*
-- C. to leave engineering *(bỏ nghề kỹ thuật)*
-- D. to work at a hospital *(làm ở bệnh viện)*
+- A. a famous title, such as chief engineer, at a very large company *(một chức danh nổi tiếng, như kỹ sư trưởng, ở một công ty rất lớn)*
+- B. to lead small projects and, above all, to keep learning new things *(phụ trách các dự án nhỏ và trên hết là tiếp tục học hỏi điều mới)*
+- C. to leave engineering and open a small café with her family *(bỏ nghề kỹ thuật và mở một quán cà phê nhỏ cùng gia đình)*
+- D. to work at a hospital, where she can help people who are ill *(làm ở bệnh viện, nơi cô có thể giúp những người đang ốm)*
 
 **19. What is Leah's final advice?**
 *(Lời khuyên cuối của Leah là gì?)*
 
-- A. Talk for as long as possible. *(Nói càng lâu càng tốt.)*
-- B. Don't answer difficult questions. *(Đừng trả lời câu khó.)*
-- C. Memorize every answer. *(Học thuộc mọi câu trả lời.)*
-- D. Answer, add a reason, give an example, then stop. *(Trả lời, thêm lý do, đưa ví dụ, rồi dừng.)*
+- A. Talk for as long as possible, so that the interviewer hears every detail. *(Nói càng lâu càng tốt, để người phỏng vấn nghe được mọi chi tiết.)*
+- B. Don't answer difficult questions, and change the subject if you need to. *(Đừng trả lời câu khó, và đổi chủ đề nếu cần.)*
+- C. Memorize every answer, so that you never have to think during the interview. *(Học thuộc mọi câu trả lời, để không phải nghĩ trong buổi phỏng vấn.)*
+- D. Answer the question, add a reason, give an example, and then simply stop talking. *(Trả lời câu hỏi, thêm lý do, đưa ví dụ, rồi cứ thế dừng nói.)*
 
 **20. Use both texts. What do Trevor's review and Tracy's interview answers have in common?**
 *(Dựa vào cả hai bài. Bài nhận xét của Trevor và câu trả lời phỏng vấn của Tracy có điểm gì chung?)*
 
-- A. Both of them are about bridges. *(Cả hai đều về cầu.)*
-- B. Both of them give honest opinions supported by real examples, including weaknesses. *(Cả hai đưa ra nhận xét thật lòng, có ví dụ thật, kể cả điểm yếu.)*
-- C. Both of them were written for professors. *(Cả hai đều viết cho giáo sư.)*
-- D. Both of them avoid mentioning problems. *(Cả hai đều né nhắc tới khó khăn.)*
+- A. Both of them are about bridges that the writers helped to design at college. *(Cả hai đều về những cây cầu mà người viết đã giúp thiết kế ở trường.)*
+- B. Both give honest opinions supported by real examples, including their weaknesses. *(Cả hai đưa ra nhận xét thật lòng, có ví dụ thật, kể cả những điểm yếu của mình.)*
+- C. Both of them were written for professors who read them before the first class. *(Cả hai đều viết cho giáo sư đọc trước buổi học đầu tiên.)*
+- D. Both of them avoid mentioning problems, so that readers only hear good news. *(Cả hai đều né nhắc tới khó khăn, để người đọc chỉ nghe tin tốt.)*
 
 ---
 

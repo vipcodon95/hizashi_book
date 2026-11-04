@@ -96,34 +96,34 @@
 **1. What is the main purpose of the notice?**
 *(Mục đích chính của thông báo là gì?)*
 
-- A. to advertise jobs for nurses *(để quảng cáo việc làm cho y tá)*
-- B. to explain what hospital volunteers do and how to become one *(để giải thích tình nguyện viên bệnh viện làm gì và cách trở thành tình nguyện viên)*
-- C. to ask for money for the hospital *(để quyên tiền cho bệnh viện)*
-- D. to tell patients about visiting hours *(để báo giờ thăm cho bệnh nhân)*
+- A. to advertise jobs for nurses who want to work in the pediatric unit *(để quảng cáo việc làm cho y tá muốn làm ở khoa nhi)*
+- B. to explain what hospital volunteers do and how people can apply to become one *(để giải thích tình nguyện viên bệnh viện làm gì và cách đăng ký để thành tình nguyện viên)*
+- C. to ask for money from visitors so that the hospital can buy new equipment *(để xin tiền khách đến thăm giúp bệnh viện mua thiết bị mới)*
+- D. to tell patients and their families about the visiting hours in each ward *(để báo cho bệnh nhân và gia đình giờ thăm ở từng khu)*
 
 **2. Which of these can volunteers do without being asked by a nurse?**
 *(Tình nguyện viên được làm việc nào mà không cần y tá đề nghị?)*
 
-- A. help patients get out of bed *(đỡ bệnh nhân ra khỏi giường)*
-- B. help patients eat *(cho bệnh nhân ăn)*
-- C. give medical care *(chăm sóc y tế)*
-- D. read to children in the pediatric unit *(đọc truyện cho trẻ ở khoa nhi)*
+- A. help patients get out of bed when they want to walk around the ward *(đỡ bệnh nhân ra khỏi giường khi họ muốn đi dạo quanh khu điều trị)*
+- B. help patients eat their meals when their families cannot be there *(cho bệnh nhân ăn khi gia đình họ không thể có mặt)*
+- C. give medical care to patients who are waiting at the information desk *(chăm sóc y tế cho bệnh nhân đang chờ ở quầy thông tin)*
+- D. read to children in the pediatric unit, which needs no help from a nurse *(đọc truyện cho trẻ ở khoa nhi, việc không cần y tá nhờ)*
 
 **3. A fifteen-year-old student wants to volunteer this summer. What does the notice say?**
 *(Một học sinh mười lăm tuổi muốn làm tình nguyện mùa hè này. Thông báo nói gì?)*
 
-- A. She is too young, because teenagers must be at least sixteen. *(Bạn ấy còn quá nhỏ, vì thanh thiếu niên phải từ mười sáu tuổi.)*
-- B. She can apply if a parent signs the form. *(Bạn ấy được đăng ký nếu bố mẹ ký đơn.)*
-- C. She can work only at the information desk. *(Bạn ấy chỉ được làm ở quầy thông tin.)*
-- D. She doesn't need a flu vaccine. *(Bạn ấy không cần tiêm vắc-xin cúm.)*
+- A. She is too young, because teenagers must be at least sixteen to apply. *(Bạn ấy còn quá nhỏ, vì thanh thiếu niên phải từ mười sáu tuổi mới được đăng ký.)*
+- B. She can apply at once, because a parent can sign the form for her. *(Bạn ấy đăng ký được ngay, vì bố mẹ có thể ký đơn thay.)*
+- C. She can work only at the information desk until she is sixteen years old. *(Bạn ấy chỉ được làm ở quầy thông tin cho tới khi tròn mười sáu tuổi.)*
+- D. She doesn't need a flu vaccine, because teenagers are not at risk of infection. *(Bạn ấy không cần tiêm vắc-xin cúm, vì thanh thiếu niên không có nguy cơ nhiễm bệnh.)*
 
 **4. What must all volunteers commit to?**
 *(Mọi tình nguyện viên phải cam kết điều gì?)*
 
-- A. working every day *(làm việc mỗi ngày)*
-- B. at least one four-hour shift a week for six months *(ít nhất một ca bốn tiếng mỗi tuần trong sáu tháng)*
-- C. a full-time job *(một công việc toàn thời gian)*
-- D. working only at night *(chỉ làm ban đêm)*
+- A. working every day, including weekends, for the first month of the program *(làm việc mỗi ngày, kể cả cuối tuần, trong tháng đầu của chương trình)*
+- B. at least one four-hour shift every week for six months, without a long break *(ít nhất một ca bốn tiếng mỗi tuần trong sáu tháng, không nghỉ dài)*
+- C. a full-time job at the hospital after the six months of training *(một công việc toàn thời gian ở bệnh viện sau sáu tháng tập huấn)*
+- D. working only at night, when the hospital has fewer visitors *(chỉ làm ban đêm, khi bệnh viện có ít khách thăm hơn)*
 
 **5. What happens after the short interview, if you are accepted?**
 *(Sau buổi phỏng vấn ngắn, nếu được nhận thì sao?)*
@@ -144,34 +144,34 @@
 **7. What does the notice say about volunteering and college applications?**
 *(Thông báo nói gì về việc tình nguyện và hồ sơ đại học?)*
 
-- A. It guarantees a place at college. *(Nó đảm bảo một suất vào đại học.)*
-- B. It gives medical experience for applications. *(Nó cho kinh nghiệm y khoa để đưa vào hồ sơ.)*
-- C. Young people are not allowed to mention it. *(Người trẻ không được nhắc tới nó.)*
-- D. It is not meant to give medical experience, although many young volunteers say it helped them choose a career. *(Nó không nhằm cho kinh nghiệm y khoa, dù nhiều tình nguyện viên trẻ nói nó giúp họ chọn nghề.)*
+- A. It guarantees a place at college, because the hospital writes a letter for each young volunteer. *(Nó đảm bảo một suất vào đại học, vì bệnh viện viết thư cho từng tình nguyện viên trẻ.)*
+- B. It gives volunteers the medical experience that colleges ask for in their applications. *(Nó cho tình nguyện viên kinh nghiệm y khoa mà các trường đại học đòi trong hồ sơ.)*
+- C. Young people are not allowed to mention it in their college applications at all. *(Người trẻ hoàn toàn không được nhắc tới nó trong hồ sơ đại học.)*
+- D. It does not give medical experience, although many young volunteers say it helped them choose a career. *(Nó không cho kinh nghiệm y khoa, dù nhiều tình nguyện viên trẻ nói nó giúp họ chọn nghề.)*
 
 **8. In "If you are ill, please stay at home and call your supervisor; otherwise, you could put patients at risk", what does "otherwise" mean?**
 *(Trong câu "Nếu bị ốm, xin ở nhà và gọi cho người phụ trách; nếu không, bạn có thể khiến bệnh nhân gặp nguy hiểm", "otherwise" nghĩa là gì?)*
 
-- A. in addition *(thêm vào đó)*
-- B. because *(bởi vì)*
-- C. if you don't do this *(nếu bạn không làm vậy)*
-- D. at the same time *(cùng lúc)*
+- A. in addition to what was said before *(thêm vào những điều đã nói trước đó)*
+- B. because of what the writer has just said *(vì điều người viết vừa nói)*
+- C. if you don't do what has just been asked *(nếu bạn không làm điều vừa được yêu cầu)*
+- D. at the same time as the other thing *(cùng lúc với việc kia)*
 
 **9. Why do volunteers learn about hand hygiene during training?**
 *(Vì sao tình nguyện viên học về vệ sinh tay trong buổi tập huấn?)*
 
-- A. to protect patients from infections *(để bảo vệ bệnh nhân khỏi nhiễm trùng)*
-- B. to give medical care *(để chăm sóc y tế)*
-- C. because they will cook for patients *(vì họ sẽ nấu ăn cho bệnh nhân)*
-- D. to pass a college exam *(để thi đại học)*
+- A. to stop infections from spreading to patients *(để ngăn nhiễm trùng lây sang bệnh nhân)*
+- B. to help patients who feel ill during their shift *(để giúp bệnh nhân thấy ốm trong ca của họ)*
+- C. because they will cook meals for patients every week *(vì họ sẽ nấu bữa ăn cho bệnh nhân mỗi tuần)*
+- D. to pass an exam that many colleges ask for *(để qua một kỳ thi mà nhiều trường đại học yêu cầu)*
 
 **10. Where and when can people ask questions in person?**
 *(Có thể hỏi trực tiếp ở đâu và khi nào?)*
 
-- A. at the information desk, every day *(ở quầy thông tin, mỗi ngày)*
-- B. online, at any time *(trực tuyến, bất cứ lúc nào)*
+- A. at the information desk next to the main entrance, every day of the week *(ở quầy thông tin cạnh cổng chính, mỗi ngày trong tuần)*
+- B. online, at any time of the day or night, by sending a message to the volunteer supervisor *(trực tuyến, bất cứ lúc nào ngày hay đêm, bằng cách nhắn cho người phụ trách tình nguyện viên)*
 - C. at the volunteer office on the ground floor, Monday to Friday, 9 a.m. to 3 p.m. *(ở văn phòng tình nguyện tầng trệt, thứ Hai tới thứ Sáu, 9 giờ sáng tới 3 giờ chiều)*
-- D. in the pediatric unit, on weekends *(ở khoa nhi, cuối tuần)*
+- D. in the pediatric unit, on weekends, when the volunteers read to the children *(ở khoa nhi, vào cuối tuần, khi tình nguyện viên đọc truyện cho trẻ)*
 
 ---
 
@@ -216,34 +216,34 @@
 **11. Why did Harriet write this letter?**
 *(Vì sao bà Harriet viết lá thư này?)*
 
-- A. to invite Amy to the café *(để mời Amy tới quán)*
-- B. to apologize to Amy *(để xin lỗi Amy)*
-- C. to tell Amy about the café's business plan *(để kể cho Amy về kế hoạch kinh doanh của quán)*
-- D. to share life lessons with Amy for when she is grown up *(để chia sẻ những bài học cuộc sống cho Amy khi cháu lớn)*
+- A. to invite Amy to the café on her eighteenth birthday for a special lunch *(để mời Amy tới quán vào sinh nhật mười tám tuổi cho một bữa trưa đặc biệt)*
+- B. to apologize to Amy for being absent from her life when she was nine *(để xin lỗi Amy vì đã vắng mặt trong cuộc sống của cháu lúc cháu chín tuổi)*
+- C. to tell Amy about the café's business plan and how many customers it had *(để kể cho Amy về kế hoạch kinh doanh của quán và quán có bao nhiêu khách)*
+- D. to share life lessons with Amy for when she is grown up and reads the letter *(để chia sẻ những bài học cuộc sống cho Amy khi cháu lớn và đọc thư)*
 
 **12. What is Amy doing when Harriet writes the letter?**
 *(Lúc bà Harriet viết thư, Amy đang làm gì?)*
 
 - A. sleeping on Harriet's sofa with a book on her chest *(ngủ trên sofa nhà bà với cuốn sách trên ngực)*
-- B. reading the letter *(đọc lá thư)*
-- C. singing in the kitchen *(hát trong bếp)*
-- D. working at the café *(làm ở quán)*
+- B. reading the letter that her grandmother left on the table *(đọc lá thư bà để lại trên bàn)*
+- C. singing in the kitchen while her grandmother cooks dinner for the café *(hát trong bếp khi bà nấu bữa tối cho quán)*
+- D. working at the café, where she helps to serve soup on Wednesdays *(làm ở quán, nơi cháu giúp phục vụ món súp vào thứ Tư)*
 
 **13. What does "If only I had kept singing!" express?**
 *(Câu "Giá mà bà cứ hát tiếp!" thể hiện điều gì?)*
 
-- A. Harriet is proud that she stopped. *(Bà tự hào vì đã thôi hát.)*
-- B. Harriet still sings professionally. *(Bà vẫn hát chuyên nghiệp.)*
-- C. Harriet regrets stopping singing when she was young. *(Bà tiếc vì đã thôi hát hồi trẻ.)*
-- D. Harriet wants Amy to stop singing. *(Bà muốn Amy thôi hát.)*
+- A. Harriet is proud that she stopped, because her teacher was right about her voice. *(Bà tự hào vì đã thôi hát, vì giáo viên đã nói đúng về giọng của bà.)*
+- B. Harriet still sings professionally, and she is glad that she never gave up singing. *(Bà vẫn hát chuyên nghiệp, và mừng vì chưa bao giờ bỏ hát.)*
+- C. Harriet regrets that she stopped singing when she was young because of a teacher's comment. *(Bà tiếc vì đã thôi hát hồi trẻ chỉ vì lời nhận xét của một giáo viên.)*
+- D. Harriet wants Amy to stop singing, because the teacher said her voice was unusual. *(Bà muốn Amy thôi hát, vì giáo viên nói giọng bà khác thường.)*
 
 **14. What does Harriet mean by "nobody has died"?**
 *(Bà Harriet muốn nói gì qua câu "chẳng ai chết cả"?)*
 
-- A. Her singing has made people ill. *(Giọng hát của bà làm người ta ốm.)*
+- A. Her singing has made people ill, so they have stopped coming to her café. *(Giọng hát của bà làm người ta ốm, nên họ thôi tới quán của bà.)*
 - B. She is joking that singing badly hasn't hurt anyone. *(Bà đùa rằng hát dở cũng chẳng hại ai.)*
-- C. Her neighbors are angry. *(Hàng xóm giận bà.)*
-- D. She sings at funerals. *(Bà hát ở đám tang.)*
+- C. Her neighbors are angry, because she sings loudly in the kitchen every morning. *(Hàng xóm giận bà, vì sáng nào bà cũng hát to trong bếp.)*
+- D. She sings at funerals, and nobody there has ever complained about her voice. *(Bà hát ở đám tang, và chưa ai ở đó phàn nàn về giọng bà.)*
 
 **15. What is the second lesson in the letter?**
 *(Bài học thứ hai trong thư là gì?)*
@@ -256,42 +256,42 @@
 **16. What does "Had I known how quickly your grandfather and I would run out of time" tell us?**
 *(Câu "Nếu bà biết ông và bà sẽ hết thời gian bên nhau nhanh như vậy" cho ta biết điều gì?)*
 
-- A. Harriet didn't know that their time together would be so short. *(Bà Harriet đã không biết thời gian bên nhau sẽ ngắn như vậy.)*
-- B. Harriet knew exactly how long they had. *(Bà biết chính xác họ có bao lâu.)*
-- C. Harriet's husband is still alive. *(Chồng bà vẫn còn sống.)*
-- D. Harriet and her husband never argued. *(Ông bà chưa từng cãi nhau.)*
+- A. Harriet didn't know that their time together would be so short, and she regrets it. *(Bà Harriet đã không biết thời gian bên nhau sẽ ngắn như vậy, và bà tiếc điều đó.)*
+- B. Harriet knew exactly how long they had, so she planned every evening carefully. *(Bà biết chính xác họ có bao lâu, nên lên kế hoạch cho từng buổi tối thật kỹ.)*
+- C. Harriet's husband is still alive, and they now argue less than before. *(Chồng bà vẫn còn sống, và giờ hai người cãi nhau ít hơn trước.)*
+- D. Harriet and her husband never argued, because they were always kind to each other. *(Ông bà chưa từng cãi nhau, vì lúc nào cũng tử tế với nhau)*
 
 **17. What does Harriet mean by "we wasted too many evenings being right instead of being kind"?**
 *(Bà Harriet muốn nói gì qua câu "ông bà đã phí quá nhiều buổi tối để giành phần đúng thay vì đối tốt với nhau"?)*
 
 - A. They argued to win small points when they could have been kind to each other. *(Ông bà cãi nhau để thắng những chuyện nhỏ trong khi lẽ ra có thể đối tốt với nhau.)*
-- B. They were always right. *(Ông bà lúc nào cũng đúng.)*
-- C. They worked too many evenings. *(Ông bà làm việc quá nhiều buổi tối.)*
-- D. They were never happy. *(Ông bà chưa bao giờ hạnh phúc.)*
+- B. They were always right, so they never needed to listen to anyone else. *(Ông bà lúc nào cũng đúng, nên không bao giờ cần nghe ai khác.)*
+- C. They worked too many evenings at the café, so they had no time to rest. *(Ông bà làm việc quá nhiều buổi tối ở quán, nên không có thời gian nghỉ.)*
+- D. They were never happy, because they argued about small things every single day. *(Ông bà chưa bao giờ hạnh phúc, vì ngày nào cũng cãi nhau chuyện nhỏ.)*
 
 **18. Why does Harriet mention "the quiet man who orders soup on Wednesdays"?**
 *(Vì sao bà Harriet nhắc tới "người đàn ông ít nói hay gọi súp thứ Tư"?)*
 
-- A. to complain about her customers *(để phàn nàn về khách)*
-- B. to show that he is her husband *(để cho thấy đó là chồng bà)*
-- C. as an example of an ordinary person who has a surprising story *(làm ví dụ về một người bình thường có câu chuyện bất ngờ)*
-- D. to tell Amy to avoid strangers *(để dặn Amy tránh người lạ)*
+- A. to complain about her customers, who order soup and then sit for hours *(để phàn nàn về khách, những người gọi súp rồi ngồi hàng giờ)*
+- B. to show that he is her husband, who always came in on Wednesdays *(để cho thấy đó là chồng bà, người luôn ghé vào thứ Tư)*
+- C. as an example of an ordinary person who may have a surprising story to tell *(làm ví dụ về một người bình thường có thể có câu chuyện bất ngờ để kể)*
+- D. to tell Amy to avoid strangers, because every one of them has a secret *(để dặn Amy tránh người lạ, vì ai trong họ cũng có một bí mật)*
 
 **19. What does Harriet call "the cheapest gift in the world"?**
 *(Bà Harriet gọi điều gì là "món quà rẻ nhất thế giới"?)*
 
-- A. a cup of coffee *(một tách cà phê)*
-- B. a letter *(một lá thư)*
-- C. asking people about themselves and listening properly *(hỏi han người khác và lắng nghe cho tử tế)*
-- D. singing *(ca hát)*
+- A. a cup of coffee shared with a friend at the café on a quiet afternoon *(một tách cà phê uống cùng bạn ở quán vào một buổi chiều yên tĩnh)*
+- B. a letter written by hand and sent to someone that you love *(một lá thư viết tay gửi cho người bạn yêu thương)*
+- C. asking people about themselves and then listening to them properly *(hỏi han người khác về chính họ rồi lắng nghe cho tử tế)*
+- D. singing in the kitchen, badly and happily, when nobody else is at home *(hát trong bếp, hát dở mà vui, khi không có ai ở nhà)*
 
 **20. What is the tone of Harriet's letter?**
 *(Giọng điệu của lá thư thế nào?)*
 
-- A. angry and bitter *(giận dữ và cay đắng)*
-- B. warm, honest and sometimes funny *(ấm áp, chân thành và đôi khi hài hước)*
-- C. cold and formal *(lạnh lùng và trang trọng)*
-- D. worried and afraid *(lo lắng và sợ hãi)*
+- A. angry and bitter, because she feels that her life has been wasted *(giận dữ và cay đắng, vì bà thấy cuộc đời mình đã uổng phí)*
+- B. warm and honest, and sometimes funny even when she writes about sad things *(ấm áp và chân thành, và đôi khi hài hước ngay cả khi bà viết về chuyện buồn)*
+- C. cold and formal, like a letter from a business to a customer *(lạnh lùng và trang trọng, như thư của một doanh nghiệp gửi khách)*
+- D. worried and afraid, because she thinks that Amy will forget her *(lo lắng và sợ hãi, vì bà nghĩ Amy sẽ quên bà)*
 
 ---
 
@@ -335,16 +335,16 @@
 **21. What is the article mainly about?**
 *(Bài báo chủ yếu nói về điều gì?)*
 
-- A. different scientific ideas about why we yawn *(các ý tưởng khoa học khác nhau về vì sao ta ngáp)*
-- B. how to stop yawning in class *(cách nhịn ngáp trong lớp)*
-- C. why dogs are clever *(vì sao chó thông minh)*
-- D. how babies grow *(em bé lớn lên thế nào)*
+- A. different scientific ideas about why humans and animals yawn *(các ý tưởng khoa học khác nhau về vì sao người và động vật ngáp)*
+- B. how to stop yawning in class when you are tired or bored *(cách nhịn ngáp trong lớp khi bạn mệt hoặc chán)*
+- C. why dogs are clever enough to catch yawns from their owners *(vì sao chó đủ thông minh để bị lây cái ngáp từ chủ)*
+- D. how babies grow in the weeks before they are born *(em bé lớn lên thế nào trong những tuần trước khi chào đời)*
 
 **22. When do humans first start yawning?**
 *(Con người bắt đầu ngáp từ khi nào?)*
 
 - A. as soon as they are born *(ngay khi chào đời)*
-- B. before they are born *(từ trước khi chào đời)*
+- B. before they are born, as scans show *(từ trước khi chào đời, như ảnh siêu âm cho thấy)*
 - C. when they start school *(khi bắt đầu đi học)*
 - D. when they are three years old *(khi được ba tuổi)*
 
@@ -352,65 +352,65 @@
 *(Vì sao thuyết oxy có vẻ không đúng?)*
 
 - A. because volunteers yawned just as often with more or less oxygen *(vì tình nguyện viên vẫn ngáp nhiều như vậy dù có thêm hay bớt oxy)*
-- B. because animals don't need oxygen *(vì động vật không cần oxy)*
-- C. because nobody has tested it *(vì chưa ai kiểm chứng)*
-- D. because yawning increases oxygen *(vì ngáp làm tăng oxy)*
+- B. because animals with backbones don't need extra oxygen when they yawn *(vì động vật có xương sống không cần thêm oxy khi ngáp)*
+- C. because nobody has tested it with volunteers in a laboratory yet *(vì chưa ai kiểm chứng nó với tình nguyện viên trong phòng thí nghiệm)*
+- D. because yawning increases the amount of oxygen in the blood *(vì ngáp làm tăng lượng oxy trong máu)*
 
 **24. According to the newer idea, how might yawning cool the brain?**
 *(Theo ý tưởng mới hơn, ngáp có thể làm mát não thế nào?)*
 
-- A. by making us sleep *(bằng cách làm ta ngủ)*
-- B. by stopping blood flow *(bằng cách chặn máu lưu thông)*
-- C. by making us drink water *(bằng cách khiến ta uống nước)*
+- A. by making us feel sleepy, so that the brain can rest and slowly become cooler *(bằng cách làm ta buồn ngủ, để não nghỉ ngơi và dần mát đi)*
+- B. by stopping the blood flow around the head until the brain has become cooler *(bằng cách chặn máu lưu thông quanh đầu cho tới khi não mát đi)*
+- C. by making us drink cold water, which carries the heat away from the head *(bằng cách khiến ta uống nước lạnh, mang nhiệt ra khỏi đầu)*
 - D. by pulling in a lot of air and increasing blood flow around the head *(bằng cách hít nhiều không khí vào và tăng lượng máu lưu thông quanh đầu)*
 
 **25. Which finding supports the idea that yawning cools the brain?**
 *(Phát hiện nào ủng hộ ý tưởng ngáp làm mát não?)*
 
-- A. People yawn more in very hot weather. *(Người ta ngáp nhiều hơn khi trời rất nóng.)*
-- B. People yawn less when they hold something cold against their forehead. *(Người ta ngáp ít hơn khi áp vật lạnh lên trán.)*
-- C. Fish never yawn. *(Cá không bao giờ ngáp.)*
-- D. People yawn more with extra oxygen. *(Người ta ngáp nhiều hơn khi có thêm oxy.)*
+- A. People yawn more in very hot weather than they do in mild or cold weather. *(Người ta ngáp nhiều hơn khi trời rất nóng so với khi dịu mát hoặc lạnh)*
+- B. People yawn less when they hold something cold against their forehead, in studies. *(Trong các nghiên cứu, người ta ngáp ít hơn khi áp vật lạnh lên trán.)*
+- C. Fish never yawn, which shows that they do not need to cool their brains. *(Cá không bao giờ ngáp, cho thấy chúng không cần làm mát não.)*
+- D. People yawn more when they are given air with extra oxygen than with less. *(Người ta ngáp nhiều hơn khi được cho thở khí nhiều oxy hơn là ít oxy.)*
 
 **26. Why does the writer say "you may have felt the urge already while reading this article"?**
 *(Vì sao người viết nói "có lẽ bạn đã thấy buồn ngáp trong lúc đọc bài này"?)*
 
-- A. because the article is boring *(vì bài báo chán)*
+- A. because the article is boring and the writer expects readers to fall asleep *(vì bài báo chán và người viết mong người đọc ngủ gật)*
 - B. to show the reader that even reading about yawning can make people yawn *(để cho người đọc thấy chỉ đọc về ngáp cũng có thể khiến người ta ngáp)*
-- C. because the reader is tired *(vì người đọc đang mệt)*
-- D. to ask the reader to stop reading *(để bảo người đọc thôi đọc)*
+- C. because the reader is tired after a long day at school or at work *(vì người đọc mệt sau một ngày dài ở trường hay ở chỗ làm)*
+- D. to ask the reader to stop reading now, before the article becomes too boring *(để bảo người đọc dừng đọc ngay, trước khi bài báo trở nên quá chán)*
 
 **27. From whom are we most likely to catch a yawn?**
 *(Ta dễ bị lây ngáp nhất từ ai?)*
 
-- A. strangers *(người lạ)*
-- B. animals *(động vật)*
-- C. family and close friends *(người nhà và bạn thân)*
-- D. teachers *(giáo viên)*
+- A. strangers who are sitting near us on a bus or a train *(người lạ ngồi gần ta trên xe buýt hay tàu)*
+- B. animals that live with us, such as dogs and cats *(động vật sống cùng ta, như chó và mèo)*
+- C. family members and close friends more than from strangers *(người nhà và bạn thân nhiều hơn là người lạ)*
+- D. teachers who yawn while they are talking to the class *(giáo viên ngáp trong lúc nói với cả lớp)*
 
 **28. What do many researchers think contagious yawning is connected to?**
 *(Nhiều nhà nghiên cứu cho rằng lây ngáp liên quan tới điều gì?)*
 
-- A. hunger *(đói)*
-- B. intelligence *(trí thông minh)*
-- C. lack of sleep *(thiếu ngủ)*
+- A. hunger, because people who are hungry yawn when they see food *(đói, vì người đang đói ngáp khi nhìn thấy đồ ăn)*
+- B. intelligence, because clever people yawn more than other people *(trí thông minh, vì người thông minh ngáp nhiều hơn người khác)*
+- C. lack of sleep, because tired people yawn whenever somebody else does *(thiếu ngủ, vì người mệt ngáp mỗi khi ai đó ngáp)*
 - D. empathy, our ability to share the feelings of others *(sự đồng cảm, khả năng chia sẻ cảm xúc của người khác)*
 
 **29. In "although the link is still being studied", what is the writer showing?**
 *(Trong cụm "dù mối liên hệ này vẫn đang được nghiên cứu", người viết đang cho thấy điều gì?)*
 
-- A. that the idea is completely proven *(rằng ý tưởng đã được chứng minh hoàn toàn)*
-- B. that the writer doesn't believe it *(rằng người viết không tin)*
-- C. that the connection is not yet certain *(rằng mối liên hệ này chưa chắc chắn)*
-- D. that scientists have stopped studying it *(rằng các nhà khoa học đã thôi nghiên cứu)*
+- A. that the idea is completely proven and no more studies are needed *(rằng ý tưởng đã được chứng minh hoàn toàn và không cần nghiên cứu thêm)*
+- B. that the writer doesn't believe it and thinks that it is nonsense *(rằng người viết không tin và cho đó là vô lý)*
+- C. that the connection is not yet certain, and more research is needed *(rằng mối liên hệ này chưa chắc chắn, và cần nghiên cứu thêm)*
+- D. that scientists have stopped studying it because the results were unclear *(rằng các nhà khoa học đã thôi nghiên cứu vì kết quả không rõ ràng)*
 
 **30. What is the purpose of the last paragraph?**
 *(Đoạn cuối có mục đích gì?)*
 
 - A. to give a light, practical conclusion based on the ideas in the article *(để đưa ra một kết luận nhẹ nhàng, thực tế dựa trên các ý trong bài)*
-- B. to introduce a new theory *(để giới thiệu một thuyết mới)*
-- C. to criticize people who yawn *(để chê người hay ngáp)*
-- D. to tell readers to see a doctor *(để khuyên người đọc đi khám)*
+- B. to introduce a new theory about why we yawn when we are in a group *(để giới thiệu một thuyết mới về vì sao ta ngáp khi ở trong nhóm)*
+- C. to criticize people who yawn in meetings and in other people's houses *(để chê những người hay ngáp trong cuộc họp và ở nhà người khác)*
+- D. to tell readers to see a doctor if they yawn more than ten times every single day *(để khuyên người đọc đi khám nếu ngáp hơn mười lần mỗi ngày)*
 
 ---
 
@@ -455,50 +455,50 @@
 **31. What is the main idea of the article?**
 *(Ý chính của bài báo là gì?)*
 
-- A. People are reading more deeply than ever. *(Người ta đọc sâu hơn bao giờ hết.)*
-- B. Audiobooks should be banned. *(Nên cấm sách nói.)*
-- C. Reading is not dying, but deep reading is becoming harder because of constant interruptions. *(Việc đọc không chết, nhưng đọc sâu đang khó hơn vì bị ngắt quãng liên tục.)*
-- D. Phones are better than books. *(Điện thoại tốt hơn sách.)*
+- A. People are reading more deeply than ever, because they have so many new things to read. *(Người ta đọc sâu hơn bao giờ hết, vì có rất nhiều thứ mới để đọc.)*
+- B. Audiobooks should be banned, because they are not a real way of reading books. *(Nên cấm sách nói, vì chúng không phải cách đọc sách thật sự.)*
+- C. Reading is not dying, but deep reading is harder because of constant interruptions. *(Việc đọc không chết, nhưng đọc sâu khó hơn vì bị ngắt quãng liên tục.)*
+- D. Phones are better than books, because they let us read many short texts every day. *(Điện thoại tốt hơn sách, vì chúng cho ta đọc nhiều đoạn ngắn mỗi ngày.)*
 
 **32. What did the study published in 2025 find?**
 *(Nghiên cứu công bố năm 2025 phát hiện gì?)*
 
-- A. The share of American adults who read for pleasure on a typical day fell by about 40 percent between 2004 and 2023. *(Tỉ lệ người trưởng thành Mỹ đọc sách giải trí mỗi ngày giảm khoảng 40 phần trăm từ 2004 tới 2023.)*
-- B. Adults read 40 percent more books. *(Người lớn đọc nhiều sách hơn 40 phần trăm.)*
-- C. Only children read for pleasure. *(Chỉ trẻ em đọc sách giải trí.)*
-- D. Nobody reads messages anymore. *(Không ai đọc tin nhắn nữa.)*
+- A. The share of American adults who read for pleasure each day fell by about 40 percent. *(Tỉ lệ người trưởng thành Mỹ đọc sách giải trí mỗi ngày giảm khoảng 40 phần trăm.)*
+- B. Adults read 40 percent more books than they did in 2004, and most of them read on phones. *(Người lớn đọc nhiều sách hơn 40 phần trăm so với năm 2004, và phần lớn đọc trên điện thoại.)*
+- C. Only children read for pleasure now, and adults have stopped reading books for fun. *(Giờ chỉ trẻ em đọc sách giải trí, còn người lớn đã thôi đọc sách cho vui.)*
+- D. Nobody reads messages anymore, because people prefer to listen to audiobooks. *(Không ai đọc tin nhắn nữa, vì người ta thích nghe sách nói hơn.)*
 
 **33. What does "we are reading more, but reading less deeply" mean?**
 *(Câu "ta đọc nhiều hơn, nhưng đọc kém sâu hơn" nghĩa là gì?)*
 
-- A. We read fewer words than in the past. *(Ta đọc ít chữ hơn trước.)*
-- B. We read longer books. *(Ta đọc sách dài hơn.)*
+- A. We read fewer words than in the past, but we understand all of them much better. *(Ta đọc ít chữ hơn trước, nhưng hiểu tất cả tốt hơn nhiều.)*
+- B. We read longer books, but we read them more slowly than people did before. *(Ta đọc sách dài hơn, nhưng đọc chậm hơn so với người trước đây.)*
 - C. We read many short texts, but spend less time with long, focused reading. *(Ta đọc nhiều đoạn chữ ngắn, nhưng ít dành thời gian đọc dài và tập trung.)*
-- D. We read only in the evening. *(Ta chỉ đọc buổi tối.)*
+- D. We read only in the evening, because we are too busy during the daytime. *(Ta chỉ đọc buổi tối, vì ban ngày quá bận.)*
 
 **34. Why are some researchers worried?**
 *(Vì sao một số nhà nghiên cứu lo ngại?)*
 
-- A. Books are too expensive. *(Sách quá đắt.)*
-- B. Slow, focused attention may be a skill that weakens if it is not used. *(Sự chú ý chậm rãi, tập trung có thể là một kỹ năng yếu đi nếu không dùng.)*
-- C. Libraries are closing. *(Thư viện đang đóng cửa.)*
-- D. Novels are getting shorter. *(Tiểu thuyết đang ngắn lại.)*
+- A. Books are too expensive, so many young people can no longer afford to buy them. *(Sách quá đắt, nên nhiều người trẻ không còn đủ tiền mua)*
+- B. Slow, focused attention may be a skill that weakens if it is not used regularly. *(Sự chú ý chậm rãi, tập trung có thể là một kỹ năng yếu đi nếu không dùng thường xuyên.)*
+- C. Libraries are closing in many towns, so people have nowhere to borrow books. *(Thư viện đang đóng cửa ở nhiều thị trấn, nên người ta không có chỗ mượn sách.)*
+- D. Novels are getting shorter every year, so authors have less to say to readers. *(Tiểu thuyết ngắn lại mỗi năm, nên tác giả có ít điều để nói với người đọc.)*
 
 **35. Which of these is an argument that "the picture is not so simple"?**
 *(Lý lẽ nào cho rằng "bức tranh không đơn giản như vậy"?)*
 
-- A. Audiobooks are more popular than ever, and some young people discover novels through social media. *(Sách nói phổ biến hơn bao giờ hết, và một số người trẻ khám phá tiểu thuyết qua mạng xã hội.)*
-- B. Students find it hard to finish a novel. *(Học sinh thấy khó đọc hết tiểu thuyết.)*
-- C. Adults skim articles. *(Người lớn đọc lướt bài báo.)*
-- D. Phones buzz every four minutes. *(Điện thoại rung bốn phút một lần.)*
+- A. Audiobooks are more popular than ever, and some young people find novels on social media. *(Sách nói phổ biến hơn bao giờ hết, và một số người trẻ tìm thấy tiểu thuyết trên mạng xã hội.)*
+- B. Students increasingly find it hard to finish a novel, and many adults skim articles. *(Học sinh ngày càng thấy khó đọc hết tiểu thuyết, và nhiều người lớn đọc lướt bài báo.)*
+- C. Adults skim articles instead of reading them to the end, and say so themselves. *(Người lớn đọc lướt bài thay vì đọc đến cuối, và tự thừa nhận điều đó.)*
+- D. Phones buzz every few minutes, so a book cannot compete with them for attention. *(Điện thoại rung mỗi vài phút, nên sách không cạnh tranh nổi về sự chú ý.)*
 
 **36. Why do the writers who disagree mention the printing press and the radio?**
 *(Vì sao những người phản biện nhắc tới máy in và đài phát thanh?)*
 
-- A. to show that old technology is better *(để cho thấy công nghệ cũ tốt hơn)*
-- B. to explain how books are made *(để giải thích sách được làm ra thế nào)*
-- C. to say that radios destroyed reading *(để nói đài phát thanh đã huỷ hoại việc đọc)*
-- D. to show that people have always feared that new technology would destroy reading, but it survived *(để cho thấy người ta luôn sợ công nghệ mới sẽ huỷ hoại việc đọc, nhưng việc đọc vẫn tồn tại)*
+- A. to show that old technology is better, because books and radios were made with more care *(để cho thấy công nghệ cũ tốt hơn, vì sách và đài được làm cẩn thận hơn)*
+- B. to explain how books are made and how radios help people to learn about them *(để giải thích sách được làm ra thế nào và đài giúp người ta tìm hiểu về chúng ra sao)*
+- C. to say that radios destroyed reading, and that printing presses made it much worse *(để nói đài phát thanh đã huỷ hoại việc đọc, và máy in còn làm nó tệ hơn)*
+- D. to show that new technology has often been blamed for killing reading, which has survived *(để cho thấy công nghệ mới thường bị đổ lỗi là giết chết việc đọc, mà việc đọc vẫn tồn tại)*
 
 **37. What is the writer's own opinion?**
 *(Quan điểm riêng của người viết là gì?)*
@@ -511,26 +511,26 @@
 **38. According to the writer, what is the real problem?**
 *(Theo người viết, vấn đề thật sự là gì?)*
 
-- A. People have stopped loving stories. *(Người ta thôi yêu những câu chuyện.)*
-- B. Phones are designed to interrupt us, and books cannot compete with them. *(Điện thoại được thiết kế để ngắt quãng ta, và sách không cạnh tranh nổi.)*
-- C. Books are too long. *(Sách quá dài.)*
-- D. Schools don't teach reading. *(Trường học không dạy đọc.)*
+- A. People have stopped loving stories and prefer to watch videos on their phones. *(Người ta thôi yêu những câu chuyện và thích xem video trên điện thoại hơn.)*
+- B. Phones are designed to interrupt us, and books cannot compete with them for our attention. *(Điện thoại được thiết kế để ngắt quãng ta, và sách không cạnh tranh nổi về sự chú ý.)*
+- C. Books are too long, so most people cannot finish them in only twenty minutes. *(Sách quá dài, nên phần lớn người ta không thể đọc hết chỉ trong hai mươi phút.)*
+- D. Schools don't teach reading, so students never learn to enjoy long books. *(Trường học không dạy đọc, nên học sinh không bao giờ biết thích sách dài.)*
 
 **39. What solution does the writer suggest?**
 *(Người viết gợi ý giải pháp gì?)*
 
-- A. buying more books *(mua thêm sách)*
-- B. listening only to audiobooks *(chỉ nghe sách nói)*
-- C. closing social media accounts *(xoá tài khoản mạng xã hội)*
-- D. reading for twenty minutes a day with the phone in another room *(đọc hai mươi phút mỗi ngày, điện thoại để ở phòng khác)*
+- A. buying many more books and keeping them on a shelf next to the bed *(mua nhiều sách hơn nữa và để chúng trên giá cạnh giường)*
+- B. listening only to audiobooks while walking or traveling to work every day *(chỉ nghe sách nói khi đi bộ hoặc đi làm mỗi ngày)*
+- C. closing all social media accounts for a month and reading every evening *(xoá mọi tài khoản mạng xã hội trong một tháng và đọc sách mỗi tối)*
+- D. reading for twenty minutes every day with the phone in another room *(đọc hai mươi phút mỗi ngày, điện thoại để ở phòng khác)*
 
 **40. What does the writer mean by "choosing where to put it may be one of the most important decisions that we make"?**
 *(Người viết muốn nói gì qua câu "việc chọn đặt sự chú ý ấy vào đâu có lẽ là một trong những quyết định quan trọng nhất ta đưa ra"?)*
 
-- A. We should choose a good place to keep our books. *(Nên chọn chỗ tốt để cất sách.)*
-- B. Deciding what to give our attention to has a big effect on our lives. *(Quyết định dành sự chú ý cho điều gì ảnh hưởng lớn tới cuộc sống của ta.)*
-- C. Phones should be kept in the kitchen. *(Điện thoại nên để ở bếp.)*
-- D. Decisions are always difficult. *(Quyết định lúc nào cũng khó.)*
+- A. We should choose a good place to keep our books so that we can find them easily. *(Nên chọn chỗ tốt để cất sách sao cho dễ tìm)*
+- B. Deciding what to give our attention to has a big effect on the way our lives turn out. *(Quyết định dành sự chú ý cho điều gì ảnh hưởng lớn tới cuộc sống của ta rốt cuộc ra sao.)*
+- C. Phones should be kept in the kitchen, where the family can use them together. *(Điện thoại nên để ở bếp, nơi cả nhà có thể dùng chung.)*
+- D. Decisions are always difficult, so we should let other people choose for us. *(Quyết định lúc nào cũng khó, nên ta nên để người khác chọn thay.)*
 
 ---
 

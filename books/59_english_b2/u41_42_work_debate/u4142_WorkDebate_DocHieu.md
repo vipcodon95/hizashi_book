@@ -82,81 +82,81 @@
 *(Vì sao Nathan viết email này?)*
 
 - A. to explain how he would like his team to work as their new team lead, and why *(để giải thích, trên cương vị trưởng nhóm mới, anh mong nhóm làm việc thế nào và vì sao)*
-- B. to announce that he is leaving the company *(để báo anh nghỉ việc)*
-- C. to complain about his team *(để phàn nàn về nhóm)*
-- D. to invite the team to San Diego *(để mời nhóm tới San Diego)*
+- B. to announce that he is leaving the company to work for a team in Lisbon *(để báo anh sẽ rời công ty để làm cho một nhóm ở Lisbon)*
+- C. to complain about his team because the engineers spend too many hours in calls *(để phàn nàn về nhóm vì các kỹ sư dành quá nhiều giờ cho các cuộc gọi)*
+- D. to invite the whole team to a meeting in San Diego at the end of the month *(để mời cả nhóm dự một cuộc họp ở San Diego vào cuối tháng)*
 
 **2. Why is this change "strange" for Nathan too?**
 *(Vì sao thay đổi này cũng "lạ lẫm" với chính Nathan?)*
 
-- A. because he has never written code *(vì anh chưa từng viết mã)*
-- B. because he lives in Lisbon *(vì anh sống ở Lisbon)*
+- A. because he has never written code before and now has to learn it from his own team *(vì anh chưa từng viết mã và giờ phải học nó từ chính nhóm của mình)*
+- B. because he lives in Lisbon and has never met the other members of the team *(vì anh sống ở Lisbon và chưa từng gặp các thành viên khác của nhóm)*
 - C. because he has worked alongside many of the team for years and now he leads them *(vì anh đã làm cùng nhiều người trong nhóm nhiều năm và giờ lại dẫn dắt họ)*
-- D. because he doesn't like his job *(vì anh không thích việc của mình)*
+- D. because he doesn't like his job and would rather go back to being an engineer *(vì anh không thích việc của mình và muốn quay lại làm kỹ sư hơn)*
 
 **3. What is the team's biggest challenge, according to Nathan?**
 *(Theo Nathan, thách thức lớn nhất của nhóm là gì?)*
 
-- A. money *(tiền bạc)*
-- B. old computers *(máy tính cũ)*
-- C. too few engineers *(quá ít kỹ sư)*
+- A. money, because the company cannot pay for enough engineers in three cities *(tiền bạc, vì công ty không trả nổi đủ kỹ sư ở ba thành phố)*
+- B. old computers, because the engineers cannot join video calls without delays *(máy tính cũ, vì các kỹ sư không thể gọi video mà không bị trễ)*
+- C. too few engineers, because nine people cannot finish all the projects on time *(quá ít kỹ sư, vì chín người không thể xong mọi dự án đúng hạn)*
 - D. distance, because team members work in three cities with different time zones *(khoảng cách, vì các thành viên làm ở ba thành phố khác múi giờ)*
 
 **4. What does "Although video calls are useful, they are also tiring" show?**
 *(Câu "Dù gọi video có ích, nó cũng gây mệt" cho thấy điều gì?)*
 
-- A. Video calls are useless. *(Gọi video vô ích.)*
-- B. Nathan admits a benefit of video calls before pointing out a problem. *(Nathan thừa nhận một lợi ích của gọi video trước khi chỉ ra vấn đề.)*
-- C. Video calls are not tiring. *(Gọi video không mệt.)*
-- D. Nathan wants more video calls. *(Nathan muốn gọi video nhiều hơn.)*
+- A. Video calls are useless, and Nathan wants the team to stop using them. *(Gọi video vô ích, và Nathan muốn nhóm thôi dùng chúng.)*
+- B. Nathan admits one benefit of video calls before he points out a problem with them. *(Nathan thừa nhận một lợi ích của gọi video trước khi chỉ ra vấn đề của chúng.)*
+- C. Video calls are not tiring, but Nathan thinks that there are too many of them. *(Gọi video không mệt, nhưng Nathan thấy có quá nhiều cuộc)*
+- D. Nathan wants more video calls, because they are both useful and tiring. *(Nathan muốn gọi video nhiều hơn, vì chúng vừa hữu ích vừa mệt.)*
 
 **5. How much time did each team member spend in calls last month, on average?**
 *(Tháng trước, trung bình mỗi thành viên mất bao nhiêu thời gian cho các cuộc gọi?)*
 
-- A. eleven hours a week *(mười một tiếng một tuần)*
-- B. two hours a day *(hai tiếng một ngày)*
-- C. eight hours a week *(tám tiếng một tuần)*
-- D. one hour a week *(một tiếng một tuần)*
+- A. eleven hours a week, which is more than a whole working day *(mười một tiếng một tuần, nhiều hơn cả một ngày làm việc)*
+- B. two hours a day, during the core hours in San Diego *(hai tiếng một ngày, trong giờ cốt lõi ở San Diego)*
+- C. eight hours a week, which is the time difference with Lisbon *(tám tiếng một tuần, bằng độ lệch múi giờ với Lisbon)*
+- D. one hour a week, in the one team call that Nathan wants to keep *(một tiếng một tuần, trong cuộc họp nhóm duy nhất Nathan muốn giữ)*
 
 **6. What are "core hours"?**
 *("Giờ cốt lõi" là gì?)*
 
-- A. the hours when the office is closed *(những giờ văn phòng đóng cửa)*
-- B. the only hours when people work *(những giờ duy nhất người ta làm việc)*
+- A. the hours when the office is closed and nobody is allowed to answer messages *(những giờ văn phòng đóng cửa và không ai được trả lời tin nhắn)*
+- B. the only hours when people work, so nobody should write to anyone outside them *(những giờ duy nhất người ta làm việc, nên không ai được nhắn cho ai ngoài giờ đó)*
 - C. two hours a day when everyone agrees to be online and available *(hai tiếng mỗi ngày mọi người đồng ý có mặt trực tuyến và sẵn sàng)*
-- D. the hours for team calls only *(những giờ chỉ dành cho họp nhóm)*
+- D. the hours for team calls only, when the whole team talks to Nathan together *(những giờ chỉ dành cho họp nhóm, khi cả nhóm cùng nói chuyện với Nathan)*
 
 **7. Why does Nathan want every project to have one clear owner?**
 *(Vì sao Nathan muốn mỗi dự án có một người phụ trách rõ ràng?)*
 
-- A. because he wants to do less work *(vì anh muốn làm ít đi)*
-- B. because the company asked him *(vì công ty yêu cầu)*
-- C. so that people work alone *(để mọi người làm một mình)*
+- A. because he wants to do less work himself and leave all the decisions to other people *(vì anh muốn tự làm ít đi và giao mọi quyết định cho người khác)*
+- B. because the company asked him to reduce the number of people in each project *(vì công ty yêu cầu anh giảm số người trong mỗi dự án)*
+- C. so that people work alone and never have to talk to anyone else in the team *(để mọi người làm một mình và không bao giờ phải nói chuyện với ai trong nhóm)*
 - D. because decisions have been delayed when everyone thought someone else was responsible *(vì quyết định hay bị chậm khi ai cũng tưởng người khác chịu trách nhiệm)*
 
 **8. In "First, a reduction in meetings", why does Nathan use the noun "reduction" instead of a verb?**
 *(Trong câu "First, a reduction in meetings", vì sao Nathan dùng danh từ "reduction" thay vì động từ?)*
 
-- A. because he forgot the verb *(vì anh quên động từ)*
-- B. to make his proposal short, clear and formal, like a list of points *(để đề xuất ngắn gọn, rõ ràng và trang trọng, như một danh sách ý)*
-- C. because verbs are not allowed in emails *(vì email không được dùng động từ)*
-- D. to sound angry *(để nghe có vẻ giận)*
+- A. because he forgot the verb and did not have time to check his email *(vì anh quên động từ và không kịp kiểm tra email)*
+- B. to make his proposal short, clear and formal, like a list of points for the team *(để đề xuất ngắn gọn, rõ ràng và trang trọng, như danh sách ý cho cả nhóm)*
+- C. because verbs are not allowed in emails that are sent to people in other cities *(vì email gửi cho người ở thành phố khác không được dùng động từ)*
+- D. to sound angry and to show the team that he is now the boss of everyone *(để nghe có vẻ giận và cho nhóm thấy giờ anh là sếp của mọi người)*
 
 **9. How will the team decide whether to keep the new system?**
 *(Nhóm sẽ quyết định có giữ cách làm mới hay không bằng cách nào?)*
 
-- A. They will try it for two months and then decide together. *(Thử hai tháng rồi cùng quyết định.)*
-- B. Nathan will decide alone. *(Nathan tự quyết.)*
-- C. The company will decide. *(Công ty quyết định.)*
-- D. They will decide at the next team call. *(Quyết ở cuộc họp nhóm tới.)*
+- A. They will try it for two months and then decide together whether to keep it. *(Thử hai tháng rồi cùng quyết định có giữ lại không.)*
+- B. Nathan will decide alone after he has talked to each person by phone. *(Nathan tự quyết sau khi nói chuyện qua điện thoại với từng người.)*
+- C. The company will decide after it has read the results of the two months. *(Công ty sẽ quyết định sau khi đọc kết quả của hai tháng.)*
+- D. They will decide at the next team call, before anyone has tried the system. *(Họ sẽ quyết ở cuộc họp nhóm tới, trước khi ai đó thử hệ thống)*
 
 **10. What does Nathan's last paragraph show about him as a leader?**
 *(Đoạn cuối cho thấy Nathan là kiểu trưởng nhóm thế nào?)*
 
-- A. He doesn't want feedback. *(Anh không muốn góp ý.)*
-- B. He is sure that his plan is perfect. *(Anh chắc kế hoạch của mình hoàn hảo.)*
-- C. He is humble and wants honest feedback early. *(Anh khiêm tốn và muốn được góp ý thẳng thắn sớm.)*
-- D. He is going to wait six months to decide. *(Anh sẽ chờ sáu tháng để quyết.)*
+- A. He doesn't want feedback, because he thinks that the team should follow him. *(Anh không muốn góp ý, vì nghĩ rằng nhóm nên làm theo anh.)*
+- B. He is sure that his plan is perfect and that nothing will need to change. *(Anh chắc kế hoạch của mình hoàn hảo và sẽ không cần đổi gì.)*
+- C. He is humble and wants honest feedback early, before small problems grow. *(Anh khiêm tốn và muốn được góp ý thẳng thắn sớm, trước khi vấn đề nhỏ lớn lên.)*
+- D. He is going to wait six months to decide, even if the team is unhappy. *(Anh sẽ chờ sáu tháng để quyết, dù nhóm không hài lòng.)*
 
 ---
 
@@ -207,82 +207,82 @@
 **11. What is the debate about?**
 *(Cuộc tranh biện bàn về điều gì?)*
 
-- A. whether phones should be banned *(có nên cấm điện thoại)*
-- B. whether you need a college degree to get a good job *(có cần bằng đại học để có việc tốt không)*
-- C. how to become an electrician *(cách trở thành thợ điện)*
-- D. which college is the best *(trường đại học nào tốt nhất)*
+- A. whether phones should be banned in schools during the whole day *(có nên cấm điện thoại ở trường trong cả ngày không)*
+- B. whether you need a college degree to get a good job these days *(có cần bằng đại học để có việc tốt trong thời nay không)*
+- C. how to become an electrician without going to college for four years *(làm thế nào để thành thợ điện mà không học đại học bốn năm)*
+- D. which college is the best choice for students who want to become nurses *(trường đại học nào là lựa chọn tốt nhất cho học sinh muốn làm y tá)*
 
 **12. In "On what evidence?", what is Ms. Park asking?**
 *(Trong câu "On what evidence?", cô Park đang hỏi gì?)*
 
-- A. where Maddie found the club *(Maddie tìm thấy câu lạc bộ ở đâu)*
-- B. when Maddie started *(Maddie bắt đầu khi nào)*
-- C. why Maddie is late *(vì sao Maddie tới muộn)*
-- D. what evidence Maddie's argument is based on *(lập luận của Maddie dựa trên bằng chứng nào)*
+- A. where Maddie found the club and who told her to join it *(Maddie tìm thấy câu lạc bộ ở đâu và ai bảo cô tham gia)*
+- B. when Maddie started to prepare her argument for the debate *(Maddie bắt đầu chuẩn bị lập luận cho buổi tranh biện từ khi nào)*
+- C. why Maddie is late and what she has been doing before the debate *(vì sao Maddie tới muộn và cô đã làm gì trước buổi tranh biện)*
+- D. what evidence Maddie's argument is based on, and where it comes from *(lập luận của Maddie dựa trên bằng chứng nào, và bằng chứng đó từ đâu ra)*
 
 **13. What is Maddie's first piece of evidence?**
 *(Bằng chứng đầu tiên của Maddie là gì?)*
 
-- A. Only about two in five American adults have a four-year degree. *(Chỉ khoảng hai trên năm người trưởng thành Mỹ có bằng đại học bốn năm.)*
-- B. Degrees are free. *(Bằng đại học miễn phí.)*
-- C. Most companies require degrees. *(Phần lớn công ty yêu cầu bằng.)*
-- D. Nurses don't need training. *(Y tá không cần đào tạo.)*
+- A. Only about two in five American adults have a four-year degree, so most workers don't. *(Chỉ khoảng hai trên năm người trưởng thành Mỹ có bằng đại học bốn năm, nên đa số người lao động không có.)*
+- B. Degrees are free for students at most colleges, so debt is not a problem. *(Bằng đại học miễn phí ở hầu hết các trường, nên nợ không phải vấn đề)*
+- C. Most companies require a degree for every job that they offer to workers. *(Phần lớn công ty yêu cầu bằng cho mọi việc họ giao cho người lao động.)*
+- D. Nurses don't need any training, because hospitals teach them everything. *(Y tá không cần đào tạo gì, vì bệnh viện dạy họ mọi thứ.)*
 
 **14. What does Maddie mean by "For whom is that a good deal?"**
 *(Maddie muốn nói gì qua câu "Với ai thì đó là một món hời?")*
 
-- A. She wants to know who will pay. *(Cô muốn biết ai sẽ trả tiền.)*
-- B. She thinks college is a great deal for everyone. *(Cô nghĩ đại học là món hời với tất cả.)*
-- C. She is suggesting that years of debt are not worth it if a shorter program leads to the same job. *(Cô ngụ ý rằng nợ nhiều năm không đáng nếu một chương trình ngắn hơn cũng dẫn tới cùng công việc.)*
-- D. She is asking Noah a question about his family. *(Cô hỏi Noah về gia đình bạn ấy.)*
+- A. She wants to know who will pay for the college and how much it costs every year. *(Cô muốn biết ai sẽ trả tiền học đại học và mỗi năm tốn bao nhiêu.)*
+- B. She thinks that college is a great deal for everyone, because it leads to a good job. *(Cô nghĩ đại học là món hời với tất cả, vì nó dẫn tới việc tốt.)*
+- C. She suggests that years of debt are not worth it if a shorter program leads to the same job. *(Cô ngụ ý rằng nợ nhiều năm không đáng nếu một chương trình ngắn hơn cũng dẫn tới cùng công việc.)*
+- D. She is asking Noah a question about his family and how much they paid for college. *(Cô hỏi Noah về gia đình bạn ấy và họ đã trả bao nhiêu cho việc học đại học.)*
 
 **15. Which point does Noah agree with?**
 *(Noah đồng ý với điểm nào?)*
 
-- A. Degrees are useless. *(Bằng cấp vô dụng.)*
-- B. A degree isn't the only path to a real career. *(Bằng đại học không phải con đường duy nhất tới một sự nghiệp thật.)*
-- C. Nobody should go to college. *(Không ai nên học đại học.)*
-- D. Companies always hire people without degrees. *(Công ty luôn tuyển người không có bằng.)*
+- A. Degrees are useless, because most workers never need them in their jobs. *(Bằng cấp vô dụng, vì hầu hết người lao động không bao giờ cần chúng.)*
+- B. A degree isn't the only path to a real career, as electricians and nurses show. *(Bằng đại học không phải con đường duy nhất tới một sự nghiệp thật, như thợ điện và y tá cho thấy.)*
+- C. Nobody should go to college, because training programs are always better. *(Không ai nên học đại học, vì các chương trình đào tạo luôn tốt hơn.)*
+- D. Companies always hire people without degrees if they are good with computers. *(Công ty luôn tuyển người không có bằng nếu họ giỏi máy tính.)*
 
 **16. What does Noah say about removing degree requirements?**
 *(Noah nói gì về việc bỏ yêu cầu bằng cấp?)*
 
-- A. It has completely changed who gets hired. *(Nó thay đổi hoàn toàn chuyện ai được tuyển.)*
-- B. It is illegal. *(Nó bất hợp pháp.)*
-- C. No companies have done it. *(Chưa công ty nào làm.)*
+- A. It has completely changed who gets hired, and many more workers now have jobs. *(Nó thay đổi hoàn toàn chuyện ai được tuyển, và nhiều người lao động hơn nay có việc.)*
+- B. It is illegal in many cities, so companies have to ask for degrees again. *(Nó bất hợp pháp ở nhiều thành phố, nên công ty phải đòi bằng trở lại.)*
+- C. No companies have done it, because they all think that degrees are necessary. *(Chưa công ty nào làm, vì họ đều nghĩ bằng cấp là cần thiết.)*
 - D. At many companies, it has made very little difference to who actually gets hired. *(Ở nhiều công ty, nó hầu như không làm thay đổi chuyện ai thật sự được tuyển.)*
 
 **17. What is the function of Noah's sentence "So, a degree: not necessary for everyone, but still very useful for many"?**
 *(Câu "Vậy, bằng đại học: không cần cho tất cả mọi người, nhưng vẫn rất có ích với nhiều người" của Noah có chức năng gì?)*
 
-- A. It sums up his position in a short, balanced way. *(Nó tóm tắt lập trường của Noah một cách ngắn gọn, cân bằng.)*
-- B. It changes the topic. *(Nó đổi chủ đề.)*
-- C. It agrees completely with Maddie. *(Nó đồng ý hoàn toàn với Maddie.)*
-- D. It asks Ms. Park a question. *(Nó đặt câu hỏi cho cô Park.)*
+- A. It sums up his position in a short, balanced way, using the word many. *(Nó tóm tắt lập trường của Noah một cách ngắn gọn, cân bằng, dùng chữ nhiều.)*
+- B. It changes the topic to the cost of college and the debt of students. *(Nó đổi chủ đề sang chi phí đại học và khoản nợ của sinh viên)*
+- C. It agrees completely with Maddie and says that nobody needs a degree. *(Nó đồng ý hoàn toàn với Maddie và nói rằng không ai cần bằng.)*
+- D. It asks Ms. Park a question about the rules of the next debate. *(Nó hỏi cô Park một câu về luật của buổi tranh biện tới.)*
 
 **18. Why does Ms. Park say "How interesting!"?**
 *(Vì sao cô Park thốt lên "Thú vị thật!"?)*
 
-- A. because she is bored *(vì cô thấy chán)*
-- B. because Noah won *(vì Noah thắng)*
-- C. because both students used the word "many", which shows that they don't see one answer for everyone *(vì cả hai em đều dùng chữ "nhiều", cho thấy không ai nghĩ có một câu trả lời cho tất cả)*
-- D. because the debate was too short *(vì cuộc tranh biện quá ngắn)*
+- A. because she is bored by the long answers and wants the students to finish quickly today *(vì cô chán những câu trả lời dài và muốn các em xong nhanh hôm nay)*
+- B. because Noah won the debate and she is surprised that Maddie did not argue longer *(vì Noah thắng và cô ngạc nhiên khi Maddie không tranh luận lâu hơn)*
+- C. because both students said "many", which shows that neither sees one answer for everyone *(vì cả hai em đều nói "nhiều", cho thấy không ai thấy có một câu trả lời cho tất cả)*
+- D. because the debate was too short and the students did not use all of their time *(vì cuộc tranh biện quá ngắn và các em không dùng hết thời gian)*
 
 **19. What does the last paragraph suggest about Maddie and Noah?**
 *(Đoạn cuối cho thấy điều gì về Maddie và Noah?)*
 
-- A. They have become worse at debating. *(Hai em tranh biện kém đi.)*
-- B. They have learned to disagree more politely and usefully over the past year. *(Trong một năm qua, hai em đã học được cách bất đồng lịch sự và hữu ích hơn.)*
-- C. They no longer disagree. *(Hai em không còn bất đồng.)*
-- D. They want to leave the club. *(Hai em muốn rời câu lạc bộ.)*
+- A. They have become worse at debating, and they argue more loudly than a year ago. *(Hai em tranh biện kém đi, và cãi to hơn so với một năm trước.)*
+- B. They have learned to disagree more politely and more usefully over the past year. *(Trong một năm qua, hai em đã học được cách bất đồng lịch sự hơn và hữu ích hơn.)*
+- C. They no longer disagree about anything, and they now think exactly the same. *(Hai em không còn bất đồng điều gì, và giờ nghĩ giống hệt nhau.)*
+- D. They want to leave the club, because they are tired of arguing with each other. *(Hai em muốn rời câu lạc bộ, vì đã mệt khi phải cãi nhau với nhau.)*
 
 **20. Use both texts. What do Nathan's email and the debate have in common?**
 *(Dựa vào cả hai bài. Email của Nathan và cuộc tranh biện có điểm gì chung?)*
 
-- A. Both of them are about phones. *(Cả hai đều về điện thoại.)*
-- B. Both of them are about college. *(Cả hai đều về đại học.)*
-- C. Both of them happen in Lisbon. *(Cả hai đều diễn ra ở Lisbon.)*
-- D. Both of them show people who admit what is good about other views and avoid one simple answer for everyone. *(Cả hai cho thấy những người thừa nhận mặt tốt của quan điểm khác và tránh một câu trả lời đơn giản cho tất cả.)*
+- A. Both of them are about phones, and both ask people to use them less during the working day. *(Cả hai đều về điện thoại, và đều yêu cầu mọi người dùng chúng ít đi trong ngày làm việc.)*
+- B. Both of them are about college, and both give advice to students who want to get a degree as soon as possible. *(Cả hai đều về đại học, và đều khuyên học sinh muốn lấy bằng càng sớm càng tốt.)*
+- C. Both of them happen in Lisbon, where the writer and the students all live and work together. *(Cả hai đều diễn ra ở Lisbon, nơi người viết và các học sinh cùng sống và làm việc.)*
+- D. Both show people who admit what is good in other views and avoid one simple answer for everyone. *(Cả hai cho thấy những người thừa nhận mặt tốt trong quan điểm khác và tránh một câu trả lời đơn giản cho tất cả.)*
 
 ---
 

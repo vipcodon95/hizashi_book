@@ -59,3 +59,16 @@ Main đã tự đối chiếu từng mục báo ở trên và đồng ý với t
 - u2324: "Written by Mary Shelley when she was only eighteen" → **"Started by…"**; câu hỏi 3–4 sửa theo (vẫn luyện mệnh đề phân từ).
 - u1314: vịnh Maya "almost four years" → **"more than three years"**.
 - mock1: "buzzes every four minutes" → **"every few minutes"**.
+
+---
+
+## Cân lại độ dài phương án (04/11/2026)
+
+Lỗi phát hiện khi rà sách 61: đáp án đúng gần như luôn là phương án dài nhất, nên học viên chọn câu dài nhất là đúng.
+Sonnet (chia nhóm file) viết lại phương án sai cả EN + VI. Main đo lại và so với git, kết quả:
+
+- Đáp án đúng là phương án dài nhất: 94% (491/520) → **33% (173/520)**.
+- Đáp án đúng là phương án ngắn nhất: **20% (106/520)** (kiểm để tránh lệch ngược chiều; mức ngẫu nhiên là 25%).
+- Dài ≥1,5× phương án dài thứ hai: 390 → **0**.
+- 0 câu đổi đáp án, câu hỏi, evidence; 0 bài đọc bị đổi; verify mọi thư mục ĐẠT. Main đọc kiểm câu mẫu ở từng nhóm.
+- Riêng nhóm u3334–u4344 + mock1: agent nối cụm "in most cases" / "for a long time" vào cuối 27 phương án sai cho đủ dài, nghe gượng và sai ngữ pháp → main gỡ hết (EN + VI). Nhóm này còn 44% câu có đáp án đúng dài nhất, cả sách 33%.

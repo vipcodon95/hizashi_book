@@ -592,13 +592,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to complain about the pocket park",
-            "vi": "để phàn nàn về công viên bỏ túi"
+            "en": "to complain about the new pocket park and ask the city to close it",
+            "vi": "để phàn nàn về công viên bỏ túi mới và đề nghị thành phố đóng cửa nó"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to complain about the pocket park",
-          "text_translation": "để phàn nàn về công viên bỏ túi"
+          "text": "to complain about the new pocket park and ask the city to close it",
+          "text_translation": "để phàn nàn về công viên bỏ túi mới và đề nghị thành phố đóng cửa nó"
         },
         {
           "id": "B",
@@ -614,24 +614,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "to sell speed guns",
-            "vi": "để bán máy bắn tốc độ"
+            "en": "to advertise a speed gun that neighbors can borrow from the library for a week",
+            "vi": "để quảng cáo một máy bắn tốc độ mà hàng xóm có thể mượn ở thư viện một tuần"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to sell speed guns",
-          "text_translation": "để bán máy bắn tốc độ"
+          "text": "to advertise a speed gun that neighbors can borrow from the library for a week",
+          "text_translation": "để quảng cáo một máy bắn tốc độ mà hàng xóm có thể mượn ở thư viện một tuần"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to invite neighbors to a party",
-            "vi": "để mời hàng xóm dự tiệc"
+            "en": "to invite all the neighbors to a party in the pocket park after the meeting",
+            "vi": "để mời tất cả hàng xóm dự tiệc ở công viên bỏ túi sau cuộc họp"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to invite neighbors to a party",
-          "text_translation": "để mời hàng xóm dự tiệc"
+          "text": "to invite all the neighbors to a party in the pocket park after the meeting",
+          "text_translation": "để mời tất cả hàng xóm dự tiệc ở công viên bỏ túi sau cuộc họp"
         }
       ],
       "evidence_segments": [
@@ -660,46 +660,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because the school moved",
-            "vi": "vì trường chuyển đi"
+            "en": "because the school moved to a new building at the end of Maple Street",
+            "vi": "vì trường chuyển tới một toà nhà mới ở cuối phố Maple"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because the school moved",
-          "text_translation": "vì trường chuyển đi"
+          "text": "because the school moved to a new building at the end of Maple Street",
+          "text_translation": "vì trường chuyển tới một toà nhà mới ở cuối phố Maple"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because of the speed survey",
-            "vi": "vì cuộc đo tốc độ"
+            "en": "because the speed survey showed that the street had become much less dangerous",
+            "vi": "vì cuộc đo tốc độ cho thấy phố đã ít nguy hiểm hơn nhiều"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because of the speed survey",
-          "text_translation": "vì cuộc đo tốc độ"
+          "text": "because the speed survey showed that the street had become much less dangerous",
+          "text_translation": "vì cuộc đo tốc độ cho thấy phố đã ít nguy hiểm hơn nhiều"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because the library closed",
-            "vi": "vì thư viện đóng cửa"
+            "en": "because the library on Pine Street closed and children go elsewhere to read",
+            "vi": "vì thư viện ở phố Pine đóng cửa và trẻ con đi nơi khác để đọc sách"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because the library closed",
-          "text_translation": "vì thư viện đóng cửa"
+          "text": "because the library on Pine Street closed and children go elsewhere to read",
+          "text_translation": "vì thư viện ở phố Pine đóng cửa và trẻ con đi nơi khác để đọc sách"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because they go to the pocket park, which opened in January",
-            "vi": "vì các em tới công viên bỏ túi mở cửa hồi tháng Một"
+            "en": "because they go to the new pocket park, which opened in January this year",
+            "vi": "vì các em tới công viên bỏ túi mới, mở cửa hồi tháng Một năm nay"
           },
           "is_correct": true,
           "order": 3,
-          "text": "because they go to the pocket park, which opened in January",
-          "text_translation": "vì các em tới công viên bỏ túi mở cửa hồi tháng Một"
+          "text": "because they go to the new pocket park, which opened in January this year",
+          "text_translation": "vì các em tới công viên bỏ túi mới, mở cửa hồi tháng Một năm nay"
         }
       ],
       "evidence_segments": [
@@ -739,35 +739,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "Only a few cars were speeding.",
-            "vi": "Chỉ vài xe chạy quá tốc độ."
+            "en": "Only a few of the 640 cars they measured were going faster than the speed limit.",
+            "vi": "Chỉ vài xe trong số 640 xe họ đo chạy nhanh hơn giới hạn."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Only a few cars were speeding.",
-          "text_translation": "Chỉ vài xe chạy quá tốc độ."
+          "text": "Only a few of the 640 cars they measured were going faster than the speed limit.",
+          "text_translation": "Chỉ vài xe trong số 640 xe họ đo chạy nhanh hơn giới hạn."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "All the drivers were local.",
-            "vi": "Tất cả tài xế là người trong phố."
+            "en": "All the drivers were local people who lived on Maple Street and knew the limit.",
+            "vi": "Tất cả tài xế là người sống ở phố Maple và biết rõ giới hạn."
           },
           "is_correct": false,
           "order": 2,
-          "text": "All the drivers were local.",
-          "text_translation": "Tất cả tài xế là người trong phố."
+          "text": "All the drivers were local people who lived on Maple Street and knew the limit.",
+          "text_translation": "Tất cả tài xế là người sống ở phố Maple và biết rõ giới hạn."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "There were 60 cars a day.",
-            "vi": "Mỗi ngày có 60 xe."
+            "en": "There were only 60 cars a day, and almost all of them stopped for the children.",
+            "vi": "Mỗi ngày chỉ có 60 xe, và gần như xe nào cũng dừng cho trẻ em."
           },
           "is_correct": false,
           "order": 3,
-          "text": "There were 60 cars a day.",
-          "text_translation": "Mỗi ngày có 60 xe."
+          "text": "There were only 60 cars a day, and almost all of them stopped for the children.",
+          "text_translation": "Mỗi ngày chỉ có 60 xe, và gần như xe nào cũng dừng cho trẻ em."
         }
       ],
       "evidence_segments": [
@@ -796,46 +796,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to visit the library",
-            "vi": "để tới thư viện"
+            "en": "to visit the library on Pine Street, where the Neighbors Group has its meetings",
+            "vi": "để tới thư viện ở phố Pine, nơi Nhóm Hàng xóm họp"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to visit the library",
-          "text_translation": "để tới thư viện"
+          "text": "to visit the library on Pine Street, where the Neighbors Group has its meetings",
+          "text_translation": "để tới thư viện ở phố Pine, nơi Nhóm Hàng xóm họp"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to see the park",
-            "vi": "để ngắm công viên"
+            "en": "to see the new pocket park, which many drivers had heard about on the news",
+            "vi": "để ngắm công viên bỏ túi mới mà nhiều tài xế đã nghe nói trên tin tức"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to see the park",
-          "text_translation": "để ngắm công viên"
+          "text": "to see the new pocket park, which many drivers had heard about on the news",
+          "text_translation": "để ngắm công viên bỏ túi mới mà nhiều tài xế đã nghe nói trên tin tức"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "as a shortcut, in order not to wait at the traffic lights on Ocean Avenue",
-            "vi": "để đi tắt, khỏi phải chờ đèn đỏ ở đại lộ Ocean"
+            "en": "as a shortcut, in order not to wait at the traffic lights on Ocean Avenue at busy times",
+            "vi": "để đi tắt, khỏi phải chờ đèn đỏ ở đại lộ Ocean vào giờ đông"
           },
           "is_correct": true,
           "order": 2,
-          "text": "as a shortcut, in order not to wait at the traffic lights on Ocean Avenue",
-          "text_translation": "để đi tắt, khỏi phải chờ đèn đỏ ở đại lộ Ocean"
+          "text": "as a shortcut, in order not to wait at the traffic lights on Ocean Avenue at busy times",
+          "text_translation": "để đi tắt, khỏi phải chờ đèn đỏ ở đại lộ Ocean vào giờ đông"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because they live there",
-            "vi": "vì họ sống ở đó"
+            "en": "because they live on Maple Street and drive home from work at the same time",
+            "vi": "vì họ sống ở phố Maple và cùng lái xe về nhà sau giờ làm"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because they live there",
-          "text_translation": "vì họ sống ở đó"
+          "text": "because they live on Maple Street and drive home from work at the same time",
+          "text_translation": "vì họ sống ở phố Maple và cùng lái xe về nhà sau giờ làm"
         }
       ],
       "evidence_segments": [
@@ -864,13 +864,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because neighbors don't want them",
-            "vi": "vì hàng xóm không muốn"
+            "en": "because neighbors don't want them, since some drivers would be unhappy about the street",
+            "vi": "vì hàng xóm không muốn, do một số tài xế sẽ không hài lòng về con phố"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because neighbors don't want them",
-          "text_translation": "vì hàng xóm không muốn"
+          "text": "because neighbors don't want them, since some drivers would be unhappy about the street",
+          "text_translation": "vì hàng xóm không muốn, do một số tài xế sẽ không hài lòng về con phố"
         },
         {
           "id": "B",
@@ -886,24 +886,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "because they are too expensive",
-            "vi": "vì quá đắt"
+            "en": "because they are too expensive for the group, which has not collected any money for the work",
+            "vi": "vì quá đắt đối với nhóm, vốn chưa gom được đồng nào cho việc đó"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because they are too expensive",
-          "text_translation": "vì quá đắt"
+          "text": "because they are too expensive for the group, which has not collected any money for the work",
+          "text_translation": "vì quá đắt đối với nhóm, vốn chưa gom được đồng nào cho việc đó"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "because children painted signs",
-            "vi": "vì bọn trẻ đã vẽ biển"
+            "en": "because the children painted signs, so the city had to wait until next weekend",
+            "vi": "vì bọn trẻ đã vẽ biển, nên thành phố phải đợi tới cuối tuần sau"
           },
           "is_correct": false,
           "order": 3,
-          "text": "because children painted signs",
-          "text_translation": "vì bọn trẻ đã vẽ biển"
+          "text": "because the children painted signs, so the city had to wait until next weekend",
+          "text_translation": "vì bọn trẻ đã vẽ biển, nên thành phố phải đợi tới cuối tuần sau"
         }
       ],
       "evidence_segments": [
@@ -943,35 +943,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "to measure the speed of cars",
-            "vi": "để đo tốc độ xe"
+            "en": "in order to measure the speed of the cars with the borrowed speed gun",
+            "vi": "để đo tốc độ xe bằng chiếc máy bắn tốc độ mượn được"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to measure the speed of cars",
-          "text_translation": "để đo tốc độ xe"
+          "text": "in order to measure the speed of the cars with the borrowed speed gun",
+          "text_translation": "để đo tốc độ xe bằng chiếc máy bắn tốc độ mượn được"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to sell vests",
-            "vi": "để bán áo phản quang"
+            "en": "in order to sell bright vests to the drivers who use the street",
+            "vi": "để bán áo phản quang cho những tài xế đi qua phố"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to sell vests",
-          "text_translation": "để bán áo phản quang"
+          "text": "in order to sell bright vests to the drivers who use the street",
+          "text_translation": "để bán áo phản quang cho những tài xế đi qua phố"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to stop all cars",
-            "vi": "để chặn mọi xe"
+            "en": "so as to stop all the cars until every child has crossed the street",
+            "vi": "để chặn mọi xe cho tới khi mọi em nhỏ qua hết đường"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to stop all cars",
-          "text_translation": "để chặn mọi xe"
+          "text": "so as to stop all the cars until every child has crossed the street",
+          "text_translation": "để chặn mọi xe cho tới khi mọi em nhỏ qua hết đường"
         }
       ],
       "evidence_segments": [
@@ -1000,35 +1000,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They agreed immediately.",
-            "vi": "Đồng ý ngay."
+            "en": "They agreed immediately, and several people offered to contact the map companies that same week.",
+            "vi": "Họ đồng ý ngay, và vài người đề nghị liên hệ các hãng bản đồ ngay trong tuần đó."
           },
           "is_correct": false,
           "order": 0,
-          "text": "They agreed immediately.",
-          "text_translation": "Đồng ý ngay."
+          "text": "They agreed immediately, and several people offered to contact the map companies that same week.",
+          "text_translation": "Họ đồng ý ngay, và vài người đề nghị liên hệ các hãng bản đồ ngay trong tuần đó."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "They were angry.",
-            "vi": "Tức giận."
+            "en": "They were angry with him and said that the idea was a waste of the group's time.",
+            "vi": "Họ tức giận với anh và nói ý tưởng ấy phí thời gian của nhóm."
           },
           "is_correct": false,
           "order": 1,
-          "text": "They were angry.",
-          "text_translation": "Tức giận."
+          "text": "They were angry with him and said that the idea was a waste of the group's time.",
+          "text_translation": "Họ tức giận với anh và nói ý tưởng ấy phí thời gian của nhóm."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "They asked him to leave.",
-            "vi": "Bảo anh ra về."
+            "en": "They asked him to leave the meeting, since nobody wanted to talk about map apps.",
+            "vi": "Họ bảo anh rời cuộc họp, vì không ai muốn bàn về ứng dụng bản đồ."
           },
           "is_correct": false,
           "order": 2,
-          "text": "They asked him to leave.",
-          "text_translation": "Bảo anh ra về."
+          "text": "They asked him to leave the meeting, since nobody wanted to talk about map apps.",
+          "text_translation": "Họ bảo anh rời cuộc họp, vì không ai muốn bàn về ứng dụng bản đồ."
         },
         {
           "id": "D",
@@ -1068,24 +1068,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "not to paint signs",
-            "vi": "đừng vẽ biển"
+            "en": "not to paint signs, because children might stand too close to the road",
+            "vi": "đừng vẽ biển, vì trẻ có thể đứng quá gần mặt đường"
           },
           "is_correct": false,
           "order": 0,
-          "text": "not to paint signs",
-          "text_translation": "đừng vẽ biển"
+          "text": "not to paint signs, because children might stand too close to the road",
+          "text_translation": "đừng vẽ biển, vì trẻ có thể đứng quá gần mặt đường"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "not to call the city",
-            "vi": "đừng gọi thành phố"
+            "en": "not to call the city, because the traffic department would take too long",
+            "vi": "đừng gọi thành phố, vì phòng giao thông sẽ làm rất lâu"
           },
           "is_correct": false,
           "order": 1,
-          "text": "not to call the city",
-          "text_translation": "đừng gọi thành phố"
+          "text": "not to call the city, because the traffic department would take too long",
+          "text_translation": "đừng gọi thành phố, vì phòng giao thông sẽ làm rất lâu"
         },
         {
           "id": "C",
@@ -1101,13 +1101,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "not to open the park",
-            "vi": "đừng mở công viên"
+            "en": "not to open the pocket park, because it brought too many children to the street",
+            "vi": "đừng mở công viên, vì nó đưa quá nhiều trẻ em ra phố"
           },
           "is_correct": false,
           "order": 3,
-          "text": "not to open the park",
-          "text_translation": "đừng mở công viên"
+          "text": "not to open the pocket park, because it brought too many children to the street",
+          "text_translation": "đừng mở công viên, vì nó đưa quá nhiều trẻ em ra phố"
         }
       ],
       "evidence_segments": [
@@ -1136,46 +1136,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Everyone agreed that the goal is safe speeds, not stopping people from driving.",
-            "vi": "Mọi người thống nhất mục tiêu là tốc độ an toàn, không phải cấm lái xe."
+            "en": "Everyone agreed that the goal is safe speeds, not stopping people from driving at all.",
+            "vi": "Mọi người thống nhất mục tiêu là tốc độ an toàn, không phải cấm người ta lái xe."
           },
           "is_correct": true,
           "order": 0,
-          "text": "Everyone agreed that the goal is safe speeds, not stopping people from driving.",
-          "text_translation": "Mọi người thống nhất mục tiêu là tốc độ an toàn, không phải cấm lái xe."
+          "text": "Everyone agreed that the goal is safe speeds, not stopping people from driving at all.",
+          "text_translation": "Mọi người thống nhất mục tiêu là tốc độ an toàn, không phải cấm người ta lái xe."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Mr. Hollis's cousin left the group.",
-            "vi": "Người anh họ của ông Hollis rời nhóm."
+            "en": "Mr. Hollis's cousin left the group, because nobody wanted to listen to his worries.",
+            "vi": "Người anh họ của ông Hollis rời nhóm, vì không ai muốn nghe những lo lắng của anh."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Mr. Hollis's cousin left the group.",
-          "text_translation": "Người anh họ của ông Hollis rời nhóm."
+          "text": "Mr. Hollis's cousin left the group, because nobody wanted to listen to his worries.",
+          "text_translation": "Người anh họ của ông Hollis rời nhóm, vì không ai muốn nghe những lo lắng của anh."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The group decided to close the street.",
-            "vi": "Nhóm quyết định chặn phố."
+            "en": "The group decided to close the street to all cars except those of the neighbors.",
+            "vi": "Nhóm quyết định chặn phố với mọi xe trừ xe của hàng xóm."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The group decided to close the street.",
-          "text_translation": "Nhóm quyết định chặn phố."
+          "text": "The group decided to close the street to all cars except those of the neighbors.",
+          "text_translation": "Nhóm quyết định chặn phố với mọi xe trừ xe của hàng xóm."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Nobody agreed.",
-            "vi": "Không ai đồng ý."
+            "en": "Nobody agreed, so the group decided to leave the problem for the next monthly meeting.",
+            "vi": "Không ai đồng ý, nên nhóm quyết định để vấn đề lại cho cuộc họp tháng sau."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Nobody agreed.",
-          "text_translation": "Không ai đồng ý."
+          "text": "Nobody agreed, so the group decided to leave the problem for the next monthly meeting.",
+          "text_translation": "Không ai đồng ý, nên nhóm quyết định để vấn đề lại cho cuộc họp tháng sau."
         }
       ],
       "evidence_segments": [
@@ -1204,24 +1204,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "One person decides everything.",
-            "vi": "Một người quyết định tất cả."
+            "en": "One person decides everything, and the other neighbors only listen to the notes.",
+            "vi": "Một người quyết định tất cả, còn các hàng xóm khác chỉ nghe ghi chép."
           },
           "is_correct": false,
           "order": 0,
-          "text": "One person decides everything.",
-          "text_translation": "Một người quyết định tất cả."
+          "text": "One person decides everything, and the other neighbors only listen to the notes.",
+          "text_translation": "Một người quyết định tất cả, còn các hàng xóm khác chỉ nghe ghi chép."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "They avoid all disagreements.",
-            "vi": "Họ né mọi bất đồng."
+            "en": "They avoid all disagreements, so every idea is accepted without any discussion at all.",
+            "vi": "Họ né mọi bất đồng, nên ý nào cũng được nhận mà không bàn bạc gì."
           },
           "is_correct": false,
           "order": 1,
-          "text": "They avoid all disagreements.",
-          "text_translation": "Họ né mọi bất đồng."
+          "text": "They avoid all disagreements, so every idea is accepted without any discussion at all.",
+          "text_translation": "Họ né mọi bất đồng, nên ý nào cũng được nhận mà không bàn bạc gì."
         },
         {
           "id": "C",
@@ -1237,13 +1237,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "They wait for the city to decide everything.",
-            "vi": "Họ chờ thành phố quyết định mọi thứ."
+            "en": "They wait for the city to decide everything, and the neighbors do nothing in the meantime.",
+            "vi": "Họ chờ thành phố quyết định mọi thứ, còn hàng xóm không làm gì trong lúc đó."
           },
           "is_correct": false,
           "order": 3,
-          "text": "They wait for the city to decide everything.",
-          "text_translation": "Họ chờ thành phố quyết định mọi thứ."
+          "text": "They wait for the city to decide everything, and the neighbors do nothing in the meantime.",
+          "text_translation": "Họ chờ thành phố quyết định mọi thứ, còn hàng xóm không làm gì trong lúc đó."
         }
       ],
       "evidence_segments": [
@@ -1273,46 +1273,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to teach students how to use AI tools",
-            "vi": "để dạy học sinh dùng công cụ AI"
+            "en": "to teach students how to use AI tools to write a better college essay",
+            "vi": "để dạy học sinh dùng công cụ AI viết bài luận xin vào đại học hay hơn"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to teach students how to use AI tools",
-          "text_translation": "để dạy học sinh dùng công cụ AI"
+          "text": "to teach students how to use AI tools to write a better college essay",
+          "text_translation": "để dạy học sinh dùng công cụ AI viết bài luận xin vào đại học hay hơn"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to advertise private advisers",
-            "vi": "để quảng cáo cố vấn riêng"
+            "en": "to advertise private advisers who help students with college applications",
+            "vi": "để quảng cáo các cố vấn riêng giúp học sinh làm hồ sơ vào đại học"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to advertise private advisers",
-          "text_translation": "để quảng cáo cố vấn riêng"
+          "text": "to advertise private advisers who help students with college applications",
+          "text_translation": "để quảng cáo các cố vấn riêng giúp học sinh làm hồ sơ vào đại học"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to discuss whether students should use AI to write college essays",
-            "vi": "để bàn có nên dùng AI viết bài luận xin vào đại học"
+            "en": "to discuss whether students should use AI to write their college essays or not",
+            "vi": "để bàn có nên dùng AI viết bài luận xin vào đại học hay không"
           },
           "is_correct": true,
           "order": 2,
-          "text": "to discuss whether students should use AI to write college essays",
-          "text_translation": "để bàn có nên dùng AI viết bài luận xin vào đại học"
+          "text": "to discuss whether students should use AI to write their college essays or not",
+          "text_translation": "để bàn có nên dùng AI viết bài luận xin vào đại học hay không"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to explain how colleges choose students",
-            "vi": "để giải thích cách trường chọn học sinh"
+            "en": "to explain how colleges choose students, using the personal essay as the main test",
+            "vi": "để giải thích cách trường chọn học sinh, lấy bài luận cá nhân làm phép thử chính"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to explain how colleges choose students",
-          "text_translation": "để giải thích cách trường chọn học sinh"
+          "text": "to explain how colleges choose students, using the personal essay as the main test",
+          "text_translation": "để giải thích cách trường chọn học sinh, lấy bài luận cá nhân làm phép thử chính"
         }
       ],
       "evidence_segments": [
@@ -1341,46 +1341,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It connects the writer's point to an experience that many readers share.",
-            "vi": "Nó gắn ý của người viết với trải nghiệm mà nhiều người đọc cùng có."
+            "en": "It connects the writer's point to an experience that many readers already share.",
+            "vi": "Nó gắn ý của người viết với trải nghiệm mà nhiều người đọc vốn đã có chung."
           },
           "is_correct": true,
           "order": 0,
-          "text": "It connects the writer's point to an experience that many readers share.",
-          "text_translation": "Nó gắn ý của người viết với trải nghiệm mà nhiều người đọc cùng có."
+          "text": "It connects the writer's point to an experience that many readers already share.",
+          "text_translation": "Nó gắn ý của người viết với trải nghiệm mà nhiều người đọc vốn đã có chung."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "It gives a reason.",
-            "vi": "Nó nêu lý do."
+            "en": "It gives a reason why the personal essay is the most important part of an application.",
+            "vi": "Nó nêu lý do vì sao bài luận cá nhân là phần quan trọng nhất của hồ sơ."
           },
           "is_correct": false,
           "order": 1,
-          "text": "It gives a reason.",
-          "text_translation": "Nó nêu lý do."
+          "text": "It gives a reason why the personal essay is the most important part of an application.",
+          "text_translation": "Nó nêu lý do vì sao bài luận cá nhân là phần quan trọng nhất của hồ sơ."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "It describes a time.",
-            "vi": "Nó chỉ thời gian."
+            "en": "It describes a time when the writer applied to college and wrote an essay.",
+            "vi": "Nó kể lại một lần người viết xin vào đại học và viết bài luận."
           },
           "is_correct": false,
           "order": 2,
-          "text": "It describes a time.",
-          "text_translation": "Nó chỉ thời gian."
+          "text": "It describes a time when the writer applied to college and wrote an essay.",
+          "text_translation": "Nó kể lại một lần người viết xin vào đại học và viết bài luận."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "It compares two things.",
-            "vi": "Nó so sánh hai thứ."
+            "en": "It compares the writer's own college application with that of a famous student.",
+            "vi": "Nó so sánh hồ sơ đại học của người viết với hồ sơ của một học sinh nổi tiếng."
           },
           "is_correct": false,
           "order": 3,
-          "text": "It compares two things.",
-          "text_translation": "Nó so sánh hai thứ."
+          "text": "It compares the writer's own college application with that of a famous student.",
+          "text_translation": "Nó so sánh hồ sơ đại học của người viết với hồ sơ của một học sinh nổi tiếng."
         }
       ],
       "evidence_segments": [
@@ -1409,35 +1409,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "because it is required",
-            "vi": "vì đó là yêu cầu"
+            "en": "because most colleges require students to use it when they send in their applications",
+            "vi": "vì hầu hết các trường yêu cầu học sinh dùng nó khi nộp hồ sơ"
           },
           "is_correct": false,
           "order": 0,
-          "text": "because it is required",
-          "text_translation": "vì đó là yêu cầu"
+          "text": "because most colleges require students to use it when they send in their applications",
+          "text_translation": "vì hầu hết các trường yêu cầu học sinh dùng nó khi nộp hồ sơ"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "because teachers suggest it",
-            "vi": "vì giáo viên gợi ý"
+            "en": "because teachers suggest it as the fastest way to finish the application",
+            "vi": "vì giáo viên gợi ý đó là cách nhanh nhất để xong hồ sơ"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because teachers suggest it",
-          "text_translation": "vì giáo viên gợi ý"
+          "text": "because teachers suggest it as the fastest way to finish the application",
+          "text_translation": "vì giáo viên gợi ý đó là cách nhanh nhất để xong hồ sơ"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "because AI is expensive",
-            "vi": "vì AI đắt"
+            "en": "because AI is expensive, so only wealthy families can ask it to write an essay",
+            "vi": "vì AI đắt, nên chỉ gia đình giàu mới nhờ nó viết bài luận được"
           },
           "is_correct": false,
           "order": 2,
-          "text": "because AI is expensive",
-          "text_translation": "vì AI đắt"
+          "text": "because AI is expensive, so only wealthy families can ask it to write an essay",
+          "text_translation": "vì AI đắt, nên chỉ gia đình giàu mới nhờ nó viết bài luận được"
         },
         {
           "id": "D",
@@ -1477,46 +1477,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "AI makes all essays the same.",
-            "vi": "AI làm mọi bài luận giống nhau."
+            "en": "AI makes all essays the same, so no student has an advantage over any other student in the application",
+            "vi": "AI làm mọi bài luận giống nhau, nên không học sinh nào có lợi thế hơn học sinh khác trong hồ sơ"
           },
           "is_correct": false,
           "order": 0,
-          "text": "AI makes all essays the same.",
-          "text_translation": "AI làm mọi bài luận giống nhau."
+          "text": "AI makes all essays the same, so no student has an advantage over any other student in the application",
+          "text_translation": "AI làm mọi bài luận giống nhau, nên không học sinh nào có lợi thế hơn học sinh khác trong hồ sơ"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "AI gives students without money for private help the kind of support that wealthy families have always had.",
-            "vi": "AI cho học sinh không có tiền thuê người giúp một kiểu hỗ trợ mà gia đình giàu vẫn luôn có."
+            "en": "AI gives students who cannot pay for private help the support that wealthy families have always had.",
+            "vi": "AI cho học sinh không có tiền thuê người giúp sự hỗ trợ mà gia đình giàu vẫn luôn có."
           },
           "is_correct": true,
           "order": 1,
-          "text": "AI gives students without money for private help the kind of support that wealthy families have always had.",
-          "text_translation": "AI cho học sinh không có tiền thuê người giúp một kiểu hỗ trợ mà gia đình giàu vẫn luôn có."
+          "text": "AI gives students who cannot pay for private help the support that wealthy families have always had.",
+          "text_translation": "AI cho học sinh không có tiền thuê người giúp sự hỗ trợ mà gia đình giàu vẫn luôn có."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "AI helps students play sports.",
-            "vi": "AI giúp học sinh chơi thể thao."
+            "en": "AI helps students from poor families to play sports and join clubs at college",
+            "vi": "AI giúp học sinh nhà nghèo chơi thể thao và tham gia câu lạc bộ ở đại học"
           },
           "is_correct": false,
           "order": 2,
-          "text": "AI helps students play sports.",
-          "text_translation": "AI giúp học sinh chơi thể thao."
+          "text": "AI helps students from poor families to play sports and join clubs at college",
+          "text_translation": "AI giúp học sinh nhà nghèo chơi thể thao và tham gia câu lạc bộ ở đại học"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "AI should be banned.",
-            "vi": "Nên cấm AI."
+            "en": "AI should be banned, because wealthy families can pay private advisers to cheat",
+            "vi": "Nên cấm AI, vì gia đình giàu có thể trả tiền cho cố vấn riêng để gian lận"
           },
           "is_correct": false,
           "order": 3,
-          "text": "AI should be banned.",
-          "text_translation": "Nên cấm AI."
+          "text": "AI should be banned, because wealthy families can pay private advisers to cheat",
+          "text_translation": "Nên cấm AI, vì gia đình giàu có thể trả tiền cho cố vấn riêng để gian lận"
         }
       ],
       "evidence_segments": [
@@ -1545,46 +1545,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "by writing the whole essay",
-            "vi": "bằng cách viết cả bài"
+            "en": "by writing the whole essay so that students can send it straight to the college",
+            "vi": "bằng cách viết cả bài để học sinh gửi thẳng cho trường"
           },
           "is_correct": false,
           "order": 0,
-          "text": "by writing the whole essay",
-          "text_translation": "bằng cách viết cả bài"
+          "text": "by writing the whole essay so that students can send it straight to the college",
+          "text_translation": "bằng cách viết cả bài để học sinh gửi thẳng cho trường"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "by choosing the college",
-            "vi": "bằng cách chọn trường"
+            "en": "by choosing the college that is best for each student and for their future career",
+            "vi": "bằng cách chọn trường tốt nhất cho từng học sinh và cho nghề nghiệp sau này"
           },
           "is_correct": false,
           "order": 1,
-          "text": "by choosing the college",
-          "text_translation": "bằng cách chọn trường"
+          "text": "by choosing the college that is best for each student and for their future career",
+          "text_translation": "bằng cách chọn trường tốt nhất cho từng học sinh và cho nghề nghiệp sau này"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "by pointing out unclear sentences or suggesting questions to think about",
-            "vi": "bằng cách chỉ ra câu chưa rõ hay gợi ý câu hỏi để suy nghĩ"
+            "en": "by pointing out unclear sentences or suggesting questions for students to think about",
+            "vi": "bằng cách chỉ ra câu chưa rõ hay gợi ý câu hỏi để học sinh suy nghĩ"
           },
           "is_correct": true,
           "order": 2,
-          "text": "by pointing out unclear sentences or suggesting questions to think about",
-          "text_translation": "bằng cách chỉ ra câu chưa rõ hay gợi ý câu hỏi để suy nghĩ"
+          "text": "by pointing out unclear sentences or suggesting questions for students to think about",
+          "text_translation": "bằng cách chỉ ra câu chưa rõ hay gợi ý câu hỏi để học sinh suy nghĩ"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "by contacting colleges",
-            "vi": "bằng cách liên hệ các trường"
+            "en": "by contacting the colleges and asking them to give feedback on the first draft",
+            "vi": "bằng cách liên hệ các trường và nhờ họ nhận xét bản nháp đầu tiên"
           },
           "is_correct": false,
           "order": 3,
-          "text": "by contacting colleges",
-          "text_translation": "bằng cách liên hệ các trường"
+          "text": "by contacting the colleges and asking them to give feedback on the first draft",
+          "text_translation": "bằng cách liên hệ các trường và nhờ họ nhận xét bản nháp đầu tiên"
         }
       ],
       "evidence_segments": [
@@ -1613,46 +1613,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "between rich and poor colleges",
-            "vi": "giữa trường giàu và trường nghèo"
+            "en": "between rich and poor colleges, and how much money each of them can spend on students",
+            "vi": "giữa trường giàu và trường nghèo, và số tiền mỗi trường có thể chi cho sinh viên"
           },
           "is_correct": false,
           "order": 0,
-          "text": "between rich and poor colleges",
-          "text_translation": "giữa trường giàu và trường nghèo"
+          "text": "between rich and poor colleges, and how much money each of them can spend on students",
+          "text_translation": "giữa trường giàu và trường nghèo, và số tiền mỗi trường có thể chi cho sinh viên"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "between long and short essays",
-            "vi": "giữa bài dài và bài ngắn"
+            "en": "between long and short essays, and how many words a student should write",
+            "vi": "giữa bài dài và bài ngắn, và học sinh nên viết bao nhiêu chữ"
           },
           "is_correct": false,
           "order": 1,
-          "text": "between long and short essays",
-          "text_translation": "giữa bài dài và bài ngắn"
+          "text": "between long and short essays, and how many words a student should write",
+          "text_translation": "giữa bài dài và bài ngắn, và học sinh nên viết bao nhiêu chữ"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "between AI and computers",
-            "vi": "giữa AI và máy tính"
+            "en": "between AI and ordinary computers, and what each can do for a student",
+            "vi": "giữa AI và máy tính thông thường, và mỗi thứ giúp được gì cho học sinh"
           },
           "is_correct": false,
           "order": 2,
-          "text": "between AI and computers",
-          "text_translation": "giữa AI và máy tính"
+          "text": "between AI and ordinary computers, and what each can do for a student",
+          "text_translation": "giữa AI và máy tính thông thường, và mỗi thứ giúp được gì cho học sinh"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "between getting help with an essay and having it written for you",
-            "vi": "giữa được giúp viết bài và bị làm thay"
+            "en": "between getting help with an essay and having the whole essay written for you",
+            "vi": "giữa được giúp viết bài và bị làm thay cả bài"
           },
           "is_correct": true,
           "order": 3,
-          "text": "between getting help with an essay and having it written for you",
-          "text_translation": "giữa được giúp viết bài và bị làm thay"
+          "text": "between getting help with an essay and having the whole essay written for you",
+          "text_translation": "giữa được giúp viết bài và bị làm thay cả bài"
         }
       ],
       "evidence_segments": [
@@ -1681,46 +1681,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "New technology usually arrives before clear rules exist.",
-            "vi": "Công nghệ mới thường đến trước khi có luật lệ rõ ràng."
+            "en": "New technology usually arrives before clear rules exist for how people should use it.",
+            "vi": "Công nghệ mới thường đến trước khi có luật lệ rõ ràng về cách dùng nó."
           },
           "is_correct": true,
           "order": 0,
-          "text": "New technology usually arrives before clear rules exist.",
-          "text_translation": "Công nghệ mới thường đến trước khi có luật lệ rõ ràng."
+          "text": "New technology usually arrives before clear rules exist for how people should use it.",
+          "text_translation": "Công nghệ mới thường đến trước khi có luật lệ rõ ràng về cách dùng nó."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Writers are writing rules about essays.",
-            "vi": "Các nhà văn đang viết luật về bài luận."
+            "en": "Writers are busy writing new rules about how students should write their essays.",
+            "vi": "Các nhà văn đang bận viết luật mới về cách học sinh nên viết bài luận."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Writers are writing rules about essays.",
-          "text_translation": "Các nhà văn đang viết luật về bài luận."
+          "text": "Writers are busy writing new rules about how students should write their essays.",
+          "text_translation": "Các nhà văn đang bận viết luật mới về cách học sinh nên viết bài luận."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The rules have been finished.",
-            "vi": "Luật lệ đã viết xong."
+            "en": "The rules have already been finished, so everybody knows what to do with new technology.",
+            "vi": "Luật lệ đã viết xong, nên ai cũng biết phải làm gì với công nghệ mới."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The rules have been finished.",
-          "text_translation": "Luật lệ đã viết xong."
+          "text": "The rules have already been finished, so everybody knows what to do with new technology.",
+          "text_translation": "Luật lệ đã viết xong, nên ai cũng biết phải làm gì với công nghệ mới."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Technology always breaks rules.",
-            "vi": "Công nghệ luôn phá luật."
+            "en": "Technology always breaks the rules, so nobody can write clear rules about it.",
+            "vi": "Công nghệ luôn phá luật, nên không ai viết được luật rõ ràng về nó."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Technology always breaks rules.",
-          "text_translation": "Công nghệ luôn phá luật."
+          "text": "Technology always breaks the rules, so nobody can write clear rules about it.",
+          "text_translation": "Công nghệ luôn phá luật, nên không ai viết được luật rõ ràng về nó."
         }
       ],
       "evidence_segments": [
@@ -1749,13 +1749,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "very personal and surprising",
-            "vi": "rất cá nhân và bất ngờ"
+            "en": "very personal and surprising, with a different voice in every essay",
+            "vi": "rất cá nhân và bất ngờ, mỗi bài một giọng khác nhau"
           },
           "is_correct": false,
           "order": 0,
-          "text": "very personal and surprising",
-          "text_translation": "rất cá nhân và bất ngờ"
+          "text": "very personal and surprising, with a different voice in every essay",
+          "text_translation": "rất cá nhân và bất ngờ, mỗi bài một giọng khác nhau"
         },
         {
           "id": "B",
@@ -1771,24 +1771,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "full of mistakes",
-            "vi": "đầy lỗi"
+            "en": "full of mistakes that readers find in almost every sentence",
+            "vi": "đầy lỗi mà người đọc gặp ở gần như mọi câu"
           },
           "is_correct": false,
           "order": 2,
-          "text": "full of mistakes",
-          "text_translation": "đầy lỗi"
+          "text": "full of mistakes that readers find in almost every sentence",
+          "text_translation": "đầy lỗi mà người đọc gặp ở gần như mọi câu"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "too short",
-            "vi": "quá ngắn"
+            "en": "too short to give readers a clear idea of the student",
+            "vi": "quá ngắn để người đọc hình dung rõ về học sinh"
           },
           "is_correct": false,
           "order": 3,
-          "text": "too short",
-          "text_translation": "quá ngắn"
+          "text": "too short to give readers a clear idea of the student",
+          "text_translation": "quá ngắn để người đọc hình dung rõ về học sinh"
         }
       ],
       "evidence_segments": [
@@ -1817,46 +1817,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Computers can't write.",
-            "vi": "Máy tính không viết được."
+            "en": "Computers can't write anything, so a student must always write by hand.",
+            "vi": "Máy tính không viết được gì, nên học sinh luôn phải viết tay"
           },
           "is_correct": false,
           "order": 0,
-          "text": "Computers can't write.",
-          "text_translation": "Máy tính không viết được."
+          "text": "Computers can't write anything, so a student must always write by hand.",
+          "text_translation": "Máy tính không viết được gì, nên học sinh luôn phải viết tay"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "He didn't like his own story.",
-            "vi": "Cậu không thích câu chuyện của mình."
+            "en": "He didn't like his own story, so he asked the computer to change it.",
+            "vi": "Cậu không thích câu chuyện của mình, nên nhờ máy tính đổi nó."
           },
           "is_correct": false,
           "order": 1,
-          "text": "He didn't like his own story.",
-          "text_translation": "Cậu không thích câu chuyện của mình."
+          "text": "He didn't like his own story, so he asked the computer to change it.",
+          "text_translation": "Cậu không thích câu chuyện của mình, nên nhờ máy tính đổi nó."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "He wanted the computer to write it.",
-            "vi": "Cậu muốn máy tính viết hộ."
+            "en": "He wanted the computer to write it, but the college would not allow it.",
+            "vi": "Cậu muốn máy tính viết hộ, nhưng trường không cho phép."
           },
           "is_correct": false,
           "order": 2,
-          "text": "He wanted the computer to write it.",
-          "text_translation": "Cậu muốn máy tính viết hộ."
+          "text": "He wanted the computer to write it, but the college would not allow it.",
+          "text_translation": "Cậu muốn máy tính viết hộ, nhưng trường không cho phép."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "An essay written by a machine could not show who he really is.",
-            "vi": "Một bài luận do máy viết không thể cho thấy cậu thật sự là ai."
+            "en": "An essay written by a machine could not show who he really is or tell his story.",
+            "vi": "Một bài luận do máy viết không thể cho thấy cậu thật sự là ai hay kể câu chuyện của cậu."
           },
           "is_correct": true,
           "order": 3,
-          "text": "An essay written by a machine could not show who he really is.",
-          "text_translation": "Một bài luận do máy viết không thể cho thấy cậu thật sự là ai."
+          "text": "An essay written by a machine could not show who he really is or tell his story.",
+          "text_translation": "Một bài luận do máy viết không thể cho thấy cậu thật sự là ai hay kể câu chuyện của cậu."
         }
       ],
       "evidence_segments": [
@@ -1885,46 +1885,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Both of them were written by AI.",
-            "vi": "Cả hai đều do AI viết."
+            "en": "Both of them were written by AI tools that Trevor found on the school computers.",
+            "vi": "Cả hai đều do các công cụ AI mà Trevor tìm thấy trên máy tính của trường viết."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Both of them were written by AI.",
-          "text_translation": "Cả hai đều do AI viết."
+          "text": "Both of them were written by AI tools that Trevor found on the school computers.",
+          "text_translation": "Cả hai đều do các công cụ AI mà Trevor tìm thấy trên máy tính của trường viết."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "In both, Trevor did the real work himself and used tools only to help.",
-            "vi": "Trong cả hai, Trevor tự làm phần việc thật và chỉ dùng công cụ để hỗ trợ."
+            "en": "In both, Trevor did the real work himself and used tools only to help him with some parts.",
+            "vi": "Trong cả hai, Trevor tự làm phần việc thật và chỉ dùng công cụ để giúp ở vài phần."
           },
           "is_correct": true,
           "order": 1,
-          "text": "In both, Trevor did the real work himself and used tools only to help.",
-          "text_translation": "Trong cả hai, Trevor tự làm phần việc thật và chỉ dùng công cụ để hỗ trợ."
+          "text": "In both, Trevor did the real work himself and used tools only to help him with some parts.",
+          "text_translation": "Trong cả hai, Trevor tự làm phần việc thật và chỉ dùng công cụ để giúp ở vài phần."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Both of them were about cars.",
-            "vi": "Cả hai đều về ô tô."
+            "en": "Both of them were about cars and drivers who use Maple Street as a shortcut.",
+            "vi": "Cả hai đều về ô tô và những tài xế dùng phố Maple làm đường tắt."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Both of them were about cars.",
-          "text_translation": "Cả hai đều về ô tô."
+          "text": "Both of them were about cars and drivers who use Maple Street as a shortcut.",
+          "text_translation": "Cả hai đều về ô tô và những tài xế dùng phố Maple làm đường tắt."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Both of them were done for the city.",
-            "vi": "Cả hai đều làm cho thành phố."
+            "en": "Both of them were done for the city, which asked Trevor to hand in the results.",
+            "vi": "Cả hai đều làm cho thành phố, nơi đã yêu cầu Trevor nộp kết quả."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Both of them were done for the city.",
-          "text_translation": "Cả hai đều làm cho thành phố."
+          "text": "Both of them were done for the city, which asked Trevor to hand in the results.",
+          "text_translation": "Cả hai đều làm cho thành phố, nơi đã yêu cầu Trevor nộp kết quả."
         }
       ],
       "evidence_segments": [

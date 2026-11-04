@@ -169,3 +169,15 @@ Agent không phóng đại: 4 lỗi chắc đều đúng khi mở tận nơi. Đ
 | 10 | VI "đêm đông bệnh nhân" (dễ hiểu là đêm mùa đông), "Anh áo khoác đỏ" | hợp lý | → "đêm nhiều bệnh nhân", "Anh mặc áo khoác đỏ" |
 
 Đồng bộ: `characters.md` (dòng mock2), `difficulty.md`, `01_research.md`.
+
+---
+
+## Cân lại độ dài phương án (04/11/2026)
+
+Lỗi phát hiện khi rà sách 61: đáp án đúng gần như luôn là phương án dài nhất, nên học viên chọn câu dài nhất là đúng.
+Sonnet (chia nhóm file) viết lại phương án sai cả EN + VI. Main đo lại và so với git, kết quả:
+
+- Đáp án đúng là phương án dài nhất: 93% (187/200) → **31% (62/200)**.
+- Đáp án đúng là phương án ngắn nhất: **20% (41/200)** (kiểm để tránh lệch ngược chiều; mức ngẫu nhiên là 25%).
+- Dài ≥1,5× phương án dài thứ hai: 155 → **0**.
+- 0 câu đổi đáp án, câu hỏi, evidence; 0 bài đọc bị đổi; verify mọi thư mục ĐẠT. Main đọc kiểm câu mẫu ở từng nhóm.

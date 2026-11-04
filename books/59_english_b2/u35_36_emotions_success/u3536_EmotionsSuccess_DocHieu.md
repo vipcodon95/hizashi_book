@@ -81,81 +81,81 @@
 *(Nhật ký của Leah chủ yếu nói về điều gì?)*
 
 - A. an argument with Ethan about his training program and how they made up *(cuộc cãi nhau với Ethan về chương trình huấn luyện và cách hai người làm lành)*
-- B. Leah's work at the hospital *(công việc của Leah ở bệnh viện)*
-- C. a wildfire in the north of the state *(một vụ cháy rừng ở phía bắc bang)*
-- D. Chloe's new job *(công việc mới của Chloe)*
+- B. Leah's hard shifts at work and how tired they make her feel all week *(những ca làm vất vả của Leah và việc chúng khiến cô mệt suốt cả tuần)*
+- C. a wildfire in the north of the state and how Ethan helped to put it out *(một vụ cháy rừng ở phía bắc bang và cách Ethan giúp dập tắt nó)*
+- D. Chloe's new job and how Leah helped her to prepare for the interview *(công việc mới của Chloe và cách Leah giúp cô ấy chuẩn bị cho buổi phỏng vấn)*
 
 **2. What was Ethan offered?**
 *(Ethan được mời tham gia gì?)*
 
-- A. a job in another country *(một công việc ở nước khác)*
-- B. a promotion at his fire station *(thăng chức ở trạm cứu hoả)*
+- A. a job in another country that would last six months *(một công việc ở nước khác kéo dài sáu tháng)*
+- B. a promotion at his fire station, with a higher salary from next month *(một lần thăng chức ở trạm cứu hoả, với lương cao hơn từ tháng sau)*
 - C. a place on a six-month wildfire training program *(một suất trong chương trình huấn luyện chữa cháy rừng sáu tháng)*
-- D. a trip with Leah *(một chuyến đi với Leah)*
+- D. a trip around the north of the state with Leah during the summer *(một chuyến đi quanh phía bắc bang cùng Leah vào mùa hè)*
 
 **3. Why was Leah furious?**
 *(Vì sao Leah giận điên lên?)*
 
-- A. because she didn't want him to go *(vì cô không muốn anh đi)*
-- B. because he was thrilled *(vì anh mừng rỡ)*
-- C. because the program was dangerous *(vì chương trình nguy hiểm)*
+- A. because she didn't want him to leave for six months and had asked him to say no *(vì cô không muốn anh đi sáu tháng và đã bảo anh từ chối)*
+- B. because he was so thrilled that he forgot to ask her how her day was *(vì anh mừng rỡ đến mức quên hỏi hôm nay của cô thế nào)*
+- C. because the program was very dangerous and he had not told her about the risks *(vì chương trình rất nguy hiểm và anh đã không nói với cô về rủi ro)*
 - D. because he had known about it for two weeks and had already said yes without asking her *(vì anh đã biết hai tuần và đã nhận lời mà không hỏi cô)*
 
 **4. What does "Were I in his position, I would have asked my partner first" mean?**
 *(Câu "Were I in his position, I would have asked my partner first" nghĩa là gì?)*
 
-- A. Leah was in Ethan's position. *(Leah ở vị trí của Ethan.)*
-- B. If Leah had been in Ethan's situation, she would have asked him first. *(Nếu Leah ở hoàn cảnh của Ethan, cô đã hỏi anh trước.)*
-- C. Leah asked Ethan first. *(Leah đã hỏi Ethan trước.)*
-- D. Leah wants a new partner. *(Leah muốn người yêu mới.)*
+- A. Leah was standing in the same place as Ethan when they talked at dinner. *(Leah đứng cùng chỗ với Ethan khi hai người nói chuyện lúc ăn tối.)*
+- B. If Leah had been in Ethan's situation, she would have asked her partner first. *(Nếu Leah ở hoàn cảnh của Ethan, cô đã hỏi người yêu trước.)*
+- C. Leah asked Ethan for his opinion before she told him about her own news. *(Leah đã hỏi ý kiến Ethan trước khi kể với anh tin của chính mình.)*
+- D. Leah wants a new partner who would ask her opinion before making decisions. *(Leah muốn một người yêu mới biết hỏi ý cô trước khi quyết định)*
 
 **5. What does "I am absolutely exhausted" show?**
 *(Câu "Tôi kiệt sức hoàn toàn" cho thấy điều gì?)*
 
 - A. Leah is extremely tired, partly because of the tension with Ethan. *(Leah mệt rã rời, một phần vì căng thẳng với Ethan.)*
-- B. Leah is a little tired. *(Leah hơi mệt.)*
-- C. Leah has been running. *(Leah vừa chạy bộ.)*
-- D. Leah is happy. *(Leah đang vui.)*
+- B. Leah is only a little tired after a long day at work, and nothing else. *(Leah chỉ hơi mệt sau một ngày làm việc dài, ngoài ra không có gì khác.)*
+- C. Leah has been running for hours and is tired from the exercise. *(Leah đã chạy nhiều giờ và mệt vì tập thể dục.)*
+- D. Leah is happy and relaxed because the argument with Ethan is over. *(Leah vui và thư giãn vì cuộc cãi nhau với Ethan đã xong.)*
 
 **6. What did Chloe's question help Leah understand?**
 *(Câu hỏi của Chloe giúp Leah hiểu ra điều gì?)*
 
-- A. that she wanted Ethan to stay *(rằng cô muốn Ethan ở lại)*
-- B. that Chloe agreed with Ethan *(rằng Chloe đồng ý với Ethan)*
+- A. that she wanted Ethan to stay at home, because she didn't want to be alone for six months *(rằng cô muốn Ethan ở nhà, vì cô không muốn một mình suốt sáu tháng)*
+- B. that Chloe agreed with Ethan and thought that Leah should be pleased for him *(rằng Chloe đồng ý với Ethan và nghĩ Leah nên mừng cho anh)*
 - C. that she was really angry because Ethan didn't ask her, not because he was going *(rằng cô thật ra giận vì Ethan không hỏi cô, chứ không phải vì anh đi)*
-- D. that she should end the relationship *(rằng cô nên chia tay)*
+- D. that she should end the relationship, because Ethan had not asked her opinion *(rằng cô nên chia tay, vì Ethan đã không hỏi ý cô)*
 
 **7. What does "Were it not for Chloe, I might well have spent another week being angry" mean?**
 *(Câu "Nếu không có Chloe, có khi tôi đã giận thêm một tuần nữa" nghĩa là gì?)*
 
-- A. Chloe made Leah angry. *(Chloe làm Leah giận.)*
-- B. Chloe was angry for a week. *(Chloe giận một tuần.)*
-- C. Leah didn't talk to Chloe. *(Leah không nói chuyện với Chloe.)*
+- A. Chloe made Leah angry about the wrong thing, so she stayed angry for another week. *(Chloe làm Leah giận nhầm chuyện, nên cô giận thêm một tuần nữa.)*
+- B. Chloe was angry for a week, because Leah did not listen to her advice. *(Chloe giận một tuần, vì Leah không nghe lời khuyên của cô ấy.)*
+- C. Leah did not talk to Chloe, so she was angry for another whole week. *(Leah không nói chuyện với Chloe, nên cô giận thêm cả một tuần nữa.)*
 - D. Without Chloe's help, Leah would probably have stayed angry longer. *(Nếu không có Chloe giúp, nhiều khả năng Leah đã giận lâu hơn.)*
 
 **8. Why had Ethan not asked Leah before saying yes?**
 *(Vì sao Ethan không hỏi Leah trước khi nhận lời?)*
 
-- A. He didn't care what she thought. *(Vì anh không quan tâm cô nghĩ gì.)*
+- A. He didn't care what she thought, because the program was more important to him than she was. *(Vì anh không quan tâm cô nghĩ gì, vì chương trình quan trọng với anh hơn cô.)*
 - B. He was afraid that she would ask him not to go, and that he couldn't say no to her. *(Vì anh sợ cô bảo đừng đi, và anh không thể từ chối cô.)*
-- C. He forgot. *(Vì anh quên.)*
-- D. Chloe told him not to. *(Vì Chloe bảo đừng.)*
+- C. He forgot to tell her, because he was too busy preparing for the program at work. *(Vì anh quên nói với cô, do quá bận chuẩn bị cho chương trình ở chỗ làm.)*
+- D. Chloe told him not to ask Leah, because Leah would be angry and say no. *(Vì Chloe bảo anh đừng hỏi Leah, do cô sẽ giận và nói không.)*
 
 **9. What does "That made me cry, which made him panic, which made us both laugh" show?**
 *(Câu "Câu đó làm tôi khóc, tôi khóc thì anh cuống lên, rồi cả hai cùng bật cười" cho thấy điều gì?)*
 
-- A. The tension between them broke, and they felt close again. *(Căng thẳng giữa hai người tan biến, và họ thấy gần nhau trở lại.)*
-- B. They had another argument. *(Họ lại cãi nhau.)*
-- C. Ethan didn't care. *(Ethan không quan tâm.)*
-- D. Leah was angry again. *(Leah lại giận.)*
+- A. The tension between them broke, and they felt close to each other again after the quarrel. *(Căng thẳng giữa hai người tan biến, và họ thấy gần nhau trở lại sau cuộc cãi vã.)*
+- B. They had another argument, and Ethan decided to go without telling her. *(Họ lại cãi nhau, và Ethan quyết định đi mà không báo cho cô.)*
+- C. Ethan didn't care about her tears and went on eating his dinner quietly in most cases. *(Ethan không để tâm đến nước mắt của cô và lặng lẽ tiếp tục bữa tối trong hầu hết trường hợp)*
+- D. Leah was angry again and wanted to cancel their Friday evening together. *(Leah lại giận và muốn huỷ buổi tối thứ Sáu của hai người.)*
 
 **10. What does Leah mean by "love, like anything worth doing, may well need practice"?**
 *(Leah muốn nói gì qua câu "tình yêu, cũng như mọi điều đáng làm, có lẽ cũng cần luyện tập"?)*
 
-- A. Love is a sport. *(Tình yêu là một môn thể thao.)*
-- B. They should take a class. *(Họ nên đi học một lớp.)*
-- C. Relationships improve when people keep working on how they communicate. *(Các mối quan hệ tốt lên khi người ta tiếp tục rèn cách giao tiếp với nhau.)*
-- D. Love is easy. *(Tình yêu thật dễ.)*
+- A. Love is a kind of sport, and couples must train hard to win every time. *(Tình yêu là một môn thể thao, và các cặp đôi phải tập chăm để lần nào cũng thắng.)*
+- B. They should take a class together to learn how to love each other better. *(Họ nên cùng đi học một lớp để học cách yêu nhau tốt hơn)*
+- C. Relationships improve when people keep working on how they communicate with each other. *(Các mối quan hệ tốt lên khi người ta tiếp tục rèn cách giao tiếp với nhau.)*
+- D. Love is easy, so couples never need to think about it or talk about it. *(Tình yêu thật dễ, nên các cặp đôi không bao giờ cần nghĩ hay nói về nó.)*
 
 ---
 
@@ -198,81 +198,81 @@
 **11. What is the main purpose of the article?**
 *(Mục đích chính của bài báo là gì?)*
 
-- A. to teach readers how to play the violin *(để dạy chơi vĩ cầm)*
-- B. to explain what the research behind the 10,000-hour rule really says *(để giải thích nghiên cứu đằng sau quy tắc 10.000 giờ thật sự nói gì)*
-- C. to advertise a best-selling book *(để quảng cáo một cuốn sách bán chạy)*
-- D. to tell readers to stop practicing *(để bảo người đọc thôi luyện tập)*
+- A. to teach readers how to play the violin well enough to join a music academy *(để dạy người đọc chơi vĩ cầm đủ giỏi để vào một học viện âm nhạc)*
+- B. to explain what the research behind the 10,000-hour rule really says about practice *(để giải thích nghiên cứu đằng sau quy tắc 10.000 giờ thật sự nói gì về luyện tập)*
+- C. to advertise a best-selling book that explains how anyone can become an expert *(để quảng cáo một cuốn sách bán chạy giải thích cách ai cũng thành chuyên gia)*
+- D. to tell readers to stop practicing, because it makes no difference to success *(để bảo người đọc thôi luyện tập, vì nó chẳng tạo khác biệt nào cho thành công)*
 
 **12. What does the "10,000-hour rule" say?**
 *("Quy tắc 10.000 giờ" nói gì?)*
 
-- A. Experts should practice ten hours a day. *(Chuyên gia nên tập mười tiếng mỗi ngày.)*
-- B. Nobody can become an expert. *(Không ai trở thành chuyên gia được.)*
-- C. Talent is more important than practice. *(Năng khiếu quan trọng hơn luyện tập.)*
+- A. Experts should practice for ten hours every single day for at least a year. *(Chuyên gia nên tập mười tiếng mỗi ngày, ít nhất trong một năm.)*
+- B. Nobody can become an expert, however many hours they spend practicing. *(Không ai trở thành chuyên gia được, dù luyện tập bao nhiêu giờ.)*
+- C. Talent is more important than practice, so people should not spend ten thousand hours. *(Năng khiếu quan trọng hơn luyện tập, nên người ta không cần bỏ mười nghìn giờ.)*
 - D. Anyone can become world-class at anything after ten thousand hours of practice. *(Ai cũng có thể đạt đẳng cấp thế giới ở bất cứ việc gì sau mười nghìn giờ luyện tập.)*
 
 **13. Where does the number ten thousand come from?**
 *(Con số mười nghìn bắt nguồn từ đâu?)*
 
-- A. a 1993 study of violin students at a music academy in Berlin *(một nghiên cứu năm 1993 về sinh viên vĩ cầm ở một học viện âm nhạc tại Berlin)*
-- B. a 2014 review *(một tổng quan năm 2014)*
-- C. a study of athletes *(một nghiên cứu về vận động viên)*
-- D. a famous teacher *(một giáo viên nổi tiếng)*
+- A. a 1993 study of violin students at a music academy in Berlin, Germany *(một nghiên cứu năm 1993 về sinh viên vĩ cầm ở một học viện âm nhạc tại Berlin, nước Đức)*
+- B. a large 2014 review that combined dozens of studies of music and sports *(một tổng quan lớn năm 2014 gộp hàng chục nghiên cứu về âm nhạc và thể thao)*
+- C. a study of athletes at a sports academy in the north of the state *(một nghiên cứu về vận động viên ở một học viện thể thao ở phía bắc bang)*
+- D. a famous teacher who told all his students to practice ten thousand hours *(một giáo viên nổi tiếng bảo mọi học trò luyện tập mười nghìn giờ)*
 
 **14. How did the idea become famous?**
 *(Ý tưởng trở nên nổi tiếng bằng cách nào?)*
 
-- A. through a TV show *(qua một chương trình truyền hình)*
-- B. through the violin students *(qua các sinh viên vĩ cầm)*
-- C. A best-selling book in 2008 turned it into a simple rule. *(Một cuốn sách bán chạy năm 2008 biến nó thành một quy tắc đơn giản.)*
-- D. Ericsson advertised it. *(Ericsson quảng bá nó.)*
+- A. through a TV show in which famous experts talked about their daily practice *(qua một chương trình truyền hình trong đó các chuyên gia nổi tiếng kể về việc tập hằng ngày)*
+- B. through the violin students, who told the whole music academy about it *(qua các sinh viên vĩ cầm, những người đã kể với cả học viện âm nhạc về nó)*
+- C. A best-selling book in 2008 turned it into a simple rule that people could remember. *(Một cuốn sách bán chạy năm 2008 biến nó thành một quy tắc đơn giản dễ nhớ.)*
+- D. Ericsson advertised it in a book that he wrote for violin teachers in 1993. *(Ericsson quảng bá nó trong một cuốn sách ông viết cho giáo viên vĩ cầm năm 1993.)*
 
 **15. What is the first way in which the rule was misunderstood?**
 *(Quy tắc đã bị hiểu sai theo cách thứ nhất nào?)*
 
-- A. Ten thousand hours was a minimum. *(Mười nghìn giờ là mức tối thiểu.)*
+- A. Ten thousand hours was a minimum, and none of the best violinists had practiced for less. *(Mười nghìn giờ là mức tối thiểu, và không nghệ sĩ giỏi nhất nào tập ít hơn.)*
 - B. Ten thousand was an average, and individual students practiced much more or much less. *(Mười nghìn là con số trung bình, từng sinh viên luyện nhiều hơn hoặc ít hơn nhiều.)*
-- C. The students were not real violinists. *(Các sinh viên không phải nghệ sĩ vĩ cầm thật.)*
-- D. The study was about running. *(Nghiên cứu là về chạy bộ.)*
+- C. The students in the study were not real violinists, but beginners who had just started. *(Các sinh viên trong nghiên cứu không phải nghệ sĩ vĩ cầm thật, mà là người mới bắt đầu.)*
+- D. The study was about running, not music, and it had only been done with athletes. *(Nghiên cứu là về chạy bộ chứ không phải âm nhạc, và chỉ làm với vận động viên.)*
 
 **16. What is "deliberate practice"?**
 *("Luyện tập có chủ đích" là gì?)*
 
-- A. practicing only the songs you already know *(chỉ tập những bài đã thuộc)*
-- B. practicing for fun with friends *(tập cho vui với bạn bè)*
-- C. practicing for exactly ten thousand hours *(tập đúng mười nghìn giờ)*
-- D. focused work on specific weaknesses, usually with a teacher and clear feedback *(tập trung rèn những điểm yếu cụ thể, thường có thầy và phản hồi rõ ràng)*
+- A. practicing only the songs you already know, because that makes you very comfortable *(chỉ tập những bài đã thuộc, vì như thế khiến bạn rất thoải mái)*
+- B. practicing for fun with your friends, without a teacher or any kind of feedback *(tập cho vui với bạn bè, không có thầy và không có phản hồi nào)*
+- C. practicing for exactly ten thousand hours, without stopping to rest or to change anything *(tập đúng mười nghìn giờ, không dừng nghỉ và không thay đổi gì)*
+- D. focused work on specific weaknesses, usually with a teacher and with clear feedback *(tập trung rèn những điểm yếu cụ thể, thường có thầy và có phản hồi rõ ràng)*
 
 **17. What does "could well make you very comfortable, but it will not necessarily make you better" suggest?**
 *(Câu "có thể làm bạn rất thoải mái, nhưng chưa chắc làm bạn giỏi hơn" hàm ý gì?)*
 
-- A. Repeating what is easy feels good, but it doesn't push you to improve. *(Lặp lại cái dễ thì dễ chịu, nhưng không thúc bạn tiến bộ.)*
-- B. Comfortable people are always better. *(Người thoải mái luôn giỏi hơn.)*
-- C. You should never play songs you know. *(Không bao giờ được chơi bài đã thuộc.)*
-- D. Practice always makes you worse. *(Luyện tập luôn làm bạn kém đi.)*
+- A. Repeating what you already know feels good, but it doesn't push you to improve. *(Lặp lại điều đã biết thì dễ chịu, nhưng không thúc bạn tiến bộ.)*
+- B. Comfortable people are always better than people who work hard at difficult things. *(Người thoải mái luôn giỏi hơn những người làm việc chăm chỉ với điều khó.)*
+- C. You should never play songs you know, because they stop you from getting better. *(Không bao giờ được chơi bài đã thuộc, vì chúng cản bạn tiến bộ.)*
+- D. Practice always makes you worse if you do it for more than ten thousand hours. *(Luyện tập luôn làm bạn kém đi nếu làm quá mười nghìn giờ.)*
 
 **18. What did the 2014 review find?**
 *(Tổng quan năm 2014 phát hiện gì?)*
 
-- A. Practice explains all the differences between people. *(Luyện tập giải thích mọi khác biệt giữa người với người.)*
-- B. Practice has no effect. *(Luyện tập không có tác dụng.)*
+- A. Practice explains all the differences between people, so everyone can reach the top. *(Luyện tập giải thích mọi khác biệt giữa người với người, nên ai cũng lên được đỉnh.)*
+- B. Practice has no effect on how well people play music or do sports or jobs. *(Luyện tập không ảnh hưởng đến việc người ta chơi nhạc, chơi thể thao hay làm việc giỏi ra sao.)*
 - C. Practice explained only part of the differences, about a fifth in music and sports. *(Luyện tập chỉ giải thích một phần khác biệt, khoảng một phần năm trong âm nhạc và thể thao.)*
-- D. Luck is the only thing that matters. *(May mắn là thứ duy nhất quan trọng.)*
+- D. Luck is the only thing that matters in music and sports, so nobody needs to practice. *(May mắn là thứ duy nhất quan trọng trong âm nhạc và thể thao, nên không ai cần tập.)*
 
 **19. What is the writer's final message?**
 *(Thông điệp cuối của người viết là gì?)*
 
-- A. Practice is pointless. *(Luyện tập vô ích.)*
+- A. Practice is pointless, so people should stop counting hours and simply wait for luck. *(Luyện tập vô ích, nên người ta thôi đếm giờ và chỉ việc chờ may mắn.)*
 - B. How you practice matters more than counting hours, and you should be patient with yourself. *(Cách luyện tập quan trọng hơn việc đếm giờ, và nên kiên nhẫn với bản thân.)*
-- C. Everyone should practice ten thousand hours. *(Ai cũng nên tập mười nghìn giờ.)*
-- D. Only talented people should practice. *(Chỉ người có năng khiếu mới nên tập.)*
+- C. Everyone should practice for ten thousand hours, because that guarantees world-class results. *(Ai cũng nên tập mười nghìn giờ, vì như thế bảo đảm kết quả đẳng cấp thế giới.)*
+- D. Only talented people should practice, because everyone else would waste their time. *(Chỉ người có năng khiếu mới nên tập, vì những người khác sẽ phí thời gian.)*
 
 **20. Use both texts. What idea do Leah's journal and the article share?**
 *(Dựa vào cả hai bài. Nhật ký của Leah và bài báo có chung ý nào?)*
 
-- A. Love is a kind of music. *(Tình yêu là một kiểu âm nhạc.)*
-- B. Arguments should be avoided completely. *(Phải tránh hoàn toàn mọi cuộc cãi vã.)*
-- C. Ten thousand hours is needed for a good relationship. *(Cần mười nghìn giờ cho một mối quan hệ tốt.)*
+- A. Love is a kind of music, so couples should practice an instrument together every evening after work. *(Tình yêu là một kiểu âm nhạc, nên các cặp đôi cần cùng tập một nhạc cụ mỗi tối sau giờ làm.)*
+- B. Arguments should be avoided completely, because they show that a relationship is failing. *(Phải tránh hoàn toàn mọi cuộc cãi vã, vì chúng cho thấy mối quan hệ đang hỏng.)*
+- C. Ten thousand hours of time together is needed before a relationship can become a good one. *(Cần mười nghìn giờ bên nhau thì mối quan hệ mới có thể trở nên tốt đẹp.)*
 - D. Getting better at something important takes focused effort over time, not just time passing. *(Muốn giỏi hơn ở điều quan trọng cần nỗ lực có chủ đích theo thời gian, chứ không chỉ để thời gian trôi.)*
 
 ---
