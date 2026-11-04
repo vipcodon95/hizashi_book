@@ -91,82 +91,82 @@
 **1. What is the email mainly about?**
 *(Email chủ yếu nói về điều gì?)*
 
-- A. Tracy's math class *(lớp toán của Tracy)*
+- A. Tracy's math class and her friend Jenna's new car *(lớp toán của Tracy và chiếc xe mới của Jenna)*
 - B. a ski trip that started badly but ended well *(một chuyến trượt tuyết khởi đầu tệ nhưng kết thúc tốt đẹp)*
-- C. how to choose a ski resort *(cách chọn khu trượt tuyết)*
-- D. Jenna's new car *(chiếc xe mới của Jenna)*
+- C. how to choose a good ski resort for beginners *(cách chọn khu trượt tuyết tốt cho người mới)*
+- D. Jenna's engineering class at the university *(lớp kỹ thuật của Jenna ở trường đại học)*
 
 **2. Why did the friends leave at nine instead of six?**
 *(Vì sao cả nhóm chín giờ mới đi thay vì sáu giờ?)*
 
-- A. The car had no gas. *(Vì xe hết xăng.)*
-- B. The weather was bad. *(Vì thời tiết xấu.)*
+- A. The car ran out of gas on the road. *(Vì xe hết xăng giữa đường.)*
+- B. The weather was bad and the roads were closed. *(Vì thời tiết xấu và đường bị đóng.)*
 - C. Jenna's alarm hadn't gone off. *(Vì chuông báo thức của Jenna đã không reo.)*
-- D. Owen was late. *(Vì Owen đến muộn.)*
+- D. Owen was late and the others waited for him. *(Vì Owen đến muộn và những người khác phải chờ.)*
 
 **3. What does Tracy mean by "which was absolutely unbelievable for three engineering students"?**
 *(Tracy muốn nói gì qua câu "một chuyện không thể tin nổi với ba sinh viên kỹ thuật"?)*
 
-- A. They should have known better than to forget such a simple thing. *(Lẽ ra họ phải biết rõ hơn, không được quên một việc đơn giản như vậy.)*
-- B. Engineering students are bad drivers. *(Sinh viên kỹ thuật lái xe kém.)*
-- C. They repaired the car themselves. *(Họ tự sửa được xe.)*
-- D. The gas station was very far away. *(Trạm xăng ở rất xa.)*
+- A. They should have known better than to forget something so simple. *(Lẽ ra họ phải biết rõ hơn, không được quên một việc đơn giản như vậy.)*
+- B. Engineering students are not good at driving long distances in cars. *(Sinh viên kỹ thuật không giỏi lái xe đường dài.)*
+- C. They repaired the car themselves after it stopped. *(Họ tự sửa được xe sau khi nó chết máy.)*
+- D. The gas station was very far away from the road. *(Trạm xăng ở rất xa con đường.)*
 
 **4. What did Owen bring back from the gas station?**
 *(Owen mang gì về từ trạm xăng?)*
 
-- A. a map and some snacks *(một tấm bản đồ và ít đồ ăn vặt)*
-- B. a new phone charger *(một cục sạc điện thoại mới)*
-- C. four coffees *(bốn cốc cà phê)*
+- A. a road map and some snacks for the group *(một tấm bản đồ đường và ít đồ ăn vặt cho cả nhóm)*
+- B. a new charger for Tracy's phone *(một cục sạc mới cho điện thoại của Tracy)*
+- C. four cups of coffee and some snacks *(bốn cốc cà phê và ít đồ ăn vặt)*
 - D. a can of gas and four hot chocolates *(một can xăng và bốn cốc sô-cô-la nóng)*
 
 **5. What was true when the friends arrived at the resort?**
 *(Khi cả nhóm tới khu trượt tuyết, điều gì đã xảy ra rồi?)*
 
 - A. The ski school had already closed for the day. *(Trường dạy trượt tuyết đã đóng cửa cho ngày hôm đó.)*
-- B. Their lesson was just starting. *(Buổi học của họ vừa bắt đầu.)*
-- C. Owen had gone home. *(Owen đã về nhà.)*
-- D. The motel was full. *(Nhà nghỉ đã kín phòng.)*
+- B. Their ski lesson was just about to start in ten minutes. *(Buổi học trượt tuyết của họ sắp bắt đầu trong mười phút nữa.)*
+- C. Owen had already gone home with Jenna. *(Owen đã về nhà cùng Jenna rồi.)*
+- D. The motel near the road was completely full. *(Nhà nghỉ gần đường đã kín phòng hoàn toàn.)*
 
 **6. Why couldn't the friends stay in their cabin?**
 *(Vì sao cả nhóm không ở được căn nhà gỗ?)*
 
-- A. It was too far from the slopes. *(Vì nó quá xa dốc trượt.)*
-- B. They had forgotten to book it. *(Vì họ quên đặt.)*
+- A. It was too far from the slopes and from the ski school. *(Vì nó quá xa dốc trượt và trường dạy trượt tuyết.)*
+- B. They had forgotten to book it for the right weekend. *(Vì họ quên đặt cho đúng cuối tuần.)*
 - C. The owner had accidentally given it to another group. *(Vì ông chủ đã lỡ giao nó cho nhóm khác.)*
-- D. It was too expensive. *(Vì nó quá đắt.)*
+- D. It was too expensive for the four of them to pay. *(Vì nó quá đắt, bốn người không trả nổi.)*
 
 **7. In "the slope looked very steep to me", what does "steep" mean?**
 *(Trong câu "the slope looked very steep to me", "steep" nghĩa là gì?)*
 
-- A. covered in deep snow *(phủ tuyết dày)*
+- A. covered in deep and soft snow *(phủ lớp tuyết dày và mềm)*
 - B. going down very sharply *(dốc đứng, đổ xuống rất gắt)*
-- C. very crowded *(rất đông người)*
+- C. very crowded with other people *(rất đông người khác)*
 - D. very long and flat *(rất dài và phẳng)*
 
 **8. Which of these is NOT true about Sunday?**
 *(Điều nào KHÔNG đúng về ngày Chủ nhật?)*
 
-- A. The friends watched the sunrise. *(Cả nhóm ngắm bình minh.)*
-- B. Tracy fell many times. *(Tracy ngã nhiều lần.)*
-- C. Owen helped Tracy all morning. *(Owen giúp Tracy cả buổi sáng.)*
+- A. The friends watched the sunrise from the mountain top. *(Cả nhóm ngắm bình minh từ đỉnh núi.)*
+- B. Tracy fell about twenty times in the morning. *(Tracy ngã khoảng hai mươi lần vào buổi sáng.)*
+- C. Owen helped Tracy all morning with stopping and turning. *(Owen giúp Tracy cả buổi sáng tập dừng và rẽ.)*
 - D. Owen laughed every time Tracy fell. *(Lần nào Tracy ngã Owen cũng cười.)*
 
 **9. How does Tracy probably feel about Owen?**
 *(Nhiều khả năng Tracy cảm thấy thế nào về Owen?)*
 
 - A. She likes him and wants to know him better. *(Cô thích cậu ấy và muốn tìm hiểu thêm.)*
-- B. She is angry that he took her coffee. *(Cô giận vì cậu ấy uống mất cà phê của cô.)*
-- C. She thinks he is a bad teacher. *(Cô nghĩ cậu ấy dạy kém.)*
-- D. She does not want to see him again. *(Cô không muốn gặp lại cậu ấy.)*
+- B. She is angry that he took her coffee at the station. *(Cô giận vì cậu ấy lấy mất cà phê của cô ở trạm xăng.)*
+- C. She thinks he is a bad teacher on the slope. *(Cô nghĩ cậu ấy dạy trượt tuyết rất kém.)*
+- D. She does not want to see him again after the trip. *(Cô không muốn gặp lại cậu ấy sau chuyến đi.)*
 
 **10. Why does Tracy say "this time we filled the tank first"?**
 *(Vì sao Tracy viết "lần này bọn em đổ đầy xăng trước"?)*
 
-- A. Gas was cheaper on Sunday. *(Vì Chủ nhật xăng rẻ hơn.)*
-- B. Owen asked her to. *(Vì Owen bảo cô làm vậy.)*
+- A. Gas was cheaper near the ski resort on Sunday. *(Vì Chủ nhật xăng gần khu trượt tuyết rẻ hơn.)*
+- B. Owen asked her to because he was afraid of the road. *(Vì Owen bảo cô làm vậy do cậu sợ con đường.)*
 - C. They had run out of gas on the way there. *(Vì lúc đi họ đã bị hết xăng giữa đường.)*
-- D. The motel had a gas station. *(Vì nhà nghỉ có trạm xăng.)*
+- D. The motel had its own gas station next to it. *(Vì nhà nghỉ có trạm xăng riêng ngay bên cạnh.)*
 
 ---
 
@@ -216,82 +216,82 @@
 **11. What is the main purpose of the article?**
 *(Mục đích chính của bài báo là gì?)*
 
-- A. to sell backpacks and tents *(để bán ba lô và lều)*
-- B. to warn people never to hike alone *(để cảnh báo đừng bao giờ đi bộ một mình)*
-- C. to tell the history of California *(để kể lịch sử California)*
-- D. to describe the trail and what hiking all of it is like *(để giới thiệu đường mòn và việc đi hết nó ra sao)*
+- A. to sell backpacks and tents to new hikers each year *(để bán ba lô và lều cho người đi bộ mới mỗi năm)*
+- B. to warn people never to hike alone in the desert or snow *(để cảnh báo đừng bao giờ đi một mình trong sa mạc hay tuyết)*
+- C. to tell the history of California and the Mexican border *(để kể lịch sử California và biên giới Mexico)*
+- D. to describe the trail and the experience of hiking it *(để giới thiệu đường mòn và trải nghiệm đi bộ trên đó)*
 
 **12. How long is the Pacific Crest Trail?**
 *(Đường mòn Pacific Crest Trail dài bao nhiêu?)*
 
-- A. about five hundred miles *(khoảng năm trăm dặm)*
+- A. about five hundred miles from end to end *(khoảng năm trăm dặm từ đầu này đến đầu kia)*
 - B. approximately 2,650 miles *(khoảng 2.650 dặm)*
-- C. about thirty miles *(khoảng ba mươi dặm)*
-- D. exactly five months *(đúng năm tháng)*
+- C. about thirty miles in three states *(khoảng ba mươi dặm trong ba bang)*
+- D. exactly five months of walking *(đúng năm tháng đi bộ)*
 
 **13. Why shouldn't hikers start the full trail too early in the year?**
 *(Vì sao không nên xuất phát quá sớm trong năm?)*
 
 - A. There is still deep snow in the Sierra Nevada mountains. *(Vì núi Sierra Nevada còn tuyết dày.)*
-- B. The desert is too cold. *(Vì sa mạc quá lạnh.)*
-- C. They cannot get a permit. *(Vì họ không xin được giấy phép.)*
-- D. The towns are closed. *(Vì các thị trấn đóng cửa.)*
+- B. The desert is too cold at night in the spring. *(Vì sa mạc quá lạnh vào ban đêm mùa xuân.)*
+- C. They cannot get a permit before the summer months. *(Vì họ không xin được giấy phép trước mùa hè.)*
+- D. The small towns along the trail are all closed. *(Vì các thị trấn nhỏ dọc đường đều đóng cửa.)*
 
 **14. In "the paths are steep and rough", what does "rough" mean?**
 *(Trong câu "the paths are steep and rough", "rough" nghĩa là gì?)*
 
-- A. wet and dark *(ướt và tối)*
-- B. short and easy *(ngắn và dễ)*
+- A. wet and dark, with water everywhere *(ướt và tối, nước khắp nơi)*
+- B. short and easy, with no stones *(ngắn và dễ, không có đá)*
 - C. not smooth, with many stones and holes *(gồ ghề, nhiều đá và ổ gà)*
-- D. very busy *(rất đông)*
+- D. very busy with many other hikers *(rất đông người đi bộ khác)*
 
 **15. How do long-distance hikers usually get food on the trail?**
 *(Người đi đường dài thường lấy đồ ăn trên đường bằng cách nào?)*
 
-- A. They hunt animals. *(Họ săn thú.)*
+- A. They hunt animals and find food in the forest. *(Họ săn thú và tìm đồ ăn trong rừng.)*
 - B. They carry five months of food from the start. *(Họ mang đồ ăn cho cả năm tháng ngay từ đầu.)*
-- C. Other hikers give it to them. *(Người đi bộ khác cho họ.)*
-- D. They mail boxes of food to small towns along the trail. *(Họ gửi trước thùng đồ ăn tới các thị trấn nhỏ dọc đường.)*
+- C. Other hikers and park workers give it to them on the way. *(Người đi bộ khác và nhân viên công viên cho họ dọc đường.)*
+- D. They mail boxes of food to small towns on the trail. *(Họ gửi trước thùng đồ ăn tới các thị trấn nhỏ trên đường mòn.)*
 
 **16. Which of these is TRUE about Maya Holt?**
 *(Điều nào ĐÚNG về Maya Holt?)*
 
 - A. Her legs hurt for her first three weeks on the trail. *(Chân cô đau suốt ba tuần đầu trên đường mòn.)*
-- B. She started at the Canadian border. *(Cô xuất phát từ biên giới Canada.)*
-- C. She gave up and went home early. *(Cô bỏ cuộc giữa chừng và về nhà.)*
-- D. She hiked the trail in 2026. *(Cô đi đường mòn năm 2026.)*
+- B. She started at the Canadian border in the spring. *(Cô xuất phát từ biên giới Canada vào mùa xuân.)*
+- C. She gave up after three weeks and went home early. *(Cô bỏ cuộc sau ba tuần và về nhà sớm.)*
+- D. She hiked the trail in 2026 and took five months. *(Cô đi đường mòn năm 2026 và mất năm tháng.)*
 
 **17. What does Maya mean when she says the hardest part was "not her body but her mind"?**
 *(Maya muốn nói gì khi cho rằng phần khó nhất là "tinh thần chứ không phải cơ thể"?)*
 
-- A. Her body was never tired. *(Cơ thể cô chưa bao giờ mệt.)*
+- A. Her body was never tired, only her mind was. *(Cơ thể cô chưa bao giờ mệt, chỉ có đầu óc mệt.)*
 - B. Not giving up was harder than the pain in her legs. *(Không bỏ cuộc còn khó hơn cơn đau ở chân.)*
-- C. She had to study a lot before the trip. *(Cô phải học rất nhiều trước chuyến đi.)*
-- D. She often forgot the way. *(Cô hay quên đường.)*
+- C. She had to study maps and rules a lot before the trip. *(Cô phải học bản đồ và quy định rất nhiều trước chuyến đi.)*
+- D. She often forgot the way and got lost on the trail. *(Cô hay quên đường và bị lạc trên đường mòn.)*
 
 **18. Why does the writer mention San Diego at the end of the article?**
 *(Vì sao cuối bài người viết nhắc tới San Diego?)*
 
-- A. to say that the trail starts in the city center *(để nói đường mòn bắt đầu ở trung tâm thành phố)*
-- B. to say that hikers mail their food from there *(để nói người đi bộ gửi đồ ăn từ đó)*
-- C. to show that readers can easily try a short part of the trail *(để cho thấy người đọc có thể dễ dàng thử một đoạn ngắn của đường mòn)*
-- D. to warn readers about the traffic *(để cảnh báo người đọc về giao thông)*
+- A. to say that the trail starts in the city center of San Diego *(để nói đường mòn bắt đầu ở trung tâm thành phố San Diego)*
+- B. to say that hikers mail their food from there to the border *(để nói người đi bộ gửi đồ ăn từ đó tới biên giới)*
+- C. to show that readers can easily try a short section *(để cho thấy người đọc có thể dễ dàng thử một đoạn ngắn)*
+- D. to warn readers about the traffic on the way to the trail *(để cảnh báo người đọc về giao thông trên đường tới đường mòn)*
 
 **19. In "When she eventually arrived safely at the Canadian border", what does "eventually" mean?**
 *(Trong câu "When she eventually arrived safely at the Canadian border", "eventually" nghĩa là gì?)*
 
-- A. quickly *(nhanh chóng)*
-- B. by car *(bằng ô tô)*
+- A. quickly, with no problems on the way *(nhanh chóng, không gặp vấn đề gì dọc đường)*
+- B. by car, after a very long drive *(bằng ô tô, sau một chuyến lái xe rất dài)*
 - C. for the first time this week *(lần đầu trong tuần)*
 - D. in the end, after a long time *(cuối cùng, sau một thời gian dài)*
 
 **20. Use both texts. What do Tracy's trip and Maya's hike have in common?**
 *(Dựa vào cả hai bài. Chuyến đi của Tracy và chuyến đi bộ của Maya có điểm gì chung?)*
 
-- A. Both were planned by a travel agent. *(Cả hai đều do công ty du lịch lên kế hoạch.)*
+- A. Both trips were planned for several months by a travel agent. *(Cả hai chuyến đi đều được công ty du lịch lên kế hoạch nhiều tháng.)*
 - B. Both were difficult at first but became a good memory. *(Cả hai lúc đầu đều khó khăn nhưng rồi thành kỷ niệm đẹp.)*
-- C. Both took about five months. *(Cả hai đều mất khoảng năm tháng.)*
-- D. Both ended at the Canadian border. *(Cả hai đều kết thúc ở biên giới Canada.)*
+- C. Both took about five months from start to finish. *(Cả hai đều mất khoảng năm tháng từ đầu đến cuối.)*
+- D. Both ended at the Canadian border in the mountains. *(Cả hai đều kết thúc ở biên giới Canada trên núi.)*
 
 ---
 

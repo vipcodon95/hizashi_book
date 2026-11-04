@@ -91,82 +91,82 @@
 **1. What is the main purpose of the interview?**
 *(Mục đích chính của bài phỏng vấn là gì?)*
 
-- A. to explain how to drive cattle *(để giải thích cách lùa bò)*
-- B. to tell readers about Helena's bridge project and what it meant to the town *(để kể cho người đọc về dự án cây cầu của Helena và ý nghĩa của nó với thị trấn)*
-- C. to sell houses in Valley Springs *(để bán nhà ở Valley Springs)*
-- D. to compare internet speeds in different towns *(để so sánh tốc độ mạng ở các thị trấn)*
+- A. to explain how farmers can drive their cattle across a wooden bridge *(để giải thích cách nông dân lùa gia súc qua một cây cầu gỗ)*
+- B. to tell about Helena's bridge project and what it meant to the town *(để kể về dự án cây cầu của Helena và ý nghĩa của nó với thị trấn)*
+- C. to sell new houses in Valley Springs to young families *(để bán nhà mới ở Valley Springs cho các gia đình trẻ)*
+- D. to compare internet speeds in different towns of the valley *(để so sánh tốc độ internet ở các thị trấn trong thung lũng)*
 
 **2. Why did farmers have to drive twenty-five miles around the hills?**
 *(Vì sao nông dân phải lái vòng qua đồi hai mươi lăm dặm?)*
 
-- A. The market had moved to another town. *(Vì chợ đã chuyển sang thị trấn khác.)*
-- B. The road to the bridge was closed every fall. *(Vì đường lên cầu mùa thu nào cũng đóng.)*
+- A. The market had moved to another town in the valley. *(Chợ đã chuyển sang một thị trấn khác trong thung lũng.)*
+- B. The road to the bridge was closed every fall for repairs. *(Đường tới cầu bị đóng mỗi mùa thu để sửa chữa.)*
 - C. Heavy trucks weren't allowed on the old wooden bridge. *(Vì xe tải nặng không được đi qua cây cầu gỗ cũ.)*
-- D. They wanted to avoid traffic jams in the city. *(Vì họ muốn tránh tắc đường trong thành phố.)*
+- D. They wanted to avoid the traffic jams in the city center. *(Họ muốn tránh kẹt xe ở trung tâm thành phố.)*
 
 **3. Why are young families moving to Valley Springs?**
 *(Vì sao các gia đình trẻ chuyển về Valley Springs?)*
 
-- A. Houses are cheaper, and many people can work from home now. *(Vì nhà rẻ hơn và giờ nhiều người làm việc ở nhà được.)*
-- B. The schools are newer than in the city. *(Vì trường học mới hơn ở thành phố.)*
-- C. There are more jobs on farms. *(Vì ở trang trại có nhiều việc hơn.)*
-- D. The internet there is very fast. *(Vì mạng ở đó rất nhanh.)*
+- A. Houses are cheaper, and many people can work from home. *(Nhà cửa rẻ hơn, và nhiều người có thể làm việc tại nhà.)*
+- B. The schools are newer and bigger than the ones in the city. *(Các trường mới và lớn hơn các trường trong thành phố.)*
+- C. There are many more jobs on the farms near the town. *(Có nhiều việc làm hơn ở các nông trại gần thị trấn.)*
+- D. The internet there is much faster than in the city. *(Internet ở đó nhanh hơn nhiều so với trong thành phố.)*
 
 **4. In "More and more young families are moving away from the city", what does "more and more" mean?**
 *(Trong câu "More and more young families are moving away from the city", "more and more" nghĩa là gì?)*
 
-- A. a few *(một vài)*
-- B. exactly twice as many *(đúng gấp đôi)*
-- C. fewer than before *(ít hơn trước)*
+- A. a small number that stays the same *(một con số nhỏ không thay đổi)*
+- B. exactly twice as many as before *(đúng gấp đôi so với trước)*
+- C. fewer people than in the past *(ít người hơn so với trước kia)*
 - D. a number that keeps growing *(một con số cứ tăng dần)*
 
 **5. Why couldn't the team close the road during the work?**
 *(Vì sao đội thi công không thể đóng đường trong lúc làm?)*
 
-- A. The old bridge was too strong to pull down. *(Vì cầu cũ quá chắc, không dỡ được.)*
-- B. It was the busiest season for farmers, and the whole town depends on the road. *(Vì đó là mùa bận nhất của nông dân, và cả thị trấn trông vào con đường này.)*
-- C. The company did not allow it. *(Vì công ty không cho phép.)*
-- D. The weather was too bad. *(Vì thời tiết quá xấu.)*
+- A. The old bridge was too strong to pull down without closing the road. *(Cầu cũ quá chắc nên không thể phá mà không đóng đường.)*
+- B. It was the busiest season for farmers, and the town needs the road. *(Đó là mùa bận nhất của nông dân, và thị trấn cần con đường.)*
+- C. The company did not allow any road to be closed for work. *(Công ty không cho phép đóng bất kỳ con đường nào để thi công.)*
+- D. The weather was too bad in the fall for any road work. *(Thời tiết mùa thu quá xấu nên không làm đường được.)*
 
 **6. What was the team's solution?**
 *(Đội thi công đã giải quyết thế nào?)*
 
-- A. They built the new bridge next to the old one and kept the old one open. *(Xây cầu mới ngay cạnh cầu cũ và giữ cầu cũ vẫn mở.)*
-- B. They built the bridge only at night. *(Chỉ xây cầu vào ban đêm.)*
-- C. They asked farmers to stay at home. *(Nhờ nông dân ở nhà.)*
-- D. They repaired the old wooden bridge. *(Sửa lại cây cầu gỗ cũ.)*
+- A. They built the new bridge next to the old one, which stayed open. *(Họ xây cầu mới cạnh cầu cũ, và cầu cũ vẫn mở.)*
+- B. They built the bridge only at night when the road was empty. *(Họ chỉ xây cầu vào ban đêm khi đường vắng.)*
+- C. They asked the farmers to stay at home during the work. *(Họ đề nghị nông dân ở nhà trong lúc thi công.)*
+- D. They repaired the old wooden bridge instead of building a new bridge. *(Họ sửa cây cầu gỗ cũ thay vì xây cầu mới.)*
 
 **7. What does "I understood their reason for complaining" show about Helena?**
 *(Câu "tôi hiểu lý do họ phàn nàn" cho thấy điều gì về Helena?)*
 
-- A. She was angry with the local people. *(Chị giận người dân địa phương.)*
-- B. She wanted to stop the project. *(Chị muốn dừng dự án.)*
+- A. She was angry with the local people for complaining. *(Cô giận người dân địa phương vì họ phàn nàn.)*
+- B. She wanted to stop the project because of the noise. *(Cô muốn dừng dự án vì tiếng ồn.)*
 - C. She was understanding about people's worries. *(Chị thông cảm với nỗi lo của người dân.)*
-- D. She did not hear the complaints. *(Chị không nghe thấy lời phàn nàn.)*
+- D. She did not hear the complaints from the neighbors. *(Cô không nghe thấy lời phàn nàn của hàng xóm.)*
 
 **8. What did Mr. Hollis do every Friday?**
 *(Thứ Sáu nào bác Hollis cũng làm gì?)*
 
-- A. He drove his cattle across the bridge. *(Lùa đàn bò qua cầu.)*
-- B. He complained about the noise. *(Phàn nàn về tiếng ồn.)*
-- C. He helped build the bridge. *(Giúp xây cầu.)*
+- A. He drove his cattle across the bridge on opening day. *(Ông lùa gia súc qua cầu vào ngày khai trương.)*
+- B. He complained about the noise and the traffic jams. *(Ông phàn nàn về tiếng ồn và kẹt xe.)*
+- C. He helped build the bridge with the team. *(Ông giúp cả đội xây cầu.)*
 - D. He brought the team a box of ripe peaches. *(Mang cho đội một thùng đào chín.)*
 
 **9. What does Helena mean when she says "this one meant much more to me"?**
 *(Helena muốn nói gì qua câu "dự án này có ý nghĩa với tôi hơn hẳn"?)*
 
-- A. The project was smaller, but it was more important to her personally. *(Dự án nhỏ hơn, nhưng với riêng chị thì quan trọng hơn.)*
-- B. The project paid her much more money. *(Dự án trả chị nhiều tiền hơn.)*
-- C. The project was bigger than her city projects. *(Dự án lớn hơn các dự án ở thành phố.)*
-- D. She did not like city projects at all. *(Chị hoàn toàn không thích dự án thành phố.)*
+- A. It was smaller, but it was more important to her personally. *(Nó nhỏ hơn, nhưng quan trọng hơn với cá nhân cô.)*
+- B. The project paid her much more money than city ones. *(Dự án trả cô nhiều tiền hơn hẳn các dự án ở thành phố.)*
+- C. The project was bigger and more famous than her city projects. *(Dự án lớn và nổi tiếng hơn các dự án thành phố của cô.)*
+- D. She did not like city projects at all, only small towns. *(Cô hoàn toàn không thích dự án thành phố, chỉ thích thị trấn nhỏ.)*
 
 **10. What happened on opening day?**
 *(Ngày khánh thành đã diễn ra chuyện gì?)*
 
-- A. The old bridge was pulled down. *(Cầu cũ bị dỡ bỏ.)*
-- B. Corinne interviewed the farmers. *(Corinne phỏng vấn các bác nông dân.)*
-- C. Children rode their bikes across, and then Mr. Hollis drove his cattle over. *(Bọn trẻ đạp xe qua cầu, rồi bác Hollis lùa đàn bò qua.)*
-- D. Helena moved to Valley Springs. *(Helena chuyển về Valley Springs.)*
+- A. The old bridge was pulled down in front of the whole happy town. *(Cầu cũ bị phá ngay trước mắt cả thị trấn đang vui mừng.)*
+- B. Corinne interviewed all the farmers on the new bridge. *(Corinne phỏng vấn tất cả nông dân trên cây cầu mới.)*
+- C. Children rode bikes across, and then Mr. Hollis drove his cattle. *(Bọn trẻ đạp xe qua, rồi ông Hollis lùa đàn gia súc qua.)*
+- D. Helena moved to Valley Springs with her husband Nathan. *(Helena chuyển đến Valley Springs cùng chồng là Nathan.)*
 
 ---
 
@@ -212,26 +212,26 @@
 **11. What is the main idea of the article?**
 *(Ý chính của bài báo là gì?)*
 
-- A. AI will soon do every job. *(AI sắp làm được mọi việc.)*
-- B. AI chat tools think just like people. *(Công cụ trò chuyện AI suy nghĩ giống hệt con người.)*
-- C. People should stop using AI. *(Mọi người nên thôi dùng AI.)*
-- D. AI is useful in daily life, but it should be used carefully. *(AI hữu ích trong đời sống, nhưng cần dùng cẩn thận.)*
+- A. AI will soon do every job, so people should study less. *(AI sẽ sớm làm mọi công việc nên mọi người nên học ít đi.)*
+- B. AI chat tools think just like people and never make mistakes. *(Công cụ trò chuyện AI nghĩ y như con người và không bao giờ mắc lỗi.)*
+- C. People should stop using AI because it is too dangerous. *(Mọi người nên ngừng dùng AI vì nó quá nguy hiểm.)*
+- D. AI is useful in daily life, but it must be used carefully. *(AI hữu ích trong đời sống hằng ngày, nhưng phải dùng cẩn thận.)*
 
 **12. Which of these is given as an example of AI in everyday life?**
 *(Ví dụ nào được nêu về AI trong đời sống hằng ngày?)*
 
-- A. a computer keyboard *(bàn phím máy tính)*
+- A. a computer keyboard that helps you type faster *(một bàn phím máy tính giúp bạn gõ nhanh hơn)*
 - B. a map app that warns you about a traffic jam *(ứng dụng bản đồ báo trước chỗ tắc đường)*
-- C. a fax machine *(máy fax)*
-- D. a wristwatch *(đồng hồ đeo tay)*
+- C. a fax machine at the office *(một chiếc máy fax ở văn phòng)*
+- D. a wristwatch that shows the time *(một chiếc đồng hồ đeo tay xem giờ)*
 
 **13. How do AI chat tools learn?**
 *(Các công cụ trò chuyện AI học bằng cách nào?)*
 
-- A. They think like people. *(Chúng suy nghĩ như con người.)*
-- B. Engineers type every answer into them. *(Kỹ sư gõ sẵn mọi câu trả lời vào.)*
-- C. They are trained on huge amounts of information and learn patterns from it. *(Chúng được huấn luyện bằng lượng thông tin khổng lồ và học ra quy luật từ đó.)*
-- D. They read only one book. *(Chúng chỉ đọc một cuốn sách.)*
+- A. They think like people and understand every word. *(Chúng nghĩ như con người và hiểu mọi từ.)*
+- B. Engineers type every possible answer into them before they are used. *(Các kỹ sư gõ mọi câu trả lời có thể vào chúng trước khi dùng.)*
+- C. They are trained on huge amounts of information and learn patterns. *(Chúng được huấn luyện trên lượng thông tin khổng lồ và học các mẫu.)*
+- D. They read only one book and copy it every time. *(Chúng chỉ đọc một cuốn sách và chép lại mỗi lần.)*
 
 **14. In "That is why they are so handy", what does "handy" mean?**
 *(Trong câu "That is why they are so handy", "handy" nghĩa là gì?)*
@@ -244,50 +244,50 @@
 **15. Why does Nathan still check numbers, dates and facts?**
 *(Vì sao Nathan vẫn kiểm tra lại con số, ngày tháng và dữ kiện?)*
 
-- A. His company asks him to type them again. *(Vì công ty bắt anh gõ lại.)*
-- B. The tool is too slow. *(Vì công cụ quá chậm.)*
-- C. He does not like technology. *(Vì anh không thích công nghệ.)*
-- D. An AI tool can sound completely sure and still be wrong. *(Vì công cụ AI có thể nói chắc nịch mà vẫn sai.)*
+- A. His company asks him to type all of the numbers again. *(Công ty yêu cầu anh gõ lại tất cả các con số.)*
+- B. The tool is too slow to give him the facts. *(Công cụ quá chậm nên không cho anh các thông tin.)*
+- C. He does not like technology and prefers to do it by hand. *(Anh không thích công nghệ và thích làm bằng tay.)*
+- D. An AI tool can sound sure and still be wrong. *(Một công cụ AI có thể nghe rất chắc chắn mà vẫn sai.)*
 
 **16. What does Nathan mean by "I was given a great tool, not a perfect one"?**
 *(Nathan muốn nói gì qua câu "Tôi được trao một công cụ tuyệt vời, chứ không phải một công cụ hoàn hảo"?)*
 
-- A. He bought the tool himself. *(Anh tự mua công cụ đó.)*
+- A. He bought the tool himself with his own money. *(Anh tự mua công cụ đó bằng tiền của mình.)*
 - B. The tool helps him a lot, but it is not always right. *(Công cụ giúp anh rất nhiều, nhưng không phải lúc nào cũng đúng.)*
-- C. He wants a different tool. *(Anh muốn một công cụ khác.)*
-- D. The tool never makes mistakes. *(Công cụ không bao giờ sai.)*
+- C. He wants a different tool that is faster. *(Anh muốn một công cụ khác nhanh hơn.)*
+- D. The tool never makes any mistakes with numbers or dates. *(Công cụ không bao giờ mắc lỗi về con số hay ngày tháng.)*
 
 **17. What does the article say you should never do?**
 *(Bài báo nói bạn đừng bao giờ làm gì?)*
 
 - A. type passwords or bank details into a chat tool *(gõ mật khẩu hay thông tin ngân hàng vào công cụ trò chuyện)*
-- B. use a map app *(dùng ứng dụng bản đồ)*
-- C. upload any photo at all *(tải lên bất kỳ bức ảnh nào)*
-- D. ask AI to explain an idea *(nhờ AI giải thích một ý)*
+- B. use a map app when there is a traffic jam *(dùng ứng dụng bản đồ khi bị kẹt xe)*
+- C. upload a photo or a document to any website at all *(tải ảnh hay tài liệu lên bất kỳ trang web nào)*
+- D. ask AI to explain a difficult idea to you *(nhờ AI giải thích một ý khó cho bạn)*
 
 **18. What do many experts think about AI and jobs?**
 *(Nhiều chuyên gia nghĩ gì về AI và việc làm?)*
 
-- A. AI will remove every job very soon. *(AI sẽ sớm xoá bỏ mọi công việc.)*
-- B. AI will not change any jobs. *(AI sẽ không làm thay đổi công việc nào.)*
-- C. AI will change a lot of jobs rather than simply remove them. *(AI sẽ thay đổi nhiều công việc chứ không đơn giản là xoá bỏ chúng.)*
-- D. Only software engineers can use AI. *(Chỉ kỹ sư phần mềm mới dùng được AI.)*
+- A. AI will remove almost every job in the world very soon. *(AI sẽ sớm xoá gần như mọi việc làm trên thế giới.)*
+- B. AI will not change any jobs for most people. *(AI sẽ không thay đổi việc làm nào của hầu hết mọi người.)*
+- C. AI will change a lot of jobs rather than just remove them. *(AI sẽ thay đổi nhiều việc làm hơn là chỉ xoá bỏ chúng.)*
+- D. Only software engineers and experts can use AI well. *(Chỉ kỹ sư phần mềm và chuyên gia mới dùng AI tốt.)*
 
 **19. What does "you are given the answer but not the skill" suggest?**
 *(Câu "bạn được đưa đáp án nhưng không có được kỹ năng" hàm ý gì?)*
 
-- A. AI gives wrong answers to homework. *(AI giải bài tập sai.)*
+- A. AI always gives wrong answers to homework questions. *(AI luôn đưa ra đáp án sai cho bài tập về nhà.)*
 - B. Teachers do not want students to use computers. *(Giáo viên không muốn học sinh dùng máy tính.)*
-- C. Homework is not important. *(Bài tập về nhà không quan trọng.)*
+- C. Homework is not important for learning new skills. *(Bài tập về nhà không quan trọng để học kỹ năng mới.)*
 - D. If AI does your homework, you do not really learn. *(Nếu AI làm bài hộ, bạn không thật sự học được gì.)*
 
 **20. Use both texts. What do we learn about Nathan Brooks?**
 *(Dựa vào cả hai bài. Ta biết gì về Nathan Brooks?)*
 
-- A. He is the engineer who built the bridge. *(Anh là kỹ sư xây cây cầu.)*
-- B. He works with technology, and a fast internet connection matters to him. *(Anh làm việc với công nghệ, và mạng nhanh rất quan trọng với anh.)*
-- C. He wants to move to Valley Springs very soon. *(Anh muốn sớm chuyển về Valley Springs.)*
-- D. He never uses AI tools. *(Anh không bao giờ dùng công cụ AI.)*
+- A. He is the engineer who led the bridge project in Valley Springs. *(Anh là kỹ sư đã dẫn dắt dự án cây cầu ở Valley Springs.)*
+- B. He works with technology, and fast internet matters to him. *(Anh làm việc với công nghệ, và internet nhanh rất quan trọng với anh.)*
+- C. He wants to move to Valley Springs as soon as he can. *(Anh muốn chuyển đến Valley Springs càng sớm càng tốt.)*
+- D. He never uses AI tools because he does not trust them. *(Anh không bao giờ dùng công cụ AI vì không tin chúng.)*
 
 ---
 

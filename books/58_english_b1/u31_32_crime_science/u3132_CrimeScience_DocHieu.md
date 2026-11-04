@@ -112,63 +112,63 @@
 **1. What is the chat mainly about?**
 *(Đoạn chat chủ yếu nói về điều gì?)*
 
-- A. how to buy a mountain bike *(cách mua xe đạp địa hình)*
-- B. Trevor's soccer practice *(buổi tập bóng của Trevor)*
-- C. how neighbors and the police helped Trevor get his stolen bike back *(hàng xóm và cảnh sát đã giúp Trevor lấy lại chiếc xe bị trộm thế nào)*
+- A. how to buy a mountain bike and a strong lock for school *(cách mua xe đạp địa hình và một cái khoá chắc để đi học)*
+- B. Trevor's soccer practice and why he was late for it *(buổi tập bóng của Trevor và lý do cậu đến muộn)*
+- C. how neighbors and police helped Trevor get his bike back *(hàng xóm và cảnh sát đã giúp Trevor lấy lại xe đạp thế nào)*
 - D. Harriet's new café camera *(chiếc camera mới ở quán bà Harriet)*
 
 **2. What does Trevor mean by "I was supposed to use the strong lock"?**
 *(Trevor muốn nói gì qua câu "Lẽ ra cháu phải dùng cái khoá chắc"?)*
 
 - A. He should have used it, but he didn't. *(Lẽ ra cậu phải dùng nhưng đã không dùng.)*
-- B. He used the strong lock. *(Cậu đã dùng khoá chắc.)*
-- C. He doesn't have a strong lock. *(Cậu không có khoá chắc.)*
-- D. The school gave him a lock. *(Trường đưa cậu một cái khoá.)*
+- B. He used the strong lock, but someone cut it. *(Cậu đã dùng khoá chắc, nhưng có người cắt nó.)*
+- C. He doesn't have a strong lock at home, only a thin one. *(Cậu không có khoá chắc ở nhà, chỉ có khoá mỏng.)*
+- D. The school gave him a lock, but it was too thin. *(Trường đưa cậu một cái khoá, nhưng nó quá mỏng.)*
 
 **3. Why does Nathan tell Trevor to report the theft with the serial number?**
 *(Vì sao Nathan bảo Trevor báo mất xe kèm số khung?)*
 
-- A. The police will give him a new bike. *(Vì cảnh sát sẽ cho cậu xe mới.)*
-- B. It is needed to buy a new lock. *(Vì cần nó để mua khoá mới.)*
-- C. Harriet asked for it. *(Vì bà Harriet hỏi.)*
-- D. The police are more likely to find the bike if they have it. *(Vì có số khung thì cảnh sát dễ tìm thấy xe hơn.)*
+- A. The police will give him a new bike if he has it. *(Vì cảnh sát sẽ cho cậu xe mới nếu cậu có nó.)*
+- B. It is needed to buy a new lock at the same shop. *(Vì cần nó để mua khoá mới ở cùng cửa hàng.)*
+- C. Harriet asked for it so she could check her video. *(Vì bà Harriet hỏi để kiểm tra đoạn phim của mình.)*
+- D. The police are more likely to find the bike. *(Vì cảnh sát dễ tìm thấy xe hơn.)*
 
 **4. Where can Trevor find the serial number?**
 *(Trevor tìm số khung ở đâu?)*
 
-- A. on the bike seat *(trên yên xe)*
+- A. on the bike seat, near the scratch *(trên yên xe, gần vết xước)*
 - B. on the receipt in the kitchen drawer *(trên hoá đơn trong ngăn kéo bếp)*
-- C. on the police website *(trên trang web của cảnh sát)*
-- D. in Harriet's video *(trong đoạn phim của bà Harriet)*
+- C. on the police website, under his name *(trên trang web của cảnh sát, dưới tên cậu)*
+- D. in Harriet's video of the street *(trong đoạn phim đường phố của bà Harriet)*
 
 **5. What did Harriet's video show?**
 *(Đoạn phim của bà Harriet cho thấy gì?)*
 
-- A. a young man in a gray jacket walking past with a blue bike *(một thanh niên mặc áo khoác xám dắt chiếc xe đạp xanh đi qua)*
-- B. Trevor locking his bike *(Trevor khoá xe)*
-- C. Jake looking at a website *(Jake xem một trang web)*
-- D. a police officer at the school *(một cảnh sát ở trường)*
+- A. a young man in a gray jacket with a blue bike *(một thanh niên mặc áo khoác xám cùng chiếc xe đạp xanh)*
+- B. Trevor locking his bike outside Westview High *(Trevor khoá xe trước trường Westview High)*
+- C. Jake looking at a website for used things *(Jake xem một trang web bán đồ cũ)*
+- D. a police officer asking questions at the school gate *(một cảnh sát hỏi chuyện ở cổng trường)*
 
 **6. How was the bike found?**
 *(Chiếc xe được tìm thấy bằng cách nào?)*
 
-- A. Harriet saw it outside her café. *(Bà Harriet thấy nó trước quán.)*
-- B. Trevor met the seller. *(Trevor gặp người bán.)*
-- C. Jake found an ad for it on a website for used things. *(Jake tìm thấy tin rao bán nó trên một trang web đồ cũ.)*
-- D. The thief brought it back. *(Tên trộm mang trả lại.)*
+- A. Harriet saw the thief selling it outside her café. *(Bà Harriet thấy tên trộm đang bán nó trước quán.)*
+- B. Trevor met the seller and took the bike back. *(Trevor gặp người bán và lấy xe về.)*
+- C. Jake saw an ad for it on a used-things website *(Jake thấy tin rao bán nó trên một trang web đồ cũ)*
+- D. The thief brought it back to the school at night. *(Tên trộm mang trả lại trường vào ban đêm.)*
 
 **7. What do the police warn people not to do?**
 *(Cảnh sát khuyên mọi người không được làm gì?)*
 
-- A. sell used bikes online *(bán xe đạp cũ trên mạng)*
+- A. sell used bikes on websites for used things *(bán xe đạp cũ trên các trang web đồ cũ)*
 - B. go and meet the seller themselves *(tự đi gặp người bán)*
-- C. use thin locks *(dùng khoá mỏng)*
-- D. report thefts online *(báo mất trộm qua mạng)*
+- C. use thin locks outside school *(dùng khoá mỏng ở trước trường)*
+- D. report thefts to the police online *(báo mất trộm cho cảnh sát qua mạng)*
 
 **8. What can we guess about the man who was selling the bike?**
 *(Có thể đoán gì về người đàn ông rao bán chiếc xe?)*
 
-- A. He was a police officer. *(Ông ta là cảnh sát.)*
+- A. He was a police officer who bought it to find the thief. *(Ông ta là cảnh sát mua xe để tìm tên trộm.)*
 - B. He was Jake's father. *(Ông ta là bố của Jake.)*
 - C. He was the young man in the video. *(Ông ta chính là thanh niên trong đoạn phim.)*
 - D. He may not be the person who stole it. *(Có thể ông ta không phải người lấy trộm.)*
@@ -176,18 +176,18 @@
 **9. What does Harriet mean by "That's what neighbors are for"?**
 *(Bà Harriet muốn nói gì qua câu "Hàng xóm là để giúp nhau mà"?)*
 
-- A. Helping each other is a natural part of being neighbors. *(Giúp nhau là chuyện tự nhiên của hàng xóm.)*
-- B. Trevor should pay her for the video. *(Trevor nên trả tiền cho đoạn phim.)*
-- C. Neighbors should not use the chat. *(Hàng xóm không nên dùng nhóm chat.)*
-- D. She doesn't want to help again. *(Bà không muốn giúp nữa.)*
+- A. Helping each other is normal for neighbors. *(Giúp nhau là chuyện bình thường của hàng xóm.)*
+- B. Trevor should pay her for the video from her café camera. *(Trevor nên trả tiền cho đoạn phim từ camera quán của bà.)*
+- C. Neighbors should not use the chat for personal problems. *(Hàng xóm không nên dùng nhóm chat cho chuyện riêng.)*
+- D. She doesn't want to help with Trevor's problems again. *(Bà không muốn giúp chuyện của Trevor nữa.)*
 
 **10. What does Trevor's last message suggest?**
 *(Tin nhắn cuối của Trevor cho thấy điều gì?)*
 
-- A. He still uses the thin lock. *(Cậu vẫn dùng khoá mỏng.)*
-- B. He has bought new soccer boots. *(Cậu đã mua giày bóng đá mới.)*
-- C. He has learned his lesson and bought an expensive lock. *(Cậu đã rút kinh nghiệm và mua một cái khoá đắt tiền.)*
-- D. He is angry with Harriet. *(Cậu giận bà Harriet.)*
+- A. He still uses the thin lock when he is late for practice. *(Cậu vẫn dùng khoá mỏng khi đến muộn buổi tập.)*
+- B. He has bought new soccer boots instead of a lock. *(Cậu đã mua giày bóng đá mới thay vì khoá.)*
+- C. He has learned his lesson and bought a new lock. *(Cậu đã rút kinh nghiệm và mua một cái khoá mới.)*
+- D. He is angry with Harriet for looking at the video. *(Cậu giận bà Harriet vì đã xem đoạn phim.)*
 
 ---
 
@@ -234,15 +234,15 @@
 **11. What is the article mainly about?**
 *(Bài báo chủ yếu nói về điều gì?)*
 
-- A. how to milk a cow *(cách vắt sữa bò)*
+- A. how to milk a cow and make cheese *(cách vắt sữa bò và làm phô mai)*
 - B. the history of vaccines, from Jenner to today *(lịch sử vắc-xin, từ Jenner tới ngày nay)*
-- C. why smallpox is still dangerous *(vì sao bệnh đậu mùa vẫn còn nguy hiểm)*
-- D. the life of Louis Pasteur *(cuộc đời của Louis Pasteur)*
+- C. why smallpox is still one of the most feared diseases *(vì sao bệnh đậu mùa vẫn là một trong những bệnh đáng sợ nhất)*
+- D. the life of Louis Pasteur and his work in France *(cuộc đời của Louis Pasteur và công việc của ông ở Pháp)*
 
 **12. What had some people noticed about milkmaids?**
 *(Một số người đã để ý điều gì ở những cô vắt sữa bò?)*
 
-- A. They often caught smallpox. *(Họ hay mắc bệnh đậu mùa.)*
+- A. They often caught smallpox from the cows. *(Họ hay mắc bệnh đậu mùa từ những con bò.)*
 - B. They had deep marks on their skin. *(Họ có sẹo sâu trên da.)*
 - C. They were afraid of cows. *(Họ sợ bò.)*
 - D. They rarely seemed to catch smallpox. *(Họ dường như hiếm khi mắc bệnh đậu mùa.)*
@@ -250,26 +250,26 @@
 **13. What does "There must be a connection, he thought" show about Jenner?**
 *(Câu "Hẳn phải có mối liên hệ nào đó, ông nghĩ" cho thấy điều gì về Jenner?)*
 
-- A. He felt sure that cowpox and smallpox were linked in some way. *(Ông tin chắc bệnh đậu bò và đậu mùa có liên quan theo cách nào đó.)*
-- B. He had already proved his theory. *(Ông đã chứng minh xong giả thuyết.)*
-- C. He didn't believe the milkmaids. *(Ông không tin các cô vắt sữa.)*
-- D. He wanted to stop working as a doctor. *(Ông muốn thôi làm bác sĩ.)*
+- A. He felt sure that cowpox and smallpox were linked. *(Ông tin chắc bệnh đậu bò và đậu mùa có liên quan.)*
+- B. He had already proved his theory with an experiment. *(Ông đã chứng minh xong giả thuyết bằng một thí nghiệm.)*
+- C. He didn't believe what the milkmaids said about cows. *(Ông không tin những gì các cô vắt sữa nói về bò.)*
+- D. He wanted to stop working as a doctor and study cows. *(Ông muốn thôi làm bác sĩ để nghiên cứu về bò.)*
 
 **14. What did Jenner do in 1796?**
 *(Năm 1796 Jenner đã làm gì?)*
 
-- A. He caught cowpox himself. *(Ông tự mắc bệnh đậu bò.)*
-- B. He made a vaccine against rabies. *(Ông làm vắc-xin phòng dại.)*
-- C. He put cowpox material into a boy's arm and later gave him smallpox material. *(Ông đưa dịch đậu bò vào tay một cậu bé, rồi sau đó đưa dịch đậu mùa vào người cậu.)*
-- D. He announced that smallpox was gone. *(Ông tuyên bố đậu mùa đã bị xoá sổ.)*
+- A. He caught cowpox himself from a milkmaid's hand. *(Ông tự mắc bệnh đậu bò từ tay một cô vắt sữa.)*
+- B. He made a vaccine against rabies for the French. *(Ông làm vắc-xin phòng dại cho người Pháp.)*
+- C. He gave a boy cowpox material, then smallpox material later. *(Ông đưa dịch đậu bò cho một cậu bé, rồi sau đó là dịch đậu mùa.)*
+- D. He announced that smallpox was gone from the planet. *(Ông tuyên bố đậu mùa đã biến mất khỏi hành tinh.)*
 
 **15. Why would Jenner's experiment "never be allowed today"?**
 *(Vì sao thí nghiệm của Jenner "ngày nay chắc chắn không được phép"?)*
 
-- A. Cows are no longer used in science. *(Vì khoa học không còn dùng bò.)*
-- B. Smallpox is no longer a disease. *(Vì đậu mùa không còn là bệnh.)*
-- C. Doctors today don't do experiments. *(Vì bác sĩ ngày nay không làm thí nghiệm.)*
-- D. Giving a dangerous disease to a child would be far too dangerous by today's rules. *(Vì theo quy định ngày nay, đưa một bệnh nguy hiểm vào người một đứa trẻ là quá rủi ro.)*
+- A. Cows are no longer used in science because they are too big. *(Vì khoa học không còn dùng bò do chúng quá to.)*
+- B. Smallpox is no longer a disease, so nobody can test it. *(Vì đậu mùa không còn là bệnh nên không ai thử được.)*
+- C. Doctors today don't do experiments, only read old books. *(Vì bác sĩ ngày nay không làm thí nghiệm, chỉ đọc sách cũ.)*
+- D. Giving a child a dangerous disease is not safe by today's rules. *(Vì theo quy định ngày nay, đưa một bệnh nguy hiểm cho trẻ em là không an toàn.)*
 
 **16. Where does the word "vaccine" come from?**
 *(Từ "vaccine" bắt nguồn từ đâu?)*
@@ -282,34 +282,34 @@
 **17. What was the older method used in parts of Asia and Africa?**
 *(Cách làm cũ hơn ở một số vùng châu Á và châu Phi là gì?)*
 
-- A. giving healthy people a small amount of material from a smallpox patient *(đưa một ít dịch của người bệnh đậu mùa vào người khoẻ)*
-- B. keeping cows away from people *(giữ bò tránh xa người)*
-- C. using animal bites *(dùng vết cắn của động vật)*
-- D. giving people a dead part of a germ *(cho người ta một phần đã chết của mầm bệnh)*
+- A. giving healthy people a little material from a smallpox patient *(đưa một ít dịch của người bệnh đậu mùa cho người khoẻ)*
+- B. keeping cows away from people who were sick *(giữ bò tránh xa những người đang bệnh)*
+- C. using bites from animals to protect people *(dùng vết cắn của động vật để bảo vệ con người)*
+- D. giving people a dead part of a germ in a drink *(cho người ta một phần mầm bệnh đã chết trong đồ uống)*
 
 **18. How do most vaccines work?**
 *(Phần lớn vắc-xin hoạt động thế nào?)*
 
-- A. They kill all germs in the body. *(Chúng giết mọi mầm bệnh trong cơ thể.)*
-- B. They make the body weaker. *(Chúng làm cơ thể yếu đi.)*
-- C. They show the body a weak, dead or harmless part of a germ so that it learns to recognize it. *(Chúng cho cơ thể thấy một mầm bệnh đã bị làm yếu, đã chết hoặc phần vô hại của nó để cơ thể học cách nhận ra.)*
-- D. They replace the body's cells. *(Chúng thay thế tế bào của cơ thể.)*
+- A. They kill all the germs that are already in the body. *(Chúng giết mọi mầm bệnh đang có sẵn trong cơ thể.)*
+- B. They make the body weaker so that germs can't live there. *(Chúng làm cơ thể yếu đi để mầm bệnh không sống được.)*
+- C. They show the body a weak or dead part of a germ so it can learn. *(Chúng cho cơ thể thấy một phần mầm bệnh yếu hoặc đã chết để cơ thể học.)*
+- D. They replace the body's cells with stronger cells from cows. *(Chúng thay tế bào của cơ thể bằng tế bào khoẻ hơn lấy từ bò.)*
 
 **19. What happened in 1980?**
 *(Năm 1980 đã xảy ra chuyện gì?)*
 
-- A. Louis Pasteur made his first vaccine. *(Louis Pasteur làm vắc-xin đầu tiên.)*
-- B. The World Health Organization announced that smallpox had been completely wiped out. *(Tổ chức Y tế Thế giới tuyên bố bệnh đậu mùa đã bị xoá sổ hoàn toàn.)*
-- C. Jenner's theory was proved. *(Giả thuyết của Jenner được chứng minh.)*
-- D. A vaccine against the flu was made. *(Vắc-xin cúm ra đời.)*
+- A. Louis Pasteur made his first vaccine against rabies in France. *(Louis Pasteur làm vắc-xin phòng dại đầu tiên ở Pháp.)*
+- B. The World Health Organization announced that smallpox was wiped out. *(Tổ chức Y tế Thế giới tuyên bố đậu mùa đã bị xoá sổ.)*
+- C. Jenner's theory was proved in a village in England. *(Giả thuyết của Jenner được chứng minh ở một làng nước Anh.)*
+- D. A vaccine against the flu and measles was made at last. *(Vắc-xin phòng cúm và sởi cuối cùng cũng ra đời.)*
 
 **20. Use both texts. What do Jenner and Harriet have in common?**
 *(Dựa vào cả hai bài. Jenner và bà Harriet có điểm gì chung?)*
 
-- A. Both of them were doctors. *(Cả hai đều là bác sĩ.)*
-- B. Both of them worked with the police. *(Cả hai đều làm việc với cảnh sát.)*
-- C. Both of them made a vaccine. *(Cả hai đều làm ra vắc-xin.)*
-- D. Both of them looked carefully at the evidence to help find an answer. *(Cả hai đều xem xét kỹ bằng chứng để giúp tìm ra câu trả lời.)*
+- A. Both of them were doctors who treated sick people in town. *(Cả hai đều là bác sĩ chữa bệnh cho người dân trong thị trấn.)*
+- B. Both of them worked with the police to find a thief. *(Cả hai đều làm việc với cảnh sát để tìm một tên trộm.)*
+- C. Both of them made a vaccine to protect people in town. *(Cả hai đều làm vắc-xin để bảo vệ người dân trong thị trấn.)*
+- D. Both of them looked at evidence to help find an answer. *(Cả hai đều xem xét bằng chứng để giúp tìm ra câu trả lời.)*
 
 ---
 

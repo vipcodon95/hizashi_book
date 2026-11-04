@@ -85,18 +85,18 @@
 **1. What is Trevor's report about?**
 *(Bài báo cáo của Trevor nói về điều gì?)*
 
-- A. the history of fire stations *(lịch sử các trạm cứu hoả)*
-- B. an interview with Harriet about life on Maple Street in the past *(cuộc phỏng vấn bà Harriet về cuộc sống ở Maple Street ngày xưa)*
-- C. why phones are bad for children *(vì sao điện thoại có hại cho trẻ em)*
-- D. how to write a letter *(cách viết thư)*
+- A. the history of the old fire station on Pine Street *(lịch sử trạm cứu hoả cũ trên phố Pine)*
+- B. an interview with Harriet about life long ago *(cuộc phỏng vấn bà Harriet về cuộc sống ngày xưa)*
+- C. why phones are bad for children and for families *(vì sao điện thoại có hại cho trẻ em và gia đình)*
+- D. how to write a letter that feels special *(cách viết một lá thư thật đặc biệt)*
 
 **2. Why does Trevor write "unfortunately" about his history teacher?**
 *(Vì sao Trevor viết "thật không may" khi nói về thầy dạy sử?)*
 
-- A. His dad is a bad teacher. *(Vì bố cậu dạy kém.)*
-- B. He doesn't like history. *(Vì cậu không thích môn sử.)*
-- C. His dad gave him a low grade. *(Vì bố cho cậu điểm thấp.)*
-- D. He is joking that it is awkward to have his own father as a teacher. *(Vì cậu đùa rằng có bố làm thầy giáo thì hơi ngại.)*
+- A. His dad is a bad teacher who gives too much homework. *(Vì bố cậu dạy kém và giao quá nhiều bài tập.)*
+- B. He doesn't like history, so he is unhappy in class. *(Vì cậu không thích môn sử nên buồn khi ở lớp.)*
+- C. His dad gave him a low grade on the project. *(Vì bố cho cậu điểm thấp ở dự án.)*
+- D. It is a joke about having his father as his teacher. *(Vì đó là lời đùa về việc có bố làm thầy giáo.)*
 
 **3. When did Harriet move to Maple Street?**
 *(Bà Harriet chuyển tới Maple Street khi nào?)*
@@ -117,10 +117,10 @@
 **5. Why does Harriet say "We did have phones, of course"?**
 *(Vì sao bà Harriet nói "Tất nhiên là hồi đó cũng có điện thoại chứ"?)*
 
-- A. She wants to say that they had no phones. *(Bà muốn nói hồi đó không có điện thoại.)*
-- B. She wants to make it clear that they really had phones, even if they were very different. *(Bà muốn nói rõ hồi đó thật sự có điện thoại, dù rất khác bây giờ.)*
-- C. She forgot about her phone. *(Bà quên mất cái điện thoại.)*
-- D. She is asking Trevor a question. *(Bà đang hỏi Trevor.)*
+- A. She wants to say that they had no phones in the 1970s. *(Bà muốn nói thập niên 1970 không có điện thoại.)*
+- B. She wants to make clear that they really had phones. *(Bà muốn nói rõ hồi đó thật sự có điện thoại.)*
+- C. She forgot that she had a phone on the kitchen wall. *(Bà quên mất mình có điện thoại trên tường bếp.)*
+- D. She is asking Trevor if his family has a phone at home. *(Bà đang hỏi nhà Trevor có điện thoại ở nhà không.)*
 
 **6. Why did people pull the phone cord into the closet?**
 *(Vì sao người ta kéo dây điện thoại vào tủ quần áo?)*
@@ -128,14 +128,14 @@
 - A. to talk to a friend privately *(để nói chuyện riêng với bạn)*
 - B. to keep the phone safe *(để giữ điện thoại an toàn)*
 - C. to make the phone work better *(để điện thoại nghe rõ hơn)*
-- D. to hide it from children *(để giấu khỏi bọn trẻ)*
+- D. to hide it from the children in the house *(để giấu nó khỏi bọn trẻ trong nhà)*
 
 **7. What was life like for kids on Maple Street in the past, according to Harriet?**
 *(Theo bà Harriet, trẻ con ở Maple Street ngày xưa sống thế nào?)*
 
 - A. They stayed inside after school. *(Tan học là ở trong nhà.)*
-- B. Their parents always knew where they were. *(Bố mẹ luôn biết các em ở đâu.)*
-- C. They took the bus everywhere. *(Đi đâu cũng đi xe buýt.)*
+- B. Their parents always knew exactly where they were. *(Bố mẹ luôn biết chính xác các em ở đâu.)*
+- C. They took the bus everywhere, even to the park. *(Đi đâu cũng đi xe buýt, kể cả tới công viên.)*
 - D. They played outdoors until the street lights came on. *(Chơi ngoài trời tới khi đèn đường bật sáng.)*
 
 **8. Which of these is NOT true about the old fire station?**
@@ -149,18 +149,18 @@
 **9. What does Harriet mean by "I did tell them not to, but I'm glad that they didn't listen"?**
 *(Bà Harriet muốn nói gì qua câu "Bà đã bảo bọn nó đừng khắc rồi đấy, nhưng bà mừng là bọn nó không nghe"?)*
 
-- A. She is happy that the words are still there as a memory. *(Bà vui vì dòng chữ vẫn còn đó như một kỷ niệm.)*
-- B. She is still angry with the kids. *(Bà vẫn còn giận bọn trẻ.)*
-- C. She carved the words herself. *(Chính bà đã khắc dòng chữ.)*
-- D. She wants the words removed. *(Bà muốn xoá dòng chữ.)*
+- A. She is happy that the words are still there. *(Bà vui vì dòng chữ vẫn còn đó.)*
+- B. She is still angry with the kids who carved the tree. *(Bà vẫn còn giận bọn trẻ đã khắc lên cây.)*
+- C. She carved the words herself with the other kids. *(Chính bà đã khắc dòng chữ cùng bọn trẻ khác.)*
+- D. She wants the words removed from the library tree. *(Bà muốn xoá dòng chữ trên cái cây sau thư viện.)*
 
 **10. What does Harriet miss about the past?**
 *(Bà Harriet nhớ điều gì ở ngày xưa?)*
 
-- A. the phone on the kitchen wall *(chiếc điện thoại trên tường bếp)*
-- B. her job as a teacher *(công việc dạy học)*
-- C. the old fire station *(trạm cứu hoả cũ)*
-- D. waiting for letters, which made each one feel special *(sự chờ thư, điều làm lá thư nào cũng thành đặc biệt)*
+- A. the phone on the kitchen wall with the long cord *(chiếc điện thoại trên tường bếp có sợi dây dài)*
+- B. her job as a young teacher on Maple Street *(công việc cô giáo trẻ của bà ở Maple Street)*
+- C. the old fire station before it was restored *(trạm cứu hoả cũ trước khi được trùng tu)*
+- D. waiting for letters, which felt special *(việc chờ thư, điều làm mỗi lá thư thật đặc biệt)*
 
 ---
 
@@ -205,50 +205,50 @@
 **11. What is the article mainly about?**
 *(Bài báo chủ yếu nói về điều gì?)*
 
-- A. why flying cars never came *(vì sao ô tô bay chưa bao giờ xuất hiện)*
-- B. how to plant trees on roofs *(cách trồng cây trên mái nhà)*
-- C. how cities might change by 2050, and why predictions are uncertain *(thành phố có thể thay đổi thế nào tới năm 2050, và vì sao dự đoán không chắc chắn)*
-- D. the history of self-driving cars *(lịch sử ô tô tự lái)*
+- A. why flying cars never came and what we have instead *(vì sao ô tô bay chưa xuất hiện và ta có gì thay thế)*
+- B. how to plant trees and gardens on roofs in a city *(cách trồng cây và vườn trên mái nhà trong thành phố)*
+- C. how cities might change by 2050 *(thành phố có thể thay đổi thế nào tới năm 2050)*
+- D. the history of self-driving cars and solar panels *(lịch sử ô tô tự lái và pin mặt trời)*
 
 **12. By 2050, how many people are expected to live in cities?**
 *(Tới năm 2050, dự kiến bao nhiêu người sẽ sống ở thành phố?)*
 
 - A. about two out of every three people *(khoảng hai trên ba người)*
-- B. about half of the people *(khoảng một nửa)*
-- C. everyone *(tất cả mọi người)*
-- D. fewer people than today *(ít người hơn hiện nay)*
+- B. about half of the people in the world *(khoảng một nửa số người trên thế giới)*
+- C. everyone, including people in the countryside *(tất cả mọi người, kể cả người ở nông thôn)*
+- D. fewer people than there are today *(ít người hơn hiện nay)*
 
 **13. Why can a city be hotter than the countryside around it?**
 *(Vì sao thành phố có thể nóng hơn vùng quê xung quanh?)*
 
-- A. There are more people breathing. *(Vì nhiều người thở hơn.)*
+- A. There are more people, and people give off a lot of heat. *(Vì có nhiều người hơn, mà người toả ra nhiều nhiệt.)*
 - B. Concrete streets and dark roofs absorb heat. *(Vì đường bê tông và mái nhà sẫm màu hấp thụ nhiệt.)*
-- C. Cities get more sun. *(Vì thành phố nhận nhiều nắng hơn.)*
-- D. There are too many gardens. *(Vì có quá nhiều vườn.)*
+- C. Cities get more sun because they have no trees. *(Vì thành phố nhận nhiều nắng hơn do không có cây.)*
+- D. There are too many gardens on the roofs. *(Vì có quá nhiều vườn trên mái nhà.)*
 
 **14. What does "some planners say that they should have started much earlier" mean?**
 *(Câu "có những nhà quy hoạch nói lẽ ra họ phải bắt đầu sớm hơn nhiều" nghĩa là gì?)*
 
-- A. They started very early. *(Họ đã bắt đầu rất sớm.)*
-- B. They will start next year. *(Năm sau họ mới bắt đầu.)*
-- C. They don't want to plant trees. *(Họ không muốn trồng cây.)*
-- D. It would have been better to start earlier, but they didn't. *(Lẽ ra bắt đầu sớm thì tốt hơn, nhưng họ đã không làm.)*
+- A. They started very early and finished long ago. *(Họ đã bắt đầu rất sớm và xong từ lâu.)*
+- B. They will start next year, a little earlier than planned. *(Năm sau họ sẽ bắt đầu, sớm hơn kế hoạch một chút.)*
+- C. They don't want to plant trees in the city streets. *(Họ không muốn trồng cây trên đường phố.)*
+- D. It would have been better to start earlier. *(Lẽ ra bắt đầu sớm hơn thì tốt hơn.)*
 
 **15. What is a "fifteen-minute city"?**
 *("Thành phố mười lăm phút" là gì?)*
 
-- A. a city that you can cross by car in fifteen minutes *(thành phố đi ô tô mười lăm phút là hết)*
-- B. a city where buses come every fifteen minutes *(thành phố có xe buýt mười lăm phút một chuyến)*
-- C. a city where daily needs are within a fifteen-minute walk or bike ride *(thành phố nơi mọi thứ cần hằng ngày đều trong vòng mười lăm phút đi bộ hoặc đạp xe)*
+- A. a city where every road can be crossed by car in fifteen minutes *(thành phố nơi băng qua mọi con đường bằng ô tô mất mười lăm phút)*
+- B. a city where buses come every fifteen minutes to every home *(thành phố nơi cứ mười lăm phút có xe buýt tới từng nhà)*
+- C. a city where daily needs are a fifteen-minute walk or ride away *(thành phố nơi mọi thứ cần hằng ngày cách mười lăm phút đi bộ hoặc đạp xe)*
 - D. a city that was built in fifteen minutes *(thành phố được xây trong mười lăm phút)*
 
 **16. Why might the fifteen-minute idea not work everywhere?**
 *(Vì sao ý tưởng mười lăm phút có thể không hợp với mọi nơi?)*
 
-- A. People don't like parks. *(Vì người ta không thích công viên.)*
+- A. People don't like parks or gardens near their homes. *(Vì người ta không thích công viên hay vườn gần nhà.)*
 - B. In some places, homes are far apart. *(Vì ở một số nơi, nhà cửa cách xa nhau.)*
-- C. Bikes are too expensive. *(Vì xe đạp quá đắt.)*
-- D. Shops close too early. *(Vì cửa hàng đóng cửa quá sớm.)*
+- C. Bikes are too expensive for most families. *(Vì xe đạp quá đắt với hầu hết các gia đình.)*
+- D. Shops close too early in the evening. *(Vì cửa hàng đóng cửa quá sớm vào buổi tối.)*
 
 **17. Which prediction does the article say is much less certain?**
 *(Bài báo nói dự đoán nào kém chắc chắn hơn nhiều?)*
@@ -261,26 +261,26 @@
 **18. Why does the writer mention flying cars?**
 *(Vì sao người viết nhắc tới ô tô bay?)*
 
-- A. to say that flying cars will come soon *(để nói ô tô bay sắp xuất hiện)*
+- A. to say that flying cars will be common before 2050 *(để nói ô tô bay sẽ phổ biến trước năm 2050)*
 - B. to explain how self-driving cars work *(để giải thích ô tô tự lái hoạt động thế nào)*
-- C. to show that people in the 1960s were foolish *(để cho thấy người những năm 1960 thật ngốc nghếch)*
+- C. to show that people in the 1960s did not know much about cars *(để cho thấy người những năm 1960 không hiểu nhiều về ô tô)*
 - D. to show that forecasts about the future are often wrong *(để cho thấy dự báo về tương lai thường sai)*
 
 **19. Why does the writer say "but we do have phones that can translate languages"?**
 *(Vì sao người viết nói "nhưng chúng ta lại có điện thoại biết dịch ngôn ngữ"?)*
 
-- A. to say that phones are more important than cars *(để nói điện thoại quan trọng hơn ô tô)*
-- B. to complain about phones *(để phàn nàn về điện thoại)*
-- C. to stress that other surprising things did come true, even if nobody predicted them *(để nhấn mạnh rằng nhiều điều bất ngờ khác đã thành hiện thực, dù không ai đoán trước)*
-- D. to sell a new app *(để quảng cáo một ứng dụng mới)*
+- A. to say that phones are more important than flying cars *(để nói điện thoại quan trọng hơn ô tô bay)*
+- B. to complain that phones make people forget to talk *(để phàn nàn rằng điện thoại khiến người ta quên trò chuyện)*
+- C. to stress that other surprising things did come true *(để nhấn mạnh rằng nhiều điều bất ngờ khác đã thành hiện thực)*
+- D. to sell a new app that can translate languages *(để quảng cáo ứng dụng mới có thể dịch ngôn ngữ)*
 
 **20. Use both texts. How was Maple Street in the 1970s similar to a "fifteen-minute city"?**
 *(Dựa vào cả hai bài. Maple Street những năm 1970 giống "thành phố mười lăm phút" ở điểm nào?)*
 
-- A. Everyone had a self-driving car. *(Ai cũng có ô tô tự lái.)*
+- A. Everyone had a self-driving car to go to school. *(Ai cũng có ô tô tự lái để đi học.)*
 - B. Children could walk to school, the store and the park. *(Trẻ con đi bộ được tới trường, cửa hàng và công viên.)*
-- C. There were solar panels on every roof. *(Mái nhà nào cũng có pin mặt trời.)*
-- D. There were gardens on every roof. *(Mái nhà nào cũng có vườn.)*
+- C. There were solar panels on every roof in the street. *(Mái nhà nào trên phố cũng có pin mặt trời.)*
+- D. There were gardens on every roof to keep the houses cool. *(Mái nhà nào cũng có vườn để giữ cho nhà mát.)*
 
 ---
 

@@ -659,46 +659,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to sell cakes at her café",
-            "vi": "để bán bánh ở quán"
+            "en": "to sell cakes and coffee to the whole neighborhood every week",
+            "vi": "để bán bánh và cà phê cho cả khu phố mỗi tuần"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to sell cakes at her café",
-          "text_translation": "để bán bánh ở quán"
+          "text": "to sell cakes and coffee to the whole neighborhood every week",
+          "text_translation": "để bán bánh và cà phê cho cả khu phố mỗi tuần"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to explain how to write a biography",
-            "vi": "để giải thích cách viết tiểu sử"
+            "en": "to explain how to write a biography of a famous person",
+            "vi": "để giải thích cách viết tiểu sử một người nổi tiếng"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to explain how to write a biography",
-          "text_translation": "để giải thích cách viết tiểu sử"
+          "text": "to explain how to write a biography of a famous person",
+          "text_translation": "để giải thích cách viết tiểu sử một người nổi tiếng"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to complain about Nathan",
-            "vi": "để phàn nàn về Nathan"
+            "en": "to complain about Nathan, who did not read the whole book",
+            "vi": "để phàn nàn về Nathan, người không đọc hết cuốn sách"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to complain about Nathan",
-          "text_translation": "để phàn nàn về Nathan"
+          "text": "to complain about Nathan, who did not read the whole book",
+          "text_translation": "để phàn nàn về Nathan, người không đọc hết cuốn sách"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to tell members about the last meeting and the plan for September",
-            "vi": "để kể cho thành viên về buổi họp vừa rồi và kế hoạch tháng Chín"
+            "en": "to tell members about the last meeting and the September plan",
+            "vi": "để báo cho thành viên về buổi họp vừa rồi và kế hoạch tháng Chín"
           },
           "is_correct": true,
           "order": 3,
-          "text": "to tell members about the last meeting and the plan for September",
-          "text_translation": "để kể cho thành viên về buổi họp vừa rồi và kế hoạch tháng Chín"
+          "text": "to tell members about the last meeting and the September plan",
+          "text_translation": "để báo cho thành viên về buổi họp vừa rồi và kế hoạch tháng Chín"
         }
       ],
       "evidence_segments": [
@@ -727,46 +727,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Both of them loved it.",
-            "vi": "Cả hai đều mê."
+            "en": "Both of them loved it and read every page carefully.",
+            "vi": "Cả hai đều rất thích và đọc kỹ từng trang."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Both of them loved it.",
-          "text_translation": "Cả hai đều mê."
+          "text": "Both of them loved it and read every page carefully.",
+          "text_translation": "Cả hai đều rất thích và đọc kỹ từng trang."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Lydia found it useful and interesting, but Nathan found it boring.",
-            "vi": "Lydia thấy nó bổ ích và thú vị, còn Nathan thấy nó chán."
+            "en": "Lydia found it informative, but Nathan thought it was boring.",
+            "vi": "Lydia thấy nó nhiều thông tin, còn Nathan thấy nó chán."
           },
           "is_correct": true,
           "order": 1,
-          "text": "Lydia found it useful and interesting, but Nathan found it boring.",
-          "text_translation": "Lydia thấy nó bổ ích và thú vị, còn Nathan thấy nó chán."
+          "text": "Lydia found it informative, but Nathan thought it was boring.",
+          "text_translation": "Lydia thấy nó nhiều thông tin, còn Nathan thấy nó chán."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Both of them found it boring.",
-            "vi": "Cả hai đều thấy chán."
+            "en": "Both of them found it boring and stopped reading early.",
+            "vi": "Cả hai đều thấy nó chán và bỏ đọc sớm."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Both of them found it boring.",
-          "text_translation": "Cả hai đều thấy chán."
+          "text": "Both of them found it boring and stopped reading early.",
+          "text_translation": "Cả hai đều thấy nó chán và bỏ đọc sớm."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Nathan liked it more than Lydia.",
-            "vi": "Nathan thích nó hơn Lydia."
+            "en": "Nathan liked it much more than Lydia and read every single page.",
+            "vi": "Nathan thích nó hơn Lydia nhiều và đọc từng trang một."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Nathan liked it more than Lydia.",
-          "text_translation": "Nathan thích nó hơn Lydia."
+          "text": "Nathan liked it much more than Lydia and read every single page.",
+          "text_translation": "Nathan thích nó hơn Lydia nhiều và đọc từng trang một."
         }
       ],
       "evidence_segments": [
@@ -806,35 +806,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "Nathan read the book twice.",
-            "vi": "Nathan đọc cuốn sách hai lần."
+            "en": "Nathan read the whole book twice before the meeting.",
+            "vi": "Nathan đã đọc cả cuốn sách hai lần trước buổi họp."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Nathan read the book twice.",
-          "text_translation": "Nathan đọc cuốn sách hai lần."
+          "text": "Nathan read the whole book twice before the meeting.",
+          "text_translation": "Nathan đã đọc cả cuốn sách hai lần trước buổi họp."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The book had only fifty pages.",
-            "vi": "Cuốn sách chỉ có năm mươi trang."
+            "en": "The book had only fifty pages, so it was very short.",
+            "vi": "Cuốn sách chỉ có năm mươi trang nên rất ngắn."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The book had only fifty pages.",
-          "text_translation": "Cuốn sách chỉ có năm mươi trang."
+          "text": "The book had only fifty pages, so it was very short.",
+          "text_translation": "Cuốn sách chỉ có năm mươi trang nên rất ngắn."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Nathan wrote notes on every page.",
-            "vi": "Nathan ghi chú trên mọi trang."
+            "en": "Nathan wrote notes on every page of the book.",
+            "vi": "Nathan ghi chú trên từng trang của cuốn sách."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Nathan wrote notes on every page.",
-          "text_translation": "Nathan ghi chú trên mọi trang."
+          "text": "Nathan wrote notes on every page of the book.",
+          "text_translation": "Nathan ghi chú trên từng trang của cuốn sách."
         }
       ],
       "evidence_segments": [
@@ -863,24 +863,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They are cheaper than e-books.",
-            "vi": "Vì chúng rẻ hơn sách điện tử."
+            "en": "They are much cheaper than e-books and can be shared easily.",
+            "vi": "Chúng rẻ hơn sách điện tử nhiều và dễ cho mượn."
           },
           "is_correct": false,
           "order": 0,
-          "text": "They are cheaper than e-books.",
-          "text_translation": "Vì chúng rẻ hơn sách điện tử."
+          "text": "They are much cheaper than e-books and can be shared easily.",
+          "text_translation": "Chúng rẻ hơn sách điện tử nhiều và dễ cho mượn."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She can make the letters bigger.",
-            "vi": "Vì cô có thể phóng chữ to."
+            "en": "She can make the letters bigger on her phone screen.",
+            "vi": "Cô có thể phóng to chữ trên màn hình điện thoại."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She can make the letters bigger.",
-          "text_translation": "Vì cô có thể phóng chữ to."
+          "text": "She can make the letters bigger on her phone screen.",
+          "text_translation": "Cô có thể phóng to chữ trên màn hình điện thoại."
         },
         {
           "id": "C",
@@ -896,13 +896,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "Her phone is too small.",
-            "vi": "Vì điện thoại của cô quá nhỏ."
+            "en": "Her phone is too small and the battery is always empty.",
+            "vi": "Điện thoại của cô quá nhỏ và pin luôn hết."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Her phone is too small.",
-          "text_translation": "Vì điện thoại của cô quá nhỏ."
+          "text": "Her phone is too small and the battery is always empty.",
+          "text_translation": "Điện thoại của cô quá nhỏ và pin luôn hết."
         }
       ],
       "evidence_segments": [
@@ -931,46 +931,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She reads at the fire station.",
-            "vi": "Vì bà đọc sách ở trạm cứu hoả."
+            "en": "She reads on her phone at the fire station on quiet nights like Ethan.",
+            "vi": "Cô đọc trên điện thoại ở trạm cứu hoả vào đêm yên tĩnh như Ethan."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She reads at the fire station.",
-          "text_translation": "Vì bà đọc sách ở trạm cứu hoả."
+          "text": "She reads on her phone at the fire station on quiet nights like Ethan.",
+          "text_translation": "Cô đọc trên điện thoại ở trạm cứu hoả vào đêm yên tĩnh như Ethan."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She doesn't like Lydia.",
-            "vi": "Vì bà không thích Lydia."
+            "en": "She doesn't like Lydia's way of teaching English.",
+            "vi": "Cô không thích cách Lydia dạy tiếng Anh."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She doesn't like Lydia.",
-          "text_translation": "Vì bà không thích Lydia."
+          "text": "She doesn't like Lydia's way of teaching English.",
+          "text_translation": "Cô không thích cách Lydia dạy tiếng Anh."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Paper books are too expensive for her.",
-            "vi": "Vì sách giấy quá đắt với bà."
+            "en": "Paper books are too expensive for her small café.",
+            "vi": "Sách giấy quá đắt với quán cà phê nhỏ của cô."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Paper books are too expensive for her.",
-          "text_translation": "Vì sách giấy quá đắt với bà."
+          "text": "Paper books are too expensive for her small café.",
+          "text_translation": "Sách giấy quá đắt với quán cà phê nhỏ của cô."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Her eyesight is not as good as before, and e-books can show bigger letters.",
-            "vi": "Vì mắt bà không còn tốt như trước, mà sách điện tử phóng chữ to được."
+            "en": "Her eyesight isn't what it was, and e-books can have bigger letters.",
+            "vi": "Thị lực của cô không còn như trước, và sách điện tử có thể có chữ to hơn."
           },
           "is_correct": true,
           "order": 3,
-          "text": "Her eyesight is not as good as before, and e-books can show bigger letters.",
-          "text_translation": "Vì mắt bà không còn tốt như trước, mà sách điện tử phóng chữ to được."
+          "text": "Her eyesight isn't what it was, and e-books can have bigger letters.",
+          "text_translation": "Thị lực của cô không còn như trước, và sách điện tử có thể có chữ to hơn."
         }
       ],
       "evidence_segments": [
@@ -1000,46 +1000,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Reading the book matters more than whether it is paper or electronic.",
-            "vi": "Đọc được sách mới quan trọng, chứ không phải sách giấy hay điện tử."
+            "en": "Finishing a book matters more than whether it is paper or digital.",
+            "vi": "Đọc hết một cuốn sách quan trọng hơn việc nó là giấy hay điện tử."
           },
           "is_correct": true,
           "order": 0,
-          "text": "Reading the book matters more than whether it is paper or electronic.",
-          "text_translation": "Đọc được sách mới quan trọng, chứ không phải sách giấy hay điện tử."
+          "text": "Finishing a book matters more than whether it is paper or digital.",
+          "text_translation": "Đọc hết một cuốn sách quan trọng hơn việc nó là giấy hay điện tử."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Short books are always better.",
-            "vi": "Sách ngắn lúc nào cũng hay hơn."
+            "en": "Short books are always better than long books for the club.",
+            "vi": "Sách ngắn luôn tốt hơn sách dài cho câu lạc bộ."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Short books are always better.",
-          "text_translation": "Sách ngắn lúc nào cũng hay hơn."
+          "text": "Short books are always better than long books for the club.",
+          "text_translation": "Sách ngắn luôn tốt hơn sách dài cho câu lạc bộ."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Nobody finished the biography.",
-            "vi": "Không ai đọc xong cuốn tiểu sử."
+            "en": "Nobody finished the biography, so they decided to choose a poetry book.",
+            "vi": "Không ai đọc hết cuốn tiểu sử nên họ quyết định chọn sách thơ."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Nobody finished the biography.",
-          "text_translation": "Không ai đọc xong cuốn tiểu sử."
+          "text": "Nobody finished the biography, so they decided to choose a poetry book.",
+          "text_translation": "Không ai đọc hết cuốn tiểu sử nên họ quyết định chọn sách thơ."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "E-books are better than paper books.",
-            "vi": "Sách điện tử hay hơn sách giấy."
+            "en": "E-books are better than paper books for most members.",
+            "vi": "Sách điện tử tốt hơn sách giấy với hầu hết thành viên."
           },
           "is_correct": false,
           "order": 3,
-          "text": "E-books are better than paper books.",
-          "text_translation": "Sách điện tử hay hơn sách giấy."
+          "text": "E-books are better than paper books for most members.",
+          "text_translation": "Sách điện tử tốt hơn sách giấy với hầu hết thành viên."
         }
       ],
       "evidence_segments": [
@@ -1068,13 +1068,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "write their own poems",
-            "vi": "tự sáng tác thơ"
+            "en": "write their own poems and read them aloud",
+            "vi": "tự viết thơ và đọc to lên"
           },
           "is_correct": false,
           "order": 0,
-          "text": "write their own poems",
-          "text_translation": "tự sáng tác thơ"
+          "text": "write their own poems and read them aloud",
+          "text_translation": "tự viết thơ và đọc to lên"
         },
         {
           "id": "B",
@@ -1090,24 +1090,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "explain a long poem",
-            "vi": "giải thích một bài thơ dài"
+            "en": "explain a long poem to the other members",
+            "vi": "giải thích một bài thơ dài cho các thành viên khác"
           },
           "is_correct": false,
           "order": 2,
-          "text": "explain a long poem",
-          "text_translation": "giải thích một bài thơ dài"
+          "text": "explain a long poem to the other members",
+          "text_translation": "giải thích một bài thơ dài cho các thành viên khác"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "read a new biography",
-            "vi": "đọc một cuốn tiểu sử mới"
+            "en": "read a new biography of a famous person",
+            "vi": "đọc một cuốn tiểu sử mới về người nổi tiếng"
           },
           "is_correct": false,
           "order": 3,
-          "text": "read a new biography",
-          "text_translation": "đọc một cuốn tiểu sử mới"
+          "text": "read a new biography of a famous person",
+          "text_translation": "đọc một cuốn tiểu sử mới về người nổi tiếng"
         }
       ],
       "evidence_segments": [
@@ -1136,46 +1136,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She doesn't like long poems.",
-            "vi": "Vì bà không thích thơ dài."
+            "en": "She doesn't like long poems, because she finds them boring to read.",
+            "vi": "Cô không thích thơ dài vì thấy đọc chán."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She doesn't like long poems.",
-          "text_translation": "Vì bà không thích thơ dài."
+          "text": "She doesn't like long poems, because she finds them boring to read.",
+          "text_translation": "Cô không thích thơ dài vì thấy đọc chán."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The meeting will be very short.",
-            "vi": "Vì buổi họp sẽ rất ngắn."
+            "en": "The meeting will be very short because of the heat.",
+            "vi": "Buổi họp sẽ rất ngắn vì trời nóng."
           },
           "is_correct": false,
           "order": 1,
-          "text": "The meeting will be very short.",
-          "text_translation": "Vì buổi họp sẽ rất ngắn."
+          "text": "The meeting will be very short because of the heat.",
+          "text_translation": "Buổi họp sẽ rất ngắn vì trời nóng."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to make members who are not enthusiastic about poetry feel more comfortable",
-            "vi": "để những thành viên không mặn mà với thơ thấy thoải mái hơn"
+            "en": "to help members who are not fans of poetry feel comfortable",
+            "vi": "để giúp các thành viên không thích thơ cảm thấy thoải mái"
           },
           "is_correct": true,
           "order": 2,
-          "text": "to make members who are not enthusiastic about poetry feel more comfortable",
-          "text_translation": "để những thành viên không mặn mà với thơ thấy thoải mái hơn"
+          "text": "to help members who are not fans of poetry feel comfortable",
+          "text_translation": "để giúp các thành viên không thích thơ cảm thấy thoải mái"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Only funny poems are allowed.",
-            "vi": "Vì chỉ được chọn thơ vui."
+            "en": "Only funny poems are allowed, and long ones are not.",
+            "vi": "Chỉ cho phép thơ hài hước, thơ dài thì không."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Only funny poems are allowed.",
-          "text_translation": "Vì chỉ được chọn thơ vui."
+          "text": "Only funny poems are allowed, and long ones are not.",
+          "text_translation": "Chỉ cho phép thơ hài hước, thơ dài thì không."
         }
       ],
       "evidence_segments": [
@@ -1215,35 +1215,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "They work at the café.",
-            "vi": "Làm ở quán cà phê."
+            "en": "They work at the café and serve free coffee.",
+            "vi": "Họ làm ở quán cà phê và phục vụ cà phê miễn phí."
           },
           "is_correct": false,
           "order": 1,
-          "text": "They work at the café.",
-          "text_translation": "Làm ở quán cà phê."
+          "text": "They work at the café and serve free coffee.",
+          "text_translation": "Họ làm ở quán cà phê và phục vụ cà phê miễn phí."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "They read poems aloud to the adults.",
-            "vi": "Đọc thơ cho người lớn nghe."
+            "en": "They read poems aloud to the adults at the club.",
+            "vi": "Họ đọc thơ to cho người lớn ở câu lạc bộ."
           },
           "is_correct": false,
           "order": 2,
-          "text": "They read poems aloud to the adults.",
-          "text_translation": "Đọc thơ cho người lớn nghe."
+          "text": "They read poems aloud to the adults at the club.",
+          "text_translation": "Họ đọc thơ to cho người lớn ở câu lạc bộ."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "They write a biography.",
-            "vi": "Viết một cuốn tiểu sử."
+            "en": "They write a biography of a young sailor.",
+            "vi": "Họ viết tiểu sử của một cô gái trẻ đi thuyền."
           },
           "is_correct": false,
           "order": 3,
-          "text": "They write a biography.",
-          "text_translation": "Viết một cuốn tiểu sử."
+          "text": "They write a biography of a young sailor.",
+          "text_translation": "Họ viết tiểu sử của một cô gái trẻ đi thuyền."
         }
       ],
       "evidence_segments": [
@@ -1272,13 +1272,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It was too quiet to hear.",
-            "vi": "Quá nhỏ, không nghe được."
+            "en": "It was too quiet for the children to hear.",
+            "vi": "Nó quá nhỏ nên bọn trẻ không nghe thấy."
           },
           "is_correct": false,
           "order": 0,
-          "text": "It was too quiet to hear.",
-          "text_translation": "Quá nhỏ, không nghe được."
+          "text": "It was too quiet for the children to hear.",
+          "text_translation": "Nó quá nhỏ nên bọn trẻ không nghe thấy."
         },
         {
           "id": "B",
@@ -1294,24 +1294,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "It was very short.",
-            "vi": "Rất ngắn."
+            "en": "It was very short, with no scary parts.",
+            "vi": "Nó rất ngắn, không có đoạn nào đáng sợ."
           },
           "is_correct": false,
           "order": 2,
-          "text": "It was very short.",
-          "text_translation": "Rất ngắn."
+          "text": "It was very short, with no scary parts.",
+          "text_translation": "Nó rất ngắn, không có đoạn nào đáng sợ."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "It was boring for the children.",
-            "vi": "Làm bọn trẻ chán."
+            "en": "It was boring for the children, who left.",
+            "vi": "Nó chán với bọn trẻ nên chúng bỏ đi."
           },
           "is_correct": false,
           "order": 3,
-          "text": "It was boring for the children.",
-          "text_translation": "Làm bọn trẻ chán."
+          "text": "It was boring for the children, who left.",
+          "text_translation": "Nó chán với bọn trẻ nên chúng bỏ đi."
         }
       ],
       "evidence_segments": [
@@ -1340,24 +1340,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "how to win a soccer tournament",
-            "vi": "cách vô địch một giải bóng đá"
+            "en": "how to win a summer soccer tournament by training six days a week",
+            "vi": "cách thắng giải bóng đá mùa hè bằng việc tập sáu ngày mỗi tuần"
           },
           "is_correct": false,
           "order": 0,
-          "text": "how to win a soccer tournament",
-          "text_translation": "cách vô địch một giải bóng đá"
+          "text": "how to win a summer soccer tournament by training six days a week",
+          "text_translation": "cách thắng giải bóng đá mùa hè bằng việc tập sáu ngày mỗi tuần"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "why Trevor left his school team",
-            "vi": "vì sao Trevor rời đội trường"
+            "en": "why Trevor left his school team for a better one",
+            "vi": "vì sao Trevor rời đội trường để sang đội tốt hơn"
           },
           "is_correct": false,
           "order": 1,
-          "text": "why Trevor left his school team",
-          "text_translation": "vì sao Trevor rời đội trường"
+          "text": "why Trevor left his school team for a better one",
+          "text_translation": "vì sao Trevor rời đội trường để sang đội tốt hơn"
         },
         {
           "id": "C",
@@ -1373,13 +1373,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "the best exercises for leg muscles",
-            "vi": "những bài tập tốt nhất cho cơ chân"
+            "en": "the best exercises for leg muscles after a summer injury",
+            "vi": "những bài tập tốt nhất cho cơ chân sau chấn thương mùa hè"
           },
           "is_correct": false,
           "order": 3,
-          "text": "the best exercises for leg muscles",
-          "text_translation": "những bài tập tốt nhất cho cơ chân"
+          "text": "the best exercises for leg muscles after a summer injury",
+          "text_translation": "những bài tập tốt nhất cho cơ chân sau chấn thương mùa hè"
         }
       ],
       "evidence_segments": [
@@ -1476,35 +1476,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The pain went away the next day.",
-            "vi": "Vì hôm sau hết đau."
+            "en": "The pain went away the next day after resting.",
+            "vi": "Cơn đau hết vào hôm sau khi nghỉ ngơi."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The pain went away the next day.",
-          "text_translation": "Vì hôm sau hết đau."
+          "text": "The pain went away the next day after resting.",
+          "text_translation": "Cơn đau hết vào hôm sau khi nghỉ ngơi."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "His coach told him so.",
-            "vi": "Vì huấn luyện viên bảo vậy."
+            "en": "His coach told him it was only a small problem.",
+            "vi": "Huấn luyện viên bảo cậu chỉ là chuyện nhỏ."
           },
           "is_correct": false,
           "order": 1,
-          "text": "His coach told him so.",
-          "text_translation": "Vì huấn luyện viên bảo vậy."
+          "text": "His coach told him it was only a small problem.",
+          "text_translation": "Huấn luyện viên bảo cậu chỉ là chuyện nhỏ."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "He had had the same pain before.",
-            "vi": "Vì cậu từng bị đau như thế."
+            "en": "He had had the same pain before, and it went away.",
+            "vi": "Cậu từng đau như vậy trước đây và nó tự hết."
           },
           "is_correct": false,
           "order": 2,
-          "text": "He had had the same pain before.",
-          "text_translation": "Vì cậu từng bị đau như thế."
+          "text": "He had had the same pain before, and it went away.",
+          "text_translation": "Cậu từng đau như vậy trước đây và nó tự hết."
         },
         {
           "id": "D",
@@ -1544,46 +1544,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "an injury that happens when you fall",
-            "vi": "chấn thương do ngã"
+            "en": "an injury that happens when you fall or twist something during a game",
+            "vi": "chấn thương xảy ra khi bạn ngã hoặc trẹo một chỗ trong trận đấu"
           },
           "is_correct": false,
           "order": 0,
-          "text": "an injury that happens when you fall",
-          "text_translation": "chấn thương do ngã"
+          "text": "an injury that happens when you fall or twist something during a game",
+          "text_translation": "chấn thương xảy ra khi bạn ngã hoặc trẹo một chỗ trong trận đấu"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "an injury from using the same part of the body again and again without enough rest",
+            "en": "an injury from using one body part again and again without enough rest",
             "vi": "chấn thương do dùng một bộ phận cơ thể lặp đi lặp lại mà không nghỉ đủ"
           },
           "is_correct": true,
           "order": 1,
-          "text": "an injury from using the same part of the body again and again without enough rest",
+          "text": "an injury from using one body part again and again without enough rest",
           "text_translation": "chấn thương do dùng một bộ phận cơ thể lặp đi lặp lại mà không nghỉ đủ"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "an injury that only adults get",
-            "vi": "chấn thương chỉ người lớn mới bị"
+            "en": "an injury that only adults get from working too hard",
+            "vi": "chấn thương chỉ người lớn bị do làm việc quá sức"
           },
           "is_correct": false,
           "order": 2,
-          "text": "an injury that only adults get",
-          "text_translation": "chấn thương chỉ người lớn mới bị"
+          "text": "an injury that only adults get from working too hard",
+          "text_translation": "chấn thương chỉ người lớn bị do làm việc quá sức"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "an injury from a hit to the head",
-            "vi": "chấn thương do va đầu"
+            "en": "an injury from a hit to the head in a game",
+            "vi": "chấn thương do bị đập vào đầu trong trận đấu"
           },
           "is_correct": false,
           "order": 3,
-          "text": "an injury from a hit to the head",
-          "text_translation": "chấn thương do va đầu"
+          "text": "an injury from a hit to the head in a game",
+          "text_translation": "chấn thương do bị đập vào đầu trong trận đấu"
         }
       ],
       "evidence_segments": [
@@ -1612,46 +1612,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They don't drink enough water.",
-            "vi": "Vì không uống đủ nước."
+            "en": "They don't drink enough water during long games and training.",
+            "vi": "Họ uống không đủ nước trong các trận đấu và buổi tập dài."
           },
           "is_correct": false,
           "order": 0,
-          "text": "They don't drink enough water.",
-          "text_translation": "Vì không uống đủ nước."
+          "text": "They don't drink enough water during long games and training.",
+          "text_translation": "Họ uống không đủ nước trong các trận đấu và buổi tập dài."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "They play only on weekends.",
-            "vi": "Vì chỉ chơi vào cuối tuần."
+            "en": "They play only on weekends, so their bodies get tired.",
+            "vi": "Họ chỉ chơi vào cuối tuần nên cơ thể mệt."
           },
           "is_correct": false,
           "order": 1,
-          "text": "They play only on weekends.",
-          "text_translation": "Vì chỉ chơi vào cuối tuần."
+          "text": "They play only on weekends, so their bodies get tired.",
+          "text_translation": "Họ chỉ chơi vào cuối tuần nên cơ thể mệt."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Their bones are still growing, and the areas near the ends are softer.",
-            "vi": "Vì xương vẫn đang phát triển, và phần gần hai đầu xương mềm hơn."
+            "en": "Their bones are still growing, so the ends are softer.",
+            "vi": "Xương của họ còn đang lớn nên phần đầu xương mềm hơn."
           },
           "is_correct": true,
           "order": 2,
-          "text": "Their bones are still growing, and the areas near the ends are softer.",
-          "text_translation": "Vì xương vẫn đang phát triển, và phần gần hai đầu xương mềm hơn."
+          "text": "Their bones are still growing, so the ends are softer.",
+          "text_translation": "Xương của họ còn đang lớn nên phần đầu xương mềm hơn."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "They don't listen to their coaches.",
-            "vi": "Vì không nghe lời huấn luyện viên."
+            "en": "They don't listen to their coaches when they feel pain.",
+            "vi": "Họ không nghe huấn luyện viên khi thấy đau."
           },
           "is_correct": false,
           "order": 3,
-          "text": "They don't listen to their coaches.",
-          "text_translation": "Vì không nghe lời huấn luyện viên."
+          "text": "They don't listen to their coaches when they feel pain.",
+          "text_translation": "Họ không nghe huấn luyện viên khi thấy đau."
         }
       ],
       "evidence_segments": [
@@ -1759,13 +1759,13 @@
         {
           "id": "B",
           "i18n": {
-            "en": "She should train twenty hours instead.",
-            "vi": "Bạn ấy nên tập hai mươi giờ."
+            "en": "She should train twenty hours instead of sixteen.",
+            "vi": "Cô nên tập hai mươi giờ thay vì mười sáu giờ."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She should train twenty hours instead.",
-          "text_translation": "Bạn ấy nên tập hai mươi giờ."
+          "text": "She should train twenty hours instead of sixteen.",
+          "text_translation": "Cô nên tập hai mươi giờ thay vì mười sáu giờ."
         },
         {
           "id": "C",
@@ -1781,13 +1781,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "The rule is only for soccer players.",
-            "vi": "Quy tắc chỉ dành cho cầu thủ bóng đá."
+            "en": "The rule is only for soccer players and runners.",
+            "vi": "Quy tắc này chỉ dành cho cầu thủ bóng đá và người chạy bộ."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The rule is only for soccer players.",
-          "text_translation": "Quy tắc chỉ dành cho cầu thủ bóng đá."
+          "text": "The rule is only for soccer players and runners.",
+          "text_translation": "Quy tắc này chỉ dành cho cầu thủ bóng đá và người chạy bộ."
         }
       ],
       "evidence_segments": [
@@ -1885,13 +1885,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "He doesn't like playing in finals.",
-            "vi": "Cậu không thích đá chung kết."
+            "en": "He doesn't like playing in finals with so many people.",
+            "vi": "Cậu không thích chơi các trận chung kết có quá nhiều người."
           },
           "is_correct": false,
           "order": 0,
-          "text": "He doesn't like playing in finals.",
-          "text_translation": "Cậu không thích đá chung kết."
+          "text": "He doesn't like playing in finals with so many people.",
+          "text_translation": "Cậu không thích chơi các trận chung kết có quá nhiều người."
         },
         {
           "id": "B",
@@ -1907,24 +1907,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "He wants to change sports.",
-            "vi": "Cậu muốn đổi môn."
+            "en": "He wants to change sports and stop playing soccer.",
+            "vi": "Cậu muốn đổi môn và thôi chơi bóng đá."
           },
           "is_correct": false,
           "order": 2,
-          "text": "He wants to change sports.",
-          "text_translation": "Cậu muốn đổi môn."
+          "text": "He wants to change sports and stop playing soccer.",
+          "text_translation": "Cậu muốn đổi môn và thôi chơi bóng đá."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "His team doesn't need him.",
-            "vi": "Đội không cần cậu."
+            "en": "His team doesn't need him because it has better players.",
+            "vi": "Đội không cần cậu vì có cầu thủ giỏi hơn."
           },
           "is_correct": false,
           "order": 3,
-          "text": "His team doesn't need him.",
-          "text_translation": "Đội không cần cậu."
+          "text": "His team doesn't need him because it has better players.",
+          "text_translation": "Đội không cần cậu vì có cầu thủ giỏi hơn."
         }
       ],
       "evidence_segments": [
@@ -1953,46 +1953,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Trevor and Tina both play on the school soccer team.",
-            "vi": "Trevor và Tina đều ở đội bóng của trường."
+            "en": "Trevor and Tina both play on the school soccer team this year.",
+            "vi": "Trevor và Tina năm nay đều chơi cho đội bóng đá của trường."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Trevor and Tina both play on the school soccer team.",
-          "text_translation": "Trevor và Tina đều ở đội bóng của trường."
+          "text": "Trevor and Tina both play on the school soccer team this year.",
+          "text_translation": "Trevor và Tina năm nay đều chơi cho đội bóng đá của trường."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Tina has stopped reading because of Trevor's injury.",
-            "vi": "Tina thôi đọc sách vì Trevor bị chấn thương."
+            "en": "Tina has stopped reading because she is busy helping Trevor recover.",
+            "vi": "Tina đã thôi đọc sách vì bận giúp Trevor hồi phục."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Tina has stopped reading because of Trevor's injury.",
-          "text_translation": "Tina thôi đọc sách vì Trevor bị chấn thương."
+          "text": "Tina has stopped reading because she is busy helping Trevor recover.",
+          "text_translation": "Tina đã thôi đọc sách vì bận giúp Trevor hồi phục."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Trevor goes to Harriet's book club.",
-            "vi": "Trevor tham gia câu lạc bộ sách của bà Harriet."
+            "en": "Trevor goes to Harriet's book club on Tuesdays with Nathan.",
+            "vi": "Trevor đến câu lạc bộ sách của Harriet vào thứ Ba cùng Nathan."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Trevor goes to Harriet's book club.",
-          "text_translation": "Trevor tham gia câu lạc bộ sách của bà Harriet."
+          "text": "Trevor goes to Harriet's book club on Tuesdays with Nathan.",
+          "text_translation": "Trevor đến câu lạc bộ sách của Harriet vào thứ Ba cùng Nathan."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Trevor has been resting an injury, and Tina has started a reading club with Amy.",
-            "vi": "Trevor đã phải nghỉ để chữa chấn thương, còn Tina lập một câu lạc bộ đọc với Amy."
+            "en": "Trevor is resting an injury, and Tina has started a club with Amy.",
+            "vi": "Trevor đang nghỉ vì chấn thương, còn Tina lập một câu lạc bộ cùng Amy."
           },
           "is_correct": true,
           "order": 3,
-          "text": "Trevor has been resting an injury, and Tina has started a reading club with Amy.",
-          "text_translation": "Trevor đã phải nghỉ để chữa chấn thương, còn Tina lập một câu lạc bộ đọc với Amy."
+          "text": "Trevor is resting an injury, and Tina has started a club with Amy.",
+          "text_translation": "Trevor đang nghỉ vì chấn thương, còn Tina lập một câu lạc bộ cùng Amy."
         }
       ],
       "evidence_segments": [

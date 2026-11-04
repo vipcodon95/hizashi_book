@@ -98,10 +98,10 @@
 **1. What is the blog post mainly about?**
 *(Bài blog chủ yếu nói về điều gì?)*
 
-- A. what Chloe has learned about using social media for her work *(những điều Chloe học được khi dùng mạng xã hội cho công việc)*
-- B. why Chloe left Harriet's café *(vì sao Chloe nghỉ việc ở quán Harriet's)*
-- C. how to draw a good logo *(cách vẽ một logo đẹp)*
-- D. how to get more sleep *(cách ngủ được nhiều hơn)*
+- A. what Chloe has learned about using social media for work *(những điều Chloe học được khi dùng mạng xã hội cho công việc)*
+- B. why Chloe left Harriet's café and became a designer on her own *(vì sao Chloe rời quán cà phê của Harriet để làm nhà thiết kế độc lập)*
+- C. how to draw a good logo for a small business client *(cách vẽ một logo đẹp cho khách hàng kinh doanh nhỏ)*
+- D. how to get more sleep and stay off the phone *(cách ngủ nhiều hơn và tránh xa điện thoại)*
 
 **2. How did most of Chloe's clients find her?**
 *(Phần lớn khách hàng tìm thấy Chloe bằng cách nào?)*
@@ -114,49 +114,49 @@
 **3. What does "I've been posting my work on social media every day since January" tell us?**
 *(Câu "I've been posting my work on social media every day since January" cho biết điều gì?)*
 
-- A. She posted only once in January. *(Cô chỉ đăng một lần hồi tháng Một.)*
+- A. She posted only once in January and then stopped. *(Cô chỉ đăng một lần vào tháng Giêng rồi dừng.)*
 - B. She started in January and is still doing it. *(Cô bắt đầu từ tháng Một và tới giờ vẫn đang làm.)*
-- C. She stopped posting in January. *(Cô ngừng đăng từ tháng Một.)*
-- D. She will start posting next January. *(Tháng Một tới cô mới bắt đầu đăng.)*
+- C. She stopped posting in January and never started again. *(Cô ngừng đăng từ tháng Giêng và không đăng lại.)*
+- D. She will start posting every day next January. *(Cô sẽ bắt đầu đăng mỗi ngày vào tháng Giêng năm sau.)*
 
 **4. What was Chloe's most popular post?**
 *(Bài đăng được yêu thích nhất của Chloe là gì?)*
 
-- A. a finished logo for a bakery *(một logo hoàn chỉnh cho tiệm bánh)*
-- B. a photo of Harriet's café *(một bức ảnh quán Harriet's)*
-- C. a warning about a fake account *(lời cảnh báo về tài khoản giả)*
+- A. a finished logo for a bakery in Oregon and its owner *(một logo hoàn chỉnh cho tiệm bánh ở Oregon và chủ tiệm)*
+- B. a photo of Harriet's café on her last day *(một bức ảnh quán cà phê của Harriet vào ngày cuối của cô)*
+- C. a warning about a fake account using her name *(một lời cảnh báo về tài khoản giả dùng tên cô)*
 - D. a short clip of her drawing twenty bad ideas *(một clip ngắn quay cảnh cô vẽ hai mươi ý tưởng tệ)*
 
 **5. Who became Chloe's biggest client?**
 *(Ai trở thành khách hàng lớn nhất của Chloe?)*
 
 - A. a bakery owner in Oregon *(chủ một tiệm bánh ở Oregon)*
-- B. Marco *(Marco)*
-- C. Leah *(Leah)*
-- D. a surf school in Maui *(một trường lướt sóng ở Maui)*
+- B. a client called Marco *(một khách hàng tên Marco)*
+- C. her friend Leah *(bạn cô là Leah)*
+- D. a surf school owner in Maui *(chủ một trường lướt sóng ở Maui)*
 
 **6. In the chat, what does Chloe mean by "Can't. Friday?"**
 *(Trong đoạn chat, Chloe muốn nói gì qua câu "Không được. Thứ Sáu nhé?")*
 
-- A. She can't work on Friday. *(Cô không làm việc được hôm thứ Sáu.)*
-- B. She doesn't want to meet Marco. *(Cô không muốn gặp Marco.)*
-- C. She can't meet on Thursday. Can they meet on Friday? *(Cô không gặp được hôm thứ Năm. Gặp hôm thứ Sáu được không?)*
-- D. She forgot what day it is. *(Cô quên hôm nay là thứ mấy.)*
+- A. She can't work on Friday, so she asks for Thursday. *(Cô không làm được vào thứ Sáu nên hỏi thứ Năm.)*
+- B. She doesn't want to meet Marco on Thursday or Friday. *(Cô không muốn gặp Marco vào thứ Năm hay thứ Sáu.)*
+- C. She can't meet on Thursday, but maybe Friday. *(Thứ Năm cô không gặp được, nhưng có thể thứ Sáu.)*
+- D. She forgot what day it is and asks Marco. *(Cô quên hôm nay là thứ mấy nên hỏi Marco.)*
 
 **7. What does Marco's question "Usual place?" suggest?**
 *(Câu hỏi "Chỗ cũ nhé?" của Marco cho thấy điều gì?)*
 
-- A. He has never met Chloe before. *(Anh chưa từng gặp Chloe.)*
+- A. He has never met Chloe before and wants to know her. *(Anh chưa từng gặp Chloe và muốn làm quen với cô.)*
 - B. He and Chloe have met at the same place before. *(Anh và Chloe từng gặp nhau ở cùng một chỗ.)*
-- C. He wants to meet online. *(Anh muốn gặp trên mạng.)*
-- D. He doesn't like the café. *(Anh không thích quán cà phê đó.)*
+- C. He wants to meet online instead of face-to-face. *(Anh muốn gặp trên mạng thay vì gặp trực tiếp.)*
+- D. He doesn't like the café where Chloe works. *(Anh không thích quán cà phê nơi Chloe làm việc.)*
 
 **8. Which of these does Chloe NOT do?**
 *(Chloe KHÔNG làm điều nào?)*
 
-- A. answer every comment *(trả lời mọi bình luận)*
+- A. answer every comment from her followers *(trả lời mọi bình luận từ người theo dõi)*
 - B. meet local clients face-to-face *(gặp trực tiếp khách hàng ở gần)*
-- C. warn her followers about a fake account *(cảnh báo người theo dõi về tài khoản giả)*
+- C. warn her followers about the fake account right away *(cảnh báo người theo dõi về tài khoản giả ngay lập tức)*
 - D. post a client's work before they say it's OK *(đăng sản phẩm của khách trước khi họ đồng ý)*
 
 **9. Why did nobody fall for the fake account, as far as Chloe knows?**
@@ -170,10 +170,10 @@
 **10. What does Chloe mean by "social media is a tool, not a life"?**
 *(Chloe muốn nói gì qua câu "mạng xã hội là một công cụ, chứ không phải cả cuộc sống"?)*
 
-- A. Social media is not useful for work. *(Mạng xã hội không có ích cho công việc.)*
-- B. It should help her work, but it should not fill her whole life. *(Nó nên giúp công việc, nhưng không nên chiếm hết cuộc sống.)*
-- C. She is going to close her accounts. *(Cô sắp xoá các tài khoản.)*
-- D. Only young people should use it. *(Chỉ người trẻ mới nên dùng nó.)*
+- A. Social media is not useful for work, so she has stopped using it. *(Mạng xã hội không có ích cho công việc nên cô đã thôi dùng.)*
+- B. It should help with work, not fill her whole life. *(Nó nên giúp ích cho công việc, chứ không chiếm cả cuộc sống.)*
+- C. She is going to close all of her accounts soon. *(Cô sắp đóng tất cả tài khoản của mình.)*
+- D. Only young people should use it for their work. *(Chỉ người trẻ mới nên dùng nó cho công việc.)*
 
 ---
 
@@ -219,9 +219,9 @@
 **11. What is the news report mainly about?**
 *(Bản tin chủ yếu nói về điều gì?)*
 
-- A. how storm drains are built *(cách xây cống thoát nước)*
-- B. a new park on Pine Street *(một công viên mới ở phố Pine)*
-- C. why firefighters charge money *(vì sao lính cứu hoả thu tiền)*
+- A. how storm drains are built and checked in San Diego *(cách cống thoát nước mưa được xây và kiểm tra ở San Diego)*
+- B. a new park on Pine Street for children and dogs *(một công viên mới trên phố Pine cho trẻ em và chó)*
+- C. why firefighters charge money for rescuing dogs *(vì sao lính cứu hoả thu tiền khi cứu chó)*
 - D. a dog rescue and a false story about it online *(một vụ cứu chó và câu chuyện sai sự thật về nó trên mạng)*
 
 **12. How long was Pepper in the storm drain?**
@@ -251,25 +251,25 @@
 **15. What does Ethan's comment about "the real heroes" show?**
 *(Lời Ethan nói về "người hùng thật sự" cho thấy điều gì?)*
 
-- A. He thinks the rescue was easy. *(Anh nghĩ vụ cứu hộ rất dễ.)*
-- B. He was angry with the children. *(Anh giận bọn trẻ.)*
+- A. He thinks the rescue was easy for the team. *(Anh nghĩ cuộc giải cứu rất dễ với đội.)*
+- B. He was angry with the children for going near the drain. *(Anh giận bọn trẻ vì lại gần cống.)*
 - C. He thinks the children deserve the most praise. *(Anh nghĩ bọn trẻ đáng được khen nhất.)*
-- D. He wants to be on TV. *(Anh muốn được lên ti vi.)*
+- D. He wants to be on TV to tell the story. *(Anh muốn lên TV để kể câu chuyện.)*
 
 **16. What did the online post claim?**
 *(Bài đăng trên mạng đã khẳng định điều gì?)*
 
-- A. The firefighters had charged the owner $500 for the rescue. *(Lính cứu hoả thu của chủ chó 500 đô.)*
-- B. The dog had been hurt badly. *(Chú chó bị thương nặng.)*
-- C. The children had lost the dog. *(Bọn trẻ làm lạc chú chó.)*
-- D. The drain had collapsed. *(Ống cống bị sập.)*
+- A. The owner had to pay $500 for the rescue. *(Chủ chó phải trả 500 đô la cho vụ cứu hộ.)*
+- B. The dog had been hurt badly in the drain. *(Con chó bị thương nặng trong cống.)*
+- C. The children had lost the dog in the park. *(Bọn trẻ đã làm lạc con chó trong công viên.)*
+- D. The drain had collapsed on the dog after the heavy rain. *(Cống đã sập xuống con chó sau trận mưa lớn.)*
 
 **17. In "It also said, supposedly from a witness, …", what does "supposedly" mean?**
 *(Trong câu "It also said, supposedly from a witness, …", "supposedly" nghĩa là gì?)*
 
-- A. certainly *(chắc chắn)*
-- B. secretly *(một cách bí mật)*
-- C. officially *(một cách chính thức)*
+- A. without any doubt at all *(hoàn toàn không chút nghi ngờ)*
+- B. in a secret way, so nobody knew *(một cách bí mật nên không ai biết)*
+- C. in an official way, from the government *(một cách chính thức, từ chính quyền)*
 - D. people say so, but it may not be true *(người ta nói vậy, nhưng có thể không đúng)*
 
 **18. What does "The witness turned out to be an account that someone had created the day before" suggest?**
@@ -283,18 +283,18 @@
 **19. Why should you be careful with posts that make you very angry?**
 *(Vì sao nên cẩn thận với những bài đăng làm bạn rất tức giận?)*
 
-- A. They are always about dogs. *(Vì chúng luôn nói về chó.)*
-- B. They are too long to read. *(Vì chúng quá dài.)*
+- A. They are always about dogs and other animals. *(Chúng luôn nói về chó và các loài vật khác.)*
+- B. They are too long for most people to read. *(Chúng quá dài với hầu hết mọi người.)*
 - C. Angry people often share without checking. *(Vì khi tức giận người ta hay chia sẻ mà không kiểm tra.)*
-- D. They come only from news sources. *(Vì chúng chỉ đến từ các nguồn tin chính thống.)*
+- D. They come only from news sources that people trust. *(Chúng chỉ đến từ các nguồn tin mà mọi người tin cậy.)*
 
 **20. Use both texts. What lesson do the two texts share?**
 *(Dựa vào cả hai bài. Hai bài có chung bài học nào?)*
 
-- A. Firefighters should use social media more. *(Lính cứu hoả nên dùng mạng xã hội nhiều hơn.)*
-- B. Fake accounts can spread false information, so we should check before we trust or share. *(Tài khoản giả có thể lan truyền thông tin sai, nên cần kiểm tra trước khi tin hay chia sẻ.)*
-- C. You should never post anything online. *(Đừng bao giờ đăng gì lên mạng.)*
-- D. Online messages are always too short. *(Tin nhắn trên mạng lúc nào cũng quá ngắn.)*
+- A. Firefighters should use social media more to tell people the truth. *(Lính cứu hoả nên dùng mạng xã hội nhiều hơn để nói sự thật.)*
+- B. Fake accounts can spread false information, so we should check first. *(Tài khoản giả có thể lan truyền thông tin sai nên cần kiểm tra trước.)*
+- C. You should never post anything online, because fake accounts will copy it. *(Bạn đừng bao giờ đăng gì lên mạng vì tài khoản giả sẽ sao chép.)*
+- D. Online messages are always too short to explain things well. *(Tin nhắn trên mạng luôn quá ngắn để giải thích rõ.)*
 
 ---
 

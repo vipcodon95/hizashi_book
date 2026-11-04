@@ -99,74 +99,74 @@
 **1. What is the main purpose of Chloe's document?**
 *(Mục đích chính của tài liệu Chloe soạn là gì?)*
 
-- A. to complain about Harriet's menu *(để phàn nàn về thực đơn của quán)*
-- B. to present three advertising ideas for Harriet's winter campaign *(để trình bày ba ý tưởng quảng cáo cho chiến dịch mùa đông của quán Harriet's)*
-- C. to sell a new logo *(để bán một logo mới)*
-- D. to invite Harriet to a book club *(để mời bà Harriet tới câu lạc bộ sách)*
+- A. to complain that Harriet's winter menu is too expensive *(để phàn nàn rằng thực đơn mùa đông của quán quá đắt)*
+- B. to present three ideas for Harriet's winter campaign *(để trình bày ba ý tưởng cho chiến dịch mùa đông của quán Harriet's)*
+- C. to sell Harriet a new logo and a new menu *(để bán cho bà Harriet một logo mới và thực đơn mới)*
+- D. to invite Harriet to join a book club in January *(để mời bà Harriet tham gia câu lạc bộ sách vào tháng Một)*
 
 **2. Why might Idea A be a problem?**
 *(Vì sao ý tưởng A có thể có vấn đề?)*
 
-- A. It is too long to remember. *(Vì nó quá dài, khó nhớ.)*
-- B. It is too expensive. *(Vì nó quá tốn kém.)*
-- C. It shows real customers. *(Vì nó dùng hình khách thật.)*
+- A. It is too long for people to remember. *(Vì nó quá dài, người ta khó nhớ.)*
+- B. It is too expensive for a small café. *(Vì nó quá tốn kém với một quán nhỏ.)*
+- C. It shows real customers who have never been inside. *(Vì nó dùng hình khách thật chưa từng vào quán.)*
 - D. It makes a claim that nobody can prove. *(Vì nó đưa ra một khẳng định không ai chứng minh được.)*
 
 **3. What does Idea B put the emphasis on?**
 *(Ý tưởng B nhấn mạnh vào điều gì?)*
 
 - A. the atmosphere of the café *(bầu không khí của quán)*
-- B. the price of the coffee *(giá cà phê)*
+- B. the price of the coffee and the cookies *(giá cà phê và bánh quy)*
 - C. the new apple pie *(món bánh táo mới)*
 - D. a free cookie *(chiếc bánh quy miễn phí)*
 
 **4. Why does Chloe write "(Of course, we would ask everyone first!)"?**
 *(Vì sao Chloe viết "(Tất nhiên, mình sẽ hỏi ý mọi người trước!)"?)*
 
-- A. She wants the regulars to pay for the poster. *(Vì cô muốn khách quen trả tiền làm áp phích.)*
-- B. She doesn't know the regulars. *(Vì cô không quen các khách quen.)*
-- C. She would get permission before she used real people's photos. *(Vì cô sẽ xin phép trước khi dùng ảnh của người thật.)*
-- D. She wants to ask them about the menu. *(Vì cô muốn hỏi họ về thực đơn.)*
+- A. She wants the regulars to pay for their part in the poster. *(Vì cô muốn khách quen trả tiền cho phần của họ trên áp phích.)*
+- B. She doesn't know the regulars well enough. *(Vì cô không quen các khách quen đủ rõ.)*
+- C. She will get permission before using real people. *(Vì cô sẽ xin phép trước khi dùng người thật.)*
+- D. She wants to ask them about the new menu first. *(Vì cô muốn hỏi họ về thực đơn mới trước.)*
 
 **5. What is the weakness of Idea B?**
 *(Điểm yếu của ý tưởng B là gì?)*
 
-- A. It is not honest. *(Nó không chân thật.)*
-- B. It is less likely to tempt new customers who have never been inside. *(Nó ít có khả năng hấp dẫn khách mới chưa từng vào quán.)*
-- C. It costs too much. *(Nó quá tốn kém.)*
-- D. It has no photos. *(Nó không có ảnh.)*
+- A. It is not honest about the café's atmosphere. *(Nó không chân thật về bầu không khí của quán.)*
+- B. It is less likely to tempt new customers. *(Nó ít có khả năng hấp dẫn khách mới.)*
+- C. It costs too much for a small café. *(Nó quá tốn kém với một quán nhỏ.)*
+- D. It has no photos of real people. *(Nó không có ảnh người thật.)*
 
 **6. What offer is part of Idea C?**
 *(Ưu đãi nào nằm trong ý tưởng C?)*
 
-- A. a free cookie with every drink during the first week of January *(tặng một chiếc bánh quy cho mỗi đồ uống trong tuần đầu tháng Một)*
-- B. free coffee for a month *(cà phê miễn phí cả tháng)*
-- C. half-price apple pie *(bánh táo giảm nửa giá)*
-- D. a free membership card *(thẻ thành viên miễn phí)*
+- A. a free cookie with every drink in the first week *(tặng một chiếc bánh quy cho mỗi đồ uống trong tuần đầu)*
+- B. free coffee for a whole month in January *(cà phê miễn phí cả tháng Một)*
+- C. half-price apple pie during the first week *(bánh táo giảm nửa giá trong tuần đầu)*
+- D. a free membership card for regular customers *(thẻ thành viên miễn phí cho khách quen)*
 
 **7. What does Chloe recommend?**
 *(Chloe đề xuất gì?)*
 
-- A. using only Idea A *(chỉ dùng ý tưởng A)*
-- B. using none of the ideas *(không dùng ý tưởng nào)*
-- C. using Idea A and Idea C *(dùng ý tưởng A và C)*
+- A. using only Idea A for the whole campaign *(chỉ dùng ý tưởng A cho cả chiến dịch)*
+- B. using none of the three ideas *(không dùng ý tưởng nào trong ba ý tưởng)*
+- C. using Idea A and Idea C together *(dùng ý tưởng A và C cùng nhau)*
 - D. combining Idea B and Idea C *(kết hợp ý tưởng B và C)*
 
 **8. In "it's less likely to tempt new customers", what does "tempt" mean?**
 *(Trong câu "it's less likely to tempt new customers", "tempt" nghĩa là gì?)*
 
-- A. frighten *(làm sợ)*
-- B. charge *(tính tiền)*
-- C. make someone want to do or have something *(khiến ai muốn làm hoặc có thứ gì đó)*
-- D. remember *(ghi nhớ)*
+- A. make someone feel afraid of it *(khiến ai đó sợ nó)*
+- B. ask someone to pay a fee for it *(bắt ai đó trả phí cho nó)*
+- C. make someone want something *(khiến ai đó muốn có thứ gì)*
+- D. help someone remember it later *(giúp ai đó nhớ nó về sau)*
 
 **9. Why does Harriet say no to Idea A?**
 *(Vì sao bà Harriet không chọn ý tưởng A?)*
 
-- A. She doesn't want to say anything about her café that she can't prove. *(Vì bà không muốn nói điều gì về quán mà bà không chứng minh được.)*
-- B. She thinks that it is too short. *(Vì bà thấy nó quá ngắn.)*
-- C. She doesn't like coffee. *(Vì bà không thích cà phê.)*
-- D. Chloe told her to say no. *(Vì Chloe bảo bà từ chối.)*
+- A. She doesn't want to say anything she can't prove. *(Vì bà không muốn nói điều gì bà không chứng minh được.)*
+- B. She thinks that it is too short to be memorable. *(Vì bà thấy nó quá ngắn để gây ấn tượng.)*
+- C. She does not drink coffee from other cafés. *(Vì bà không uống cà phê của quán khác.)*
+- D. Chloe told her to say no because it costs too much. *(Vì Chloe bảo bà từ chối do nó quá tốn kém.)*
 
 **10. What does Harriet's note "ask Dustin first. He's shy!" suggest?**
 *(Ghi chú "hỏi Dustin trước nhé. Cậu ấy nhút nhát lắm!" của bà Harriet hàm ý gì?)*
@@ -222,33 +222,33 @@
 *(Bài viết của Tracy chủ yếu nói về điều gì?)*
 
 - A. life in Washington *(cuộc sống ở Washington)*
-- B. the history of the San Diego Zoo *(lịch sử vườn thú San Diego)*
+- B. the history of the San Diego Zoo and its animals *(lịch sử vườn thú San Diego và các con vật)*
 - C. what Balboa Park offers, with tips for visitors *(những gì công viên Balboa có, kèm mẹo cho du khách)*
-- D. how to grow plants at home *(cách trồng cây ở nhà)*
+- D. how to grow plants at home in winter *(cách trồng cây ở nhà vào mùa đông)*
 
 **12. What has Tracy learned about people in Washington?**
 *(Tracy nhận ra điều gì về người ở Washington?)*
 
-- A. Many have heard of the San Diego Zoo, but few know that it is inside a huge park. *(Nhiều người biết vườn thú San Diego, nhưng ít ai biết nó nằm trong một công viên rộng lớn.)*
-- B. They have never heard of San Diego. *(Họ chưa từng nghe tới San Diego.)*
-- C. They visit Balboa Park every year. *(Năm nào họ cũng tới công viên Balboa.)*
-- D. They don't like zoos. *(Họ không thích vườn thú.)*
+- A. Many know the zoo, but few know it is in a huge park. *(Nhiều người biết vườn thú, nhưng ít ai biết nó nằm trong công viên rộng lớn.)*
+- B. They have never heard of San Diego or its zoo. *(Họ chưa từng nghe tới San Diego hay vườn thú ở đó.)*
+- C. They visit Balboa Park every year with their families. *(Năm nào họ cũng cùng gia đình tới công viên Balboa.)*
+- D. They don't like zoos or big city parks. *(Họ không thích vườn thú hay công viên lớn trong thành phố.)*
 
 **13. How big is Balboa Park?**
 *(Công viên Balboa rộng bao nhiêu?)*
 
 - A. about fifteen acres *(khoảng mười lăm mẫu Anh)*
-- B. as big as the zoo *(bằng vườn thú)*
-- C. about 1,915 acres *(khoảng 1.915 mẫu Anh)*
+- B. as big as the San Diego Zoo *(rộng bằng vườn thú San Diego)*
+- C. about 1,915 acres in total *(khoảng 1.915 mẫu Anh tất cả)*
 - D. about 1,200 acres *(khoảng 1.200 mẫu Anh)*
 
 **14. Why were many of the park's most prominent buildings built?**
 *(Nhiều toà nhà nổi bật nhất của công viên được xây để làm gì?)*
 
-- A. for the zoo *(cho vườn thú)*
+- A. for the zoo and the animals that live there *(cho vườn thú và các con vật sống ở đó)*
 - B. for a large international fair in 1915 *(cho một hội chợ quốc tế lớn năm 1915)*
-- C. for an old movie *(cho một bộ phim xưa)*
-- D. for the university *(cho trường đại học)*
+- C. for an old movie about a fair *(cho một bộ phim xưa về hội chợ)*
+- D. for the university near the park *(cho trường đại học gần công viên)*
 
 **15. In "which is clearly visible from many parts of the city", what does "clearly visible" mean?**
 *(Trong câu "which is clearly visible from many parts of the city", "clearly visible" nghĩa là gì?)*
@@ -270,9 +270,9 @@
 *(Khi nào có thể nghe hoà nhạc miễn phí trong công viên?)*
 
 - A. on Sunday afternoons *(chiều Chủ nhật)*
-- B. every evening *(mỗi buổi tối)*
+- B. every evening after dark *(mỗi buổi tối sau khi trời tối)*
 - C. only in the summer *(chỉ vào mùa hè)*
-- D. on Saturday mornings *(sáng thứ Bảy)*
+- D. on Saturday mornings in winter *(sáng thứ Bảy vào mùa đông)*
 
 **18. Which of these is NOT one of Tracy's tips?**
 *(Điều nào KHÔNG nằm trong các mẹo của Tracy?)*
@@ -293,9 +293,9 @@
 **20. Use both texts. Tracy is home for winter break. Which offer from Chloe's ideas could she enjoy in early January?**
 *(Dựa vào cả hai bài. Tracy đang về nghỉ đông. Cô có thể hưởng ưu đãi nào trong các ý tưởng của Chloe vào đầu tháng Một?)*
 
-- A. free museum tickets *(vé bảo tàng miễn phí)*
-- B. a free tram ride to Harriet's *(đi xe điện miễn phí tới quán Harriet's)*
-- C. half-price coffee all winter *(cà phê giảm nửa giá cả mùa đông)*
+- A. free museum tickets for students *(vé bảo tàng miễn phí cho sinh viên)*
+- B. a free tram ride to Harriet's café *(đi xe điện miễn phí tới quán Harriet's)*
+- C. half-price coffee for the whole winter at Harriet's *(cà phê giảm nửa giá suốt mùa đông ở quán Harriet's)*
 - D. a free cookie with every drink at Harriet's *(bánh quy miễn phí kèm mỗi đồ uống ở quán Harriet's)*
 
 ---

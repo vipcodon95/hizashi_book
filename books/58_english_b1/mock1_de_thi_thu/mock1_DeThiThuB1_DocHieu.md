@@ -89,10 +89,10 @@
 **1. What is the main purpose of the notice?**
 *(Mục đích chính của thông báo là gì?)*
 
-- A. to tell students about a new swimming pool *(để báo học sinh về hồ bơi mới)*
-- B. to invite students to a fair where they can find summer jobs and volunteer work *(để mời học sinh tới hội chợ tìm việc làm hè và việc tình nguyện)*
-- C. to explain how to get a work permit *(để giải thích cách xin giấy phép lao động)*
-- D. to ask parents to help at the school *(để nhờ phụ huynh giúp trường)*
+- A. to tell students about a new swimming pool and lifeguard classes *(để báo học sinh về hồ bơi mới và lớp học cứu hộ)*
+- B. to invite students to a job and volunteer fair *(để mời học sinh tới hội chợ việc làm và tình nguyện)*
+- C. to explain how to get a work permit at the school office *(để giải thích cách xin giấy phép lao động ở văn phòng trường)*
+- D. to ask parents to help at the fair in the school gym *(để nhờ phụ huynh giúp ở hội chợ trong nhà thể chất)*
 
 **2. How should visitors enter the gym?**
 *(Khách tới nên vào nhà thể chất bằng lối nào?)*
@@ -106,9 +106,9 @@
 *(Ai được tới hội chợ?)*
 
 - A. Westview students aged 14 and older, and their parents *(học sinh Westview từ 14 tuổi trở lên, và phụ huynh)*
-- B. only students who are 18 or older *(chỉ học sinh từ 18 tuổi)*
-- C. anyone in San Diego *(bất kỳ ai ở San Diego)*
-- D. only students who already have a job *(chỉ học sinh đã có việc làm)*
+- B. only students who are 18 or older and have a work permit *(chỉ học sinh từ 18 tuổi và có giấy phép lao động)*
+- C. anyone in San Diego who is looking for a summer job *(bất kỳ ai ở San Diego đang tìm việc làm hè)*
+- D. only students who already have a summer job lined up *(chỉ học sinh đã có sẵn việc làm hè)*
 
 **4. Which of these is NOT mentioned as something at the fair?**
 *(Điều nào KHÔNG được nhắc tới ở hội chợ?)*
@@ -145,10 +145,10 @@
 **8. In "meet more than thirty local employers", what are "employers"?**
 *(Trong câu "meet more than thirty local employers", "employers" là ai?)*
 
-- A. students who need a job *(học sinh cần việc)*
-- B. people or companies that pay others to work for them *(người hoặc công ty trả lương cho người khác làm việc cho mình)*
-- C. teachers at the school *(giáo viên trong trường)*
-- D. parents who visit the fair *(phụ huynh tới hội chợ)*
+- A. students who need a job for the whole summer *(học sinh cần việc làm suốt mùa hè)*
+- B. people or companies that pay others to work *(người hoặc công ty trả lương cho người khác làm việc)*
+- C. teachers at the school who help with interviews *(giáo viên trong trường giúp phỏng vấn)*
+- D. parents who visit the fair to find jobs for children *(phụ huynh tới hội chợ tìm việc cho con)*
 
 **9. Why should students bring a list of the days when they are free?**
 *(Vì sao học sinh nên mang danh sách những ngày mình rảnh?)*
@@ -161,10 +161,10 @@
 **10. What can a student who misses the fair do?**
 *(Học sinh lỡ hội chợ có thể làm gì?)*
 
-- A. come to the gym on May 18 *(tới nhà thể chất ngày 18/5)*
-- B. call Sunset Bay Hospital *(gọi Bệnh viện Sunset Bay)*
-- C. see the list of employers on the school website from May 18 *(xem danh sách nhà tuyển dụng trên trang web trường từ 18/5)*
-- D. wait for next year's fair *(chờ hội chợ năm sau)*
+- A. come to the gym on May 18 and meet the employers there *(tới nhà thể chất ngày 18/5 và gặp nhà tuyển dụng ở đó)*
+- B. call Sunset Bay Hospital to ask for a job form *(gọi Bệnh viện Sunset Bay để xin mẫu đơn xin việc)*
+- C. see the list of employers on the website after May 18 *(xem danh sách nhà tuyển dụng trên trang web sau ngày 18/5)*
+- D. wait for next year's fair at Westview High *(chờ hội chợ năm sau ở Westview High)*
 
 ---
 
@@ -223,18 +223,18 @@
 **12. Why does Ethan think that small mistakes are a serious problem?**
 *(Theo Ethan, vì sao những lỗi nhỏ lại là chuyện nghiêm trọng?)*
 
-- A. They cost time, and in an emergency, every minute counts. *(Vì chúng làm mất thời gian, mà khi khẩn cấp thì từng phút đều quý.)*
-- B. They make the operators angry. *(Vì chúng làm tổng đài viên tức giận.)*
-- C. They cost callers money. *(Vì người gọi bị tốn tiền.)*
-- D. They break the phone lines. *(Vì chúng làm hỏng đường dây.)*
+- A. They cost time when every minute counts. *(Vì chúng làm mất thời gian khi từng phút đều quý.)*
+- B. They make the operators angry with the callers. *(Vì chúng làm tổng đài viên tức giận với người gọi.)*
+- C. They cost callers money for every minute they talk. *(Vì người gọi tốn tiền cho mỗi phút nói chuyện.)*
+- D. They break the phone lines for other callers. *(Vì chúng làm hỏng đường dây của người gọi khác.)*
 
 **13. What should you tell the operator first?**
 *(Bạn nên nói gì với tổng đài viên trước tiên?)*
 
-- A. your name *(tên của bạn)*
-- B. what happened *(chuyện gì đã xảy ra)*
+- A. your name and age *(tên và tuổi của bạn)*
+- B. what happened to you *(chuyện gì đã xảy ra với bạn)*
 - C. where you are *(bạn đang ở đâu)*
-- D. how you feel *(bạn cảm thấy thế nào)*
+- D. how you feel right now *(bạn đang cảm thấy thế nào)*
 
 **14. What should you do if you don't know the address?**
 *(Nếu không biết địa chỉ, bạn nên làm gì?)*
@@ -271,18 +271,18 @@
 **18. Why does Ethan suggest saving the non-emergency number in your phone today?**
 *(Vì sao Ethan khuyên lưu số không khẩn cấp vào điện thoại ngay hôm nay?)*
 
-- A. The number will change soon. *(Vì số này sắp đổi.)*
-- B. It is the only way to text 911. *(Vì đó là cách duy nhất để nhắn tin tới 911.)*
-- C. So you have it ready and do not use 911 for small problems. *(Để có sẵn số và không gọi 911 cho chuyện nhỏ.)*
-- D. Firefighters will call you on it. *(Vì lính cứu hoả sẽ gọi bạn qua số đó.)*
+- A. The number will change soon, so you must save it. *(Vì số này sắp đổi nên bạn phải lưu lại.)*
+- B. It is the only way to text 911 from a phone. *(Vì đó là cách duy nhất để nhắn tin tới 911 từ điện thoại.)*
+- C. So it is ready when you have a small problem. *(Để có sẵn khi bạn gặp một chuyện nhỏ.)*
+- D. Firefighters will call you on it after the emergency. *(Vì lính cứu hoả sẽ gọi bạn qua số đó sau sự cố.)*
 
 **19. What does Ethan mean by "call if you can, and text only if you can't"?**
 *(Ethan muốn nói gì qua câu "gọi được thì hãy gọi, chỉ nhắn tin khi không gọi được"?)*
 
-- A. Texting is always better than calling. *(Nhắn tin lúc nào cũng tốt hơn gọi.)*
-- B. You should both call and text every time. *(Lần nào cũng nên vừa gọi vừa nhắn.)*
-- C. Texting 911 is not possible in San Diego. *(Ở San Diego không nhắn tin tới 911 được.)*
-- D. A voice call is better, and texting is for when it isn't safe to speak. *(Gọi điện tốt hơn, còn nhắn tin dành cho lúc không thể nói chuyện an toàn.)*
+- A. Texting is always better than calling because it is quieter. *(Nhắn tin lúc nào cũng tốt hơn gọi vì yên lặng hơn.)*
+- B. You should both call and text, one after the other. *(Nên vừa gọi vừa nhắn, cái này tới cái kia.)*
+- C. Texting 911 is not possible in San Diego at the moment. *(Hiện giờ ở San Diego chưa nhắn tin tới 911 được.)*
+- D. A call is better; texting is for when you can't speak. *(Gọi điện tốt hơn; nhắn tin dành cho lúc bạn không thể nói.)*
 
 **20. What is Ethan's attitude in the blog post?**
 *(Thái độ của Ethan trong bài blog thế nào?)*
@@ -337,26 +337,26 @@
 **21. What is the main idea of the article?**
 *(Ý chính của bài báo là gì?)*
 
-- A. Teenagers should not use phones. *(Tuổi teen không nên dùng điện thoại.)*
-- B. All schools should start at noon. *(Mọi trường nên vào học lúc trưa.)*
-- C. Teenagers' body clocks change, so going to bed late is not only about being lazy. *(Đồng hồ sinh học của tuổi teen thay đổi, nên việc ngủ muộn không chỉ do lười.)*
-- D. Parents need more sleep than teenagers. *(Phụ huynh cần ngủ nhiều hơn tuổi teen.)*
+- A. Teenagers should not use phones in the evening or at night. *(Tuổi teen không nên dùng điện thoại vào buổi tối hay ban đêm.)*
+- B. All schools should start at noon so that teenagers sleep more. *(Mọi trường nên vào học lúc trưa để tuổi teen ngủ nhiều hơn.)*
+- C. Teen body clocks change, so late nights aren't just laziness. *(Đồng hồ sinh học của tuổi teen thay đổi, nên thức khuya không chỉ do lười.)*
+- D. Parents need more sleep than teenagers because they work. *(Phụ huynh cần ngủ nhiều hơn tuổi teen vì phải đi làm.)*
 
 **22. Why do many parents think teenagers stay up late?**
 *(Vì sao nhiều phụ huynh nghĩ tuổi teen thức khuya?)*
 
-- A. Their body clock moves later. *(Vì đồng hồ sinh học lùi muộn.)*
-- B. They are lazy or spend too much time on their phones. *(Vì lười hoặc dùng điện thoại quá nhiều.)*
-- C. They have too much homework. *(Vì có quá nhiều bài tập.)*
-- D. They are not tired. *(Vì không thấy mệt.)*
+- A. Their body clock moves later in the evening. *(Vì đồng hồ sinh học lùi muộn vào buổi tối.)*
+- B. They are lazy or use their phones too much. *(Vì lười hoặc dùng điện thoại quá nhiều.)*
+- C. They have too much homework every night. *(Vì mỗi tối có quá nhiều bài tập.)*
+- D. They are not tired because they sleep all day. *(Vì không thấy mệt do ngủ cả ngày.)*
 
 **23. What is melatonin?**
 *(Melatonin là gì?)*
 
-- A. a kind of phone light *(một loại ánh sáng điện thoại)*
-- B. a sleep habit *(một thói quen ngủ)*
-- C. a part of the brain *(một phần của não)*
-- D. a chemical that the body produces when it gets dark *(một chất cơ thể tiết ra khi trời tối)*
+- A. a kind of light that comes from a phone screen *(một loại ánh sáng phát ra từ màn hình điện thoại)*
+- B. a sleep habit that teenagers learn at school *(một thói quen ngủ mà tuổi teen học ở trường)*
+- C. a part of the brain that controls the body clock *(một phần của não điều khiển đồng hồ sinh học)*
+- D. a chemical that the body makes in the dark *(một chất cơ thể tạo ra trong bóng tối)*
 
 **24. How does the body clock change during the teenage years?**
 *(Ở tuổi teen, đồng hồ sinh học thay đổi thế nào?)*
@@ -377,9 +377,9 @@
 **26. In "after five school days, the missing hours add up", what does "add up" mean?**
 *(Trong câu "after five school days, the missing hours add up", "add up" nghĩa là gì?)*
 
-- A. disappear *(biến mất)*
-- B. are easy to count *(dễ đếm)*
-- C. are slowly made up *(dần được bù lại)*
+- A. disappear after a good night's sleep *(biến mất sau một đêm ngủ ngon)*
+- B. are easy to count on one hand *(dễ đếm trên một bàn tay)*
+- C. are slowly made up on weekends *(dần được bù lại vào cuối tuần)*
 - D. grow into a large amount together *(cộng dồn thành một con số lớn)*
 
 **27. Which of these is NOT given as a result of too little sleep?**
@@ -393,18 +393,18 @@
 **28. How can screens make it harder to fall asleep?**
 *(Màn hình khiến ta khó ngủ hơn bằng cách nào?)*
 
-- A. They make the room too hot. *(Chúng làm phòng quá nóng.)*
-- B. They use too much electricity. *(Chúng tốn quá nhiều điện.)*
-- C. Their light tells the brain it is still day, so melatonin comes later. *(Ánh sáng của chúng báo cho não rằng trời vẫn sáng, nên melatonin tiết ra muộn hơn.)*
-- D. They make loud noises. *(Chúng phát ra tiếng ồn lớn.)*
+- A. They make the room too hot, and teenagers can't relax or sleep in it. *(Chúng làm phòng quá nóng, và tuổi teen không thư giãn hay ngủ nổi.)*
+- B. They use too much electricity in the bedroom. *(Chúng tốn quá nhiều điện trong phòng ngủ.)*
+- C. Their light tells the brain it is day, so melatonin is late. *(Ánh sáng của chúng báo cho não là ban ngày, nên melatonin tiết ra muộn.)*
+- D. They make loud noises that keep the mind awake. *(Chúng phát ra tiếng ồn lớn làm đầu óc tỉnh táo.)*
 
 **29. Why does the writer mention "sleeping until noon on Sunday"?**
 *(Vì sao người viết nhắc tới chuyện "ngủ tới trưa Chủ nhật"?)*
 
-- A. to say that weekends are for sleeping *(để nói cuối tuần là để ngủ)*
-- B. to show that changing your sleep times on weekends makes school days harder *(để cho thấy việc đổi giờ ngủ vào cuối tuần làm những ngày đi học khó hơn)*
-- C. to tell teenagers to get up at noon every day *(để bảo tuổi teen ngày nào cũng dậy lúc trưa)*
-- D. to give an example of a good habit *(để đưa ví dụ về một thói quen tốt)*
+- A. to say that weekends are for sleeping as long as you want to *(để nói cuối tuần là để ngủ bao lâu tuỳ thích)*
+- B. to show that weekend sleep changes make school days harder *(để cho thấy đổi giờ ngủ cuối tuần làm ngày đi học khó hơn)*
+- C. to tell teenagers to get up at noon every day this week *(để bảo tuổi teen tuần này ngày nào cũng dậy lúc trưa)*
+- D. to give an example of a good habit for teenagers *(để đưa ví dụ về một thói quen tốt cho tuổi teen)*
 
 **30. What can we guess about the schools that moved their start times later?**
 *(Có thể suy ra điều gì về những trường đã lùi giờ vào học?)*
@@ -456,10 +456,10 @@
 **31. What is the main purpose of the article?**
 *(Mục đích chính của bài là gì?)*
 
-- A. to tell the history of the Golden Gate Bridge and some surprising facts about it *(để kể lịch sử cầu Cổng Vàng và vài sự thật thú vị về nó)*
-- B. to explain how to paint a bridge *(để giải thích cách sơn một cây cầu)*
-- C. to compare ferries and bridges *(để so sánh phà với cầu)*
-- D. to warn drivers about fog *(để cảnh báo tài xế về sương mù)*
+- A. to tell the history of the Golden Gate Bridge *(để kể lịch sử cầu Cổng Vàng)*
+- B. to explain how to paint a bridge in strong wind *(để giải thích cách sơn một cây cầu khi gió mạnh)*
+- C. to compare ferries and bridges across the bay *(để so sánh phà với cầu qua vịnh)*
+- D. to warn drivers about fog on the bridge *(để cảnh báo tài xế về sương mù trên cầu)*
 
 **32. How did people travel north from the city before the bridge?**
 *(Trước khi có cầu, người ta đi về phía bắc thành phố bằng cách nào?)*
@@ -488,10 +488,10 @@
 **35. What was special about the bridge when it opened?**
 *(Cây cầu có gì đặc biệt khi khánh thành?)*
 
-- A. It was the first bridge in California. *(Nó là cây cầu đầu tiên ở California.)*
-- B. It had no towers. *(Nó không có tháp.)*
-- C. Its main span was the longest of any bridge in the world. *(Nhịp chính của nó dài nhất thế giới.)*
-- D. It was painted gold. *(Nó được sơn màu vàng.)*
+- A. It was the first bridge in California to have towers. *(Nó là cây cầu đầu tiên ở California có tháp.)*
+- B. It had no towers, so ships could pass easily. *(Nó không có tháp nên tàu đi qua dễ dàng.)*
+- C. Its main span was the longest in the world. *(Nhịp chính của nó dài nhất thế giới.)*
+- D. It was painted gold, like its name says. *(Nó được sơn màu vàng như tên gọi của nó.)*
 
 **36. In "a safety net was hung under the bridge, which was unusual at the time", what does "unusual" mean?**
 *(Trong câu "a safety net was hung under the bridge, which was unusual at the time", "unusual" nghĩa là gì?)*
@@ -512,10 +512,10 @@
 **38. Why did the architect choose the orange color?**
 *(Vì sao kiến trúc sư chọn màu cam?)*
 
-- A. It fit well with the hills and the sky, and it was easy to see in the fog. *(Vì nó hợp với đồi núi, bầu trời và dễ thấy trong sương mù.)*
-- B. It was the cheapest paint. *(Vì đó là loại sơn rẻ nhất.)*
-- C. Ships asked for it. *(Vì tàu thuyền yêu cầu.)*
-- D. It protects steel better than any other color. *(Vì nó bảo vệ thép tốt hơn mọi màu khác.)*
+- A. It fit the hills and the sky and was easy to see in the fog. *(Vì nó hợp với đồi núi, bầu trời và dễ thấy trong sương mù.)*
+- B. It was the cheapest paint that the builders could find in 1937. *(Vì đó là loại sơn rẻ nhất mà thợ xây tìm được năm 1937.)*
+- C. Ships asked for it so that they could see the bridge. *(Vì tàu thuyền yêu cầu để họ nhìn thấy cây cầu.)*
+- D. It protects steel better than any other color of paint. *(Vì nó bảo vệ thép tốt hơn mọi màu sơn khác.)*
 
 **39. Which of these is TRUE about painting the bridge today?**
 *(Điều nào ĐÚNG về việc sơn cầu ngày nay?)*

@@ -86,26 +86,26 @@
 **1. What is the text mainly about?**
 *(Bài đọc chủ yếu nói về điều gì?)*
 
-- A. Tina's plan to become a chef *(dự định làm đầu bếp của Tina)*
+- A. Tina's plan to learn cooking from a famous chef *(dự định học nấu ăn từ một đầu bếp nổi tiếng của Tina)*
 - B. Dad's month of cooking healthy food at home *(một tháng bố nấu món lành mạnh ở nhà)*
-- C. the best pizza in San Diego *(món pizza ngon nhất San Diego)*
-- D. Biscuit's favorite food *(món ăn khoái khẩu của Biscuit)*
+- C. a month of eating the best takeaway pizza in San Diego *(một tháng ăn món pizza mang về ngon nhất San Diego)*
+- D. Biscuit's habit of waiting in the kitchen for food *(thói quen chờ đồ ăn trong bếp của Biscuit)*
 
 **2. What was Dad's promise this year?**
 *(Năm nay bố hứa điều gì?)*
 
-- A. to stop eating meat *(thôi ăn thịt)*
-- B. to cook only salmon *(chỉ nấu cá hồi)*
-- C. to eat out every weekend *(cuối tuần nào cũng ăn ngoài)*
+- A. to stop eating meat for the whole month *(bỏ ăn thịt trong cả tháng)*
+- B. to cook only salmon and broccoli every evening *(chỉ nấu cá hồi và súp lơ xanh mỗi tối)*
+- C. to eat out at a restaurant every weekend *(đi ăn nhà hàng mỗi cuối tuần)*
 - D. to stop ordering takeaway pizza for a month *(cả tháng không gọi pizza mang về)*
 
 **3. What does "Trevor lost his appetite as soon as he heard it" show?**
 *(Câu "Trevor vừa nghe xong là mất hết hứng ăn" cho thấy điều gì?)*
 
 - A. Trevor was not happy about Dad's plan. *(Trevor không vui với kế hoạch của bố.)*
-- B. Trevor was sick. *(Trevor bị ốm.)*
-- C. Trevor had already eaten dinner. *(Trevor đã ăn tối rồi.)*
-- D. Trevor wanted to help Dad cook. *(Trevor muốn giúp bố nấu ăn.)*
+- B. Trevor was sick and could not eat dinner. *(Trevor bị ốm nên không ăn tối được.)*
+- C. Trevor had already eaten a big dinner. *(Trevor đã ăn một bữa tối thật no rồi.)*
+- D. Trevor wanted to help Dad cook the meals. *(Trevor muốn giúp bố nấu các bữa ăn.)*
 
 **4. Why did Trevor drink three glasses of milk?**
 *(Vì sao Trevor uống ba cốc sữa?)*
@@ -113,55 +113,55 @@
 - A. He was very thirsty after practice. *(Vì anh rất khát sau buổi tập.)*
 - B. Milk is good for the heart. *(Vì sữa tốt cho tim.)*
 - C. The curry was very spicy. *(Vì món cà ri rất cay.)*
-- D. Dad asked him to. *(Vì bố bảo anh uống.)*
+- D. Dad told him to drink more milk. *(Bố bảo cậu uống thêm sữa.)*
 
 **5. What did Mom say about salmon?**
 *(Mẹ nói gì về cá hồi?)*
 
-- A. It is too expensive. *(Nó quá đắt.)*
+- A. It costs too much, so the family can only have it once a month. *(Nó quá đắt nên cả nhà chỉ ăn được mỗi tháng một lần.)*
 - B. It is full of nutrients that are good for the heart and brain. *(Nó nhiều chất dinh dưỡng tốt cho tim và não.)*
-- C. It tastes better than broccoli. *(Nó ngon hơn bông cải xanh.)*
-- D. It should be eaten raw. *(Nên ăn sống.)*
+- C. It tastes much better than broccoli, so Trevor likes it. *(Nó ngon hơn súp lơ xanh nhiều nên Trevor thích nó.)*
+- D. It must be cooked for a long time before eating. *(Phải nấu thật lâu trước khi ăn.)*
 
 **6. What does Dad mean by "it's called more broccoli"?**
 *(Bố muốn nói gì khi đáp "nó tên là thêm bông cải xanh"?)*
 
 - A. He is joking that there is no substitute, so Trevor must eat it. *(Bố đùa rằng chẳng có món nào thay được, nên Trevor phải ăn.)*
-- B. He is going to buy a new vegetable. *(Bố sắp mua một loại rau mới.)*
-- C. He does not like broccoli either. *(Bố cũng không thích bông cải xanh.)*
-- D. He forgot the name of the vegetable. *(Bố quên tên loại rau đó.)*
+- B. He is telling Trevor about a new vegetable that he will buy tomorrow. *(Bố đang nói với Trevor về một loại rau mới mà ngày mai bố sẽ mua.)*
+- C. He does not like broccoli either, so he will cook less of it. *(Bố cũng không thích súp lơ xanh nên sẽ nấu ít đi.)*
+- D. He forgot the name of the vegetable and wants Trevor to help him. *(Bố quên tên loại rau đó và muốn Trevor giúp bố nhớ.)*
 
 **7. In "Dad's cabbage soup was so tasteless that…", what does "tasteless" mean?**
 *(Trong câu "Dad's cabbage soup was so tasteless that…", "tasteless" nghĩa là gì?)*
 
 - A. very spicy *(rất cay)*
-- B. too hot to eat *(nóng quá không ăn được)*
-- C. very sweet *(rất ngọt)*
+- B. full of too much sugar *(có quá nhiều đường)*
+- C. too sweet to finish *(ngọt đến mức không ăn hết nổi)*
 - D. without much flavor *(nhạt, chẳng có vị gì)*
 
 **8. Why did the family use frozen vegetables on busy days?**
 *(Vì sao những hôm bận, nhà dùng rau đông lạnh?)*
 
-- A. They are cheaper than pizza. *(Vì chúng rẻ hơn pizza.)*
-- B. Fresh vegetables were not in the stores. *(Vì cửa hàng hết rau tươi.)*
-- C. Cooking every night is tiring, and frozen vegetables are often just as nutritious. *(Vì nấu mỗi tối rất mệt, mà rau đông lạnh thường bổ không kém.)*
-- D. Trevor does not like fresh vegetables. *(Vì Trevor không thích rau tươi.)*
+- A. The stores near the house had no fresh vegetables, so Dad had no choice. *(Các cửa hàng gần nhà không có rau tươi nên bố không còn lựa chọn nào khác.)*
+- B. Fresh vegetables made Trevor sick, so Mom stopped buying them. *(Rau tươi làm Trevor bị ốm nên mẹ thôi không mua nữa.)*
+- C. Cooking is tiring, and frozen vegetables are often just as nutritious. *(Nấu ăn rất mệt, và rau đông lạnh thường bổ dưỡng không kém.)*
+- D. Dad wanted to try a new dish from a cooking show on TV. *(Bố muốn thử một món mới từ chương trình nấu ăn trên TV.)*
 
 **9. Which of these is TRUE at the end of the month?**
 *(Điều nào ĐÚNG vào cuối tháng?)*
 
 - A. Trevor says that he likes salmon now. *(Trevor nói giờ anh thích cá hồi.)*
-- B. The family ordered pizza once. *(Cả nhà gọi pizza một lần.)*
-- C. Mom felt more tired. *(Mẹ thấy mệt hơn.)*
-- D. Dad wants to stop cooking. *(Bố muốn thôi nấu ăn.)*
+- B. The family ordered pizza once on a busy day. *(Cả nhà đã gọi pizza một lần vào một ngày bận.)*
+- C. Mom felt more tired after cooking every night. *(Mẹ thấy mệt hơn sau khi nấu ăn mỗi tối.)*
+- D. Dad wants to stop cooking and order food again. *(Bố muốn thôi nấu ăn và gọi đồ ăn mang về lại.)*
 
 **10. In "which are often just as nutritious as fresh ones", what does "ones" refer to?**
 *(Trong câu "... as fresh ones", "ones" chỉ cái gì?)*
 
-- A. meals *(các bữa ăn)*
+- A. family meals *(các bữa ăn gia đình)*
 - B. vegetables *(rau)*
-- C. sauces *(nước sốt)*
-- D. days *(các ngày)*
+- C. the sauces *(các loại nước sốt)*
+- D. busy days *(những ngày bận)*
 
 ---
 
@@ -204,58 +204,58 @@
 **11. What is the main purpose of the leaflet?**
 *(Mục đích chính của tờ thông tin là gì?)*
 
-- A. to sell flu medicine *(để bán thuốc cúm)*
-- B. to invite people to work at the hospital *(để mời người tới làm ở bệnh viện)*
-- C. to explain when antibiotics help and how to deal with colds and flu *(để giải thích khi nào kháng sinh có tác dụng và cách xử lý cảm lạnh, cúm)*
+- A. to sell new medicine that cures colds and the flu in only one day *(để bán loại thuốc mới chữa khỏi cảm lạnh và cúm chỉ trong một ngày)*
+- B. to invite people to apply for a job at the hospital *(để mời mọi người xin việc ở bệnh viện)*
+- C. to explain when antibiotics work and how to treat colds and flu *(để giải thích khi nào kháng sinh có tác dụng và cách xử lý cảm lạnh, cúm)*
 - D. to tell people never to come to the emergency room *(để bảo mọi người đừng bao giờ tới phòng cấp cứu)*
 
 **12. Why don't antibiotics help with colds?**
 *(Vì sao kháng sinh không chữa được cảm lạnh?)*
 
-- A. Colds are caused by viruses, and antibiotics do not work against viruses. *(Vì cảm lạnh do virus gây ra, mà kháng sinh không tác dụng với virus.)*
-- B. Antibiotics are too strong for colds. *(Vì kháng sinh quá mạnh.)*
-- C. Colds last only one day. *(Vì cảm lạnh chỉ kéo dài một ngày.)*
-- D. Doctors do not have enough antibiotics. *(Vì bác sĩ không đủ kháng sinh.)*
+- A. Colds are caused by viruses, and antibiotics do not work on viruses. *(Cảm lạnh do virus gây ra, và kháng sinh không có tác dụng với virus.)*
+- B. Antibiotics are so strong that they would hurt people with colds. *(Kháng sinh mạnh đến mức sẽ làm hại người bị cảm lạnh.)*
+- C. Colds last only one day, so no medicine is needed. *(Cảm lạnh chỉ kéo dài một ngày nên không cần thuốc.)*
+- D. Hospitals do not have enough antibiotics for all the people with colds. *(Bệnh viện không có đủ kháng sinh cho tất cả những người bị cảm lạnh.)*
 
 **13. What can antibiotics treat?**
 *(Kháng sinh chữa được gì?)*
 
-- A. all kinds of pain *(mọi loại đau)*
-- B. colds and the flu *(cảm lạnh và cúm)*
-- C. feeling tired *(sự mệt mỏi)*
+- A. pain and fever from any illness *(đau và sốt do bất kỳ bệnh nào)*
+- B. colds and the flu that come in winter *(cảm lạnh và cúm xuất hiện vào mùa đông)*
+- C. feeling very tired after work *(cảm thấy rất mệt sau giờ làm)*
 - D. infections caused by bacteria *(nhiễm trùng do vi khuẩn)*
 
 **14. In "helps bacteria become resistant", what does "resistant" mean?**
 *(Trong câu "helps bacteria become resistant", "resistant" nghĩa là gì?)*
 
-- A. weaker *(yếu hơn)*
+- A. weaker after taking the medicine *(yếu đi sau khi dùng thuốc)*
 - B. not affected by the medicine *(không còn bị thuốc tác động)*
-- C. easier to see *(dễ nhìn thấy hơn)*
-- D. good for health *(tốt cho sức khoẻ)*
+- C. easier to find in the body *(dễ tìm thấy hơn trong cơ thể)*
+- D. good for your health and heart *(tốt cho sức khoẻ và tim của bạn)*
 
 **15. How long do most people need to recover from a cold?**
 *(Phần lớn mọi người cần bao lâu để khỏi cảm lạnh?)*
 
-- A. one or two days *(một hai ngày)*
-- B. about one month *(khoảng một tháng)*
+- A. just one or two days at most *(chỉ một hai ngày là cùng)*
+- B. about one month or longer *(khoảng một tháng hoặc lâu hơn)*
 - C. about seven to ten days *(khoảng bảy tới mười ngày)*
-- D. six months *(sáu tháng)*
+- D. at least six months in bed *(ít nhất sáu tháng nằm nghỉ)*
 
 **16. How are flu symptoms different from cold symptoms in the leaflet?**
 *(Theo tờ thông tin, triệu chứng cúm khác cảm lạnh thế nào?)*
 
-- A. They never include fever. *(Không bao giờ có sốt.)*
-- B. They are always mild. *(Lúc nào cũng nhẹ.)*
-- C. They last only one hour. *(Chỉ kéo dài một giờ.)*
+- A. They never include a fever, and they usually start very slowly. *(Chúng không bao giờ có sốt, và thường bắt đầu rất từ từ.)*
+- B. They are always mild and go away within a day. *(Chúng luôn nhẹ và hết trong vòng một ngày.)*
+- C. They are the same as cold symptoms but last longer. *(Chúng giống triệu chứng cảm lạnh nhưng kéo dài hơn.)*
 - D. They are usually more serious and often come on suddenly. *(Thường nặng hơn và hay đến đột ngột.)*
 
 **17. Who do doctors recommend a flu vaccine for?**
 *(Bác sĩ khuyên ai nên tiêm vắc-xin cúm?)*
 
 - A. almost everyone six months and older *(gần như mọi người từ sáu tháng tuổi)*
-- B. only old people *(chỉ người già)*
-- C. only hospital workers *(chỉ nhân viên y tế)*
-- D. only children *(chỉ trẻ em)*
+- B. only old people and small children *(chỉ người già và trẻ nhỏ)*
+- C. only doctors and nurses at the hospital *(chỉ bác sĩ và y tá ở bệnh viện)*
+- D. only children who go to school *(chỉ trẻ em đang đi học)*
 
 **18. A man has a cold. He feels better for two days, and then he suddenly feels much worse and has chest pain. What should he do?**
 *(Một người bị cảm. Anh đỡ được hai ngày rồi đột nhiên nặng hơn nhiều, kèm đau ngực. Anh nên làm gì?)*
@@ -268,18 +268,18 @@
 **19. What does Dr. Leah Carter mean by "We would rather see you too early than too late"?**
 *(Bác sĩ Leah Carter muốn nói gì qua câu "Chúng tôi thà gặp bạn sớm quá còn hơn muộn quá"?)*
 
-- A. The hospital opens very early. *(Bệnh viện mở cửa rất sớm.)*
-- B. People should come for every simple cold. *(Bị cảm thông thường cũng nên tới.)*
-- C. Doctors are always busy late at night. *(Bác sĩ lúc nào cũng bận về khuya.)*
-- D. When you are really unwell, it is better to come in than to wait at home. *(Khi thật sự không khoẻ, tới bệnh viện thì tốt hơn là ngồi chờ ở nhà.)*
+- A. The hospital opens very early in the morning for patients. *(Bệnh viện mở cửa rất sớm vào buổi sáng để đón bệnh nhân.)*
+- B. People should come to the emergency room for every small cold they get. *(Mọi người nên đến phòng cấp cứu mỗi khi bị một cơn cảm lạnh nhỏ.)*
+- C. Doctors are too busy late at night to help new patients. *(Bác sĩ quá bận vào đêm khuya nên không giúp được bệnh nhân mới.)*
+- D. If you are really unwell, coming in is better than waiting at home. *(Nếu bạn thật sự không khoẻ, đến viện còn hơn ở nhà chờ.)*
 
 **20. Use both texts. Which idea do both texts share?**
 *(Dựa vào cả hai bài. Hai bài có chung ý nào?)*
 
-- A. Takeaway food causes the flu. *(Đồ ăn mang về gây cúm.)*
-- B. Everyone should take antibiotics in winter. *(Mùa đông ai cũng nên uống kháng sinh.)*
-- C. Simple daily habits, such as eating well and resting, are important for health. *(Những thói quen hằng ngày giản dị, như ăn uống tốt và nghỉ ngơi, rất quan trọng với sức khoẻ.)*
-- D. Hospitals should cook healthier food. *(Bệnh viện nên nấu món lành mạnh hơn.)*
+- A. Eating takeaway food every day is the main cause of colds and the flu. *(Ăn đồ mang về mỗi ngày là nguyên nhân chính gây cảm lạnh và cúm.)*
+- B. Everyone should take antibiotics every winter to stay healthy. *(Ai cũng nên uống kháng sinh mỗi mùa đông để giữ sức khoẻ.)*
+- C. Simple habits, such as eating well and resting, help keep you healthy. *(Những thói quen đơn giản, như ăn uống tốt và nghỉ ngơi, giúp bạn khoẻ mạnh.)*
+- D. Hospitals should cook healthier food and give it to all patients. *(Bệnh viện nên nấu món lành mạnh hơn và phát cho mọi bệnh nhân.)*
 
 ---
 

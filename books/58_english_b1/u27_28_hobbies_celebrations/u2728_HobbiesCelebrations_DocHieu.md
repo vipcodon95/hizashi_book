@@ -100,9 +100,9 @@
 **1. What is the diary mainly about?**
 *(Cuốn nhật ký chủ yếu nói về điều gì?)*
 
-- A. Megan's work at the hospital *(công việc của Megan ở bệnh viện)*
+- A. Megan's long night shifts at the hospital and how tired she feels *(những ca đêm dài của Megan ở bệnh viện và việc cô mệt mỏi thế nào)*
 - B. Megan's experience of learning the ukulele as an adult *(trải nghiệm học đàn ukulele khi đã trưởng thành của Megan)*
-- C. how to make a ukulele *(cách làm đàn ukulele)*
+- C. how to make a cheap ukulele at the community center *(cách làm một cây ukulele rẻ tiền ở trung tâm cộng đồng)*
 - D. Tina's dream of becoming a singer *(ước mơ làm ca sĩ của Tina)*
 
 **2. What does "I remember hearing my grandfather play" mean?**
@@ -117,8 +117,8 @@
 *(Vì sao thầy Gus gọi ukulele là "nhạc cụ dễ gần nhất thế giới"?)*
 
 - A. It has only four strings, and it is small and cheap. *(Vì nó chỉ có bốn dây, lại nhỏ và rẻ.)*
-- B. It makes people smile. *(Vì nó làm người ta mỉm cười.)*
-- C. It is the oldest instrument. *(Vì nó là nhạc cụ lâu đời nhất.)*
+- B. It is the most popular instrument among the students in his class. *(Vì nó là nhạc cụ được học viên trong lớp thầy ưa chuộng nhất.)*
+- C. It is the oldest instrument, which is why everyone knows it. *(Vì nó là nhạc cụ lâu đời nhất, nên ai cũng biết đến nó.)*
 - D. Everyone in his family plays it. *(Vì cả nhà thầy đều chơi nó.)*
 
 **4. What could Megan do after her first lesson?**
@@ -133,41 +133,41 @@
 *(Vì sao tuần 3 Megan suýt bỏ cuộc?)*
 
 - A. Her night shifts made her too tired to practice. *(Vì ca đêm làm cô quá mệt, không tập nổi.)*
-- B. Gus was not a good teacher. *(Vì thầy Gus dạy không giỏi.)*
-- C. Her ukulele was broken. *(Vì đàn của cô bị hỏng.)*
-- D. Her family didn't like the noise. *(Vì cả nhà không thích tiếng ồn.)*
+- B. Gus did not explain the lessons clearly enough for her. *(Vì thầy Gus không giảng bài đủ rõ cho cô.)*
+- C. Her ukulele was broken after the first lessons. *(Vì đàn của cô bị hỏng sau mấy buổi học đầu.)*
+- D. Her family didn't like the noise she made at night. *(Vì cả nhà không thích tiếng ồn cô gây ra ban đêm.)*
 
 **6. What does "I tried playing for just ten minutes a day" mean?**
 *(Câu "I tried playing for just ten minutes a day" nghĩa là gì?)*
 
-- A. She wanted to play for ten minutes but couldn't. *(Cô muốn chơi mười phút nhưng không làm được.)*
+- A. She wanted to play for ten minutes a day but she didn't have time. *(Cô muốn chơi mười phút mỗi ngày nhưng không có thời gian.)*
 - B. She tested a new way of practicing to see if it worked. *(Cô thử một cách tập mới xem có hiệu quả không.)*
-- C. She stopped practicing completely. *(Cô thôi tập hẳn.)*
+- C. She stopped practicing completely for the rest of the week. *(Cô thôi tập hẳn trong suốt phần còn lại của tuần.)*
 - D. She practiced for an hour every day. *(Cô tập một tiếng mỗi ngày.)*
 
 **7. What does Gus mean by "Your hands know more than you think"?**
 *(Thầy Gus muốn nói gì qua câu "Tay các bạn biết nhiều hơn các bạn nghĩ đấy"?)*
 
-- A. Students should play with only one hand. *(Học viên nên chơi bằng một tay.)*
-- B. Students' hands are too small. *(Tay học viên quá nhỏ.)*
-- C. Students should stop practicing. *(Học viên nên thôi tập.)*
-- D. After practice, the hands can find the right places without the eyes. *(Sau khi tập, tay tự tìm được đúng chỗ mà không cần mắt nhìn.)*
+- A. Students should play with only one hand until they are ready. *(Học viên nên chỉ chơi bằng một tay cho tới khi sẵn sàng.)*
+- B. Students' hands are too small to play the ukulele well. *(Tay học viên quá nhỏ để chơi ukulele cho tốt.)*
+- C. Students should stop practicing and let their hands rest. *(Học viên nên thôi tập và để tay nghỉ ngơi.)*
+- D. With practice, hands can find the notes without the eyes. *(Nhờ tập, tay có thể tìm đúng nốt mà không cần mắt.)*
 
 **8. What does "Tina stopped to listen" mean?**
 *(Câu "Tina stopped to listen" nghĩa là gì?)*
 
-- A. Tina stopped listening. *(Tina thôi không nghe nữa.)*
-- B. Tina told her mother to stop. *(Tina bảo mẹ dừng lại.)*
-- C. Tina stopped what she was doing so that she could listen. *(Tina dừng việc đang làm để nghe.)*
-- D. Tina never listens to music. *(Tina không bao giờ nghe nhạc.)*
+- A. Tina stopped listening because the song was too loud. *(Tina thôi không nghe nữa vì bài hát quá to.)*
+- B. Tina told her mother to stop playing in the kitchen. *(Tina bảo mẹ đừng chơi đàn trong bếp nữa.)*
+- C. Tina stopped what she was doing to listen. *(Tina dừng việc đang làm để nghe.)*
+- D. Tina never listens to music while she is in the kitchen. *(Tina không bao giờ nghe nhạc khi ở trong bếp.)*
 
 **9. Why is "Not bad, Mom" a huge compliment for Megan?**
 *(Vì sao câu "Cũng được đấy mẹ" lại là lời khen to với Megan?)*
 
-- A. Trevor is a music teacher. *(Vì Trevor là giáo viên dạy nhạc.)*
-- B. Trevor is usually very honest, and teenagers rarely praise their parents. *(Vì Trevor vốn rất thẳng thắn, mà tuổi teen hiếm khi khen bố mẹ.)*
-- C. Trevor said it in front of Gus. *(Vì Trevor nói câu đó trước mặt thầy Gus.)*
-- D. Trevor usually says that everything is excellent. *(Vì Trevor thường khen mọi thứ là xuất sắc.)*
+- A. Trevor is a music teacher who plays better than Megan. *(Vì Trevor là giáo viên dạy nhạc và chơi giỏi hơn Megan.)*
+- B. Trevor is honest, and teenagers rarely praise their parents. *(Vì Trevor thẳng thắn, mà tuổi teen hiếm khi khen bố mẹ.)*
+- C. Trevor said it in front of Gus and the other students. *(Vì Trevor nói câu đó trước mặt thầy Gus và các học viên khác.)*
+- D. Trevor usually says that everything his mother does is excellent. *(Vì Trevor thường khen mọi việc mẹ làm đều xuất sắc.)*
 
 **10. In "remember to bring along my tuner on Thursday", what is Megan talking about?**
 *(Trong câu "remember to bring along my tuner on Thursday", Megan đang nói về điều gì?)*
@@ -175,7 +175,7 @@
 - A. something that she must do in the future *(một việc cô phải làm sắp tới)*
 - B. something that she did last Thursday *(một việc cô đã làm thứ Năm tuần trước)*
 - C. something that she has forgotten forever *(một việc cô đã quên hẳn)*
-- D. something that Gus did *(một việc thầy Gus đã làm)*
+- D. something that Gus did for the students last week *(một việc thầy Gus đã làm cho học viên tuần trước)*
 
 ---
 
@@ -231,10 +231,10 @@
 **11. What is the main purpose of the notice?**
 *(Mục đích chính của thông báo là gì?)*
 
-- A. to sell pumpkins *(để bán bí ngô)*
-- B. to ask for money for the park *(để quyên tiền cho công viên)*
+- A. to sell tickets for the fall fair to families in the park *(để bán vé hội chợ mùa thu cho các gia đình trong công viên)*
+- B. to ask for money to build a new stage in the park *(để xin tiền xây một sân khấu mới trong công viên)*
 - C. to tell neighbors about the fall fair and its rules *(để báo cho hàng xóm về hội chợ mùa thu và các quy định)*
-- D. to find a new magician *(để tìm một ảo thuật gia mới)*
+- D. to find a new magician for the next fall fair in town *(để tìm một ảo thuật gia mới cho hội chợ mùa thu sau)*
 
 **12. When and where is the fair?**
 *(Hội chợ diễn ra khi nào và ở đâu?)*
@@ -242,37 +242,37 @@
 - A. on Saturday, October 24, in Pine Street Park *(thứ Bảy 24/10, ở công viên Pine Street)*
 - B. on Sunday, October 24, at Harriet's *(Chủ nhật 24/10, ở quán Harriet's)*
 - C. every Saturday in October *(mọi thứ Bảy trong tháng Mười)*
-- D. on Saturday, October 24, at Westview High *(thứ Bảy 24/10, ở trường Westview High)*
+- D. on Saturday, October 24, at Westview High School *(thứ Bảy 24/10, ở trường trung học Westview)*
 
 **13. What happens in the "Harvest Around the World" tent?**
 *(Ở lều "Mùa gặt khắp thế giới" diễn ra hoạt động gì?)*
 
-- A. Visitors buy rice and apples. *(Khách mua gạo và táo.)*
-- B. A magician performs. *(Một ảo thuật gia biểu diễn.)*
-- C. Children carve pumpkins. *(Trẻ em khắc bí ngô.)*
-- D. Neighbors share harvest traditions from the places where their families come from. *(Hàng xóm chia sẻ phong tục mùa gặt ở quê hương của gia đình mình.)*
+- A. Visitors buy rice and apple juice that neighbors made at home *(Khách mua gạo và nước táo do hàng xóm tự làm ở nhà)*
+- B. A magician performs tricks with rice and apple juice *(Một ảo thuật gia biểu diễn trò ảo thuật với gạo và nước táo)*
+- C. Children carve pumpkins and sing songs about the harvest *(Trẻ em khắc bí ngô và hát những bài về mùa gặt)*
+- D. Neighbors talk about harvest traditions from their families' old homes *(Hàng xóm kể về phong tục mùa gặt ở quê cũ của gia đình mình)*
 
 **14. In "Stall holders are to arrive by 9:30 a.m.", what does "are to arrive" mean?**
 *(Trong câu "Stall holders are to arrive by 9:30 a.m.", "are to arrive" nghĩa là gì?)*
 
-- A. might arrive *(có thể tới)*
+- A. might arrive, but it is not necessary *(có thể tới, nhưng không bắt buộc)*
 - B. must arrive (it is a rule) *(phải tới (đó là quy định))*
-- C. would like to arrive *(muốn tới)*
-- D. arrived yesterday *(đã tới hôm qua)*
+- C. would like to arrive if they have time *(muốn tới nếu họ có thời gian)*
+- D. arrived yesterday morning *(đã tới sáng hôm qua)*
 
 **15. What will the evening light show use?**
 *(Màn trình diễn ánh sáng buổi tối sẽ dùng gì?)*
 
-- A. fireworks *(pháo hoa)*
-- B. candles in the trees *(nến trên cây)*
+- A. fireworks and a big fire *(pháo hoa và một đống lửa lớn)*
+- B. candles in the trees around the park *(nến treo trên cây quanh công viên)*
 - C. only lanterns and lights *(chỉ đèn lồng và đèn)*
-- D. lights from phones *(đèn điện thoại)*
+- D. lights from the visitors' phones *(đèn từ điện thoại của khách)*
 
 **16. Which of these is NOT allowed at the fair?**
 *(Điều nào KHÔNG được phép ở hội chợ?)*
 
-- A. bringing a dog on a leash *(dắt chó có dây)*
-- B. playing one song on the folk music stage *(chơi một bài ở sân khấu nhạc dân gian)*
+- A. bringing a dog on a leash to the park *(dắt chó có dây vào công viên)*
+- B. playing one song on the folk music stage at 5 p.m. *(chơi một bài ở sân khấu nhạc dân gian lúc 5 giờ chiều)*
 - C. taking a free pumpkin home *(mang một quả bí ngô miễn phí về)*
 - D. letting a dog run around without a leash *(thả chó chạy lung tung không có dây)*
 
@@ -287,26 +287,26 @@
 **18. What will happen at 7:30 p.m.?**
 *(Lúc 7:30 tối sẽ có gì?)*
 
-- A. The magician will perform. *(Ảo thuật gia biểu diễn.)*
-- B. All the pumpkins that are left will be given away. *(Toàn bộ bí ngô còn lại sẽ được tặng.)*
-- C. The stall holders will arrive. *(Chủ gian hàng tới.)*
-- D. The beginners' hour will start. *(Giờ dành cho người mới chơi bắt đầu.)*
+- A. The magician will perform for the children. *(Ảo thuật gia sẽ biểu diễn cho lũ trẻ.)*
+- B. The pumpkins that are left will be given away. *(Số bí ngô còn lại sẽ được tặng.)*
+- C. The stall holders will arrive to put up the tents. *(Chủ gian hàng sẽ tới để dựng lều.)*
+- D. The beginners' hour will start on the folk music stage. *(Giờ dành cho người mới chơi sẽ bắt đầu ở sân khấu nhạc dân gian.)*
 
 **19. Why does the notice describe what visitors learned in the tent last year?**
 *(Vì sao thông báo kể lại những gì khách học được ở lều năm ngoái?)*
 
 - A. to say that the tent will be closed this year *(để nói năm nay lều đóng cửa)*
 - B. to explain how to grow rice *(để giải thích cách trồng lúa)*
-- C. to give examples of the kind of things that visitors might learn *(để đưa ví dụ về những điều khách có thể học được)*
-- D. to show that all families celebrate in the same way *(để cho thấy mọi gia đình đều ăn mừng giống nhau)*
+- C. to give examples of what visitors might learn there *(để đưa ví dụ về những điều khách có thể học được ở đó)*
+- D. to show that all families celebrate the harvest in the same way *(để cho thấy mọi gia đình ăn mừng mùa gặt giống nhau)*
 
 **20. Use both texts. Which part of the fair is Megan most likely to join?**
 *(Dựa vào cả hai bài. Megan nhiều khả năng sẽ tham gia hoạt động nào ở hội chợ?)*
 
-- A. the riddle competition *(cuộc thi đố vui)*
-- B. the magic show *(màn ảo thuật)*
-- C. pumpkin carving for kids *(khắc bí ngô cho trẻ em)*
-- D. the beginners' open hour on the folk music stage *(giờ mở cửa cho người mới chơi ở sân khấu nhạc dân gian)*
+- A. the riddle competition run by the book club at Harriet's *(cuộc thi đố vui do câu lạc bộ sách ở Harriet's tổ chức)*
+- B. the magic show at four in the afternoon *(màn ảo thuật lúc bốn giờ chiều)*
+- C. pumpkin carving for kids with Trevor and Tina *(khắc bí ngô cho trẻ em cùng Trevor và Tina)*
+- D. the open hour for beginners on the folk stage *(giờ mở cửa cho người mới chơi ở sân khấu nhạc dân gian)*
 
 ---
 

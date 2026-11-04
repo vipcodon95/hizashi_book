@@ -660,46 +660,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "what Chloe has learned about using social media for her work",
+            "en": "what Chloe has learned about using social media for work",
             "vi": "những điều Chloe học được khi dùng mạng xã hội cho công việc"
           },
           "is_correct": true,
           "order": 0,
-          "text": "what Chloe has learned about using social media for her work",
+          "text": "what Chloe has learned about using social media for work",
           "text_translation": "những điều Chloe học được khi dùng mạng xã hội cho công việc"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "why Chloe left Harriet's café",
-            "vi": "vì sao Chloe nghỉ việc ở quán Harriet's"
+            "en": "why Chloe left Harriet's café and became a designer on her own",
+            "vi": "vì sao Chloe rời quán cà phê của Harriet để làm nhà thiết kế độc lập"
           },
           "is_correct": false,
           "order": 1,
-          "text": "why Chloe left Harriet's café",
-          "text_translation": "vì sao Chloe nghỉ việc ở quán Harriet's"
+          "text": "why Chloe left Harriet's café and became a designer on her own",
+          "text_translation": "vì sao Chloe rời quán cà phê của Harriet để làm nhà thiết kế độc lập"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "how to draw a good logo",
-            "vi": "cách vẽ một logo đẹp"
+            "en": "how to draw a good logo for a small business client",
+            "vi": "cách vẽ một logo đẹp cho khách hàng kinh doanh nhỏ"
           },
           "is_correct": false,
           "order": 2,
-          "text": "how to draw a good logo",
-          "text_translation": "cách vẽ một logo đẹp"
+          "text": "how to draw a good logo for a small business client",
+          "text_translation": "cách vẽ một logo đẹp cho khách hàng kinh doanh nhỏ"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "how to get more sleep",
-            "vi": "cách ngủ được nhiều hơn"
+            "en": "how to get more sleep and stay off the phone",
+            "vi": "cách ngủ nhiều hơn và tránh xa điện thoại"
           },
           "is_correct": false,
           "order": 3,
-          "text": "how to get more sleep",
-          "text_translation": "cách ngủ được nhiều hơn"
+          "text": "how to get more sleep and stay off the phone",
+          "text_translation": "cách ngủ nhiều hơn và tránh xa điện thoại"
         }
       ],
       "evidence_segments": [
@@ -796,13 +796,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She posted only once in January.",
-            "vi": "Cô chỉ đăng một lần hồi tháng Một."
+            "en": "She posted only once in January and then stopped.",
+            "vi": "Cô chỉ đăng một lần vào tháng Giêng rồi dừng."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She posted only once in January.",
-          "text_translation": "Cô chỉ đăng một lần hồi tháng Một."
+          "text": "She posted only once in January and then stopped.",
+          "text_translation": "Cô chỉ đăng một lần vào tháng Giêng rồi dừng."
         },
         {
           "id": "B",
@@ -818,24 +818,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "She stopped posting in January.",
-            "vi": "Cô ngừng đăng từ tháng Một."
+            "en": "She stopped posting in January and never started again.",
+            "vi": "Cô ngừng đăng từ tháng Giêng và không đăng lại."
           },
           "is_correct": false,
           "order": 2,
-          "text": "She stopped posting in January.",
-          "text_translation": "Cô ngừng đăng từ tháng Một."
+          "text": "She stopped posting in January and never started again.",
+          "text_translation": "Cô ngừng đăng từ tháng Giêng và không đăng lại."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "She will start posting next January.",
-            "vi": "Tháng Một tới cô mới bắt đầu đăng."
+            "en": "She will start posting every day next January.",
+            "vi": "Cô sẽ bắt đầu đăng mỗi ngày vào tháng Giêng năm sau."
           },
           "is_correct": false,
           "order": 3,
-          "text": "She will start posting next January.",
-          "text_translation": "Tháng Một tới cô mới bắt đầu đăng."
+          "text": "She will start posting every day next January.",
+          "text_translation": "Cô sẽ bắt đầu đăng mỗi ngày vào tháng Giêng năm sau."
         }
       ],
       "evidence_segments": [
@@ -864,35 +864,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "a finished logo for a bakery",
-            "vi": "một logo hoàn chỉnh cho tiệm bánh"
+            "en": "a finished logo for a bakery in Oregon and its owner",
+            "vi": "một logo hoàn chỉnh cho tiệm bánh ở Oregon và chủ tiệm"
           },
           "is_correct": false,
           "order": 0,
-          "text": "a finished logo for a bakery",
-          "text_translation": "một logo hoàn chỉnh cho tiệm bánh"
+          "text": "a finished logo for a bakery in Oregon and its owner",
+          "text_translation": "một logo hoàn chỉnh cho tiệm bánh ở Oregon và chủ tiệm"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "a photo of Harriet's café",
-            "vi": "một bức ảnh quán Harriet's"
+            "en": "a photo of Harriet's café on her last day",
+            "vi": "một bức ảnh quán cà phê của Harriet vào ngày cuối của cô"
           },
           "is_correct": false,
           "order": 1,
-          "text": "a photo of Harriet's café",
-          "text_translation": "một bức ảnh quán Harriet's"
+          "text": "a photo of Harriet's café on her last day",
+          "text_translation": "một bức ảnh quán cà phê của Harriet vào ngày cuối của cô"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "a warning about a fake account",
-            "vi": "lời cảnh báo về tài khoản giả"
+            "en": "a warning about a fake account using her name",
+            "vi": "một lời cảnh báo về tài khoản giả dùng tên cô"
           },
           "is_correct": false,
           "order": 2,
-          "text": "a warning about a fake account",
-          "text_translation": "lời cảnh báo về tài khoản giả"
+          "text": "a warning about a fake account using her name",
+          "text_translation": "một lời cảnh báo về tài khoản giả dùng tên cô"
         },
         {
           "id": "D",
@@ -943,35 +943,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "Marco",
-            "vi": "Marco"
+            "en": "a client called Marco",
+            "vi": "một khách hàng tên Marco"
           },
           "is_correct": false,
           "order": 1,
-          "text": "Marco",
-          "text_translation": "Marco"
+          "text": "a client called Marco",
+          "text_translation": "một khách hàng tên Marco"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Leah",
-            "vi": "Leah"
+            "en": "her friend Leah",
+            "vi": "bạn cô là Leah"
           },
           "is_correct": false,
           "order": 2,
-          "text": "Leah",
-          "text_translation": "Leah"
+          "text": "her friend Leah",
+          "text_translation": "bạn cô là Leah"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "a surf school in Maui",
-            "vi": "một trường lướt sóng ở Maui"
+            "en": "a surf school owner in Maui",
+            "vi": "chủ một trường lướt sóng ở Maui"
           },
           "is_correct": false,
           "order": 3,
-          "text": "a surf school in Maui",
-          "text_translation": "một trường lướt sóng ở Maui"
+          "text": "a surf school owner in Maui",
+          "text_translation": "chủ một trường lướt sóng ở Maui"
         }
       ],
       "evidence_segments": [
@@ -1000,46 +1000,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She can't work on Friday.",
-            "vi": "Cô không làm việc được hôm thứ Sáu."
+            "en": "She can't work on Friday, so she asks for Thursday.",
+            "vi": "Cô không làm được vào thứ Sáu nên hỏi thứ Năm."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She can't work on Friday.",
-          "text_translation": "Cô không làm việc được hôm thứ Sáu."
+          "text": "She can't work on Friday, so she asks for Thursday.",
+          "text_translation": "Cô không làm được vào thứ Sáu nên hỏi thứ Năm."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She doesn't want to meet Marco.",
-            "vi": "Cô không muốn gặp Marco."
+            "en": "She doesn't want to meet Marco on Thursday or Friday.",
+            "vi": "Cô không muốn gặp Marco vào thứ Năm hay thứ Sáu."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She doesn't want to meet Marco.",
-          "text_translation": "Cô không muốn gặp Marco."
+          "text": "She doesn't want to meet Marco on Thursday or Friday.",
+          "text_translation": "Cô không muốn gặp Marco vào thứ Năm hay thứ Sáu."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "She can't meet on Thursday. Can they meet on Friday?",
-            "vi": "Cô không gặp được hôm thứ Năm. Gặp hôm thứ Sáu được không?"
+            "en": "She can't meet on Thursday, but maybe Friday.",
+            "vi": "Thứ Năm cô không gặp được, nhưng có thể thứ Sáu."
           },
           "is_correct": true,
           "order": 2,
-          "text": "She can't meet on Thursday. Can they meet on Friday?",
-          "text_translation": "Cô không gặp được hôm thứ Năm. Gặp hôm thứ Sáu được không?"
+          "text": "She can't meet on Thursday, but maybe Friday.",
+          "text_translation": "Thứ Năm cô không gặp được, nhưng có thể thứ Sáu."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "She forgot what day it is.",
-            "vi": "Cô quên hôm nay là thứ mấy."
+            "en": "She forgot what day it is and asks Marco.",
+            "vi": "Cô quên hôm nay là thứ mấy nên hỏi Marco."
           },
           "is_correct": false,
           "order": 3,
-          "text": "She forgot what day it is.",
-          "text_translation": "Cô quên hôm nay là thứ mấy."
+          "text": "She forgot what day it is and asks Marco.",
+          "text_translation": "Cô quên hôm nay là thứ mấy nên hỏi Marco."
         }
       ],
       "evidence_segments": [
@@ -1068,13 +1068,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "He has never met Chloe before.",
-            "vi": "Anh chưa từng gặp Chloe."
+            "en": "He has never met Chloe before and wants to know her.",
+            "vi": "Anh chưa từng gặp Chloe và muốn làm quen với cô."
           },
           "is_correct": false,
           "order": 0,
-          "text": "He has never met Chloe before.",
-          "text_translation": "Anh chưa từng gặp Chloe."
+          "text": "He has never met Chloe before and wants to know her.",
+          "text_translation": "Anh chưa từng gặp Chloe và muốn làm quen với cô."
         },
         {
           "id": "B",
@@ -1090,24 +1090,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "He wants to meet online.",
-            "vi": "Anh muốn gặp trên mạng."
+            "en": "He wants to meet online instead of face-to-face.",
+            "vi": "Anh muốn gặp trên mạng thay vì gặp trực tiếp."
           },
           "is_correct": false,
           "order": 2,
-          "text": "He wants to meet online.",
-          "text_translation": "Anh muốn gặp trên mạng."
+          "text": "He wants to meet online instead of face-to-face.",
+          "text_translation": "Anh muốn gặp trên mạng thay vì gặp trực tiếp."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "He doesn't like the café.",
-            "vi": "Anh không thích quán cà phê đó."
+            "en": "He doesn't like the café where Chloe works.",
+            "vi": "Anh không thích quán cà phê nơi Chloe làm việc."
           },
           "is_correct": false,
           "order": 3,
-          "text": "He doesn't like the café.",
-          "text_translation": "Anh không thích quán cà phê đó."
+          "text": "He doesn't like the café where Chloe works.",
+          "text_translation": "Anh không thích quán cà phê nơi Chloe làm việc."
         }
       ],
       "evidence_segments": [
@@ -1136,13 +1136,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "answer every comment",
-            "vi": "trả lời mọi bình luận"
+            "en": "answer every comment from her followers",
+            "vi": "trả lời mọi bình luận từ người theo dõi"
           },
           "is_correct": false,
           "order": 0,
-          "text": "answer every comment",
-          "text_translation": "trả lời mọi bình luận"
+          "text": "answer every comment from her followers",
+          "text_translation": "trả lời mọi bình luận từ người theo dõi"
         },
         {
           "id": "B",
@@ -1158,13 +1158,13 @@
         {
           "id": "C",
           "i18n": {
-            "en": "warn her followers about a fake account",
-            "vi": "cảnh báo người theo dõi về tài khoản giả"
+            "en": "warn her followers about the fake account right away",
+            "vi": "cảnh báo người theo dõi về tài khoản giả ngay lập tức"
           },
           "is_correct": false,
           "order": 2,
-          "text": "warn her followers about a fake account",
-          "text_translation": "cảnh báo người theo dõi về tài khoản giả"
+          "text": "warn her followers about the fake account right away",
+          "text_translation": "cảnh báo người theo dõi về tài khoản giả ngay lập tức"
         },
         {
           "id": "D",
@@ -1272,46 +1272,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Social media is not useful for work.",
-            "vi": "Mạng xã hội không có ích cho công việc."
+            "en": "Social media is not useful for work, so she has stopped using it.",
+            "vi": "Mạng xã hội không có ích cho công việc nên cô đã thôi dùng."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Social media is not useful for work.",
-          "text_translation": "Mạng xã hội không có ích cho công việc."
+          "text": "Social media is not useful for work, so she has stopped using it.",
+          "text_translation": "Mạng xã hội không có ích cho công việc nên cô đã thôi dùng."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "It should help her work, but it should not fill her whole life.",
-            "vi": "Nó nên giúp công việc, nhưng không nên chiếm hết cuộc sống."
+            "en": "It should help with work, not fill her whole life.",
+            "vi": "Nó nên giúp ích cho công việc, chứ không chiếm cả cuộc sống."
           },
           "is_correct": true,
           "order": 1,
-          "text": "It should help her work, but it should not fill her whole life.",
-          "text_translation": "Nó nên giúp công việc, nhưng không nên chiếm hết cuộc sống."
+          "text": "It should help with work, not fill her whole life.",
+          "text_translation": "Nó nên giúp ích cho công việc, chứ không chiếm cả cuộc sống."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "She is going to close her accounts.",
-            "vi": "Cô sắp xoá các tài khoản."
+            "en": "She is going to close all of her accounts soon.",
+            "vi": "Cô sắp đóng tất cả tài khoản của mình."
           },
           "is_correct": false,
           "order": 2,
-          "text": "She is going to close her accounts.",
-          "text_translation": "Cô sắp xoá các tài khoản."
+          "text": "She is going to close all of her accounts soon.",
+          "text_translation": "Cô sắp đóng tất cả tài khoản của mình."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Only young people should use it.",
-            "vi": "Chỉ người trẻ mới nên dùng nó."
+            "en": "Only young people should use it for their work.",
+            "vi": "Chỉ người trẻ mới nên dùng nó cho công việc."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Only young people should use it.",
-          "text_translation": "Chỉ người trẻ mới nên dùng nó."
+          "text": "Only young people should use it for their work.",
+          "text_translation": "Chỉ người trẻ mới nên dùng nó cho công việc."
         }
       ],
       "evidence_segments": [
@@ -1341,35 +1341,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "how storm drains are built",
-            "vi": "cách xây cống thoát nước"
+            "en": "how storm drains are built and checked in San Diego",
+            "vi": "cách cống thoát nước mưa được xây và kiểm tra ở San Diego"
           },
           "is_correct": false,
           "order": 0,
-          "text": "how storm drains are built",
-          "text_translation": "cách xây cống thoát nước"
+          "text": "how storm drains are built and checked in San Diego",
+          "text_translation": "cách cống thoát nước mưa được xây và kiểm tra ở San Diego"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "a new park on Pine Street",
-            "vi": "một công viên mới ở phố Pine"
+            "en": "a new park on Pine Street for children and dogs",
+            "vi": "một công viên mới trên phố Pine cho trẻ em và chó"
           },
           "is_correct": false,
           "order": 1,
-          "text": "a new park on Pine Street",
-          "text_translation": "một công viên mới ở phố Pine"
+          "text": "a new park on Pine Street for children and dogs",
+          "text_translation": "một công viên mới trên phố Pine cho trẻ em và chó"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "why firefighters charge money",
-            "vi": "vì sao lính cứu hoả thu tiền"
+            "en": "why firefighters charge money for rescuing dogs",
+            "vi": "vì sao lính cứu hoả thu tiền khi cứu chó"
           },
           "is_correct": false,
           "order": 2,
-          "text": "why firefighters charge money",
-          "text_translation": "vì sao lính cứu hoả thu tiền"
+          "text": "why firefighters charge money for rescuing dogs",
+          "text_translation": "vì sao lính cứu hoả thu tiền khi cứu chó"
         },
         {
           "id": "D",
@@ -1613,24 +1613,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "He thinks the rescue was easy.",
-            "vi": "Anh nghĩ vụ cứu hộ rất dễ."
+            "en": "He thinks the rescue was easy for the team.",
+            "vi": "Anh nghĩ cuộc giải cứu rất dễ với đội."
           },
           "is_correct": false,
           "order": 0,
-          "text": "He thinks the rescue was easy.",
-          "text_translation": "Anh nghĩ vụ cứu hộ rất dễ."
+          "text": "He thinks the rescue was easy for the team.",
+          "text_translation": "Anh nghĩ cuộc giải cứu rất dễ với đội."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "He was angry with the children.",
-            "vi": "Anh giận bọn trẻ."
+            "en": "He was angry with the children for going near the drain.",
+            "vi": "Anh giận bọn trẻ vì lại gần cống."
           },
           "is_correct": false,
           "order": 1,
-          "text": "He was angry with the children.",
-          "text_translation": "Anh giận bọn trẻ."
+          "text": "He was angry with the children for going near the drain.",
+          "text_translation": "Anh giận bọn trẻ vì lại gần cống."
         },
         {
           "id": "C",
@@ -1646,13 +1646,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "He wants to be on TV.",
-            "vi": "Anh muốn được lên ti vi."
+            "en": "He wants to be on TV to tell the story.",
+            "vi": "Anh muốn lên TV để kể câu chuyện."
           },
           "is_correct": false,
           "order": 3,
-          "text": "He wants to be on TV.",
-          "text_translation": "Anh muốn được lên ti vi."
+          "text": "He wants to be on TV to tell the story.",
+          "text_translation": "Anh muốn lên TV để kể câu chuyện."
         }
       ],
       "evidence_segments": [
@@ -1681,46 +1681,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The firefighters had charged the owner $500 for the rescue.",
-            "vi": "Lính cứu hoả thu của chủ chó 500 đô."
+            "en": "The owner had to pay $500 for the rescue.",
+            "vi": "Chủ chó phải trả 500 đô la cho vụ cứu hộ."
           },
           "is_correct": true,
           "order": 0,
-          "text": "The firefighters had charged the owner $500 for the rescue.",
-          "text_translation": "Lính cứu hoả thu của chủ chó 500 đô."
+          "text": "The owner had to pay $500 for the rescue.",
+          "text_translation": "Chủ chó phải trả 500 đô la cho vụ cứu hộ."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The dog had been hurt badly.",
-            "vi": "Chú chó bị thương nặng."
+            "en": "The dog had been hurt badly in the drain.",
+            "vi": "Con chó bị thương nặng trong cống."
           },
           "is_correct": false,
           "order": 1,
-          "text": "The dog had been hurt badly.",
-          "text_translation": "Chú chó bị thương nặng."
+          "text": "The dog had been hurt badly in the drain.",
+          "text_translation": "Con chó bị thương nặng trong cống."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The children had lost the dog.",
-            "vi": "Bọn trẻ làm lạc chú chó."
+            "en": "The children had lost the dog in the park.",
+            "vi": "Bọn trẻ đã làm lạc con chó trong công viên."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The children had lost the dog.",
-          "text_translation": "Bọn trẻ làm lạc chú chó."
+          "text": "The children had lost the dog in the park.",
+          "text_translation": "Bọn trẻ đã làm lạc con chó trong công viên."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The drain had collapsed.",
-            "vi": "Ống cống bị sập."
+            "en": "The drain had collapsed on the dog after the heavy rain.",
+            "vi": "Cống đã sập xuống con chó sau trận mưa lớn."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The drain had collapsed.",
-          "text_translation": "Ống cống bị sập."
+          "text": "The drain had collapsed on the dog after the heavy rain.",
+          "text_translation": "Cống đã sập xuống con chó sau trận mưa lớn."
         }
       ],
       "evidence_segments": [
@@ -1749,35 +1749,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "certainly",
-            "vi": "chắc chắn"
+            "en": "without any doubt at all",
+            "vi": "hoàn toàn không chút nghi ngờ"
           },
           "is_correct": false,
           "order": 0,
-          "text": "certainly",
-          "text_translation": "chắc chắn"
+          "text": "without any doubt at all",
+          "text_translation": "hoàn toàn không chút nghi ngờ"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "secretly",
-            "vi": "một cách bí mật"
+            "en": "in a secret way, so nobody knew",
+            "vi": "một cách bí mật nên không ai biết"
           },
           "is_correct": false,
           "order": 1,
-          "text": "secretly",
-          "text_translation": "một cách bí mật"
+          "text": "in a secret way, so nobody knew",
+          "text_translation": "một cách bí mật nên không ai biết"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "officially",
-            "vi": "một cách chính thức"
+            "en": "in an official way, from the government",
+            "vi": "một cách chính thức, từ chính quyền"
           },
           "is_correct": false,
           "order": 2,
-          "text": "officially",
-          "text_translation": "một cách chính thức"
+          "text": "in an official way, from the government",
+          "text_translation": "một cách chính thức, từ chính quyền"
         },
         {
           "id": "D",
@@ -1885,24 +1885,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They are always about dogs.",
-            "vi": "Vì chúng luôn nói về chó."
+            "en": "They are always about dogs and other animals.",
+            "vi": "Chúng luôn nói về chó và các loài vật khác."
           },
           "is_correct": false,
           "order": 0,
-          "text": "They are always about dogs.",
-          "text_translation": "Vì chúng luôn nói về chó."
+          "text": "They are always about dogs and other animals.",
+          "text_translation": "Chúng luôn nói về chó và các loài vật khác."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "They are too long to read.",
-            "vi": "Vì chúng quá dài."
+            "en": "They are too long for most people to read.",
+            "vi": "Chúng quá dài với hầu hết mọi người."
           },
           "is_correct": false,
           "order": 1,
-          "text": "They are too long to read.",
-          "text_translation": "Vì chúng quá dài."
+          "text": "They are too long for most people to read.",
+          "text_translation": "Chúng quá dài với hầu hết mọi người."
         },
         {
           "id": "C",
@@ -1918,13 +1918,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "They come only from news sources.",
-            "vi": "Vì chúng chỉ đến từ các nguồn tin chính thống."
+            "en": "They come only from news sources that people trust.",
+            "vi": "Chúng chỉ đến từ các nguồn tin mà mọi người tin cậy."
           },
           "is_correct": false,
           "order": 3,
-          "text": "They come only from news sources.",
-          "text_translation": "Vì chúng chỉ đến từ các nguồn tin chính thống."
+          "text": "They come only from news sources that people trust.",
+          "text_translation": "Chúng chỉ đến từ các nguồn tin mà mọi người tin cậy."
         }
       ],
       "evidence_segments": [
@@ -1953,46 +1953,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Firefighters should use social media more.",
-            "vi": "Lính cứu hoả nên dùng mạng xã hội nhiều hơn."
+            "en": "Firefighters should use social media more to tell people the truth.",
+            "vi": "Lính cứu hoả nên dùng mạng xã hội nhiều hơn để nói sự thật."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Firefighters should use social media more.",
-          "text_translation": "Lính cứu hoả nên dùng mạng xã hội nhiều hơn."
+          "text": "Firefighters should use social media more to tell people the truth.",
+          "text_translation": "Lính cứu hoả nên dùng mạng xã hội nhiều hơn để nói sự thật."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Fake accounts can spread false information, so we should check before we trust or share.",
-            "vi": "Tài khoản giả có thể lan truyền thông tin sai, nên cần kiểm tra trước khi tin hay chia sẻ."
+            "en": "Fake accounts can spread false information, so we should check first.",
+            "vi": "Tài khoản giả có thể lan truyền thông tin sai nên cần kiểm tra trước."
           },
           "is_correct": true,
           "order": 1,
-          "text": "Fake accounts can spread false information, so we should check before we trust or share.",
-          "text_translation": "Tài khoản giả có thể lan truyền thông tin sai, nên cần kiểm tra trước khi tin hay chia sẻ."
+          "text": "Fake accounts can spread false information, so we should check first.",
+          "text_translation": "Tài khoản giả có thể lan truyền thông tin sai nên cần kiểm tra trước."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "You should never post anything online.",
-            "vi": "Đừng bao giờ đăng gì lên mạng."
+            "en": "You should never post anything online, because fake accounts will copy it.",
+            "vi": "Bạn đừng bao giờ đăng gì lên mạng vì tài khoản giả sẽ sao chép."
           },
           "is_correct": false,
           "order": 2,
-          "text": "You should never post anything online.",
-          "text_translation": "Đừng bao giờ đăng gì lên mạng."
+          "text": "You should never post anything online, because fake accounts will copy it.",
+          "text_translation": "Bạn đừng bao giờ đăng gì lên mạng vì tài khoản giả sẽ sao chép."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Online messages are always too short.",
-            "vi": "Tin nhắn trên mạng lúc nào cũng quá ngắn."
+            "en": "Online messages are always too short to explain things well.",
+            "vi": "Tin nhắn trên mạng luôn quá ngắn để giải thích rõ."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Online messages are always too short.",
-          "text_translation": "Tin nhắn trên mạng lúc nào cũng quá ngắn."
+          "text": "Online messages are always too short to explain things well.",
+          "text_translation": "Tin nhắn trên mạng luôn quá ngắn để giải thích rõ."
         }
       ],
       "evidence_segments": [

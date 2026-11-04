@@ -687,13 +687,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Tracy's math class",
-            "vi": "lớp toán của Tracy"
+            "en": "Tracy's math class and her friend Jenna's new car",
+            "vi": "lớp toán của Tracy và chiếc xe mới của Jenna"
           },
           "is_correct": false,
           "order": 0,
-          "text": "Tracy's math class",
-          "text_translation": "lớp toán của Tracy"
+          "text": "Tracy's math class and her friend Jenna's new car",
+          "text_translation": "lớp toán của Tracy và chiếc xe mới của Jenna"
         },
         {
           "id": "B",
@@ -709,24 +709,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "how to choose a ski resort",
-            "vi": "cách chọn khu trượt tuyết"
+            "en": "how to choose a good ski resort for beginners",
+            "vi": "cách chọn khu trượt tuyết tốt cho người mới"
           },
           "is_correct": false,
           "order": 2,
-          "text": "how to choose a ski resort",
-          "text_translation": "cách chọn khu trượt tuyết"
+          "text": "how to choose a good ski resort for beginners",
+          "text_translation": "cách chọn khu trượt tuyết tốt cho người mới"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Jenna's new car",
-            "vi": "chiếc xe mới của Jenna"
+            "en": "Jenna's engineering class at the university",
+            "vi": "lớp kỹ thuật của Jenna ở trường đại học"
           },
           "is_correct": false,
           "order": 3,
-          "text": "Jenna's new car",
-          "text_translation": "chiếc xe mới của Jenna"
+          "text": "Jenna's engineering class at the university",
+          "text_translation": "lớp kỹ thuật của Jenna ở trường đại học"
         }
       ],
       "evidence_segments": [
@@ -755,24 +755,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The car had no gas.",
-            "vi": "Vì xe hết xăng."
+            "en": "The car ran out of gas on the road.",
+            "vi": "Vì xe hết xăng giữa đường."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The car had no gas.",
-          "text_translation": "Vì xe hết xăng."
+          "text": "The car ran out of gas on the road.",
+          "text_translation": "Vì xe hết xăng giữa đường."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The weather was bad.",
-            "vi": "Vì thời tiết xấu."
+            "en": "The weather was bad and the roads were closed.",
+            "vi": "Vì thời tiết xấu và đường bị đóng."
           },
           "is_correct": false,
           "order": 1,
-          "text": "The weather was bad.",
-          "text_translation": "Vì thời tiết xấu."
+          "text": "The weather was bad and the roads were closed.",
+          "text_translation": "Vì thời tiết xấu và đường bị đóng."
         },
         {
           "id": "C",
@@ -788,13 +788,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "Owen was late.",
-            "vi": "Vì Owen đến muộn."
+            "en": "Owen was late and the others waited for him.",
+            "vi": "Vì Owen đến muộn và những người khác phải chờ."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Owen was late.",
-          "text_translation": "Vì Owen đến muộn."
+          "text": "Owen was late and the others waited for him.",
+          "text_translation": "Vì Owen đến muộn và những người khác phải chờ."
         }
       ],
       "evidence_segments": [
@@ -823,46 +823,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They should have known better than to forget such a simple thing.",
+            "en": "They should have known better than to forget something so simple.",
             "vi": "Lẽ ra họ phải biết rõ hơn, không được quên một việc đơn giản như vậy."
           },
           "is_correct": true,
           "order": 0,
-          "text": "They should have known better than to forget such a simple thing.",
+          "text": "They should have known better than to forget something so simple.",
           "text_translation": "Lẽ ra họ phải biết rõ hơn, không được quên một việc đơn giản như vậy."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Engineering students are bad drivers.",
-            "vi": "Sinh viên kỹ thuật lái xe kém."
+            "en": "Engineering students are not good at driving long distances in cars.",
+            "vi": "Sinh viên kỹ thuật không giỏi lái xe đường dài."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Engineering students are bad drivers.",
-          "text_translation": "Sinh viên kỹ thuật lái xe kém."
+          "text": "Engineering students are not good at driving long distances in cars.",
+          "text_translation": "Sinh viên kỹ thuật không giỏi lái xe đường dài."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "They repaired the car themselves.",
-            "vi": "Họ tự sửa được xe."
+            "en": "They repaired the car themselves after it stopped.",
+            "vi": "Họ tự sửa được xe sau khi nó chết máy."
           },
           "is_correct": false,
           "order": 2,
-          "text": "They repaired the car themselves.",
-          "text_translation": "Họ tự sửa được xe."
+          "text": "They repaired the car themselves after it stopped.",
+          "text_translation": "Họ tự sửa được xe sau khi nó chết máy."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The gas station was very far away.",
-            "vi": "Trạm xăng ở rất xa."
+            "en": "The gas station was very far away from the road.",
+            "vi": "Trạm xăng ở rất xa con đường."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The gas station was very far away.",
-          "text_translation": "Trạm xăng ở rất xa."
+          "text": "The gas station was very far away from the road.",
+          "text_translation": "Trạm xăng ở rất xa con đường."
         }
       ],
       "evidence_segments": [
@@ -891,35 +891,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "a map and some snacks",
-            "vi": "một tấm bản đồ và ít đồ ăn vặt"
+            "en": "a road map and some snacks for the group",
+            "vi": "một tấm bản đồ đường và ít đồ ăn vặt cho cả nhóm"
           },
           "is_correct": false,
           "order": 0,
-          "text": "a map and some snacks",
-          "text_translation": "một tấm bản đồ và ít đồ ăn vặt"
+          "text": "a road map and some snacks for the group",
+          "text_translation": "một tấm bản đồ đường và ít đồ ăn vặt cho cả nhóm"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "a new phone charger",
-            "vi": "một cục sạc điện thoại mới"
+            "en": "a new charger for Tracy's phone",
+            "vi": "một cục sạc mới cho điện thoại của Tracy"
           },
           "is_correct": false,
           "order": 1,
-          "text": "a new phone charger",
-          "text_translation": "một cục sạc điện thoại mới"
+          "text": "a new charger for Tracy's phone",
+          "text_translation": "một cục sạc mới cho điện thoại của Tracy"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "four coffees",
-            "vi": "bốn cốc cà phê"
+            "en": "four cups of coffee and some snacks",
+            "vi": "bốn cốc cà phê và ít đồ ăn vặt"
           },
           "is_correct": false,
           "order": 2,
-          "text": "four coffees",
-          "text_translation": "bốn cốc cà phê"
+          "text": "four cups of coffee and some snacks",
+          "text_translation": "bốn cốc cà phê và ít đồ ăn vặt"
         },
         {
           "id": "D",
@@ -970,35 +970,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "Their lesson was just starting.",
-            "vi": "Buổi học của họ vừa bắt đầu."
+            "en": "Their ski lesson was just about to start in ten minutes.",
+            "vi": "Buổi học trượt tuyết của họ sắp bắt đầu trong mười phút nữa."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Their lesson was just starting.",
-          "text_translation": "Buổi học của họ vừa bắt đầu."
+          "text": "Their ski lesson was just about to start in ten minutes.",
+          "text_translation": "Buổi học trượt tuyết của họ sắp bắt đầu trong mười phút nữa."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Owen had gone home.",
-            "vi": "Owen đã về nhà."
+            "en": "Owen had already gone home with Jenna.",
+            "vi": "Owen đã về nhà cùng Jenna rồi."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Owen had gone home.",
-          "text_translation": "Owen đã về nhà."
+          "text": "Owen had already gone home with Jenna.",
+          "text_translation": "Owen đã về nhà cùng Jenna rồi."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The motel was full.",
-            "vi": "Nhà nghỉ đã kín phòng."
+            "en": "The motel near the road was completely full.",
+            "vi": "Nhà nghỉ gần đường đã kín phòng hoàn toàn."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The motel was full.",
-          "text_translation": "Nhà nghỉ đã kín phòng."
+          "text": "The motel near the road was completely full.",
+          "text_translation": "Nhà nghỉ gần đường đã kín phòng hoàn toàn."
         }
       ],
       "evidence_segments": [
@@ -1027,24 +1027,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It was too far from the slopes.",
-            "vi": "Vì nó quá xa dốc trượt."
+            "en": "It was too far from the slopes and from the ski school.",
+            "vi": "Vì nó quá xa dốc trượt và trường dạy trượt tuyết."
           },
           "is_correct": false,
           "order": 0,
-          "text": "It was too far from the slopes.",
-          "text_translation": "Vì nó quá xa dốc trượt."
+          "text": "It was too far from the slopes and from the ski school.",
+          "text_translation": "Vì nó quá xa dốc trượt và trường dạy trượt tuyết."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "They had forgotten to book it.",
-            "vi": "Vì họ quên đặt."
+            "en": "They had forgotten to book it for the right weekend.",
+            "vi": "Vì họ quên đặt cho đúng cuối tuần."
           },
           "is_correct": false,
           "order": 1,
-          "text": "They had forgotten to book it.",
-          "text_translation": "Vì họ quên đặt."
+          "text": "They had forgotten to book it for the right weekend.",
+          "text_translation": "Vì họ quên đặt cho đúng cuối tuần."
         },
         {
           "id": "C",
@@ -1060,13 +1060,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "It was too expensive.",
-            "vi": "Vì nó quá đắt."
+            "en": "It was too expensive for the four of them to pay.",
+            "vi": "Vì nó quá đắt, bốn người không trả nổi."
           },
           "is_correct": false,
           "order": 3,
-          "text": "It was too expensive.",
-          "text_translation": "Vì nó quá đắt."
+          "text": "It was too expensive for the four of them to pay.",
+          "text_translation": "Vì nó quá đắt, bốn người không trả nổi."
         }
       ],
       "evidence_segments": [
@@ -1095,13 +1095,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "covered in deep snow",
-            "vi": "phủ tuyết dày"
+            "en": "covered in deep and soft snow",
+            "vi": "phủ lớp tuyết dày và mềm"
           },
           "is_correct": false,
           "order": 0,
-          "text": "covered in deep snow",
-          "text_translation": "phủ tuyết dày"
+          "text": "covered in deep and soft snow",
+          "text_translation": "phủ lớp tuyết dày và mềm"
         },
         {
           "id": "B",
@@ -1117,13 +1117,13 @@
         {
           "id": "C",
           "i18n": {
-            "en": "very crowded",
-            "vi": "rất đông người"
+            "en": "very crowded with other people",
+            "vi": "rất đông người khác"
           },
           "is_correct": false,
           "order": 2,
-          "text": "very crowded",
-          "text_translation": "rất đông người"
+          "text": "very crowded with other people",
+          "text_translation": "rất đông người khác"
         },
         {
           "id": "D",
@@ -1163,35 +1163,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The friends watched the sunrise.",
-            "vi": "Cả nhóm ngắm bình minh."
+            "en": "The friends watched the sunrise from the mountain top.",
+            "vi": "Cả nhóm ngắm bình minh từ đỉnh núi."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The friends watched the sunrise.",
-          "text_translation": "Cả nhóm ngắm bình minh."
+          "text": "The friends watched the sunrise from the mountain top.",
+          "text_translation": "Cả nhóm ngắm bình minh từ đỉnh núi."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Tracy fell many times.",
-            "vi": "Tracy ngã nhiều lần."
+            "en": "Tracy fell about twenty times in the morning.",
+            "vi": "Tracy ngã khoảng hai mươi lần vào buổi sáng."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Tracy fell many times.",
-          "text_translation": "Tracy ngã nhiều lần."
+          "text": "Tracy fell about twenty times in the morning.",
+          "text_translation": "Tracy ngã khoảng hai mươi lần vào buổi sáng."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Owen helped Tracy all morning.",
-            "vi": "Owen giúp Tracy cả buổi sáng."
+            "en": "Owen helped Tracy all morning with stopping and turning.",
+            "vi": "Owen giúp Tracy cả buổi sáng tập dừng và rẽ."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Owen helped Tracy all morning.",
-          "text_translation": "Owen giúp Tracy cả buổi sáng."
+          "text": "Owen helped Tracy all morning with stopping and turning.",
+          "text_translation": "Owen giúp Tracy cả buổi sáng tập dừng và rẽ."
         },
         {
           "id": "D",
@@ -1242,35 +1242,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "She is angry that he took her coffee.",
-            "vi": "Cô giận vì cậu ấy uống mất cà phê của cô."
+            "en": "She is angry that he took her coffee at the station.",
+            "vi": "Cô giận vì cậu ấy lấy mất cà phê của cô ở trạm xăng."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She is angry that he took her coffee.",
-          "text_translation": "Cô giận vì cậu ấy uống mất cà phê của cô."
+          "text": "She is angry that he took her coffee at the station.",
+          "text_translation": "Cô giận vì cậu ấy lấy mất cà phê của cô ở trạm xăng."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "She thinks he is a bad teacher.",
-            "vi": "Cô nghĩ cậu ấy dạy kém."
+            "en": "She thinks he is a bad teacher on the slope.",
+            "vi": "Cô nghĩ cậu ấy dạy trượt tuyết rất kém."
           },
           "is_correct": false,
           "order": 2,
-          "text": "She thinks he is a bad teacher.",
-          "text_translation": "Cô nghĩ cậu ấy dạy kém."
+          "text": "She thinks he is a bad teacher on the slope.",
+          "text_translation": "Cô nghĩ cậu ấy dạy trượt tuyết rất kém."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "She does not want to see him again.",
-            "vi": "Cô không muốn gặp lại cậu ấy."
+            "en": "She does not want to see him again after the trip.",
+            "vi": "Cô không muốn gặp lại cậu ấy sau chuyến đi."
           },
           "is_correct": false,
           "order": 3,
-          "text": "She does not want to see him again.",
-          "text_translation": "Cô không muốn gặp lại cậu ấy."
+          "text": "She does not want to see him again after the trip.",
+          "text_translation": "Cô không muốn gặp lại cậu ấy sau chuyến đi."
         }
       ],
       "evidence_segments": [
@@ -1299,24 +1299,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Gas was cheaper on Sunday.",
-            "vi": "Vì Chủ nhật xăng rẻ hơn."
+            "en": "Gas was cheaper near the ski resort on Sunday.",
+            "vi": "Vì Chủ nhật xăng gần khu trượt tuyết rẻ hơn."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Gas was cheaper on Sunday.",
-          "text_translation": "Vì Chủ nhật xăng rẻ hơn."
+          "text": "Gas was cheaper near the ski resort on Sunday.",
+          "text_translation": "Vì Chủ nhật xăng gần khu trượt tuyết rẻ hơn."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Owen asked her to.",
-            "vi": "Vì Owen bảo cô làm vậy."
+            "en": "Owen asked her to because he was afraid of the road.",
+            "vi": "Vì Owen bảo cô làm vậy do cậu sợ con đường."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Owen asked her to.",
-          "text_translation": "Vì Owen bảo cô làm vậy."
+          "text": "Owen asked her to because he was afraid of the road.",
+          "text_translation": "Vì Owen bảo cô làm vậy do cậu sợ con đường."
         },
         {
           "id": "C",
@@ -1332,13 +1332,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "The motel had a gas station.",
-            "vi": "Vì nhà nghỉ có trạm xăng."
+            "en": "The motel had its own gas station next to it.",
+            "vi": "Vì nhà nghỉ có trạm xăng riêng ngay bên cạnh."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The motel had a gas station.",
-          "text_translation": "Vì nhà nghỉ có trạm xăng."
+          "text": "The motel had its own gas station next to it.",
+          "text_translation": "Vì nhà nghỉ có trạm xăng riêng ngay bên cạnh."
         }
       ],
       "evidence_segments": [
@@ -1367,46 +1367,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to sell backpacks and tents",
-            "vi": "để bán ba lô và lều"
+            "en": "to sell backpacks and tents to new hikers each year",
+            "vi": "để bán ba lô và lều cho người đi bộ mới mỗi năm"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to sell backpacks and tents",
-          "text_translation": "để bán ba lô và lều"
+          "text": "to sell backpacks and tents to new hikers each year",
+          "text_translation": "để bán ba lô và lều cho người đi bộ mới mỗi năm"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to warn people never to hike alone",
-            "vi": "để cảnh báo đừng bao giờ đi bộ một mình"
+            "en": "to warn people never to hike alone in the desert or snow",
+            "vi": "để cảnh báo đừng bao giờ đi một mình trong sa mạc hay tuyết"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to warn people never to hike alone",
-          "text_translation": "để cảnh báo đừng bao giờ đi bộ một mình"
+          "text": "to warn people never to hike alone in the desert or snow",
+          "text_translation": "để cảnh báo đừng bao giờ đi một mình trong sa mạc hay tuyết"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to tell the history of California",
-            "vi": "để kể lịch sử California"
+            "en": "to tell the history of California and the Mexican border",
+            "vi": "để kể lịch sử California và biên giới Mexico"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to tell the history of California",
-          "text_translation": "để kể lịch sử California"
+          "text": "to tell the history of California and the Mexican border",
+          "text_translation": "để kể lịch sử California và biên giới Mexico"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to describe the trail and what hiking all of it is like",
-            "vi": "để giới thiệu đường mòn và việc đi hết nó ra sao"
+            "en": "to describe the trail and the experience of hiking it",
+            "vi": "để giới thiệu đường mòn và trải nghiệm đi bộ trên đó"
           },
           "is_correct": true,
           "order": 3,
-          "text": "to describe the trail and what hiking all of it is like",
-          "text_translation": "để giới thiệu đường mòn và việc đi hết nó ra sao"
+          "text": "to describe the trail and the experience of hiking it",
+          "text_translation": "để giới thiệu đường mòn và trải nghiệm đi bộ trên đó"
         }
       ],
       "evidence_segments": [
@@ -1435,13 +1435,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "about five hundred miles",
-            "vi": "khoảng năm trăm dặm"
+            "en": "about five hundred miles from end to end",
+            "vi": "khoảng năm trăm dặm từ đầu này đến đầu kia"
           },
           "is_correct": false,
           "order": 0,
-          "text": "about five hundred miles",
-          "text_translation": "khoảng năm trăm dặm"
+          "text": "about five hundred miles from end to end",
+          "text_translation": "khoảng năm trăm dặm từ đầu này đến đầu kia"
         },
         {
           "id": "B",
@@ -1457,24 +1457,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "about thirty miles",
-            "vi": "khoảng ba mươi dặm"
+            "en": "about thirty miles in three states",
+            "vi": "khoảng ba mươi dặm trong ba bang"
           },
           "is_correct": false,
           "order": 2,
-          "text": "about thirty miles",
-          "text_translation": "khoảng ba mươi dặm"
+          "text": "about thirty miles in three states",
+          "text_translation": "khoảng ba mươi dặm trong ba bang"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "exactly five months",
-            "vi": "đúng năm tháng"
+            "en": "exactly five months of walking",
+            "vi": "đúng năm tháng đi bộ"
           },
           "is_correct": false,
           "order": 3,
-          "text": "exactly five months",
-          "text_translation": "đúng năm tháng"
+          "text": "exactly five months of walking",
+          "text_translation": "đúng năm tháng đi bộ"
         }
       ],
       "evidence_segments": [
@@ -1514,35 +1514,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "The desert is too cold.",
-            "vi": "Vì sa mạc quá lạnh."
+            "en": "The desert is too cold at night in the spring.",
+            "vi": "Vì sa mạc quá lạnh vào ban đêm mùa xuân."
           },
           "is_correct": false,
           "order": 1,
-          "text": "The desert is too cold.",
-          "text_translation": "Vì sa mạc quá lạnh."
+          "text": "The desert is too cold at night in the spring.",
+          "text_translation": "Vì sa mạc quá lạnh vào ban đêm mùa xuân."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "They cannot get a permit.",
-            "vi": "Vì họ không xin được giấy phép."
+            "en": "They cannot get a permit before the summer months.",
+            "vi": "Vì họ không xin được giấy phép trước mùa hè."
           },
           "is_correct": false,
           "order": 2,
-          "text": "They cannot get a permit.",
-          "text_translation": "Vì họ không xin được giấy phép."
+          "text": "They cannot get a permit before the summer months.",
+          "text_translation": "Vì họ không xin được giấy phép trước mùa hè."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The towns are closed.",
-            "vi": "Vì các thị trấn đóng cửa."
+            "en": "The small towns along the trail are all closed.",
+            "vi": "Vì các thị trấn nhỏ dọc đường đều đóng cửa."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The towns are closed.",
-          "text_translation": "Vì các thị trấn đóng cửa."
+          "text": "The small towns along the trail are all closed.",
+          "text_translation": "Vì các thị trấn nhỏ dọc đường đều đóng cửa."
         }
       ],
       "evidence_segments": [
@@ -1571,24 +1571,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "wet and dark",
-            "vi": "ướt và tối"
+            "en": "wet and dark, with water everywhere",
+            "vi": "ướt và tối, nước khắp nơi"
           },
           "is_correct": false,
           "order": 0,
-          "text": "wet and dark",
-          "text_translation": "ướt và tối"
+          "text": "wet and dark, with water everywhere",
+          "text_translation": "ướt và tối, nước khắp nơi"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "short and easy",
-            "vi": "ngắn và dễ"
+            "en": "short and easy, with no stones",
+            "vi": "ngắn và dễ, không có đá"
           },
           "is_correct": false,
           "order": 1,
-          "text": "short and easy",
-          "text_translation": "ngắn và dễ"
+          "text": "short and easy, with no stones",
+          "text_translation": "ngắn và dễ, không có đá"
         },
         {
           "id": "C",
@@ -1604,13 +1604,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "very busy",
-            "vi": "rất đông"
+            "en": "very busy with many other hikers",
+            "vi": "rất đông người đi bộ khác"
           },
           "is_correct": false,
           "order": 3,
-          "text": "very busy",
-          "text_translation": "rất đông"
+          "text": "very busy with many other hikers",
+          "text_translation": "rất đông người đi bộ khác"
         }
       ],
       "evidence_segments": [
@@ -1639,13 +1639,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They hunt animals.",
-            "vi": "Họ săn thú."
+            "en": "They hunt animals and find food in the forest.",
+            "vi": "Họ săn thú và tìm đồ ăn trong rừng."
           },
           "is_correct": false,
           "order": 0,
-          "text": "They hunt animals.",
-          "text_translation": "Họ săn thú."
+          "text": "They hunt animals and find food in the forest.",
+          "text_translation": "Họ săn thú và tìm đồ ăn trong rừng."
         },
         {
           "id": "B",
@@ -1661,24 +1661,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Other hikers give it to them.",
-            "vi": "Người đi bộ khác cho họ."
+            "en": "Other hikers and park workers give it to them on the way.",
+            "vi": "Người đi bộ khác và nhân viên công viên cho họ dọc đường."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Other hikers give it to them.",
-          "text_translation": "Người đi bộ khác cho họ."
+          "text": "Other hikers and park workers give it to them on the way.",
+          "text_translation": "Người đi bộ khác và nhân viên công viên cho họ dọc đường."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "They mail boxes of food to small towns along the trail.",
-            "vi": "Họ gửi trước thùng đồ ăn tới các thị trấn nhỏ dọc đường."
+            "en": "They mail boxes of food to small towns on the trail.",
+            "vi": "Họ gửi trước thùng đồ ăn tới các thị trấn nhỏ trên đường mòn."
           },
           "is_correct": true,
           "order": 3,
-          "text": "They mail boxes of food to small towns along the trail.",
-          "text_translation": "Họ gửi trước thùng đồ ăn tới các thị trấn nhỏ dọc đường."
+          "text": "They mail boxes of food to small towns on the trail.",
+          "text_translation": "Họ gửi trước thùng đồ ăn tới các thị trấn nhỏ trên đường mòn."
         }
       ],
       "evidence_segments": [
@@ -1718,35 +1718,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "She started at the Canadian border.",
-            "vi": "Cô xuất phát từ biên giới Canada."
+            "en": "She started at the Canadian border in the spring.",
+            "vi": "Cô xuất phát từ biên giới Canada vào mùa xuân."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She started at the Canadian border.",
-          "text_translation": "Cô xuất phát từ biên giới Canada."
+          "text": "She started at the Canadian border in the spring.",
+          "text_translation": "Cô xuất phát từ biên giới Canada vào mùa xuân."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "She gave up and went home early.",
-            "vi": "Cô bỏ cuộc giữa chừng và về nhà."
+            "en": "She gave up after three weeks and went home early.",
+            "vi": "Cô bỏ cuộc sau ba tuần và về nhà sớm."
           },
           "is_correct": false,
           "order": 2,
-          "text": "She gave up and went home early.",
-          "text_translation": "Cô bỏ cuộc giữa chừng và về nhà."
+          "text": "She gave up after three weeks and went home early.",
+          "text_translation": "Cô bỏ cuộc sau ba tuần và về nhà sớm."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "She hiked the trail in 2026.",
-            "vi": "Cô đi đường mòn năm 2026."
+            "en": "She hiked the trail in 2026 and took five months.",
+            "vi": "Cô đi đường mòn năm 2026 và mất năm tháng."
           },
           "is_correct": false,
           "order": 3,
-          "text": "She hiked the trail in 2026.",
-          "text_translation": "Cô đi đường mòn năm 2026."
+          "text": "She hiked the trail in 2026 and took five months.",
+          "text_translation": "Cô đi đường mòn năm 2026 và mất năm tháng."
         }
       ],
       "evidence_segments": [
@@ -1775,13 +1775,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Her body was never tired.",
-            "vi": "Cơ thể cô chưa bao giờ mệt."
+            "en": "Her body was never tired, only her mind was.",
+            "vi": "Cơ thể cô chưa bao giờ mệt, chỉ có đầu óc mệt."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Her body was never tired.",
-          "text_translation": "Cơ thể cô chưa bao giờ mệt."
+          "text": "Her body was never tired, only her mind was.",
+          "text_translation": "Cơ thể cô chưa bao giờ mệt, chỉ có đầu óc mệt."
         },
         {
           "id": "B",
@@ -1797,24 +1797,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "She had to study a lot before the trip.",
-            "vi": "Cô phải học rất nhiều trước chuyến đi."
+            "en": "She had to study maps and rules a lot before the trip.",
+            "vi": "Cô phải học bản đồ và quy định rất nhiều trước chuyến đi."
           },
           "is_correct": false,
           "order": 2,
-          "text": "She had to study a lot before the trip.",
-          "text_translation": "Cô phải học rất nhiều trước chuyến đi."
+          "text": "She had to study maps and rules a lot before the trip.",
+          "text_translation": "Cô phải học bản đồ và quy định rất nhiều trước chuyến đi."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "She often forgot the way.",
-            "vi": "Cô hay quên đường."
+            "en": "She often forgot the way and got lost on the trail.",
+            "vi": "Cô hay quên đường và bị lạc trên đường mòn."
           },
           "is_correct": false,
           "order": 3,
-          "text": "She often forgot the way.",
-          "text_translation": "Cô hay quên đường."
+          "text": "She often forgot the way and got lost on the trail.",
+          "text_translation": "Cô hay quên đường và bị lạc trên đường mòn."
         }
       ],
       "evidence_segments": [
@@ -1843,46 +1843,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to say that the trail starts in the city center",
-            "vi": "để nói đường mòn bắt đầu ở trung tâm thành phố"
+            "en": "to say that the trail starts in the city center of San Diego",
+            "vi": "để nói đường mòn bắt đầu ở trung tâm thành phố San Diego"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to say that the trail starts in the city center",
-          "text_translation": "để nói đường mòn bắt đầu ở trung tâm thành phố"
+          "text": "to say that the trail starts in the city center of San Diego",
+          "text_translation": "để nói đường mòn bắt đầu ở trung tâm thành phố San Diego"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to say that hikers mail their food from there",
-            "vi": "để nói người đi bộ gửi đồ ăn từ đó"
+            "en": "to say that hikers mail their food from there to the border",
+            "vi": "để nói người đi bộ gửi đồ ăn từ đó tới biên giới"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to say that hikers mail their food from there",
-          "text_translation": "để nói người đi bộ gửi đồ ăn từ đó"
+          "text": "to say that hikers mail their food from there to the border",
+          "text_translation": "để nói người đi bộ gửi đồ ăn từ đó tới biên giới"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to show that readers can easily try a short part of the trail",
-            "vi": "để cho thấy người đọc có thể dễ dàng thử một đoạn ngắn của đường mòn"
+            "en": "to show that readers can easily try a short section",
+            "vi": "để cho thấy người đọc có thể dễ dàng thử một đoạn ngắn"
           },
           "is_correct": true,
           "order": 2,
-          "text": "to show that readers can easily try a short part of the trail",
-          "text_translation": "để cho thấy người đọc có thể dễ dàng thử một đoạn ngắn của đường mòn"
+          "text": "to show that readers can easily try a short section",
+          "text_translation": "để cho thấy người đọc có thể dễ dàng thử một đoạn ngắn"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to warn readers about the traffic",
-            "vi": "để cảnh báo người đọc về giao thông"
+            "en": "to warn readers about the traffic on the way to the trail",
+            "vi": "để cảnh báo người đọc về giao thông trên đường tới đường mòn"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to warn readers about the traffic",
-          "text_translation": "để cảnh báo người đọc về giao thông"
+          "text": "to warn readers about the traffic on the way to the trail",
+          "text_translation": "để cảnh báo người đọc về giao thông trên đường tới đường mòn"
         }
       ],
       "evidence_segments": [
@@ -1911,24 +1911,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "quickly",
-            "vi": "nhanh chóng"
+            "en": "quickly, with no problems on the way",
+            "vi": "nhanh chóng, không gặp vấn đề gì dọc đường"
           },
           "is_correct": false,
           "order": 0,
-          "text": "quickly",
-          "text_translation": "nhanh chóng"
+          "text": "quickly, with no problems on the way",
+          "text_translation": "nhanh chóng, không gặp vấn đề gì dọc đường"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "by car",
-            "vi": "bằng ô tô"
+            "en": "by car, after a very long drive",
+            "vi": "bằng ô tô, sau một chuyến lái xe rất dài"
           },
           "is_correct": false,
           "order": 1,
-          "text": "by car",
-          "text_translation": "bằng ô tô"
+          "text": "by car, after a very long drive",
+          "text_translation": "bằng ô tô, sau một chuyến lái xe rất dài"
         },
         {
           "id": "C",
@@ -1979,13 +1979,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Both were planned by a travel agent.",
-            "vi": "Cả hai đều do công ty du lịch lên kế hoạch."
+            "en": "Both trips were planned for several months by a travel agent.",
+            "vi": "Cả hai chuyến đi đều được công ty du lịch lên kế hoạch nhiều tháng."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Both were planned by a travel agent.",
-          "text_translation": "Cả hai đều do công ty du lịch lên kế hoạch."
+          "text": "Both trips were planned for several months by a travel agent.",
+          "text_translation": "Cả hai chuyến đi đều được công ty du lịch lên kế hoạch nhiều tháng."
         },
         {
           "id": "B",
@@ -2001,24 +2001,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Both took about five months.",
-            "vi": "Cả hai đều mất khoảng năm tháng."
+            "en": "Both took about five months from start to finish.",
+            "vi": "Cả hai đều mất khoảng năm tháng từ đầu đến cuối."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Both took about five months.",
-          "text_translation": "Cả hai đều mất khoảng năm tháng."
+          "text": "Both took about five months from start to finish.",
+          "text_translation": "Cả hai đều mất khoảng năm tháng từ đầu đến cuối."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Both ended at the Canadian border.",
-            "vi": "Cả hai đều kết thúc ở biên giới Canada."
+            "en": "Both ended at the Canadian border in the mountains.",
+            "vi": "Cả hai đều kết thúc ở biên giới Canada trên núi."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Both ended at the Canadian border.",
-          "text_translation": "Cả hai đều kết thúc ở biên giới Canada."
+          "text": "Both ended at the Canadian border in the mountains.",
+          "text_translation": "Cả hai đều kết thúc ở biên giới Canada trên núi."
         }
       ],
       "evidence_segments": [

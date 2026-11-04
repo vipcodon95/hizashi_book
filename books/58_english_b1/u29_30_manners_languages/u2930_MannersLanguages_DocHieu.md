@@ -87,50 +87,50 @@
 **1. Why did Tracy write this email?**
 *(Tracy viết email này để làm gì?)*
 
-- A. to tell Leah about her new roommate and ask about bringing her home for Thanksgiving *(để kể với Leah về bạn cùng phòng mới và hỏi chuyện đưa cậu ấy về nhà dịp Lễ Tạ ơn)*
-- B. to complain about her roommate *(để phàn nàn về bạn cùng phòng)*
-- C. to ask Leah how to cook *(để hỏi Leah cách nấu ăn)*
-- D. to explain how to use a fork *(để giải thích cách dùng dĩa)*
+- A. to tell Leah about her roommate and ask about Thanksgiving *(để kể với Leah về bạn cùng phòng và hỏi chuyện lễ Tạ ơn)*
+- B. to complain about her roommate's loud stories and strange habits *(để phàn nàn về những câu chuyện ồn ào và thói quen lạ của bạn cùng phòng)*
+- C. to ask Leah how to cook a Thanksgiving dinner *(để hỏi Leah cách nấu bữa tối Lễ Tạ ơn)*
+- D. to explain how to use a fork at a big dinner *(để giải thích cách dùng dĩa trong bữa tiệc lớn)*
 
 **2. Who is Camila?**
 *(Camila là ai?)*
 
-- A. Tracy's cousin from the city *(chị họ của Tracy ở thành phố)*
-- B. a cook at Tracy's college *(đầu bếp ở trường của Tracy)*
-- C. a transfer student from southern Brazil who studies engineering *(sinh viên chuyển trường từ miền nam Brazil, học kỹ thuật)*
-- D. Jenna's sister *(chị gái của Jenna)*
+- A. Tracy's cousin who lives in the city and studies art *(chị họ của Tracy sống ở thành phố và học nghệ thuật)*
+- B. a cook at Tracy's college who teaches Portuguese *(đầu bếp ở trường của Tracy, người dạy tiếng Bồ Đào Nha)*
+- C. a transfer student from Brazil who studies engineering *(sinh viên chuyển trường từ Brazil, học kỹ thuật)*
+- D. Jenna's sister, who also studies engineering at the college *(chị gái của Jenna, cũng học kỹ thuật ở trường)*
 
 **3. Why does Tracy call herself "a handshake person"?**
 *(Vì sao Tracy tự gọi mình là "người quen bắt tay"?)*
 
-- A. She shakes hands with everyone she meets twice. *(Vì cô bắt tay mỗi người hai lần.)*
+- A. She likes to shake hands with everyone twice when she says hello. *(Vì cô thích bắt tay mỗi người hai lần khi chào.)*
 - B. She doesn't like the pizza man. *(Vì cô không thích anh giao pizza.)*
-- C. She thinks hugs are rude. *(Vì cô nghĩ ôm là bất lịch sự.)*
+- C. She thinks hugs are rude, especially with the pizza man. *(Vì cô nghĩ ôm là bất lịch sự, nhất là với anh giao pizza.)*
 - D. She usually greets people with a handshake, not a hug. *(Vì cô thường chào bằng cái bắt tay chứ không ôm.)*
 
 **4. In "her mom made everyone sit down together", what does "made" mean?**
 *(Trong câu "her mom made everyone sit down together", "made" nghĩa là gì?)*
 
-- A. cooked for *(nấu cho)*
+- A. cooked a big dinner for *(nấu một bữa tối lớn cho)*
 - B. required (people to do something) *(bắt (ai làm gì))*
-- C. built *(xây)*
-- D. allowed *(cho phép)*
+- C. built a new table for *(đóng một cái bàn mới cho)*
+- D. allowed (people to do something) *(cho phép (ai làm gì))*
 
 **5. What does "my parents had us put our phones in a basket at dinner" mean?**
 *(Câu "my parents had us put our phones in a basket at dinner" nghĩa là gì?)*
 
-- A. Tracy's parents asked the children to put their phones in a basket. *(Bố mẹ Tracy bảo các con bỏ điện thoại vào giỏ.)*
-- B. Tracy's parents bought a basket for phones. *(Bố mẹ Tracy mua một cái giỏ đựng điện thoại.)*
-- C. The children had no phones. *(Bọn trẻ không có điện thoại.)*
-- D. Tracy's parents used their phones at dinner. *(Bố mẹ Tracy dùng điện thoại trong bữa tối.)*
+- A. Tracy's parents told the children to put phones in a basket. *(Bố mẹ Tracy bảo các con bỏ điện thoại vào giỏ.)*
+- B. Tracy's parents bought a big basket to keep phones in. *(Bố mẹ Tracy mua một cái giỏ lớn để đựng điện thoại.)*
+- C. The children had no phones, so they used the basket. *(Bọn trẻ không có điện thoại nên dùng cái giỏ.)*
+- D. Tracy's parents used their phones during dinner every night. *(Bố mẹ Tracy dùng điện thoại trong bữa tối mỗi đêm.)*
 
 **6. Why does Camila say "Your family isn't so different from mine"?**
 *(Vì sao Camila nói "Nhà cậu đâu có khác nhà tớ là mấy"?)*
 
-- A. Both families eat lunch at their desks. *(Vì cả hai nhà đều ăn trưa ở bàn làm việc.)*
-- B. Both families live in small towns. *(Vì cả hai nhà đều ở thị trấn nhỏ.)*
-- C. Both mothers are teachers. *(Vì cả hai bà mẹ đều là giáo viên.)*
-- D. Both families thought that dinner together, without phones or TV, was important. *(Vì cả hai nhà đều coi trọng bữa tối quây quần, không bị phân tâm.)*
+- A. Both families eat lunch at their desks while they are working. *(Vì cả hai nhà đều ăn trưa ở bàn làm việc khi đang làm.)*
+- B. Both families live in small towns in the same country. *(Vì cả hai nhà đều ở thị trấn nhỏ trong cùng một nước.)*
+- C. Both families have a dog that sits under the table. *(Vì cả hai nhà đều có con chó nằm dưới gầm bàn.)*
+- D. Both families thought that dinner together was important. *(Vì cả hai nhà đều coi trọng bữa tối quây quần.)*
 
 **7. In "I've learned not to cut in when she's telling a story", what does "cut in" mean?**
 *(Trong câu "I've learned not to cut in when she's telling a story", "cut in" nghĩa là gì?)*
@@ -143,18 +143,18 @@
 **8. What does Tracy mean by "neither of us speaks for a whole country"?**
 *(Tracy muốn nói gì qua câu "chẳng ai trong bọn em đại diện được cho cả một đất nước"?)*
 
-- A. Neither of them speaks English well. *(Cả hai đều nói tiếng Anh không tốt.)*
-- B. Habits are different from family to family, not only from country to country. *(Thói quen khác nhau theo từng nhà, chứ không chỉ theo từng nước.)*
-- C. They don't talk about their countries. *(Hai người không nói về đất nước mình.)*
-- D. They want to travel to every country. *(Hai người muốn đi khắp các nước.)*
+- A. Neither of them speaks English well enough to talk about it. *(Cả hai đều nói tiếng Anh chưa đủ giỏi để nói về chuyện đó.)*
+- B. Habits are different in every family, not only in every country. *(Thói quen khác nhau ở mỗi nhà, chứ không chỉ ở mỗi nước.)*
+- C. They don't want to talk about their countries at the table. *(Hai người không muốn nói về đất nước mình trong bữa ăn.)*
+- D. They want to travel to every country in the world together. *(Hai người muốn cùng nhau đi khắp các nước trên thế giới.)*
 
 **9. Why can't Camila go home for Thanksgiving?**
 *(Vì sao Camila không về nhà dịp Lễ Tạ ơn được?)*
 
-- A. Her family is too far away, and the flight is too expensive. *(Vì gia đình ở xa quá, vé máy bay lại đắt quá.)*
-- B. She has to work. *(Vì cô phải đi làm.)*
-- C. Her family doesn't celebrate it. *(Vì gia đình cô không đón lễ này.)*
-- D. She is sick. *(Vì cô bị ốm.)*
+- A. Her family is too far away, and flying is too expensive. *(Vì gia đình ở xa quá, đi máy bay lại đắt quá.)*
+- B. She has to work at the pizza place during the holiday. *(Vì cô phải làm ở tiệm pizza trong dịp lễ.)*
+- C. Her family doesn't celebrate it, so she is not interested. *(Vì gia đình cô không đón lễ này nên cô không hứng thú.)*
+- D. She is sick and the doctor says she cannot travel. *(Vì cô bị ốm và bác sĩ nói cô không được đi xa.)*
 
 **10. What do Camila's questions "What if your family thinks I'm too loud? What if I use the wrong fork?" show?**
 *(Những câu hỏi "Nhỡ nhà cậu thấy tớ ồn ào quá thì sao? Nhỡ tớ cầm nhầm dĩa thì sao?" của Camila cho thấy điều gì?)*
@@ -212,26 +212,26 @@
 **11. What is the main idea of the article?**
 *(Ý chính của bài báo là gì?)*
 
-- A. Only children can learn languages well. *(Chỉ trẻ em mới học ngoại ngữ tốt.)*
-- B. Children and adults each have their own advantages when they learn a language. *(Trẻ em và người lớn đều có lợi thế riêng khi học ngoại ngữ.)*
-- C. Accent is the most important part of a language. *(Giọng là phần quan trọng nhất của ngôn ngữ.)*
-- D. Bilingual children always get confused. *(Trẻ song ngữ lúc nào cũng bị rối.)*
+- A. Only children can learn languages well, and adults always struggle. *(Chỉ trẻ em mới học ngoại ngữ tốt, còn người lớn luôn gặp khó.)*
+- B. Children and adults both have advantages when learning languages *(Trẻ em và người lớn đều có lợi thế khi học ngoại ngữ)*
+- C. Accent is the most important part of a language for adults. *(Giọng là phần quan trọng nhất của ngôn ngữ đối với người lớn.)*
+- D. Bilingual children always get confused when they start talking. *(Trẻ song ngữ lúc nào cũng bị rối khi bắt đầu nói.)*
 
 **12. What clear advantage do young children have?**
 *(Trẻ nhỏ có lợi thế rõ ràng nào?)*
 
-- A. They learn faster at first. *(Học nhanh hơn lúc đầu.)*
-- B. They can memorize lists. *(Học thuộc được danh sách.)*
-- C. They know what they want to say. *(Biết rõ mình muốn nói gì.)*
-- D. They can learn to pronounce a language like native speakers. *(Có thể phát âm như người bản ngữ.)*
+- A. They learn faster at first because they take notes. *(Học nhanh hơn lúc đầu vì biết ghi chép.)*
+- B. They can memorize long lists of words very easily. *(Học thuộc rất dễ những danh sách từ dài.)*
+- C. They know exactly what they want to say in a new country. *(Biết chính xác mình muốn nói gì ở nước mới.)*
+- D. They can pronounce a language like native speakers. *(Có thể phát âm như người bản ngữ.)*
 
 **13. What did the 2018 study find?**
 *(Nghiên cứu năm 2018 phát hiện điều gì?)*
 
 - A. The ability to learn grammar stays strong until about seventeen. *(Khả năng học ngữ pháp còn mạnh tới khoảng mười bảy tuổi.)*
-- B. Adults can't learn grammar. *(Người lớn không học được ngữ pháp.)*
-- C. Accent is easy to change. *(Giọng rất dễ thay đổi.)*
-- D. Children learn grammar faster than adults at first. *(Lúc đầu trẻ học ngữ pháp nhanh hơn người lớn.)*
+- B. Adults can't learn grammar because they are too busy. *(Người lớn không học được ngữ pháp vì quá bận.)*
+- C. Accent is easy to change before the age of ten. *(Giọng rất dễ thay đổi trước mười tuổi.)*
+- D. Children always learn grammar much faster than adults, even at first. *(Trẻ em luôn học ngữ pháp nhanh hơn người lớn nhiều, kể cả lúc đầu.)*
 
 **14. According to the article, when do most people need to start to reach the level of a native speaker?**
 *(Theo bài, phần lớn mọi người cần bắt đầu khi nào để đạt trình độ như người bản ngữ?)*
@@ -244,39 +244,39 @@
 **15. Why do adults usually learn faster at first?**
 *(Vì sao lúc đầu người lớn thường học nhanh hơn?)*
 
-- A. They have better ears. *(Vì tai họ thính hơn.)*
-- B. They can read, take notes, memorize lists and understand rules. *(Vì họ biết đọc, ghi chép, học thuộc danh sách và hiểu quy tắc.)*
-- C. They have no accent. *(Vì họ không có giọng địa phương.)*
-- D. They have more free time. *(Vì họ có nhiều thời gian rảnh hơn.)*
+- A. They have better ears for the sounds of a new language. *(Vì tai họ nghe âm thanh của ngôn ngữ mới tốt hơn.)*
+- B. They can read, take notes and understand rules. *(Vì họ biết đọc, ghi chép và hiểu quy tắc.)*
+- C. They have no accent when they start to speak. *(Vì họ không có giọng khi bắt đầu nói.)*
+- D. They have more free time to practice every day. *(Vì họ có nhiều thời gian rảnh hơn để tập mỗi ngày.)*
 
 **16. What does the example of "rent" and "insurance" show?**
 *(Ví dụ về từ "tiền thuê nhà" và "bảo hiểm" cho thấy điều gì?)*
 
-- A. These words are very hard to pronounce. *(Những từ này rất khó phát âm.)*
-- B. Children learn these words first. *(Trẻ em học những từ này trước.)*
-- C. Newcomers should not rent a home. *(Người mới tới không nên thuê nhà.)*
-- D. Adults need practical words for real life right away. *(Người lớn cần ngay những từ thiết thực cho cuộc sống.)*
+- A. These words are very hard to pronounce for most adults. *(Những từ này rất khó phát âm với hầu hết người lớn.)*
+- B. Children learn these words first at school. *(Trẻ em học những từ này trước ở trường.)*
+- C. Newcomers should not rent a home in their first week. *(Người mới tới không nên thuê nhà trong tuần đầu.)*
+- D. Adults need practical words right away. *(Người lớn cần ngay những từ thiết thực.)*
 
 **17. What does research say about children who grow up with two languages?**
 *(Nghiên cứu nói gì về trẻ lớn lên với hai ngôn ngữ?)*
 
-- A. They usually learn to talk at about the same age as other children. *(Các em thường biết nói ở độ tuổi tương đương trẻ khác.)*
-- B. They always start talking later. *(Các em luôn biết nói muộn hơn.)*
-- C. They never mix languages. *(Các em không bao giờ trộn hai thứ tiếng.)*
-- D. They forget one language. *(Các em quên mất một thứ tiếng.)*
+- A. They learn to talk at about the same age as others. *(Các em biết nói ở độ tuổi tương đương những trẻ khác.)*
+- B. They always start talking later than other children. *(Các em luôn biết nói muộn hơn những trẻ khác.)*
+- C. They never mix the two languages in one sentence. *(Các em không bao giờ trộn hai thứ tiếng trong một câu.)*
+- D. They forget one of the two languages after a while. *(Các em quên mất một trong hai thứ tiếng sau một thời gian.)*
 
 **18. What does it usually show when a bilingual child mixes two languages in one sentence?**
 *(Khi một đứa trẻ song ngữ trộn hai thứ tiếng trong một câu, điều đó thường cho thấy gì?)*
 
-- A. The child is confused. *(Đứa trẻ đang bị rối.)*
-- B. The child has made a mistake. *(Đứa trẻ mắc lỗi.)*
-- C. The child knows both languages and can choose the best word. *(Đứa trẻ biết cả hai thứ tiếng và chọn được từ hợp nhất.)*
-- D. The child doesn't like one of the languages. *(Đứa trẻ không thích một trong hai thứ tiếng.)*
+- A. The child is confused and needs to speak only one language. *(Đứa trẻ đang bị rối và cần chỉ nói một thứ tiếng.)*
+- B. The child has made a mistake and needs more practice. *(Đứa trẻ mắc lỗi và cần luyện tập thêm.)*
+- C. The child knows both languages and picks the best word. *(Đứa trẻ biết cả hai thứ tiếng và chọn được từ hợp nhất.)*
+- D. The child doesn't like one of the languages very much. *(Đứa trẻ không thích lắm một trong hai thứ tiếng.)*
 
 **19. In "Being misunderstood is uncomfortable", what does "misunderstood" mean?**
 *(Trong câu "Being misunderstood is uncomfortable", "misunderstood" nghĩa là gì?)*
 
-- A. understood very well *(được hiểu rất rõ)*
+- A. understood very well by everyone *(được mọi người hiểu rất rõ)*
 - B. understood in the wrong way *(bị hiểu sai)*
 - C. not heard at all *(hoàn toàn không được nghe thấy)*
 - D. understood again *(được hiểu lại)*
@@ -284,10 +284,10 @@
 **20. Use both texts. Which point in the article fits Camila's English?**
 *(Dựa vào cả hai bài. Ý nào trong bài báo khớp với tiếng Anh của Camila?)*
 
-- A. Bilingual children start talking later. *(Trẻ song ngữ biết nói muộn hơn.)*
-- B. Adults can never become fluent. *(Người lớn không bao giờ nói trôi chảy được.)*
-- C. Only children can learn grammar. *(Chỉ trẻ em mới học được ngữ pháp.)*
-- D. People who start after early childhood often keep an accent, even when they become fluent. *(Người bắt đầu học sau tuổi ấu thơ thường giữ giọng riêng, kể cả khi đã nói trôi chảy.)*
+- A. Bilingual children usually start talking later than others. *(Trẻ song ngữ thường biết nói muộn hơn những trẻ khác.)*
+- B. Adults can never become fluent in a second language. *(Người lớn không bao giờ nói trôi chảy được ngoại ngữ thứ hai.)*
+- C. Only children can learn grammar well after seventeen. *(Chỉ trẻ em mới học ngữ pháp tốt sau mười bảy tuổi.)*
+- D. People who start late often keep an accent even when fluent. *(Người bắt đầu học muộn thường giữ giọng riêng kể cả khi đã trôi chảy.)*
 
 ---
 

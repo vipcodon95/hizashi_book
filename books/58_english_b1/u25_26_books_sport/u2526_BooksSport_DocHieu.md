@@ -86,82 +86,82 @@
 **1. What is the main purpose of Harriet's email?**
 *(Mục đích chính của email bà Harriet là gì?)*
 
-- A. to sell cakes at her café *(để bán bánh ở quán)*
-- B. to explain how to write a biography *(để giải thích cách viết tiểu sử)*
-- C. to complain about Nathan *(để phàn nàn về Nathan)*
-- D. to tell members about the last meeting and the plan for September *(để kể cho thành viên về buổi họp vừa rồi và kế hoạch tháng Chín)*
+- A. to sell cakes and coffee to the whole neighborhood every week *(để bán bánh và cà phê cho cả khu phố mỗi tuần)*
+- B. to explain how to write a biography of a famous person *(để giải thích cách viết tiểu sử một người nổi tiếng)*
+- C. to complain about Nathan, who did not read the whole book *(để phàn nàn về Nathan, người không đọc hết cuốn sách)*
+- D. to tell members about the last meeting and the September plan *(để báo cho thành viên về buổi họp vừa rồi và kế hoạch tháng Chín)*
 
 **2. How did Lydia and Nathan feel about the biography?**
 *(Lydia và Nathan thấy cuốn tiểu sử thế nào?)*
 
-- A. Both of them loved it. *(Cả hai đều mê.)*
-- B. Lydia found it useful and interesting, but Nathan found it boring. *(Lydia thấy nó bổ ích và thú vị, còn Nathan thấy nó chán.)*
-- C. Both of them found it boring. *(Cả hai đều thấy chán.)*
-- D. Nathan liked it more than Lydia. *(Nathan thích nó hơn Lydia.)*
+- A. Both of them loved it and read every page carefully. *(Cả hai đều rất thích và đọc kỹ từng trang.)*
+- B. Lydia found it informative, but Nathan thought it was boring. *(Lydia thấy nó nhiều thông tin, còn Nathan thấy nó chán.)*
+- C. Both of them found it boring and stopped reading early. *(Cả hai đều thấy nó chán và bỏ đọc sớm.)*
+- D. Nathan liked it much more than Lydia and read every single page. *(Nathan thích nó hơn Lydia nhiều và đọc từng trang một.)*
 
 **3. What does "he had only looked through the last fifty pages" suggest?**
 *(Câu "anh chỉ lướt qua năm mươi trang cuối" hàm ý gì?)*
 
 - A. Nathan didn't read the end of the book carefully. *(Nathan không đọc kỹ phần cuối cuốn sách.)*
-- B. Nathan read the book twice. *(Nathan đọc cuốn sách hai lần.)*
-- C. The book had only fifty pages. *(Cuốn sách chỉ có năm mươi trang.)*
-- D. Nathan wrote notes on every page. *(Nathan ghi chú trên mọi trang.)*
+- B. Nathan read the whole book twice before the meeting. *(Nathan đã đọc cả cuốn sách hai lần trước buổi họp.)*
+- C. The book had only fifty pages, so it was very short. *(Cuốn sách chỉ có năm mươi trang nên rất ngắn.)*
+- D. Nathan wrote notes on every page of the book. *(Nathan ghi chú trên từng trang của cuốn sách.)*
 
 **4. Why does Lydia prefer paper books?**
 *(Vì sao Lydia thích sách giấy?)*
 
-- A. They are cheaper than e-books. *(Vì chúng rẻ hơn sách điện tử.)*
-- B. She can make the letters bigger. *(Vì cô có thể phóng chữ to.)*
+- A. They are much cheaper than e-books and can be shared easily. *(Chúng rẻ hơn sách điện tử nhiều và dễ cho mượn.)*
+- B. She can make the letters bigger on her phone screen. *(Cô có thể phóng to chữ trên màn hình điện thoại.)*
 - C. She likes to write notes in the margins and remembers more. *(Vì cô thích ghi chú bên lề và nhớ được nhiều hơn.)*
-- D. Her phone is too small. *(Vì điện thoại của cô quá nhỏ.)*
+- D. Her phone is too small and the battery is always empty. *(Điện thoại của cô quá nhỏ và pin luôn hết.)*
 
 **5. Why does Harriet agree with Ethan?**
 *(Vì sao bà Harriet đồng ý với Ethan?)*
 
-- A. She reads at the fire station. *(Vì bà đọc sách ở trạm cứu hoả.)*
-- B. She doesn't like Lydia. *(Vì bà không thích Lydia.)*
-- C. Paper books are too expensive for her. *(Vì sách giấy quá đắt với bà.)*
-- D. Her eyesight is not as good as before, and e-books can show bigger letters. *(Vì mắt bà không còn tốt như trước, mà sách điện tử phóng chữ to được.)*
+- A. She reads on her phone at the fire station on quiet nights like Ethan. *(Cô đọc trên điện thoại ở trạm cứu hoả vào đêm yên tĩnh như Ethan.)*
+- B. She doesn't like Lydia's way of teaching English. *(Cô không thích cách Lydia dạy tiếng Anh.)*
+- C. Paper books are too expensive for her small café. *(Sách giấy quá đắt với quán cà phê nhỏ của cô.)*
+- D. Her eyesight isn't what it was, and e-books can have bigger letters. *(Thị lực của cô không còn như trước, và sách điện tử có thể có chữ to hơn.)*
 
 **6. What does "the best book is the one you actually finish" mean?**
 *(Câu "cuốn sách hay nhất là cuốn bạn thật sự đọc xong" nghĩa là gì?)*
 
-- A. Reading the book matters more than whether it is paper or electronic. *(Đọc được sách mới quan trọng, chứ không phải sách giấy hay điện tử.)*
-- B. Short books are always better. *(Sách ngắn lúc nào cũng hay hơn.)*
-- C. Nobody finished the biography. *(Không ai đọc xong cuốn tiểu sử.)*
-- D. E-books are better than paper books. *(Sách điện tử hay hơn sách giấy.)*
+- A. Finishing a book matters more than whether it is paper or digital. *(Đọc hết một cuốn sách quan trọng hơn việc nó là giấy hay điện tử.)*
+- B. Short books are always better than long books for the club. *(Sách ngắn luôn tốt hơn sách dài cho câu lạc bộ.)*
+- C. Nobody finished the biography, so they decided to choose a poetry book. *(Không ai đọc hết cuốn tiểu sử nên họ quyết định chọn sách thơ.)*
+- D. E-books are better than paper books for most members. *(Sách điện tử tốt hơn sách giấy với hầu hết thành viên.)*
 
 **7. What will members do at the September meeting?**
 *(Ở buổi họp tháng Chín, các thành viên sẽ làm gì?)*
 
-- A. write their own poems *(tự sáng tác thơ)*
+- A. write their own poems and read them aloud *(tự viết thơ và đọc to lên)*
 - B. each choose a poem and read it aloud *(mỗi người chọn một bài thơ và đọc to)*
-- C. explain a long poem *(giải thích một bài thơ dài)*
-- D. read a new biography *(đọc một cuốn tiểu sử mới)*
+- C. explain a long poem to the other members *(giải thích một bài thơ dài cho các thành viên khác)*
+- D. read a new biography of a famous person *(đọc một cuốn tiểu sử mới về người nổi tiếng)*
 
 **8. Why does Harriet say "you can choose something short and funny"?**
 *(Vì sao bà Harriet nói "bạn có thể chọn bài nào đó ngắn và vui"?)*
 
-- A. She doesn't like long poems. *(Vì bà không thích thơ dài.)*
-- B. The meeting will be very short. *(Vì buổi họp sẽ rất ngắn.)*
-- C. to make members who are not enthusiastic about poetry feel more comfortable *(để những thành viên không mặn mà với thơ thấy thoải mái hơn)*
-- D. Only funny poems are allowed. *(Vì chỉ được chọn thơ vui.)*
+- A. She doesn't like long poems, because she finds them boring to read. *(Cô không thích thơ dài vì thấy đọc chán.)*
+- B. The meeting will be very short because of the heat. *(Buổi họp sẽ rất ngắn vì trời nóng.)*
+- C. to help members who are not fans of poetry feel comfortable *(để giúp các thành viên không thích thơ cảm thấy thoải mái)*
+- D. Only funny poems are allowed, and long ones are not. *(Chỉ cho phép thơ hài hước, thơ dài thì không.)*
 
 **9. What do Tina and Amy do on Saturday mornings?**
 *(Sáng thứ Bảy Tina và Amy làm gì?)*
 
 - A. They retell fairy tales to the younger kids. *(Kể lại truyện cổ tích cho các em nhỏ hơn.)*
-- B. They work at the café. *(Làm ở quán cà phê.)*
-- C. They read poems aloud to the adults. *(Đọc thơ cho người lớn nghe.)*
-- D. They write a biography. *(Viết một cuốn tiểu sử.)*
+- B. They work at the café and serve free coffee. *(Họ làm ở quán cà phê và phục vụ cà phê miễn phí.)*
+- C. They read poems aloud to the adults at the club. *(Họ đọc thơ to cho người lớn ở câu lạc bộ.)*
+- D. They write a biography of a young sailor. *(Họ viết tiểu sử của một cô gái trẻ đi thuyền.)*
 
 **10. What can we guess about the way Amy told the story of the wizard?**
 *(Có thể đoán gì về cách Amy kể chuyện ông phù thuỷ?)*
 
-- A. It was too quiet to hear. *(Quá nhỏ, không nghe được.)*
+- A. It was too quiet for the children to hear. *(Nó quá nhỏ nên bọn trẻ không nghe thấy.)*
 - B. It was very dramatic and exciting. *(Rất kịch tính và cuốn hút.)*
-- C. It was very short. *(Rất ngắn.)*
-- D. It was boring for the children. *(Làm bọn trẻ chán.)*
+- C. It was very short, with no scary parts. *(Nó rất ngắn, không có đoạn nào đáng sợ.)*
+- D. It was boring for the children, who left. *(Nó chán với bọn trẻ nên chúng bỏ đi.)*
 
 ---
 
@@ -212,10 +212,10 @@
 **11. What is the article mainly about?**
 *(Bài báo chủ yếu nói về điều gì?)*
 
-- A. how to win a soccer tournament *(cách vô địch một giải bóng đá)*
-- B. why Trevor left his school team *(vì sao Trevor rời đội trường)*
+- A. how to win a summer soccer tournament by training six days a week *(cách thắng giải bóng đá mùa hè bằng việc tập sáu ngày mỗi tuần)*
+- B. why Trevor left his school team for a better one *(vì sao Trevor rời đội trường để sang đội tốt hơn)*
 - C. overuse injuries in young athletes and how to prevent them *(chấn thương do tập quá sức ở vận động viên trẻ và cách phòng tránh)*
-- D. the best exercises for leg muscles *(những bài tập tốt nhất cho cơ chân)*
+- D. the best exercises for leg muscles after a summer injury *(những bài tập tốt nhất cho cơ chân sau chấn thương mùa hè)*
 
 **12. Why did Trevor have to pull out of the final?**
 *(Vì sao Trevor phải rút khỏi trận chung kết?)*
@@ -228,26 +228,26 @@
 **13. Why did Trevor think at first that it was a minor problem?**
 *(Vì sao lúc đầu Trevor nghĩ đó chỉ là chuyện nhỏ?)*
 
-- A. The pain went away the next day. *(Vì hôm sau hết đau.)*
-- B. His coach told him so. *(Vì huấn luyện viên bảo vậy.)*
-- C. He had had the same pain before. *(Vì cậu từng bị đau như thế.)*
+- A. The pain went away the next day after resting. *(Cơn đau hết vào hôm sau khi nghỉ ngơi.)*
+- B. His coach told him it was only a small problem. *(Huấn luyện viên bảo cậu chỉ là chuyện nhỏ.)*
+- C. He had had the same pain before, and it went away. *(Cậu từng đau như vậy trước đây và nó tự hết.)*
 - D. He hadn't fallen or twisted anything. *(Vì cậu không hề ngã hay trẹo chỗ nào.)*
 
 **14. What is an overuse injury?**
 *(Chấn thương do vận động quá mức là gì?)*
 
-- A. an injury that happens when you fall *(chấn thương do ngã)*
-- B. an injury from using the same part of the body again and again without enough rest *(chấn thương do dùng một bộ phận cơ thể lặp đi lặp lại mà không nghỉ đủ)*
-- C. an injury that only adults get *(chấn thương chỉ người lớn mới bị)*
-- D. an injury from a hit to the head *(chấn thương do va đầu)*
+- A. an injury that happens when you fall or twist something during a game *(chấn thương xảy ra khi bạn ngã hoặc trẹo một chỗ trong trận đấu)*
+- B. an injury from using one body part again and again without enough rest *(chấn thương do dùng một bộ phận cơ thể lặp đi lặp lại mà không nghỉ đủ)*
+- C. an injury that only adults get from working too hard *(chấn thương chỉ người lớn bị do làm việc quá sức)*
+- D. an injury from a hit to the head in a game *(chấn thương do bị đập vào đầu trong trận đấu)*
 
 **15. Why can teenagers get hurt more easily than adults?**
 *(Vì sao tuổi teen dễ bị chấn thương hơn người lớn?)*
 
-- A. They don't drink enough water. *(Vì không uống đủ nước.)*
-- B. They play only on weekends. *(Vì chỉ chơi vào cuối tuần.)*
-- C. Their bones are still growing, and the areas near the ends are softer. *(Vì xương vẫn đang phát triển, và phần gần hai đầu xương mềm hơn.)*
-- D. They don't listen to their coaches. *(Vì không nghe lời huấn luyện viên.)*
+- A. They don't drink enough water during long games and training. *(Họ uống không đủ nước trong các trận đấu và buổi tập dài.)*
+- B. They play only on weekends, so their bodies get tired. *(Họ chỉ chơi vào cuối tuần nên cơ thể mệt.)*
+- C. Their bones are still growing, so the ends are softer. *(Xương của họ còn đang lớn nên phần đầu xương mềm hơn.)*
+- D. They don't listen to their coaches when they feel pain. *(Họ không nghe huấn luyện viên khi thấy đau.)*
 
 **16. In "Trevor Carter got picked for his high school soccer team", what does "got picked" mean?**
 *(Trong câu "Trevor Carter got picked for his high school soccer team", "got picked" nghĩa là gì?)*
@@ -261,9 +261,9 @@
 *(Một vận động viên bơi mười ba tuổi tập mười sáu giờ mỗi tuần. Theo quy tắc của các chuyên gia thì sao?)*
 
 - A. She is training more than the rule recommends. *(Bạn ấy đang tập nhiều hơn mức quy tắc khuyên.)*
-- B. She should train twenty hours instead. *(Bạn ấy nên tập hai mươi giờ.)*
+- B. She should train twenty hours instead of sixteen. *(Cô nên tập hai mươi giờ thay vì mười sáu giờ.)*
 - C. She is training exactly the right amount. *(Bạn ấy tập vừa đúng mức.)*
-- D. The rule is only for soccer players. *(Quy tắc chỉ dành cho cầu thủ bóng đá.)*
+- D. The rule is only for soccer players and runners. *(Quy tắc này chỉ dành cho cầu thủ bóng đá và người chạy bộ.)*
 
 **18. Which of these is NOT advice given in the article?**
 *(Lời khuyên nào KHÔNG có trong bài?)*
@@ -276,18 +276,18 @@
 **19. What does Trevor mean by "I'd rather miss one game than a whole season"?**
 *(Trevor muốn nói gì qua câu "thà lỡ một trận còn hơn lỡ cả mùa giải"?)*
 
-- A. He doesn't like playing in finals. *(Cậu không thích đá chung kết.)*
+- A. He doesn't like playing in finals with so many people. *(Cậu không thích chơi các trận chung kết có quá nhiều người.)*
 - B. Resting now is better than getting a worse injury later. *(Nghỉ bây giờ còn hơn sau này bị chấn thương nặng hơn.)*
-- C. He wants to change sports. *(Cậu muốn đổi môn.)*
-- D. His team doesn't need him. *(Đội không cần cậu.)*
+- C. He wants to change sports and stop playing soccer. *(Cậu muốn đổi môn và thôi chơi bóng đá.)*
+- D. His team doesn't need him because it has better players. *(Đội không cần cậu vì có cầu thủ giỏi hơn.)*
 
 **20. Use both texts. What is true about the Carter children this summer?**
 *(Dựa vào cả hai bài. Điều nào đúng về các con nhà Carter mùa hè này?)*
 
-- A. Trevor and Tina both play on the school soccer team. *(Trevor và Tina đều ở đội bóng của trường.)*
-- B. Tina has stopped reading because of Trevor's injury. *(Tina thôi đọc sách vì Trevor bị chấn thương.)*
-- C. Trevor goes to Harriet's book club. *(Trevor tham gia câu lạc bộ sách của bà Harriet.)*
-- D. Trevor has been resting an injury, and Tina has started a reading club with Amy. *(Trevor đã phải nghỉ để chữa chấn thương, còn Tina lập một câu lạc bộ đọc với Amy.)*
+- A. Trevor and Tina both play on the school soccer team this year. *(Trevor và Tina năm nay đều chơi cho đội bóng đá của trường.)*
+- B. Tina has stopped reading because she is busy helping Trevor recover. *(Tina đã thôi đọc sách vì bận giúp Trevor hồi phục.)*
+- C. Trevor goes to Harriet's book club on Tuesdays with Nathan. *(Trevor đến câu lạc bộ sách của Harriet vào thứ Ba cùng Nathan.)*
+- D. Trevor is resting an injury, and Tina has started a club with Amy. *(Trevor đang nghỉ vì chấn thương, còn Tina lập một câu lạc bộ cùng Amy.)*
 
 ---
 

@@ -655,45 +655,45 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to complain about problems with two deliveries and ask for a solution",
-            "vi": "để khiếu nại về sự cố của hai lần giao hàng và đề nghị cách giải quyết"
+            "en": "to complain about two bad deliveries and ask for a solution",
+            "vi": "để khiếu nại về hai lần giao hàng tệ và đề nghị cách giải quyết"
           },
           "is_correct": true,
           "order": 0,
-          "text": "to complain about problems with two deliveries and ask for a solution",
-          "text_translation": "để khiếu nại về sự cố của hai lần giao hàng và đề nghị cách giải quyết"
+          "text": "to complain about two bad deliveries and ask for a solution",
+          "text_translation": "để khiếu nại về hai lần giao hàng tệ và đề nghị cách giải quyết"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to order a new kind of coffee",
-            "vi": "để đặt một loại cà phê mới"
+            "en": "to order a new kind of coffee for her café",
+            "vi": "để đặt một loại cà phê mới cho quán"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to order a new kind of coffee",
-          "text_translation": "để đặt một loại cà phê mới"
+          "text": "to order a new kind of coffee for her café",
+          "text_translation": "để đặt một loại cà phê mới cho quán"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to thank the company for ten years of good service",
-            "vi": "để cảm ơn công ty vì mười năm phục vụ tốt"
+            "en": "to thank the company for ten years of good service and quality",
+            "vi": "để cảm ơn công ty vì mười năm phục vụ và chất lượng tốt"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to thank the company for ten years of good service",
-          "text_translation": "để cảm ơn công ty vì mười năm phục vụ tốt"
+          "text": "to thank the company for ten years of good service and quality",
+          "text_translation": "để cảm ơn công ty vì mười năm phục vụ và chất lượng tốt"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to tell the company that she is closing her café",
+            "en": "to tell the company that she is closing her café soon",
             "vi": "để báo công ty rằng bà sắp đóng quán"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to tell the company that she is closing her café",
+          "text": "to tell the company that she is closing her café soon",
           "text_translation": "để báo công ty rằng bà sắp đóng quán"
         }
       ],
@@ -791,46 +791,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The boxes were sent to the wrong café.",
-            "vi": "Thùng hàng bị giao nhầm quán."
+            "en": "The boxes were sent to the wrong café two days late.",
+            "vi": "Thùng hàng bị giao nhầm quán, lại muộn hai ngày."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The boxes were sent to the wrong café.",
-          "text_translation": "Thùng hàng bị giao nhầm quán."
+          "text": "The boxes were sent to the wrong café two days late.",
+          "text_translation": "Thùng hàng bị giao nhầm quán, lại muộn hai ngày."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The coffee was too expensive.",
-            "vi": "Cà phê quá đắt."
+            "en": "The coffee was too expensive, so customers stopped coming.",
+            "vi": "Cà phê quá đắt nên khách thôi đến."
           },
           "is_correct": false,
           "order": 1,
-          "text": "The coffee was too expensive.",
-          "text_translation": "Cà phê quá đắt."
+          "text": "The coffee was too expensive, so customers stopped coming.",
+          "text_translation": "Cà phê quá đắt nên khách thôi đến."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The delivery driver was rude.",
-            "vi": "Người giao hàng bất lịch sự."
+            "en": "The delivery driver was rude and broke several bags.",
+            "vi": "Người giao hàng bất lịch sự và làm vỡ vài túi."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The delivery driver was rude.",
-          "text_translation": "Người giao hàng bất lịch sự."
+          "text": "The delivery driver was rude and broke several bags.",
+          "text_translation": "Người giao hàng bất lịch sự và làm vỡ vài túi."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "They were late, some bags were torn, and the beans were damp.",
-            "vi": "Giao muộn, vài túi bị rách, và hạt cà phê bị ẩm."
+            "en": "They were two days late, and the beans were damp.",
+            "vi": "Giao muộn hai ngày, và hạt cà phê bị ẩm."
           },
           "is_correct": true,
           "order": 3,
-          "text": "They were late, some bags were torn, and the beans were damp.",
-          "text_translation": "Giao muộn, vài túi bị rách, và hạt cà phê bị ẩm."
+          "text": "They were two days late, and the beans were damp.",
+          "text_translation": "Giao muộn hai ngày, và hạt cà phê bị ẩm."
         }
       ],
       "evidence_segments": [
@@ -859,46 +859,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The coffee was really left in Harriet's car.",
-            "vi": "Cà phê thật sự bị để trong xe của bà Harriet."
+            "en": "The coffee was really left in a hot car outside Harriet's café.",
+            "vi": "Cà phê thật sự bị để trong xe nóng trước quán bà Harriet."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The coffee was really left in Harriet's car.",
-          "text_translation": "Cà phê thật sự bị để trong xe của bà Harriet."
+          "text": "The coffee was really left in a hot car outside Harriet's café.",
+          "text_translation": "Cà phê thật sự bị để trong xe nóng trước quán bà Harriet."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The coffee tasted old and spoiled, although Harriet doesn't know what happened to it.",
-            "vi": "Cà phê có vị cũ và hỏng, dù bà Harriet không biết chuyện gì đã xảy ra với nó."
+            "en": "The coffee tasted old and spoiled, but she doesn't know why.",
+            "vi": "Cà phê có vị cũ và hỏng, nhưng bà không biết vì sao."
           },
           "is_correct": true,
           "order": 1,
-          "text": "The coffee tasted old and spoiled, although Harriet doesn't know what happened to it.",
-          "text_translation": "Cà phê có vị cũ và hỏng, dù bà Harriet không biết chuyện gì đã xảy ra với nó."
+          "text": "The coffee tasted old and spoiled, but she doesn't know why.",
+          "text_translation": "Cà phê có vị cũ và hỏng, nhưng bà không biết vì sao."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The coffee was too hot to drink.",
-            "vi": "Cà phê quá nóng, không uống được."
+            "en": "The coffee was too hot to drink when it arrived.",
+            "vi": "Cà phê quá nóng, không uống được khi nó được giao tới."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The coffee was too hot to drink.",
-          "text_translation": "Cà phê quá nóng, không uống được."
+          "text": "The coffee was too hot to drink when it arrived.",
+          "text_translation": "Cà phê quá nóng, không uống được khi nó được giao tới."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The coffee was delivered by car.",
-            "vi": "Cà phê được giao bằng ô tô."
+            "en": "The coffee was delivered by car, so it tasted of the car.",
+            "vi": "Cà phê được giao bằng ô tô nên có vị của chiếc xe."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The coffee was delivered by car.",
-          "text_translation": "Cà phê được giao bằng ô tô."
+          "text": "The coffee was delivered by car, so it tasted of the car.",
+          "text_translation": "Cà phê được giao bằng ô tô nên có vị của chiếc xe."
         }
       ],
       "evidence_segments": [
@@ -927,46 +927,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to show that the problem was serious enough for customers to notice",
-            "vi": "để cho thấy vấn đề nghiêm trọng tới mức khách cũng nhận ra"
+            "en": "to show that the problem was serious enough to notice",
+            "vi": "để cho thấy vấn đề nghiêm trọng tới mức ai cũng nhận ra"
           },
           "is_correct": true,
           "order": 0,
-          "text": "to show that the problem was serious enough for customers to notice",
-          "text_translation": "để cho thấy vấn đề nghiêm trọng tới mức khách cũng nhận ra"
+          "text": "to show that the problem was serious enough to notice",
+          "text_translation": "để cho thấy vấn đề nghiêm trọng tới mức ai cũng nhận ra"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to complain about a rude customer",
-            "vi": "để phàn nàn về một vị khách bất lịch sự"
+            "en": "to complain about a rude customer who left the café",
+            "vi": "để phàn nàn về một vị khách bất lịch sự rời quán"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to complain about a rude customer",
-          "text_translation": "để phàn nàn về một vị khách bất lịch sự"
+          "text": "to complain about a rude customer who left the café",
+          "text_translation": "để phàn nàn về một vị khách bất lịch sự rời quán"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to say that she has changed suppliers",
-            "vi": "để nói bà đã đổi nhà cung cấp"
+            "en": "to say that she has changed suppliers because of him",
+            "vi": "để nói bà đã đổi nhà cung cấp vì ông ấy"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to say that she has changed suppliers",
-          "text_translation": "để nói bà đã đổi nhà cung cấp"
+          "text": "to say that she has changed suppliers because of him",
+          "text_translation": "để nói bà đã đổi nhà cung cấp vì ông ấy"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to ask the company to call him",
-            "vi": "để nhờ công ty gọi cho ông ấy"
+            "en": "to ask the company to call him about the problem",
+            "vi": "để nhờ công ty gọi cho ông ấy về vấn đề"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to ask the company to call him",
-          "text_translation": "để nhờ công ty gọi cho ông ấy"
+          "text": "to ask the company to call him about the problem",
+          "text_translation": "để nhờ công ty gọi cho ông ấy về vấn đề"
         }
       ],
       "evidence_segments": [
@@ -995,13 +995,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She has told her staff to make better coffee.",
-            "vi": "Bà bảo nhân viên pha cà phê ngon hơn."
+            "en": "She has told her staff to make better coffee next time.",
+            "vi": "Bà bảo nhân viên lần sau pha cà phê ngon hơn."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She has told her staff to make better coffee.",
-          "text_translation": "Bà bảo nhân viên pha cà phê ngon hơn."
+          "text": "She has told her staff to make better coffee next time.",
+          "text_translation": "Bà bảo nhân viên lần sau pha cà phê ngon hơn."
         },
         {
           "id": "B",
@@ -1063,46 +1063,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "closing the warehouse",
-            "vi": "đóng cửa nhà kho"
+            "en": "closing the warehouse until the trucks are repaired",
+            "vi": "đóng cửa nhà kho cho đến khi xe tải được sửa"
           },
           "is_correct": false,
           "order": 0,
-          "text": "closing the warehouse",
-          "text_translation": "đóng cửa nhà kho"
+          "text": "closing the warehouse until the trucks are repaired",
+          "text_translation": "đóng cửa nhà kho cho đến khi xe tải được sửa"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "sending a new delivery driver",
-            "vi": "cử người giao hàng mới"
+            "en": "sending a new delivery driver to her café every week",
+            "vi": "cử người giao hàng mới tới quán bà mỗi tuần"
           },
           "is_correct": false,
           "order": 1,
-          "text": "sending a new delivery driver",
-          "text_translation": "cử người giao hàng mới"
+          "text": "sending a new delivery driver to her café every week",
+          "text_translation": "cử người giao hàng mới tới quán bà mỗi tuần"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "making the price lower",
-            "vi": "giảm giá"
+            "en": "making the price lower for all the regular customers",
+            "vi": "giảm giá cho mọi khách quen"
           },
           "is_correct": false,
           "order": 2,
-          "text": "making the price lower",
-          "text_translation": "giảm giá"
+          "text": "making the price lower for all the regular customers",
+          "text_translation": "giảm giá cho mọi khách quen"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "replacing the damaged bags and checking the next delivery carefully",
-            "vi": "đổi những túi hỏng và kiểm tra kỹ lần giao tới"
+            "en": "replacing the damaged bags and checking the next delivery",
+            "vi": "đổi những túi hỏng và kiểm tra lần giao tới"
           },
           "is_correct": true,
           "order": 3,
-          "text": "replacing the damaged bags and checking the next delivery carefully",
-          "text_translation": "đổi những túi hỏng và kiểm tra kỹ lần giao tới"
+          "text": "replacing the damaged bags and checking the next delivery",
+          "text_translation": "đổi những túi hỏng và kiểm tra lần giao tới"
         }
       ],
       "evidence_segments": [
@@ -1131,13 +1131,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Harriet's staff stored the coffee badly.",
-            "vi": "Nhân viên quán bà Harriet bảo quản cà phê không tốt."
+            "en": "Harriet's staff stored the coffee badly in the café.",
+            "vi": "Nhân viên quán bà Harriet bảo quản cà phê không tốt ở quán."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Harriet's staff stored the coffee badly.",
-          "text_translation": "Nhân viên quán bà Harriet bảo quản cà phê không tốt."
+          "text": "Harriet's staff stored the coffee badly in the café.",
+          "text_translation": "Nhân viên quán bà Harriet bảo quản cà phê không tốt ở quán."
         },
         {
           "id": "B",
@@ -1199,46 +1199,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It will refund both deliveries and send two free bags of coffee.",
+            "en": "It will refund both deliveries and send two free bags.",
             "vi": "Hoàn tiền cả hai lần giao và tặng hai túi cà phê."
           },
           "is_correct": true,
           "order": 0,
-          "text": "It will refund both deliveries and send two free bags of coffee.",
+          "text": "It will refund both deliveries and send two free bags.",
           "text_translation": "Hoàn tiền cả hai lần giao và tặng hai túi cà phê."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "It will give Harriet a new truck.",
-            "vi": "Tặng bà Harriet một chiếc xe tải."
+            "en": "It will give Harriet a new truck for her café.",
+            "vi": "Tặng bà Harriet một chiếc xe tải mới cho quán."
           },
           "is_correct": false,
           "order": 1,
-          "text": "It will give Harriet a new truck.",
-          "text_translation": "Tặng bà Harriet một chiếc xe tải."
+          "text": "It will give Harriet a new truck for her café.",
+          "text_translation": "Tặng bà Harriet một chiếc xe tải mới cho quán."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "It will send someone to work at the café.",
-            "vi": "Cử người tới làm ở quán."
+            "en": "It will send someone to work at the café for a week.",
+            "vi": "Cử người tới làm ở quán trong một tuần."
           },
           "is_correct": false,
           "order": 2,
-          "text": "It will send someone to work at the café.",
-          "text_translation": "Cử người tới làm ở quán."
+          "text": "It will send someone to work at the café for a week.",
+          "text_translation": "Cử người tới làm ở quán trong một tuần."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "It will refund only one delivery.",
-            "vi": "Chỉ hoàn tiền một lần giao."
+            "en": "It will refund only one delivery and send one free bag.",
+            "vi": "Chỉ hoàn tiền một lần giao và tặng một túi."
           },
           "is_correct": false,
           "order": 3,
-          "text": "It will refund only one delivery.",
-          "text_translation": "Chỉ hoàn tiền một lần giao."
+          "text": "It will refund only one delivery and send one free bag.",
+          "text_translation": "Chỉ hoàn tiền một lần giao và tặng một túi."
         }
       ],
       "evidence_segments": [
@@ -1267,24 +1267,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "angry, and it blames Harriet",
-            "vi": "giận dữ và đổ lỗi cho bà Harriet"
+            "en": "angry, and it blames Harriet's staff for the problem",
+            "vi": "giận dữ và đổ lỗi cho nhân viên của bà Harriet"
           },
           "is_correct": false,
           "order": 0,
-          "text": "angry, and it blames Harriet",
-          "text_translation": "giận dữ và đổ lỗi cho bà Harriet"
+          "text": "angry, and it blames Harriet's staff for the problem",
+          "text_translation": "giận dữ và đổ lỗi cho nhân viên của bà Harriet"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "cold and very short",
-            "vi": "lạnh lùng và cộc lốc"
+            "en": "cold and very short, and it ignores her request",
+            "vi": "lạnh lùng, cộc lốc và bỏ qua đề nghị của bà"
           },
           "is_correct": false,
           "order": 1,
-          "text": "cold and very short",
-          "text_translation": "lạnh lùng và cộc lốc"
+          "text": "cold and very short, and it ignores her request",
+          "text_translation": "lạnh lùng, cộc lốc và bỏ qua đề nghị của bà"
         },
         {
           "id": "C",
@@ -1300,13 +1300,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "funny and casual",
-            "vi": "hài hước và xuề xoà"
+            "en": "funny and casual, and it ends with a joke",
+            "vi": "hài hước, xuề xoà và kết thúc bằng một câu đùa"
           },
           "is_correct": false,
           "order": 3,
-          "text": "funny and casual",
-          "text_translation": "hài hước và xuề xoà"
+          "text": "funny and casual, and it ends with a joke",
+          "text_translation": "hài hước, xuề xoà và kết thúc bằng một câu đùa"
         }
       ],
       "evidence_segments": [
@@ -1335,46 +1335,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to ask for money",
-            "vi": "để xin tiền"
+            "en": "to ask for money to pay for her exam books",
+            "vi": "để xin tiền mua sách ôn thi"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to ask for money",
-          "text_translation": "để xin tiền"
+          "text": "to ask for money to pay for her exam books",
+          "text_translation": "để xin tiền mua sách ôn thi"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She felt overwhelmed before her exams.",
-            "vi": "Vì cô thấy ngợp trước kỳ thi."
+            "en": "to talk to someone because she felt overwhelmed",
+            "vi": "để tâm sự với ai đó vì cô thấy ngợp"
           },
           "is_correct": true,
           "order": 1,
-          "text": "She felt overwhelmed before her exams.",
-          "text_translation": "Vì cô thấy ngợp trước kỳ thi."
+          "text": "to talk to someone because she felt overwhelmed",
+          "text_translation": "để tâm sự với ai đó vì cô thấy ngợp"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "to tell her about Camila's birthday",
-            "vi": "để kể về sinh nhật Camila"
+            "en": "to tell her about Camila's birthday party",
+            "vi": "để kể về bữa tiệc sinh nhật của Camila"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to tell her about Camila's birthday",
-          "text_translation": "để kể về sinh nhật Camila"
+          "text": "to tell her about Camila's birthday party",
+          "text_translation": "để kể về bữa tiệc sinh nhật của Camila"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to ask about plans for the winter break",
-            "vi": "để hỏi kế hoạch kỳ nghỉ đông"
+            "en": "to ask about the plans for the winter break holiday",
+            "vi": "để hỏi kế hoạch cho kỳ nghỉ đông"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to ask about plans for the winter break",
-          "text_translation": "để hỏi kế hoạch kỳ nghỉ đông"
+          "text": "to ask about the plans for the winter break holiday",
+          "text_translation": "để hỏi kế hoạch cho kỳ nghỉ đông"
         }
       ],
       "evidence_segments": [
@@ -1403,35 +1403,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She started studying very early.",
-            "vi": "Cô bắt đầu ôn rất sớm."
+            "en": "She started studying very early last month.",
+            "vi": "Cô bắt đầu ôn rất sớm từ tháng trước."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She started studying very early.",
-          "text_translation": "Cô bắt đầu ôn rất sớm."
+          "text": "She started studying very early last month.",
+          "text_translation": "Cô bắt đầu ôn rất sớm từ tháng trước."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She will start studying tomorrow.",
-            "vi": "Mai cô mới bắt đầu ôn."
+            "en": "She will start studying tomorrow morning at six.",
+            "vi": "Sáng mai lúc sáu giờ cô mới bắt đầu ôn."
           },
           "is_correct": false,
           "order": 1,
-          "text": "She will start studying tomorrow.",
-          "text_translation": "Mai cô mới bắt đầu ôn."
+          "text": "She will start studying tomorrow morning at six.",
+          "text_translation": "Sáng mai lúc sáu giờ cô mới bắt đầu ôn."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "She doesn't want to study.",
-            "vi": "Cô không muốn học."
+            "en": "She doesn't want to study, so she called her cousin.",
+            "vi": "Cô không muốn học nên mới gọi cho chị họ."
           },
           "is_correct": false,
           "order": 2,
-          "text": "She doesn't want to study.",
-          "text_translation": "Cô không muốn học."
+          "text": "She doesn't want to study, so she called her cousin.",
+          "text_translation": "Cô không muốn học nên mới gọi cho chị họ."
         },
         {
           "id": "D",
@@ -1471,46 +1471,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "When you are stressed and tired, your brain can't store new information well.",
-            "vi": "Vì khi căng thẳng và mệt, não không lưu được thông tin mới tốt."
+            "en": "Tired, stressed brains can't store new information well.",
+            "vi": "Vì bộ não mệt và căng thẳng không lưu thông tin mới tốt."
           },
           "is_correct": true,
           "order": 0,
-          "text": "When you are stressed and tired, your brain can't store new information well.",
-          "text_translation": "Vì khi căng thẳng và mệt, não không lưu được thông tin mới tốt."
+          "text": "Tired, stressed brains can't store new information well.",
+          "text_translation": "Vì bộ não mệt và căng thẳng không lưu thông tin mới tốt."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Doctors need more sleep than students.",
-            "vi": "Vì bác sĩ cần ngủ nhiều hơn sinh viên."
+            "en": "Doctors need much more sleep than students do.",
+            "vi": "Vì bác sĩ cần ngủ nhiều hơn sinh viên rất nhiều."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Doctors need more sleep than students.",
-          "text_translation": "Vì bác sĩ cần ngủ nhiều hơn sinh viên."
+          "text": "Doctors need much more sleep than students do.",
+          "text_translation": "Vì bác sĩ cần ngủ nhiều hơn sinh viên rất nhiều."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Exams are always in the morning.",
-            "vi": "Vì các bài thi luôn vào buổi sáng."
+            "en": "Exams are always in the morning, so students need rest.",
+            "vi": "Vì bài thi luôn vào buổi sáng nên sinh viên cần nghỉ."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Exams are always in the morning.",
-          "text_translation": "Vì các bài thi luôn vào buổi sáng."
+          "text": "Exams are always in the morning, so students need rest.",
+          "text_translation": "Vì bài thi luôn vào buổi sáng nên sinh viên cần nghỉ."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Tracy can study in her dreams.",
-            "vi": "Vì Tracy có thể học trong mơ."
+            "en": "Tracy can study in her dreams if she sleeps well.",
+            "vi": "Vì Tracy có thể học trong mơ nếu ngủ ngon."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Tracy can study in her dreams.",
-          "text_translation": "Vì Tracy có thể học trong mơ."
+          "text": "Tracy can study in her dreams if she sleeps well.",
+          "text_translation": "Vì Tracy có thể học trong mơ nếu ngủ ngon."
         }
       ],
       "evidence_segments": [
@@ -1539,46 +1539,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "studying all night before each exam",
-            "vi": "thức trắng đêm trước mỗi bài thi"
+            "en": "studying all night before each of the three exams",
+            "vi": "thức trắng đêm trước mỗi bài trong ba bài thi"
           },
           "is_correct": false,
           "order": 0,
-          "text": "studying all night before each exam",
-          "text_translation": "thức trắng đêm trước mỗi bài thi"
+          "text": "studying all night before each of the three exams",
+          "text_translation": "thức trắng đêm trước mỗi bài trong ba bài thi"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "studying with Camila every evening",
-            "vi": "tối nào cũng học cùng Camila"
+            "en": "studying with Camila every evening after dinner",
+            "vi": "tối nào cũng học cùng Camila sau bữa ăn"
           },
           "is_correct": false,
           "order": 1,
-          "text": "studying with Camila every evening",
-          "text_translation": "tối nào cũng học cùng Camila"
+          "text": "studying with Camila every evening after dinner",
+          "text_translation": "tối nào cũng học cùng Camila sau bữa ăn"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "forty-five minutes of studying, then a ten-minute break",
-            "vi": "học bốn mươi lăm phút, rồi nghỉ mười phút"
+            "en": "forty-five minutes of studying, then a short break",
+            "vi": "học bốn mươi lăm phút, rồi nghỉ một lúc"
           },
           "is_correct": true,
           "order": 2,
-          "text": "forty-five minutes of studying, then a ten-minute break",
-          "text_translation": "học bốn mươi lăm phút, rồi nghỉ mười phút"
+          "text": "forty-five minutes of studying, then a short break",
+          "text_translation": "học bốn mươi lăm phút, rồi nghỉ một lúc"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "one long block of ten hours",
-            "vi": "một khối dài mười tiếng"
+            "en": "one long block of ten hours without any break",
+            "vi": "một khối dài mười tiếng không nghỉ"
           },
           "is_correct": false,
           "order": 3,
-          "text": "one long block of ten hours",
-          "text_translation": "một khối dài mười tiếng"
+          "text": "one long block of ten hours without any break",
+          "text_translation": "một khối dài mười tiếng không nghỉ"
         }
       ],
       "evidence_segments": [
@@ -1629,13 +1629,13 @@
         {
           "id": "C",
           "i18n": {
-            "en": "It means that you don't need to sleep.",
-            "vi": "Vì như vậy khỏi cần ngủ."
+            "en": "It means that you don't need to sleep before exams.",
+            "vi": "Vì như vậy khỏi cần ngủ trước kỳ thi."
           },
           "is_correct": false,
           "order": 2,
-          "text": "It means that you don't need to sleep.",
-          "text_translation": "Vì như vậy khỏi cần ngủ."
+          "text": "It means that you don't need to sleep before exams.",
+          "text_translation": "Vì như vậy khỏi cần ngủ trước kỳ thi."
         },
         {
           "id": "D",
@@ -1675,46 +1675,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Breathe in quickly ten times.",
-            "vi": "Hít vào nhanh mười lần."
+            "en": "Breathe in quickly ten times and then hold your breath.",
+            "vi": "Hít vào nhanh mười lần rồi nín thở."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Breathe in quickly ten times.",
-          "text_translation": "Hít vào nhanh mười lần."
+          "text": "Breathe in quickly ten times and then hold your breath.",
+          "text_translation": "Hít vào nhanh mười lần rồi nín thở."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Hold your breath for one minute.",
-            "vi": "Nín thở một phút."
+            "en": "Hold your breath for a full minute, then breathe out slowly.",
+            "vi": "Nín thở trọn một phút, rồi thở ra chậm."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Hold your breath for one minute.",
-          "text_translation": "Nín thở một phút."
+          "text": "Hold your breath for a full minute, then breathe out slowly.",
+          "text_translation": "Nín thở trọn một phút, rồi thở ra chậm."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Breathe out for ten seconds only.",
-            "vi": "Chỉ thở ra mười giây."
+            "en": "Breathe out for ten seconds only, then breathe in once.",
+            "vi": "Chỉ thở ra mười giây, rồi hít vào một lần."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Breathe out for ten seconds only.",
-          "text_translation": "Chỉ thở ra mười giây."
+          "text": "Breathe out for ten seconds only, then breathe in once.",
+          "text_translation": "Chỉ thở ra mười giây, rồi hít vào một lần."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Breathe in for four seconds, hold for four, and breathe out for four.",
-            "vi": "Hít vào bốn giây, giữ bốn giây, thở ra bốn giây."
+            "en": "Breathe in, hold and breathe out, each for four seconds.",
+            "vi": "Hít vào, giữ và thở ra, mỗi việc bốn giây."
           },
           "is_correct": true,
           "order": 3,
-          "text": "Breathe in for four seconds, hold for four, and breathe out for four.",
-          "text_translation": "Hít vào bốn giây, giữ bốn giây, thở ra bốn giây."
+          "text": "Breathe in, hold and breathe out, each for four seconds.",
+          "text_translation": "Hít vào, giữ và thở ra, mỗi việc bốn giây."
         }
       ],
       "evidence_segments": [
@@ -1743,13 +1743,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She feels alone in her worries, although this is probably not true.",
-            "vi": "Cô thấy chỉ mình mình lo lắng, dù điều đó nhiều khả năng không đúng."
+            "en": "She feels alone, although this is probably not true.",
+            "vi": "Cô thấy mình đơn độc, dù điều đó nhiều khả năng không đúng."
           },
           "is_correct": true,
           "order": 0,
-          "text": "She feels alone in her worries, although this is probably not true.",
-          "text_translation": "Cô thấy chỉ mình mình lo lắng, dù điều đó nhiều khả năng không đúng."
+          "text": "She feels alone, although this is probably not true.",
+          "text_translation": "Cô thấy mình đơn độc, dù điều đó nhiều khả năng không đúng."
         },
         {
           "id": "B",
@@ -1812,46 +1812,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It is only for weak students.",
-            "vi": "Nó chỉ dành cho sinh viên yếu kém."
+            "en": "It is only for weak students who can't pass their exams.",
+            "vi": "Nó chỉ dành cho sinh viên yếu không qua nổi kỳ thi."
           },
           "is_correct": false,
           "order": 0,
-          "text": "It is only for weak students.",
-          "text_translation": "Nó chỉ dành cho sinh viên yếu kém."
+          "text": "It is only for weak students who can't pass their exams.",
+          "text_translation": "Nó chỉ dành cho sinh viên yếu không qua nổi kỳ thi."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "It is very expensive.",
-            "vi": "Nó rất đắt."
+            "en": "It is very expensive, so only a few students go there.",
+            "vi": "Nó rất đắt nên chỉ vài sinh viên tới đó."
           },
           "is_correct": false,
           "order": 1,
-          "text": "It is very expensive.",
-          "text_translation": "Nó rất đắt."
+          "text": "It is very expensive, so only a few students go there.",
+          "text_translation": "Nó rất đắt nên chỉ vài sinh viên tới đó."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "It is free for students, and going there means that you are taking care of yourself.",
-            "vi": "Sinh viên dùng miễn phí, và tới đó nghĩa là đang chăm sóc bản thân."
+            "en": "It is free, and going there means taking care of yourself.",
+            "vi": "Miễn phí, và tới đó nghĩa là đang chăm sóc bản thân."
           },
           "is_correct": true,
           "order": 2,
-          "text": "It is free for students, and going there means that you are taking care of yourself.",
-          "text_translation": "Sinh viên dùng miễn phí, và tới đó nghĩa là đang chăm sóc bản thân."
+          "text": "It is free, and going there means taking care of yourself.",
+          "text_translation": "Miễn phí, và tới đó nghĩa là đang chăm sóc bản thân."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "It is closed during exams.",
-            "vi": "Nó đóng cửa trong mùa thi."
+            "en": "It is closed during exams, so students can't use it.",
+            "vi": "Nó đóng cửa mùa thi nên sinh viên không dùng được."
           },
           "is_correct": false,
           "order": 3,
-          "text": "It is closed during exams.",
-          "text_translation": "Nó đóng cửa trong mùa thi."
+          "text": "It is closed during exams, so students can't use it.",
+          "text_translation": "Nó đóng cửa mùa thi nên sinh viên không dùng được."
         }
       ],
       "evidence_segments": [
@@ -1880,46 +1880,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "She is writing Tracy a prescription.",
-            "vi": "Cô đang kê đơn thuốc cho Tracy."
+            "en": "She is writing Tracy a prescription for sleeping pills.",
+            "vi": "Cô đang kê cho Tracy đơn thuốc ngủ."
           },
           "is_correct": false,
           "order": 0,
-          "text": "She is writing Tracy a prescription.",
-          "text_translation": "Cô đang kê đơn thuốc cho Tracy."
+          "text": "She is writing Tracy a prescription for sleeping pills.",
+          "text_translation": "Cô đang kê cho Tracy đơn thuốc ngủ."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "She is joking, but she is also serious that Tracy should sleep now.",
-            "vi": "Cô nói đùa, nhưng cũng nghiêm túc muốn Tracy đi ngủ ngay."
+            "en": "She is joking, but she is serious that Tracy should sleep.",
+            "vi": "Cô nói đùa, nhưng nghiêm túc muốn Tracy đi ngủ."
           },
           "is_correct": true,
           "order": 1,
-          "text": "She is joking, but she is also serious that Tracy should sleep now.",
-          "text_translation": "Cô nói đùa, nhưng cũng nghiêm túc muốn Tracy đi ngủ ngay."
+          "text": "She is joking, but she is serious that Tracy should sleep.",
+          "text_translation": "Cô nói đùa, nhưng nghiêm túc muốn Tracy đi ngủ."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "She is angry with Tracy.",
-            "vi": "Cô giận Tracy."
+            "en": "She is angry with Tracy for studying so late at night.",
+            "vi": "Cô giận Tracy vì học khuya quá."
           },
           "is_correct": false,
           "order": 2,
-          "text": "She is angry with Tracy.",
-          "text_translation": "Cô giận Tracy."
+          "text": "She is angry with Tracy for studying so late at night.",
+          "text_translation": "Cô giận Tracy vì học khuya quá."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "She has to go to work.",
-            "vi": "Cô phải đi làm."
+            "en": "She has to go to work at the hospital in the morning.",
+            "vi": "Sáng mai cô phải đi làm ở bệnh viện."
           },
           "is_correct": false,
           "order": 3,
-          "text": "She has to go to work.",
-          "text_translation": "Cô phải đi làm."
+          "text": "She has to go to work at the hospital in the morning.",
+          "text_translation": "Sáng mai cô phải đi làm ở bệnh viện."
         }
       ],
       "evidence_segments": [
@@ -1948,46 +1948,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Both of them work in a hospital.",
-            "vi": "Cả hai đều làm ở bệnh viện."
+            "en": "Both of them work in a hospital with sick people.",
+            "vi": "Cả hai đều làm ở bệnh viện với người bệnh."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Both of them work in a hospital.",
-          "text_translation": "Cả hai đều làm ở bệnh viện."
+          "text": "Both of them work in a hospital with sick people.",
+          "text_translation": "Cả hai đều làm ở bệnh viện với người bệnh."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Both of them are angry.",
-            "vi": "Cả hai đều đang giận."
+            "en": "Both of them are angry, but they stay polite.",
+            "vi": "Cả hai đều giận, nhưng vẫn lịch sự."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Both of them are angry.",
-          "text_translation": "Cả hai đều đang giận."
+          "text": "Both of them are angry, but they stay polite.",
+          "text_translation": "Cả hai đều giận, nhưng vẫn lịch sự."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Both of them refuse to help.",
-            "vi": "Cả hai đều từ chối giúp đỡ."
+            "en": "Both of them refuse to help until the problem is solved.",
+            "vi": "Cả hai đều từ chối giúp cho đến khi vấn đề được giải quyết."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Both of them refuse to help.",
-          "text_translation": "Cả hai đều từ chối giúp đỡ."
+          "text": "Both of them refuse to help until the problem is solved.",
+          "text_translation": "Cả hai đều từ chối giúp cho đến khi vấn đề được giải quyết."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Both of them listen to the problem and offer practical steps to deal with it.",
-            "vi": "Cả hai đều lắng nghe vấn đề và đưa ra các bước cụ thể để giải quyết."
+            "en": "Both of them listen and give practical steps.",
+            "vi": "Cả hai đều lắng nghe và đưa ra các bước cụ thể."
           },
           "is_correct": true,
           "order": 3,
-          "text": "Both of them listen to the problem and offer practical steps to deal with it.",
-          "text_translation": "Cả hai đều lắng nghe vấn đề và đưa ra các bước cụ thể để giải quyết."
+          "text": "Both of them listen and give practical steps.",
+          "text_translation": "Cả hai đều lắng nghe và đưa ra các bước cụ thể."
         }
       ],
       "evidence_segments": [

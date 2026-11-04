@@ -92,10 +92,10 @@
 **1. Why did Harriet write her email?**
 *(Bà Harriet viết email để làm gì?)*
 
-- A. to complain about problems with two deliveries and ask for a solution *(để khiếu nại về sự cố của hai lần giao hàng và đề nghị cách giải quyết)*
-- B. to order a new kind of coffee *(để đặt một loại cà phê mới)*
-- C. to thank the company for ten years of good service *(để cảm ơn công ty vì mười năm phục vụ tốt)*
-- D. to tell the company that she is closing her café *(để báo công ty rằng bà sắp đóng quán)*
+- A. to complain about two bad deliveries and ask for a solution *(để khiếu nại về hai lần giao hàng tệ và đề nghị cách giải quyết)*
+- B. to order a new kind of coffee for her café *(để đặt một loại cà phê mới cho quán)*
+- C. to thank the company for ten years of good service and quality *(để cảm ơn công ty vì mười năm phục vụ và chất lượng tốt)*
+- D. to tell the company that she is closing her café soon *(để báo công ty rằng bà sắp đóng quán)*
 
 **2. How long has Harriet bought coffee from the company?**
 *(Bà Harriet mua cà phê của công ty bao lâu rồi?)*
@@ -108,31 +108,31 @@
 **3. What was wrong with the deliveries?**
 *(Hai lần giao hàng có vấn đề gì?)*
 
-- A. The boxes were sent to the wrong café. *(Thùng hàng bị giao nhầm quán.)*
-- B. The coffee was too expensive. *(Cà phê quá đắt.)*
-- C. The delivery driver was rude. *(Người giao hàng bất lịch sự.)*
-- D. They were late, some bags were torn, and the beans were damp. *(Giao muộn, vài túi bị rách, và hạt cà phê bị ẩm.)*
+- A. The boxes were sent to the wrong café two days late. *(Thùng hàng bị giao nhầm quán, lại muộn hai ngày.)*
+- B. The coffee was too expensive, so customers stopped coming. *(Cà phê quá đắt nên khách thôi đến.)*
+- C. The delivery driver was rude and broke several bags. *(Người giao hàng bất lịch sự và làm vỡ vài túi.)*
+- D. They were two days late, and the beans were damp. *(Giao muộn hai ngày, và hạt cà phê bị ẩm.)*
 
 **4. What does "as if it had been left in a hot car for a week" mean?**
 *(Cụm "như thể bị bỏ quên trong một chiếc xe nóng suốt một tuần" nghĩa là gì?)*
 
-- A. The coffee was really left in Harriet's car. *(Cà phê thật sự bị để trong xe của bà Harriet.)*
-- B. The coffee tasted old and spoiled, although Harriet doesn't know what happened to it. *(Cà phê có vị cũ và hỏng, dù bà Harriet không biết chuyện gì đã xảy ra với nó.)*
-- C. The coffee was too hot to drink. *(Cà phê quá nóng, không uống được.)*
-- D. The coffee was delivered by car. *(Cà phê được giao bằng ô tô.)*
+- A. The coffee was really left in a hot car outside Harriet's café. *(Cà phê thật sự bị để trong xe nóng trước quán bà Harriet.)*
+- B. The coffee tasted old and spoiled, but she doesn't know why. *(Cà phê có vị cũ và hỏng, nhưng bà không biết vì sao.)*
+- C. The coffee was too hot to drink when it arrived. *(Cà phê quá nóng, không uống được khi nó được giao tới.)*
+- D. The coffee was delivered by car, so it tasted of the car. *(Cà phê được giao bằng ô tô nên có vị của chiếc xe.)*
 
 **5. Why does Harriet mention the gentleman who pushed his cup away?**
 *(Vì sao bà Harriet kể chuyện quý ông đẩy tách cà phê ra?)*
 
-- A. to show that the problem was serious enough for customers to notice *(để cho thấy vấn đề nghiêm trọng tới mức khách cũng nhận ra)*
-- B. to complain about a rude customer *(để phàn nàn về một vị khách bất lịch sự)*
-- C. to say that she has changed suppliers *(để nói bà đã đổi nhà cung cấp)*
-- D. to ask the company to call him *(để nhờ công ty gọi cho ông ấy)*
+- A. to show that the problem was serious enough to notice *(để cho thấy vấn đề nghiêm trọng tới mức ai cũng nhận ra)*
+- B. to complain about a rude customer who left the café *(để phàn nàn về một vị khách bất lịch sự rời quán)*
+- C. to say that she has changed suppliers because of him *(để nói bà đã đổi nhà cung cấp vì ông ấy)*
+- D. to ask the company to call him about the problem *(để nhờ công ty gọi cho ông ấy về vấn đề)*
 
 **6. In "I have explained to my staff that this is not their fault", what has Harriet done?**
 *(Trong câu "I have explained to my staff that this is not their fault", bà Harriet đã làm gì?)*
 
-- A. She has told her staff to make better coffee. *(Bà bảo nhân viên pha cà phê ngon hơn.)*
+- A. She has told her staff to make better coffee next time. *(Bà bảo nhân viên lần sau pha cà phê ngon hơn.)*
 - B. She has asked her staff to write the email. *(Bà nhờ nhân viên viết email.)*
 - C. She has told her staff that they are not to blame. *(Bà nói với nhân viên rằng họ không có lỗi.)*
 - D. She has changed her staff. *(Bà đã đổi nhân viên.)*
@@ -140,15 +140,15 @@
 **7. What solution does Harriet suggest?**
 *(Bà Harriet đề xuất cách giải quyết nào?)*
 
-- A. closing the warehouse *(đóng cửa nhà kho)*
-- B. sending a new delivery driver *(cử người giao hàng mới)*
-- C. making the price lower *(giảm giá)*
-- D. replacing the damaged bags and checking the next delivery carefully *(đổi những túi hỏng và kiểm tra kỹ lần giao tới)*
+- A. closing the warehouse until the trucks are repaired *(đóng cửa nhà kho cho đến khi xe tải được sửa)*
+- B. sending a new delivery driver to her café every week *(cử người giao hàng mới tới quán bà mỗi tuần)*
+- C. making the price lower for all the regular customers *(giảm giá cho mọi khách quen)*
+- D. replacing the damaged bags and checking the next delivery *(đổi những túi hỏng và kiểm tra lần giao tới)*
 
 **8. According to Rob Daniels, what caused the problems?**
 *(Theo Rob Daniels, điều gì gây ra sự cố?)*
 
-- A. Harriet's staff stored the coffee badly. *(Nhân viên quán bà Harriet bảo quản cà phê không tốt.)*
+- A. Harriet's staff stored the coffee badly in the café. *(Nhân viên quán bà Harriet bảo quản cà phê không tốt ở quán.)*
 - B. The cooling system in a delivery truck broke down. *(Hệ thống làm mát trên một xe giao hàng bị hỏng.)*
 - C. The coffee farm had a bad year. *(Trang trại cà phê mất mùa.)*
 - D. The boxes were too small. *(Thùng hàng quá nhỏ.)*
@@ -156,18 +156,18 @@
 **9. How will the company make up for the problem?**
 *(Công ty sẽ bù đắp thế nào?)*
 
-- A. It will refund both deliveries and send two free bags of coffee. *(Hoàn tiền cả hai lần giao và tặng hai túi cà phê.)*
-- B. It will give Harriet a new truck. *(Tặng bà Harriet một chiếc xe tải.)*
-- C. It will send someone to work at the café. *(Cử người tới làm ở quán.)*
-- D. It will refund only one delivery. *(Chỉ hoàn tiền một lần giao.)*
+- A. It will refund both deliveries and send two free bags. *(Hoàn tiền cả hai lần giao và tặng hai túi cà phê.)*
+- B. It will give Harriet a new truck for her café. *(Tặng bà Harriet một chiếc xe tải mới cho quán.)*
+- C. It will send someone to work at the café for a week. *(Cử người tới làm ở quán trong một tuần.)*
+- D. It will refund only one delivery and send one free bag. *(Chỉ hoàn tiền một lần giao và tặng một túi.)*
 
 **10. What is the tone of Rob Daniels's reply?**
 *(Thư trả lời của Rob Daniels mang giọng điệu thế nào?)*
 
-- A. angry, and it blames Harriet *(giận dữ và đổ lỗi cho bà Harriet)*
-- B. cold and very short *(lạnh lùng và cộc lốc)*
+- A. angry, and it blames Harriet's staff for the problem *(giận dữ và đổ lỗi cho nhân viên của bà Harriet)*
+- B. cold and very short, and it ignores her request *(lạnh lùng, cộc lốc và bỏ qua đề nghị của bà)*
 - C. sorry and polite, and it accepts responsibility *(hối lỗi, lịch sự và nhận trách nhiệm)*
-- D. funny and casual *(hài hước và xuề xoà)*
+- D. funny and casual, and it ends with a joke *(hài hước, xuề xoà và kết thúc bằng một câu đùa)*
 
 ---
 
@@ -226,55 +226,55 @@
 **11. Why did Tracy call Leah?**
 *(Vì sao Tracy gọi cho Leah?)*
 
-- A. to ask for money *(để xin tiền)*
-- B. She felt overwhelmed before her exams. *(Vì cô thấy ngợp trước kỳ thi.)*
-- C. to tell her about Camila's birthday *(để kể về sinh nhật Camila)*
-- D. to ask about plans for the winter break *(để hỏi kế hoạch kỳ nghỉ đông)*
+- A. to ask for money to pay for her exam books *(để xin tiền mua sách ôn thi)*
+- B. to talk to someone because she felt overwhelmed *(để tâm sự với ai đó vì cô thấy ngợp)*
+- C. to tell her about Camila's birthday party *(để kể về bữa tiệc sinh nhật của Camila)*
+- D. to ask about the plans for the winter break holiday *(để hỏi kế hoạch cho kỳ nghỉ đông)*
 
 **12. What does Tracy mean by "I wish I had started studying earlier"?**
 *(Tracy muốn nói gì qua câu "Giá mà em bắt đầu ôn sớm hơn"?)*
 
-- A. She started studying very early. *(Cô bắt đầu ôn rất sớm.)*
-- B. She will start studying tomorrow. *(Mai cô mới bắt đầu ôn.)*
-- C. She doesn't want to study. *(Cô không muốn học.)*
+- A. She started studying very early last month. *(Cô bắt đầu ôn rất sớm từ tháng trước.)*
+- B. She will start studying tomorrow morning at six. *(Sáng mai lúc sáu giờ cô mới bắt đầu ôn.)*
+- C. She doesn't want to study, so she called her cousin. *(Cô không muốn học nên mới gọi cho chị họ.)*
 - D. She regrets that she didn't start earlier. *(Cô tiếc vì đã không bắt đầu sớm hơn.)*
 
 **13. Why does Leah say that sleep is part of studying?**
 *(Vì sao Leah nói ngủ là một phần của việc học?)*
 
-- A. When you are stressed and tired, your brain can't store new information well. *(Vì khi căng thẳng và mệt, não không lưu được thông tin mới tốt.)*
-- B. Doctors need more sleep than students. *(Vì bác sĩ cần ngủ nhiều hơn sinh viên.)*
-- C. Exams are always in the morning. *(Vì các bài thi luôn vào buổi sáng.)*
-- D. Tracy can study in her dreams. *(Vì Tracy có thể học trong mơ.)*
+- A. Tired, stressed brains can't store new information well. *(Vì bộ não mệt và căng thẳng không lưu thông tin mới tốt.)*
+- B. Doctors need much more sleep than students do. *(Vì bác sĩ cần ngủ nhiều hơn sinh viên rất nhiều.)*
+- C. Exams are always in the morning, so students need rest. *(Vì bài thi luôn vào buổi sáng nên sinh viên cần nghỉ.)*
+- D. Tracy can study in her dreams if she sleeps well. *(Vì Tracy có thể học trong mơ nếu ngủ ngon.)*
 
 **14. What study plan does Leah suggest?**
 *(Leah gợi ý kế hoạch học nào?)*
 
-- A. studying all night before each exam *(thức trắng đêm trước mỗi bài thi)*
-- B. studying with Camila every evening *(tối nào cũng học cùng Camila)*
-- C. forty-five minutes of studying, then a ten-minute break *(học bốn mươi lăm phút, rồi nghỉ mười phút)*
-- D. one long block of ten hours *(một khối dài mười tiếng)*
+- A. studying all night before each of the three exams *(thức trắng đêm trước mỗi bài trong ba bài thi)*
+- B. studying with Camila every evening after dinner *(tối nào cũng học cùng Camila sau bữa ăn)*
+- C. forty-five minutes of studying, then a short break *(học bốn mươi lăm phút, rồi nghỉ một lúc)*
+- D. one long block of ten hours without any break *(một khối dài mười tiếng không nghỉ)*
 
 **15. Why does breaking a big job into small pieces help, according to Leah?**
 *(Theo Leah, vì sao chia việc lớn thành phần nhỏ lại có ích?)*
 
 - A. It makes the exams shorter. *(Vì nó làm bài thi ngắn lại.)*
 - B. It makes the job much less frightening. *(Vì nó làm công việc bớt đáng sợ hơn nhiều.)*
-- C. It means that you don't need to sleep. *(Vì như vậy khỏi cần ngủ.)*
+- C. It means that you don't need to sleep before exams. *(Vì như vậy khỏi cần ngủ trước kỳ thi.)*
 - D. Teachers prefer it. *(Vì giáo viên thích thế.)*
 
 **16. How do you do the slow breathing that Leah describes?**
 *(Cách thở chậm mà Leah mô tả làm thế nào?)*
 
-- A. Breathe in quickly ten times. *(Hít vào nhanh mười lần.)*
-- B. Hold your breath for one minute. *(Nín thở một phút.)*
-- C. Breathe out for ten seconds only. *(Chỉ thở ra mười giây.)*
-- D. Breathe in for four seconds, hold for four, and breathe out for four. *(Hít vào bốn giây, giữ bốn giây, thở ra bốn giây.)*
+- A. Breathe in quickly ten times and then hold your breath. *(Hít vào nhanh mười lần rồi nín thở.)*
+- B. Hold your breath for a full minute, then breathe out slowly. *(Nín thở trọn một phút, rồi thở ra chậm.)*
+- C. Breathe out for ten seconds only, then breathe in once. *(Chỉ thở ra mười giây, rồi hít vào một lần.)*
+- D. Breathe in, hold and breathe out, each for four seconds. *(Hít vào, giữ và thở ra, mỗi việc bốn giây.)*
 
 **17. What does Tracy mean by "I still feel as if I'm the only one who doesn't understand anything"?**
 *(Tracy muốn nói gì qua câu "em vẫn thấy như thể mình là đứa duy nhất chẳng hiểu gì"?)*
 
-- A. She feels alone in her worries, although this is probably not true. *(Cô thấy chỉ mình mình lo lắng, dù điều đó nhiều khả năng không đúng.)*
+- A. She feels alone, although this is probably not true. *(Cô thấy mình đơn độc, dù điều đó nhiều khả năng không đúng.)*
 - B. She really is the only student who doesn't understand. *(Cô thật sự là sinh viên duy nhất không hiểu bài.)*
 - C. She wants to change her classes. *(Cô muốn đổi lớp.)*
 - D. Camila doesn't understand anything either. *(Camila cũng chẳng hiểu gì.)*
@@ -282,26 +282,26 @@
 **18. What does Leah say about the counseling center?**
 *(Leah nói gì về trung tâm tư vấn?)*
 
-- A. It is only for weak students. *(Nó chỉ dành cho sinh viên yếu kém.)*
-- B. It is very expensive. *(Nó rất đắt.)*
-- C. It is free for students, and going there means that you are taking care of yourself. *(Sinh viên dùng miễn phí, và tới đó nghĩa là đang chăm sóc bản thân.)*
-- D. It is closed during exams. *(Nó đóng cửa trong mùa thi.)*
+- A. It is only for weak students who can't pass their exams. *(Nó chỉ dành cho sinh viên yếu không qua nổi kỳ thi.)*
+- B. It is very expensive, so only a few students go there. *(Nó rất đắt nên chỉ vài sinh viên tới đó.)*
+- C. It is free, and going there means taking care of yourself. *(Miễn phí, và tới đó nghĩa là đang chăm sóc bản thân.)*
+- D. It is closed during exams, so students can't use it. *(Nó đóng cửa mùa thi nên sinh viên không dùng được.)*
 
 **19. What does Leah mean by "That's a doctor's order!"?**
 *(Leah muốn nói gì qua câu "Lệnh của bác sĩ đấy!"?)*
 
-- A. She is writing Tracy a prescription. *(Cô đang kê đơn thuốc cho Tracy.)*
-- B. She is joking, but she is also serious that Tracy should sleep now. *(Cô nói đùa, nhưng cũng nghiêm túc muốn Tracy đi ngủ ngay.)*
-- C. She is angry with Tracy. *(Cô giận Tracy.)*
-- D. She has to go to work. *(Cô phải đi làm.)*
+- A. She is writing Tracy a prescription for sleeping pills. *(Cô đang kê cho Tracy đơn thuốc ngủ.)*
+- B. She is joking, but she is serious that Tracy should sleep. *(Cô nói đùa, nhưng nghiêm túc muốn Tracy đi ngủ.)*
+- C. She is angry with Tracy for studying so late at night. *(Cô giận Tracy vì học khuya quá.)*
+- D. She has to go to work at the hospital in the morning. *(Sáng mai cô phải đi làm ở bệnh viện.)*
 
 **20. Use both texts. What do Rob Daniels and Leah have in common?**
 *(Dựa vào cả hai bài. Rob Daniels và Leah có điểm gì chung?)*
 
-- A. Both of them work in a hospital. *(Cả hai đều làm ở bệnh viện.)*
-- B. Both of them are angry. *(Cả hai đều đang giận.)*
-- C. Both of them refuse to help. *(Cả hai đều từ chối giúp đỡ.)*
-- D. Both of them listen to the problem and offer practical steps to deal with it. *(Cả hai đều lắng nghe vấn đề và đưa ra các bước cụ thể để giải quyết.)*
+- A. Both of them work in a hospital with sick people. *(Cả hai đều làm ở bệnh viện với người bệnh.)*
+- B. Both of them are angry, but they stay polite. *(Cả hai đều giận, nhưng vẫn lịch sự.)*
+- C. Both of them refuse to help until the problem is solved. *(Cả hai đều từ chối giúp cho đến khi vấn đề được giải quyết.)*
+- D. Both of them listen and give practical steps. *(Cả hai đều lắng nghe và đưa ra các bước cụ thể.)*
 
 ---
 

@@ -88,16 +88,16 @@
 **1. What is the main purpose of the newsletter?**
 *(Mục đích chính của bản tin là gì?)*
 
-- A. to ask for more coats *(để kêu gọi thêm áo khoác)*
-- B. to sell books for the free library *(để bán sách cho tủ sách miễn phí)*
-- C. to thank neighbors and report the results of the coat drive *(để cảm ơn hàng xóm và báo kết quả đợt quyên góp áo ấm)*
-- D. to explain how to learn sign language *(để giải thích cách học ngôn ngữ ký hiệu)*
+- A. to ask for more coats, blankets and hats for February *(để kêu gọi thêm áo, chăn và mũ cho tháng Hai)*
+- B. to sell books for the free library at the meeting *(để bán sách cho tủ sách miễn phí tại buổi họp)*
+- C. to thank neighbors and report the coat drive results *(để cảm ơn hàng xóm và báo kết quả đợt quyên góp áo ấm)*
+- D. to explain how to learn sign language from Mr. Alvarez *(để giải thích cách học ngôn ngữ ký hiệu từ ông Alvarez)*
 
 **2. What does "Here are the numbers" introduce?**
 *(Câu "Here are the numbers" mở đầu cho điều gì?)*
 
 - A. a list of how many things were collected *(danh sách số lượng đồ đã thu được)*
-- B. the phone numbers of the volunteers *(số điện thoại của các tình nguyện viên)*
+- B. the phone numbers of the volunteers at the shelter *(số điện thoại của các tình nguyện viên ở nhà tạm trú)*
 - C. the cost of the coats *(giá của áo khoác)*
 - D. the number of people at the shelter *(số người ở nhà tạm trú)*
 
@@ -112,34 +112,34 @@
 **4. What was Harriet's part in the coat drive?**
 *(Bà Harriet góp phần gì trong đợt quyên góp?)*
 
-- A. She drove the van. *(Bà lái xe tải nhỏ.)*
-- B. Her café was the main collection point, and she gave free cookies. *(Quán của bà là điểm nhận đồ chính, và bà tặng bánh quy miễn phí.)*
-- C. She made the posters. *(Bà làm áp phích.)*
-- D. She taught sign language. *(Bà dạy ngôn ngữ ký hiệu.)*
+- A. She drove the van to the Harbor Street Shelter. *(Bà lái xe tải nhỏ tới nhà tạm trú Harbor Street.)*
+- B. Her café was the main collection point. *(Quán của bà là điểm nhận đồ chính.)*
+- C. She made the posters for every noticeboard. *(Bà làm áp phích cho mọi bảng tin.)*
+- D. She taught sign language to the volunteers. *(Bà dạy ngôn ngữ ký hiệu cho các tình nguyện viên.)*
 
 **5. How did Tina and Amy help?**
 *(Tina và Amy giúp bằng cách nào?)*
 
-- A. They carried heavy boxes. *(Khuân thùng nặng.)*
-- B. They sorted the coats by size. *(Phân loại áo theo cỡ.)*
-- C. They made posters and pinned them to noticeboards. *(Làm áp phích và ghim lên bảng tin.)*
-- D. They gave out cookies. *(Phát bánh quy.)*
+- A. They carried heavy boxes to the van. *(Khuân thùng nặng ra xe tải.)*
+- B. They drove the boxes to the shelter in a van. *(Chở các thùng đồ tới nhà tạm trú bằng xe tải.)*
+- C. They made posters and pinned them up. *(Làm áp phích và ghim lên.)*
+- D. They gave a free cookie to everyone who came. *(Tặng bánh quy miễn phí cho mọi người tới.)*
 
 **6. What does "(well, maybe once)" suggest?**
 *(Cụm "(à, có lẽ một lần)" cho thấy điều gì?)*
 
-- A. The writer is joking that the boys did complain a little. *(Người viết đùa rằng hai cậu cũng có than vãn chút ít.)*
-- B. The boys refused to help. *(Hai cậu từ chối giúp.)*
-- C. The boys carried only one box. *(Hai cậu chỉ khuân một thùng.)*
-- D. The writer is angry with the boys. *(Người viết giận hai cậu.)*
+- A. The writer jokes that the boys complained a little. *(Người viết đùa rằng hai cậu có than vãn chút ít.)*
+- B. The boys refused to help with the heavy boxes. *(Hai cậu từ chối giúp khuân thùng nặng.)*
+- C. The boys carried only one box each, not forty. *(Mỗi cậu chỉ khuân một thùng, không phải bốn mươi.)*
+- D. The writer is angry with the boys for complaining. *(Người viết giận hai cậu vì than vãn.)*
 
 **7. What did Mr. Alvarez do for the coat drive?**
 *(Ông Alvarez đã làm gì cho đợt quyên góp?)*
 
-- A. He gave 412 coats. *(Ông góp 412 áo khoác.)*
-- B. He taught the volunteers a few words in sign language. *(Ông dạy tình nguyện viên vài từ bằng ngôn ngữ ký hiệu.)*
-- C. He drove the boxes to the shelter. *(Ông chở thùng đồ tới nhà tạm trú.)*
-- D. He planned the free library. *(Ông lên kế hoạch tủ sách miễn phí.)*
+- A. He gave 412 coats to the Harbor Street Shelter. *(Ông tặng 412 áo khoác cho nhà tạm trú Harbor Street.)*
+- B. He taught volunteers a few words in sign language. *(Ông dạy tình nguyện viên vài từ bằng ngôn ngữ ký hiệu.)*
+- C. He drove the boxes to the shelter in his own van. *(Ông chở thùng đồ tới nhà tạm trú bằng xe của mình.)*
+- D. He planned the free library with Helena Brooks. *(Ông lên kế hoạch tủ sách miễn phí cùng Helena Brooks.)*
 
 **8. Which of these is NOT mentioned as something that was collected?**
 *(Thứ nào KHÔNG được nhắc tới trong số đồ đã thu được?)*
@@ -160,10 +160,10 @@
 **10. What is the group's next project?**
 *(Dự án tiếp theo của nhóm là gì?)*
 
-- A. another coat drive in January *(một đợt quyên góp áo ấm nữa vào tháng Một)*
+- A. another coat drive in January at Harriet's café *(một đợt quyên góp áo ấm nữa vào tháng Một ở quán Harriet's)*
 - B. a new café on Pine Street *(một quán cà phê mới ở phố Pine)*
-- C. a little free library at the corner of Maple Street and Pine Street *(một tủ sách miễn phí nho nhỏ ở góc phố Maple và phố Pine)*
-- D. a sign language class at the shelter *(một lớp ngôn ngữ ký hiệu ở nhà tạm trú)*
+- C. a little free library at Maple Street and Pine Street *(một tủ sách miễn phí nho nhỏ ở phố Maple và phố Pine)*
+- D. a sign language class for the volunteers at the shelter *(một lớp ngôn ngữ ký hiệu cho tình nguyện viên ở nhà tạm trú)*
 
 ---
 
@@ -214,42 +214,42 @@
 **11. What happened at the first meeting of the debate club?**
 *(Ở buổi đầu của câu lạc bộ tranh biện đã diễn ra điều gì?)*
 
-- A. Ms. Park made volunteering a school rule. *(Cô Park đặt việc tình nguyện thành nội quy.)*
-- B. Two students practiced debating whether volunteering should be required to graduate. *(Hai học sinh tập tranh biện về việc có nên bắt buộc làm tình nguyện mới được tốt nghiệp.)*
-- C. The students wrote a new school rule. *(Học sinh viết một nội quy mới.)*
-- D. Maddie and Noah had a fight. *(Maddie và Noah cãi nhau to.)*
+- A. Ms. Park made volunteering a school rule for graduation. *(Cô Park đặt việc tình nguyện thành nội quy để tốt nghiệp.)*
+- B. Two students practiced a debate on required volunteering. *(Hai học sinh tập tranh biện về việc bắt buộc làm tình nguyện.)*
+- C. The students wrote a new school rule about volunteer hours. *(Học sinh viết một nội quy mới về số giờ tình nguyện.)*
+- D. Maddie and Noah had a loud fight about the rule. *(Maddie và Noah cãi nhau to về nội quy.)*
 
 **12. What advice does Ms. Park give Maddie before she starts?**
 *(Trước khi Maddie bắt đầu, cô Park dặn gì?)*
 
-- A. Speak as fast as possible. *(Nói càng nhanh càng tốt.)*
+- A. Speak as fast as possible so that you finish first. *(Nói càng nhanh càng tốt để xong trước.)*
 - B. Agree with Noah. *(Đồng ý với Noah.)*
-- C. Use your phone to find facts. *(Dùng điện thoại tìm dữ kiện.)*
+- C. Use your phone to find facts during the debate. *(Dùng điện thoại tìm dữ kiện trong lúc tranh biện.)*
 - D. Give reasons, not just feelings. *(Đưa ra lý lẽ, đừng chỉ nói cảm xúc.)*
 
 **13. What is Maddie's main reason for requiring volunteer work?**
 *(Lý do chính Maddie muốn bắt buộc làm tình nguyện là gì?)*
 
-- A. It teaches things that classes can't, such as teamwork and responsibility. *(Nó dạy những điều giờ học không dạy được, như làm việc nhóm và tinh thần trách nhiệm.)*
-- B. It helps students get better grades. *(Nó giúp học sinh được điểm cao hơn.)*
-- C. It gives students free time. *(Nó cho học sinh thời gian rảnh.)*
-- D. Teachers don't like it. *(Giáo viên không thích nó.)*
+- A. It teaches things that classes can't, such as teamwork. *(Nó dạy những điều giờ học không dạy được, như làm việc nhóm.)*
+- B. It helps students get better grades in every class. *(Nó giúp học sinh được điểm cao hơn ở mọi môn.)*
+- C. It gives students more free time after school. *(Nó cho học sinh thêm thời gian rảnh sau giờ học.)*
+- D. Teachers want students to spend less time at school. *(Giáo viên muốn học sinh ở trường ít thời gian hơn.)*
 
 **14. What does Maddie say about the students who helped with the coat drive?**
 *(Maddie nói gì về những học sinh giúp đợt quyên góp áo ấm?)*
 
-- A. They didn't enjoy it. *(Các bạn không thích.)*
-- B. They were paid for it. *(Các bạn được trả tiền.)*
-- C. They said it was the best thing they did all year, and many only tried it because someone asked them. *(Các bạn nói đó là việc hay nhất cả năm, và nhiều bạn chỉ thử vì có người rủ.)*
-- D. They did it to get school credit. *(Các bạn làm để được ghi nhận ở trường.)*
+- A. They didn't enjoy it and wanted to stop after one day. *(Các bạn không thích và muốn bỏ sau một ngày.)*
+- B. They were paid for it by the Maple Street group. *(Các bạn được nhóm Maple Street trả tiền.)*
+- C. They said it was the best thing they did all year. *(Các bạn nói đó là việc hay nhất họ làm cả năm.)*
+- D. They did it to get school credit for graduation. *(Các bạn làm để được tính điểm tốt nghiệp.)*
 
 **15. How does Noah begin his answer to Maddie?**
 *(Noah mở đầu phần đáp lại Maddie thế nào?)*
 
-- A. He says that Maddie is talking nonsense. *(Cậu nói Maddie nói nhảm.)*
-- B. He agrees with part of her point before he disagrees politely. *(Cậu đồng ý một phần ý của bạn trước khi lịch sự phản bác.)*
-- C. He refuses to answer. *(Cậu từ chối trả lời.)*
-- D. He agrees with everything she said. *(Cậu đồng ý với mọi điều bạn nói.)*
+- A. He says that Maddie is talking nonsense and sits down. *(Cậu nói Maddie nói nhảm rồi ngồi xuống.)*
+- B. He agrees with part of her point, then politely disagrees. *(Cậu đồng ý một phần ý bạn rồi lịch sự phản bác.)*
+- C. He refuses to answer until Ms. Park speaks first. *(Cậu từ chối trả lời cho tới khi cô Park nói trước.)*
+- D. He agrees with everything she said and then stops. *(Cậu đồng ý với mọi điều bạn nói rồi dừng lại.)*
 
 **16. Which of these is NOT one of Noah's reasons against the rule?**
 *(Điều nào KHÔNG nằm trong các lý lẽ phản đối quy định của Noah?)*
@@ -263,33 +263,33 @@
 *(Trong câu "Despite the good intentions, I think that a rule would do more harm than good", "Despite the good intentions" nghĩa là gì?)*
 
 - A. although the idea comes from good intentions *(dù ý tưởng xuất phát từ ý tốt)*
-- B. because the idea comes from good intentions *(vì ý tưởng xuất phát từ ý tốt)*
+- B. because the idea comes from very good intentions *(vì ý tưởng xuất phát từ ý rất tốt)*
 - C. there are no good intentions *(chẳng có ý tốt nào)*
 - D. during the good intentions *(trong lúc có ý tốt)*
 
 **18. What do Maddie and Noah finally agree on?**
 *(Cuối cùng Maddie và Noah đồng ý điều gì?)*
 
-- A. Volunteering should stop completely. *(Nên bỏ hẳn việc tình nguyện.)*
-- B. Students should volunteer every weekend. *(Học sinh nên đi tình nguyện mỗi cuối tuần.)*
-- C. A small number of hours, with many choices, and helping your own family counts too. *(Một số giờ nhỏ, có nhiều lựa chọn, và giúp đỡ gia đình mình cũng được tính.)*
-- D. Debate clubs should not talk about volunteering. *(Câu lạc bộ tranh biện không nên bàn chuyện tình nguyện.)*
+- A. Volunteering should stop completely, even outside school. *(Nên bỏ hẳn việc tình nguyện, kể cả ngoài trường.)*
+- B. Students should volunteer every weekend in the spring. *(Học sinh nên đi tình nguyện mỗi cuối tuần vào mùa xuân.)*
+- C. A few hours with many choices, and family help counts *(Một vài giờ, có nhiều lựa chọn, và giúp gia đình cũng được tính)*
+- D. Debate clubs should not talk about volunteering again. *(Câu lạc bộ tranh biện không nên bàn chuyện tình nguyện nữa.)*
 
 **19. Why does Ms. Park ask Maddie and Noah to switch sides next week?**
 *(Vì sao cô Park bảo Maddie và Noah tuần sau đổi phe?)*
 
-- A. She thinks that they both argued badly. *(Vì cô nghĩ cả hai tranh biện kém.)*
-- B. She wants them to learn to understand the other viewpoint. *(Vì cô muốn hai em học cách hiểu quan điểm của phía bên kia.)*
-- C. She wants Maddie to win. *(Vì cô muốn Maddie thắng.)*
-- D. The rules of the club say so. *(Vì nội quy câu lạc bộ quy định vậy.)*
+- A. She thinks that they both argued badly and need to start again. *(Vì cô nghĩ cả hai tranh biện kém và cần làm lại từ đầu.)*
+- B. She wants them to understand the other viewpoint. *(Vì cô muốn hai em hiểu quan điểm của phía bên kia.)*
+- C. She wants Maddie to win the next meeting. *(Vì cô muốn Maddie thắng buổi sau.)*
+- D. The rules of the club say so every week. *(Vì nội quy câu lạc bộ quy định vậy mỗi tuần.)*
 
 **20. Use both texts. Which event from the newsletter does Maddie use as an example?**
 *(Dựa vào cả hai bài. Maddie lấy sự kiện nào trong bản tin làm ví dụ?)*
 
-- A. the free library *(tủ sách miễn phí)*
-- B. Harriet's free cookies *(bánh quy miễn phí của bà Harriet)*
-- C. the sign language lesson *(buổi học ngôn ngữ ký hiệu)*
-- D. the coat drive that was planned in the neighbors' group chat *(đợt quyên góp áo ấm được lên kế hoạch trong nhóm chat hàng xóm)*
+- A. the free library planned at the corner of Pine Street *(tủ sách miễn phí được lên kế hoạch ở góc phố Pine)*
+- B. Harriet's free cookies for everyone who brought something *(bánh quy miễn phí của bà Harriet cho ai mang đồ tới)*
+- C. the sign language lesson at the Harbor Street Shelter *(buổi học ngôn ngữ ký hiệu ở nhà tạm trú Harbor Street)*
+- D. the coat drive planned in the neighbors' group chat *(đợt quyên góp áo ấm được lên kế hoạch trong nhóm chat hàng xóm)*
 
 ---
 

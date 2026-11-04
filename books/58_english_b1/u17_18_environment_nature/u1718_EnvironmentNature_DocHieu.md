@@ -87,42 +87,42 @@
 **1. What is the article mainly about?**
 *(Bài báo chủ yếu nói về điều gì?)*
 
-- A. why Trevor joined the soccer team *(vì sao Trevor vào đội bóng)*
-- B. how to cook soup with herbs *(cách nấu súp với rau thơm)*
-- C. how the Green Club made a garden and reduced waste at school *(câu lạc bộ Xanh làm vườn và giảm lãng phí ở trường như thế nào)*
-- D. the weather in San Diego *(thời tiết ở San Diego)*
+- A. why Trevor joined the soccer team and stopped working in the garden *(vì sao Trevor vào đội bóng đá và thôi làm vườn)*
+- B. how the cafeteria cooks make soup with fresh herbs *(cách các đầu bếp căng-tin nấu súp với rau thơm tươi)*
+- C. how the Green Club made a garden and cut waste at school *(cách Câu lạc bộ Xanh làm khu vườn và giảm rác ở trường)*
+- D. the weather in San Diego and how it changes each year *(thời tiết ở San Diego và việc nó thay đổi mỗi năm)*
 
 **2. Why did Mr. Dawson call the sprinklers "a waste of water"?**
 *(Vì sao thầy Dawson gọi hệ thống tưới là "sự lãng phí nước"?)*
 
-- A. The water flowed into the street in a city that gets little rain. *(Vì nước chảy ra đường ở một thành phố ít mưa.)*
-- B. The sprinklers were broken. *(Vì hệ thống tưới bị hỏng.)*
-- C. The garden had too many plants. *(Vì khu vườn có quá nhiều cây.)*
-- D. Students played in the water at night. *(Vì học sinh nghịch nước ban đêm.)*
+- A. The water flowed into the street in a city with little rain. *(Nước chảy ra đường trong một thành phố ít mưa.)*
+- B. The sprinklers were broken and kept wetting the gym. *(Vòi phun bị hỏng và cứ phun vào phòng tập.)*
+- C. The garden had too many plants for the dry ground. *(Khu vườn có quá nhiều cây so với đất khô.)*
+- D. Students played in the water every night and made a big mess. *(Học sinh đêm nào cũng chơi dưới nước và làm bừa bộn.)*
 
 **3. Why did the club put barrels under the gym roof?**
 *(Vì sao câu lạc bộ đặt thùng dưới mái nhà thể chất?)*
 
-- A. so that students could sit on them *(để học sinh ngồi lên)*
-- B. so as to keep the trash *(để đựng rác)*
-- C. so that the roof would not break *(để mái nhà không bị hỏng)*
+- A. so that students could sit on them at lunch time *(để học sinh có thể ngồi lên chúng vào giờ ăn trưa)*
+- B. so as to keep the cafeteria trash dry *(để giữ cho rác căng-tin khô ráo)*
+- C. so that the roof would not break in a storm *(để mái nhà không bị vỡ khi có bão)*
 - D. so that they could collect rainwater *(để hứng nước mưa)*
 
 **4. Why were the club members surprised by the numbers?**
 *(Vì sao các thành viên câu lạc bộ bất ngờ với con số?)*
 
-- A. It rains every day in San Diego. *(Vì ở San Diego ngày nào cũng mưa.)*
+- A. It rains every day in San Diego, even in the summer. *(Ở San Diego ngày nào cũng mưa, kể cả mùa hè.)*
 - B. Even a little rain on a roof can give a lot of water. *(Vì chỉ một chút mưa trên mái nhà cũng cho ra rất nhiều nước.)*
-- C. The barrels were too small for any water. *(Vì thùng quá nhỏ, không chứa được nước.)*
-- D. The gym roof is very old. *(Vì mái nhà thể chất rất cũ.)*
+- C. The barrels were too small to hold any rainwater at all. *(Các thùng quá nhỏ nên chẳng chứa được chút nước mưa nào.)*
+- D. The gym roof is very old and needs a repair. *(Mái phòng tập rất cũ và cần sửa.)*
 
 **5. Why did the club sort the cafeteria trash for one week?**
 *(Vì sao câu lạc bộ phân loại rác căng tin suốt một tuần?)*
 
-- A. to find lost things *(để tìm đồ thất lạc)*
-- B. to clean the cafeteria floor *(để lau sàn căng tin)*
+- A. to find lost books and clothes in the trash *(để tìm sách vở và quần áo bị thất lạc trong rác)*
+- B. to clean the cafeteria floor before the holidays *(để lau sàn căng-tin trước kỳ nghỉ)*
 - C. so as to find out what students really throw out *(để biết học sinh thật sự vứt đi những gì)*
-- D. so as not to eat the apples *(để khỏi phải ăn táo)*
+- D. so as not to eat the apples that were thrown away *(để không ăn những quả táo bị bỏ đi)*
 
 **6. Which of these did the club NOT find in the cafeteria trash?**
 *(Câu lạc bộ KHÔNG tìm thấy thứ nào trong rác căng tin?)*
@@ -136,32 +136,32 @@
 *(Những "quả táo nguyên vẹn chưa ai đụng tới" cho thấy điều gì?)*
 
 - A. Some students threw away food that they had not eaten. *(Một số học sinh vứt bỏ đồ ăn mà mình chưa ăn.)*
-- B. The apples were bad. *(Táo đã bị hỏng.)*
-- C. The cafeteria did not sell apples. *(Căng tin không bán táo.)*
-- D. Students like apples more than other fruit. *(Học sinh thích táo hơn các loại quả khác.)*
+- B. The apples were bad, so students threw them away. *(Những quả táo hỏng nên học sinh vứt đi.)*
+- C. The cafeteria did not sell apples, only other kinds of fruit. *(Căng-tin không bán táo, chỉ bán các loại quả khác.)*
+- D. Students like apples more than other fruit on the menu. *(Học sinh thích táo hơn các loại quả khác trong thực đơn.)*
 
 **8. What have the cafeteria cooks promised to do?**
 *(Các cô chú nấu bếp ở căng tin đã hứa làm gì?)*
 
-- A. sort the trash every day *(ngày nào cũng phân loại rác)*
+- A. sort the cafeteria trash every day of the week *(phân loại rác căng-tin mỗi ngày trong tuần)*
 - B. use the club's herbs in their soups *(dùng rau thơm của câu lạc bộ để nấu súp)*
-- C. buy new barrels *(mua thùng mới)*
-- D. stop selling milk *(thôi bán sữa)*
+- C. buy new barrels for the roof *(mua thùng mới cho mái nhà)*
+- D. stop selling milk and plastic straws *(ngừng bán sữa và ống hút nhựa)*
 
 **9. How has Trevor's feeling about the Green Club changed?**
 *(Cảm nhận của Trevor về câu lạc bộ Xanh đã thay đổi thế nào?)*
 
-- A. He liked it at first but now wants to leave. *(Lúc đầu cậu thích nhưng giờ muốn rời đi.)*
-- B. He has always loved gardening. *(Cậu vốn luôn mê làm vườn.)*
-- C. He joined only because of Jake, but now he really cares about it. *(Cậu vào chỉ vì Jake, nhưng giờ thật sự quan tâm tới nó.)*
-- D. He thinks the club is a waste of time. *(Cậu nghĩ câu lạc bộ là phí thời gian.)*
+- A. He liked it at first, but now he wants to leave the club soon. *(Lúc đầu cậu thích, nhưng giờ cậu sắp muốn rời câu lạc bộ.)*
+- B. He has always loved gardening and joined for that reason. *(Cậu luôn thích làm vườn và vào câu lạc bộ vì lý do đó.)*
+- C. He joined only because of Jake, but now he cares about it. *(Cậu vào chỉ vì Jake, nhưng giờ cậu quan tâm thật sự đến nó.)*
+- D. He thinks the club is a waste of time because of soccer. *(Cậu nghĩ câu lạc bộ là phí thời gian vì còn bóng đá.)*
 
 **10. What is the purpose of the last paragraph?**
 *(Đoạn cuối nhằm mục đích gì?)*
 
-- A. to complain about the soccer team *(để phàn nàn về đội bóng)*
-- B. to thank Mr. Dawson *(để cảm ơn thầy Dawson)*
-- C. to explain how to collect rainwater *(để giải thích cách hứng nước mưa)*
+- A. to complain about the soccer team's busy schedule *(để phàn nàn về lịch tập bận rộn của đội bóng đá)*
+- B. to thank Mr. Dawson and the cafeteria cooks *(để cảm ơn thầy Dawson và các đầu bếp căng-tin)*
+- C. to explain how to collect rainwater in barrels *(để giải thích cách hứng nước mưa vào thùng)*
 - D. to invite other students to join the club *(để mời học sinh khác tham gia câu lạc bộ)*
 
 ---
@@ -209,42 +209,42 @@
 **11. What is the main idea of the article?**
 *(Ý chính của bài báo là gì?)*
 
-- A. Bees are important for our food, and they need our help. *(Loài ong quan trọng với thức ăn của chúng ta, và chúng cần ta giúp.)*
-- B. Honeybees are the only useful bees. *(Ong mật là loài ong có ích duy nhất.)*
-- C. People should keep bees at home. *(Mọi người nên nuôi ong ở nhà.)*
-- D. Bees are dangerous and should be avoided. *(Ong nguy hiểm và nên tránh xa.)*
+- A. Bees are important for our food and need our help. *(Ong quan trọng với thức ăn của chúng ta và cần được giúp đỡ.)*
+- B. Honeybees are the only bees that are useful to people. *(Ong mật là loài ong duy nhất có ích cho con người.)*
+- C. People should keep bees at home in their own gardens. *(Mọi người nên nuôi ong ở nhà trong vườn riêng.)*
+- D. Bees are dangerous and should be kept away from houses. *(Ong nguy hiểm và nên để tránh xa nhà cửa.)*
 
 **12. What happens when bees fly from flower to flower?**
 *(Điều gì xảy ra khi ong bay từ hoa này sang hoa khác?)*
 
-- A. They make the flowers smaller. *(Chúng làm hoa nhỏ lại.)*
-- B. They carry pollen, and this helps plants make fruit and seeds. *(Chúng mang phấn hoa, giúp cây ra quả và hạt.)*
-- C. They build nests in the flowers. *(Chúng làm tổ trong hoa.)*
-- D. They kill other insects. *(Chúng giết côn trùng khác.)*
+- A. They make the flowers smaller and cause the leaves to fall. *(Chúng làm hoa nhỏ đi và khiến lá rụng.)*
+- B. They carry pollen, which helps plants make fruit and seeds. *(Chúng mang phấn hoa, điều này giúp cây tạo quả và hạt.)*
+- C. They build their nests in the flowers and stay there. *(Chúng làm tổ trong những bông hoa và ở lại đó.)*
+- D. They kill other insects and then eat them for food. *(Chúng giết các côn trùng khác rồi ăn chúng.)*
 
 **13. Which of these is TRUE about honeybees?**
 *(Điều nào ĐÚNG về ong mật?)*
 
-- A. They usually live alone. *(Chúng thường sống đơn độc.)*
-- B. They first came from North America. *(Chúng có nguồn gốc từ Bắc Mỹ.)*
-- C. They were brought to North America from Europe in the 1600s. *(Chúng được mang từ châu Âu sang Bắc Mỹ vào những năm 1600.)*
-- D. They build nests in the ground. *(Chúng làm tổ dưới đất.)*
+- A. They usually live alone in holes in the ground. *(Chúng thường sống đơn độc trong các hố dưới đất.)*
+- B. They first came from North America in the 1600s. *(Chúng vốn đến từ Bắc Mỹ vào những năm 1600.)*
+- C. They came to North America from Europe in the 1600s. *(Chúng được đưa đến Bắc Mỹ từ châu Âu vào những năm 1600.)*
+- D. They build their nests in small holes in dead wood or the ground. *(Chúng làm tổ trong những lỗ nhỏ trên gỗ mục hoặc dưới đất.)*
 
 **14. How do most native bees in the United States live?**
 *(Phần lớn ong bản địa ở Mỹ sống thế nào?)*
 
-- A. in large groups that make honey *(thành đàn lớn và làm mật)*
-- B. in boxes made by beekeepers *(trong thùng do người nuôi ong làm)*
-- C. on flowers all year *(trên hoa quanh năm)*
-- D. alone, often in small holes in the ground or in dead wood *(đơn độc, thường trong lỗ nhỏ dưới đất hoặc gỗ mục)*
+- A. in large groups that make honey in boxes for beekeepers *(thành đàn lớn làm mật trong các thùng cho người nuôi ong)*
+- B. in boxes made by beekeepers and kept on farms *(trong những thùng do người nuôi ong làm và đặt ở nông trại)*
+- C. on flowers all year long, even in the cold winter *(trên hoa quanh năm, kể cả mùa đông lạnh)*
+- D. alone, often in small holes in the ground or dead wood *(sống đơn độc, thường trong lỗ nhỏ dưới đất hoặc gỗ mục)*
 
 **15. In "bees lose their natural habitat", what does "habitat" mean?**
 *(Trong câu "bees lose their natural habitat", "habitat" nghĩa là gì?)*
 
 - A. the natural place where an animal lives and finds food *(nơi tự nhiên mà con vật sống và kiếm ăn)*
-- B. a kind of food *(một loại thức ăn)*
-- C. a group of animals *(một đàn thú)*
-- D. a disease *(một căn bệnh)*
+- B. a special kind of food that bees collect from flowers *(một loại thức ăn đặc biệt mà ong thu từ hoa)*
+- C. a large group of bees that fly together *(một đàn ong lớn bay cùng nhau)*
+- D. a disease that makes bees weak in the winter *(một căn bệnh làm ong yếu đi vào mùa đông)*
 
 **16. Which of these is NOT given as a threat to bees?**
 *(Điều nào KHÔNG được nêu là mối đe doạ với loài ong?)*
@@ -257,34 +257,34 @@
 **17. Why should you put some stones in a dish of water for bees?**
 *(Vì sao nên đặt vài viên đá vào đĩa nước cho ong?)*
 
-- A. so that the water stays cold *(để nước luôn mát)*
-- B. so that birds cannot drink it *(để chim không uống được)*
+- A. so that the water stays cold in the hot summer *(để nước giữ được mát trong mùa hè nóng)*
+- B. so that birds cannot drink the water instead *(để chim không uống nước thay cho ong)*
 - C. so that bees can rest on them while they drink *(để ong đậu lên nghỉ trong lúc uống)*
-- D. so that the dish does not move *(để đĩa khỏi xê dịch)*
+- D. so that the dish does not move in the wind *(để cái đĩa không bị di chuyển khi có gió)*
 
 **18. What does the writer suggest about a swarm of bees?**
 *(Người viết hàm ý gì về một đàn ong vỡ tổ?)*
 
-- A. It should be killed quickly. *(Nên giết nó thật nhanh.)*
-- B. It means the bees are angry. *(Nó có nghĩa là đàn ong đang tức giận.)*
-- C. It is always looking for food. *(Nó luôn đi tìm thức ăn.)*
-- D. It is usually not dangerous, and an expert can move it. *(Nó thường không nguy hiểm, và người có chuyên môn có thể mang nó đi.)*
+- A. It should be killed quickly before it hurts people. *(Cần diệt nhanh trước khi nó làm người bị hại.)*
+- B. It means the bees are angry at the people nearby. *(Điều đó có nghĩa ong đang giận những người ở gần.)*
+- C. It is always looking for food in the nearby gardens. *(Nó luôn đang tìm thức ăn trong các khu vườn gần đó.)*
+- D. It is usually calm, and an expert can move it. *(Nó thường hiền, và một chuyên gia có thể dời nó đi.)*
 
 **19. What does "Some are so small that you might think they are flies" suggest?**
 *(Câu "Có loài nhỏ tới mức bạn có thể tưởng chúng là ruồi" hàm ý gì?)*
 
-- A. Many people may not notice native bees. *(Nhiều người có thể không để ý tới ong bản địa.)*
+- A. Flies can make honey just like honeybees do. *(Ruồi cũng làm được mật giống như ong mật.)*
 - B. Flies can make honey. *(Ruồi có thể làm mật.)*
-- C. Small bees are dangerous. *(Ong nhỏ rất nguy hiểm.)*
+- C. Small bees are dangerous to people in the garden. *(Ong nhỏ nguy hiểm với người trong vườn.)*
 - D. Native bees are not really bees. *(Ong bản địa không thật sự là ong.)*
 
 **20. Use both texts. Which part of the Green Club's garden is most likely to help bees?**
 *(Dựa vào cả hai bài. Phần nào trong vườn của câu lạc bộ Xanh nhiều khả năng giúp được loài ong nhất?)*
 
-- A. the four rain barrels *(bốn thùng hứng nước mưa)*
+- A. the four large rain barrels under the gym roof *(bốn thùng hứng nước mưa lớn dưới mái phòng tập)*
 - B. the native flowers that need very little water *(những loài hoa bản địa cần rất ít nước)*
-- C. the three bins in the cafeteria *(ba thùng rác ở căng tin)*
-- D. the dry dirt behind the gym *(bãi đất khô sau nhà thể chất)*
+- C. the three bins in the cafeteria for trash *(ba thùng rác trong căng-tin)*
+- D. the dry dirt and dead bushes behind the gym *(đất khô và bụi cây chết sau phòng tập)*
 
 ---
 

@@ -89,17 +89,17 @@
 **1. What is the review mainly about?**
 *(Bài đánh giá chủ yếu nói về điều gì?)*
 
-- A. how to design a website for a surf school *(cách thiết kế trang web cho trường lướt sóng)*
-- B. a small guesthouse that had a few problems but many good points *(một nhà nghỉ nhỏ có vài điểm chưa tốt nhưng nhiều điểm hay)*
-- C. the best beach resorts in Maui *(những khu nghỉ dưỡng biển tốt nhất ở Maui)*
-- D. why flights to Maui are often late *(vì sao chuyến bay tới Maui hay trễ)*
+- A. how to design a new website and logo for a busy surf school *(cách thiết kế website và logo mới cho một trường dạy lướt sóng đông khách)*
+- B. a small guesthouse with a few problems but many good points *(một nhà nghỉ nhỏ có vài vấn đề nhưng nhiều điểm tốt)*
+- C. the best luxury beach resorts in Maui for families on vacation *(những khu nghỉ dưỡng bãi biển sang trọng nhất ở Maui cho gia đình đi nghỉ)*
+- D. why flights to Maui are often held up late at night *(vì sao các chuyến bay đến Maui hay bị hoãn vào đêm muộn)*
 
 **2. Why did Chloe go to Maui?**
 *(Vì sao Chloe tới Maui?)*
 
-- A. to learn to surf *(để học lướt sóng)*
-- B. to visit Mrs. Kahale *(để thăm bà Kahale)*
-- C. to take a vacation *(để đi nghỉ)*
+- A. to learn to surf at a small school on the beach *(để học lướt sóng ở một trường nhỏ trên bãi biển)*
+- B. to visit Mrs. Kahale and stay at her family home *(để thăm bà Kahale và ở nhà gia đình bà)*
+- C. to take a relaxing vacation by the ocean with friends *(để đi nghỉ thư giãn bên biển cùng bạn bè)*
 - D. to design a new logo and website for a surf school *(để thiết kế logo và trang web mới cho một trường lướt sóng)*
 
 **3. Why didn't Chloe know what to expect before her stay?**
@@ -113,10 +113,10 @@
 **4. What had Mrs. Kahale done before Chloe arrived?**
 *(Bà Kahale đã làm gì trước khi Chloe tới?)*
 
-- A. She had waited at the reception desk. *(Bà đã đợi ở quầy lễ tân.)*
-- B. She had cooked dinner for her. *(Bà đã nấu bữa tối cho cô.)*
-- C. She had left Chloe's key in an envelope with a note. *(Bà đã để chìa khoá trong phong bì kèm mẩu giấy.)*
-- D. She had fixed the bathroom light. *(Bà đã sửa đèn nhà tắm.)*
+- A. She had waited at the reception desk until midnight. *(Bà đã đợi ở quầy lễ tân đến tận nửa đêm.)*
+- B. She had cooked a hot dinner and left it in the kitchen. *(Bà đã nấu bữa tối nóng và để lại trong bếp.)*
+- C. She had left Chloe's key in an envelope with a note. *(Bà đã để chìa khoá của Chloe trong phong bì kèm một lời nhắn.)*
+- D. She had fixed the bathroom light and cleaned the room. *(Bà đã sửa đèn phòng tắm và dọn phòng.)*
 
 **5. Which of these is NOT true about Chloe's room?**
 *(Điều nào KHÔNG đúng về phòng của Chloe?)*
@@ -130,41 +130,41 @@
 *(Trong câu "the guesthouse did not just live up to the good reviews", "live up to" nghĩa là gì?)*
 
 - A. be as good as people said *(tốt đúng như mọi người nói)*
-- B. write a review about *(viết đánh giá về)*
-- C. live near *(sống gần)*
-- D. be cheaper than *(rẻ hơn)*
+- B. write a good review about it online *(viết một bài đánh giá tốt về nó trên mạng)*
+- C. live close to the ocean *(sống gần đại dương)*
+- D. be cheaper than other places *(rẻ hơn những nơi khác)*
 
 **7. What does the note "Welcome! How about breakfast at eight?" show about Mrs. Kahale?**
 *(Mẩu giấy "Chào mừng cháu! Tám giờ mình ăn sáng nhé?" cho thấy gì về bà Kahale?)*
 
-- A. She was angry that Chloe arrived late. *(Bà giận vì Chloe tới muộn.)*
-- B. She was kind and welcoming even though Chloe was very late. *(Bà tử tế, niềm nở dù Chloe tới rất muộn.)*
-- C. She wanted Chloe to cook breakfast. *(Bà muốn Chloe nấu bữa sáng.)*
-- D. She did not know that Chloe was coming. *(Bà không biết Chloe sẽ tới.)*
+- A. She was angry that Chloe arrived so late and woke her up. *(Bà giận vì Chloe đến quá muộn và đánh thức bà.)*
+- B. She was kind to Chloe even though she arrived so late. *(Bà tốt bụng với Chloe dù cô đến quá muộn.)*
+- C. She wanted Chloe to cook breakfast for the guests. *(Bà muốn Chloe nấu bữa sáng cho các vị khách.)*
+- D. She did not know that Chloe was coming that night. *(Bà không biết đêm đó Chloe sẽ đến.)*
 
 **8. What were Chloe's two options for working?**
 *(Hai lựa chọn chỗ làm việc của Chloe là gì?)*
 
-- A. her room or the surf school *(phòng của cô hoặc trường lướt sóng)*
-- B. a café or the beach *(quán cà phê hoặc bãi biển)*
-- C. the big table in the garden or the quiet room next to the kitchen *(chiếc bàn lớn ngoài vườn hoặc căn phòng yên tĩnh cạnh bếp)*
-- D. the reception desk or the kitchen *(quầy lễ tân hoặc nhà bếp)*
+- A. her own room or the small office at the surf school *(phòng riêng của cô hoặc văn phòng nhỏ ở trường lướt sóng)*
+- B. a café in town or a bench on the beach *(một quán cà phê trong thị trấn hoặc một chiếc ghế dài trên bãi biển)*
+- C. the garden table or the quiet room next to the kitchen *(cái bàn lớn ngoài vườn hoặc căn phòng yên tĩnh cạnh bếp)*
+- D. the reception desk or the big table in the kitchen *(quầy lễ tân hoặc cái bàn lớn trong bếp)*
 
 **9. Who would probably NOT enjoy staying at Sea Breeze Guesthouse?**
 *(Ai nhiều khả năng sẽ KHÔNG thích ở nhà nghỉ Sea Breeze?)*
 
-- A. someone who wants a quiet place *(người muốn chỗ yên tĩnh)*
-- B. someone who likes friendly people *(người thích những người thân thiện)*
+- A. someone who wants a quiet place to rest and relax by the sea *(người muốn một nơi yên tĩnh để nghỉ ngơi và thư giãn bên biển)*
+- B. someone who likes friendly people and a family atmosphere *(người thích những người thân thiện và không khí gia đình)*
 - C. someone who loves fresh fruit for breakfast *(người thích ăn hoa quả tươi buổi sáng)*
 - D. someone who wants a luxury resort with a pool *(người muốn khu nghỉ dưỡng cao cấp có hồ bơi)*
 
 **10. How does Chloe feel about the guesthouse in the end?**
 *(Cuối cùng Chloe cảm thấy thế nào về nhà nghỉ?)*
 
-- A. She liked it more than she expected and plans to come back. *(Cô thích nó hơn mình nghĩ và định quay lại.)*
-- B. She was too disappointed to stay again. *(Cô thất vọng tới mức không muốn ở lại lần nữa.)*
-- C. She thinks it is too expensive. *(Cô thấy nó quá đắt.)*
-- D. She is not sure what she thinks. *(Cô không chắc mình nghĩ gì.)*
+- A. She liked it more than she expected and plans to return. *(Cô thích nó hơn mong đợi và dự định quay lại.)*
+- B. She was too disappointed with the room to stay there again. *(Cô quá thất vọng về căn phòng nên không muốn ở lại lần nữa.)*
+- C. She thinks it is too expensive for what she received. *(Cô nghĩ nó quá đắt so với những gì mình nhận được.)*
+- D. She is not sure if she would like to stay again. *(Cô không chắc mình có muốn ở lại lần nữa không.)*
 
 ---
 
@@ -210,10 +210,10 @@
 **11. What is the main purpose of the article?**
 *(Mục đích chính của bài báo là gì?)*
 
-- A. to teach readers some Spanish words *(để dạy người đọc vài từ tiếng Tây Ban Nha)*
-- B. to tell readers how to catch more fish *(để chỉ người đọc cách bắt nhiều cá hơn)*
+- A. to teach readers some Spanish words used by fishermen *(để dạy người đọc vài từ tiếng Tây Ban Nha của ngư dân)*
+- B. to tell readers how to catch more fish in warm water *(để chỉ người đọc cách bắt nhiều cá hơn ở vùng nước ấm)*
 - C. to explain what El Niño is and how it affects the weather *(để giải thích El Niño là gì và ảnh hưởng tới thời tiết ra sao)*
-- D. to warn readers about hurricanes in California *(để cảnh báo người đọc về bão ở California)*
+- D. to warn readers about big hurricanes in Southern California *(để cảnh báo người đọc về những cơn bão lớn ở Nam California)*
 
 **12. What happens to the winds near the equator during an El Niño?**
 *(Trong thời kỳ El Niño, gió gần xích đạo thay đổi thế nào?)*
@@ -226,10 +226,10 @@
 **13. Why do fishermen in Peru catch fewer fish during an El Niño?**
 *(Vì sao trong thời kỳ El Niño ngư dân Peru đánh được ít cá hơn?)*
 
-- A. Their boats are damaged by fires. *(Vì thuyền bị cháy hỏng.)*
+- A. Their boats are damaged by fires in Australia. *(Thuyền của họ bị hư hại do các đám cháy ở Úc.)*
 - B. The warm water contains fewer nutrients. *(Vì nước ấm chứa ít chất dinh dưỡng hơn.)*
-- C. The sea becomes too cold. *(Vì biển trở nên quá lạnh.)*
-- D. There are too many hurricanes. *(Vì có quá nhiều bão.)*
+- C. The sea becomes too cold for the fish to live in. *(Biển trở nên quá lạnh nên cá không sống được.)*
+- D. There are too many hurricanes near the coast. *(Có quá nhiều bão gần bờ biển.)*
 
 **14. How often does El Niño usually happen?**
 *(El Niño thường xảy ra bao lâu một lần?)*
@@ -250,24 +250,24 @@
 **16. What does the example of the 2015–2016 El Niño show?**
 *(Ví dụ về đợt El Niño 2015–2016 cho thấy điều gì?)*
 
-- A. El Niño always brings floods to San Diego. *(El Niño luôn mang lũ tới San Diego.)*
+- A. El Niño always brings heavy floods to San Diego every time. *(El Niño lần nào cũng gây lũ lớn ở San Diego.)*
 - B. El Niño does not always bring the rain that people expect. *(El Niño không phải lúc nào cũng mang lại lượng mưa như người ta dự đoán.)*
-- C. Scientists cannot measure the sea temperature. *(Các nhà khoa học không đo được nhiệt độ nước biển.)*
-- D. People should not prepare for storms. *(Mọi người không nên chuẩn bị đón bão.)*
+- C. Scientists cannot measure the sea temperature very well. *(Các nhà khoa học không đo nhiệt độ biển được tốt.)*
+- D. People should never prepare for storms in El Niño years. *(Mọi người không bao giờ nên chuẩn bị cho bão trong những năm El Niño.)*
 
 **17. What does "If you lived in a fishing town in Peru, you would probably watch the ocean temperature as carefully as the weather forecast" suggest?**
 *(Câu "Nếu bạn sống ở một thị trấn chài lưới ở Peru, có lẽ bạn sẽ theo dõi nhiệt độ nước biển kỹ chẳng kém dự báo thời tiết" hàm ý gì?)*
 
-- A. The ocean temperature is very important to people's work there. *(Nhiệt độ nước biển rất quan trọng với công việc của người dân ở đó.)*
-- B. Weather forecasts in Peru are always wrong. *(Dự báo thời tiết ở Peru lúc nào cũng sai.)*
-- C. The reader lives in Peru. *(Người đọc đang sống ở Peru.)*
-- D. Fishermen do not need weather forecasts. *(Ngư dân không cần dự báo thời tiết.)*
+- A. Ocean temperature is very important to their daily work. *(Nhiệt độ đại dương rất quan trọng với công việc hằng ngày của họ.)*
+- B. Weather forecasts in Peru are always wrong, so people ignore them. *(Dự báo thời tiết ở Peru luôn sai nên mọi người bỏ qua.)*
+- C. The reader lives in a fishing town in Peru. *(Người đọc sống ở một thị trấn đánh cá ở Peru.)*
+- D. Fishermen do not need weather forecasts at all. *(Ngư dân hoàn toàn không cần dự báo thời tiết.)*
 
 **18. What does La Niña often do to Southern California?**
 *(La Niña thường gây ra điều gì cho Nam California?)*
 
-- A. It brings more hurricanes. *(Nó mang tới nhiều bão hơn.)*
-- B. It makes the winter wetter. *(Nó làm mùa đông mưa nhiều hơn.)*
+- A. It brings more hurricanes and storms. *(Nó mang đến nhiều bão hơn.)*
+- B. It makes the winter much wetter. *(Nó làm mùa đông ẩm ướt hơn nhiều.)*
 - C. It brings warm water. *(Nó mang nước ấm tới.)*
 - D. It makes the weather drier. *(Nó làm thời tiết khô hơn.)*
 
@@ -282,10 +282,10 @@
 **20. Use both texts. What do Chloe's stay and the 2015–2016 El Niño winter have in common?**
 *(Dựa vào cả hai bài. Chuyến ở của Chloe và mùa đông El Niño 2015–2016 có điểm gì chung?)*
 
-- A. Both had a lot of rain. *(Cả hai đều mưa nhiều.)*
-- B. Both turned out differently from what people had expected. *(Cả hai đều diễn ra khác với điều người ta dự đoán.)*
-- C. Both were in Peru. *(Cả hai đều ở Peru.)*
-- D. Both were a big disappointment. *(Cả hai đều là một sự thất vọng lớn.)*
+- A. Both were full of heavy rain and strong winds. *(Cả hai đều có mưa lớn và gió mạnh.)*
+- B. Both turned out differently from what people expected. *(Cả hai đều diễn ra khác với điều mọi người mong đợi.)*
+- C. Both took place in a fishing town in Peru. *(Cả hai đều diễn ra ở một thị trấn đánh cá ở Peru.)*
+- D. Both were a big disappointment to everyone who went there. *(Cả hai đều là nỗi thất vọng lớn với mọi người đã đến đó.)*
 
 ---
 
