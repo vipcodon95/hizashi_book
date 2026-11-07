@@ -67,5 +67,15 @@
     "u0910",
     "u1112",
     "mock2"
+  ],
+  "expansions": [
+    {
+      "date": "2026-11-07",
+      "what": "Thêm 2 bài đọc × 10 câu cho MỖI unit (bài _03–_06 mỗi chương); mỗi chương 6 bài/60 câu",
+      "added_passages": 24,
+      "added_questions": 240,
+      "checked": "verify_en_chapter.py ĐẠT cả chương",
+      "pending": "kiểm số liệu thật (chưa tra web hết), chưa qua stage 05–07 cho bài mới"
+    }
   ]
 }
