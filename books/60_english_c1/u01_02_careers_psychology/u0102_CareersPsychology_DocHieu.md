@@ -2,7 +2,7 @@
 
 > **Luyện cho:** Unit 1 + Unit 2 khoá C1 · phiếu `c1.001` – `c1.008` (quản lý nhóm, hợp đồng, dự án thay đổi, kiệt sức; hành vi, tính cách, cảm xúc dưới áp lực, suy đoán và thuyết phục).
 >
-> **Nhân vật:** Megan Carter, Leah Carter, Ethan Hayes · tháng 11 – 12, năm 7
+> **Nhân vật:** Megan Carter, Leah Carter, Ethan Hayes, Mitchell Carter, Tina Carter · tháng 11 – 12, năm 7
 >
 > **Mục tiêu:** đọc một bản báo cáo nội bộ và một bài tâm lý học có trích nghiên cứu; nhận ra cấu trúc báo cáo (bối cảnh → cách làm → kết quả → đề xuất), cách người viết tự thừa nhận hạn chế, cách một bài báo khoa học đặt ý cũ cạnh bằng chứng mới rồi điều chỉnh (Not quite…), và các cấu trúc C1: it's high time + quá khứ, be set to / due to / on the verge of, will chỉ thói quen, the very + danh từ.
 
@@ -41,8 +41,12 @@
 | newsletter | bản tin |
 | repetitive | lặp đi lặp lại |
 | closest | gần nhất |
+| freelancer | người làm tự do |
+| respondent | người trả lời khảo sát |
+| unpaid | không được trả tiền |
+| spotlight | ánh đèn sân khấu, tâm điểm chú ý |
 
-> 📌 Cụm hay gặp trong bài: *It was high time we changed it.* (Đã đến lúc phải thay đổi điều đó.), *on the condition that* (với điều kiện là), *be set to* (sắp sửa, đã định sẵn), *be due to* (dự kiến sẽ), *on the verge of* (suýt, sắp sửa), *step in* (bước vào can thiệp), *the very thing* (chính điều), *Not quite.* (Không hẳn.).
+> 📌 Cụm hay gặp trong bài: *It was high time we changed it.* (Đã đến lúc phải thay đổi điều đó.), *on the condition that* (với điều kiện là), *be set to* (sắp sửa, đã định sẵn), *be due to* (dự kiến sẽ), *on the verge of* (suýt, sắp sửa), *step in* (bước vào can thiệp), *the very thing* (chính điều), *Not quite.* (Không hẳn.), *much as a portfolio shows the best work* (giống như hồ sơ năng lực chỉ trưng tác phẩm đẹp nhất), *buckled down to eighty-hour weeks* (cắm cúi làm những tuần tám mươi giờ), *both come from a good place* (cả hai đều xuất phát từ ý tốt), *the book loses its way* (cuốn sách lạc hướng), *That will be true for college students.* (Chắc là đúng với sinh viên đại học thôi.), *laughed it off* (cười xoà cho qua).
 
 ---
 
@@ -292,12 +296,524 @@
 
 ---
 
+## Bài đọc 3 (Unit 1) — Bài báo chuyên đề: cái giá của nghề tự do
+
+> **The Price of Freedom: What Freelancers Leave Out of Their Portfolios**
+>
+> A feature from Working Life magazine, December issue.
+>
+> Ask office workers what they would change about their careers, and many will describe the same dream: no boss, no strict hierarchy, and only the projects they actually want to do. For a growing share of the workforce, that dream has become a daily reality, as designers, translators and software developers leave salaried jobs to work freelance. Yet the stories that freelancers tell online tend to show only the finished product, much as a portfolio shows the best work and none of the failed drafts behind it.
+>
+> To find out what those stories leave out, the management consultancy Harlow and Pierce surveyed just over a thousand full-time freelancers last spring. Most of them said that they took real pride in their independence, and nearly four in five said that they would not return to an office even for more money. The same people, however, described a working life that looked very different from the pictures on their social media accounts.
+>
+> The first surprise was time. On average, respondents spent about a third of their working week on tasks that nobody pays for, such as answering messages, chasing late payments and writing proposals for new contracts. As one graphic designer put it, "I am my own accountant, my own sales team and my own complaints department, and none of them gets a salary."
+>
+> The second surprise was money, or rather the lack of a safety net. A salaried employee's remuneration package usually includes paid holidays, sick pay and a contribution to a pension, whereas a contractor has to set aside money for all of these out of every payment. Many respondents admitted that they had not understood this when they started, and novices in particular tended to charge far too little, sometimes barely half of what the work was worth. Being a complete novice, one translator explained, she had been so grateful for any work that she said yes to everything and buckled down to eighty-hour weeks for less than she had earned as a receptionist.
+>
+> None of this means that freelancing is a mistake, and the report is careful not to suggest so. Freelancers who had been working for more than five years reported higher satisfaction and higher earnings than in their old jobs, which suggests that the early years work as a kind of unpaid apprenticeship in running a business. What separated those who survived from those who gave up was rarely talent; it was whether they had learned to say no, to put every agreement in writing, and to build a small group of regular clients instead of chasing one-off gigs.
+>
+> The report ends with a recommendation that sounds obvious but is surprisingly rare. Anyone considering the move, it argues, should first try freelancing alongside a regular job for six months, thereby discovering whether they enjoy the business side of the work as much as the work itself. Entrepreneurship, after all, is not simply doing what you love without a boss. It is doing what you love while also doing a dozen things that you may not love at all, and doing them with nobody to cover for you when you are ill.
+
+### Dịch từng câu
+
+| # | Tiếng Anh | Tiếng Việt |
+|---|---|---|
+| 1 | The Price of Freedom: What Freelancers Leave Out of Their Portfolios | Cái giá của tự do: Những điều người làm tự do không đưa vào hồ sơ năng lực |
+| 2 | A feature from Working Life magazine, December issue. | Bài chuyên đề của tạp chí Working Life, số tháng Mười Hai. |
+| 3 | Ask office workers what they would change about their careers, and many will describe the same dream: no boss, no strict hierarchy, and only the projects they actually want to do. | Hãy hỏi nhân viên văn phòng họ muốn thay đổi gì trong sự nghiệp, và nhiều người sẽ tả cùng một giấc mơ: không sếp, không thứ bậc cứng nhắc, và chỉ làm những dự án họ thật sự muốn làm. |
+| 4 | For a growing share of the workforce, that dream has become a daily reality, as designers, translators and software developers leave salaried jobs to work freelance. | Với một phần ngày càng lớn của lực lượng lao động, giấc mơ đó đã thành hiện thực hằng ngày, khi các nhà thiết kế, phiên dịch viên và lập trình viên rời công việc hưởng lương để làm tự do. |
+| 5 | Yet the stories that freelancers tell online tend to show only the finished product, much as a portfolio shows the best work and none of the failed drafts behind it. | Thế nhưng những câu chuyện người làm tự do kể trên mạng thường chỉ cho thấy thành phẩm, giống như một bộ hồ sơ năng lực chỉ trưng ra tác phẩm đẹp nhất mà không có bản nháp hỏng nào phía sau. |
+| 6 | To find out what those stories leave out, the management consultancy Harlow and Pierce surveyed just over a thousand full-time freelancers last spring. | Để tìm hiểu những câu chuyện ấy bỏ sót điều gì, công ty tư vấn quản lý Harlow and Pierce đã khảo sát hơn một nghìn người làm tự do toàn thời gian vào mùa xuân năm ngoái. |
+| 7 | Most of them said that they took real pride in their independence, and nearly four in five said that they would not return to an office even for more money. | Phần lớn nói rằng họ thật sự tự hào về sự độc lập của mình, và gần bốn trên năm người nói họ sẽ không quay lại văn phòng kể cả khi được trả nhiều tiền hơn. |
+| 8 | The same people, however, described a working life that looked very different from the pictures on their social media accounts. | Tuy vậy, cũng chính những người đó lại mô tả một cuộc sống làm việc trông rất khác với những bức ảnh trên tài khoản mạng xã hội của họ. |
+| 9 | The first surprise was time. | Điều bất ngờ đầu tiên là thời gian. |
+| 10 | On average, respondents spent about a third of their working week on tasks that nobody pays for, such as answering messages, chasing late payments and writing proposals for new contracts. | Trung bình, người trả lời dành khoảng một phần ba tuần làm việc cho những việc không ai trả tiền, như trả lời tin nhắn, đòi các khoản thanh toán trễ và viết đề xuất cho hợp đồng mới. |
+| 11 | As one graphic designer put it, "I am my own accountant, my own sales team and my own complaints department, and none of them gets a salary." | Như một nhà thiết kế đồ hoạ nói: "Tôi là kế toán của chính mình, đội bán hàng của chính mình và phòng giải quyết khiếu nại của chính mình, và chẳng ai trong số đó được nhận lương." |
+| 12 | The second surprise was money, or rather the lack of a safety net. | Điều bất ngờ thứ hai là tiền, hay đúng hơn là việc không có tấm lưới an toàn. |
+| 13 | A salaried employee's remuneration package usually includes paid holidays, sick pay and a contribution to a pension, whereas a contractor has to set aside money for all of these out of every payment. | Gói đãi ngộ của một nhân viên hưởng lương thường gồm ngày nghỉ có lương, lương khi ốm và khoản đóng góp vào lương hưu, còn người làm theo hợp đồng thì phải tự trích tiền cho tất cả những khoản này từ mỗi lần được trả. |
+| 14 | Many respondents admitted that they had not understood this when they started, and novices in particular tended to charge far too little, sometimes barely half of what the work was worth. | Nhiều người trả lời thừa nhận rằng lúc mới bắt đầu họ không hiểu điều này, và đặc biệt người mới vào nghề thường đòi giá quá thấp, có khi chỉ bằng một nửa giá trị công việc. |
+| 15 | Being a complete novice, one translator explained, she had been so grateful for any work that she said yes to everything and buckled down to eighty-hour weeks for less than she had earned as a receptionist. | Một phiên dịch viên kể rằng, là người hoàn toàn mới, cô biết ơn bất cứ việc gì đến mức nhận hết mọi thứ và cắm cúi làm những tuần tám mươi giờ mà kiếm được còn ít hơn hồi làm lễ tân. |
+| 16 | None of this means that freelancing is a mistake, and the report is careful not to suggest so. | Không điều gì trong số này có nghĩa làm tự do là một sai lầm, và bản báo cáo cẩn thận không ngụ ý như vậy. |
+| 17 | Freelancers who had been working for more than five years reported higher satisfaction and higher earnings than in their old jobs, which suggests that the early years work as a kind of unpaid apprenticeship in running a business. | Những người đã làm tự do hơn năm năm cho biết họ hài lòng hơn và kiếm được nhiều hơn so với công việc cũ, điều này cho thấy những năm đầu giống như một kiểu học việc không lương về cách điều hành kinh doanh. |
+| 18 | What separated those who survived from those who gave up was rarely talent; it was whether they had learned to say no, to put every agreement in writing, and to build a small group of regular clients instead of chasing one-off gigs. | Điều phân biệt người trụ lại với người bỏ cuộc hiếm khi là tài năng; mà là việc họ đã học được cách từ chối, ghi mọi thoả thuận thành văn bản, và xây dựng một nhóm nhỏ khách hàng quen thay vì chạy theo những việc vặt làm một lần. |
+| 19 | The report ends with a recommendation that sounds obvious but is surprisingly rare. | Bản báo cáo kết thúc bằng một khuyến nghị nghe thì hiển nhiên nhưng lại hiếm thấy đến bất ngờ. |
+| 20 | Anyone considering the move, it argues, should first try freelancing alongside a regular job for six months, thereby discovering whether they enjoy the business side of the work as much as the work itself. | Báo cáo cho rằng bất kỳ ai đang tính chuyển hướng nên thử làm tự do song song với một công việc ổn định trong sáu tháng trước đã, nhờ đó phát hiện xem mình có thích phần kinh doanh của công việc nhiều như chính công việc hay không. |
+| 21 | Entrepreneurship, after all, is not simply doing what you love without a boss. | Rốt cuộc, khởi nghiệp không đơn giản là làm điều mình yêu thích mà không có sếp. |
+| 22 | It is doing what you love while also doing a dozen things that you may not love at all, and doing them with nobody to cover for you when you are ill. | Mà là làm điều mình yêu thích trong khi cũng phải làm cả chục việc mình có thể chẳng thích chút nào, và làm chúng mà không có ai làm thay khi mình ốm. |
+
+### Câu hỏi
+
+**21. What is the main purpose of the article?**
+*(Mục đích chính của bài báo là gì?)*
+
+- A. to show that freelancing involves hidden costs that success stories rarely mention *(cho thấy nghề tự do có những cái giá ẩn mà các câu chuyện thành công hiếm khi nhắc tới)*
+- B. to persuade office workers to leave their salaried jobs as soon as they can *(thuyết phục nhân viên văn phòng rời công việc hưởng lương càng sớm càng tốt)*
+- C. to advertise the services that a management consultancy offers to freelancers *(quảng cáo dịch vụ mà một công ty tư vấn quản lý cung cấp cho người làm tự do)*
+- D. to argue that most freelancers would be happier back in an office *(lập luận rằng phần lớn người làm tự do sẽ hạnh phúc hơn khi quay lại văn phòng)*
+
+**22. Why does the writer compare freelancers' online stories to a portfolio?**
+*(Vì sao người viết so sánh câu chuyện trên mạng của người làm tự do với một bộ hồ sơ năng lực?)*
+
+- A. to explain that freelancers need a strong portfolio before they can find any clients *(để giải thích rằng người làm tự do cần hồ sơ năng lực tốt thì mới tìm được khách)*
+- B. to show that most freelancers post their failed drafts online as well *(để cho thấy phần lớn người làm tự do cũng đăng cả bản nháp hỏng lên mạng)*
+- C. to suggest that both present a carefully selected picture rather than the whole truth *(để ngụ ý rằng cả hai đều đưa ra một bức tranh được chọn lọc kỹ chứ không phải toàn bộ sự thật)*
+- D. to criticize designers who copy other people's work for their portfolios *(để phê phán những nhà thiết kế chép tác phẩm của người khác vào hồ sơ)*
+
+**23. What did most of the freelancers in the survey say about their independence?**
+*(Phần lớn người làm tự do trong cuộc khảo sát nói gì về sự độc lập của họ?)*
+
+- A. They were proud of it but planned to return to an office within five years. *(Họ tự hào về nó nhưng định quay lại văn phòng trong vòng năm năm.)*
+- B. They would not give it up for an office job, even if the pay were higher. *(Họ sẽ không từ bỏ nó để làm văn phòng, kể cả khi lương cao hơn.)*
+- C. They valued it less than the paid holidays they used to have. *(Họ coi trọng nó ít hơn những ngày nghỉ có lương họ từng có.)*
+- D. They felt it had been greatly exaggerated by social media. *(Họ cảm thấy mạng xã hội đã thổi phồng nó quá nhiều.)*
+
+**24. What does the graphic designer's remark about being "my own accountant" imply?**
+*(Lời nhận xét của nhà thiết kế đồ hoạ về việc là "kế toán của chính mình" hàm ý gì?)*
+
+- A. Freelancers earn more because they no longer need to pay an accountant. *(Người làm tự do kiếm nhiều hơn vì không còn phải thuê kế toán.)*
+- B. Freelancers must do many unpaid jobs in addition to the work they are paid for. *(Người làm tự do phải làm nhiều việc không lương bên cạnh công việc được trả tiền.)*
+- C. The designer has hired several people to handle sales and complaints. *(Nhà thiết kế đã thuê vài người lo bán hàng và khiếu nại.)*
+- D. The designer regrets choosing a career in graphic design. *(Nhà thiết kế hối hận vì đã chọn nghề thiết kế đồ hoạ.)*
+
+**25. According to the article, how does a contractor's situation differ from a salaried employee's?**
+*(Theo bài báo, hoàn cảnh của người làm theo hợp đồng khác nhân viên hưởng lương thế nào?)*
+
+- A. A contractor receives a remuneration package that includes sick pay. *(Người làm hợp đồng nhận gói đãi ngộ có cả lương khi ốm.)*
+- B. A contractor is usually paid more for each hour than for each project. *(Người làm hợp đồng thường được trả theo giờ nhiều hơn theo dự án.)*
+- C. A contractor must save for holidays, sick days and a pension out of each payment. *(Người làm hợp đồng phải tự để dành cho ngày nghỉ, ngày ốm và lương hưu từ mỗi lần được trả.)*
+- D. A contractor does not need to take holidays because the work is flexible. *(Người làm hợp đồng không cần nghỉ phép vì công việc linh hoạt.)*
+
+**26. In the sentence about the translator, what does "buckled down to" mean?**
+*(Trong câu về cô phiên dịch viên, "buckled down to" nghĩa là gì?)*
+
+- A. refused to accept *(từ chối chấp nhận)*
+- B. complained loudly about *(phàn nàn ầm ĩ về)*
+- C. forced herself to work hard at *(ép bản thân làm việc chăm chỉ)*
+- D. slowly reduced *(dần dần cắt giảm)*
+
+**27. What does the report suggest about a freelancer's first few years?**
+*(Bản báo cáo ngụ ý gì về vài năm đầu của người làm tự do?)*
+
+- A. They are a period of learning how to run a business, often at a financial cost. *(Đó là giai đoạn học cách điều hành kinh doanh, thường phải trả giá về tiền bạc.)*
+- B. They are the years when freelancers earn the most and feel most satisfied. *(Đó là những năm người làm tự do kiếm nhiều nhất và hài lòng nhất.)*
+- C. They should be spent in a formal apprenticeship at a large company. *(Nên dành chúng để học việc chính thức ở một công ty lớn.)*
+- D. They show clearly which freelancers have the most talent. *(Chúng cho thấy rõ người làm tự do nào tài năng nhất.)*
+
+**28. According to the article, what most often separated freelancers who survived from those who gave up?**
+*(Theo bài báo, điều gì thường phân biệt người làm tự do trụ lại với người bỏ cuộc?)*
+
+- A. practical habits such as refusing work and keeping regular clients *(những thói quen thực tế như biết từ chối việc và giữ khách quen)*
+- B. the number of one-off gigs they managed to win each month *(số việc làm một lần họ giành được mỗi tháng)*
+- C. whether they had worked in a strict hierarchy before *(việc họ đã từng làm trong một hệ thống thứ bậc cứng nhắc hay chưa)*
+- D. their natural talent and the quality of their portfolios *(tài năng bẩm sinh và chất lượng hồ sơ năng lực)*
+
+**29. Which statement best describes the writer's attitude toward freelancing?**
+*(Câu nào mô tả đúng nhất thái độ của người viết đối với nghề tự do?)*
+
+- A. strongly against it, because the survey shows it rarely pays *(phản đối mạnh, vì khảo sát cho thấy nó hiếm khi có lời)*
+- B. enthusiastic, because almost everyone in the survey loved it *(hào hứng, vì gần như mọi người trong khảo sát đều yêu nó)*
+- C. realistic, accepting its rewards while stressing its demands *(thực tế, công nhận cái được nhưng nhấn mạnh những đòi hỏi của nó)*
+- D. uninterested, since the article only repeats the report's numbers *(không quan tâm, vì bài chỉ nhắc lại số liệu của báo cáo)*
+
+**30. Why does the report recommend freelancing alongside a regular job for six months?**
+*(Vì sao báo cáo khuyên làm tự do song song với việc ổn định trong sáu tháng?)*
+
+- A. so that employers do not find out that their staff are leaving *(để chủ lao động không phát hiện nhân viên sắp nghỉ)*
+- B. so that people can save enough money to buy their own equipment *(để người ta tiết kiệm đủ tiền mua thiết bị riêng)*
+- C. so that people can build a portfolio before telling their clients *(để người ta xây dựng hồ sơ năng lực trước khi báo khách hàng)*
+- D. so that people can test whether they like the business side of the work *(để người ta thử xem mình có thích phần kinh doanh của công việc không)*
+
+---
+
+## Bài đọc 4 (Unit 1) — Mục tư vấn: lãnh đạo chính những người bạn cũ
+
+> **Dear Beverly: My Friends Are Now My Team**
+>
+> Work Matters, a weekly advice column by Beverly Kessler.
+>
+> Dear Beverly, three months ago I was promoted to lead the team I had been part of for four years, and I am beginning to wonder whether accepting was a mistake. There are six of us, and until the summer we ate lunch together, complained about the same manager and pitched in for one another whenever the workload was heavy. Now I am supposed to oversee their work, and the friendly atmosphere has been replaced by something that I can only describe as polite silence. The hardest case is Glen, who has been with the company for twenty years and whose expertise in our systems is far greater than mine. He has never said anything rude, but he answers my questions with a single word and no longer offers ideas at meetings. To avoid making things worse, I have started doing the most tedious tasks myself, which means that I am at my desk until nine most nights. How do I lead people who were my friends without losing them or myself?
+>
+> Promoted Too Soon
+>
+> Dear Promoted, first let me reassure you that what you describe is so common that it barely counts as a problem; it is simply the price of the new job. Moving from colleague to manager changes the hierarchy overnight, and nobody, including you, has had time to get used to it. That said, two of your choices are making things harder, and both come from a good place. The first is doing the tedious work yourself. You may see it as kindness, but your team is likely to read it as a lack of trust, and before long you will be too tired to do the part of the job that only you can do. Allocate the work fairly, explain why, and then leave people to do it.
+>
+> The second is treating Glen's silence as a personal attack. Someone who has spent twenty years building his expertise may simply be wondering whether it still counts for anything now that a younger colleague is giving the instructions. So talk to him in private, and do not ask how he feels about you; ask for his help with something that he knows better than anyone, and mean it. Respect for his knowledge is not the same as handing him your authority, and most experienced people can tell the difference.
+>
+> Finally, accept that some of the old friendships will change. You can still take pride in a team that works well together, and still eat lunch with them now and then, but you cannot be the person they complain to about the manager when you are the manager. Give it six months before you decide that accepting was a mistake; most of the new leaders who write to me find that by then the silence has quietly turned into something much more like trust.
+>
+> Beverly
+
+### Dịch từng câu
+
+| # | Tiếng Anh | Tiếng Việt |
+|---|---|---|
+| 1 | Dear Beverly: My Friends Are Now My Team | Thưa chị Beverly: Bạn bè tôi giờ là nhóm của tôi |
+| 2 | Work Matters, a weekly advice column by Beverly Kessler. | Work Matters, mục tư vấn hằng tuần của Beverly Kessler. |
+| 3 | Dear Beverly, three months ago I was promoted to lead the team I had been part of for four years, and I am beginning to wonder whether accepting was a mistake. | Thưa chị Beverly, ba tháng trước tôi được thăng chức lên trưởng nhóm của chính nhóm mà tôi đã ở trong đó bốn năm, và tôi bắt đầu tự hỏi liệu nhận lời có phải là sai lầm không. |
+| 4 | There are six of us, and until the summer we ate lunch together, complained about the same manager and pitched in for one another whenever the workload was heavy. | Nhóm có sáu người, và cho tới mùa hè chúng tôi vẫn ăn trưa cùng nhau, cùng than phiền về một quản lý và xắn tay giúp nhau mỗi khi việc nhiều. |
+| 5 | Now I am supposed to oversee their work, and the friendly atmosphere has been replaced by something that I can only describe as polite silence. | Giờ tôi phải giám sát công việc của họ, và bầu không khí thân thiện đã bị thay bằng một thứ mà tôi chỉ có thể gọi là sự im lặng lịch sự. |
+| 6 | The hardest case is Glen, who has been with the company for twenty years and whose expertise in our systems is far greater than mine. | Khó nhất là anh Glen, người đã gắn bó với công ty hai mươi năm và có chuyên môn về hệ thống của chúng tôi vượt xa tôi. |
+| 7 | He has never said anything rude, but he answers my questions with a single word and no longer offers ideas at meetings. | Anh ấy chưa bao giờ nói gì thô lỗ, nhưng trả lời câu hỏi của tôi bằng đúng một từ và không còn góp ý trong các cuộc họp. |
+| 8 | To avoid making things worse, I have started doing the most tedious tasks myself, which means that I am at my desk until nine most nights. | Để khỏi làm mọi chuyện tệ hơn, tôi bắt đầu tự làm những việc tẻ nhạt nhất, nghĩa là hầu như tối nào tôi cũng ngồi ở bàn làm việc tới chín giờ. |
+| 9 | How do I lead people who were my friends without losing them or myself? | Làm sao để tôi lãnh đạo những người từng là bạn mà không đánh mất họ hay đánh mất chính mình? |
+| 10 | Promoted Too Soon | Thăng chức quá sớm |
+| 11 | Dear Promoted, first let me reassure you that what you describe is so common that it barely counts as a problem; it is simply the price of the new job. | Bạn Thăng chức thân mến, trước hết để tôi trấn an bạn rằng điều bạn kể phổ biến đến mức khó mà gọi là vấn đề; đó đơn giản là cái giá của công việc mới. |
+| 12 | Moving from colleague to manager changes the hierarchy overnight, and nobody, including you, has had time to get used to it. | Từ đồng nghiệp thành quản lý làm thứ bậc thay đổi chỉ sau một đêm, và chưa ai, kể cả bạn, có thời gian để quen với điều đó. |
+| 13 | That said, two of your choices are making things harder, and both come from a good place. | Dù vậy, có hai lựa chọn của bạn đang khiến mọi chuyện khó hơn, và cả hai đều xuất phát từ ý tốt. |
+| 14 | The first is doing the tedious work yourself. | Thứ nhất là tự làm những việc tẻ nhạt. |
+| 15 | You may see it as kindness, but your team is likely to read it as a lack of trust, and before long you will be too tired to do the part of the job that only you can do. | Bạn có thể coi đó là tử tế, nhưng nhóm của bạn nhiều khả năng sẽ hiểu đó là thiếu tin tưởng, và chẳng bao lâu bạn sẽ quá mệt để làm phần việc chỉ bạn mới làm được. |
+| 16 | Allocate the work fairly, explain why, and then leave people to do it. | Hãy phân việc công bằng, giải thích lý do, rồi để mọi người tự làm. |
+| 17 | The second is treating Glen's silence as a personal attack. | Thứ hai là coi sự im lặng của Glen như một sự công kích cá nhân. |
+| 18 | Someone who has spent twenty years building his expertise may simply be wondering whether it still counts for anything now that a younger colleague is giving the instructions. | Một người đã dành hai mươi năm xây dựng chuyên môn có thể chỉ đang tự hỏi liệu nó còn có giá trị gì không khi giờ một đồng nghiệp trẻ hơn đang ra chỉ thị. |
+| 19 | So talk to him in private, and do not ask how he feels about you; ask for his help with something that he knows better than anyone, and mean it. | Vì vậy hãy nói chuyện riêng với anh ấy, và đừng hỏi anh ấy cảm thấy thế nào về bạn; hãy nhờ anh ấy giúp một việc anh ấy rành hơn ai hết, và nhờ thật lòng. |
+| 20 | Respect for his knowledge is not the same as handing him your authority, and most experienced people can tell the difference. | Tôn trọng hiểu biết của anh ấy không giống với việc trao quyền của bạn cho anh ấy, và phần lớn người có kinh nghiệm đều phân biệt được hai điều đó. |
+| 21 | Finally, accept that some of the old friendships will change. | Cuối cùng, hãy chấp nhận rằng vài tình bạn cũ sẽ thay đổi. |
+| 22 | You can still take pride in a team that works well together, and still eat lunch with them now and then, but you cannot be the person they complain to about the manager when you are the manager. | Bạn vẫn có thể tự hào về một nhóm làm việc ăn ý, thỉnh thoảng vẫn ăn trưa cùng họ, nhưng bạn không thể là người để họ than phiền về quản lý khi chính bạn là quản lý. |
+| 23 | Give it six months before you decide that accepting was a mistake; most of the new leaders who write to me find that by then the silence has quietly turned into something much more like trust. | Hãy cho nó sáu tháng trước khi kết luận rằng nhận lời là sai lầm; phần lớn những trưởng nhóm mới viết thư cho tôi đều thấy rằng tới lúc đó sự im lặng đã lặng lẽ chuyển thành một thứ gần với sự tin tưởng hơn. |
+| 24 | Beverly | Beverly |
+
+### Câu hỏi
+
+**31. What is the main problem described in the letter?**
+*(Vấn đề chính được kể trong lá thư là gì?)*
+
+- A. The writer has been asked to reduce the size of her team. *(Người viết bị yêu cầu cắt giảm quy mô nhóm.)*
+- B. The writer wants to leave the company after four years. *(Người viết muốn rời công ty sau bốn năm.)*
+- C. The writer is unsure how to lead colleagues who used to be her friends. *(Người viết không biết lãnh đạo những đồng nghiệp từng là bạn mình thế nào.)*
+- D. The writer's manager refuses to give her more people. *(Quản lý của người viết từ chối cho thêm người.)*
+
+**32. What does the phrase "polite silence" suggest about the team?**
+*(Cụm "polite silence" gợi ra điều gì về nhóm?)*
+
+- A. They are too busy with their heavy workload to talk to anyone. *(Họ quá bận với khối lượng việc nặng nên chẳng nói chuyện với ai.)*
+- B. They openly refuse to follow the writer's instructions. *(Họ công khai từ chối làm theo chỉ thị của người viết.)*
+- C. They have become distant from the writer, although nobody is openly rude. *(Họ đã trở nên xa cách với người viết, dù không ai thô lỗ ra mặt.)*
+- D. They are happier and calmer than they were before the summer. *(Họ vui vẻ và bình tĩnh hơn trước mùa hè.)*
+
+**33. Why has the writer started doing the most tedious tasks herself?**
+*(Vì sao người viết bắt đầu tự làm những việc tẻ nhạt nhất?)*
+
+- A. because she hoped to avoid making the situation worse *(vì cô hy vọng tránh làm tình hình tệ hơn)*
+- B. because Glen refused to do them *(vì Glen từ chối làm)*
+- C. because her manager told her to set an example *(vì quản lý bảo cô làm gương)*
+- D. because nobody else on the team knew how to do them *(vì không ai khác trong nhóm biết làm)*
+
+**34. What does Beverly imply in the first sentence of her reply?**
+*(Beverly hàm ý gì trong câu đầu tiên của thư trả lời?)*
+
+- A. The writer's team is unusually difficult to manage. *(Nhóm của người viết khó quản lý một cách bất thường.)*
+- B. The writer has made too many serious mistakes to recover. *(Người viết đã phạm quá nhiều lỗi nghiêm trọng để gỡ lại.)*
+- C. The writer's experience is normal and not a sign that she has failed. *(Trải nghiệm của người viết là bình thường, không phải dấu hiệu cô đã thất bại.)*
+- D. The writer should go back to her old job as soon as possible. *(Người viết nên quay lại công việc cũ càng sớm càng tốt.)*
+
+**35. In the phrase "both come from a good place", what does "come from a good place" mean?**
+*(Trong cụm "both come from a good place", "come from a good place" nghĩa là gì?)*
+
+- A. are common in successful companies *(phổ biến ở những công ty thành công)*
+- B. are based on good intentions *(xuất phát từ ý định tốt)*
+- C. were suggested by a good manager *(được một quản lý giỏi gợi ý)*
+- D. have produced good results so far *(tới giờ đã đem lại kết quả tốt)*
+
+**36. According to Beverly, how is the team likely to see the writer doing the tedious work?**
+*(Theo Beverly, nhóm nhiều khả năng sẽ nhìn việc người viết tự làm việc tẻ nhạt thế nào?)*
+
+- A. as proof that she is better at the work than they are *(như bằng chứng cô làm giỏi hơn họ)*
+- B. as a generous act that they will soon repay *(như một hành động hào phóng mà họ sẽ sớm đáp lại)*
+- C. as a sign that she does not trust them *(như dấu hiệu cô không tin tưởng họ)*
+- D. as an attempt to impress the company's directors *(như một cách gây ấn tượng với ban giám đốc)*
+
+**37. What explanation does Beverly offer for Glen's behavior?**
+*(Beverly đưa ra lời giải thích nào cho cách cư xử của Glen?)*
+
+- A. He wanted the promotion himself and is trying to replace her. *(Anh muốn chính mình được thăng chức và đang tìm cách thay cô.)*
+- B. He has always been quiet and dislikes meetings of any kind. *(Anh vốn ít nói và ghét mọi cuộc họp.)*
+- C. He is planning to leave and no longer cares about the team. *(Anh định nghỉ việc và không còn quan tâm tới nhóm.)*
+- D. He may be unsure whether his long experience is still valued. *(Có thể anh không chắc kinh nghiệm lâu năm của mình còn được coi trọng.)*
+
+**38. What does Beverly mean by "Respect for his knowledge is not the same as handing him your authority"?**
+*(Beverly muốn nói gì qua câu "Respect for his knowledge is not the same as handing him your authority"?)*
+
+- A. The writer should let Glen make all the important decisions. *(Người viết nên để Glen ra mọi quyết định quan trọng.)*
+- B. The writer should avoid asking Glen for help in front of others. *(Người viết nên tránh nhờ Glen giúp trước mặt người khác.)*
+- C. The writer can value Glen's expertise and still remain the leader. *(Người viết có thể trân trọng chuyên môn của Glen mà vẫn giữ vai trò trưởng nhóm.)*
+- D. The writer must prove that she knows more than Glen does. *(Người viết phải chứng minh mình biết nhiều hơn Glen.)*
+
+**39. Why does Beverly say the writer cannot be "the person they complain to about the manager"?**
+*(Vì sao Beverly nói người viết không thể là "người để họ than phiền về quản lý"?)*
+
+- A. because she should stop eating lunch with her team completely *(vì cô nên thôi hẳn việc ăn trưa với nhóm)*
+- B. because she is now the manager they would be complaining about *(vì giờ chính cô là quản lý mà họ sẽ than phiền)*
+- C. because the old manager has asked her to report any complaints *(vì quản lý cũ đã nhờ cô báo lại mọi lời than phiền)*
+- D. because complaining at work is against company rules *(vì than phiền ở chỗ làm là trái nội quy công ty)*
+
+**40. Which best describes the tone of Beverly's reply as a whole?**
+*(Câu nào mô tả đúng nhất giọng điệu của toàn bộ thư trả lời của Beverly?)*
+
+- A. reassuring but frank about what the writer should change *(trấn an nhưng thẳng thắn về những gì người viết cần thay đổi)*
+- B. amused, since she does not take the letter seriously *(buồn cười, vì bà không coi lá thư là nghiêm túc)*
+- C. uncertain, since she admits she has no advice to give *(không chắc chắn, vì bà thừa nhận không có lời khuyên nào)*
+- D. cold and critical, since she blames the writer for the problem *(lạnh lùng và chỉ trích, vì bà đổ lỗi cho người viết)*
+
+---
+
+## Bài đọc 5 (Unit 2) — Bài điểm sách: khi nào nên tin trực giác
+
+> **Review: The Quiet Signal, by Marcus Whitlow**
+>
+> Reviewed by Andrea Collins for the weekend books page.
+>
+> Few ideas are as flattering as the one at the heart of Marcus Whitlow's new book: that somewhere inside each of us is a wise inner voice, and that we would make better decisions if only we listened to it. Whitlow, a behavioral scientist who spent a decade studying how nurses, pilots and firefighters make decisions under pressure, is too careful a researcher to accept that idea as it stands. For most of its length, The Quiet Signal is an attempt to explain when the inner voice deserves to be trusted and when it is simply telling us what we want to hear.
+>
+> The first half of the book is excellent. Whitlow argues that intuition is not magic but memory: after years of practice, the brain learns to notice small cues, such as a change in a patient's breathing, long before we are able to explain what we have noticed. He builds on a well-known 2009 paper in which the psychologists Daniel Kahneman and Gary Klein, who had long disagreed about intuition, concluded that expert intuition can be trusted under two conditions. The situation has to be regular enough to contain patterns, and the person must have had plenty of practice with quick, clear feedback on whether their judgments were right. A firefighter who has walked into hundreds of burning buildings meets both conditions; someone picking shares on the stock market meets neither, however confident they may feel.
+>
+> Whitlow tells these stories with real skill, and his chapter on a nurse who sensed that a patient was in danger hours before any test confirmed it is the most memorable thing I have read this year. It is in the second half that the book loses its way. Having shown so carefully that intuition is only as good as the experience behind it, Whitlow goes on to encourage readers to follow their intuition in areas where they have very little experience at all, from choosing a business partner to judging whether a job candidate is honest. Hiring is a strange choice of example, since it fails both of his own conditions: interviewers rarely find out whether the people they rejected would have done well, so their instincts never receive the feedback that would correct them.
+>
+> There is also a problem with the evidence. Almost every story in the second half ends with someone whose instinct turned out to be right, and we never hear about the people who followed an equally strong feeling straight into disaster. A reader who is wary of this kind of writing may begin to suspect that the cases were chosen because they make a satisfying chapter, not because they are typical.
+>
+> None of this makes The Quiet Signal a bad book, and I would still recommend its first five chapters to anyone who has wondered why experienced colleagues so often seem to just know. But the title promises a signal, and the honest conclusion of Whitlow's own research is more like this: the signal is clear only where we have spent years learning to hear it. Everywhere else, it is just noise that happens to feel convincing.
+
+### Dịch từng câu
+
+| # | Tiếng Anh | Tiếng Việt |
+|---|---|---|
+| 1 | Review: The Quiet Signal, by Marcus Whitlow | Điểm sách: Tín hiệu lặng lẽ, của Marcus Whitlow |
+| 2 | Reviewed by Andrea Collins for the weekend books page. | Andrea Collins điểm sách cho trang sách cuối tuần. |
+| 3 | Few ideas are as flattering as the one at the heart of Marcus Whitlow's new book: that somewhere inside each of us is a wise inner voice, and that we would make better decisions if only we listened to it. | Hiếm có ý tưởng nào dễ nghe như ý tưởng nằm ở trung tâm cuốn sách mới của Marcus Whitlow: rằng đâu đó trong mỗi chúng ta có một giọng nói nội tâm khôn ngoan, và ta sẽ quyết định tốt hơn nếu chỉ cần lắng nghe nó. |
+| 4 | Whitlow, a behavioral scientist who spent a decade studying how nurses, pilots and firefighters make decisions under pressure, is too careful a researcher to accept that idea as it stands. | Whitlow, một nhà khoa học hành vi từng dành mười năm nghiên cứu cách điều dưỡng, phi công và lính cứu hoả ra quyết định dưới áp lực, là một nhà nghiên cứu quá cẩn trọng để chấp nhận ý tưởng ấy nguyên như vậy. |
+| 5 | For most of its length, The Quiet Signal is an attempt to explain when the inner voice deserves to be trusted and when it is simply telling us what we want to hear. | Trong phần lớn độ dài của nó, Tín hiệu lặng lẽ là một nỗ lực giải thích khi nào giọng nói nội tâm đáng tin và khi nào nó chỉ đang nói điều ta muốn nghe. |
+| 6 | The first half of the book is excellent. | Nửa đầu cuốn sách rất xuất sắc. |
+| 7 | Whitlow argues that intuition is not magic but memory: after years of practice, the brain learns to notice small cues, such as a change in a patient's breathing, long before we are able to explain what we have noticed. | Whitlow lập luận rằng trực giác không phải phép màu mà là trí nhớ: sau nhiều năm thực hành, bộ não học cách nhận ra những tín hiệu nhỏ, như một thay đổi trong nhịp thở của bệnh nhân, từ rất lâu trước khi ta giải thích được mình đã nhận ra điều gì. |
+| 8 | He builds on a well-known 2009 paper in which the psychologists Daniel Kahneman and Gary Klein, who had long disagreed about intuition, concluded that expert intuition can be trusted under two conditions. | Ông dựa trên một bài báo nổi tiếng năm 2009, trong đó hai nhà tâm lý học Daniel Kahneman và Gary Klein, vốn bất đồng lâu năm về trực giác, kết luận rằng trực giác của chuyên gia có thể tin được với hai điều kiện. |
+| 9 | The situation has to be regular enough to contain patterns, and the person must have had plenty of practice with quick, clear feedback on whether their judgments were right. | Tình huống phải đủ đều đặn để có quy luật, và người đó phải được thực hành nhiều với phản hồi nhanh, rõ ràng về việc phán đoán của mình đúng hay sai. |
+| 10 | A firefighter who has walked into hundreds of burning buildings meets both conditions; someone picking shares on the stock market meets neither, however confident they may feel. | Một lính cứu hoả đã bước vào hàng trăm toà nhà đang cháy đáp ứng cả hai điều kiện; một người chọn cổ phiếu trên thị trường chứng khoán thì không đáp ứng điều nào, dù họ có tự tin tới đâu. |
+| 11 | Whitlow tells these stories with real skill, and his chapter on a nurse who sensed that a patient was in danger hours before any test confirmed it is the most memorable thing I have read this year. | Whitlow kể những câu chuyện này rất có nghề, và chương viết về một điều dưỡng cảm thấy bệnh nhân đang gặp nguy nhiều giờ trước khi xét nghiệm nào xác nhận là điều đáng nhớ nhất tôi đọc trong năm nay. |
+| 12 | It is in the second half that the book loses its way. | Chính ở nửa sau, cuốn sách lạc hướng. |
+| 13 | Having shown so carefully that intuition is only as good as the experience behind it, Whitlow goes on to encourage readers to follow their intuition in areas where they have very little experience at all, from choosing a business partner to judging whether a job candidate is honest. | Sau khi đã chứng minh rất cẩn thận rằng trực giác chỉ tốt bằng kinh nghiệm đứng sau nó, Whitlow lại khuyến khích người đọc làm theo trực giác ở những lĩnh vực họ hầu như không có kinh nghiệm, từ chọn đối tác kinh doanh tới đánh giá một ứng viên có trung thực hay không. |
+| 14 | Hiring is a strange choice of example, since it fails both of his own conditions: interviewers rarely find out whether the people they rejected would have done well, so their instincts never receive the feedback that would correct them. | Tuyển dụng là một ví dụ được chọn thật lạ, vì nó không đáp ứng cả hai điều kiện của chính ông: người phỏng vấn hiếm khi biết được những người họ đã loại liệu có làm tốt không, nên bản năng của họ không bao giờ nhận được phản hồi để tự sửa. |
+| 15 | There is also a problem with the evidence. | Bằng chứng cũng có vấn đề. |
+| 16 | Almost every story in the second half ends with someone whose instinct turned out to be right, and we never hear about the people who followed an equally strong feeling straight into disaster. | Gần như mọi câu chuyện ở nửa sau đều kết thúc bằng một người có bản năng hoá ra đúng, và ta không bao giờ được nghe về những người đã đi theo một cảm giác mạnh không kém thẳng vào thảm hoạ. |
+| 17 | A reader who is wary of this kind of writing may begin to suspect that the cases were chosen because they make a satisfying chapter, not because they are typical. | Một độc giả dè chừng kiểu viết này có thể bắt đầu ngờ rằng các trường hợp được chọn vì chúng làm nên một chương hay, chứ không phải vì chúng tiêu biểu. |
+| 18 | None of this makes The Quiet Signal a bad book, and I would still recommend its first five chapters to anyone who has wondered why experienced colleagues so often seem to just know. | Không điều gì trong số này khiến Tín hiệu lặng lẽ thành một cuốn sách tồi, và tôi vẫn sẽ giới thiệu năm chương đầu cho bất kỳ ai từng thắc mắc vì sao những đồng nghiệp giàu kinh nghiệm thường như thể cứ thế mà biết. |
+| 19 | But the title promises a signal, and the honest conclusion of Whitlow's own research is more like this: the signal is clear only where we have spent years learning to hear it. | Nhưng nhan đề hứa hẹn một tín hiệu, và kết luận trung thực từ chính nghiên cứu của Whitlow gần với điều này hơn: tín hiệu chỉ rõ ở những nơi ta đã mất nhiều năm học cách nghe nó. |
+| 20 | Everywhere else, it is just noise that happens to feel convincing. | Ở mọi chỗ khác, nó chỉ là tiếng ồn tình cờ nghe có vẻ thuyết phục. |
+
+### Câu hỏi
+
+**41. Why does the reviewer call the central idea of the book "flattering"?**
+*(Vì sao người điểm sách gọi ý tưởng trung tâm của cuốn sách là "flattering" (dễ nghe, làm người ta thích)?)*
+
+- A. because Whitlow praises the nurses, pilots and firefighters he studied *(vì Whitlow ca ngợi những điều dưỡng, phi công và lính cứu hoả ông nghiên cứu)*
+- B. because it tells readers that they already carry a source of wisdom inside them *(vì nó bảo người đọc rằng họ đã sẵn có một nguồn khôn ngoan bên trong)*
+- C. because the book has received many positive reviews *(vì cuốn sách nhận được nhiều lời khen)*
+- D. because it suggests that experts make better decisions than ordinary readers *(vì nó ngụ ý chuyên gia khôn ngoan hơn người đọc bình thường)*
+
+**42. According to the review, how does Whitlow explain intuition?**
+*(Theo bài điểm sách, Whitlow giải thích trực giác thế nào?)*
+
+- A. as a mysterious gift that only a few lucky people have *(như một món quà bí ẩn chỉ vài người may mắn mới có)*
+- B. as the brain recognizing small cues learned through long practice *(như việc bộ não nhận ra những tín hiệu nhỏ học được qua thực hành lâu dài)*
+- C. as an emotional reaction that should usually be ignored *(như một phản ứng cảm xúc thường nên bỏ qua)*
+- D. as a habit that can be learned in a few weeks of training *(như một thói quen có thể học trong vài tuần luyện tập)*
+
+**43. According to Kahneman and Klein, which situation allows expert intuition to be trusted?**
+*(Theo Kahneman và Klein, tình huống nào cho phép tin vào trực giác của chuyên gia?)*
+
+- A. one in which two experts have discussed the problem for a long time *(tình huống mà hai chuyên gia đã bàn về vấn đề trong thời gian dài)*
+- B. one with regular patterns and plenty of practice with quick, clear feedback *(tình huống có quy luật đều đặn và được thực hành nhiều với phản hồi nhanh, rõ)*
+- C. one in which the person feels very confident about the decision *(tình huống mà người đó cảm thấy rất tự tin về quyết định)*
+- D. one in which there is no time to think carefully before acting *(tình huống không có thời gian suy nghĩ kỹ trước khi hành động)*
+
+**44. Why does the reviewer compare a firefighter with someone picking shares?**
+*(Vì sao người điểm sách so sánh một lính cứu hoả với người chọn cổ phiếu?)*
+
+- A. to suggest that firefighters would make good investors *(để ngụ ý lính cứu hoả sẽ là nhà đầu tư giỏi)*
+- B. to criticize people who lose money on the stock market *(để phê phán những người mất tiền trên thị trường chứng khoán)*
+- C. to illustrate where intuition can be trusted and where it cannot *(để minh hoạ nơi trực giác đáng tin và nơi nó không đáng tin)*
+- D. to show that both jobs require people to make decisions under pressure *(để cho thấy cả hai nghề đều buộc người ta quyết định dưới áp lực)*
+
+**45. In context, what does the phrase "the book loses its way" mean?**
+*(Trong ngữ cảnh, cụm "the book loses its way" nghĩa là gì?)*
+
+- A. The book becomes less convincing and moves away from its own argument. *(Cuốn sách kém thuyết phục đi và rời xa lập luận của chính nó.)*
+- B. The book becomes difficult to find in bookshops. *(Cuốn sách trở nên khó tìm ở hiệu sách.)*
+- C. The book changes its subject from nurses to firefighters. *(Cuốn sách đổi chủ đề từ điều dưỡng sang lính cứu hoả.)*
+- D. The book stops telling stories and only gives numbers. *(Cuốn sách thôi kể chuyện và chỉ đưa số liệu.)*
+
+**46. Why does the reviewer consider hiring a strange example for Whitlow to use?**
+*(Vì sao người điểm sách cho rằng tuyển dụng là ví dụ lạ đối với Whitlow?)*
+
+- A. because it goes against the very conditions that Whitlow himself describes *(vì nó đi ngược chính những điều kiện mà Whitlow tự mô tả)*
+- B. because most readers will never need to hire anyone *(vì phần lớn người đọc sẽ chẳng bao giờ cần tuyển ai)*
+- C. because interviewers usually have years of experience and clear feedback *(vì người phỏng vấn thường có nhiều năm kinh nghiệm và phản hồi rõ ràng)*
+- D. because Whitlow admits that he has never interviewed a job candidate *(vì Whitlow thừa nhận chưa từng phỏng vấn ứng viên nào)*
+
+**47. What is the reviewer's main criticism of the evidence in the second half?**
+*(Lời phê bình chính của người điểm sách về bằng chứng ở nửa sau là gì?)*
+
+- A. It uses too many numbers and not enough stories. *(Nó dùng quá nhiều số liệu và quá ít câu chuyện.)*
+- B. It describes only cases where following a feeling worked out well. *(Nó chỉ kể những trường hợp đi theo cảm giác mà có kết quả tốt.)*
+- C. It copies stories from the first half of the book. *(Nó chép lại các câu chuyện ở nửa đầu cuốn sách.)*
+- D. It relies on research that is more than twenty years old. *(Nó dựa vào nghiên cứu đã hơn hai mươi năm tuổi.)*
+
+**48. What does the reviewer suggest about the cases chosen in the second half?**
+*(Người điểm sách ngụ ý gì về những trường hợp được chọn ở nửa sau?)*
+
+- A. They were taken from Whitlow's own career as a firefighter. *(Chúng được lấy từ chính quãng làm lính cứu hoả của Whitlow.)*
+- B. They were checked carefully by Kahneman and Klein. *(Chúng được Kahneman và Klein kiểm tra kỹ.)*
+- C. They show that most people's instincts are usually correct. *(Chúng cho thấy bản năng của phần lớn mọi người thường đúng.)*
+- D. They were probably selected because they make good stories, not because they are typical. *(Có lẽ chúng được chọn vì là chuyện hay, chứ không phải vì chúng tiêu biểu.)*
+
+**49. Which best describes the reviewer's overall opinion of the book?**
+*(Câu nào mô tả đúng nhất đánh giá chung của người điểm sách về cuốn sách?)*
+
+- A. She thinks it is dangerous and that nobody should read it. *(Cô cho rằng nó nguy hiểm và không ai nên đọc.)*
+- B. She admires it without reservation from beginning to end. *(Cô khen nó không chút dè dặt từ đầu tới cuối.)*
+- C. She finds it boring but scientifically accurate throughout. *(Cô thấy nó nhàm chán nhưng chính xác về khoa học từ đầu tới cuối.)*
+- D. She praises the first half but finds the second half unconvincing. *(Cô khen nửa đầu nhưng thấy nửa sau thiếu thuyết phục.)*
+
+**50. What do the last two sentences of the review suggest?**
+*(Hai câu cuối của bài điểm sách gợi ra điều gì?)*
+
+- A. Most people never learn to hear their inner voice at all. *(Phần lớn mọi người không bao giờ học được cách nghe giọng nói nội tâm.)*
+- B. A feeling may seem convincing even where it has no experience behind it. *(Một cảm giác có thể nghe rất thuyết phục kể cả khi không có kinh nghiệm nào đứng sau nó.)*
+- C. Whitlow should change the title of his book to something more exciting. *(Whitlow nên đổi nhan đề sách thành một cái hấp dẫn hơn.)*
+- D. Intuition is always wrong, so it should be replaced by careful thinking. *(Trực giác luôn sai, nên phải thay bằng suy nghĩ cẩn thận.)*
+
+---
+
+## Bài đọc 6 (Unit 2) — Mitchell viết cho bản tin phụ huynh: không ai nhìn giày con đâu
+
+> **Nobody Is Looking at Your Shoes**
+>
+> Mitchell Carter, guest column, Westview Middle School Family Newsletter, December.
+>
+> Last month my thirteen-year-old daughter came home from school close to tears because she had worn two different shoes all day, one black and one dark blue, and had only noticed at the last bell. She was certain that the entire eighth grade had seen them, and she spent dinner speculating about which of her classmates would mention it the next morning. Tina, who will happily stand up in front of a hundred strangers to talk about bees, can be surprisingly self-conscious about small things like this, and I suspect she is not the only one.
+>
+> As a history teacher, I am not qualified to explain the human psyche, but I do know a famous experiment that I wish I had heard about when I was her age. In 2000, the psychologist Thomas Gilovich and his colleagues at Cornell University asked college students to put on a T-shirt showing a singer that most of them found deeply embarrassing, and then to walk into a room full of other students. Afterwards, the students who wore the shirt guessed that about half of the people in the room had noticed it. In fact, only about half that number had. The researchers called this the spotlight effect: we presume that others are watching us far more closely than they really are, because we are the very center of our own attention. Most of us, in other words, are too busy worrying about our own shoes to look at anyone else's.
+>
+> I told Tina about the study, expecting her to be reassured, and she was not. "That will be true for college students," she said, "but you don't know the eighth grade." It was a fair point, and an insightful one: the original experiment was not done with thirteen-year-olds, and nobody can promise that a classmate will never make a cruel remark. But the next day only one friend mentioned the shoes, and Tina, to her own surprise, laughed it off and said that she was starting a new fashion. By Friday, two other girls had come to school in odd shoes on purpose.
+>
+> I am not suggesting that we tell our children their worries are silly; for a timid or insecure child, being told that a fear is silly only adds a second worry, namely that they must be silly for having it. What the research offers is something more gentle: a reason to doubt the very feeling that everyone is watching. Feelings like that are subjective, and in my experience they shrink when you say them out loud and compare them with what actually happened. So the next time your child comes home convinced that the whole school saw something embarrassing, you might ask one simple question before offering any comfort: how many people actually said anything? The answer, more often than not, will be smaller than either of you expected.
+
+### Dịch từng câu
+
+| # | Tiếng Anh | Tiếng Việt |
+|---|---|---|
+| 1 | Nobody Is Looking at Your Shoes | Chẳng ai nhìn giày của con đâu |
+| 2 | Mitchell Carter, guest column, Westview Middle School Family Newsletter, December. | Mitchell Carter, chuyên mục khách mời, Bản tin gia đình trường cấp hai Westview, tháng Mười Hai. |
+| 3 | Last month my thirteen-year-old daughter came home from school close to tears because she had worn two different shoes all day, one black and one dark blue, and had only noticed at the last bell. | Tháng trước, con gái mười ba tuổi của tôi đi học về mà suýt khóc vì cả ngày đã đi hai chiếc giày khác nhau, một đen một xanh đậm, và chỉ nhận ra khi chuông cuối giờ reo. |
+| 4 | She was certain that the entire eighth grade had seen them, and she spent dinner speculating about which of her classmates would mention it the next morning. | Con bé chắc chắn rằng cả khối lớp tám đã nhìn thấy, và suốt bữa tối cứ đoán xem sáng mai bạn nào trong lớp sẽ nhắc tới chuyện đó. |
+| 5 | Tina, who will happily stand up in front of a hundred strangers to talk about bees, can be surprisingly self-conscious about small things like this, and I suspect she is not the only one. | Tina, đứa sẵn sàng vui vẻ đứng trước cả trăm người lạ để nói về loài ong, lại có thể ngượng ngùng một cách bất ngờ vì những chuyện nhỏ như thế này, và tôi ngờ rằng con bé không phải là người duy nhất. |
+| 6 | As a history teacher, I am not qualified to explain the human psyche, but I do know a famous experiment that I wish I had heard about when I was her age. | Là giáo viên lịch sử, tôi không đủ chuyên môn để giải thích tâm lý con người, nhưng tôi có biết một thí nghiệm nổi tiếng mà tôi ước mình được nghe kể hồi bằng tuổi con bé. |
+| 7 | In 2000, the psychologist Thomas Gilovich and his colleagues at Cornell University asked college students to put on a T-shirt showing a singer that most of them found deeply embarrassing, and then to walk into a room full of other students. | Năm 2000, nhà tâm lý học Thomas Gilovich và các đồng nghiệp ở Đại học Cornell đề nghị sinh viên mặc một chiếc áo phông in hình một ca sĩ mà phần lớn các bạn thấy rất xấu hổ, rồi bước vào một căn phòng đầy sinh viên khác. |
+| 8 | Afterwards, the students who wore the shirt guessed that about half of the people in the room had noticed it. | Sau đó, những sinh viên mặc áo đoán rằng khoảng một nửa số người trong phòng đã để ý chiếc áo. |
+| 9 | In fact, only about half that number had. | Thực tế, con số chỉ bằng khoảng một nửa như vậy. |
+| 10 | The researchers called this the spotlight effect: we presume that others are watching us far more closely than they really are, because we are the very center of our own attention. | Các nhà nghiên cứu gọi đây là hiệu ứng ánh đèn sân khấu: ta mặc định rằng người khác quan sát mình kỹ hơn nhiều so với thực tế, vì chính ta là tâm điểm trong sự chú ý của bản thân. |
+| 11 | Most of us, in other words, are too busy worrying about our own shoes to look at anyone else's. | Nói cách khác, phần lớn chúng ta quá bận lo về đôi giày của mình nên chẳng nhìn giày của ai khác. |
+| 12 | I told Tina about the study, expecting her to be reassured, and she was not. | Tôi kể cho Tina nghe về nghiên cứu, tưởng con bé sẽ yên tâm, nhưng không. |
+| 13 | "That will be true for college students," she said, "but you don't know the eighth grade." | "Chắc là đúng với sinh viên đại học thôi," con bé nói, "nhưng bố đâu biết lớp tám thế nào." |
+| 14 | It was a fair point, and an insightful one: the original experiment was not done with thirteen-year-olds, and nobody can promise that a classmate will never make a cruel remark. | Đó là một ý có lý, và sâu sắc nữa: thí nghiệm gốc không làm với trẻ mười ba tuổi, và không ai hứa được rằng một bạn cùng lớp sẽ không bao giờ buông một câu ác ý. |
+| 15 | But the next day only one friend mentioned the shoes, and Tina, to her own surprise, laughed it off and said that she was starting a new fashion. | Nhưng hôm sau chỉ có một người bạn nhắc tới đôi giày, và Tina, chính con bé cũng bất ngờ, cười xoà cho qua và nói mình đang khởi xướng một mốt mới. |
+| 16 | By Friday, two other girls had come to school in odd shoes on purpose. | Tới thứ Sáu, hai bạn gái khác đã cố tình đi học với giày lệch đôi. |
+| 17 | I am not suggesting that we tell our children their worries are silly; for a timid or insecure child, being told that a fear is silly only adds a second worry, namely that they must be silly for having it. | Tôi không đề nghị chúng ta bảo con rằng nỗi lo của chúng thật ngớ ngẩn; với một đứa trẻ nhút nhát hay thiếu tự tin, bị bảo rằng nỗi sợ là ngớ ngẩn chỉ thêm một nỗi lo thứ hai, đó là chắc mình ngớ ngẩn lắm mới sợ như vậy. |
+| 18 | What the research offers is something more gentle: a reason to doubt the very feeling that everyone is watching. | Điều nghiên cứu mang lại nhẹ nhàng hơn: một lý do để nghi ngờ chính cái cảm giác rằng mọi người đều đang nhìn. |
+| 19 | Feelings like that are subjective, and in my experience they shrink when you say them out loud and compare them with what actually happened. | Những cảm giác như vậy mang tính chủ quan, và theo kinh nghiệm của tôi, chúng nhỏ lại khi ta nói thành lời và so với những gì thật sự đã xảy ra. |
+| 20 | So the next time your child comes home convinced that the whole school saw something embarrassing, you might ask one simple question before offering any comfort: how many people actually said anything? | Vì vậy, lần tới khi con bạn về nhà đinh ninh cả trường đã thấy một chuyện xấu hổ, bạn có thể hỏi một câu đơn giản trước khi an ủi: thật ra có bao nhiêu người đã nói gì? |
+| 21 | The answer, more often than not, will be smaller than either of you expected. | Câu trả lời, thường thì, sẽ nhỏ hơn cả bạn lẫn con tưởng. |
+
+### Câu hỏi
+
+**51. Why did Mitchell's daughter come home upset?**
+*(Vì sao con gái Mitchell đi học về buồn bực?)*
+
+- A. She had worn shoes that did not match for the whole school day. *(Con bé đã đi giày lệch đôi suốt cả ngày học.)*
+- B. A classmate had made a cruel remark about her shoes in class. *(Một bạn cùng lớp đã nói một câu ác ý về giày của con bé trong lớp.)*
+- C. She had lost one of her shoes during the last lesson. *(Con bé làm mất một chiếc giày trong tiết cuối.)*
+- D. Her teacher had sent her home for breaking the school rules. *(Giáo viên cho con bé về vì vi phạm nội quy.)*
+
+**52. What does the phrase "will happily stand up in front of a hundred strangers" suggest about Tina?**
+*(Cụm "will happily stand up in front of a hundred strangers" gợi ra điều gì về Tina?)*
+
+- A. She is usually confident, which makes her worry about the shoes surprising. *(Con bé thường tự tin, nên nỗi lo về đôi giày mới bất ngờ.)*
+- B. She has decided to give a talk about bees next month. *(Con bé đã quyết định thuyết trình về loài ong vào tháng sau.)*
+- C. She prefers talking to strangers rather than to her classmates. *(Con bé thích nói chuyện với người lạ hơn với bạn cùng lớp.)*
+- D. She is shy in every situation, especially in front of crowds. *(Con bé nhút nhát trong mọi tình huống, nhất là trước đám đông.)*
+
+**53. Why does Mitchell say that he is "not qualified to explain the human psyche"?**
+*(Vì sao Mitchell nói anh "not qualified to explain the human psyche"?)*
+
+- A. to admit modestly that he is sharing research outside his own field *(để khiêm tốn thừa nhận anh đang chia sẻ nghiên cứu ngoài chuyên môn của mình)*
+- B. to criticize psychologists for making the subject too difficult *(để phê phán các nhà tâm lý học làm chủ đề trở nên quá khó)*
+- C. to suggest that history teachers understand children better *(để ngụ ý giáo viên lịch sử hiểu trẻ con hơn)*
+- D. to explain why he will not give parents any advice *(để giải thích vì sao anh sẽ không khuyên phụ huynh điều gì)*
+
+**54. What did the Cornell experiment find?**
+*(Thí nghiệm ở Cornell phát hiện điều gì?)*
+
+- A. Nobody in the room noticed the T-shirt at all. *(Không ai trong phòng để ý chiếc áo cả.)*
+- B. The students wearing the shirt overestimated how many people noticed it. *(Những sinh viên mặc áo đã đánh giá quá cao số người để ý nó.)*
+- C. About half of the people in the room remembered the singer's name. *(Khoảng một nửa số người trong phòng nhớ tên ca sĩ.)*
+- D. Most students in the room laughed at the T-shirt. *(Phần lớn sinh viên trong phòng cười chiếc áo phông.)*
+
+**55. According to the column, why does the spotlight effect happen?**
+*(Theo chuyên mục, vì sao có hiệu ứng ánh đèn sân khấu?)*
+
+- A. because teenagers spend more time looking at each other than adults do *(vì thiếu niên dành nhiều thời gian nhìn nhau hơn người lớn)*
+- B. because bright lights in classrooms make clothes easier to see *(vì ánh đèn sáng trong lớp khiến quần áo dễ thấy hơn)*
+- C. because people are naturally cruel to those who look different *(vì con người vốn ác với những ai trông khác biệt)*
+- D. because each of us is at the center of our own attention *(vì mỗi người là tâm điểm trong sự chú ý của chính mình)*
+
+**56. When Tina says "That will be true for college students", what does she mean?**
+*(Khi Tina nói "That will be true for college students", con bé muốn nói gì?)*
+
+- A. She predicts that the result will become true when she goes to college. *(Con bé dự đoán kết quả sẽ thành đúng khi con bé vào đại học.)*
+- B. She assumes the finding may hold for older students but not for her age group. *(Con bé cho rằng kết quả có thể đúng với sinh viên lớn hơn nhưng không đúng với lứa tuổi mình.)*
+- C. She agrees completely that nobody will notice her shoes. *(Con bé hoàn toàn đồng ý rằng sẽ không ai để ý giày mình.)*
+- D. She wants to take part in a similar experiment at college. *(Con bé muốn tham gia một thí nghiệm tương tự ở đại học.)*
+
+**57. Why does Mitchell describe Tina's reply as "insightful"?**
+*(Vì sao Mitchell gọi câu đáp của Tina là "insightful" (sâu sắc)?)*
+
+- A. because it showed she had read the original study herself *(vì nó cho thấy con bé đã tự đọc nghiên cứu gốc)*
+- B. because it pointed out a real limit of the experiment *(vì nó chỉ ra một giới hạn thật của thí nghiệm)*
+- C. because it proved that her classmates were unkind *(vì nó chứng minh các bạn cùng lớp không tử tế)*
+- D. because it made him change his mind about the research *(vì nó khiến anh đổi ý về nghiên cứu)*
+
+**58. What happened after Tina went back to school?**
+*(Chuyện gì xảy ra sau khi Tina quay lại trường?)*
+
+- A. She asked her father to speak to her teacher about the shoes. *(Con bé nhờ bố nói chuyện với cô giáo về đôi giày.)*
+- B. She refused to go to school until Friday. *(Con bé không chịu đi học cho tới thứ Sáu.)*
+- C. Hardly anyone mentioned it, and some girls even copied her. *(Hầu như không ai nhắc tới, và vài bạn gái còn bắt chước con bé.)*
+- D. Many classmates teased her, so she stopped talking about it. *(Nhiều bạn trêu nên con bé thôi không nhắc tới nữa.)*
+
+**59. Why does Mitchell advise parents not to tell children that their worries are silly?**
+*(Vì sao Mitchell khuyên phụ huynh đừng bảo con rằng nỗi lo của chúng ngớ ngẩn?)*
+
+- A. because children rarely believe what their parents tell them *(vì trẻ con hiếm khi tin lời bố mẹ)*
+- B. because the worries usually turn out to be completely true *(vì những nỗi lo thường hoá ra hoàn toàn đúng)*
+- C. because it can make an insecure child worry about being silly as well *(vì nó có thể khiến một đứa trẻ thiếu tự tin lo thêm rằng mình ngớ ngẩn)*
+- D. because schools have asked parents to avoid that word *(vì trường đã đề nghị phụ huynh tránh dùng từ đó)*
+
+**60. What is the main purpose of the question that Mitchell suggests parents ask?**
+*(Mục đích chính của câu hỏi Mitchell gợi ý phụ huynh đặt ra là gì?)*
+
+- A. to help the child compare a feeling with what really happened *(để giúp con so cảm giác của mình với những gì thật sự đã xảy ra)*
+- B. to show the child that parents know more about school *(để cho con thấy bố mẹ hiểu trường học hơn)*
+- C. to find out which classmates were unkind to the child *(để tìm ra bạn nào đã không tử tế với con)*
+- D. to avoid having to offer the child any comfort at all *(để khỏi phải an ủi con chút nào)*
+
+---
+
 ## 💡 Mẹo làm bài
 
 - **Báo cáo:** câu hỏi mục đích lấy ở phần đề xuất (`My recommendation is…`). Câu hỏi chức năng đoạn: xem đoạn đó trả lời câu hỏi nào (`So, was it?`).
 - `be set to` / `be due to` = **chưa xảy ra**. Câu hỏi suy luận hay bẫy bằng phương án "đã thử và hiệu quả".
 - Bài khoa học C1 thường **không bác bỏ hẳn** ý cũ: `Not quite`, `it is just that…` nghĩa là ý cũ đúng một phần. Tránh phương án tuyệt đối (completely true / completely false).
 - Câu hỏi quy chiếu (`The very thing`, `that someone`) luôn trả lời bằng câu ngay trước nó.
+- Bài báo chuyên đề hay bài điểm sách thường mở bằng một ý phổ biến rồi lật lại (`Yet…`, `It is in the second half that…`). Câu hỏi thái độ tác giả nằm ở chỗ lật này và ở đoạn kết.
+- Mục tư vấn: thư hỏi nêu vấn đề, thư đáp đi theo `First… / The second… / Finally…`. Câu hỏi về lời khuyên lấy đúng câu ngay sau các từ đánh dấu ấy.
+- `will` không phải lúc nào cũng là tương lai: `Tina will happily stand up…` là thói quen, `That will be true for college students` là phỏng đoán. Câu hỏi nghĩa của câu hay hỏi đúng chỗ này.
 
 ---
 
@@ -325,3 +841,43 @@
 | 18 | **D** | Câu 13: Câu suy luận nối với đoạn 3 (mỗi người cho rằng ai đó đã gọi rồi): "The person in the red jacket no longer has to guess whether someone else has done it." |
 | 19 | **B** | Câu 14–15: Câu hàm ý. Câu trước: mọi người "are simply waiting for someone to tell them what to do." Người đọc là nhân viên bệnh viện, nên "someone" là họ. |
 | 20 | **C** | Câu 13: Câu nối hai bài. Megan dùng bảng kiểm năm điểm để giao ca rõ ràng (lỗi từ 14 xuống 5); Leah viết "An explicit request removes the doubt." |
+| 21 | **A** | Câu 5, 22: Bài đặt câu chuyện trên mạng cạnh thực tế khảo sát: "the stories that freelancers tell online tend to show only the finished product", rồi lần lượt nêu chi phí thời gian, tiền và kết luận cân bằng. |
+| 22 | **C** | Câu 5: "much as a portfolio shows the best work and none of the failed drafts behind it" — cả hai chỉ trưng phần đẹp nhất, giấu phần còn lại. |
+| 23 | **B** | Câu 7: "nearly four in five said that they would not return to an office even for more money". |
+| 24 | **B** | Câu 10–11: Câu ngay trước nói về các việc "that nobody pays for"; câu đùa "none of them gets a salary" nhấn vào việc một người kiêm mọi vai không lương. |
+| 25 | **C** | Câu 13: "a contractor has to set aside money for all of these out of every payment" — "all of these" là ngày nghỉ có lương, lương ốm và lương hưu. |
+| 26 | **C** | Câu 15: Cô "said yes to everything and buckled down to eighty-hour weeks" — nhận mọi việc rồi lao vào làm những tuần tám mươi giờ. |
+| 27 | **A** | Câu 17: "the early years work as a kind of unpaid apprenticeship in running a business" — học việc, và không được trả công. |
+| 28 | **D** | Câu 18: "What separated those who survived from those who gave up was rarely talent" — mà là biết nói không, ghi thoả thuận bằng văn bản, giữ khách quen. |
+| 29 | **A** | Câu 16, 22: "None of this means that freelancing is a mistake", nhưng kết bài nhắc phải làm "a dozen things that you may not love at all" — cân bằng, thực tế. |
+| 30 | **B** | Câu 20: "thereby discovering whether they enjoy the business side of the work as much as the work itself". |
+| 31 | **C** | Câu 9: Câu hỏi chốt thư: "How do I lead people who were my friends without losing them or myself?" |
+| 32 | **C** | Câu 5: "the friendly atmosphere has been replaced by something that I can only describe as polite silence" — không thân thiện nữa nhưng vẫn lịch sự. |
+| 33 | **B** | Câu 8: "To avoid making things worse, I have started doing the most tedious tasks myself". |
+| 34 | **D** | Câu 11: "what you describe is so common that it barely counts as a problem; it is simply the price of the new job". |
+| 35 | **B** | Câu 13: "two of your choices are making things harder, and both come from a good place" — sai về cách làm nhưng ý thì tốt (ví dụ coi đó là "kindness"). |
+| 36 | **B** | Câu 15: "your team is likely to read it as a lack of trust". |
+| 37 | **C** | Câu 18: "may simply be wondering whether it still counts for anything now that a younger colleague is giving the instructions". |
+| 38 | **C** | Câu 20: Nhờ Glen giúp là tôn trọng hiểu biết, nhưng "is not the same as handing him your authority" — quyền lãnh đạo vẫn ở người viết. |
+| 39 | **D** | Câu 22: "you cannot be the person they complain to about the manager when you are the manager". |
+| 40 | **D** | Câu 11, 13, 23: Mở đầu trấn an ("let me reassure you"), rồi chỉ thẳng "two of your choices are making things harder", kết bằng lời hứa hẹn sau sáu tháng. |
+| 41 | **B** | Câu 3: "somewhere inside each of us is a wise inner voice" — ý tưởng khiến ai cũng thấy mình đã có sẵn sự khôn ngoan. |
+| 42 | **A** | Câu 7: "intuition is not magic but memory: after years of practice, the brain learns to notice small cues". |
+| 43 | **C** | Câu 9: "The situation has to be regular enough to contain patterns, and the person must have had plenty of practice with quick, clear feedback". |
+| 44 | **D** | Câu 10: Lính cứu hoả "meets both conditions", người chọn cổ phiếu "meets neither, however confident they may feel" — hai đầu đối lập của luật hai điều kiện. |
+| 45 | **A** | Câu 12–13: "It is in the second half that the book loses its way" — ngay sau đó là ví dụ Whitlow đi ngược điều chính ông đã chứng minh. |
+| 46 | **B** | Câu 14: "it fails both of his own conditions: interviewers rarely find out whether the people they rejected would have done well". |
+| 47 | **D** | Câu 16: "Almost every story in the second half ends with someone whose instinct turned out to be right"; người thất bại thì không được kể. |
+| 48 | **D** | Câu 17: "the cases were chosen because they make a satisfying chapter, not because they are typical". |
+| 49 | **A** | Câu 6, 12, 18: "The first half of the book is excellent"; nửa sau "loses its way"; cô vẫn giới thiệu "its first five chapters". |
+| 50 | **B** | Câu 19–20: "the signal is clear only where we have spent years learning to hear it"; chỗ khác chỉ là tiếng ồn "that happens to feel convincing". |
+| 51 | **A** | Câu 3: "she had worn two different shoes all day, one black and one dark blue". |
+| 52 | **A** | Câu 5: "will happily stand up" (will chỉ thói quen) đặt cạnh "can be surprisingly self-conscious about small things like this" — sự tương phản. |
+| 53 | **D** | Câu 6: "As a history teacher, I am not qualified to explain the human psyche, but I do know a famous experiment" — khiêm tốn, rồi vẫn kể nghiên cứu. |
+| 54 | **D** | Câu 8–9: Họ đoán "about half of the people in the room had noticed it"; thực tế "only about half that number had". |
+| 55 | **C** | Câu 10: "because we are the very center of our own attention". |
+| 56 | **B** | Câu 13–14: "will" ở đây là phỏng đoán, không phải tương lai; Mitchell xác nhận "the original experiment was not done with thirteen-year-olds". |
+| 57 | **A** | Câu 14: "It was a fair point, and an insightful one: the original experiment was not done with thirteen-year-olds". |
+| 58 | **D** | Câu 15–16: "only one friend mentioned the shoes", và "two other girls had come to school in odd shoes on purpose". |
+| 59 | **A** | Câu 17: "being told that a fear is silly only adds a second worry, namely that they must be silly for having it". |
+| 60 | **C** | Câu 19–20: Cảm giác chủ quan "shrink when you say them out loud and compare them with what actually happened"; câu hỏi "how many people actually said anything?" làm đúng việc đó. |

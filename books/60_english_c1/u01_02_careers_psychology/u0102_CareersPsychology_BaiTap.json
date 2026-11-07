@@ -29,15 +29,17 @@
     "characters": [
       "Megan Carter",
       "Leah Carter",
-      "Ethan Hayes"
+      "Ethan Hayes",
+      "Mitchell Carter",
+      "Tina Carter"
     ],
     "story_time_i18n": {
       "vi": "tháng 11 – 12, năm 7"
     },
-    "total_passages": 2,
-    "total_questions": 20,
+    "total_passages": 6,
+    "total_questions": 60,
     "focus": "Cấu trúc báo cáo, thừa nhận hạn chế, ý cũ vs bằng chứng mới, hàm ý",
-    "description_vn": "Megan báo cáo dự án đổi cách giao ca ở khoa cấp cứu sau mùa đông quá tải, và Leah viết cho bản tin bệnh viện về hiệu ứng người ngoài cuộc qua nghiên cứu camera năm 2020. 2 bài đọc × 10 câu."
+    "description_vn": "Megan báo cáo dự án đổi cách giao ca ở khoa cấp cứu sau mùa đông quá tải, và Leah viết cho bản tin bệnh viện về hiệu ứng người ngoài cuộc qua nghiên cứu camera năm 2020. Thêm bốn bài: bài báo chuyên đề về cái giá của nghề tự do, mục tư vấn cho một trưởng nhóm mới lãnh đạo bạn cũ, bài điểm sách về trực giác (Kahneman và Klein 2009), và chuyên mục của Mitchell về hiệu ứng ánh đèn sân khấu (Gilovich 2000) sau chuyện đôi giày lệch của Tina. 6 bài đọc × 10 câu."
   },
   "lesson": {
     "practice_for_i18n": {
@@ -130,6 +132,30 @@
         "i18n": {
           "vi": "gần nhất"
         }
+      },
+      {
+        "word": "freelancer",
+        "i18n": {
+          "vi": "người làm tự do"
+        }
+      },
+      {
+        "word": "respondent",
+        "i18n": {
+          "vi": "người trả lời khảo sát"
+        }
+      },
+      {
+        "word": "unpaid",
+        "i18n": {
+          "vi": "không được trả tiền"
+        }
+      },
+      {
+        "word": "spotlight",
+        "i18n": {
+          "vi": "ánh đèn sân khấu, tâm điểm chú ý"
+        }
       }
     ],
     "phrases": [
@@ -180,6 +206,42 @@
           "en": "Not quite.",
           "vi": "Không hẳn."
         }
+      },
+      {
+        "i18n": {
+          "en": "much as a portfolio shows the best work",
+          "vi": "giống như hồ sơ năng lực chỉ trưng tác phẩm đẹp nhất"
+        }
+      },
+      {
+        "i18n": {
+          "en": "buckled down to eighty-hour weeks",
+          "vi": "cắm cúi làm những tuần tám mươi giờ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "both come from a good place",
+          "vi": "cả hai đều xuất phát từ ý tốt"
+        }
+      },
+      {
+        "i18n": {
+          "en": "the book loses its way",
+          "vi": "cuốn sách lạc hướng"
+        }
+      },
+      {
+        "i18n": {
+          "en": "That will be true for college students.",
+          "vi": "Chắc là đúng với sinh viên đại học thôi."
+        }
+      },
+      {
+        "i18n": {
+          "en": "laughed it off",
+          "vi": "cười xoà cho qua"
+        }
       }
     ],
     "tips": [
@@ -201,6 +263,21 @@
       {
         "i18n": {
           "vi": "Câu hỏi quy chiếu (`The very thing`, `that someone`) luôn trả lời bằng câu ngay trước nó."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài báo chuyên đề hay bài điểm sách thường mở bằng một ý phổ biến rồi lật lại (`Yet…`, `It is in the second half that…`). Câu hỏi thái độ tác giả nằm ở chỗ lật này và ở đoạn kết."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Mục tư vấn: thư hỏi nêu vấn đề, thư đáp đi theo `First… / The second… / Finally…`. Câu hỏi về lời khuyên lấy đúng câu ngay sau các từ đánh dấu ấy."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "`will` không phải lúc nào cũng là tương lai: `Tina will happily stand up…` là thói quen, `That will be true for college students` là phỏng đoán. Câu hỏi nghĩa của câu hay hỏi đúng chỗ này."
         }
       }
     ]
@@ -585,6 +662,1055 @@
         "c1.007",
         "c1.008"
       ]
+    },
+    {
+      "id": "passage_u0102_03",
+      "heading_i18n": {
+        "vi": "Bài đọc 3 (Unit 1) — Bài báo chuyên đề: cái giá của nghề tự do"
+      },
+      "narrator": "announcer",
+      "title": "The Price of Freedom: What Freelancers Leave Out of Their Portfolios",
+      "category": "article",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 320,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Price of Freedom: What Freelancers Leave Out of Their Portfolios",
+            "vi": "Cái giá của tự do: Những điều người làm tự do không đưa vào hồ sơ năng lực"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A feature from Working Life magazine, December issue.",
+            "vi": "Bài chuyên đề của tạp chí Working Life, số tháng Mười Hai."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ask office workers what they would change about their careers, and many will describe the same dream: no boss, no strict hierarchy, and only the projects they actually want to do.",
+            "vi": "Hãy hỏi nhân viên văn phòng họ muốn thay đổi gì trong sự nghiệp, và nhiều người sẽ tả cùng một giấc mơ: không sếp, không thứ bậc cứng nhắc, và chỉ làm những dự án họ thật sự muốn làm."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For a growing share of the workforce, that dream has become a daily reality, as designers, translators and software developers leave salaried jobs to work freelance.",
+            "vi": "Với một phần ngày càng lớn của lực lượng lao động, giấc mơ đó đã thành hiện thực hằng ngày, khi các nhà thiết kế, phiên dịch viên và lập trình viên rời công việc hưởng lương để làm tự do."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Yet the stories that freelancers tell online tend to show only the finished product, much as a portfolio shows the best work and none of the failed drafts behind it.",
+            "vi": "Thế nhưng những câu chuyện người làm tự do kể trên mạng thường chỉ cho thấy thành phẩm, giống như một bộ hồ sơ năng lực chỉ trưng ra tác phẩm đẹp nhất mà không có bản nháp hỏng nào phía sau."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "To find out what those stories leave out, the management consultancy Harlow and Pierce surveyed just over a thousand full-time freelancers last spring.",
+            "vi": "Để tìm hiểu những câu chuyện ấy bỏ sót điều gì, công ty tư vấn quản lý Harlow and Pierce đã khảo sát hơn một nghìn người làm tự do toàn thời gian vào mùa xuân năm ngoái."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most of them said that they took real pride in their independence, and nearly four in five said that they would not return to an office even for more money.",
+            "vi": "Phần lớn nói rằng họ thật sự tự hào về sự độc lập của mình, và gần bốn trên năm người nói họ sẽ không quay lại văn phòng kể cả khi được trả nhiều tiền hơn."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The same people, however, described a working life that looked very different from the pictures on their social media accounts.",
+            "vi": "Tuy vậy, cũng chính những người đó lại mô tả một cuộc sống làm việc trông rất khác với những bức ảnh trên tài khoản mạng xã hội của họ."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The first surprise was time.",
+            "vi": "Điều bất ngờ đầu tiên là thời gian."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On average, respondents spent about a third of their working week on tasks that nobody pays for, such as answering messages, chasing late payments and writing proposals for new contracts.",
+            "vi": "Trung bình, người trả lời dành khoảng một phần ba tuần làm việc cho những việc không ai trả tiền, như trả lời tin nhắn, đòi các khoản thanh toán trễ và viết đề xuất cho hợp đồng mới."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "As one graphic designer put it, \"I am my own accountant, my own sales team and my own complaints department, and none of them gets a salary.\"",
+            "vi": "Như một nhà thiết kế đồ hoạ nói: \"Tôi là kế toán của chính mình, đội bán hàng của chính mình và phòng giải quyết khiếu nại của chính mình, và chẳng ai trong số đó được nhận lương.\""
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The second surprise was money, or rather the lack of a safety net.",
+            "vi": "Điều bất ngờ thứ hai là tiền, hay đúng hơn là việc không có tấm lưới an toàn."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A salaried employee's remuneration package usually includes paid holidays, sick pay and a contribution to a pension, whereas a contractor has to set aside money for all of these out of every payment.",
+            "vi": "Gói đãi ngộ của một nhân viên hưởng lương thường gồm ngày nghỉ có lương, lương khi ốm và khoản đóng góp vào lương hưu, còn người làm theo hợp đồng thì phải tự trích tiền cho tất cả những khoản này từ mỗi lần được trả."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many respondents admitted that they had not understood this when they started, and novices in particular tended to charge far too little, sometimes barely half of what the work was worth.",
+            "vi": "Nhiều người trả lời thừa nhận rằng lúc mới bắt đầu họ không hiểu điều này, và đặc biệt người mới vào nghề thường đòi giá quá thấp, có khi chỉ bằng một nửa giá trị công việc."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Being a complete novice, one translator explained, she had been so grateful for any work that she said yes to everything and buckled down to eighty-hour weeks for less than she had earned as a receptionist.",
+            "vi": "Một phiên dịch viên kể rằng, là người hoàn toàn mới, cô biết ơn bất cứ việc gì đến mức nhận hết mọi thứ và cắm cúi làm những tuần tám mươi giờ mà kiếm được còn ít hơn hồi làm lễ tân."
+          }
+        },
+        {
+          "n": 16,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "None of this means that freelancing is a mistake, and the report is careful not to suggest so.",
+            "vi": "Không điều gì trong số này có nghĩa làm tự do là một sai lầm, và bản báo cáo cẩn thận không ngụ ý như vậy."
+          }
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Freelancers who had been working for more than five years reported higher satisfaction and higher earnings than in their old jobs, which suggests that the early years work as a kind of unpaid apprenticeship in running a business.",
+            "vi": "Những người đã làm tự do hơn năm năm cho biết họ hài lòng hơn và kiếm được nhiều hơn so với công việc cũ, điều này cho thấy những năm đầu giống như một kiểu học việc không lương về cách điều hành kinh doanh."
+          }
+        },
+        {
+          "n": 18,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What separated those who survived from those who gave up was rarely talent; it was whether they had learned to say no, to put every agreement in writing, and to build a small group of regular clients instead of chasing one-off gigs.",
+            "vi": "Điều phân biệt người trụ lại với người bỏ cuộc hiếm khi là tài năng; mà là việc họ đã học được cách từ chối, ghi mọi thoả thuận thành văn bản, và xây dựng một nhóm nhỏ khách hàng quen thay vì chạy theo những việc vặt làm một lần."
+          }
+        },
+        {
+          "n": 19,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The report ends with a recommendation that sounds obvious but is surprisingly rare.",
+            "vi": "Bản báo cáo kết thúc bằng một khuyến nghị nghe thì hiển nhiên nhưng lại hiếm thấy đến bất ngờ."
+          }
+        },
+        {
+          "n": 20,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Anyone considering the move, it argues, should first try freelancing alongside a regular job for six months, thereby discovering whether they enjoy the business side of the work as much as the work itself.",
+            "vi": "Báo cáo cho rằng bất kỳ ai đang tính chuyển hướng nên thử làm tự do song song với một công việc ổn định trong sáu tháng trước đã, nhờ đó phát hiện xem mình có thích phần kinh doanh của công việc nhiều như chính công việc hay không."
+          }
+        },
+        {
+          "n": 21,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Entrepreneurship, after all, is not simply doing what you love without a boss.",
+            "vi": "Rốt cuộc, khởi nghiệp không đơn giản là làm điều mình yêu thích mà không có sếp."
+          }
+        },
+        {
+          "n": 22,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is doing what you love while also doing a dozen things that you may not love at all, and doing them with nobody to cover for you when you are ill.",
+            "vi": "Mà là làm điều mình yêu thích trong khi cũng phải làm cả chục việc mình có thể chẳng thích chút nào, và làm chúng mà không có ai làm thay khi mình ốm."
+          }
+        }
+      ],
+      "curriculum_sheets": [
+        "c1.001",
+        "c1.002",
+        "c1.003",
+        "c1.004"
+      ],
+      "content_ja": "The Price of Freedom: What Freelancers Leave Out of Their Portfolios\n\nA feature from Working Life magazine, December issue.\n\nAsk office workers what they would change about their careers, and many will describe the same dream: no boss, no strict hierarchy, and only the projects they actually want to do. For a growing share of the workforce, that dream has become a daily reality, as designers, translators and software developers leave salaried jobs to work freelance. Yet the stories that freelancers tell online tend to show only the finished product, much as a portfolio shows the best work and none of the failed drafts behind it.\n\nTo find out what those stories leave out, the management consultancy Harlow and Pierce surveyed just over a thousand full-time freelancers last spring. Most of them said that they took real pride in their independence, and nearly four in five said that they would not return to an office even for more money. The same people, however, described a working life that looked very different from the pictures on their social media accounts.\n\nThe first surprise was time. On average, respondents spent about a third of their working week on tasks that nobody pays for, such as answering messages, chasing late payments and writing proposals for new contracts. As one graphic designer put it, \"I am my own accountant, my own sales team and my own complaints department, and none of them gets a salary.\"\n\nThe second surprise was money, or rather the lack of a safety net. A salaried employee's remuneration package usually includes paid holidays, sick pay and a contribution to a pension, whereas a contractor has to set aside money for all of these out of every payment. Many respondents admitted that they had not understood this when they started, and novices in particular tended to charge far too little, sometimes barely half of what the work was worth. Being a complete novice, one translator explained, she had been so grateful for any work that she said yes to everything and buckled down to eighty-hour weeks for less than she had earned as a receptionist.\n\nNone of this means that freelancing is a mistake, and the report is careful not to suggest so. Freelancers who had been working for more than five years reported higher satisfaction and higher earnings than in their old jobs, which suggests that the early years work as a kind of unpaid apprenticeship in running a business. What separated those who survived from those who gave up was rarely talent; it was whether they had learned to say no, to put every agreement in writing, and to build a small group of regular clients instead of chasing one-off gigs.\n\nThe report ends with a recommendation that sounds obvious but is surprisingly rare. Anyone considering the move, it argues, should first try freelancing alongside a regular job for six months, thereby discovering whether they enjoy the business side of the work as much as the work itself. Entrepreneurship, after all, is not simply doing what you love without a boss. It is doing what you love while also doing a dozen things that you may not love at all, and doing them with nobody to cover for you when you are ill.",
+      "translation_vn": "(1) Cái giá của tự do: Những điều người làm tự do không đưa vào hồ sơ năng lực\n(2) Bài chuyên đề của tạp chí Working Life, số tháng Mười Hai.\n(3) Hãy hỏi nhân viên văn phòng họ muốn thay đổi gì trong sự nghiệp, và nhiều người sẽ tả cùng một giấc mơ: không sếp, không thứ bậc cứng nhắc, và chỉ làm những dự án họ thật sự muốn làm.\n(4) Với một phần ngày càng lớn của lực lượng lao động, giấc mơ đó đã thành hiện thực hằng ngày, khi các nhà thiết kế, phiên dịch viên và lập trình viên rời công việc hưởng lương để làm tự do.\n(5) Thế nhưng những câu chuyện người làm tự do kể trên mạng thường chỉ cho thấy thành phẩm, giống như một bộ hồ sơ năng lực chỉ trưng ra tác phẩm đẹp nhất mà không có bản nháp hỏng nào phía sau.\n(6) Để tìm hiểu những câu chuyện ấy bỏ sót điều gì, công ty tư vấn quản lý Harlow and Pierce đã khảo sát hơn một nghìn người làm tự do toàn thời gian vào mùa xuân năm ngoái.\n(7) Phần lớn nói rằng họ thật sự tự hào về sự độc lập của mình, và gần bốn trên năm người nói họ sẽ không quay lại văn phòng kể cả khi được trả nhiều tiền hơn.\n(8) Tuy vậy, cũng chính những người đó lại mô tả một cuộc sống làm việc trông rất khác với những bức ảnh trên tài khoản mạng xã hội của họ.\n(9) Điều bất ngờ đầu tiên là thời gian.\n(10) Trung bình, người trả lời dành khoảng một phần ba tuần làm việc cho những việc không ai trả tiền, như trả lời tin nhắn, đòi các khoản thanh toán trễ và viết đề xuất cho hợp đồng mới.\n(11) Như một nhà thiết kế đồ hoạ nói: \"Tôi là kế toán của chính mình, đội bán hàng của chính mình và phòng giải quyết khiếu nại của chính mình, và chẳng ai trong số đó được nhận lương.\"\n(12) Điều bất ngờ thứ hai là tiền, hay đúng hơn là việc không có tấm lưới an toàn.\n(13) Gói đãi ngộ của một nhân viên hưởng lương thường gồm ngày nghỉ có lương, lương khi ốm và khoản đóng góp vào lương hưu, còn người làm theo hợp đồng thì phải tự trích tiền cho tất cả những khoản này từ mỗi lần được trả.\n(14) Nhiều người trả lời thừa nhận rằng lúc mới bắt đầu họ không hiểu điều này, và đặc biệt người mới vào nghề thường đòi giá quá thấp, có khi chỉ bằng một nửa giá trị công việc.\n(15) Một phiên dịch viên kể rằng, là người hoàn toàn mới, cô biết ơn bất cứ việc gì đến mức nhận hết mọi thứ và cắm cúi làm những tuần tám mươi giờ mà kiếm được còn ít hơn hồi làm lễ tân.\n(16) Không điều gì trong số này có nghĩa làm tự do là một sai lầm, và bản báo cáo cẩn thận không ngụ ý như vậy.\n(17) Những người đã làm tự do hơn năm năm cho biết họ hài lòng hơn và kiếm được nhiều hơn so với công việc cũ, điều này cho thấy những năm đầu giống như một kiểu học việc không lương về cách điều hành kinh doanh.\n(18) Điều phân biệt người trụ lại với người bỏ cuộc hiếm khi là tài năng; mà là việc họ đã học được cách từ chối, ghi mọi thoả thuận thành văn bản, và xây dựng một nhóm nhỏ khách hàng quen thay vì chạy theo những việc vặt làm một lần.\n(19) Bản báo cáo kết thúc bằng một khuyến nghị nghe thì hiển nhiên nhưng lại hiếm thấy đến bất ngờ.\n(20) Báo cáo cho rằng bất kỳ ai đang tính chuyển hướng nên thử làm tự do song song với một công việc ổn định trong sáu tháng trước đã, nhờ đó phát hiện xem mình có thích phần kinh doanh của công việc nhiều như chính công việc hay không.\n(21) Rốt cuộc, khởi nghiệp không đơn giản là làm điều mình yêu thích mà không có sếp.\n(22) Mà là làm điều mình yêu thích trong khi cũng phải làm cả chục việc mình có thể chẳng thích chút nào, và làm chúng mà không có ai làm thay khi mình ốm.",
+      "word_count": 547
+    },
+    {
+      "id": "passage_u0102_04",
+      "heading_i18n": {
+        "vi": "Bài đọc 4 (Unit 1) — Mục tư vấn: lãnh đạo chính những người bạn cũ"
+      },
+      "narrator": "announcer",
+      "title": "Dear Beverly: My Friends Are Now My Team",
+      "category": "letter",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 290,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dear Beverly: My Friends Are Now My Team",
+            "vi": "Thưa chị Beverly: Bạn bè tôi giờ là nhóm của tôi"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Work Matters, a weekly advice column by Beverly Kessler.",
+            "vi": "Work Matters, mục tư vấn hằng tuần của Beverly Kessler."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dear Beverly, three months ago I was promoted to lead the team I had been part of for four years, and I am beginning to wonder whether accepting was a mistake.",
+            "vi": "Thưa chị Beverly, ba tháng trước tôi được thăng chức lên trưởng nhóm của chính nhóm mà tôi đã ở trong đó bốn năm, và tôi bắt đầu tự hỏi liệu nhận lời có phải là sai lầm không."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There are six of us, and until the summer we ate lunch together, complained about the same manager and pitched in for one another whenever the workload was heavy.",
+            "vi": "Nhóm có sáu người, và cho tới mùa hè chúng tôi vẫn ăn trưa cùng nhau, cùng than phiền về một quản lý và xắn tay giúp nhau mỗi khi việc nhiều."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Now I am supposed to oversee their work, and the friendly atmosphere has been replaced by something that I can only describe as polite silence.",
+            "vi": "Giờ tôi phải giám sát công việc của họ, và bầu không khí thân thiện đã bị thay bằng một thứ mà tôi chỉ có thể gọi là sự im lặng lịch sự."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The hardest case is Glen, who has been with the company for twenty years and whose expertise in our systems is far greater than mine.",
+            "vi": "Khó nhất là anh Glen, người đã gắn bó với công ty hai mươi năm và có chuyên môn về hệ thống của chúng tôi vượt xa tôi."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He has never said anything rude, but he answers my questions with a single word and no longer offers ideas at meetings.",
+            "vi": "Anh ấy chưa bao giờ nói gì thô lỗ, nhưng trả lời câu hỏi của tôi bằng đúng một từ và không còn góp ý trong các cuộc họp."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "To avoid making things worse, I have started doing the most tedious tasks myself, which means that I am at my desk until nine most nights.",
+            "vi": "Để khỏi làm mọi chuyện tệ hơn, tôi bắt đầu tự làm những việc tẻ nhạt nhất, nghĩa là hầu như tối nào tôi cũng ngồi ở bàn làm việc tới chín giờ."
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "How do I lead people who were my friends without losing them or myself?",
+            "vi": "Làm sao để tôi lãnh đạo những người từng là bạn mà không đánh mất họ hay đánh mất chính mình?"
+          }
+        },
+        {
+          "n": 10,
+          "para": 3,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Promoted Too Soon",
+            "vi": "Thăng chức quá sớm"
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dear Promoted, first let me reassure you that what you describe is so common that it barely counts as a problem; it is simply the price of the new job.",
+            "vi": "Bạn Thăng chức thân mến, trước hết để tôi trấn an bạn rằng điều bạn kể phổ biến đến mức khó mà gọi là vấn đề; đó đơn giản là cái giá của công việc mới."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Moving from colleague to manager changes the hierarchy overnight, and nobody, including you, has had time to get used to it.",
+            "vi": "Từ đồng nghiệp thành quản lý làm thứ bậc thay đổi chỉ sau một đêm, và chưa ai, kể cả bạn, có thời gian để quen với điều đó."
+          }
+        },
+        {
+          "n": 13,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "That said, two of your choices are making things harder, and both come from a good place.",
+            "vi": "Dù vậy, có hai lựa chọn của bạn đang khiến mọi chuyện khó hơn, và cả hai đều xuất phát từ ý tốt."
+          }
+        },
+        {
+          "n": 14,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The first is doing the tedious work yourself.",
+            "vi": "Thứ nhất là tự làm những việc tẻ nhạt."
+          }
+        },
+        {
+          "n": 15,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You may see it as kindness, but your team is likely to read it as a lack of trust, and before long you will be too tired to do the part of the job that only you can do.",
+            "vi": "Bạn có thể coi đó là tử tế, nhưng nhóm của bạn nhiều khả năng sẽ hiểu đó là thiếu tin tưởng, và chẳng bao lâu bạn sẽ quá mệt để làm phần việc chỉ bạn mới làm được."
+          }
+        },
+        {
+          "n": 16,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Allocate the work fairly, explain why, and then leave people to do it.",
+            "vi": "Hãy phân việc công bằng, giải thích lý do, rồi để mọi người tự làm."
+          }
+        },
+        {
+          "n": 17,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The second is treating Glen's silence as a personal attack.",
+            "vi": "Thứ hai là coi sự im lặng của Glen như một sự công kích cá nhân."
+          }
+        },
+        {
+          "n": 18,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Someone who has spent twenty years building his expertise may simply be wondering whether it still counts for anything now that a younger colleague is giving the instructions.",
+            "vi": "Một người đã dành hai mươi năm xây dựng chuyên môn có thể chỉ đang tự hỏi liệu nó còn có giá trị gì không khi giờ một đồng nghiệp trẻ hơn đang ra chỉ thị."
+          }
+        },
+        {
+          "n": 19,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So talk to him in private, and do not ask how he feels about you; ask for his help with something that he knows better than anyone, and mean it.",
+            "vi": "Vì vậy hãy nói chuyện riêng với anh ấy, và đừng hỏi anh ấy cảm thấy thế nào về bạn; hãy nhờ anh ấy giúp một việc anh ấy rành hơn ai hết, và nhờ thật lòng."
+          }
+        },
+        {
+          "n": 20,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Respect for his knowledge is not the same as handing him your authority, and most experienced people can tell the difference.",
+            "vi": "Tôn trọng hiểu biết của anh ấy không giống với việc trao quyền của bạn cho anh ấy, và phần lớn người có kinh nghiệm đều phân biệt được hai điều đó."
+          }
+        },
+        {
+          "n": 21,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Finally, accept that some of the old friendships will change.",
+            "vi": "Cuối cùng, hãy chấp nhận rằng vài tình bạn cũ sẽ thay đổi."
+          }
+        },
+        {
+          "n": 22,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "You can still take pride in a team that works well together, and still eat lunch with them now and then, but you cannot be the person they complain to about the manager when you are the manager.",
+            "vi": "Bạn vẫn có thể tự hào về một nhóm làm việc ăn ý, thỉnh thoảng vẫn ăn trưa cùng họ, nhưng bạn không thể là người để họ than phiền về quản lý khi chính bạn là quản lý."
+          }
+        },
+        {
+          "n": 23,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Give it six months before you decide that accepting was a mistake; most of the new leaders who write to me find that by then the silence has quietly turned into something much more like trust.",
+            "vi": "Hãy cho nó sáu tháng trước khi kết luận rằng nhận lời là sai lầm; phần lớn những trưởng nhóm mới viết thư cho tôi đều thấy rằng tới lúc đó sự im lặng đã lặng lẽ chuyển thành một thứ gần với sự tin tưởng hơn."
+          }
+        },
+        {
+          "n": 24,
+          "para": 6,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Beverly",
+            "vi": "Beverly"
+          }
+        }
+      ],
+      "curriculum_sheets": [
+        "c1.001",
+        "c1.002",
+        "c1.003",
+        "c1.004"
+      ],
+      "content_ja": "Dear Beverly: My Friends Are Now My Team\n\nWork Matters, a weekly advice column by Beverly Kessler.\n\nDear Beverly, three months ago I was promoted to lead the team I had been part of for four years, and I am beginning to wonder whether accepting was a mistake. There are six of us, and until the summer we ate lunch together, complained about the same manager and pitched in for one another whenever the workload was heavy. Now I am supposed to oversee their work, and the friendly atmosphere has been replaced by something that I can only describe as polite silence. The hardest case is Glen, who has been with the company for twenty years and whose expertise in our systems is far greater than mine. He has never said anything rude, but he answers my questions with a single word and no longer offers ideas at meetings. To avoid making things worse, I have started doing the most tedious tasks myself, which means that I am at my desk until nine most nights. How do I lead people who were my friends without losing them or myself?\n\nPromoted Too Soon\n\nDear Promoted, first let me reassure you that what you describe is so common that it barely counts as a problem; it is simply the price of the new job. Moving from colleague to manager changes the hierarchy overnight, and nobody, including you, has had time to get used to it. That said, two of your choices are making things harder, and both come from a good place. The first is doing the tedious work yourself. You may see it as kindness, but your team is likely to read it as a lack of trust, and before long you will be too tired to do the part of the job that only you can do. Allocate the work fairly, explain why, and then leave people to do it.\n\nThe second is treating Glen's silence as a personal attack. Someone who has spent twenty years building his expertise may simply be wondering whether it still counts for anything now that a younger colleague is giving the instructions. So talk to him in private, and do not ask how he feels about you; ask for his help with something that he knows better than anyone, and mean it. Respect for his knowledge is not the same as handing him your authority, and most experienced people can tell the difference.\n\nFinally, accept that some of the old friendships will change. You can still take pride in a team that works well together, and still eat lunch with them now and then, but you cannot be the person they complain to about the manager when you are the manager. Give it six months before you decide that accepting was a mistake; most of the new leaders who write to me find that by then the silence has quietly turned into something much more like trust.\n\nBeverly",
+      "translation_vn": "(1) Thưa chị Beverly: Bạn bè tôi giờ là nhóm của tôi\n(2) Work Matters, mục tư vấn hằng tuần của Beverly Kessler.\n(3) Thưa chị Beverly, ba tháng trước tôi được thăng chức lên trưởng nhóm của chính nhóm mà tôi đã ở trong đó bốn năm, và tôi bắt đầu tự hỏi liệu nhận lời có phải là sai lầm không.\n(4) Nhóm có sáu người, và cho tới mùa hè chúng tôi vẫn ăn trưa cùng nhau, cùng than phiền về một quản lý và xắn tay giúp nhau mỗi khi việc nhiều.\n(5) Giờ tôi phải giám sát công việc của họ, và bầu không khí thân thiện đã bị thay bằng một thứ mà tôi chỉ có thể gọi là sự im lặng lịch sự.\n(6) Khó nhất là anh Glen, người đã gắn bó với công ty hai mươi năm và có chuyên môn về hệ thống của chúng tôi vượt xa tôi.\n(7) Anh ấy chưa bao giờ nói gì thô lỗ, nhưng trả lời câu hỏi của tôi bằng đúng một từ và không còn góp ý trong các cuộc họp.\n(8) Để khỏi làm mọi chuyện tệ hơn, tôi bắt đầu tự làm những việc tẻ nhạt nhất, nghĩa là hầu như tối nào tôi cũng ngồi ở bàn làm việc tới chín giờ.\n(9) Làm sao để tôi lãnh đạo những người từng là bạn mà không đánh mất họ hay đánh mất chính mình?\n(10) Thăng chức quá sớm\n(11) Bạn Thăng chức thân mến, trước hết để tôi trấn an bạn rằng điều bạn kể phổ biến đến mức khó mà gọi là vấn đề; đó đơn giản là cái giá của công việc mới.\n(12) Từ đồng nghiệp thành quản lý làm thứ bậc thay đổi chỉ sau một đêm, và chưa ai, kể cả bạn, có thời gian để quen với điều đó.\n(13) Dù vậy, có hai lựa chọn của bạn đang khiến mọi chuyện khó hơn, và cả hai đều xuất phát từ ý tốt.\n(14) Thứ nhất là tự làm những việc tẻ nhạt.\n(15) Bạn có thể coi đó là tử tế, nhưng nhóm của bạn nhiều khả năng sẽ hiểu đó là thiếu tin tưởng, và chẳng bao lâu bạn sẽ quá mệt để làm phần việc chỉ bạn mới làm được.\n(16) Hãy phân việc công bằng, giải thích lý do, rồi để mọi người tự làm.\n(17) Thứ hai là coi sự im lặng của Glen như một sự công kích cá nhân.\n(18) Một người đã dành hai mươi năm xây dựng chuyên môn có thể chỉ đang tự hỏi liệu nó còn có giá trị gì không khi giờ một đồng nghiệp trẻ hơn đang ra chỉ thị.\n(19) Vì vậy hãy nói chuyện riêng với anh ấy, và đừng hỏi anh ấy cảm thấy thế nào về bạn; hãy nhờ anh ấy giúp một việc anh ấy rành hơn ai hết, và nhờ thật lòng.\n(20) Tôn trọng hiểu biết của anh ấy không giống với việc trao quyền của bạn cho anh ấy, và phần lớn người có kinh nghiệm đều phân biệt được hai điều đó.\n(21) Cuối cùng, hãy chấp nhận rằng vài tình bạn cũ sẽ thay đổi.\n(22) Bạn vẫn có thể tự hào về một nhóm làm việc ăn ý, thỉnh thoảng vẫn ăn trưa cùng họ, nhưng bạn không thể là người để họ than phiền về quản lý khi chính bạn là quản lý.\n(23) Hãy cho nó sáu tháng trước khi kết luận rằng nhận lời là sai lầm; phần lớn những trưởng nhóm mới viết thư cho tôi đều thấy rằng tới lúc đó sự im lặng đã lặng lẽ chuyển thành một thứ gần với sự tin tưởng hơn.\n(24) Beverly",
+      "word_count": 494
+    },
+    {
+      "id": "passage_u0102_05",
+      "heading_i18n": {
+        "vi": "Bài đọc 5 (Unit 2) — Bài điểm sách: khi nào nên tin trực giác"
+      },
+      "narrator": "announcer",
+      "title": "Review: The Quiet Signal, by Marcus Whitlow",
+      "category": "article",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 320,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Review: The Quiet Signal, by Marcus Whitlow",
+            "vi": "Điểm sách: Tín hiệu lặng lẽ, của Marcus Whitlow"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Reviewed by Andrea Collins for the weekend books page.",
+            "vi": "Andrea Collins điểm sách cho trang sách cuối tuần."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Few ideas are as flattering as the one at the heart of Marcus Whitlow's new book: that somewhere inside each of us is a wise inner voice, and that we would make better decisions if only we listened to it.",
+            "vi": "Hiếm có ý tưởng nào dễ nghe như ý tưởng nằm ở trung tâm cuốn sách mới của Marcus Whitlow: rằng đâu đó trong mỗi chúng ta có một giọng nói nội tâm khôn ngoan, và ta sẽ quyết định tốt hơn nếu chỉ cần lắng nghe nó."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Whitlow, a behavioral scientist who spent a decade studying how nurses, pilots and firefighters make decisions under pressure, is too careful a researcher to accept that idea as it stands.",
+            "vi": "Whitlow, một nhà khoa học hành vi từng dành mười năm nghiên cứu cách điều dưỡng, phi công và lính cứu hoả ra quyết định dưới áp lực, là một nhà nghiên cứu quá cẩn trọng để chấp nhận ý tưởng ấy nguyên như vậy."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For most of its length, The Quiet Signal is an attempt to explain when the inner voice deserves to be trusted and when it is simply telling us what we want to hear.",
+            "vi": "Trong phần lớn độ dài của nó, Tín hiệu lặng lẽ là một nỗ lực giải thích khi nào giọng nói nội tâm đáng tin và khi nào nó chỉ đang nói điều ta muốn nghe."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The first half of the book is excellent.",
+            "vi": "Nửa đầu cuốn sách rất xuất sắc."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Whitlow argues that intuition is not magic but memory: after years of practice, the brain learns to notice small cues, such as a change in a patient's breathing, long before we are able to explain what we have noticed.",
+            "vi": "Whitlow lập luận rằng trực giác không phải phép màu mà là trí nhớ: sau nhiều năm thực hành, bộ não học cách nhận ra những tín hiệu nhỏ, như một thay đổi trong nhịp thở của bệnh nhân, từ rất lâu trước khi ta giải thích được mình đã nhận ra điều gì."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "He builds on a well-known 2009 paper in which the psychologists Daniel Kahneman and Gary Klein, who had long disagreed about intuition, concluded that expert intuition can be trusted under two conditions.",
+            "vi": "Ông dựa trên một bài báo nổi tiếng năm 2009, trong đó hai nhà tâm lý học Daniel Kahneman và Gary Klein, vốn bất đồng lâu năm về trực giác, kết luận rằng trực giác của chuyên gia có thể tin được với hai điều kiện."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The situation has to be regular enough to contain patterns, and the person must have had plenty of practice with quick, clear feedback on whether their judgments were right.",
+            "vi": "Tình huống phải đủ đều đặn để có quy luật, và người đó phải được thực hành nhiều với phản hồi nhanh, rõ ràng về việc phán đoán của mình đúng hay sai."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A firefighter who has walked into hundreds of burning buildings meets both conditions; someone picking shares on the stock market meets neither, however confident they may feel.",
+            "vi": "Một lính cứu hoả đã bước vào hàng trăm toà nhà đang cháy đáp ứng cả hai điều kiện; một người chọn cổ phiếu trên thị trường chứng khoán thì không đáp ứng điều nào, dù họ có tự tin tới đâu."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Whitlow tells these stories with real skill, and his chapter on a nurse who sensed that a patient was in danger hours before any test confirmed it is the most memorable thing I have read this year.",
+            "vi": "Whitlow kể những câu chuyện này rất có nghề, và chương viết về một điều dưỡng cảm thấy bệnh nhân đang gặp nguy nhiều giờ trước khi xét nghiệm nào xác nhận là điều đáng nhớ nhất tôi đọc trong năm nay."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is in the second half that the book loses its way.",
+            "vi": "Chính ở nửa sau, cuốn sách lạc hướng."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Having shown so carefully that intuition is only as good as the experience behind it, Whitlow goes on to encourage readers to follow their intuition in areas where they have very little experience at all, from choosing a business partner to judging whether a job candidate is honest.",
+            "vi": "Sau khi đã chứng minh rất cẩn thận rằng trực giác chỉ tốt bằng kinh nghiệm đứng sau nó, Whitlow lại khuyến khích người đọc làm theo trực giác ở những lĩnh vực họ hầu như không có kinh nghiệm, từ chọn đối tác kinh doanh tới đánh giá một ứng viên có trung thực hay không."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Hiring is a strange choice of example, since it fails both of his own conditions: interviewers rarely find out whether the people they rejected would have done well, so their instincts never receive the feedback that would correct them.",
+            "vi": "Tuyển dụng là một ví dụ được chọn thật lạ, vì nó không đáp ứng cả hai điều kiện của chính ông: người phỏng vấn hiếm khi biết được những người họ đã loại liệu có làm tốt không, nên bản năng của họ không bao giờ nhận được phản hồi để tự sửa."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There is also a problem with the evidence.",
+            "vi": "Bằng chứng cũng có vấn đề."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Almost every story in the second half ends with someone whose instinct turned out to be right, and we never hear about the people who followed an equally strong feeling straight into disaster.",
+            "vi": "Gần như mọi câu chuyện ở nửa sau đều kết thúc bằng một người có bản năng hoá ra đúng, và ta không bao giờ được nghe về những người đã đi theo một cảm giác mạnh không kém thẳng vào thảm hoạ."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A reader who is wary of this kind of writing may begin to suspect that the cases were chosen because they make a satisfying chapter, not because they are typical.",
+            "vi": "Một độc giả dè chừng kiểu viết này có thể bắt đầu ngờ rằng các trường hợp được chọn vì chúng làm nên một chương hay, chứ không phải vì chúng tiêu biểu."
+          }
+        },
+        {
+          "n": 18,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "None of this makes The Quiet Signal a bad book, and I would still recommend its first five chapters to anyone who has wondered why experienced colleagues so often seem to just know.",
+            "vi": "Không điều gì trong số này khiến Tín hiệu lặng lẽ thành một cuốn sách tồi, và tôi vẫn sẽ giới thiệu năm chương đầu cho bất kỳ ai từng thắc mắc vì sao những đồng nghiệp giàu kinh nghiệm thường như thể cứ thế mà biết."
+          }
+        },
+        {
+          "n": 19,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But the title promises a signal, and the honest conclusion of Whitlow's own research is more like this: the signal is clear only where we have spent years learning to hear it.",
+            "vi": "Nhưng nhan đề hứa hẹn một tín hiệu, và kết luận trung thực từ chính nghiên cứu của Whitlow gần với điều này hơn: tín hiệu chỉ rõ ở những nơi ta đã mất nhiều năm học cách nghe nó."
+          }
+        },
+        {
+          "n": 20,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Everywhere else, it is just noise that happens to feel convincing.",
+            "vi": "Ở mọi chỗ khác, nó chỉ là tiếng ồn tình cờ nghe có vẻ thuyết phục."
+          }
+        }
+      ],
+      "curriculum_sheets": [
+        "c1.005",
+        "c1.006",
+        "c1.007",
+        "c1.008"
+      ],
+      "content_ja": "Review: The Quiet Signal, by Marcus Whitlow\n\nReviewed by Andrea Collins for the weekend books page.\n\nFew ideas are as flattering as the one at the heart of Marcus Whitlow's new book: that somewhere inside each of us is a wise inner voice, and that we would make better decisions if only we listened to it. Whitlow, a behavioral scientist who spent a decade studying how nurses, pilots and firefighters make decisions under pressure, is too careful a researcher to accept that idea as it stands. For most of its length, The Quiet Signal is an attempt to explain when the inner voice deserves to be trusted and when it is simply telling us what we want to hear.\n\nThe first half of the book is excellent. Whitlow argues that intuition is not magic but memory: after years of practice, the brain learns to notice small cues, such as a change in a patient's breathing, long before we are able to explain what we have noticed. He builds on a well-known 2009 paper in which the psychologists Daniel Kahneman and Gary Klein, who had long disagreed about intuition, concluded that expert intuition can be trusted under two conditions. The situation has to be regular enough to contain patterns, and the person must have had plenty of practice with quick, clear feedback on whether their judgments were right. A firefighter who has walked into hundreds of burning buildings meets both conditions; someone picking shares on the stock market meets neither, however confident they may feel.\n\nWhitlow tells these stories with real skill, and his chapter on a nurse who sensed that a patient was in danger hours before any test confirmed it is the most memorable thing I have read this year. It is in the second half that the book loses its way. Having shown so carefully that intuition is only as good as the experience behind it, Whitlow goes on to encourage readers to follow their intuition in areas where they have very little experience at all, from choosing a business partner to judging whether a job candidate is honest. Hiring is a strange choice of example, since it fails both of his own conditions: interviewers rarely find out whether the people they rejected would have done well, so their instincts never receive the feedback that would correct them.\n\nThere is also a problem with the evidence. Almost every story in the second half ends with someone whose instinct turned out to be right, and we never hear about the people who followed an equally strong feeling straight into disaster. A reader who is wary of this kind of writing may begin to suspect that the cases were chosen because they make a satisfying chapter, not because they are typical.\n\nNone of this makes The Quiet Signal a bad book, and I would still recommend its first five chapters to anyone who has wondered why experienced colleagues so often seem to just know. But the title promises a signal, and the honest conclusion of Whitlow's own research is more like this: the signal is clear only where we have spent years learning to hear it. Everywhere else, it is just noise that happens to feel convincing.",
+      "translation_vn": "(1) Điểm sách: Tín hiệu lặng lẽ, của Marcus Whitlow\n(2) Andrea Collins điểm sách cho trang sách cuối tuần.\n(3) Hiếm có ý tưởng nào dễ nghe như ý tưởng nằm ở trung tâm cuốn sách mới của Marcus Whitlow: rằng đâu đó trong mỗi chúng ta có một giọng nói nội tâm khôn ngoan, và ta sẽ quyết định tốt hơn nếu chỉ cần lắng nghe nó.\n(4) Whitlow, một nhà khoa học hành vi từng dành mười năm nghiên cứu cách điều dưỡng, phi công và lính cứu hoả ra quyết định dưới áp lực, là một nhà nghiên cứu quá cẩn trọng để chấp nhận ý tưởng ấy nguyên như vậy.\n(5) Trong phần lớn độ dài của nó, Tín hiệu lặng lẽ là một nỗ lực giải thích khi nào giọng nói nội tâm đáng tin và khi nào nó chỉ đang nói điều ta muốn nghe.\n(6) Nửa đầu cuốn sách rất xuất sắc.\n(7) Whitlow lập luận rằng trực giác không phải phép màu mà là trí nhớ: sau nhiều năm thực hành, bộ não học cách nhận ra những tín hiệu nhỏ, như một thay đổi trong nhịp thở của bệnh nhân, từ rất lâu trước khi ta giải thích được mình đã nhận ra điều gì.\n(8) Ông dựa trên một bài báo nổi tiếng năm 2009, trong đó hai nhà tâm lý học Daniel Kahneman và Gary Klein, vốn bất đồng lâu năm về trực giác, kết luận rằng trực giác của chuyên gia có thể tin được với hai điều kiện.\n(9) Tình huống phải đủ đều đặn để có quy luật, và người đó phải được thực hành nhiều với phản hồi nhanh, rõ ràng về việc phán đoán của mình đúng hay sai.\n(10) Một lính cứu hoả đã bước vào hàng trăm toà nhà đang cháy đáp ứng cả hai điều kiện; một người chọn cổ phiếu trên thị trường chứng khoán thì không đáp ứng điều nào, dù họ có tự tin tới đâu.\n(11) Whitlow kể những câu chuyện này rất có nghề, và chương viết về một điều dưỡng cảm thấy bệnh nhân đang gặp nguy nhiều giờ trước khi xét nghiệm nào xác nhận là điều đáng nhớ nhất tôi đọc trong năm nay.\n(12) Chính ở nửa sau, cuốn sách lạc hướng.\n(13) Sau khi đã chứng minh rất cẩn thận rằng trực giác chỉ tốt bằng kinh nghiệm đứng sau nó, Whitlow lại khuyến khích người đọc làm theo trực giác ở những lĩnh vực họ hầu như không có kinh nghiệm, từ chọn đối tác kinh doanh tới đánh giá một ứng viên có trung thực hay không.\n(14) Tuyển dụng là một ví dụ được chọn thật lạ, vì nó không đáp ứng cả hai điều kiện của chính ông: người phỏng vấn hiếm khi biết được những người họ đã loại liệu có làm tốt không, nên bản năng của họ không bao giờ nhận được phản hồi để tự sửa.\n(15) Bằng chứng cũng có vấn đề.\n(16) Gần như mọi câu chuyện ở nửa sau đều kết thúc bằng một người có bản năng hoá ra đúng, và ta không bao giờ được nghe về những người đã đi theo một cảm giác mạnh không kém thẳng vào thảm hoạ.\n(17) Một độc giả dè chừng kiểu viết này có thể bắt đầu ngờ rằng các trường hợp được chọn vì chúng làm nên một chương hay, chứ không phải vì chúng tiêu biểu.\n(18) Không điều gì trong số này khiến Tín hiệu lặng lẽ thành một cuốn sách tồi, và tôi vẫn sẽ giới thiệu năm chương đầu cho bất kỳ ai từng thắc mắc vì sao những đồng nghiệp giàu kinh nghiệm thường như thể cứ thế mà biết.\n(19) Nhưng nhan đề hứa hẹn một tín hiệu, và kết luận trung thực từ chính nghiên cứu của Whitlow gần với điều này hơn: tín hiệu chỉ rõ ở những nơi ta đã mất nhiều năm học cách nghe nó.\n(20) Ở mọi chỗ khác, nó chỉ là tiếng ồn tình cờ nghe có vẻ thuyết phục.",
+      "word_count": 537
+    },
+    {
+      "id": "passage_u0102_06",
+      "heading_i18n": {
+        "vi": "Bài đọc 6 (Unit 2) — Mitchell viết cho bản tin phụ huynh: không ai nhìn giày con đâu"
+      },
+      "narrator": "Mitchell",
+      "title": "Nobody Is Looking at Your Shoes",
+      "category": "article",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 290,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Nobody Is Looking at Your Shoes",
+            "vi": "Chẳng ai nhìn giày của con đâu"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mitchell Carter, guest column, Westview Middle School Family Newsletter, December.",
+            "vi": "Mitchell Carter, chuyên mục khách mời, Bản tin gia đình trường cấp hai Westview, tháng Mười Hai."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Last month my thirteen-year-old daughter came home from school close to tears because she had worn two different shoes all day, one black and one dark blue, and had only noticed at the last bell.",
+            "vi": "Tháng trước, con gái mười ba tuổi của tôi đi học về mà suýt khóc vì cả ngày đã đi hai chiếc giày khác nhau, một đen một xanh đậm, và chỉ nhận ra khi chuông cuối giờ reo."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "She was certain that the entire eighth grade had seen them, and she spent dinner speculating about which of her classmates would mention it the next morning.",
+            "vi": "Con bé chắc chắn rằng cả khối lớp tám đã nhìn thấy, và suốt bữa tối cứ đoán xem sáng mai bạn nào trong lớp sẽ nhắc tới chuyện đó."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Tina, who will happily stand up in front of a hundred strangers to talk about bees, can be surprisingly self-conscious about small things like this, and I suspect she is not the only one.",
+            "vi": "Tina, đứa sẵn sàng vui vẻ đứng trước cả trăm người lạ để nói về loài ong, lại có thể ngượng ngùng một cách bất ngờ vì những chuyện nhỏ như thế này, và tôi ngờ rằng con bé không phải là người duy nhất."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "As a history teacher, I am not qualified to explain the human psyche, but I do know a famous experiment that I wish I had heard about when I was her age.",
+            "vi": "Là giáo viên lịch sử, tôi không đủ chuyên môn để giải thích tâm lý con người, nhưng tôi có biết một thí nghiệm nổi tiếng mà tôi ước mình được nghe kể hồi bằng tuổi con bé."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In 2000, the psychologist Thomas Gilovich and his colleagues at Cornell University asked college students to put on a T-shirt showing a singer that most of them found deeply embarrassing, and then to walk into a room full of other students.",
+            "vi": "Năm 2000, nhà tâm lý học Thomas Gilovich và các đồng nghiệp ở Đại học Cornell đề nghị sinh viên mặc một chiếc áo phông in hình một ca sĩ mà phần lớn các bạn thấy rất xấu hổ, rồi bước vào một căn phòng đầy sinh viên khác."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Afterwards, the students who wore the shirt guessed that about half of the people in the room had noticed it.",
+            "vi": "Sau đó, những sinh viên mặc áo đoán rằng khoảng một nửa số người trong phòng đã để ý chiếc áo."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In fact, only about half that number had.",
+            "vi": "Thực tế, con số chỉ bằng khoảng một nửa như vậy."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The researchers called this the spotlight effect: we presume that others are watching us far more closely than they really are, because we are the very center of our own attention.",
+            "vi": "Các nhà nghiên cứu gọi đây là hiệu ứng ánh đèn sân khấu: ta mặc định rằng người khác quan sát mình kỹ hơn nhiều so với thực tế, vì chính ta là tâm điểm trong sự chú ý của bản thân."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most of us, in other words, are too busy worrying about our own shoes to look at anyone else's.",
+            "vi": "Nói cách khác, phần lớn chúng ta quá bận lo về đôi giày của mình nên chẳng nhìn giày của ai khác."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I told Tina about the study, expecting her to be reassured, and she was not.",
+            "vi": "Tôi kể cho Tina nghe về nghiên cứu, tưởng con bé sẽ yên tâm, nhưng không."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "\"That will be true for college students,\" she said, \"but you don't know the eighth grade.\"",
+            "vi": "\"Chắc là đúng với sinh viên đại học thôi,\" con bé nói, \"nhưng bố đâu biết lớp tám thế nào.\""
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It was a fair point, and an insightful one: the original experiment was not done with thirteen-year-olds, and nobody can promise that a classmate will never make a cruel remark.",
+            "vi": "Đó là một ý có lý, và sâu sắc nữa: thí nghiệm gốc không làm với trẻ mười ba tuổi, và không ai hứa được rằng một bạn cùng lớp sẽ không bao giờ buông một câu ác ý."
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But the next day only one friend mentioned the shoes, and Tina, to her own surprise, laughed it off and said that she was starting a new fashion.",
+            "vi": "Nhưng hôm sau chỉ có một người bạn nhắc tới đôi giày, và Tina, chính con bé cũng bất ngờ, cười xoà cho qua và nói mình đang khởi xướng một mốt mới."
+          }
+        },
+        {
+          "n": 16,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "By Friday, two other girls had come to school in odd shoes on purpose.",
+            "vi": "Tới thứ Sáu, hai bạn gái khác đã cố tình đi học với giày lệch đôi."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I am not suggesting that we tell our children their worries are silly; for a timid or insecure child, being told that a fear is silly only adds a second worry, namely that they must be silly for having it.",
+            "vi": "Tôi không đề nghị chúng ta bảo con rằng nỗi lo của chúng thật ngớ ngẩn; với một đứa trẻ nhút nhát hay thiếu tự tin, bị bảo rằng nỗi sợ là ngớ ngẩn chỉ thêm một nỗi lo thứ hai, đó là chắc mình ngớ ngẩn lắm mới sợ như vậy."
+          }
+        },
+        {
+          "n": 18,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What the research offers is something more gentle: a reason to doubt the very feeling that everyone is watching.",
+            "vi": "Điều nghiên cứu mang lại nhẹ nhàng hơn: một lý do để nghi ngờ chính cái cảm giác rằng mọi người đều đang nhìn."
+          }
+        },
+        {
+          "n": 19,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Feelings like that are subjective, and in my experience they shrink when you say them out loud and compare them with what actually happened.",
+            "vi": "Những cảm giác như vậy mang tính chủ quan, và theo kinh nghiệm của tôi, chúng nhỏ lại khi ta nói thành lời và so với những gì thật sự đã xảy ra."
+          }
+        },
+        {
+          "n": 20,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So the next time your child comes home convinced that the whole school saw something embarrassing, you might ask one simple question before offering any comfort: how many people actually said anything?",
+            "vi": "Vì vậy, lần tới khi con bạn về nhà đinh ninh cả trường đã thấy một chuyện xấu hổ, bạn có thể hỏi một câu đơn giản trước khi an ủi: thật ra có bao nhiêu người đã nói gì?"
+          }
+        },
+        {
+          "n": 21,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The answer, more often than not, will be smaller than either of you expected.",
+            "vi": "Câu trả lời, thường thì, sẽ nhỏ hơn cả bạn lẫn con tưởng."
+          }
+        }
+      ],
+      "curriculum_sheets": [
+        "c1.005",
+        "c1.006",
+        "c1.007",
+        "c1.008"
+      ],
+      "content_ja": "Nobody Is Looking at Your Shoes\n\nMitchell Carter, guest column, Westview Middle School Family Newsletter, December.\n\nLast month my thirteen-year-old daughter came home from school close to tears because she had worn two different shoes all day, one black and one dark blue, and had only noticed at the last bell. She was certain that the entire eighth grade had seen them, and she spent dinner speculating about which of her classmates would mention it the next morning. Tina, who will happily stand up in front of a hundred strangers to talk about bees, can be surprisingly self-conscious about small things like this, and I suspect she is not the only one.\n\nAs a history teacher, I am not qualified to explain the human psyche, but I do know a famous experiment that I wish I had heard about when I was her age. In 2000, the psychologist Thomas Gilovich and his colleagues at Cornell University asked college students to put on a T-shirt showing a singer that most of them found deeply embarrassing, and then to walk into a room full of other students. Afterwards, the students who wore the shirt guessed that about half of the people in the room had noticed it. In fact, only about half that number had. The researchers called this the spotlight effect: we presume that others are watching us far more closely than they really are, because we are the very center of our own attention. Most of us, in other words, are too busy worrying about our own shoes to look at anyone else's.\n\nI told Tina about the study, expecting her to be reassured, and she was not. \"That will be true for college students,\" she said, \"but you don't know the eighth grade.\" It was a fair point, and an insightful one: the original experiment was not done with thirteen-year-olds, and nobody can promise that a classmate will never make a cruel remark. But the next day only one friend mentioned the shoes, and Tina, to her own surprise, laughed it off and said that she was starting a new fashion. By Friday, two other girls had come to school in odd shoes on purpose.\n\nI am not suggesting that we tell our children their worries are silly; for a timid or insecure child, being told that a fear is silly only adds a second worry, namely that they must be silly for having it. What the research offers is something more gentle: a reason to doubt the very feeling that everyone is watching. Feelings like that are subjective, and in my experience they shrink when you say them out loud and compare them with what actually happened. So the next time your child comes home convinced that the whole school saw something embarrassing, you might ask one simple question before offering any comfort: how many people actually said anything? The answer, more often than not, will be smaller than either of you expected.",
+      "translation_vn": "(1) Chẳng ai nhìn giày của con đâu\n(2) Mitchell Carter, chuyên mục khách mời, Bản tin gia đình trường cấp hai Westview, tháng Mười Hai.\n(3) Tháng trước, con gái mười ba tuổi của tôi đi học về mà suýt khóc vì cả ngày đã đi hai chiếc giày khác nhau, một đen một xanh đậm, và chỉ nhận ra khi chuông cuối giờ reo.\n(4) Con bé chắc chắn rằng cả khối lớp tám đã nhìn thấy, và suốt bữa tối cứ đoán xem sáng mai bạn nào trong lớp sẽ nhắc tới chuyện đó.\n(5) Tina, đứa sẵn sàng vui vẻ đứng trước cả trăm người lạ để nói về loài ong, lại có thể ngượng ngùng một cách bất ngờ vì những chuyện nhỏ như thế này, và tôi ngờ rằng con bé không phải là người duy nhất.\n(6) Là giáo viên lịch sử, tôi không đủ chuyên môn để giải thích tâm lý con người, nhưng tôi có biết một thí nghiệm nổi tiếng mà tôi ước mình được nghe kể hồi bằng tuổi con bé.\n(7) Năm 2000, nhà tâm lý học Thomas Gilovich và các đồng nghiệp ở Đại học Cornell đề nghị sinh viên mặc một chiếc áo phông in hình một ca sĩ mà phần lớn các bạn thấy rất xấu hổ, rồi bước vào một căn phòng đầy sinh viên khác.\n(8) Sau đó, những sinh viên mặc áo đoán rằng khoảng một nửa số người trong phòng đã để ý chiếc áo.\n(9) Thực tế, con số chỉ bằng khoảng một nửa như vậy.\n(10) Các nhà nghiên cứu gọi đây là hiệu ứng ánh đèn sân khấu: ta mặc định rằng người khác quan sát mình kỹ hơn nhiều so với thực tế, vì chính ta là tâm điểm trong sự chú ý của bản thân.\n(11) Nói cách khác, phần lớn chúng ta quá bận lo về đôi giày của mình nên chẳng nhìn giày của ai khác.\n(12) Tôi kể cho Tina nghe về nghiên cứu, tưởng con bé sẽ yên tâm, nhưng không.\n(13) \"Chắc là đúng với sinh viên đại học thôi,\" con bé nói, \"nhưng bố đâu biết lớp tám thế nào.\"\n(14) Đó là một ý có lý, và sâu sắc nữa: thí nghiệm gốc không làm với trẻ mười ba tuổi, và không ai hứa được rằng một bạn cùng lớp sẽ không bao giờ buông một câu ác ý.\n(15) Nhưng hôm sau chỉ có một người bạn nhắc tới đôi giày, và Tina, chính con bé cũng bất ngờ, cười xoà cho qua và nói mình đang khởi xướng một mốt mới.\n(16) Tới thứ Sáu, hai bạn gái khác đã cố tình đi học với giày lệch đôi.\n(17) Tôi không đề nghị chúng ta bảo con rằng nỗi lo của chúng thật ngớ ngẩn; với một đứa trẻ nhút nhát hay thiếu tự tin, bị bảo rằng nỗi sợ là ngớ ngẩn chỉ thêm một nỗi lo thứ hai, đó là chắc mình ngớ ngẩn lắm mới sợ như vậy.\n(18) Điều nghiên cứu mang lại nhẹ nhàng hơn: một lý do để nghi ngờ chính cái cảm giác rằng mọi người đều đang nhìn.\n(19) Những cảm giác như vậy mang tính chủ quan, và theo kinh nghiệm của tôi, chúng nhỏ lại khi ta nói thành lời và so với những gì thật sự đã xảy ra.\n(20) Vì vậy, lần tới khi con bạn về nhà đinh ninh cả trường đã thấy một chuyện xấu hổ, bạn có thể hỏi một câu đơn giản trước khi an ủi: thật ra có bao nhiêu người đã nói gì?\n(21) Câu trả lời, thường thì, sẽ nhỏ hơn cả bạn lẫn con tưởng.",
+      "word_count": 500
     }
   ],
   "questions": [
@@ -1952,6 +3078,2739 @@
       "question_jp": "Use both texts. What do Megan's report and Leah's article have in common?",
       "question_vn": "Dựa vào cả hai bài. Báo cáo của Megan và bài viết của Leah có điểm gì chung?",
       "explanation": "Câu nối hai bài. Megan dùng bảng kiểm năm điểm để giao ca rõ ràng (lỗi từ 14 xuống 5); Leah viết \"An explicit request removes the doubt.\""
+    },
+    {
+      "id": "q_u0102_021",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_03",
+      "i18n": {
+        "en": "What is the main purpose of the article?",
+        "vi": "Mục đích chính của bài báo là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that freelancing involves hidden costs that success stories rarely mention",
+            "vi": "cho thấy nghề tự do có những cái giá ẩn mà các câu chuyện thành công hiếm khi nhắc tới"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to show that freelancing involves hidden costs that success stories rarely mention",
+          "text_translation": "cho thấy nghề tự do có những cái giá ẩn mà các câu chuyện thành công hiếm khi nhắc tới"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to persuade office workers to leave their salaried jobs as soon as they can",
+            "vi": "thuyết phục nhân viên văn phòng rời công việc hưởng lương càng sớm càng tốt"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to persuade office workers to leave their salaried jobs as soon as they can",
+          "text_translation": "thuyết phục nhân viên văn phòng rời công việc hưởng lương càng sớm càng tốt"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to advertise the services that a management consultancy offers to freelancers",
+            "vi": "quảng cáo dịch vụ mà một công ty tư vấn quản lý cung cấp cho người làm tự do"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to advertise the services that a management consultancy offers to freelancers",
+          "text_translation": "quảng cáo dịch vụ mà một công ty tư vấn quản lý cung cấp cho người làm tự do"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to argue that most freelancers would be happier back in an office",
+            "vi": "lập luận rằng phần lớn người làm tự do sẽ hạnh phúc hơn khi quay lại văn phòng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to argue that most freelancers would be happier back in an office",
+          "text_translation": "lập luận rằng phần lớn người làm tự do sẽ hạnh phúc hơn khi quay lại văn phòng"
+        }
+      ],
+      "evidence_segments": [
+        5,
+        22
+      ],
+      "explanation_i18n": {
+        "vi": "Bài đặt câu chuyện trên mạng cạnh thực tế khảo sát: \"the stories that freelancers tell online tend to show only the finished product\", rồi lần lượt nêu chi phí thời gian, tiền và kết luận cân bằng."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of the article?",
+      "question_vn": "Mục đích chính của bài báo là gì?",
+      "explanation": "Bài đặt câu chuyện trên mạng cạnh thực tế khảo sát: \"the stories that freelancers tell online tend to show only the finished product\", rồi lần lượt nêu chi phí thời gian, tiền và kết luận cân bằng."
+    },
+    {
+      "id": "q_u0102_022",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_03",
+      "i18n": {
+        "en": "Why does the writer compare freelancers' online stories to a portfolio?",
+        "vi": "Vì sao người viết so sánh câu chuyện trên mạng của người làm tự do với một bộ hồ sơ năng lực?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to explain that freelancers need a strong portfolio before they can find any clients",
+            "vi": "để giải thích rằng người làm tự do cần hồ sơ năng lực tốt thì mới tìm được khách"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to explain that freelancers need a strong portfolio before they can find any clients",
+          "text_translation": "để giải thích rằng người làm tự do cần hồ sơ năng lực tốt thì mới tìm được khách"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to show that most freelancers post their failed drafts online as well",
+            "vi": "để cho thấy phần lớn người làm tự do cũng đăng cả bản nháp hỏng lên mạng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to show that most freelancers post their failed drafts online as well",
+          "text_translation": "để cho thấy phần lớn người làm tự do cũng đăng cả bản nháp hỏng lên mạng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to suggest that both present a carefully selected picture rather than the whole truth",
+            "vi": "để ngụ ý rằng cả hai đều đưa ra một bức tranh được chọn lọc kỹ chứ không phải toàn bộ sự thật"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to suggest that both present a carefully selected picture rather than the whole truth",
+          "text_translation": "để ngụ ý rằng cả hai đều đưa ra một bức tranh được chọn lọc kỹ chứ không phải toàn bộ sự thật"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to criticize designers who copy other people's work for their portfolios",
+            "vi": "để phê phán những nhà thiết kế chép tác phẩm của người khác vào hồ sơ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to criticize designers who copy other people's work for their portfolios",
+          "text_translation": "để phê phán những nhà thiết kế chép tác phẩm của người khác vào hồ sơ"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"much as a portfolio shows the best work and none of the failed drafts behind it\" — cả hai chỉ trưng phần đẹp nhất, giấu phần còn lại."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer compare freelancers' online stories to a portfolio?",
+      "question_vn": "Vì sao người viết so sánh câu chuyện trên mạng của người làm tự do với một bộ hồ sơ năng lực?",
+      "explanation": "\"much as a portfolio shows the best work and none of the failed drafts behind it\" — cả hai chỉ trưng phần đẹp nhất, giấu phần còn lại."
+    },
+    {
+      "id": "q_u0102_023",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_03",
+      "i18n": {
+        "en": "What did most of the freelancers in the survey say about their independence?",
+        "vi": "Phần lớn người làm tự do trong cuộc khảo sát nói gì về sự độc lập của họ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They were proud of it but planned to return to an office within five years.",
+            "vi": "Họ tự hào về nó nhưng định quay lại văn phòng trong vòng năm năm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They were proud of it but planned to return to an office within five years.",
+          "text_translation": "Họ tự hào về nó nhưng định quay lại văn phòng trong vòng năm năm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They would not give it up for an office job, even if the pay were higher.",
+            "vi": "Họ sẽ không từ bỏ nó để làm văn phòng, kể cả khi lương cao hơn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "They would not give it up for an office job, even if the pay were higher.",
+          "text_translation": "Họ sẽ không từ bỏ nó để làm văn phòng, kể cả khi lương cao hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They valued it less than the paid holidays they used to have.",
+            "vi": "Họ coi trọng nó ít hơn những ngày nghỉ có lương họ từng có."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They valued it less than the paid holidays they used to have.",
+          "text_translation": "Họ coi trọng nó ít hơn những ngày nghỉ có lương họ từng có."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They felt it had been greatly exaggerated by social media.",
+            "vi": "Họ cảm thấy mạng xã hội đã thổi phồng nó quá nhiều."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They felt it had been greatly exaggerated by social media.",
+          "text_translation": "Họ cảm thấy mạng xã hội đã thổi phồng nó quá nhiều."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"nearly four in five said that they would not return to an office even for more money\"."
+      },
+      "audio_data": null,
+      "question_jp": "What did most of the freelancers in the survey say about their independence?",
+      "question_vn": "Phần lớn người làm tự do trong cuộc khảo sát nói gì về sự độc lập của họ?",
+      "explanation": "\"nearly four in five said that they would not return to an office even for more money\"."
+    },
+    {
+      "id": "q_u0102_024",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_03",
+      "i18n": {
+        "en": "What does the graphic designer's remark about being \"my own accountant\" imply?",
+        "vi": "Lời nhận xét của nhà thiết kế đồ hoạ về việc là \"kế toán của chính mình\" hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Freelancers earn more because they no longer need to pay an accountant.",
+            "vi": "Người làm tự do kiếm nhiều hơn vì không còn phải thuê kế toán."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Freelancers earn more because they no longer need to pay an accountant.",
+          "text_translation": "Người làm tự do kiếm nhiều hơn vì không còn phải thuê kế toán."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Freelancers must do many unpaid jobs in addition to the work they are paid for.",
+            "vi": "Người làm tự do phải làm nhiều việc không lương bên cạnh công việc được trả tiền."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Freelancers must do many unpaid jobs in addition to the work they are paid for.",
+          "text_translation": "Người làm tự do phải làm nhiều việc không lương bên cạnh công việc được trả tiền."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The designer has hired several people to handle sales and complaints.",
+            "vi": "Nhà thiết kế đã thuê vài người lo bán hàng và khiếu nại."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The designer has hired several people to handle sales and complaints.",
+          "text_translation": "Nhà thiết kế đã thuê vài người lo bán hàng và khiếu nại."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The designer regrets choosing a career in graphic design.",
+            "vi": "Nhà thiết kế hối hận vì đã chọn nghề thiết kế đồ hoạ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The designer regrets choosing a career in graphic design.",
+          "text_translation": "Nhà thiết kế hối hận vì đã chọn nghề thiết kế đồ hoạ."
+        }
+      ],
+      "evidence_segments": [
+        10,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Câu ngay trước nói về các việc \"that nobody pays for\"; câu đùa \"none of them gets a salary\" nhấn vào việc một người kiêm mọi vai không lương."
+      },
+      "audio_data": null,
+      "question_jp": "What does the graphic designer's remark about being \"my own accountant\" imply?",
+      "question_vn": "Lời nhận xét của nhà thiết kế đồ hoạ về việc là \"kế toán của chính mình\" hàm ý gì?",
+      "explanation": "Câu ngay trước nói về các việc \"that nobody pays for\"; câu đùa \"none of them gets a salary\" nhấn vào việc một người kiêm mọi vai không lương."
+    },
+    {
+      "id": "q_u0102_025",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_03",
+      "i18n": {
+        "en": "According to the article, how does a contractor's situation differ from a salaried employee's?",
+        "vi": "Theo bài báo, hoàn cảnh của người làm theo hợp đồng khác nhân viên hưởng lương thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "A contractor receives a remuneration package that includes sick pay.",
+            "vi": "Người làm hợp đồng nhận gói đãi ngộ có cả lương khi ốm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "A contractor receives a remuneration package that includes sick pay.",
+          "text_translation": "Người làm hợp đồng nhận gói đãi ngộ có cả lương khi ốm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "A contractor is usually paid more for each hour than for each project.",
+            "vi": "Người làm hợp đồng thường được trả theo giờ nhiều hơn theo dự án."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "A contractor is usually paid more for each hour than for each project.",
+          "text_translation": "Người làm hợp đồng thường được trả theo giờ nhiều hơn theo dự án."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "A contractor must save for holidays, sick days and a pension out of each payment.",
+            "vi": "Người làm hợp đồng phải tự để dành cho ngày nghỉ, ngày ốm và lương hưu từ mỗi lần được trả."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "A contractor must save for holidays, sick days and a pension out of each payment.",
+          "text_translation": "Người làm hợp đồng phải tự để dành cho ngày nghỉ, ngày ốm và lương hưu từ mỗi lần được trả."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "A contractor does not need to take holidays because the work is flexible.",
+            "vi": "Người làm hợp đồng không cần nghỉ phép vì công việc linh hoạt."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "A contractor does not need to take holidays because the work is flexible.",
+          "text_translation": "Người làm hợp đồng không cần nghỉ phép vì công việc linh hoạt."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"a contractor has to set aside money for all of these out of every payment\" — \"all of these\" là ngày nghỉ có lương, lương ốm và lương hưu."
+      },
+      "audio_data": null,
+      "question_jp": "According to the article, how does a contractor's situation differ from a salaried employee's?",
+      "question_vn": "Theo bài báo, hoàn cảnh của người làm theo hợp đồng khác nhân viên hưởng lương thế nào?",
+      "explanation": "\"a contractor has to set aside money for all of these out of every payment\" — \"all of these\" là ngày nghỉ có lương, lương ốm và lương hưu."
+    },
+    {
+      "id": "q_u0102_026",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_03",
+      "i18n": {
+        "en": "In the sentence about the translator, what does \"buckled down to\" mean?",
+        "vi": "Trong câu về cô phiên dịch viên, \"buckled down to\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "refused to accept",
+            "vi": "từ chối chấp nhận"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "refused to accept",
+          "text_translation": "từ chối chấp nhận"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "complained loudly about",
+            "vi": "phàn nàn ầm ĩ về"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "complained loudly about",
+          "text_translation": "phàn nàn ầm ĩ về"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "forced herself to work hard at",
+            "vi": "ép bản thân làm việc chăm chỉ"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "forced herself to work hard at",
+          "text_translation": "ép bản thân làm việc chăm chỉ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "slowly reduced",
+            "vi": "dần dần cắt giảm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "slowly reduced",
+          "text_translation": "dần dần cắt giảm"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Cô \"said yes to everything and buckled down to eighty-hour weeks\" — nhận mọi việc rồi lao vào làm những tuần tám mươi giờ."
+      },
+      "audio_data": null,
+      "question_jp": "In the sentence about the translator, what does \"buckled down to\" mean?",
+      "question_vn": "Trong câu về cô phiên dịch viên, \"buckled down to\" nghĩa là gì?",
+      "explanation": "Cô \"said yes to everything and buckled down to eighty-hour weeks\" — nhận mọi việc rồi lao vào làm những tuần tám mươi giờ."
+    },
+    {
+      "id": "q_u0102_027",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_03",
+      "i18n": {
+        "en": "What does the report suggest about a freelancer's first few years?",
+        "vi": "Bản báo cáo ngụ ý gì về vài năm đầu của người làm tự do?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They are a period of learning how to run a business, often at a financial cost.",
+            "vi": "Đó là giai đoạn học cách điều hành kinh doanh, thường phải trả giá về tiền bạc."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "They are a period of learning how to run a business, often at a financial cost.",
+          "text_translation": "Đó là giai đoạn học cách điều hành kinh doanh, thường phải trả giá về tiền bạc."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They are the years when freelancers earn the most and feel most satisfied.",
+            "vi": "Đó là những năm người làm tự do kiếm nhiều nhất và hài lòng nhất."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They are the years when freelancers earn the most and feel most satisfied.",
+          "text_translation": "Đó là những năm người làm tự do kiếm nhiều nhất và hài lòng nhất."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They should be spent in a formal apprenticeship at a large company.",
+            "vi": "Nên dành chúng để học việc chính thức ở một công ty lớn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They should be spent in a formal apprenticeship at a large company.",
+          "text_translation": "Nên dành chúng để học việc chính thức ở một công ty lớn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They show clearly which freelancers have the most talent.",
+            "vi": "Chúng cho thấy rõ người làm tự do nào tài năng nhất."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They show clearly which freelancers have the most talent.",
+          "text_translation": "Chúng cho thấy rõ người làm tự do nào tài năng nhất."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"the early years work as a kind of unpaid apprenticeship in running a business\" — học việc, và không được trả công."
+      },
+      "audio_data": null,
+      "question_jp": "What does the report suggest about a freelancer's first few years?",
+      "question_vn": "Bản báo cáo ngụ ý gì về vài năm đầu của người làm tự do?",
+      "explanation": "\"the early years work as a kind of unpaid apprenticeship in running a business\" — học việc, và không được trả công."
+    },
+    {
+      "id": "q_u0102_028",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_03",
+      "i18n": {
+        "en": "According to the article, what most often separated freelancers who survived from those who gave up?",
+        "vi": "Theo bài báo, điều gì thường phân biệt người làm tự do trụ lại với người bỏ cuộc?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "practical habits such as refusing work and keeping regular clients",
+            "vi": "những thói quen thực tế như biết từ chối việc và giữ khách quen"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "practical habits such as refusing work and keeping regular clients",
+          "text_translation": "những thói quen thực tế như biết từ chối việc và giữ khách quen"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the number of one-off gigs they managed to win each month",
+            "vi": "số việc làm một lần họ giành được mỗi tháng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the number of one-off gigs they managed to win each month",
+          "text_translation": "số việc làm một lần họ giành được mỗi tháng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "whether they had worked in a strict hierarchy before",
+            "vi": "việc họ đã từng làm trong một hệ thống thứ bậc cứng nhắc hay chưa"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "whether they had worked in a strict hierarchy before",
+          "text_translation": "việc họ đã từng làm trong một hệ thống thứ bậc cứng nhắc hay chưa"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "their natural talent and the quality of their portfolios",
+            "vi": "tài năng bẩm sinh và chất lượng hồ sơ năng lực"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "their natural talent and the quality of their portfolios",
+          "text_translation": "tài năng bẩm sinh và chất lượng hồ sơ năng lực"
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "\"What separated those who survived from those who gave up was rarely talent\" — mà là biết nói không, ghi thoả thuận bằng văn bản, giữ khách quen."
+      },
+      "audio_data": null,
+      "question_jp": "According to the article, what most often separated freelancers who survived from those who gave up?",
+      "question_vn": "Theo bài báo, điều gì thường phân biệt người làm tự do trụ lại với người bỏ cuộc?",
+      "explanation": "\"What separated those who survived from those who gave up was rarely talent\" — mà là biết nói không, ghi thoả thuận bằng văn bản, giữ khách quen."
+    },
+    {
+      "id": "q_u0102_029",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_03",
+      "i18n": {
+        "en": "Which statement best describes the writer's attitude toward freelancing?",
+        "vi": "Câu nào mô tả đúng nhất thái độ của người viết đối với nghề tự do?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "strongly against it, because the survey shows it rarely pays",
+            "vi": "phản đối mạnh, vì khảo sát cho thấy nó hiếm khi có lời"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "strongly against it, because the survey shows it rarely pays",
+          "text_translation": "phản đối mạnh, vì khảo sát cho thấy nó hiếm khi có lời"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "enthusiastic, because almost everyone in the survey loved it",
+            "vi": "hào hứng, vì gần như mọi người trong khảo sát đều yêu nó"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "enthusiastic, because almost everyone in the survey loved it",
+          "text_translation": "hào hứng, vì gần như mọi người trong khảo sát đều yêu nó"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "realistic, accepting its rewards while stressing its demands",
+            "vi": "thực tế, công nhận cái được nhưng nhấn mạnh những đòi hỏi của nó"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "realistic, accepting its rewards while stressing its demands",
+          "text_translation": "thực tế, công nhận cái được nhưng nhấn mạnh những đòi hỏi của nó"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "uninterested, since the article only repeats the report's numbers",
+            "vi": "không quan tâm, vì bài chỉ nhắc lại số liệu của báo cáo"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "uninterested, since the article only repeats the report's numbers",
+          "text_translation": "không quan tâm, vì bài chỉ nhắc lại số liệu của báo cáo"
+        }
+      ],
+      "evidence_segments": [
+        16,
+        22
+      ],
+      "explanation_i18n": {
+        "vi": "\"None of this means that freelancing is a mistake\", nhưng kết bài nhắc phải làm \"a dozen things that you may not love at all\" — cân bằng, thực tế."
+      },
+      "audio_data": null,
+      "question_jp": "Which statement best describes the writer's attitude toward freelancing?",
+      "question_vn": "Câu nào mô tả đúng nhất thái độ của người viết đối với nghề tự do?",
+      "explanation": "\"None of this means that freelancing is a mistake\", nhưng kết bài nhắc phải làm \"a dozen things that you may not love at all\" — cân bằng, thực tế."
+    },
+    {
+      "id": "q_u0102_030",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_03",
+      "i18n": {
+        "en": "Why does the report recommend freelancing alongside a regular job for six months?",
+        "vi": "Vì sao báo cáo khuyên làm tự do song song với việc ổn định trong sáu tháng?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "so that employers do not find out that their staff are leaving",
+            "vi": "để chủ lao động không phát hiện nhân viên sắp nghỉ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "so that employers do not find out that their staff are leaving",
+          "text_translation": "để chủ lao động không phát hiện nhân viên sắp nghỉ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "so that people can save enough money to buy their own equipment",
+            "vi": "để người ta tiết kiệm đủ tiền mua thiết bị riêng"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "so that people can save enough money to buy their own equipment",
+          "text_translation": "để người ta tiết kiệm đủ tiền mua thiết bị riêng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "so that people can build a portfolio before telling their clients",
+            "vi": "để người ta xây dựng hồ sơ năng lực trước khi báo khách hàng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "so that people can build a portfolio before telling their clients",
+          "text_translation": "để người ta xây dựng hồ sơ năng lực trước khi báo khách hàng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "so that people can test whether they like the business side of the work",
+            "vi": "để người ta thử xem mình có thích phần kinh doanh của công việc không"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "so that people can test whether they like the business side of the work",
+          "text_translation": "để người ta thử xem mình có thích phần kinh doanh của công việc không"
+        }
+      ],
+      "evidence_segments": [
+        20
+      ],
+      "explanation_i18n": {
+        "vi": "\"thereby discovering whether they enjoy the business side of the work as much as the work itself\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the report recommend freelancing alongside a regular job for six months?",
+      "question_vn": "Vì sao báo cáo khuyên làm tự do song song với việc ổn định trong sáu tháng?",
+      "explanation": "\"thereby discovering whether they enjoy the business side of the work as much as the work itself\"."
+    },
+    {
+      "id": "q_u0102_031",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_04",
+      "i18n": {
+        "en": "What is the main problem described in the letter?",
+        "vi": "Vấn đề chính được kể trong lá thư là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The writer has been asked to reduce the size of her team.",
+            "vi": "Người viết bị yêu cầu cắt giảm quy mô nhóm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The writer has been asked to reduce the size of her team.",
+          "text_translation": "Người viết bị yêu cầu cắt giảm quy mô nhóm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The writer wants to leave the company after four years.",
+            "vi": "Người viết muốn rời công ty sau bốn năm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The writer wants to leave the company after four years.",
+          "text_translation": "Người viết muốn rời công ty sau bốn năm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The writer is unsure how to lead colleagues who used to be her friends.",
+            "vi": "Người viết không biết lãnh đạo những đồng nghiệp từng là bạn mình thế nào."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "The writer is unsure how to lead colleagues who used to be her friends.",
+          "text_translation": "Người viết không biết lãnh đạo những đồng nghiệp từng là bạn mình thế nào."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The writer's manager refuses to give her more people.",
+            "vi": "Quản lý của người viết từ chối cho thêm người."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The writer's manager refuses to give her more people.",
+          "text_translation": "Quản lý của người viết từ chối cho thêm người."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Câu hỏi chốt thư: \"How do I lead people who were my friends without losing them or myself?\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the main problem described in the letter?",
+      "question_vn": "Vấn đề chính được kể trong lá thư là gì?",
+      "explanation": "Câu hỏi chốt thư: \"How do I lead people who were my friends without losing them or myself?\""
+    },
+    {
+      "id": "q_u0102_032",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_04",
+      "i18n": {
+        "en": "What does the phrase \"polite silence\" suggest about the team?",
+        "vi": "Cụm \"polite silence\" gợi ra điều gì về nhóm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They are too busy with their heavy workload to talk to anyone.",
+            "vi": "Họ quá bận với khối lượng việc nặng nên chẳng nói chuyện với ai."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They are too busy with their heavy workload to talk to anyone.",
+          "text_translation": "Họ quá bận với khối lượng việc nặng nên chẳng nói chuyện với ai."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They openly refuse to follow the writer's instructions.",
+            "vi": "Họ công khai từ chối làm theo chỉ thị của người viết."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They openly refuse to follow the writer's instructions.",
+          "text_translation": "Họ công khai từ chối làm theo chỉ thị của người viết."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They have become distant from the writer, although nobody is openly rude.",
+            "vi": "Họ đã trở nên xa cách với người viết, dù không ai thô lỗ ra mặt."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "They have become distant from the writer, although nobody is openly rude.",
+          "text_translation": "Họ đã trở nên xa cách với người viết, dù không ai thô lỗ ra mặt."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They are happier and calmer than they were before the summer.",
+            "vi": "Họ vui vẻ và bình tĩnh hơn trước mùa hè."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They are happier and calmer than they were before the summer.",
+          "text_translation": "Họ vui vẻ và bình tĩnh hơn trước mùa hè."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"the friendly atmosphere has been replaced by something that I can only describe as polite silence\" — không thân thiện nữa nhưng vẫn lịch sự."
+      },
+      "audio_data": null,
+      "question_jp": "What does the phrase \"polite silence\" suggest about the team?",
+      "question_vn": "Cụm \"polite silence\" gợi ra điều gì về nhóm?",
+      "explanation": "\"the friendly atmosphere has been replaced by something that I can only describe as polite silence\" — không thân thiện nữa nhưng vẫn lịch sự."
+    },
+    {
+      "id": "q_u0102_033",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_04",
+      "i18n": {
+        "en": "Why has the writer started doing the most tedious tasks herself?",
+        "vi": "Vì sao người viết bắt đầu tự làm những việc tẻ nhạt nhất?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because she hoped to avoid making the situation worse",
+            "vi": "vì cô hy vọng tránh làm tình hình tệ hơn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because she hoped to avoid making the situation worse",
+          "text_translation": "vì cô hy vọng tránh làm tình hình tệ hơn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because Glen refused to do them",
+            "vi": "vì Glen từ chối làm"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because Glen refused to do them",
+          "text_translation": "vì Glen từ chối làm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because her manager told her to set an example",
+            "vi": "vì quản lý bảo cô làm gương"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because her manager told her to set an example",
+          "text_translation": "vì quản lý bảo cô làm gương"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because nobody else on the team knew how to do them",
+            "vi": "vì không ai khác trong nhóm biết làm"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because nobody else on the team knew how to do them",
+          "text_translation": "vì không ai khác trong nhóm biết làm"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"To avoid making things worse, I have started doing the most tedious tasks myself\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why has the writer started doing the most tedious tasks herself?",
+      "question_vn": "Vì sao người viết bắt đầu tự làm những việc tẻ nhạt nhất?",
+      "explanation": "\"To avoid making things worse, I have started doing the most tedious tasks myself\"."
+    },
+    {
+      "id": "q_u0102_034",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_04",
+      "i18n": {
+        "en": "What does Beverly imply in the first sentence of her reply?",
+        "vi": "Beverly hàm ý gì trong câu đầu tiên của thư trả lời?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The writer's team is unusually difficult to manage.",
+            "vi": "Nhóm của người viết khó quản lý một cách bất thường."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The writer's team is unusually difficult to manage.",
+          "text_translation": "Nhóm của người viết khó quản lý một cách bất thường."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The writer has made too many serious mistakes to recover.",
+            "vi": "Người viết đã phạm quá nhiều lỗi nghiêm trọng để gỡ lại."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The writer has made too many serious mistakes to recover.",
+          "text_translation": "Người viết đã phạm quá nhiều lỗi nghiêm trọng để gỡ lại."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The writer's experience is normal and not a sign that she has failed.",
+            "vi": "Trải nghiệm của người viết là bình thường, không phải dấu hiệu cô đã thất bại."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The writer's experience is normal and not a sign that she has failed.",
+          "text_translation": "Trải nghiệm của người viết là bình thường, không phải dấu hiệu cô đã thất bại."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The writer should go back to her old job as soon as possible.",
+            "vi": "Người viết nên quay lại công việc cũ càng sớm càng tốt."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The writer should go back to her old job as soon as possible.",
+          "text_translation": "Người viết nên quay lại công việc cũ càng sớm càng tốt."
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"what you describe is so common that it barely counts as a problem; it is simply the price of the new job\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does Beverly imply in the first sentence of her reply?",
+      "question_vn": "Beverly hàm ý gì trong câu đầu tiên của thư trả lời?",
+      "explanation": "\"what you describe is so common that it barely counts as a problem; it is simply the price of the new job\"."
+    },
+    {
+      "id": "q_u0102_035",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_04",
+      "i18n": {
+        "en": "In the phrase \"both come from a good place\", what does \"come from a good place\" mean?",
+        "vi": "Trong cụm \"both come from a good place\", \"come from a good place\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "are common in successful companies",
+            "vi": "phổ biến ở những công ty thành công"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "are common in successful companies",
+          "text_translation": "phổ biến ở những công ty thành công"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "are based on good intentions",
+            "vi": "xuất phát từ ý định tốt"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "are based on good intentions",
+          "text_translation": "xuất phát từ ý định tốt"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "were suggested by a good manager",
+            "vi": "được một quản lý giỏi gợi ý"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "were suggested by a good manager",
+          "text_translation": "được một quản lý giỏi gợi ý"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "have produced good results so far",
+            "vi": "tới giờ đã đem lại kết quả tốt"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "have produced good results so far",
+          "text_translation": "tới giờ đã đem lại kết quả tốt"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"two of your choices are making things harder, and both come from a good place\" — sai về cách làm nhưng ý thì tốt (ví dụ coi đó là \"kindness\")."
+      },
+      "audio_data": null,
+      "question_jp": "In the phrase \"both come from a good place\", what does \"come from a good place\" mean?",
+      "question_vn": "Trong cụm \"both come from a good place\", \"come from a good place\" nghĩa là gì?",
+      "explanation": "\"two of your choices are making things harder, and both come from a good place\" — sai về cách làm nhưng ý thì tốt (ví dụ coi đó là \"kindness\")."
+    },
+    {
+      "id": "q_u0102_036",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_04",
+      "i18n": {
+        "en": "According to Beverly, how is the team likely to see the writer doing the tedious work?",
+        "vi": "Theo Beverly, nhóm nhiều khả năng sẽ nhìn việc người viết tự làm việc tẻ nhạt thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "as proof that she is better at the work than they are",
+            "vi": "như bằng chứng cô làm giỏi hơn họ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "as proof that she is better at the work than they are",
+          "text_translation": "như bằng chứng cô làm giỏi hơn họ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "as a generous act that they will soon repay",
+            "vi": "như một hành động hào phóng mà họ sẽ sớm đáp lại"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "as a generous act that they will soon repay",
+          "text_translation": "như một hành động hào phóng mà họ sẽ sớm đáp lại"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "as a sign that she does not trust them",
+            "vi": "như dấu hiệu cô không tin tưởng họ"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "as a sign that she does not trust them",
+          "text_translation": "như dấu hiệu cô không tin tưởng họ"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "as an attempt to impress the company's directors",
+            "vi": "như một cách gây ấn tượng với ban giám đốc"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "as an attempt to impress the company's directors",
+          "text_translation": "như một cách gây ấn tượng với ban giám đốc"
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"your team is likely to read it as a lack of trust\"."
+      },
+      "audio_data": null,
+      "question_jp": "According to Beverly, how is the team likely to see the writer doing the tedious work?",
+      "question_vn": "Theo Beverly, nhóm nhiều khả năng sẽ nhìn việc người viết tự làm việc tẻ nhạt thế nào?",
+      "explanation": "\"your team is likely to read it as a lack of trust\"."
+    },
+    {
+      "id": "q_u0102_037",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_04",
+      "i18n": {
+        "en": "What explanation does Beverly offer for Glen's behavior?",
+        "vi": "Beverly đưa ra lời giải thích nào cho cách cư xử của Glen?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He wanted the promotion himself and is trying to replace her.",
+            "vi": "Anh muốn chính mình được thăng chức và đang tìm cách thay cô."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He wanted the promotion himself and is trying to replace her.",
+          "text_translation": "Anh muốn chính mình được thăng chức và đang tìm cách thay cô."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He has always been quiet and dislikes meetings of any kind.",
+            "vi": "Anh vốn ít nói và ghét mọi cuộc họp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He has always been quiet and dislikes meetings of any kind.",
+          "text_translation": "Anh vốn ít nói và ghét mọi cuộc họp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He is planning to leave and no longer cares about the team.",
+            "vi": "Anh định nghỉ việc và không còn quan tâm tới nhóm."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "He is planning to leave and no longer cares about the team.",
+          "text_translation": "Anh định nghỉ việc và không còn quan tâm tới nhóm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He may be unsure whether his long experience is still valued.",
+            "vi": "Có thể anh không chắc kinh nghiệm lâu năm của mình còn được coi trọng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He may be unsure whether his long experience is still valued.",
+          "text_translation": "Có thể anh không chắc kinh nghiệm lâu năm của mình còn được coi trọng."
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "\"may simply be wondering whether it still counts for anything now that a younger colleague is giving the instructions\"."
+      },
+      "audio_data": null,
+      "question_jp": "What explanation does Beverly offer for Glen's behavior?",
+      "question_vn": "Beverly đưa ra lời giải thích nào cho cách cư xử của Glen?",
+      "explanation": "\"may simply be wondering whether it still counts for anything now that a younger colleague is giving the instructions\"."
+    },
+    {
+      "id": "q_u0102_038",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_04",
+      "i18n": {
+        "en": "What does Beverly mean by \"Respect for his knowledge is not the same as handing him your authority\"?",
+        "vi": "Beverly muốn nói gì qua câu \"Respect for his knowledge is not the same as handing him your authority\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The writer should let Glen make all the important decisions.",
+            "vi": "Người viết nên để Glen ra mọi quyết định quan trọng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The writer should let Glen make all the important decisions.",
+          "text_translation": "Người viết nên để Glen ra mọi quyết định quan trọng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The writer should avoid asking Glen for help in front of others.",
+            "vi": "Người viết nên tránh nhờ Glen giúp trước mặt người khác."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The writer should avoid asking Glen for help in front of others.",
+          "text_translation": "Người viết nên tránh nhờ Glen giúp trước mặt người khác."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The writer can value Glen's expertise and still remain the leader.",
+            "vi": "Người viết có thể trân trọng chuyên môn của Glen mà vẫn giữ vai trò trưởng nhóm."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "The writer can value Glen's expertise and still remain the leader.",
+          "text_translation": "Người viết có thể trân trọng chuyên môn của Glen mà vẫn giữ vai trò trưởng nhóm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The writer must prove that she knows more than Glen does.",
+            "vi": "Người viết phải chứng minh mình biết nhiều hơn Glen."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The writer must prove that she knows more than Glen does.",
+          "text_translation": "Người viết phải chứng minh mình biết nhiều hơn Glen."
+        }
+      ],
+      "evidence_segments": [
+        20
+      ],
+      "explanation_i18n": {
+        "vi": "Nhờ Glen giúp là tôn trọng hiểu biết, nhưng \"is not the same as handing him your authority\" — quyền lãnh đạo vẫn ở người viết."
+      },
+      "audio_data": null,
+      "question_jp": "What does Beverly mean by \"Respect for his knowledge is not the same as handing him your authority\"?",
+      "question_vn": "Beverly muốn nói gì qua câu \"Respect for his knowledge is not the same as handing him your authority\"?",
+      "explanation": "Nhờ Glen giúp là tôn trọng hiểu biết, nhưng \"is not the same as handing him your authority\" — quyền lãnh đạo vẫn ở người viết."
+    },
+    {
+      "id": "q_u0102_039",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_04",
+      "i18n": {
+        "en": "Why does Beverly say the writer cannot be \"the person they complain to about the manager\"?",
+        "vi": "Vì sao Beverly nói người viết không thể là \"người để họ than phiền về quản lý\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because she should stop eating lunch with her team completely",
+            "vi": "vì cô nên thôi hẳn việc ăn trưa với nhóm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because she should stop eating lunch with her team completely",
+          "text_translation": "vì cô nên thôi hẳn việc ăn trưa với nhóm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because she is now the manager they would be complaining about",
+            "vi": "vì giờ chính cô là quản lý mà họ sẽ than phiền"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because she is now the manager they would be complaining about",
+          "text_translation": "vì giờ chính cô là quản lý mà họ sẽ than phiền"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the old manager has asked her to report any complaints",
+            "vi": "vì quản lý cũ đã nhờ cô báo lại mọi lời than phiền"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the old manager has asked her to report any complaints",
+          "text_translation": "vì quản lý cũ đã nhờ cô báo lại mọi lời than phiền"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because complaining at work is against company rules",
+            "vi": "vì than phiền ở chỗ làm là trái nội quy công ty"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because complaining at work is against company rules",
+          "text_translation": "vì than phiền ở chỗ làm là trái nội quy công ty"
+        }
+      ],
+      "evidence_segments": [
+        22
+      ],
+      "explanation_i18n": {
+        "vi": "\"you cannot be the person they complain to about the manager when you are the manager\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Beverly say the writer cannot be \"the person they complain to about the manager\"?",
+      "question_vn": "Vì sao Beverly nói người viết không thể là \"người để họ than phiền về quản lý\"?",
+      "explanation": "\"you cannot be the person they complain to about the manager when you are the manager\"."
+    },
+    {
+      "id": "q_u0102_040",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_04",
+      "i18n": {
+        "en": "Which best describes the tone of Beverly's reply as a whole?",
+        "vi": "Câu nào mô tả đúng nhất giọng điệu của toàn bộ thư trả lời của Beverly?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "reassuring but frank about what the writer should change",
+            "vi": "trấn an nhưng thẳng thắn về những gì người viết cần thay đổi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "reassuring but frank about what the writer should change",
+          "text_translation": "trấn an nhưng thẳng thắn về những gì người viết cần thay đổi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "amused, since she does not take the letter seriously",
+            "vi": "buồn cười, vì bà không coi lá thư là nghiêm túc"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "amused, since she does not take the letter seriously",
+          "text_translation": "buồn cười, vì bà không coi lá thư là nghiêm túc"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "uncertain, since she admits she has no advice to give",
+            "vi": "không chắc chắn, vì bà thừa nhận không có lời khuyên nào"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "uncertain, since she admits she has no advice to give",
+          "text_translation": "không chắc chắn, vì bà thừa nhận không có lời khuyên nào"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "cold and critical, since she blames the writer for the problem",
+            "vi": "lạnh lùng và chỉ trích, vì bà đổ lỗi cho người viết"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "cold and critical, since she blames the writer for the problem",
+          "text_translation": "lạnh lùng và chỉ trích, vì bà đổ lỗi cho người viết"
+        }
+      ],
+      "evidence_segments": [
+        11,
+        13,
+        23
+      ],
+      "explanation_i18n": {
+        "vi": "Mở đầu trấn an (\"let me reassure you\"), rồi chỉ thẳng \"two of your choices are making things harder\", kết bằng lời hứa hẹn sau sáu tháng."
+      },
+      "audio_data": null,
+      "question_jp": "Which best describes the tone of Beverly's reply as a whole?",
+      "question_vn": "Câu nào mô tả đúng nhất giọng điệu của toàn bộ thư trả lời của Beverly?",
+      "explanation": "Mở đầu trấn an (\"let me reassure you\"), rồi chỉ thẳng \"two of your choices are making things harder\", kết bằng lời hứa hẹn sau sáu tháng."
+    },
+    {
+      "id": "q_u0102_041",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_05",
+      "i18n": {
+        "en": "Why does the reviewer call the central idea of the book \"flattering\"?",
+        "vi": "Vì sao người điểm sách gọi ý tưởng trung tâm của cuốn sách là \"flattering\" (dễ nghe, làm người ta thích)?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because Whitlow praises the nurses, pilots and firefighters he studied",
+            "vi": "vì Whitlow ca ngợi những điều dưỡng, phi công và lính cứu hoả ông nghiên cứu"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because Whitlow praises the nurses, pilots and firefighters he studied",
+          "text_translation": "vì Whitlow ca ngợi những điều dưỡng, phi công và lính cứu hoả ông nghiên cứu"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because it tells readers that they already carry a source of wisdom inside them",
+            "vi": "vì nó bảo người đọc rằng họ đã sẵn có một nguồn khôn ngoan bên trong"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because it tells readers that they already carry a source of wisdom inside them",
+          "text_translation": "vì nó bảo người đọc rằng họ đã sẵn có một nguồn khôn ngoan bên trong"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the book has received many positive reviews",
+            "vi": "vì cuốn sách nhận được nhiều lời khen"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the book has received many positive reviews",
+          "text_translation": "vì cuốn sách nhận được nhiều lời khen"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because it suggests that experts make better decisions than ordinary readers",
+            "vi": "vì nó ngụ ý chuyên gia khôn ngoan hơn người đọc bình thường"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because it suggests that experts make better decisions than ordinary readers",
+          "text_translation": "vì nó ngụ ý chuyên gia khôn ngoan hơn người đọc bình thường"
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"somewhere inside each of us is a wise inner voice\" — ý tưởng khiến ai cũng thấy mình đã có sẵn sự khôn ngoan."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the reviewer call the central idea of the book \"flattering\"?",
+      "question_vn": "Vì sao người điểm sách gọi ý tưởng trung tâm của cuốn sách là \"flattering\" (dễ nghe, làm người ta thích)?",
+      "explanation": "\"somewhere inside each of us is a wise inner voice\" — ý tưởng khiến ai cũng thấy mình đã có sẵn sự khôn ngoan."
+    },
+    {
+      "id": "q_u0102_042",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_05",
+      "i18n": {
+        "en": "According to the review, how does Whitlow explain intuition?",
+        "vi": "Theo bài điểm sách, Whitlow giải thích trực giác thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "as a mysterious gift that only a few lucky people have",
+            "vi": "như một món quà bí ẩn chỉ vài người may mắn mới có"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "as a mysterious gift that only a few lucky people have",
+          "text_translation": "như một món quà bí ẩn chỉ vài người may mắn mới có"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "as the brain recognizing small cues learned through long practice",
+            "vi": "như việc bộ não nhận ra những tín hiệu nhỏ học được qua thực hành lâu dài"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "as the brain recognizing small cues learned through long practice",
+          "text_translation": "như việc bộ não nhận ra những tín hiệu nhỏ học được qua thực hành lâu dài"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "as an emotional reaction that should usually be ignored",
+            "vi": "như một phản ứng cảm xúc thường nên bỏ qua"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "as an emotional reaction that should usually be ignored",
+          "text_translation": "như một phản ứng cảm xúc thường nên bỏ qua"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "as a habit that can be learned in a few weeks of training",
+            "vi": "như một thói quen có thể học trong vài tuần luyện tập"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "as a habit that can be learned in a few weeks of training",
+          "text_translation": "như một thói quen có thể học trong vài tuần luyện tập"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"intuition is not magic but memory: after years of practice, the brain learns to notice small cues\"."
+      },
+      "audio_data": null,
+      "question_jp": "According to the review, how does Whitlow explain intuition?",
+      "question_vn": "Theo bài điểm sách, Whitlow giải thích trực giác thế nào?",
+      "explanation": "\"intuition is not magic but memory: after years of practice, the brain learns to notice small cues\"."
+    },
+    {
+      "id": "q_u0102_043",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_05",
+      "i18n": {
+        "en": "According to Kahneman and Klein, which situation allows expert intuition to be trusted?",
+        "vi": "Theo Kahneman và Klein, tình huống nào cho phép tin vào trực giác của chuyên gia?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "one in which two experts have discussed the problem for a long time",
+            "vi": "tình huống mà hai chuyên gia đã bàn về vấn đề trong thời gian dài"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "one in which two experts have discussed the problem for a long time",
+          "text_translation": "tình huống mà hai chuyên gia đã bàn về vấn đề trong thời gian dài"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "one with regular patterns and plenty of practice with quick, clear feedback",
+            "vi": "tình huống có quy luật đều đặn và được thực hành nhiều với phản hồi nhanh, rõ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "one with regular patterns and plenty of practice with quick, clear feedback",
+          "text_translation": "tình huống có quy luật đều đặn và được thực hành nhiều với phản hồi nhanh, rõ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "one in which the person feels very confident about the decision",
+            "vi": "tình huống mà người đó cảm thấy rất tự tin về quyết định"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "one in which the person feels very confident about the decision",
+          "text_translation": "tình huống mà người đó cảm thấy rất tự tin về quyết định"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "one in which there is no time to think carefully before acting",
+            "vi": "tình huống không có thời gian suy nghĩ kỹ trước khi hành động"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "one in which there is no time to think carefully before acting",
+          "text_translation": "tình huống không có thời gian suy nghĩ kỹ trước khi hành động"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"The situation has to be regular enough to contain patterns, and the person must have had plenty of practice with quick, clear feedback\"."
+      },
+      "audio_data": null,
+      "question_jp": "According to Kahneman and Klein, which situation allows expert intuition to be trusted?",
+      "question_vn": "Theo Kahneman và Klein, tình huống nào cho phép tin vào trực giác của chuyên gia?",
+      "explanation": "\"The situation has to be regular enough to contain patterns, and the person must have had plenty of practice with quick, clear feedback\"."
+    },
+    {
+      "id": "q_u0102_044",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_05",
+      "i18n": {
+        "en": "Why does the reviewer compare a firefighter with someone picking shares?",
+        "vi": "Vì sao người điểm sách so sánh một lính cứu hoả với người chọn cổ phiếu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to suggest that firefighters would make good investors",
+            "vi": "để ngụ ý lính cứu hoả sẽ là nhà đầu tư giỏi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to suggest that firefighters would make good investors",
+          "text_translation": "để ngụ ý lính cứu hoả sẽ là nhà đầu tư giỏi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to criticize people who lose money on the stock market",
+            "vi": "để phê phán những người mất tiền trên thị trường chứng khoán"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to criticize people who lose money on the stock market",
+          "text_translation": "để phê phán những người mất tiền trên thị trường chứng khoán"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to illustrate where intuition can be trusted and where it cannot",
+            "vi": "để minh hoạ nơi trực giác đáng tin và nơi nó không đáng tin"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to illustrate where intuition can be trusted and where it cannot",
+          "text_translation": "để minh hoạ nơi trực giác đáng tin và nơi nó không đáng tin"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to show that both jobs require people to make decisions under pressure",
+            "vi": "để cho thấy cả hai nghề đều buộc người ta quyết định dưới áp lực"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to show that both jobs require people to make decisions under pressure",
+          "text_translation": "để cho thấy cả hai nghề đều buộc người ta quyết định dưới áp lực"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "Lính cứu hoả \"meets both conditions\", người chọn cổ phiếu \"meets neither, however confident they may feel\" — hai đầu đối lập của luật hai điều kiện."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the reviewer compare a firefighter with someone picking shares?",
+      "question_vn": "Vì sao người điểm sách so sánh một lính cứu hoả với người chọn cổ phiếu?",
+      "explanation": "Lính cứu hoả \"meets both conditions\", người chọn cổ phiếu \"meets neither, however confident they may feel\" — hai đầu đối lập của luật hai điều kiện."
+    },
+    {
+      "id": "q_u0102_045",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_05",
+      "i18n": {
+        "en": "In context, what does the phrase \"the book loses its way\" mean?",
+        "vi": "Trong ngữ cảnh, cụm \"the book loses its way\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The book becomes less convincing and moves away from its own argument.",
+            "vi": "Cuốn sách kém thuyết phục đi và rời xa lập luận của chính nó."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The book becomes less convincing and moves away from its own argument.",
+          "text_translation": "Cuốn sách kém thuyết phục đi và rời xa lập luận của chính nó."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The book becomes difficult to find in bookshops.",
+            "vi": "Cuốn sách trở nên khó tìm ở hiệu sách."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The book becomes difficult to find in bookshops.",
+          "text_translation": "Cuốn sách trở nên khó tìm ở hiệu sách."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The book changes its subject from nurses to firefighters.",
+            "vi": "Cuốn sách đổi chủ đề từ điều dưỡng sang lính cứu hoả."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The book changes its subject from nurses to firefighters.",
+          "text_translation": "Cuốn sách đổi chủ đề từ điều dưỡng sang lính cứu hoả."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The book stops telling stories and only gives numbers.",
+            "vi": "Cuốn sách thôi kể chuyện và chỉ đưa số liệu."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The book stops telling stories and only gives numbers.",
+          "text_translation": "Cuốn sách thôi kể chuyện và chỉ đưa số liệu."
+        }
+      ],
+      "evidence_segments": [
+        12,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"It is in the second half that the book loses its way\" — ngay sau đó là ví dụ Whitlow đi ngược điều chính ông đã chứng minh."
+      },
+      "audio_data": null,
+      "question_jp": "In context, what does the phrase \"the book loses its way\" mean?",
+      "question_vn": "Trong ngữ cảnh, cụm \"the book loses its way\" nghĩa là gì?",
+      "explanation": "\"It is in the second half that the book loses its way\" — ngay sau đó là ví dụ Whitlow đi ngược điều chính ông đã chứng minh."
+    },
+    {
+      "id": "q_u0102_046",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_05",
+      "i18n": {
+        "en": "Why does the reviewer consider hiring a strange example for Whitlow to use?",
+        "vi": "Vì sao người điểm sách cho rằng tuyển dụng là ví dụ lạ đối với Whitlow?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because it goes against the very conditions that Whitlow himself describes",
+            "vi": "vì nó đi ngược chính những điều kiện mà Whitlow tự mô tả"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because it goes against the very conditions that Whitlow himself describes",
+          "text_translation": "vì nó đi ngược chính những điều kiện mà Whitlow tự mô tả"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because most readers will never need to hire anyone",
+            "vi": "vì phần lớn người đọc sẽ chẳng bao giờ cần tuyển ai"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because most readers will never need to hire anyone",
+          "text_translation": "vì phần lớn người đọc sẽ chẳng bao giờ cần tuyển ai"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because interviewers usually have years of experience and clear feedback",
+            "vi": "vì người phỏng vấn thường có nhiều năm kinh nghiệm và phản hồi rõ ràng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because interviewers usually have years of experience and clear feedback",
+          "text_translation": "vì người phỏng vấn thường có nhiều năm kinh nghiệm và phản hồi rõ ràng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because Whitlow admits that he has never interviewed a job candidate",
+            "vi": "vì Whitlow thừa nhận chưa từng phỏng vấn ứng viên nào"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because Whitlow admits that he has never interviewed a job candidate",
+          "text_translation": "vì Whitlow thừa nhận chưa từng phỏng vấn ứng viên nào"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"it fails both of his own conditions: interviewers rarely find out whether the people they rejected would have done well\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the reviewer consider hiring a strange example for Whitlow to use?",
+      "question_vn": "Vì sao người điểm sách cho rằng tuyển dụng là ví dụ lạ đối với Whitlow?",
+      "explanation": "\"it fails both of his own conditions: interviewers rarely find out whether the people they rejected would have done well\"."
+    },
+    {
+      "id": "q_u0102_047",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_05",
+      "i18n": {
+        "en": "What is the reviewer's main criticism of the evidence in the second half?",
+        "vi": "Lời phê bình chính của người điểm sách về bằng chứng ở nửa sau là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It uses too many numbers and not enough stories.",
+            "vi": "Nó dùng quá nhiều số liệu và quá ít câu chuyện."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It uses too many numbers and not enough stories.",
+          "text_translation": "Nó dùng quá nhiều số liệu và quá ít câu chuyện."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It describes only cases where following a feeling worked out well.",
+            "vi": "Nó chỉ kể những trường hợp đi theo cảm giác mà có kết quả tốt."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It describes only cases where following a feeling worked out well.",
+          "text_translation": "Nó chỉ kể những trường hợp đi theo cảm giác mà có kết quả tốt."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It copies stories from the first half of the book.",
+            "vi": "Nó chép lại các câu chuyện ở nửa đầu cuốn sách."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It copies stories from the first half of the book.",
+          "text_translation": "Nó chép lại các câu chuyện ở nửa đầu cuốn sách."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It relies on research that is more than twenty years old.",
+            "vi": "Nó dựa vào nghiên cứu đã hơn hai mươi năm tuổi."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "It relies on research that is more than twenty years old.",
+          "text_translation": "Nó dựa vào nghiên cứu đã hơn hai mươi năm tuổi."
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"Almost every story in the second half ends with someone whose instinct turned out to be right\"; người thất bại thì không được kể."
+      },
+      "audio_data": null,
+      "question_jp": "What is the reviewer's main criticism of the evidence in the second half?",
+      "question_vn": "Lời phê bình chính của người điểm sách về bằng chứng ở nửa sau là gì?",
+      "explanation": "\"Almost every story in the second half ends with someone whose instinct turned out to be right\"; người thất bại thì không được kể."
+    },
+    {
+      "id": "q_u0102_048",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_05",
+      "i18n": {
+        "en": "What does the reviewer suggest about the cases chosen in the second half?",
+        "vi": "Người điểm sách ngụ ý gì về những trường hợp được chọn ở nửa sau?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They were taken from Whitlow's own career as a firefighter.",
+            "vi": "Chúng được lấy từ chính quãng làm lính cứu hoả của Whitlow."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They were taken from Whitlow's own career as a firefighter.",
+          "text_translation": "Chúng được lấy từ chính quãng làm lính cứu hoả của Whitlow."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They were checked carefully by Kahneman and Klein.",
+            "vi": "Chúng được Kahneman và Klein kiểm tra kỹ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They were checked carefully by Kahneman and Klein.",
+          "text_translation": "Chúng được Kahneman và Klein kiểm tra kỹ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They show that most people's instincts are usually correct.",
+            "vi": "Chúng cho thấy bản năng của phần lớn mọi người thường đúng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They show that most people's instincts are usually correct.",
+          "text_translation": "Chúng cho thấy bản năng của phần lớn mọi người thường đúng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They were probably selected because they make good stories, not because they are typical.",
+            "vi": "Có lẽ chúng được chọn vì là chuyện hay, chứ không phải vì chúng tiêu biểu."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "They were probably selected because they make good stories, not because they are typical.",
+          "text_translation": "Có lẽ chúng được chọn vì là chuyện hay, chứ không phải vì chúng tiêu biểu."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"the cases were chosen because they make a satisfying chapter, not because they are typical\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does the reviewer suggest about the cases chosen in the second half?",
+      "question_vn": "Người điểm sách ngụ ý gì về những trường hợp được chọn ở nửa sau?",
+      "explanation": "\"the cases were chosen because they make a satisfying chapter, not because they are typical\"."
+    },
+    {
+      "id": "q_u0102_049",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_05",
+      "i18n": {
+        "en": "Which best describes the reviewer's overall opinion of the book?",
+        "vi": "Câu nào mô tả đúng nhất đánh giá chung của người điểm sách về cuốn sách?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She thinks it is dangerous and that nobody should read it.",
+            "vi": "Cô cho rằng nó nguy hiểm và không ai nên đọc."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She thinks it is dangerous and that nobody should read it.",
+          "text_translation": "Cô cho rằng nó nguy hiểm và không ai nên đọc."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She admires it without reservation from beginning to end.",
+            "vi": "Cô khen nó không chút dè dặt từ đầu tới cuối."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She admires it without reservation from beginning to end.",
+          "text_translation": "Cô khen nó không chút dè dặt từ đầu tới cuối."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She finds it boring but scientifically accurate throughout.",
+            "vi": "Cô thấy nó nhàm chán nhưng chính xác về khoa học từ đầu tới cuối."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She finds it boring but scientifically accurate throughout.",
+          "text_translation": "Cô thấy nó nhàm chán nhưng chính xác về khoa học từ đầu tới cuối."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She praises the first half but finds the second half unconvincing.",
+            "vi": "Cô khen nửa đầu nhưng thấy nửa sau thiếu thuyết phục."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She praises the first half but finds the second half unconvincing.",
+          "text_translation": "Cô khen nửa đầu nhưng thấy nửa sau thiếu thuyết phục."
+        }
+      ],
+      "evidence_segments": [
+        6,
+        12,
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "\"The first half of the book is excellent\"; nửa sau \"loses its way\"; cô vẫn giới thiệu \"its first five chapters\"."
+      },
+      "audio_data": null,
+      "question_jp": "Which best describes the reviewer's overall opinion of the book?",
+      "question_vn": "Câu nào mô tả đúng nhất đánh giá chung của người điểm sách về cuốn sách?",
+      "explanation": "\"The first half of the book is excellent\"; nửa sau \"loses its way\"; cô vẫn giới thiệu \"its first five chapters\"."
+    },
+    {
+      "id": "q_u0102_050",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_05",
+      "i18n": {
+        "en": "What do the last two sentences of the review suggest?",
+        "vi": "Hai câu cuối của bài điểm sách gợi ra điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Most people never learn to hear their inner voice at all.",
+            "vi": "Phần lớn mọi người không bao giờ học được cách nghe giọng nói nội tâm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Most people never learn to hear their inner voice at all.",
+          "text_translation": "Phần lớn mọi người không bao giờ học được cách nghe giọng nói nội tâm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "A feeling may seem convincing even where it has no experience behind it.",
+            "vi": "Một cảm giác có thể nghe rất thuyết phục kể cả khi không có kinh nghiệm nào đứng sau nó."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "A feeling may seem convincing even where it has no experience behind it.",
+          "text_translation": "Một cảm giác có thể nghe rất thuyết phục kể cả khi không có kinh nghiệm nào đứng sau nó."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Whitlow should change the title of his book to something more exciting.",
+            "vi": "Whitlow nên đổi nhan đề sách thành một cái hấp dẫn hơn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Whitlow should change the title of his book to something more exciting.",
+          "text_translation": "Whitlow nên đổi nhan đề sách thành một cái hấp dẫn hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Intuition is always wrong, so it should be replaced by careful thinking.",
+            "vi": "Trực giác luôn sai, nên phải thay bằng suy nghĩ cẩn thận."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Intuition is always wrong, so it should be replaced by careful thinking.",
+          "text_translation": "Trực giác luôn sai, nên phải thay bằng suy nghĩ cẩn thận."
+        }
+      ],
+      "evidence_segments": [
+        19,
+        20
+      ],
+      "explanation_i18n": {
+        "vi": "\"the signal is clear only where we have spent years learning to hear it\"; chỗ khác chỉ là tiếng ồn \"that happens to feel convincing\"."
+      },
+      "audio_data": null,
+      "question_jp": "What do the last two sentences of the review suggest?",
+      "question_vn": "Hai câu cuối của bài điểm sách gợi ra điều gì?",
+      "explanation": "\"the signal is clear only where we have spent years learning to hear it\"; chỗ khác chỉ là tiếng ồn \"that happens to feel convincing\"."
+    },
+    {
+      "id": "q_u0102_051",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_06",
+      "i18n": {
+        "en": "Why did Mitchell's daughter come home upset?",
+        "vi": "Vì sao con gái Mitchell đi học về buồn bực?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She had worn shoes that did not match for the whole school day.",
+            "vi": "Con bé đã đi giày lệch đôi suốt cả ngày học."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She had worn shoes that did not match for the whole school day.",
+          "text_translation": "Con bé đã đi giày lệch đôi suốt cả ngày học."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "A classmate had made a cruel remark about her shoes in class.",
+            "vi": "Một bạn cùng lớp đã nói một câu ác ý về giày của con bé trong lớp."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "A classmate had made a cruel remark about her shoes in class.",
+          "text_translation": "Một bạn cùng lớp đã nói một câu ác ý về giày của con bé trong lớp."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She had lost one of her shoes during the last lesson.",
+            "vi": "Con bé làm mất một chiếc giày trong tiết cuối."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She had lost one of her shoes during the last lesson.",
+          "text_translation": "Con bé làm mất một chiếc giày trong tiết cuối."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Her teacher had sent her home for breaking the school rules.",
+            "vi": "Giáo viên cho con bé về vì vi phạm nội quy."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Her teacher had sent her home for breaking the school rules.",
+          "text_translation": "Giáo viên cho con bé về vì vi phạm nội quy."
+        }
+      ],
+      "evidence_segments": [
+        3
+      ],
+      "explanation_i18n": {
+        "vi": "\"she had worn two different shoes all day, one black and one dark blue\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why did Mitchell's daughter come home upset?",
+      "question_vn": "Vì sao con gái Mitchell đi học về buồn bực?",
+      "explanation": "\"she had worn two different shoes all day, one black and one dark blue\"."
+    },
+    {
+      "id": "q_u0102_052",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_06",
+      "i18n": {
+        "en": "What does the phrase \"will happily stand up in front of a hundred strangers\" suggest about Tina?",
+        "vi": "Cụm \"will happily stand up in front of a hundred strangers\" gợi ra điều gì về Tina?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is usually confident, which makes her worry about the shoes surprising.",
+            "vi": "Con bé thường tự tin, nên nỗi lo về đôi giày mới bất ngờ."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She is usually confident, which makes her worry about the shoes surprising.",
+          "text_translation": "Con bé thường tự tin, nên nỗi lo về đôi giày mới bất ngờ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She has decided to give a talk about bees next month.",
+            "vi": "Con bé đã quyết định thuyết trình về loài ong vào tháng sau."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She has decided to give a talk about bees next month.",
+          "text_translation": "Con bé đã quyết định thuyết trình về loài ong vào tháng sau."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She prefers talking to strangers rather than to her classmates.",
+            "vi": "Con bé thích nói chuyện với người lạ hơn với bạn cùng lớp."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She prefers talking to strangers rather than to her classmates.",
+          "text_translation": "Con bé thích nói chuyện với người lạ hơn với bạn cùng lớp."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She is shy in every situation, especially in front of crowds.",
+            "vi": "Con bé nhút nhát trong mọi tình huống, nhất là trước đám đông."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She is shy in every situation, especially in front of crowds.",
+          "text_translation": "Con bé nhút nhát trong mọi tình huống, nhất là trước đám đông."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"will happily stand up\" (will chỉ thói quen) đặt cạnh \"can be surprisingly self-conscious about small things like this\" — sự tương phản."
+      },
+      "audio_data": null,
+      "question_jp": "What does the phrase \"will happily stand up in front of a hundred strangers\" suggest about Tina?",
+      "question_vn": "Cụm \"will happily stand up in front of a hundred strangers\" gợi ra điều gì về Tina?",
+      "explanation": "\"will happily stand up\" (will chỉ thói quen) đặt cạnh \"can be surprisingly self-conscious about small things like this\" — sự tương phản."
+    },
+    {
+      "id": "q_u0102_053",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_06",
+      "i18n": {
+        "en": "Why does Mitchell say that he is \"not qualified to explain the human psyche\"?",
+        "vi": "Vì sao Mitchell nói anh \"not qualified to explain the human psyche\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to admit modestly that he is sharing research outside his own field",
+            "vi": "để khiêm tốn thừa nhận anh đang chia sẻ nghiên cứu ngoài chuyên môn của mình"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to admit modestly that he is sharing research outside his own field",
+          "text_translation": "để khiêm tốn thừa nhận anh đang chia sẻ nghiên cứu ngoài chuyên môn của mình"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to criticize psychologists for making the subject too difficult",
+            "vi": "để phê phán các nhà tâm lý học làm chủ đề trở nên quá khó"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to criticize psychologists for making the subject too difficult",
+          "text_translation": "để phê phán các nhà tâm lý học làm chủ đề trở nên quá khó"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to suggest that history teachers understand children better",
+            "vi": "để ngụ ý giáo viên lịch sử hiểu trẻ con hơn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to suggest that history teachers understand children better",
+          "text_translation": "để ngụ ý giáo viên lịch sử hiểu trẻ con hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to explain why he will not give parents any advice",
+            "vi": "để giải thích vì sao anh sẽ không khuyên phụ huynh điều gì"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to explain why he will not give parents any advice",
+          "text_translation": "để giải thích vì sao anh sẽ không khuyên phụ huynh điều gì"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"As a history teacher, I am not qualified to explain the human psyche, but I do know a famous experiment\" — khiêm tốn, rồi vẫn kể nghiên cứu."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Mitchell say that he is \"not qualified to explain the human psyche\"?",
+      "question_vn": "Vì sao Mitchell nói anh \"not qualified to explain the human psyche\"?",
+      "explanation": "\"As a history teacher, I am not qualified to explain the human psyche, but I do know a famous experiment\" — khiêm tốn, rồi vẫn kể nghiên cứu."
+    },
+    {
+      "id": "q_u0102_054",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_06",
+      "i18n": {
+        "en": "What did the Cornell experiment find?",
+        "vi": "Thí nghiệm ở Cornell phát hiện điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Nobody in the room noticed the T-shirt at all.",
+            "vi": "Không ai trong phòng để ý chiếc áo cả."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Nobody in the room noticed the T-shirt at all.",
+          "text_translation": "Không ai trong phòng để ý chiếc áo cả."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The students wearing the shirt overestimated how many people noticed it.",
+            "vi": "Những sinh viên mặc áo đã đánh giá quá cao số người để ý nó."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The students wearing the shirt overestimated how many people noticed it.",
+          "text_translation": "Những sinh viên mặc áo đã đánh giá quá cao số người để ý nó."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "About half of the people in the room remembered the singer's name.",
+            "vi": "Khoảng một nửa số người trong phòng nhớ tên ca sĩ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "About half of the people in the room remembered the singer's name.",
+          "text_translation": "Khoảng một nửa số người trong phòng nhớ tên ca sĩ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Most students in the room laughed at the T-shirt.",
+            "vi": "Phần lớn sinh viên trong phòng cười chiếc áo phông."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Most students in the room laughed at the T-shirt.",
+          "text_translation": "Phần lớn sinh viên trong phòng cười chiếc áo phông."
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "Họ đoán \"about half of the people in the room had noticed it\"; thực tế \"only about half that number had\"."
+      },
+      "audio_data": null,
+      "question_jp": "What did the Cornell experiment find?",
+      "question_vn": "Thí nghiệm ở Cornell phát hiện điều gì?",
+      "explanation": "Họ đoán \"about half of the people in the room had noticed it\"; thực tế \"only about half that number had\"."
+    },
+    {
+      "id": "q_u0102_055",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_06",
+      "i18n": {
+        "en": "According to the column, why does the spotlight effect happen?",
+        "vi": "Theo chuyên mục, vì sao có hiệu ứng ánh đèn sân khấu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because teenagers spend more time looking at each other than adults do",
+            "vi": "vì thiếu niên dành nhiều thời gian nhìn nhau hơn người lớn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because teenagers spend more time looking at each other than adults do",
+          "text_translation": "vì thiếu niên dành nhiều thời gian nhìn nhau hơn người lớn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because bright lights in classrooms make clothes easier to see",
+            "vi": "vì ánh đèn sáng trong lớp khiến quần áo dễ thấy hơn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because bright lights in classrooms make clothes easier to see",
+          "text_translation": "vì ánh đèn sáng trong lớp khiến quần áo dễ thấy hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because people are naturally cruel to those who look different",
+            "vi": "vì con người vốn ác với những ai trông khác biệt"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because people are naturally cruel to those who look different",
+          "text_translation": "vì con người vốn ác với những ai trông khác biệt"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because each of us is at the center of our own attention",
+            "vi": "vì mỗi người là tâm điểm trong sự chú ý của chính mình"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because each of us is at the center of our own attention",
+          "text_translation": "vì mỗi người là tâm điểm trong sự chú ý của chính mình"
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"because we are the very center of our own attention\"."
+      },
+      "audio_data": null,
+      "question_jp": "According to the column, why does the spotlight effect happen?",
+      "question_vn": "Theo chuyên mục, vì sao có hiệu ứng ánh đèn sân khấu?",
+      "explanation": "\"because we are the very center of our own attention\"."
+    },
+    {
+      "id": "q_u0102_056",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_06",
+      "i18n": {
+        "en": "When Tina says \"That will be true for college students\", what does she mean?",
+        "vi": "Khi Tina nói \"That will be true for college students\", con bé muốn nói gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She predicts that the result will become true when she goes to college.",
+            "vi": "Con bé dự đoán kết quả sẽ thành đúng khi con bé vào đại học."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She predicts that the result will become true when she goes to college.",
+          "text_translation": "Con bé dự đoán kết quả sẽ thành đúng khi con bé vào đại học."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She assumes the finding may hold for older students but not for her age group.",
+            "vi": "Con bé cho rằng kết quả có thể đúng với sinh viên lớn hơn nhưng không đúng với lứa tuổi mình."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She assumes the finding may hold for older students but not for her age group.",
+          "text_translation": "Con bé cho rằng kết quả có thể đúng với sinh viên lớn hơn nhưng không đúng với lứa tuổi mình."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She agrees completely that nobody will notice her shoes.",
+            "vi": "Con bé hoàn toàn đồng ý rằng sẽ không ai để ý giày mình."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She agrees completely that nobody will notice her shoes.",
+          "text_translation": "Con bé hoàn toàn đồng ý rằng sẽ không ai để ý giày mình."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She wants to take part in a similar experiment at college.",
+            "vi": "Con bé muốn tham gia một thí nghiệm tương tự ở đại học."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She wants to take part in a similar experiment at college.",
+          "text_translation": "Con bé muốn tham gia một thí nghiệm tương tự ở đại học."
+        }
+      ],
+      "evidence_segments": [
+        13,
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"will\" ở đây là phỏng đoán, không phải tương lai; Mitchell xác nhận \"the original experiment was not done with thirteen-year-olds\"."
+      },
+      "audio_data": null,
+      "question_jp": "When Tina says \"That will be true for college students\", what does she mean?",
+      "question_vn": "Khi Tina nói \"That will be true for college students\", con bé muốn nói gì?",
+      "explanation": "\"will\" ở đây là phỏng đoán, không phải tương lai; Mitchell xác nhận \"the original experiment was not done with thirteen-year-olds\"."
+    },
+    {
+      "id": "q_u0102_057",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_06",
+      "i18n": {
+        "en": "Why does Mitchell describe Tina's reply as \"insightful\"?",
+        "vi": "Vì sao Mitchell gọi câu đáp của Tina là \"insightful\" (sâu sắc)?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because it showed she had read the original study herself",
+            "vi": "vì nó cho thấy con bé đã tự đọc nghiên cứu gốc"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because it showed she had read the original study herself",
+          "text_translation": "vì nó cho thấy con bé đã tự đọc nghiên cứu gốc"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because it pointed out a real limit of the experiment",
+            "vi": "vì nó chỉ ra một giới hạn thật của thí nghiệm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because it pointed out a real limit of the experiment",
+          "text_translation": "vì nó chỉ ra một giới hạn thật của thí nghiệm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because it proved that her classmates were unkind",
+            "vi": "vì nó chứng minh các bạn cùng lớp không tử tế"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because it proved that her classmates were unkind",
+          "text_translation": "vì nó chứng minh các bạn cùng lớp không tử tế"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because it made him change his mind about the research",
+            "vi": "vì nó khiến anh đổi ý về nghiên cứu"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because it made him change his mind about the research",
+          "text_translation": "vì nó khiến anh đổi ý về nghiên cứu"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"It was a fair point, and an insightful one: the original experiment was not done with thirteen-year-olds\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Mitchell describe Tina's reply as \"insightful\"?",
+      "question_vn": "Vì sao Mitchell gọi câu đáp của Tina là \"insightful\" (sâu sắc)?",
+      "explanation": "\"It was a fair point, and an insightful one: the original experiment was not done with thirteen-year-olds\"."
+    },
+    {
+      "id": "q_u0102_058",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_06",
+      "i18n": {
+        "en": "What happened after Tina went back to school?",
+        "vi": "Chuyện gì xảy ra sau khi Tina quay lại trường?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She asked her father to speak to her teacher about the shoes.",
+            "vi": "Con bé nhờ bố nói chuyện với cô giáo về đôi giày."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She asked her father to speak to her teacher about the shoes.",
+          "text_translation": "Con bé nhờ bố nói chuyện với cô giáo về đôi giày."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She refused to go to school until Friday.",
+            "vi": "Con bé không chịu đi học cho tới thứ Sáu."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She refused to go to school until Friday.",
+          "text_translation": "Con bé không chịu đi học cho tới thứ Sáu."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Hardly anyone mentioned it, and some girls even copied her.",
+            "vi": "Hầu như không ai nhắc tới, và vài bạn gái còn bắt chước con bé."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Hardly anyone mentioned it, and some girls even copied her.",
+          "text_translation": "Hầu như không ai nhắc tới, và vài bạn gái còn bắt chước con bé."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Many classmates teased her, so she stopped talking about it.",
+            "vi": "Nhiều bạn trêu nên con bé thôi không nhắc tới nữa."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Many classmates teased her, so she stopped talking about it.",
+          "text_translation": "Nhiều bạn trêu nên con bé thôi không nhắc tới nữa."
+        }
+      ],
+      "evidence_segments": [
+        15,
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"only one friend mentioned the shoes\", và \"two other girls had come to school in odd shoes on purpose\"."
+      },
+      "audio_data": null,
+      "question_jp": "What happened after Tina went back to school?",
+      "question_vn": "Chuyện gì xảy ra sau khi Tina quay lại trường?",
+      "explanation": "\"only one friend mentioned the shoes\", và \"two other girls had come to school in odd shoes on purpose\"."
+    },
+    {
+      "id": "q_u0102_059",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_06",
+      "i18n": {
+        "en": "Why does Mitchell advise parents not to tell children that their worries are silly?",
+        "vi": "Vì sao Mitchell khuyên phụ huynh đừng bảo con rằng nỗi lo của chúng ngớ ngẩn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because children rarely believe what their parents tell them",
+            "vi": "vì trẻ con hiếm khi tin lời bố mẹ"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because children rarely believe what their parents tell them",
+          "text_translation": "vì trẻ con hiếm khi tin lời bố mẹ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the worries usually turn out to be completely true",
+            "vi": "vì những nỗi lo thường hoá ra hoàn toàn đúng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the worries usually turn out to be completely true",
+          "text_translation": "vì những nỗi lo thường hoá ra hoàn toàn đúng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because it can make an insecure child worry about being silly as well",
+            "vi": "vì nó có thể khiến một đứa trẻ thiếu tự tin lo thêm rằng mình ngớ ngẩn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because it can make an insecure child worry about being silly as well",
+          "text_translation": "vì nó có thể khiến một đứa trẻ thiếu tự tin lo thêm rằng mình ngớ ngẩn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because schools have asked parents to avoid that word",
+            "vi": "vì trường đã đề nghị phụ huynh tránh dùng từ đó"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because schools have asked parents to avoid that word",
+          "text_translation": "vì trường đã đề nghị phụ huynh tránh dùng từ đó"
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"being told that a fear is silly only adds a second worry, namely that they must be silly for having it\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Mitchell advise parents not to tell children that their worries are silly?",
+      "question_vn": "Vì sao Mitchell khuyên phụ huynh đừng bảo con rằng nỗi lo của chúng ngớ ngẩn?",
+      "explanation": "\"being told that a fear is silly only adds a second worry, namely that they must be silly for having it\"."
+    },
+    {
+      "id": "q_u0102_060",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0102_06",
+      "i18n": {
+        "en": "What is the main purpose of the question that Mitchell suggests parents ask?",
+        "vi": "Mục đích chính của câu hỏi Mitchell gợi ý phụ huynh đặt ra là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to help the child compare a feeling with what really happened",
+            "vi": "để giúp con so cảm giác của mình với những gì thật sự đã xảy ra"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to help the child compare a feeling with what really happened",
+          "text_translation": "để giúp con so cảm giác của mình với những gì thật sự đã xảy ra"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to show the child that parents know more about school",
+            "vi": "để cho con thấy bố mẹ hiểu trường học hơn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to show the child that parents know more about school",
+          "text_translation": "để cho con thấy bố mẹ hiểu trường học hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to find out which classmates were unkind to the child",
+            "vi": "để tìm ra bạn nào đã không tử tế với con"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to find out which classmates were unkind to the child",
+          "text_translation": "để tìm ra bạn nào đã không tử tế với con"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to avoid having to offer the child any comfort at all",
+            "vi": "để khỏi phải an ủi con chút nào"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to avoid having to offer the child any comfort at all",
+          "text_translation": "để khỏi phải an ủi con chút nào"
+        }
+      ],
+      "evidence_segments": [
+        19,
+        20
+      ],
+      "explanation_i18n": {
+        "vi": "Cảm giác chủ quan \"shrink when you say them out loud and compare them with what actually happened\"; câu hỏi \"how many people actually said anything?\" làm đúng việc đó."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of the question that Mitchell suggests parents ask?",
+      "question_vn": "Mục đích chính của câu hỏi Mitchell gợi ý phụ huynh đặt ra là gì?",
+      "explanation": "Cảm giác chủ quan \"shrink when you say them out loud and compare them with what actually happened\"; câu hỏi \"how many people actually said anything?\" làm đúng việc đó."
     }
   ],
   "question_sets": [
@@ -1995,6 +5854,90 @@
         "q_u0102_018",
         "q_u0102_019",
         "q_u0102_020"
+      ]
+    },
+    {
+      "set_id": "set_u0102_reading_3",
+      "set_type": "reading",
+      "name": "Bài đọc 3 (Unit 1) — Bài báo chuyên đề: cái giá của nghề tự do",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 3,
+      "reading_passage_ref": "passage_u0102_03",
+      "question_ids": [
+        "q_u0102_021",
+        "q_u0102_022",
+        "q_u0102_023",
+        "q_u0102_024",
+        "q_u0102_025",
+        "q_u0102_026",
+        "q_u0102_027",
+        "q_u0102_028",
+        "q_u0102_029",
+        "q_u0102_030"
+      ]
+    },
+    {
+      "set_id": "set_u0102_reading_4",
+      "set_type": "reading",
+      "name": "Bài đọc 4 (Unit 1) — Mục tư vấn: lãnh đạo chính những người bạn cũ",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 4,
+      "reading_passage_ref": "passage_u0102_04",
+      "question_ids": [
+        "q_u0102_031",
+        "q_u0102_032",
+        "q_u0102_033",
+        "q_u0102_034",
+        "q_u0102_035",
+        "q_u0102_036",
+        "q_u0102_037",
+        "q_u0102_038",
+        "q_u0102_039",
+        "q_u0102_040"
+      ]
+    },
+    {
+      "set_id": "set_u0102_reading_5",
+      "set_type": "reading",
+      "name": "Bài đọc 5 (Unit 2) — Bài điểm sách: khi nào nên tin trực giác",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 5,
+      "reading_passage_ref": "passage_u0102_05",
+      "question_ids": [
+        "q_u0102_041",
+        "q_u0102_042",
+        "q_u0102_043",
+        "q_u0102_044",
+        "q_u0102_045",
+        "q_u0102_046",
+        "q_u0102_047",
+        "q_u0102_048",
+        "q_u0102_049",
+        "q_u0102_050"
+      ]
+    },
+    {
+      "set_id": "set_u0102_reading_6",
+      "set_type": "reading",
+      "name": "Bài đọc 6 (Unit 2) — Mitchell viết cho bản tin phụ huynh: không ai nhìn giày con đâu",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 6,
+      "reading_passage_ref": "passage_u0102_06",
+      "question_ids": [
+        "q_u0102_051",
+        "q_u0102_052",
+        "q_u0102_053",
+        "q_u0102_054",
+        "q_u0102_055",
+        "q_u0102_056",
+        "q_u0102_057",
+        "q_u0102_058",
+        "q_u0102_059",
+        "q_u0102_060"
       ]
     }
   ]
