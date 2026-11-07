@@ -29,15 +29,17 @@
     "characters": [
       "Helena Brooks",
       "Nathan Brooks",
-      "Harriet Brooks"
+      "Harriet Brooks",
+      "Chloe Bennett",
+      "Leah Carter"
     ],
     "story_time_i18n": {
       "vi": "tháng 8 – 9, năm 8"
     },
-    "total_passages": 2,
-    "total_questions": 20,
+    "total_passages": 6,
+    "total_questions": 60,
     "focus": "Khen chê đan xen, ngôn ngữ đánh giá, câu hỏi tu từ, so sánh phương án tài chính",
-    "description_vn": "Một nhà phê bình viết về triển lãm tranh đầu tiên của Helena ở thư viện Pine Street, và Nathan lập bản ghi nhớ ba phương án cho tiệm bánh trống bên cạnh quán Harriet's. 2 bài đọc × 10 câu."
+    "description_vn": "Một nhà phê bình viết về triển lãm tranh đầu tiên của Helena, Nathan lập bản ghi nhớ ba phương án cho tiệm bánh trống bên cạnh quán Harriet's; thêm bài phê bình một phim tiếp theo, bài khoa học về âm học phòng hoà nhạc, tóm tắt nghiên cứu \"kế toán tinh thần\" và blog của Chloe về dòng tiền của studio. 6 bài đọc × 10 câu."
   },
   "lesson": {
     "practice_for_i18n": {
@@ -148,6 +150,30 @@
         "i18n": {
           "vi": "cách sắp xếp, thoả thuận"
         }
+      },
+      {
+        "word": "reverberation",
+        "i18n": {
+          "vi": "độ vang (âm thanh)"
+        }
+      },
+      {
+        "word": "shoebox",
+        "i18n": {
+          "vi": "hộp đựng giày"
+        }
+      },
+      {
+        "word": "willpower",
+        "i18n": {
+          "vi": "ý chí"
+        }
+      },
+      {
+        "word": "freelancer",
+        "i18n": {
+          "vi": "người làm tự do"
+        }
       }
     ],
     "phrases": [
@@ -210,6 +236,42 @@
           "en": "lean towards",
           "vi": "nghiêng về"
         }
+      },
+      {
+        "i18n": {
+          "en": "least of all",
+          "vi": "lại càng không"
+        }
+      },
+      {
+        "i18n": {
+          "en": "under her breath",
+          "vi": "khe khẽ, lẩm nhẩm"
+        }
+      },
+      {
+        "i18n": {
+          "en": "could hardly be more different",
+          "vi": "khác nhau một trời một vực"
+        }
+      },
+      {
+        "i18n": {
+          "en": "make little sense",
+          "vi": "chẳng mấy hợp lý"
+        }
+      },
+      {
+        "i18n": {
+          "en": "learn something the hard way",
+          "vi": "học được điều gì theo cách đau đớn"
+        }
+      },
+      {
+        "i18n": {
+          "en": "by all means",
+          "vi": "cứ việc, dĩ nhiên rồi"
+        }
       }
     ],
     "tips": [
@@ -231,6 +293,26 @@
       {
         "i18n": {
           "vi": "Bản ghi nhớ so sánh phương án: chú ý cặp `at its best` / `at its worst`, và câu `not so much A as B` cho biết người viết coi B mới là câu hỏi thật."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài phê bình phim: câu hỏi tu từ ở cuối (`How many sequels can say…?`) thường được tác giả **tự trả lời** ngay (`Not many.`) — đó là lời khen mạnh, không phải câu hỏi thật."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài khoa học phổ thông: đoạn mở bằng **tình huống tưởng tượng** (`Imagine…`) để dẫn vào vấn đề; câu kết của đoạn (`Nothing has changed except the room`) mới là ý chính."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Tóm tắt nghiên cứu: tìm từ chuyển ý `however`, `similarly`, `in other words` để thấy tác giả đang **cân lại** lập luận (mặt hại → mặt lợi)."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Blog trải nghiệm: cặp `on paper` / `in practice` báo hiệu khoảng cách giữa sổ sách và thực tế — câu hỏi suy luận hay rơi vào chỗ này."
         }
       }
     ]
@@ -626,6 +708,1122 @@
         "c1.039",
         "c1.040"
       ]
+    },
+    {
+      "id": "passage_u0910_03",
+      "heading_i18n": {
+        "vi": "Bài đọc 3 (Unit 9) — Bài phê bình phim: phần tiếp theo của một bom tấn mùa hè"
+      },
+      "narrator": "announcer",
+      "title": "Review: \"After the Last Ferry\"",
+      "category": "article",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 300,
+      "word_count": 506,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.033",
+        "c1.036"
+      ],
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Review: \"After the Last Ferry\"",
+            "vi": "Phê bình phim: \"Sau chuyến phà cuối cùng\""
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "By Wesley Pratt, Film Desk. In theaters from Friday.",
+            "vi": "Wesley Pratt, mục Điện ảnh. Ra rạp từ thứ Sáu."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sequels to summer blockbusters rarely deserve the word \"surprise,\" and I went into After the Last Ferry expecting very little.",
+            "vi": "Phần tiếp theo của các bom tấn mùa hè hiếm khi xứng với chữ \"bất ngờ\", và tôi bước vào rạp xem \"Sau chuyến phà cuối cùng\" mà chẳng kỳ vọng mấy."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Three years ago, The Last Ferry, the debut of the screenwriter and director Nora Quinn, became the most riveting thriller of the summer, the story of a ferry captain who must get forty passengers across a stormy bay before the old bridge behind them falls.",
+            "vi": "Ba năm trước, \"Chuyến phà cuối cùng\", tác phẩm đầu tay của biên kịch kiêm đạo diễn Nora Quinn, trở thành bộ phim ly kỳ cuốn hút nhất mùa hè: câu chuyện về một nữ thuyền trưởng phải đưa bốn mươi hành khách vượt vịnh giữa bão trước khi cây cầu cũ phía sau họ sập xuống."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Its success made a sequel almost certain, and sequels that are made because the first film earned a fortune tend to be louder, longer and emptier than the films they follow.",
+            "vi": "Thành công ấy khiến một phần tiếp theo gần như chắc chắn ra đời, mà những phần tiếp theo được làm chỉ vì phần đầu hái ra tiền thường ồn ào hơn, dài hơn và rỗng hơn bộ phim đi trước."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This one is not.",
+            "vi": "Phim này thì không."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Rather than repeating the storm, Quinn's new screenplay begins a year later, when the protagonist, Captain Hazel Alder, is no longer a hero to anyone, least of all to herself.",
+            "vi": "Thay vì lặp lại cơn bão, kịch bản mới của Quinn bắt đầu một năm sau đó, khi nhân vật chính, thuyền trưởng Hazel Alder, không còn là người hùng trong mắt ai nữa, và trong mắt chính cô lại càng không."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The town has built a new bridge, the ferry has been sold, and Hazel spends her days repairing other people's boats and refusing to talk about that night.",
+            "vi": "Thị trấn đã xây một cây cầu mới, chiếc phà đã bị bán, còn Hazel ngày ngày sửa thuyền cho người khác và nhất quyết không nói về đêm hôm ấy."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The heroine of the first film, in other words, has become a woman trying very hard to be forgotten.",
+            "vi": "Nói cách khác, nữ anh hùng của phần một đã trở thành một người phụ nữ cố hết sức để bị lãng quên."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Much of the story is told in flashback, a device that usually slows a film down.",
+            "vi": "Phần lớn câu chuyện được kể bằng hồi tưởng, một thủ pháp thường làm phim chậm lại."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Here it does the opposite.",
+            "vi": "Ở đây nó lại có tác dụng ngược hẳn."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Each return to the night of the storm reveals something the first film left out: a passenger Hazel could not reach, a decision she made in a few seconds and has questioned every day since.",
+            "vi": "Mỗi lần quay lại đêm bão lại hé lộ một điều phần một đã bỏ qua: một hành khách Hazel không với tới được, một quyết định cô đưa ra trong vài giây và ngày nào cũng tự vấn kể từ đó."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "So carefully are these scenes placed that the past seems to be catching up with the present, until the two finally meet in the climax.",
+            "vi": "Những cảnh này được sắp đặt khéo đến mức quá khứ dường như đang đuổi kịp hiện tại, cho tới khi cả hai gặp nhau ở cao trào."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "As for the performances, they are strong across the cast.",
+            "vi": "Còn về diễn xuất, toàn bộ dàn diễn viên đều chắc tay."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Joan Linden, returning as Hazel, gives a portrayal of guilt that is quiet, precise and never sentimental; she does not ask us to pity her, which is exactly why we do.",
+            "vi": "Joan Linden, trở lại với vai Hazel, khắc hoạ cảm giác tội lỗi một cách lặng lẽ, chính xác và không hề uỷ mị; cô không xin khán giả thương hại, và chính vì thế mà ta thương cô."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Her best scene contains almost no dialogue: Hazel, alone in her kitchen, sings an old sea song under her breath, and her voice breaks on the one line she cannot finish.",
+            "vi": "Cảnh hay nhất của cô gần như không có lời thoại: Hazel một mình trong bếp, khe khẽ hát một bài ca biển cũ, và giọng cô vỡ ra ở đúng câu duy nhất cô không hát hết được."
+          }
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The film is not without faults.",
+            "vi": "Bộ phim không phải không có khuyết điểm."
+          }
+        },
+        {
+          "n": 18,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Its climactic scene, a rescue in a second storm, is staged with all the noise and money of the first film, and it feels borrowed from a different, more ordinary movie.",
+            "vi": "Cảnh cao trào, một cuộc giải cứu giữa cơn bão thứ hai, được dàn dựng với đủ cả tiếng ồn lẫn tiền bạc của phần một, và nó như được mượn từ một bộ phim khác, tầm thường hơn."
+          }
+        },
+        {
+          "n": 19,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "After two hours of careful, human drama, I wanted the director to trust her story and tone down the thunder.",
+            "vi": "Sau hai tiếng chính kịch tinh tế và đầy tính người, tôi chỉ mong đạo diễn tin vào câu chuyện của mình và giảm bớt tiếng sấm."
+          }
+        },
+        {
+          "n": 20,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A second story about an insurance investigator is also never finished, as if a whole section of the screenplay had been cut in the editing room.",
+            "vi": "Một mạch truyện phụ về một nhân viên điều tra bảo hiểm cũng bị bỏ dở, như thể cả một phần kịch bản đã bị cắt đi trong phòng dựng phim."
+          }
+        },
+        {
+          "n": 21,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "These are real weaknesses, but small ones.",
+            "vi": "Đó là những điểm yếu thật, nhưng nhỏ."
+          }
+        },
+        {
+          "n": 22,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What stays with you is the film's honest depiction of what happens to people after the cameras have left: the hero who is not sure she was one, the town that would rather celebrate than remember.",
+            "vi": "Điều đọng lại là cách bộ phim khắc hoạ trung thực những gì xảy ra với con người sau khi ống kính đã rời đi: người hùng không chắc mình có phải người hùng, thị trấn thích ăn mừng hơn là nhớ lại."
+          }
+        },
+        {
+          "n": 23,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "How many sequels can say they understood their original better than it understood itself?",
+            "vi": "Có bao nhiêu phần tiếp theo dám nói rằng mình hiểu bản gốc hơn cả chính bản gốc hiểu nó?"
+          }
+        },
+        {
+          "n": 24,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Not many. This much I can promise: go and see it, ideally in a quiet theater, and stay until the final shot.",
+            "vi": "Không nhiều. Điều này thì tôi dám hứa: hãy đi xem, tốt nhất ở một rạp yên tĩnh, và ngồi lại tới cảnh quay cuối cùng."
+          }
+        }
+      ],
+      "content_ja": "Review: \"After the Last Ferry\"\n\nBy Wesley Pratt, Film Desk. In theaters from Friday.\n\nSequels to summer blockbusters rarely deserve the word \"surprise,\" and I went into After the Last Ferry expecting very little. Three years ago, The Last Ferry, the debut of the screenwriter and director Nora Quinn, became the most riveting thriller of the summer, the story of a ferry captain who must get forty passengers across a stormy bay before the old bridge behind them falls. Its success made a sequel almost certain, and sequels that are made because the first film earned a fortune tend to be louder, longer and emptier than the films they follow.\n\nThis one is not. Rather than repeating the storm, Quinn's new screenplay begins a year later, when the protagonist, Captain Hazel Alder, is no longer a hero to anyone, least of all to herself. The town has built a new bridge, the ferry has been sold, and Hazel spends her days repairing other people's boats and refusing to talk about that night. The heroine of the first film, in other words, has become a woman trying very hard to be forgotten.\n\nMuch of the story is told in flashback, a device that usually slows a film down. Here it does the opposite. Each return to the night of the storm reveals something the first film left out: a passenger Hazel could not reach, a decision she made in a few seconds and has questioned every day since. So carefully are these scenes placed that the past seems to be catching up with the present, until the two finally meet in the climax.\n\nAs for the performances, they are strong across the cast. Joan Linden, returning as Hazel, gives a portrayal of guilt that is quiet, precise and never sentimental; she does not ask us to pity her, which is exactly why we do. Her best scene contains almost no dialogue: Hazel, alone in her kitchen, sings an old sea song under her breath, and her voice breaks on the one line she cannot finish.\n\nThe film is not without faults. Its climactic scene, a rescue in a second storm, is staged with all the noise and money of the first film, and it feels borrowed from a different, more ordinary movie. After two hours of careful, human drama, I wanted the director to trust her story and tone down the thunder. A second story about an insurance investigator is also never finished, as if a whole section of the screenplay had been cut in the editing room.\n\nThese are real weaknesses, but small ones. What stays with you is the film's honest depiction of what happens to people after the cameras have left: the hero who is not sure she was one, the town that would rather celebrate than remember. How many sequels can say they understood their original better than it understood itself? Not many. This much I can promise: go and see it, ideally in a quiet theater, and stay until the final shot.",
+      "translation_vn": "(1) Phê bình phim: \"Sau chuyến phà cuối cùng\"\n(2) Wesley Pratt, mục Điện ảnh. Ra rạp từ thứ Sáu.\n(3) Phần tiếp theo của các bom tấn mùa hè hiếm khi xứng với chữ \"bất ngờ\", và tôi bước vào rạp xem \"Sau chuyến phà cuối cùng\" mà chẳng kỳ vọng mấy.\n(4) Ba năm trước, \"Chuyến phà cuối cùng\", tác phẩm đầu tay của biên kịch kiêm đạo diễn Nora Quinn, trở thành bộ phim ly kỳ cuốn hút nhất mùa hè: câu chuyện về một nữ thuyền trưởng phải đưa bốn mươi hành khách vượt vịnh giữa bão trước khi cây cầu cũ phía sau họ sập xuống.\n(5) Thành công ấy khiến một phần tiếp theo gần như chắc chắn ra đời, mà những phần tiếp theo được làm chỉ vì phần đầu hái ra tiền thường ồn ào hơn, dài hơn và rỗng hơn bộ phim đi trước.\n(6) Phim này thì không.\n(7) Thay vì lặp lại cơn bão, kịch bản mới của Quinn bắt đầu một năm sau đó, khi nhân vật chính, thuyền trưởng Hazel Alder, không còn là người hùng trong mắt ai nữa, và trong mắt chính cô lại càng không.\n(8) Thị trấn đã xây một cây cầu mới, chiếc phà đã bị bán, còn Hazel ngày ngày sửa thuyền cho người khác và nhất quyết không nói về đêm hôm ấy.\n(9) Nói cách khác, nữ anh hùng của phần một đã trở thành một người phụ nữ cố hết sức để bị lãng quên.\n(10) Phần lớn câu chuyện được kể bằng hồi tưởng, một thủ pháp thường làm phim chậm lại.\n(11) Ở đây nó lại có tác dụng ngược hẳn.\n(12) Mỗi lần quay lại đêm bão lại hé lộ một điều phần một đã bỏ qua: một hành khách Hazel không với tới được, một quyết định cô đưa ra trong vài giây và ngày nào cũng tự vấn kể từ đó.\n(13) Những cảnh này được sắp đặt khéo đến mức quá khứ dường như đang đuổi kịp hiện tại, cho tới khi cả hai gặp nhau ở cao trào.\n(14) Còn về diễn xuất, toàn bộ dàn diễn viên đều chắc tay.\n(15) Joan Linden, trở lại với vai Hazel, khắc hoạ cảm giác tội lỗi một cách lặng lẽ, chính xác và không hề uỷ mị; cô không xin khán giả thương hại, và chính vì thế mà ta thương cô.\n(16) Cảnh hay nhất của cô gần như không có lời thoại: Hazel một mình trong bếp, khe khẽ hát một bài ca biển cũ, và giọng cô vỡ ra ở đúng câu duy nhất cô không hát hết được.\n(17) Bộ phim không phải không có khuyết điểm.\n(18) Cảnh cao trào, một cuộc giải cứu giữa cơn bão thứ hai, được dàn dựng với đủ cả tiếng ồn lẫn tiền bạc của phần một, và nó như được mượn từ một bộ phim khác, tầm thường hơn.\n(19) Sau hai tiếng chính kịch tinh tế và đầy tính người, tôi chỉ mong đạo diễn tin vào câu chuyện của mình và giảm bớt tiếng sấm.\n(20) Một mạch truyện phụ về một nhân viên điều tra bảo hiểm cũng bị bỏ dở, như thể cả một phần kịch bản đã bị cắt đi trong phòng dựng phim.\n(21) Đó là những điểm yếu thật, nhưng nhỏ.\n(22) Điều đọng lại là cách bộ phim khắc hoạ trung thực những gì xảy ra với con người sau khi ống kính đã rời đi: người hùng không chắc mình có phải người hùng, thị trấn thích ăn mừng hơn là nhớ lại.\n(23) Có bao nhiêu phần tiếp theo dám nói rằng mình hiểu bản gốc hơn cả chính bản gốc hiểu nó?\n(24) Không nhiều. Điều này thì tôi dám hứa: hãy đi xem, tốt nhất ở một rạp yên tĩnh, và ngồi lại tới cảnh quay cuối cùng."
+    },
+    {
+      "id": "passage_u0910_04",
+      "heading_i18n": {
+        "vi": "Bài đọc 4 (Unit 9) — Bài khoa học phổ thông: vì sao có phòng hoà nhạc nghe hay hơn"
+      },
+      "narrator": "announcer",
+      "title": "Why Some Concert Halls Sound Better Than Others",
+      "category": "article",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 300,
+      "word_count": 508,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.034",
+        "c1.035"
+      ],
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why Some Concert Halls Sound Better Than Others",
+            "vi": "Vì sao có phòng hoà nhạc nghe hay hơn phòng khác"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "By Celia Marsh, science writer",
+            "vi": "Celia Marsh, cây bút khoa học"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Imagine hearing the same piano concerto, played by the same orchestra, in two different halls.",
+            "vi": "Hãy tưởng tượng bạn nghe cùng một bản concerto cho piano, do cùng một dàn nhạc chơi, ở hai phòng hoà nhạc khác nhau."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In the first, the music seems to surround you, warm and full, as if the walls themselves were playing.",
+            "vi": "Ở phòng thứ nhất, âm nhạc như bao quanh bạn, ấm và dày, như thể chính những bức tường đang chơi nhạc."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In the second, it sounds thin and distant, and the soft passages almost disappear.",
+            "vi": "Ở phòng thứ hai, tiếng nhạc mỏng và xa, còn những đoạn nhẹ gần như biến mất."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Nothing has changed except the room, and yet the experience could hardly be more different.",
+            "vi": "Không có gì thay đổi ngoài căn phòng, vậy mà trải nghiệm khác nhau một trời một vực."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For most of history, builders achieved good acoustics largely by luck, or by copying halls that already worked.",
+            "vi": "Trong phần lớn lịch sử, người xây dựng có được âm thanh tốt chủ yếu nhờ may mắn, hoặc nhờ bắt chước những phòng đã nghe hay sẵn."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "That changed in 1895, when a young Harvard physics teacher named Wallace Sabine was asked to fix a new lecture hall in which students could barely understand the speaker.",
+            "vi": "Điều đó thay đổi vào năm 1895, khi một giảng viên vật lý trẻ ở Harvard tên Wallace Sabine được nhờ sửa một giảng đường mới mà sinh viên ngồi trong đó hầu như không nghe rõ người giảng."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Working at night, when the building was quiet, Sabine carried hundreds of seat cushions in and out of the room and measured how long a sound took to fade away.",
+            "vi": "Làm việc vào ban đêm, khi toà nhà yên tĩnh, Sabine khuân hàng trăm tấm đệm ghế ra vào căn phòng và đo xem một âm thanh mất bao lâu thì tắt hẳn."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What he discovered was surprisingly simple: the time a sound continues depends on the size of a room and on how much of the sound its surfaces absorb.",
+            "vi": "Điều ông phát hiện ra đơn giản đến bất ngờ: thời gian một âm thanh còn vang phụ thuộc vào kích thước căn phòng và vào lượng âm thanh mà các bề mặt trong phòng hút đi."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This continuing sound, called reverberation, is the key to how a hall sounds.",
+            "vi": "Phần âm thanh còn vang ấy, gọi là độ vang, là chìa khoá quyết định một phòng nghe ra sao."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Too little, and music seems dry and lifeless; too much, and each note runs into the next, so that speech in particular becomes a blur.",
+            "vi": "Vang quá ít thì nhạc nghe khô và thiếu sức sống; vang quá nhiều thì nốt này chồng lên nốt kia, đến mức nhất là lời nói trở thành một mớ nhoè nhoẹt."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For a lecture, about one second is ideal, whereas an orchestra generally sounds best with nearer two.",
+            "vi": "Với một bài giảng, khoảng một giây là lý tưởng, còn một dàn nhạc thường nghe hay nhất với gần hai giây."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Sabine's work so impressed the city's orchestra that he was invited to help design Boston's Symphony Hall, which opened in 1900 and is still praised as one of the best in the world.",
+            "vi": "Công trình của Sabine gây ấn tượng mạnh với dàn nhạc thành phố đến mức ông được mời giúp thiết kế Symphony Hall ở Boston, khánh thành năm 1900 và tới nay vẫn được ca ngợi là một trong những phòng hoà nhạc hay nhất thế giới."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Reverberation, however, is not the whole story.",
+            "vi": "Tuy vậy, độ vang chưa phải là tất cả."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Studies in recent decades suggest that listeners care just as much about where the sound comes from.",
+            "vi": "Các nghiên cứu vài thập kỷ gần đây cho thấy người nghe cũng quan tâm không kém tới việc âm thanh đến từ hướng nào."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In a tall, narrow hall shaped like a shoebox, much of the sound reaches each listener after bouncing off the side walls, and these reflections from the left and right seem to make the music feel richer and more involving.",
+            "vi": "Trong một phòng cao và hẹp như chiếc hộp đựng giày, phần lớn âm thanh tới tai mỗi người nghe sau khi dội vào hai bức tường bên, và những âm phản xạ từ trái và phải ấy dường như khiến âm nhạc rộng hơn và cuốn người nghe hơn."
+          }
+        },
+        {
+          "n": 18,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "This may explain why several of the most admired halls, some of them built long before anyone understood why they worked, share this plain, rectangular shape.",
+            "vi": "Điều này có thể giải thích vì sao vài phòng hoà nhạc được ngưỡng mộ nhất, trong đó có những phòng xây từ rất lâu trước khi có ai hiểu vì sao chúng nghe hay, đều có chung hình chữ nhật giản dị ấy."
+          }
+        },
+        {
+          "n": 19,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Modern architects, perhaps not surprisingly, are reluctant to build only boxes.",
+            "vi": "Chẳng có gì lạ khi các kiến trúc sư hiện đại không muốn chỉ xây những chiếc hộp."
+          }
+        },
+        {
+          "n": 20,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many prefer more adventurous designs, with seats rising in steps all around the stage, which bring the audience nearer to the musicians and are often more aesthetically pleasing.",
+            "vi": "Nhiều người chuộng những thiết kế táo bạo hơn, với hàng ghế dâng lên thành bậc bao quanh sân khấu, giúp khán giả gần nhạc công hơn và thường đẹp mắt hơn."
+          }
+        },
+        {
+          "n": 21,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Such halls can sound wonderful, but they demand far more careful engineering, since the side walls that do so much work in a shoebox are largely missing.",
+            "vi": "Những phòng như vậy có thể nghe tuyệt vời, nhưng đòi hỏi kỹ thuật tính toán cẩn thận hơn nhiều, vì hai bức tường bên vốn làm rất nhiều việc trong một phòng hộp giày thì phần lớn không còn."
+          }
+        },
+        {
+          "n": 22,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Today's designers test their ideas with computer models long before building begins, and many add panels and curtains that can be moved so that the same room can suit a solo acoustic guitar one evening and a full choir singing in unison the next.",
+            "vi": "Các nhà thiết kế ngày nay thử ý tưởng bằng mô hình máy tính từ rất lâu trước khi khởi công, và nhiều người lắp thêm tấm chắn và rèm di động để cùng một căn phòng hợp với một cây guitar mộc độc tấu tối nay và cả một dàn hợp xướng hát đồng thanh tối mai."
+          }
+        },
+        {
+          "n": 23,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "None of this means that great acoustics can be calculated like a bridge.",
+            "vi": "Tất cả những điều này không có nghĩa là âm thanh tuyệt hảo có thể tính toán được như một cây cầu."
+          }
+        },
+        {
+          "n": 24,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Even with all our modern tools, the final test is still a human one: an audience sitting in the dark, listening, and deciding whether the room has disappeared.",
+            "vi": "Dù có đủ mọi công cụ hiện đại, phép thử cuối cùng vẫn là con người: khán giả ngồi trong bóng tối, lắng nghe, và tự thấy căn phòng đã biến mất hay chưa."
+          }
+        }
+      ],
+      "content_ja": "Why Some Concert Halls Sound Better Than Others\n\nBy Celia Marsh, science writer\n\nImagine hearing the same piano concerto, played by the same orchestra, in two different halls. In the first, the music seems to surround you, warm and full, as if the walls themselves were playing. In the second, it sounds thin and distant, and the soft passages almost disappear. Nothing has changed except the room, and yet the experience could hardly be more different.\n\nFor most of history, builders achieved good acoustics largely by luck, or by copying halls that already worked. That changed in 1895, when a young Harvard physics teacher named Wallace Sabine was asked to fix a new lecture hall in which students could barely understand the speaker. Working at night, when the building was quiet, Sabine carried hundreds of seat cushions in and out of the room and measured how long a sound took to fade away. What he discovered was surprisingly simple: the time a sound continues depends on the size of a room and on how much of the sound its surfaces absorb.\n\nThis continuing sound, called reverberation, is the key to how a hall sounds. Too little, and music seems dry and lifeless; too much, and each note runs into the next, so that speech in particular becomes a blur. For a lecture, about one second is ideal, whereas an orchestra generally sounds best with nearer two. Sabine's work so impressed the city's orchestra that he was invited to help design Boston's Symphony Hall, which opened in 1900 and is still praised as one of the best in the world.\n\nReverberation, however, is not the whole story. Studies in recent decades suggest that listeners care just as much about where the sound comes from. In a tall, narrow hall shaped like a shoebox, much of the sound reaches each listener after bouncing off the side walls, and these reflections from the left and right seem to make the music feel richer and more involving. This may explain why several of the most admired halls, some of them built long before anyone understood why they worked, share this plain, rectangular shape.\n\nModern architects, perhaps not surprisingly, are reluctant to build only boxes. Many prefer more adventurous designs, with seats rising in steps all around the stage, which bring the audience nearer to the musicians and are often more aesthetically pleasing. Such halls can sound wonderful, but they demand far more careful engineering, since the side walls that do so much work in a shoebox are largely missing. Today's designers test their ideas with computer models long before building begins, and many add panels and curtains that can be moved so that the same room can suit a solo acoustic guitar one evening and a full choir singing in unison the next.\n\nNone of this means that great acoustics can be calculated like a bridge. Even with all our modern tools, the final test is still a human one: an audience sitting in the dark, listening, and deciding whether the room has disappeared.",
+      "translation_vn": "(1) Vì sao có phòng hoà nhạc nghe hay hơn phòng khác\n(2) Celia Marsh, cây bút khoa học\n(3) Hãy tưởng tượng bạn nghe cùng một bản concerto cho piano, do cùng một dàn nhạc chơi, ở hai phòng hoà nhạc khác nhau.\n(4) Ở phòng thứ nhất, âm nhạc như bao quanh bạn, ấm và dày, như thể chính những bức tường đang chơi nhạc.\n(5) Ở phòng thứ hai, tiếng nhạc mỏng và xa, còn những đoạn nhẹ gần như biến mất.\n(6) Không có gì thay đổi ngoài căn phòng, vậy mà trải nghiệm khác nhau một trời một vực.\n(7) Trong phần lớn lịch sử, người xây dựng có được âm thanh tốt chủ yếu nhờ may mắn, hoặc nhờ bắt chước những phòng đã nghe hay sẵn.\n(8) Điều đó thay đổi vào năm 1895, khi một giảng viên vật lý trẻ ở Harvard tên Wallace Sabine được nhờ sửa một giảng đường mới mà sinh viên ngồi trong đó hầu như không nghe rõ người giảng.\n(9) Làm việc vào ban đêm, khi toà nhà yên tĩnh, Sabine khuân hàng trăm tấm đệm ghế ra vào căn phòng và đo xem một âm thanh mất bao lâu thì tắt hẳn.\n(10) Điều ông phát hiện ra đơn giản đến bất ngờ: thời gian một âm thanh còn vang phụ thuộc vào kích thước căn phòng và vào lượng âm thanh mà các bề mặt trong phòng hút đi.\n(11) Phần âm thanh còn vang ấy, gọi là độ vang, là chìa khoá quyết định một phòng nghe ra sao.\n(12) Vang quá ít thì nhạc nghe khô và thiếu sức sống; vang quá nhiều thì nốt này chồng lên nốt kia, đến mức nhất là lời nói trở thành một mớ nhoè nhoẹt.\n(13) Với một bài giảng, khoảng một giây là lý tưởng, còn một dàn nhạc thường nghe hay nhất với gần hai giây.\n(14) Công trình của Sabine gây ấn tượng mạnh với dàn nhạc thành phố đến mức ông được mời giúp thiết kế Symphony Hall ở Boston, khánh thành năm 1900 và tới nay vẫn được ca ngợi là một trong những phòng hoà nhạc hay nhất thế giới.\n(15) Tuy vậy, độ vang chưa phải là tất cả.\n(16) Các nghiên cứu vài thập kỷ gần đây cho thấy người nghe cũng quan tâm không kém tới việc âm thanh đến từ hướng nào.\n(17) Trong một phòng cao và hẹp như chiếc hộp đựng giày, phần lớn âm thanh tới tai mỗi người nghe sau khi dội vào hai bức tường bên, và những âm phản xạ từ trái và phải ấy dường như khiến âm nhạc rộng hơn và cuốn người nghe hơn.\n(18) Điều này có thể giải thích vì sao vài phòng hoà nhạc được ngưỡng mộ nhất, trong đó có những phòng xây từ rất lâu trước khi có ai hiểu vì sao chúng nghe hay, đều có chung hình chữ nhật giản dị ấy.\n(19) Chẳng có gì lạ khi các kiến trúc sư hiện đại không muốn chỉ xây những chiếc hộp.\n(20) Nhiều người chuộng những thiết kế táo bạo hơn, với hàng ghế dâng lên thành bậc bao quanh sân khấu, giúp khán giả gần nhạc công hơn và thường đẹp mắt hơn.\n(21) Những phòng như vậy có thể nghe tuyệt vời, nhưng đòi hỏi kỹ thuật tính toán cẩn thận hơn nhiều, vì hai bức tường bên vốn làm rất nhiều việc trong một phòng hộp giày thì phần lớn không còn.\n(22) Các nhà thiết kế ngày nay thử ý tưởng bằng mô hình máy tính từ rất lâu trước khi khởi công, và nhiều người lắp thêm tấm chắn và rèm di động để cùng một căn phòng hợp với một cây guitar mộc độc tấu tối nay và cả một dàn hợp xướng hát đồng thanh tối mai.\n(23) Tất cả những điều này không có nghĩa là âm thanh tuyệt hảo có thể tính toán được như một cây cầu.\n(24) Dù có đủ mọi công cụ hiện đại, phép thử cuối cùng vẫn là con người: khán giả ngồi trong bóng tối, lắng nghe, và tự thấy căn phòng đã biến mất hay chưa."
+    },
+    {
+      "id": "passage_u0910_05",
+      "heading_i18n": {
+        "vi": "Bài đọc 5 (Unit 10) — Tóm tắt nghiên cứu: vì sao tiền bất ngờ dễ bị tiêu hoang"
+      },
+      "narrator": "announcer",
+      "title": "Why Unexpected Money Feels Like Free Money",
+      "category": "report",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 300,
+      "word_count": 468,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.038",
+        "c1.039"
+      ],
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why Unexpected Money Feels Like Free Money",
+            "vi": "Vì sao tiền bất ngờ lại giống như tiền cho không"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A research summary for the Money section",
+            "vi": "Bản tóm tắt nghiên cứu cho chuyên mục Tiền bạc"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Suppose you find a hundred-dollar bill in the pocket of an old coat.",
+            "vi": "Giả sử bạn tìm thấy tờ một trăm đô trong túi một chiếc áo khoác cũ."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Would you spend it more freely than a hundred dollars from your salary?",
+            "vi": "Liệu bạn có tiêu nó thoải mái hơn một trăm đô trong tiền lương không?"
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Most people admit that they would, and that small confession sits at the heart of one of the most influential ideas in modern economics.",
+            "vi": "Đa số mọi người thừa nhận là có, và lời thú nhận nhỏ ấy nằm ở trung tâm một trong những ý tưởng có ảnh hưởng nhất của kinh tế học hiện đại."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In the 1980s, the economist Richard Thaler, who would later receive the Nobel Prize, began describing what he called mental accounting.",
+            "vi": "Vào thập niên 1980, nhà kinh tế học Richard Thaler, người về sau nhận giải Nobel, bắt đầu mô tả điều ông gọi là kế toán tinh thần."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "His point was not so much that people are bad with money as that they divide it into separate \"accounts\" in their heads, each with its own rules.",
+            "vi": "Ý ông không hẳn là con người kém trong chuyện tiền bạc, mà là họ chia tiền thành những \"tài khoản\" riêng trong đầu, mỗi tài khoản có luật riêng."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Money for rent is treated seriously, money for a holiday can be spent without guilt, and money that arrives unexpectedly, such as a bonus, a gift or a small inheritance, often feels as if it does not quite count.",
+            "vi": "Tiền thuê nhà được đối xử nghiêm túc, tiền đi nghỉ có thể tiêu mà không áy náy, còn tiền đến bất ngờ, như tiền thưởng, quà tặng hay một khoản thừa kế nhỏ, thường có cảm giác như không hẳn là tiền thật."
+          }
+        },
+        {
+          "n": 9,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In strict economic terms, this makes little sense.",
+            "vi": "Xét chặt chẽ theo kinh tế học, điều này chẳng mấy hợp lý."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A dollar is a dollar wherever it comes from, and a family that splashes out on a new television with a surprise refund is exactly as rich, or as poor, as a family that buys the same television with its salary.",
+            "vi": "Một đô la vẫn là một đô la dù nó từ đâu tới, và một gia đình vung tiền mua tivi mới bằng một khoản hoàn tiền bất ngờ cũng giàu, hay nghèo, y như một gia đình mua chiếc tivi ấy bằng tiền lương."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Yet the habit is remarkably hard to break, and it shapes behavior in more ways than is generally believed.",
+            "vi": "Thế nhưng thói quen này khó bỏ một cách đáng kinh ngạc, và nó định hình hành vi theo nhiều cách hơn người ta thường nghĩ."
+          }
+        },
+        {
+          "n": 12,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Consider investors.",
+            "vi": "Hãy xem các nhà đầu tư."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Researchers have found that people who have just made a profit are often more willing to take risks with it, as if the gains were somehow not really theirs.",
+            "vi": "Các nhà nghiên cứu nhận thấy những người vừa có lãi thường sẵn sàng mạo hiểm với khoản lãi ấy hơn, như thể khoản lãi bằng cách nào đó không thật sự là của họ."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Or consider the many households that keep savings in an account paying almost no interest while paying high interest on a credit card or an overdraft at the same time.",
+            "vi": "Hoặc hãy xem rất nhiều hộ gia đình giữ tiền tiết kiệm trong một tài khoản gần như không có lãi, trong khi cùng lúc trả lãi cao cho thẻ tín dụng hoặc khoản thấu chi."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Paying off the debt would leave them better off, but emptying the \"savings\" account feels like a sacrifice, even though the debt costs them far more than the savings earn.",
+            "vi": "Trả hết nợ sẽ giúp họ khá hơn, nhưng rút cạn tài khoản \"tiết kiệm\" lại có cảm giác như một sự hy sinh, dù khoản nợ tốn của họ nhiều hơn hẳn số lãi mà tiền tiết kiệm sinh ra."
+          }
+        },
+        {
+          "n": 16,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Mental accounting is not entirely foolish, however.",
+            "vi": "Tuy vậy, kế toán tinh thần không hoàn toàn dại dột."
+          }
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Many people use it deliberately as a form of self-control: by labeling one account \"emergency fund\" and refusing to touch it, they build a buffer against sudden changes that willpower alone might never have produced.",
+            "vi": "Nhiều người cố ý dùng nó như một cách tự kiểm soát: bằng việc dán nhãn một tài khoản là \"quỹ khẩn cấp\" và nhất quyết không động vào, họ tạo được một tấm đệm trước những thay đổi đột ngột mà chỉ riêng ý chí có lẽ không bao giờ làm được."
+          }
+        },
+        {
+          "n": 18,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Similarly, someone who receives an inheritance from a grandparent may choose to keep it apart, not for financial reasons but because it carries sentimental value.",
+            "vi": "Tương tự, người nhận một khoản thừa kế từ ông bà có thể chọn để riêng nó ra, không vì lý do tài chính mà vì nó mang giá trị tình cảm."
+          }
+        },
+        {
+          "n": 19,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The rules, in other words, can protect us as well as mislead us.",
+            "vi": "Nói cách khác, những luật ấy có thể bảo vệ ta cũng như đánh lừa ta."
+          }
+        },
+        {
+          "n": 20,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What Thaler's work suggests, then, is not that we should get rid of our mental accounts but that we should notice them.",
+            "vi": "Vậy điều công trình của Thaler gợi ý không phải là ta nên vứt bỏ các tài khoản trong đầu, mà là ta nên nhận ra chúng."
+          }
+        },
+        {
+          "n": 21,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Before spending money you did not expect, it is worth asking a simple question: if this had come from my salary, would I still spend it this way?",
+            "vi": "Trước khi tiêu khoản tiền không ngờ tới, đáng để tự hỏi một câu đơn giản: nếu khoản này đến từ tiền lương, mình có còn tiêu nó như thế không?"
+          }
+        },
+        {
+          "n": 22,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If the answer is no, the money is probably being squandered, not because it was free, but because we treated it as if it were.",
+            "vi": "Nếu câu trả lời là không, có lẽ khoản tiền đang bị phung phí, không phải vì nó là tiền cho không, mà vì ta đối xử với nó như thể nó là thế."
+          }
+        }
+      ],
+      "content_ja": "Why Unexpected Money Feels Like Free Money\n\nA research summary for the Money section\n\nSuppose you find a hundred-dollar bill in the pocket of an old coat. Would you spend it more freely than a hundred dollars from your salary? Most people admit that they would, and that small confession sits at the heart of one of the most influential ideas in modern economics.\n\nIn the 1980s, the economist Richard Thaler, who would later receive the Nobel Prize, began describing what he called mental accounting. His point was not so much that people are bad with money as that they divide it into separate \"accounts\" in their heads, each with its own rules. Money for rent is treated seriously, money for a holiday can be spent without guilt, and money that arrives unexpectedly, such as a bonus, a gift or a small inheritance, often feels as if it does not quite count.\n\nIn strict economic terms, this makes little sense. A dollar is a dollar wherever it comes from, and a family that splashes out on a new television with a surprise refund is exactly as rich, or as poor, as a family that buys the same television with its salary. Yet the habit is remarkably hard to break, and it shapes behavior in more ways than is generally believed.\n\nConsider investors. Researchers have found that people who have just made a profit are often more willing to take risks with it, as if the gains were somehow not really theirs. Or consider the many households that keep savings in an account paying almost no interest while paying high interest on a credit card or an overdraft at the same time. Paying off the debt would leave them better off, but emptying the \"savings\" account feels like a sacrifice, even though the debt costs them far more than the savings earn.\n\nMental accounting is not entirely foolish, however. Many people use it deliberately as a form of self-control: by labeling one account \"emergency fund\" and refusing to touch it, they build a buffer against sudden changes that willpower alone might never have produced. Similarly, someone who receives an inheritance from a grandparent may choose to keep it apart, not for financial reasons but because it carries sentimental value. The rules, in other words, can protect us as well as mislead us.\n\nWhat Thaler's work suggests, then, is not that we should get rid of our mental accounts but that we should notice them. Before spending money you did not expect, it is worth asking a simple question: if this had come from my salary, would I still spend it this way? If the answer is no, the money is probably being squandered, not because it was free, but because we treated it as if it were.",
+      "translation_vn": "(1) Vì sao tiền bất ngờ lại giống như tiền cho không\n(2) Bản tóm tắt nghiên cứu cho chuyên mục Tiền bạc\n(3) Giả sử bạn tìm thấy tờ một trăm đô trong túi một chiếc áo khoác cũ.\n(4) Liệu bạn có tiêu nó thoải mái hơn một trăm đô trong tiền lương không?\n(5) Đa số mọi người thừa nhận là có, và lời thú nhận nhỏ ấy nằm ở trung tâm một trong những ý tưởng có ảnh hưởng nhất của kinh tế học hiện đại.\n(6) Vào thập niên 1980, nhà kinh tế học Richard Thaler, người về sau nhận giải Nobel, bắt đầu mô tả điều ông gọi là kế toán tinh thần.\n(7) Ý ông không hẳn là con người kém trong chuyện tiền bạc, mà là họ chia tiền thành những \"tài khoản\" riêng trong đầu, mỗi tài khoản có luật riêng.\n(8) Tiền thuê nhà được đối xử nghiêm túc, tiền đi nghỉ có thể tiêu mà không áy náy, còn tiền đến bất ngờ, như tiền thưởng, quà tặng hay một khoản thừa kế nhỏ, thường có cảm giác như không hẳn là tiền thật.\n(9) Xét chặt chẽ theo kinh tế học, điều này chẳng mấy hợp lý.\n(10) Một đô la vẫn là một đô la dù nó từ đâu tới, và một gia đình vung tiền mua tivi mới bằng một khoản hoàn tiền bất ngờ cũng giàu, hay nghèo, y như một gia đình mua chiếc tivi ấy bằng tiền lương.\n(11) Thế nhưng thói quen này khó bỏ một cách đáng kinh ngạc, và nó định hình hành vi theo nhiều cách hơn người ta thường nghĩ.\n(12) Hãy xem các nhà đầu tư.\n(13) Các nhà nghiên cứu nhận thấy những người vừa có lãi thường sẵn sàng mạo hiểm với khoản lãi ấy hơn, như thể khoản lãi bằng cách nào đó không thật sự là của họ.\n(14) Hoặc hãy xem rất nhiều hộ gia đình giữ tiền tiết kiệm trong một tài khoản gần như không có lãi, trong khi cùng lúc trả lãi cao cho thẻ tín dụng hoặc khoản thấu chi.\n(15) Trả hết nợ sẽ giúp họ khá hơn, nhưng rút cạn tài khoản \"tiết kiệm\" lại có cảm giác như một sự hy sinh, dù khoản nợ tốn của họ nhiều hơn hẳn số lãi mà tiền tiết kiệm sinh ra.\n(16) Tuy vậy, kế toán tinh thần không hoàn toàn dại dột.\n(17) Nhiều người cố ý dùng nó như một cách tự kiểm soát: bằng việc dán nhãn một tài khoản là \"quỹ khẩn cấp\" và nhất quyết không động vào, họ tạo được một tấm đệm trước những thay đổi đột ngột mà chỉ riêng ý chí có lẽ không bao giờ làm được.\n(18) Tương tự, người nhận một khoản thừa kế từ ông bà có thể chọn để riêng nó ra, không vì lý do tài chính mà vì nó mang giá trị tình cảm.\n(19) Nói cách khác, những luật ấy có thể bảo vệ ta cũng như đánh lừa ta.\n(20) Vậy điều công trình của Thaler gợi ý không phải là ta nên vứt bỏ các tài khoản trong đầu, mà là ta nên nhận ra chúng.\n(21) Trước khi tiêu khoản tiền không ngờ tới, đáng để tự hỏi một câu đơn giản: nếu khoản này đến từ tiền lương, mình có còn tiêu nó như thế không?\n(22) Nếu câu trả lời là không, có lẽ khoản tiền đang bị phung phí, không phải vì nó là tiền cho không, mà vì ta đối xử với nó như thể nó là thế."
+    },
+    {
+      "id": "passage_u0910_06",
+      "heading_i18n": {
+        "vi": "Bài đọc 6 (Unit 10) — Blog của Chloe: bốn tháng mở studio và bài học về dòng tiền"
+      },
+      "narrator": "Chloe",
+      "title": "Four Months In: What Nobody Told Me About Cash Flow",
+      "category": "essay",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 300,
+      "word_count": 501,
+      "audio_url": null,
+      "image_url": null,
+      "curriculum_sheets": [
+        "c1.037",
+        "c1.038",
+        "c1.039"
+      ],
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Four Months In: What Nobody Told Me About Cash Flow",
+            "vi": "Sau bốn tháng: điều không ai nói với tôi về dòng tiền"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Chloe Bennett, on the Bennett Studio blog",
+            "vi": "Chloe Bennett, trên blog của Bennett Studio"
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When I opened Bennett Studio in May, I thought the hardest part would be finding clients.",
+            "vi": "Khi mở Bennett Studio hồi tháng Năm, tôi tưởng phần khó nhất sẽ là tìm khách."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I was wrong. We found clients faster than expected; what nearly sank us in August was getting paid.",
+            "vi": "Tôi đã nhầm. Chúng tôi tìm được khách nhanh hơn dự kiến; thứ suýt nhấn chìm chúng tôi hồi tháng Tám là chuyện được trả tiền."
+          }
+        },
+        {
+          "n": 5,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Here is how it happened.",
+            "vi": "Chuyện xảy ra thế này."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In June we finished three large projects, including a new logo and menu for a restaurant on Ocean Avenue, and I sent out invoices worth just over $11,000.",
+            "vi": "Tháng Sáu chúng tôi làm xong ba dự án lớn, trong đó có logo và thực đơn mới cho một nhà hàng trên đại lộ Ocean, và tôi gửi đi những hoá đơn tổng cộng hơn 11.000 đô một chút."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On paper, it was our best month ever.",
+            "vi": "Trên giấy tờ, đó là tháng tốt nhất từ trước tới nay của chúng tôi."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In practice, the money arrived in pieces: one invoice was paid after forty days, another after sixty, and the third only after I had sent four increasingly polite emails.",
+            "vi": "Trên thực tế, tiền về nhỏ giọt: một hoá đơn được trả sau bốn mươi ngày, một hoá đơn sau sáu mươi ngày, còn hoá đơn thứ ba chỉ được trả sau khi tôi gửi bốn email, cái sau lịch sự hơn cái trước."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Meanwhile, the rent, Ruby's and Sam's pay and the software we depend on all had to be paid on the first of every month, whether our clients had paid us or not.",
+            "vi": "Trong khi đó, tiền thuê chỗ, lương của Ruby và Sam, và phần mềm chúng tôi phụ thuộc vào đều phải trả vào ngày đầu mỗi tháng, dù khách đã trả chúng tôi hay chưa."
+          }
+        },
+        {
+          "n": 10,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "By the middle of August, I had racked up a bank overdraft that I was ashamed to tell anyone about, Ruby included.",
+            "vi": "Tới giữa tháng Tám, tôi đã dồn lên một khoản thấu chi ngân hàng mà tôi xấu hổ không dám kể với ai, kể cả Ruby."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Although the studio was profitable on paper, we were, for about three weeks, almost out of cash.",
+            "vi": "Dù trên giấy tờ studio có lãi, suốt khoảng ba tuần chúng tôi gần như cạn tiền mặt."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "That is the difference between profit and cash flow, and nobody at art school ever explained it to me.",
+            "vi": "Đó chính là khác biệt giữa lợi nhuận và dòng tiền, và hồi học trường mỹ thuật chưa ai từng giải thích cho tôi điều đó."
+          }
+        },
+        {
+          "n": 13,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My best friend Leah, who is far better with spreadsheets than I am, sat with me one evening and helped me make four changes.",
+            "vi": "Leah, bạn thân của tôi, người giỏi bảng tính hơn tôi nhiều, đã ngồi với tôi một buổi tối và giúp tôi thay đổi bốn điều."
+          }
+        },
+        {
+          "n": 14,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I share them here because I suspect I am not the only freelancer who has learned this the hard way.",
+            "vi": "Tôi chia sẻ ở đây vì tôi đoán mình không phải người làm tự do duy nhất phải học bài này theo cách đau đớn."
+          }
+        },
+        {
+          "n": 15,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "1.",
+          "i18n": {
+            "en": "We now ask for half of the fee before we start any project worth more than $1,000; prospective clients who refuse to pay anything in advance are, in my estimation, telling us something useful.",
+            "vi": "Giờ chúng tôi yêu cầu trả trước một nửa phí trước khi bắt đầu bất kỳ dự án nào trên 1.000 đô; theo đánh giá của tôi, những khách tiềm năng không chịu trả trước đồng nào đang cho chúng tôi biết một điều có ích."
+          }
+        },
+        {
+          "n": 16,
+          "para": 8,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "2.",
+          "i18n": {
+            "en": "Every invoice is issued on the day the work is delivered, not when I find time, and payment is due in fourteen days rather than thirty.",
+            "vi": "Mọi hoá đơn được xuất ngay trong ngày giao sản phẩm, chứ không phải khi nào tôi rảnh, và hạn thanh toán là mười bốn ngày thay vì ba mươi."
+          }
+        },
+        {
+          "n": 17,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "3.",
+          "i18n": {
+            "en": "We set aside a fixed fraction of every payment, currently fifteen percent, in a separate account that nobody is allowed to touch.",
+            "vi": "Chúng tôi trích một phần cố định của mỗi khoản thanh toán, hiện là mười lăm phần trăm, vào một tài khoản riêng mà tôi coi là không được đụng tới."
+          }
+        },
+        {
+          "n": 18,
+          "para": 9,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It is our buffer for the slack season, which for designers usually arrives in January, when clients have spent their budgets.",
+            "vi": "Đó là tấm đệm của chúng tôi cho mùa ế khách, mà với dân thiết kế thường tới vào tháng Một, khi khách đã tiêu hết ngân sách."
+          }
+        },
+        {
+          "n": 19,
+          "para": 10,
+          "kind": "sentence",
+          "speaker": null,
+          "label": "4.",
+          "i18n": {
+            "en": "I stopped saying yes to every job, because a small project from a difficult client can cost more in time and stress than it earns, however good it looks in our portfolio.",
+            "vi": "Tôi thôi nhận mọi việc, vì một dự án nhỏ từ một khách khó tính có thể tốn nhiều thời gian và căng thẳng hơn số tiền nó mang lại, dù nó trông đẹp đến đâu trong hồ sơ năng lực của chúng tôi."
+          }
+        },
+        {
+          "n": 20,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "None of this is exciting, and it has meant some sacrifices: we have put off buying a second large printer, and I no longer splash out on lunch for the team every Friday, much to Sam's disappointment.",
+            "vi": "Chẳng điều nào trong số này thú vị cả, và nó cũng đòi hỏi vài hy sinh: chúng tôi đã hoãn mua chiếc máy in khổ lớn thứ hai, và tôi không còn chiêu đãi cả nhóm bữa trưa mỗi thứ Sáu nữa, khiến Sam rất tiếc nuối."
+          }
+        },
+        {
+          "n": 21,
+          "para": 11,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "But since we made these changes, our income has been only marginally higher, and yet I sleep far better, and our account has not gone below zero once.",
+            "vi": "Nhưng từ khi thay đổi, thu nhập của chúng tôi chỉ nhích lên chút ít, vậy mà tôi ngủ ngon hơn hẳn, và tài khoản chưa một lần xuống dưới số không."
+          }
+        },
+        {
+          "n": 22,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If you are thinking of opening your own studio, by all means work on your portfolio and your prices, but learn to love the boring spreadsheet as well.",
+            "vi": "Nếu bạn đang tính mở studio riêng, cứ việc chăm chút hồ sơ năng lực và bảng giá, nhưng hãy học cách yêu cả bảng tính nhàm chán nữa."
+          }
+        },
+        {
+          "n": 23,
+          "para": 12,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A studio rarely closes because its work is bad; far more often, it closes because the money arrived too late.",
+            "vi": "Một studio hiếm khi đóng cửa vì làm việc kém; thường hơn nhiều, nó đóng cửa vì tiền về quá muộn."
+          }
+        }
+      ],
+      "content_ja": "Four Months In: What Nobody Told Me About Cash Flow\n\nChloe Bennett, on the Bennett Studio blog\n\nWhen I opened Bennett Studio in May, I thought the hardest part would be finding clients. I was wrong. We found clients faster than expected; what nearly sank us in August was getting paid.\n\nHere is how it happened. In June we finished three large projects, including a new logo and menu for a restaurant on Ocean Avenue, and I sent out invoices worth just over $11,000. On paper, it was our best month ever. In practice, the money arrived in pieces: one invoice was paid after forty days, another after sixty, and the third only after I had sent four increasingly polite emails. Meanwhile, the rent, Ruby's and Sam's pay and the software we depend on all had to be paid on the first of every month, whether our clients had paid us or not.\n\nBy the middle of August, I had racked up a bank overdraft that I was ashamed to tell anyone about, Ruby included. Although the studio was profitable on paper, we were, for about three weeks, almost out of cash. That is the difference between profit and cash flow, and nobody at art school ever explained it to me.\n\nMy best friend Leah, who is far better with spreadsheets than I am, sat with me one evening and helped me make four changes. I share them here because I suspect I am not the only freelancer who has learned this the hard way.\n\n1. We now ask for half of the fee before we start any project worth more than $1,000; prospective clients who refuse to pay anything in advance are, in my estimation, telling us something useful.\n\n2. Every invoice is issued on the day the work is delivered, not when I find time, and payment is due in fourteen days rather than thirty.\n\n3. We set aside a fixed fraction of every payment, currently fifteen percent, in a separate account that nobody is allowed to touch. It is our buffer for the slack season, which for designers usually arrives in January, when clients have spent their budgets.\n\n4. I stopped saying yes to every job, because a small project from a difficult client can cost more in time and stress than it earns, however good it looks in our portfolio.\n\nNone of this is exciting, and it has meant some sacrifices: we have put off buying a second large printer, and I no longer splash out on lunch for the team every Friday, much to Sam's disappointment. But since we made these changes, our income has been only marginally higher, and yet I sleep far better, and our account has not gone below zero once.\n\nIf you are thinking of opening your own studio, by all means work on your portfolio and your prices, but learn to love the boring spreadsheet as well. A studio rarely closes because its work is bad; far more often, it closes because the money arrived too late.",
+      "translation_vn": "(1) Sau bốn tháng: điều không ai nói với tôi về dòng tiền\n(2) Chloe Bennett, trên blog của Bennett Studio\n(3) Khi mở Bennett Studio hồi tháng Năm, tôi tưởng phần khó nhất sẽ là tìm khách.\n(4) Tôi đã nhầm. Chúng tôi tìm được khách nhanh hơn dự kiến; thứ suýt nhấn chìm chúng tôi hồi tháng Tám là chuyện được trả tiền.\n(5) Chuyện xảy ra thế này.\n(6) Tháng Sáu chúng tôi làm xong ba dự án lớn, trong đó có logo và thực đơn mới cho một nhà hàng trên đại lộ Ocean, và tôi gửi đi những hoá đơn tổng cộng hơn 11.000 đô một chút.\n(7) Trên giấy tờ, đó là tháng tốt nhất từ trước tới nay của chúng tôi.\n(8) Trên thực tế, tiền về nhỏ giọt: một hoá đơn được trả sau bốn mươi ngày, một hoá đơn sau sáu mươi ngày, còn hoá đơn thứ ba chỉ được trả sau khi tôi gửi bốn email, cái sau lịch sự hơn cái trước.\n(9) Trong khi đó, tiền thuê chỗ, lương của Ruby và Sam, và phần mềm chúng tôi phụ thuộc vào đều phải trả vào ngày đầu mỗi tháng, dù khách đã trả chúng tôi hay chưa.\n(10) Tới giữa tháng Tám, tôi đã dồn lên một khoản thấu chi ngân hàng mà tôi xấu hổ không dám kể với ai, kể cả Ruby.\n(11) Dù trên giấy tờ studio có lãi, suốt khoảng ba tuần chúng tôi gần như cạn tiền mặt.\n(12) Đó chính là khác biệt giữa lợi nhuận và dòng tiền, và hồi học trường mỹ thuật chưa ai từng giải thích cho tôi điều đó.\n(13) Leah, bạn thân của tôi, người giỏi bảng tính hơn tôi nhiều, đã ngồi với tôi một buổi tối và giúp tôi thay đổi bốn điều.\n(14) Tôi chia sẻ ở đây vì tôi đoán mình không phải người làm tự do duy nhất phải học bài này theo cách đau đớn.\n(15) Giờ chúng tôi yêu cầu trả trước một nửa phí trước khi bắt đầu bất kỳ dự án nào trên 1.000 đô; theo đánh giá của tôi, những khách tiềm năng không chịu trả trước đồng nào đang cho chúng tôi biết một điều có ích.\n(16) Mọi hoá đơn được xuất ngay trong ngày giao sản phẩm, chứ không phải khi nào tôi rảnh, và hạn thanh toán là mười bốn ngày thay vì ba mươi.\n(17) Chúng tôi trích một phần cố định của mỗi khoản thanh toán, hiện là mười lăm phần trăm, vào một tài khoản riêng mà tôi coi là không được đụng tới.\n(18) Đó là tấm đệm của chúng tôi cho mùa ế khách, mà với dân thiết kế thường tới vào tháng Một, khi khách đã tiêu hết ngân sách.\n(19) Tôi thôi nhận mọi việc, vì một dự án nhỏ từ một khách khó tính có thể tốn nhiều thời gian và căng thẳng hơn số tiền nó mang lại, dù nó trông đẹp đến đâu trong hồ sơ năng lực của chúng tôi.\n(20) Chẳng điều nào trong số này thú vị cả, và nó cũng đòi hỏi vài hy sinh: chúng tôi đã hoãn mua chiếc máy in khổ lớn thứ hai, và tôi không còn chiêu đãi cả nhóm bữa trưa mỗi thứ Sáu nữa, khiến Sam rất tiếc nuối.\n(21) Nhưng từ khi thay đổi, thu nhập của chúng tôi chỉ nhích lên chút ít, vậy mà tôi ngủ ngon hơn hẳn, và tài khoản chưa một lần xuống dưới số không.\n(22) Nếu bạn đang tính mở studio riêng, cứ việc chăm chút hồ sơ năng lực và bảng giá, nhưng hãy học cách yêu cả bảng tính nhàm chán nữa.\n(23) Một studio hiếm khi đóng cửa vì làm việc kém; thường hơn nhiều, nó đóng cửa vì tiền về quá muộn."
     }
   ],
   "questions": [
@@ -1992,6 +3190,2738 @@
       "question_jp": "Use both texts. What advice do the critic and Nathan both give, in different ways?",
       "question_vn": "Dựa vào cả hai bài. Nhà phê bình và Nathan đều đưa lời khuyên gì, theo cách khác nhau?",
       "explanation": "Câu nối hai bài. Nhà phê bình khuyên Helena hãy tin vào những điều nhỏ bé thay vì tranh khổ lớn; Nathan viết \"Option B makes it more of what it already is\"."
+    },
+    {
+      "id": "q_u0910_021",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_03",
+      "i18n": {
+        "en": "What did the reviewer expect before watching the film?",
+        "vi": "Trước khi xem phim, người viết đã kỳ vọng thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "very little, because most sequels to big hits disappoint",
+            "vi": "rất ít, vì phần lớn phần tiếp theo của phim ăn khách đều gây thất vọng"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "very little, because most sequels to big hits disappoint",
+          "text_translation": "rất ít, vì phần lớn phần tiếp theo của phim ăn khách đều gây thất vọng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "a film even more exciting than the original",
+            "vi": "một bộ phim còn hấp dẫn hơn bản gốc"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "a film even more exciting than the original",
+          "text_translation": "một bộ phim còn hấp dẫn hơn bản gốc"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "a quiet drama with no storm scenes at all",
+            "vi": "một phim chính kịch lặng lẽ không có cảnh bão nào"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "a quiet drama with no storm scenes at all",
+          "text_translation": "một phim chính kịch lặng lẽ không có cảnh bão nào"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "a new version of the first film with a different director",
+            "vi": "một bản làm lại phần một với đạo diễn mới"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "a new version of the first film with a different director",
+          "text_translation": "một bản làm lại phần một với đạo diễn mới"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"I went into After the Last Ferry expecting very little\" — vì theo ông, các phần tiếp theo thường \"louder, longer and emptier\"."
+      },
+      "audio_data": null,
+      "question_jp": "What did the reviewer expect before watching the film?",
+      "question_vn": "Trước khi xem phim, người viết đã kỳ vọng thế nào?",
+      "explanation": "\"I went into After the Last Ferry expecting very little\" — vì theo ông, các phần tiếp theo thường \"louder, longer and emptier\"."
+    },
+    {
+      "id": "q_u0910_022",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_03",
+      "i18n": {
+        "en": "What does the reviewer suggest about sequels that exist mainly because the first film \"earned a fortune\"?",
+        "vi": "Người viết ngụ ý gì về những phần tiếp theo ra đời chủ yếu vì phần đầu \"hái ra tiền\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They are usually made by younger, less experienced directors.",
+            "vi": "Chúng thường do các đạo diễn trẻ, ít kinh nghiệm làm."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They are usually made by younger, less experienced directors.",
+          "text_translation": "Chúng thường do các đạo diễn trẻ, ít kinh nghiệm làm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They usually cost less to make than the original film.",
+            "vi": "Chúng thường tốn ít tiền làm hơn bản gốc."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They usually cost less to make than the original film.",
+          "text_translation": "Chúng thường tốn ít tiền làm hơn bản gốc."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They usually receive better reviews than the original film.",
+            "vi": "Chúng thường được phê bình tốt hơn bản gốc."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They usually receive better reviews than the original film.",
+          "text_translation": "Chúng thường được phê bình tốt hơn bản gốc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They are usually driven by money rather than by a story worth telling.",
+            "vi": "Chúng thường được thúc đẩy bởi tiền chứ không phải bởi một câu chuyện đáng kể."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "They are usually driven by money rather than by a story worth telling.",
+          "text_translation": "Chúng thường được thúc đẩy bởi tiền chứ không phải bởi một câu chuyện đáng kể."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"sequels that are made because the first film earned a fortune tend to be louder, longer and emptier\" — làm vì tiền nên thường rỗng nội dung (suy luận)."
+      },
+      "audio_data": null,
+      "question_jp": "What does the reviewer suggest about sequels that exist mainly because the first film \"earned a fortune\"?",
+      "question_vn": "Người viết ngụ ý gì về những phần tiếp theo ra đời chủ yếu vì phần đầu \"hái ra tiền\"?",
+      "explanation": "\"sequels that are made because the first film earned a fortune tend to be louder, longer and emptier\" — làm vì tiền nên thường rỗng nội dung (suy luận)."
+    },
+    {
+      "id": "q_u0910_023",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_03",
+      "i18n": {
+        "en": "How has Hazel changed since the first film?",
+        "vi": "Hazel đã thay đổi thế nào kể từ phần một?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She has become famous and travels the country telling her story.",
+            "vi": "Cô đã nổi tiếng và đi khắp nước kể chuyện của mình."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She has become famous and travels the country telling her story.",
+          "text_translation": "Cô đã nổi tiếng và đi khắp nước kể chuyện của mình."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She now avoids attention and does not want to discuss the storm.",
+            "vi": "Giờ cô tránh sự chú ý và không muốn nói về cơn bão."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "She now avoids attention and does not want to discuss the storm.",
+          "text_translation": "Giờ cô tránh sự chú ý và không muốn nói về cơn bão."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She has bought a new ferry and returned to her old job.",
+            "vi": "Cô đã mua phà mới và quay lại công việc cũ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She has bought a new ferry and returned to her old job.",
+          "text_translation": "Cô đã mua phà mới và quay lại công việc cũ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She has left the town and refuses to repair boats any more.",
+            "vi": "Cô đã rời thị trấn và không sửa thuyền nữa."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She has left the town and refuses to repair boats any more.",
+          "text_translation": "Cô đã rời thị trấn và không sửa thuyền nữa."
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"refusing to talk about that night\" và \"a woman trying very hard to be forgotten\"."
+      },
+      "audio_data": null,
+      "question_jp": "How has Hazel changed since the first film?",
+      "question_vn": "Hazel đã thay đổi thế nào kể từ phần một?",
+      "explanation": "\"refusing to talk about that night\" và \"a woman trying very hard to be forgotten\"."
+    },
+    {
+      "id": "q_u0910_024",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_03",
+      "i18n": {
+        "en": "Why does the reviewer say that, in this film, the flashback technique \"does the opposite\"?",
+        "vi": "Vì sao người viết nói rằng trong phim này, thủ pháp hồi tưởng \"có tác dụng ngược hẳn\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the flashbacks are shorter than in the first film",
+            "vi": "vì các đoạn hồi tưởng ngắn hơn phần một"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because the flashbacks are shorter than in the first film",
+          "text_translation": "vì các đoạn hồi tưởng ngắn hơn phần một"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the flashbacks make the story much more difficult to follow",
+            "vi": "vì các đoạn hồi tưởng khiến câu chuyện khó theo dõi hơn nhiều"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the flashbacks make the story much more difficult to follow",
+          "text_translation": "vì các đoạn hồi tưởng khiến câu chuyện khó theo dõi hơn nhiều"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the flashbacks keep adding new information and build tension instead of slowing the film",
+            "vi": "vì các đoạn hồi tưởng liên tục thêm thông tin mới và tạo căng thẳng thay vì làm phim chậm lại"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because the flashbacks keep adding new information and build tension instead of slowing the film",
+          "text_translation": "vì các đoạn hồi tưởng liên tục thêm thông tin mới và tạo căng thẳng thay vì làm phim chậm lại"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the flashbacks show the storm exactly as the first film did",
+            "vi": "vì các đoạn hồi tưởng chiếu cơn bão y hệt phần một"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because the flashbacks show the storm exactly as the first film did",
+          "text_translation": "vì các đoạn hồi tưởng chiếu cơn bão y hệt phần một"
+        }
+      ],
+      "evidence_segments": [
+        10,
+        11,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"Each return to the night of the storm reveals something the first film left out\" — hồi tưởng thường làm phim chậm, ở đây lại hé lộ thêm và dồn nhịp."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the reviewer say that, in this film, the flashback technique \"does the opposite\"?",
+      "question_vn": "Vì sao người viết nói rằng trong phim này, thủ pháp hồi tưởng \"có tác dụng ngược hẳn\"?",
+      "explanation": "\"Each return to the night of the storm reveals something the first film left out\" — hồi tưởng thường làm phim chậm, ở đây lại hé lộ thêm và dồn nhịp."
+    },
+    {
+      "id": "q_u0910_025",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_03",
+      "i18n": {
+        "en": "What does the sentence beginning \"So carefully are these scenes placed\" emphasize?",
+        "vi": "Câu bắt đầu bằng \"So carefully are these scenes placed\" nhấn mạnh điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "how the director placed the camera very close to the actors",
+            "vi": "việc đạo diễn đặt máy quay rất gần diễn viên"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "how the director placed the camera very close to the actors",
+          "text_translation": "việc đạo diễn đặt máy quay rất gần diễn viên"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "how the order of past and present scenes leads naturally to the climax",
+            "vi": "cách sắp xếp cảnh quá khứ và hiện tại dẫn tự nhiên tới cao trào"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "how the order of past and present scenes leads naturally to the climax",
+          "text_translation": "cách sắp xếp cảnh quá khứ và hiện tại dẫn tự nhiên tới cao trào"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "how slowly the past scenes move compared with the present ones",
+            "vi": "các cảnh quá khứ chậm thế nào so với cảnh hiện tại"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "how slowly the past scenes move compared with the present ones",
+          "text_translation": "các cảnh quá khứ chậm thế nào so với cảnh hiện tại"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "how much money was spent on the storm scenes",
+            "vi": "bao nhiêu tiền đã được chi để dựng lại cơn bão"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "how much money was spent on the storm scenes",
+          "text_translation": "bao nhiêu tiền đã được chi để dựng lại cơn bão"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"the past seems to be catching up with the present, until the two finally meet in the climax\" — đảo ngữ So + adj nhấn mạnh độ khéo của cách sắp cảnh."
+      },
+      "audio_data": null,
+      "question_jp": "What does the sentence beginning \"So carefully are these scenes placed\" emphasize?",
+      "question_vn": "Câu bắt đầu bằng \"So carefully are these scenes placed\" nhấn mạnh điều gì?",
+      "explanation": "\"the past seems to be catching up with the present, until the two finally meet in the climax\" — đảo ngữ So + adj nhấn mạnh độ khéo của cách sắp cảnh."
+    },
+    {
+      "id": "q_u0910_026",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_03",
+      "i18n": {
+        "en": "What does the reviewer most admire about Joan Linden's performance?",
+        "vi": "Người viết khâm phục nhất điều gì ở diễn xuất của Joan Linden?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She makes the audience feel for Hazel precisely by not asking for sympathy.",
+            "vi": "Cô khiến khán giả thương Hazel chính nhờ không xin sự thương cảm."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She makes the audience feel for Hazel precisely by not asking for sympathy.",
+          "text_translation": "Cô khiến khán giả thương Hazel chính nhờ không xin sự thương cảm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She cries in almost every scene to show Hazel's guilt.",
+            "vi": "Cô khóc trong gần như mọi cảnh để thể hiện sự day dứt của Hazel."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She cries in almost every scene to show Hazel's guilt.",
+          "text_translation": "Cô khóc trong gần như mọi cảnh để thể hiện sự day dứt của Hazel."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She sings the whole sea song beautifully from start to finish.",
+            "vi": "Cô hát trọn bài ca biển thật hay từ đầu tới cuối."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She sings the whole sea song beautifully from start to finish.",
+          "text_translation": "Cô hát trọn bài ca biển thật hay từ đầu tới cuối."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She plays Hazel very differently from the way she did in the first film.",
+            "vi": "Cô đóng Hazel rất khác so với phần một."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She plays Hazel very differently from the way she did in the first film.",
+          "text_translation": "Cô đóng Hazel rất khác so với phần một."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"she does not ask us to pity her, which is exactly why we do\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does the reviewer most admire about Joan Linden's performance?",
+      "question_vn": "Người viết khâm phục nhất điều gì ở diễn xuất của Joan Linden?",
+      "explanation": "\"she does not ask us to pity her, which is exactly why we do\"."
+    },
+    {
+      "id": "q_u0910_027",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_03",
+      "i18n": {
+        "en": "Why does the reviewer describe the kitchen scene?",
+        "vi": "Vì sao người viết tả cảnh trong bếp?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to explain why the film is too long",
+            "vi": "để giải thích vì sao phim quá dài"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to explain why the film is too long",
+          "text_translation": "để giải thích vì sao phim quá dài"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to compare the music of the two films",
+            "vi": "để so sánh âm nhạc của hai phần phim"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to compare the music of the two films",
+          "text_translation": "để so sánh âm nhạc của hai phần phim"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to complain that the scene has too little dialogue",
+            "vi": "để phàn nàn rằng cảnh đó có quá ít lời thoại"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to complain that the scene has too little dialogue",
+          "text_translation": "để phàn nàn rằng cảnh đó có quá ít lời thoại"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to show how much feeling the actress can express with almost no words",
+            "vi": "để cho thấy nữ diễn viên truyền tải được bao nhiêu cảm xúc mà gần như không cần lời"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to show how much feeling the actress can express with almost no words",
+          "text_translation": "để cho thấy nữ diễn viên truyền tải được bao nhiêu cảm xúc mà gần như không cần lời"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"Her best scene contains almost no dialogue\" — giọng vỡ ở câu hát không hát hết được: cảm xúc truyền qua hình ảnh và giọng, không qua lời."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the reviewer describe the kitchen scene?",
+      "question_vn": "Vì sao người viết tả cảnh trong bếp?",
+      "explanation": "\"Her best scene contains almost no dialogue\" — giọng vỡ ở câu hát không hát hết được: cảm xúc truyền qua hình ảnh và giọng, không qua lời."
+    },
+    {
+      "id": "q_u0910_028",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_03",
+      "i18n": {
+        "en": "What is the reviewer's main criticism of the climactic scene?",
+        "vi": "Người viết chê cảnh cao trào chủ yếu ở điểm nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It is too short and ends before the rescue is complete.",
+            "vi": "Nó quá ngắn và kết thúc trước khi cuộc giải cứu xong."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It is too short and ends before the rescue is complete.",
+          "text_translation": "Nó quá ngắn và kết thúc trước khi cuộc giải cứu xong."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It repeats the dialogue of the first film word for word.",
+            "vi": "Nó lặp lại nguyên văn lời thoại của phần một."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It repeats the dialogue of the first film word for word.",
+          "text_translation": "Nó lặp lại nguyên văn lời thoại của phần một."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Its loud, expensive style does not match the careful drama of the rest of the film.",
+            "vi": "Phong cách ồn ào, tốn kém của nó không hợp với chất chính kịch tinh tế của phần còn lại."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Its loud, expensive style does not match the careful drama of the rest of the film.",
+          "text_translation": "Phong cách ồn ào, tốn kém của nó không hợp với chất chính kịch tinh tế của phần còn lại."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It was filmed in a real storm and put the actors in danger.",
+            "vi": "Nó được quay trong bão thật và khiến diễn viên gặp nguy hiểm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It was filmed in a real storm and put the actors in danger.",
+          "text_translation": "Nó được quay trong bão thật và khiến diễn viên gặp nguy hiểm."
+        }
+      ],
+      "evidence_segments": [
+        18,
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "\"it feels borrowed from a different, more ordinary movie\" — sau hai tiếng chính kịch tinh tế, người viết muốn đạo diễn \"tone down the thunder\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is the reviewer's main criticism of the climactic scene?",
+      "question_vn": "Người viết chê cảnh cao trào chủ yếu ở điểm nào?",
+      "explanation": "\"it feels borrowed from a different, more ordinary movie\" — sau hai tiếng chính kịch tinh tế, người viết muốn đạo diễn \"tone down the thunder\"."
+    },
+    {
+      "id": "q_u0910_029",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_03",
+      "i18n": {
+        "en": "What does the phrase \"as if a whole section of the screenplay had been cut\" suggest about the story of the insurance investigator?",
+        "vi": "Cụm \"as if a whole section of the screenplay had been cut\" gợi ý gì về mạch truyện người điều tra bảo hiểm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It feels as though parts of the story are missing.",
+            "vi": "Nó có vẻ dang dở, như thể đã mất vài phần."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It feels as though parts of the story are missing.",
+          "text_translation": "Nó có vẻ dang dở, như thể đã mất vài phần."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It was actually removed from the film before release.",
+            "vi": "Nó thực sự đã bị cắt khỏi phim trước khi công chiếu."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It was actually removed from the film before release.",
+          "text_translation": "Nó thực sự đã bị cắt khỏi phim trước khi công chiếu."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is the most carefully written part of the film.",
+            "vi": "Đó là phần được viết kỹ nhất của bộ phim."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It is the most carefully written part of the film.",
+          "text_translation": "Đó là phần được viết kỹ nhất của bộ phim."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It was added at the last minute by a different screenwriter.",
+            "vi": "Nó được một biên kịch khác thêm vào phút chót."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It was added at the last minute by a different screenwriter.",
+          "text_translation": "Nó được một biên kịch khác thêm vào phút chót."
+        }
+      ],
+      "evidence_segments": [
+        20
+      ],
+      "explanation_i18n": {
+        "vi": "\"A second story about an insurance investigator is also never finished, as if…\" — as if + quá khứ hoàn thành: chỉ là cảm giác, không phải sự thật đã bị cắt."
+      },
+      "audio_data": null,
+      "question_jp": "What does the phrase \"as if a whole section of the screenplay had been cut\" suggest about the story of the insurance investigator?",
+      "question_vn": "Cụm \"as if a whole section of the screenplay had been cut\" gợi ý gì về mạch truyện người điều tra bảo hiểm?",
+      "explanation": "\"A second story about an insurance investigator is also never finished, as if…\" — as if + quá khứ hoàn thành: chỉ là cảm giác, không phải sự thật đã bị cắt."
+    },
+    {
+      "id": "q_u0910_030",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_03",
+      "i18n": {
+        "en": "What is the purpose of the question \"How many sequels can say they understood their original better than it understood itself?\"",
+        "vi": "Câu hỏi \"How many sequels can say they understood their original better than it understood itself?\" nhằm mục đích gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to ask readers to send in examples of other good sequels",
+            "vi": "để nhờ độc giả gửi ví dụ về các phần tiếp theo hay khác"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to ask readers to send in examples of other good sequels",
+          "text_translation": "để nhờ độc giả gửi ví dụ về các phần tiếp theo hay khác"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to praise the film strongly by suggesting it is a rare kind of sequel",
+            "vi": "để khen mạnh bộ phim, ngụ ý đây là kiểu phần tiếp theo hiếm có"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to praise the film strongly by suggesting it is a rare kind of sequel",
+          "text_translation": "để khen mạnh bộ phim, ngụ ý đây là kiểu phần tiếp theo hiếm có"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to suggest that the first film was better than the sequel",
+            "vi": "để ngụ ý rằng phần một hay hơn phần tiếp theo"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to suggest that the first film was better than the sequel",
+          "text_translation": "để ngụ ý rằng phần một hay hơn phần tiếp theo"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to admit that the reviewer has not seen the original film",
+            "vi": "để thừa nhận người viết chưa xem bản gốc"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to admit that the reviewer has not seen the original film",
+          "text_translation": "để thừa nhận người viết chưa xem bản gốc"
+        }
+      ],
+      "evidence_segments": [
+        23,
+        24
+      ],
+      "explanation_i18n": {
+        "vi": "\"Not many.\" — câu hỏi tu từ, tự trả lời ngay: phim này là trường hợp hiếm, nên người viết khuyên \"go and see it\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is the purpose of the question \"How many sequels can say they understood their original better than it understood itself?\"",
+      "question_vn": "Câu hỏi \"How many sequels can say they understood their original better than it understood itself?\" nhằm mục đích gì?",
+      "explanation": "\"Not many.\" — câu hỏi tu từ, tự trả lời ngay: phim này là trường hợp hiếm, nên người viết khuyên \"go and see it\"."
+    },
+    {
+      "id": "q_u0910_031",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_04",
+      "i18n": {
+        "en": "What is the purpose of the opening comparison of two halls?",
+        "vi": "Phép so sánh hai phòng hoà nhạc ở đầu bài nhằm mục đích gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to suggest that some orchestras play better in small halls",
+            "vi": "để gợi ý rằng có dàn nhạc chơi hay hơn ở phòng nhỏ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to suggest that some orchestras play better in small halls",
+          "text_translation": "để gợi ý rằng có dàn nhạc chơi hay hơn ở phòng nhỏ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to explain why piano concertos are difficult to perform",
+            "vi": "để giải thích vì sao concerto cho piano khó biểu diễn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to explain why piano concertos are difficult to perform",
+          "text_translation": "để giải thích vì sao concerto cho piano khó biểu diễn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to show that the room alone can change how the same music is experienced",
+            "vi": "để cho thấy chỉ riêng căn phòng cũng có thể thay đổi cách cảm nhận cùng một bản nhạc"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to show that the room alone can change how the same music is experienced",
+          "text_translation": "để cho thấy chỉ riêng căn phòng cũng có thể thay đổi cách cảm nhận cùng một bản nhạc"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to recommend a particular concert hall to readers",
+            "vi": "để giới thiệu một phòng hoà nhạc cụ thể cho độc giả"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to recommend a particular concert hall to readers",
+          "text_translation": "để giới thiệu một phòng hoà nhạc cụ thể cho độc giả"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"Nothing has changed except the room, and yet the experience could hardly be more different.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the purpose of the opening comparison of two halls?",
+      "question_vn": "Phép so sánh hai phòng hoà nhạc ở đầu bài nhằm mục đích gì?",
+      "explanation": "\"Nothing has changed except the room, and yet the experience could hardly be more different.\""
+    },
+    {
+      "id": "q_u0910_032",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_04",
+      "i18n": {
+        "en": "Before 1895, how did builders usually achieve good acoustics?",
+        "vi": "Trước năm 1895, người ta thường có được âm thanh tốt bằng cách nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "mostly by chance or by imitating successful halls",
+            "vi": "chủ yếu nhờ may mắn hoặc bắt chước những phòng thành công"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "mostly by chance or by imitating successful halls",
+          "text_translation": "chủ yếu nhờ may mắn hoặc bắt chước những phòng thành công"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "by measuring how long sounds took to fade",
+            "vi": "bằng cách đo âm thanh mất bao lâu thì tắt"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "by measuring how long sounds took to fade",
+          "text_translation": "bằng cách đo âm thanh mất bao lâu thì tắt"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "by building halls only for lectures",
+            "vi": "bằng cách chỉ xây phòng cho bài giảng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "by building halls only for lectures",
+          "text_translation": "bằng cách chỉ xây phòng cho bài giảng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "by filling halls with seat cushions",
+            "vi": "bằng cách chất đầy đệm ghế trong phòng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "by filling halls with seat cushions",
+          "text_translation": "bằng cách chất đầy đệm ghế trong phòng"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"builders achieved good acoustics largely by luck, or by copying halls that already worked\"."
+      },
+      "audio_data": null,
+      "question_jp": "Before 1895, how did builders usually achieve good acoustics?",
+      "question_vn": "Trước năm 1895, người ta thường có được âm thanh tốt bằng cách nào?",
+      "explanation": "\"builders achieved good acoustics largely by luck, or by copying halls that already worked\"."
+    },
+    {
+      "id": "q_u0910_033",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_04",
+      "i18n": {
+        "en": "Why did Sabine most likely do his measurements at night?",
+        "vi": "Nhiều khả năng vì sao Sabine đo đạc vào ban đêm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "He was too busy teaching during the day.",
+            "vi": "Ban ngày ông quá bận dạy học."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "He was too busy teaching during the day.",
+          "text_translation": "Ban ngày ông quá bận dạy học."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The university did not allow him to use the hall.",
+            "vi": "Trường không cho ông dùng giảng đường."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The university did not allow him to use the hall.",
+          "text_translation": "Trường không cho ông dùng giảng đường."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Students were using the seat cushions during the day.",
+            "vi": "Ban ngày sinh viên đang dùng các tấm đệm ghế."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Students were using the seat cushions during the day.",
+          "text_translation": "Ban ngày sinh viên đang dùng các tấm đệm ghế."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Outside noise would not affect his measurements of how sounds faded.",
+            "vi": "Tiếng ồn bên ngoài sẽ không làm sai các phép đo độ tắt dần của âm thanh."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Outside noise would not affect his measurements of how sounds faded.",
+          "text_translation": "Tiếng ồn bên ngoài sẽ không làm sai các phép đo độ tắt dần của âm thanh."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"Working at night, when the building was quiet\" — ông đo âm thanh tắt dần nên cần yên tĩnh (suy luận)."
+      },
+      "audio_data": null,
+      "question_jp": "Why did Sabine most likely do his measurements at night?",
+      "question_vn": "Nhiều khả năng vì sao Sabine đo đạc vào ban đêm?",
+      "explanation": "\"Working at night, when the building was quiet\" — ông đo âm thanh tắt dần nên cần yên tĩnh (suy luận)."
+    },
+    {
+      "id": "q_u0910_034",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_04",
+      "i18n": {
+        "en": "According to the article, what did Sabine discover?",
+        "vi": "Theo bài, Sabine đã phát hiện ra điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Students understand speakers better in bigger rooms.",
+            "vi": "Sinh viên nghe người giảng rõ hơn trong phòng lớn hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Students understand speakers better in bigger rooms.",
+          "text_translation": "Sinh viên nghe người giảng rõ hơn trong phòng lớn hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "How long a sound continues depends on room size and how much sound is absorbed.",
+            "vi": "Âm thanh vang bao lâu phụ thuộc vào kích thước phòng và lượng âm bị hút đi."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "How long a sound continues depends on room size and how much sound is absorbed.",
+          "text_translation": "Âm thanh vang bao lâu phụ thuộc vào kích thước phòng và lượng âm bị hút đi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Seat cushions make music sound warmer and fuller.",
+            "vi": "Đệm ghế làm nhạc nghe ấm và dày hơn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Seat cushions make music sound warmer and fuller.",
+          "text_translation": "Đệm ghế làm nhạc nghe ấm và dày hơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Sound travels faster in quiet buildings.",
+            "vi": "Âm thanh đi nhanh hơn trong toà nhà yên tĩnh."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Sound travels faster in quiet buildings.",
+          "text_translation": "Âm thanh đi nhanh hơn trong toà nhà yên tĩnh."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"the time a sound continues depends on the size of a room and on how much of the sound its surfaces absorb\"."
+      },
+      "audio_data": null,
+      "question_jp": "According to the article, what did Sabine discover?",
+      "question_vn": "Theo bài, Sabine đã phát hiện ra điều gì?",
+      "explanation": "\"the time a sound continues depends on the size of a room and on how much of the sound its surfaces absorb\"."
+    },
+    {
+      "id": "q_u0910_035",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_04",
+      "i18n": {
+        "en": "In the sentence about too much reverberation, what does \"a blur\" mean?",
+        "vi": "Trong câu nói về độ vang quá nhiều, \"a blur\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "something that is too quiet to be heard at all",
+            "vi": "thứ quá nhỏ để nghe thấy"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "something that is too quiet to be heard at all",
+          "text_translation": "thứ quá nhỏ để nghe thấy"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "something that is dry and lifeless",
+            "vi": "thứ khô khan, thiếu sức sống"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "something that is dry and lifeless",
+          "text_translation": "thứ khô khan, thiếu sức sống"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "something that moves too fast to see",
+            "vi": "thứ chuyển động quá nhanh để nhìn thấy"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "something that moves too fast to see",
+          "text_translation": "thứ chuyển động quá nhanh để nhìn thấy"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "something that cannot be heard clearly because the sounds run together",
+            "vi": "thứ không nghe rõ được vì các âm chồng lên nhau"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "something that cannot be heard clearly because the sounds run together",
+          "text_translation": "thứ không nghe rõ được vì các âm chồng lên nhau"
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"each note runs into the next, so that speech in particular becomes a blur\" — nốt chồng nốt nên nghe không rõ."
+      },
+      "audio_data": null,
+      "question_jp": "In the sentence about too much reverberation, what does \"a blur\" mean?",
+      "question_vn": "Trong câu nói về độ vang quá nhiều, \"a blur\" nghĩa là gì?",
+      "explanation": "\"each note runs into the next, so that speech in particular becomes a blur\" — nốt chồng nốt nên nghe không rõ."
+    },
+    {
+      "id": "q_u0910_036",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_04",
+      "i18n": {
+        "en": "Why does the writer mention Boston's Symphony Hall?",
+        "vi": "Vì sao tác giả nhắc tới Symphony Hall ở Boston?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "as an example of a hall built purely by luck",
+            "vi": "như ví dụ về một phòng được xây hoàn toàn nhờ may mắn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "as an example of a hall built purely by luck",
+          "text_translation": "như ví dụ về một phòng được xây hoàn toàn nhờ may mắn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to show that orchestras prefer halls with one second of reverberation",
+            "vi": "để cho thấy dàn nhạc thích phòng có độ vang một giây"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to show that orchestras prefer halls with one second of reverberation",
+          "text_translation": "để cho thấy dàn nhạc thích phòng có độ vang một giây"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "as evidence that Sabine's science led to a lasting practical success",
+            "vi": "như bằng chứng rằng khoa học của Sabine đã mang lại một thành công thực tế lâu dài"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "as evidence that Sabine's science led to a lasting practical success",
+          "text_translation": "như bằng chứng rằng khoa học của Sabine đã mang lại một thành công thực tế lâu dài"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to suggest that old halls are always better than new ones",
+            "vi": "để ngụ ý rằng phòng cũ luôn hay hơn phòng mới"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to suggest that old halls are always better than new ones",
+          "text_translation": "để ngụ ý rằng phòng cũ luôn hay hơn phòng mới"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"he was invited to help design Boston's Symphony Hall, which opened in 1900 and is still praised as one of the best in the world\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer mention Boston's Symphony Hall?",
+      "question_vn": "Vì sao tác giả nhắc tới Symphony Hall ở Boston?",
+      "explanation": "\"he was invited to help design Boston's Symphony Hall, which opened in 1900 and is still praised as one of the best in the world\"."
+    },
+    {
+      "id": "q_u0910_037",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_04",
+      "i18n": {
+        "en": "According to recent studies, why might shoebox halls be so admired?",
+        "vi": "Theo các nghiên cứu gần đây, vì sao phòng hình hộp giày có thể được ngưỡng mộ đến vậy?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Sound reflected from the side walls makes music feel richer and more involving.",
+            "vi": "Âm phản xạ từ tường bên làm nhạc rộng hơn và cuốn người nghe hơn."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Sound reflected from the side walls makes music feel richer and more involving.",
+          "text_translation": "Âm phản xạ từ tường bên làm nhạc rộng hơn và cuốn người nghe hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Their seats rise in steps all around the stage.",
+            "vi": "Hàng ghế của chúng dâng thành bậc quanh sân khấu."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Their seats rise in steps all around the stage.",
+          "text_translation": "Hàng ghế của chúng dâng thành bậc quanh sân khấu."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They have very little reverberation.",
+            "vi": "Chúng có rất ít độ vang."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They have very little reverberation.",
+          "text_translation": "Chúng có rất ít độ vang."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They are cheaper to build than other shapes.",
+            "vi": "Chúng rẻ hơn khi xây so với các hình dạng khác."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They are cheaper to build than other shapes.",
+          "text_translation": "Chúng rẻ hơn khi xây so với các hình dạng khác."
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"these reflections from the left and right seem to make the music feel richer and more involving\"."
+      },
+      "audio_data": null,
+      "question_jp": "According to recent studies, why might shoebox halls be so admired?",
+      "question_vn": "Theo các nghiên cứu gần đây, vì sao phòng hình hộp giày có thể được ngưỡng mộ đến vậy?",
+      "explanation": "\"these reflections from the left and right seem to make the music feel richer and more involving\"."
+    },
+    {
+      "id": "q_u0910_038",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_04",
+      "i18n": {
+        "en": "What does the writer imply about halls \"built long before anyone understood why they worked\"?",
+        "vi": "Tác giả ngụ ý gì về những phòng \"xây từ rất lâu trước khi có ai hiểu vì sao chúng nghe hay\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They were designed by Sabine before he became famous.",
+            "vi": "Chúng do Sabine thiết kế trước khi ông nổi tiếng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They were designed by Sabine before he became famous.",
+          "text_translation": "Chúng do Sabine thiết kế trước khi ông nổi tiếng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Their builders succeeded without knowing the science behind their success.",
+            "vi": "Người xây chúng đã thành công mà không biết khoa học đằng sau thành công đó."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Their builders succeeded without knowing the science behind their success.",
+          "text_translation": "Người xây chúng đã thành công mà không biết khoa học đằng sau thành công đó."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They no longer sound good to modern listeners.",
+            "vi": "Với người nghe hiện đại chúng không còn hay nữa."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They no longer sound good to modern listeners.",
+          "text_translation": "Với người nghe hiện đại chúng không còn hay nữa."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Their shape was chosen because it was fashionable at the time.",
+            "vi": "Hình dạng của chúng được chọn vì đang thịnh hành thời đó."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Their shape was chosen because it was fashionable at the time.",
+          "text_translation": "Hình dạng của chúng được chọn vì đang thịnh hành thời đó."
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "\"some of them built long before anyone understood why they worked\" — tức là nghe hay nhờ hình dạng chứ không nhờ hiểu biết khoa học (suy luận)."
+      },
+      "audio_data": null,
+      "question_jp": "What does the writer imply about halls \"built long before anyone understood why they worked\"?",
+      "question_vn": "Tác giả ngụ ý gì về những phòng \"xây từ rất lâu trước khi có ai hiểu vì sao chúng nghe hay\"?",
+      "explanation": "\"some of them built long before anyone understood why they worked\" — tức là nghe hay nhờ hình dạng chứ không nhờ hiểu biết khoa học (suy luận)."
+    },
+    {
+      "id": "q_u0910_039",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_04",
+      "i18n": {
+        "en": "Why do halls with seats all around the stage need more careful engineering?",
+        "vi": "Vì sao phòng có ghế bao quanh sân khấu cần tính toán kỹ hơn?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They are always much bigger than shoebox halls.",
+            "vi": "Chúng luôn lớn hơn nhiều so với phòng hộp giày."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They are always much bigger than shoebox halls.",
+          "text_translation": "Chúng luôn lớn hơn nhiều so với phòng hộp giày."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Musicians cannot hear each other on such stages.",
+            "vi": "Nhạc công trên sân khấu như vậy không nghe được nhau."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Musicians cannot hear each other on such stages.",
+          "text_translation": "Nhạc công trên sân khấu như vậy không nghe được nhau."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Computer models cannot be used to test them.",
+            "vi": "Không thể dùng mô hình máy tính để thử chúng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Computer models cannot be used to test them.",
+          "text_translation": "Không thể dùng mô hình máy tính để thử chúng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They mostly lack the side walls that provide useful reflections in a shoebox.",
+            "vi": "Chúng gần như thiếu hai tường bên vốn tạo âm phản xạ có ích trong phòng hộp giày."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "They mostly lack the side walls that provide useful reflections in a shoebox.",
+          "text_translation": "Chúng gần như thiếu hai tường bên vốn tạo âm phản xạ có ích trong phòng hộp giày."
+        }
+      ],
+      "evidence_segments": [
+        21
+      ],
+      "explanation_i18n": {
+        "vi": "\"since the side walls that do so much work in a shoebox are largely missing\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why do halls with seats all around the stage need more careful engineering?",
+      "question_vn": "Vì sao phòng có ghế bao quanh sân khấu cần tính toán kỹ hơn?",
+      "explanation": "\"since the side walls that do so much work in a shoebox are largely missing\"."
+    },
+    {
+      "id": "q_u0910_040",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_04",
+      "i18n": {
+        "en": "What does the writer mean by \"deciding whether the room has disappeared\"?",
+        "vi": "Tác giả muốn nói gì qua cụm \"tự thấy căn phòng đã biến mất hay chưa\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Audiences prefer to listen to music with the lights turned off.",
+            "vi": "Khán giả thích nghe nhạc khi tắt đèn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Audiences prefer to listen to music with the lights turned off.",
+          "text_translation": "Khán giả thích nghe nhạc khi tắt đèn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Modern halls are often too dark for people to see the walls.",
+            "vi": "Phòng hiện đại thường quá tối nên không thấy tường."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Modern halls are often too dark for people to see the walls.",
+          "text_translation": "Phòng hiện đại thường quá tối nên không thấy tường."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "A great hall lets listeners forget the room and simply experience the music.",
+            "vi": "Một phòng hoà nhạc tuyệt vời giúp người nghe quên căn phòng và chỉ còn cảm nhận âm nhạc."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "A great hall lets listeners forget the room and simply experience the music.",
+          "text_translation": "Một phòng hoà nhạc tuyệt vời giúp người nghe quên căn phòng và chỉ còn cảm nhận âm nhạc."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Good acoustics can be calculated as exactly as a bridge.",
+            "vi": "Âm thanh tốt có thể tính chính xác như một cây cầu."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Good acoustics can be calculated as exactly as a bridge.",
+          "text_translation": "Âm thanh tốt có thể tính chính xác như một cây cầu."
+        }
+      ],
+      "evidence_segments": [
+        23,
+        24
+      ],
+      "explanation_i18n": {
+        "vi": "\"the final test is still a human one\" — căn phòng \"biến mất\" khi người nghe không còn để ý tới nó (hàm ý); câu trước nói rõ âm thanh không tính được \"like a bridge\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does the writer mean by \"deciding whether the room has disappeared\"?",
+      "question_vn": "Tác giả muốn nói gì qua cụm \"tự thấy căn phòng đã biến mất hay chưa\"?",
+      "explanation": "\"the final test is still a human one\" — căn phòng \"biến mất\" khi người nghe không còn để ý tới nó (hàm ý); câu trước nói rõ âm thanh không tính được \"like a bridge\"."
+    },
+    {
+      "id": "q_u0910_041",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_05",
+      "i18n": {
+        "en": "Why does the writer begin with the example of money found in an old coat?",
+        "vi": "Vì sao tác giả mở đầu bằng ví dụ tiền tìm thấy trong áo khoác cũ?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to warn readers to check their pockets before washing clothes",
+            "vi": "để nhắc độc giả kiểm tra túi trước khi giặt đồ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to warn readers to check their pockets before washing clothes",
+          "text_translation": "để nhắc độc giả kiểm tra túi trước khi giặt đồ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to introduce a common habit that lies at the center of an important theory",
+            "vi": "để giới thiệu một thói quen phổ biến nằm ở trung tâm một lý thuyết quan trọng"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to introduce a common habit that lies at the center of an important theory",
+          "text_translation": "để giới thiệu một thói quen phổ biến nằm ở trung tâm một lý thuyết quan trọng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to show that most people are careless with large bills",
+            "vi": "để cho thấy đa số người ta bất cẩn với tờ tiền mệnh giá lớn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to show that most people are careless with large bills",
+          "text_translation": "để cho thấy đa số người ta bất cẩn với tờ tiền mệnh giá lớn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to explain how Richard Thaler first became interested in money",
+            "vi": "để giải thích Richard Thaler bắt đầu quan tâm tới tiền thế nào"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to explain how Richard Thaler first became interested in money",
+          "text_translation": "để giải thích Richard Thaler bắt đầu quan tâm tới tiền thế nào"
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"that small confession sits at the heart of one of the most influential ideas in modern economics\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer begin with the example of money found in an old coat?",
+      "question_vn": "Vì sao tác giả mở đầu bằng ví dụ tiền tìm thấy trong áo khoác cũ?",
+      "explanation": "\"that small confession sits at the heart of one of the most influential ideas in modern economics\"."
+    },
+    {
+      "id": "q_u0910_042",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_05",
+      "i18n": {
+        "en": "According to the summary, what was Thaler's main point?",
+        "vi": "Theo bài, ý chính của Thaler là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Most people are simply bad at managing money.",
+            "vi": "Đa số người ta đơn giản là quản lý tiền kém."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Most people are simply bad at managing money.",
+          "text_translation": "Đa số người ta đơn giản là quản lý tiền kém."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "People should keep all their money in one bank account.",
+            "vi": "Người ta nên giữ toàn bộ tiền trong một tài khoản ngân hàng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "People should keep all their money in one bank account.",
+          "text_translation": "Người ta nên giữ toàn bộ tiền trong một tài khoản ngân hàng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "People sort money into mental categories, each treated by different rules.",
+            "vi": "Con người xếp tiền vào các ngăn trong đầu, mỗi ngăn được đối xử theo luật khác nhau."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "People sort money into mental categories, each treated by different rules.",
+          "text_translation": "Con người xếp tiền vào các ngăn trong đầu, mỗi ngăn được đối xử theo luật khác nhau."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Unexpected money should always be saved, never spent.",
+            "vi": "Tiền bất ngờ luôn phải để dành, không bao giờ được tiêu."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Unexpected money should always be saved, never spent.",
+          "text_translation": "Tiền bất ngờ luôn phải để dành, không bao giờ được tiêu."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"not so much that people are bad with money as that they divide it into separate…\" — mẫu not so much A as B: B mới là ý thật."
+      },
+      "audio_data": null,
+      "question_jp": "According to the summary, what was Thaler's main point?",
+      "question_vn": "Theo bài, ý chính của Thaler là gì?",
+      "explanation": "\"not so much that people are bad with money as that they divide it into separate…\" — mẫu not so much A as B: B mới là ý thật."
+    },
+    {
+      "id": "q_u0910_043",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_05",
+      "i18n": {
+        "en": "How do people often treat money that arrives unexpectedly?",
+        "vi": "Người ta thường đối xử với tiền đến bất ngờ thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "as if it were less real than the money they earn",
+            "vi": "như thể nó kém \"thật\" hơn tiền họ kiếm được"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "as if it were less real than the money they earn",
+          "text_translation": "như thể nó kém \"thật\" hơn tiền họ kiếm được"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "more seriously than money for rent",
+            "vi": "nghiêm túc hơn tiền thuê nhà"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "more seriously than money for rent",
+          "text_translation": "nghiêm túc hơn tiền thuê nhà"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "as money that must be given back",
+            "vi": "như tiền phải trả lại"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "as money that must be given back",
+          "text_translation": "như tiền phải trả lại"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "as money that should go into an emergency fund",
+            "vi": "như tiền phải bỏ vào quỹ khẩn cấp"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "as money that should go into an emergency fund",
+          "text_translation": "như tiền phải bỏ vào quỹ khẩn cấp"
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"often feels as if it does not quite count\" — nói về \"money that arrives unexpectedly\"."
+      },
+      "audio_data": null,
+      "question_jp": "How do people often treat money that arrives unexpectedly?",
+      "question_vn": "Người ta thường đối xử với tiền đến bất ngờ thế nào?",
+      "explanation": "\"often feels as if it does not quite count\" — nói về \"money that arrives unexpectedly\"."
+    },
+    {
+      "id": "q_u0910_044",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_05",
+      "i18n": {
+        "en": "Why does the writer say that mental accounting \"makes little sense\" in strict economic terms?",
+        "vi": "Vì sao tác giả nói kế toán tinh thần \"chẳng mấy hợp lý\" xét theo kinh tế học?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Televisions are more expensive than most people think.",
+            "vi": "Tivi đắt hơn người ta tưởng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Televisions are more expensive than most people think.",
+          "text_translation": "Tivi đắt hơn người ta tưởng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Families with salaries are richer than families with refunds.",
+            "vi": "Gia đình có lương giàu hơn gia đình có tiền hoàn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Families with salaries are richer than families with refunds.",
+          "text_translation": "Gia đình có lương giàu hơn gia đình có tiền hoàn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Economists have never been able to measure it.",
+            "vi": "Các nhà kinh tế chưa bao giờ đo được nó."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Economists have never been able to measure it.",
+          "text_translation": "Các nhà kinh tế chưa bao giờ đo được nó."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Money has the same value whatever its source.",
+            "vi": "Tiền có cùng giá trị bất kể nguồn gốc."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Money has the same value whatever its source.",
+          "text_translation": "Tiền có cùng giá trị bất kể nguồn gốc."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"A dollar is a dollar wherever it comes from\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer say that mental accounting \"makes little sense\" in strict economic terms?",
+      "question_vn": "Vì sao tác giả nói kế toán tinh thần \"chẳng mấy hợp lý\" xét theo kinh tế học?",
+      "explanation": "\"A dollar is a dollar wherever it comes from\"."
+    },
+    {
+      "id": "q_u0910_045",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_05",
+      "i18n": {
+        "en": "What does the example of investors suggest?",
+        "vi": "Ví dụ về các nhà đầu tư gợi ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Investors are more careful than ordinary households.",
+            "vi": "Nhà đầu tư cẩn thận hơn các hộ gia đình bình thường."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Investors are more careful than ordinary households.",
+          "text_translation": "Nhà đầu tư cẩn thận hơn các hộ gia đình bình thường."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Making a profit always leads to further profits.",
+            "vi": "Có lãi luôn dẫn tới thêm lãi."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Making a profit always leads to further profits.",
+          "text_translation": "Có lãi luôn dẫn tới thêm lãi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "People take bigger risks with money they feel they did not really earn.",
+            "vi": "Người ta mạo hiểm hơn với khoản tiền họ cảm thấy mình không thật sự làm ra."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "People take bigger risks with money they feel they did not really earn.",
+          "text_translation": "Người ta mạo hiểm hơn với khoản tiền họ cảm thấy mình không thật sự làm ra."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Investors usually spend their profits on televisions.",
+            "vi": "Nhà đầu tư thường tiêu tiền lãi vào tivi."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Investors usually spend their profits on televisions.",
+          "text_translation": "Nhà đầu tư thường tiêu tiền lãi vào tivi."
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"more willing to take risks with it, as if the gains were somehow not really theirs\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does the example of investors suggest?",
+      "question_vn": "Ví dụ về các nhà đầu tư gợi ý điều gì?",
+      "explanation": "\"more willing to take risks with it, as if the gains were somehow not really theirs\"."
+    },
+    {
+      "id": "q_u0910_046",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_05",
+      "i18n": {
+        "en": "Why is the behavior of households with both savings and expensive debt described as unwise?",
+        "vi": "Vì sao hành vi của những hộ vừa có tiền tiết kiệm vừa mang nợ lãi cao bị coi là thiếu khôn ngoan?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They spend all their savings on holidays.",
+            "vi": "Họ tiêu hết tiền tiết kiệm vào kỳ nghỉ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They spend all their savings on holidays.",
+          "text_translation": "Họ tiêu hết tiền tiết kiệm vào kỳ nghỉ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Their debt costs more than their savings earn, yet they keep both.",
+            "vi": "Nợ tốn nhiều hơn số lãi tiết kiệm sinh ra, vậy mà họ vẫn giữ cả hai."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Their debt costs more than their savings earn, yet they keep both.",
+          "text_translation": "Nợ tốn nhiều hơn số lãi tiết kiệm sinh ra, vậy mà họ vẫn giữ cả hai."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They have no savings account at all.",
+            "vi": "Họ hoàn toàn không có tài khoản tiết kiệm."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They have no savings account at all.",
+          "text_translation": "Họ hoàn toàn không có tài khoản tiết kiệm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Their bank refuses to let them pay off their debt.",
+            "vi": "Ngân hàng không cho họ trả hết nợ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Their bank refuses to let them pay off their debt.",
+          "text_translation": "Ngân hàng không cho họ trả hết nợ."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"even though the debt costs them far more than the savings earn\" — trả nợ sẽ có lợi hơn, nhưng họ thấy đó là \"a sacrifice\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why is the behavior of households with both savings and expensive debt described as unwise?",
+      "question_vn": "Vì sao hành vi của những hộ vừa có tiền tiết kiệm vừa mang nợ lãi cao bị coi là thiếu khôn ngoan?",
+      "explanation": "\"even though the debt costs them far more than the savings earn\" — trả nợ sẽ có lợi hơn, nhưng họ thấy đó là \"a sacrifice\"."
+    },
+    {
+      "id": "q_u0910_047",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_05",
+      "i18n": {
+        "en": "What is the writer's attitude towards mental accounting in the paragraph beginning \"Mental accounting is not entirely foolish\"?",
+        "vi": "Thái độ của tác giả với kế toán tinh thần trong đoạn bắt đầu bằng \"Mental accounting is not entirely foolish\" là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "balanced: it can also be a useful tool for self-control",
+            "vi": "cân bằng: nó cũng có thể là công cụ tự kiểm soát hữu ích"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "balanced: it can also be a useful tool for self-control",
+          "text_translation": "cân bằng: nó cũng có thể là công cụ tự kiểm soát hữu ích"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "completely negative: it should be avoided at all costs",
+            "vi": "hoàn toàn tiêu cực: phải tránh bằng mọi giá"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "completely negative: it should be avoided at all costs",
+          "text_translation": "hoàn toàn tiêu cực: phải tránh bằng mọi giá"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "uninterested: it matters only to professional economists",
+            "vi": "thờ ơ: nó chỉ quan trọng với nhà kinh tế chuyên nghiệp"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "uninterested: it matters only to professional economists",
+          "text_translation": "thờ ơ: nó chỉ quan trọng với nhà kinh tế chuyên nghiệp"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "amused: it is a funny habit with no real effects",
+            "vi": "buồn cười: đó là thói quen vui vẻ, không có tác động thật"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "amused: it is a funny habit with no real effects",
+          "text_translation": "buồn cười: đó là thói quen vui vẻ, không có tác động thật"
+        }
+      ],
+      "evidence_segments": [
+        16,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"Many people use it deliberately as a form of self-control\" — đoạn này cân lại mặt tốt của thói quen."
+      },
+      "audio_data": null,
+      "question_jp": "What is the writer's attitude towards mental accounting in the paragraph beginning \"Mental accounting is not entirely foolish\"?",
+      "question_vn": "Thái độ của tác giả với kế toán tinh thần trong đoạn bắt đầu bằng \"Mental accounting is not entirely foolish\" là gì?",
+      "explanation": "\"Many people use it deliberately as a form of self-control\" — đoạn này cân lại mặt tốt của thói quen."
+    },
+    {
+      "id": "q_u0910_048",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_05",
+      "i18n": {
+        "en": "Why does the writer mention an inheritance from a grandparent?",
+        "vi": "Vì sao tác giả nhắc tới khoản thừa kế từ ông bà?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that inheritances are usually squandered",
+            "vi": "để cho thấy tiền thừa kế thường bị phung phí"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to show that inheritances are usually squandered",
+          "text_translation": "để cho thấy tiền thừa kế thường bị phung phí"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to explain how to invest an inheritance wisely",
+            "vi": "để giải thích cách đầu tư tiền thừa kế khôn ngoan"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to explain how to invest an inheritance wisely",
+          "text_translation": "để giải thích cách đầu tư tiền thừa kế khôn ngoan"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to prove that grandparents are better with money",
+            "vi": "để chứng minh ông bà giỏi quản lý tiền hơn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to prove that grandparents are better with money",
+          "text_translation": "để chứng minh ông bà giỏi quản lý tiền hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to show that keeping money separate can have good reasons that are not financial",
+            "vi": "để cho thấy việc để riêng tiền có thể có lý do chính đáng không thuộc về tài chính"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to show that keeping money separate can have good reasons that are not financial",
+          "text_translation": "để cho thấy việc để riêng tiền có thể có lý do chính đáng không thuộc về tài chính"
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "\"not for financial reasons but because it carries sentimental value\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer mention an inheritance from a grandparent?",
+      "question_vn": "Vì sao tác giả nhắc tới khoản thừa kế từ ông bà?",
+      "explanation": "\"not for financial reasons but because it carries sentimental value\"."
+    },
+    {
+      "id": "q_u0910_049",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_05",
+      "i18n": {
+        "en": "What is the purpose of the question \"if this had come from my salary, would I still spend it this way?\"",
+        "vi": "Câu hỏi \"if this had come from my salary, would I still spend it this way?\" có mục đích gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It asks readers to report their spending to the writer.",
+            "vi": "Nó yêu cầu độc giả báo cáo chi tiêu cho tác giả."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It asks readers to report their spending to the writer.",
+          "text_translation": "Nó yêu cầu độc giả báo cáo chi tiêu cho tác giả."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It gives readers a practical test to notice their own mental accounts.",
+            "vi": "Nó cho độc giả một phép thử thực tế để nhận ra các tài khoản trong đầu của mình."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "It gives readers a practical test to notice their own mental accounts.",
+          "text_translation": "Nó cho độc giả một phép thử thực tế để nhận ra các tài khoản trong đầu của mình."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It suggests that money from a salary should never be spent.",
+            "vi": "Nó gợi ý rằng tiền lương không bao giờ nên tiêu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It suggests that money from a salary should never be spent.",
+          "text_translation": "Nó gợi ý rằng tiền lương không bao giờ nên tiêu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It shows that Thaler's theory has been proved wrong.",
+            "vi": "Nó cho thấy lý thuyết của Thaler đã bị chứng minh là sai."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It shows that Thaler's theory has been proved wrong.",
+          "text_translation": "Nó cho thấy lý thuyết của Thaler đã bị chứng minh là sai."
+        }
+      ],
+      "evidence_segments": [
+        20,
+        21
+      ],
+      "explanation_i18n": {
+        "vi": "\"we should notice them\" — câu hỏi là công cụ để \"nhận ra\" thói quen trước khi tiêu."
+      },
+      "audio_data": null,
+      "question_jp": "What is the purpose of the question \"if this had come from my salary, would I still spend it this way?\"",
+      "question_vn": "Câu hỏi \"if this had come from my salary, would I still spend it this way?\" có mục đích gì?",
+      "explanation": "\"we should notice them\" — câu hỏi là công cụ để \"nhận ra\" thói quen trước khi tiêu."
+    },
+    {
+      "id": "q_u0910_050",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_05",
+      "i18n": {
+        "en": "What does the final sentence imply?",
+        "vi": "Câu cuối hàm ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Unexpected money is always wasted.",
+            "vi": "Tiền bất ngờ lúc nào cũng bị lãng phí."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Unexpected money is always wasted.",
+          "text_translation": "Tiền bất ngờ lúc nào cũng bị lãng phí."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Free money should be returned to the person who gave it.",
+            "vi": "Tiền cho không nên được trả lại người cho."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Free money should be returned to the person who gave it.",
+          "text_translation": "Tiền cho không nên được trả lại người cho."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "People who save unexpected money are being foolish.",
+            "vi": "Người để dành tiền bất ngờ là dại dột."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "People who save unexpected money are being foolish.",
+          "text_translation": "Người để dành tiền bất ngờ là dại dột."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The real problem is our attitude towards the money, not where it came from.",
+            "vi": "Vấn đề thật là thái độ của ta với khoản tiền, chứ không phải nguồn gốc của nó."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The real problem is our attitude towards the money, not where it came from.",
+          "text_translation": "Vấn đề thật là thái độ của ta với khoản tiền, chứ không phải nguồn gốc của nó."
+        }
+      ],
+      "evidence_segments": [
+        22
+      ],
+      "explanation_i18n": {
+        "vi": "\"not because it was free, but because we treated it as if it were\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does the final sentence imply?",
+      "question_vn": "Câu cuối hàm ý điều gì?",
+      "explanation": "\"not because it was free, but because we treated it as if it were\"."
+    },
+    {
+      "id": "q_u0910_051",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_06",
+      "i18n": {
+        "en": "What surprised Chloe most about running her studio?",
+        "vi": "Điều gì khiến Chloe bất ngờ nhất khi điều hành studio?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Finding clients took much longer than she had planned.",
+            "vi": "Tìm khách mất nhiều thời gian hơn cô dự tính."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Finding clients took much longer than she had planned.",
+          "text_translation": "Tìm khách mất nhiều thời gian hơn cô dự tính."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Her team did not want to work on large projects.",
+            "vi": "Nhóm của cô không muốn làm dự án lớn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Her team did not want to work on large projects.",
+          "text_translation": "Nhóm của cô không muốn làm dự án lớn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The rent on Ocean Avenue was higher than expected.",
+            "vi": "Tiền thuê trên đại lộ Ocean cao hơn dự kiến."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The rent on Ocean Avenue was higher than expected.",
+          "text_translation": "Tiền thuê trên đại lộ Ocean cao hơn dự kiến."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Getting paid turned out to be harder than finding clients.",
+            "vi": "Hoá ra được trả tiền khó hơn tìm khách."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Getting paid turned out to be harder than finding clients.",
+          "text_translation": "Hoá ra được trả tiền khó hơn tìm khách."
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"We found clients faster than expected; what nearly sank us in August was getting paid.\""
+      },
+      "audio_data": null,
+      "question_jp": "What surprised Chloe most about running her studio?",
+      "question_vn": "Điều gì khiến Chloe bất ngờ nhất khi điều hành studio?",
+      "explanation": "\"We found clients faster than expected; what nearly sank us in August was getting paid.\""
+    },
+    {
+      "id": "q_u0910_052",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_06",
+      "i18n": {
+        "en": "What does Chloe imply with the words \"On paper, it was our best month ever\"?",
+        "vi": "Chloe ngụ ý gì qua câu \"Trên giấy tờ, đó là tháng tốt nhất từ trước tới nay\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The studio had made more money than in any other month.",
+            "vi": "Studio kiếm được nhiều tiền hơn mọi tháng khác."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The studio had made more money than in any other month.",
+          "text_translation": "Studio kiếm được nhiều tiền hơn mọi tháng khác."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The work had been done and billed, but the money had not actually arrived.",
+            "vi": "Việc đã làm và đã xuất hoá đơn, nhưng tiền thì thực ra chưa về."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The work had been done and billed, but the money had not actually arrived.",
+          "text_translation": "Việc đã làm và đã xuất hoá đơn, nhưng tiền thì thực ra chưa về."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She had kept all the studio's records on paper instead of a computer.",
+            "vi": "Cô ghi chép mọi sổ sách của studio trên giấy thay vì máy tính."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She had kept all the studio's records on paper instead of a computer.",
+          "text_translation": "Cô ghi chép mọi sổ sách của studio trên giấy thay vì máy tính."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She had made a mistake when adding up the invoices.",
+            "vi": "Cô đã cộng nhầm các hoá đơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She had made a mistake when adding up the invoices.",
+          "text_translation": "Cô đã cộng nhầm các hoá đơn."
+        }
+      ],
+      "evidence_segments": [
+        7,
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"In practice, the money arrived in pieces\" — đối lập on paper / in practice."
+      },
+      "audio_data": null,
+      "question_jp": "What does Chloe imply with the words \"On paper, it was our best month ever\"?",
+      "question_vn": "Chloe ngụ ý gì qua câu \"Trên giấy tờ, đó là tháng tốt nhất từ trước tới nay\"?",
+      "explanation": "\"In practice, the money arrived in pieces\" — đối lập on paper / in practice."
+    },
+    {
+      "id": "q_u0910_053",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_06",
+      "i18n": {
+        "en": "Why was the studio almost out of cash in August?",
+        "vi": "Vì sao tháng Tám studio gần như cạn tiền mặt?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It had bought a second large printer.",
+            "vi": "Studio đã mua chiếc máy in khổ lớn thứ hai."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It had bought a second large printer.",
+          "text_translation": "Studio đã mua chiếc máy in khổ lớn thứ hai."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It had lost its biggest client to another studio.",
+            "vi": "Studio mất khách lớn nhất vào tay một studio khác."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It had lost its biggest client to another studio.",
+          "text_translation": "Studio mất khách lớn nhất vào tay một studio khác."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Its regular costs had to be paid on time while clients paid late.",
+            "vi": "Các khoản chi cố định phải trả đúng hạn trong khi khách trả muộn."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Its regular costs had to be paid on time while clients paid late.",
+          "text_translation": "Các khoản chi cố định phải trả đúng hạn trong khi khách trả muộn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It had paid Ruby and Sam twice by mistake.",
+            "vi": "Studio trả lương cho Ruby và Sam hai lần do nhầm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It had paid Ruby and Sam twice by mistake.",
+          "text_translation": "Studio trả lương cho Ruby và Sam hai lần do nhầm."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"all had to be paid on the first of every month, whether our clients had paid us or not\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why was the studio almost out of cash in August?",
+      "question_vn": "Vì sao tháng Tám studio gần như cạn tiền mặt?",
+      "explanation": "\"all had to be paid on the first of every month, whether our clients had paid us or not\"."
+    },
+    {
+      "id": "q_u0910_054",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_06",
+      "i18n": {
+        "en": "What does the phrase \"Ruby included\" suggest?",
+        "vi": "Cụm \"kể cả Ruby\" gợi ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Chloe was so embarrassed that she hid the problem even from a close colleague.",
+            "vi": "Chloe xấu hổ đến mức giấu chuyện này ngay cả với một đồng nghiệp thân."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Chloe was so embarrassed that she hid the problem even from a close colleague.",
+          "text_translation": "Chloe xấu hổ đến mức giấu chuyện này ngay cả với một đồng nghiệp thân."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Ruby was responsible for the studio's overdraft.",
+            "vi": "Ruby phải chịu trách nhiệm về khoản thấu chi của studio."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Ruby was responsible for the studio's overdraft.",
+          "text_translation": "Ruby phải chịu trách nhiệm về khoản thấu chi của studio."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Ruby had warned Chloe about the problem in June.",
+            "vi": "Ruby đã cảnh báo Chloe từ tháng Sáu."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Ruby had warned Chloe about the problem in June.",
+          "text_translation": "Ruby đã cảnh báo Chloe từ tháng Sáu."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Ruby also had an overdraft at the same bank.",
+            "vi": "Ruby cũng có khoản thấu chi ở cùng ngân hàng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Ruby also had an overdraft at the same bank.",
+          "text_translation": "Ruby cũng có khoản thấu chi ở cùng ngân hàng."
+        }
+      ],
+      "evidence_segments": [
+        10
+      ],
+      "explanation_i18n": {
+        "vi": "\"a bank overdraft that I was ashamed to tell anyone about, Ruby included\" — giấu cả người cùng làm hằng ngày (suy luận)."
+      },
+      "audio_data": null,
+      "question_jp": "What does the phrase \"Ruby included\" suggest?",
+      "question_vn": "Cụm \"kể cả Ruby\" gợi ý điều gì?",
+      "explanation": "\"a bank overdraft that I was ashamed to tell anyone about, Ruby included\" — giấu cả người cùng làm hằng ngày (suy luận)."
+    },
+    {
+      "id": "q_u0910_055",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_06",
+      "i18n": {
+        "en": "What is the main lesson Chloe learned in August?",
+        "vi": "Bài học chính Chloe rút ra hồi tháng Tám là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "A business can be profitable and still run out of cash.",
+            "vi": "Một doanh nghiệp có thể có lãi mà vẫn cạn tiền mặt."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "A business can be profitable and still run out of cash.",
+          "text_translation": "Một doanh nghiệp có thể có lãi mà vẫn cạn tiền mặt."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Art school does not teach students how to design logos.",
+            "vi": "Trường mỹ thuật không dạy sinh viên thiết kế logo."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Art school does not teach students how to design logos.",
+          "text_translation": "Trường mỹ thuật không dạy sinh viên thiết kế logo."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Restaurants are the most difficult clients to work for.",
+            "vi": "Nhà hàng là khách khó làm nhất."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Restaurants are the most difficult clients to work for.",
+          "text_translation": "Nhà hàng là khách khó làm nhất."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "A studio should never borrow money from a bank.",
+            "vi": "Một studio không bao giờ nên vay tiền ngân hàng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "A studio should never borrow money from a bank.",
+          "text_translation": "Một studio không bao giờ nên vay tiền ngân hàng."
+        }
+      ],
+      "evidence_segments": [
+        11,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"Although the studio was profitable on paper\" — và \"That is the difference between profit and cash flow\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main lesson Chloe learned in August?",
+      "question_vn": "Bài học chính Chloe rút ra hồi tháng Tám là gì?",
+      "explanation": "\"Although the studio was profitable on paper\" — và \"That is the difference between profit and cash flow\"."
+    },
+    {
+      "id": "q_u0910_056",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_06",
+      "i18n": {
+        "en": "What is Chloe's view of clients who refuse to pay anything in advance?",
+        "vi": "Chloe nhìn nhận thế nào về những khách không chịu trả trước đồng nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They are usually the most profitable clients.",
+            "vi": "Họ thường là những khách mang lại nhiều lãi nhất."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They are usually the most profitable clients.",
+          "text_translation": "Họ thường là những khách mang lại nhiều lãi nhất."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They should be offered a lower price.",
+            "vi": "Nên giảm giá cho họ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They should be offered a lower price.",
+          "text_translation": "Nên giảm giá cho họ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They are simply following normal business practice.",
+            "vi": "Họ chỉ làm theo thông lệ kinh doanh bình thường."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They are simply following normal business practice.",
+          "text_translation": "Họ chỉ làm theo thông lệ kinh doanh bình thường."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Their refusal is a useful warning sign about working with them.",
+            "vi": "Việc họ từ chối là một dấu hiệu cảnh báo có ích về việc làm với họ."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Their refusal is a useful warning sign about working with them.",
+          "text_translation": "Việc họ từ chối là một dấu hiệu cảnh báo có ích về việc làm với họ."
+        }
+      ],
+      "evidence_segments": [
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "\"prospective clients who refuse to pay anything in advance are, in my estimation, telling us something useful\" — tức là cho thấy họ có thể trả chậm hoặc khó làm việc (hàm ý)."
+      },
+      "audio_data": null,
+      "question_jp": "What is Chloe's view of clients who refuse to pay anything in advance?",
+      "question_vn": "Chloe nhìn nhận thế nào về những khách không chịu trả trước đồng nào?",
+      "explanation": "\"prospective clients who refuse to pay anything in advance are, in my estimation, telling us something useful\" — tức là cho thấy họ có thể trả chậm hoặc khó làm việc (hàm ý)."
+    },
+    {
+      "id": "q_u0910_057",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_06",
+      "i18n": {
+        "en": "What is the separate account for?",
+        "vi": "Tài khoản riêng dùng để làm gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to buy a second large printer next year",
+            "vi": "để mua chiếc máy in khổ lớn thứ hai vào năm sau"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to buy a second large printer next year",
+          "text_translation": "để mua chiếc máy in khổ lớn thứ hai vào năm sau"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to pay for the team's Friday lunches",
+            "vi": "để trả cho bữa trưa thứ Sáu của nhóm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to pay for the team's Friday lunches",
+          "text_translation": "để trả cho bữa trưa thứ Sáu của nhóm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to cover costs during the quiet months when there is little work",
+            "vi": "để trang trải chi phí trong những tháng vắng việc"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to cover costs during the quiet months when there is little work",
+          "text_translation": "để trang trải chi phí trong những tháng vắng việc"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to pay back Leah for her help",
+            "vi": "để trả công Leah đã giúp đỡ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to pay back Leah for her help",
+          "text_translation": "để trả công Leah đã giúp đỡ"
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "\"It is our buffer for the slack season, which for designers usually arrives in January\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is the separate account for?",
+      "question_vn": "Tài khoản riêng dùng để làm gì?",
+      "explanation": "\"It is our buffer for the slack season, which for designers usually arrives in January\"."
+    },
+    {
+      "id": "q_u0910_058",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_06",
+      "i18n": {
+        "en": "Why did Chloe stop saying yes to every job?",
+        "vi": "Vì sao Chloe thôi nhận mọi việc?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Her team was too small to work on more than one project.",
+            "vi": "Nhóm của cô quá nhỏ để làm nhiều hơn một dự án."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Her team was too small to work on more than one project.",
+          "text_translation": "Nhóm của cô quá nhỏ để làm nhiều hơn một dự án."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Some small jobs cost more in time and stress than they bring in.",
+            "vi": "Có những việc nhỏ tốn thời gian và căng thẳng hơn số tiền mang lại."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "Some small jobs cost more in time and stress than they bring in.",
+          "text_translation": "Có những việc nhỏ tốn thời gian và căng thẳng hơn số tiền mang lại."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She wanted to spend more time on her portfolio.",
+            "vi": "Cô muốn dành thêm thời gian cho hồ sơ năng lực."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She wanted to spend more time on her portfolio.",
+          "text_translation": "Cô muốn dành thêm thời gian cho hồ sơ năng lực."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Large projects never look good in a portfolio.",
+            "vi": "Dự án lớn không bao giờ đẹp trong hồ sơ năng lực."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Large projects never look good in a portfolio.",
+          "text_translation": "Dự án lớn không bao giờ đẹp trong hồ sơ năng lực."
+        }
+      ],
+      "evidence_segments": [
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "\"a small project from a difficult client can cost more in time and stress than it earns\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why did Chloe stop saying yes to every job?",
+      "question_vn": "Vì sao Chloe thôi nhận mọi việc?",
+      "explanation": "\"a small project from a difficult client can cost more in time and stress than it earns\"."
+    },
+    {
+      "id": "q_u0910_059",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_06",
+      "i18n": {
+        "en": "What does \"much to Sam's disappointment\" suggest?",
+        "vi": "Cụm \"khiến Sam rất tiếc nuối\" gợi ý điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Sam had wanted the studio to buy a new printer.",
+            "vi": "Sam từng muốn studio mua máy in mới."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Sam had wanted the studio to buy a new printer.",
+          "text_translation": "Sam từng muốn studio mua máy in mới."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Sam disagreed with all four of the changes.",
+            "vi": "Sam phản đối cả bốn thay đổi."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Sam disagreed with all four of the changes.",
+          "text_translation": "Sam phản đối cả bốn thay đổi."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Sam had enjoyed the Friday lunches and missed them.",
+            "vi": "Sam từng rất thích bữa trưa thứ Sáu và tiếc vì không còn."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Sam had enjoyed the Friday lunches and missed them.",
+          "text_translation": "Sam từng rất thích bữa trưa thứ Sáu và tiếc vì không còn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Sam had to pay for his own lunch every day.",
+            "vi": "Sam phải tự trả tiền ăn trưa mỗi ngày."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Sam had to pay for his own lunch every day.",
+          "text_translation": "Sam phải tự trả tiền ăn trưa mỗi ngày."
+        }
+      ],
+      "evidence_segments": [
+        20
+      ],
+      "explanation_i18n": {
+        "vi": "\"I no longer splash out on lunch for the team every Friday, much to Sam's disappointment\" — giọng hài hước nhẹ."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"much to Sam's disappointment\" suggest?",
+      "question_vn": "Cụm \"khiến Sam rất tiếc nuối\" gợi ý điều gì?",
+      "explanation": "\"I no longer splash out on lunch for the team every Friday, much to Sam's disappointment\" — giọng hài hước nhẹ."
+    },
+    {
+      "id": "q_u0910_060",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0910_06",
+      "i18n": {
+        "en": "What is the main message of the final paragraph?",
+        "vi": "Thông điệp chính của đoạn cuối là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Managing money carefully matters as much as doing good work.",
+            "vi": "Quản lý tiền cẩn thận quan trọng không kém làm ra sản phẩm tốt."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Managing money carefully matters as much as doing good work.",
+          "text_translation": "Quản lý tiền cẩn thận quan trọng không kém làm ra sản phẩm tốt."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "People should not open a studio without a business degree.",
+            "vi": "Không nên mở studio nếu không có bằng kinh doanh."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "People should not open a studio without a business degree.",
+          "text_translation": "Không nên mở studio nếu không có bằng kinh doanh."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Good design work is less important than low prices.",
+            "vi": "Thiết kế tốt kém quan trọng hơn giá rẻ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Good design work is less important than low prices.",
+          "text_translation": "Thiết kế tốt kém quan trọng hơn giá rẻ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Most studios close because their work is bad.",
+            "vi": "Phần lớn studio đóng cửa vì làm việc kém."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Most studios close because their work is bad.",
+          "text_translation": "Phần lớn studio đóng cửa vì làm việc kém."
+        }
+      ],
+      "evidence_segments": [
+        22,
+        23
+      ],
+      "explanation_i18n": {
+        "vi": "\"A studio rarely closes because its work is bad; far more often, it closes because the money arrived too late.\""
+      },
+      "audio_data": null,
+      "question_jp": "What is the main message of the final paragraph?",
+      "question_vn": "Thông điệp chính của đoạn cuối là gì?",
+      "explanation": "\"A studio rarely closes because its work is bad; far more often, it closes because the money arrived too late.\""
     }
   ],
   "question_sets": [
@@ -2035,6 +5965,90 @@
         "q_u0910_018",
         "q_u0910_019",
         "q_u0910_020"
+      ]
+    },
+    {
+      "set_id": "set_u0910_reading_3",
+      "set_type": "reading",
+      "name": "Bài đọc 3 (Unit 9) — Bài phê bình phim: phần tiếp theo của một bom tấn mùa hè",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 3,
+      "reading_passage_ref": "passage_u0910_03",
+      "question_ids": [
+        "q_u0910_021",
+        "q_u0910_022",
+        "q_u0910_023",
+        "q_u0910_024",
+        "q_u0910_025",
+        "q_u0910_026",
+        "q_u0910_027",
+        "q_u0910_028",
+        "q_u0910_029",
+        "q_u0910_030"
+      ]
+    },
+    {
+      "set_id": "set_u0910_reading_4",
+      "set_type": "reading",
+      "name": "Bài đọc 4 (Unit 9) — Bài khoa học phổ thông: vì sao có phòng hoà nhạc nghe hay hơn",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 4,
+      "reading_passage_ref": "passage_u0910_04",
+      "question_ids": [
+        "q_u0910_031",
+        "q_u0910_032",
+        "q_u0910_033",
+        "q_u0910_034",
+        "q_u0910_035",
+        "q_u0910_036",
+        "q_u0910_037",
+        "q_u0910_038",
+        "q_u0910_039",
+        "q_u0910_040"
+      ]
+    },
+    {
+      "set_id": "set_u0910_reading_5",
+      "set_type": "reading",
+      "name": "Bài đọc 5 (Unit 10) — Tóm tắt nghiên cứu: vì sao tiền bất ngờ dễ bị tiêu hoang",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 5,
+      "reading_passage_ref": "passage_u0910_05",
+      "question_ids": [
+        "q_u0910_041",
+        "q_u0910_042",
+        "q_u0910_043",
+        "q_u0910_044",
+        "q_u0910_045",
+        "q_u0910_046",
+        "q_u0910_047",
+        "q_u0910_048",
+        "q_u0910_049",
+        "q_u0910_050"
+      ]
+    },
+    {
+      "set_id": "set_u0910_reading_6",
+      "set_type": "reading",
+      "name": "Bài đọc 6 (Unit 10) — Blog của Chloe: bốn tháng mở studio và bài học về dòng tiền",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 6,
+      "reading_passage_ref": "passage_u0910_06",
+      "question_ids": [
+        "q_u0910_051",
+        "q_u0910_052",
+        "q_u0910_053",
+        "q_u0910_054",
+        "q_u0910_055",
+        "q_u0910_056",
+        "q_u0910_057",
+        "q_u0910_058",
+        "q_u0910_059",
+        "q_u0910_060"
       ]
     }
   ]
