@@ -842,7 +842,7 @@
 *(Câu nào tóm tắt đúng nhất đánh giá chung của Megan về cuốn sách?)*
 
 - A. It is perfect and should replace the hospital's current well-being program. *(Sách hoàn hảo và nên thay chương trình chăm sóc sức khoẻ toàn diện hiện tại của bệnh viện.)*
-- B. It has flaws, but it asks the right questions of the right people. *(Sách có khuyết điểm, nhưng đặt đúng câu hỏi cho đúng người.)*
+- B. It has weaknesses, but staff and managers alike should read it. *(Sách có điểm yếu, nhưng cả nhân viên lẫn quản lý đều nên đọc.)*
 - C. It is pleasant to read but has no practical value for nurses. *(Sách dễ đọc nhưng chẳng có giá trị thực tế gì cho điều dưỡng.)*
 - D. It is useful for managers but not for other members of staff. *(Sách hữu ích cho quản lý nhưng không cho nhân viên khác.)*
 

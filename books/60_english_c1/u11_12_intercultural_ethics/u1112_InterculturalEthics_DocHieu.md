@@ -352,81 +352,81 @@
 **21. Why does Lydia begin with a question from one of her students?**
 *(Vì sao Lydia mở đầu bằng câu hỏi của một học sinh?)*
 
-- A. to introduce a habit that almost everyone shares *(để giới thiệu một thói quen hầu như ai cũng có)*
+- A. to show that she speaks badly when she is on the phone *(để cho thấy cô nói kém khi nghe điện thoại)*
 - B. to complain that students ask too many personal questions *(để than phiền rằng học sinh hỏi quá nhiều chuyện riêng)*
-- C. to show that she speaks badly when she is on the phone *(để cho thấy cô nói kém khi nghe điện thoại)*
+- C. to introduce a habit that almost everyone shares *(để giới thiệu một thói quen hầu như ai cũng có)*
 - D. to explain why she calls her mother every September *(để giải thích vì sao tháng Chín nào cô cũng gọi cho mẹ)*
 
 **22. According to communication accommodation theory, what do people do?**
 *(Theo thuyết điều tiết giao tiếp, con người làm gì?)*
 
-- A. They speak in exactly the same way to everyone. *(Họ nói y hệt nhau với mọi người.)*
-- B. They choose their words only after careful planning. *(Họ chỉ chọn từ sau khi tính toán kỹ.)*
-- C. They copy the accent of whoever spoke to them first in a conversation. *(Họ bắt chước giọng của người nói với họ trước tiên trong cuộc trò chuyện.)*
-- D. They adjust their speech to the listener, mostly unconsciously. *(Họ điều chỉnh lời nói theo người nghe, phần lớn là vô thức.)*
+- A. They choose their words only after careful planning. *(Họ chỉ chọn từ sau khi tính toán kỹ.)*
+- B. They adjust their speech to the listener, mostly unconsciously. *(Họ điều chỉnh lời nói theo người nghe, phần lớn là vô thức.)*
+- C. They speak in exactly the same way to everyone. *(Họ nói y hệt nhau với mọi người.)*
+- D. They copy the accent of whoever spoke to them first in a conversation. *(Họ bắt chước giọng của người nói với họ trước tiên trong cuộc trò chuyện.)*
 
 **23. What does the sentence beginning "Much as we like to think" suggest?**
 *(Câu bắt đầu bằng "Much as we like to think" gợi ý điều gì?)*
 
-- A. We should try harder to keep our own voice in every conversation. *(Ta nên cố hơn để giữ giọng riêng của mình trong mọi cuộc trò chuyện.)*
+- A. Most people secretly dislike the sound of their own voice. *(Phần lớn mọi người thầm ghét giọng nói của chính mình.)*
 - B. Our speech is less fixed and personal than we think. *(Cách ta nói ít cố định và ít mang tính riêng hơn ta nghĩ.)*
-- C. Most people secretly dislike the sound of their own voice. *(Phần lớn mọi người thầm ghét giọng nói của chính mình.)*
-- D. Conversations rarely change the way we think. *(Các cuộc trò chuyện hiếm khi thay đổi cách ta nghĩ.)*
+- C. Conversations rarely change the way we think. *(Các cuộc trò chuyện hiếm khi thay đổi cách ta nghĩ.)*
+- D. We should try harder to keep our own voice in every conversation. *(Ta nên cố hơn để giữ giọng riêng của mình trong mọi cuộc trò chuyện.)*
 
 **24. Why does Lydia mention the nurse and the teenager?**
 *(Vì sao Lydia nhắc tới người điều dưỡng và cậu thiếu niên?)*
 
-- A. as examples of people who talk down to others *(như ví dụ về những người coi thường người khác)*
-- B. to show that only some jobs require good communication *(để cho thấy chỉ một số nghề cần giao tiếp tốt)*
+- A. to show that only some jobs require good communication *(để cho thấy chỉ một số nghề cần giao tiếp tốt)*
+- B. as examples of people who talk down to others *(như ví dụ về những người coi thường người khác)*
 - C. as everyday examples of convergence *(như những ví dụ đời thường về sự hội tụ)*
 - D. to suggest that teenagers learn new words faster than adults *(để ngụ ý rằng thiếu niên học từ mới nhanh hơn người lớn)*
 
 **25. According to Lydia, when does convergence go wrong?**
 *(Theo Lydia, khi nào hội tụ hỏng việc?)*
 
-- A. when the speaker changes their accent too slowly for anyone to notice *(khi người nói đổi giọng chậm đến mức không ai nhận ra)*
-- B. when it responds to a group, not the real person *(khi nó phản ứng với một nhóm, không phải với con người thật)*
+- A. when it responds to a group, not the real person *(khi nó phản ứng với một nhóm, không phải với con người thật)*
+- B. when it is used with friends rather than strangers *(khi dùng với bạn bè thay vì người lạ)*
 - C. when both people grew up in the same town and share a dialect *(khi cả hai lớn lên cùng một thị trấn và dùng chung phương ngữ)*
-- D. when it is used with friends rather than strangers *(khi dùng với bạn bè thay vì người lạ)*
+- D. when the speaker changes their accent too slowly for anyone to notice *(khi người nói đổi giọng chậm đến mức không ai nhận ra)*
 
 **26. What does "less like friendship than like an insult" mean?**
 *("less like friendship than like an insult" nghĩa là gì?)*
 
-- A. You may seem to be mocking the other person. *(Có thể trông như bạn đang giễu cợt người kia.)*
-- B. It may help you make new friends quickly. *(Nó có thể giúp bạn kết bạn mới nhanh chóng.)*
-- C. It may sound friendly but too formal. *(Nó có thể nghe thân thiện nhưng quá trang trọng.)*
-- D. It may be hard for others to understand. *(Người khác có thể khó hiểu.)*
+- A. It may be hard for others to understand. *(Người khác có thể khó hiểu.)*
+- B. It may sound friendly but too formal. *(Nó có thể nghe thân thiện nhưng quá trang trọng.)*
+- C. It may help you make new friends quickly. *(Nó có thể giúp bạn kết bạn mới nhanh chóng.)*
+- D. You may seem to be mocking the other person. *(Có thể trông như bạn đang giễu cợt người kia.)*
 
 **27. Why might a speaker choose divergence?**
 *(Vì sao người nói có thể chọn phân kỳ?)*
 
 - A. to make the other person feel more relaxed and comfortable with them *(để người kia thấy thoải mái, dễ chịu hơn với mình)*
-- B. to hide where they grew up *(để giấu nơi mình lớn lên)*
-- C. to sound more like the person they are talking to *(để nghe giống người mình đang nói chuyện hơn)*
+- B. to sound more like the person they are talking to *(để nghe giống người mình đang nói chuyện hơn)*
+- C. to hide where they grew up *(để giấu nơi mình lớn lên)*
 - D. to show where they belong, or to keep their distance *(để cho thấy mình thuộc về đâu, hoặc để giữ khoảng cách)*
 
 **28. What is Lydia's attitude towards the colleague who keeps the dialect of her hometown?**
 *(Lydia có thái độ thế nào với người đồng nghiệp giữ phương ngữ quê nhà?)*
 
-- A. critical: she thinks the colleague should adapt *(phê phán: cô nghĩ người đồng nghiệp nên thay đổi)*
-- B. amused: she finds the dialect funny *(buồn cười: cô thấy phương ngữ ấy vui tai)*
-- C. positive: she sees it as an expression of identity *(tích cực: cô xem đó là cách thể hiện bản sắc)*
+- A. positive: she sees it as an expression of identity *(tích cực: cô xem đó là cách thể hiện bản sắc)*
+- B. critical: she thinks the colleague should adapt *(phê phán: cô nghĩ người đồng nghiệp nên thay đổi)*
+- C. amused: she finds the dialect funny *(buồn cười: cô thấy phương ngữ ấy vui tai)*
 - D. worried: she fears the dialect will confuse her students *(lo lắng: cô sợ phương ngữ ấy làm học sinh bối rối)*
 
 **29. According to Lydia, what does linguistic skill of this kind mainly involve?**
 *(Theo Lydia, kỹ năng ngôn ngữ kiểu này chủ yếu là gì?)*
 
-- A. sensitivity to context and the listener's real needs *(sự nhạy bén với ngữ cảnh và nhu cầu thật của người nghe)*
-- B. perfect grammar in every situation *(ngữ pháp hoàn hảo trong mọi tình huống)*
-- C. the ability to imitate many different accents and regional dialects *(khả năng bắt chước nhiều giọng và phương ngữ vùng miền khác nhau)*
-- D. always using easier language with people they have just met *(luôn dùng ngôn ngữ dễ hơn với người mới gặp)*
+- A. the ability to imitate many different accents and regional dialects *(khả năng bắt chước nhiều giọng và phương ngữ vùng miền khác nhau)*
+- B. always using easier language with people they have just met *(luôn dùng ngôn ngữ dễ hơn với người mới gặp)*
+- C. sensitivity to context and the listener's real needs *(sự nhạy bén với ngữ cảnh và nhu cầu thật của người nghe)*
+- D. perfect grammar in every situation *(ngữ pháp hoàn hảo trong mọi tình huống)*
 
 **30. What does the final sentence imply?**
 *(Câu cuối hàm ý điều gì?)*
 
-- A. Teenagers usually do not listen to their parents. *(Thiếu niên thường không nghe lời cha mẹ.)*
-- B. Adapting how we speak shows attention to others. *(Điều chỉnh cách nói cho thấy ta để tâm tới người khác.)*
-- C. Parents should correct the way their children speak. *(Cha mẹ nên sửa cách nói của con.)*
+- A. Adapting how we speak shows attention to others. *(Điều chỉnh cách nói cho thấy ta để tâm tới người khác.)*
+- B. Parents should correct the way their children speak. *(Cha mẹ nên sửa cách nói của con.)*
+- C. Teenagers usually do not listen to their parents. *(Thiếu niên thường không nghe lời cha mẹ.)*
 - D. Speaking differently to friends is a sign of a problem. *(Nói khác đi với bạn bè là dấu hiệu có vấn đề.)*
 
 ---
@@ -489,58 +489,58 @@
 **32. What did Mauss conclude about gifts?**
 *(Mauss kết luận gì về quà tặng?)*
 
-- A. They are rarely free, since they create duties. *(Chúng hiếm khi miễn phí, vì chúng tạo ra bổn phận.)*
-- B. They were more common in antiquity than in his own time. *(Chúng phổ biến thời cổ đại hơn thời của ông.)*
-- C. They should always be refused politely. *(Luôn nên từ chối chúng một cách lịch sự.)*
-- D. They have no meaning beyond their price. *(Chúng chẳng có ý nghĩa gì ngoài giá tiền.)*
+- A. They were more common in antiquity than in his own time. *(Chúng phổ biến thời cổ đại hơn thời của ông.)*
+- B. They are rarely free, since they create duties. *(Chúng hiếm khi miễn phí, vì chúng tạo ra bổn phận.)*
+- C. They have no meaning beyond their price. *(Chúng chẳng có ý nghĩa gì ngoài giá tiền.)*
+- D. They should always be refused politely. *(Luôn nên từ chối chúng một cách lịch sự.)*
 
 **33. Why could refusing a gift be insulting, according to Mauss?**
 *(Theo Mauss, vì sao từ chối quà có thể là xúc phạm?)*
 
 - A. because the gift had usually cost a great deal of money *(vì món quà thường rất đắt tiền)*
-- B. because the person who gave it would then have to take it home *(vì người tặng sẽ phải mang nó về lại)*
-- C. because refusing was against the law in many societies *(vì từ chối là phạm luật ở nhiều xã hội)*
-- D. because it rejected the relationship the gift was meant to create *(vì nó khước từ mối quan hệ mà món quà nhằm tạo ra)*
+- B. because refusing was against the law in many societies *(vì từ chối là phạm luật ở nhiều xã hội)*
+- C. because it rejected the relationship the gift was meant to create *(vì nó khước từ mối quan hệ mà món quà nhằm tạo ra)*
+- D. because the person who gave it would then have to take it home *(vì người tặng sẽ phải mang nó về lại)*
 
 **34. What did the holiday card experiment show?**
 *(Thí nghiệm thiệp mừng lễ cho thấy điều gì?)*
 
-- A. Most people throw away cards from strangers. *(Phần lớn người ta vứt thiệp của người lạ.)*
-- B. The urge to give back is strong, even towards strangers. *(Thôi thúc đáp lễ rất mạnh, kể cả với người lạ.)*
-- C. People only reply to cards from their own families. *(Người ta chỉ hồi âm thiệp của gia đình mình.)*
-- D. Long letters are more effective than holiday cards at making friends. *(Thư dài kết bạn hiệu quả hơn thiệp mừng lễ.)*
+- A. Long letters are more effective than holiday cards at making friends. *(Thư dài kết bạn hiệu quả hơn thiệp mừng lễ.)*
+- B. People only reply to cards from their own families. *(Người ta chỉ hồi âm thiệp của gia đình mình.)*
+- C. The urge to give back is strong, even towards strangers. *(Thôi thúc đáp lễ rất mạnh, kể cả với người lạ.)*
+- D. Most people throw away cards from strangers. *(Phần lớn người ta vứt thiệp của người lạ.)*
 
 **35. What does the sentence beginning "So strong was the habit of giving back" emphasize?**
 *(Câu bắt đầu bằng "So strong was the habit of giving back" nhấn mạnh điều gì?)*
 
-- A. The researcher was well known to many of the people he wrote to. *(Nhà nghiên cứu được nhiều người nhận thiệp biết tới.)*
-- B. Most people were suspicious and refused to reply. *(Phần lớn người nhận nghi ngờ và không hồi âm.)*
+- A. Most people were suspicious and refused to reply. *(Phần lớn người nhận nghi ngờ và không hồi âm.)*
+- B. People replied without asking why a stranger had written. *(Người ta hồi âm mà không hỏi vì sao một người lạ lại viết cho mình.)*
 - C. The experiment was repeated many times in different countries. *(Thí nghiệm được lặp lại nhiều lần ở nhiều nước.)*
-- D. People replied without asking why a stranger had written. *(Người ta hồi âm mà không hỏi vì sao một người lạ lại viết cho mình.)*
+- D. The researcher was well known to many of the people he wrote to. *(Nhà nghiên cứu được nhiều người nhận thiệp biết tới.)*
 
 **36. Why does the writer mention the server who turned back to offer a second mint?**
 *(Vì sao tác giả nhắc tới người phục vụ quay lại đưa thêm viên kẹo thứ hai?)*
 
-- A. to show that customers clearly prefer receiving two mints rather than one *(để cho thấy khách rõ ràng thích nhận hai viên kẹo bạc hà hơn một viên)*
+- A. to suggest that a gift that feels personal creates more obligation *(để gợi ý rằng món quà có vẻ dành riêng cho mình tạo ra cảm giác mắc nợ nhiều hơn)*
 - B. to criticize servers who give away too many free things *(để phê phán người phục vụ cho quá nhiều đồ miễn phí)*
-- C. to suggest that a gift that feels personal creates more obligation *(để gợi ý rằng món quà có vẻ dành riêng cho mình tạo ra cảm giác mắc nợ nhiều hơn)*
+- C. to show that customers clearly prefer receiving two mints rather than one *(để cho thấy khách rõ ràng thích nhận hai viên kẹo bạc hà hơn một viên)*
 - D. to explain how restaurants decide the price of a meal *(để giải thích cách nhà hàng định giá món ăn)*
 
 **37. What do the free sample and the complimentary breakfast have in common?**
 *(Món ăn thử miễn phí và bữa sáng tặng kèm có điểm gì chung?)*
 
-- A. Both use a small gift to create a sense of debt. *(Cả hai dùng một món quà nhỏ để tạo cảm giác mắc nợ.)*
-- B. Both are offered only to regular customers who have paid before. *(Cả hai chỉ dành cho khách quen đã từng trả tiền.)*
-- C. Both are more expensive for customers than they first appear. *(Cả hai đắt với khách hơn vẻ ban đầu.)*
-- D. Both were first studied by Marcel Mauss. *(Cả hai đều do Marcel Mauss nghiên cứu đầu tiên.)*
+- A. Both are more expensive for customers than they first appear. *(Cả hai đắt với khách hơn vẻ ban đầu.)*
+- B. Both were first studied by Marcel Mauss. *(Cả hai đều do Marcel Mauss nghiên cứu đầu tiên.)*
+- C. Both are offered only to regular customers who have paid before. *(Cả hai chỉ dành cho khách quen đã từng trả tiền.)*
+- D. Both use a small gift to create a sense of debt. *(Cả hai dùng một món quà nhỏ để tạo cảm giác mắc nợ.)*
 
 **38. What is the writer's position on whether kindness is just a trade?**
 *(Quan điểm của tác giả về việc lòng tốt có phải chỉ là mua bán không?)*
 
-- A. He believes that all kindness is secretly selfish underneath. *(Ông tin rằng mọi lòng tốt thực chất đều ích kỷ ngầm bên dưới.)*
-- B. He sees gifts as mainly about relationships, not trade. *(Ông xem quà tặng chủ yếu là chuyện quan hệ, không phải trao đổi.)*
-- C. He thinks the question has been fully answered by psychologists. *(Ông cho rằng các nhà tâm lý học đã trả lời trọn vẹn câu hỏi.)*
-- D. He refuses to give any opinion on the question. *(Ông từ chối đưa ra bất kỳ ý kiến nào.)*
+- A. He sees gifts as mainly about relationships, not trade. *(Ông xem quà tặng chủ yếu là chuyện quan hệ, không phải trao đổi.)*
+- B. He believes that all kindness is secretly selfish underneath. *(Ông tin rằng mọi lòng tốt thực chất đều ích kỷ ngầm bên dưới.)*
+- C. He refuses to give any opinion on the question. *(Ông từ chối đưa ra bất kỳ ý kiến nào.)*
+- D. He thinks the question has been fully answered by psychologists. *(Ông cho rằng các nhà tâm lý học đã trả lời trọn vẹn câu hỏi.)*
 
 **39. Why can a very expensive gift make the person who receives it uncomfortable?**
 *(Vì sao một món quà rất đắt có thể khiến người nhận khó xử?)*
@@ -553,9 +553,9 @@
 **40. What does the writer suggest in the final paragraph?**
 *(Tác giả gợi ý điều gì ở đoạn cuối?)*
 
-- A. Pay the neighbor back for the jam as soon as you possibly can. *(Trả tiền hũ mứt cho người hàng xóm càng sớm càng tốt.)*
+- A. Accept it gladly and return the kindness later. *(Vui vẻ nhận và đáp lại tấm lòng sau.)*
 - B. Refuse all gifts to avoid any feeling of debt. *(Hãy từ chối mọi món quà để khỏi thấy mắc nợ.)*
-- C. Accept it gladly and return the kindness later. *(Vui vẻ nhận và đáp lại tấm lòng sau.)*
+- C. Pay the neighbor back for the jam as soon as you possibly can. *(Trả tiền hũ mứt cho người hàng xóm càng sớm càng tốt.)*
 - D. Give the neighbor a more expensive gift in return. *(Hãy tặng lại hàng xóm món quà đắt hơn.)*
 
 ---
@@ -610,18 +610,18 @@
 **41. Why did the recruiting system score some applications lower?**
 *(Vì sao hệ thống tuyển dụng chấm một số hồ sơ thấp hơn?)*
 
-- A. Its engineers had told it to prefer male applicants. *(Các kỹ sư đã ra lệnh cho nó ưu tiên ứng viên nam.)*
-- B. It had learned from past applications, mostly from men. *(Nó đã học từ hồ sơ cũ, phần lớn của nam giới.)*
-- C. Those applications were sent in after the deadline. *(Những hồ sơ đó được gửi sau hạn chót.)*
-- D. Those applicants had less experience than the men who had applied. *(Những người nộp đơn đó ít kinh nghiệm hơn những ứng viên nam.)*
+- A. Those applications were sent in after the deadline. *(Những hồ sơ đó được gửi sau hạn chót.)*
+- B. Those applicants had less experience than the men who had applied. *(Những người nộp đơn đó ít kinh nghiệm hơn những ứng viên nam.)*
+- C. Its engineers had told it to prefer male applicants. *(Các kỹ sư đã ra lệnh cho nó ưu tiên ứng viên nam.)*
+- D. It had learned from past applications, mostly from men. *(Nó đã học từ hồ sơ cũ, phần lớn của nam giới.)*
 
 **42. Why was the project finally dropped?**
 *(Vì sao dự án cuối cùng bị huỷ?)*
 
 - A. A news report forced the company to shut it down overnight. *(Một bản tin buộc công ty đóng hệ thống chỉ sau một đêm.)*
 - B. It cost far more to run than the company had expected. *(Chi phí vận hành cao hơn nhiều so với công ty dự tính.)*
-- C. No one could be sure it would stop favoring men. *(Không ai chắc được nó sẽ thôi thiên vị nam giới.)*
-- D. The company had stopped hiring engineers for several years. *(Công ty đã ngừng tuyển kỹ sư suốt mấy năm.)*
+- C. The company had stopped hiring engineers for several years. *(Công ty đã ngừng tuyển kỹ sư suốt mấy năm.)*
+- D. No one could be sure it would stop favoring men. *(Không ai chắc được nó sẽ thôi thiên vị nam giới.)*
 
 **43. Why does the writer say that "Nobody had programmed the machine to be unfair" makes such cases difficult?**
 *(Vì sao tác giả nói việc "Không ai lập trình cho cỗ máy phải bất công" khiến những trường hợp này khó?)*
@@ -634,10 +634,10 @@
 **44. What does the phrase "with the authority of a calculation" suggest?**
 *(Cụm "giờ lại khoác thêm uy tín của một phép tính" gợi ý điều gì?)*
 
-- A. Calculations are always fair and correct. *(Các phép tính luôn công bằng và chính xác.)*
-- B. Machines have legal authority over people. *(Máy móc có quyền lực pháp lý đối với con người.)*
-- C. Only mathematicians can check algorithms. *(Chỉ nhà toán học mới kiểm tra được thuật toán.)*
-- D. Old unfair patterns can now look objective. *(Những khuôn mẫu bất công cũ giờ có thể trông khách quan.)*
+- A. Old unfair patterns can now look objective. *(Những khuôn mẫu bất công cũ giờ có thể trông khách quan.)*
+- B. Calculations are always fair and correct. *(Các phép tính luôn công bằng và chính xác.)*
+- C. Machines have legal authority over people. *(Máy móc có quyền lực pháp lý đối với con người.)*
+- D. Only mathematicians can check algorithms. *(Chỉ nhà toán học mới kiểm tra được thuật toán.)*
 
 **45. What is the main problem the writer describes in the paragraph that begins "Who, then, is responsible"?**
 *(Vấn đề chính người viết mô tả trong đoạn bắt đầu bằng "Who, then, is responsible" là gì?)*
@@ -650,42 +650,42 @@
 **46. What does "Left unchallenged" mean in this context?**
 *("Left unchallenged" trong ngữ cảnh này nghĩa là gì?)*
 
-- A. after it has been solved *(sau khi nó đã được giải quyết)*
-- B. if nobody questions or deals with it *(nếu không ai chất vấn hay xử lý nó)*
-- C. because it is too difficult to change *(vì nó quá khó thay đổi)*
+- A. because it is too difficult to change *(vì nó quá khó thay đổi)*
+- B. after it has been solved *(sau khi nó đã được giải quyết)*
+- C. if nobody questions or deals with it *(nếu không ai chất vấn hay xử lý nó)*
 - D. although many people have complained about it *(dù nhiều người đã phàn nàn về nó)*
 
 **47. Why does the writer compare testing an algorithm to inspecting a new bridge?**
 *(Vì sao tác giả so việc kiểm tra thuật toán với việc kiểm định một cây cầu mới?)*
 
-- A. to suggest that regular checks for hidden flaws should be routine *(để gợi ý rằng việc kiểm tra định kỳ tìm lỗi ẩn nên là thông lệ)*
-- B. to show that algorithms cost as much to build and maintain as bridges *(để cho thấy thuật toán tốn kém để xây và bảo trì như cầu)*
-- C. to argue that engineers should design algorithms *(để lập luận rằng kỹ sư xây dựng nên thiết kế thuật toán)*
-- D. to suggest that algorithms rarely have weaknesses *(để ngụ ý rằng thuật toán hiếm khi có điểm yếu)*
+- A. to show that algorithms cost as much to build and maintain as bridges *(để cho thấy thuật toán tốn kém để xây và bảo trì như cầu)*
+- B. to suggest that regular checks for hidden flaws should be routine *(để gợi ý rằng việc kiểm tra định kỳ tìm lỗi ẩn nên là thông lệ)*
+- C. to suggest that algorithms rarely have weaknesses *(để ngụ ý rằng thuật toán hiếm khi có điểm yếu)*
+- D. to argue that engineers should design algorithms *(để lập luận rằng kỹ sư xây dựng nên thiết kế thuật toán)*
 
 **48. What is the weakness of relying on a human reviewer, according to the writer?**
 *(Theo tác giả, dựa vào người duyệt có nhược điểm gì?)*
 
-- A. People who check applications are usually more unfair than machines. *(Người duyệt thường bất công hơn máy.)*
-- B. People who check applications cannot understand technical explanations. *(Người duyệt không hiểu được giải thích kỹ thuật.)*
-- C. People who check applications are too expensive for most companies. *(Người duyệt quá đắt với phần lớn công ty.)*
-- D. A busy reviewer may simply accept the machine's choice. *(Người duyệt bận rộn có thể chỉ việc chấp nhận lựa chọn của máy.)*
+- A. People who check applications are too expensive for most companies. *(Người duyệt quá đắt với phần lớn công ty.)*
+- B. A busy reviewer may simply accept the machine's choice. *(Người duyệt bận rộn có thể chỉ việc chấp nhận lựa chọn của máy.)*
+- C. People who check applications are usually more unfair than machines. *(Người duyệt thường bất công hơn máy.)*
+- D. People who check applications cannot understand technical explanations. *(Người duyệt không hiểu được giải thích kỹ thuật.)*
 
 **49. What is the writer's main position in the final paragraph?**
 *(Quan điểm chính của tác giả ở đoạn cuối là gì?)*
 
 - A. Algorithms should never be used for hiring. *(Không bao giờ nên dùng thuật toán để tuyển dụng.)*
-- B. A company that uses a tool stays responsible for its results. *(Công ty dùng một công cụ vẫn phải chịu trách nhiệm về kết quả của nó.)*
-- C. The company that builds a tool is always to blame. *(Công ty làm ra công cụ luôn có lỗi.)*
-- D. Applicants should check every algorithm themselves before applying. *(Ứng viên nên tự kiểm tra mọi thuật toán trước khi nộp đơn.)*
+- B. The company that builds a tool is always to blame. *(Công ty làm ra công cụ luôn có lỗi.)*
+- C. Applicants should check every algorithm themselves before applying. *(Ứng viên nên tự kiểm tra mọi thuật toán trước khi nộp đơn.)*
+- D. A company that uses a tool stays responsible for its results. *(Công ty dùng một công cụ vẫn phải chịu trách nhiệm về kết quả của nó.)*
 
 **50. What is the purpose of the comparison with a manager following a bad set of instructions?**
 *(Phép so sánh với người quản lý làm theo bộ hướng dẫn tồi nhằm mục đích gì?)*
 
 - A. to suggest that managers are more dangerous than algorithms *(để gợi ý rằng người quản lý nguy hiểm hơn thuật toán)*
-- B. to explain how companies write instructions for their staff *(để giải thích cách công ty viết hướng dẫn cho nhân viên)*
-- C. to argue that managers should be replaced by algorithms *(để lập luận rằng nên thay quản lý bằng thuật toán)*
-- D. to show, by a familiar case, that "the algorithm did it" is no excuse *(để cho thấy, qua một trường hợp quen thuộc, rằng "do thuật toán" không phải là lời bào chữa)*
+- B. to show, by a familiar case, that "the algorithm did it" is no excuse *(để cho thấy, qua một trường hợp quen thuộc, rằng "do thuật toán" không phải là lời bào chữa)*
+- C. to explain how companies write instructions for their staff *(để giải thích cách công ty viết hướng dẫn cho nhân viên)*
+- D. to argue that managers should be replaced by algorithms *(để lập luận rằng nên thay quản lý bằng thuật toán)*
 
 ---
 
@@ -747,82 +747,82 @@
 **51. Why did Mitchell write this letter?**
 *(Vì sao Mitchell viết lá thư này?)*
 
-- A. to ask the committee to buy new laptops for students *(để đề nghị Ban mua máy tính xách tay mới cho học sinh)*
-- B. to complain about the behavior of one particular class *(để phàn nàn về cách cư xử của một lớp cụ thể)*
-- C. to apply for a position on the technology committee *(để xin vào Ban Công nghệ)*
-- D. to answer the committee's call for comments and oppose a plan *(để đáp lời mời góp ý của ban và phản đối một kế hoạch)*
+- A. to apply for a position on the technology committee *(để xin vào Ban Công nghệ)*
+- B. to answer the committee's call for comments and oppose a plan *(để đáp lời mời góp ý của ban và phản đối một kế hoạch)*
+- C. to ask the committee to buy new laptops for students *(để đề nghị Ban mua máy tính xách tay mới cho học sinh)*
+- D. to complain about the behavior of one particular class *(để phàn nàn về cách cư xử của một lớp cụ thể)*
 
 **52. What is Mitchell's attitude towards the committee's goal?**
 *(Thái độ của Mitchell với mục tiêu của Ban là gì?)*
 
-- A. He thinks distraction in class is not a real problem. *(Ông cho rằng mất tập trung trong lớp không phải vấn đề thật.)*
-- B. He shares their concern but rejects their solution. *(Ông chia sẻ mối lo của họ nhưng bác giải pháp của họ.)*
-- C. He fully supports both their goal and their solution. *(Ông ủng hộ hoàn toàn cả mục tiêu lẫn giải pháp của họ.)*
+- A. He shares their concern but rejects their solution. *(Ông chia sẻ mối lo của họ nhưng bác giải pháp của họ.)*
+- B. He fully supports both their goal and their solution. *(Ông ủng hộ hoàn toàn cả mục tiêu lẫn giải pháp của họ.)*
+- C. He thinks distraction in class is not a real problem. *(Ông cho rằng mất tập trung trong lớp không phải vấn đề thật.)*
 - D. He believes the committee has no right to decide. *(Ông cho rằng Ban không có quyền quyết định.)*
 
 **53. Which of the following is NOT part of the FocusTrack plan, as Mitchell describes it?**
 *(Điều nào sau đây KHÔNG thuộc kế hoạch FocusTrack theo mô tả của Mitchell?)*
 
-- A. recording what appears on students' screens during lessons *(ghi lại những gì hiện trên màn hình học sinh trong giờ học)*
-- B. marking activity that the software judges to be off task *(đánh dấu hoạt động mà phần mềm cho là lạc đề)*
-- C. automatically blocking websites that are not related to lessons *(tự động chặn các trang web không liên quan tới bài học)*
-- D. giving each student a weekly attention score *(cho mỗi học sinh một điểm tập trung hằng tuần)*
+- A. giving each student a weekly attention score *(cho mỗi học sinh một điểm tập trung hằng tuần)*
+- B. automatically blocking websites that are not related to lessons *(tự động chặn các trang web không liên quan tới bài học)*
+- C. recording what appears on students' screens during lessons *(ghi lại những gì hiện trên màn hình học sinh trong giờ học)*
+- D. marking activity that the software judges to be off task *(đánh dấu hoạt động mà phần mềm cho là lạc đề)*
 
 **54. Why does Mitchell describe a student checking a date and a student staring silently at a page?**
 *(Vì sao Mitchell tả một học sinh tra mốc ngày và một học sinh lặng lẽ nhìn vào một trang?)*
 
-- A. to show that the software cannot tell attention from its appearance *(để cho thấy phần mềm không phân biệt được sự tập trung thật với vẻ bề ngoài của nó)*
+- A. to suggest that quiet students are usually the best learners *(để ngụ ý rằng học sinh trầm lặng thường học giỏi nhất)*
 - B. to show that news websites should be blocked in lessons *(để cho thấy nên chặn trang tin tức trong giờ học)*
-- C. to suggest that quiet students are usually the best learners *(để ngụ ý rằng học sinh trầm lặng thường học giỏi nhất)*
+- C. to show that the software cannot tell attention from its appearance *(để cho thấy phần mềm không phân biệt được sự tập trung thật với vẻ bề ngoài của nó)*
 - D. to explain how he himself checks whether students are paying attention *(để giải thích chính ông kiểm tra học sinh có chú ý hay không ra sao)*
 
 **55. What does Mitchell mean by "Numbers of this kind have a way of dictating decisions long after everyone has forgotten how rough they were"?**
 *(Mitchell muốn nói gì qua câu "Những con số kiểu này thường chi phối các quyết định rất lâu sau khi mọi người đã quên rằng chúng thô sơ đến mức nào"?)*
 
-- A. Rough scores can gain lasting influence because they look exact. *(Những điểm số thô có thể có ảnh hưởng lâu dài vì trông chúng chính xác.)*
-- B. Teachers usually forget students' scores very quickly. *(Giáo viên thường quên điểm của học sinh rất nhanh.)*
-- C. The software will become more accurate over time. *(Phần mềm sẽ chính xác hơn theo thời gian.)*
-- D. Decisions about students should be left to parents alone. *(Các quyết định về học sinh nên để riêng phụ huynh lo.)*
+- A. Teachers usually forget students' scores very quickly. *(Giáo viên thường quên điểm của học sinh rất nhanh.)*
+- B. The software will become more accurate over time. *(Phần mềm sẽ chính xác hơn theo thời gian.)*
+- C. Decisions about students should be left to parents alone. *(Các quyết định về học sinh nên để riêng phụ huynh lo.)*
+- D. Rough scores can gain lasting influence because they look exact. *(Những điểm số thô có thể có ảnh hưởng lâu dài vì trông chúng chính xác.)*
 
 **56. Why does Mitchell describe the way he tries to teach history?**
 *(Vì sao Mitchell mô tả cách ông cố gắng dạy lịch sử?)*
 
 - A. to prove that history is harder to learn than most other school subjects *(để chứng minh môn Lịch sử khó học hơn hầu hết các môn khác)*
 - B. to show that his students are often wrong *(để cho thấy học sinh của ông hay sai)*
-- C. to suggest that history lessons can easily be taught without laptops *(để gợi ý rằng giờ Lịch sử có thể dạy dễ dàng mà không cần máy tính)*
-- D. to show that learning needs a freedom that monitoring would discourage *(để cho thấy việc học cần một sự tự do mà việc theo dõi sẽ làm thui chột)*
+- C. to show that learning needs a freedom that monitoring would discourage *(để cho thấy việc học cần một sự tự do mà việc theo dõi sẽ làm thui chột)*
+- D. to suggest that history lessons can easily be taught without laptops *(để gợi ý rằng giờ Lịch sử có thể dạy dễ dàng mà không cần máy tính)*
 
 **57. What does "students would learn to look busy rather than to think" imply?**
 *("học sinh sẽ học cách tỏ ra bận rộn thay vì học cách suy nghĩ" hàm ý điều gì?)*
 
-- A. Students would have far too much homework to think clearly in class. *(Học sinh sẽ có quá nhiều bài tập về nhà để suy nghĩ thấu đáo trên lớp.)*
+- A. Students would focus on seeming attentive, not on learning. *(Học sinh sẽ chú tâm vào việc tỏ ra chăm chú, không phải vào việc học.)*
 - B. Students would become busier and therefore learn more as a result. *(Học sinh sẽ bận rộn hơn và nhờ đó học được nhiều hơn.)*
-- C. Students would focus on seeming attentive, not on learning. *(Học sinh sẽ chú tâm vào việc tỏ ra chăm chú, không phải vào việc học.)*
+- C. Students would have far too much homework to think clearly in class. *(Học sinh sẽ có quá nhiều bài tập về nhà để suy nghĩ thấu đáo trên lớp.)*
 - D. Students would stop using their laptops in class. *(Học sinh sẽ thôi dùng máy tính trong lớp.)*
 
 **58. What is Mitchell's main privacy concern?**
 *(Mối lo chính về quyền riêng tư của Mitchell là gì?)*
 
-- A. The company might sell the students' laptops to another school district. *(Công ty có thể bán máy tính của học sinh cho một khu học chánh khác.)*
+- A. Parents would not be allowed to see their children's scores. *(Phụ huynh sẽ không được xem điểm của con.)*
 - B. It would collect sensitive information unrelated to school. *(Nó sẽ thu thập thông tin nhạy cảm chẳng liên quan gì tới việc học.)*
-- C. Parents would not be allowed to see their children's scores. *(Phụ huynh sẽ không được xem điểm của con.)*
-- D. Teachers' own screens would also be recorded during every lesson. *(Màn hình của chính giáo viên cũng sẽ bị ghi lại trong mọi tiết học.)*
+- C. Teachers' own screens would also be recorded during every lesson. *(Màn hình của chính giáo viên cũng sẽ bị ghi lại trong mọi tiết học.)*
+- D. The company might sell the students' laptops to another school district. *(Công ty có thể bán máy tính của học sinh cho một khu học chánh khác.)*
 
 **59. Why does Mitchell mention the phone-free week?**
 *(Vì sao Mitchell nhắc tới tuần không điện thoại?)*
 
 - A. to suggest that phones should be banned at Westview for the whole year *(để đề xuất cấm điện thoại ở Westview suốt cả năm)*
 - B. to show that the trial was a complete failure *(để cho thấy cuộc thử nghiệm thất bại hoàn toàn)*
-- C. as evidence that good teaching does more for attention than rules *(làm bằng chứng rằng dạy tốt giúp tập trung nhiều hơn các quy định)*
-- D. to remind the committee that it was his own idea *(để nhắc Ban rằng đó là ý tưởng của chính ông)*
+- C. to remind the committee that it was his own idea *(để nhắc Ban rằng đó là ý tưởng của chính ông)*
+- D. as evidence that good teaching does more for attention than rules *(làm bằng chứng rằng dạy tốt giúp tập trung nhiều hơn các quy định)*
 
 **60. What is the purpose of the sentence "To take a stance against this software is not to take a stance against technology"?**
 *(Câu "Phản đối phần mềm này không có nghĩa là phản đối công nghệ" nhằm mục đích gì?)*
 
-- A. to answer in advance the charge that he opposes technology *(để trả lời trước lời buộc rằng ông chống lại công nghệ)*
-- B. to admit that he does not understand how the software works *(để thừa nhận ông không hiểu phần mềm hoạt động thế nào)*
-- C. to suggest that the school should stop using laptops *(để gợi ý trường nên ngừng dùng máy tính)*
-- D. to change the subject from privacy to the cost of the software *(để chuyển chủ đề từ quyền riêng tư sang giá phần mềm)*
+- A. to change the subject from privacy to the cost of the software *(để chuyển chủ đề từ quyền riêng tư sang giá phần mềm)*
+- B. to suggest that the school should stop using laptops *(để gợi ý trường nên ngừng dùng máy tính)*
+- C. to admit that he does not understand how the software works *(để thừa nhận ông không hiểu phần mềm hoạt động thế nào)*
+- D. to answer in advance the charge that he opposes technology *(để trả lời trước lời buộc rằng ông chống lại công nghệ)*
 
 ---
 
@@ -863,43 +863,43 @@
 | 18 | **A** | Câu 13: Câu hỏi thái độ. "to hear them talk, would have you believe the tool never makes any" là giọng mỉa nhẹ; cô muốn rà lỗi "openly, instead of trusting the sales team". |
 | 19 | **D** | Câu 15: Câu hàm ý. "can give us back the time to listen ourselves. It should never become a reason to stop." |
 | 20 | **C** | Câu 12: Câu nối hai bài. Nathan thôi coi im lặng là đồng ý và hỏi đích danh từng người; Leah đòi "saying no is as easy as saying yes". |
-| 21 | **A** | Câu 3–4: "The honest answer is that I do, and so, almost certainly, do you." |
-| 22 | **D** | Câu 6: "we constantly, and mostly without noticing, adjust our speech to the person in front of us". |
+| 21 | **C** | Câu 3–4: "The honest answer is that I do, and so, almost certainly, do you." |
+| 22 | **B** | Câu 6: "we constantly, and mostly without noticing, adjust our speech to the person in front of us". |
 | 23 | **B** | Câu 8: "it is in fact shaped by every conversation we have" — much as: thừa nhận ta thích nghĩ vậy, nhưng sự thật khác. |
 | 24 | **C** | Câu 11: "is doing exactly this" — tức là đang "moving our speech towards someone else's" (hội tụ). |
-| 25 | **B** | Câu 15: "whether it responds to the real person or to an assumption about a group they belong to". |
-| 26 | **A** | Câu 14: "Imitate a regional dialect that you do not share, and it may sound less like friendship than like an insult." |
+| 25 | **A** | Câu 15: "whether it responds to the real person or to an assumption about a group they belong to". |
+| 26 | **D** | Câu 14: "Imitate a regional dialect that you do not share, and it may sound less like friendship than like an insult." |
 | 27 | **D** | Câu 17: "either to show that they belong to a particular community or to keep a polite distance". |
-| 28 | **C** | Câu 18: "is by no means being rude; she is telling you something about who she is". |
-| 29 | **A** | Câu 21: "not so much about grammar as about tact: noticing contextual clues" — not so much A as B. |
-| 30 | **B** | Câu 22–23: "Whatever else it means, it shows that they are listening." |
+| 28 | **A** | Câu 18: "is by no means being rude; she is telling you something about who she is". |
+| 29 | **C** | Câu 21: "not so much about grammar as about tact: noticing contextual clues" — not so much A as B. |
+| 30 | **A** | Câu 22–23: "Whatever else it means, it shows that they are listening." |
 | 31 | **C** | Câu 4–5: "Where does that pressure come from, and why is it so hard to ignore?" — câu hỏi này là vấn đề cả bài trả lời. |
-| 32 | **A** | Câu 7–8: "gifts are almost never as free as they appear" — và ba bổn phận "to give, to receive and to give back". |
-| 33 | **D** | Câu 9: "both meant rejecting the relationship the gift was meant to create". |
-| 34 | **B** | Câu 12–13: "even though none of them had any idea who he was" — vậy mà vẫn đáp lại. |
-| 35 | **D** | Câu 13: "it outweighed the obvious question of who this man might be" — đảo ngữ So + adj nhấn mạnh độ mạnh của thói quen. |
-| 36 | **C** | Câu 15: "as though they had just decided that these customers deserved it" — cảm giác được ưu ái riêng làm tiền boa tăng hẳn (suy luận). |
-| 37 | **A** | Câu 16: "a small gift creates a feeling that something is owed". |
-| 38 | **B** | Câu 17, 19: "None of this means that kindness is simply a trade in disguise." |
+| 32 | **B** | Câu 7–8: "gifts are almost never as free as they appear" — và ba bổn phận "to give, to receive and to give back". |
+| 33 | **C** | Câu 9: "both meant rejecting the relationship the gift was meant to create". |
+| 34 | **C** | Câu 12–13: "even though none of them had any idea who he was" — vậy mà vẫn đáp lại. |
+| 35 | **B** | Câu 13: "it outweighed the obvious question of who this man might be" — đảo ngữ So + adj nhấn mạnh độ mạnh của thói quen. |
+| 36 | **A** | Câu 15: "as though they had just decided that these customers deserved it" — cảm giác được ưu ái riêng làm tiền boa tăng hẳn (suy luận). |
+| 37 | **D** | Câu 16: "a small gift creates a feeling that something is owed". |
+| 38 | **A** | Câu 17, 19: "None of this means that kindness is simply a trade in disguise." |
 | 39 | **D** | Câu 20: "it creates a debt that cannot easily be paid back". |
-| 40 | **C** | Câu 21–22: "the jar of jam is not a bill" — mà là "an invitation to keep the relationship going". |
-| 41 | **B** | Câu 4: "The system had been trained on ten years of applications sent to the company, most of them from men". |
-| 42 | **C** | Câu 6: "they could not be sure that the system would not find other, less obvious ways to favor men". |
+| 40 | **A** | Câu 21–22: "the jar of jam is not a bill" — mà là "an invitation to keep the relationship going". |
+| 41 | **D** | Câu 4: "The system had been trained on ten years of applications sent to the company, most of them from men". |
+| 42 | **D** | Câu 6: "they could not be sure that the system would not find other, less obvious ways to favor men". |
 | 43 | **A** | Câu 7–9: "That is precisely what makes cases like this so difficult." — không ai cố ý, hệ thống chỉ "inherits whatever patterns those decisions contain". |
-| 44 | **D** | Câu 9: "the system will tend to perpetuate that inequality, now with the authority of a calculation" — kết quả máy tính dễ được tin là khách quan (hàm ý). |
+| 44 | **A** | Câu 9: "the system will tend to perpetuate that inequality, now with the authority of a calculation" — kết quả máy tính dễ được tin là khách quan (hàm ý). |
 | 45 | **C** | Câu 11–13: "Left unchallenged, this gap allows everyone to point at someone else." |
-| 46 | **B** | Câu 13: "Left unchallenged, this gap allows everyone to point at someone else." — điều kiện ngầm không dùng if. |
-| 47 | **A** | Câu 16: "checked regularly for results that differ between groups, much as a new bridge is inspected for structural weaknesses". |
-| 48 | **D** | Câu 20: "unlikely to do more than click" — như thể "the machine had already made the decision for them". |
-| 49 | **B** | Câu 21: "should not be able to relinquish responsibility for what the tool does". |
-| 50 | **D** | Câu 22: "there is little reason it should escape by claiming that it was following a bad algorithm" — lập luận loại suy. |
-| 51 | **D** | Câu 4–5: "Thank you for inviting staff to comment" — và "I simply do not believe that FocusTrack is the right answer". |
-| 52 | **B** | Câu 5: "who shares the committee's concern about distraction in class; I simply do not believe that FocusTrack is the right answer". |
-| 53 | **C** | Câu 6: "record what appears on each student's screen", "mark any activity", "give every student a weekly" điểm chú ý — không hề nói tới việc chặn trang web. |
-| 54 | **A** | Câu 9–10: "The software cannot differentiate between the two with any confidence". |
-| 55 | **A** | Câu 10–11: "its score would look precise and official" — điểm thô nhưng trông chính xác nên được dựa vào lâu dài (hàm ý). |
-| 56 | **D** | Câu 13–14: "Being watched every minute, I suspect, would inhibit exactly those habits". |
-| 57 | **C** | Câu 14: "students would learn to look busy rather than to think" — đối phó với máy chấm điểm thay vì học thật. |
+| 46 | **C** | Câu 13: "Left unchallenged, this gap allows everyone to point at someone else." — điều kiện ngầm không dùng if. |
+| 47 | **B** | Câu 16: "checked regularly for results that differ between groups, much as a new bridge is inspected for structural weaknesses". |
+| 48 | **B** | Câu 20: "unlikely to do more than click" — như thể "the machine had already made the decision for them". |
+| 49 | **D** | Câu 21: "should not be able to relinquish responsibility for what the tool does". |
+| 50 | **B** | Câu 22: "there is little reason it should escape by claiming that it was following a bad algorithm" — lập luận loại suy. |
+| 51 | **B** | Câu 4–5: "Thank you for inviting staff to comment" — và "I simply do not believe that FocusTrack is the right answer". |
+| 52 | **A** | Câu 5: "who shares the committee's concern about distraction in class; I simply do not believe that FocusTrack is the right answer". |
+| 53 | **B** | Câu 6: "record what appears on each student's screen", "mark any activity", "give every student a weekly" điểm chú ý — không hề nói tới việc chặn trang web. |
+| 54 | **C** | Câu 9–10: "The software cannot differentiate between the two with any confidence". |
+| 55 | **D** | Câu 10–11: "its score would look precise and official" — điểm thô nhưng trông chính xác nên được dựa vào lâu dài (hàm ý). |
+| 56 | **C** | Câu 13–14: "Being watched every minute, I suspect, would inhibit exactly those habits". |
+| 57 | **A** | Câu 14: "students would learn to look busy rather than to think" — đối phó với máy chấm điểm thay vì học thật. |
 | 58 | **B** | Câu 16–17: "Students' screens often show far more than schoolwork" — tin nhắn gia đình, thông tin sức khoẻ. |
-| 59 | **C** | Câu 19: "the ban itself mattered less than clear expectations and well-planned lessons, which did more for attention than any rule could". |
-| 60 | **A** | Câu 21–22: "It is to insist that the tools we choose should support the trust between teachers and students rather than replace it." |
+| 59 | **D** | Câu 19: "the ban itself mattered less than clear expectations and well-planned lessons, which did more for attention than any rule could". |
+| 60 | **D** | Câu 21–22: "It is to insist that the tools we choose should support the trust between teachers and students rather than replace it." |

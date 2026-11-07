@@ -498,7 +498,7 @@
 - A. He was too busy teaching during the day. *(Ban ngày ông quá bận dạy học.)*
 - B. The university had not given him permission to use the hall. *(Trường chưa cho phép ông dùng giảng đường.)*
 - C. Students were using the seat cushions in lectures during the day. *(Ban ngày sinh viên đang dùng các tấm đệm ghế trong giờ giảng.)*
-- D. The building's noise would not disturb his measurements. *(Tiếng ồn trong toà nhà sẽ không làm nhiễu phép đo của ông.)*
+- D. There would be little noise to disturb his measurements. *(Lúc ấy ít tiếng ồn làm nhiễu phép đo của ông.)*
 
 **34. According to the article, what did Sabine discover?**
 *(Theo bài, Sabine đã phát hiện ra điều gì?)*

@@ -494,7 +494,7 @@
 *(Vì sao người viết bắt đầu tự làm những việc tẻ nhạt nhất?)*
 
 - A. because Glen had refused to do them when asked *(vì Glen đã từ chối làm khi được giao)*
-- B. because the writer wanted to avoid making things worse *(vì người viết muốn tránh làm tình hình tệ hơn)*
+- B. because the writer did not want to strain things any further *(vì người viết không muốn làm quan hệ căng thẳng thêm)*
 - C. because senior management told the writer to set an example *(vì ban lãnh đạo bảo người viết làm gương)*
 - D. because nobody else on the team had been trained to do them *(vì không ai khác trong nhóm được đào tạo để làm)*
 

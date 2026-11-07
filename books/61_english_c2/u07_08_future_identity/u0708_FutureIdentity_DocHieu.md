@@ -523,7 +523,7 @@
 *(Trong bài, từ "encoded" gần nghĩa nhất với)*
 
 - A. hid carefully *(giấu kỹ)*
-- B. translated *(dịch ra)*
+- B. explained clearly *(giải thích rõ)*
 - C. fixed firmly *(khắc sâu, ghi chặt)*
 - D. removed *(xoá đi)*
 

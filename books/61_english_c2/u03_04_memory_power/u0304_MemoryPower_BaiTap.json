@@ -3288,46 +3288,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "As a medical illness that could seriously harm those who suffered from it.",
-            "vi": "Như một căn bệnh có thể gây hại nghiêm trọng cho người mắc phải."
-          },
-          "is_correct": true,
-          "order": 0,
-          "text": "As a medical illness that could seriously harm those who suffered from it.",
-          "text_translation": "Như một căn bệnh có thể gây hại nghiêm trọng cho người mắc phải."
-        },
-        {
-          "id": "B",
-          "i18n": {
-            "en": "As a pleasant feeling that most people share and that does them little real harm.",
-            "vi": "Như một cảm giác dễ chịu mà đa số người đều có và hầu như không gây hại gì."
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "As a pleasant feeling that most people share and that does them little real harm.",
-          "text_translation": "Như một cảm giác dễ chịu mà đa số người đều có và hầu như không gây hại gì."
-        },
-        {
-          "id": "C",
-          "i18n": {
             "en": "As a weakness of older people who could no longer adapt to a changing world.",
             "vi": "Như một điểm yếu của người già không còn thích nghi nổi với thế giới đổi thay."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 0,
           "text": "As a weakness of older people who could no longer adapt to a changing world.",
           "text_translation": "Như một điểm yếu của người già không còn thích nghi nổi với thế giới đổi thay."
         },
         {
-          "id": "D",
+          "id": "B",
           "i18n": {
             "en": "As an ordinary emotion that kept people connected to those they had left behind.",
             "vi": "Như một cảm xúc bình thường giúp người ta gắn bó với những người mình để lại phía sau."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 1,
           "text": "As an ordinary emotion that kept people connected to those they had left behind.",
           "text_translation": "Như một cảm xúc bình thường giúp người ta gắn bó với những người mình để lại phía sau."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "As a medical illness that could seriously harm those who suffered from it.",
+            "vi": "Như một căn bệnh có thể gây hại nghiêm trọng cho người mắc phải."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "As a medical illness that could seriously harm those who suffered from it.",
+          "text_translation": "Như một căn bệnh có thể gây hại nghiêm trọng cho người mắc phải."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "As a pleasant feeling that most people share and that does them little real harm.",
+            "vi": "Như một cảm giác dễ chịu mà đa số người đều có và hầu như không gây hại gì."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "As a pleasant feeling that most people share and that does them little real harm.",
+          "text_translation": "Như một cảm giác dễ chịu mà đa số người đều có và hầu như không gây hại gì."
         }
       ],
       "evidence_segments": [
@@ -3357,46 +3357,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "From a Swiss word Hofer heard used for a disease of young people far from home.",
-            "vi": "Từ một chữ tiếng Thuỵ Sĩ mà Hofer nghe dùng để gọi căn bệnh của người trẻ xa nhà."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "From a Swiss word Hofer heard used for a disease of young people far from home.",
-          "text_translation": "Từ một chữ tiếng Thuỵ Sĩ mà Hofer nghe dùng để gọi căn bệnh của người trẻ xa nhà."
-        },
-        {
-          "id": "B",
-          "i18n": {
             "en": "From the name of the Swiss city, Basel, where Hofer studied medicine.",
             "vi": "Từ tên thành phố Basel của Thuỵ Sĩ, nơi Hofer học y."
           },
           "is_correct": false,
-          "order": 1,
+          "order": 0,
           "text": "From the name of the Swiss city, Basel, where Hofer studied medicine.",
           "text_translation": "Từ tên thành phố Basel của Thuỵ Sĩ, nơi Hofer học y."
         },
         {
-          "id": "C",
+          "id": "B",
           "i18n": {
-            "en": "From two Greek words meaning a return home and pain.",
-            "vi": "Từ hai từ Hy Lạp nghĩa là trở về nhà và nỗi đau."
+            "en": "From a Swiss word Hofer heard used for a disease of young people far from home.",
+            "vi": "Từ một chữ tiếng Thuỵ Sĩ mà Hofer nghe dùng để gọi căn bệnh của người trẻ xa nhà."
           },
-          "is_correct": true,
-          "order": 2,
-          "text": "From two Greek words meaning a return home and pain.",
-          "text_translation": "Từ hai từ Hy Lạp nghĩa là trở về nhà và nỗi đau."
+          "is_correct": false,
+          "order": 1,
+          "text": "From a Swiss word Hofer heard used for a disease of young people far from home.",
+          "text_translation": "Từ một chữ tiếng Thuỵ Sĩ mà Hofer nghe dùng để gọi căn bệnh của người trẻ xa nhà."
         },
         {
-          "id": "D",
+          "id": "C",
           "i18n": {
             "en": "From a Latin word meaning a long journey.",
             "vi": "Từ một từ Latin nghĩa là một chuyến đi dài."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 2,
           "text": "From a Latin word meaning a long journey.",
           "text_translation": "Từ một từ Latin nghĩa là một chuyến đi dài."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "From two Greek words meaning a return home and pain.",
+            "vi": "Từ hai từ Hy Lạp nghĩa là trở về nhà và nỗi đau."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "From two Greek words meaning a return home and pain.",
+          "text_translation": "Từ hai từ Hy Lạp nghĩa là trở về nhà và nỗi đau."
         }
       ],
       "evidence_segments": [
@@ -3425,13 +3425,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Leeches went on being used to treat nostalgia well into the twentieth century.",
-            "vi": "Đỉa vẫn được dùng để chữa hoài niệm cho tới tận giữa thế kỷ hai mươi."
+            "en": "The cures died out, but the idea that nostalgia was a problem lived on.",
+            "vi": "Các cách chữa đã mất đi, nhưng ý cho rằng hoài niệm là một vấn đề thì vẫn còn."
           },
-          "is_correct": false,
+          "is_correct": true,
           "order": 0,
-          "text": "Leeches went on being used to treat nostalgia well into the twentieth century.",
-          "text_translation": "Đỉa vẫn được dùng để chữa hoài niệm cho tới tận giữa thế kỷ hai mươi."
+          "text": "The cures died out, but the idea that nostalgia was a problem lived on.",
+          "text_translation": "Các cách chữa đã mất đi, nhưng ý cho rằng hoài niệm là một vấn đề thì vẫn còn."
         },
         {
           "id": "B",
@@ -3447,24 +3447,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "The treatments worked better than modern ones.",
-            "vi": "Những cách chữa đó hiệu quả hơn cách chữa hiện đại."
+            "en": "Leeches went on being used to treat nostalgia well into the twentieth century.",
+            "vi": "Đỉa vẫn được dùng để chữa hoài niệm cho tới tận giữa thế kỷ hai mươi."
           },
           "is_correct": false,
           "order": 2,
-          "text": "The treatments worked better than modern ones.",
-          "text_translation": "Những cách chữa đó hiệu quả hơn cách chữa hiện đại."
+          "text": "Leeches went on being used to treat nostalgia well into the twentieth century.",
+          "text_translation": "Đỉa vẫn được dùng để chữa hoài niệm cho tới tận giữa thế kỷ hai mươi."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The cures died out, but the idea that nostalgia was a problem lived on.",
-            "vi": "Các cách chữa đã mất đi, nhưng ý cho rằng hoài niệm là một vấn đề thì vẫn còn."
+            "en": "The treatments worked better than modern ones.",
+            "vi": "Những cách chữa đó hiệu quả hơn cách chữa hiện đại."
           },
-          "is_correct": true,
+          "is_correct": false,
           "order": 3,
-          "text": "The cures died out, but the idea that nostalgia was a problem lived on.",
-          "text_translation": "Các cách chữa đã mất đi, nhưng ý cho rằng hoài niệm là một vấn đề thì vẫn còn."
+          "text": "The treatments worked better than modern ones.",
+          "text_translation": "Những cách chữa đó hiệu quả hơn cách chữa hiện đại."
         }
       ],
       "evidence_segments": [
@@ -3516,24 +3516,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "As a useful witness for historians studying earlier times.",
-            "vi": "Như một nhân chứng hữu ích cho các nhà sử học nghiên cứu thời trước."
-          },
-          "is_correct": false,
-          "order": 2,
-          "text": "As a useful witness for historians studying earlier times.",
-          "text_translation": "Như một nhân chứng hữu ích cho các nhà sử học nghiên cứu thời trước."
-        },
-        {
-          "id": "D",
-          "i18n": {
             "en": "As someone who would soon travel home.",
             "vi": "Như người sắp về quê."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 2,
           "text": "As someone who would soon travel home.",
           "text_translation": "Như người sắp về quê."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "As a useful witness for historians studying earlier times.",
+            "vi": "Như một nhân chứng hữu ích cho các nhà sử học nghiên cứu thời trước."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "As a useful witness for historians studying earlier times.",
+          "text_translation": "Như một nhân chứng hữu ích cho các nhà sử học nghiên cứu thời trước."
         }
       ],
       "evidence_segments": [
@@ -3562,24 +3562,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They were the first to show that nostalgia could be dangerous to people's health.",
-            "vi": "Họ là những người đầu tiên cho thấy hoài niệm có thể nguy hại cho sức khoẻ."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "They were the first to show that nostalgia could be dangerous to people's health.",
-          "text_translation": "Họ là những người đầu tiên cho thấy hoài niệm có thể nguy hại cho sức khoẻ."
-        },
-        {
-          "id": "B",
-          "i18n": {
             "en": "They developed a treatment that could cure nostalgia without sending people home.",
             "vi": "Họ tìm ra cách chữa khỏi hoài niệm mà không cần cho người bệnh về nhà."
           },
           "is_correct": false,
-          "order": 1,
+          "order": 0,
           "text": "They developed a treatment that could cure nostalgia without sending people home.",
           "text_translation": "Họ tìm ra cách chữa khỏi hoài niệm mà không cần cho người bệnh về nhà."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They studied only people who lived far from home.",
+            "vi": "Họ chỉ nghiên cứu những người sống xa nhà."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "They studied only people who lived far from home.",
+          "text_translation": "Họ chỉ nghiên cứu những người sống xa nhà."
         },
         {
           "id": "C",
@@ -3595,13 +3595,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "They studied only people who lived far from home.",
-            "vi": "Họ chỉ nghiên cứu những người sống xa nhà."
+            "en": "They were the first to show that nostalgia could be dangerous to people's health.",
+            "vi": "Họ là những người đầu tiên cho thấy hoài niệm có thể nguy hại cho sức khoẻ."
           },
           "is_correct": false,
           "order": 3,
-          "text": "They studied only people who lived far from home.",
-          "text_translation": "Họ chỉ nghiên cứu những người sống xa nhà."
+          "text": "They were the first to show that nostalgia could be dangerous to people's health.",
+          "text_translation": "Họ là những người đầu tiên cho thấy hoài niệm có thể nguy hại cho sức khoẻ."
         }
       ],
       "evidence_segments": [
@@ -3652,24 +3652,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Feeling more hopeful about the future.",
-            "vi": "Thấy hy vọng hơn về tương lai."
-          },
-          "is_correct": false,
-          "order": 2,
-          "text": "Feeling more hopeful about the future.",
-          "text_translation": "Thấy hy vọng hơn về tương lai."
-        },
-        {
-          "id": "D",
-          "i18n": {
             "en": "Feeling more sure that life has meaning.",
             "vi": "Thấy chắc chắn hơn rằng cuộc đời có ý nghĩa."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 2,
           "text": "Feeling more sure that life has meaning.",
           "text_translation": "Thấy chắc chắn hơn rằng cuộc đời có ý nghĩa."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Feeling more hopeful about the future.",
+            "vi": "Thấy hy vọng hơn về tương lai."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Feeling more hopeful about the future.",
+          "text_translation": "Thấy hy vọng hơn về tương lai."
         }
       ],
       "evidence_segments": [
@@ -3699,46 +3699,46 @@
         {
           "id": "A",
           "i18n": {
+            "en": "Nostalgia may give people a feeling of warmth.",
+            "vi": "Hoài niệm có thể đem lại cho người ta cảm giác ấm áp."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Nostalgia may give people a feeling of warmth.",
+          "text_translation": "Hoài niệm có thể đem lại cho người ta cảm giác ấm áp."
+        },
+        {
+          "id": "B",
+          "i18n": {
             "en": "People remember summer more than winter.",
             "vi": "Người ta nhớ mùa hè rõ hơn mùa đông."
           },
           "is_correct": false,
-          "order": 0,
+          "order": 1,
           "text": "People remember summer more than winter.",
           "text_translation": "Người ta nhớ mùa hè rõ hơn mùa đông."
         },
         {
-          "id": "B",
+          "id": "C",
           "i18n": {
             "en": "Lonely people prefer cold weather.",
             "vi": "Người cô đơn thích thời tiết lạnh."
           },
           "is_correct": false,
-          "order": 1,
+          "order": 2,
           "text": "Lonely people prefer cold weather.",
           "text_translation": "Người cô đơn thích thời tiết lạnh."
         },
         {
-          "id": "C",
+          "id": "D",
           "i18n": {
             "en": "Cold weather makes memories less accurate.",
             "vi": "Thời tiết lạnh làm ký ức kém chính xác."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 3,
           "text": "Cold weather makes memories less accurate.",
           "text_translation": "Thời tiết lạnh làm ký ức kém chính xác."
-        },
-        {
-          "id": "D",
-          "i18n": {
-            "en": "Nostalgia may give people a feeling of warmth.",
-            "vi": "Hoài niệm có thể đem lại cho người ta cảm giác ấm áp."
-          },
-          "is_correct": true,
-          "order": 3,
-          "text": "Nostalgia may give people a feeling of warmth.",
-          "text_translation": "Hoài niệm có thể đem lại cho người ta cảm giác ấm áp."
         }
       ],
       "evidence_segments": [
@@ -3767,13 +3767,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The kind that recalls earlier times with thankfulness rather than regret.",
-            "vi": "Kiểu nhớ về thời trước với lòng biết ơn chứ không phải nuối tiếc."
+            "en": "The kind that remembers the past in exact detail.",
+            "vi": "Loại nhớ quá khứ chính xác tới từng chi tiết."
           },
-          "is_correct": true,
+          "is_correct": false,
           "order": 0,
-          "text": "The kind that recalls earlier times with thankfulness rather than regret.",
-          "text_translation": "Kiểu nhớ về thời trước với lòng biết ơn chứ không phải nuối tiếc."
+          "text": "The kind that remembers the past in exact detail.",
+          "text_translation": "Loại nhớ quá khứ chính xác tới từng chi tiết."
         },
         {
           "id": "B",
@@ -3789,24 +3789,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "The kind that remembers the past in exact detail.",
-            "vi": "Loại nhớ quá khứ chính xác tới từng chi tiết."
-          },
-          "is_correct": false,
-          "order": 2,
-          "text": "The kind that remembers the past in exact detail.",
-          "text_translation": "Loại nhớ quá khứ chính xác tới từng chi tiết."
-        },
-        {
-          "id": "D",
-          "i18n": {
             "en": "The kind that is shared on cold days.",
             "vi": "Loại được chia sẻ vào những ngày lạnh."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 2,
           "text": "The kind that is shared on cold days.",
           "text_translation": "Loại được chia sẻ vào những ngày lạnh."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The kind that recalls earlier times with thankfulness rather than regret.",
+            "vi": "Kiểu nhớ về thời trước với lòng biết ơn chứ không phải nuối tiếc."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The kind that recalls earlier times with thankfulness rather than regret.",
+          "text_translation": "Kiểu nhớ về thời trước với lòng biết ơn chứ không phải nuối tiếc."
         }
       ],
       "evidence_segments": [
@@ -3857,24 +3857,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "People prefer to remember the past through stories and novels rather than facts.",
-            "vi": "Người ta thích nhớ về quá khứ qua truyện và tiểu thuyết hơn là qua sự kiện thật."
-          },
-          "is_correct": false,
-          "order": 2,
-          "text": "People prefer to remember the past through stories and novels rather than facts.",
-          "text_translation": "Người ta thích nhớ về quá khứ qua truyện và tiểu thuyết hơn là qua sự kiện thật."
-        },
-        {
-          "id": "D",
-          "i18n": {
             "en": "Personal memories are so unreliable that historians should not use them at all.",
             "vi": "Ký ức cá nhân kém tin cậy tới mức các nhà sử học không nên dùng chút nào."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 2,
           "text": "Personal memories are so unreliable that historians should not use them at all.",
           "text_translation": "Ký ức cá nhân kém tin cậy tới mức các nhà sử học không nên dùng chút nào."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "People prefer to remember the past through stories and novels rather than facts.",
+            "vi": "Người ta thích nhớ về quá khứ qua truyện và tiểu thuyết hơn là qua sự kiện thật."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "People prefer to remember the past through stories and novels rather than facts.",
+          "text_translation": "Người ta thích nhớ về quá khứ qua truyện và tiểu thuyết hơn là qua sự kiện thật."
         }
       ],
       "evidence_segments": [
@@ -3904,24 +3904,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Hofer, who named the disease, is now thought to have suffered from it himself.",
-            "vi": "Hofer, người đặt tên cho căn bệnh, nay được cho là chính mình cũng mắc nó."
+            "en": "Nostalgia turns out to be more common among students than among older people.",
+            "vi": "Hoài niệm hoá ra phổ biến ở sinh viên hơn là ở người lớn tuổi."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Hofer, who named the disease, is now thought to have suffered from it himself.",
-          "text_translation": "Hofer, người đặt tên cho căn bệnh, nay được cho là chính mình cũng mắc nó."
+          "text": "Nostalgia turns out to be more common among students than among older people.",
+          "text_translation": "Hoài niệm hoá ra phổ biến ở sinh viên hơn là ở người lớn tuổi."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "A word coined by a doctor is now used mainly by ordinary people, not by doctors.",
-            "vi": "Một chữ do bác sĩ đặt ra nay chủ yếu được người thường dùng, chứ không phải bác sĩ."
+            "en": "Hofer, who named the disease, is now thought to have suffered from it himself.",
+            "vi": "Hofer, người đặt tên cho căn bệnh, nay được cho là chính mình cũng mắc nó."
           },
           "is_correct": false,
           "order": 1,
-          "text": "A word coined by a doctor is now used mainly by ordinary people, not by doctors.",
-          "text_translation": "Một chữ do bác sĩ đặt ra nay chủ yếu được người thường dùng, chứ không phải bác sĩ."
+          "text": "Hofer, who named the disease, is now thought to have suffered from it himself.",
+          "text_translation": "Hofer, người đặt tên cho căn bệnh, nay được cho là chính mình cũng mắc nó."
         },
         {
           "id": "C",
@@ -3937,13 +3937,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "Nostalgia turns out to be more common among students than among older people.",
-            "vi": "Hoài niệm hoá ra phổ biến ở sinh viên hơn là ở người lớn tuổi."
+            "en": "A word coined by a doctor is now used mainly by ordinary people, not by doctors.",
+            "vi": "Một chữ do bác sĩ đặt ra nay chủ yếu được người thường dùng, chứ không phải bác sĩ."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Nostalgia turns out to be more common among students than among older people.",
-          "text_translation": "Hoài niệm hoá ra phổ biến ở sinh viên hơn là ở người lớn tuổi."
+          "text": "A word coined by a doctor is now used mainly by ordinary people, not by doctors.",
+          "text_translation": "Một chữ do bác sĩ đặt ra nay chủ yếu được người thường dùng, chứ không phải bác sĩ."
         }
       ],
       "evidence_segments": [
@@ -3972,46 +3972,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The story was written down in a famous book.",
-            "vi": "Câu chuyện được chép lại trong một cuốn sách nổi tiếng."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "The story was written down in a famous book.",
-          "text_translation": "Câu chuyện được chép lại trong một cuốn sách nổi tiếng."
-        },
-        {
-          "id": "B",
-          "i18n": {
-            "en": "The family stopped telling the story after 1971.",
-            "vi": "Gia đình thôi kể câu chuyện sau năm 1971."
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "The family stopped telling the story after 1971.",
-          "text_translation": "Gia đình thôi kể câu chuyện sau năm 1971."
-        },
-        {
-          "id": "C",
-          "i18n": {
             "en": "The story was told only on special occasions.",
             "vi": "Câu chuyện chỉ được kể vào những dịp đặc biệt."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 0,
           "text": "The story was told only on special occasions.",
           "text_translation": "Câu chuyện chỉ được kể vào những dịp đặc biệt."
         },
         {
-          "id": "D",
+          "id": "B",
           "i18n": {
             "en": "The story became more exaggerated as it was repeated.",
             "vi": "Câu chuyện ngày càng bị phóng đại khi được kể đi kể lại."
           },
           "is_correct": true,
-          "order": 3,
+          "order": 1,
           "text": "The story became more exaggerated as it was repeated.",
           "text_translation": "Câu chuyện ngày càng bị phóng đại khi được kể đi kể lại."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The story was written down in a famous book.",
+            "vi": "Câu chuyện được chép lại trong một cuốn sách nổi tiếng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The story was written down in a famous book.",
+          "text_translation": "Câu chuyện được chép lại trong một cuốn sách nổi tiếng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The family stopped telling the story after 1971.",
+            "vi": "Gia đình thôi kể câu chuyện sau năm 1971."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The family stopped telling the story after 1971.",
+          "text_translation": "Gia đình thôi kể câu chuyện sau năm 1971."
         }
       ],
       "evidence_segments": [
@@ -4040,46 +4040,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They chose one brother and refused to buy from the other.",
-            "vi": "Họ chọn một người và không chịu mua của người kia."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "They chose one brother and refused to buy from the other.",
-          "text_translation": "Họ chọn một người và không chịu mua của người kia."
-        },
-        {
-          "id": "B",
-          "i18n": {
             "en": "They paid separately on each side without making any comment.",
             "vi": "Họ trả tiền riêng ở mỗi bên mà không bình luận gì."
           },
           "is_correct": true,
-          "order": 1,
+          "order": 0,
           "text": "They paid separately on each side without making any comment.",
           "text_translation": "Họ trả tiền riêng ở mỗi bên mà không bình luận gì."
         },
         {
-          "id": "C",
+          "id": "B",
           "i18n": {
-            "en": "They asked the narrator's mother to carry their money to the other side of the store.",
-            "vi": "Họ nhờ mẹ người kể mang tiền sang phía bên kia cửa hàng giúp."
+            "en": "They chose one brother and refused to buy from the other.",
+            "vi": "Họ chọn một người và không chịu mua của người kia."
           },
           "is_correct": false,
-          "order": 2,
-          "text": "They asked the narrator's mother to carry their money to the other side of the store.",
-          "text_translation": "Họ nhờ mẹ người kể mang tiền sang phía bên kia cửa hàng giúp."
+          "order": 1,
+          "text": "They chose one brother and refused to buy from the other.",
+          "text_translation": "Họ chọn một người và không chịu mua của người kia."
         },
         {
-          "id": "D",
+          "id": "C",
           "i18n": {
             "en": "They complained until the tape was removed.",
             "vi": "Họ phàn nàn cho tới khi vạch băng dính được gỡ đi."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 2,
           "text": "They complained until the tape was removed.",
           "text_translation": "Họ phàn nàn cho tới khi vạch băng dính được gỡ đi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They asked the narrator's mother to carry their money to the other side of the store.",
+            "vi": "Họ nhờ mẹ người kể mang tiền sang phía bên kia cửa hàng giúp."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They asked the narrator's mother to carry their money to the other side of the store.",
+          "text_translation": "Họ nhờ mẹ người kể mang tiền sang phía bên kia cửa hàng giúp."
         }
       ],
       "evidence_segments": [
@@ -4108,46 +4108,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Proud and enthusiastic.",
-            "vi": "Tự hào và hăng hái."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "Proud and enthusiastic.",
-          "text_translation": "Tự hào và hăng hái."
-        },
-        {
-          "id": "B",
-          "i18n": {
             "en": "Angry and accusing.",
             "vi": "Giận dữ và buộc tội."
           },
           "is_correct": false,
-          "order": 1,
+          "order": 0,
           "text": "Angry and accusing.",
           "text_translation": "Giận dữ và buộc tội."
         },
         {
-          "id": "C",
-          "i18n": {
-            "en": "Dry and wryly humorous.",
-            "vi": "Tỉnh bơ và hài hước một cách chua chát."
-          },
-          "is_correct": true,
-          "order": 2,
-          "text": "Dry and wryly humorous.",
-          "text_translation": "Tỉnh bơ và hài hước một cách chua chát."
-        },
-        {
-          "id": "D",
+          "id": "B",
           "i18n": {
             "en": "Nervous and uncertain.",
             "vi": "Lo lắng và lưỡng lự."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 1,
           "text": "Nervous and uncertain.",
           "text_translation": "Lo lắng và lưỡng lự."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Proud and enthusiastic.",
+            "vi": "Tự hào và hăng hái."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Proud and enthusiastic.",
+          "text_translation": "Tự hào và hăng hái."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Dry and wryly humorous.",
+            "vi": "Tỉnh bơ và hài hước một cách chua chát."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Dry and wryly humorous.",
+          "text_translation": "Tỉnh bơ và hài hước một cách chua chát."
         }
       ],
       "evidence_segments": [
@@ -4176,46 +4176,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It was sent back without being opened.",
-            "vi": "Nó bị gửi trả lại mà không được mở ra."
+            "en": "It led to a short reconciliation.",
+            "vi": "Nó dẫn tới một cuộc làm lành ngắn ngủi."
           },
-          "is_correct": true,
+          "is_correct": false,
           "order": 0,
-          "text": "It was sent back without being opened.",
-          "text_translation": "Nó bị gửi trả lại mà không được mở ra."
+          "text": "It led to a short reconciliation.",
+          "text_translation": "Nó dẫn tới một cuộc làm lành ngắn ngủi."
         },
         {
           "id": "B",
-          "i18n": {
-            "en": "It was read aloud at the wedding.",
-            "vi": "Nó được đọc to ở đám cưới."
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "It was read aloud at the wedding.",
-          "text_translation": "Nó được đọc to ở đám cưới."
-        },
-        {
-          "id": "C",
           "i18n": {
             "en": "It was kept in Frank's account book.",
             "vi": "Nó được cất trong sổ sách của Frank."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 1,
           "text": "It was kept in Frank's account book.",
           "text_translation": "Nó được cất trong sổ sách của Frank."
         },
         {
+          "id": "C",
+          "i18n": {
+            "en": "It was sent back without being opened.",
+            "vi": "Nó bị gửi trả lại mà không được mở ra."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It was sent back without being opened.",
+          "text_translation": "Nó bị gửi trả lại mà không được mở ra."
+        },
+        {
           "id": "D",
           "i18n": {
-            "en": "It led to a short reconciliation.",
-            "vi": "Nó dẫn tới một cuộc làm lành ngắn ngủi."
+            "en": "It was read aloud at the wedding.",
+            "vi": "Nó được đọc to ở đám cưới."
           },
           "is_correct": false,
           "order": 3,
-          "text": "It led to a short reconciliation.",
-          "text_translation": "Nó dẫn tới một cuộc làm lành ngắn ngủi."
+          "text": "It was read aloud at the wedding.",
+          "text_translation": "Nó được đọc to ở đám cưới."
         }
       ],
       "evidence_segments": [
@@ -4244,46 +4244,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Frank started an argument in front of the guests.",
-            "vi": "Frank gây cãi vã trước mặt khách."
+            "en": "Frank avoided his brother by leaving the wedding early.",
+            "vi": "Frank tránh mặt em trai bằng cách bỏ về sớm khỏi đám cưới."
           },
-          "is_correct": false,
+          "is_correct": true,
           "order": 0,
-          "text": "Frank started an argument in front of the guests.",
-          "text_translation": "Frank gây cãi vã trước mặt khách."
+          "text": "Frank avoided his brother by leaving the wedding early.",
+          "text_translation": "Frank tránh mặt em trai bằng cách bỏ về sớm khỏi đám cưới."
         },
         {
           "id": "B",
-          "i18n": {
-            "en": "Frank asked his brother to change seats.",
-            "vi": "Frank đề nghị em trai đổi chỗ ngồi."
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "Frank asked his brother to change seats.",
-          "text_translation": "Frank đề nghị em trai đổi chỗ ngồi."
-        },
-        {
-          "id": "C",
           "i18n": {
             "en": "Frank gave a speech about the store.",
             "vi": "Frank phát biểu về cửa hàng."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 1,
           "text": "Frank gave a speech about the store.",
           "text_translation": "Frank phát biểu về cửa hàng."
         },
         {
+          "id": "C",
+          "i18n": {
+            "en": "Frank started an argument in front of the guests.",
+            "vi": "Frank gây cãi vã trước mặt khách."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Frank started an argument in front of the guests.",
+          "text_translation": "Frank gây cãi vã trước mặt khách."
+        },
+        {
           "id": "D",
           "i18n": {
-            "en": "Frank avoided his brother by leaving the wedding early.",
-            "vi": "Frank tránh mặt em trai bằng cách bỏ về sớm khỏi đám cưới."
+            "en": "Frank asked his brother to change seats.",
+            "vi": "Frank đề nghị em trai đổi chỗ ngồi."
           },
-          "is_correct": true,
+          "is_correct": false,
           "order": 3,
-          "text": "Frank avoided his brother by leaving the wedding early.",
-          "text_translation": "Frank tránh mặt em trai bằng cách bỏ về sớm khỏi đám cưới."
+          "text": "Frank asked his brother to change seats.",
+          "text_translation": "Frank đề nghị em trai đổi chỗ ngồi."
         }
       ],
       "evidence_segments": [
@@ -4312,24 +4312,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Each brother had secretly paid the other's bills during a difficult time.",
-            "vi": "Mỗi anh em đã lặng lẽ trả nợ giúp người kia trong lúc khó khăn."
-          },
-          "is_correct": true,
-          "order": 0,
-          "text": "Each brother had secretly paid the other's bills during a difficult time.",
-          "text_translation": "Mỗi anh em đã lặng lẽ trả nợ giúp người kia trong lúc khó khăn."
-        },
-        {
-          "id": "B",
-          "i18n": {
             "en": "Leonard had been secretly taking money from Frank's side of the store.",
             "vi": "Leonard đã lén lấy tiền bên phía Frank."
           },
           "is_correct": false,
-          "order": 1,
+          "order": 0,
           "text": "Leonard had been secretly taking money from Frank's side of the store.",
           "text_translation": "Leonard đã lén lấy tiền bên phía Frank."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Frank had secretly planned to sell the store to the chain that opened in 1982.",
+            "vi": "Frank đã lén định bán cửa hàng cho chuỗi cửa hàng mở năm 1982."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Frank had secretly planned to sell the store to the chain that opened in 1982.",
+          "text_translation": "Frank đã lén định bán cửa hàng cho chuỗi cửa hàng mở năm 1982."
         },
         {
           "id": "C",
@@ -4345,13 +4345,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "Frank had secretly planned to sell the store to the chain that opened in 1982.",
-            "vi": "Frank đã lén định bán cửa hàng cho chuỗi cửa hàng mở năm 1982."
+            "en": "Each brother had secretly paid the other's bills during a difficult time.",
+            "vi": "Mỗi anh em đã lặng lẽ trả nợ giúp người kia trong lúc khó khăn."
           },
-          "is_correct": false,
+          "is_correct": true,
           "order": 3,
-          "text": "Frank had secretly planned to sell the store to the chain that opened in 1982.",
-          "text_translation": "Frank đã lén định bán cửa hàng cho chuỗi cửa hàng mở năm 1982."
+          "text": "Each brother had secretly paid the other's bills during a difficult time.",
+          "text_translation": "Mỗi anh em đã lặng lẽ trả nợ giúp người kia trong lúc khó khăn."
         }
       ],
       "evidence_segments": [
@@ -4381,46 +4381,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It shows that the brothers kept careless accounts and rarely recorded what money was for.",
-            "vi": "Nó cho thấy hai anh em ghi sổ cẩu thả và ít khi ghi tiền dùng vào việc gì."
+            "en": "It proves that the payments were for paint.",
+            "vi": "Nó chứng minh các khoản trả là tiền sơn."
           },
           "is_correct": false,
           "order": 0,
-          "text": "It shows that the brothers kept careless accounts and rarely recorded what money was for.",
-          "text_translation": "Nó cho thấy hai anh em ghi sổ cẩu thả và ít khi ghi tiền dùng vào việc gì."
+          "text": "It proves that the payments were for paint.",
+          "text_translation": "Nó chứng minh các khoản trả là tiền sơn."
         },
         {
           "id": "B",
-          "i18n": {
-            "en": "It was a code that the mother invented.",
-            "vi": "Đó là một mật mã do người mẹ nghĩ ra."
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "It was a code that the mother invented.",
-          "text_translation": "Đó là một mật mã do người mẹ nghĩ ra."
-        },
-        {
-          "id": "C",
           "i18n": {
             "en": "It hid an act of kindness that neither brother wanted to admit.",
             "vi": "Nó che giấu một việc tốt mà không ai trong hai anh em muốn thừa nhận."
           },
           "is_correct": true,
-          "order": 2,
+          "order": 1,
           "text": "It hid an act of kindness that neither brother wanted to admit.",
           "text_translation": "Nó che giấu một việc tốt mà không ai trong hai anh em muốn thừa nhận."
         },
         {
+          "id": "C",
+          "i18n": {
+            "en": "It shows that the brothers kept careless accounts and rarely recorded what money was for.",
+            "vi": "Nó cho thấy hai anh em ghi sổ cẩu thả và ít khi ghi tiền dùng vào việc gì."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It shows that the brothers kept careless accounts and rarely recorded what money was for.",
+          "text_translation": "Nó cho thấy hai anh em ghi sổ cẩu thả và ít khi ghi tiền dùng vào việc gì."
+        },
+        {
           "id": "D",
           "i18n": {
-            "en": "It proves that the payments were for paint.",
-            "vi": "Nó chứng minh các khoản trả là tiền sơn."
+            "en": "It was a code that the mother invented.",
+            "vi": "Đó là một mật mã do người mẹ nghĩ ra."
           },
           "is_correct": false,
           "order": 3,
-          "text": "It proves that the payments were for paint.",
-          "text_translation": "Nó chứng minh các khoản trả là tiền sơn."
+          "text": "It was a code that the mother invented.",
+          "text_translation": "Đó là một mật mã do người mẹ nghĩ ra."
         }
       ],
       "evidence_segments": [
@@ -4450,46 +4450,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The tape had divided the store, and the family, far more deeply than anyone realized.",
-            "vi": "Vạch băng dính đã chia rẽ cửa hàng, và cả gia đình, sâu sắc hơn nhiều so với ai cũng tưởng."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "The tape had divided the store, and the family, far more deeply than anyone realized.",
-          "text_translation": "Vạch băng dính đã chia rẽ cửa hàng, và cả gia đình, sâu sắc hơn nhiều so với ai cũng tưởng."
-        },
-        {
-          "id": "B",
-          "i18n": {
-            "en": "The division was a structure that let the brothers care for each other secretly.",
-            "vi": "Sự chia đôi ấy là một công trình giúp hai anh em âm thầm lo cho nhau."
-          },
-          "is_correct": true,
-          "order": 1,
-          "text": "The division was a structure that let the brothers care for each other secretly.",
-          "text_translation": "Sự chia đôi ấy là một công trình giúp hai anh em âm thầm lo cho nhau."
-        },
-        {
-          "id": "C",
-          "i18n": {
             "en": "The brothers had secretly planned to build a second, separate store of their own.",
             "vi": "Hai anh em đã lén định xây một cửa hàng thứ hai, riêng biệt."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 0,
           "text": "The brothers had secretly planned to build a second, separate store of their own.",
           "text_translation": "Hai anh em đã lén định xây một cửa hàng thứ hai, riêng biệt."
         },
         {
-          "id": "D",
+          "id": "B",
           "i18n": {
             "en": "The quarrel had been far more bitter and serious than the family legend suggested.",
             "vi": "Cuộc cãi vã gay gắt và nghiêm trọng hơn nhiều so với giai thoại gia đình kể."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 1,
           "text": "The quarrel had been far more bitter and serious than the family legend suggested.",
           "text_translation": "Cuộc cãi vã gay gắt và nghiêm trọng hơn nhiều so với giai thoại gia đình kể."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The division was a structure that let the brothers care for each other secretly.",
+            "vi": "Sự chia đôi ấy là một công trình giúp hai anh em âm thầm lo cho nhau."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "The division was a structure that let the brothers care for each other secretly.",
+          "text_translation": "Sự chia đôi ấy là một công trình giúp hai anh em âm thầm lo cho nhau."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The tape had divided the store, and the family, far more deeply than anyone realized.",
+            "vi": "Vạch băng dính đã chia rẽ cửa hàng, và cả gia đình, sâu sắc hơn nhiều so với ai cũng tưởng."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The tape had divided the store, and the family, far more deeply than anyone realized.",
+          "text_translation": "Vạch băng dính đã chia rẽ cửa hàng, và cả gia đình, sâu sắc hơn nhiều so với ai cũng tưởng."
         }
       ],
       "evidence_segments": [
@@ -4518,46 +4518,46 @@
         {
           "id": "A",
           "i18n": {
+            "en": "As an attempt to change the subject.",
+            "vi": "Như một cố gắng lảng sang chuyện khác."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "As an attempt to change the subject.",
+          "text_translation": "Như một cố gắng lảng sang chuyện khác."
+        },
+        {
+          "id": "B",
+          "i18n": {
             "en": "As both criticism of their pride and appreciation of their loyalty.",
             "vi": "Vừa là lời chê sự kiêu hãnh của họ vừa là sự trân trọng lòng trung thành của họ."
           },
           "is_correct": true,
-          "order": 0,
+          "order": 1,
           "text": "As both criticism of their pride and appreciation of their loyalty.",
           "text_translation": "Vừa là lời chê sự kiêu hãnh của họ vừa là sự trân trọng lòng trung thành của họ."
         },
         {
-          "id": "B",
+          "id": "C",
           "i18n": {
             "en": "As proof that her mother knew about the payments.",
             "vi": "Như bằng chứng rằng mẹ cô đã biết về các khoản trả."
           },
           "is_correct": false,
-          "order": 1,
+          "order": 2,
           "text": "As proof that her mother knew about the payments.",
           "text_translation": "Như bằng chứng rằng mẹ cô đã biết về các khoản trả."
         },
         {
-          "id": "C",
+          "id": "D",
           "i18n": {
             "en": "As a sign that her mother did not care about the story.",
             "vi": "Như dấu hiệu rằng mẹ cô không quan tâm tới câu chuyện."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 3,
           "text": "As a sign that her mother did not care about the story.",
           "text_translation": "Như dấu hiệu rằng mẹ cô không quan tâm tới câu chuyện."
-        },
-        {
-          "id": "D",
-          "i18n": {
-            "en": "As an attempt to change the subject.",
-            "vi": "Như một cố gắng lảng sang chuyện khác."
-          },
-          "is_correct": false,
-          "order": 3,
-          "text": "As an attempt to change the subject.",
-          "text_translation": "Như một cố gắng lảng sang chuyện khác."
         }
       ],
       "evidence_segments": [
@@ -4597,24 +4597,24 @@
         {
           "id": "B",
           "i18n": {
-            "en": "Children should never be made to carry messages between quarreling adults.",
-            "vi": "Không bao giờ nên bắt trẻ con đưa tin giữa những người lớn đang giận nhau."
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "Children should never be made to carry messages between quarreling adults.",
-          "text_translation": "Không bao giờ nên bắt trẻ con đưa tin giữa những người lớn đang giận nhau."
-        },
-        {
-          "id": "C",
-          "i18n": {
             "en": "Chain stores did more damage to small-town families than any private quarrel ever could.",
             "vi": "Chuỗi cửa hàng gây hại cho các gia đình ở thị trấn nhỏ nhiều hơn bất kỳ mối bất hoà riêng nào."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 1,
           "text": "Chain stores did more damage to small-town families than any private quarrel ever could.",
           "text_translation": "Chuỗi cửa hàng gây hại cho các gia đình ở thị trấn nhỏ nhiều hơn bất kỳ mối bất hoà riêng nào."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Children should never be made to carry messages between quarreling adults.",
+            "vi": "Không bao giờ nên bắt trẻ con đưa tin giữa những người lớn đang giận nhau."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Children should never be made to carry messages between quarreling adults.",
+          "text_translation": "Không bao giờ nên bắt trẻ con đưa tin giữa những người lớn đang giận nhau."
         },
         {
           "id": "D",
@@ -4655,46 +4655,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It is supported by a great deal of laboratory research.",
-            "vi": "Nó được rất nhiều nghiên cứu trong phòng thí nghiệm ủng hộ."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "It is supported by a great deal of laboratory research.",
-          "text_translation": "Nó được rất nhiều nghiên cứu trong phòng thí nghiệm ủng hộ."
-        },
-        {
-          "id": "B",
-          "i18n": {
-            "en": "It is a new idea that psychologists have only recently proposed.",
-            "vi": "Đó là một ý tưởng mới mà các nhà tâm lý học vừa đưa ra gần đây."
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "It is a new idea that psychologists have only recently proposed.",
-          "text_translation": "Đó là một ý tưởng mới mà các nhà tâm lý học vừa đưa ra gần đây."
-        },
-        {
-          "id": "C",
-          "i18n": {
             "en": "It is treated as obviously true, without any need for evidence.",
             "vi": "Nó được coi là hiển nhiên đúng, chẳng cần bằng chứng gì."
           },
           "is_correct": true,
-          "order": 2,
+          "order": 0,
           "text": "It is treated as obviously true, without any need for evidence.",
           "text_translation": "Nó được coi là hiển nhiên đúng, chẳng cần bằng chứng gì."
         },
         {
-          "id": "D",
+          "id": "B",
+          "i18n": {
+            "en": "It is supported by a great deal of laboratory research.",
+            "vi": "Nó được rất nhiều nghiên cứu trong phòng thí nghiệm ủng hộ."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is supported by a great deal of laboratory research.",
+          "text_translation": "Nó được rất nhiều nghiên cứu trong phòng thí nghiệm ủng hộ."
+        },
+        {
+          "id": "C",
           "i18n": {
             "en": "It is usually rejected by people who study moral thought.",
             "vi": "Nó thường bị những người nghiên cứu tư tưởng đạo đức bác bỏ."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 2,
           "text": "It is usually rejected by people who study moral thought.",
           "text_translation": "Nó thường bị những người nghiên cứu tư tưởng đạo đức bác bỏ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It is a new idea that psychologists have only recently proposed.",
+            "vi": "Đó là một ý tưởng mới mà các nhà tâm lý học vừa đưa ra gần đây."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It is a new idea that psychologists have only recently proposed.",
+          "text_translation": "Đó là một ý tưởng mới mà các nhà tâm lý học vừa đưa ra gần đây."
         }
       ],
       "evidence_segments": [
@@ -4723,13 +4723,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The student who had been randomly given the role of judge.",
-            "vi": "Sinh viên được giao ngẫu nhiên vai trò người đánh giá."
+            "en": "The student who had eaten nothing that day.",
+            "vi": "Sinh viên chưa ăn gì trong ngày."
           },
-          "is_correct": true,
+          "is_correct": false,
           "order": 0,
-          "text": "The student who had been randomly given the role of judge.",
-          "text_translation": "Sinh viên được giao ngẫu nhiên vai trò người đánh giá."
+          "text": "The student who had eaten nothing that day.",
+          "text_translation": "Sinh viên chưa ăn gì trong ngày."
         },
         {
           "id": "B",
@@ -4745,24 +4745,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "The student who arrived at the group last.",
-            "vi": "Sinh viên tới nhóm sau cùng."
+            "en": "The student who had been randomly given the role of judge.",
+            "vi": "Sinh viên được giao ngẫu nhiên vai trò người đánh giá."
           },
-          "is_correct": false,
+          "is_correct": true,
           "order": 2,
-          "text": "The student who arrived at the group last.",
-          "text_translation": "Sinh viên tới nhóm sau cùng."
+          "text": "The student who had been randomly given the role of judge.",
+          "text_translation": "Sinh viên được giao ngẫu nhiên vai trò người đánh giá."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The student who had eaten nothing that day.",
-            "vi": "Sinh viên chưa ăn gì trong ngày."
+            "en": "The student who arrived at the group last.",
+            "vi": "Sinh viên tới nhóm sau cùng."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The student who had eaten nothing that day.",
-          "text_translation": "Sinh viên chưa ăn gì trong ngày."
+          "text": "The student who arrived at the group last.",
+          "text_translation": "Sinh viên tới nhóm sau cùng."
         }
       ],
       "evidence_segments": [
@@ -4791,46 +4791,46 @@
         {
           "id": "A",
           "i18n": {
+            "en": "To show that the students already knew one another.",
+            "vi": "Để cho thấy các sinh viên đã quen nhau từ trước."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "To show that the students already knew one another.",
+          "text_translation": "Để cho thấy các sinh viên đã quen nhau từ trước."
+        },
+        {
+          "id": "B",
+          "i18n": {
             "en": "To suggest that the study was badly organized, since roles should be earned, not given.",
             "vi": "Để ngụ ý nghiên cứu được tổ chức kém, vì vai trò phải do tự giành được chứ không phải được trao."
           },
           "is_correct": false,
-          "order": 0,
+          "order": 1,
           "text": "To suggest that the study was badly organized, since roles should be earned, not given.",
           "text_translation": "Để ngụ ý nghiên cứu được tổ chức kém, vì vai trò phải do tự giành được chứ không phải được trao."
         },
         {
-          "id": "B",
+          "id": "C",
           "i18n": {
             "en": "To show that the behavior came from the role, not the students' characters.",
             "vi": "Để cho thấy hành vi ấy đến từ vai trò, chứ không phải từ tính cách của sinh viên."
           },
           "is_correct": true,
-          "order": 1,
+          "order": 2,
           "text": "To show that the behavior came from the role, not the students' characters.",
           "text_translation": "Để cho thấy hành vi ấy đến từ vai trò, chứ không phải từ tính cách của sinh viên."
         },
         {
-          "id": "C",
+          "id": "D",
           "i18n": {
             "en": "To explain why some groups ended up with more cookies than others did.",
             "vi": "Để giải thích vì sao có nhóm được nhiều bánh hơn nhóm khác."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 3,
           "text": "To explain why some groups ended up with more cookies than others did.",
           "text_translation": "Để giải thích vì sao có nhóm được nhiều bánh hơn nhóm khác."
-        },
-        {
-          "id": "D",
-          "i18n": {
-            "en": "To show that the students already knew one another.",
-            "vi": "Để cho thấy các sinh viên đã quen nhau từ trước."
-          },
-          "is_correct": false,
-          "order": 3,
-          "text": "To show that the students already knew one another.",
-          "text_translation": "Để cho thấy các sinh viên đã quen nhau từ trước."
         }
       ],
       "evidence_segments": [
@@ -4870,13 +4870,13 @@
         {
           "id": "B",
           "i18n": {
-            "en": "Draw the letter more carefully and neatly than those in the low-power group.",
-            "vi": "Vẽ chữ cẩn thận và gọn gàng hơn những người ở nhóm ít quyền."
+            "en": "Draw the letter so that it was correct from their own point of view only.",
+            "vi": "Vẽ chữ sao cho nó chỉ đúng khi nhìn từ góc của chính họ."
           },
-          "is_correct": false,
+          "is_correct": true,
           "order": 1,
-          "text": "Draw the letter more carefully and neatly than those in the low-power group.",
-          "text_translation": "Vẽ chữ cẩn thận và gọn gàng hơn những người ở nhóm ít quyền."
+          "text": "Draw the letter so that it was correct from their own point of view only.",
+          "text_translation": "Vẽ chữ sao cho nó chỉ đúng khi nhìn từ góc của chính họ."
         },
         {
           "id": "C",
@@ -4892,13 +4892,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "Draw the letter so that it was correct from their own point of view only.",
-            "vi": "Vẽ chữ sao cho nó chỉ đúng khi nhìn từ góc của chính họ."
+            "en": "Draw the letter more carefully and neatly than those in the low-power group.",
+            "vi": "Vẽ chữ cẩn thận và gọn gàng hơn những người ở nhóm ít quyền."
           },
-          "is_correct": true,
+          "is_correct": false,
           "order": 3,
-          "text": "Draw the letter so that it was correct from their own point of view only.",
-          "text_translation": "Vẽ chữ sao cho nó chỉ đúng khi nhìn từ góc của chính họ."
+          "text": "Draw the letter more carefully and neatly than those in the low-power group.",
+          "text_translation": "Vẽ chữ cẩn thận và gọn gàng hơn những người ở nhóm ít quyền."
         }
       ],
       "evidence_segments": [
@@ -4927,24 +4927,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Powerful people are generally less skilled at writing and drawing.",
-            "vi": "Người có quyền nhìn chung viết và vẽ kém hơn."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "Powerful people are generally less skilled at writing and drawing.",
-          "text_translation": "Người có quyền nhìn chung viết và vẽ kém hơn."
-        },
-        {
-          "id": "B",
-          "i18n": {
             "en": "Power appears to reduce people's ability to take other perspectives.",
             "vi": "Quyền lực dường như làm giảm khả năng nhìn từ góc độ người khác."
           },
           "is_correct": true,
-          "order": 1,
+          "order": 0,
           "text": "Power appears to reduce people's ability to take other perspectives.",
           "text_translation": "Quyền lực dường như làm giảm khả năng nhìn từ góc độ người khác."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Powerful people are generally less skilled at writing and drawing.",
+            "vi": "Người có quyền nhìn chung viết và vẽ kém hơn."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Powerful people are generally less skilled at writing and drawing.",
+          "text_translation": "Người có quyền nhìn chung viết và vẽ kém hơn."
         },
         {
           "id": "C",
@@ -4995,35 +4995,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The earlier studies are shown to be completely false.",
-            "vi": "Các nghiên cứu trước bị chứng minh là sai hoàn toàn."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "The earlier studies are shown to be completely false.",
-          "text_translation": "Các nghiên cứu trước bị chứng minh là sai hoàn toàn."
-        },
-        {
-          "id": "B",
-          "i18n": {
             "en": "The researchers lost some of their data.",
             "vi": "Các nhà nghiên cứu bị mất một phần dữ liệu."
           },
           "is_correct": false,
-          "order": 1,
+          "order": 0,
           "text": "The researchers lost some of their data.",
           "text_translation": "Các nhà nghiên cứu bị mất một phần dữ liệu."
         },
         {
-          "id": "C",
+          "id": "B",
           "i18n": {
             "en": "The simple conclusion gets less clear as more evidence comes in.",
             "vi": "Kết luận đơn giản trở nên kém rõ ràng khi có thêm bằng chứng."
           },
           "is_correct": true,
-          "order": 2,
+          "order": 1,
           "text": "The simple conclusion gets less clear as more evidence comes in.",
           "text_translation": "Kết luận đơn giản trở nên kém rõ ràng khi có thêm bằng chứng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The earlier studies are shown to be completely false.",
+            "vi": "Các nghiên cứu trước bị chứng minh là sai hoàn toàn."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The earlier studies are shown to be completely false.",
+          "text_translation": "Các nghiên cứu trước bị chứng minh là sai hoàn toàn."
         },
         {
           "id": "D",
@@ -5063,46 +5063,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Power made caring people kinder and self-focused people more selfish.",
-            "vi": "Quyền lực khiến người biết quan tâm tử tế hơn và người chỉ nghĩ cho mình ích kỷ hơn."
+            "en": "Only people with authority at work were affected.",
+            "vi": "Chỉ những người có chức quyền ở nơi làm việc mới bị ảnh hưởng."
           },
-          "is_correct": true,
+          "is_correct": false,
           "order": 0,
-          "text": "Power made caring people kinder and self-focused people more selfish.",
-          "text_translation": "Quyền lực khiến người biết quan tâm tử tế hơn và người chỉ nghĩ cho mình ích kỷ hơn."
+          "text": "Only people with authority at work were affected.",
+          "text_translation": "Chỉ những người có chức quyền ở nơi làm việc mới bị ảnh hưởng."
         },
         {
           "id": "B",
-          "i18n": {
-            "en": "Power made everyone equally selfish, whatever they were like.",
-            "vi": "Quyền lực khiến ai cũng ích kỷ như nhau, bất kể trước đó họ thế nào."
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "Power made everyone equally selfish, whatever they were like.",
-          "text_translation": "Quyền lực khiến ai cũng ích kỷ như nhau, bất kể trước đó họ thế nào."
-        },
-        {
-          "id": "C",
           "i18n": {
             "en": "Power had no effect on generous people at all.",
             "vi": "Quyền lực hoàn toàn không tác động tới người rộng lượng."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 1,
           "text": "Power had no effect on generous people at all.",
           "text_translation": "Quyền lực hoàn toàn không tác động tới người rộng lượng."
         },
         {
-          "id": "D",
+          "id": "C",
           "i18n": {
-            "en": "Only people with authority at work were affected.",
-            "vi": "Chỉ những người có chức quyền ở nơi làm việc mới bị ảnh hưởng."
+            "en": "Power made everyone equally selfish, whatever they were like.",
+            "vi": "Quyền lực khiến ai cũng ích kỷ như nhau, bất kể trước đó họ thế nào."
           },
           "is_correct": false,
+          "order": 2,
+          "text": "Power made everyone equally selfish, whatever they were like.",
+          "text_translation": "Quyền lực khiến ai cũng ích kỷ như nhau, bất kể trước đó họ thế nào."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Power made caring people kinder and self-focused people more selfish.",
+            "vi": "Quyền lực khiến người biết quan tâm tử tế hơn và người chỉ nghĩ cho mình ích kỷ hơn."
+          },
+          "is_correct": true,
           "order": 3,
-          "text": "Only people with authority at work were affected.",
-          "text_translation": "Chỉ những người có chức quyền ở nơi làm việc mới bị ảnh hưởng."
+          "text": "Power made caring people kinder and self-focused people more selfish.",
+          "text_translation": "Quyền lực khiến người biết quan tâm tử tế hơn và người chỉ nghĩ cho mình ích kỷ hơn."
         }
       ],
       "evidence_segments": [
@@ -5131,13 +5131,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "To prove that Keltner's research was a fabrication.",
-            "vi": "Để chứng minh nghiên cứu của Keltner là bịa đặt."
+            "en": "To warn readers not to rely too heavily on any one study.",
+            "vi": "Để cảnh báo người đọc đừng dựa quá nhiều vào một nghiên cứu đơn lẻ nào."
           },
-          "is_correct": false,
+          "is_correct": true,
           "order": 0,
-          "text": "To prove that Keltner's research was a fabrication.",
-          "text_translation": "Để chứng minh nghiên cứu của Keltner là bịa đặt."
+          "text": "To warn readers not to rely too heavily on any one study.",
+          "text_translation": "Để cảnh báo người đọc đừng dựa quá nhiều vào một nghiên cứu đơn lẻ nào."
         },
         {
           "id": "B",
@@ -5164,13 +5164,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "To warn readers not to rely too heavily on any one study.",
-            "vi": "Để cảnh báo người đọc đừng dựa quá nhiều vào một nghiên cứu đơn lẻ nào."
+            "en": "To prove that Keltner's research was a fabrication.",
+            "vi": "Để chứng minh nghiên cứu của Keltner là bịa đặt."
           },
-          "is_correct": true,
+          "is_correct": false,
           "order": 3,
-          "text": "To warn readers not to rely too heavily on any one study.",
-          "text_translation": "Để cảnh báo người đọc đừng dựa quá nhiều vào một nghiên cứu đơn lẻ nào."
+          "text": "To prove that Keltner's research was a fabrication.",
+          "text_translation": "Để chứng minh nghiên cứu của Keltner là bịa đặt."
         }
       ],
       "evidence_segments": [
@@ -5199,46 +5199,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Powerful people, once they notice the change in themselves, try to give power away.",
-            "vi": "Người có quyền, khi nhận ra sự thay đổi ở mình, tìm cách trao quyền đi."
+            "en": "Organizations need more rules as they become smaller.",
+            "vi": "Các tổ chức càng nhỏ càng cần nhiều quy định hơn."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Powerful people, once they notice the change in themselves, try to give power away.",
-          "text_translation": "Người có quyền, khi nhận ra sự thay đổi ở mình, tìm cách trao quyền đi."
+          "text": "Organizations need more rules as they become smaller.",
+          "text_translation": "Các tổ chức càng nhỏ càng cần nhiều quy định hơn."
         },
         {
           "id": "B",
-          "i18n": {
-            "en": "The qualities that win people power are the ones power later wears down.",
-            "vi": "Chính những phẩm chất giúp người ta có quyền lại là thứ quyền lực về sau bào mòn."
-          },
-          "is_correct": true,
-          "order": 1,
-          "text": "The qualities that win people power are the ones power later wears down.",
-          "text_translation": "Chính những phẩm chất giúp người ta có quyền lại là thứ quyền lực về sau bào mòn."
-        },
-        {
-          "id": "C",
           "i18n": {
             "en": "People with no power usually behave worse than leaders.",
             "vi": "Người không có quyền lực thường cư xử tệ hơn người lãnh đạo."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 1,
           "text": "People with no power usually behave worse than leaders.",
           "text_translation": "Người không có quyền lực thường cư xử tệ hơn người lãnh đạo."
         },
         {
-          "id": "D",
+          "id": "C",
           "i18n": {
-            "en": "Organizations need more rules as they become smaller.",
-            "vi": "Các tổ chức càng nhỏ càng cần nhiều quy định hơn."
+            "en": "Powerful people, once they notice the change in themselves, try to give power away.",
+            "vi": "Người có quyền, khi nhận ra sự thay đổi ở mình, tìm cách trao quyền đi."
           },
           "is_correct": false,
+          "order": 2,
+          "text": "Powerful people, once they notice the change in themselves, try to give power away.",
+          "text_translation": "Người có quyền, khi nhận ra sự thay đổi ở mình, tìm cách trao quyền đi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The qualities that win people power are the ones power later wears down.",
+            "vi": "Chính những phẩm chất giúp người ta có quyền lại là thứ quyền lực về sau bào mòn."
+          },
+          "is_correct": true,
           "order": 3,
-          "text": "Organizations need more rules as they become smaller.",
-          "text_translation": "Các tổ chức càng nhỏ càng cần nhiều quy định hơn."
+          "text": "The qualities that win people power are the ones power later wears down.",
+          "text_translation": "Chính những phẩm chất giúp người ta có quyền lại là thứ quyền lực về sau bào mòn."
         }
       ],
       "evidence_segments": [
@@ -5267,46 +5267,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Leaders should be replaced every few months.",
-            "vi": "Nên thay người lãnh đạo vài tháng một lần."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "Leaders should be replaced every few months.",
-          "text_translation": "Nên thay người lãnh đạo vài tháng một lần."
-        },
-        {
-          "id": "B",
-          "i18n": {
-            "en": "Organizations should rely on stringent rules alone, since they prevent bad behavior best.",
-            "vi": "Tổ chức chỉ nên dựa vào luật lệ nghiêm ngặt, vì chúng ngăn hành vi xấu tốt nhất."
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "Organizations should rely on stringent rules alone, since they prevent bad behavior best.",
-          "text_translation": "Tổ chức chỉ nên dựa vào luật lệ nghiêm ngặt, vì chúng ngăn hành vi xấu tốt nhất."
-        },
-        {
-          "id": "C",
-          "i18n": {
             "en": "Leaders should regularly hear honest views from someone unafraid of them.",
             "vi": "Người lãnh đạo nên thường xuyên nghe ý kiến thật từ một người không sợ họ."
           },
           "is_correct": true,
-          "order": 2,
+          "order": 0,
           "text": "Leaders should regularly hear honest views from someone unafraid of them.",
           "text_translation": "Người lãnh đạo nên thường xuyên nghe ý kiến thật từ một người không sợ họ."
         },
         {
-          "id": "D",
+          "id": "B",
+          "i18n": {
+            "en": "Leaders should be replaced every few months.",
+            "vi": "Nên thay người lãnh đạo vài tháng một lần."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Leaders should be replaced every few months.",
+          "text_translation": "Nên thay người lãnh đạo vài tháng một lần."
+        },
+        {
+          "id": "C",
           "i18n": {
             "en": "Leaders should be surrounded by people who admire them and keep their confidence high.",
             "vi": "Người lãnh đạo nên được vây quanh bởi những người ngưỡng mộ mình để giữ vững tự tin."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 2,
           "text": "Leaders should be surrounded by people who admire them and keep their confidence high.",
           "text_translation": "Người lãnh đạo nên được vây quanh bởi những người ngưỡng mộ mình để giữ vững tự tin."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Organizations should rely on stringent rules alone, since they prevent bad behavior best.",
+            "vi": "Tổ chức chỉ nên dựa vào luật lệ nghiêm ngặt, vì chúng ngăn hành vi xấu tốt nhất."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Organizations should rely on stringent rules alone, since they prevent bad behavior best.",
+          "text_translation": "Tổ chức chỉ nên dựa vào luật lệ nghiêm ngặt, vì chúng ngăn hành vi xấu tốt nhất."
         }
       ],
       "evidence_segments": [
@@ -5335,24 +5335,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "He wants to warn readers about a dishonest manager he once worked for.",
-            "vi": "Anh muốn cảnh báo người đọc về một quản lý gian dối anh từng làm cùng."
+            "en": "He hopes to persuade his neighbors to become software engineers.",
+            "vi": "Anh hy vọng thuyết phục hàng xóm trở thành kỹ sư phần mềm."
           },
           "is_correct": false,
           "order": 0,
-          "text": "He wants to warn readers about a dishonest manager he once worked for.",
-          "text_translation": "Anh muốn cảnh báo người đọc về một quản lý gian dối anh từng làm cùng."
+          "text": "He hopes to persuade his neighbors to become software engineers.",
+          "text_translation": "Anh hy vọng thuyết phục hàng xóm trở thành kỹ sư phần mềm."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "He calls it a public service for people about to be promoted.",
-            "vi": "Anh gọi đó là việc công ích cho những người sắp được thăng chức."
+            "en": "He wants to warn readers about a dishonest manager he once worked for.",
+            "vi": "Anh muốn cảnh báo người đọc về một quản lý gian dối anh từng làm cùng."
           },
-          "is_correct": true,
+          "is_correct": false,
           "order": 1,
-          "text": "He calls it a public service for people about to be promoted.",
-          "text_translation": "Anh gọi đó là việc công ích cho những người sắp được thăng chức."
+          "text": "He wants to warn readers about a dishonest manager he once worked for.",
+          "text_translation": "Anh muốn cảnh báo người đọc về một quản lý gian dối anh từng làm cùng."
         },
         {
           "id": "C",
@@ -5368,13 +5368,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "He hopes to persuade his neighbors to become software engineers.",
-            "vi": "Anh hy vọng thuyết phục hàng xóm trở thành kỹ sư phần mềm."
+            "en": "He calls it a public service for people about to be promoted.",
+            "vi": "Anh gọi đó là việc công ích cho những người sắp được thăng chức."
           },
-          "is_correct": false,
+          "is_correct": true,
           "order": 3,
-          "text": "He hopes to persuade his neighbors to become software engineers.",
-          "text_translation": "Anh hy vọng thuyết phục hàng xóm trở thành kỹ sư phần mềm."
+          "text": "He calls it a public service for people about to be promoted.",
+          "text_translation": "Anh gọi đó là việc công ích cho những người sắp được thăng chức."
         }
       ],
       "evidence_segments": [
@@ -5403,46 +5403,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "To give every member of the team an equal chance to speak before a decision is made.",
-            "vi": "Để mọi thành viên trong nhóm có cơ hội phát biểu như nhau trước khi quyết định."
+            "en": "To let everyone else learn about decisions that have already been made.",
+            "vi": "Để mọi người khác biết về những quyết định đã được đưa ra từ trước."
           },
-          "is_correct": false,
+          "is_correct": true,
           "order": 0,
-          "text": "To give every member of the team an equal chance to speak before a decision is made.",
-          "text_translation": "Để mọi thành viên trong nhóm có cơ hội phát biểu như nhau trước khi quyết định."
+          "text": "To let everyone else learn about decisions that have already been made.",
+          "text_translation": "Để mọi người khác biết về những quyết định đã được đưa ra từ trước."
         },
         {
           "id": "B",
-          "i18n": {
-            "en": "To solve problems that nobody noticed before.",
-            "vi": "Để giải quyết những vấn đề trước đó không ai để ý."
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "To solve problems that nobody noticed before.",
-          "text_translation": "Để giải quyết những vấn đề trước đó không ai để ý."
-        },
-        {
-          "id": "C",
           "i18n": {
             "en": "To choose who will be at the helm of the next project.",
             "vi": "Để chọn ai sẽ cầm lái dự án tiếp theo."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 1,
           "text": "To choose who will be at the helm of the next project.",
           "text_translation": "Để chọn ai sẽ cầm lái dự án tiếp theo."
         },
         {
+          "id": "C",
+          "i18n": {
+            "en": "To solve problems that nobody noticed before.",
+            "vi": "Để giải quyết những vấn đề trước đó không ai để ý."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "To solve problems that nobody noticed before.",
+          "text_translation": "Để giải quyết những vấn đề trước đó không ai để ý."
+        },
+        {
           "id": "D",
           "i18n": {
-            "en": "To let everyone else learn about decisions that have already been made.",
-            "vi": "Để mọi người khác biết về những quyết định đã được đưa ra từ trước."
+            "en": "To give every member of the team an equal chance to speak before a decision is made.",
+            "vi": "Để mọi thành viên trong nhóm có cơ hội phát biểu như nhau trước khi quyết định."
           },
-          "is_correct": true,
+          "is_correct": false,
           "order": 3,
-          "text": "To let everyone else learn about decisions that have already been made.",
-          "text_translation": "Để mọi người khác biết về những quyết định đã được đưa ra từ trước."
+          "text": "To give every member of the team an equal chance to speak before a decision is made.",
+          "text_translation": "Để mọi thành viên trong nhóm có cơ hội phát biểu như nhau trước khi quyết định."
         }
       ],
       "evidence_segments": [
@@ -5471,46 +5471,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "People can easily create a false sense of urgency whenever it suits them.",
-            "vi": "Người ta có thể dễ dàng tạo ra cảm giác gấp gáp giả tạo bất cứ khi nào có lợi cho mình."
-          },
-          "is_correct": true,
-          "order": 0,
-          "text": "People can easily create a false sense of urgency whenever it suits them.",
-          "text_translation": "Người ta có thể dễ dàng tạo ra cảm giác gấp gáp giả tạo bất cứ khi nào có lợi cho mình."
-        },
-        {
-          "id": "B",
-          "i18n": {
-            "en": "Real deadlines are becoming more common in modern offices.",
-            "vi": "Hạn chót thật ngày càng phổ biến ở văn phòng hiện đại."
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "Real deadlines are becoming more common in modern offices.",
-          "text_translation": "Hạn chót thật ngày càng phổ biến ở văn phòng hiện đại."
-        },
-        {
-          "id": "C",
-          "i18n": {
             "en": "Emails sent in the evening are usually ignored.",
             "vi": "Email gửi buổi tối thường bị bỏ qua."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 0,
           "text": "Emails sent in the evening are usually ignored.",
           "text_translation": "Email gửi buổi tối thường bị bỏ qua."
         },
         {
-          "id": "D",
+          "id": "B",
           "i18n": {
             "en": "Engineers invent deadlines because they enjoy working under pressure late at night.",
             "vi": "Kỹ sư bịa ra hạn chót vì thích làm việc dưới áp lực lúc khuya."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 1,
           "text": "Engineers invent deadlines because they enjoy working under pressure late at night.",
           "text_translation": "Kỹ sư bịa ra hạn chót vì thích làm việc dưới áp lực lúc khuya."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "People can easily create a false sense of urgency whenever it suits them.",
+            "vi": "Người ta có thể dễ dàng tạo ra cảm giác gấp gáp giả tạo bất cứ khi nào có lợi cho mình."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "People can easily create a false sense of urgency whenever it suits them.",
+          "text_translation": "Người ta có thể dễ dàng tạo ra cảm giác gấp gáp giả tạo bất cứ khi nào có lợi cho mình."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Real deadlines are becoming more common in modern offices.",
+            "vi": "Hạn chót thật ngày càng phổ biến ở văn phòng hiện đại."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Real deadlines are becoming more common in modern offices.",
+          "text_translation": "Hạn chót thật ngày càng phổ biến ở văn phòng hiện đại."
         }
       ],
       "evidence_segments": [
@@ -5540,46 +5540,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "That the sender is working too hard and needs help.",
-            "vi": "Rằng người gửi đang làm việc quá sức và cần giúp đỡ."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "That the sender is working too hard and needs help.",
-          "text_translation": "Rằng người gửi đang làm việc quá sức và cần giúp đỡ."
-        },
-        {
-          "id": "B",
-          "i18n": {
             "en": "That the task must be finished by morning.",
             "vi": "Rằng việc ấy phải xong trước sáng mai."
           },
           "is_correct": false,
-          "order": 1,
+          "order": 0,
           "text": "That the task must be finished by morning.",
           "text_translation": "Rằng việc ấy phải xong trước sáng mai."
         },
         {
-          "id": "C",
-          "i18n": {
-            "en": "That the sender expects their priorities to come first.",
-            "vi": "Rằng người gửi muốn ưu tiên của họ được đặt lên trước hết."
-          },
-          "is_correct": true,
-          "order": 2,
-          "text": "That the sender expects their priorities to come first.",
-          "text_translation": "Rằng người gửi muốn ưu tiên của họ được đặt lên trước hết."
-        },
-        {
-          "id": "D",
+          "id": "B",
           "i18n": {
             "en": "That the sender has made a mistake and is embarrassed.",
             "vi": "Rằng người gửi đã mắc lỗi và thấy ngượng."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 1,
           "text": "That the sender has made a mistake and is embarrassed.",
           "text_translation": "Rằng người gửi đã mắc lỗi và thấy ngượng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "That the sender is working too hard and needs help.",
+            "vi": "Rằng người gửi đang làm việc quá sức và cần giúp đỡ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "That the sender is working too hard and needs help.",
+          "text_translation": "Rằng người gửi đang làm việc quá sức và cần giúp đỡ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "That the sender expects their priorities to come first.",
+            "vi": "Rằng người gửi muốn ưu tiên của họ được đặt lên trước hết."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "That the sender expects their priorities to come first.",
+          "text_translation": "Rằng người gửi muốn ưu tiên của họ được đặt lên trước hết."
         }
       ],
       "evidence_segments": [
@@ -5619,35 +5619,35 @@
         {
           "id": "B",
           "i18n": {
+            "en": "The manager was dismissed for not telling the truth, although the team had met the deadline.",
+            "vi": "Người quản lý bị sa thải vì không nói thật, dù cả nhóm vẫn kịp hạn chót."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The manager was dismissed for not telling the truth, although the team had met the deadline.",
+          "text_translation": "Người quản lý bị sa thải vì không nói thật, dù cả nhóm vẫn kịp hạn chót."
+        },
+        {
+          "id": "C",
+          "i18n": {
             "en": "The department refused to work, but the project still succeeded.",
             "vi": "Cả phòng không chịu làm, nhưng dự án vẫn thành công."
           },
           "is_correct": false,
-          "order": 1,
+          "order": 2,
           "text": "The department refused to work, but the project still succeeded.",
           "text_translation": "Cả phòng không chịu làm, nhưng dự án vẫn thành công."
         },
         {
-          "id": "C",
+          "id": "D",
           "i18n": {
             "en": "Nathan himself had invented the deadline.",
             "vi": "Chính Nathan đã bịa ra hạn chót đó."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 3,
           "text": "Nathan himself had invented the deadline.",
           "text_translation": "Chính Nathan đã bịa ra hạn chót đó."
-        },
-        {
-          "id": "D",
-          "i18n": {
-            "en": "The manager was dismissed for not telling the truth, although the team had met the deadline.",
-            "vi": "Người quản lý bị sa thải vì không nói thật, dù cả nhóm vẫn kịp hạn chót."
-          },
-          "is_correct": false,
-          "order": 3,
-          "text": "The manager was dismissed for not telling the truth, although the team had met the deadline.",
-          "text_translation": "Người quản lý bị sa thải vì không nói thật, dù cả nhóm vẫn kịp hạn chót."
         }
       ],
       "evidence_segments": [
@@ -5676,46 +5676,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Junior engineers are usually the ones who present projects to senior management.",
-            "vi": "Kỹ sư cấp dưới thường là người trình bày dự án với cấp trên."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "Junior engineers are usually the ones who present projects to senior management.",
-          "text_translation": "Kỹ sư cấp dưới thường là người trình bày dự án với cấp trên."
-        },
-        {
-          "id": "B",
-          "i18n": {
-            "en": "Teams that share credit equally are always more successful.",
-            "vi": "Những nhóm chia đều công lao luôn thành công hơn."
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "Teams that share credit equally are always more successful.",
-          "text_translation": "Những nhóm chia đều công lao luôn thành công hơn."
-        },
-        {
-          "id": "C",
-          "i18n": {
             "en": "Leaders who are modest are rarely promoted.",
             "vi": "Người lãnh đạo khiêm tốn hiếm khi được thăng chức."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 0,
           "text": "Leaders who are modest are rarely promoted.",
           "text_translation": "Người lãnh đạo khiêm tốn hiếm khi được thăng chức."
         },
         {
-          "id": "D",
+          "id": "B",
           "i18n": {
             "en": "Leaders take the credit for success and pass blame for failure downward.",
             "vi": "Người lãnh đạo nhận công khi thành công và đẩy lỗi xuống dưới khi thất bại."
           },
           "is_correct": true,
-          "order": 3,
+          "order": 1,
           "text": "Leaders take the credit for success and pass blame for failure downward.",
           "text_translation": "Người lãnh đạo nhận công khi thành công và đẩy lỗi xuống dưới khi thất bại."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Junior engineers are usually the ones who present projects to senior management.",
+            "vi": "Kỹ sư cấp dưới thường là người trình bày dự án với cấp trên."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Junior engineers are usually the ones who present projects to senior management.",
+          "text_translation": "Kỹ sư cấp dưới thường là người trình bày dự án với cấp trên."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Teams that share credit equally are always more successful.",
+            "vi": "Những nhóm chia đều công lao luôn thành công hơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Teams that share credit equally are always more successful.",
+          "text_translation": "Những nhóm chia đều công lao luôn thành công hơn."
         }
       ],
       "evidence_segments": [
@@ -5745,13 +5745,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It is mainly spread by people who are new to a team.",
-            "vi": "Nó chủ yếu do người mới vào nhóm lan truyền."
+            "en": "It happens only in very large organizations.",
+            "vi": "Nó chỉ xảy ra ở những tổ chức rất lớn."
           },
           "is_correct": false,
           "order": 0,
-          "text": "It is mainly spread by people who are new to a team.",
-          "text_translation": "Nó chủ yếu do người mới vào nhóm lan truyền."
+          "text": "It happens only in very large organizations.",
+          "text_translation": "Nó chỉ xảy ra ở những tổ chức rất lớn."
         },
         {
           "id": "B",
@@ -5778,13 +5778,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "It happens only in very large organizations.",
-            "vi": "Nó chỉ xảy ra ở những tổ chức rất lớn."
+            "en": "It is mainly spread by people who are new to a team.",
+            "vi": "Nó chủ yếu do người mới vào nhóm lan truyền."
           },
           "is_correct": false,
           "order": 3,
-          "text": "It happens only in very large organizations.",
-          "text_translation": "Nó chỉ xảy ra ở những tổ chức rất lớn."
+          "text": "It is mainly spread by people who are new to a team.",
+          "text_translation": "Nó chủ yếu do người mới vào nhóm lan truyền."
         }
       ],
       "evidence_segments": [
@@ -5813,24 +5813,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "He says he broke them deliberately to set a good example.",
-            "vi": "Anh nói mình cố tình phá chúng để làm gương."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "He says he broke them deliberately to set a good example.",
-          "text_translation": "Anh nói mình cố tình phá chúng để làm gương."
-        },
-        {
-          "id": "B",
-          "i18n": {
             "en": "He blames his team for not following them.",
             "vi": "Anh đổ lỗi cho nhóm vì đã không theo chúng."
           },
           "is_correct": false,
-          "order": 1,
+          "order": 0,
           "text": "He blames his team for not following them.",
           "text_translation": "Anh đổ lỗi cho nhóm vì đã không theo chúng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "He says his team convinced him the rules were unfair and should be ignored.",
+            "vi": "Anh nói nhóm của anh đã thuyết phục anh rằng các luật ấy bất công và nên bỏ qua."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "He says his team convinced him the rules were unfair and should be ignored.",
+          "text_translation": "Anh nói nhóm của anh đã thuyết phục anh rằng các luật ấy bất công và nên bỏ qua."
         },
         {
           "id": "C",
@@ -5846,13 +5846,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "He says his team convinced him the rules were unfair and should be ignored.",
-            "vi": "Anh nói nhóm của anh đã thuyết phục anh rằng các luật ấy bất công và nên bỏ qua."
+            "en": "He says he broke them deliberately to set a good example.",
+            "vi": "Anh nói mình cố tình phá chúng để làm gương."
           },
           "is_correct": false,
           "order": 3,
-          "text": "He says his team convinced him the rules were unfair and should be ignored.",
-          "text_translation": "Anh nói nhóm của anh đã thuyết phục anh rằng các luật ấy bất công và nên bỏ qua."
+          "text": "He says he broke them deliberately to set a good example.",
+          "text_translation": "Anh nói mình cố tình phá chúng để làm gương."
         }
       ],
       "evidence_segments": [
@@ -5892,24 +5892,24 @@
         {
           "id": "B",
           "i18n": {
-            "en": "Open arguments in meetings, however useful they seem, slowly damage a team's trust.",
-            "vi": "Tranh luận công khai trong họp, dù có vẻ hữu ích, dần làm tổn hại lòng tin trong nhóm."
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "Open arguments in meetings, however useful they seem, slowly damage a team's trust.",
-          "text_translation": "Tranh luận công khai trong họp, dù có vẻ hữu ích, dần làm tổn hại lòng tin trong nhóm."
-        },
-        {
-          "id": "C",
-          "i18n": {
             "en": "Teams work better when nobody has to admit their mistakes in front of others.",
             "vi": "Nhóm làm việc tốt hơn khi không ai phải thừa nhận lỗi trước mặt người khác."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 1,
           "text": "Teams work better when nobody has to admit their mistakes in front of others.",
           "text_translation": "Nhóm làm việc tốt hơn khi không ai phải thừa nhận lỗi trước mặt người khác."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Open arguments in meetings, however useful they seem, slowly damage a team's trust.",
+            "vi": "Tranh luận công khai trong họp, dù có vẻ hữu ích, dần làm tổn hại lòng tin trong nhóm."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Open arguments in meetings, however useful they seem, slowly damage a team's trust.",
+          "text_translation": "Tranh luận công khai trong họp, dù có vẻ hữu ích, dần làm tổn hại lòng tin trong nhóm."
         },
         {
           "id": "D",
@@ -5949,13 +5949,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "It humorously implies his discoveries are old news to any good teacher.",
-            "vi": "Nó hài hước ngụ ý rằng những phát hiện của anh là chuyện cũ với bất kỳ giáo viên giỏi nào."
+            "en": "It reveals that she helped him write the column.",
+            "vi": "Nó tiết lộ rằng bà đã giúp anh viết chuyên mục."
           },
-          "is_correct": true,
+          "is_correct": false,
           "order": 0,
-          "text": "It humorously implies his discoveries are old news to any good teacher.",
-          "text_translation": "Nó hài hước ngụ ý rằng những phát hiện của anh là chuyện cũ với bất kỳ giáo viên giỏi nào."
+          "text": "It reveals that she helped him write the column.",
+          "text_translation": "Nó tiết lộ rằng bà đã giúp anh viết chuyên mục."
         },
         {
           "id": "B",
@@ -5971,24 +5971,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "It suggests that elementary school teachers hold more real power than engineers do.",
-            "vi": "Nó gợi ý rằng giáo viên tiểu học nắm nhiều quyền lực thật hơn kỹ sư."
+            "en": "It humorously implies his discoveries are old news to any good teacher.",
+            "vi": "Nó hài hước ngụ ý rằng những phát hiện của anh là chuyện cũ với bất kỳ giáo viên giỏi nào."
           },
-          "is_correct": false,
+          "is_correct": true,
           "order": 2,
-          "text": "It suggests that elementary school teachers hold more real power than engineers do.",
-          "text_translation": "Nó gợi ý rằng giáo viên tiểu học nắm nhiều quyền lực thật hơn kỹ sư."
+          "text": "It humorously implies his discoveries are old news to any good teacher.",
+          "text_translation": "Nó hài hước ngụ ý rằng những phát hiện của anh là chuyện cũ với bất kỳ giáo viên giỏi nào."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "It reveals that she helped him write the column.",
-            "vi": "Nó tiết lộ rằng bà đã giúp anh viết chuyên mục."
+            "en": "It suggests that elementary school teachers hold more real power than engineers do.",
+            "vi": "Nó gợi ý rằng giáo viên tiểu học nắm nhiều quyền lực thật hơn kỹ sư."
           },
           "is_correct": false,
           "order": 3,
-          "text": "It reveals that she helped him write the column.",
-          "text_translation": "Nó tiết lộ rằng bà đã giúp anh viết chuyên mục."
+          "text": "It suggests that elementary school teachers hold more real power than engineers do.",
+          "text_translation": "Nó gợi ý rằng giáo viên tiểu học nắm nhiều quyền lực thật hơn kỹ sư."
         }
       ],
       "evidence_segments": [

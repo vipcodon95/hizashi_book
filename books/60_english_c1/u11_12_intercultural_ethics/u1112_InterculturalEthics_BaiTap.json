@@ -3170,13 +3170,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to introduce a habit that almost everyone shares",
-            "vi": "để giới thiệu một thói quen hầu như ai cũng có"
+            "en": "to show that she speaks badly when she is on the phone",
+            "vi": "để cho thấy cô nói kém khi nghe điện thoại"
           },
-          "is_correct": true,
+          "is_correct": false,
           "order": 0,
-          "text": "to introduce a habit that almost everyone shares",
-          "text_translation": "để giới thiệu một thói quen hầu như ai cũng có"
+          "text": "to show that she speaks badly when she is on the phone",
+          "text_translation": "để cho thấy cô nói kém khi nghe điện thoại"
         },
         {
           "id": "B",
@@ -3192,13 +3192,13 @@
         {
           "id": "C",
           "i18n": {
-            "en": "to show that she speaks badly when she is on the phone",
-            "vi": "để cho thấy cô nói kém khi nghe điện thoại"
+            "en": "to introduce a habit that almost everyone shares",
+            "vi": "để giới thiệu một thói quen hầu như ai cũng có"
           },
-          "is_correct": false,
+          "is_correct": true,
           "order": 2,
-          "text": "to show that she speaks badly when she is on the phone",
-          "text_translation": "để cho thấy cô nói kém khi nghe điện thoại"
+          "text": "to introduce a habit that almost everyone shares",
+          "text_translation": "để giới thiệu một thói quen hầu như ai cũng có"
         },
         {
           "id": "D",
@@ -3239,46 +3239,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They speak in exactly the same way to everyone.",
-            "vi": "Họ nói y hệt nhau với mọi người."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "They speak in exactly the same way to everyone.",
-          "text_translation": "Họ nói y hệt nhau với mọi người."
-        },
-        {
-          "id": "B",
-          "i18n": {
             "en": "They choose their words only after careful planning.",
             "vi": "Họ chỉ chọn từ sau khi tính toán kỹ."
           },
           "is_correct": false,
-          "order": 1,
+          "order": 0,
           "text": "They choose their words only after careful planning.",
           "text_translation": "Họ chỉ chọn từ sau khi tính toán kỹ."
         },
         {
-          "id": "C",
-          "i18n": {
-            "en": "They copy the accent of whoever spoke to them first in a conversation.",
-            "vi": "Họ bắt chước giọng của người nói với họ trước tiên trong cuộc trò chuyện."
-          },
-          "is_correct": false,
-          "order": 2,
-          "text": "They copy the accent of whoever spoke to them first in a conversation.",
-          "text_translation": "Họ bắt chước giọng của người nói với họ trước tiên trong cuộc trò chuyện."
-        },
-        {
-          "id": "D",
+          "id": "B",
           "i18n": {
             "en": "They adjust their speech to the listener, mostly unconsciously.",
             "vi": "Họ điều chỉnh lời nói theo người nghe, phần lớn là vô thức."
           },
           "is_correct": true,
-          "order": 3,
+          "order": 1,
           "text": "They adjust their speech to the listener, mostly unconsciously.",
           "text_translation": "Họ điều chỉnh lời nói theo người nghe, phần lớn là vô thức."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They speak in exactly the same way to everyone.",
+            "vi": "Họ nói y hệt nhau với mọi người."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They speak in exactly the same way to everyone.",
+          "text_translation": "Họ nói y hệt nhau với mọi người."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They copy the accent of whoever spoke to them first in a conversation.",
+            "vi": "Họ bắt chước giọng của người nói với họ trước tiên trong cuộc trò chuyện."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They copy the accent of whoever spoke to them first in a conversation.",
+          "text_translation": "Họ bắt chước giọng của người nói với họ trước tiên trong cuộc trò chuyện."
         }
       ],
       "evidence_segments": [
@@ -3307,13 +3307,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "We should try harder to keep our own voice in every conversation.",
-            "vi": "Ta nên cố hơn để giữ giọng riêng của mình trong mọi cuộc trò chuyện."
+            "en": "Most people secretly dislike the sound of their own voice.",
+            "vi": "Phần lớn mọi người thầm ghét giọng nói của chính mình."
           },
           "is_correct": false,
           "order": 0,
-          "text": "We should try harder to keep our own voice in every conversation.",
-          "text_translation": "Ta nên cố hơn để giữ giọng riêng của mình trong mọi cuộc trò chuyện."
+          "text": "Most people secretly dislike the sound of their own voice.",
+          "text_translation": "Phần lớn mọi người thầm ghét giọng nói của chính mình."
         },
         {
           "id": "B",
@@ -3329,24 +3329,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Most people secretly dislike the sound of their own voice.",
-            "vi": "Phần lớn mọi người thầm ghét giọng nói của chính mình."
-          },
-          "is_correct": false,
-          "order": 2,
-          "text": "Most people secretly dislike the sound of their own voice.",
-          "text_translation": "Phần lớn mọi người thầm ghét giọng nói của chính mình."
-        },
-        {
-          "id": "D",
-          "i18n": {
             "en": "Conversations rarely change the way we think.",
             "vi": "Các cuộc trò chuyện hiếm khi thay đổi cách ta nghĩ."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 2,
           "text": "Conversations rarely change the way we think.",
           "text_translation": "Các cuộc trò chuyện hiếm khi thay đổi cách ta nghĩ."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "We should try harder to keep our own voice in every conversation.",
+            "vi": "Ta nên cố hơn để giữ giọng riêng của mình trong mọi cuộc trò chuyện."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "We should try harder to keep our own voice in every conversation.",
+          "text_translation": "Ta nên cố hơn để giữ giọng riêng của mình trong mọi cuộc trò chuyện."
         }
       ],
       "evidence_segments": [
@@ -3375,24 +3375,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "as examples of people who talk down to others",
-            "vi": "như ví dụ về những người coi thường người khác"
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "as examples of people who talk down to others",
-          "text_translation": "như ví dụ về những người coi thường người khác"
-        },
-        {
-          "id": "B",
-          "i18n": {
             "en": "to show that only some jobs require good communication",
             "vi": "để cho thấy chỉ một số nghề cần giao tiếp tốt"
           },
           "is_correct": false,
-          "order": 1,
+          "order": 0,
           "text": "to show that only some jobs require good communication",
           "text_translation": "để cho thấy chỉ một số nghề cần giao tiếp tốt"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "as examples of people who talk down to others",
+            "vi": "như ví dụ về những người coi thường người khác"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "as examples of people who talk down to others",
+          "text_translation": "như ví dụ về những người coi thường người khác"
         },
         {
           "id": "C",
@@ -3443,24 +3443,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "when the speaker changes their accent too slowly for anyone to notice",
-            "vi": "khi người nói đổi giọng chậm đến mức không ai nhận ra"
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "when the speaker changes their accent too slowly for anyone to notice",
-          "text_translation": "khi người nói đổi giọng chậm đến mức không ai nhận ra"
-        },
-        {
-          "id": "B",
-          "i18n": {
             "en": "when it responds to a group, not the real person",
             "vi": "khi nó phản ứng với một nhóm, không phải với con người thật"
           },
           "is_correct": true,
-          "order": 1,
+          "order": 0,
           "text": "when it responds to a group, not the real person",
           "text_translation": "khi nó phản ứng với một nhóm, không phải với con người thật"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "when it is used with friends rather than strangers",
+            "vi": "khi dùng với bạn bè thay vì người lạ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "when it is used with friends rather than strangers",
+          "text_translation": "khi dùng với bạn bè thay vì người lạ"
         },
         {
           "id": "C",
@@ -3476,13 +3476,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "when it is used with friends rather than strangers",
-            "vi": "khi dùng với bạn bè thay vì người lạ"
+            "en": "when the speaker changes their accent too slowly for anyone to notice",
+            "vi": "khi người nói đổi giọng chậm đến mức không ai nhận ra"
           },
           "is_correct": false,
           "order": 3,
-          "text": "when it is used with friends rather than strangers",
-          "text_translation": "khi dùng với bạn bè thay vì người lạ"
+          "text": "when the speaker changes their accent too slowly for anyone to notice",
+          "text_translation": "khi người nói đổi giọng chậm đến mức không ai nhận ra"
         }
       ],
       "evidence_segments": [
@@ -3511,46 +3511,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "You may seem to be mocking the other person.",
-            "vi": "Có thể trông như bạn đang giễu cợt người kia."
+            "en": "It may be hard for others to understand.",
+            "vi": "Người khác có thể khó hiểu."
           },
-          "is_correct": true,
+          "is_correct": false,
           "order": 0,
-          "text": "You may seem to be mocking the other person.",
-          "text_translation": "Có thể trông như bạn đang giễu cợt người kia."
+          "text": "It may be hard for others to understand.",
+          "text_translation": "Người khác có thể khó hiểu."
         },
         {
           "id": "B",
-          "i18n": {
-            "en": "It may help you make new friends quickly.",
-            "vi": "Nó có thể giúp bạn kết bạn mới nhanh chóng."
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "It may help you make new friends quickly.",
-          "text_translation": "Nó có thể giúp bạn kết bạn mới nhanh chóng."
-        },
-        {
-          "id": "C",
           "i18n": {
             "en": "It may sound friendly but too formal.",
             "vi": "Nó có thể nghe thân thiện nhưng quá trang trọng."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 1,
           "text": "It may sound friendly but too formal.",
           "text_translation": "Nó có thể nghe thân thiện nhưng quá trang trọng."
         },
         {
-          "id": "D",
+          "id": "C",
           "i18n": {
-            "en": "It may be hard for others to understand.",
-            "vi": "Người khác có thể khó hiểu."
+            "en": "It may help you make new friends quickly.",
+            "vi": "Nó có thể giúp bạn kết bạn mới nhanh chóng."
           },
           "is_correct": false,
+          "order": 2,
+          "text": "It may help you make new friends quickly.",
+          "text_translation": "Nó có thể giúp bạn kết bạn mới nhanh chóng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "You may seem to be mocking the other person.",
+            "vi": "Có thể trông như bạn đang giễu cợt người kia."
+          },
+          "is_correct": true,
           "order": 3,
-          "text": "It may be hard for others to understand.",
-          "text_translation": "Người khác có thể khó hiểu."
+          "text": "You may seem to be mocking the other person.",
+          "text_translation": "Có thể trông như bạn đang giễu cợt người kia."
         }
       ],
       "evidence_segments": [
@@ -3590,24 +3590,24 @@
         {
           "id": "B",
           "i18n": {
-            "en": "to hide where they grew up",
-            "vi": "để giấu nơi mình lớn lên"
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "to hide where they grew up",
-          "text_translation": "để giấu nơi mình lớn lên"
-        },
-        {
-          "id": "C",
-          "i18n": {
             "en": "to sound more like the person they are talking to",
             "vi": "để nghe giống người mình đang nói chuyện hơn"
           },
           "is_correct": false,
-          "order": 2,
+          "order": 1,
           "text": "to sound more like the person they are talking to",
           "text_translation": "để nghe giống người mình đang nói chuyện hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to hide where they grew up",
+            "vi": "để giấu nơi mình lớn lên"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to hide where they grew up",
+          "text_translation": "để giấu nơi mình lớn lên"
         },
         {
           "id": "D",
@@ -3647,35 +3647,35 @@
         {
           "id": "A",
           "i18n": {
+            "en": "positive: she sees it as an expression of identity",
+            "vi": "tích cực: cô xem đó là cách thể hiện bản sắc"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "positive: she sees it as an expression of identity",
+          "text_translation": "tích cực: cô xem đó là cách thể hiện bản sắc"
+        },
+        {
+          "id": "B",
+          "i18n": {
             "en": "critical: she thinks the colleague should adapt",
             "vi": "phê phán: cô nghĩ người đồng nghiệp nên thay đổi"
           },
           "is_correct": false,
-          "order": 0,
+          "order": 1,
           "text": "critical: she thinks the colleague should adapt",
           "text_translation": "phê phán: cô nghĩ người đồng nghiệp nên thay đổi"
         },
         {
-          "id": "B",
+          "id": "C",
           "i18n": {
             "en": "amused: she finds the dialect funny",
             "vi": "buồn cười: cô thấy phương ngữ ấy vui tai"
           },
           "is_correct": false,
-          "order": 1,
+          "order": 2,
           "text": "amused: she finds the dialect funny",
           "text_translation": "buồn cười: cô thấy phương ngữ ấy vui tai"
-        },
-        {
-          "id": "C",
-          "i18n": {
-            "en": "positive: she sees it as an expression of identity",
-            "vi": "tích cực: cô xem đó là cách thể hiện bản sắc"
-          },
-          "is_correct": true,
-          "order": 2,
-          "text": "positive: she sees it as an expression of identity",
-          "text_translation": "tích cực: cô xem đó là cách thể hiện bản sắc"
         },
         {
           "id": "D",
@@ -3715,46 +3715,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "sensitivity to context and the listener's real needs",
-            "vi": "sự nhạy bén với ngữ cảnh và nhu cầu thật của người nghe"
-          },
-          "is_correct": true,
-          "order": 0,
-          "text": "sensitivity to context and the listener's real needs",
-          "text_translation": "sự nhạy bén với ngữ cảnh và nhu cầu thật của người nghe"
-        },
-        {
-          "id": "B",
-          "i18n": {
-            "en": "perfect grammar in every situation",
-            "vi": "ngữ pháp hoàn hảo trong mọi tình huống"
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "perfect grammar in every situation",
-          "text_translation": "ngữ pháp hoàn hảo trong mọi tình huống"
-        },
-        {
-          "id": "C",
-          "i18n": {
             "en": "the ability to imitate many different accents and regional dialects",
             "vi": "khả năng bắt chước nhiều giọng và phương ngữ vùng miền khác nhau"
           },
           "is_correct": false,
-          "order": 2,
+          "order": 0,
           "text": "the ability to imitate many different accents and regional dialects",
           "text_translation": "khả năng bắt chước nhiều giọng và phương ngữ vùng miền khác nhau"
         },
         {
-          "id": "D",
+          "id": "B",
           "i18n": {
             "en": "always using easier language with people they have just met",
             "vi": "luôn dùng ngôn ngữ dễ hơn với người mới gặp"
           },
           "is_correct": false,
-          "order": 3,
+          "order": 1,
           "text": "always using easier language with people they have just met",
           "text_translation": "luôn dùng ngôn ngữ dễ hơn với người mới gặp"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "sensitivity to context and the listener's real needs",
+            "vi": "sự nhạy bén với ngữ cảnh và nhu cầu thật của người nghe"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "sensitivity to context and the listener's real needs",
+          "text_translation": "sự nhạy bén với ngữ cảnh và nhu cầu thật của người nghe"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "perfect grammar in every situation",
+            "vi": "ngữ pháp hoàn hảo trong mọi tình huống"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "perfect grammar in every situation",
+          "text_translation": "ngữ pháp hoàn hảo trong mọi tình huống"
         }
       ],
       "evidence_segments": [
@@ -3783,35 +3783,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Teenagers usually do not listen to their parents.",
-            "vi": "Thiếu niên thường không nghe lời cha mẹ."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "Teenagers usually do not listen to their parents.",
-          "text_translation": "Thiếu niên thường không nghe lời cha mẹ."
-        },
-        {
-          "id": "B",
-          "i18n": {
             "en": "Adapting how we speak shows attention to others.",
             "vi": "Điều chỉnh cách nói cho thấy ta để tâm tới người khác."
           },
           "is_correct": true,
-          "order": 1,
+          "order": 0,
           "text": "Adapting how we speak shows attention to others.",
           "text_translation": "Điều chỉnh cách nói cho thấy ta để tâm tới người khác."
         },
         {
-          "id": "C",
+          "id": "B",
           "i18n": {
             "en": "Parents should correct the way their children speak.",
             "vi": "Cha mẹ nên sửa cách nói của con."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 1,
           "text": "Parents should correct the way their children speak.",
           "text_translation": "Cha mẹ nên sửa cách nói của con."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Teenagers usually do not listen to their parents.",
+            "vi": "Thiếu niên thường không nghe lời cha mẹ."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Teenagers usually do not listen to their parents.",
+          "text_translation": "Thiếu niên thường không nghe lời cha mẹ."
         },
         {
           "id": "D",
@@ -3921,46 +3921,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They are rarely free, since they create duties.",
-            "vi": "Chúng hiếm khi miễn phí, vì chúng tạo ra bổn phận."
-          },
-          "is_correct": true,
-          "order": 0,
-          "text": "They are rarely free, since they create duties.",
-          "text_translation": "Chúng hiếm khi miễn phí, vì chúng tạo ra bổn phận."
-        },
-        {
-          "id": "B",
-          "i18n": {
             "en": "They were more common in antiquity than in his own time.",
             "vi": "Chúng phổ biến thời cổ đại hơn thời của ông."
           },
           "is_correct": false,
-          "order": 1,
+          "order": 0,
           "text": "They were more common in antiquity than in his own time.",
           "text_translation": "Chúng phổ biến thời cổ đại hơn thời của ông."
         },
         {
-          "id": "C",
+          "id": "B",
           "i18n": {
-            "en": "They should always be refused politely.",
-            "vi": "Luôn nên từ chối chúng một cách lịch sự."
+            "en": "They are rarely free, since they create duties.",
+            "vi": "Chúng hiếm khi miễn phí, vì chúng tạo ra bổn phận."
           },
-          "is_correct": false,
-          "order": 2,
-          "text": "They should always be refused politely.",
-          "text_translation": "Luôn nên từ chối chúng một cách lịch sự."
+          "is_correct": true,
+          "order": 1,
+          "text": "They are rarely free, since they create duties.",
+          "text_translation": "Chúng hiếm khi miễn phí, vì chúng tạo ra bổn phận."
         },
         {
-          "id": "D",
+          "id": "C",
           "i18n": {
             "en": "They have no meaning beyond their price.",
             "vi": "Chúng chẳng có ý nghĩa gì ngoài giá tiền."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 2,
           "text": "They have no meaning beyond their price.",
           "text_translation": "Chúng chẳng có ý nghĩa gì ngoài giá tiền."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They should always be refused politely.",
+            "vi": "Luôn nên từ chối chúng một cách lịch sự."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They should always be refused politely.",
+          "text_translation": "Luôn nên từ chối chúng một cách lịch sự."
         }
       ],
       "evidence_segments": [
@@ -4001,35 +4001,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "because the person who gave it would then have to take it home",
-            "vi": "vì người tặng sẽ phải mang nó về lại"
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "because the person who gave it would then have to take it home",
-          "text_translation": "vì người tặng sẽ phải mang nó về lại"
-        },
-        {
-          "id": "C",
-          "i18n": {
             "en": "because refusing was against the law in many societies",
             "vi": "vì từ chối là phạm luật ở nhiều xã hội"
           },
           "is_correct": false,
-          "order": 2,
+          "order": 1,
           "text": "because refusing was against the law in many societies",
           "text_translation": "vì từ chối là phạm luật ở nhiều xã hội"
         },
         {
-          "id": "D",
+          "id": "C",
           "i18n": {
             "en": "because it rejected the relationship the gift was meant to create",
             "vi": "vì nó khước từ mối quan hệ mà món quà nhằm tạo ra"
           },
           "is_correct": true,
-          "order": 3,
+          "order": 2,
           "text": "because it rejected the relationship the gift was meant to create",
           "text_translation": "vì nó khước từ mối quan hệ mà món quà nhằm tạo ra"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the person who gave it would then have to take it home",
+            "vi": "vì người tặng sẽ phải mang nó về lại"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because the person who gave it would then have to take it home",
+          "text_translation": "vì người tặng sẽ phải mang nó về lại"
         }
       ],
       "evidence_segments": [
@@ -4058,46 +4058,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Most people throw away cards from strangers.",
-            "vi": "Phần lớn người ta vứt thiệp của người lạ."
+            "en": "Long letters are more effective than holiday cards at making friends.",
+            "vi": "Thư dài kết bạn hiệu quả hơn thiệp mừng lễ."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Most people throw away cards from strangers.",
-          "text_translation": "Phần lớn người ta vứt thiệp của người lạ."
+          "text": "Long letters are more effective than holiday cards at making friends.",
+          "text_translation": "Thư dài kết bạn hiệu quả hơn thiệp mừng lễ."
         },
         {
           "id": "B",
-          "i18n": {
-            "en": "The urge to give back is strong, even towards strangers.",
-            "vi": "Thôi thúc đáp lễ rất mạnh, kể cả với người lạ."
-          },
-          "is_correct": true,
-          "order": 1,
-          "text": "The urge to give back is strong, even towards strangers.",
-          "text_translation": "Thôi thúc đáp lễ rất mạnh, kể cả với người lạ."
-        },
-        {
-          "id": "C",
           "i18n": {
             "en": "People only reply to cards from their own families.",
             "vi": "Người ta chỉ hồi âm thiệp của gia đình mình."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 1,
           "text": "People only reply to cards from their own families.",
           "text_translation": "Người ta chỉ hồi âm thiệp của gia đình mình."
         },
         {
+          "id": "C",
+          "i18n": {
+            "en": "The urge to give back is strong, even towards strangers.",
+            "vi": "Thôi thúc đáp lễ rất mạnh, kể cả với người lạ."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "The urge to give back is strong, even towards strangers.",
+          "text_translation": "Thôi thúc đáp lễ rất mạnh, kể cả với người lạ."
+        },
+        {
           "id": "D",
           "i18n": {
-            "en": "Long letters are more effective than holiday cards at making friends.",
-            "vi": "Thư dài kết bạn hiệu quả hơn thiệp mừng lễ."
+            "en": "Most people throw away cards from strangers.",
+            "vi": "Phần lớn người ta vứt thiệp của người lạ."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Long letters are more effective than holiday cards at making friends.",
-          "text_translation": "Thư dài kết bạn hiệu quả hơn thiệp mừng lễ."
+          "text": "Most people throw away cards from strangers.",
+          "text_translation": "Phần lớn người ta vứt thiệp của người lạ."
         }
       ],
       "evidence_segments": [
@@ -4127,24 +4127,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The researcher was well known to many of the people he wrote to.",
-            "vi": "Nhà nghiên cứu được nhiều người nhận thiệp biết tới."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "The researcher was well known to many of the people he wrote to.",
-          "text_translation": "Nhà nghiên cứu được nhiều người nhận thiệp biết tới."
-        },
-        {
-          "id": "B",
-          "i18n": {
             "en": "Most people were suspicious and refused to reply.",
             "vi": "Phần lớn người nhận nghi ngờ và không hồi âm."
           },
           "is_correct": false,
-          "order": 1,
+          "order": 0,
           "text": "Most people were suspicious and refused to reply.",
           "text_translation": "Phần lớn người nhận nghi ngờ và không hồi âm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "People replied without asking why a stranger had written.",
+            "vi": "Người ta hồi âm mà không hỏi vì sao một người lạ lại viết cho mình."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "People replied without asking why a stranger had written.",
+          "text_translation": "Người ta hồi âm mà không hỏi vì sao một người lạ lại viết cho mình."
         },
         {
           "id": "C",
@@ -4160,13 +4160,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "People replied without asking why a stranger had written.",
-            "vi": "Người ta hồi âm mà không hỏi vì sao một người lạ lại viết cho mình."
+            "en": "The researcher was well known to many of the people he wrote to.",
+            "vi": "Nhà nghiên cứu được nhiều người nhận thiệp biết tới."
           },
-          "is_correct": true,
+          "is_correct": false,
           "order": 3,
-          "text": "People replied without asking why a stranger had written.",
-          "text_translation": "Người ta hồi âm mà không hỏi vì sao một người lạ lại viết cho mình."
+          "text": "The researcher was well known to many of the people he wrote to.",
+          "text_translation": "Nhà nghiên cứu được nhiều người nhận thiệp biết tới."
         }
       ],
       "evidence_segments": [
@@ -4195,13 +4195,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to show that customers clearly prefer receiving two mints rather than one",
-            "vi": "để cho thấy khách rõ ràng thích nhận hai viên kẹo bạc hà hơn một viên"
+            "en": "to suggest that a gift that feels personal creates more obligation",
+            "vi": "để gợi ý rằng món quà có vẻ dành riêng cho mình tạo ra cảm giác mắc nợ nhiều hơn"
           },
-          "is_correct": false,
+          "is_correct": true,
           "order": 0,
-          "text": "to show that customers clearly prefer receiving two mints rather than one",
-          "text_translation": "để cho thấy khách rõ ràng thích nhận hai viên kẹo bạc hà hơn một viên"
+          "text": "to suggest that a gift that feels personal creates more obligation",
+          "text_translation": "để gợi ý rằng món quà có vẻ dành riêng cho mình tạo ra cảm giác mắc nợ nhiều hơn"
         },
         {
           "id": "B",
@@ -4217,13 +4217,13 @@
         {
           "id": "C",
           "i18n": {
-            "en": "to suggest that a gift that feels personal creates more obligation",
-            "vi": "để gợi ý rằng món quà có vẻ dành riêng cho mình tạo ra cảm giác mắc nợ nhiều hơn"
+            "en": "to show that customers clearly prefer receiving two mints rather than one",
+            "vi": "để cho thấy khách rõ ràng thích nhận hai viên kẹo bạc hà hơn một viên"
           },
-          "is_correct": true,
+          "is_correct": false,
           "order": 2,
-          "text": "to suggest that a gift that feels personal creates more obligation",
-          "text_translation": "để gợi ý rằng món quà có vẻ dành riêng cho mình tạo ra cảm giác mắc nợ nhiều hơn"
+          "text": "to show that customers clearly prefer receiving two mints rather than one",
+          "text_translation": "để cho thấy khách rõ ràng thích nhận hai viên kẹo bạc hà hơn một viên"
         },
         {
           "id": "D",
@@ -4263,46 +4263,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Both use a small gift to create a sense of debt.",
-            "vi": "Cả hai dùng một món quà nhỏ để tạo cảm giác mắc nợ."
-          },
-          "is_correct": true,
-          "order": 0,
-          "text": "Both use a small gift to create a sense of debt.",
-          "text_translation": "Cả hai dùng một món quà nhỏ để tạo cảm giác mắc nợ."
-        },
-        {
-          "id": "B",
-          "i18n": {
-            "en": "Both are offered only to regular customers who have paid before.",
-            "vi": "Cả hai chỉ dành cho khách quen đã từng trả tiền."
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "Both are offered only to regular customers who have paid before.",
-          "text_translation": "Cả hai chỉ dành cho khách quen đã từng trả tiền."
-        },
-        {
-          "id": "C",
-          "i18n": {
             "en": "Both are more expensive for customers than they first appear.",
             "vi": "Cả hai đắt với khách hơn vẻ ban đầu."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 0,
           "text": "Both are more expensive for customers than they first appear.",
           "text_translation": "Cả hai đắt với khách hơn vẻ ban đầu."
         },
         {
-          "id": "D",
+          "id": "B",
           "i18n": {
             "en": "Both were first studied by Marcel Mauss.",
             "vi": "Cả hai đều do Marcel Mauss nghiên cứu đầu tiên."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 1,
           "text": "Both were first studied by Marcel Mauss.",
           "text_translation": "Cả hai đều do Marcel Mauss nghiên cứu đầu tiên."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Both are offered only to regular customers who have paid before.",
+            "vi": "Cả hai chỉ dành cho khách quen đã từng trả tiền."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Both are offered only to regular customers who have paid before.",
+          "text_translation": "Cả hai chỉ dành cho khách quen đã từng trả tiền."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Both use a small gift to create a sense of debt.",
+            "vi": "Cả hai dùng một món quà nhỏ để tạo cảm giác mắc nợ."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Both use a small gift to create a sense of debt.",
+          "text_translation": "Cả hai dùng một món quà nhỏ để tạo cảm giác mắc nợ."
         }
       ],
       "evidence_segments": [
@@ -4331,46 +4331,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "He believes that all kindness is secretly selfish underneath.",
-            "vi": "Ông tin rằng mọi lòng tốt thực chất đều ích kỷ ngầm bên dưới."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "He believes that all kindness is secretly selfish underneath.",
-          "text_translation": "Ông tin rằng mọi lòng tốt thực chất đều ích kỷ ngầm bên dưới."
-        },
-        {
-          "id": "B",
-          "i18n": {
             "en": "He sees gifts as mainly about relationships, not trade.",
             "vi": "Ông xem quà tặng chủ yếu là chuyện quan hệ, không phải trao đổi."
           },
           "is_correct": true,
-          "order": 1,
+          "order": 0,
           "text": "He sees gifts as mainly about relationships, not trade.",
           "text_translation": "Ông xem quà tặng chủ yếu là chuyện quan hệ, không phải trao đổi."
         },
         {
-          "id": "C",
+          "id": "B",
           "i18n": {
-            "en": "He thinks the question has been fully answered by psychologists.",
-            "vi": "Ông cho rằng các nhà tâm lý học đã trả lời trọn vẹn câu hỏi."
+            "en": "He believes that all kindness is secretly selfish underneath.",
+            "vi": "Ông tin rằng mọi lòng tốt thực chất đều ích kỷ ngầm bên dưới."
           },
           "is_correct": false,
-          "order": 2,
-          "text": "He thinks the question has been fully answered by psychologists.",
-          "text_translation": "Ông cho rằng các nhà tâm lý học đã trả lời trọn vẹn câu hỏi."
+          "order": 1,
+          "text": "He believes that all kindness is secretly selfish underneath.",
+          "text_translation": "Ông tin rằng mọi lòng tốt thực chất đều ích kỷ ngầm bên dưới."
         },
         {
-          "id": "D",
+          "id": "C",
           "i18n": {
             "en": "He refuses to give any opinion on the question.",
             "vi": "Ông từ chối đưa ra bất kỳ ý kiến nào."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 2,
           "text": "He refuses to give any opinion on the question.",
           "text_translation": "Ông từ chối đưa ra bất kỳ ý kiến nào."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "He thinks the question has been fully answered by psychologists.",
+            "vi": "Ông cho rằng các nhà tâm lý học đã trả lời trọn vẹn câu hỏi."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "He thinks the question has been fully answered by psychologists.",
+          "text_translation": "Ông cho rằng các nhà tâm lý học đã trả lời trọn vẹn câu hỏi."
         }
       ],
       "evidence_segments": [
@@ -4468,13 +4468,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Pay the neighbor back for the jam as soon as you possibly can.",
-            "vi": "Trả tiền hũ mứt cho người hàng xóm càng sớm càng tốt."
+            "en": "Accept it gladly and return the kindness later.",
+            "vi": "Vui vẻ nhận và đáp lại tấm lòng sau."
           },
-          "is_correct": false,
+          "is_correct": true,
           "order": 0,
-          "text": "Pay the neighbor back for the jam as soon as you possibly can.",
-          "text_translation": "Trả tiền hũ mứt cho người hàng xóm càng sớm càng tốt."
+          "text": "Accept it gladly and return the kindness later.",
+          "text_translation": "Vui vẻ nhận và đáp lại tấm lòng sau."
         },
         {
           "id": "B",
@@ -4490,13 +4490,13 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Accept it gladly and return the kindness later.",
-            "vi": "Vui vẻ nhận và đáp lại tấm lòng sau."
+            "en": "Pay the neighbor back for the jam as soon as you possibly can.",
+            "vi": "Trả tiền hũ mứt cho người hàng xóm càng sớm càng tốt."
           },
-          "is_correct": true,
+          "is_correct": false,
           "order": 2,
-          "text": "Accept it gladly and return the kindness later.",
-          "text_translation": "Vui vẻ nhận và đáp lại tấm lòng sau."
+          "text": "Pay the neighbor back for the jam as soon as you possibly can.",
+          "text_translation": "Trả tiền hũ mứt cho người hàng xóm càng sớm càng tốt."
         },
         {
           "id": "D",
@@ -4537,46 +4537,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Its engineers had told it to prefer male applicants.",
-            "vi": "Các kỹ sư đã ra lệnh cho nó ưu tiên ứng viên nam."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "Its engineers had told it to prefer male applicants.",
-          "text_translation": "Các kỹ sư đã ra lệnh cho nó ưu tiên ứng viên nam."
-        },
-        {
-          "id": "B",
-          "i18n": {
-            "en": "It had learned from past applications, mostly from men.",
-            "vi": "Nó đã học từ hồ sơ cũ, phần lớn của nam giới."
-          },
-          "is_correct": true,
-          "order": 1,
-          "text": "It had learned from past applications, mostly from men.",
-          "text_translation": "Nó đã học từ hồ sơ cũ, phần lớn của nam giới."
-        },
-        {
-          "id": "C",
-          "i18n": {
             "en": "Those applications were sent in after the deadline.",
             "vi": "Những hồ sơ đó được gửi sau hạn chót."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 0,
           "text": "Those applications were sent in after the deadline.",
           "text_translation": "Những hồ sơ đó được gửi sau hạn chót."
         },
         {
-          "id": "D",
+          "id": "B",
           "i18n": {
             "en": "Those applicants had less experience than the men who had applied.",
             "vi": "Những người nộp đơn đó ít kinh nghiệm hơn những ứng viên nam."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 1,
           "text": "Those applicants had less experience than the men who had applied.",
           "text_translation": "Những người nộp đơn đó ít kinh nghiệm hơn những ứng viên nam."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Its engineers had told it to prefer male applicants.",
+            "vi": "Các kỹ sư đã ra lệnh cho nó ưu tiên ứng viên nam."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Its engineers had told it to prefer male applicants.",
+          "text_translation": "Các kỹ sư đã ra lệnh cho nó ưu tiên ứng viên nam."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It had learned from past applications, mostly from men.",
+            "vi": "Nó đã học từ hồ sơ cũ, phần lớn của nam giới."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "It had learned from past applications, mostly from men.",
+          "text_translation": "Nó đã học từ hồ sơ cũ, phần lớn của nam giới."
         }
       ],
       "evidence_segments": [
@@ -4627,24 +4627,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "No one could be sure it would stop favoring men.",
-            "vi": "Không ai chắc được nó sẽ thôi thiên vị nam giới."
-          },
-          "is_correct": true,
-          "order": 2,
-          "text": "No one could be sure it would stop favoring men.",
-          "text_translation": "Không ai chắc được nó sẽ thôi thiên vị nam giới."
-        },
-        {
-          "id": "D",
-          "i18n": {
             "en": "The company had stopped hiring engineers for several years.",
             "vi": "Công ty đã ngừng tuyển kỹ sư suốt mấy năm."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 2,
           "text": "The company had stopped hiring engineers for several years.",
           "text_translation": "Công ty đã ngừng tuyển kỹ sư suốt mấy năm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "No one could be sure it would stop favoring men.",
+            "vi": "Không ai chắc được nó sẽ thôi thiên vị nam giới."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "No one could be sure it would stop favoring men.",
+          "text_translation": "Không ai chắc được nó sẽ thôi thiên vị nam giới."
         }
       ],
       "evidence_segments": [
@@ -4743,46 +4743,46 @@
         {
           "id": "A",
           "i18n": {
+            "en": "Old unfair patterns can now look objective.",
+            "vi": "Những khuôn mẫu bất công cũ giờ có thể trông khách quan."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Old unfair patterns can now look objective.",
+          "text_translation": "Những khuôn mẫu bất công cũ giờ có thể trông khách quan."
+        },
+        {
+          "id": "B",
+          "i18n": {
             "en": "Calculations are always fair and correct.",
             "vi": "Các phép tính luôn công bằng và chính xác."
           },
           "is_correct": false,
-          "order": 0,
+          "order": 1,
           "text": "Calculations are always fair and correct.",
           "text_translation": "Các phép tính luôn công bằng và chính xác."
         },
         {
-          "id": "B",
+          "id": "C",
           "i18n": {
             "en": "Machines have legal authority over people.",
             "vi": "Máy móc có quyền lực pháp lý đối với con người."
           },
           "is_correct": false,
-          "order": 1,
+          "order": 2,
           "text": "Machines have legal authority over people.",
           "text_translation": "Máy móc có quyền lực pháp lý đối với con người."
         },
         {
-          "id": "C",
+          "id": "D",
           "i18n": {
             "en": "Only mathematicians can check algorithms.",
             "vi": "Chỉ nhà toán học mới kiểm tra được thuật toán."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 3,
           "text": "Only mathematicians can check algorithms.",
           "text_translation": "Chỉ nhà toán học mới kiểm tra được thuật toán."
-        },
-        {
-          "id": "D",
-          "i18n": {
-            "en": "Old unfair patterns can now look objective.",
-            "vi": "Những khuôn mẫu bất công cũ giờ có thể trông khách quan."
-          },
-          "is_correct": true,
-          "order": 3,
-          "text": "Old unfair patterns can now look objective.",
-          "text_translation": "Những khuôn mẫu bất công cũ giờ có thể trông khách quan."
         }
       ],
       "evidence_segments": [
@@ -4881,35 +4881,35 @@
         {
           "id": "A",
           "i18n": {
+            "en": "because it is too difficult to change",
+            "vi": "vì nó quá khó thay đổi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because it is too difficult to change",
+          "text_translation": "vì nó quá khó thay đổi"
+        },
+        {
+          "id": "B",
+          "i18n": {
             "en": "after it has been solved",
             "vi": "sau khi nó đã được giải quyết"
           },
           "is_correct": false,
-          "order": 0,
+          "order": 1,
           "text": "after it has been solved",
           "text_translation": "sau khi nó đã được giải quyết"
         },
         {
-          "id": "B",
+          "id": "C",
           "i18n": {
             "en": "if nobody questions or deals with it",
             "vi": "nếu không ai chất vấn hay xử lý nó"
           },
           "is_correct": true,
-          "order": 1,
+          "order": 2,
           "text": "if nobody questions or deals with it",
           "text_translation": "nếu không ai chất vấn hay xử lý nó"
-        },
-        {
-          "id": "C",
-          "i18n": {
-            "en": "because it is too difficult to change",
-            "vi": "vì nó quá khó thay đổi"
-          },
-          "is_correct": false,
-          "order": 2,
-          "text": "because it is too difficult to change",
-          "text_translation": "vì nó quá khó thay đổi"
         },
         {
           "id": "D",
@@ -4949,46 +4949,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to suggest that regular checks for hidden flaws should be routine",
-            "vi": "để gợi ý rằng việc kiểm tra định kỳ tìm lỗi ẩn nên là thông lệ"
-          },
-          "is_correct": true,
-          "order": 0,
-          "text": "to suggest that regular checks for hidden flaws should be routine",
-          "text_translation": "để gợi ý rằng việc kiểm tra định kỳ tìm lỗi ẩn nên là thông lệ"
-        },
-        {
-          "id": "B",
-          "i18n": {
             "en": "to show that algorithms cost as much to build and maintain as bridges",
             "vi": "để cho thấy thuật toán tốn kém để xây và bảo trì như cầu"
           },
           "is_correct": false,
-          "order": 1,
+          "order": 0,
           "text": "to show that algorithms cost as much to build and maintain as bridges",
           "text_translation": "để cho thấy thuật toán tốn kém để xây và bảo trì như cầu"
         },
         {
-          "id": "C",
+          "id": "B",
           "i18n": {
-            "en": "to argue that engineers should design algorithms",
-            "vi": "để lập luận rằng kỹ sư xây dựng nên thiết kế thuật toán"
+            "en": "to suggest that regular checks for hidden flaws should be routine",
+            "vi": "để gợi ý rằng việc kiểm tra định kỳ tìm lỗi ẩn nên là thông lệ"
           },
-          "is_correct": false,
-          "order": 2,
-          "text": "to argue that engineers should design algorithms",
-          "text_translation": "để lập luận rằng kỹ sư xây dựng nên thiết kế thuật toán"
+          "is_correct": true,
+          "order": 1,
+          "text": "to suggest that regular checks for hidden flaws should be routine",
+          "text_translation": "để gợi ý rằng việc kiểm tra định kỳ tìm lỗi ẩn nên là thông lệ"
         },
         {
-          "id": "D",
+          "id": "C",
           "i18n": {
             "en": "to suggest that algorithms rarely have weaknesses",
             "vi": "để ngụ ý rằng thuật toán hiếm khi có điểm yếu"
           },
           "is_correct": false,
-          "order": 3,
+          "order": 2,
           "text": "to suggest that algorithms rarely have weaknesses",
           "text_translation": "để ngụ ý rằng thuật toán hiếm khi có điểm yếu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to argue that engineers should design algorithms",
+            "vi": "để lập luận rằng kỹ sư xây dựng nên thiết kế thuật toán"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to argue that engineers should design algorithms",
+          "text_translation": "để lập luận rằng kỹ sư xây dựng nên thiết kế thuật toán"
         }
       ],
       "evidence_segments": [
@@ -5017,46 +5017,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "People who check applications are usually more unfair than machines.",
-            "vi": "Người duyệt thường bất công hơn máy."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "People who check applications are usually more unfair than machines.",
-          "text_translation": "Người duyệt thường bất công hơn máy."
-        },
-        {
-          "id": "B",
-          "i18n": {
-            "en": "People who check applications cannot understand technical explanations.",
-            "vi": "Người duyệt không hiểu được giải thích kỹ thuật."
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "People who check applications cannot understand technical explanations.",
-          "text_translation": "Người duyệt không hiểu được giải thích kỹ thuật."
-        },
-        {
-          "id": "C",
-          "i18n": {
             "en": "People who check applications are too expensive for most companies.",
             "vi": "Người duyệt quá đắt với phần lớn công ty."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 0,
           "text": "People who check applications are too expensive for most companies.",
           "text_translation": "Người duyệt quá đắt với phần lớn công ty."
         },
         {
-          "id": "D",
+          "id": "B",
           "i18n": {
             "en": "A busy reviewer may simply accept the machine's choice.",
             "vi": "Người duyệt bận rộn có thể chỉ việc chấp nhận lựa chọn của máy."
           },
           "is_correct": true,
-          "order": 3,
+          "order": 1,
           "text": "A busy reviewer may simply accept the machine's choice.",
           "text_translation": "Người duyệt bận rộn có thể chỉ việc chấp nhận lựa chọn của máy."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "People who check applications are usually more unfair than machines.",
+            "vi": "Người duyệt thường bất công hơn máy."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "People who check applications are usually more unfair than machines.",
+          "text_translation": "Người duyệt thường bất công hơn máy."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "People who check applications cannot understand technical explanations.",
+            "vi": "Người duyệt không hiểu được giải thích kỹ thuật."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "People who check applications cannot understand technical explanations.",
+          "text_translation": "Người duyệt không hiểu được giải thích kỹ thuật."
         }
       ],
       "evidence_segments": [
@@ -5096,35 +5096,35 @@
         {
           "id": "B",
           "i18n": {
-            "en": "A company that uses a tool stays responsible for its results.",
-            "vi": "Công ty dùng một công cụ vẫn phải chịu trách nhiệm về kết quả của nó."
-          },
-          "is_correct": true,
-          "order": 1,
-          "text": "A company that uses a tool stays responsible for its results.",
-          "text_translation": "Công ty dùng một công cụ vẫn phải chịu trách nhiệm về kết quả của nó."
-        },
-        {
-          "id": "C",
-          "i18n": {
             "en": "The company that builds a tool is always to blame.",
             "vi": "Công ty làm ra công cụ luôn có lỗi."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 1,
           "text": "The company that builds a tool is always to blame.",
           "text_translation": "Công ty làm ra công cụ luôn có lỗi."
         },
         {
-          "id": "D",
+          "id": "C",
           "i18n": {
             "en": "Applicants should check every algorithm themselves before applying.",
             "vi": "Ứng viên nên tự kiểm tra mọi thuật toán trước khi nộp đơn."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 2,
           "text": "Applicants should check every algorithm themselves before applying.",
           "text_translation": "Ứng viên nên tự kiểm tra mọi thuật toán trước khi nộp đơn."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "A company that uses a tool stays responsible for its results.",
+            "vi": "Công ty dùng một công cụ vẫn phải chịu trách nhiệm về kết quả của nó."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "A company that uses a tool stays responsible for its results.",
+          "text_translation": "Công ty dùng một công cụ vẫn phải chịu trách nhiệm về kết quả của nó."
         }
       ],
       "evidence_segments": [
@@ -5164,35 +5164,35 @@
         {
           "id": "B",
           "i18n": {
+            "en": "to show, by a familiar case, that \"the algorithm did it\" is no excuse",
+            "vi": "để cho thấy, qua một trường hợp quen thuộc, rằng \"do thuật toán\" không phải là lời bào chữa"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to show, by a familiar case, that \"the algorithm did it\" is no excuse",
+          "text_translation": "để cho thấy, qua một trường hợp quen thuộc, rằng \"do thuật toán\" không phải là lời bào chữa"
+        },
+        {
+          "id": "C",
+          "i18n": {
             "en": "to explain how companies write instructions for their staff",
             "vi": "để giải thích cách công ty viết hướng dẫn cho nhân viên"
           },
           "is_correct": false,
-          "order": 1,
+          "order": 2,
           "text": "to explain how companies write instructions for their staff",
           "text_translation": "để giải thích cách công ty viết hướng dẫn cho nhân viên"
         },
         {
-          "id": "C",
+          "id": "D",
           "i18n": {
             "en": "to argue that managers should be replaced by algorithms",
             "vi": "để lập luận rằng nên thay quản lý bằng thuật toán"
           },
           "is_correct": false,
-          "order": 2,
+          "order": 3,
           "text": "to argue that managers should be replaced by algorithms",
           "text_translation": "để lập luận rằng nên thay quản lý bằng thuật toán"
-        },
-        {
-          "id": "D",
-          "i18n": {
-            "en": "to show, by a familiar case, that \"the algorithm did it\" is no excuse",
-            "vi": "để cho thấy, qua một trường hợp quen thuộc, rằng \"do thuật toán\" không phải là lời bào chữa"
-          },
-          "is_correct": true,
-          "order": 3,
-          "text": "to show, by a familiar case, that \"the algorithm did it\" is no excuse",
-          "text_translation": "để cho thấy, qua một trường hợp quen thuộc, rằng \"do thuật toán\" không phải là lời bào chữa"
         }
       ],
       "evidence_segments": [
@@ -5221,46 +5221,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to ask the committee to buy new laptops for students",
-            "vi": "để đề nghị Ban mua máy tính xách tay mới cho học sinh"
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "to ask the committee to buy new laptops for students",
-          "text_translation": "để đề nghị Ban mua máy tính xách tay mới cho học sinh"
-        },
-        {
-          "id": "B",
-          "i18n": {
-            "en": "to complain about the behavior of one particular class",
-            "vi": "để phàn nàn về cách cư xử của một lớp cụ thể"
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "to complain about the behavior of one particular class",
-          "text_translation": "để phàn nàn về cách cư xử của một lớp cụ thể"
-        },
-        {
-          "id": "C",
-          "i18n": {
             "en": "to apply for a position on the technology committee",
             "vi": "để xin vào Ban Công nghệ"
           },
           "is_correct": false,
-          "order": 2,
+          "order": 0,
           "text": "to apply for a position on the technology committee",
           "text_translation": "để xin vào Ban Công nghệ"
         },
         {
-          "id": "D",
+          "id": "B",
           "i18n": {
             "en": "to answer the committee's call for comments and oppose a plan",
             "vi": "để đáp lời mời góp ý của ban và phản đối một kế hoạch"
           },
           "is_correct": true,
-          "order": 3,
+          "order": 1,
           "text": "to answer the committee's call for comments and oppose a plan",
           "text_translation": "để đáp lời mời góp ý của ban và phản đối một kế hoạch"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to ask the committee to buy new laptops for students",
+            "vi": "để đề nghị Ban mua máy tính xách tay mới cho học sinh"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to ask the committee to buy new laptops for students",
+          "text_translation": "để đề nghị Ban mua máy tính xách tay mới cho học sinh"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to complain about the behavior of one particular class",
+            "vi": "để phàn nàn về cách cư xử của một lớp cụ thể"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to complain about the behavior of one particular class",
+          "text_translation": "để phàn nàn về cách cư xử của một lớp cụ thể"
         }
       ],
       "evidence_segments": [
@@ -5290,35 +5290,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "He thinks distraction in class is not a real problem.",
-            "vi": "Ông cho rằng mất tập trung trong lớp không phải vấn đề thật."
-          },
-          "is_correct": false,
-          "order": 0,
-          "text": "He thinks distraction in class is not a real problem.",
-          "text_translation": "Ông cho rằng mất tập trung trong lớp không phải vấn đề thật."
-        },
-        {
-          "id": "B",
-          "i18n": {
             "en": "He shares their concern but rejects their solution.",
             "vi": "Ông chia sẻ mối lo của họ nhưng bác giải pháp của họ."
           },
           "is_correct": true,
-          "order": 1,
+          "order": 0,
           "text": "He shares their concern but rejects their solution.",
           "text_translation": "Ông chia sẻ mối lo của họ nhưng bác giải pháp của họ."
         },
         {
-          "id": "C",
+          "id": "B",
           "i18n": {
             "en": "He fully supports both their goal and their solution.",
             "vi": "Ông ủng hộ hoàn toàn cả mục tiêu lẫn giải pháp của họ."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 1,
           "text": "He fully supports both their goal and their solution.",
           "text_translation": "Ông ủng hộ hoàn toàn cả mục tiêu lẫn giải pháp của họ."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "He thinks distraction in class is not a real problem.",
+            "vi": "Ông cho rằng mất tập trung trong lớp không phải vấn đề thật."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "He thinks distraction in class is not a real problem.",
+          "text_translation": "Ông cho rằng mất tập trung trong lớp không phải vấn đề thật."
         },
         {
           "id": "D",
@@ -5358,46 +5358,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "recording what appears on students' screens during lessons",
-            "vi": "ghi lại những gì hiện trên màn hình học sinh trong giờ học"
+            "en": "giving each student a weekly attention score",
+            "vi": "cho mỗi học sinh một điểm tập trung hằng tuần"
           },
           "is_correct": false,
           "order": 0,
-          "text": "recording what appears on students' screens during lessons",
-          "text_translation": "ghi lại những gì hiện trên màn hình học sinh trong giờ học"
+          "text": "giving each student a weekly attention score",
+          "text_translation": "cho mỗi học sinh một điểm tập trung hằng tuần"
         },
         {
           "id": "B",
-          "i18n": {
-            "en": "marking activity that the software judges to be off task",
-            "vi": "đánh dấu hoạt động mà phần mềm cho là lạc đề"
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "marking activity that the software judges to be off task",
-          "text_translation": "đánh dấu hoạt động mà phần mềm cho là lạc đề"
-        },
-        {
-          "id": "C",
           "i18n": {
             "en": "automatically blocking websites that are not related to lessons",
             "vi": "tự động chặn các trang web không liên quan tới bài học"
           },
           "is_correct": true,
-          "order": 2,
+          "order": 1,
           "text": "automatically blocking websites that are not related to lessons",
           "text_translation": "tự động chặn các trang web không liên quan tới bài học"
         },
         {
+          "id": "C",
+          "i18n": {
+            "en": "recording what appears on students' screens during lessons",
+            "vi": "ghi lại những gì hiện trên màn hình học sinh trong giờ học"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "recording what appears on students' screens during lessons",
+          "text_translation": "ghi lại những gì hiện trên màn hình học sinh trong giờ học"
+        },
+        {
           "id": "D",
           "i18n": {
-            "en": "giving each student a weekly attention score",
-            "vi": "cho mỗi học sinh một điểm tập trung hằng tuần"
+            "en": "marking activity that the software judges to be off task",
+            "vi": "đánh dấu hoạt động mà phần mềm cho là lạc đề"
           },
           "is_correct": false,
           "order": 3,
-          "text": "giving each student a weekly attention score",
-          "text_translation": "cho mỗi học sinh một điểm tập trung hằng tuần"
+          "text": "marking activity that the software judges to be off task",
+          "text_translation": "đánh dấu hoạt động mà phần mềm cho là lạc đề"
         }
       ],
       "evidence_segments": [
@@ -5426,13 +5426,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to show that the software cannot tell attention from its appearance",
-            "vi": "để cho thấy phần mềm không phân biệt được sự tập trung thật với vẻ bề ngoài của nó"
+            "en": "to suggest that quiet students are usually the best learners",
+            "vi": "để ngụ ý rằng học sinh trầm lặng thường học giỏi nhất"
           },
-          "is_correct": true,
+          "is_correct": false,
           "order": 0,
-          "text": "to show that the software cannot tell attention from its appearance",
-          "text_translation": "để cho thấy phần mềm không phân biệt được sự tập trung thật với vẻ bề ngoài của nó"
+          "text": "to suggest that quiet students are usually the best learners",
+          "text_translation": "để ngụ ý rằng học sinh trầm lặng thường học giỏi nhất"
         },
         {
           "id": "B",
@@ -5448,13 +5448,13 @@
         {
           "id": "C",
           "i18n": {
-            "en": "to suggest that quiet students are usually the best learners",
-            "vi": "để ngụ ý rằng học sinh trầm lặng thường học giỏi nhất"
+            "en": "to show that the software cannot tell attention from its appearance",
+            "vi": "để cho thấy phần mềm không phân biệt được sự tập trung thật với vẻ bề ngoài của nó"
           },
-          "is_correct": false,
+          "is_correct": true,
           "order": 2,
-          "text": "to suggest that quiet students are usually the best learners",
-          "text_translation": "để ngụ ý rằng học sinh trầm lặng thường học giỏi nhất"
+          "text": "to show that the software cannot tell attention from its appearance",
+          "text_translation": "để cho thấy phần mềm không phân biệt được sự tập trung thật với vẻ bề ngoài của nó"
         },
         {
           "id": "D",
@@ -5495,46 +5495,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Rough scores can gain lasting influence because they look exact.",
-            "vi": "Những điểm số thô có thể có ảnh hưởng lâu dài vì trông chúng chính xác."
-          },
-          "is_correct": true,
-          "order": 0,
-          "text": "Rough scores can gain lasting influence because they look exact.",
-          "text_translation": "Những điểm số thô có thể có ảnh hưởng lâu dài vì trông chúng chính xác."
-        },
-        {
-          "id": "B",
-          "i18n": {
             "en": "Teachers usually forget students' scores very quickly.",
             "vi": "Giáo viên thường quên điểm của học sinh rất nhanh."
           },
           "is_correct": false,
-          "order": 1,
+          "order": 0,
           "text": "Teachers usually forget students' scores very quickly.",
           "text_translation": "Giáo viên thường quên điểm của học sinh rất nhanh."
         },
         {
-          "id": "C",
+          "id": "B",
           "i18n": {
             "en": "The software will become more accurate over time.",
             "vi": "Phần mềm sẽ chính xác hơn theo thời gian."
           },
           "is_correct": false,
-          "order": 2,
+          "order": 1,
           "text": "The software will become more accurate over time.",
           "text_translation": "Phần mềm sẽ chính xác hơn theo thời gian."
         },
         {
-          "id": "D",
+          "id": "C",
           "i18n": {
             "en": "Decisions about students should be left to parents alone.",
             "vi": "Các quyết định về học sinh nên để riêng phụ huynh lo."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 2,
           "text": "Decisions about students should be left to parents alone.",
           "text_translation": "Các quyết định về học sinh nên để riêng phụ huynh lo."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Rough scores can gain lasting influence because they look exact.",
+            "vi": "Những điểm số thô có thể có ảnh hưởng lâu dài vì trông chúng chính xác."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "Rough scores can gain lasting influence because they look exact.",
+          "text_translation": "Những điểm số thô có thể có ảnh hưởng lâu dài vì trông chúng chính xác."
         }
       ],
       "evidence_segments": [
@@ -5586,24 +5586,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "to suggest that history lessons can easily be taught without laptops",
-            "vi": "để gợi ý rằng giờ Lịch sử có thể dạy dễ dàng mà không cần máy tính"
-          },
-          "is_correct": false,
-          "order": 2,
-          "text": "to suggest that history lessons can easily be taught without laptops",
-          "text_translation": "để gợi ý rằng giờ Lịch sử có thể dạy dễ dàng mà không cần máy tính"
-        },
-        {
-          "id": "D",
-          "i18n": {
             "en": "to show that learning needs a freedom that monitoring would discourage",
             "vi": "để cho thấy việc học cần một sự tự do mà việc theo dõi sẽ làm thui chột"
           },
           "is_correct": true,
-          "order": 3,
+          "order": 2,
           "text": "to show that learning needs a freedom that monitoring would discourage",
           "text_translation": "để cho thấy việc học cần một sự tự do mà việc theo dõi sẽ làm thui chột"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to suggest that history lessons can easily be taught without laptops",
+            "vi": "để gợi ý rằng giờ Lịch sử có thể dạy dễ dàng mà không cần máy tính"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to suggest that history lessons can easily be taught without laptops",
+          "text_translation": "để gợi ý rằng giờ Lịch sử có thể dạy dễ dàng mà không cần máy tính"
         }
       ],
       "evidence_segments": [
@@ -5633,13 +5633,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Students would have far too much homework to think clearly in class.",
-            "vi": "Học sinh sẽ có quá nhiều bài tập về nhà để suy nghĩ thấu đáo trên lớp."
+            "en": "Students would focus on seeming attentive, not on learning.",
+            "vi": "Học sinh sẽ chú tâm vào việc tỏ ra chăm chú, không phải vào việc học."
           },
-          "is_correct": false,
+          "is_correct": true,
           "order": 0,
-          "text": "Students would have far too much homework to think clearly in class.",
-          "text_translation": "Học sinh sẽ có quá nhiều bài tập về nhà để suy nghĩ thấu đáo trên lớp."
+          "text": "Students would focus on seeming attentive, not on learning.",
+          "text_translation": "Học sinh sẽ chú tâm vào việc tỏ ra chăm chú, không phải vào việc học."
         },
         {
           "id": "B",
@@ -5655,13 +5655,13 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Students would focus on seeming attentive, not on learning.",
-            "vi": "Học sinh sẽ chú tâm vào việc tỏ ra chăm chú, không phải vào việc học."
+            "en": "Students would have far too much homework to think clearly in class.",
+            "vi": "Học sinh sẽ có quá nhiều bài tập về nhà để suy nghĩ thấu đáo trên lớp."
           },
-          "is_correct": true,
+          "is_correct": false,
           "order": 2,
-          "text": "Students would focus on seeming attentive, not on learning.",
-          "text_translation": "Học sinh sẽ chú tâm vào việc tỏ ra chăm chú, không phải vào việc học."
+          "text": "Students would have far too much homework to think clearly in class.",
+          "text_translation": "Học sinh sẽ có quá nhiều bài tập về nhà để suy nghĩ thấu đáo trên lớp."
         },
         {
           "id": "D",
@@ -5701,13 +5701,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The company might sell the students' laptops to another school district.",
-            "vi": "Công ty có thể bán máy tính của học sinh cho một khu học chánh khác."
+            "en": "Parents would not be allowed to see their children's scores.",
+            "vi": "Phụ huynh sẽ không được xem điểm của con."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The company might sell the students' laptops to another school district.",
-          "text_translation": "Công ty có thể bán máy tính của học sinh cho một khu học chánh khác."
+          "text": "Parents would not be allowed to see their children's scores.",
+          "text_translation": "Phụ huynh sẽ không được xem điểm của con."
         },
         {
           "id": "B",
@@ -5723,24 +5723,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Parents would not be allowed to see their children's scores.",
-            "vi": "Phụ huynh sẽ không được xem điểm của con."
-          },
-          "is_correct": false,
-          "order": 2,
-          "text": "Parents would not be allowed to see their children's scores.",
-          "text_translation": "Phụ huynh sẽ không được xem điểm của con."
-        },
-        {
-          "id": "D",
-          "i18n": {
             "en": "Teachers' own screens would also be recorded during every lesson.",
             "vi": "Màn hình của chính giáo viên cũng sẽ bị ghi lại trong mọi tiết học."
           },
           "is_correct": false,
-          "order": 3,
+          "order": 2,
           "text": "Teachers' own screens would also be recorded during every lesson.",
           "text_translation": "Màn hình của chính giáo viên cũng sẽ bị ghi lại trong mọi tiết học."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The company might sell the students' laptops to another school district.",
+            "vi": "Công ty có thể bán máy tính của học sinh cho một khu học chánh khác."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The company might sell the students' laptops to another school district.",
+          "text_translation": "Công ty có thể bán máy tính của học sinh cho một khu học chánh khác."
         }
       ],
       "evidence_segments": [
@@ -5792,24 +5792,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "as evidence that good teaching does more for attention than rules",
-            "vi": "làm bằng chứng rằng dạy tốt giúp tập trung nhiều hơn các quy định"
-          },
-          "is_correct": true,
-          "order": 2,
-          "text": "as evidence that good teaching does more for attention than rules",
-          "text_translation": "làm bằng chứng rằng dạy tốt giúp tập trung nhiều hơn các quy định"
-        },
-        {
-          "id": "D",
-          "i18n": {
             "en": "to remind the committee that it was his own idea",
             "vi": "để nhắc Ban rằng đó là ý tưởng của chính ông"
           },
           "is_correct": false,
-          "order": 3,
+          "order": 2,
           "text": "to remind the committee that it was his own idea",
           "text_translation": "để nhắc Ban rằng đó là ý tưởng của chính ông"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "as evidence that good teaching does more for attention than rules",
+            "vi": "làm bằng chứng rằng dạy tốt giúp tập trung nhiều hơn các quy định"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "as evidence that good teaching does more for attention than rules",
+          "text_translation": "làm bằng chứng rằng dạy tốt giúp tập trung nhiều hơn các quy định"
         }
       ],
       "evidence_segments": [
@@ -5838,46 +5838,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to answer in advance the charge that he opposes technology",
-            "vi": "để trả lời trước lời buộc rằng ông chống lại công nghệ"
+            "en": "to change the subject from privacy to the cost of the software",
+            "vi": "để chuyển chủ đề từ quyền riêng tư sang giá phần mềm"
           },
-          "is_correct": true,
+          "is_correct": false,
           "order": 0,
-          "text": "to answer in advance the charge that he opposes technology",
-          "text_translation": "để trả lời trước lời buộc rằng ông chống lại công nghệ"
+          "text": "to change the subject from privacy to the cost of the software",
+          "text_translation": "để chuyển chủ đề từ quyền riêng tư sang giá phần mềm"
         },
         {
           "id": "B",
-          "i18n": {
-            "en": "to admit that he does not understand how the software works",
-            "vi": "để thừa nhận ông không hiểu phần mềm hoạt động thế nào"
-          },
-          "is_correct": false,
-          "order": 1,
-          "text": "to admit that he does not understand how the software works",
-          "text_translation": "để thừa nhận ông không hiểu phần mềm hoạt động thế nào"
-        },
-        {
-          "id": "C",
           "i18n": {
             "en": "to suggest that the school should stop using laptops",
             "vi": "để gợi ý trường nên ngừng dùng máy tính"
           },
           "is_correct": false,
-          "order": 2,
+          "order": 1,
           "text": "to suggest that the school should stop using laptops",
           "text_translation": "để gợi ý trường nên ngừng dùng máy tính"
         },
         {
-          "id": "D",
+          "id": "C",
           "i18n": {
-            "en": "to change the subject from privacy to the cost of the software",
-            "vi": "để chuyển chủ đề từ quyền riêng tư sang giá phần mềm"
+            "en": "to admit that he does not understand how the software works",
+            "vi": "để thừa nhận ông không hiểu phần mềm hoạt động thế nào"
           },
           "is_correct": false,
+          "order": 2,
+          "text": "to admit that he does not understand how the software works",
+          "text_translation": "để thừa nhận ông không hiểu phần mềm hoạt động thế nào"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to answer in advance the charge that he opposes technology",
+            "vi": "để trả lời trước lời buộc rằng ông chống lại công nghệ"
+          },
+          "is_correct": true,
           "order": 3,
-          "text": "to change the subject from privacy to the cost of the software",
-          "text_translation": "để chuyển chủ đề từ quyền riêng tư sang giá phần mềm"
+          "text": "to answer in advance the charge that he opposes technology",
+          "text_translation": "để trả lời trước lời buộc rằng ông chống lại công nghệ"
         }
       ],
       "evidence_segments": [
