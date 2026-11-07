@@ -719,7 +719,7 @@
 >
 > This finding goes to the heart of an old debate in evolutionary biology about the extent to which history matters. If evolution were entirely predictable, all twelve populations should have found the same solutions; if it were entirely random, they should have little in common. The bottles suggest something in between: the populations improved in broadly similar ways, while rare events, which depend partially on luck and partially on what came before, sent one of them down a path that the others never took.
 >
-> In 2022, Lenski passed the experiment to a former member of his team, who now runs it at the University of Texas, and the bacteria are expected to outlive the careers of everyone who has worked on them. The experiment is a reminder that some of the most important questions in science can only be answered by people who are willing to wait.
+> In 2022, Lenski passed the experiment to a former member of his team, who has continued it ever since, and the bacteria are expected to outlive the careers of everyone who has worked on them. The experiment is a reminder that some of the most important questions in science can only be answered by people who are willing to wait.
 
 ### Dịch từng câu
 
@@ -744,7 +744,7 @@
 | 17 | This finding goes to the heart of an old debate in evolutionary biology about the extent to which history matters. | Phát hiện này chạm tới cốt lõi của một cuộc tranh luận lâu đời trong sinh học tiến hoá về chuyện lịch sử quan trọng tới mức nào. |
 | 18 | If evolution were entirely predictable, all twelve populations should have found the same solutions; if it were entirely random, they should have little in common. | Nếu tiến hoá hoàn toàn có thể dự đoán, cả mười hai quần thể lẽ ra đã tìm ra cùng những lời giải; nếu nó hoàn toàn ngẫu nhiên, chúng lẽ ra sẽ có rất ít điểm chung. |
 | 19 | The bottles suggest something in between: the populations improved in broadly similar ways, while rare events, which depend partially on luck and partially on what came before, sent one of them down a path that the others never took. | Những chiếc bình gợi ý một điều ở giữa: các quần thể cải thiện theo những cách nhìn chung giống nhau, trong khi các sự kiện hiếm hoi, phụ thuộc một phần vào may rủi và một phần vào những gì đã xảy ra trước đó, đã đưa một quần thể đi theo con đường mà những quần thể khác chưa bao giờ đi. |
-| 20 | In 2022, Lenski passed the experiment to a former member of his team, who now runs it at the University of Texas, and the bacteria are expected to outlive the careers of everyone who has worked on them. | Năm 2022, Lenski trao thí nghiệm cho một cựu thành viên trong nhóm, người hiện điều hành nó ở Đại học Texas, và đám vi khuẩn được dự đoán sẽ tồn tại lâu hơn sự nghiệp của tất cả những ai từng làm việc với chúng. |
+| 20 | In 2022, Lenski passed the experiment to a former member of his team, who has continued it ever since, and the bacteria are expected to outlive the careers of everyone who has worked on them. | Năm 2022, Lenski trao thí nghiệm cho một cựu thành viên trong nhóm, người vẫn tiếp tục duy trì nó từ đó tới nay, và đám vi khuẩn được dự đoán sẽ tồn tại lâu hơn sự nghiệp của tất cả những ai từng làm việc với chúng. |
 | 21 | The experiment is a reminder that some of the most important questions in science can only be answered by people who are willing to wait. | Thí nghiệm này là lời nhắc rằng một số câu hỏi quan trọng nhất của khoa học chỉ có thể được trả lời bởi những người chịu chờ đợi. |
 
 ### Câu hỏi

@@ -402,26 +402,26 @@
 **28. According to the article, what most often separated freelancers who survived from those who gave up?**
 *(Theo bài báo, điều gì thường phân biệt người làm tự do trụ lại với người bỏ cuộc?)*
 
-- A. practical habits such as refusing work and keeping regular clients *(những thói quen thực tế như biết từ chối việc và giữ khách quen)*
+- A. their natural talent and the quality of their portfolios *(tài năng bẩm sinh và chất lượng hồ sơ năng lực)*
 - B. the number of one-off gigs they managed to win each month *(số việc làm một lần họ giành được mỗi tháng)*
 - C. whether they had worked in a strict hierarchy before *(việc họ đã từng làm trong một hệ thống thứ bậc cứng nhắc hay chưa)*
-- D. their natural talent and the quality of their portfolios *(tài năng bẩm sinh và chất lượng hồ sơ năng lực)*
+- D. practical habits such as refusing work and keeping regular clients *(những thói quen thực tế như biết từ chối việc và giữ khách quen)*
 
 **29. Which statement best describes the writer's attitude toward freelancing?**
 *(Câu nào mô tả đúng nhất thái độ của người viết đối với nghề tự do?)*
 
-- A. strongly against it, because the survey shows it rarely pays *(phản đối mạnh, vì khảo sát cho thấy nó hiếm khi có lời)*
+- A. realistic, accepting its rewards while stressing its demands *(thực tế, công nhận cái được nhưng nhấn mạnh những đòi hỏi của nó)*
 - B. enthusiastic, because almost everyone in the survey loved it *(hào hứng, vì gần như mọi người trong khảo sát đều yêu nó)*
-- C. realistic, accepting its rewards while stressing its demands *(thực tế, công nhận cái được nhưng nhấn mạnh những đòi hỏi của nó)*
+- C. strongly against it, because the survey shows it rarely pays *(phản đối mạnh, vì khảo sát cho thấy nó hiếm khi có lời)*
 - D. uninterested, since the article only repeats the report's numbers *(không quan tâm, vì bài chỉ nhắc lại số liệu của báo cáo)*
 
 **30. Why does the report recommend freelancing alongside a regular job for six months?**
 *(Vì sao báo cáo khuyên làm tự do song song với việc ổn định trong sáu tháng?)*
 
 - A. so that employers do not find out that their staff are leaving *(để chủ lao động không phát hiện nhân viên sắp nghỉ)*
-- B. so that people can save enough money to buy their own equipment *(để người ta tiết kiệm đủ tiền mua thiết bị riêng)*
+- B. so that people can test whether they like the business side of the work *(để người ta thử xem mình có thích phần kinh doanh của công việc không)*
 - C. so that people can build a portfolio before telling their clients *(để người ta xây dựng hồ sơ năng lực trước khi báo khách hàng)*
-- D. so that people can test whether they like the business side of the work *(để người ta thử xem mình có thích phần kinh doanh của công việc không)*
+- D. so that people can save enough money to buy their own equipment *(để người ta tiết kiệm đủ tiền mua thiết bị riêng)*
 
 ---
 
@@ -493,8 +493,8 @@
 **33. Why has the writer started doing the most tedious tasks herself?**
 *(Vì sao người viết bắt đầu tự làm những việc tẻ nhạt nhất?)*
 
-- A. because she hoped to avoid making the situation worse *(vì cô hy vọng tránh làm tình hình tệ hơn)*
-- B. because Glen refused to do them *(vì Glen từ chối làm)*
+- A. because Glen refused to do them *(vì Glen từ chối làm)*
+- B. because she hoped to avoid making the situation worse *(vì cô hy vọng tránh làm tình hình tệ hơn)*
 - C. because her manager told her to set an example *(vì quản lý bảo cô làm gương)*
 - D. because nobody else on the team knew how to do them *(vì không ai khác trong nhóm biết làm)*
 
@@ -503,8 +503,8 @@
 
 - A. The writer's team is unusually difficult to manage. *(Nhóm của người viết khó quản lý một cách bất thường.)*
 - B. The writer has made too many serious mistakes to recover. *(Người viết đã phạm quá nhiều lỗi nghiêm trọng để gỡ lại.)*
-- C. The writer's experience is normal and not a sign that she has failed. *(Trải nghiệm của người viết là bình thường, không phải dấu hiệu cô đã thất bại.)*
-- D. The writer should go back to her old job as soon as possible. *(Người viết nên quay lại công việc cũ càng sớm càng tốt.)*
+- C. The writer should go back to her old job as soon as possible. *(Người viết nên quay lại công việc cũ càng sớm càng tốt.)*
+- D. The writer's experience is normal and not a sign that she has failed. *(Trải nghiệm của người viết là bình thường, không phải dấu hiệu cô đã thất bại.)*
 
 **35. In the phrase "both come from a good place", what does "come from a good place" mean?**
 *(Trong cụm "both come from a good place", "come from a good place" nghĩa là gì?)*
@@ -518,8 +518,8 @@
 *(Theo Beverly, nhóm nhiều khả năng sẽ nhìn việc người viết tự làm việc tẻ nhạt thế nào?)*
 
 - A. as proof that she is better at the work than they are *(như bằng chứng cô làm giỏi hơn họ)*
-- B. as a generous act that they will soon repay *(như một hành động hào phóng mà họ sẽ sớm đáp lại)*
-- C. as a sign that she does not trust them *(như dấu hiệu cô không tin tưởng họ)*
+- B. as a sign that she does not trust them *(như dấu hiệu cô không tin tưởng họ)*
+- C. as a generous act that they will soon repay *(như một hành động hào phóng mà họ sẽ sớm đáp lại)*
 - D. as an attempt to impress the company's directors *(như một cách gây ấn tượng với ban giám đốc)*
 
 **37. What explanation does Beverly offer for Glen's behavior?**
@@ -527,8 +527,8 @@
 
 - A. He wanted the promotion himself and is trying to replace her. *(Anh muốn chính mình được thăng chức và đang tìm cách thay cô.)*
 - B. He has always been quiet and dislikes meetings of any kind. *(Anh vốn ít nói và ghét mọi cuộc họp.)*
-- C. He is planning to leave and no longer cares about the team. *(Anh định nghỉ việc và không còn quan tâm tới nhóm.)*
-- D. He may be unsure whether his long experience is still valued. *(Có thể anh không chắc kinh nghiệm lâu năm của mình còn được coi trọng.)*
+- C. He may be unsure whether his long experience is still valued. *(Có thể anh không chắc kinh nghiệm lâu năm của mình còn được coi trọng.)*
+- D. He is planning to leave and no longer cares about the team. *(Anh định nghỉ việc và không còn quan tâm tới nhóm.)*
 
 **38. What does Beverly mean by "Respect for his knowledge is not the same as handing him your authority"?**
 *(Beverly muốn nói gì qua câu "Respect for his knowledge is not the same as handing him your authority"?)*
@@ -542,17 +542,17 @@
 *(Vì sao Beverly nói người viết không thể là "người để họ than phiền về quản lý"?)*
 
 - A. because she should stop eating lunch with her team completely *(vì cô nên thôi hẳn việc ăn trưa với nhóm)*
-- B. because she is now the manager they would be complaining about *(vì giờ chính cô là quản lý mà họ sẽ than phiền)*
+- B. because complaining at work is against company rules *(vì than phiền ở chỗ làm là trái nội quy công ty)*
 - C. because the old manager has asked her to report any complaints *(vì quản lý cũ đã nhờ cô báo lại mọi lời than phiền)*
-- D. because complaining at work is against company rules *(vì than phiền ở chỗ làm là trái nội quy công ty)*
+- D. because she is now the manager they would be complaining about *(vì giờ chính cô là quản lý mà họ sẽ than phiền)*
 
 **40. Which best describes the tone of Beverly's reply as a whole?**
 *(Câu nào mô tả đúng nhất giọng điệu của toàn bộ thư trả lời của Beverly?)*
 
-- A. reassuring but frank about what the writer should change *(trấn an nhưng thẳng thắn về những gì người viết cần thay đổi)*
+- A. cold and critical, since she blames the writer for the problem *(lạnh lùng và chỉ trích, vì bà đổ lỗi cho người viết)*
 - B. amused, since she does not take the letter seriously *(buồn cười, vì bà không coi lá thư là nghiêm túc)*
 - C. uncertain, since she admits she has no advice to give *(không chắc chắn, vì bà thừa nhận không có lời khuyên nào)*
-- D. cold and critical, since she blames the writer for the problem *(lạnh lùng và chỉ trích, vì bà đổ lỗi cho người viết)*
+- D. reassuring but frank about what the writer should change *(trấn an nhưng thẳng thắn về những gì người viết cần thay đổi)*
 
 ---
 
@@ -610,8 +610,8 @@
 **42. According to the review, how does Whitlow explain intuition?**
 *(Theo bài điểm sách, Whitlow giải thích trực giác thế nào?)*
 
-- A. as a mysterious gift that only a few lucky people have *(như một món quà bí ẩn chỉ vài người may mắn mới có)*
-- B. as the brain recognizing small cues learned through long practice *(như việc bộ não nhận ra những tín hiệu nhỏ học được qua thực hành lâu dài)*
+- A. as the brain recognizing small cues learned through long practice *(như việc bộ não nhận ra những tín hiệu nhỏ học được qua thực hành lâu dài)*
+- B. as a mysterious gift that only a few lucky people have *(như một món quà bí ẩn chỉ vài người may mắn mới có)*
 - C. as an emotional reaction that should usually be ignored *(như một phản ứng cảm xúc thường nên bỏ qua)*
 - D. as a habit that can be learned in a few weeks of training *(như một thói quen có thể học trong vài tuần luyện tập)*
 
@@ -619,8 +619,8 @@
 *(Theo Kahneman và Klein, tình huống nào cho phép tin vào trực giác của chuyên gia?)*
 
 - A. one in which two experts have discussed the problem for a long time *(tình huống mà hai chuyên gia đã bàn về vấn đề trong thời gian dài)*
-- B. one with regular patterns and plenty of practice with quick, clear feedback *(tình huống có quy luật đều đặn và được thực hành nhiều với phản hồi nhanh, rõ)*
-- C. one in which the person feels very confident about the decision *(tình huống mà người đó cảm thấy rất tự tin về quyết định)*
+- B. one in which the person feels very confident about the decision *(tình huống mà người đó cảm thấy rất tự tin về quyết định)*
+- C. one with regular patterns and plenty of practice with quick, clear feedback *(tình huống có quy luật đều đặn và được thực hành nhiều với phản hồi nhanh, rõ)*
 - D. one in which there is no time to think carefully before acting *(tình huống không có thời gian suy nghĩ kỹ trước khi hành động)*
 
 **44. Why does the reviewer compare a firefighter with someone picking shares?**
@@ -628,8 +628,8 @@
 
 - A. to suggest that firefighters would make good investors *(để ngụ ý lính cứu hoả sẽ là nhà đầu tư giỏi)*
 - B. to criticize people who lose money on the stock market *(để phê phán những người mất tiền trên thị trường chứng khoán)*
-- C. to illustrate where intuition can be trusted and where it cannot *(để minh hoạ nơi trực giác đáng tin và nơi nó không đáng tin)*
-- D. to show that both jobs require people to make decisions under pressure *(để cho thấy cả hai nghề đều buộc người ta quyết định dưới áp lực)*
+- C. to show that both jobs require people to make decisions under pressure *(để cho thấy cả hai nghề đều buộc người ta quyết định dưới áp lực)*
+- D. to illustrate where intuition can be trusted and where it cannot *(để minh hoạ nơi trực giác đáng tin và nơi nó không đáng tin)*
 
 **45. In context, what does the phrase "the book loses its way" mean?**
 *(Trong ngữ cảnh, cụm "the book loses its way" nghĩa là gì?)*
@@ -642,8 +642,8 @@
 **46. Why does the reviewer consider hiring a strange example for Whitlow to use?**
 *(Vì sao người điểm sách cho rằng tuyển dụng là ví dụ lạ đối với Whitlow?)*
 
-- A. because it goes against the very conditions that Whitlow himself describes *(vì nó đi ngược chính những điều kiện mà Whitlow tự mô tả)*
-- B. because most readers will never need to hire anyone *(vì phần lớn người đọc sẽ chẳng bao giờ cần tuyển ai)*
+- A. because most readers will never need to hire anyone *(vì phần lớn người đọc sẽ chẳng bao giờ cần tuyển ai)*
+- B. because it goes against the very conditions that Whitlow himself describes *(vì nó đi ngược chính những điều kiện mà Whitlow tự mô tả)*
 - C. because interviewers usually have years of experience and clear feedback *(vì người phỏng vấn thường có nhiều năm kinh nghiệm và phản hồi rõ ràng)*
 - D. because Whitlow admits that he has never interviewed a job candidate *(vì Whitlow thừa nhận chưa từng phỏng vấn ứng viên nào)*
 
@@ -651,9 +651,9 @@
 *(Lời phê bình chính của người điểm sách về bằng chứng ở nửa sau là gì?)*
 
 - A. It uses too many numbers and not enough stories. *(Nó dùng quá nhiều số liệu và quá ít câu chuyện.)*
-- B. It describes only cases where following a feeling worked out well. *(Nó chỉ kể những trường hợp đi theo cảm giác mà có kết quả tốt.)*
+- B. It relies on research that is more than twenty years old. *(Nó dựa vào nghiên cứu đã hơn hai mươi năm tuổi.)*
 - C. It copies stories from the first half of the book. *(Nó chép lại các câu chuyện ở nửa đầu cuốn sách.)*
-- D. It relies on research that is more than twenty years old. *(Nó dựa vào nghiên cứu đã hơn hai mươi năm tuổi.)*
+- D. It describes only cases where following a feeling worked out well. *(Nó chỉ kể những trường hợp đi theo cảm giác mà có kết quả tốt.)*
 
 **48. What does the reviewer suggest about the cases chosen in the second half?**
 *(Người điểm sách ngụ ý gì về những trường hợp được chọn ở nửa sau?)*
@@ -666,10 +666,10 @@
 **49. Which best describes the reviewer's overall opinion of the book?**
 *(Câu nào mô tả đúng nhất đánh giá chung của người điểm sách về cuốn sách?)*
 
-- A. She thinks it is dangerous and that nobody should read it. *(Cô cho rằng nó nguy hiểm và không ai nên đọc.)*
+- A. She praises the first half but finds the second half unconvincing. *(Cô khen nửa đầu nhưng thấy nửa sau thiếu thuyết phục.)*
 - B. She admires it without reservation from beginning to end. *(Cô khen nó không chút dè dặt từ đầu tới cuối.)*
 - C. She finds it boring but scientifically accurate throughout. *(Cô thấy nó nhàm chán nhưng chính xác về khoa học từ đầu tới cuối.)*
-- D. She praises the first half but finds the second half unconvincing. *(Cô khen nửa đầu nhưng thấy nửa sau thiếu thuyết phục.)*
+- D. She thinks it is dangerous and that nobody should read it. *(Cô cho rằng nó nguy hiểm và không ai nên đọc.)*
 
 **50. What do the last two sentences of the review suggest?**
 *(Hai câu cuối của bài điểm sách gợi ra điều gì?)*
@@ -742,26 +742,26 @@
 **53. Why does Mitchell say that he is "not qualified to explain the human psyche"?**
 *(Vì sao Mitchell nói anh "not qualified to explain the human psyche"?)*
 
-- A. to admit modestly that he is sharing research outside his own field *(để khiêm tốn thừa nhận anh đang chia sẻ nghiên cứu ngoài chuyên môn của mình)*
+- A. to explain why he will not give parents any advice *(để giải thích vì sao anh sẽ không khuyên phụ huynh điều gì)*
 - B. to criticize psychologists for making the subject too difficult *(để phê phán các nhà tâm lý học làm chủ đề trở nên quá khó)*
 - C. to suggest that history teachers understand children better *(để ngụ ý giáo viên lịch sử hiểu trẻ con hơn)*
-- D. to explain why he will not give parents any advice *(để giải thích vì sao anh sẽ không khuyên phụ huynh điều gì)*
+- D. to admit modestly that he is sharing research outside his own field *(để khiêm tốn thừa nhận anh đang chia sẻ nghiên cứu ngoài chuyên môn của mình)*
 
 **54. What did the Cornell experiment find?**
 *(Thí nghiệm ở Cornell phát hiện điều gì?)*
 
 - A. Nobody in the room noticed the T-shirt at all. *(Không ai trong phòng để ý chiếc áo cả.)*
-- B. The students wearing the shirt overestimated how many people noticed it. *(Những sinh viên mặc áo đã đánh giá quá cao số người để ý nó.)*
+- B. Most students in the room laughed at the T-shirt. *(Phần lớn sinh viên trong phòng cười chiếc áo phông.)*
 - C. About half of the people in the room remembered the singer's name. *(Khoảng một nửa số người trong phòng nhớ tên ca sĩ.)*
-- D. Most students in the room laughed at the T-shirt. *(Phần lớn sinh viên trong phòng cười chiếc áo phông.)*
+- D. The students wearing the shirt overestimated how many people noticed it. *(Những sinh viên mặc áo đã đánh giá quá cao số người để ý nó.)*
 
 **55. According to the column, why does the spotlight effect happen?**
 *(Theo chuyên mục, vì sao có hiệu ứng ánh đèn sân khấu?)*
 
 - A. because teenagers spend more time looking at each other than adults do *(vì thiếu niên dành nhiều thời gian nhìn nhau hơn người lớn)*
 - B. because bright lights in classrooms make clothes easier to see *(vì ánh đèn sáng trong lớp khiến quần áo dễ thấy hơn)*
-- C. because people are naturally cruel to those who look different *(vì con người vốn ác với những ai trông khác biệt)*
-- D. because each of us is at the center of our own attention *(vì mỗi người là tâm điểm trong sự chú ý của chính mình)*
+- C. because each of us is at the center of our own attention *(vì mỗi người là tâm điểm trong sự chú ý của chính mình)*
+- D. because people are naturally cruel to those who look different *(vì con người vốn ác với những ai trông khác biệt)*
 
 **56. When Tina says "That will be true for college students", what does she mean?**
 *(Khi Tina nói "That will be true for college students", con bé muốn nói gì?)*
@@ -774,8 +774,8 @@
 **57. Why does Mitchell describe Tina's reply as "insightful"?**
 *(Vì sao Mitchell gọi câu đáp của Tina là "insightful" (sâu sắc)?)*
 
-- A. because it showed she had read the original study herself *(vì nó cho thấy con bé đã tự đọc nghiên cứu gốc)*
-- B. because it pointed out a real limit of the experiment *(vì nó chỉ ra một giới hạn thật của thí nghiệm)*
+- A. because it pointed out a real limit of the experiment *(vì nó chỉ ra một giới hạn thật của thí nghiệm)*
+- B. because it showed she had read the original study herself *(vì nó cho thấy con bé đã tự đọc nghiên cứu gốc)*
 - C. because it proved that her classmates were unkind *(vì nó chứng minh các bạn cùng lớp không tử tế)*
 - D. because it made him change his mind about the research *(vì nó khiến anh đổi ý về nghiên cứu)*
 
@@ -784,23 +784,23 @@
 
 - A. She asked her father to speak to her teacher about the shoes. *(Con bé nhờ bố nói chuyện với cô giáo về đôi giày.)*
 - B. She refused to go to school until Friday. *(Con bé không chịu đi học cho tới thứ Sáu.)*
-- C. Hardly anyone mentioned it, and some girls even copied her. *(Hầu như không ai nhắc tới, và vài bạn gái còn bắt chước con bé.)*
-- D. Many classmates teased her, so she stopped talking about it. *(Nhiều bạn trêu nên con bé thôi không nhắc tới nữa.)*
+- C. Many classmates teased her, so she stopped talking about it. *(Nhiều bạn trêu nên con bé thôi không nhắc tới nữa.)*
+- D. Hardly anyone mentioned it, and some girls even copied her. *(Hầu như không ai nhắc tới, và vài bạn gái còn bắt chước con bé.)*
 
 **59. Why does Mitchell advise parents not to tell children that their worries are silly?**
 *(Vì sao Mitchell khuyên phụ huynh đừng bảo con rằng nỗi lo của chúng ngớ ngẩn?)*
 
-- A. because children rarely believe what their parents tell them *(vì trẻ con hiếm khi tin lời bố mẹ)*
+- A. because it can make an insecure child worry about being silly as well *(vì nó có thể khiến một đứa trẻ thiếu tự tin lo thêm rằng mình ngớ ngẩn)*
 - B. because the worries usually turn out to be completely true *(vì những nỗi lo thường hoá ra hoàn toàn đúng)*
-- C. because it can make an insecure child worry about being silly as well *(vì nó có thể khiến một đứa trẻ thiếu tự tin lo thêm rằng mình ngớ ngẩn)*
+- C. because children rarely believe what their parents tell them *(vì trẻ con hiếm khi tin lời bố mẹ)*
 - D. because schools have asked parents to avoid that word *(vì trường đã đề nghị phụ huynh tránh dùng từ đó)*
 
 **60. What is the main purpose of the question that Mitchell suggests parents ask?**
 *(Mục đích chính của câu hỏi Mitchell gợi ý phụ huynh đặt ra là gì?)*
 
-- A. to help the child compare a feeling with what really happened *(để giúp con so cảm giác của mình với những gì thật sự đã xảy ra)*
+- A. to find out which classmates were unkind to the child *(để tìm ra bạn nào đã không tử tế với con)*
 - B. to show the child that parents know more about school *(để cho con thấy bố mẹ hiểu trường học hơn)*
-- C. to find out which classmates were unkind to the child *(để tìm ra bạn nào đã không tử tế với con)*
+- C. to help the child compare a feeling with what really happened *(để giúp con so cảm giác của mình với những gì thật sự đã xảy ra)*
 - D. to avoid having to offer the child any comfort at all *(để khỏi phải an ủi con chút nào)*
 
 ---
