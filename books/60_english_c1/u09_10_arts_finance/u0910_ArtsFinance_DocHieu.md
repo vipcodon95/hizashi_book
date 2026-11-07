@@ -4,7 +4,7 @@
 >
 > **Nhân vật:** Helena Brooks, Nathan Brooks, Harriet Brooks, Chloe Bennett, Leah Carter · tháng 8 – 9, năm 8
 >
-> **Mục tiêu:** đọc một bài phê bình có đánh giá khen chê đan xen và một bản ghi nhớ so sánh ba phương án tài chính; nhận ra cấu trúc khen → chê → kết luận của bài phê bình, ngôn ngữ đánh giá (uneven, showy, wry, reminiscent of), câu hỏi tu từ, cách bản ghi nhớ đặt lại câu hỏi (not so much A as B), và các cấu trúc C1: đảo ngữ So + adj, đưa tân ngữ lên đầu (This I did not expect), As for…, as did…, than + mệnh đề rút gọn.
+> **Mục tiêu:** đọc một bài phê bình có đánh giá khen chê đan xen và một bản ghi nhớ so sánh ba phương án tài chính; nhận ra cấu trúc khen → chê → kết luận của bài phê bình, ngôn ngữ đánh giá (uneven, showy, wry, reminiscent of), câu hỏi tu từ, cách bản ghi nhớ đặt lại câu hỏi (not so much A as B), và các cấu trúc C1: đảo ngữ So + adj, đưa tân ngữ lên đầu (This I did not expect), As for…, as did…, than + mệnh đề rút gọn; đọc thêm một bài phê bình phim, một bài khoa học phổ thông về âm học, một bản tóm tắt nghiên cứu và một bài blog trải nghiệm: nhận ra mục đích của tình huống mở đầu, câu hỏi tu từ tự trả lời, lập luận cân lại (however, similarly, in other words) và cặp on paper / in practice.
 
 ---
 
@@ -185,7 +185,7 @@
 >
 > Option B: open a shared kitchen. The bakery already has two large ovens and a professional kitchen, so the refurbishment would cost far less, about $12,000. Home cooks and small food businesses, such as the families who cooked for The Neighbors' Table two autumns ago, could rent the kitchen by the hour. Several have already asked whether such a place exists. The arrangement would also be mutually useful: the cooks would get affordable space, and the café would gain prospective customers every time someone came to collect their food. My estimation is that it would cover its costs within eighteen months if the kitchen were rented for just four hours a day. It would earn less than Option A at its best, but it would also lose much less at its worst.
 >
-> Option C: do nothing. I am including this seriously. The café makes a small but steady surplus, you are seventy-four, and you have nothing to prove to anyone. Saying no is not failure; it is a decision. Your savings are your buffer, and I would hate to see them squandered on a bigger room that nobody needed.
+> Option C: do nothing. I am including this seriously. The café makes a small but steady surplus, you are seventy-five, and you have nothing to prove to anyone. Saying no is not failure; it is a decision. Your savings are your buffer, and I would hate to see them squandered on a bigger room that nobody needed.
 >
 > My own view, for what it is worth, is that the question is not so much how to make the most money as what kind of place you want Harriet's to be in five years' time. Option A makes it bigger. Option B makes it more of what it already is: a place where neighbors feed each other. I lean towards B, but it is your café, your savings, and your decision.
 >
@@ -206,7 +206,7 @@
 | 9 | Home cooks and small food businesses, such as the families who cooked for The Neighbors' Table two autumns ago, could rent the kitchen by the hour. Several have already asked whether such a place exists. | Những người nấu ăn tại nhà và các cơ sở đồ ăn nhỏ, như những gia đình từng nấu cho The Neighbors' Table mùa thu hai năm trước, có thể thuê bếp theo giờ. Đã có vài người hỏi liệu có nơi nào như vậy không. |
 | 10 | The arrangement would also be mutually useful: the cooks would get affordable space, and the café would gain prospective customers every time someone came to collect their food. | Cách làm này còn có lợi cho cả đôi bên: người nấu có chỗ làm với giá phải chăng, còn quán có thêm khách tiềm năng mỗi lần có người tới lấy đồ ăn. |
 | 11 | My estimation is that it would cover its costs within eighteen months if the kitchen were rented for just four hours a day. It would earn less than Option A at its best, but it would also lose much less at its worst. | Con ước tính nó sẽ hoà vốn trong vòng mười tám tháng nếu bếp được thuê chỉ bốn tiếng mỗi ngày. Lúc tốt nhất thì nó lời ít hơn phương án A, nhưng lúc tệ nhất thì nó cũng lỗ ít hơn nhiều. |
-| 12 | Option C: do nothing. I am including this seriously. The café makes a small but steady surplus, you are seventy-four, and you have nothing to prove to anyone. Saying no is not failure; it is a decision. | Phương án C: không làm gì. Con đưa phương án này vào một cách nghiêm túc. Quán có khoản lời nhỏ nhưng đều đặn, mẹ đã bảy mươi tư tuổi, và mẹ chẳng cần chứng minh gì với ai cả. Từ chối không phải là thất bại; đó là một quyết định. |
+| 12 | Option C: do nothing. I am including this seriously. The café makes a small but steady surplus, you are seventy-five, and you have nothing to prove to anyone. Saying no is not failure; it is a decision. | Phương án C: không làm gì. Con đưa phương án này vào một cách nghiêm túc. Quán có khoản lời nhỏ nhưng đều đặn, mẹ đã bảy mươi lăm tuổi, và mẹ chẳng cần chứng minh gì với ai cả. Từ chối không phải là thất bại; đó là một quyết định. |
 | 13 | Your savings are your buffer, and I would hate to see them squandered on a bigger room that nobody needed. | Tiền tiết kiệm là khoản dự phòng của mẹ, và con rất không muốn thấy nó bị phung phí vào một căn phòng to hơn mà chẳng ai cần. |
 | 14 | My own view, for what it is worth, is that the question is not so much how to make the most money as what kind of place you want Harriet's to be in five years' time. | Ý kiến riêng của con, nếu nó có giá trị gì, là câu hỏi không nằm ở chỗ làm sao kiếm nhiều tiền nhất mà ở chỗ mẹ muốn Harriet's là nơi như thế nào trong năm năm tới. |
 | 15 | Option A makes it bigger. Option B makes it more of what it already is: a place where neighbors feed each other. I lean towards B, but it is your café, your savings, and your decision. | Phương án A làm nó lớn hơn. Phương án B làm nó càng giống chính nó hơn: một nơi hàng xóm nấu cho nhau ăn. Con nghiêng về B, nhưng đó là quán của mẹ, tiền tiết kiệm của mẹ, và quyết định của mẹ. |
@@ -310,7 +310,7 @@
 >
 > As for the performances, they are strong across the cast. Joan Linden, returning as Hazel, gives a portrayal of guilt that is quiet, precise and never sentimental; she does not ask us to pity her, which is exactly why we do. Her best scene contains almost no dialogue: Hazel, alone in her kitchen, sings an old sea song under her breath, and her voice breaks on the one line she cannot finish.
 >
-> The film is not without faults. Its climactic scene, a rescue in a second storm, is staged with all the noise and money of the first film, and it feels borrowed from a different, more ordinary movie. After two hours of careful, human drama, I wanted the director to trust her story and tone down the thunder. A second story about an insurance investigator is also never finished, as if a whole section of the screenplay had been cut in the editing room.
+> The film is not without faults. Its climactic scene, a rescue in a second storm, is staged with all the noise and money of the first film, and it feels borrowed from a different, more ordinary movie. After two hours of careful, human drama, I wanted the director to trust her story and tone down the thunder. A subplot about an insurance investigator is also never resolved, as if a whole section of the screenplay had been cut in the editing room.
 >
 > These are real weaknesses, but small ones. What stays with you is the film's honest depiction of what happens to people after the cameras have left: the hero who is not sure she was one, the town that would rather celebrate than remember. How many sequels can say they understood their original better than it understood itself? Not many. This much I can promise: go and see it, ideally in a quiet theater, and stay until the final shot.
 
@@ -337,7 +337,7 @@
 | 17 | The film is not without faults. | Bộ phim không phải không có khuyết điểm. |
 | 18 | Its climactic scene, a rescue in a second storm, is staged with all the noise and money of the first film, and it feels borrowed from a different, more ordinary movie. | Cảnh cao trào, một cuộc giải cứu giữa cơn bão thứ hai, được dàn dựng với đủ cả tiếng ồn lẫn tiền bạc của phần một, và nó như được mượn từ một bộ phim khác, tầm thường hơn. |
 | 19 | After two hours of careful, human drama, I wanted the director to trust her story and tone down the thunder. | Sau hai tiếng chính kịch tinh tế và đầy tính người, tôi chỉ mong đạo diễn tin vào câu chuyện của mình và giảm bớt tiếng sấm. |
-| 20 | A second story about an insurance investigator is also never finished, as if a whole section of the screenplay had been cut in the editing room. | Một mạch truyện phụ về một nhân viên điều tra bảo hiểm cũng bị bỏ dở, như thể cả một phần kịch bản đã bị cắt đi trong phòng dựng phim. |
+| 20 | A subplot about an insurance investigator is also never resolved, as if a whole section of the screenplay had been cut in the editing room. | Một mạch truyện phụ về một nhân viên điều tra bảo hiểm cũng bị bỏ dở, như thể cả một phần kịch bản đã bị cắt đi trong phòng dựng phim. |
 | 21 | These are real weaknesses, but small ones. | Đó là những điểm yếu thật, nhưng nhỏ. |
 | 22 | What stays with you is the film's honest depiction of what happens to people after the cameras have left: the hero who is not sure she was one, the town that would rather celebrate than remember. | Điều đọng lại là cách bộ phim khắc hoạ trung thực những gì xảy ra với con người sau khi ống kính đã rời đi: người hùng không chắc mình có phải người hùng, thị trấn thích ăn mừng hơn là nhớ lại. |
 | 23 | How many sequels can say they understood their original better than it understood itself? | Có bao nhiêu phần tiếp theo dám nói rằng mình hiểu bản gốc hơn cả chính bản gốc hiểu nó? |
@@ -348,10 +348,10 @@
 **21. What did the reviewer expect before watching the film?**
 *(Trước khi xem phim, người viết đã kỳ vọng thế nào?)*
 
-- A. very little, because most sequels to big hits disappoint *(rất ít, vì phần lớn phần tiếp theo của phim ăn khách đều gây thất vọng)*
+- A. not much, since sequels made for money tend to be empty *(không nhiều, vì phim tiếp theo làm vì tiền thường rỗng tuếch)*
 - B. a film even more exciting than the original *(một bộ phim còn hấp dẫn hơn bản gốc)*
 - C. a quiet drama with no storm scenes at all *(một phim chính kịch lặng lẽ không có cảnh bão nào)*
-- D. a new version of the first film with a different director *(một bản làm lại phần một với đạo diễn mới)*
+- D. a new version of the first film with another director *(một phiên bản mới của phần một với đạo diễn khác)*
 
 **22. What does the reviewer suggest about sequels that exist mainly because the first film "earned a fortune"?**
 *(Người viết ngụ ý gì về những phần tiếp theo ra đời chủ yếu vì phần đầu "hái ra tiền"?)*
@@ -359,7 +359,7 @@
 - A. They are usually made by younger, less experienced directors. *(Chúng thường do các đạo diễn trẻ, ít kinh nghiệm làm.)*
 - B. They usually cost less to make than the original film. *(Chúng thường tốn ít tiền làm hơn bản gốc.)*
 - C. They usually receive better reviews than the original film. *(Chúng thường được phê bình tốt hơn bản gốc.)*
-- D. They are usually driven by money rather than by a story worth telling. *(Chúng thường được thúc đẩy bởi tiền chứ không phải bởi một câu chuyện đáng kể.)*
+- D. They are usually made for money, not for a good story. *(Chúng thường được làm vì tiền, không vì một câu chuyện hay.)*
 
 **23. How has Hazel changed since the first film?**
 *(Hazel đã thay đổi thế nào kể từ phần một?)*
@@ -374,21 +374,21 @@
 
 - A. because the flashbacks are shorter than in the first film *(vì các đoạn hồi tưởng ngắn hơn phần một)*
 - B. because the flashbacks make the story much more difficult to follow *(vì các đoạn hồi tưởng khiến câu chuyện khó theo dõi hơn nhiều)*
-- C. because the flashbacks keep adding new information and build tension instead of slowing the film *(vì các đoạn hồi tưởng liên tục thêm thông tin mới và tạo căng thẳng thay vì làm phim chậm lại)*
+- C. because each flashback reveals something new and raises the tension *(vì mỗi đoạn hồi tưởng hé lộ điều mới và đẩy căng thẳng lên)*
 - D. because the flashbacks show the storm exactly as the first film did *(vì các đoạn hồi tưởng chiếu cơn bão y hệt phần một)*
 
 **25. What does the sentence beginning "So carefully are these scenes placed" emphasize?**
 *(Câu bắt đầu bằng "So carefully are these scenes placed" nhấn mạnh điều gì?)*
 
 - A. how the director placed the camera very close to the actors *(việc đạo diễn đặt máy quay rất gần diễn viên)*
-- B. how the order of past and present scenes leads naturally to the climax *(cách sắp xếp cảnh quá khứ và hiện tại dẫn tự nhiên tới cao trào)*
+- B. how past and present scenes build steadily towards the climax *(cách các cảnh quá khứ và hiện tại dồn dần về cao trào)*
 - C. how slowly the past scenes move compared with the present ones *(các cảnh quá khứ chậm thế nào so với cảnh hiện tại)*
-- D. how much money was spent on the storm scenes *(bao nhiêu tiền đã được chi để dựng lại cơn bão)*
+- D. how much more money was spent on the storm scenes than on the rest *(số tiền chi cho các cảnh bão nhiều hơn phần còn lại bao nhiêu)*
 
 **26. What does the reviewer most admire about Joan Linden's performance?**
 *(Người viết khâm phục nhất điều gì ở diễn xuất của Joan Linden?)*
 
-- A. She makes the audience feel for Hazel precisely by not asking for sympathy. *(Cô khiến khán giả thương Hazel chính nhờ không xin sự thương cảm.)*
+- A. She wins our sympathy precisely by not asking for it. *(Cô chiếm được sự thương cảm của khán giả chính nhờ không đòi hỏi nó.)*
 - B. She cries in almost every scene to show Hazel's guilt. *(Cô khóc trong gần như mọi cảnh để thể hiện sự day dứt của Hazel.)*
 - C. She sings the whole sea song beautifully from start to finish. *(Cô hát trọn bài ca biển thật hay từ đầu tới cuối.)*
 - D. She plays Hazel very differently from the way she did in the first film. *(Cô đóng Hazel rất khác so với phần một.)*
@@ -396,20 +396,20 @@
 **27. Why does the reviewer describe the kitchen scene?**
 *(Vì sao người viết tả cảnh trong bếp?)*
 
-- A. to explain why the film is too long *(để giải thích vì sao phim quá dài)*
+- A. to explain why the film runs longer than the first one *(để giải thích vì sao phim dài hơn phần một)*
 - B. to compare the music of the two films *(để so sánh âm nhạc của hai phần phim)*
-- C. to complain that the scene has too little dialogue *(để phàn nàn rằng cảnh đó có quá ít lời thoại)*
-- D. to show how much feeling the actress can express with almost no words *(để cho thấy nữ diễn viên truyền tải được bao nhiêu cảm xúc mà gần như không cần lời)*
+- C. to complain that her best scene has too little dialogue *(để phàn nàn rằng cảnh hay nhất của cô có quá ít thoại)*
+- D. to show how much she conveys without words *(để cho thấy cô truyền tải được bao nhiêu điều mà không cần lời)*
 
 **28. What is the reviewer's main criticism of the climactic scene?**
 *(Người viết chê cảnh cao trào chủ yếu ở điểm nào?)*
 
-- A. It is too short and ends before the rescue is complete. *(Nó quá ngắn và kết thúc trước khi cuộc giải cứu xong.)*
+- A. It is too short and ends before the rescue is actually complete. *(Nó quá ngắn và kết thúc trước khi cuộc giải cứu thực sự xong.)*
 - B. It repeats the dialogue of the first film word for word. *(Nó lặp lại nguyên văn lời thoại của phần một.)*
-- C. Its loud, expensive style does not match the careful drama of the rest of the film. *(Phong cách ồn ào, tốn kém của nó không hợp với chất chính kịch tinh tế của phần còn lại.)*
-- D. It was filmed in a real storm and put the actors in danger. *(Nó được quay trong bão thật và khiến diễn viên gặp nguy hiểm.)*
+- C. Its noise and spectacle do not fit the careful drama elsewhere. *(Sự ồn ào, phô trương của nó không hợp với phần chính kịch tinh tế còn lại.)*
+- D. It was filmed during a real storm and put several actors in danger. *(Nó được quay giữa một cơn bão thật và khiến vài diễn viên gặp nguy hiểm.)*
 
-**29. What does the phrase "as if a whole section of the screenplay had been cut" suggest about the story of the insurance investigator?**
+**29. What does the phrase "as if a whole section of the screenplay had been cut" suggest about the subplot about the insurance investigator?**
 *(Cụm "as if a whole section of the screenplay had been cut" gợi ý gì về mạch truyện người điều tra bảo hiểm?)*
 
 - A. It feels as though parts of the story are missing. *(Nó có vẻ dang dở, như thể đã mất vài phần.)*
@@ -421,7 +421,7 @@
 *(Câu hỏi "How many sequels can say they understood their original better than it understood itself?" nhằm mục đích gì?)*
 
 - A. to ask readers to send in examples of other good sequels *(để nhờ độc giả gửi ví dụ về các phần tiếp theo hay khác)*
-- B. to praise the film strongly by suggesting it is a rare kind of sequel *(để khen mạnh bộ phim, ngụ ý đây là kiểu phần tiếp theo hiếm có)*
+- B. to praise the film as a rare kind of sequel *(để khen bộ phim là một kiểu phim tiếp theo hiếm có)*
 - C. to suggest that the first film was better than the sequel *(để ngụ ý rằng phần một hay hơn phần tiếp theo)*
 - D. to admit that the reviewer has not seen the original film *(để thừa nhận người viết chưa xem bản gốc)*
 
@@ -431,13 +431,13 @@
 
 > **Why Some Concert Halls Sound Better Than Others**
 >
-> By Celia Marsh, science writer
+> By Celia Hartwell, science writer
 >
 > Imagine hearing the same piano concerto, played by the same orchestra, in two different halls. In the first, the music seems to surround you, warm and full, as if the walls themselves were playing. In the second, it sounds thin and distant, and the soft passages almost disappear. Nothing has changed except the room, and yet the experience could hardly be more different.
 >
 > For most of history, builders achieved good acoustics largely by luck, or by copying halls that already worked. That changed in 1895, when a young Harvard physics teacher named Wallace Sabine was asked to fix a new lecture hall in which students could barely understand the speaker. Working at night, when the building was quiet, Sabine carried hundreds of seat cushions in and out of the room and measured how long a sound took to fade away. What he discovered was surprisingly simple: the time a sound continues depends on the size of a room and on how much of the sound its surfaces absorb.
 >
-> This continuing sound, called reverberation, is the key to how a hall sounds. Too little, and music seems dry and lifeless; too much, and each note runs into the next, so that speech in particular becomes a blur. For a lecture, about one second is ideal, whereas an orchestra generally sounds best with nearer two. Sabine's work so impressed the head of his university, who recommended him to the founder of the city's orchestra, that he was invited to help design Boston's Symphony Hall, which opened in 1900 and is still praised as one of the best in the world.
+> This continuing sound, called reverberation, is the key to how a hall sounds. Too little, and music seems dry and lifeless; too much, and each note runs into the next, so that speech in particular becomes a blur. For a lecture, about one second is ideal, whereas an orchestra generally sounds best with nearer two. So impressed was the head of his university that he recommended Sabine to the founder of the city's orchestra, and the young scientist was invited to help design Boston's Symphony Hall, which opened in 1900 and is still praised as one of the best in the world.
 >
 > Reverberation, however, is not the whole story. Studies in recent decades suggest that listeners care just as much about where the sound comes from. In a tall, narrow hall shaped like a shoebox, much of the sound reaches each listener after bouncing off the side walls, and these reflections from the left and right seem to make the music feel richer and more involving. This may explain why several of the most admired halls, some of them built long before anyone understood why they worked, share this plain, rectangular shape.
 >
@@ -450,7 +450,7 @@
 | # | Tiếng Anh | Tiếng Việt |
 |---|---|---|
 | 1 | Why Some Concert Halls Sound Better Than Others | Vì sao có phòng hoà nhạc nghe hay hơn phòng khác |
-| 2 | By Celia Marsh, science writer | Celia Marsh, cây bút khoa học |
+| 2 | By Celia Hartwell, science writer | Celia Hartwell, cây bút khoa học |
 | 3 | Imagine hearing the same piano concerto, played by the same orchestra, in two different halls. | Hãy tưởng tượng bạn nghe cùng một bản concerto cho piano, do cùng một dàn nhạc chơi, ở hai phòng hoà nhạc khác nhau. |
 | 4 | In the first, the music seems to surround you, warm and full, as if the walls themselves were playing. | Ở phòng thứ nhất, âm nhạc như bao quanh bạn, ấm và dày, như thể chính những bức tường đang chơi nhạc. |
 | 5 | In the second, it sounds thin and distant, and the soft passages almost disappear. | Ở phòng thứ hai, tiếng nhạc mỏng và xa, còn những đoạn nhẹ gần như biến mất. |
@@ -462,10 +462,10 @@
 | 11 | This continuing sound, called reverberation, is the key to how a hall sounds. | Phần âm thanh còn vang ấy, gọi là độ vang, là chìa khoá quyết định một phòng nghe ra sao. |
 | 12 | Too little, and music seems dry and lifeless; too much, and each note runs into the next, so that speech in particular becomes a blur. | Vang quá ít thì nhạc nghe khô và thiếu sức sống; vang quá nhiều thì nốt này chồng lên nốt kia, đến mức nhất là lời nói trở thành một mớ nhoè nhoẹt. |
 | 13 | For a lecture, about one second is ideal, whereas an orchestra generally sounds best with nearer two. | Với một bài giảng, khoảng một giây là lý tưởng, còn một dàn nhạc thường nghe hay nhất với gần hai giây. |
-| 14 | Sabine's work so impressed the head of his university, who recommended him to the founder of the city's orchestra, that he was invited to help design Boston's Symphony Hall, which opened in 1900 and is still praised as one of the best in the world. | Công trình của Sabine gây ấn tượng mạnh với hiệu trưởng trường ông, người đã giới thiệu ông với nhà sáng lập dàn nhạc thành phố, đến mức ông được mời giúp thiết kế Symphony Hall ở Boston, khánh thành năm 1900 và tới nay vẫn được ca ngợi là một trong những phòng hoà nhạc hay nhất thế giới. |
+| 14 | So impressed was the head of his university that he recommended Sabine to the founder of the city's orchestra, and the young scientist was invited to help design Boston's Symphony Hall, which opened in 1900 and is still praised as one of the best in the world. | Hiệu trưởng trường ông ấn tượng đến mức giới thiệu Sabine với nhà sáng lập dàn nhạc thành phố, và nhà khoa học trẻ được mời giúp thiết kế Symphony Hall ở Boston, khánh thành năm 1900 và tới nay vẫn được ca ngợi là một trong những phòng hoà nhạc hay nhất thế giới. |
 | 15 | Reverberation, however, is not the whole story. | Tuy vậy, độ vang chưa phải là tất cả. |
 | 16 | Studies in recent decades suggest that listeners care just as much about where the sound comes from. | Các nghiên cứu vài thập kỷ gần đây cho thấy người nghe cũng quan tâm không kém tới việc âm thanh đến từ hướng nào. |
-| 17 | In a tall, narrow hall shaped like a shoebox, much of the sound reaches each listener after bouncing off the side walls, and these reflections from the left and right seem to make the music feel richer and more involving. | Trong một phòng cao và hẹp như chiếc hộp đựng giày, phần lớn âm thanh tới tai mỗi người nghe sau khi dội vào hai bức tường bên, và những âm phản xạ từ trái và phải ấy dường như khiến âm nhạc rộng hơn và cuốn người nghe hơn. |
+| 17 | In a tall, narrow hall shaped like a shoebox, much of the sound reaches each listener after bouncing off the side walls, and these reflections from the left and right seem to make the music feel richer and more involving. | Trong một phòng cao và hẹp như chiếc hộp đựng giày, phần lớn âm thanh tới tai mỗi người nghe sau khi dội vào hai bức tường bên, và những âm phản xạ từ trái và phải ấy dường như khiến âm nhạc đầy đặn hơn và cuốn người nghe hơn. |
 | 18 | This may explain why several of the most admired halls, some of them built long before anyone understood why they worked, share this plain, rectangular shape. | Điều này có thể giải thích vì sao vài phòng hoà nhạc được ngưỡng mộ nhất, trong đó có những phòng xây từ rất lâu trước khi có ai hiểu vì sao chúng nghe hay, đều có chung hình chữ nhật giản dị ấy. |
 | 19 | Modern architects, perhaps not surprisingly, are reluctant to build only boxes. | Chẳng có gì lạ khi các kiến trúc sư hiện đại không muốn chỉ xây những chiếc hộp. |
 | 20 | Many prefer more adventurous designs, with seats rising in steps all around the stage, which bring the audience nearer to the musicians and are often more aesthetically pleasing. | Nhiều người chuộng những thiết kế táo bạo hơn, với hàng ghế dâng lên thành bậc bao quanh sân khấu, giúp khán giả gần nhạc công hơn và thường đẹp mắt hơn. |
@@ -481,14 +481,14 @@
 
 - A. to suggest that some orchestras play better in small halls *(để gợi ý rằng có dàn nhạc chơi hay hơn ở phòng nhỏ)*
 - B. to explain why piano concertos are difficult to perform *(để giải thích vì sao concerto cho piano khó biểu diễn)*
-- C. to show that the room alone can change how the same music is experienced *(để cho thấy chỉ riêng căn phòng cũng có thể thay đổi cách cảm nhận cùng một bản nhạc)*
+- C. to show that the room alone can transform the same music *(để cho thấy chỉ riêng căn phòng cũng có thể biến đổi cùng một bản nhạc)*
 - D. to recommend a particular concert hall to readers *(để giới thiệu một phòng hoà nhạc cụ thể cho độc giả)*
 
 **32. Before 1895, how did builders usually achieve good acoustics?**
 *(Trước năm 1895, người ta thường có được âm thanh tốt bằng cách nào?)*
 
 - A. mostly by chance or by imitating successful halls *(chủ yếu nhờ may mắn hoặc bắt chước những phòng thành công)*
-- B. by measuring how long sounds took to fade *(bằng cách đo âm thanh mất bao lâu thì tắt)*
+- B. by measuring how long sounds took to fade in each room *(bằng cách đo thời gian âm thanh tắt dần trong từng phòng)*
 - C. by building halls only for lectures *(bằng cách chỉ xây phòng cho bài giảng)*
 - D. by filling halls with seat cushions *(bằng cách chất đầy đệm ghế trong phòng)*
 
@@ -496,64 +496,64 @@
 *(Nhiều khả năng vì sao Sabine đo đạc vào ban đêm?)*
 
 - A. He was too busy teaching during the day. *(Ban ngày ông quá bận dạy học.)*
-- B. The university did not allow him to use the hall. *(Trường không cho ông dùng giảng đường.)*
-- C. Students were using the seat cushions during the day. *(Ban ngày sinh viên đang dùng các tấm đệm ghế.)*
-- D. Outside noise would not affect his measurements of how sounds faded. *(Tiếng ồn bên ngoài sẽ không làm sai các phép đo độ tắt dần của âm thanh.)*
+- B. The university had not given him permission to use the hall. *(Trường chưa cho phép ông dùng giảng đường.)*
+- C. Students were using the seat cushions in lectures during the day. *(Ban ngày sinh viên đang dùng các tấm đệm ghế trong giờ giảng.)*
+- D. The building's noise would not disturb his measurements. *(Tiếng ồn trong toà nhà sẽ không làm nhiễu phép đo của ông.)*
 
 **34. According to the article, what did Sabine discover?**
 *(Theo bài, Sabine đã phát hiện ra điều gì?)*
 
-- A. Students understand speakers better in bigger rooms. *(Sinh viên nghe người giảng rõ hơn trong phòng lớn hơn.)*
-- B. How long a sound continues depends on room size and how much sound is absorbed. *(Âm thanh vang bao lâu phụ thuộc vào kích thước phòng và lượng âm bị hút đi.)*
-- C. Seat cushions make music sound warmer and fuller. *(Đệm ghế làm nhạc nghe ấm và dày hơn.)*
+- A. Students understand speakers better in bigger, more crowded rooms. *(Sinh viên hiểu người giảng tốt hơn trong phòng lớn và đông người hơn.)*
+- B. A sound's duration depends on the room's size and how much its surfaces absorb. *(Thời gian một âm thanh kéo dài phụ thuộc vào kích thước phòng và mức hút âm của các bề mặt.)*
+- C. Seat cushions make music sound warmer and fuller in every hall. *(Đệm ghế khiến âm nhạc ấm và đầy hơn ở mọi phòng hoà nhạc.)*
 - D. Sound travels faster in quiet buildings. *(Âm thanh đi nhanh hơn trong toà nhà yên tĩnh.)*
 
 **35. In the sentence about too much reverberation, what does "a blur" mean?**
 *(Trong câu nói về độ vang quá nhiều, "a blur" nghĩa là gì?)*
 
-- A. something that is too quiet to be heard at all *(thứ quá nhỏ để nghe thấy)*
+- A. something so quiet that listeners at the back cannot hear it *(thứ nhỏ đến mức người ngồi cuối không nghe thấy)*
 - B. something that is dry and lifeless *(thứ khô khan, thiếu sức sống)*
-- C. something that moves too fast to see *(thứ chuyển động quá nhanh để nhìn thấy)*
-- D. something that cannot be heard clearly because the sounds run together *(thứ không nghe rõ được vì các âm chồng lên nhau)*
+- C. something moving too fast for the eye to follow *(thứ chuyển động quá nhanh, mắt không theo kịp)*
+- D. sounds that run together and become hard to tell apart *(âm thanh dính vào nhau đến mức khó phân biệt)*
 
 **36. Why does the writer mention Boston's Symphony Hall?**
 *(Vì sao tác giả nhắc tới Symphony Hall ở Boston?)*
 
 - A. as an example of a hall built purely by luck *(như ví dụ về một phòng được xây hoàn toàn nhờ may mắn)*
-- B. to show that orchestras prefer halls with one second of reverberation *(để cho thấy dàn nhạc thích phòng có độ vang một giây)*
+- B. to show that orchestras prefer one second of reverberation *(để cho thấy dàn nhạc ưa âm vang dài một giây)*
 - C. as evidence that Sabine's science led to a lasting practical success *(như bằng chứng rằng khoa học của Sabine đã mang lại một thành công thực tế lâu dài)*
 - D. to suggest that old halls are always better than new ones *(để ngụ ý rằng phòng cũ luôn hay hơn phòng mới)*
 
 **37. According to recent studies, why might shoebox halls be so admired?**
 *(Theo các nghiên cứu gần đây, vì sao phòng hình hộp giày có thể được ngưỡng mộ đến vậy?)*
 
-- A. Sound reflected from the side walls makes music feel richer and more involving. *(Âm phản xạ từ tường bên làm nhạc rộng hơn và cuốn người nghe hơn.)*
-- B. Their seats rise in steps all around the stage. *(Hàng ghế của chúng dâng thành bậc quanh sân khấu.)*
-- C. They have very little reverberation. *(Chúng có rất ít độ vang.)*
-- D. They are cheaper to build than other shapes. *(Chúng rẻ hơn khi xây so với các hình dạng khác.)*
+- A. Reflections from the side walls make the music feel richer. *(Âm phản xạ từ hai tường bên khiến âm nhạc đầy đặn hơn.)*
+- B. Their seats rise in steps all around the stage, near the musicians. *(Ghế của chúng xếp bậc quanh sân khấu, gần nhạc công hơn.)*
+- C. They have very little reverberation, so every note sounds clear. *(Chúng có rất ít âm vang nên nốt nào cũng nghe rõ.)*
+- D. They are cheaper to build than halls with more adventurous shapes. *(Chúng rẻ hơn để xây so với những phòng có hình dáng táo bạo hơn.)*
 
 **38. What does the writer imply about halls "built long before anyone understood why they worked"?**
 *(Tác giả ngụ ý gì về những phòng "xây từ rất lâu trước khi có ai hiểu vì sao chúng nghe hay"?)*
 
 - A. They were designed by Sabine before he became famous. *(Chúng do Sabine thiết kế trước khi ông nổi tiếng.)*
-- B. Their builders succeeded without knowing the science behind their success. *(Người xây chúng đã thành công mà không biết khoa học đằng sau thành công đó.)*
+- B. Their builders succeeded without understanding the science. *(Người xây đã thành công mà không hiểu khoa học đằng sau.)*
 - C. They no longer sound good to modern listeners. *(Với người nghe hiện đại chúng không còn hay nữa.)*
 - D. Their shape was chosen because it was fashionable at the time. *(Hình dạng của chúng được chọn vì đang thịnh hành thời đó.)*
 
 **39. Why do halls with seats all around the stage need more careful engineering?**
 *(Vì sao phòng có ghế bao quanh sân khấu cần tính toán kỹ hơn?)*
 
-- A. They are always much bigger than shoebox halls. *(Chúng luôn lớn hơn nhiều so với phòng hộp giày.)*
-- B. Musicians cannot hear each other on such stages. *(Nhạc công trên sân khấu như vậy không nghe được nhau.)*
+- A. They are always much bigger than shoebox halls and hold more people. *(Chúng luôn lớn hơn nhiều so với phòng hình hộp giày và chứa nhiều người hơn.)*
+- B. Musicians cannot hear each other on stages surrounded by seats. *(Nhạc công không nghe được nhau trên sân khấu bị ghế bao quanh.)*
 - C. Computer models cannot be used to test them. *(Không thể dùng mô hình máy tính để thử chúng.)*
-- D. They mostly lack the side walls that provide useful reflections in a shoebox. *(Chúng gần như thiếu hai tường bên vốn tạo âm phản xạ có ích trong phòng hộp giày.)*
+- D. They lack most of the useful side walls of a shoebox. *(Chúng thiếu phần lớn những bức tường bên hữu ích của phòng hình hộp giày.)*
 
 **40. What does the writer mean by "deciding whether the room has disappeared"?**
 *(Tác giả muốn nói gì qua cụm "tự thấy căn phòng đã biến mất hay chưa"?)*
 
 - A. Audiences prefer to listen to music with the lights turned off. *(Khán giả thích nghe nhạc khi tắt đèn.)*
 - B. Modern halls are often too dark for people to see the walls. *(Phòng hiện đại thường quá tối nên không thấy tường.)*
-- C. A great hall lets listeners forget the room and simply experience the music. *(Một phòng hoà nhạc tuyệt vời giúp người nghe quên căn phòng và chỉ còn cảm nhận âm nhạc.)*
+- C. A great hall lets listeners forget the room and hear only the music. *(Một phòng hay khiến người nghe quên căn phòng và chỉ còn nghe thấy âm nhạc.)*
 - D. Good acoustics can be calculated as exactly as a bridge. *(Âm thanh tốt có thể tính chính xác như một cây cầu.)*
 
 ---
@@ -572,7 +572,7 @@
 >
 > Consider investors. Researchers have found that people who have just made a profit are often more willing to take risks with it, as if the gains were somehow not really theirs. Or consider the many households that keep savings in an account paying almost no interest while paying high interest on a credit card or an overdraft at the same time. Paying off the debt would leave them better off, but emptying the "savings" account feels like a sacrifice, even though the debt costs them far more than the savings earn.
 >
-> Mental accounting is not entirely foolish, however. Many people use it deliberately as a form of self-control: by labeling one account "emergency fund" and refusing to touch it, they build a buffer against sudden changes that willpower alone might never have produced. Similarly, someone who receives an inheritance from a grandparent may choose to keep it apart, not for financial reasons but because it carries sentimental value. The rules, in other words, can protect us as well as mislead us.
+> Mental accounting is not entirely foolish, however. Many people use it deliberately as a form of self-control: by labeling one account "emergency fund" and refusing to touch it, they build a buffer against unexpected expenses, one that willpower alone might never have produced. Similarly, someone who receives an inheritance from a grandparent may choose to keep it apart, not for financial reasons but because it carries sentimental value. The rules, in other words, can protect us as well as mislead us.
 >
 > What Thaler's work suggests, then, is not that we should get rid of our mental accounts but that we should notice them. Before spending money you did not expect, it is worth asking a simple question: if this had come from my salary, would I still spend it this way? If the answer is no, the money is probably being squandered, not because it was free, but because we treated it as if it were.
 
@@ -596,7 +596,7 @@
 | 14 | Or consider the many households that keep savings in an account paying almost no interest while paying high interest on a credit card or an overdraft at the same time. | Hoặc hãy xem rất nhiều hộ gia đình giữ tiền tiết kiệm trong một tài khoản gần như không có lãi, trong khi cùng lúc trả lãi cao cho thẻ tín dụng hoặc khoản thấu chi. |
 | 15 | Paying off the debt would leave them better off, but emptying the "savings" account feels like a sacrifice, even though the debt costs them far more than the savings earn. | Trả hết nợ sẽ giúp họ khá hơn, nhưng rút cạn tài khoản "tiết kiệm" lại có cảm giác như một sự hy sinh, dù khoản nợ tốn của họ nhiều hơn hẳn số lãi mà tiền tiết kiệm sinh ra. |
 | 16 | Mental accounting is not entirely foolish, however. | Tuy vậy, kế toán tinh thần không hoàn toàn dại dột. |
-| 17 | Many people use it deliberately as a form of self-control: by labeling one account "emergency fund" and refusing to touch it, they build a buffer against sudden changes that willpower alone might never have produced. | Nhiều người cố ý dùng nó như một cách tự kiểm soát: bằng việc dán nhãn một tài khoản là "quỹ khẩn cấp" và nhất quyết không động vào, họ tạo được một tấm đệm trước những thay đổi đột ngột mà chỉ riêng ý chí có lẽ không bao giờ làm được. |
+| 17 | Many people use it deliberately as a form of self-control: by labeling one account "emergency fund" and refusing to touch it, they build a buffer against unexpected expenses, one that willpower alone might never have produced. | Nhiều người cố ý dùng nó như một cách tự kiểm soát: bằng việc dán nhãn một tài khoản là "quỹ khẩn cấp" và nhất quyết không động vào, họ tạo được một tấm đệm trước những khoản chi bất ngờ, điều mà chỉ riêng ý chí có lẽ không bao giờ làm được. |
 | 18 | Similarly, someone who receives an inheritance from a grandparent may choose to keep it apart, not for financial reasons but because it carries sentimental value. | Tương tự, người nhận một khoản thừa kế từ ông bà có thể chọn để riêng nó ra, không vì lý do tài chính mà vì nó mang giá trị tình cảm. |
 | 19 | The rules, in other words, can protect us as well as mislead us. | Nói cách khác, những luật ấy có thể bảo vệ ta cũng như đánh lừa ta. |
 | 20 | What Thaler's work suggests, then, is not that we should get rid of our mental accounts but that we should notice them. | Vậy điều công trình của Thaler gợi ý không phải là ta nên vứt bỏ các tài khoản trong đầu, mà là ta nên nhận ra chúng. |
@@ -609,7 +609,7 @@
 *(Vì sao tác giả mở đầu bằng ví dụ tiền tìm thấy trong áo khoác cũ?)*
 
 - A. to warn readers to check their pockets before washing clothes *(để nhắc độc giả kiểm tra túi trước khi giặt đồ)*
-- B. to introduce a common habit that lies at the center of an important theory *(để giới thiệu một thói quen phổ biến nằm ở trung tâm một lý thuyết quan trọng)*
+- B. to introduce a common habit behind an important theory *(để giới thiệu một thói quen phổ biến nằm ở gốc một lý thuyết quan trọng)*
 - C. to show that most people are careless with large bills *(để cho thấy đa số người ta bất cẩn với tờ tiền mệnh giá lớn)*
 - D. to explain how Richard Thaler first became interested in money *(để giải thích Richard Thaler bắt đầu quan tâm tới tiền thế nào)*
 
@@ -617,15 +617,15 @@
 *(Theo bài, ý chính của Thaler là gì?)*
 
 - A. Most people are simply bad at managing money. *(Đa số người ta đơn giản là quản lý tiền kém.)*
-- B. People should keep all their money in one bank account. *(Người ta nên giữ toàn bộ tiền trong một tài khoản ngân hàng.)*
-- C. People sort money into mental categories, each treated by different rules. *(Con người xếp tiền vào các ngăn trong đầu, mỗi ngăn được đối xử theo luật khác nhau.)*
-- D. Unexpected money should always be saved, never spent. *(Tiền bất ngờ luôn phải để dành, không bao giờ được tiêu.)*
+- B. People should keep all their money together in a single bank account. *(Người ta nên giữ toàn bộ tiền chung trong một tài khoản ngân hàng.)*
+- C. People sort money into mental accounts with different rules. *(Người ta chia tiền vào các tài khoản trong đầu với những quy tắc khác nhau.)*
+- D. Unexpected money should always be saved and never spent on fun. *(Tiền bất ngờ luôn phải để dành, không bao giờ tiêu cho vui.)*
 
 **43. How do people often treat money that arrives unexpectedly?**
 *(Người ta thường đối xử với tiền đến bất ngờ thế nào?)*
 
 - A. as if it were less real than the money they earn *(như thể nó kém "thật" hơn tiền họ kiếm được)*
-- B. more seriously than money for rent *(nghiêm túc hơn tiền thuê nhà)*
+- B. more seriously than the money they set aside for rent *(nghiêm túc hơn cả khoản tiền để dành trả tiền thuê nhà)*
 - C. as money that must be given back *(như tiền phải trả lại)*
 - D. as money that should go into an emergency fund *(như tiền phải bỏ vào quỹ khẩn cấp)*
 
@@ -640,16 +640,16 @@
 **45. What does the example of investors suggest?**
 *(Ví dụ về các nhà đầu tư gợi ý điều gì?)*
 
-- A. Investors are more careful than ordinary households. *(Nhà đầu tư cẩn thận hơn các hộ gia đình bình thường.)*
-- B. Making a profit always leads to further profits. *(Có lãi luôn dẫn tới thêm lãi.)*
-- C. People take bigger risks with money they feel they did not really earn. *(Người ta mạo hiểm hơn với khoản tiền họ cảm thấy mình không thật sự làm ra.)*
+- A. Investors are more careful with their profits than ordinary households. *(Nhà đầu tư thận trọng với tiền lời hơn các hộ gia đình bình thường.)*
+- B. Making a profit always leads to further and bigger profits. *(Có lời thì luôn dẫn tới những khoản lời tiếp theo và lớn hơn.)*
+- C. People risk more with gains that feel not truly theirs. *(Người ta liều hơn với khoản lời mà họ thấy không hẳn là của mình.)*
 - D. Investors usually spend their profits on televisions. *(Nhà đầu tư thường tiêu tiền lãi vào tivi.)*
 
 **46. Why is the behavior of households with both savings and expensive debt described as unwise?**
 *(Vì sao hành vi của những hộ vừa có tiền tiết kiệm vừa mang nợ lãi cao bị coi là thiếu khôn ngoan?)*
 
 - A. They spend all their savings on holidays. *(Họ tiêu hết tiền tiết kiệm vào kỳ nghỉ.)*
-- B. Their debt costs more than their savings earn, yet they keep both. *(Nợ tốn nhiều hơn số lãi tiết kiệm sinh ra, vậy mà họ vẫn giữ cả hai.)*
+- B. Their debt costs more than their savings earn. *(Khoản nợ tốn nhiều hơn số tiền tiết kiệm sinh ra.)*
 - C. They have no savings account at all. *(Họ hoàn toàn không có tài khoản tiết kiệm.)*
 - D. Their bank refuses to let them pay off their debt. *(Ngân hàng không cho họ trả hết nợ.)*
 
@@ -658,23 +658,23 @@
 
 - A. balanced: it can also be a useful tool for self-control *(cân bằng: nó cũng có thể là công cụ tự kiểm soát hữu ích)*
 - B. completely negative: it should be avoided at all costs *(hoàn toàn tiêu cực: phải tránh bằng mọi giá)*
-- C. uninterested: it matters only to professional economists *(thờ ơ: nó chỉ quan trọng với nhà kinh tế chuyên nghiệp)*
+- C. uninterested: it matters only to economists *(thờ ơ: nó chỉ quan trọng với giới kinh tế học)*
 - D. amused: it is a funny habit with no real effects *(buồn cười: đó là thói quen vui vẻ, không có tác động thật)*
 
 **48. Why does the writer mention an inheritance from a grandparent?**
 *(Vì sao tác giả nhắc tới khoản thừa kế từ ông bà?)*
 
 - A. to show that inheritances are usually squandered *(để cho thấy tiền thừa kế thường bị phung phí)*
-- B. to explain how to invest an inheritance wisely *(để giải thích cách đầu tư tiền thừa kế khôn ngoan)*
+- B. to explain how an inheritance can be invested wisely over many years *(để giải thích cách đầu tư khôn ngoan một khoản thừa kế trong nhiều năm)*
 - C. to prove that grandparents are better with money *(để chứng minh ông bà giỏi quản lý tiền hơn)*
-- D. to show that keeping money separate can have good reasons that are not financial *(để cho thấy việc để riêng tiền có thể có lý do chính đáng không thuộc về tài chính)*
+- D. to show that keeping money apart can have non-financial reasons *(để cho thấy việc để riêng một khoản tiền có thể vì lý do không liên quan tới tài chính)*
 
 **49. What is the purpose of the question "if this had come from my salary, would I still spend it this way?"**
 *(Câu hỏi "if this had come from my salary, would I still spend it this way?" có mục đích gì?)*
 
-- A. It asks readers to report their spending to the writer. *(Nó yêu cầu độc giả báo cáo chi tiêu cho tác giả.)*
-- B. It gives readers a practical test to notice their own mental accounts. *(Nó cho độc giả một phép thử thực tế để nhận ra các tài khoản trong đầu của mình.)*
-- C. It suggests that money from a salary should never be spent. *(Nó gợi ý rằng tiền lương không bao giờ nên tiêu.)*
+- A. It asks readers to send a report of their spending to the writer. *(Nó đề nghị người đọc gửi báo cáo chi tiêu của mình cho người viết.)*
+- B. It gives readers a simple test to notice their mental accounts. *(Nó cho người đọc một phép thử đơn giản để nhận ra các tài khoản trong đầu mình.)*
+- C. It suggests that money from a salary should never be spent on treats. *(Nó gợi ý rằng tiền lương không bao giờ nên tiêu vào những thứ để tự thưởng.)*
 - D. It shows that Thaler's theory has been proved wrong. *(Nó cho thấy lý thuyết của Thaler đã bị chứng minh là sai.)*
 
 **50. What does the final sentence imply?**
@@ -683,7 +683,7 @@
 - A. Unexpected money is always wasted. *(Tiền bất ngờ lúc nào cũng bị lãng phí.)*
 - B. Free money should be returned to the person who gave it. *(Tiền cho không nên được trả lại người cho.)*
 - C. People who save unexpected money are being foolish. *(Người để dành tiền bất ngờ là dại dột.)*
-- D. The real problem is our attitude towards the money, not where it came from. *(Vấn đề thật là thái độ của ta với khoản tiền, chứ không phải nguồn gốc của nó.)*
+- D. The real problem is how we treat the money, not its source. *(Vấn đề thật nằm ở cách ta đối xử với khoản tiền, không phải nguồn gốc của nó.)*
 
 ---
 
@@ -697,7 +697,7 @@
 >
 > Here is how it happened. In June we finished three large projects, including a new logo and menu for a restaurant on Ocean Avenue, and I sent out invoices worth just over $11,000. On paper, it was our best month ever. In practice, the money arrived in pieces: one invoice was paid after forty days, another after sixty, and the third only after I had sent four increasingly polite emails. Meanwhile, the rent, Ruby's and Sam's pay and the software we depend on all had to be paid on the first of every month, whether our clients had paid us or not.
 >
-> By the middle of August, I had racked up a bank overdraft that I was ashamed to tell anyone about, Ruby included. Although the studio was profitable on paper, we were, for about three weeks, almost out of cash. That is the difference between profit and cash flow, and nobody at art school ever explained it to me.
+> By the middle of August, I had racked up a bank overdraft that I was ashamed to tell anyone about, Ruby included. Although the studio was profitable on paper, we were, for about three weeks, almost out of cash. That is the difference between profit and cash flow, and nobody in my evening design class ever explained it to me.
 >
 > My best friend Leah, who is far better with spreadsheets than I am, sat with me one evening and helped me make four changes. I share them here because I suspect I am not the only freelancer who has learned this the hard way.
 >
@@ -709,7 +709,7 @@
 >
 > 4. I stopped saying yes to every job, because a small project from a difficult client can cost more in time and stress than it earns, however good it looks in our portfolio.
 >
-> None of this is exciting, and it has meant some sacrifices: we have put off buying a second large printer, and I no longer splash out on lunch for the team every Friday, much to Sam's disappointment. But since we made these changes, our income has been only marginally higher, and yet I sleep far better, and our account has not gone below zero once.
+> None of this is exciting, and it has meant some sacrifices: we have put off buying a second large printer, and I no longer splash out on lunch for the team every Friday, much to Sam's disappointment. Since we made these changes, our income has risen only marginally, and yet I sleep far better, and our account has not gone below zero once.
 >
 > If you are thinking of opening your own studio, by all means work on your portfolio and your prices, but learn to love the boring spreadsheet as well. A studio rarely closes because its work is bad; far more often, it closes because the money arrived too late.
 
@@ -728,16 +728,16 @@
 | 9 | Meanwhile, the rent, Ruby's and Sam's pay and the software we depend on all had to be paid on the first of every month, whether our clients had paid us or not. | Trong khi đó, tiền thuê chỗ, lương của Ruby và Sam, và phần mềm chúng tôi phụ thuộc vào đều phải trả vào ngày đầu mỗi tháng, dù khách đã trả chúng tôi hay chưa. |
 | 10 | By the middle of August, I had racked up a bank overdraft that I was ashamed to tell anyone about, Ruby included. | Tới giữa tháng Tám, tôi đã dồn lên một khoản thấu chi ngân hàng mà tôi xấu hổ không dám kể với ai, kể cả Ruby. |
 | 11 | Although the studio was profitable on paper, we were, for about three weeks, almost out of cash. | Dù trên giấy tờ studio có lãi, suốt khoảng ba tuần chúng tôi gần như cạn tiền mặt. |
-| 12 | That is the difference between profit and cash flow, and nobody at art school ever explained it to me. | Đó chính là khác biệt giữa lợi nhuận và dòng tiền, và hồi học trường mỹ thuật chưa ai từng giải thích cho tôi điều đó. |
+| 12 | That is the difference between profit and cash flow, and nobody in my evening design class ever explained it to me. | Đó chính là khác biệt giữa lợi nhuận và dòng tiền, và hồi học lớp thiết kế buổi tối chưa ai từng giải thích cho tôi điều đó. |
 | 13 | My best friend Leah, who is far better with spreadsheets than I am, sat with me one evening and helped me make four changes. | Leah, bạn thân của tôi, người giỏi bảng tính hơn tôi nhiều, đã ngồi với tôi một buổi tối và giúp tôi thay đổi bốn điều. |
 | 14 | I share them here because I suspect I am not the only freelancer who has learned this the hard way. | Tôi chia sẻ ở đây vì tôi đoán mình không phải người làm tự do duy nhất phải học bài này theo cách đau đớn. |
 | 15 | We now ask for half of the fee before we start any project worth more than $1,000; prospective clients who refuse to pay anything in advance are, in my estimation, telling us something useful. | Giờ chúng tôi yêu cầu trả trước một nửa phí trước khi bắt đầu bất kỳ dự án nào trên 1.000 đô; theo đánh giá của tôi, những khách tiềm năng không chịu trả trước đồng nào đang cho chúng tôi biết một điều có ích. |
 | 16 | Every invoice is issued on the day the work is delivered, not when I find time, and payment is due in fourteen days rather than thirty. | Mọi hoá đơn được xuất ngay trong ngày giao sản phẩm, chứ không phải khi nào tôi rảnh, và hạn thanh toán là mười bốn ngày thay vì ba mươi. |
-| 17 | We set aside a fixed fraction of every payment, currently fifteen percent, in a separate account that nobody is allowed to touch. | Chúng tôi trích một phần cố định của mỗi khoản thanh toán, hiện là mười lăm phần trăm, vào một tài khoản riêng mà tôi coi là không được đụng tới. |
+| 17 | We set aside a fixed fraction of every payment, currently fifteen percent, in a separate account that nobody is allowed to touch. | Chúng tôi trích một phần cố định của mỗi khoản thanh toán, hiện là mười lăm phần trăm, vào một tài khoản riêng mà không ai được phép đụng tới. |
 | 18 | It is our buffer for the slack season, which for designers usually arrives in January, when clients have spent their budgets. | Đó là tấm đệm của chúng tôi cho mùa ế khách, mà với dân thiết kế thường tới vào tháng Một, khi khách đã tiêu hết ngân sách. |
 | 19 | I stopped saying yes to every job, because a small project from a difficult client can cost more in time and stress than it earns, however good it looks in our portfolio. | Tôi thôi nhận mọi việc, vì một dự án nhỏ từ một khách khó tính có thể tốn nhiều thời gian và căng thẳng hơn số tiền nó mang lại, dù nó trông đẹp đến đâu trong hồ sơ năng lực của chúng tôi. |
 | 20 | None of this is exciting, and it has meant some sacrifices: we have put off buying a second large printer, and I no longer splash out on lunch for the team every Friday, much to Sam's disappointment. | Chẳng điều nào trong số này thú vị cả, và nó cũng đòi hỏi vài hy sinh: chúng tôi đã hoãn mua chiếc máy in khổ lớn thứ hai, và tôi không còn chiêu đãi cả nhóm bữa trưa mỗi thứ Sáu nữa, khiến Sam rất tiếc nuối. |
-| 21 | But since we made these changes, our income has been only marginally higher, and yet I sleep far better, and our account has not gone below zero once. | Nhưng từ khi thay đổi, thu nhập của chúng tôi chỉ nhích lên chút ít, vậy mà tôi ngủ ngon hơn hẳn, và tài khoản chưa một lần xuống dưới số không. |
+| 21 | Since we made these changes, our income has risen only marginally, and yet I sleep far better, and our account has not gone below zero once. | Từ khi thay đổi, thu nhập của chúng tôi chỉ nhích lên chút ít, vậy mà tôi ngủ ngon hơn hẳn, và tài khoản chưa một lần xuống dưới số không. |
 | 22 | If you are thinking of opening your own studio, by all means work on your portfolio and your prices, but learn to love the boring spreadsheet as well. | Nếu bạn đang tính mở studio riêng, cứ việc chăm chút hồ sơ năng lực và bảng giá, nhưng hãy học cách yêu cả bảng tính nhàm chán nữa. |
 | 23 | A studio rarely closes because its work is bad; far more often, it closes because the money arrived too late. | Một studio hiếm khi đóng cửa vì làm việc kém; thường hơn nhiều, nó đóng cửa vì tiền về quá muộn. |
 
@@ -748,14 +748,14 @@
 
 - A. Finding clients took much longer than she had planned. *(Tìm khách mất nhiều thời gian hơn cô dự tính.)*
 - B. Her team did not want to work on large projects. *(Nhóm của cô không muốn làm dự án lớn.)*
-- C. The rent on Ocean Avenue was higher than expected. *(Tiền thuê trên đại lộ Ocean cao hơn dự kiến.)*
+- C. The rent for the studio on Ocean Avenue was higher than expected. *(Tiền thuê studio trên đại lộ Ocean cao hơn dự kiến.)*
 - D. Getting paid turned out to be harder than finding clients. *(Hoá ra được trả tiền khó hơn tìm khách.)*
 
 **52. What does Chloe imply with the words "On paper, it was our best month ever"?**
 *(Chloe ngụ ý gì qua câu "Trên giấy tờ, đó là tháng tốt nhất từ trước tới nay"?)*
 
 - A. The studio had made more money than in any other month. *(Studio kiếm được nhiều tiền hơn mọi tháng khác.)*
-- B. The work had been done and billed, but the money had not actually arrived. *(Việc đã làm và đã xuất hoá đơn, nhưng tiền thì thực ra chưa về.)*
+- B. The work was billed, but the money had not yet arrived. *(Việc đã làm và đã gửi hoá đơn, nhưng tiền thì chưa về.)*
 - C. She had kept all the studio's records on paper instead of a computer. *(Cô ghi chép mọi sổ sách của studio trên giấy thay vì máy tính.)*
 - D. She had made a mistake when adding up the invoices. *(Cô đã cộng nhầm các hoá đơn.)*
 
@@ -764,54 +764,54 @@
 
 - A. It had bought a second large printer. *(Studio đã mua chiếc máy in khổ lớn thứ hai.)*
 - B. It had lost its biggest client to another studio. *(Studio mất khách lớn nhất vào tay một studio khác.)*
-- C. Its regular costs had to be paid on time while clients paid late. *(Các khoản chi cố định phải trả đúng hạn trong khi khách trả muộn.)*
+- C. Fixed costs were due on time, but clients paid late. *(Chi phí cố định phải trả đúng hạn, còn khách thì trả chậm.)*
 - D. It had paid Ruby and Sam twice by mistake. *(Studio trả lương cho Ruby và Sam hai lần do nhầm.)*
 
 **54. What does the phrase "Ruby included" suggest?**
 *(Cụm "kể cả Ruby" gợi ý điều gì?)*
 
-- A. Chloe was so embarrassed that she hid the problem even from a close colleague. *(Chloe xấu hổ đến mức giấu chuyện này ngay cả với một đồng nghiệp thân.)*
-- B. Ruby was responsible for the studio's overdraft. *(Ruby phải chịu trách nhiệm về khoản thấu chi của studio.)*
-- C. Ruby had warned Chloe about the problem in June. *(Ruby đã cảnh báo Chloe từ tháng Sáu.)*
-- D. Ruby also had an overdraft at the same bank. *(Ruby cũng có khoản thấu chi ở cùng ngân hàng.)*
+- A. Chloe hid the problem even from a close colleague. *(Chloe giấu chuyện này ngay cả với một đồng nghiệp thân.)*
+- B. Ruby had caused the overdraft by sending the June invoices late. *(Ruby gây ra khoản thấu chi vì gửi hoá đơn tháng Sáu muộn.)*
+- C. Ruby had warned Chloe about slow-paying clients back in June. *(Ruby đã cảnh báo Chloe về những khách trả chậm từ hồi tháng Sáu.)*
+- D. Ruby was having similar money problems with the same bank. *(Ruby cũng đang gặp rắc rối tiền bạc tương tự với cùng ngân hàng.)*
 
 **55. What is the main lesson Chloe learned in August?**
 *(Bài học chính Chloe rút ra hồi tháng Tám là gì?)*
 
 - A. A business can be profitable and still run out of cash. *(Một doanh nghiệp có thể có lãi mà vẫn cạn tiền mặt.)*
-- B. Art school does not teach students how to design logos. *(Trường mỹ thuật không dạy sinh viên thiết kế logo.)*
+- B. Evening design classes do not teach students how to design logos. *(Các lớp thiết kế buổi tối không dạy học viên cách thiết kế logo.)*
 - C. Restaurants are the most difficult clients to work for. *(Nhà hàng là khách khó làm nhất.)*
 - D. A studio should never borrow money from a bank. *(Một studio không bao giờ nên vay tiền ngân hàng.)*
 
 **56. What is Chloe's view of clients who refuse to pay anything in advance?**
 *(Chloe nhìn nhận thế nào về những khách không chịu trả trước đồng nào?)*
 
-- A. They are usually the most profitable clients. *(Họ thường là những khách mang lại nhiều lãi nhất.)*
+- A. They are usually the most profitable and loyal clients a studio has. *(Họ thường là những khách hàng sinh lời và trung thành nhất của một studio.)*
 - B. They should be offered a lower price. *(Nên giảm giá cho họ.)*
-- C. They are simply following normal business practice. *(Họ chỉ làm theo thông lệ kinh doanh bình thường.)*
+- C. They are simply following normal business practice in the design world. *(Họ chỉ đang làm theo thông lệ kinh doanh bình thường trong ngành thiết kế.)*
 - D. Their refusal is a useful warning sign about working with them. *(Việc họ từ chối là một dấu hiệu cảnh báo có ích về việc làm với họ.)*
 
 **57. What is the separate account for?**
 *(Tài khoản riêng dùng để làm gì?)*
 
-- A. to buy a second large printer next year *(để mua chiếc máy in khổ lớn thứ hai vào năm sau)*
-- B. to pay for the team's Friday lunches *(để trả cho bữa trưa thứ Sáu của nhóm)*
-- C. to cover costs during the quiet months when there is little work *(để trang trải chi phí trong những tháng vắng việc)*
-- D. to pay back Leah for her help *(để trả công Leah đã giúp đỡ)*
+- A. to save up for a second large printer once business improves *(để dành tiền mua chiếc máy in lớn thứ hai khi làm ăn khá lên)*
+- B. to pay for the team's Friday lunches without touching other money *(để trả bữa trưa thứ Sáu của nhóm mà không đụng tới tiền khác)*
+- C. to cover costs in the slack season *(để trang trải chi phí trong mùa ế ẩm)*
+- D. to pay Leah back for the evening she spent on the spreadsheets *(để trả công Leah cho buổi tối cô ấy ngồi làm bảng tính)*
 
 **58. Why did Chloe stop saying yes to every job?**
 *(Vì sao Chloe thôi nhận mọi việc?)*
 
 - A. Her team was too small to work on more than one project. *(Nhóm của cô quá nhỏ để làm nhiều hơn một dự án.)*
-- B. Some small jobs cost more in time and stress than they bring in. *(Có những việc nhỏ tốn thời gian và căng thẳng hơn số tiền mang lại.)*
-- C. She wanted to spend more time on her portfolio. *(Cô muốn dành thêm thời gian cho hồ sơ năng lực.)*
+- B. Small jobs can cost more in stress and time than they pay. *(Việc nhỏ có thể tốn nhiều căng thẳng và thời gian hơn số tiền nó trả.)*
+- C. She wanted to spend more of her time improving her own portfolio. *(Cô muốn dành nhiều thời gian hơn để trau chuốt hồ sơ năng lực của mình.)*
 - D. Large projects never look good in a portfolio. *(Dự án lớn không bao giờ đẹp trong hồ sơ năng lực.)*
 
 **59. What does "much to Sam's disappointment" suggest?**
 *(Cụm "khiến Sam rất tiếc nuối" gợi ý điều gì?)*
 
 - A. Sam had wanted the studio to buy a new printer. *(Sam từng muốn studio mua máy in mới.)*
-- B. Sam disagreed with all four of the changes. *(Sam phản đối cả bốn thay đổi.)*
+- B. Sam disagreed with all four of the changes Leah suggested. *(Sam không đồng ý với cả bốn thay đổi Leah đề xuất.)*
 - C. Sam had enjoyed the Friday lunches and missed them. *(Sam từng rất thích bữa trưa thứ Sáu và tiếc vì không còn.)*
 - D. Sam had to pay for his own lunch every day. *(Sam phải tự trả tiền ăn trưa mỗi ngày.)*
 
@@ -820,8 +820,8 @@
 
 - A. Managing money carefully matters as much as doing good work. *(Quản lý tiền cẩn thận quan trọng không kém làm ra sản phẩm tốt.)*
 - B. People should not open a studio without a business degree. *(Không nên mở studio nếu không có bằng kinh doanh.)*
-- C. Good design work is less important than low prices. *(Thiết kế tốt kém quan trọng hơn giá rẻ.)*
-- D. Most studios close because their work is bad. *(Phần lớn studio đóng cửa vì làm việc kém.)*
+- C. Good design work is less important than keeping prices low. *(Làm thiết kế tốt kém quan trọng hơn giữ giá thấp.)*
+- D. Most studios close because their work is bad. *(Phần lớn studio đóng cửa vì làm không tốt.)*
 
 ---
 
@@ -870,14 +870,14 @@
 | 26 | **A** | Câu 15: "she does not ask us to pity her, which is exactly why we do". |
 | 27 | **D** | Câu 16: "Her best scene contains almost no dialogue" — giọng vỡ ở câu hát không hát hết được: cảm xúc truyền qua hình ảnh và giọng, không qua lời. |
 | 28 | **C** | Câu 18–19: "it feels borrowed from a different, more ordinary movie" — sau hai tiếng chính kịch tinh tế, người viết muốn đạo diễn "tone down the thunder". |
-| 29 | **A** | Câu 20: "A second story about an insurance investigator is also never finished, as if…" — as if + quá khứ hoàn thành: chỉ là cảm giác, không phải sự thật đã bị cắt. |
+| 29 | **A** | Câu 20: "A subplot about an insurance investigator is also never resolved, as if…" — as if + quá khứ hoàn thành: chỉ là cảm giác, không phải sự thật đã bị cắt. |
 | 30 | **B** | Câu 23–24: "Not many." — câu hỏi tu từ, tự trả lời ngay: phim này là trường hợp hiếm, nên người viết khuyên "go and see it". |
 | 31 | **C** | Câu 6: "Nothing has changed except the room, and yet the experience could hardly be more different." |
 | 32 | **A** | Câu 7: "builders achieved good acoustics largely by luck, or by copying halls that already worked". |
 | 33 | **D** | Câu 9: "Working at night, when the building was quiet" — ông đo âm thanh tắt dần nên cần yên tĩnh (suy luận). |
 | 34 | **B** | Câu 10: "the time a sound continues depends on the size of a room and on how much of the sound its surfaces absorb". |
 | 35 | **D** | Câu 12: "each note runs into the next, so that speech in particular becomes a blur" — nốt chồng nốt nên nghe không rõ. |
-| 36 | **C** | Câu 14: "he was invited to help design Boston's Symphony Hall, which opened in 1900 and is still praised as one of the best in the world". |
+| 36 | **C** | Câu 14: "the young scientist was invited to help design Boston's Symphony Hall, which opened in 1900 and is still praised as one of the best in the world". |
 | 37 | **A** | Câu 17: "these reflections from the left and right seem to make the music feel richer and more involving". |
 | 38 | **B** | Câu 18: "some of them built long before anyone understood why they worked" — tức là nghe hay nhờ hình dạng chứ không nhờ hiểu biết khoa học (suy luận). |
 | 39 | **D** | Câu 21: "since the side walls that do so much work in a shoebox are largely missing". |

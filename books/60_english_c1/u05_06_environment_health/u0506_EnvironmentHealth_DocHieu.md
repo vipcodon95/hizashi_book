@@ -4,7 +4,7 @@
 >
 > **Nhân vật:** Trevor Carter, Mitchell Carter, Megan Carter, Harriet Brooks · tháng 3 – 4, năm 8
 >
-> **Mục tiêu:** đọc một bài lập luận có số liệu thật về điện năng của AI và một nhật ký bệnh tật nhiều ngày; nhận ra cách người viết đặt câu hỏi rồi trả lời "Yes and no", phân biệt số liệu hiện tại với dự báo, chi tiết hài hước ở cuối bài, câu ngắn mang hàm ý (She did not laugh), và các cấu trúc C1: bị động tương lai hoàn thành, whereby, chủ ngữ là vật (technology has enabled…), ought to have + V3, putative should, must have been + V-ing. Bài 3–6: nhận ra cấu trúc vấn đề → giải pháp của bài khoa học, cách thư đề xuất giữ quan hệ tốt mà vẫn nêu yêu cầu rõ, phân biệt số đã đo với dự báo, cặp not that… but that…, và giọng khen chê có chừng mực của bài điểm sách.
+> **Mục tiêu:** đọc một bài lập luận có số liệu thật về điện năng của AI và một nhật ký bệnh tật nhiều ngày; nhận ra cách người viết đặt câu hỏi rồi trả lời "Yes and no", phân biệt số liệu hiện tại với dự báo, chi tiết hài hước ở cuối bài, câu ngắn mang hàm ý (She did not laugh), và các cấu trúc C1: bị động tương lai hoàn thành, whereby, chủ ngữ là vật (technology has enabled…), ought to have + V3, putative should, must have been + V-ing. Bài 3–6: nhận ra cấu trúc vấn đề → giải pháp của bài khoa học, cách một email đề xuất giữ quan hệ tốt mà vẫn nêu yêu cầu rõ, phân biệt số đã đo với dự báo, cặp not that… but that…, và giọng khen chê có chừng mực của bài điểm sách.
 
 ---
 
@@ -61,8 +61,14 @@
 | bacteria | vi khuẩn |
 | newsletter | bản tin |
 | reusable | dùng lại được |
+| antibiotic | thuốc kháng sinh |
+| compost | phân hữu cơ ủ |
+| deposit | tiền đặt cọc |
+| biodegradable | phân huỷ sinh học |
+| charge nurse | điều dưỡng trưởng ca |
+| sedentary | ít vận động |
 
-> 📌 Cụm hay gặp trong bài: *not because of X, but because of Y* (không phải vì X mà vì Y), *Yes and no.* (Vừa đúng vừa sai.), *in the first place* (ngay từ đầu), *in any meaningful way* (theo cách nào đáng kể), *a matter of* (chuyện, vấn đề về), *ought to have noticed* (lẽ ra phải để ý), *walk off the stress* (đi bộ cho tan căng thẳng), *as she points out* (như cô ấy chỉ ra), *on behalf of* (thay mặt cho), *a considerable improvement* (một cải thiện đáng kể), *keep it in reserve* (giữ làm dự phòng), *not that… but that…* (không phải là… mà là…), *not without weaknesses* (không phải không có điểm yếu).
+> 📌 Cụm hay gặp trong bài: *not because of X, but because of Y* (không phải vì X mà vì Y), *Yes and no.* (Vừa đúng vừa sai.), *in the first place* (ngay từ đầu), *in any meaningful way* (theo cách nào đáng kể), *a matter of* (chuyện, vấn đề về), *ought to have noticed* (lẽ ra phải để ý), *walk off the stress* (đi bộ cho tan căng thẳng), *as she points out* (như cô ấy chỉ ra), *come straight to the point* (vào thẳng vấn đề), *a considerable improvement* (một cải thiện đáng kể), *keep it in reserve* (giữ làm dự phòng), *not that… but that…* (không phải là… mà là…), *not without weaknesses* (không phải không có điểm yếu).
 
 ---
 
@@ -359,8 +365,8 @@
 **21. What is the main purpose of the first paragraph?**
 *(Mục đích chính của đoạn đầu tiên là gì?)*
 
-- A. to explain how a teaspoon of soil is measured in a laboratory *(để giải thích cách đo một thìa đất trong phòng thí nghiệm)*
-- B. to contrast how ordinary soil looks with how much life it actually contains *(để đối lập vẻ ngoài bình thường của đất với lượng sự sống thật sự nó chứa)*
+- A. to explain how scientists count the microorganisms in a single teaspoon of soil *(để giải thích cách các nhà khoa học đếm vi sinh vật trong một thìa đất)*
+- B. to show that plain-looking soil is full of hidden life *(để cho thấy đất trông bình thường nhưng chứa đầy sự sống ẩn giấu)*
 - C. to argue that people should stop walking on fields and parks *(để lập luận rằng mọi người nên ngừng đi bộ trên cánh đồng và công viên)*
 - D. to show that most of the food we eat grows without soil *(để cho thấy phần lớn thực phẩm chúng ta ăn được trồng mà không cần đất)*
 
@@ -369,29 +375,29 @@
 
 - A. forming new soil in a few decades instead of centuries *(tạo ra đất mới trong vài thập kỷ thay vì hàng thế kỷ)*
 - B. growing crops without any need for irrigation *(trồng trọt mà không cần tưới tiêu)*
-- C. feeding billions more people than was once thought possible *(nuôi sống thêm hàng tỷ người, nhiều hơn mức từng được nghĩ là có thể)*
+- C. feeding far more people than once expected *(nuôi được nhiều người hơn hẳn so với dự đoán trước đây)*
 - D. removing all pests from farms without chemicals *(loại bỏ mọi sâu bệnh khỏi trang trại mà không cần hoá chất)*
 
 **23. What does the "hidden cost" refer to?**
 *("Cái giá bị che khuất" là chỉ điều gì?)*
 
-- A. the high price that farmers pay for modern equipment *(giá cao mà nông dân phải trả cho máy móc hiện đại)*
+- A. the high price that farmers now pay for fertilizer, pesticides and irrigation equipment *(giá cao mà nông dân giờ phải trả cho phân bón, thuốc trừ sâu và thiết bị tưới tiêu)*
 - B. the money spent on reports by international organizations *(số tiền chi cho các báo cáo của tổ chức quốc tế)*
 - C. the fact that famine has become less common in some countries *(việc nạn đói trở nên hiếm hơn ở một số nước)*
-- D. the slow loss and damage of soil caused by the same methods that raised production *(sự mất mát và hư hại đất từ từ do chính những phương pháp đã nâng sản lượng gây ra)*
+- D. soil lost and damaged by the methods that raised output *(đất bị mất và hư hại do chính những phương pháp đã tăng sản lượng)*
 
 **24. What does the report by the Food and Agriculture Organization say?**
 *(Báo cáo của Tổ chức Lương thực và Nông nghiệp nói gì?)*
 
-- A. About a third of the world's farmers have stopped using fertilizer. *(Khoảng một phần ba nông dân thế giới đã ngừng dùng phân bón.)*
-- B. About a third of the world's soils are already moderately or highly degraded. *(Khoảng một phần ba đất trên thế giới đã suy thoái ở mức trung bình hoặc nặng.)*
+- A. About a third of the world's farmers have already stopped using chemical fertilizer. *(Khoảng một phần ba nông dân thế giới đã ngừng dùng phân bón hoá học.)*
+- B. About a third of the world's soil is already degraded. *(Khoảng một phần ba đất trên thế giới đã bị suy thoái.)*
 - C. Soil everywhere is less than a foot deep. *(Đất ở mọi nơi đều dày chưa tới ba mươi phân.)*
 - D. Most of the world's soil will recover by the end of the century. *(Phần lớn đất thế giới sẽ hồi phục trước cuối thế kỷ.)*
 
 **25. Why does the writer say that degradation "is not only a matter of how much soil is lost"?**
 *(Vì sao người viết nói suy thoái "không chỉ là chuyện mất bao nhiêu đất"?)*
 
-- A. to introduce the idea that the quality and life of the remaining soil are also harmed *(để mở ra ý rằng chất lượng và sự sống của phần đất còn lại cũng bị tổn hại)*
+- A. to show the soil left behind is also being harmed *(để cho thấy phần đất còn lại cũng đang bị tổn hại)*
 - B. to suggest that the report exaggerated the amount of soil lost *(để ngụ ý rằng báo cáo đã phóng đại lượng đất bị mất)*
 - C. to show that soil loss is no longer a serious problem *(để cho thấy mất đất không còn là vấn đề nghiêm trọng)*
 - D. to change the subject from farming to river transport *(để chuyển chủ đề từ nông nghiệp sang giao thông đường sông)*
@@ -404,13 +410,13 @@
 - C. in a careful and planned way *(theo cách cẩn thận và có kế hoạch)*
 - D. in a way that nobody can explain *(theo cách không ai giải thích được)*
 
-**27. What does the method "whereby seeds are placed directly into the remains of the previous crop" replace?**
-*(Phương pháp "theo đó hạt giống được đặt thẳng vào phần còn lại của vụ trước" thay thế cho việc gì?)*
+**27. How is the article mainly organized?**
+*(Bài được tổ chức chủ yếu theo cách nào?)*
 
-- A. adding compost *(bón phân ủ)*
-- B. planting cover crops *(trồng cây che phủ)*
-- C. moving livestock *(chuyển gia súc đi chỗ khác)*
-- D. plowing the field *(cày ruộng)*
+- A. It compares farming methods in several countries and ranks them from best to worst. *(Nó so sánh cách canh tác ở nhiều nước rồi xếp hạng từ tốt nhất tới tệ nhất.)*
+- B. It traces the history of chemical fertilizer from its invention to the present day. *(Nó kể lại lịch sử phân bón hoá học từ khi được phát minh tới nay.)*
+- C. It lists arguments for and against pesticides and leaves readers to decide. *(Nó liệt kê lý lẽ ủng hộ và phản đối thuốc trừ sâu rồi để người đọc tự quyết.)*
+- D. It describes a problem caused by modern farming, then how soil can recover and at what cost. *(Nó mô tả một vấn đề do nông nghiệp hiện đại gây ra, rồi cách đất có thể hồi phục và cái giá phải trả.)*
 
 **28. What does the writer imply by saying that many of these methods "are older than the chemicals that replaced them"?**
 *(Người viết hàm ý gì khi nói nhiều phương pháp này "lâu đời hơn cả những hoá chất đã thay thế chúng"?)*
@@ -432,70 +438,89 @@
 *(Câu nào mô tả đúng nhất thái độ của người viết về tương lai của đất?)*
 
 - A. certain that the world's farmland is already lost *(chắc chắn rằng đất nông nghiệp thế giới đã mất)*
-- B. unconcerned, because modern farming will solve the problem *(không bận tâm, vì nông nghiệp hiện đại sẽ giải quyết vấn đề)*
-- C. worried about the damage, but hopeful because the damage can be reversed *(lo ngại về sự hư hại nhưng vẫn hy vọng vì hư hại có thể đảo ngược)*
+- B. unconcerned, because modern farming methods will eventually solve the problem on their own *(không bận tâm, vì các phương pháp nông nghiệp hiện đại rồi sẽ tự giải quyết được vấn đề)*
+- C. worried yet hopeful, as damage can be reversed *(lo lắng nhưng hy vọng, vì thiệt hại có thể đảo ngược)*
 - D. angry with farmers for refusing to change *(giận dữ với nông dân vì không chịu thay đổi)*
 
 ---
 
-## Bài đọc 4 (Unit 5) — Thư bà Harriet đề nghị nhà cung cấp cà phê đổi bao bì
+## Bài đọc 4 (Unit 5) — Email bà Harriet đề nghị nhà cung cấp cà phê đổi bao bì
 
-> **A Proposal About Our Deliveries**
+> **An Idea About Our Deliveries**
 >
-> Dear Mr. Daniels,
+> From: Harriet Brooks, Harriet's, Maple Street · To: Rob Daniels, Coastline Coffee Company · March 28
 >
-> I am writing on behalf of Harriet's, the small café on Maple Street that has bought its coffee from Coastline Coffee Company for more than twelve years. You may remember that you were very kind to us a few winters ago, when a broken delivery truck spoiled two of our orders, so I hope you will read this letter as coming from a loyal customer rather than a difficult one.
+> Hi Rob,
 >
-> My concern is packaging. Every week we receive our beans in twenty one-pound bags, each made of layers of plastic and metal, and every week we discard all twenty of them, because they cannot be recycled where we live. That comes to more than a thousand bags a year from one small café, which seems a great deal of waste for a product that is usually finished within a few days of arriving. My customers have started to notice, too; several of the regulars now bring their own cups, and one of them, a retired chemistry teacher, recently asked me, quite politely, why the café still throws away so much plastic.
+> I hope all is well with you, and that your delivery trucks are behaving themselves these days. You were very kind to us a few winters ago, when a broken truck spoiled two of our orders, so please read this as a note from a loyal customer of more than twelve years rather than a difficult one. I will keep this short and come straight to the point, which is packaging.
 >
-> I would like to propose a simple swap. Instead of small bags, could Coastline deliver our beans in bulk, in durable containers that your driver would collect, empty, on the following delivery? I understand that a few other coffee companies already offer such a system, whereby the same containers are cleaned and used again for years. We would happily pay a small deposit on each container, and we are willing to order more at a time, which should make the arrangement cost-effective for both of us. If reusable containers are not a viable option for you at present, biodegradable bags that we could put in our compost would still be a considerable improvement.
+> Where things stand:
 >
-> I realize that this may sound like a small matter to a company of your size. However, coffee is a staple of our business, just as bread and milk are, and the bag it comes in is the single biggest source of waste behind our counter. Only last month we stopped selling bottled water for the same reason, and, to my surprise, we did not lose a single customer. I am not asking you to change your whole business overnight; I am simply asking whether you would be willing to try this with one café, and I would be delighted if it were mine.
+> • Every week we receive our beans in twenty one-pound bags made of layers of plastic and metal, and all twenty go straight in the trash, because they cannot be recycled where we live.
 >
-> Let me be clear that I have no wish to change suppliers, because your beans are the reason many of my customers come back, and I would much rather solve this problem together. I would be grateful for a reply by the end of April, and you are, of course, always welcome to visit the café and discuss it over a cup of your own coffee.
+> • That comes to more than a thousand bags a year from one small café, which seems a great deal of waste for a product that is usually finished within a few days of arriving.
 >
-> Yours sincerely,
+> • Customers have noticed, too: several regulars now bring their own cups, and one of them, a retired chemistry teacher, recently asked me, quite politely, why the café still throws away so much plastic.
 >
-> Harriet Brooks, owner, Harriet's, Maple Street, San Diego
+> What I would love to try:
 >
-> P.S. My son, who is an engineer, tells me that a business letter should always include a figure, so here is one: our café alone has thrown away roughly thirteen thousand of your bags since we became your customer.
+> • Bulk delivery in durable containers, which your driver would pick up on the next delivery once they are empty. I understand that a few other coffee companies already run such a system, whereby the same containers are cleaned and used again for years.
+>
+> • We would happily pay a small deposit on each container and order more at a time, which should make the arrangement cost-effective for both of us.
+>
+> • Plan B: if reusable containers are not a viable option for you at present, biodegradable bags that we could put in our compost would still be a considerable improvement.
+>
+> I realize this may sound like a small matter to a company of your size. But coffee is as much a staple for us as bread and milk are for a grocery store, and the bag it comes in is the single biggest source of waste behind our counter. Only last month we stopped selling bottled water for the same reason, and, to my surprise, we did not lose a single customer.
+>
+> I am not asking you to change your whole business overnight, only whether you would be willing to try this with one café, and I would be delighted if it were mine. And to be clear, I have no wish to change suppliers: your beans are the reason many of my customers come back, and I would much rather solve this together.
+>
+> Could you let me know what you think by the end of April? You are, of course, always welcome to drop by and talk it over with a cup of your own coffee.
+>
+> Warm regards,
+>
+> Harriet
+>
+> P.S. My son, who is an engineer, tells me that a business email should always include a figure, so here is one: our café alone has thrown away roughly thirteen thousand of your bags since we became your customer.
 
 ### Dịch từng câu
 
 | # | Tiếng Anh | Tiếng Việt |
 |---|---|---|
-| 1 | A Proposal About Our Deliveries | Một đề nghị về việc giao hàng |
-| 2 | Dear Mr. Daniels, | Kính gửi ông Daniels, |
-| 3 | I am writing on behalf of Harriet's, the small café on Maple Street that has bought its coffee from Coastline Coffee Company for more than twelve years. | Tôi viết thư này thay mặt quán Harriet's, quán cà phê nhỏ trên phố Maple đã mua cà phê của Công ty Cà phê Coastline hơn mười hai năm nay. |
-| 4 | You may remember that you were very kind to us a few winters ago, when a broken delivery truck spoiled two of our orders, so I hope you will read this letter as coming from a loyal customer rather than a difficult one. | Có lẽ ông còn nhớ ông đã rất tử tế với chúng tôi vài mùa đông trước, khi một chiếc xe giao hàng hỏng làm hư hai đơn hàng của chúng tôi, vì vậy tôi mong ông đọc lá thư này như lời của một khách hàng trung thành chứ không phải một khách hàng khó tính. |
-| 5 | My concern is packaging. | Điều tôi băn khoăn là bao bì. |
-| 6 | Every week we receive our beans in twenty one-pound bags, each made of layers of plastic and metal, and every week we discard all twenty of them, because they cannot be recycled where we live. | Mỗi tuần chúng tôi nhận cà phê hạt trong hai mươi túi loại một pound, mỗi túi làm từ nhiều lớp nhựa và kim loại, và mỗi tuần chúng tôi vứt cả hai mươi túi đi, vì nơi chúng tôi sống không tái chế được chúng. |
-| 7 | That comes to more than a thousand bags a year from one small café, which seems a great deal of waste for a product that is usually finished within a few days of arriving. | Như vậy là hơn một nghìn túi mỗi năm chỉ từ một quán nhỏ, một lượng rác quá lớn cho một sản phẩm thường được dùng hết chỉ vài ngày sau khi tới. |
-| 8 | My customers have started to notice, too; several of the regulars now bring their own cups, and one of them, a retired chemistry teacher, recently asked me, quite politely, why the café still throws away so much plastic. | Khách của tôi cũng bắt đầu để ý; vài khách quen giờ mang cốc riêng, và một người trong số đó, một thầy giáo hoá học đã nghỉ hưu, gần đây đã hỏi tôi, rất lịch sự, vì sao quán vẫn vứt đi nhiều nhựa đến thế. |
-| 9 | I would like to propose a simple swap. | Tôi muốn đề xuất một sự thay đổi đơn giản. |
-| 10 | Instead of small bags, could Coastline deliver our beans in bulk, in durable containers that your driver would collect, empty, on the following delivery? | Thay vì túi nhỏ, liệu Coastline có thể giao cà phê hạt cho chúng tôi với số lượng lớn, trong những thùng chứa bền mà tài xế của ông sẽ thu lại, khi đã rỗng, vào lần giao hàng sau không? |
-| 11 | I understand that a few other coffee companies already offer such a system, whereby the same containers are cleaned and used again for years. | Tôi được biết một vài công ty cà phê khác đã có cách làm như vậy, theo đó cùng những thùng chứa ấy được rửa sạch và dùng lại trong nhiều năm. |
-| 12 | We would happily pay a small deposit on each container, and we are willing to order more at a time, which should make the arrangement cost-effective for both of us. | Chúng tôi sẵn lòng đặt cọc một khoản nhỏ cho mỗi thùng, và sẵn sàng đặt nhiều hơn mỗi lần, điều này hẳn sẽ giúp cách làm này tiết kiệm chi phí cho cả hai bên. |
-| 13 | If reusable containers are not a viable option for you at present, biodegradable bags that we could put in our compost would still be a considerable improvement. | Nếu thùng dùng lại được hiện chưa phải là lựa chọn khả thi với ông, thì túi phân huỷ sinh học mà chúng tôi có thể bỏ vào thùng ủ phân cũng đã là một cải thiện đáng kể. |
-| 14 | I realize that this may sound like a small matter to a company of your size. | Tôi hiểu rằng với một công ty cỡ như của ông, chuyện này có thể nghe có vẻ nhỏ nhặt. |
-| 15 | However, coffee is a staple of our business, just as bread and milk are, and the bag it comes in is the single biggest source of waste behind our counter. | Tuy nhiên, cà phê là mặt hàng chủ lực của quán chúng tôi, cũng như bánh mì và sữa, và cái túi đựng nó là nguồn rác lớn nhất sau quầy của chúng tôi. |
-| 16 | Only last month we stopped selling bottled water for the same reason, and, to my surprise, we did not lose a single customer. | Mới tháng trước chúng tôi đã ngừng bán nước đóng chai vì cùng lý do đó, và tôi ngạc nhiên là chúng tôi không mất một khách nào. |
-| 17 | I am not asking you to change your whole business overnight; I am simply asking whether you would be willing to try this with one café, and I would be delighted if it were mine. | Tôi không đề nghị ông thay đổi cả công việc kinh doanh chỉ sau một đêm; tôi chỉ hỏi liệu ông có sẵn lòng thử cách này với một quán cà phê hay không, và tôi sẽ rất vui nếu đó là quán của tôi. |
-| 18 | Let me be clear that I have no wish to change suppliers, because your beans are the reason many of my customers come back, and I would much rather solve this problem together. | Tôi xin nói rõ là tôi không hề muốn đổi nhà cung cấp, vì cà phê của ông chính là lý do nhiều khách quay lại quán tôi, và tôi muốn cùng ông giải quyết chuyện này hơn nhiều. |
-| 19 | I would be grateful for a reply by the end of April, and you are, of course, always welcome to visit the café and discuss it over a cup of your own coffee. | Tôi sẽ rất biết ơn nếu nhận được hồi âm trước cuối tháng Tư, và tất nhiên, ông luôn được chào đón ghé quán để bàn chuyện này bên một tách cà phê của chính công ty ông. |
-| 20 | Yours sincerely, | Trân trọng, |
-| 21 | Harriet Brooks, owner, Harriet's, Maple Street, San Diego | Harriet Brooks, chủ quán Harriet's, phố Maple, San Diego |
-| 22 | P.S. My son, who is an engineer, tells me that a business letter should always include a figure, so here is one: our café alone has thrown away roughly thirteen thousand of your bags since we became your customer. | T.B. Con trai tôi, một kỹ sư, bảo tôi rằng thư công việc lúc nào cũng nên có một con số, vậy đây là một con số: riêng quán chúng tôi đã vứt đi khoảng mười ba nghìn chiếc túi của ông kể từ khi trở thành khách hàng của ông. |
+| 1 | An Idea About Our Deliveries | Một ý tưởng về việc giao hàng |
+| 2 | From: Harriet Brooks, Harriet's, Maple Street · To: Rob Daniels, Coastline Coffee Company · March 28 | Từ: Harriet Brooks, quán Harriet's, Maple Street · Gửi: Rob Daniels, Công ty Cà phê Coastline · 28 tháng 3 |
+| 3 | Hi Rob, | Chào Rob, |
+| 4 | I hope all is well with you, and that your delivery trucks are behaving themselves these days. | Mong là anh vẫn khoẻ, và dạo này mấy chiếc xe giao hàng của anh vẫn ngoan ngoãn chạy đều. |
+| 5 | You were very kind to us a few winters ago, when a broken truck spoiled two of our orders, so please read this as a note from a loyal customer of more than twelve years rather than a difficult one. | Mấy mùa đông trước anh đã rất tử tế với chúng tôi, khi một chiếc xe hỏng làm hư hai đơn hàng của quán, nên mong anh đọc thư này như lời của một khách hàng trung thành hơn mười hai năm chứ không phải của một khách khó tính. |
+| 6 | I will keep this short and come straight to the point, which is packaging. | Tôi sẽ viết ngắn và vào thẳng vấn đề: bao bì. |
+| 7 | Where things stand: | Tình hình hiện tại: |
+| 8 | Every week we receive our beans in twenty one-pound bags made of layers of plastic and metal, and all twenty go straight in the trash, because they cannot be recycled where we live. | Mỗi tuần chúng tôi nhận cà phê hạt trong hai mươi túi loại một pound làm từ nhiều lớp nhựa và kim loại, và cả hai mươi túi đều đi thẳng vào thùng rác, vì ở chỗ chúng tôi không tái chế được. |
+| 9 | That comes to more than a thousand bags a year from one small café, which seems a great deal of waste for a product that is usually finished within a few days of arriving. | Tính ra mỗi năm một quán nhỏ thải hơn một nghìn túi, có vẻ là quá nhiều rác cho một sản phẩm thường được dùng hết chỉ vài ngày sau khi giao tới. |
+| 10 | Customers have noticed, too: several regulars now bring their own cups, and one of them, a retired chemistry teacher, recently asked me, quite politely, why the café still throws away so much plastic. | Khách cũng đã để ý: vài khách quen giờ mang cốc riêng, và một người trong số đó, một thầy giáo hoá học đã nghỉ hưu, mới đây hỏi tôi, rất lịch sự, vì sao quán vẫn vứt đi nhiều nhựa đến thế. |
+| 11 | What I would love to try: | Điều tôi rất muốn thử: |
+| 12 | Bulk delivery in durable containers, which your driver would pick up on the next delivery once they are empty. | Giao hàng số lượng lớn trong thùng bền; tài xế của anh sẽ thu lại thùng đã dùng hết vào lần giao sau. |
+| 13 | I understand that a few other coffee companies already run such a system, whereby the same containers are cleaned and used again for years. | Tôi biết một vài công ty cà phê khác đã có cách làm như vậy, theo đó cùng những chiếc thùng ấy được rửa sạch và dùng lại suốt nhiều năm. |
+| 14 | We would happily pay a small deposit on each container and order more at a time, which should make the arrangement cost-effective for both of us. | Chúng tôi sẵn lòng đặt một khoản cọc nhỏ cho mỗi thùng và đặt nhiều hàng hơn mỗi lần, như vậy cách làm này sẽ có lợi về chi phí cho cả hai bên. |
+| 15 | Plan B: if reusable containers are not a viable option for you at present, biodegradable bags that we could put in our compost would still be a considerable improvement. | Phương án B: nếu hiện tại thùng dùng lại chưa phải là lựa chọn khả thi với anh, thì túi phân huỷ sinh học để chúng tôi bỏ vào đống phân ủ cũng đã là một cải thiện đáng kể. |
+| 16 | I realize this may sound like a small matter to a company of your size. | Tôi hiểu với một công ty cỡ như của anh, chuyện này nghe có vẻ nhỏ. |
+| 17 | But coffee is as much a staple for us as bread and milk are for a grocery store, and the bag it comes in is the single biggest source of waste behind our counter. | Nhưng với chúng tôi, cà phê là mặt hàng thiết yếu chẳng kém bánh mì và sữa với một cửa hàng tạp hoá, và cái túi đựng nó là nguồn rác lớn nhất sau quầy của quán. |
+| 18 | Only last month we stopped selling bottled water for the same reason, and, to my surprise, we did not lose a single customer. | Mới tháng trước chúng tôi đã ngừng bán nước đóng chai cũng vì lý do đó, và tôi bất ngờ là không mất một khách nào. |
+| 19 | I am not asking you to change your whole business overnight, only whether you would be willing to try this with one café, and I would be delighted if it were mine. | Tôi không đề nghị anh thay đổi cả cách kinh doanh chỉ sau một đêm, chỉ hỏi liệu anh có sẵn lòng thử với một quán không, và tôi sẽ rất vui nếu đó là quán của tôi. |
+| 20 | And to be clear, I have no wish to change suppliers: your beans are the reason many of my customers come back, and I would much rather solve this together. | Và để nói cho rõ, tôi không hề muốn đổi nhà cung cấp: cà phê của anh là lý do nhiều khách quay lại quán, và tôi muốn cùng anh giải quyết chuyện này hơn nhiều. |
+| 21 | Could you let me know what you think by the end of April? | Anh cho tôi biết ý anh trước cuối tháng Tư được không? |
+| 22 | You are, of course, always welcome to drop by and talk it over with a cup of your own coffee. | Tất nhiên, anh lúc nào cũng có thể ghé quán để bàn chuyện này bên một tách cà phê của chính công ty anh. |
+| 23 | Warm regards, | Thân mến, |
+| 24 | Harriet | Harriet |
+| 25 | P.S. My son, who is an engineer, tells me that a business email should always include a figure, so here is one: our café alone has thrown away roughly thirteen thousand of your bags since we became your customer. | T.B. Con trai tôi, một kỹ sư, bảo rằng email công việc lúc nào cũng nên có một con số, vậy thì đây: riêng quán chúng tôi đã vứt đi khoảng mười ba nghìn túi của công ty anh kể từ khi trở thành khách hàng. |
 
 ### Câu hỏi
 
-**31. Why does Harriet mention the broken delivery truck?**
+**31. Why does Harriet mention the broken truck?**
 *(Vì sao bà Harriet nhắc tới chiếc xe giao hàng bị hỏng?)*
 
-- A. to remind Mr. Daniels of their good relationship before she raises a concern *(để nhắc ông Daniels về mối quan hệ tốt đẹp trước khi bà nêu một băn khoăn)*
+- A. to stress their good history before raising a worry *(để nhấn mạnh mối quan hệ tốt đẹp trước khi nêu mối lo)*
 - B. to complain again about the two orders that were spoiled *(để phàn nàn lần nữa về hai đơn hàng bị hư)*
 - C. to ask for a refund for the damaged coffee *(để đòi hoàn tiền cho số cà phê bị hỏng)*
-- D. to explain why her café has been receiving fewer deliveries *(để giải thích vì sao quán bà nhận ít đơn giao hơn)*
+- D. to explain why her café has been receiving fewer and smaller deliveries since then *(để giải thích vì sao từ đó quán bà nhận ít đơn giao hơn và nhỏ hơn)*
 
 **32. Why does the café throw away all of the coffee bags?**
 *(Vì sao quán vứt đi toàn bộ túi cà phê?)*
@@ -508,18 +533,18 @@
 **33. What does the story about the retired chemistry teacher suggest?**
 *(Câu chuyện về thầy giáo hoá học nghỉ hưu gợi ý điều gì?)*
 
-- A. The teacher has offered to recycle the bags himself. *(Thầy giáo đã đề nghị tự mình tái chế túi.)*
+- A. The teacher has offered to take the bags home and recycle them himself. *(Thầy giáo đã đề nghị mang túi về nhà tự tái chế.)*
 - B. Harriet was offended by the question. *(Bà Harriet thấy bị xúc phạm vì câu hỏi.)*
 - C. Most customers have stopped coming to the café. *(Phần lớn khách đã thôi tới quán.)*
-- D. Customers are becoming aware of the café's waste and expect it to do better. *(Khách đang ý thức về rác thải của quán và mong quán làm tốt hơn.)*
+- D. Customers notice the waste and expect better. *(Khách hàng để ý đến rác thải và mong quán làm tốt hơn.)*
 
 **34. What is Harriet's main proposal?**
 *(Đề xuất chính của bà Harriet là gì?)*
 
-- A. that the beans be delivered in bulk in durable containers that are collected and used again *(rằng cà phê hạt được giao số lượng lớn trong thùng bền, được thu lại và dùng lại)*
+- A. that beans come in bulk, in reusable containers the driver collects *(rằng cà phê hạt được giao số lượng lớn trong thùng dùng lại, do tài xế thu về)*
 - B. that the café stop selling coffee and sell bottled water instead *(rằng quán ngừng bán cà phê và chuyển sang bán nước đóng chai)*
-- C. that Coastline open its own recycling center in San Diego *(rằng Coastline mở trung tâm tái chế riêng ở San Diego)*
-- D. that customers pay a deposit on every cup of coffee *(rằng khách đặt cọc cho mỗi cốc cà phê)*
+- C. that Coastline open its own recycling center in San Diego for small cafés like hers *(rằng Coastline mở trung tâm tái chế riêng ở San Diego cho các quán nhỏ như quán bà)*
+- D. that customers pay a small deposit on every cup of coffee they take away *(rằng khách đặt một khoản cọc nhỏ cho mỗi cốc cà phê mang đi)*
 
 **35. In "not a viable option for you at present", the word "viable" is closest in meaning to**
 *(Trong "not a viable option for you at present", từ "viable" gần nghĩa nhất với)*
@@ -537,8 +562,8 @@
 - C. to prove that her customers dislike plastic cups *(để chứng minh khách của bà không thích cốc nhựa)*
 - D. to show that cutting waste has not cost the café any customers *(để cho thấy giảm rác không làm quán mất khách nào)*
 
-**37. What does Harriet mean when she calls coffee "a staple of our business"?**
-*(Bà Harriet muốn nói gì khi gọi cà phê là "a staple of our business"?)*
+**37. What does Harriet mean when she says coffee is "as much a staple for us as bread and milk are for a grocery store"?**
+*(Bà Harriet muốn nói gì khi bảo cà phê "as much a staple for us as bread and milk are for a grocery store"?)*
 
 - A. Coffee is the cheapest item on the café's menu. *(Cà phê là món rẻ nhất trong thực đơn của quán.)*
 - B. Coffee is sold only with bread and milk. *(Cà phê chỉ được bán kèm bánh mì và sữa.)*
@@ -550,22 +575,22 @@
 
 - A. She will change suppliers unless Coastline agrees by April. *(Bà sẽ đổi nhà cung cấp nếu Coastline không đồng ý trước tháng Tư.)*
 - B. She has already found a new supplier with reusable containers. *(Bà đã tìm được nhà cung cấp mới có thùng dùng lại.)*
-- C. She does not want to change and would prefer to find a solution with Coastline. *(Bà không muốn đổi và muốn cùng Coastline tìm giải pháp hơn.)*
+- C. She would rather fix it with Coastline than switch. *(Cô muốn giải quyết với Coastline hơn là đổi nhà cung cấp.)*
 - D. She has not yet decided whether Coastline's beans are good enough. *(Bà chưa quyết định cà phê của Coastline có đủ tốt hay không.)*
 
 **39. What can be inferred from the P.S.?**
 *(Có thể suy ra điều gì từ phần tái bút?)*
 
-- A. Harriet's son wrote most of the letter for her. *(Con trai bà Harriet đã viết gần hết lá thư thay bà.)*
+- A. Harriet's son wrote most of the email for her. *(Con trai bà Harriet đã viết gần hết email thay bà.)*
 - B. Harriet is not sure how long the café has been a Coastline customer. *(Bà Harriet không chắc quán đã là khách của Coastline bao lâu.)*
 - C. Harriet wants Coastline to pay for the bags the café has thrown away. *(Bà Harriet muốn Coastline trả tiền cho số túi quán đã vứt đi.)*
-- D. Harriet adds a striking number, half in fun, because her son told her figures make a letter stronger. *(Bà Harriet thêm một con số gây ấn tượng, nửa đùa nửa thật, vì con trai bảo con số làm thư thuyết phục hơn.)*
+- D. She offers a striking figure, half in fun, on her son's advice. *(Bà đưa ra một con số gây ấn tượng, nửa đùa nửa thật, theo lời khuyên của con trai.)*
 
-**40. Which best describes the tone of the letter as a whole?**
-*(Câu nào mô tả đúng nhất giọng điệu của cả lá thư?)*
+**40. Which best describes the tone of the email as a whole?**
+*(Câu nào mô tả đúng nhất giọng điệu của cả email?)*
 
 - A. angry and threatening, with demands for compensation *(giận dữ, đe doạ, kèm đòi bồi thường)*
-- B. warm and polite, but clear and firm about what she wants *(ấm áp, lịch sự nhưng rõ ràng và dứt khoát về điều bà muốn)*
+- B. polite and warm, yet firm in her request *(lịch sự và ấm áp, nhưng kiên quyết trong yêu cầu)*
 - C. uncertain and almost sorry, as if she expects to be refused *(ngập ngừng và xin lỗi, như thể đoán trước sẽ bị từ chối)*
 - D. cold and technical, with no personal details *(lạnh lùng, kỹ thuật, không có chi tiết cá nhân nào)*
 
@@ -575,7 +600,7 @@
 
 > **When the Pills Stop Working**
 >
-> In 1928, the Scottish scientist Alexander Fleming returned from a holiday to find that mold had grown on one of his laboratory dishes, and that the bacteria around it had died. The substance produced by that mold, penicillin, became the first widely used antibiotic, and it changed medicine so fundamentally that it is hard to imagine the world before it. Infections that had once been a common cause of death could suddenly be cured in a matter of days.
+> In 1928, the Scottish scientist Alexander Fleming returned from a summer vacation to find that mold had grown on one of his laboratory dishes, and that the bacteria around it had died. The substance produced by that mold, penicillin, became the first widely used antibiotic, and it changed medicine so fundamentally that it is hard to imagine the world before it. Infections that had once been a common cause of death could suddenly be cured in a matter of days.
 >
 > Fleming himself saw the danger early. In his Nobel Prize lecture in 1945, he warned that people who took too little of the drug, or stopped too soon, might expose bacteria to it without killing them, and so teach them to survive. He was right. Whenever bacteria are exposed to an antibiotic, the most susceptible ones die first, while the few that happen to carry a genetic change that protects them survive and multiply. Repeat that process millions of times, in hospitals, homes and farms around the world, and you produce bacteria that are resistant to the very drugs designed to kill them.
 >
@@ -590,7 +615,7 @@
 | # | Tiếng Anh | Tiếng Việt |
 |---|---|---|
 | 1 | When the Pills Stop Working | Khi những viên thuốc mất tác dụng |
-| 2 | In 1928, the Scottish scientist Alexander Fleming returned from a holiday to find that mold had grown on one of his laboratory dishes, and that the bacteria around it had died. | Năm 1928, nhà khoa học người Scotland Alexander Fleming đi nghỉ về thì thấy nấm mốc đã mọc trên một chiếc đĩa trong phòng thí nghiệm của ông, và vi khuẩn quanh đó đã chết. |
+| 2 | In 1928, the Scottish scientist Alexander Fleming returned from a summer vacation to find that mold had grown on one of his laboratory dishes, and that the bacteria around it had died. | Năm 1928, nhà khoa học người Scotland Alexander Fleming đi nghỉ hè về thì thấy nấm mốc đã mọc trên một chiếc đĩa trong phòng thí nghiệm của ông, và vi khuẩn quanh đó đã chết. |
 | 3 | The substance produced by that mold, penicillin, became the first widely used antibiotic, and it changed medicine so fundamentally that it is hard to imagine the world before it. | Chất do loại nấm mốc ấy tạo ra, penicillin, trở thành loại kháng sinh đầu tiên được dùng rộng rãi, và nó thay đổi y học tận gốc rễ đến mức khó mà hình dung thế giới trước khi có nó. |
 | 4 | Infections that had once been a common cause of death could suddenly be cured in a matter of days. | Những bệnh nhiễm trùng từng là nguyên nhân tử vong phổ biến bỗng có thể chữa khỏi chỉ trong vài ngày. |
 | 5 | Fleming himself saw the danger early. | Chính Fleming đã sớm nhìn ra mối nguy. |
@@ -610,7 +635,7 @@
 | 19 | That leaves prevention, and here individuals do have a role to play. | Vậy chỉ còn phòng ngừa, và ở đây mỗi cá nhân thật sự có vai trò. |
 | 20 | Antibiotics do nothing against viruses, so asking for them for a cold or the flu does not help you and only adds to the problem. | Kháng sinh không có tác dụng gì với virus, nên xin kháng sinh khi bị cảm lạnh hay cúm chẳng giúp gì cho bạn mà chỉ làm vấn đề tệ thêm. |
 | 21 | For decades, patients were also told to finish every course, even after they felt better, but in 2017 a group of infection specialists argued in a leading medical journal that there was surprisingly little evidence for this rule. | Suốt nhiều thập kỷ, bệnh nhân cũng được dặn phải uống hết mọi liệu trình, kể cả khi đã thấy khoẻ hơn, nhưng năm 2017 một nhóm chuyên gia về bệnh nhiễm trùng lập luận trên một tạp chí y khoa hàng đầu rằng quy tắc này có ít bằng chứng đến bất ngờ. |
-| 22 | Their point was not that people should stop whenever they like, but that courses should be no longer than necessary; the best advice is still to follow your doctor's instructions exactly. | Ý của họ không phải là người bệnh muốn ngừng lúc nào thì ngừng, mà là liệu trình không nên dài hơn mức cần thiết; lời khuyên an toàn nhất vẫn là làm đúng theo chỉ dẫn của bác sĩ. |
+| 22 | Their point was not that people should stop whenever they like, but that courses should be no longer than necessary; the best advice is still to follow your doctor's instructions exactly. | Ý của họ không phải là người bệnh muốn ngừng lúc nào thì ngừng, mà là liệu trình không nên dài hơn mức cần thiết; lời khuyên tốt nhất vẫn là làm đúng theo chỉ dẫn của bác sĩ. |
 | 23 | Penicillin was a gift that arrived almost by accident, and it would be a tragedy to lose it through carelessness. | Penicillin là một món quà đến gần như tình cờ, và sẽ là một bi kịch nếu đánh mất nó vì sự cẩu thả. |
 
 ### Câu hỏi
@@ -618,66 +643,66 @@
 **41. What does the writer suggest by saying "it is hard to imagine the world before it"?**
 *(Người viết ngụ ý gì khi nói "khó mà hình dung thế giới trước khi có nó"?)*
 
-- A. Penicillin changed medicine so much that life without it now seems very distant. *(Penicillin thay đổi y học nhiều đến mức cuộc sống không có nó giờ có vẻ rất xa lạ.)*
-- B. Nobody knows exactly when penicillin was discovered. *(Không ai biết chính xác penicillin được phát hiện khi nào.)*
+- A. Penicillin changed medicine so much the past feels remote. *(Penicillin thay đổi y học nhiều đến mức thời trước đó có vẻ xa xôi.)*
+- B. Nobody knows exactly when penicillin was discovered or who first noticed the mold. *(Không ai biết chính xác penicillin được phát hiện khi nào hay ai là người đầu tiên để ý tới nấm mốc.)*
 - C. People before 1928 did not suffer from infections. *(Người trước năm 1928 không mắc bệnh nhiễm trùng.)*
 - D. Fleming did not understand the importance of his discovery. *(Fleming không hiểu tầm quan trọng của phát hiện của mình.)*
 
 **42. What did Fleming warn about in 1945?**
 *(Năm 1945 Fleming đã cảnh báo điều gì?)*
 
-- A. Penicillin would soon become too expensive for most patients. *(Penicillin sẽ sớm trở nên quá đắt với phần lớn bệnh nhân.)*
+- A. Penicillin would soon become too expensive for most patients and hospitals to afford. *(Penicillin sẽ sớm trở nên quá đắt với phần lớn bệnh nhân và bệnh viện.)*
 - B. Mold in laboratories was a danger to scientists' health. *(Nấm mốc trong phòng thí nghiệm nguy hiểm cho sức khoẻ nhà khoa học.)*
 - C. Antibiotics should never be given to farm animals. *(Không bao giờ được cho vật nuôi dùng kháng sinh.)*
-- D. Taking too little of the drug or stopping too soon could help bacteria learn to survive it. *(Dùng quá ít thuốc hoặc ngừng quá sớm có thể giúp vi khuẩn học cách sống sót.)*
+- D. Too small a dose could let bacteria resist. *(Dùng liều quá ít có thể giúp vi khuẩn kháng thuốc.)*
 
 **43. What is the function of the short sentence "He was right."?**
 *(Câu ngắn "He was right." có chức năng gì?)*
 
 - A. It suggests that the writer is not sure whether Fleming was right. *(Nó ngụ ý người viết không chắc Fleming có đúng không.)*
-- B. It confirms that Fleming's warning came true and leads into an explanation of how. *(Nó xác nhận lời cảnh báo của Fleming đã thành sự thật và dẫn vào phần giải thích cơ chế.)*
+- B. It confirms the warning came true and introduces the explanation. *(Nó xác nhận lời cảnh báo đã thành sự thật và mở ra phần giải thích.)*
 - C. It introduces a new topic that has nothing to do with Fleming. *(Nó mở ra một chủ đề mới không liên quan tới Fleming.)*
 - D. It shows that Fleming's discovery was an accident. *(Nó cho thấy phát hiện của Fleming là tình cờ.)*
 
 **44. According to the article, how does resistance develop?**
 *(Theo bài, tình trạng kháng thuốc hình thành như thế nào?)*
 
-- A. The most susceptible bacteria are killed, and the few with protective changes survive and multiply. *(Những vi khuẩn dễ bị tác động nhất bị tiêu diệt, còn số ít có biến đổi bảo vệ thì sống sót và sinh sôi.)*
-- B. Antibiotics slowly turn harmless bacteria into viruses. *(Kháng sinh dần biến vi khuẩn vô hại thành virus.)*
-- C. Bacteria learn to avoid hospitals and move to farms. *(Vi khuẩn học cách tránh bệnh viện và chuyển tới trang trại.)*
+- A. Weaker bacteria die, and a few with protective changes survive and multiply. *(Vi khuẩn yếu hơn chết đi, còn số ít có biến đổi bảo vệ thì sống sót và sinh sôi.)*
+- B. Antibiotics slowly turn harmless bacteria into viruses that no drug can treat. *(Kháng sinh dần biến vi khuẩn vô hại thành virus mà không thuốc nào chữa được.)*
+- C. Bacteria learn to avoid hospitals and move to farms, where fewer drugs are used. *(Vi khuẩn học cách tránh bệnh viện và chuyển tới trang trại, nơi ít dùng thuốc hơn.)*
 - D. Doctors give patients stronger drugs than they need. *(Bác sĩ cho bệnh nhân thuốc mạnh hơn mức cần.)*
 
 **45. What did the study published in The Lancet in 2024 estimate?**
 *(Nghiên cứu đăng trên The Lancet năm 2024 ước tính điều gì?)*
 
-- A. Nearly two million deaths in 2021 were caused by resistant infections, possibly falling to one million by 2050. *(Gần hai triệu ca tử vong năm 2021 là do nhiễm trùng kháng thuốc, có thể giảm còn một triệu vào năm 2050.)*
+- A. Nearly two million deaths in 2021 were caused by resistant infections, a figure that could fall to about one million a year by 2050. *(Gần hai triệu ca tử vong năm 2021 là do nhiễm trùng kháng thuốc, con số có thể giảm còn khoảng một triệu ca mỗi năm vào năm 2050.)*
 - B. More than a million people received organ transplants in 2021. *(Hơn một triệu người được ghép tạng năm 2021.)*
-- C. More than a million deaths in 2021 were directly caused by resistant infections, possibly rising to nearly two million a year by 2050. *(Hơn một triệu ca tử vong năm 2021 là do nhiễm trùng kháng thuốc trực tiếp gây ra, có thể tăng lên gần hai triệu ca mỗi năm vào năm 2050.)*
+- C. Resistant infections directly caused over a million deaths in 2021 and could cause nearly two million a year by 2050. *(Nhiễm trùng kháng thuốc trực tiếp gây ra hơn một triệu ca tử vong năm 2021 và có thể gây ra gần hai triệu ca mỗi năm vào năm 2050.)*
 - D. Resistant infections will have disappeared by 2050. *(Nhiễm trùng kháng thuốc sẽ biến mất trước năm 2050.)*
 
 **46. Why does the writer mention knee operations and organ transplants?**
 *(Vì sao người viết nhắc tới mổ đầu gối và ghép tạng?)*
 
-- A. to show that resistance threatens ordinary medicine, not only patients with infections *(để cho thấy kháng thuốc đe doạ cả y học thông thường, không chỉ bệnh nhân bị nhiễm trùng)*
+- A. to show resistance threatens routine medicine too *(để cho thấy kháng thuốc đe doạ cả y học thường ngày)*
 - B. to explain which operations cause the most resistance *(để giải thích ca mổ nào gây ra kháng thuốc nhiều nhất)*
-- C. to argue that these operations should no longer be performed *(để lập luận rằng không nên thực hiện các ca mổ này nữa)*
+- C. to argue that these operations should no longer be performed unless they are urgent *(để lập luận rằng không nên thực hiện các ca mổ này nữa, trừ khi khẩn cấp)*
 - D. to compare the cost of surgery with the cost of antibiotics *(để so sánh chi phí phẫu thuật với chi phí kháng sinh)*
 
 **47. Why are new antibiotics unattractive to drug companies?**
 *(Vì sao kháng sinh mới kém hấp dẫn với các công ty dược?)*
 
-- A. They are too easy to develop, so many companies compete. *(Chúng quá dễ phát triển nên nhiều công ty cạnh tranh.)*
-- B. They are kept in reserve and used rarely, so they earn little money. *(Chúng được giữ làm dự phòng và ít khi được dùng nên thu về ít tiền.)*
+- A. They are too easy to develop, so too many companies compete for the same patients. *(Chúng quá dễ phát triển nên có quá nhiều công ty tranh nhau cùng một nhóm bệnh nhân.)*
+- B. They are used rarely, so they earn little. *(Chúng hiếm khi được dùng nên thu về rất ít tiền.)*
 - C. Patients refuse to take them because of side effects. *(Bệnh nhân từ chối dùng vì tác dụng phụ.)*
 - D. They work only against viruses, not bacteria. *(Chúng chỉ có tác dụng với virus, không với vi khuẩn.)*
 
 **48. Which statement about the 2017 argument is accurate?**
 *(Nhận định nào về lập luận năm 2017 là chính xác?)*
 
-- A. It proved that antibiotics should be taken for as long as possible. *(Nó chứng minh kháng sinh nên được dùng càng lâu càng tốt.)*
+- A. It proved that antibiotics should always be taken for as long as possible, even after recovery. *(Nó chứng minh kháng sinh luôn nên được dùng càng lâu càng tốt, kể cả khi đã khỏi.)*
 - B. It told patients to ignore their doctors' instructions. *(Nó bảo bệnh nhân bỏ qua chỉ dẫn của bác sĩ.)*
 - C. It showed that antibiotics are effective against the flu. *(Nó cho thấy kháng sinh có tác dụng với cúm.)*
-- D. It questioned the evidence for always finishing a course, without telling patients to stop whenever they like. *(Nó đặt câu hỏi về bằng chứng cho việc luôn uống hết liệu trình, nhưng không bảo bệnh nhân muốn ngừng lúc nào thì ngừng.)*
+- D. It doubted the rule of always finishing a course, without saying patients may stop at will. *(Nó nghi ngờ quy tắc luôn uống hết liệu trình, nhưng không nói bệnh nhân muốn ngừng lúc nào cũng được.)*
 
 **49. In "the most susceptible ones die first", the word "susceptible" is closest in meaning to**
 *(Trong "the most susceptible ones die first", từ "susceptible" gần nghĩa nhất với)*
@@ -693,48 +718,48 @@
 - A. Most important discoveries in medicine happen by accident. *(Phần lớn phát hiện quan trọng trong y học xảy ra tình cờ.)*
 - B. Penicillin is no longer useful and should be replaced. *(Penicillin không còn hữu ích và nên được thay thế.)*
 - C. A valuable medical advantage could be lost if people use it carelessly. *(Một lợi thế y học quý giá có thể mất đi nếu con người dùng nó cẩu thả.)*
-- D. Scientists should take more holidays to make new discoveries. *(Các nhà khoa học nên đi nghỉ nhiều hơn để có phát hiện mới.)*
+- D. Scientists should take more vacations to make new discoveries. *(Các nhà khoa học nên đi nghỉ nhiều hơn để có phát hiện mới.)*
 
 ---
 
 ## Bài đọc 6 (Unit 6) — Megan điểm sách về nghỉ ngơi cho bản tin bệnh viện
 
-> **Book Review: Off Duty, by Paula Whitman**
+> **Book Review: Off Duty, by Ines Calloway**
 >
 > Reviewed by Megan Carter, charge nurse, Emergency Department, for the Sunset Bay staff newsletter
 >
-> I should admit at the start that I am not the ideal reader for a book about rest. In more than twenty years of night shifts, I have learned to sleep in a parked car, eat standing up, and treat a day off as a chance to catch up on laundry. So when a colleague left Paula Whitman's Off Duty in my locker with a note that said simply, 'Read this. Then actually do it,' I suspected that I was being told something.
+> I should admit at the start that I am not the ideal reader for a book about rest. In more than twenty years of night shifts, I have learned to sleep in a parked car, eat standing up, and treat a day off as a chance to catch up on laundry. So when a colleague left Ines Calloway's Off Duty in my locker with a note that said simply, "Read this. Then actually do it," I suspected that I was being told something.
 >
-> Whitman, a sleep researcher who has worked with hospital staff for years, starts from a claim that sounds obvious but is easy to forget: rest is not simply the absence of work, but a separate activity that has to be planned. She distinguishes between several kinds of rest, including physical rest, mental rest and what she calls social rest, meaning time spent with people who do not need anything from you. Her chapter on sleep is the strongest in the book; it explains clearly how shift work upsets the hormones that control sleep and appetite, and why a short afternoon snooze can be more restorative than an extra hour in bed.
+> Calloway, a sleep researcher who has worked with hospital staff for years, starts from a claim that sounds obvious but is easy to forget: rest is not simply the absence of work, but a separate activity that has to be planned. She distinguishes between several kinds of rest, including physical rest, mental rest and what she calls social rest, meaning time spent with people who do not need anything from you. Her chapter on sleep is the strongest in the book; it explains clearly how shift work upsets the hormones that control sleep and appetite, and why a short afternoon snooze can be more restorative than an extra hour in bed.
 >
-> What I valued most, however, was her refusal to treat well-being as a matter of personal discipline alone. Whitman points out that a nurse who is told to do stretching exercises and unplug in the evening, but who is then scheduled for three night shifts in a row, has not been given a well-being program; she has been given homework. It is the best sentence in the book, and I have already read it aloud to two managers. Her argument that staff need a sense of control over their own schedules, and not only longer breaks, deserves to be taken seriously by anyone who writes the schedules in this building.
+> What I valued most, however, was her refusal to treat well-being as a matter of personal discipline alone. Calloway points out that a nurse who is told to do stretching exercises and unplug in the evening, but who is then scheduled for three night shifts in a row, has not been given a well-being program; she has been given homework. It is the best sentence in the book, and I have already read it aloud to two managers. Her argument that staff need a sense of control over their own schedules, and not only longer breaks, deserves to be taken seriously by anyone who writes the schedules in this building.
 >
-> The book is not without weaknesses. The middle chapters, on daydreaming and creativity, are pleasant but thin, and they rely heavily on stories from Whitman's own life rather than on research. Some of her suggestions also assume far more free time than most of us have; I do not know many nurses who can spend an hour in a sauna on a weekday. And although she notes that a sedentary lifestyle and constant stress damage health, she says little about how to rest when you are worried about someone you love, which is precisely when rest is hardest.
+> The book is not without weaknesses. The middle chapters, on daydreaming and creativity, are pleasant but thin, and they rely heavily on stories from Calloway's own life rather than on research. Some of her suggestions also assume far more free time than most of us have; I do not know many nurses who can spend an hour in a sauna on a weekday. And although she writes at length about how constant stress and a sedentary lifestyle damage health, she says little about how to rest when the stress comes from worrying about someone you love, which is precisely when rest is hardest.
 >
-> I have tried two of her ideas since finishing the book. The first is a ten-minute walk outside after each night shift, before driving home, which has turned out to be surprisingly effective. The second is confiding in a colleague instead of pretending to be fine, which has turned out to be much harder. My husband, who has his own reasons to take rest seriously this spring, says that I am calmer, although he also says that I now talk about sleep at dinner. I would recommend Off Duty to every member of staff, and especially to our managers: it is not a perfect book, but it asks the right questions, and it asks them of the right people.
+> I have tried two of her ideas since finishing the book. The first is a ten-minute walk outside after each night shift, before I head home, which has turned out to be surprisingly effective. The second is confiding in a colleague instead of pretending to be fine, which has turned out to be much harder. My husband, who has his own reasons to take rest seriously this spring, says that I am calmer, although he also says that I now talk about sleep at dinner. I would recommend Off Duty to every member of staff, and especially to our managers: it is not a perfect book, but it asks the right questions, and it asks them of the right people.
 
 ### Dịch từng câu
 
 | # | Tiếng Anh | Tiếng Việt |
 |---|---|---|
-| 1 | Book Review: Off Duty, by Paula Whitman | Điểm sách: Off Duty (Hết ca), của Paula Whitman |
+| 1 | Book Review: Off Duty, by Ines Calloway | Điểm sách: Off Duty (Hết ca), của Ines Calloway |
 | 2 | Reviewed by Megan Carter, charge nurse, Emergency Department, for the Sunset Bay staff newsletter | Người điểm sách: Megan Carter, điều dưỡng trưởng ca khoa Cấp cứu, viết cho bản tin nhân viên bệnh viện Sunset Bay |
 | 3 | I should admit at the start that I am not the ideal reader for a book about rest. | Tôi nên thú nhận ngay từ đầu rằng tôi không phải độc giả lý tưởng cho một cuốn sách về nghỉ ngơi. |
 | 4 | In more than twenty years of night shifts, I have learned to sleep in a parked car, eat standing up, and treat a day off as a chance to catch up on laundry. | Trong hơn hai mươi năm trực đêm, tôi đã học được cách ngủ trong xe đỗ, ăn đứng, và coi ngày nghỉ là dịp để giặt cho xong đống quần áo. |
-| 5 | So when a colleague left Paula Whitman's Off Duty in my locker with a note that said simply, 'Read this. Then actually do it,' I suspected that I was being told something. | Vì thế khi một đồng nghiệp để cuốn Off Duty của Paula Whitman vào tủ đồ của tôi kèm mẩu giấy chỉ ghi: 'Đọc đi. Rồi làm theo thật nhé,' tôi ngờ rằng mình đang được nhắc khéo điều gì đó. |
-| 6 | Whitman, a sleep researcher who has worked with hospital staff for years, starts from a claim that sounds obvious but is easy to forget: rest is not simply the absence of work, but a separate activity that has to be planned. | Whitman, một nhà nghiên cứu giấc ngủ đã làm việc nhiều năm với nhân viên bệnh viện, bắt đầu từ một nhận định nghe hiển nhiên nhưng dễ quên: nghỉ ngơi không đơn giản là không làm việc, mà là một hoạt động riêng cần được lên kế hoạch. |
+| 5 | So when a colleague left Ines Calloway's Off Duty in my locker with a note that said simply, "Read this. Then actually do it," I suspected that I was being told something. | Vì thế khi một đồng nghiệp để cuốn Off Duty của Ines Calloway vào tủ đồ của tôi kèm mẩu giấy chỉ ghi: "Đọc đi. Rồi làm theo thật nhé," tôi ngờ rằng mình đang được nhắc khéo điều gì đó. |
+| 6 | Calloway, a sleep researcher who has worked with hospital staff for years, starts from a claim that sounds obvious but is easy to forget: rest is not simply the absence of work, but a separate activity that has to be planned. | Calloway, một nhà nghiên cứu giấc ngủ đã làm việc nhiều năm với nhân viên bệnh viện, bắt đầu từ một nhận định nghe hiển nhiên nhưng dễ quên: nghỉ ngơi không đơn giản là không làm việc, mà là một hoạt động riêng cần được lên kế hoạch. |
 | 7 | She distinguishes between several kinds of rest, including physical rest, mental rest and what she calls social rest, meaning time spent with people who do not need anything from you. | Bà phân biệt nhiều kiểu nghỉ ngơi, gồm nghỉ ngơi thể chất, nghỉ ngơi tinh thần và cái bà gọi là nghỉ ngơi xã hội, tức thời gian ở bên những người không cần gì ở bạn. |
 | 8 | Her chapter on sleep is the strongest in the book; it explains clearly how shift work upsets the hormones that control sleep and appetite, and why a short afternoon snooze can be more restorative than an extra hour in bed. | Chương về giấc ngủ là chương hay nhất của cuốn sách; nó giải thích rõ ràng việc làm theo ca làm rối loạn các hormone điều khiển giấc ngủ và cảm giác thèm ăn ra sao, và vì sao một giấc chợp mắt ngắn buổi chiều có thể giúp hồi sức tốt hơn một giờ nằm thêm trên giường. |
-| 9 | What I valued most, however, was her refusal to treat well-being as a matter of personal discipline alone. | Tuy nhiên, điều tôi trân trọng nhất là việc bà không chịu coi sức khoẻ tinh thần chỉ là chuyện kỷ luật cá nhân. |
-| 10 | Whitman points out that a nurse who is told to do stretching exercises and unplug in the evening, but who is then scheduled for three night shifts in a row, has not been given a well-being program; she has been given homework. | Whitman chỉ ra rằng một điều dưỡng được dặn tập giãn cơ và tắt hết thiết bị vào buổi tối, nhưng sau đó lại bị xếp ba ca đêm liền, thì không phải được nhận một chương trình chăm sóc sức khoẻ; cô ấy chỉ được giao thêm bài tập về nhà. |
+| 9 | What I valued most, however, was her refusal to treat well-being as a matter of personal discipline alone. | Tuy nhiên, điều tôi trân trọng nhất là việc bà không chịu coi sức khoẻ toàn diện chỉ là chuyện kỷ luật cá nhân. |
+| 10 | Calloway points out that a nurse who is told to do stretching exercises and unplug in the evening, but who is then scheduled for three night shifts in a row, has not been given a well-being program; she has been given homework. | Calloway chỉ ra rằng một điều dưỡng được dặn tập giãn cơ và tắt hết thiết bị vào buổi tối, nhưng sau đó lại bị xếp ba ca đêm liền, thì không phải được nhận một chương trình chăm sóc sức khoẻ toàn diện; cô ấy chỉ được giao thêm bài tập về nhà. |
 | 11 | It is the best sentence in the book, and I have already read it aloud to two managers. | Đó là câu hay nhất trong sách, và tôi đã đọc to nó cho hai vị quản lý nghe rồi. |
 | 12 | Her argument that staff need a sense of control over their own schedules, and not only longer breaks, deserves to be taken seriously by anyone who writes the schedules in this building. | Lập luận của bà rằng nhân viên cần có cảm giác làm chủ lịch làm việc của mình, chứ không chỉ cần giờ nghỉ dài hơn, đáng được bất kỳ ai xếp lịch trong toà nhà này xem xét nghiêm túc. |
 | 13 | The book is not without weaknesses. | Cuốn sách không phải không có điểm yếu. |
-| 14 | The middle chapters, on daydreaming and creativity, are pleasant but thin, and they rely heavily on stories from Whitman's own life rather than on research. | Các chương giữa, về mơ mộng và sáng tạo, dễ đọc nhưng mỏng, và dựa nhiều vào chuyện đời riêng của Whitman hơn là vào nghiên cứu. |
+| 14 | The middle chapters, on daydreaming and creativity, are pleasant but thin, and they rely heavily on stories from Calloway's own life rather than on research. | Các chương giữa, về mơ mộng và sáng tạo, dễ đọc nhưng mỏng, và dựa nhiều vào chuyện đời riêng của Calloway hơn là vào nghiên cứu. |
 | 15 | Some of her suggestions also assume far more free time than most of us have; I do not know many nurses who can spend an hour in a sauna on a weekday. | Một số gợi ý của bà cũng mặc định người đọc có nhiều thời gian rảnh hơn hẳn phần lớn chúng ta; tôi không biết mấy điều dưỡng có thể dành một giờ xông hơi vào ngày thường. |
-| 16 | And although she notes that a sedentary lifestyle and constant stress damage health, she says little about how to rest when you are worried about someone you love, which is precisely when rest is hardest. | Và dù bà có nhắc rằng lối sống ít vận động và căng thẳng thường trực hại sức khoẻ, bà lại nói rất ít về cách nghỉ ngơi khi bạn đang lo cho một người mình thương, mà đó chính là lúc khó nghỉ ngơi nhất. |
+| 16 | And although she writes at length about how constant stress and a sedentary lifestyle damage health, she says little about how to rest when the stress comes from worrying about someone you love, which is precisely when rest is hardest. | Và dù bà viết rất kỹ về chuyện căng thẳng thường trực và lối sống ít vận động hại sức khoẻ ra sao, bà lại nói rất ít về cách nghỉ ngơi khi nỗi căng thẳng đến từ việc lo cho một người mình thương, mà đó chính là lúc khó nghỉ ngơi nhất. |
 | 17 | I have tried two of her ideas since finishing the book. | Từ khi đọc xong, tôi đã thử hai ý tưởng của bà. |
-| 18 | The first is a ten-minute walk outside after each night shift, before driving home, which has turned out to be surprisingly effective. | Thứ nhất là đi bộ mười phút ngoài trời sau mỗi ca đêm, trước khi lái xe về, và hoá ra hiệu quả đến bất ngờ. |
+| 18 | The first is a ten-minute walk outside after each night shift, before I head home, which has turned out to be surprisingly effective. | Thứ nhất là đi bộ mười phút ngoài trời sau mỗi ca đêm, trước khi về nhà, và hoá ra hiệu quả đến bất ngờ. |
 | 19 | The second is confiding in a colleague instead of pretending to be fine, which has turned out to be much harder. | Thứ hai là tâm sự với một đồng nghiệp thay vì giả vờ ổn, và hoá ra khó hơn nhiều. |
 | 20 | My husband, who has his own reasons to take rest seriously this spring, says that I am calmer, although he also says that I now talk about sleep at dinner. | Chồng tôi, người mùa xuân này cũng có lý do riêng để coi trọng việc nghỉ ngơi, nói tôi điềm tĩnh hơn, dù anh ấy cũng bảo giờ tôi toàn nói chuyện giấc ngủ trong bữa tối. |
 | 21 | I would recommend Off Duty to every member of staff, and especially to our managers: it is not a perfect book, but it asks the right questions, and it asks them of the right people. | Tôi giới thiệu Off Duty cho mọi nhân viên, và nhất là cho các vị quản lý: đây không phải cuốn sách hoàn hảo, nhưng nó đặt đúng câu hỏi, và đặt cho đúng người. |
@@ -753,41 +778,41 @@
 *(Mẩu giấy của đồng nghiệp gợi ý điều gì?)*
 
 - A. The colleague wants Megan to write a review of the book. *(Đồng nghiệp muốn Megan viết bài điểm sách.)*
-- B. The colleague thinks Megan needs to change her own habits. *(Đồng nghiệp nghĩ Megan cần thay đổi thói quen của chính mình.)*
-- C. The colleague disagrees with the ideas in the book. *(Đồng nghiệp không đồng ý với các ý trong sách.)*
+- B. The colleague thinks Megan needs to change her habits. *(Đồng nghiệp nghĩ Megan cần thay đổi thói quen của chính mình.)*
+- C. The colleague disagrees with the ideas in the book and wants Megan's opinion. *(Đồng nghiệp không đồng ý với các ý trong sách và muốn nghe ý kiến của Megan.)*
 - D. The colleague expects Megan to return the book quickly. *(Đồng nghiệp muốn Megan trả sách nhanh.)*
 
-**53. What is Whitman's central claim?**
-*(Nhận định trung tâm của Whitman là gì?)*
+**53. What is Calloway's central claim?**
+*(Nhận định trung tâm của Calloway là gì?)*
 
-- A. Rest is only possible for people who do not work night shifts. *(Chỉ người không làm ca đêm mới có thể nghỉ ngơi.)*
+- A. Rest is only possible for people who do not work night shifts or long hours. *(Chỉ người không làm ca đêm hay làm nhiều giờ mới có thể nghỉ ngơi.)*
 - B. Rest is less important than discipline for hospital staff. *(Với nhân viên bệnh viện, nghỉ ngơi kém quan trọng hơn kỷ luật.)*
-- C. Rest is a separate activity that needs to be planned, not just the absence of work. *(Nghỉ ngơi là một hoạt động riêng cần được lên kế hoạch, không chỉ là việc không làm việc.)*
+- C. Rest is a separate activity that must be planned, not just time off. *(Nghỉ ngơi là một hoạt động riêng cần lên kế hoạch, không chỉ là thời gian không làm việc.)*
 - D. Rest should be taken only after a long period of work. *(Chỉ nên nghỉ ngơi sau một thời gian dài làm việc.)*
 
-**54. According to the review, what does Whitman mean by "social rest"?**
-*(Theo bài điểm sách, Whitman muốn nói gì với "social rest"?)*
+**54. According to the review, what does Calloway mean by "social rest"?**
+*(Theo bài điểm sách, Calloway muốn nói gì với "social rest"?)*
 
-- A. time spent with people who do not need anything from you *(thời gian ở bên những người không cần gì ở bạn)*
+- A. being around people who make no demands on you *(ở bên những người không đòi hỏi gì ở bạn)*
 - B. time spent at parties and large social events *(thời gian ở các bữa tiệc và sự kiện đông người)*
 - C. time spent alone without speaking to anyone *(thời gian ở một mình không nói chuyện với ai)*
 - D. time spent helping colleagues with their problems *(thời gian giúp đồng nghiệp giải quyết vấn đề)*
 
-**55. What point is Whitman making with the example of the nurse who "has been given homework"?**
-*(Whitman muốn nói gì qua ví dụ người điều dưỡng "chỉ được giao thêm bài tập về nhà"?)*
+**55. What point is Calloway making with the example of the nurse who "has been given homework"?**
+*(Calloway muốn nói gì qua ví dụ người điều dưỡng "chỉ được giao thêm bài tập về nhà"?)*
 
 - A. Nurses should spend more time studying at home. *(Điều dưỡng nên dành nhiều thời gian học ở nhà hơn.)*
-- B. Stretching exercises are useless for people who work at night. *(Bài tập giãn cơ vô ích với người làm đêm.)*
-- C. Advice about personal habits is not real support if the working conditions remain exhausting. *(Lời khuyên về thói quen cá nhân không phải hỗ trợ thật nếu điều kiện làm việc vẫn kiệt sức.)*
+- B. Stretching exercises are useless for people who work at night, so nurses should skip them. *(Bài tập giãn cơ vô ích với người làm đêm, nên điều dưỡng cứ bỏ qua.)*
+- C. Advice on personal habits is not real support if the schedule stays exhausting. *(Lời khuyên về thói quen cá nhân không phải hỗ trợ thật nếu lịch làm việc vẫn vắt kiệt sức.)*
 - D. Hospitals should stop scheduling night shifts altogether. *(Bệnh viện nên bỏ hẳn ca đêm.)*
 
 **56. Why has Megan read the "best sentence in the book" aloud to two managers?**
 *(Vì sao Megan đọc to "câu hay nhất trong sách" cho hai vị quản lý nghe?)*
 
-- A. She wants the managers to buy the book for the hospital library. *(Chị muốn quản lý mua sách cho thư viện bệnh viện.)*
+- A. She wants the managers to buy copies of the book for the hospital library. *(Chị muốn quản lý mua vài cuốn cho thư viện bệnh viện.)*
 - B. She was asked to read it at a staff meeting. *(Chị được yêu cầu đọc nó trong buổi họp nhân viên.)*
 - C. She thinks the managers are working too many night shifts. *(Chị nghĩ các vị quản lý làm quá nhiều ca đêm.)*
-- D. She believes the managers are partly responsible for staff well-being. *(Chị tin rằng các vị quản lý cũng chịu một phần trách nhiệm với sức khoẻ của nhân viên.)*
+- D. She sees managers as partly responsible for staff health. *(Cô coi các quản lý cũng có một phần trách nhiệm với sức khoẻ nhân viên.)*
 
 **57. Which of the following is NOT presented as a weakness of the book?**
 *(Điều nào sau đây KHÔNG được nêu là điểm yếu của cuốn sách?)*
@@ -809,15 +834,15 @@
 *(Megan ngụ ý gì khi nói chồng chị "mùa xuân này cũng có lý do riêng để coi trọng việc nghỉ ngơi"?)*
 
 - A. Her husband has just started working night shifts. *(Chồng chị vừa bắt đầu làm ca đêm.)*
-- B. Her husband has been dealing with a health concern of his own recently. *(Gần đây chồng chị cũng đang phải đối mặt với một vấn đề sức khoẻ của riêng anh.)*
+- B. Her husband has had a health worry of his own lately. *(Gần đây chồng chị cũng có một nỗi lo về sức khoẻ của riêng anh.)*
 - C. Her husband has also written a book about rest. *(Chồng chị cũng đã viết một cuốn sách về nghỉ ngơi.)*
-- D. Her husband is planning a long holiday in the spring. *(Chồng chị định đi nghỉ dài vào mùa xuân.)*
+- D. Her husband is planning a long vacation in the spring. *(Chồng chị định đi nghỉ dài vào mùa xuân.)*
 
 **60. Which best summarizes Megan's overall judgment of the book?**
 *(Câu nào tóm tắt đúng nhất đánh giá chung của Megan về cuốn sách?)*
 
-- A. It is perfect and should replace the hospital's current well-being program. *(Sách hoàn hảo và nên thay chương trình chăm sóc sức khoẻ hiện tại của bệnh viện.)*
-- B. It has clear flaws, but she recommends it because it raises the right questions for the right people. *(Sách có khuyết điểm rõ ràng, nhưng chị vẫn giới thiệu vì nó đặt đúng câu hỏi cho đúng người.)*
+- A. It is perfect and should replace the hospital's current well-being program. *(Sách hoàn hảo và nên thay chương trình chăm sóc sức khoẻ toàn diện hiện tại của bệnh viện.)*
+- B. It has flaws, but it asks the right questions of the right people. *(Sách có khuyết điểm, nhưng đặt đúng câu hỏi cho đúng người.)*
 - C. It is pleasant to read but has no practical value for nurses. *(Sách dễ đọc nhưng chẳng có giá trị thực tế gì cho điều dưỡng.)*
 - D. It is useful for managers but not for other members of staff. *(Sách hữu ích cho quản lý nhưng không cho nhân viên khác.)*
 
@@ -830,7 +855,7 @@
 - Câu cuối hài hước (đèn thư viện) thường hỏi về **giọng điệu/hiệu ứng**, không phải về lập luận chính.
 - Trong nhật ký, câu rất ngắn sau một câu đùa (`She did not laugh.`) là chỗ hỏi hàm ý: cảm xúc thật của nhân vật.
 - Bài khoa học dạng vấn đề → giải pháp: câu chuyển ý (`However`, `The encouraging news is that…`) đánh dấu chỗ bài đổi hướng. Câu hỏi về cấu trúc hay hỏi đúng những câu này.
-- Thư đề xuất: chi tiết nhắc lại quá khứ tốt đẹp ở đầu thư thường nhằm **giữ quan hệ**, không phải để phàn nàn. Hạn trả lời không phải lời đe doạ nếu người viết đã nói rõ không muốn đổi.
+- Thư/email đề xuất: chi tiết nhắc lại quá khứ tốt đẹp ở đầu thư thường nhằm **giữ quan hệ**, không phải để phàn nàn. Hạn trả lời không phải lời đe doạ nếu người viết đã nói rõ không muốn đổi.
 - Bài điểm sách: câu hỏi "NOT a weakness" thường cài phương án là phần được KHEN ở đoạn trước (`the strongest in the book`).
 
 ---
@@ -862,23 +887,23 @@
 | 21 | **B** | Câu 2–3: "A handful of soil does not look like much" — câu hỏi về cấu trúc. Câu đầu nói đất trông chẳng có gì, câu sau mở bằng "Yet" và nói tới hàng tỷ vi sinh vật: đó là phép đối lập. |
 | 22 | **C** | Câu 5: "modern farming has enabled the world to feed billions more people than anyone once thought possible" — các phương án khác đảo ngược thông tin trong bài. |
 | 23 | **D** | Câu 7–8: "the same methods, applied year after year on the same land, have had a hidden cost" — câu ngay sau giải thích: đất bị gió mưa cuốn đi, "soil that took centuries to form can be lost in a few decades". |
-| 24 | **B** | Câu 9: "about a third of the world's soils are already moderately or highly degraded" — phương án nhiễu lấy lại con số "a third" và chi tiết "less than a foot deep" ở chỗ khác. |
+| 24 | **B** | Câu 9: "about a third of the world's soils are already moderately or highly degraded" — đất suy thoái ở mức trung bình hoặc nặng tức là đã mất đi phần lớn chất lượng. Phương án nhiễu lấy lại con số "a third" nhưng gán cho nông dân, hoặc lấy chi tiết "less than a foot deep" ở chỗ khác. |
 | 25 | **A** | Câu 10–12: "Degradation, however, is not only a matter of how much soil is lost" — câu chuyển ý. Các câu sau nói thuốc trừ sâu xoá sổ côn trùng, giun, thiên địch và phân bón gây ô nhiễm sông: đó là chuyện chất lượng, không phải số lượng. |
 | 26 | **A** | Câu 13: "Inevitably, farmers who see their harvests fall respond by applying even more chemicals" — "inevitably" = không thể tránh khỏi; người viết coi phản ứng của nông dân là điều gần như chắc chắn, nên mới thành "the cycle continues". |
-| 27 | **D** | Câu 16: "Others have stopped plowing altogether, using a method whereby seeds are placed directly into the remains of the previous crop" — phương pháp này dùng thay cho việc cày. |
+| 27 | **D** | Câu 7, 10, 14, 19: "The encouraging news is that soil can recover" — câu hỏi về cấu trúc cả bài. Đoạn 2–3 nêu vấn đề ("have had a hidden cost": đất bị cuốn trôi, suy thoái, ô nhiễm), đoạn 4 chuyển sang giải pháp, đoạn 5 nói cái giá của việc hồi phục ("Recovery takes patience", mùa màng giảm, nông dân cần hỗ trợ). Bài có nhắc phân bón và thuốc trừ sâu nhưng không kể lịch sử, không so sánh các nước, và người viết có quan điểm rõ chứ không để người đọc tự quyết. |
 | 28 | **A** | Câu 18: "None of these methods is new" — câu suy luận. Nếu các cách hồi phục đất đã có từ trước hoá chất, thì lời giải nằm ở việc quay lại cách làm cũ, không cần phát minh mới. Phương án "always" và "never" quá tuyệt đối, trái với đoạn 2 (hoá chất từng giúp giảm nạn đói). |
 | 29 | **B** | Câu 20: "Harvests may drop slightly while the soil rebuilds itself, which is why many experts argue that farmers should receive support" — "which is why" nối thẳng lý do với kết luận. |
 | 30 | **C** | Câu 14, 21, 22: "The encouraging news is that soil can recover" — bài vừa cảnh báo ("will have been seriously damaged") vừa nhấn mạnh đất có thể hồi phục và "could go on feeding us indefinitely". Thái độ: lo nhưng có hy vọng. |
-| 31 | **A** | Câu 4: "I hope you will read this letter as coming from a loyal customer rather than a difficult one" — câu suy luận về mục đích. Bà nhắc lần ông tử tế để đặt lá thư vào một mối quan hệ tốt, không phải để than phiền. |
-| 32 | **B** | Câu 6: "every week we discard all twenty of them, because they cannot be recycled where we live" — lý do nằm sau "because". |
-| 33 | **D** | Câu 8: "My customers have started to notice, too" — câu suy luận. Chi tiết khách mang cốc riêng và câu hỏi "quite politely" cho thấy khách bắt đầu để tâm và kỳ vọng quán thay đổi, không phải bỏ quán. |
-| 34 | **A** | Câu 10: "could Coastline deliver our beans in bulk, in durable containers that your driver would collect, empty, on the following delivery" — chi tiết. Tiền đặt cọc là cho thùng chứa, không phải cho cốc của khách. |
-| 35 | **C** | Câu 13: "If reusable containers are not a viable option for you at present" — nghĩa từ trong ngữ cảnh: nếu thùng dùng lại "chưa khả thi" thì bà đưa phương án dễ hơn (túi phân huỷ sinh học). |
-| 36 | **D** | Câu 16: "to my surprise, we did not lose a single customer" — câu suy luận về mục đích: một ví dụ thực tế cho thấy giảm rác không gây hại cho việc kinh doanh, làm đề xuất thuyết phục hơn. |
-| 37 | **C** | Câu 15: "coffee is a staple of our business, just as bread and milk are" — "staple" là mặt hàng thiết yếu, cơ bản; so sánh với bánh mì và sữa củng cố nghĩa này. |
-| 38 | **C** | Câu 18: "I have no wish to change suppliers" — bà nói thẳng không muốn đổi và "would much rather solve this problem together". Hạn cuối tháng Tư chỉ là hạn hồi âm, không phải lời đe doạ. |
-| 39 | **D** | Câu 22: "tells me that a business letter should always include a figure, so here is one" — câu suy luận về giọng điệu. Giọng hơi đùa ("so here is one"), nhưng con số mười ba nghìn túi nhắc lại quy mô vấn đề một cách sắc sảo. |
-| 40 | **B** | Câu 17, 19: "I am not asking you to change your whole business overnight" — bà nêu yêu cầu cụ thể nhưng mềm mỏng, mời ông tới quán uống cà phê ("always welcome to visit the café"). Giọng ấm áp mà vẫn rõ ràng. |
+| 31 | **A** | Câu 5: "please read this as a note from a loyal customer of more than twelve years rather than a difficult one" — câu suy luận về mục đích. Bà nhắc lần Rob tử tế để đặt email vào một mối quan hệ tốt, không phải để than phiền. |
+| 32 | **B** | Câu 8: "all twenty go straight in the trash, because they cannot be recycled where we live" — lý do nằm sau "because". |
+| 33 | **D** | Câu 10: "Customers have noticed, too" — câu suy luận. Chi tiết khách mang cốc riêng và câu hỏi "quite politely" cho thấy khách bắt đầu để tâm và kỳ vọng quán thay đổi, không phải bỏ quán. Không có chi tiết nào nói thầy giáo xin tự tái chế túi. |
+| 34 | **A** | Câu 12–13: "Bulk delivery in durable containers, which your driver would pick up on the next delivery" — chi tiết. Tiền đặt cọc là cho thùng chứa, không phải cho cốc của khách. |
+| 35 | **C** | Câu 15: "if reusable containers are not a viable option for you at present" — nghĩa từ trong ngữ cảnh: nếu thùng dùng lại "chưa khả thi" thì bà đưa phương án dễ hơn (túi phân huỷ sinh học). |
+| 36 | **D** | Câu 18: "to my surprise, we did not lose a single customer" — câu suy luận về mục đích: một ví dụ thực tế cho thấy giảm rác không gây hại cho việc kinh doanh, làm đề xuất thuyết phục hơn. |
+| 37 | **C** | Câu 17: "coffee is as much a staple for us as bread and milk are for a grocery store" — "staple" là mặt hàng thiết yếu, cơ bản; phép so sánh với bánh mì và sữa ở cửa hàng tạp hoá củng cố nghĩa này. |
+| 38 | **C** | Câu 20: "I have no wish to change suppliers" — bà nói thẳng không muốn đổi và "would much rather solve this together". Hạn cuối tháng Tư chỉ là hạn hồi âm, không phải lời đe doạ. |
+| 39 | **D** | Câu 25: "a business email should always include a figure, so here is one" — câu suy luận về giọng điệu. Giọng hơi đùa ("so here is one"), nhưng con số mười ba nghìn túi nhắc lại quy mô vấn đề một cách sắc sảo. Bà ghi rõ "since we became your customer" và không đòi Coastline trả tiền. |
+| 40 | **B** | Câu 19, 22: "I am not asking you to change your whole business overnight" — bà nêu yêu cầu cụ thể nhưng mềm mỏng, mời Rob ghé quán uống cà phê ("always welcome to drop by"). Giọng ấm áp mà vẫn rõ ràng. |
 | 41 | **A** | Câu 3–4: "it changed medicine so fundamentally that it is hard to imagine the world before it" — câu sau minh hoạ: bệnh từng gây tử vong "could suddenly be cured in a matter of days". |
 | 42 | **D** | Câu 6: "people who took too little of the drug, or stopped too soon, might expose bacteria to it without killing them, and so teach them to survive" — chi tiết. |
 | 43 | **B** | Câu 7–8: "He was right" — câu hỏi về cấu trúc lập luận. Câu cực ngắn chốt lời cảnh báo, rồi câu sau giải thích cơ chế ("Whenever bacteria are exposed to an antibiotic…"). |
@@ -888,14 +913,14 @@
 | 47 | **B** | Câu 17–18: "doctors are told to keep it in reserve and prescribe it only when older drugs have failed" — câu sau tóm lại nghịch lý: càng quý thì càng ít dùng, càng ít lời. |
 | 48 | **D** | Câu 21–22: "Their point was not that people should stop whenever they like" — cấu trúc "not that… but that…": họ muốn liệu trình không dài hơn mức cần, và lời khuyên vẫn là theo đúng bác sĩ. |
 | 49 | **D** | Câu 8: "the most susceptible ones die first" — nghĩa từ trong ngữ cảnh: đối lập với những con "that protects them" sống sót, nên "susceptible" là dễ bị thuốc tác động. |
-| 50 | **C** | Câu 23: "it would be a tragedy to lose it through carelessness" — câu chốt thái độ: kháng sinh là món quà quý, có thể mất vì dùng bừa. Phương án về "holidays" chỉ bắt chữ trong câu mở bài. |
+| 50 | **C** | Câu 23: "it would be a tragedy to lose it through carelessness" — câu chốt thái độ: kháng sinh là món quà quý, có thể mất vì dùng bừa. Phương án về "vacations" chỉ bắt chữ trong câu mở bài. |
 | 51 | **D** | Câu 3–4: "treat a day off as a chance to catch up on laundry" — câu suy luận. Ngủ trong xe, ăn đứng, dùng ngày nghỉ để giặt đồ: chị vốn xem nhẹ nghỉ ngơi. |
 | 52 | **B** | Câu 5: "I suspected that I was being told something" — "Then actually do it" là lời nhắc khéo: người đồng nghiệp muốn Megan thật sự nghỉ ngơi. |
 | 53 | **C** | Câu 6: "rest is not simply the absence of work, but a separate activity that has to be planned" — chi tiết. |
-| 54 | **A** | Câu 7: "meaning time spent with people who do not need anything from you" — định nghĩa nằm ngay sau "meaning". |
+| 54 | **A** | Câu 7: "meaning time spent with people who do not need anything from you" — định nghĩa nằm ngay sau "meaning": những người không cần gì ở bạn cũng là những người không đòi hỏi gì ở bạn. |
 | 55 | **C** | Câu 9–10: "her refusal to treat well-being as a matter of personal discipline alone" — câu suy luận. Dặn tập giãn cơ nhưng vẫn xếp ba ca đêm liền thì gánh nặng bị đẩy cho cá nhân; "homework" là cách nói mỉa. |
 | 56 | **D** | Câu 11–12: "deserves to be taken seriously by anyone who writes the schedules in this building" — câu suy luận: người xếp lịch là quản lý, và chị muốn họ nhận ra phần việc của mình. Câu kết cũng nhắc "especially to our managers". |
 | 57 | **C** | Câu 8, 14, 15, 16: "Her chapter on sleep is the strongest in the book" — chương giấc ngủ được khen; ba phương án còn lại đều nằm trong đoạn "not without weaknesses". |
-| 58 | **A** | Câu 14: "are pleasant but thin, and they rely heavily on stories from Whitman's own life rather than on research" — vế sau giải thích "thin": dựa vào chuyện riêng thay vì nghiên cứu, tức thiếu chiều sâu. |
+| 58 | **A** | Câu 14: "are pleasant but thin, and they rely heavily on stories from Calloway's own life rather than on research" — vế sau giải thích "thin": dựa vào chuyện riêng thay vì nghiên cứu, tức thiếu chiều sâu. |
 | 59 | **B** | Câu 20: "who has his own reasons to take rest seriously this spring" — hàm ý. Câu này gắn với đoạn trước về chuyện khó nghỉ khi "worried about someone you love": người chị lo chính là chồng. |
 | 60 | **B** | Câu 21: "it is not a perfect book, but it asks the right questions, and it asks them of the right people" — câu kết tóm thái độ: khen có chừng mực, giới thiệu cho mọi người. |

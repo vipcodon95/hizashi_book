@@ -4,7 +4,7 @@
 >
 > **Nhân vật:** Chloe Bennett, Ruby, Tracy Carter, Harriet Brooks, Nathan Brooks, Mitchell Carter, Tina Carter · tháng 9 – 10, năm 9
 >
-> **Mục tiêu:** đọc một báo cáo nội bộ có số liệu thật về tuần làm bốn ngày và một bài luận tự sự về việc trở về quê; nhận ra cách người viết dè chừng chính nguồn mình dẫn, sự trung thực khi trình bày kết quả, một quy định có tác dụng ngược với người khác, ẩn dụ (chìa khoá ↔ thói quen), giọng tự giễu, các chi tiết nối với chương trước, và các cấu trúc C2: provided that, which is to say, of all things, whatever + mệnh đề; và thêm bốn bài: tiểu luận về dự đoán tuần làm 15 giờ của Keynes (1930), blog của Nathan về AI và người mới vào nghề, bài khoa học về độ ổn định nhân cách (nghiên cứu Scotland 1950 → 77 tuổi, "end of history illusion" 2013), chuyên mục của thầy Mitchell về thang đo "Do You Know?" và chuyện gia đình.
+> **Mục tiêu:** đọc một báo cáo nội bộ có số liệu thật về tuần làm bốn ngày và một bài luận tự sự về việc trở về quê; nhận ra cách người viết dè chừng chính nguồn mình dẫn, sự trung thực khi trình bày kết quả, một quy định có tác dụng ngược với người khác, ẩn dụ (chìa khoá ↔ thói quen), giọng tự giễu, các chi tiết nối với chương trước, và các cấu trúc C2: provided that, which is to say, of all things, whatever + mệnh đề; và thêm bốn bài: tiểu luận về dự đoán tuần làm 15 giờ của Keynes (1930), blog của Nathan một năm sau bài "Who Will Train the Juniors?" (tự nhận "half right": cách cho người mới kiểm bài của AI đổi sang buổi giải thích hằng tuần), bài khoa học về độ ổn định nhân cách (nghiên cứu Scotland 1950 → 77 tuổi, "end of history illusion" 2013), chuyên mục của thầy Mitchell về thang đo "Do You Know?" và chuyện gia đình.
 
 ---
 
@@ -21,7 +21,7 @@
 | computation | danh từ | phép tính, sự tính toán | `c2.025` |
 | standing | danh từ | vị thế, tiếng tăm | `c2.029` |
 | configuration | danh từ | cấu hình | `c2.025` |
-| node | danh từ | nút (trong mạng) | `c2.025` |
+| menial | tính từ | thấp kém, chân tay | `c2.030` |
 
 **Từ ngoài bài học** (chưa có trong khoá tới unit này, xem nghĩa để đọc trôi):
 
@@ -32,7 +32,6 @@
 | striking | nổi bật, đáng chú ý |
 | resizing | chỉnh kích cỡ |
 | rotating | luân phiên |
-| deadline | hạn chót |
 | intense | căng thẳng, dồn dập |
 | illustrator | hoạ sĩ minh hoạ |
 | constraint | sự ràng buộc |
@@ -41,10 +40,7 @@
 | disparaging | coi thường |
 | horror | sự kinh hoàng |
 | eager | nôn nóng |
-| suitcases | những chiếc vali |
 | sandbags | những bao cát |
-| chemistry | môn hoá |
-| bark | sủa |
 | closer | gần hơn |
 | squeezing | dồn ép |
 | exhaustion | sự kiệt sức |
@@ -63,6 +59,20 @@
 | milkman | người giao sữa |
 | milkmen | những người giao sữa |
 | closest | gần nhất |
+| subsistence | mức đủ sống |
+| elastic | co giãn |
+| bereft | mất hẳn, trống rỗng (bereft of) |
+| menial | (việc) thấp kém, vặt vãnh |
+| counterproductive | phản tác dụng |
+| farm out | giao (việc) ra ngoài |
+| intermediary | người trung gian |
+| etched | khắc sâu |
+| longitudinal | (nghiên cứu) theo dõi dài hạn |
+| irrevocable | không thể đảo ngược |
+| breadwinner | trụ cột kinh tế |
+| pattern-matching | so khớp mẫu |
+| distorted | bị bóp méo |
+| noticeably | rõ rệt |
 
 > 📌 Cụm hay gặp trong bài: *on a rotating basis* (luân phiên), *take for granted* (coi là đương nhiên), *take the pressure off* (bớt áp lực), *be wary of* (dè chừng), *move on* (bước tiếp), *without consulting me* (chẳng hỏi ý tôi), *catch myself doing* (bắt gặp mình đang), *of all things* (lạ thay, không ngờ lại là), *show up* (có mặt), *get to know each other again* (làm quen lại với nhau), *makes for strange reading* (đọc thấy thật lạ), *none wholly satisfying on its own* (không lời nào tự nó thoả đáng hoàn toàn), *do not appear from nowhere* (không tự nhiên mà có), *he may have a point* (có lẽ anh ấy cũng có lý), *on behalf of someone we have not yet met* (thay cho một người ta chưa từng gặp), *in the name of research* (nhân danh nghiên cứu), *hitch a ride* (xin đi nhờ xe).
 
@@ -338,8 +348,8 @@
 | 7 | On the first prediction, Keynes was broadly right. | Ở dự đoán thứ nhất, Keynes nhìn chung đã đúng. |
 | 8 | By most measures, average incomes in the countries he had in mind have grown within the range he suggested, and machines he could only imagine now automate tasks, from complex computation to the sorting of mail, that once required whole floors of clerks. | Theo phần lớn thước đo, thu nhập trung bình ở những nước ông nghĩ tới đã tăng trong khoảng ông nêu, và những cỗ máy ông chỉ có thể tưởng tượng giờ tự động hoá các việc, từ tính toán phức tạp đến phân loại thư, vốn từng cần cả những tầng lầu đầy nhân viên văn phòng. |
 | 9 | On the second, he was spectacularly wrong. | Ở dự đoán thứ hai, ông đã sai một cách ngoạn mục. |
-| 10 | Working hours fell for several decades and then, for many full-time employees, more or less stopped falling; in some professions they have risen again. | Giờ làm việc giảm trong vài thập kỷ rồi, với nhiều người làm toàn thời gian, gần như ngừng giảm; ở một số nghề, nó còn lặng lẽ tăng trở lại. |
-| 11 | The fifteen-hour week remains about as likely as the flying car. | Tuần làm mười lăm giờ vẫn khả thi chừng nào xe hơi bay còn khả thi. |
+| 10 | Working hours fell for several decades and then, for many full-time employees, more or less stopped falling; in some professions they have risen again. | Giờ làm giảm suốt vài thập kỷ rồi, với nhiều người làm toàn thời gian, gần như ngừng giảm; ở một số nghề, giờ làm còn tăng trở lại. |
+| 11 | The fifteen-hour week remains about as likely as the flying car. | Tuần làm mười lăm giờ đến nay vẫn xa vời chẳng kém xe hơi bay. |
 | 12 | Why did the extra wealth not turn into extra time? | Vì sao của cải tăng thêm không biến thành thời gian rảnh tăng thêm? |
 | 13 | Economists have offered several answers, none wholly satisfying on its own. | Các nhà kinh tế đưa ra vài lời giải, không lời nào tự nó thoả đáng hoàn toàn. |
 | 14 | One is that our wants turned out to be far more elastic than Keynes supposed. | Một là nhu cầu của chúng ta hoá ra co giãn hơn nhiều so với Keynes tưởng. |
@@ -368,9 +378,9 @@
 **22. What did Keynes predict about living standards?**
 *(Keynes dự đoán gì về mức sống?)*
 
-- A. Living standards would fall for a hundred years before slowly recovering. *(Mức sống sẽ giảm suốt một trăm năm rồi mới từ từ hồi phục.)*
-- B. Every country in the world would become equally rich by 2030. *(Mọi nước trên thế giới sẽ giàu ngang nhau vào năm 2030.)*
-- C. People in richer countries would become four to eight times better off within a century. *(Người dân các nước giàu sẽ sung túc gấp bốn đến tám lần trong vòng một thế kỷ.)*
+- A. Living standards would fall for several decades before slowly recovering to their 1930 level. *(Mức sống sẽ giảm trong vài thập kỷ rồi mới chậm chạp hồi phục về mức năm 1930.)*
+- B. Every country in the world, rich or poor, would become equally wealthy within a hundred years. *(Mọi quốc gia trên thế giới, giàu hay nghèo, sẽ trở nên giàu ngang nhau trong vòng một trăm năm.)*
+- C. People in rich countries would be four to eight times better off within a century. *(Người dân ở các nước giàu sẽ khá giả gấp bốn đến tám lần trong vòng một thế kỷ.)*
 - D. Incomes would stay the same, but working hours would fall sharply. *(Thu nhập giữ nguyên nhưng giờ làm sẽ giảm mạnh.)*
 
 **23. According to Keynes, what would become the "real challenge" once the economic problem was solved?**
@@ -390,11 +400,11 @@
 - D. He was largely right about wealth but very wrong about working hours. *(Ông phần lớn đúng về của cải nhưng sai nặng về giờ làm.)*
 
 **25. What is the purpose of the remark that the fifteen-hour week "remains about as likely as the flying car"?**
-*(Câu nói tuần làm mười lăm giờ "khả thi chừng nào xe hơi bay còn khả thi" nhằm mục đích gì?)*
+*(Câu nói tuần làm mười lăm giờ "xa vời chẳng kém xe hơi bay" nhằm mục đích gì?)*
 
 - A. to suggest that flying cars will soon make shorter weeks possible *(để gợi ý rằng xe hơi bay sẽ sớm khiến tuần làm ngắn hơn trở nên khả thi)*
 - B. to compare Keynes's essay with modern films about the future *(để so bài tiểu luận của Keynes với phim hiện đại về tương lai)*
-- C. to show that Keynes also made predictions about transport *(để cho thấy Keynes cũng dự đoán về giao thông)*
+- C. to show that Keynes also made confident predictions about cars and transport *(để cho thấy Keynes cũng đưa ra những dự đoán đầy tự tin về xe cộ và giao thông)*
 - D. to stress, with some humor, how unrealistic the prediction now seems *(để nhấn mạnh, có phần hài hước, rằng dự đoán ấy giờ trông phi thực tế đến mức nào)*
 
 **26. In the essay, "elastic" is closest in meaning to**
@@ -405,21 +415,21 @@
 - C. made of rubber *(làm bằng cao su)*
 - D. fixed from birth *(cố định từ khi sinh ra)*
 
-**27. Which distinction did Keynes make, according to the essay?**
-*(Theo bài, Keynes đã phân biệt điều gì?)*
+**27. Which of the following is NOT given in the essay as a reason why extra wealth did not become extra time?**
+*(Điều nào sau đây KHÔNG được bài nêu là lý do khiến của cải tăng thêm không biến thành thời gian rảnh?)*
 
-- A. between needs that can be satisfied and the endless wish to feel superior *(giữa nhu cầu có thể thoả mãn và mong muốn thấy mình hơn người không bao giờ dứt)*
-- B. between work done by machines and work done by people *(giữa việc máy làm và việc người làm)*
-- C. between the needs of children and the needs of grandparents *(giữa nhu cầu của trẻ em và nhu cầu của ông bà)*
-- D. between housing, which is a luxury, and education, which is a need *(giữa nhà ở là thứ xa xỉ và giáo dục là nhu cầu)*
+- A. governments required longer working weeks *(chính phủ bắt buộc tuần làm việc dài hơn)*
+- B. people's wants proved more elastic than Keynes supposed *(nhu cầu của con người hoá ra co giãn hơn Keynes tưởng)*
+- C. housing, healthcare and education became more expensive *(nhà ở, y tế và giáo dục trở nên đắt đỏ hơn)*
+- D. work became a source of identity and friendship *(công việc trở thành nguồn bản sắc và tình bạn)*
 
 **28. What is the second explanation for why wealth did not become free time?**
 *(Lời giải thứ hai cho việc của cải không biến thành thời gian rảnh là gì?)*
 
-- A. Machines created more jobs than they removed, so people had to work more. *(Máy móc tạo ra nhiều việc hơn số việc chúng lấy đi, nên người ta phải làm nhiều hơn.)*
-- B. People preferred to buy flying cars rather than take holidays. *(Người ta thích mua xe hơi bay hơn là đi nghỉ.)*
-- C. Governments made laws that required a forty-hour week. *(Nhà nước ra luật bắt buộc tuần làm bốn mươi giờ.)*
-- D. Rising costs of housing, healthcare and education absorbed much of the extra income. *(Chi phí nhà ở, y tế và giáo dục tăng đã nuốt phần lớn thu nhập tăng thêm.)*
+- A. Machines created more jobs than they removed, so people had to work longer hours. *(Máy móc tạo ra nhiều việc hơn số việc chúng lấy đi, nên người ta phải làm lâu hơn.)*
+- B. Workers chose to save their extra income rather than spend it on free time. *(Người lao động chọn để dành phần thu nhập thêm thay vì dùng nó đổi lấy thời gian rảnh.)*
+- C. Employers refused to reduce hours, even though wages had risen considerably. *(Giới chủ không chịu giảm giờ làm, dù lương đã tăng đáng kể.)*
+- D. Rising prices for housing, healthcare and education absorbed much of it. *(Giá nhà ở, y tế và giáo dục tăng đã nuốt mất phần lớn số tiền ấy.)*
 
 **29. Why does the writer call the third answer "less comfortable"?**
 *(Vì sao tác giả gọi lời giải thứ ba là "khó nghe hơn"?)*
@@ -439,21 +449,23 @@
 
 ---
 
-## Bài đọc 4 (Unit 7) — Blog của Nathan: ai sẽ đào tạo người mới vào nghề?
+## Bài đọc 4 (Unit 7) — Blog của Nathan: một năm sau bài "ai sẽ đào tạo lớp kỹ sư mới?"
 
-> **Who Will Train the Apprentices?**
+> **Who Will Train the Juniors? A Year Later**
 >
 > Nathan Brooks, from his blog about software and the people who write it
 >
-> Last month a junior engineer on my team, whom I will call Rory because he would hate to see his real name here, asked me a question I have not stopped thinking about. He had just used an AI assistant to fix a problem in our system configuration in about four minutes, and instead of looking pleased, he looked worried. "If this thing can do my job," he said, "how am I supposed to get good enough to do yours?"
+> Almost a year ago I published a piece called "Who Will Train the Juniors?", and several readers have asked how its plan has worked out. The honest answer is that I was half right: right about the problem, wrong about the cure.
 >
-> I laughed, and then I went home and thought about it for a week. When I started out, almost twenty years ago, the work nobody else wanted was the work that taught me everything. I spent months reading other people's code, writing tests for features I had not designed, and chasing errors from one node of a network to the next until I understood, slowly and painfully, how the whole thing fit together. It was tedious, and at the time it felt almost menial, but it encoded something in my head that no course could have given me. Those are exactly the tasks that AI tools now automate best.
+> My proposal was that every junior should spend part of each week checking the AI's work and presenting what they found to a senior engineer, on the theory that you cannot judge an answer you do not understand. For about three months it looked like a success: the juniors flagged plenty of errors. Then a junior engineer whom I will call Rory asked me a question I have not stopped thinking about. He had just approved an AI-written fix to our system configuration in about four minutes, and instead of looking pleased, he looked worried. "I said it was fine because it looked like the fixes that are usually fine," he said. "If that's all I'm doing, how am I supposed to get good enough to do your job?"
 >
-> From the company's point of view, this looks like pure gain. A senior engineer with a good assistant can produce what used to require a small team, and the improvement in profitability is hard to argue with. Some firms have stopped hiring beginners altogether, reasoning that they can farm out the simple work to software and hire experienced people when they need them. Each decision makes sense on its own; taken together, they may prove deeply counterproductive. Experienced engineers do not appear from nowhere. If nobody is allowed to be a beginner, then in ten years there will be nobody to hire.
+> The theory was sound, but in practice it had been quietly turned around: unable to judge answers they did not understand, the juniors had learned to judge how an answer looked. Checking had become a kind of pattern-matching, which is precisely what the machine does, only more slowly. When I started out, there was no way to skip understanding: I spent months reading other people's code and writing tests for features I had not designed. It was tedious, and it felt almost menial, but it encoded something in my head that no course could have given me.
 >
-> I do not think the answer is to ban the tools, which would be both impossible and slightly ridiculous, like banning calculators in an accounting firm. On my own team we have tried something more modest. Beginners may use any tool they like, but once a week they must explain, to a colleague and without help, why the code they have delivered actually works. We have also allotted a share of every project to work that a person does by hand, slowly, with a senior engineer acting less as a supervisor than as an intermediary between the beginner and the machine. Our manager first described this as an expensive form of extracurricular activity, and he may have a point: it costs us time, and the benefit will not appear in this year's figures.
+> To a company, a senior engineer with a good assistant looks like a small team for the price of one, and some firms have stopped hiring beginners altogether. Each decision makes sense on its own; taken together, they may prove deeply counterproductive. Experienced engineers do not appear from nowhere. A firm that pays nobody to be slow while they learn is quietly relying on other firms to do it instead.
 >
-> I am wary of anyone who claims to know what this industry will look like in a decade, including myself. It is possible that the skills Rory is worried about will simply stop mattering, the way few programmers today need to understand how a processor handles binary arithmetic. But I notice that the people who are best at using these tools are, almost without exception, the people who learned to work without them. That may be a coincidence of timing, or it may be the whole point.
+> I still do not think the answer is to ban the tools, which would be both impossible and slightly ridiculous, like banning calculators in an accounting firm. What we changed in the spring was more modest: beginners may use any tool they like, but once a week they must explain to a colleague, without help, why their code actually works. Checking asks whether an answer looks right; explaining asks whether you know why it is right. We have also allotted a share of every project to work done by hand, slowly, with a senior engineer acting less as a supervisor than as an intermediary between the beginner and the machine. Our manager first described this as an expensive form of extracurricular activity, and he may have a point: it costs us time, and the benefit will not appear in this year's figures.
+>
+> I am wary of anyone who claims to know what this industry will look like in a decade, including myself, and a year ago I was more confident than I had any right to be. But I notice that the people who are best at using these tools are, almost without exception, the people who learned to work without them.
 >
 > As for Rory, he now runs our weekly explanation sessions, and he is ruthless. Last week he asked me to explain a piece of code I wrote six years ago. I could not.
 
@@ -461,52 +473,51 @@
 
 | # | Tiếng Anh | Tiếng Việt |
 |---|---|---|
-| 1 | Who Will Train the Apprentices? | Ai sẽ đào tạo người học việc? |
+| 1 | Who Will Train the Juniors? A Year Later | Ai sẽ đào tạo lớp kỹ sư mới? Một năm sau |
 | 2 | Nathan Brooks, from his blog about software and the people who write it | Nathan Brooks, trích blog của anh về phần mềm và những người viết ra nó |
-| 3 | Last month a junior engineer on my team, whom I will call Rory because he would hate to see his real name here, asked me a question I have not stopped thinking about. | Tháng trước, một kỹ sư mới trong nhóm tôi, người tôi sẽ gọi là Rory vì cậu ấy hẳn sẽ ghét thấy tên thật của mình ở đây, đã hỏi tôi một câu mà tôi vẫn chưa thôi nghĩ tới. |
-| 4 | He had just used an AI assistant to fix a problem in our system configuration in about four minutes, and instead of looking pleased, he looked worried. | Cậu vừa dùng một trợ lý AI để sửa một lỗi trong cấu hình hệ thống của chúng tôi trong khoảng bốn phút, và thay vì trông hài lòng, cậu lại trông lo lắng. |
-| 5 | "If this thing can do my job," he said, "how am I supposed to get good enough to do yours?" | "Nếu cái thứ này làm được việc của em," cậu nói, "thì làm sao em giỏi đủ để làm việc của anh được?" |
-| 6 | I laughed, and then I went home and thought about it for a week. | Tôi bật cười, rồi về nhà nghĩ về chuyện đó suốt một tuần. |
-| 7 | When I started out, almost twenty years ago, the work nobody else wanted was the work that taught me everything. | Khi tôi mới vào nghề, gần hai mươi năm trước, chính những việc không ai muốn làm đã dạy tôi mọi thứ. |
-| 8 | I spent months reading other people's code, writing tests for features I had not designed, and chasing errors from one node of a network to the next until I understood, slowly and painfully, how the whole thing fit together. | Tôi mất hàng tháng đọc mã của người khác, viết kiểm thử cho những tính năng mình không thiết kế, và lần theo lỗi từ nút mạng này sang nút mạng khác cho đến khi hiểu ra, chậm chạp và vất vả, toàn bộ hệ thống khớp với nhau thế nào. |
-| 9 | It was tedious, and at the time it felt almost menial, but it encoded something in my head that no course could have given me. | Việc đó tẻ nhạt, và khi ấy tôi thấy nó gần như là việc tay chân, nhưng nó đã khắc vào đầu tôi một thứ mà không khoá học nào có thể cho tôi. |
-| 10 | Those are exactly the tasks that AI tools now automate best. | Đó chính là những việc mà công cụ AI giờ tự động hoá giỏi nhất. |
-| 11 | From the company's point of view, this looks like pure gain. | Từ góc nhìn của công ty, điều này trông như lợi thuần tuý. |
-| 12 | A senior engineer with a good assistant can produce what used to require a small team, and the improvement in profitability is hard to argue with. | Một kỹ sư lâu năm có trợ lý tốt có thể làm ra khối lượng từng cần cả một nhóm nhỏ, và mức cải thiện lợi nhuận thì khó mà cãi được. |
-| 13 | Some firms have stopped hiring beginners altogether, reasoning that they can farm out the simple work to software and hire experienced people when they need them. | Một số công ty đã ngừng hẳn việc tuyển người mới, với lý lẽ rằng họ có thể giao việc đơn giản cho phần mềm và tuyển người có kinh nghiệm khi cần. |
-| 14 | Each decision makes sense on its own; taken together, they may prove deeply counterproductive. | Từng quyết định riêng lẻ đều hợp lý; gộp lại, chúng có thể phản tác dụng nghiêm trọng. |
-| 15 | Experienced engineers do not appear from nowhere. | Kỹ sư giàu kinh nghiệm không tự nhiên mà có. |
-| 16 | If nobody is allowed to be a beginner, then in ten years there will be nobody to hire. | Nếu không ai được phép làm người mới, thì mười năm nữa sẽ chẳng còn ai để tuyển. |
-| 17 | I do not think the answer is to ban the tools, which would be both impossible and slightly ridiculous, like banning calculators in an accounting firm. | Tôi không nghĩ lời giải là cấm các công cụ ấy, việc vừa bất khả thi vừa hơi lố bịch, giống như cấm máy tính bỏ túi ở một công ty kế toán. |
-| 18 | On my own team we have tried something more modest. | Trong nhóm của mình, chúng tôi thử một cách khiêm tốn hơn. |
-| 19 | Beginners may use any tool they like, but once a week they must explain, to a colleague and without help, why the code they have delivered actually works. | Người mới được dùng bất cứ công cụ nào họ thích, nhưng mỗi tuần một lần họ phải giải thích, cho một đồng nghiệp và không có trợ giúp, vì sao đoạn mã họ đã giao thực sự chạy được. |
-| 20 | We have also allotted a share of every project to work that a person does by hand, slowly, with a senior engineer acting less as a supervisor than as an intermediary between the beginner and the machine. | Chúng tôi cũng dành một phần của mỗi dự án cho những việc do người làm bằng tay, chậm rãi, với một kỹ sư lâu năm đóng vai không hẳn người giám sát mà là người trung gian giữa người mới và cỗ máy. |
-| 21 | Our manager first described this as an expensive form of extracurricular activity, and he may have a point: it costs us time, and the benefit will not appear in this year's figures. | Quản lý của chúng tôi lúc đầu gọi việc này là một kiểu hoạt động ngoại khoá đắt đỏ, và có lẽ anh ấy cũng có lý: nó tốn thời gian của chúng tôi, và lợi ích sẽ không hiện ra trong số liệu năm nay. |
-| 22 | I am wary of anyone who claims to know what this industry will look like in a decade, including myself. | Tôi dè chừng bất cứ ai tuyên bố biết ngành này sẽ ra sao trong một thập kỷ nữa, kể cả chính tôi. |
-| 23 | It is possible that the skills Rory is worried about will simply stop mattering, the way few programmers today need to understand how a processor handles binary arithmetic. | Có thể những kỹ năng Rory lo lắng rồi sẽ đơn giản là không còn quan trọng, giống như ngày nay ít lập trình viên cần hiểu bộ vi xử lý thực hiện phép tính nhị phân ra sao. |
+| 3 | Almost a year ago I published a piece called "Who Will Train the Juniors?", and several readers have asked how its plan has worked out. | Gần một năm trước, tôi đăng một bài tên là "Who Will Train the Juniors?" (Ai sẽ đào tạo lớp kỹ sư mới?), và vài độc giả đã hỏi kế hoạch trong bài rốt cuộc ra sao. |
+| 4 | The honest answer is that I was half right: right about the problem, wrong about the cure. | Câu trả lời thật lòng là tôi chỉ đúng một nửa: đúng về vấn đề, sai về cách chữa. |
+| 5 | My proposal was that every junior should spend part of each week checking the AI's work and presenting what they found to a senior engineer, on the theory that you cannot judge an answer you do not understand. | Đề xuất của tôi khi ấy là mỗi kỹ sư mới dành một phần mỗi tuần để kiểm tra bài làm của AI rồi trình bày điều mình tìm được với một kỹ sư lâu năm, dựa trên lý lẽ rằng ta không thể đánh giá một câu trả lời mà mình không hiểu. |
+| 6 | For about three months it looked like a success: the juniors flagged plenty of errors. | Trong khoảng ba tháng, cách đó trông như thành công: các bạn mới đánh dấu được rất nhiều lỗi. |
+| 7 | Then a junior engineer whom I will call Rory asked me a question I have not stopped thinking about. | Rồi một kỹ sư mới mà tôi sẽ gọi là Rory hỏi tôi một câu mà tôi vẫn chưa thôi nghĩ tới. |
+| 8 | He had just approved an AI-written fix to our system configuration in about four minutes, and instead of looking pleased, he looked worried. | Cậu vừa duyệt một bản sửa do AI viết cho cấu hình hệ thống của chúng tôi trong khoảng bốn phút, và thay vì trông hài lòng, cậu lại trông lo lắng. |
+| 9 | "I said it was fine because it looked like the fixes that are usually fine," he said. "If that's all I'm doing, how am I supposed to get good enough to do your job?" | "Em bảo nó ổn vì nó trông giống những bản sửa thường vẫn ổn," cậu nói. "Nếu em chỉ làm có vậy, thì làm sao em giỏi đủ để làm việc của anh được?" |
+| 10 | The theory was sound, but in practice it had been quietly turned around: unable to judge answers they did not understand, the juniors had learned to judge how an answer looked. | Lý lẽ thì đúng, nhưng trên thực tế nó đã lặng lẽ bị đảo ngược: không đánh giá được những câu trả lời mình không hiểu, các bạn mới đã học cách đánh giá xem câu trả lời trông thế nào. |
+| 11 | Checking had become a kind of pattern-matching, which is precisely what the machine does, only more slowly. | Việc kiểm tra đã thành một kiểu so khớp mẫu, mà đó lại chính là việc cỗ máy làm, chỉ có điều chậm hơn. |
+| 12 | When I started out, there was no way to skip understanding: I spent months reading other people's code and writing tests for features I had not designed. | Khi tôi mới vào nghề, chẳng có cách nào bỏ qua bước hiểu: tôi mất hàng tháng trời đọc mã của người khác và viết kiểm thử cho những tính năng mình không thiết kế. |
+| 13 | It was tedious, and it felt almost menial, but it encoded something in my head that no course could have given me. | Việc đó tẻ nhạt, và tôi thấy nó gần như là việc vặt hạ cấp, nhưng nó đã khắc vào đầu tôi một thứ mà không khoá học nào có thể cho tôi. |
+| 14 | To a company, a senior engineer with a good assistant looks like a small team for the price of one, and some firms have stopped hiring beginners altogether. | Với công ty, một kỹ sư lâu năm có trợ lý tốt trông như cả một nhóm nhỏ với giá của một người, và một số công ty đã ngừng hẳn việc tuyển người mới. |
+| 15 | Each decision makes sense on its own; taken together, they may prove deeply counterproductive. | Từng quyết định riêng lẻ đều hợp lý; gộp lại, chúng có thể phản tác dụng nghiêm trọng. |
+| 16 | Experienced engineers do not appear from nowhere. | Kỹ sư giàu kinh nghiệm không tự nhiên mà có. |
+| 17 | A firm that pays nobody to be slow while they learn is quietly relying on other firms to do it instead. | Một công ty không trả lương cho ai được chậm chạp trong lúc học nghề thì đang ngầm trông cậy vào các công ty khác làm việc đó thay mình. |
+| 18 | I still do not think the answer is to ban the tools, which would be both impossible and slightly ridiculous, like banning calculators in an accounting firm. | Tôi vẫn không nghĩ lời giải là cấm các công cụ ấy, việc vừa bất khả thi vừa hơi lố bịch, giống như cấm máy tính bỏ túi ở một công ty kế toán. |
+| 19 | What we changed in the spring was more modest: beginners may use any tool they like, but once a week they must explain to a colleague, without help, why their code actually works. | Điều chúng tôi đổi từ mùa xuân khiêm tốn hơn: người mới được dùng bất cứ công cụ nào họ thích, nhưng mỗi tuần một lần họ phải giải thích cho một đồng nghiệp, không có trợ giúp, vì sao đoạn mã của mình thực sự chạy được. |
+| 20 | Checking asks whether an answer looks right; explaining asks whether you know why it is right. | Kiểm tra là hỏi một câu trả lời trông có đúng không; giải thích là hỏi mình có biết vì sao nó đúng không. |
+| 21 | We have also allotted a share of every project to work done by hand, slowly, with a senior engineer acting less as a supervisor than as an intermediary between the beginner and the machine. | Chúng tôi cũng dành một phần của mỗi dự án cho những việc làm bằng tay, chậm rãi, với một kỹ sư lâu năm đóng vai không hẳn người giám sát mà là người trung gian giữa người mới và cỗ máy. |
+| 22 | Our manager first described this as an expensive form of extracurricular activity, and he may have a point: it costs us time, and the benefit will not appear in this year's figures. | Quản lý của chúng tôi lúc đầu gọi việc này là một kiểu hoạt động ngoại khoá đắt đỏ, và có lẽ anh ấy cũng có lý: nó tốn thời gian của chúng tôi, và lợi ích sẽ không hiện ra trong số liệu năm nay. |
+| 23 | I am wary of anyone who claims to know what this industry will look like in a decade, including myself, and a year ago I was more confident than I had any right to be. | Tôi dè chừng bất cứ ai tuyên bố biết ngành này sẽ ra sao trong một thập kỷ nữa, kể cả chính tôi, và một năm trước tôi đã tự tin hơn mức mình có quyền. |
 | 24 | But I notice that the people who are best at using these tools are, almost without exception, the people who learned to work without them. | Nhưng tôi để ý rằng những người dùng các công cụ này giỏi nhất, gần như không ngoại lệ, là những người đã học cách làm việc khi chưa có chúng. |
-| 25 | That may be a coincidence of timing, or it may be the whole point. | Đó có thể là sự trùng hợp về thời điểm, hoặc cũng có thể đó chính là mấu chốt. |
-| 26 | As for Rory, he now runs our weekly explanation sessions, and he is ruthless. | Còn Rory, giờ cậu ấy điều hành các buổi giải thích hằng tuần của chúng tôi, và cậu ấy chẳng nương tay chút nào. |
-| 27 | Last week he asked me to explain a piece of code I wrote six years ago. | Tuần trước cậu ấy bắt tôi giải thích một đoạn mã tôi viết sáu năm trước. |
-| 28 | I could not. | Tôi không giải thích nổi. |
+| 25 | As for Rory, he now runs our weekly explanation sessions, and he is ruthless. | Còn Rory, giờ cậu ấy điều hành các buổi giải thích hằng tuần của chúng tôi, và cậu ấy chẳng nương tay chút nào. |
+| 26 | Last week he asked me to explain a piece of code I wrote six years ago. | Tuần trước cậu ấy bắt tôi giải thích một đoạn mã tôi viết sáu năm trước. |
+| 27 | I could not. | Tôi không giải thích nổi. |
 
 ### Câu hỏi
 
-**31. Why did Rory look worried rather than pleased after fixing the problem?**
-*(Vì sao Rory trông lo lắng thay vì hài lòng sau khi sửa được lỗi?)*
+**31. What made Rory look worried after approving the AI's fix?**
+*(Điều gì khiến Rory trông lo lắng sau khi duyệt bản sửa của AI?)*
 
-- A. He thought Nathan would be angry that he had used an AI assistant. *(Cậu nghĩ Nathan sẽ giận vì cậu đã dùng trợ lý AI.)*
-- B. He was not sure that the fix would actually work. *(Cậu không chắc bản sửa có thật sự chạy được không.)*
-- C. He believed the AI had made the configuration worse. *(Cậu tin rằng AI đã làm cấu hình tệ hơn.)*
-- D. He feared that if AI did his work, he would never develop the skills to advance. *(Cậu sợ rằng nếu AI làm việc của mình, cậu sẽ không bao giờ phát triển được kỹ năng để tiến lên.)*
+- A. He thought Nathan would be angry that he had used an AI assistant at all. *(Cậu nghĩ Nathan sẽ giận vì cậu đã dùng trợ lý AI.)*
+- B. He had found a serious error in the fix that the other juniors had missed. *(Cậu đã tìm ra một lỗi nghiêm trọng trong bản sửa mà các bạn mới khác bỏ sót.)*
+- C. He believed the AI-written fix had made the configuration noticeably worse. *(Cậu tin bản sửa do AI viết đã làm cấu hình tệ đi rõ rệt.)*
+- D. He had judged the fix by how it looked, without understanding it. *(Cậu đã đánh giá bản sửa qua vẻ ngoài của nó, mà không hiểu nó.)*
 
-**32. What does Nathan say about the tedious work he did early in his career?**
-*(Nathan nói gì về những việc tẻ nhạt anh làm thời mới vào nghề?)*
+**32. Why did Nathan's team replace the weekly checking of the AI's work with explanation sessions?**
+*(Vì sao nhóm của Nathan thay việc kiểm tra bài của AI hằng tuần bằng các buổi giải thích?)*
 
-- A. Although dull, it gave him a deep understanding that no course could have provided. *(Dù nhàm chán, nó cho anh một sự hiểu biết sâu mà không khoá học nào mang lại được.)*
-- B. It was a waste of time that AI tools have fortunately removed. *(Đó là phí thời gian mà may thay công cụ AI đã loại bỏ.)*
-- C. He avoided it whenever possible by asking colleagues for help. *(Anh né nó bất cứ khi nào có thể bằng cách nhờ đồng nghiệp.)*
-- D. It was well paid, which is why he accepted it. *(Nó được trả lương cao, nên anh mới nhận.)*
+- A. The juniors had begun judging how answers looked rather than why they worked. *(Các bạn mới đã quen đánh giá câu trả lời qua vẻ ngoài thay vì hiểu vì sao nó đúng.)*
+- B. The juniors were finding too few errors for the checking to be worth their time. *(Các bạn mới tìm ra quá ít lỗi nên việc kiểm tra không đáng thời gian.)*
+- C. The manager complained that checking the AI's work was costing the team too much. *(Quản lý phàn nàn rằng việc kiểm tra bài của AI khiến nhóm tốn kém quá nhiều.)*
+- D. The AI tools had improved so much that there were hardly any errors left to check. *(Công cụ AI đã tiến bộ đến mức hầu như không còn lỗi nào để kiểm tra.)*
 
 **33. In the blog, the word "encoded" is closest in meaning to**
 *(Trong bài, từ "encoded" gần nghĩa nhất với)*
@@ -516,61 +527,61 @@
 - C. fixed firmly *(khắc sâu, ghi chặt)*
 - D. removed *(xoá đi)*
 
-**34. What is the main argument of the paragraph about companies that stop hiring beginners?**
-*(Lập luận chính của đoạn nói về các công ty ngừng tuyển người mới là gì?)*
+**34. What is the main point of the paragraph about firms that stop hiring beginners?**
+*(Ý chính của đoạn nói về các công ty ngừng tuyển người mới là gì?)*
 
 - A. Choices that are sensible for each firm may harm the industry as a whole. *(Những lựa chọn hợp lý với từng công ty có thể gây hại cho cả ngành.)*
-- B. AI tools are not yet good enough to replace beginners. *(Công cụ AI chưa đủ tốt để thay người mới.)*
-- C. Experienced engineers are too expensive for most companies. *(Kỹ sư giàu kinh nghiệm quá đắt với phần lớn công ty.)*
-- D. Companies should farm out more work to software. *(Các công ty nên giao thêm việc cho phần mềm.)*
+- B. AI assistants are not yet reliable enough to take over the work of beginners. *(Trợ lý AI chưa đủ đáng tin để đảm nhận việc của người mới.)*
+- C. Senior engineers with AI assistants end up costing firms more than small teams. *(Kỹ sư lâu năm dùng trợ lý AI rốt cuộc tốn kém cho công ty hơn cả một nhóm nhỏ.)*
+- D. Firms should farm out more of their simple work to software rather than people. *(Công ty nên giao thêm việc đơn giản cho phần mềm thay vì cho người.)*
 
 **35. What does "Experienced engineers do not appear from nowhere" imply?**
 *(Câu "Kỹ sư giàu kinh nghiệm không tự nhiên mà có" hàm ý gì?)*
 
-- A. They usually come from other countries. *(Họ thường đến từ nước khác.)*
-- B. They become experienced only by first spending years as beginners. *(Họ chỉ có kinh nghiệm sau khi trải qua nhiều năm làm người mới.)*
-- C. They are hard to find because they rarely change jobs. *(Họ khó tìm vì hiếm khi đổi việc.)*
-- D. They must be trained by AI tools. *(Họ phải được công cụ AI đào tạo.)*
+- A. They tend to come from other countries, where training costs much less. *(Họ thường đến từ nước khác, nơi đào tạo rẻ hơn nhiều.)*
+- B. Someone once had to pay them to learn while they were still beginners. *(Đã từng có người phải trả lương cho họ học nghề khi họ còn là người mới.)*
+- C. They are hard to find because they rarely leave the firms that trained them. *(Họ khó tìm vì hiếm khi rời công ty đã đào tạo mình.)*
+- D. From now on, they will mostly be trained by AI tools rather than by people. *(Từ nay họ chủ yếu sẽ được công cụ AI đào tạo thay vì con người.)*
 
 **36. Why does Nathan mention banning calculators in an accounting firm?**
 *(Vì sao Nathan nhắc tới việc cấm máy tính bỏ túi ở một công ty kế toán?)*
 
-- A. to suggest that accountants are more careful than engineers *(để gợi ý rằng kế toán cẩn thận hơn kỹ sư)*
-- B. to recommend that beginners learn accounting first *(để khuyên người mới học kế toán trước)*
+- A. to suggest that accountants use their tools more carefully than engineers do *(để ngụ ý rằng kế toán dùng công cụ cẩn thận hơn kỹ sư)*
+- B. to recommend that beginners learn some accounting before they learn to code *(để khuyên người mới học chút kế toán trước khi học lập trình)*
 - C. to show that banning AI tools would be impractical and absurd *(để cho thấy cấm công cụ AI là phi thực tế và lố bịch)*
-- D. to give an example of a ban that worked well *(để nêu ví dụ về một lệnh cấm có hiệu quả)*
+- D. to give an example of a ban that worked well in another profession *(để đưa ví dụ về một lệnh cấm đã hiệu quả ở một nghề khác)*
 
 **37. What role does the senior engineer play in the work done "by hand"?**
 *(Kỹ sư lâu năm đóng vai trò gì trong phần việc làm "bằng tay"?)*
 
 - A. a go-between who connects the beginner with the machine *(người trung gian nối người mới với cỗ máy)*
-- B. a strict supervisor who checks every line *(người giám sát nghiêm khắc kiểm tra từng dòng)*
-- C. a client who decides what the project should do *(khách hàng quyết định dự án làm gì)*
-- D. a teacher who forbids the use of any tools *(thầy giáo cấm dùng mọi công cụ)*
+- B. a strict supervisor who checks every line the beginner writes *(một người giám sát nghiêm khắc soát từng dòng người mới viết)*
+- C. a client who decides what each project should deliver *(một khách hàng quyết định mỗi dự án phải giao ra cái gì)*
+- D. a teacher who forbids the beginner to use any tools *(một người thầy cấm người mới dùng bất cứ công cụ nào)*
 
 **38. How does Nathan respond to his manager's description of the plan?**
 *(Nathan phản ứng thế nào với cách quản lý mô tả kế hoạch?)*
 
 - A. He rejects it completely and accuses the manager of short-term thinking. *(Anh bác hoàn toàn và trách quản lý suy nghĩ ngắn hạn.)*
 - B. He partly accepts it, admitting the cost and the delayed benefit. *(Anh chấp nhận một phần, thừa nhận chi phí và lợi ích đến muộn.)*
-- C. He agrees and decides to stop the weekly sessions. *(Anh đồng ý và quyết định dừng các buổi hằng tuần.)*
-- D. He ignores it, since the manager does not understand software. *(Anh phớt lờ vì quản lý không hiểu phần mềm.)*
+- C. He agrees with it and decides to stop the weekly explanation sessions. *(Anh đồng ý và quyết định dừng các buổi giải thích hằng tuần.)*
+- D. He ignores it, since the manager does not understand how software is built. *(Anh phớt lờ, vì quản lý không hiểu phần mềm được làm ra thế nào.)*
 
 **39. What is Nathan's attitude toward predictions about the future of his industry?**
 *(Thái độ của Nathan đối với các dự đoán về tương lai ngành mình là gì?)*
 
 - A. confident that AI will soon replace all engineers *(tự tin rằng AI sẽ sớm thay mọi kỹ sư)*
-- B. cautious, even about his own views *(thận trọng, kể cả với quan điểm của chính anh)*
-- C. certain that old skills will always matter *(chắc chắn kỹ năng cũ sẽ luôn quan trọng)*
+- B. cautious, including about his own earlier views *(thận trọng, kể cả với nhận định trước đây của chính mình)*
+- C. certain that the old skills will always matter *(chắc chắn rằng kỹ năng cũ sẽ luôn quan trọng)*
 - D. uninterested, since the future cannot be changed *(không quan tâm vì tương lai không thể thay đổi)*
 
 **40. What does the ending of the blog suggest?**
 *(Phần kết của bài blog gợi ý điều gì?)*
 
-- A. Rory has grown in confidence, and the sessions expose gaps even in experienced engineers. *(Rory đã tự tin hơn, và các buổi giải thích phơi ra lỗ hổng ngay cả ở kỹ sư lâu năm.)*
-- B. Rory has decided to leave the team because the sessions are too hard. *(Rory quyết định rời nhóm vì các buổi ấy quá khó.)*
-- C. Nathan's old code was written by an AI assistant. *(Đoạn mã cũ của Nathan do trợ lý AI viết.)*
-- D. The weekly sessions have been cancelled by the manager. *(Các buổi hằng tuần đã bị quản lý huỷ.)*
+- A. Rory has gained confidence, and the sessions test even senior engineers. *(Rory đã tự tin hơn, và các buổi giải thích thử thách cả kỹ sư lâu năm.)*
+- B. Rory has decided to leave the team because the sessions are too demanding. *(Rory quyết định rời nhóm vì các buổi giải thích quá khắt khe.)*
+- C. Nathan's six-year-old code turned out to have been written by an AI tool. *(Hoá ra đoạn mã sáu năm tuổi của Nathan là do một công cụ AI viết.)*
+- D. The manager has cancelled the weekly sessions because of their cost. *(Quản lý đã huỷ các buổi giải thích hằng tuần vì tốn kém.)*
 
 ---
 
@@ -598,9 +609,9 @@
 | 2 | What long-term studies suggest about the stability of the self | Các nghiên cứu dài hạn gợi ý gì về sự ổn định của bản ngã |
 | 3 | In 1950, teachers in Scotland were asked to rate a large group of fourteen-year-olds on six qualities, including self-confidence, perseverance and originality. | Năm 1950, các giáo viên ở Scotland được đề nghị chấm điểm một nhóm lớn học sinh mười bốn tuổi về sáu phẩm chất, trong đó có sự tự tin, tính kiên trì và tính độc đáo. |
 | 4 | The ratings were filed away and, for the most part, forgotten. | Các bảng điểm được cất vào hồ sơ và phần lớn bị lãng quên. |
-| 5 | More than sixty years later, psychologists traced as many of those students as they could and asked 174 of them, by then aged about seventy-seven, along with a close friend or relative of each, to rate the same qualities again. | Hơn sáu mươi năm sau, các nhà tâm lý học lần tìm được nhiều nhất có thể những học sinh ấy và đề nghị 174 người trong số họ, khi đó khoảng bảy mươi bảy tuổi, cùng một người bạn thân hay người thân của mỗi người, chấm lại đúng các phẩm chất đó. |
+| 5 | More than sixty years later, psychologists traced as many of those students as they could and asked 174 of them, by then aged about seventy-seven, along with a close friend or relative of each, to rate the same qualities again. | Hơn sáu mươi năm sau, các nhà tâm lý học lần tìm càng nhiều càng tốt những học sinh ấy và đề nghị 174 người trong số họ, khi đó khoảng bảy mươi bảy tuổi, cùng một người bạn thân hay người thân của mỗi người, chấm lại đúng các phẩm chất đó. |
 | 6 | Most people, asked to predict the result, expect a strong correlation. | Phần lớn mọi người, khi được hỏi đoán kết quả, đều chờ đợi một mối tương quan mạnh. |
-| 7 | We like to think of character as something etched into us early, the stable core around which a life is built. | Chúng ta thích nghĩ về tính cách như một thứ được khắc vào ta từ sớm, cái lõi ổn định để cả một đời người xây quanh. |
+| 7 | We like to think of character as something etched into us early, the stable core around which a life is built. | Chúng ta thích nghĩ về tính cách như một thứ được khắc vào ta từ sớm, cái lõi ổn định mà cả cuộc đời được dựng quanh nó. |
 | 8 | The study found almost none. | Nghiên cứu gần như không tìm thấy mối tương quan nào. |
 | 9 | For most of the six qualities, there was no significant relationship between how a person had been described at fourteen and how they were described at seventy-seven. | Với phần lớn sáu phẩm chất, không có mối liên hệ đáng kể nào giữa cách một người được mô tả lúc mười bốn tuổi và cách họ được mô tả lúc bảy mươi bảy tuổi. |
 | 10 | The authors were careful to point out the study's limits: each original rating came from a single teacher, the final sample was small, and many of the original participants could not be found. | Các tác giả cẩn thận chỉ ra giới hạn của nghiên cứu: mỗi điểm ban đầu chỉ do một giáo viên chấm, mẫu cuối cùng nhỏ, và nhiều người tham gia ban đầu không tìm lại được. |
@@ -639,21 +650,21 @@
 - C. to set up a contrast with the surprising result of the study *(để tạo sự tương phản với kết quả bất ngờ của nghiên cứu)*
 - D. to criticize readers for not understanding statistics *(để trách người đọc không hiểu thống kê)*
 
-**43. In the article, "etched into us" suggests that character is**
-*(Trong bài, cụm "etched into us" gợi ý rằng tính cách là)*
+**43. In "That person may be grateful, or may not", who is "that person"?**
+*(Trong câu "That person may be grateful, or may not", "that person" là ai?)*
 
-- A. easily washed away by experience *(thứ dễ bị trải nghiệm xoá đi)*
-- B. deeply and permanently marked on a person *(thứ được khắc sâu, vĩnh viễn vào con người)*
-- C. borrowed from other people *(thứ vay mượn từ người khác)*
-- D. hidden from the person who has it *(thứ bị giấu khỏi chính người mang nó)*
+- A. a close friend who rates our personality *(một người bạn thân chấm điểm tính cách của ta)*
+- B. the self we will become in the future *(con người ta sẽ trở thành trong tương lai)*
+- C. the tattoo artist *(người thợ xăm)*
+- D. the teacher who rated us at fourteen *(người thầy đã chấm điểm ta năm mười bốn tuổi)*
 
 **44. What did the study find?**
 *(Nghiên cứu phát hiện điều gì?)*
 
-- A. Self-confidence was the only quality that changed over the years. *(Sự tự tin là phẩm chất duy nhất thay đổi theo năm tháng.)*
+- A. Self-confidence was the only one of the six qualities that changed over the years. *(Sự tự tin là phẩm chất duy nhất trong sáu phẩm chất thay đổi theo năm tháng.)*
 - B. Friends and relatives disagreed completely with the participants. *(Bạn bè và người thân hoàn toàn bất đồng với người tham gia.)*
 - C. Most participants had become more anxious than average. *(Phần lớn người tham gia đã lo âu hơn mức trung bình.)*
-- D. For most qualities, ratings at fourteen did not predict ratings at seventy-seven. *(Với phần lớn phẩm chất, điểm lúc mười bốn tuổi không dự báo được điểm lúc bảy mươi bảy tuổi.)*
+- D. Ratings at fourteen mostly failed to predict ratings at seventy-seven. *(Điểm lúc mười bốn tuổi phần lớn không dự báo được điểm lúc bảy mươi bảy tuổi.)*
 
 **45. Why does the writer list the study's limits?**
 *(Vì sao tác giả liệt kê các giới hạn của nghiên cứu?)*
@@ -682,9 +693,9 @@
 **48. According to the writer, what is one reason the illusion is so common?**
 *(Theo tác giả, đâu là một lý do khiến ảo tưởng ấy phổ biến đến vậy?)*
 
-- A. Our memories of the past are usually false. *(Ký ức của ta về quá khứ thường sai.)*
+- A. Our memories of how we used to be are usually distorted and therefore unreliable. *(Ký ức của ta về con người mình ngày trước thường bị bóp méo nên không đáng tin.)*
 - B. Most people refuse to think about the future at all. *(Phần lớn người ta không chịu nghĩ về tương lai.)*
-- C. Psychologists have encouraged people to believe it. *(Các nhà tâm lý học đã khuyến khích người ta tin vào nó.)*
+- C. Psychologists have spent decades encouraging people to see their personality as fixed. *(Các nhà tâm lý học đã mất hàng chục năm khuyến khích người ta coi tính cách mình là cố định.)*
 - D. Our future self is hard to picture, and that vagueness feels like stability. *(Bản thân ta trong tương lai khó hình dung, và sự mơ hồ ấy tạo cảm giác ổn định.)*
 
 **49. What is the function of the paragraph that begins "None of this means that nothing about us lasts"?**
@@ -711,9 +722,9 @@
 >
 > Mitchell Carter, history department, for the Westview High parents' newsletter
 >
-> Teaching at the school your own child attends has its hazards, and the greatest of them is the dinner table. Since September, when Tina started tenth grade here, I have learned that any conversation about school will end with her asking me, politely but firmly, to stop being a history teacher at home. Last week I ignored that request, in the name of research, though the research is not mine.
+> Teaching at the school your own child attends has its hazards, and the greatest of them is the dinner table. Tina is the third of my children to endure this, and since September, when she started tenth grade and, worse, my history class, I have learned that any conversation about school will end with her asking me, politely but firmly, to stop being a history teacher at home. Last week I ignored that request, in the name of research, though the research is not mine.
 >
-> In the early 2000s, the psychologists Marshall Duke and Robyn Fivush, at Emory University, developed a simple questionnaire for children called the "Do You Know?" scale. It contains twenty questions, such as whether a child knows where their grandparents grew up, how their parents met, or what difficult times the family has been through. In their studies, children who knew more of the answers tended to report a stronger sense of control over their lives and higher self-esteem. Being a historian, I should add at once that this is a correlation; families who tell stories may simply differ in other ways too, such as eating dinner together more often. The researchers were attuned to this, and their explanation was not that knowing facts makes children happy, but that the stories give a child a sense of belonging to something larger and older than themselves.
+> In the early 2000s, the psychologists Marshall Duke and Robyn Fivush, at Emory University, developed a simple questionnaire for children called the "Do You Know?" scale. It contains twenty questions, such as whether a child knows where their grandparents grew up, how their parents met, or what difficult times the family has been through. In their studies, children who knew more of the answers tended to report a stronger sense of control over their lives and higher self-esteem. As a history teacher, I should add at once that this is a correlation; families who tell stories may simply differ in other ways too, such as eating dinner together more often. The researchers were alert to this, and their explanation was not that knowing facts makes children happy, but that the stories give a child a sense of belonging to something larger and older than themselves.
 >
 > What interested me most was their finding about the kind of story that helps. Families, they suggested, tend to tell one of three kinds. In the rising kind, we started with nothing and worked our way up; in the falling kind, we once had everything and lost it. The third, which they called the oscillating story, is the most honest and, it seems, the most useful: we have had ups and downs, and whatever happened, we stuck together. A child who knows that kind of story learns something that a cocoon of praise cannot teach, namely that difficulty can be survived, and that it has been survived before by people with the same name.
 >
@@ -728,13 +739,13 @@
 | 1 | Twenty Questions My Daughter Did Not Want to Answer | Hai mươi câu hỏi con gái tôi không muốn trả lời |
 | 2 | Mitchell Carter, history department, for the Westview High parents' newsletter | Mitchell Carter, tổ lịch sử, viết cho bản tin phụ huynh trường Westview High |
 | 3 | Teaching at the school your own child attends has its hazards, and the greatest of them is the dinner table. | Dạy học ở chính ngôi trường con mình theo học có những rủi ro riêng, và rủi ro lớn nhất là bàn ăn tối. |
-| 4 | Since September, when Tina started tenth grade here, I have learned that any conversation about school will end with her asking me, politely but firmly, to stop being a history teacher at home. | Từ tháng Chín, khi Tina lên lớp mười ở đây, tôi đã học được rằng bất cứ cuộc trò chuyện nào về trường cũng sẽ kết thúc bằng việc con bé đề nghị tôi, lễ phép nhưng dứt khoát, đừng làm thầy dạy sử ở nhà nữa. |
+| 4 | Tina is the third of my children to endure this, and since September, when she started tenth grade and, worse, my history class, I have learned that any conversation about school will end with her asking me, politely but firmly, to stop being a history teacher at home. | Tina là đứa con thứ ba của tôi phải chịu cảnh này, và từ tháng Chín, khi con bé lên lớp mười và, tệ hơn nữa, vào học lớp sử của tôi, tôi đã học được rằng bất cứ cuộc trò chuyện nào về trường cũng sẽ kết thúc bằng việc con bé đề nghị tôi, lễ phép nhưng dứt khoát, đừng làm thầy dạy sử ở nhà nữa. |
 | 5 | Last week I ignored that request, in the name of research, though the research is not mine. | Tuần trước, tôi đã phớt lờ đề nghị ấy, nhân danh nghiên cứu, dù nghiên cứu không phải của tôi. |
 | 6 | In the early 2000s, the psychologists Marshall Duke and Robyn Fivush, at Emory University, developed a simple questionnaire for children called the "Do You Know?" scale. | Đầu những năm 2000, hai nhà tâm lý học Marshall Duke và Robyn Fivush ở Đại học Emory xây dựng một bảng hỏi đơn giản cho trẻ em gọi là thang đo "Con có biết?". |
 | 7 | It contains twenty questions, such as whether a child knows where their grandparents grew up, how their parents met, or what difficult times the family has been through. | Nó gồm hai mươi câu hỏi, chẳng hạn đứa trẻ có biết ông bà mình lớn lên ở đâu, bố mẹ mình gặp nhau thế nào, hay gia đình đã trải qua những thời kỳ khó khăn gì. |
 | 8 | In their studies, children who knew more of the answers tended to report a stronger sense of control over their lives and higher self-esteem. | Trong các nghiên cứu của họ, những đứa trẻ biết nhiều câu trả lời hơn thường cho biết chúng có cảm giác làm chủ cuộc sống mạnh hơn và lòng tự trọng cao hơn. |
-| 9 | Being a historian, I should add at once that this is a correlation; families who tell stories may simply differ in other ways too, such as eating dinner together more often. | Là người làm sử, tôi phải nói thêm ngay rằng đây là một mối tương quan; những gia đình hay kể chuyện có thể đơn giản là khác ở những mặt khác nữa, chẳng hạn hay ăn tối cùng nhau hơn. |
-| 10 | The researchers were attuned to this, and their explanation was not that knowing facts makes children happy, but that the stories give a child a sense of belonging to something larger and older than themselves. | Các nhà nghiên cứu nhạy bén với điều này, và lời giải thích của họ không phải là biết các sự kiện khiến trẻ vui, mà là những câu chuyện cho đứa trẻ cảm giác thuộc về một điều gì đó lớn hơn và lâu đời hơn chính nó. |
+| 9 | As a history teacher, I should add at once that this is a correlation; families who tell stories may simply differ in other ways too, such as eating dinner together more often. | Là người dạy sử, tôi phải nói thêm ngay rằng đây là một mối tương quan; những gia đình hay kể chuyện có thể đơn giản là khác ở những mặt khác nữa, chẳng hạn hay ăn tối cùng nhau hơn. |
+| 10 | The researchers were alert to this, and their explanation was not that knowing facts makes children happy, but that the stories give a child a sense of belonging to something larger and older than themselves. | Các nhà nghiên cứu đã lường trước điều này, và lời giải thích của họ không phải là biết các sự kiện khiến trẻ vui, mà là những câu chuyện cho đứa trẻ cảm giác thuộc về một điều gì đó lớn hơn và lâu đời hơn chính nó. |
 | 11 | What interested me most was their finding about the kind of story that helps. | Điều tôi thấy thú vị nhất là phát hiện của họ về loại chuyện có ích. |
 | 12 | Families, they suggested, tend to tell one of three kinds. | Họ cho rằng các gia đình thường kể một trong ba loại. |
 | 13 | In the rising kind, we started with nothing and worked our way up; in the falling kind, we once had everything and lost it. | Ở loại đi lên, chúng ta khởi đầu từ hai bàn tay trắng rồi gây dựng dần; ở loại đi xuống, chúng ta từng có tất cả rồi mất hết. |
@@ -749,7 +760,7 @@
 | 22 | Tina listened with an expression I have not seen since she was seven, and then said, with deep suspicion, "Is this going to be on a test?" | Tina lắng nghe với vẻ mặt tôi chưa thấy từ khi con bé lên bảy, rồi nói, đầy nghi ngờ: "Chuyện này có trong bài kiểm tra không ạ?" |
 | 23 | It is not, but I have come to think that the most important things we teach our children may not be lessons at all. | Không có, nhưng tôi dần nghĩ rằng những điều quan trọng nhất ta dạy con có lẽ hoàn toàn không phải là bài học. |
 | 24 | They are the stories we tell, half by accident, about the people who came before them, and especially about the times those people stumbled and kept going. | Chúng là những câu chuyện ta kể, nửa vô tình, về những người đi trước các con, và nhất là về những lần những người ấy vấp ngã rồi vẫn bước tiếp. |
-| 25 | Try the twenty questions at your own table, and expect some eye-rolling; in my experience, it is a sign that the stories are being heard. | Hãy thử hai mươi câu hỏi ấy ở bàn ăn nhà mình, và chuẩn bị tinh thần bị lườm; theo kinh nghiệm của tôi, đó là dấu hiệu các câu chuyện đang được lắng nghe. |
+| 25 | Try the twenty questions at your own table, and expect some eye-rolling; in my experience, it is a sign that the stories are being heard. | Hãy thử hai mươi câu hỏi ấy ở bàn ăn nhà mình, và chuẩn bị tinh thần thấy con đảo mắt ngán ngẩm; theo kinh nghiệm của tôi, đó là dấu hiệu các câu chuyện đang được lắng nghe. |
 
 ### Câu hỏi
 
@@ -796,24 +807,24 @@
 **56. What does "a cocoon of praise" suggest in the column?**
 *(Cụm "một cái kén khen ngợi" gợi ý điều gì trong bài?)*
 
-- A. a reward that children receive for good grades *(phần thưởng trẻ nhận được khi điểm cao)*
-- B. a quiet room where children can study alone *(căn phòng yên tĩnh để trẻ học một mình)*
+- A. a reward that children receive from teachers for getting good grades *(phần thưởng trẻ được thầy cô trao khi đạt điểm cao)*
+- B. a quiet, comfortable room where children can study alone *(một căn phòng yên tĩnh, dễ chịu để trẻ học một mình)*
 - C. a story about insects that grandparents tell *(câu chuyện về côn trùng ông bà hay kể)*
 - D. protection that keeps a child from learning about difficulty *(sự che chở khiến đứa trẻ không biết gì về khó khăn)*
 
 **57. How did Tina first respond to the twenty questions?**
 *(Ban đầu Tina phản ứng thế nào với hai mươi câu hỏi?)*
 
-- A. She answered only a few and complained that dinner had become an exam. *(Con bé chỉ trả lời được vài câu và phàn nàn bữa tối thành bài kiểm tra.)*
+- A. She answered only a few and said dinner had become an exam. *(Con bé chỉ trả lời được vài câu và bảo bữa tối thành bài kiểm tra.)*
 - B. She answered all twenty correctly and asked for more. *(Con bé trả lời đúng cả hai mươi câu và đòi thêm.)*
-- C. She refused to answer any and left the table. *(Con bé không trả lời câu nào và rời bàn.)*
+- C. She refused to answer any of them and left the table before dessert. *(Con bé không chịu trả lời câu nào và rời bàn trước món tráng miệng.)*
 - D. She asked her aunt to answer the questions for her. *(Con bé nhờ cô trả lời giúp.)*
 
 **58. What does Mitchell imply when he says "my aunt tells it with a different milkman"?**
 *(Mitchell hàm ý gì khi nói "cô tôi kể chuyện này với một người giao sữa khác"?)*
 
 - A. His grandmother hitched rides with several milkmen every week. *(Bà anh đi nhờ xe nhiều người giao sữa mỗi tuần.)*
-- B. The family story exists in different versions, so its details are uncertain. *(Câu chuyện gia đình có nhiều phiên bản, nên chi tiết của nó không chắc chắn.)*
+- B. The story has several versions, so its details are uncertain. *(Câu chuyện có nhiều phiên bản, nên chi tiết của nó không chắc chắn.)*
 - C. His aunt was the person who drove his grandmother to the interview. *(Cô anh là người chở bà đi phỏng vấn.)*
 - D. He believes his aunt's version is the true one. *(Anh tin phiên bản của cô mới là thật.)*
 
@@ -828,10 +839,10 @@
 **60. What is Mitchell's main point?**
 *(Ý chính Mitchell muốn nói là gì?)*
 
-- A. Parents should test their children on family history every week. *(Phụ huynh nên kiểm tra con về lịch sử gia đình mỗi tuần.)*
-- B. Stories of how earlier generations struggled and kept going may matter more than formal lessons. *(Những câu chuyện về việc thế hệ trước vật lộn và bước tiếp có lẽ quan trọng hơn bài học chính thức.)*
+- A. Parents should test their children on family history regularly, as the "Do You Know?" scale does. *(Phụ huynh nên thường xuyên kiểm tra con về lịch sử gia đình, như thang đo "Do You Know?" vẫn làm.)*
+- B. Stories of how earlier generations struggled and carried on may matter more than lessons. *(Những câu chuyện về việc thế hệ trước vật lộn rồi bước tiếp có lẽ quan trọng hơn bài học.)*
 - C. Teachers should not send their children to their own school. *(Giáo viên không nên cho con học ở trường mình dạy.)*
-- D. Family stories must be checked against records before being told. *(Chuyện gia đình phải được đối chiếu với tài liệu trước khi kể.)*
+- D. Family stories should be checked against documents and records before they are passed on to children. *(Chuyện gia đình nên được đối chiếu với giấy tờ, hồ sơ trước khi kể lại cho con cái.)*
 
 ---
 
@@ -878,23 +889,23 @@
 | 24 | **D** | Câu 7, 9: "On the first prediction, Keynes was broadly right." và "On the second, he was spectacularly wrong." |
 | 25 | **D** | Câu 11: "The fifteen-hour week remains about as likely as the flying car." Xe hơi bay là hình ảnh quen thuộc của những lời hứa tương lai chưa thành. |
 | 26 | **B** | Câu 14: "our wants turned out to be far more elastic than Keynes supposed": nhu cầu cứ giãn ra, câu kế tiếp giải thích thứ xa xỉ hoá thành thiết yếu. |
-| 27 | **A** | Câu 15: "He distinguished between absolute needs, which can be satisfied, and the desire to feel superior to others, which cannot". |
+| 27 | **A** | Câu 14, 17, 19: Bài nêu ba lý do: nhu cầu co giãn ("our wants turned out to be far more elastic than Keynes supposed"), giá nhà ở, y tế, giáo dục tăng ("above all housing, healthcare and education"), và công việc thành nguồn bản sắc ("a source of identity, standing and even friendship"). Bài không hề nói chính phủ bắt làm lâu hơn. |
 | 28 | **D** | Câu 17: "much of the new wealth has been absorbed by things whose prices rose rather than fell, above all housing, healthcare and education". |
 | 29 | **D** | Câu 18–19: Công việc đã thành "a source of identity, standing and even friendship", nên một giờ bớt đi "can feel less like a gift than a loss": khó nghe vì vấn đề nằm ở chính ta. |
 | 30 | **B** | Câu 25: "We, his grandchildren, have mostly answered it by not asking it at all." Đối lại câu trước: Keynes nghĩ ta sẽ trả lời "easily". |
-| 31 | **D** | Câu 5: "If this thing can do my job," ... "how am I supposed to get good enough to do yours?": việc dễ bị máy làm thì người mới học bằng cách nào. |
-| 32 | **A** | Câu 9: "It was tedious, and at the time it felt almost menial, but it encoded something in my head that no course could have given me." |
-| 33 | **C** | Câu 9: "it encoded something in my head that no course could have given me": những năm lần lỗi đã ghi chặt hiểu biết vào đầu anh. |
-| 34 | **A** | Câu 14, 16: "Each decision makes sense on its own; taken together, they may prove deeply counterproductive." Hệ quả: "in ten years there will be nobody to hire". |
-| 35 | **B** | Câu 15–16: Câu hàm ý, được câu sau giải thích: "If nobody is allowed to be a beginner, then in ten years there will be nobody to hire." |
-| 36 | **C** | Câu 17: Cấm công cụ "would be both impossible and slightly ridiculous, like banning calculators in an accounting firm". |
-| 37 | **A** | Câu 20: "with a senior engineer acting less as a supervisor than as an intermediary between the beginner and the machine". |
-| 38 | **B** | Câu 21: "he may have a point: it costs us time, and the benefit will not appear in this year's figures". |
-| 39 | **B** | Câu 22, 25: "I am wary of anyone who claims to know what this industry will look like in a decade, including myself." Anh để ngỏ: "a coincidence of timing, or it may be the whole point". |
-| 40 | **A** | Câu 26, 28: "he now runs our weekly explanation sessions, and he is ruthless"; Nathan không giải thích nổi mã của chính mình: giọng tự giễu. |
+| 31 | **D** | Câu 8–9: "I said it was fine because it looked like the fixes that are usually fine" — Rory duyệt vì bản sửa trông giống những bản thường ổn, chứ không phải vì hiểu nó; nên cậu lo không bao giờ giỏi đủ để làm việc của Nathan. |
+| 32 | **A** | Câu 6, 10, 11: "unable to judge answers they did not understand, the juniors had learned to judge how an answer looked" — việc kiểm tra đã thành so khớp vẻ ngoài. Nhiễu B sai vì bài nói họ "flagged plenty of errors"; lời chê của quản lý nhắm vào cách làm MỚI, không phải việc kiểm tra. |
+| 33 | **C** | Câu 13: "it encoded something in my head that no course could have given me": việc tẻ nhạt đã khắc chắc vào đầu anh một hiểu biết lâu bền. |
+| 34 | **A** | Câu 15–17: "Each decision makes sense on its own; taken together, they may prove deeply counterproductive." Từng công ty hợp lý, nhưng gộp lại thì cả ngành sẽ thiếu người được đào tạo. |
+| 35 | **B** | Câu 16–17: Câu ngắn "Experienced engineers do not appear from nowhere." được giải thích ngay sau: "A firm that pays nobody to be slow while they learn is quietly relying on other firms to do it instead." Người giàu kinh nghiệm hôm nay từng được ai đó trả lương để học khi còn là người mới. |
+| 36 | **C** | Câu 18: "which would be both impossible and slightly ridiculous, like banning calculators in an accounting firm": phép so sánh cho thấy cấm công cụ AI là không thực tế và lố bịch. |
+| 37 | **A** | Câu 21: "a senior engineer acting less as a supervisor than as an intermediary between the beginner and the machine": người trung gian (go-between), không phải người giám sát. |
+| 38 | **B** | Câu 22: "and he may have a point: it costs us time, and the benefit will not appear in this year's figures": Nathan thừa nhận một phần lời chê (tốn thời gian, lợi ích đến muộn) nhưng vẫn giữ cách làm. |
+| 39 | **B** | Câu 23: "I am wary of anyone who claims to know what this industry will look like in a decade, including myself, and a year ago I was more confident than I had any right to be." Anh thận trọng, kể cả với nhận định trước đây của chính mình. |
+| 40 | **A** | Câu 25–27: Cậu kỹ sư mới từng lo lắng nay "runs our weekly explanation sessions, and he is ruthless", và chính Nathan cũng không giải thích nổi mã mình viết sáu năm trước: buổi giải thích làm lộ lỗ hổng cả ở người lâu năm. |
 | 41 | **B** | Câu 3: "teachers in Scotland were asked to rate a large group of fourteen-year-olds on six qualities". |
 | 42 | **C** | Câu 6, 8: Ngay sau "expect a strong correlation" là câu ngắn đối lập: "The study found almost none." |
-| 43 | **B** | Câu 7: "something etched into us early, the stable core around which a life is built": khắc từ sớm, thành lõi ổn định. |
+| 43 | **B** | Câu 25–26: Câu trước nói "are all promises made on behalf of someone we have not yet met", câu sau mở bằng "That person may be grateful, or may not" — "that person" thay cho "someone we have not yet met": con người tương lai của chính ta. |
 | 44 | **D** | Câu 9: "For most of the six qualities, there was no significant relationship between how a person had been described at fourteen and how they were described at seventy-seven." |
 | 45 | **A** | Câu 10–11: "The authors were careful to point out the study's limits", rồi "Even so, the result fits a large body of longitudinal research": thận trọng nhưng không phủ nhận. |
 | 46 | **D** | Câu 15–16: Người 18 tuổi "predicted less change over the coming decade than twenty-eight-year-olds reported having experienced": đây là "the end of history illusion". |
@@ -904,7 +915,7 @@
 | 50 | **C** | Câu 25–26: Những quyết định lâu dài là "promises made on behalf of someone we have not yet met"; tác giả không cấm, chỉ khuyên "leave them some room". |
 | 51 | **A** | Câu 3–4: Cuộc trò chuyện về trường nào cũng kết thúc bằng việc Tina đề nghị bố "to stop being a history teacher at home". |
 | 52 | **C** | Câu 7: "whether a child knows where their grandparents grew up, how their parents met, or what difficult times the family has been through". |
-| 53 | **A** | Câu 9: "families who tell stories may simply differ in other ways too, such as eating dinner together more often". Ngay sau đó anh nói các nhà nghiên cứu "were attuned to this", nên không phải họ mắc lỗi. |
+| 53 | **A** | Câu 9: "families who tell stories may simply differ in other ways too, such as eating dinner together more often". Ngay sau đó anh nói các nhà nghiên cứu "were alert to this", nên không phải họ mắc lỗi. |
 | 54 | **C** | Câu 10: "the stories give a child a sense of belonging to something larger and older than themselves"; bài phủ định thẳng ý "knowing facts makes children happy". |
 | 55 | **C** | Câu 14: "the oscillating story, is the most honest and, it seems, the most useful: we have had ups and downs, and whatever happened, we stuck together". |
 | 56 | **D** | Câu 15: "something that a cocoon of praise cannot teach, namely that difficulty can be survived": lời khen bao bọc không dạy được rằng khó khăn có thể vượt qua. |

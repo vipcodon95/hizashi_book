@@ -38,7 +38,7 @@
     },
     "total_passages": 6,
     "total_questions": 60,
-    "focus": "Ví dụ phá định kiến, nhượng bộ có giới hạn, lập trường có điều kiện, điều kiện ẩn",
+    "focus": "Ví dụ phá định kiến, nhượng bộ có giới hạn, lập trường có điều kiện, điều kiện ẩn; câu mệnh lệnh + and làm điều kiện, loại suy, trả lời trước phản bác",
     "description_vn": "Nathan kể chuyện hiểu lầm sự im lặng trong nhóm ba thành phố, Leah cân nhắc lợi hại của trợ lý ghi chép AI; thêm bài của cô Lydia Park về việc điều tiết giọng nói theo người nghe, bài nhân học về luật ngầm của quà tặng, bài phân tích thuật toán tuyển dụng thiên lệch và thư góp ý của thầy Mitchell về phần mềm theo dõi máy tính học sinh. 6 bài đọc × 10 câu."
   },
   "lesson": {
@@ -46,7 +46,7 @@
       "vi": "Unit 11 + Unit 12 khoá C1 · phiếu `c1.041` – `c1.048` (ngôn ngữ và phương ngữ, phong tục, tiếp khách, hiểu lầm; trí tuệ nhân tạo và dữ liệu, quyền riêng tư, ai chịu trách nhiệm, tranh luận về tương lai). Bài 1 nói khác biệt giao tiếp theo **từng người**, không quy cho quốc gia."
     },
     "objective_i18n": {
-      "vi": "đọc một bài blog tự sự rút ra bài học và một bài quan điểm cân nhắc lợi hại của AI; nhận ra ví dụ phá định kiến, câu nhượng bộ rồi giới hạn (That does not mean… It means…), cách người viết nêu lập trường có điều kiện (I would keep the tool, but only with…), giọng mỉa nhẹ, và các cấu trúc C1: whatever + mệnh đề, much as, try as I might, by no means, far from, as though + quá khứ hoàn thành, điều kiện ẩn (Without it…, to hear them talk…)."
+      "vi": "đọc một bài blog tự sự rút ra bài học và một bài quan điểm cân nhắc lợi hại của AI; nhận ra ví dụ phá định kiến, câu nhượng bộ rồi giới hạn (That does not mean… It means…), cách người viết nêu lập trường có điều kiện (I would keep the tool, but only with…), giọng mỉa nhẹ, và các cấu trúc C1: whatever + mệnh đề, much as, try as I might, by no means, far from, as though + quá khứ hoàn thành, điều kiện ẩn (Without it…, to hear them talk…); đọc thêm một bài kiến thức ngôn ngữ học, một bài nhân học phổ thông, một bài phân tích trách nhiệm của thuật toán và một lá thư góp ý chính thức: nhận ra chức năng ví dụ, câu mệnh lệnh + and làm điều kiện ngầm, đảo ngữ So + adj, phép so sánh loại suy, và việc trả lời trước phản bác."
     },
     "extra_words": [
       {
@@ -264,7 +264,7 @@
       {
         "i18n": {
           "en": "in effect",
-          "vi": "trên thực tế"
+          "vi": "về thực chất"
         }
       },
       {
@@ -710,7 +710,7 @@
       "jlpt_level": "C1",
       "difficulty": 1,
       "estimated_reading_time": 300,
-      "word_count": 470,
+      "word_count": 471,
       "audio_url": null,
       "image_url": null,
       "curriculum_sheets": [
@@ -868,7 +868,7 @@
           "speaker": null,
           "label": null,
           "i18n": {
-            "en": "Imitate a regional dialect that you do not share, and it may sound less like friendship than an insult.",
+            "en": "Imitate a regional dialect that you do not share, and it may sound less like friendship than like an insult.",
             "vi": "Bắt chước một phương ngữ vùng miền không phải của mình, và nó có thể nghe giống xúc phạm hơn là thân thiện."
           }
         },
@@ -945,8 +945,8 @@
           "speaker": null,
           "label": null,
           "i18n": {
-            "en": "Linguistic skill at this level is not so much about grammar as about tact: noticing contextual clues, adjusting without exaggerating, and never assuming that someone needs easier language before they have shown that they do.",
-            "vi": "Kỹ năng ngôn ngữ ở mức này không hẳn là chuyện ngữ pháp mà là chuyện tế nhị: nhận ra các manh mối từ ngữ cảnh, điều chỉnh mà không cường điệu, và không bao giờ mặc định ai đó cần ngôn ngữ đơn giản hơn khi họ chưa cho thấy là họ cần."
+            "en": "Linguistic skill of this kind is not so much about grammar as about tact: noticing contextual clues, adjusting without exaggerating, and never assuming that someone needs easier language before they have shown that they do.",
+            "vi": "Kỹ năng ngôn ngữ kiểu này không hẳn là chuyện ngữ pháp mà là chuyện tế nhị: nhận ra các manh mối từ ngữ cảnh, điều chỉnh mà không cường điệu, và không bao giờ mặc định ai đó cần ngôn ngữ đơn giản hơn khi họ chưa cho thấy là họ cần."
           }
         },
         {
@@ -957,7 +957,7 @@
           "label": null,
           "i18n": {
             "en": "So when your teenager speaks one way to you and another way to their friends, try not to worry.",
-            "vi": "Vậy nên khi con tuổi teen của bạn nói với bạn một kiểu và với bạn bè một kiểu, đừng lo lắng."
+            "vi": "Vậy nên khi con tuổi teen của bạn nói với bạn một kiểu và với bạn bè một kiểu, hãy cố đừng lo lắng quá."
           }
         },
         {
@@ -972,8 +972,8 @@
           }
         }
       ],
-      "content_ja": "Why We Change the Way We Speak\n\nLydia Park, English Department, for the Westview High parents' newsletter\n\nEvery September, one of my students asks me the same question in a slightly accusing tone: \"Ms. Park, why do you talk differently on the phone with your mother?\" The honest answer is that I do, and so, almost certainly, do you.\n\nResearchers in linguistics have studied this habit for decades. In the 1970s, the researcher Howard Giles proposed what is now known as communication accommodation theory: the idea that we constantly, and mostly without noticing, adjust our speech to the person in front of us. We slow down or speed up, borrow words, make our accents lighter or stronger, and change our level of formality, depending on whom we are talking to and what we want from the conversation. Much as we like to think that our voice belongs to us alone, it is in fact shaped by every conversation we have.\n\nMost of the time, these adjustments bring people together. Moving our speech towards someone else's, which is known in linguistics as convergence, tends to build rapport, and studies have found that speakers who do it are often judged as warmer and more pleasant. A nurse who drops the medical terms with a frightened patient, or a teenager who subtly picks up a new friend's expressions, is doing exactly this.\n\nConvergence can go wrong, however. Speak too slowly and simply to an elderly person who understands perfectly well, and the effort meant as kindness comes across as talking down to them. Imitate a regional dialect that you do not share, and it may sound less like friendship than an insult. The difference lies not in the adjustment itself but in whether it responds to the real person or to an assumption about a group they belong to.\n\nSometimes we move the other way. Speakers may deliberately emphasize their own accent or vocabulary, a strategy called divergence, either to show that they belong to a particular community or to keep a polite distance. A colleague who keeps the dialect of the town where she grew up, wherever she happens to live, is by no means being rude; she is telling you something about who she is.\n\nWhy does this matter for our students? Because a growing part of their lives will be spent talking to people whose backgrounds differ from their own, in class, at work and online. Linguistic skill at this level is not so much about grammar as about tact: noticing contextual clues, adjusting without exaggerating, and never assuming that someone needs easier language before they have shown that they do.\n\nSo when your teenager speaks one way to you and another way to their friends, try not to worry. Whatever else it means, it shows that they are listening.",
-      "translation_vn": "(1) Vì sao ta thay đổi cách nói\n(2) Lydia Park, tổ tiếng Anh, viết cho bản tin phụ huynh trường Westview High\n(3) Tháng Chín nào cũng có một học sinh hỏi tôi cùng một câu, giọng hơi như buộc tội: \"Cô Park ơi, sao cô nói chuyện điện thoại với mẹ cô lại khác thế?\"\n(4) Câu trả lời thật lòng là đúng vậy, và gần như chắc chắn bạn cũng thế.\n(5) Các nhà ngôn ngữ học đã nghiên cứu thói quen này hàng chục năm.\n(6) Vào thập niên 1970, nhà nghiên cứu Howard Giles đề xuất cái mà ngày nay gọi là thuyết điều tiết giao tiếp: ý tưởng rằng ta liên tục, và phần lớn không hề nhận ra, điều chỉnh lời nói của mình theo người trước mặt.\n(7) Ta nói chậm lại hay nhanh lên, mượn từ của người kia, làm giọng địa phương nhẹ đi hay đậm lên, và đổi mức độ trang trọng, tuỳ vào việc ta đang nói với ai và muốn gì từ cuộc trò chuyện.\n(8) Dù ta thích nghĩ rằng giọng nói là của riêng mình, thực ra nó được nhào nặn bởi mọi cuộc trò chuyện ta từng có.\n(9) Phần lớn thời gian, những điều chỉnh này kéo con người lại gần nhau.\n(10) Đưa cách nói của mình lại gần cách nói của người khác, mà ngôn ngữ học gọi là hội tụ, thường giúp tạo thiện cảm, và các nghiên cứu cho thấy người làm vậy thường được đánh giá là ấm áp và dễ chịu hơn.\n(11) Một điều dưỡng bỏ bớt thuật ngữ y khoa khi nói với bệnh nhân đang sợ hãi, hay một thiếu niên khéo léo học theo cách nói của người bạn mới, chính là đang làm điều đó.\n(12) Tuy vậy, hội tụ cũng có thể hỏng việc.\n(13) Nói quá chậm và quá đơn giản với một người lớn tuổi vốn hiểu rất rõ, và nỗ lực tưởng là tử tế sẽ thành ra coi thường họ.\n(14) Bắt chước một phương ngữ vùng miền không phải của mình, và nó có thể nghe giống xúc phạm hơn là thân thiện.\n(15) Khác biệt không nằm ở bản thân sự điều chỉnh, mà ở chỗ nó đáp lại con người thật hay đáp lại một giả định về nhóm người mà họ thuộc về.\n(16) Đôi khi ta đi theo hướng ngược lại.\n(17) Người nói có thể cố ý nhấn mạnh giọng hay vốn từ của chính mình, một chiến lược gọi là phân kỳ, hoặc để cho thấy họ thuộc về một cộng đồng nhất định, hoặc để giữ một khoảng cách lịch sự.\n(18) Một đồng nghiệp giữ phương ngữ của thị trấn nơi cô lớn lên, dù cô sống ở đâu đi nữa, hoàn toàn không hề bất lịch sự; cô đang cho bạn biết đôi điều về con người mình.\n(19) Vì sao điều này quan trọng với học sinh của chúng ta?\n(20) Bởi vì ngày càng nhiều phần đời của các em sẽ dành cho việc trò chuyện với những người có xuất thân khác mình, trong lớp, ở nơi làm việc và trên mạng.\n(21) Kỹ năng ngôn ngữ ở mức này không hẳn là chuyện ngữ pháp mà là chuyện tế nhị: nhận ra các manh mối từ ngữ cảnh, điều chỉnh mà không cường điệu, và không bao giờ mặc định ai đó cần ngôn ngữ đơn giản hơn khi họ chưa cho thấy là họ cần.\n(22) Vậy nên khi con tuổi teen của bạn nói với bạn một kiểu và với bạn bè một kiểu, đừng lo lắng.\n(23) Dù nó còn mang nghĩa gì khác, nó cho thấy các em đang lắng nghe."
+      "content_ja": "Why We Change the Way We Speak\n\nLydia Park, English Department, for the Westview High parents' newsletter\n\nEvery September, one of my students asks me the same question in a slightly accusing tone: \"Ms. Park, why do you talk differently on the phone with your mother?\" The honest answer is that I do, and so, almost certainly, do you.\n\nResearchers in linguistics have studied this habit for decades. In the 1970s, the researcher Howard Giles proposed what is now known as communication accommodation theory: the idea that we constantly, and mostly without noticing, adjust our speech to the person in front of us. We slow down or speed up, borrow words, make our accents lighter or stronger, and change our level of formality, depending on whom we are talking to and what we want from the conversation. Much as we like to think that our voice belongs to us alone, it is in fact shaped by every conversation we have.\n\nMost of the time, these adjustments bring people together. Moving our speech towards someone else's, which is known in linguistics as convergence, tends to build rapport, and studies have found that speakers who do it are often judged as warmer and more pleasant. A nurse who drops the medical terms with a frightened patient, or a teenager who subtly picks up a new friend's expressions, is doing exactly this.\n\nConvergence can go wrong, however. Speak too slowly and simply to an elderly person who understands perfectly well, and the effort meant as kindness comes across as talking down to them. Imitate a regional dialect that you do not share, and it may sound less like friendship than like an insult. The difference lies not in the adjustment itself but in whether it responds to the real person or to an assumption about a group they belong to.\n\nSometimes we move the other way. Speakers may deliberately emphasize their own accent or vocabulary, a strategy called divergence, either to show that they belong to a particular community or to keep a polite distance. A colleague who keeps the dialect of the town where she grew up, wherever she happens to live, is by no means being rude; she is telling you something about who she is.\n\nWhy does this matter for our students? Because a growing part of their lives will be spent talking to people whose backgrounds differ from their own, in class, at work and online. Linguistic skill of this kind is not so much about grammar as about tact: noticing contextual clues, adjusting without exaggerating, and never assuming that someone needs easier language before they have shown that they do.\n\nSo when your teenager speaks one way to you and another way to their friends, try not to worry. Whatever else it means, it shows that they are listening.",
+      "translation_vn": "(1) Vì sao ta thay đổi cách nói\n(2) Lydia Park, tổ tiếng Anh, viết cho bản tin phụ huynh trường Westview High\n(3) Tháng Chín nào cũng có một học sinh hỏi tôi cùng một câu, giọng hơi như buộc tội: \"Cô Park ơi, sao cô nói chuyện điện thoại với mẹ cô lại khác thế?\"\n(4) Câu trả lời thật lòng là đúng vậy, và gần như chắc chắn bạn cũng thế.\n(5) Các nhà ngôn ngữ học đã nghiên cứu thói quen này hàng chục năm.\n(6) Vào thập niên 1970, nhà nghiên cứu Howard Giles đề xuất cái mà ngày nay gọi là thuyết điều tiết giao tiếp: ý tưởng rằng ta liên tục, và phần lớn không hề nhận ra, điều chỉnh lời nói của mình theo người trước mặt.\n(7) Ta nói chậm lại hay nhanh lên, mượn từ của người kia, làm giọng địa phương nhẹ đi hay đậm lên, và đổi mức độ trang trọng, tuỳ vào việc ta đang nói với ai và muốn gì từ cuộc trò chuyện.\n(8) Dù ta thích nghĩ rằng giọng nói là của riêng mình, thực ra nó được nhào nặn bởi mọi cuộc trò chuyện ta từng có.\n(9) Phần lớn thời gian, những điều chỉnh này kéo con người lại gần nhau.\n(10) Đưa cách nói của mình lại gần cách nói của người khác, mà ngôn ngữ học gọi là hội tụ, thường giúp tạo thiện cảm, và các nghiên cứu cho thấy người làm vậy thường được đánh giá là ấm áp và dễ chịu hơn.\n(11) Một điều dưỡng bỏ bớt thuật ngữ y khoa khi nói với bệnh nhân đang sợ hãi, hay một thiếu niên khéo léo học theo cách nói của người bạn mới, chính là đang làm điều đó.\n(12) Tuy vậy, hội tụ cũng có thể hỏng việc.\n(13) Nói quá chậm và quá đơn giản với một người lớn tuổi vốn hiểu rất rõ, và nỗ lực tưởng là tử tế sẽ thành ra coi thường họ.\n(14) Bắt chước một phương ngữ vùng miền không phải của mình, và nó có thể nghe giống xúc phạm hơn là thân thiện.\n(15) Khác biệt không nằm ở bản thân sự điều chỉnh, mà ở chỗ nó đáp lại con người thật hay đáp lại một giả định về nhóm người mà họ thuộc về.\n(16) Đôi khi ta đi theo hướng ngược lại.\n(17) Người nói có thể cố ý nhấn mạnh giọng hay vốn từ của chính mình, một chiến lược gọi là phân kỳ, hoặc để cho thấy họ thuộc về một cộng đồng nhất định, hoặc để giữ một khoảng cách lịch sự.\n(18) Một đồng nghiệp giữ phương ngữ của thị trấn nơi cô lớn lên, dù cô sống ở đâu đi nữa, hoàn toàn không hề bất lịch sự; cô đang cho bạn biết đôi điều về con người mình.\n(19) Vì sao điều này quan trọng với học sinh của chúng ta?\n(20) Bởi vì ngày càng nhiều phần đời của các em sẽ dành cho việc trò chuyện với những người có xuất thân khác mình, trong lớp, ở nơi làm việc và trên mạng.\n(21) Kỹ năng ngôn ngữ kiểu này không hẳn là chuyện ngữ pháp mà là chuyện tế nhị: nhận ra các manh mối từ ngữ cảnh, điều chỉnh mà không cường điệu, và không bao giờ mặc định ai đó cần ngôn ngữ đơn giản hơn khi họ chưa cho thấy là họ cần.\n(22) Vậy nên khi con tuổi teen của bạn nói với bạn một kiểu và với bạn bè một kiểu, hãy cố đừng lo lắng quá.\n(23) Dù nó còn mang nghĩa gì khác, nó cho thấy các em đang lắng nghe."
     },
     {
       "id": "passage_u1112_04",
@@ -1300,7 +1300,7 @@
           "label": null,
           "i18n": {
             "en": "The system had been trained on ten years of applications sent to the company, most of them from men, and it had learned, in effect, to treat being male as an indicator of a good engineer.",
-            "vi": "Hệ thống được huấn luyện bằng mười năm hồ sơ gửi tới công ty, phần lớn là của nam giới, và trên thực tế nó đã học cách coi việc là nam giới như một chỉ báo của một kỹ sư giỏi."
+            "vi": "Hệ thống được huấn luyện bằng mười năm hồ sơ gửi tới công ty, phần lớn là của nam giới, và về thực chất nó đã học cách coi việc là nam giới như một chỉ báo của một kỹ sư giỏi."
           }
         },
         {
@@ -1503,7 +1503,7 @@
         }
       ],
       "content_ja": "When a Machine Learns Our Bad Habits\n\nA briefing for readers of the Technology and Society page\n\nIn 2018, a news report revealed that one of the world's biggest online retailers had quietly abandoned an experimental computer system designed to rank job applicants. The system had been trained on ten years of applications sent to the company, most of them from men, and it had learned, in effect, to treat being male as an indicator of a good engineer. Applications that mentioned the word \"women's,\" as in \"captain of the women's chess club,\" were consistently scored lower. Engineers tried to correct the problem, but they could not be sure that the system would not find other, less obvious ways to favor men, and the project was dropped.\n\nNobody had programmed the machine to be unfair. That is precisely what makes cases like this so difficult. A system that learns from past decisions inherits whatever patterns those decisions contain, and if the past was unfair, the system will tend to perpetuate that inequality, now with the authority of a calculation.\n\nWho, then, is responsible when an algorithm treats people unfairly? The company that builds the tool may argue that it simply supplied software, while the employer that uses it may argue that it trusted an expert product. Meanwhile, the applicant who was rejected usually has no idea that a machine was involved at all, and by the time she thinks to ask, the decision has long been made. Left unchallenged, this gap allows everyone to point at someone else.\n\nResearchers and lawyers have proposed several answers, which differ more in emphasis than in substance. One is being open: employers should tell applicants when computer tools are used and on what basis. Another is testing: before and after a system is put to work, it should be checked regularly for results that differ between groups, much as a new bridge is inspected for structural weaknesses. A third is keeping a human in charge, so that a person with real authority reviews the machine's recommendations and can step in when something looks wrong.\n\nEach answer has its drawbacks. Being open means little if the explanation is too technical to understand, and testing is only as good as the data used for it. And a human reviewer who is given two hundred applications an hour is unlikely to do more than click \"approve,\" as though the machine had already made the decision for them.\n\nPerhaps the most robust principle is also the easiest to state: an organization that chooses to use a tool should not be able to relinquish responsibility for what the tool does. A company would not escape liability by claiming that a manager had been following a bad set of instructions, and there is little reason it should escape by claiming that it was following a bad algorithm.",
-      "translation_vn": "(1) Khi máy học cả những thói xấu của chúng ta\n(2) Bài tóm lược cho độc giả trang Công nghệ và Xã hội\n(3) Năm 2018, một bản tin tiết lộ rằng một trong những nhà bán lẻ trực tuyến lớn nhất thế giới đã lặng lẽ bỏ một hệ thống máy tính thử nghiệm được thiết kế để xếp hạng người xin việc.\n(4) Hệ thống được huấn luyện bằng mười năm hồ sơ gửi tới công ty, phần lớn là của nam giới, và trên thực tế nó đã học cách coi việc là nam giới như một chỉ báo của một kỹ sư giỏi.\n(5) Những hồ sơ có chữ \"nữ\", như trong \"đội trưởng câu lạc bộ cờ vua nữ\", luôn bị chấm điểm thấp hơn.\n(6) Các kỹ sư đã cố sửa lỗi, nhưng họ không thể chắc rằng hệ thống sẽ không tìm ra những cách khác, tinh vi hơn, để ưu ái nam giới, và dự án bị huỷ.\n(7) Không ai lập trình cho cỗ máy phải bất công.\n(8) Chính điều đó khiến những trường hợp như thế này khó đến vậy.\n(9) Một hệ thống học từ các quyết định trong quá khứ sẽ thừa hưởng bất cứ khuôn mẫu nào các quyết định ấy chứa đựng, và nếu quá khứ bất bình đẳng, hệ thống sẽ có xu hướng duy trì sự bất bình đẳng đó, giờ lại khoác thêm uy tín của một phép tính.\n(10) Vậy ai chịu trách nhiệm khi một thuật toán đối xử bất công với con người?\n(11) Công ty làm ra công cụ có thể lập luận rằng họ chỉ cung cấp phần mềm, còn nhà tuyển dụng dùng nó có thể lập luận rằng họ đã tin vào một sản phẩm chuyên môn.\n(12) Trong khi đó, người xin việc bị loại thường chẳng hề biết có máy móc nhúng tay vào, và tới lúc cô nghĩ ra để hỏi thì quyết định đã được đưa ra từ lâu.\n(13) Nếu không ai chất vấn, khoảng trống này cho phép mọi người chỉ tay sang người khác.\n(14) Các nhà nghiên cứu và luật sư đã đề xuất vài lời giải, khác nhau ở chỗ nhấn mạnh nhiều hơn là ở bản chất.\n(15) Thứ nhất là công khai: nhà tuyển dụng nên cho người xin việc biết khi nào công cụ tự động được dùng và dựa trên cơ sở nào.\n(16) Thứ hai là kiểm tra: trước và sau khi đưa vào sử dụng, hệ thống phải được rà định kỳ xem có cho kết quả chênh lệch giữa các nhóm không, cũng giống như một cây cầu mới được kiểm định các điểm yếu về kết cấu.\n(17) Thứ ba là để con người nắm quyền, sao cho một người có thẩm quyền thật xem lại các đề xuất của máy và có thể can thiệp khi có gì đó không ổn.\n(18) Lời giải nào cũng có nhược điểm.\n(19) Công khai chẳng có mấy ý nghĩa nếu lời giải thích quá chuyên môn để hiểu, còn kiểm tra thì chỉ tốt bằng dữ liệu dùng để kiểm tra.\n(20) Còn một người duyệt phải xử lý hai trăm hồ sơ mỗi giờ thì khó mà làm gì hơn là bấm \"đồng ý\", như thể cỗ máy đã quyết định thay họ rồi.\n(21) Có lẽ nguyên tắc vững chắc nhất cũng là nguyên tắc đơn giản nhất: một tổ chức đã chọn dùng một công cụ thì không thể buông bỏ trách nhiệm về những gì công cụ đó làm.\n(22) Một công ty sẽ không thoát được trách nhiệm pháp lý bằng cách nói rằng một quản lý chỉ làm theo một bộ hướng dẫn tồi, và cũng chẳng có lý gì để nó thoát bằng cách nói rằng nó chỉ làm theo một thuật toán tồi."
+      "translation_vn": "(1) Khi máy học cả những thói xấu của chúng ta\n(2) Bài tóm lược cho độc giả trang Công nghệ và Xã hội\n(3) Năm 2018, một bản tin tiết lộ rằng một trong những nhà bán lẻ trực tuyến lớn nhất thế giới đã lặng lẽ bỏ một hệ thống máy tính thử nghiệm được thiết kế để xếp hạng người xin việc.\n(4) Hệ thống được huấn luyện bằng mười năm hồ sơ gửi tới công ty, phần lớn là của nam giới, và về thực chất nó đã học cách coi việc là nam giới như một chỉ báo của một kỹ sư giỏi.\n(5) Những hồ sơ có chữ \"nữ\", như trong \"đội trưởng câu lạc bộ cờ vua nữ\", luôn bị chấm điểm thấp hơn.\n(6) Các kỹ sư đã cố sửa lỗi, nhưng họ không thể chắc rằng hệ thống sẽ không tìm ra những cách khác, tinh vi hơn, để ưu ái nam giới, và dự án bị huỷ.\n(7) Không ai lập trình cho cỗ máy phải bất công.\n(8) Chính điều đó khiến những trường hợp như thế này khó đến vậy.\n(9) Một hệ thống học từ các quyết định trong quá khứ sẽ thừa hưởng bất cứ khuôn mẫu nào các quyết định ấy chứa đựng, và nếu quá khứ bất bình đẳng, hệ thống sẽ có xu hướng duy trì sự bất bình đẳng đó, giờ lại khoác thêm uy tín của một phép tính.\n(10) Vậy ai chịu trách nhiệm khi một thuật toán đối xử bất công với con người?\n(11) Công ty làm ra công cụ có thể lập luận rằng họ chỉ cung cấp phần mềm, còn nhà tuyển dụng dùng nó có thể lập luận rằng họ đã tin vào một sản phẩm chuyên môn.\n(12) Trong khi đó, người xin việc bị loại thường chẳng hề biết có máy móc nhúng tay vào, và tới lúc cô nghĩ ra để hỏi thì quyết định đã được đưa ra từ lâu.\n(13) Nếu không ai chất vấn, khoảng trống này cho phép mọi người chỉ tay sang người khác.\n(14) Các nhà nghiên cứu và luật sư đã đề xuất vài lời giải, khác nhau ở chỗ nhấn mạnh nhiều hơn là ở bản chất.\n(15) Thứ nhất là công khai: nhà tuyển dụng nên cho người xin việc biết khi nào công cụ tự động được dùng và dựa trên cơ sở nào.\n(16) Thứ hai là kiểm tra: trước và sau khi đưa vào sử dụng, hệ thống phải được rà định kỳ xem có cho kết quả chênh lệch giữa các nhóm không, cũng giống như một cây cầu mới được kiểm định các điểm yếu về kết cấu.\n(17) Thứ ba là để con người nắm quyền, sao cho một người có thẩm quyền thật xem lại các đề xuất của máy và có thể can thiệp khi có gì đó không ổn.\n(18) Lời giải nào cũng có nhược điểm.\n(19) Công khai chẳng có mấy ý nghĩa nếu lời giải thích quá chuyên môn để hiểu, còn kiểm tra thì chỉ tốt bằng dữ liệu dùng để kiểm tra.\n(20) Còn một người duyệt phải xử lý hai trăm hồ sơ mỗi giờ thì khó mà làm gì hơn là bấm \"đồng ý\", như thể cỗ máy đã quyết định thay họ rồi.\n(21) Có lẽ nguyên tắc vững chắc nhất cũng là nguyên tắc đơn giản nhất: một tổ chức đã chọn dùng một công cụ thì không thể buông bỏ trách nhiệm về những gì công cụ đó làm.\n(22) Một công ty sẽ không thoát được trách nhiệm pháp lý bằng cách nói rằng một quản lý chỉ làm theo một bộ hướng dẫn tồi, và cũng chẳng có lý gì để nó thoát bằng cách nói rằng nó chỉ làm theo một thuật toán tồi."
     },
     {
       "id": "passage_u1112_06",
@@ -1516,7 +1516,7 @@
       "jlpt_level": "C1",
       "difficulty": 1,
       "estimated_reading_time": 300,
-      "word_count": 459,
+      "word_count": 464,
       "audio_url": null,
       "image_url": null,
       "curriculum_sheets": [
@@ -1542,7 +1542,7 @@
           "speaker": null,
           "label": null,
           "i18n": {
-            "en": "From: Mitchell Carter, History Department. About: the plan to install FocusTrack on student laptops",
+            "en": "From: Mitchell Carter, History Department. Re: the plan to install FocusTrack on student laptops",
             "vi": "Người gửi: Mitchell Carter, tổ Lịch sử. Về việc: kế hoạch cài FocusTrack lên máy tính xách tay của học sinh"
           }
         },
@@ -1729,8 +1729,8 @@
           "speaker": null,
           "label": null,
           "i18n": {
-            "en": "During our phone-free week last April, several colleagues and I found that clear expectations and well-planned lessons did more for attention than any rule could compel.",
-            "vi": "Trong tuần không điện thoại hồi tháng Tư vừa rồi, vài đồng nghiệp và tôi nhận thấy những yêu cầu rõ ràng và bài giảng được chuẩn bị kỹ giúp học sinh tập trung hơn bất cứ quy định cưỡng ép nào."
+            "en": "During our phone-free week last April, several colleagues and I noticed that the ban itself mattered less than clear expectations and well-planned lessons, which did more for attention than any rule could.",
+            "vi": "Trong tuần không điện thoại hồi tháng Tư vừa rồi, vài đồng nghiệp và tôi nhận thấy bản thân lệnh cấm ít quan trọng hơn những yêu cầu rõ ràng và bài giảng được chuẩn bị kỹ — chính chúng giúp học sinh tập trung hơn bất cứ quy định nào."
           }
         },
         {
@@ -1784,13 +1784,13 @@
           "speaker": null,
           "label": null,
           "i18n": {
-            "en": "Yours sincerely, Mitchell Carter",
+            "en": "Sincerely, Mitchell Carter",
             "vi": "Trân trọng, Mitchell Carter"
           }
         }
       ],
-      "content_ja": "Letter to the Westview High Technology Committee\n\nFrom: Mitchell Carter, History Department. About: the plan to install FocusTrack on student laptops\n\nDear members of the committee,\n\nThank you for inviting staff to comment before you make your decision in November. I write as someone who has taught at Westview for many years and who shares the committee's concern about distraction in class; I simply do not believe that FocusTrack is the right answer to it.\n\nAs I understand the plan, the software would record what appears on each student's screen during lessons, mark any activity it judges to be off task, and give every student a weekly \"attention score\" that teachers and parents could see. The company's materials present this as a neutral tool, but I would argue that it raises an ethical dilemma we should not pass over quickly.\n\nMy first concern is accuracy. A student who opens a news website to check a date during a history lesson is on task, while a student who stares silently at a perfectly suitable page may not be. The software cannot differentiate between the two with any confidence, and yet its score would look precise and official. Numbers of this kind have a way of dictating decisions long after everyone has forgotten how rough they were.\n\nMy second concern is what constant observation does to learning itself. History, at least as I try to teach it, depends on students being willing to ask awkward questions, follow an idea that turns out to be irrelevant, and sometimes be wrong in front of others. Being watched every minute, I suspect, would inhibit exactly those habits, and students would learn to look busy rather than to think.\n\nMy third concern is privacy. Students' screens often show far more than schoolwork: messages from family, health information, a search they would rather keep to themselves. Collecting such sensitive material simply because it is technically possible is, in my view, problematic, regardless of how carefully the company promises to store it.\n\nI do not wish to criticize without offering an alternative. During our phone-free week last April, several colleagues and I found that clear expectations and well-planned lessons did more for attention than any rule could compel. I would therefore propose a one-semester trial in which teachers who wish to may use simple screen-sharing tools during specific tasks, with students' knowledge, and with no scores recorded or shared.\n\nTo take a stance against this software is not to take a stance against technology. It is to insist that the tools we choose should support the trust between teachers and students rather than replace it. I would be glad to discuss any of this with the committee in person.\n\nYours sincerely, Mitchell Carter",
-      "translation_vn": "(1) Thư gửi Ban Công nghệ trường Westview High\n(2) Người gửi: Mitchell Carter, tổ Lịch sử. Về việc: kế hoạch cài FocusTrack lên máy tính xách tay của học sinh\n(3) Kính gửi các thành viên của Ban,\n(4) Cảm ơn Ban đã mời giáo viên góp ý trước khi đưa ra quyết định vào tháng Mười Một.\n(5) Tôi viết với tư cách một người đã dạy ở Westview nhiều năm và cùng chia sẻ mối lo của Ban về việc học sinh mất tập trung trong lớp; chỉ là tôi không tin FocusTrack là lời giải đúng cho chuyện đó.\n(6) Theo tôi hiểu, phần mềm sẽ ghi lại những gì hiện trên màn hình của từng học sinh trong giờ học, đánh dấu mọi hoạt động mà nó cho là lạc đề, và chấm cho mỗi học sinh một \"điểm chú ý\" hằng tuần mà giáo viên và phụ huynh đều xem được.\n(7) Tài liệu của công ty giới thiệu đây là một công cụ trung lập, nhưng tôi cho rằng nó đặt ra một tình thế khó xử về đạo đức mà chúng ta không nên lướt qua vội vàng.\n(8) Mối lo đầu tiên của tôi là độ chính xác.\n(9) Một học sinh mở trang tin tức để tra một mốc ngày trong giờ lịch sử là đang làm đúng việc, còn một học sinh lặng lẽ nhìn chằm chằm vào một trang hoàn toàn phù hợp thì có thể là không.\n(10) Phần mềm không thể phân biệt hai trường hợp đó một cách đáng tin cậy, vậy mà điểm số của nó lại trông chính xác và chính thức.\n(11) Những con số kiểu này thường chi phối các quyết định rất lâu sau khi mọi người đã quên rằng chúng thô sơ đến mức nào.\n(12) Mối lo thứ hai của tôi là việc bị quan sát liên tục tác động thế nào tới chính việc học.\n(13) Môn lịch sử, ít nhất là theo cách tôi cố gắng dạy, phụ thuộc vào việc học sinh sẵn lòng đặt những câu hỏi khó, theo đuổi một ý mà hoá ra chẳng liên quan, và đôi khi sai trước mặt người khác.\n(14) Tôi ngờ rằng bị theo dõi từng phút sẽ kìm hãm đúng những thói quen ấy, và học sinh sẽ học cách tỏ ra bận rộn thay vì học cách suy nghĩ.\n(15) Mối lo thứ ba của tôi là quyền riêng tư.\n(16) Màn hình của học sinh thường hiện nhiều thứ hơn hẳn bài vở: tin nhắn của gia đình, thông tin sức khoẻ, một lần tìm kiếm mà các em muốn giữ cho riêng mình.\n(17) Thu thập những dữ liệu nhạy cảm như vậy chỉ vì về mặt kỹ thuật là làm được, theo tôi, là có vấn đề, bất kể công ty hứa lưu trữ chúng cẩn thận đến đâu.\n(18) Tôi không muốn chỉ phê bình mà không đưa ra phương án khác.\n(19) Trong tuần không điện thoại hồi tháng Tư vừa rồi, vài đồng nghiệp và tôi nhận thấy những yêu cầu rõ ràng và bài giảng được chuẩn bị kỹ giúp học sinh tập trung hơn bất cứ quy định cưỡng ép nào.\n(20) Vì vậy, tôi đề xuất thử nghiệm trong một học kỳ, trong đó giáo viên nào muốn có thể dùng các công cụ chia sẻ màn hình đơn giản trong những nhiệm vụ cụ thể, có sự biết trước của học sinh, và không ghi lại hay chia sẻ điểm số nào.\n(21) Phản đối phần mềm này không có nghĩa là phản đối công nghệ.\n(22) Mà là đòi hỏi rằng những công cụ ta chọn phải nâng đỡ lòng tin giữa thầy và trò chứ không thay thế nó.\n(23) Tôi rất sẵn lòng trao đổi trực tiếp với Ban về bất kỳ điểm nào trên đây.\n(24) Trân trọng, Mitchell Carter"
+      "content_ja": "Letter to the Westview High Technology Committee\n\nFrom: Mitchell Carter, History Department. Re: the plan to install FocusTrack on student laptops\n\nDear members of the committee,\n\nThank you for inviting staff to comment before you make your decision in November. I write as someone who has taught at Westview for many years and who shares the committee's concern about distraction in class; I simply do not believe that FocusTrack is the right answer to it.\n\nAs I understand the plan, the software would record what appears on each student's screen during lessons, mark any activity it judges to be off task, and give every student a weekly \"attention score\" that teachers and parents could see. The company's materials present this as a neutral tool, but I would argue that it raises an ethical dilemma we should not pass over quickly.\n\nMy first concern is accuracy. A student who opens a news website to check a date during a history lesson is on task, while a student who stares silently at a perfectly suitable page may not be. The software cannot differentiate between the two with any confidence, and yet its score would look precise and official. Numbers of this kind have a way of dictating decisions long after everyone has forgotten how rough they were.\n\nMy second concern is what constant observation does to learning itself. History, at least as I try to teach it, depends on students being willing to ask awkward questions, follow an idea that turns out to be irrelevant, and sometimes be wrong in front of others. Being watched every minute, I suspect, would inhibit exactly those habits, and students would learn to look busy rather than to think.\n\nMy third concern is privacy. Students' screens often show far more than schoolwork: messages from family, health information, a search they would rather keep to themselves. Collecting such sensitive material simply because it is technically possible is, in my view, problematic, regardless of how carefully the company promises to store it.\n\nI do not wish to criticize without offering an alternative. During our phone-free week last April, several colleagues and I noticed that the ban itself mattered less than clear expectations and well-planned lessons, which did more for attention than any rule could. I would therefore propose a one-semester trial in which teachers who wish to may use simple screen-sharing tools during specific tasks, with students' knowledge, and with no scores recorded or shared.\n\nTo take a stance against this software is not to take a stance against technology. It is to insist that the tools we choose should support the trust between teachers and students rather than replace it. I would be glad to discuss any of this with the committee in person.\n\nSincerely, Mitchell Carter",
+      "translation_vn": "(1) Thư gửi Ban Công nghệ trường Westview High\n(2) Người gửi: Mitchell Carter, tổ Lịch sử. Về việc: kế hoạch cài FocusTrack lên máy tính xách tay của học sinh\n(3) Kính gửi các thành viên của Ban,\n(4) Cảm ơn Ban đã mời giáo viên góp ý trước khi đưa ra quyết định vào tháng Mười Một.\n(5) Tôi viết với tư cách một người đã dạy ở Westview nhiều năm và cùng chia sẻ mối lo của Ban về việc học sinh mất tập trung trong lớp; chỉ là tôi không tin FocusTrack là lời giải đúng cho chuyện đó.\n(6) Theo tôi hiểu, phần mềm sẽ ghi lại những gì hiện trên màn hình của từng học sinh trong giờ học, đánh dấu mọi hoạt động mà nó cho là lạc đề, và chấm cho mỗi học sinh một \"điểm chú ý\" hằng tuần mà giáo viên và phụ huynh đều xem được.\n(7) Tài liệu của công ty giới thiệu đây là một công cụ trung lập, nhưng tôi cho rằng nó đặt ra một tình thế khó xử về đạo đức mà chúng ta không nên lướt qua vội vàng.\n(8) Mối lo đầu tiên của tôi là độ chính xác.\n(9) Một học sinh mở trang tin tức để tra một mốc ngày trong giờ lịch sử là đang làm đúng việc, còn một học sinh lặng lẽ nhìn chằm chằm vào một trang hoàn toàn phù hợp thì có thể là không.\n(10) Phần mềm không thể phân biệt hai trường hợp đó một cách đáng tin cậy, vậy mà điểm số của nó lại trông chính xác và chính thức.\n(11) Những con số kiểu này thường chi phối các quyết định rất lâu sau khi mọi người đã quên rằng chúng thô sơ đến mức nào.\n(12) Mối lo thứ hai của tôi là việc bị quan sát liên tục tác động thế nào tới chính việc học.\n(13) Môn lịch sử, ít nhất là theo cách tôi cố gắng dạy, phụ thuộc vào việc học sinh sẵn lòng đặt những câu hỏi khó, theo đuổi một ý mà hoá ra chẳng liên quan, và đôi khi sai trước mặt người khác.\n(14) Tôi ngờ rằng bị theo dõi từng phút sẽ kìm hãm đúng những thói quen ấy, và học sinh sẽ học cách tỏ ra bận rộn thay vì học cách suy nghĩ.\n(15) Mối lo thứ ba của tôi là quyền riêng tư.\n(16) Màn hình của học sinh thường hiện nhiều thứ hơn hẳn bài vở: tin nhắn của gia đình, thông tin sức khoẻ, một lần tìm kiếm mà các em muốn giữ cho riêng mình.\n(17) Thu thập những dữ liệu nhạy cảm như vậy chỉ vì về mặt kỹ thuật là làm được, theo tôi, là có vấn đề, bất kể công ty hứa lưu trữ chúng cẩn thận đến đâu.\n(18) Tôi không muốn chỉ phê bình mà không đưa ra phương án khác.\n(19) Trong tuần không điện thoại hồi tháng Tư vừa rồi, vài đồng nghiệp và tôi nhận thấy bản thân lệnh cấm ít quan trọng hơn những yêu cầu rõ ràng và bài giảng được chuẩn bị kỹ — chính chúng giúp học sinh tập trung hơn bất cứ quy định nào.\n(20) Vì vậy, tôi đề xuất thử nghiệm trong một học kỳ, trong đó giáo viên nào muốn có thể dùng các công cụ chia sẻ màn hình đơn giản trong những nhiệm vụ cụ thể, có sự biết trước của học sinh, và không ghi lại hay chia sẻ điểm số nào.\n(21) Phản đối phần mềm này không có nghĩa là phản đối công nghệ.\n(22) Mà là đòi hỏi rằng những công cụ ta chọn phải nâng đỡ lòng tin giữa thầy và trò chứ không thay thế nó.\n(23) Tôi rất sẵn lòng trao đổi trực tiếp với Ban về bất kỳ điểm nào trên đây.\n(24) Trân trọng, Mitchell Carter"
     }
   ],
   "questions": [
@@ -3170,13 +3170,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to introduce, in a familiar way, a habit that almost everyone shares",
-            "vi": "để giới thiệu, một cách gần gũi, một thói quen gần như ai cũng có"
+            "en": "to introduce a habit that almost everyone shares",
+            "vi": "để giới thiệu một thói quen hầu như ai cũng có"
           },
           "is_correct": true,
           "order": 0,
-          "text": "to introduce, in a familiar way, a habit that almost everyone shares",
-          "text_translation": "để giới thiệu, một cách gần gũi, một thói quen gần như ai cũng có"
+          "text": "to introduce a habit that almost everyone shares",
+          "text_translation": "để giới thiệu một thói quen hầu như ai cũng có"
         },
         {
           "id": "B",
@@ -3261,24 +3261,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "They copy the accent of whoever spoke to them first.",
-            "vi": "Họ bắt chước giọng của người nói với họ đầu tiên."
+            "en": "They copy the accent of whoever spoke to them first in a conversation.",
+            "vi": "Họ bắt chước giọng của người nói với họ trước tiên trong cuộc trò chuyện."
           },
           "is_correct": false,
           "order": 2,
-          "text": "They copy the accent of whoever spoke to them first.",
-          "text_translation": "Họ bắt chước giọng của người nói với họ đầu tiên."
+          "text": "They copy the accent of whoever spoke to them first in a conversation.",
+          "text_translation": "Họ bắt chước giọng của người nói với họ trước tiên trong cuộc trò chuyện."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "They adjust their speech to their listener, usually without realizing it.",
-            "vi": "Họ điều chỉnh lời nói theo người nghe, thường không nhận ra."
+            "en": "They adjust their speech to the listener, mostly unconsciously.",
+            "vi": "Họ điều chỉnh lời nói theo người nghe, phần lớn là vô thức."
           },
           "is_correct": true,
           "order": 3,
-          "text": "They adjust their speech to their listener, usually without realizing it.",
-          "text_translation": "Họ điều chỉnh lời nói theo người nghe, thường không nhận ra."
+          "text": "They adjust their speech to the listener, mostly unconsciously.",
+          "text_translation": "Họ điều chỉnh lời nói theo người nghe, phần lớn là vô thức."
         }
       ],
       "evidence_segments": [
@@ -3307,35 +3307,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "We should try harder to keep our own voice.",
-            "vi": "Ta nên cố gắng hơn để giữ giọng của riêng mình."
+            "en": "We should try harder to keep our own voice in every conversation.",
+            "vi": "Ta nên cố hơn để giữ giọng riêng của mình trong mọi cuộc trò chuyện."
           },
           "is_correct": false,
           "order": 0,
-          "text": "We should try harder to keep our own voice.",
-          "text_translation": "Ta nên cố gắng hơn để giữ giọng của riêng mình."
+          "text": "We should try harder to keep our own voice in every conversation.",
+          "text_translation": "Ta nên cố hơn để giữ giọng riêng của mình trong mọi cuộc trò chuyện."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Our way of speaking is less personal and fixed than we believe.",
-            "vi": "Cách nói của ta kém riêng tư và cố định hơn ta tưởng."
+            "en": "Our speech is less fixed and personal than we think.",
+            "vi": "Cách ta nói ít cố định và ít mang tính riêng hơn ta nghĩ."
           },
           "is_correct": true,
           "order": 1,
-          "text": "Our way of speaking is less personal and fixed than we believe.",
-          "text_translation": "Cách nói của ta kém riêng tư và cố định hơn ta tưởng."
+          "text": "Our speech is less fixed and personal than we think.",
+          "text_translation": "Cách ta nói ít cố định và ít mang tính riêng hơn ta nghĩ."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Most people dislike the sound of their own voice.",
-            "vi": "Phần lớn người ta không thích giọng của chính mình."
+            "en": "Most people secretly dislike the sound of their own voice.",
+            "vi": "Phần lớn mọi người thầm ghét giọng nói của chính mình."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Most people dislike the sound of their own voice.",
-          "text_translation": "Phần lớn người ta không thích giọng của chính mình."
+          "text": "Most people secretly dislike the sound of their own voice.",
+          "text_translation": "Phần lớn mọi người thầm ghét giọng nói của chính mình."
         },
         {
           "id": "D",
@@ -3443,35 +3443,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "when the speaker changes their accent too slowly",
-            "vi": "khi người nói đổi giọng quá chậm"
+            "en": "when the speaker changes their accent too slowly for anyone to notice",
+            "vi": "khi người nói đổi giọng chậm đến mức không ai nhận ra"
           },
           "is_correct": false,
           "order": 0,
-          "text": "when the speaker changes their accent too slowly",
-          "text_translation": "khi người nói đổi giọng quá chậm"
+          "text": "when the speaker changes their accent too slowly for anyone to notice",
+          "text_translation": "khi người nói đổi giọng chậm đến mức không ai nhận ra"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "when it is based on an assumption about a group rather than on the real person",
-            "vi": "khi nó dựa trên giả định về một nhóm người chứ không dựa trên con người thật"
+            "en": "when it responds to a group, not the real person",
+            "vi": "khi nó phản ứng với một nhóm, không phải với con người thật"
           },
           "is_correct": true,
           "order": 1,
-          "text": "when it is based on an assumption about a group rather than on the real person",
-          "text_translation": "khi nó dựa trên giả định về một nhóm người chứ không dựa trên con người thật"
+          "text": "when it responds to a group, not the real person",
+          "text_translation": "khi nó phản ứng với một nhóm, không phải với con người thật"
         },
         {
           "id": "C",
           "i18n": {
-            "en": "when two people come from the same town",
-            "vi": "khi hai người cùng quê"
+            "en": "when both people grew up in the same town and share a dialect",
+            "vi": "khi cả hai lớn lên cùng một thị trấn và dùng chung phương ngữ"
           },
           "is_correct": false,
           "order": 2,
-          "text": "when two people come from the same town",
-          "text_translation": "khi hai người cùng quê"
+          "text": "when both people grew up in the same town and share a dialect",
+          "text_translation": "khi cả hai lớn lên cùng một thị trấn và dùng chung phương ngữ"
         },
         {
           "id": "D",
@@ -3504,20 +3504,20 @@
       "level": "C1",
       "passage_ref": "passage_u1112_03",
       "i18n": {
-        "en": "What does \"less like friendship than an insult\" mean?",
-        "vi": "\"less like friendship than an insult\" nghĩa là gì?"
+        "en": "What does \"less like friendship than like an insult\" mean?",
+        "vi": "\"less like friendship than like an insult\" nghĩa là gì?"
       },
       "choices": [
         {
           "id": "A",
           "i18n": {
-            "en": "It may seem that you are making fun of the other person.",
-            "vi": "Có thể trông như bạn đang giễu cợt, làm tổn thương người kia."
+            "en": "You may seem to be mocking the other person.",
+            "vi": "Có thể trông như bạn đang giễu cợt người kia."
           },
           "is_correct": true,
           "order": 0,
-          "text": "It may seem that you are making fun of the other person.",
-          "text_translation": "Có thể trông như bạn đang giễu cợt, làm tổn thương người kia."
+          "text": "You may seem to be mocking the other person.",
+          "text_translation": "Có thể trông như bạn đang giễu cợt người kia."
         },
         {
           "id": "B",
@@ -3544,25 +3544,25 @@
         {
           "id": "D",
           "i18n": {
-            "en": "It may be difficult for others to understand.",
-            "vi": "Người khác có thể khó hiểu nó."
+            "en": "It may be hard for others to understand.",
+            "vi": "Người khác có thể khó hiểu."
           },
           "is_correct": false,
           "order": 3,
-          "text": "It may be difficult for others to understand.",
-          "text_translation": "Người khác có thể khó hiểu nó."
+          "text": "It may be hard for others to understand.",
+          "text_translation": "Người khác có thể khó hiểu."
         }
       ],
       "evidence_segments": [
         14
       ],
       "explanation_i18n": {
-        "vi": "\"Imitate a regional dialect that you do not share, and it may sound less like friendship than an insult.\""
+        "vi": "\"Imitate a regional dialect that you do not share, and it may sound less like friendship than like an insult.\""
       },
       "audio_data": null,
-      "question_jp": "What does \"less like friendship than an insult\" mean?",
-      "question_vn": "\"less like friendship than an insult\" nghĩa là gì?",
-      "explanation": "\"Imitate a regional dialect that you do not share, and it may sound less like friendship than an insult.\""
+      "question_jp": "What does \"less like friendship than like an insult\" mean?",
+      "question_vn": "\"less like friendship than like an insult\" nghĩa là gì?",
+      "explanation": "\"Imitate a regional dialect that you do not share, and it may sound less like friendship than like an insult.\""
     },
     {
       "id": "q_u1112_027",
@@ -3579,13 +3579,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to make the other person feel more comfortable",
-            "vi": "để người kia thấy thoải mái hơn"
+            "en": "to make the other person feel more relaxed and comfortable with them",
+            "vi": "để người kia thấy thoải mái, dễ chịu hơn với mình"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to make the other person feel more comfortable",
-          "text_translation": "để người kia thấy thoải mái hơn"
+          "text": "to make the other person feel more relaxed and comfortable with them",
+          "text_translation": "để người kia thấy thoải mái, dễ chịu hơn với mình"
         },
         {
           "id": "B",
@@ -3612,13 +3612,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "to show which community they belong to, or to keep some distance",
-            "vi": "để cho thấy mình thuộc cộng đồng nào, hoặc để giữ chút khoảng cách"
+            "en": "to show where they belong, or to keep their distance",
+            "vi": "để cho thấy mình thuộc về đâu, hoặc để giữ khoảng cách"
           },
           "is_correct": true,
           "order": 3,
-          "text": "to show which community they belong to, or to keep some distance",
-          "text_translation": "để cho thấy mình thuộc cộng đồng nào, hoặc để giữ chút khoảng cách"
+          "text": "to show where they belong, or to keep their distance",
+          "text_translation": "để cho thấy mình thuộc về đâu, hoặc để giữ khoảng cách"
         }
       ],
       "evidence_segments": [
@@ -3669,24 +3669,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "full of respect: she sees it as an expression of identity",
-            "vi": "tôn trọng: cô coi đó là cách thể hiện bản sắc"
+            "en": "positive: she sees it as an expression of identity",
+            "vi": "tích cực: cô xem đó là cách thể hiện bản sắc"
           },
           "is_correct": true,
           "order": 2,
-          "text": "full of respect: she sees it as an expression of identity",
-          "text_translation": "tôn trọng: cô coi đó là cách thể hiện bản sắc"
+          "text": "positive: she sees it as an expression of identity",
+          "text_translation": "tích cực: cô xem đó là cách thể hiện bản sắc"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "worried: she fears it will confuse students",
-            "vi": "lo lắng: cô sợ nó làm học sinh bối rối"
+            "en": "worried: she fears the dialect will confuse her students",
+            "vi": "lo lắng: cô sợ phương ngữ ấy làm học sinh bối rối"
           },
           "is_correct": false,
           "order": 3,
-          "text": "worried: she fears it will confuse students",
-          "text_translation": "lo lắng: cô sợ nó làm học sinh bối rối"
+          "text": "worried: she fears the dialect will confuse her students",
+          "text_translation": "lo lắng: cô sợ phương ngữ ấy làm học sinh bối rối"
         }
       ],
       "evidence_segments": [
@@ -3708,20 +3708,20 @@
       "level": "C1",
       "passage_ref": "passage_u1112_03",
       "i18n": {
-        "en": "According to Lydia, what does linguistic skill at this level mainly involve?",
-        "vi": "Theo Lydia, kỹ năng ngôn ngữ ở mức này chủ yếu là gì?"
+        "en": "According to Lydia, what does linguistic skill of this kind mainly involve?",
+        "vi": "Theo Lydia, kỹ năng ngôn ngữ kiểu này chủ yếu là gì?"
       },
       "choices": [
         {
           "id": "A",
           "i18n": {
-            "en": "sensitivity to context and to the real needs of the listener",
-            "vi": "nhạy bén với ngữ cảnh và với nhu cầu thật của người nghe"
+            "en": "sensitivity to context and the listener's real needs",
+            "vi": "sự nhạy bén với ngữ cảnh và nhu cầu thật của người nghe"
           },
           "is_correct": true,
           "order": 0,
-          "text": "sensitivity to context and to the real needs of the listener",
-          "text_translation": "nhạy bén với ngữ cảnh và với nhu cầu thật của người nghe"
+          "text": "sensitivity to context and the listener's real needs",
+          "text_translation": "sự nhạy bén với ngữ cảnh và nhu cầu thật của người nghe"
         },
         {
           "id": "B",
@@ -3737,24 +3737,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "the ability to imitate many different accents",
-            "vi": "khả năng bắt chước nhiều giọng khác nhau"
+            "en": "the ability to imitate many different accents and regional dialects",
+            "vi": "khả năng bắt chước nhiều giọng và phương ngữ vùng miền khác nhau"
           },
           "is_correct": false,
           "order": 2,
-          "text": "the ability to imitate many different accents",
-          "text_translation": "khả năng bắt chước nhiều giọng khác nhau"
+          "text": "the ability to imitate many different accents and regional dialects",
+          "text_translation": "khả năng bắt chước nhiều giọng và phương ngữ vùng miền khác nhau"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "always using easier language with new people",
-            "vi": "luôn dùng ngôn ngữ đơn giản hơn với người mới"
+            "en": "always using easier language with people they have just met",
+            "vi": "luôn dùng ngôn ngữ dễ hơn với người mới gặp"
           },
           "is_correct": false,
           "order": 3,
-          "text": "always using easier language with new people",
-          "text_translation": "luôn dùng ngôn ngữ đơn giản hơn với người mới"
+          "text": "always using easier language with people they have just met",
+          "text_translation": "luôn dùng ngôn ngữ dễ hơn với người mới gặp"
         }
       ],
       "evidence_segments": [
@@ -3764,8 +3764,8 @@
         "vi": "\"not so much about grammar as about tact: noticing contextual clues\" — not so much A as B."
       },
       "audio_data": null,
-      "question_jp": "According to Lydia, what does linguistic skill at this level mainly involve?",
-      "question_vn": "Theo Lydia, kỹ năng ngôn ngữ ở mức này chủ yếu là gì?",
+      "question_jp": "According to Lydia, what does linguistic skill of this kind mainly involve?",
+      "question_vn": "Theo Lydia, kỹ năng ngôn ngữ kiểu này chủ yếu là gì?",
       "explanation": "\"not so much about grammar as about tact: noticing contextual clues\" — not so much A as B."
     },
     {
@@ -3794,13 +3794,13 @@
         {
           "id": "B",
           "i18n": {
-            "en": "Changing how we speak for different people shows attention to them.",
-            "vi": "Việc đổi cách nói với từng người cho thấy ta chú ý tới họ."
+            "en": "Adapting how we speak shows attention to others.",
+            "vi": "Điều chỉnh cách nói cho thấy ta để tâm tới người khác."
           },
           "is_correct": true,
           "order": 1,
-          "text": "Changing how we speak for different people shows attention to them.",
-          "text_translation": "Việc đổi cách nói với từng người cho thấy ta chú ý tới họ."
+          "text": "Adapting how we speak shows attention to others.",
+          "text_translation": "Điều chỉnh cách nói cho thấy ta để tâm tới người khác."
         },
         {
           "id": "C",
@@ -3852,13 +3852,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to give readers a recipe for jam",
-            "vi": "để cho độc giả công thức làm mứt"
+            "en": "to share a neighbor's recipe for making jam at home with readers",
+            "vi": "để chia sẻ với người đọc công thức tự làm mứt tại nhà của một người hàng xóm"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to give readers a recipe for jam",
-          "text_translation": "để cho độc giả công thức làm mứt"
+          "text": "to share a neighbor's recipe for making jam at home with readers",
+          "text_translation": "để chia sẻ với người đọc công thức tự làm mứt tại nhà của một người hàng xóm"
         },
         {
           "id": "B",
@@ -3874,13 +3874,13 @@
         {
           "id": "C",
           "i18n": {
-            "en": "to introduce a familiar feeling of obligation that the article will explain",
-            "vi": "để giới thiệu một cảm giác mắc nợ quen thuộc mà bài viết sẽ lý giải"
+            "en": "to introduce a familiar sense of obligation",
+            "vi": "để giới thiệu một cảm giác mắc nợ quen thuộc"
           },
           "is_correct": true,
           "order": 2,
-          "text": "to introduce a familiar feeling of obligation that the article will explain",
-          "text_translation": "để giới thiệu một cảm giác mắc nợ quen thuộc mà bài viết sẽ lý giải"
+          "text": "to introduce a familiar sense of obligation",
+          "text_translation": "để giới thiệu một cảm giác mắc nợ quen thuộc"
         },
         {
           "id": "D",
@@ -3921,13 +3921,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "They are rarely free, because they create duties for both sides.",
-            "vi": "Chúng hiếm khi \"cho không\", vì chúng tạo ra bổn phận cho cả hai bên."
+            "en": "They are rarely free, since they create duties.",
+            "vi": "Chúng hiếm khi miễn phí, vì chúng tạo ra bổn phận."
           },
           "is_correct": true,
           "order": 0,
-          "text": "They are rarely free, because they create duties for both sides.",
-          "text_translation": "Chúng hiếm khi \"cho không\", vì chúng tạo ra bổn phận cho cả hai bên."
+          "text": "They are rarely free, since they create duties.",
+          "text_translation": "Chúng hiếm khi miễn phí, vì chúng tạo ra bổn phận."
         },
         {
           "id": "B",
@@ -4001,13 +4001,13 @@
         {
           "id": "B",
           "i18n": {
-            "en": "because the person who gave it would then have to take it home again",
-            "vi": "vì người tặng sẽ phải mang quà về"
+            "en": "because the person who gave it would then have to take it home",
+            "vi": "vì người tặng sẽ phải mang nó về lại"
           },
           "is_correct": false,
           "order": 1,
-          "text": "because the person who gave it would then have to take it home again",
-          "text_translation": "vì người tặng sẽ phải mang quà về"
+          "text": "because the person who gave it would then have to take it home",
+          "text_translation": "vì người tặng sẽ phải mang nó về lại"
         },
         {
           "id": "C",
@@ -4023,13 +4023,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "because it meant rejecting the relationship the gift was meant to create",
-            "vi": "vì nó có nghĩa là khước từ mối quan hệ mà món quà định tạo ra"
+            "en": "because it rejected the relationship the gift was meant to create",
+            "vi": "vì nó khước từ mối quan hệ mà món quà nhằm tạo ra"
           },
           "is_correct": true,
           "order": 3,
-          "text": "because it meant rejecting the relationship the gift was meant to create",
-          "text_translation": "vì nó có nghĩa là khước từ mối quan hệ mà món quà định tạo ra"
+          "text": "because it rejected the relationship the gift was meant to create",
+          "text_translation": "vì nó khước từ mối quan hệ mà món quà nhằm tạo ra"
         }
       ],
       "evidence_segments": [
@@ -4069,13 +4069,13 @@
         {
           "id": "B",
           "i18n": {
-            "en": "The urge to give back is strong even towards a complete stranger.",
-            "vi": "Thôi thúc đáp lễ rất mạnh, kể cả với một người hoàn toàn xa lạ."
+            "en": "The urge to give back is strong, even towards strangers.",
+            "vi": "Thôi thúc đáp lễ rất mạnh, kể cả với người lạ."
           },
           "is_correct": true,
           "order": 1,
-          "text": "The urge to give back is strong even towards a complete stranger.",
-          "text_translation": "Thôi thúc đáp lễ rất mạnh, kể cả với một người hoàn toàn xa lạ."
+          "text": "The urge to give back is strong, even towards strangers.",
+          "text_translation": "Thôi thúc đáp lễ rất mạnh, kể cả với người lạ."
         },
         {
           "id": "C",
@@ -4091,13 +4091,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "Long letters are more effective than holiday cards.",
-            "vi": "Thư dài hiệu quả hơn thiệp mừng."
+            "en": "Long letters are more effective than holiday cards at making friends.",
+            "vi": "Thư dài kết bạn hiệu quả hơn thiệp mừng lễ."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Long letters are more effective than holiday cards.",
-          "text_translation": "Thư dài hiệu quả hơn thiệp mừng."
+          "text": "Long letters are more effective than holiday cards at making friends.",
+          "text_translation": "Thư dài kết bạn hiệu quả hơn thiệp mừng lễ."
         }
       ],
       "evidence_segments": [
@@ -4160,13 +4160,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "People replied without stopping to ask why a stranger had written to them.",
-            "vi": "Người ta hồi âm mà không dừng lại hỏi vì sao một người lạ viết cho mình."
+            "en": "People replied without asking why a stranger had written.",
+            "vi": "Người ta hồi âm mà không hỏi vì sao một người lạ lại viết cho mình."
           },
           "is_correct": true,
           "order": 3,
-          "text": "People replied without stopping to ask why a stranger had written to them.",
-          "text_translation": "Người ta hồi âm mà không dừng lại hỏi vì sao một người lạ viết cho mình."
+          "text": "People replied without asking why a stranger had written.",
+          "text_translation": "Người ta hồi âm mà không hỏi vì sao một người lạ lại viết cho mình."
         }
       ],
       "evidence_segments": [
@@ -4195,13 +4195,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to show that customers prefer two mints to one",
-            "vi": "để cho thấy khách thích hai viên kẹo hơn một"
+            "en": "to show that customers clearly prefer receiving two mints rather than one",
+            "vi": "để cho thấy khách rõ ràng thích nhận hai viên kẹo bạc hà hơn một viên"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to show that customers prefer two mints to one",
-          "text_translation": "để cho thấy khách thích hai viên kẹo hơn một"
+          "text": "to show that customers clearly prefer receiving two mints rather than one",
+          "text_translation": "để cho thấy khách rõ ràng thích nhận hai viên kẹo bạc hà hơn một viên"
         },
         {
           "id": "B",
@@ -4217,13 +4217,13 @@
         {
           "id": "C",
           "i18n": {
-            "en": "to suggest that a gift which seems personal creates a stronger sense of obligation",
-            "vi": "để gợi ý rằng món quà có vẻ dành riêng cho mình tạo cảm giác mắc nợ mạnh hơn"
+            "en": "to suggest that a gift that feels personal creates more obligation",
+            "vi": "để gợi ý rằng món quà có vẻ dành riêng cho mình tạo ra cảm giác mắc nợ nhiều hơn"
           },
           "is_correct": true,
           "order": 2,
-          "text": "to suggest that a gift which seems personal creates a stronger sense of obligation",
-          "text_translation": "để gợi ý rằng món quà có vẻ dành riêng cho mình tạo cảm giác mắc nợ mạnh hơn"
+          "text": "to suggest that a gift that feels personal creates more obligation",
+          "text_translation": "để gợi ý rằng món quà có vẻ dành riêng cho mình tạo ra cảm giác mắc nợ nhiều hơn"
         },
         {
           "id": "D",
@@ -4263,35 +4263,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Both use a small gift to make people feel they owe something.",
-            "vi": "Cả hai dùng một món quà nhỏ để khiến người ta cảm thấy mình nợ điều gì đó."
+            "en": "Both use a small gift to create a sense of debt.",
+            "vi": "Cả hai dùng một món quà nhỏ để tạo cảm giác mắc nợ."
           },
           "is_correct": true,
           "order": 0,
-          "text": "Both use a small gift to make people feel they owe something.",
-          "text_translation": "Cả hai dùng một món quà nhỏ để khiến người ta cảm thấy mình nợ điều gì đó."
+          "text": "Both use a small gift to create a sense of debt.",
+          "text_translation": "Cả hai dùng một món quà nhỏ để tạo cảm giác mắc nợ."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Both are offered only to regular customers.",
-            "vi": "Cả hai chỉ dành cho khách quen."
+            "en": "Both are offered only to regular customers who have paid before.",
+            "vi": "Cả hai chỉ dành cho khách quen đã từng trả tiền."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Both are offered only to regular customers.",
-          "text_translation": "Cả hai chỉ dành cho khách quen."
+          "text": "Both are offered only to regular customers who have paid before.",
+          "text_translation": "Cả hai chỉ dành cho khách quen đã từng trả tiền."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Both are more expensive than they appear.",
-            "vi": "Cả hai đắt hơn vẻ ngoài."
+            "en": "Both are more expensive for customers than they first appear.",
+            "vi": "Cả hai đắt với khách hơn vẻ ban đầu."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Both are more expensive than they appear.",
-          "text_translation": "Cả hai đắt hơn vẻ ngoài."
+          "text": "Both are more expensive for customers than they first appear.",
+          "text_translation": "Cả hai đắt với khách hơn vẻ ban đầu."
         },
         {
           "id": "D",
@@ -4331,24 +4331,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "He believes that all kindness is secretly selfish.",
-            "vi": "Ông tin rằng mọi lòng tốt đều ích kỷ ngầm."
+            "en": "He believes that all kindness is secretly selfish underneath.",
+            "vi": "Ông tin rằng mọi lòng tốt thực chất đều ích kỷ ngầm bên dưới."
           },
           "is_correct": false,
           "order": 0,
-          "text": "He believes that all kindness is secretly selfish.",
-          "text_translation": "Ông tin rằng mọi lòng tốt đều ích kỷ ngầm."
+          "text": "He believes that all kindness is secretly selfish underneath.",
+          "text_translation": "Ông tin rằng mọi lòng tốt thực chất đều ích kỷ ngầm bên dưới."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "He does not reduce kindness to a trade; gifts are mainly about relationships.",
-            "vi": "Ông không quy lòng tốt thành mua bán; quà tặng chủ yếu là chuyện quan hệ."
+            "en": "He sees gifts as mainly about relationships, not trade.",
+            "vi": "Ông xem quà tặng chủ yếu là chuyện quan hệ, không phải trao đổi."
           },
           "is_correct": true,
           "order": 1,
-          "text": "He does not reduce kindness to a trade; gifts are mainly about relationships.",
-          "text_translation": "Ông không quy lòng tốt thành mua bán; quà tặng chủ yếu là chuyện quan hệ."
+          "text": "He sees gifts as mainly about relationships, not trade.",
+          "text_translation": "Ông xem quà tặng chủ yếu là chuyện quan hệ, không phải trao đổi."
         },
         {
           "id": "C",
@@ -4468,13 +4468,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Pay the neighbor for the jam as soon as possible.",
-            "vi": "Hãy trả tiền hũ mứt cho hàng xóm càng sớm càng tốt."
+            "en": "Pay the neighbor back for the jam as soon as you possibly can.",
+            "vi": "Trả tiền hũ mứt cho người hàng xóm càng sớm càng tốt."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Pay the neighbor for the jam as soon as possible.",
-          "text_translation": "Hãy trả tiền hũ mứt cho hàng xóm càng sớm càng tốt."
+          "text": "Pay the neighbor back for the jam as soon as you possibly can.",
+          "text_translation": "Trả tiền hũ mứt cho người hàng xóm càng sớm càng tốt."
         },
         {
           "id": "B",
@@ -4490,13 +4490,13 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Accept the gift happily and return the kindness naturally when the time is right.",
-            "vi": "Hãy vui vẻ nhận quà và đáp lại tấm lòng một cách tự nhiên khi đúng lúc."
+            "en": "Accept it gladly and return the kindness later.",
+            "vi": "Vui vẻ nhận và đáp lại tấm lòng sau."
           },
           "is_correct": true,
           "order": 2,
-          "text": "Accept the gift happily and return the kindness naturally when the time is right.",
-          "text_translation": "Hãy vui vẻ nhận quà và đáp lại tấm lòng một cách tự nhiên khi đúng lúc."
+          "text": "Accept it gladly and return the kindness later.",
+          "text_translation": "Vui vẻ nhận và đáp lại tấm lòng sau."
         },
         {
           "id": "D",
@@ -4548,13 +4548,13 @@
         {
           "id": "B",
           "i18n": {
-            "en": "It had learned from past applications that came mostly from men.",
-            "vi": "Nó đã học từ các hồ sơ cũ mà phần lớn là của nam giới."
+            "en": "It had learned from past applications, mostly from men.",
+            "vi": "Nó đã học từ hồ sơ cũ, phần lớn của nam giới."
           },
           "is_correct": true,
           "order": 1,
-          "text": "It had learned from past applications that came mostly from men.",
-          "text_translation": "Nó đã học từ các hồ sơ cũ mà phần lớn là của nam giới."
+          "text": "It had learned from past applications, mostly from men.",
+          "text_translation": "Nó đã học từ hồ sơ cũ, phần lớn của nam giới."
         },
         {
           "id": "C",
@@ -4570,13 +4570,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "Those applicants had less experience than the others.",
-            "vi": "Những ứng viên đó ít kinh nghiệm hơn người khác."
+            "en": "Those applicants had less experience than the men who had applied.",
+            "vi": "Những người nộp đơn đó ít kinh nghiệm hơn những ứng viên nam."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Those applicants had less experience than the others.",
-          "text_translation": "Những ứng viên đó ít kinh nghiệm hơn người khác."
+          "text": "Those applicants had less experience than the men who had applied.",
+          "text_translation": "Những người nộp đơn đó ít kinh nghiệm hơn những ứng viên nam."
         }
       ],
       "evidence_segments": [
@@ -4605,46 +4605,46 @@
         {
           "id": "A",
           "i18n": {
-            "en": "A news report forced the company to close it immediately.",
-            "vi": "Một bản tin buộc công ty phải đóng nó ngay lập tức."
+            "en": "A news report forced the company to shut it down overnight.",
+            "vi": "Một bản tin buộc công ty đóng hệ thống chỉ sau một đêm."
           },
           "is_correct": false,
           "order": 0,
-          "text": "A news report forced the company to close it immediately.",
-          "text_translation": "Một bản tin buộc công ty phải đóng nó ngay lập tức."
+          "text": "A news report forced the company to shut it down overnight.",
+          "text_translation": "Một bản tin buộc công ty đóng hệ thống chỉ sau một đêm."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The system was too expensive to run.",
-            "vi": "Hệ thống quá tốn kém để vận hành."
+            "en": "It cost far more to run than the company had expected.",
+            "vi": "Chi phí vận hành cao hơn nhiều so với công ty dự tính."
           },
           "is_correct": false,
           "order": 1,
-          "text": "The system was too expensive to run.",
-          "text_translation": "Hệ thống quá tốn kém để vận hành."
+          "text": "It cost far more to run than the company had expected.",
+          "text_translation": "Chi phí vận hành cao hơn nhiều so với công ty dự tính."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "The engineers could not be certain the system would stop favoring men in other ways.",
-            "vi": "Các kỹ sư không thể chắc hệ thống sẽ thôi ưu ái nam giới theo những cách khác."
+            "en": "No one could be sure it would stop favoring men.",
+            "vi": "Không ai chắc được nó sẽ thôi thiên vị nam giới."
           },
           "is_correct": true,
           "order": 2,
-          "text": "The engineers could not be certain the system would stop favoring men in other ways.",
-          "text_translation": "Các kỹ sư không thể chắc hệ thống sẽ thôi ưu ái nam giới theo những cách khác."
+          "text": "No one could be sure it would stop favoring men.",
+          "text_translation": "Không ai chắc được nó sẽ thôi thiên vị nam giới."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "The company stopped hiring engineers.",
-            "vi": "Công ty ngừng tuyển kỹ sư."
+            "en": "The company had stopped hiring engineers for several years.",
+            "vi": "Công ty đã ngừng tuyển kỹ sư suốt mấy năm."
           },
           "is_correct": false,
           "order": 3,
-          "text": "The company stopped hiring engineers.",
-          "text_translation": "Công ty ngừng tuyển kỹ sư."
+          "text": "The company had stopped hiring engineers for several years.",
+          "text_translation": "Công ty đã ngừng tuyển kỹ sư suốt mấy năm."
         }
       ],
       "evidence_segments": [
@@ -4673,13 +4673,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Because the problem comes from the data, there is no obvious person to blame.",
-            "vi": "Vì sự bất công đến từ dữ liệu, nên không có ai rõ ràng để quy trách nhiệm."
+            "en": "Because the bias comes from the data, no one is obviously to blame.",
+            "vi": "Vì thiên lệch đến từ dữ liệu nên không có ai rõ ràng để quy trách nhiệm."
           },
           "is_correct": true,
           "order": 0,
-          "text": "Because the problem comes from the data, there is no obvious person to blame.",
-          "text_translation": "Vì sự bất công đến từ dữ liệu, nên không có ai rõ ràng để quy trách nhiệm."
+          "text": "Because the bias comes from the data, no one is obviously to blame.",
+          "text_translation": "Vì thiên lệch đến từ dữ liệu nên không có ai rõ ràng để quy trách nhiệm."
         },
         {
           "id": "B",
@@ -4695,24 +4695,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Because unfair systems are impossible to detect.",
-            "vi": "Vì không thể phát hiện được hệ thống bất công."
+            "en": "Because unfair systems are impossible to detect, even by experts.",
+            "vi": "Vì hệ thống bất công không thể phát hiện được, kể cả với chuyên gia."
           },
           "is_correct": false,
           "order": 2,
-          "text": "Because unfair systems are impossible to detect.",
-          "text_translation": "Vì không thể phát hiện được hệ thống bất công."
+          "text": "Because unfair systems are impossible to detect, even by experts.",
+          "text_translation": "Vì hệ thống bất công không thể phát hiện được, kể cả với chuyên gia."
         },
         {
           "id": "D",
           "i18n": {
-            "en": "Because programmers refuse to discuss their work.",
-            "vi": "Vì lập trình viên từ chối nói về công việc của mình."
+            "en": "Because programmers usually refuse to discuss their work in public.",
+            "vi": "Vì lập trình viên thường từ chối bàn về công việc của mình trước công chúng."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Because programmers refuse to discuss their work.",
-          "text_translation": "Vì lập trình viên từ chối nói về công việc của mình."
+          "text": "Because programmers usually refuse to discuss their work in public.",
+          "text_translation": "Vì lập trình viên thường từ chối bàn về công việc của mình trước công chúng."
         }
       ],
       "evidence_segments": [
@@ -4754,13 +4754,13 @@
         {
           "id": "B",
           "i18n": {
-            "en": "Machines have more legal authority than people.",
-            "vi": "Máy móc có thẩm quyền pháp lý cao hơn con người."
+            "en": "Machines have legal authority over people.",
+            "vi": "Máy móc có quyền lực pháp lý đối với con người."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Machines have more legal authority than people.",
-          "text_translation": "Máy móc có thẩm quyền pháp lý cao hơn con người."
+          "text": "Machines have legal authority over people.",
+          "text_translation": "Máy móc có quyền lực pháp lý đối với con người."
         },
         {
           "id": "C",
@@ -4776,13 +4776,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "Old unfair patterns can now look objective and scientific.",
-            "vi": "Sự bất công cũ giờ có thể trông khách quan và khoa học."
+            "en": "Old unfair patterns can now look objective.",
+            "vi": "Những khuôn mẫu bất công cũ giờ có thể trông khách quan."
           },
           "is_correct": true,
           "order": 3,
-          "text": "Old unfair patterns can now look objective and scientific.",
-          "text_translation": "Sự bất công cũ giờ có thể trông khách quan và khoa học."
+          "text": "Old unfair patterns can now look objective.",
+          "text_translation": "Những khuôn mẫu bất công cũ giờ có thể trông khách quan."
         }
       ],
       "evidence_segments": [
@@ -4804,20 +4804,20 @@
       "level": "C1",
       "passage_ref": "passage_u1112_05",
       "i18n": {
-        "en": "What problem does the writer describe in the paragraph that begins \"Who, then, is responsible\"?",
-        "vi": "Tác giả mô tả vấn đề gì trong đoạn bắt đầu bằng \"Who, then, is responsible\"?"
+        "en": "What is the main problem the writer describes in the paragraph that begins \"Who, then, is responsible\"?",
+        "vi": "Vấn đề chính người viết mô tả trong đoạn bắt đầu bằng \"Who, then, is responsible\" là gì?"
       },
       "choices": [
         {
           "id": "A",
           "i18n": {
-            "en": "Applicants usually complain too late to change anything.",
-            "vi": "Người xin việc thường khiếu nại quá muộn để thay đổi được gì."
+            "en": "Applicants are told exactly why a machine rejected them.",
+            "vi": "Ứng viên được cho biết chính xác vì sao máy loại họ."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Applicants usually complain too late to change anything.",
-          "text_translation": "Người xin việc thường khiếu nại quá muộn để thay đổi được gì."
+          "text": "Applicants are told exactly why a machine rejected them.",
+          "text_translation": "Ứng viên được cho biết chính xác vì sao máy loại họ."
         },
         {
           "id": "B",
@@ -4833,13 +4833,13 @@
         {
           "id": "C",
           "i18n": {
-            "en": "Each party can blame another, while the applicant may never know what happened.",
-            "vi": "Mỗi bên đều có thể đổ lỗi cho bên khác, trong khi người xin việc có thể không bao giờ biết chuyện gì xảy ra."
+            "en": "Each party can blame another, and the applicant may never know.",
+            "vi": "Mỗi bên đều có thể đổ lỗi cho bên khác, còn ứng viên có thể chẳng bao giờ biết."
           },
           "is_correct": true,
           "order": 2,
-          "text": "Each party can blame another, while the applicant may never know what happened.",
-          "text_translation": "Mỗi bên đều có thể đổ lỗi cho bên khác, trong khi người xin việc có thể không bao giờ biết chuyện gì xảy ra."
+          "text": "Each party can blame another, and the applicant may never know.",
+          "text_translation": "Mỗi bên đều có thể đổ lỗi cho bên khác, còn ứng viên có thể chẳng bao giờ biết."
         },
         {
           "id": "D",
@@ -4862,8 +4862,8 @@
         "vi": "\"Left unchallenged, this gap allows everyone to point at someone else.\""
       },
       "audio_data": null,
-      "question_jp": "What problem does the writer describe in the paragraph that begins \"Who, then, is responsible\"?",
-      "question_vn": "Tác giả mô tả vấn đề gì trong đoạn bắt đầu bằng \"Who, then, is responsible\"?",
+      "question_jp": "What is the main problem the writer describes in the paragraph that begins \"Who, then, is responsible\"?",
+      "question_vn": "Vấn đề chính người viết mô tả trong đoạn bắt đầu bằng \"Who, then, is responsible\" là gì?",
       "explanation": "\"Left unchallenged, this gap allows everyone to point at someone else.\""
     },
     {
@@ -4949,24 +4949,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to suggest that regular checks for hidden weaknesses should be normal practice",
-            "vi": "để gợi ý rằng việc rà định kỳ các điểm yếu tiềm ẩn nên là việc bình thường"
+            "en": "to suggest that regular checks for hidden flaws should be routine",
+            "vi": "để gợi ý rằng việc kiểm tra định kỳ tìm lỗi ẩn nên là thông lệ"
           },
           "is_correct": true,
           "order": 0,
-          "text": "to suggest that regular checks for hidden weaknesses should be normal practice",
-          "text_translation": "để gợi ý rằng việc rà định kỳ các điểm yếu tiềm ẩn nên là việc bình thường"
+          "text": "to suggest that regular checks for hidden flaws should be routine",
+          "text_translation": "để gợi ý rằng việc kiểm tra định kỳ tìm lỗi ẩn nên là thông lệ"
         },
         {
           "id": "B",
           "i18n": {
-            "en": "to show that algorithms are as expensive as bridges",
-            "vi": "để cho thấy thuật toán đắt như cầu"
+            "en": "to show that algorithms cost as much to build and maintain as bridges",
+            "vi": "để cho thấy thuật toán tốn kém để xây và bảo trì như cầu"
           },
           "is_correct": false,
           "order": 1,
-          "text": "to show that algorithms are as expensive as bridges",
-          "text_translation": "để cho thấy thuật toán đắt như cầu"
+          "text": "to show that algorithms cost as much to build and maintain as bridges",
+          "text_translation": "để cho thấy thuật toán tốn kém để xây và bảo trì như cầu"
         },
         {
           "id": "C",
@@ -5050,13 +5050,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "With too many applications, the reviewer may simply accept what the machine says.",
-            "vi": "Khi có quá nhiều hồ sơ, người duyệt có thể chỉ chấp nhận những gì máy nói."
+            "en": "A busy reviewer may simply accept the machine's choice.",
+            "vi": "Người duyệt bận rộn có thể chỉ việc chấp nhận lựa chọn của máy."
           },
           "is_correct": true,
           "order": 3,
-          "text": "With too many applications, the reviewer may simply accept what the machine says.",
-          "text_translation": "Khi có quá nhiều hồ sơ, người duyệt có thể chỉ chấp nhận những gì máy nói."
+          "text": "A busy reviewer may simply accept the machine's choice.",
+          "text_translation": "Người duyệt bận rộn có thể chỉ việc chấp nhận lựa chọn của máy."
         }
       ],
       "evidence_segments": [
@@ -5096,13 +5096,13 @@
         {
           "id": "B",
           "i18n": {
-            "en": "An organization that uses a tool must stay responsible for its results.",
-            "vi": "Tổ chức dùng công cụ phải chịu trách nhiệm về kết quả của nó."
+            "en": "A company that uses a tool stays responsible for its results.",
+            "vi": "Công ty dùng một công cụ vẫn phải chịu trách nhiệm về kết quả của nó."
           },
           "is_correct": true,
           "order": 1,
-          "text": "An organization that uses a tool must stay responsible for its results.",
-          "text_translation": "Tổ chức dùng công cụ phải chịu trách nhiệm về kết quả của nó."
+          "text": "A company that uses a tool stays responsible for its results.",
+          "text_translation": "Công ty dùng một công cụ vẫn phải chịu trách nhiệm về kết quả của nó."
         },
         {
           "id": "C",
@@ -5118,13 +5118,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "Applicants should check every algorithm themselves.",
-            "vi": "Người xin việc nên tự kiểm tra mọi thuật toán."
+            "en": "Applicants should check every algorithm themselves before applying.",
+            "vi": "Ứng viên nên tự kiểm tra mọi thuật toán trước khi nộp đơn."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Applicants should check every algorithm themselves.",
-          "text_translation": "Người xin việc nên tự kiểm tra mọi thuật toán."
+          "text": "Applicants should check every algorithm themselves before applying.",
+          "text_translation": "Ứng viên nên tự kiểm tra mọi thuật toán trước khi nộp đơn."
         }
       ],
       "evidence_segments": [
@@ -5154,12 +5154,12 @@
           "id": "A",
           "i18n": {
             "en": "to suggest that managers are more dangerous than algorithms",
-            "vi": "để ngụ ý rằng quản lý nguy hiểm hơn thuật toán"
+            "vi": "để gợi ý rằng người quản lý nguy hiểm hơn thuật toán"
           },
           "is_correct": false,
           "order": 0,
           "text": "to suggest that managers are more dangerous than algorithms",
-          "text_translation": "để ngụ ý rằng quản lý nguy hiểm hơn thuật toán"
+          "text_translation": "để gợi ý rằng người quản lý nguy hiểm hơn thuật toán"
         },
         {
           "id": "B",
@@ -5186,13 +5186,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "to show, through a familiar case, that the excuse \"the algorithm did it\" should not work",
-            "vi": "để cho thấy, qua một trường hợp quen thuộc, rằng lời bào chữa \"thuật toán làm đấy\" không nên được chấp nhận"
+            "en": "to show, by a familiar case, that \"the algorithm did it\" is no excuse",
+            "vi": "để cho thấy, qua một trường hợp quen thuộc, rằng \"do thuật toán\" không phải là lời bào chữa"
           },
           "is_correct": true,
           "order": 3,
-          "text": "to show, through a familiar case, that the excuse \"the algorithm did it\" should not work",
-          "text_translation": "để cho thấy, qua một trường hợp quen thuộc, rằng lời bào chữa \"thuật toán làm đấy\" không nên được chấp nhận"
+          "text": "to show, by a familiar case, that \"the algorithm did it\" is no excuse",
+          "text_translation": "để cho thấy, qua một trường hợp quen thuộc, rằng \"do thuật toán\" không phải là lời bào chữa"
         }
       ],
       "evidence_segments": [
@@ -5233,12 +5233,12 @@
           "id": "B",
           "i18n": {
             "en": "to complain about the behavior of one particular class",
-            "vi": "để phàn nàn về hành vi của một lớp cụ thể"
+            "vi": "để phàn nàn về cách cư xử của một lớp cụ thể"
           },
           "is_correct": false,
           "order": 1,
           "text": "to complain about the behavior of one particular class",
-          "text_translation": "để phàn nàn về hành vi của một lớp cụ thể"
+          "text_translation": "để phàn nàn về cách cư xử của một lớp cụ thể"
         },
         {
           "id": "C",
@@ -5254,13 +5254,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "to respond to the committee's request for comments and argue against a plan",
-            "vi": "để đáp lại lời mời góp ý của Ban và phản đối một kế hoạch"
+            "en": "to answer the committee's call for comments and oppose a plan",
+            "vi": "để đáp lời mời góp ý của ban và phản đối một kế hoạch"
           },
           "is_correct": true,
           "order": 3,
-          "text": "to respond to the committee's request for comments and argue against a plan",
-          "text_translation": "để đáp lại lời mời góp ý của Ban và phản đối một kế hoạch"
+          "text": "to answer the committee's call for comments and oppose a plan",
+          "text_translation": "để đáp lời mời góp ý của ban và phản đối một kế hoạch"
         }
       ],
       "evidence_segments": [
@@ -5301,13 +5301,13 @@
         {
           "id": "B",
           "i18n": {
-            "en": "He shares their concern but disagrees with their proposed solution.",
-            "vi": "Ông chia sẻ mối lo của họ nhưng không đồng ý với giải pháp họ đề xuất."
+            "en": "He shares their concern but rejects their solution.",
+            "vi": "Ông chia sẻ mối lo của họ nhưng bác giải pháp của họ."
           },
           "is_correct": true,
           "order": 1,
-          "text": "He shares their concern but disagrees with their proposed solution.",
-          "text_translation": "Ông chia sẻ mối lo của họ nhưng không đồng ý với giải pháp họ đề xuất."
+          "text": "He shares their concern but rejects their solution.",
+          "text_translation": "Ông chia sẻ mối lo của họ nhưng bác giải pháp của họ."
         },
         {
           "id": "C",
@@ -5392,12 +5392,12 @@
           "id": "D",
           "i18n": {
             "en": "giving each student a weekly attention score",
-            "vi": "chấm cho mỗi học sinh một điểm chú ý hằng tuần"
+            "vi": "cho mỗi học sinh một điểm tập trung hằng tuần"
           },
           "is_correct": false,
           "order": 3,
           "text": "giving each student a weekly attention score",
-          "text_translation": "chấm cho mỗi học sinh một điểm chú ý hằng tuần"
+          "text_translation": "cho mỗi học sinh một điểm tập trung hằng tuần"
         }
       ],
       "evidence_segments": [
@@ -5426,13 +5426,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to show that the software cannot tell real attention from its appearance",
-            "vi": "để cho thấy phần mềm không phân biệt được sự chú ý thật với vẻ bề ngoài"
+            "en": "to show that the software cannot tell attention from its appearance",
+            "vi": "để cho thấy phần mềm không phân biệt được sự tập trung thật với vẻ bề ngoài của nó"
           },
           "is_correct": true,
           "order": 0,
-          "text": "to show that the software cannot tell real attention from its appearance",
-          "text_translation": "để cho thấy phần mềm không phân biệt được sự chú ý thật với vẻ bề ngoài"
+          "text": "to show that the software cannot tell attention from its appearance",
+          "text_translation": "để cho thấy phần mềm không phân biệt được sự tập trung thật với vẻ bề ngoài của nó"
         },
         {
           "id": "B",
@@ -5459,13 +5459,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "to explain how he checks whether students are paying attention",
-            "vi": "để giải thích cách ông kiểm tra học sinh có chú ý không"
+            "en": "to explain how he himself checks whether students are paying attention",
+            "vi": "để giải thích chính ông kiểm tra học sinh có chú ý hay không ra sao"
           },
           "is_correct": false,
           "order": 3,
-          "text": "to explain how he checks whether students are paying attention",
-          "text_translation": "để giải thích cách ông kiểm tra học sinh có chú ý không"
+          "text": "to explain how he himself checks whether students are paying attention",
+          "text_translation": "để giải thích chính ông kiểm tra học sinh có chú ý hay không ra sao"
         }
       ],
       "evidence_segments": [
@@ -5495,13 +5495,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Unreliable scores can gain lasting influence because they look exact.",
-            "vi": "Những điểm số thiếu tin cậy có thể có ảnh hưởng lâu dài vì trông chúng chính xác."
+            "en": "Rough scores can gain lasting influence because they look exact.",
+            "vi": "Những điểm số thô có thể có ảnh hưởng lâu dài vì trông chúng chính xác."
           },
           "is_correct": true,
           "order": 0,
-          "text": "Unreliable scores can gain lasting influence because they look exact.",
-          "text_translation": "Những điểm số thiếu tin cậy có thể có ảnh hưởng lâu dài vì trông chúng chính xác."
+          "text": "Rough scores can gain lasting influence because they look exact.",
+          "text_translation": "Những điểm số thô có thể có ảnh hưởng lâu dài vì trông chúng chính xác."
         },
         {
           "id": "B",
@@ -5528,13 +5528,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "Decisions about students should be made only by parents.",
-            "vi": "Quyết định về học sinh chỉ nên do phụ huynh đưa ra."
+            "en": "Decisions about students should be left to parents alone.",
+            "vi": "Các quyết định về học sinh nên để riêng phụ huynh lo."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Decisions about students should be made only by parents.",
-          "text_translation": "Quyết định về học sinh chỉ nên do phụ huynh đưa ra."
+          "text": "Decisions about students should be left to parents alone.",
+          "text_translation": "Các quyết định về học sinh nên để riêng phụ huynh lo."
         }
       ],
       "evidence_segments": [
@@ -5564,13 +5564,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to prove that history is more difficult than other subjects",
-            "vi": "để chứng minh lịch sử khó hơn các môn khác"
+            "en": "to prove that history is harder to learn than most other school subjects",
+            "vi": "để chứng minh môn Lịch sử khó học hơn hầu hết các môn khác"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to prove that history is more difficult than other subjects",
-          "text_translation": "để chứng minh lịch sử khó hơn các môn khác"
+          "text": "to prove that history is harder to learn than most other school subjects",
+          "text_translation": "để chứng minh môn Lịch sử khó học hơn hầu hết các môn khác"
         },
         {
           "id": "B",
@@ -5586,24 +5586,24 @@
         {
           "id": "C",
           "i18n": {
-            "en": "to suggest that history lessons do not need laptops",
-            "vi": "để ngụ ý rằng giờ lịch sử không cần máy tính xách tay"
+            "en": "to suggest that history lessons can easily be taught without laptops",
+            "vi": "để gợi ý rằng giờ Lịch sử có thể dạy dễ dàng mà không cần máy tính"
           },
           "is_correct": false,
           "order": 2,
-          "text": "to suggest that history lessons do not need laptops",
-          "text_translation": "để ngụ ý rằng giờ lịch sử không cần máy tính xách tay"
+          "text": "to suggest that history lessons can easily be taught without laptops",
+          "text_translation": "để gợi ý rằng giờ Lịch sử có thể dạy dễ dàng mà không cần máy tính"
         },
         {
           "id": "D",
           "i18n": {
-            "en": "to show that real learning needs the freedom to take risks, which constant watching would harm",
-            "vi": "để cho thấy việc học thật cần tự do dám thử, điều mà việc theo dõi liên tục sẽ làm tổn hại"
+            "en": "to show that learning needs a freedom that monitoring would discourage",
+            "vi": "để cho thấy việc học cần một sự tự do mà việc theo dõi sẽ làm thui chột"
           },
           "is_correct": true,
           "order": 3,
-          "text": "to show that real learning needs the freedom to take risks, which constant watching would harm",
-          "text_translation": "để cho thấy việc học thật cần tự do dám thử, điều mà việc theo dõi liên tục sẽ làm tổn hại"
+          "text": "to show that learning needs a freedom that monitoring would discourage",
+          "text_translation": "để cho thấy việc học cần một sự tự do mà việc theo dõi sẽ làm thui chột"
         }
       ],
       "evidence_segments": [
@@ -5633,35 +5633,35 @@
         {
           "id": "A",
           "i18n": {
-            "en": "Students would have too much homework to think clearly.",
-            "vi": "Học sinh sẽ có quá nhiều bài tập nên không nghĩ thông suốt được."
+            "en": "Students would have far too much homework to think clearly in class.",
+            "vi": "Học sinh sẽ có quá nhiều bài tập về nhà để suy nghĩ thấu đáo trên lớp."
           },
           "is_correct": false,
           "order": 0,
-          "text": "Students would have too much homework to think clearly.",
-          "text_translation": "Học sinh sẽ có quá nhiều bài tập nên không nghĩ thông suốt được."
+          "text": "Students would have far too much homework to think clearly in class.",
+          "text_translation": "Học sinh sẽ có quá nhiều bài tập về nhà để suy nghĩ thấu đáo trên lớp."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "Students would become busier and therefore learn more.",
-            "vi": "Học sinh sẽ bận rộn hơn và vì thế học được nhiều hơn."
+            "en": "Students would become busier and therefore learn more as a result.",
+            "vi": "Học sinh sẽ bận rộn hơn và nhờ đó học được nhiều hơn."
           },
           "is_correct": false,
           "order": 1,
-          "text": "Students would become busier and therefore learn more.",
-          "text_translation": "Học sinh sẽ bận rộn hơn và vì thế học được nhiều hơn."
+          "text": "Students would become busier and therefore learn more as a result.",
+          "text_translation": "Học sinh sẽ bận rộn hơn và nhờ đó học được nhiều hơn."
         },
         {
           "id": "C",
           "i18n": {
-            "en": "Students would focus on appearing attentive instead of really learning.",
-            "vi": "Học sinh sẽ chú trọng tỏ ra chăm chú thay vì thật sự học."
+            "en": "Students would focus on seeming attentive, not on learning.",
+            "vi": "Học sinh sẽ chú tâm vào việc tỏ ra chăm chú, không phải vào việc học."
           },
           "is_correct": true,
           "order": 2,
-          "text": "Students would focus on appearing attentive instead of really learning.",
-          "text_translation": "Học sinh sẽ chú trọng tỏ ra chăm chú thay vì thật sự học."
+          "text": "Students would focus on seeming attentive, not on learning.",
+          "text_translation": "Học sinh sẽ chú tâm vào việc tỏ ra chăm chú, không phải vào việc học."
         },
         {
           "id": "D",
@@ -5701,24 +5701,24 @@
         {
           "id": "A",
           "i18n": {
-            "en": "The company might sell the laptops to another school.",
-            "vi": "Công ty có thể bán máy tính cho trường khác."
+            "en": "The company might sell the students' laptops to another school district.",
+            "vi": "Công ty có thể bán máy tính của học sinh cho một khu học chánh khác."
           },
           "is_correct": false,
           "order": 0,
-          "text": "The company might sell the laptops to another school.",
-          "text_translation": "Công ty có thể bán máy tính cho trường khác."
+          "text": "The company might sell the students' laptops to another school district.",
+          "text_translation": "Công ty có thể bán máy tính của học sinh cho một khu học chánh khác."
         },
         {
           "id": "B",
           "i18n": {
-            "en": "The software would collect personal and sensitive information unrelated to schoolwork.",
-            "vi": "Phần mềm sẽ thu thập thông tin cá nhân, nhạy cảm không liên quan tới bài vở."
+            "en": "It would collect sensitive information unrelated to school.",
+            "vi": "Nó sẽ thu thập thông tin nhạy cảm chẳng liên quan gì tới việc học."
           },
           "is_correct": true,
           "order": 1,
-          "text": "The software would collect personal and sensitive information unrelated to schoolwork.",
-          "text_translation": "Phần mềm sẽ thu thập thông tin cá nhân, nhạy cảm không liên quan tới bài vở."
+          "text": "It would collect sensitive information unrelated to school.",
+          "text_translation": "Nó sẽ thu thập thông tin nhạy cảm chẳng liên quan gì tới việc học."
         },
         {
           "id": "C",
@@ -5734,13 +5734,13 @@
         {
           "id": "D",
           "i18n": {
-            "en": "Teachers' own screens would also be recorded.",
-            "vi": "Màn hình của giáo viên cũng sẽ bị ghi lại."
+            "en": "Teachers' own screens would also be recorded during every lesson.",
+            "vi": "Màn hình của chính giáo viên cũng sẽ bị ghi lại trong mọi tiết học."
           },
           "is_correct": false,
           "order": 3,
-          "text": "Teachers' own screens would also be recorded.",
-          "text_translation": "Màn hình của giáo viên cũng sẽ bị ghi lại."
+          "text": "Teachers' own screens would also be recorded during every lesson.",
+          "text_translation": "Màn hình của chính giáo viên cũng sẽ bị ghi lại trong mọi tiết học."
         }
       ],
       "evidence_segments": [
@@ -5770,13 +5770,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to suggest that phones should be banned for the whole year",
-            "vi": "để gợi ý cấm điện thoại cả năm"
+            "en": "to suggest that phones should be banned at Westview for the whole year",
+            "vi": "để đề xuất cấm điện thoại ở Westview suốt cả năm"
           },
           "is_correct": false,
           "order": 0,
-          "text": "to suggest that phones should be banned for the whole year",
-          "text_translation": "để gợi ý cấm điện thoại cả năm"
+          "text": "to suggest that phones should be banned at Westview for the whole year",
+          "text_translation": "để đề xuất cấm điện thoại ở Westview suốt cả năm"
         },
         {
           "id": "B",
@@ -5792,13 +5792,13 @@
         {
           "id": "C",
           "i18n": {
-            "en": "as evidence that good teaching improved attention without monitoring",
-            "vi": "như bằng chứng rằng dạy tốt đã giúp học sinh tập trung hơn mà không cần theo dõi"
+            "en": "as evidence that good teaching does more for attention than rules",
+            "vi": "làm bằng chứng rằng dạy tốt giúp tập trung nhiều hơn các quy định"
           },
           "is_correct": true,
           "order": 2,
-          "text": "as evidence that good teaching improved attention without monitoring",
-          "text_translation": "như bằng chứng rằng dạy tốt đã giúp học sinh tập trung hơn mà không cần theo dõi"
+          "text": "as evidence that good teaching does more for attention than rules",
+          "text_translation": "làm bằng chứng rằng dạy tốt giúp tập trung nhiều hơn các quy định"
         },
         {
           "id": "D",
@@ -5816,12 +5816,12 @@
         19
       ],
       "explanation_i18n": {
-        "vi": "\"clear expectations and well-planned lessons did more for attention than any rule could compel\"."
+        "vi": "\"the ban itself mattered less than clear expectations and well-planned lessons, which did more for attention than any rule could\"."
       },
       "audio_data": null,
       "question_jp": "Why does Mitchell mention the phone-free week?",
       "question_vn": "Vì sao Mitchell nhắc tới tuần không điện thoại?",
-      "explanation": "\"clear expectations and well-planned lessons did more for attention than any rule could compel\"."
+      "explanation": "\"the ban itself mattered less than clear expectations and well-planned lessons, which did more for attention than any rule could\"."
     },
     {
       "id": "q_u1112_060",
@@ -5838,13 +5838,13 @@
         {
           "id": "A",
           "i18n": {
-            "en": "to answer in advance the possible criticism that he is simply against technology",
-            "vi": "để trả lời trước lời chỉ trích có thể có rằng ông chỉ đơn giản là chống công nghệ"
+            "en": "to answer in advance the charge that he opposes technology",
+            "vi": "để trả lời trước lời buộc rằng ông chống lại công nghệ"
           },
           "is_correct": true,
           "order": 0,
-          "text": "to answer in advance the possible criticism that he is simply against technology",
-          "text_translation": "để trả lời trước lời chỉ trích có thể có rằng ông chỉ đơn giản là chống công nghệ"
+          "text": "to answer in advance the charge that he opposes technology",
+          "text_translation": "để trả lời trước lời buộc rằng ông chống lại công nghệ"
         },
         {
           "id": "B",

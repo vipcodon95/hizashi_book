@@ -4,7 +4,7 @@
 >
 > **Nhân vật:** Nathan Brooks, Harriet Brooks, Leah Carter, Ethan Hayes, Tracy Carter · tháng 1 – 2, năm 8
 >
-> **Mục tiêu:** đọc một chuyên mục hướng dẫn kiểm chứng ảnh do AI tạo và một email so sánh ba phương án nhà ở; nhận ra trạng từ giữ khoảng cách (supposedly), cụm nêu lập trường (arguably, to my mind), mệnh đề that làm chủ ngữ, thereby + V-ing, with + danh từ + phân từ, cụm phân từ độc lập (the work involved being…), giọng trêu nhẹ và câu hàm ý (That being said…).
+> **Mục tiêu:** đọc một chuyên mục hướng dẫn kiểm chứng ảnh do AI tạo và một email so sánh ba phương án nhà ở; nhận ra trạng từ giữ khoảng cách (supposedly), cụm nêu lập trường (arguably, to my mind), mệnh đề that làm chủ ngữ, thereby + V-ing, with + danh từ + phân từ, cụm phân từ độc lập (the work involved being…), giọng trêu nhẹ và câu hàm ý (That being said…); cùng bốn bài mở rộng (bài khoa học phổ thông, thư gửi toà soạn, bài giải thích nghiên cứu đô thị, thư trang trọng gửi chủ nhà): nhận ra đoạn thừa nhận giới hạn nhưng giữ ý chính (It would be a mistake to read too much into…, The research has its limits), cách người viết nêu tư cách để tạo uy tín, và đối chiếu danh sách đề nghị trong câu NOT.
 
 ---
 
@@ -48,6 +48,7 @@
 | automated | tự động |
 | advertiser | nhà quảng cáo |
 | podcast | chương trình âm thanh phát qua mạng |
+| homey | ấm cúng như ở nhà |
 
 > 📌 Cụm hay gặp trong bài: *go into circulation* (bắt đầu lan truyền), *out of date* (lỗi thời), *in a fraction of the time* (trong một phần nhỏ thời gian), *told me a great deal* (cho tôi biết rất nhiều), *make us feel before we think* (khiến ta cảm xúc trước khi suy nghĩ), *patch up* (vá víu, sửa tạm), *clogged up* (tắc nghẽn), *That being said,* (Dù vậy,), *The obvious suspect was automation.* (Nghi phạm hiển nhiên là sự tự động hoá.), *read too much into* (suy diễn quá nhiều từ), *dressing an advertisement up as a news report* (khoác cho quảng cáo cái áo của bản tin), *did not stand up to even basic scrutiny* (không vượt qua được ngay cả sự xem xét cơ bản), *put a price on it* (định giá nó), *the more of the wall will need to be replaced* (càng phải thay nhiều phần tường hơn).
 
@@ -303,13 +304,13 @@
 >
 > There is an old saying, often attributed to the writer Mark Twain, that a lie can travel around the world while the truth is still putting on its shoes. The irony is that there is no credible evidence that he ever said it, which is itself a small demonstration of how easily a good story spreads without anyone checking its source. For a long time, the saying was just that: a saying. Then, in 2018, three researchers at the Massachusetts Institute of Technology published what is still one of the biggest studies of misinformation ever carried out.
 >
-> The team sifted through about 126,000 stories that had been shared on a major social media platform between 2006 and 2017, each of which had been checked by independent fact-checking organizations and labeled as true or false. Together, these stories had been shared more than four and a half million times by around three million people. The findings were striking: false stories were about seventy percent more likely to be shared than true ones, and true stories took roughly six times as long to reach an audience of 1,500 people. On every measure the researchers used, false stories travelled faster, further and deeper into the network than the truth.
+> The team sifted through about 126,000 stories that had been shared on a major social media platform between 2006 and 2017, each of which had been checked by independent fact-checking organizations and labeled as true or false. Together, these stories had been shared more than four and a half million times by around three million people. The findings were striking: false stories were about seventy percent more likely to be shared than true ones, and true stories took roughly six times as long to reach an audience of 1,500 people. On every measure the researchers used, false stories traveled faster, further and deeper into the network than the truth.
 >
 > The obvious suspect was automation. Surely, many people assumed, the false stories were being amplified by bots, the automated accounts that can share content thousands of times a day. Yet when the researchers removed the bots from their data, the pattern remained, because the bots, it turned out, shared true and false stories at roughly the same rate. That humans, not machines, were mainly responsible for the difference was arguably the study's most uncomfortable conclusion.
 >
 > Why would ordinary people prefer to share stories that are not true? The researchers' most plausible explanation is novelty: false stories tended to be more surprising than true ones, and people who share something new gain a little status as the person who knows first. The replies they analyzed bear this out, since responses to false stories expressed more surprise and fear, whereas responses to true stories expressed more sadness and trust.
 >
-> It would be a mistake to read too much into a single study, however large. The data came from one platform, the stories had to be ones that fact-checkers had chosen to investigate, and the way platforms rank content has changed considerably since 2017. Even so, its central finding has largely held up in later work, and it shifts the question in a useful direction. If the problem lay purely in algorithms, the solution would lie purely with engineers; if it lies partly in us, then the ten seconds before we press share matter more than any firewall.
+> It would be a mistake to read too much into a single study, however large. The data came from one platform, the stories had to be ones that fact-checkers had chosen to investigate, and the way platforms rank content has changed considerably since 2017. Even so, its central finding has largely held up in later work, and it shifts the question in a useful direction. If the problem lay purely in algorithms, the solution would lie purely with engineers; if it lies partly in us, then the ten seconds before we press share matter more than any change to the algorithm.
 
 ### Dịch từng câu
 
@@ -320,11 +321,11 @@
 | 3 | There is an old saying, often attributed to the writer Mark Twain, that a lie can travel around the world while the truth is still putting on its shoes. | Có một câu nói cũ, thường được gán cho nhà văn Mark Twain, rằng lời nói dối có thể đi khắp thế giới trong khi sự thật vẫn còn đang xỏ giày. |
 | 4 | The irony is that there is no credible evidence that he ever said it, which is itself a small demonstration of how easily a good story spreads without anyone checking its source. | Trớ trêu là chẳng có bằng chứng đáng tin nào cho thấy ông từng nói câu đó, và chính điều này là một minh chứng nhỏ cho việc một câu chuyện hay lan đi dễ dàng thế nào mà không ai kiểm tra nguồn. |
 | 5 | For a long time, the saying was just that: a saying. | Trong một thời gian dài, câu nói ấy cũng chỉ là vậy: một câu nói. |
-| 6 | Then, in 2018, three researchers at the Massachusetts Institute of Technology published what is still one of the biggest studies of misinformation ever carried out. | Rồi năm 2018, ba nhà nghiên cứu ở Viện Công nghệ Massachusetts công bố một trong những nghiên cứu lớn nhất từng được thực hiện về thông tin sai lệch, cho tới nay vẫn vậy. |
+| 6 | Then, in 2018, three researchers at the Massachusetts Institute of Technology published what is still one of the biggest studies of misinformation ever carried out. | Rồi năm 2018, ba nhà nghiên cứu ở Viện Công nghệ Massachusetts công bố một nghiên cứu mà tới nay vẫn thuộc hàng lớn nhất về thông tin sai lệch. |
 | 7 | The team sifted through about 126,000 stories that had been shared on a major social media platform between 2006 and 2017, each of which had been checked by independent fact-checking organizations and labeled as true or false. | Nhóm đã sàng lọc khoảng 126.000 câu chuyện được chia sẻ trên một nền tảng mạng xã hội lớn từ năm 2006 tới năm 2017, mỗi câu chuyện đều đã được các tổ chức kiểm chứng độc lập kiểm tra và dán nhãn đúng hay sai. |
 | 8 | Together, these stories had been shared more than four and a half million times by around three million people. | Tổng cộng, các câu chuyện này đã được khoảng ba triệu người chia sẻ hơn bốn triệu rưỡi lần. |
 | 9 | The findings were striking: false stories were about seventy percent more likely to be shared than true ones, and true stories took roughly six times as long to reach an audience of 1,500 people. | Kết quả rất đáng chú ý: tin sai có khả năng được chia sẻ cao hơn khoảng bảy mươi phần trăm so với tin thật, và tin thật mất thời gian lâu gấp khoảng sáu lần để tới được 1.500 người. |
-| 10 | On every measure the researchers used, false stories travelled faster, further and deeper into the network than the truth. | Theo mọi thước đo các nhà nghiên cứu sử dụng, tin sai đi nhanh hơn, xa hơn và sâu hơn vào mạng lưới so với sự thật. |
+| 10 | On every measure the researchers used, false stories traveled faster, further and deeper into the network than the truth. | Theo mọi thước đo các nhà nghiên cứu sử dụng, tin sai đi nhanh hơn, xa hơn và sâu hơn vào mạng lưới so với sự thật. |
 | 11 | The obvious suspect was automation. | Nghi phạm hiển nhiên là sự tự động hoá. |
 | 12 | Surely, many people assumed, the false stories were being amplified by bots, the automated accounts that can share content thousands of times a day. | Nhiều người cho rằng chắc chắn tin sai đang được khuếch đại bởi bot, những tài khoản tự động có thể chia sẻ nội dung hàng nghìn lần mỗi ngày. |
 | 13 | Yet when the researchers removed the bots from their data, the pattern remained, because the bots, it turned out, shared true and false stories at roughly the same rate. | Thế nhưng khi các nhà nghiên cứu loại bot khỏi dữ liệu, quy luật vẫn còn nguyên, vì hoá ra bot chia sẻ tin thật và tin sai với tỉ lệ gần như nhau. |
@@ -335,7 +336,7 @@
 | 18 | It would be a mistake to read too much into a single study, however large. | Sẽ là sai lầm nếu suy diễn quá nhiều từ một nghiên cứu duy nhất, dù nó lớn đến đâu. |
 | 19 | The data came from one platform, the stories had to be ones that fact-checkers had chosen to investigate, and the way platforms rank content has changed considerably since 2017. | Dữ liệu đến từ một nền tảng, các câu chuyện phải là những câu chuyện mà người kiểm chứng đã chọn để điều tra, và cách các nền tảng xếp hạng nội dung đã thay đổi đáng kể từ năm 2017. |
 | 20 | Even so, its central finding has largely held up in later work, and it shifts the question in a useful direction. | Dù vậy, phát hiện trung tâm của nó phần lớn vẫn đứng vững trong các nghiên cứu sau, và nó chuyển câu hỏi sang một hướng hữu ích. |
-| 21 | If the problem lay purely in algorithms, the solution would lie purely with engineers; if it lies partly in us, then the ten seconds before we press share matter more than any firewall. | Nếu vấn đề chỉ nằm ở thuật toán, giải pháp sẽ chỉ nằm trong tay kỹ sư; còn nếu nó nằm một phần ở chính chúng ta, thì mười giây trước khi ta bấm chia sẻ quan trọng hơn bất kỳ tường lửa nào. |
+| 21 | If the problem lay purely in algorithms, the solution would lie purely with engineers; if it lies partly in us, then the ten seconds before we press share matter more than any change to the algorithm. | Nếu vấn đề chỉ nằm ở thuật toán, giải pháp sẽ chỉ nằm trong tay kỹ sư; còn nếu nó nằm một phần ở chính chúng ta, thì mười giây trước khi ta bấm chia sẻ quan trọng hơn bất kỳ thay đổi thuật toán nào. |
 
 ### Câu hỏi
 
@@ -343,7 +344,7 @@
 *(Vì sao người viết chỉ ra rằng không có bằng chứng đáng tin nào cho thấy Mark Twain đã nói câu nổi tiếng kia?)*
 
 - A. to criticize Mark Twain for repeating stories that were not true *(để phê phán Mark Twain vì nhắc lại những chuyện không có thật)*
-- B. to show, through the saying itself, how easily stories spread without being checked *(để cho thấy, qua chính câu nói ấy, chuyện chưa kiểm chứng lan đi dễ dàng thế nào)*
+- B. to show, through the quote itself, how stories spread without checks *(để cho thấy, qua chính câu nói ấy, chuyện chưa kiểm chứng lan đi thế nào)*
 - C. to suggest that famous quotes are usually more reliable than research *(để ngụ ý các câu nói nổi tiếng thường đáng tin hơn nghiên cứu)*
 - D. to prove that the saying is wrong about how lies travel *(để chứng minh câu nói ấy sai về cách lời nói dối lan đi)*
 
@@ -353,12 +354,12 @@
 - A. stories posted only by automated accounts over one year *(những câu chuyện chỉ do tài khoản tự động đăng trong một năm)*
 - B. interviews with three million people about the news they trust *(các cuộc phỏng vấn ba triệu người về tin tức họ tin)*
 - C. newspaper articles that had been published between 2006 and 2017 *(các bài báo in được đăng từ năm 2006 tới 2017)*
-- D. about 126,000 stories that fact-checkers had already labeled true or false *(khoảng 126.000 câu chuyện đã được người kiểm chứng dán nhãn đúng hay sai)*
+- D. about 126,000 stories rated true or false by fact-checkers *(khoảng 126.000 câu chuyện được người kiểm chứng đánh giá đúng hay sai)*
 
 **23. According to the article, which of the following was one of the study's findings?**
 *(Theo bài, điều nào sau đây là một trong những kết quả của nghiên cứu?)*
 
-- A. True stories took about six times as long as false ones to reach 1,500 people. *(Tin thật mất thời gian gấp khoảng sáu lần tin sai để tới được 1.500 người.)*
+- A. True stories took about six times as long to reach 1,500 people. *(Tin thật mất thời gian gấp khoảng sáu lần để tới được 1.500 người.)*
 - B. True stories were shared about seventy percent more often than false ones. *(Tin thật được chia sẻ nhiều hơn tin sai khoảng bảy mươi phần trăm.)*
 - C. False stories spread faster but never reached as many people. *(Tin sai lan nhanh hơn nhưng không bao giờ tới được nhiều người bằng.)*
 - D. False stories were mostly shared by about 1,500 accounts. *(Tin sai chủ yếu do khoảng 1.500 tài khoản chia sẻ.)*
@@ -374,7 +375,7 @@
 **25. Why did removing the bots from the data not change the pattern?**
 *(Vì sao loại bot khỏi dữ liệu không làm thay đổi quy luật?)*
 
-- A. because the bots shared true and false stories at about the same rate *(vì bot chia sẻ tin thật và tin sai với tỉ lệ gần như nhau)*
+- A. because bots shared true and false stories at similar rates *(vì bot chia sẻ tin thật và tin sai với tỉ lệ tương tự nhau)*
 - B. because the bots had been designed to share only true stories *(vì bot được thiết kế chỉ chia sẻ tin thật)*
 - C. because there were too few bots to make any difference *(vì có quá ít bot để tạo ra khác biệt)*
 - D. because the researchers could not tell bots from real people *(vì các nhà nghiên cứu không phân biệt được bot với người thật)*
@@ -385,13 +386,13 @@
 - A. because the researchers were unhappy with their own methods *(vì các nhà nghiên cứu không hài lòng với phương pháp của chính họ)*
 - B. because engineers had already solved the problem of bots *(vì kỹ sư đã giải quyết xong vấn đề bot)*
 - C. because the study was criticized by social media companies *(vì nghiên cứu bị các công ty mạng xã hội chỉ trích)*
-- D. because it means that readers themselves share part of the responsibility *(vì nó có nghĩa chính người đọc cũng chịu một phần trách nhiệm)*
+- D. because it means ordinary users share the blame *(vì nó có nghĩa người dùng bình thường cũng chịu một phần trách nhiệm)*
 
 **27. According to the researchers' explanation, why might people share false stories?**
 *(Theo lời giải thích của các nhà nghiên cứu, vì sao người ta có thể chia sẻ tin sai?)*
 
 - A. because they want to harm the people mentioned in them *(vì họ muốn làm hại những người được nhắc tới)*
-- B. because false stories are usually shorter and easier to read *(vì tin sai thường ngắn và dễ đọc hơn)*
+- B. because false stories are usually shorter and easier to read quickly *(vì tin sai thường ngắn hơn và dễ đọc lướt hơn)*
 - C. because they are paid by the owners of automated accounts *(vì họ được chủ các tài khoản tự động trả tiền)*
 - D. because sharing surprising news makes them look well informed *(vì chia sẻ tin gây bất ngờ khiến họ trông như người biết nhiều)*
 
@@ -407,7 +408,7 @@
 *(Đoạn cuối có mục đích gì?)*
 
 - A. to introduce a newer study that reached the opposite conclusion *(để giới thiệu một nghiên cứu mới hơn đi tới kết luận ngược lại)*
-- B. to admit the study's limits while explaining why its main point still matters *(để thừa nhận giới hạn của nghiên cứu nhưng giải thích vì sao ý chính vẫn quan trọng)*
+- B. to admit the study's limits while defending its main point *(để thừa nhận giới hạn của nghiên cứu nhưng vẫn bảo vệ ý chính)*
 - C. to argue that the study should be ignored because it is out of date *(để lập luận rằng nên bỏ qua nghiên cứu vì nó đã lỗi thời)*
 - D. to describe how engineers have changed the way platforms work *(để mô tả kỹ sư đã thay đổi cách các nền tảng vận hành thế nào)*
 
@@ -416,8 +417,8 @@
 
 - A. Engineers are mainly to blame for the spread of false stories. *(Kỹ sư là người có lỗi chính trong việc tin sai lan rộng.)*
 - B. People should stop using social media platforms altogether. *(Mọi người nên thôi hẳn dùng mạng xã hội.)*
-- C. What each person does before sharing matters as much as any technical fix. *(Việc mỗi người làm trước khi chia sẻ quan trọng không kém bất kỳ giải pháp kỹ thuật nào.)*
-- D. Better firewalls would solve most of the problem of misinformation. *(Tường lửa tốt hơn sẽ giải quyết phần lớn vấn đề tin sai.)*
+- C. Individual choices before sharing matter more than any technical fix. *(Lựa chọn của từng người trước khi chia sẻ quan trọng hơn bất kỳ giải pháp kỹ thuật nào.)*
+- D. Better algorithms would solve most of the problem of misinformation. *(Thuật toán tốt hơn sẽ giải quyết phần lớn vấn đề tin sai.)*
 
 ---
 
@@ -425,9 +426,9 @@
 
 > **Letter to the Editor: An Advertisement Dressed as News**
 >
-> To the Editor: I have read your paper every week for more than thirty years, and it is precisely because I value its credibility that I am writing to complain about an article in last Sunday's health section. The article, titled "The Morning Drink That Doctors Are Talking About", claimed that a powdered supplement called VitaCalm could reduce anxiety, improve sleep and support the brain in adults of every age. It quoted a leading nutrition expert, included a photo of a smiling customer, and ended with a discount code for readers. Only in very small grey letters at the bottom of the page did it say that this was sponsored content.
+> To the Editor: I have read your paper every week for more than thirty years, and it is precisely because I value its credibility that I am writing to complain about an article in last Sunday's health section. The article, titled "The Morning Drink That Doctors Are Talking About", claimed that a powdered supplement called VitaCalm could reduce anxiety, improve sleep and support the brain in adults of every age. It quoted a leading nutrition expert, included a photo of a smiling customer, and ended with a discount code for readers. Only in very small gray letters at the bottom of the page did it say that this was sponsored content.
 >
-> I spent thirty-four years as a pharmacist, so I read the article with some care, and to my dismay I found that it did not stand up to even basic scrutiny. The leading expert turned out to be a paid adviser to the company that makes the product, a fact that the article glossed over entirely. The single study it cited had been paid for by the same company, had involved just forty people, and had allegedly shown a significant improvement on a questionnaire that the company itself had designed. None of this means that the product is harmful, but none of it is evidence that it works, either.
+> I spent thirty-four years as a pharmacist, so I read the article with some care, and to my dismay I found that it did not stand up to even basic scrutiny. The leading expert turned out to be a paid adviser to the company that makes the product, a fact that the article glossed over entirely. The single study it cited had been paid for by the same company, had involved just forty people, and had supposedly shown a significant improvement on a questionnaire that the company itself had designed. None of this means that the product is harmful, but none of it is evidence that it works, either.
 >
 > I understand that newspapers need advertising, and I have no objection to advertisements as such. My objection is to the ploy of dressing an advertisement up as a news report, thereby borrowing the trust that your journalists have spent decades earning. A reader who looks quickly through the page, as most of us do, would have no reason to suspect that the article had been written to sell something. The irony is hard to miss: the very credibility that makes such content valuable to advertisers is what it slowly destroys.
 >
@@ -443,10 +444,10 @@
 | 2 | To the Editor: I have read your paper every week for more than thirty years, and it is precisely because I value its credibility that I am writing to complain about an article in last Sunday's health section. | Kính gửi Ban biên tập: Tôi đọc báo của quý vị hằng tuần đã hơn ba mươi năm, và chính vì tôi coi trọng sự đáng tin cậy của tờ báo nên tôi viết thư này để phàn nàn về một bài báo trong mục sức khoẻ số Chủ nhật vừa rồi. |
 | 3 | The article, titled "The Morning Drink That Doctors Are Talking About", claimed that a powdered supplement called VitaCalm could reduce anxiety, improve sleep and support the brain in adults of every age. | Bài báo, có tựa "Thức uống buổi sáng mà các bác sĩ đang bàn tán", khẳng định một loại thực phẩm bổ sung dạng bột tên VitaCalm có thể giảm lo âu, cải thiện giấc ngủ và hỗ trợ não bộ cho người lớn ở mọi lứa tuổi. |
 | 4 | It quoted a leading nutrition expert, included a photo of a smiling customer, and ended with a discount code for readers. | Bài trích lời một chuyên gia dinh dưỡng hàng đầu, kèm ảnh một khách hàng tươi cười, và kết thúc bằng một mã giảm giá cho độc giả. |
-| 5 | Only in very small grey letters at the bottom of the page did it say that this was sponsored content. | Chỉ bằng những dòng chữ xám rất nhỏ ở cuối trang, bài mới cho biết đây là nội dung được tài trợ. |
+| 5 | Only in very small gray letters at the bottom of the page did it say that this was sponsored content. | Chỉ bằng những dòng chữ xám rất nhỏ ở cuối trang, bài mới cho biết đây là nội dung được tài trợ. |
 | 6 | I spent thirty-four years as a pharmacist, so I read the article with some care, and to my dismay I found that it did not stand up to even basic scrutiny. | Tôi đã làm dược sĩ ba mươi tư năm, nên tôi đọc bài khá kỹ, và tôi thất vọng khi thấy nó không vượt qua được ngay cả một sự xem xét cơ bản. |
 | 7 | The leading expert turned out to be a paid adviser to the company that makes the product, a fact that the article glossed over entirely. | Vị chuyên gia hàng đầu hoá ra là cố vấn được trả lương của chính công ty sản xuất sản phẩm, một sự thật mà bài báo lờ đi hoàn toàn. |
-| 8 | The single study it cited had been paid for by the same company, had involved just forty people, and had allegedly shown a significant improvement on a questionnaire that the company itself had designed. | Nghiên cứu duy nhất mà bài trích dẫn do chính công ty đó trả tiền, chỉ có bốn mươi người tham gia, và được cho là đã cho thấy cải thiện đáng kể trên một bảng hỏi do chính công ty thiết kế. |
+| 8 | The single study it cited had been paid for by the same company, had involved just forty people, and had supposedly shown a significant improvement on a questionnaire that the company itself had designed. | Nghiên cứu duy nhất mà bài trích dẫn do chính công ty đó trả tiền, chỉ có bốn mươi người tham gia, và được cho là đã cho thấy cải thiện đáng kể trên một bảng hỏi do chính công ty thiết kế. |
 | 9 | None of this means that the product is harmful, but none of it is evidence that it works, either. | Không điều gì trong số này có nghĩa sản phẩm có hại, nhưng cũng không điều gì là bằng chứng cho thấy nó có tác dụng. |
 | 10 | I understand that newspapers need advertising, and I have no objection to advertisements as such. | Tôi hiểu báo chí cần quảng cáo, và bản thân tôi không phản đối quảng cáo. |
 | 11 | My objection is to the ploy of dressing an advertisement up as a news report, thereby borrowing the trust that your journalists have spent decades earning. | Điều tôi phản đối là chiêu trò khoác cho quảng cáo cái áo của một bản tin, qua đó mượn niềm tin mà các nhà báo của quý vị đã mất hàng chục năm mới có được. |
@@ -465,31 +466,31 @@
 **31. What is the main purpose of Carol Jennings's letter?**
 *(Mục đích chính của lá thư của Carol Jennings là gì?)*
 
-- A. to recommend a new supplement to other readers of the paper *(giới thiệu một loại thực phẩm bổ sung mới cho độc giả khác)*
+- A. to recommend a new supplement to other readers of the health section *(giới thiệu một loại thực phẩm bổ sung mới cho độc giả khác của mục sức khoẻ)*
 - B. to apply for a job as the paper's science reporter *(xin vào làm phóng viên khoa học của tờ báo)*
 - C. to stop buying the paper after thirty years of reading *(thôi mua báo sau ba mươi năm đọc)*
-- D. to complain about an advertisement presented as news and ask for changes *(phàn nàn về một quảng cáo trình bày như tin tức và đề nghị thay đổi)*
+- D. to complain about an ad disguised as news and ask for changes *(phàn nàn về một quảng cáo đội lốt tin tức và đề nghị thay đổi)*
 
 **32. Why does the writer mention that she has read the paper for more than thirty years?**
 *(Vì sao người viết nhắc rằng bà đã đọc tờ báo hơn ba mươi năm?)*
 
 - A. to show that she is too old to understand modern advertising *(để cho thấy bà quá lớn tuổi để hiểu quảng cáo hiện đại)*
 - B. to ask the editor to give her a discount for being a long-time reader *(để xin toà soạn giảm giá vì là độc giả lâu năm)*
-- C. to show that her complaint comes from a loyal reader who values the paper *(để cho thấy lời phàn nàn đến từ một độc giả trung thành coi trọng tờ báo)*
+- C. to show her complaint comes from a loyal reader *(để cho thấy lời phàn nàn đến từ một độc giả trung thành)*
 - D. to prove that the paper's health section used to be much worse *(để chứng minh mục sức khoẻ trước đây còn tệ hơn nhiều)*
 
-**33. What does the sentence beginning "Only in very small grey letters" suggest?**
-*(Câu bắt đầu bằng "Only in very small grey letters" gợi ra điều gì?)*
+**33. What does the sentence beginning "Only in very small gray letters" suggest?**
+*(Câu bắt đầu bằng "Only in very small gray letters" gợi ra điều gì?)*
 
 - A. The photo of the customer was too small to see clearly. *(Ảnh khách hàng quá nhỏ để nhìn rõ.)*
-- B. The paper had printed the article in the wrong section by mistake. *(Tờ báo đã in nhầm bài vào sai mục.)*
+- B. The paper had put the article in the wrong section. *(Tờ báo đã đặt bài vào sai mục.)*
 - C. The writer had difficulty reading the whole article. *(Người viết gặp khó khăn khi đọc cả bài.)*
 - D. The label showing it was an advertisement was easy to miss. *(Nhãn cho biết đó là quảng cáo rất dễ bị bỏ sót.)*
 
 **34. Why does the writer mention that she was a pharmacist for thirty-four years?**
 *(Vì sao người viết nhắc rằng bà làm dược sĩ ba mươi tư năm?)*
 
-- A. to suggest that pharmacists should write the paper's health section *(để ngụ ý dược sĩ nên viết mục sức khoẻ của báo)*
+- A. to suggest that pharmacists should write the health section *(để ngụ ý dược sĩ nên viết mục sức khoẻ)*
 - B. to show that she has little time to read the paper carefully *(để cho thấy bà có ít thời gian đọc báo kỹ)*
 - C. to explain why she once sold VitaCalm in her own shop *(để giải thích vì sao bà từng bán VitaCalm ở cửa hàng của mình)*
 - D. to show that she has the background to judge the article's claims *(để cho thấy bà có kiến thức nền để đánh giá các khẳng định trong bài)*
@@ -497,7 +498,7 @@
 **35. In context, what does "glossed over" mean?**
 *(Trong ngữ cảnh, "glossed over" nghĩa là gì?)*
 
-- A. explained clearly and in great detail *(giải thích rõ ràng và rất chi tiết)*
+- A. explained clearly and in great detail for readers *(giải thích rõ ràng và rất chi tiết cho độc giả)*
 - B. printed in large letters at the top *(in bằng chữ lớn ở đầu trang)*
 - C. failed to mention or treated as unimportant *(không nhắc tới hoặc coi như không quan trọng)*
 - D. checked carefully with other sources *(kiểm tra kỹ với các nguồn khác)*
@@ -505,7 +506,7 @@
 **36. Which problem with the study does the writer mention?**
 *(Người viết nêu vấn đề nào của nghiên cứu?)*
 
-- A. It was small and paid for by the company that sells the product. *(Nó nhỏ và do chính công ty bán sản phẩm trả tiền.)*
+- A. It was small and funded by the product's maker. *(Nó nhỏ và do chính nhà sản xuất sản phẩm tài trợ.)*
 - B. It had been carried out more than thirty years ago. *(Nó được thực hiện từ hơn ba mươi năm trước.)*
 - C. It showed that the product was harmful to older adults. *(Nó cho thấy sản phẩm có hại cho người lớn tuổi.)*
 - D. It was carried out by the paper's own science reporter. *(Nó do phóng viên khoa học của chính tờ báo thực hiện.)*
@@ -522,8 +523,8 @@
 *(Người viết muốn nói gì qua cụm "borrowing the trust that your journalists have spent decades earning"?)*
 
 - A. The paper's journalists are secretly paid by advertisers. *(Các nhà báo của tờ báo bí mật nhận tiền của nhà quảng cáo.)*
-- B. Advertisers should pay journalists for the trust they have earned. *(Nhà quảng cáo nên trả tiền cho nhà báo vì niềm tin họ đã tạo dựng.)*
-- C. The advertisement uses the paper's good reputation to make readers believe it. *(Quảng cáo dùng uy tín của tờ báo để khiến độc giả tin nó.)*
+- B. Advertisers should pay journalists for the trust they earned. *(Nhà quảng cáo nên trả tiền cho nhà báo vì niềm tin họ đã tạo dựng.)*
+- C. The advertisement uses the paper's reputation to win readers' trust. *(Quảng cáo dựa vào uy tín của tờ báo để lấy lòng tin của độc giả.)*
 - D. Readers trusted the paper more in the past than they do now. *(Trước đây độc giả tin tờ báo hơn bây giờ.)*
 
 **39. Which of the following is NOT one of the changes the writer asks for?**
@@ -550,9 +551,9 @@
 >
 > City Life Explained, a series on how cities shape the way we live.
 >
-> Ask families why they moved out to the suburbs and the answers will be familiar: a spacious house, a garden, quieter streets and, quite often, a lower price. Ask the same families what they like least about their new lives, and many will name a single thing: the daily journey to work. Planners have a name for this tension, and economists have tried to put a price on it.
+> Ask families why they moved out to the suburbs and the answers will be familiar: a spacious house, a garden, quieter streets and, quite often, a lower price. Ask the same families what they like least about their new lives, and many will name a single thing: the daily journey to work. Economists have a name for this tension, and they have even tried to put a price on it.
 >
-> In a widely cited 2008 study, the Swiss economists Alois Stutzer and Bruno Frey used survey data from thousands of households in Germany to compare how satisfied people were with their lives with how far they travelled to work. Standard economic theory predicts that long commutes should be balanced by other rewards, such as a higher salary or a bigger home, so that commuters end up no worse off than anyone else. The data did not bear this out. People with long commutes reported consistently lower satisfaction, and the researchers calculated that someone travelling an hour each way would need to earn roughly forty percent more to be as satisfied as a person who did not commute at all. They called this gap the commuting paradox.
+> In a widely cited 2008 study, the Swiss economists Alois Stutzer and Bruno Frey used survey data from thousands of households in Germany to compare how satisfied people were with their lives with how far they traveled to work. Standard economic theory predicts that long commutes should be balanced by other rewards, such as a higher salary or a bigger home, so that commuters end up no worse off than anyone else. The data did not bear this out. People with long commutes reported consistently lower satisfaction, and the researchers calculated that someone traveling an hour each way would need to earn roughly forty percent more to be as satisfied as a person who did not commute at all. They called this gap the commuting paradox.
 >
 > Why do so many people make a choice that apparently leaves them less satisfied? One plausible answer is that we judge homes and journeys in very different ways. A spacious living room is something that we notice every day, whereas we tend to imagine a commute on a good morning, with empty roads and a favorite podcast, rather than on a wet Monday with congestion clogging up every lane. Another is that the costs of commuting are spread thinly across thousands of small moments, each too minor to complain about, while the benefits of a bigger home arrive all at once, on the day we move in.
 >
@@ -568,11 +569,11 @@
 | 2 | City Life Explained, a series on how cities shape the way we live. | City Life Explained, loạt bài về cách đô thị định hình lối sống của chúng ta. |
 | 3 | Ask families why they moved out to the suburbs and the answers will be familiar: a spacious house, a garden, quieter streets and, quite often, a lower price. | Hãy hỏi các gia đình vì sao họ chuyển ra ngoại ô và câu trả lời sẽ rất quen: một ngôi nhà rộng rãi, một khu vườn, đường phố yên tĩnh hơn và, khá thường xuyên, giá rẻ hơn. |
 | 4 | Ask the same families what they like least about their new lives, and many will name a single thing: the daily journey to work. | Hỏi chính những gia đình đó điều họ ít thích nhất ở cuộc sống mới, và nhiều người sẽ chỉ nêu một điều: quãng đường đi làm hằng ngày. |
-| 5 | Planners have a name for this tension, and economists have tried to put a price on it. | Các nhà quy hoạch có một cái tên cho sự giằng co này, và các nhà kinh tế đã thử định giá nó. |
-| 6 | In a widely cited 2008 study, the Swiss economists Alois Stutzer and Bruno Frey used survey data from thousands of households in Germany to compare how satisfied people were with their lives with how far they travelled to work. | Trong một nghiên cứu năm 2008 được trích dẫn rộng rãi, hai nhà kinh tế Thuỵ Sĩ Alois Stutzer và Bruno Frey dùng dữ liệu khảo sát từ hàng nghìn hộ gia đình ở Đức để so mức hài lòng với cuộc sống với quãng đường người ta đi làm. |
+| 5 | Economists have a name for this tension, and they have even tried to put a price on it. | Các nhà kinh tế có một cái tên cho sự giằng co này, và họ thậm chí đã thử định giá nó. |
+| 6 | In a widely cited 2008 study, the Swiss economists Alois Stutzer and Bruno Frey used survey data from thousands of households in Germany to compare how satisfied people were with their lives with how far they traveled to work. | Trong một nghiên cứu năm 2008 được trích dẫn rộng rãi, hai nhà kinh tế Thuỵ Sĩ Alois Stutzer và Bruno Frey dùng dữ liệu khảo sát từ hàng nghìn hộ gia đình ở Đức để so mức hài lòng với cuộc sống với quãng đường người ta đi làm. |
 | 7 | Standard economic theory predicts that long commutes should be balanced by other rewards, such as a higher salary or a bigger home, so that commuters end up no worse off than anyone else. | Lý thuyết kinh tế thông thường dự đoán rằng quãng đường đi làm dài sẽ được bù lại bằng những phần thưởng khác, như lương cao hơn hay nhà to hơn, để rốt cuộc người đi làm xa không thiệt hơn ai. |
 | 8 | The data did not bear this out. | Dữ liệu không xác nhận điều đó. |
-| 9 | People with long commutes reported consistently lower satisfaction, and the researchers calculated that someone travelling an hour each way would need to earn roughly forty percent more to be as satisfied as a person who did not commute at all. | Những người đi làm xa luôn cho biết mức hài lòng thấp hơn, và các nhà nghiên cứu tính rằng một người mất một giờ mỗi chiều sẽ cần kiếm nhiều hơn khoảng bốn mươi phần trăm mới hài lòng ngang một người không phải đi làm xa chút nào. |
+| 9 | People with long commutes reported consistently lower satisfaction, and the researchers calculated that someone traveling an hour each way would need to earn roughly forty percent more to be as satisfied as a person who did not commute at all. | Những người đi làm xa luôn cho biết mức hài lòng thấp hơn, và các nhà nghiên cứu tính rằng một người mất một giờ mỗi chiều sẽ cần kiếm nhiều hơn khoảng bốn mươi phần trăm mới hài lòng ngang một người không phải đi làm xa chút nào. |
 | 10 | They called this gap the commuting paradox. | Họ gọi khoảng chênh này là nghịch lý đi làm xa. |
 | 11 | Why do so many people make a choice that apparently leaves them less satisfied? | Vì sao nhiều người lại đưa ra một lựa chọn rõ ràng khiến họ kém hài lòng hơn? |
 | 12 | One plausible answer is that we judge homes and journeys in very different ways. | Một lời giải thích hợp lý là chúng ta đánh giá nhà ở và quãng đường theo những cách rất khác nhau. |
@@ -592,53 +593,53 @@
 
 - A. between quiet suburban streets and noisy city centers *(giữa đường phố ngoại ô yên tĩnh và trung tâm thành phố ồn ào)*
 - B. between families who own houses and families who rent them *(giữa những gia đình có nhà riêng và những gia đình thuê nhà)*
-- C. between the attractions of suburban homes and the dislike of the journey to work *(giữa sức hút của nhà ở ngoại ô và nỗi chán ghét quãng đường đi làm)*
-- D. between planners and economists who disagree about prices *(giữa các nhà quy hoạch và các nhà kinh tế bất đồng về giá cả)*
+- C. between the appeal of suburban homes and dislike of the commute *(giữa sức hút của nhà ở ngoại ô và nỗi chán ghét quãng đường đi làm)*
+- D. between commuters and city planners who disagree about public transit *(giữa người đi làm xa và các nhà quy hoạch đô thị bất đồng về giao thông công cộng)*
 
 **42. What did standard economic theory predict about long commutes?**
 *(Lý thuyết kinh tế thông thường dự đoán gì về quãng đường đi làm dài?)*
 
 - A. They would slowly disappear as cities built better transit. *(Chúng sẽ dần biến mất khi thành phố xây giao thông công cộng tốt hơn.)*
-- B. They would be balanced by benefits such as higher pay or a bigger home. *(Chúng sẽ được bù lại bằng lợi ích như lương cao hơn hay nhà to hơn.)*
+- B. They would be balanced by rewards such as higher pay. *(Chúng sẽ được bù lại bằng những lợi ích như lương cao hơn.)*
 - C. They would make people far less satisfied than everyone else. *(Chúng sẽ khiến người ta kém hài lòng hơn hẳn mọi người khác.)*
 - D. They would mainly affect families with young children. *(Chúng chủ yếu ảnh hưởng tới gia đình có con nhỏ.)*
 
-**43. What does "The data did not bear this out" mean?**
-*(Câu "The data did not bear this out" nghĩa là gì?)*
+**43. In the phrase "congestion clogging up every lane", what does "clogging up" mean?**
+*(Trong cụm "congestion clogging up every lane", "clogging up" nghĩa là gì?)*
 
-- A. The data were lost before the study ended. *(Dữ liệu bị mất trước khi nghiên cứu kết thúc.)*
-- B. The data did not support the prediction. *(Dữ liệu không ủng hộ dự đoán.)*
-- C. The data were too limited to be used. *(Dữ liệu quá hạn chế để sử dụng.)*
-- D. The data were collected outside Germany. *(Dữ liệu được thu thập ngoài nước Đức.)*
+- A. clearing out quickly *(dọn sạch nhanh chóng)*
+- B. filling and blocking *(lấp đầy và gây tắc)*
+- C. slowly opening up *(dần dần thông ra)*
+- D. moving along smoothly *(di chuyển trơn tru)*
 
 **44. What does the figure of forty percent refer to?**
 *(Con số bốn mươi phần trăm chỉ điều gì?)*
 
-- A. the drop in satisfaction after a family moves to the suburbs *(mức giảm hài lòng sau khi một gia đình chuyển ra ngoại ô)*
+- A. the drop in satisfaction after a family moves out to the suburbs *(mức giảm hài lòng sau khi một gia đình chuyển ra ngoại ô)*
 - B. the difference in house prices between cities and suburbs *(chênh lệch giá nhà giữa thành phố và ngoại ô)*
 - C. the share of Germans who travel an hour to work each way *(tỉ lệ người Đức mất một giờ mỗi chiều đi làm)*
-- D. the extra income a long-distance commuter would need to be equally satisfied *(phần thu nhập thêm mà người đi làm xa cần để hài lòng ngang bằng)*
+- D. the extra pay a long commuter would need to be as satisfied *(phần thu nhập thêm mà người đi làm xa cần để hài lòng ngang bằng)*
 
 **45. According to the article, why might people judge a commute wrongly before they move?**
 *(Theo bài, vì sao người ta có thể đánh giá sai quãng đường đi làm trước khi chuyển nhà?)*
 
-- A. because estate agents usually hide the true distance from buyers *(vì người môi giới thường giấu khoảng cách thật với người mua)*
-- B. because they picture the journey on its best day rather than a typical one *(vì họ hình dung chuyến đi vào ngày đẹp nhất thay vì một ngày bình thường)*
+- A. because real estate agents usually hide the true distance from buyers *(vì người môi giới nhà đất thường giấu khoảng cách thật với người mua)*
+- B. because they imagine the trip on its best day, not a typical one *(vì họ hình dung chuyến đi vào ngày đẹp nhất chứ không phải một ngày bình thường)*
 - C. because they usually move in summer, when traffic is lighter *(vì họ thường chuyển nhà vào mùa hè, khi đường vắng hơn)*
 - D. because they have never driven a car in a large city *(vì họ chưa bao giờ lái xe ở một thành phố lớn)*
 
 **46. What point does the writer make by saying the costs of commuting are "spread thinly"?**
 *(Người viết muốn nói gì khi bảo cái giá của việc đi làm xa được "spread thinly" (rải mỏng)?)*
 
-- A. Small daily costs are easy to overlook, while the benefits are obvious at once. *(Những cái giá nhỏ hằng ngày dễ bị bỏ qua, còn lợi ích thì thấy ngay lập tức.)*
-- B. Commuters share the cost of fuel with their neighbors. *(Người đi làm xa chia tiền xăng với hàng xóm.)*
+- A. The small costs are easy to miss, unlike the obvious benefits. *(Những cái giá nhỏ dễ bị bỏ qua, khác hẳn những lợi ích hiển nhiên.)*
+- B. Commuters share the cost of fuel and parking with their neighbors. *(Người đi làm xa chia tiền xăng và gửi xe với hàng xóm.)*
 - C. Commuting is cheaper than most people expect. *(Đi làm xa rẻ hơn phần lớn mọi người tưởng.)*
 - D. The costs fall mostly on the people who live in the city center. *(Cái giá chủ yếu rơi vào người sống ở trung tâm.)*
 
 **47. Why does the writer mention that the data come from a single country?**
 *(Vì sao người viết nhắc rằng dữ liệu đến từ một quốc gia duy nhất?)*
 
-- A. to suggest that the results may not apply directly to American cities *(để ngụ ý kết quả có thể không áp dụng thẳng cho các thành phố Mỹ)*
+- A. to suggest the results may not apply directly to American cities *(để ngụ ý kết quả có thể không áp dụng thẳng cho các thành phố Mỹ)*
 - B. to explain why the researchers chose to study households in Germany *(để giải thích vì sao các nhà nghiên cứu chọn khảo sát hộ gia đình ở Đức)*
 - C. to show that the study was too small to be widely cited *(để cho thấy nghiên cứu quá nhỏ để được trích dẫn rộng rãi)*
 - D. to recommend that American cities copy German public transit *(để khuyên các thành phố Mỹ bắt chước giao thông công cộng của Đức)*
@@ -654,18 +655,18 @@
 **49. What is the writer's position on moving to the suburbs?**
 *(Quan điểm của người viết về việc chuyển ra ngoại ô là gì?)*
 
-- A. It is usually a mistake that families later regret. *(Đó thường là sai lầm mà các gia đình hối tiếc về sau.)*
+- A. It is usually a mistake that most families come to regret later. *(Đó thường là sai lầm mà phần lớn các gia đình hối tiếc về sau.)*
 - B. It is only sensible for families without children. *(Nó chỉ hợp lý với gia đình chưa có con.)*
-- C. It can be a reasonable choice if the commute is counted honestly. *(Đó có thể là lựa chọn hợp lý nếu quãng đường đi làm được tính trung thực.)*
+- C. It can be sensible if the commute is counted honestly. *(Đó có thể là lựa chọn hợp lý nếu quãng đường đi làm được tính trung thực.)*
 - D. It should be avoided until public transit improves. *(Nên tránh cho tới khi giao thông công cộng tốt hơn.)*
 
-**50. Why does the writer suggest testing the journey on a weekday morning?**
-*(Vì sao người viết gợi ý chạy thử quãng đường vào một buổi sáng ngày thường?)*
+**50. What does the example of a family with three children show?**
+*(Ví dụ về gia đình có ba con cho thấy điều gì?)*
 
-- A. because houses look more attractive in morning light *(vì nhà trông đẹp hơn dưới ánh sáng buổi sáng)*
-- B. because buyers would then experience the commute as it really is *(vì khi đó người mua sẽ trải nghiệm quãng đường đúng như thực tế)*
-- C. because estate agents are usually closed on Saturday afternoons *(vì môi giới nhà đất thường nghỉ chiều thứ Bảy)*
-- D. because sellers often lower their prices early in the week *(vì người bán thường hạ giá vào đầu tuần)*
+- A. that large families should move to apartments downtown *(rằng gia đình đông con nên chuyển vào căn hộ ở trung tâm)*
+- B. that an hour in the car may be a price worth paying *(rằng một giờ ngồi xe có thể là cái giá đáng trả)*
+- C. that children make long car journeys much harder to bear *(rằng trẻ con khiến những chuyến xe dài khó chịu hơn nhiều)*
+- D. that suburban houses rarely have enough bedrooms for families *(rằng nhà ở ngoại ô hiếm khi đủ phòng ngủ cho gia đình)*
 
 ---
 
@@ -675,17 +676,17 @@
 >
 > From: Harriet Brooks, owner, Harriet's Café, Maple Street. To: Mr. Raymond Dalton, Dalton Property Management. February 9.
 >
-> Dear Mr. Dalton, I am writing about the unoccupied shop adjoining my café, which has been empty since the bakery closed last July. I have been a good neighbor to that building for nearly fifteen years, and I would like to go on being one, but over the winter it has started to cause problems that I can no longer simply patch up myself. The most serious concerns the plumbing. Since the heavy rain in January, water has been coming through the wall that we share, and a dark stain now runs along the floor behind my counter. A carpenter who looked at it last week told me that the leak is almost certainly coming from an old pipe on your side, and that the longer it goes without repair, the more of the wall will need to be replaced. With the shop next door locked and nobody checking it, I have no way of knowing how much damage has already been done.
+> Dear Mr. Dalton, I am writing about the unoccupied shop adjoining my café, which has been empty since the bakery closed last July. I have been a good neighbor to that building for nearly fifteen years, and I would like to go on being one, but over the winter it has started to cause problems that I can no longer simply patch up myself. The most serious concerns the plumbing. Since the heavy rain in January, water has been coming through the wall that we share, and a dark stain now runs along the floor behind my counter. A contractor who looked at it last week told me that the leak is almost certainly coming from an old pipe on your side, and that the longer it goes without repair, the more of the wall will need to be replaced. With the shop next door locked and nobody checking it, I have no way of knowing how much damage has already been done.
 >
-> The second problem is the air. The bakery's ventilation system has been switched off since it closed, and the smell of damp has begun to find its way into my café, which my customers have always described as warm and homely. Several of them have now told me, kindly but honestly, that the back room feels stuffy, and it is the very room where my book club and the Saturday homework group meet. I have opened the windows and bought a small machine to dry the air, but these are only temporary solutions to a problem that starts on the other side of the wall.
+> The second problem is the air. The bakery's ventilation system has been switched off since it closed, and the smell of damp has begun to find its way into my café, which my customers have always described as warm and homey. Several of them have now told me, kindly but honestly, that the back room feels stuffy, and it is the very room where my book club and the Saturday homework group meet. I have opened the windows and bought a small machine to dry the air, but these are only temporary solutions to a problem that starts on the other side of the wall.
 >
 > Finally, a good deal of clutter has collected behind the building: broken chairs, empty boxes, and an old refrigerator that was probably left by the previous occupant. Children walk past that spot every afternoon on their way to the pocket park, and I would like it cleared before someone gets hurt.
 >
 > I would therefore ask you to arrange for a plumber to inspect the pipe this month, to have the ventilation switched on or checked, and to have the area behind the building cleared. I am, of course, happy to give your workers access through my back door.
 >
-> While I am writing, I should mention one more thing. When I telephoned your office last summer, I was told that the monthly rent would be 3,200 dollars, and I have been thinking about that figure more often than I expected. Once the repairs are done, I would very much like to see the space, perhaps with my son, who is better with numbers than I am. I am not promising anything, but at seventy-four I have learned that it is unwise to ignore an empty room next door for too long.
+> While I am writing, I should mention one more thing. When I telephoned your office last summer, I was told that the monthly rent would be 3,200 dollars, and I have been thinking about that figure more often than I expected. Once the repairs are done, I would very much like to see the space, and perhaps go over the figures with someone who is better with numbers than I am. I am not promising anything, but at seventy-four I have learned that it is unwise to ignore an empty room next door for too long.
 >
-> Yours sincerely, Harriet Brooks
+> Sincerely, Harriet Brooks
 
 ### Dịch từng câu
 
@@ -697,10 +698,10 @@
 | 4 | I have been a good neighbor to that building for nearly fifteen years, and I would like to go on being one, but over the winter it has started to cause problems that I can no longer simply patch up myself. | Tôi đã là hàng xóm tốt của toà nhà đó gần mười lăm năm, và tôi muốn tiếp tục như vậy, nhưng suốt mùa đông nó bắt đầu gây ra những vấn đề mà tôi không thể tự mình vá víu được nữa. |
 | 5 | The most serious concerns the plumbing. | Nghiêm trọng nhất là chuyện đường ống nước. |
 | 6 | Since the heavy rain in January, water has been coming through the wall that we share, and a dark stain now runs along the floor behind my counter. | Từ trận mưa lớn hồi tháng Một, nước cứ thấm qua bức tường chung giữa hai bên, và giờ một vệt ố sẫm màu chạy dọc sàn sau quầy của tôi. |
-| 7 | A carpenter who looked at it last week told me that the leak is almost certainly coming from an old pipe on your side, and that the longer it goes without repair, the more of the wall will need to be replaced. | Một thợ mộc xem qua hôm tuần trước bảo tôi rằng chỗ rò gần như chắc chắn đến từ một đường ống cũ bên phía ông, và càng để lâu không sửa thì càng phải thay nhiều phần tường hơn. |
+| 7 | A contractor who looked at it last week told me that the leak is almost certainly coming from an old pipe on your side, and that the longer it goes without repair, the more of the wall will need to be replaced. | Một thợ sửa nhà xem qua tuần trước bảo tôi rằng chỗ rò gần như chắc chắn đến từ một đường ống cũ bên phía ông, và càng để lâu không sửa thì càng phải thay nhiều phần tường hơn. |
 | 8 | With the shop next door locked and nobody checking it, I have no way of knowing how much damage has already been done. | Với căn tiệm bên cạnh khoá cửa và không ai kiểm tra, tôi không có cách nào biết thiệt hại đã tới đâu. |
 | 9 | The second problem is the air. | Vấn đề thứ hai là không khí. |
-| 10 | The bakery's ventilation system has been switched off since it closed, and the smell of damp has begun to find its way into my café, which my customers have always described as warm and homely. | Hệ thống thông gió của tiệm bánh đã tắt từ khi đóng cửa, và mùi ẩm mốc bắt đầu len vào quán của tôi, nơi khách vẫn luôn tả là ấm áp và thân thuộc như ở nhà. |
+| 10 | The bakery's ventilation system has been switched off since it closed, and the smell of damp has begun to find its way into my café, which my customers have always described as warm and homey. | Hệ thống thông gió của tiệm bánh đã tắt từ khi đóng cửa, và mùi ẩm mốc bắt đầu len vào quán của tôi, nơi khách vẫn luôn tả là ấm áp và thân thuộc như ở nhà. |
 | 11 | Several of them have now told me, kindly but honestly, that the back room feels stuffy, and it is the very room where my book club and the Saturday homework group meet. | Giờ vài người đã nói với tôi, nhẹ nhàng nhưng thật lòng, rằng phòng sau thấy bí bách, mà đó lại chính là căn phòng nơi câu lạc bộ sách và nhóm làm bài tập sáng thứ Bảy của tôi họp. |
 | 12 | I have opened the windows and bought a small machine to dry the air, but these are only temporary solutions to a problem that starts on the other side of the wall. | Tôi đã mở cửa sổ và mua một chiếc máy nhỏ để hút ẩm, nhưng đó chỉ là giải pháp tạm thời cho một vấn đề bắt đầu từ phía bên kia bức tường. |
 | 13 | Finally, a good deal of clutter has collected behind the building: broken chairs, empty boxes, and an old refrigerator that was probably left by the previous occupant. | Cuối cùng, khá nhiều đồ bỏ đi đã chất đống phía sau toà nhà: ghế gãy, thùng rỗng, và một chiếc tủ lạnh cũ có lẽ người thuê trước để lại. |
@@ -709,16 +710,16 @@
 | 16 | I am, of course, happy to give your workers access through my back door. | Dĩ nhiên tôi sẵn lòng để thợ của ông đi qua cửa sau quán tôi. |
 | 17 | While I am writing, I should mention one more thing. | Nhân tiện viết thư, tôi xin nhắc thêm một chuyện. |
 | 18 | When I telephoned your office last summer, I was told that the monthly rent would be 3,200 dollars, and I have been thinking about that figure more often than I expected. | Khi tôi gọi điện tới văn phòng ông hồi mùa hè năm ngoái, tôi được báo tiền thuê mỗi tháng là 3.200 đô la, và tôi nghĩ về con số đó thường xuyên hơn mình tưởng. |
-| 19 | Once the repairs are done, I would very much like to see the space, perhaps with my son, who is better with numbers than I am. | Khi sửa xong, tôi rất muốn được xem căn tiệm, có lẽ đi cùng con trai tôi, người giỏi tính toán hơn tôi. |
+| 19 | Once the repairs are done, I would very much like to see the space, and perhaps go over the figures with someone who is better with numbers than I am. | Khi sửa xong, tôi rất muốn được xem căn tiệm, và có lẽ sẽ nhờ một người giỏi tính toán hơn tôi xem lại các con số. |
 | 20 | I am not promising anything, but at seventy-four I have learned that it is unwise to ignore an empty room next door for too long. | Tôi không hứa hẹn gì cả, nhưng ở tuổi bảy mươi tư, tôi đã học được rằng phớt lờ một căn phòng trống ngay bên cạnh quá lâu là điều không khôn ngoan. |
-| 21 | Yours sincerely, Harriet Brooks | Trân trọng, Harriet Brooks |
+| 21 | Sincerely, Harriet Brooks | Trân trọng, Harriet Brooks |
 
 ### Câu hỏi
 
 **51. What is the main purpose of Harriet's letter?**
 *(Mục đích chính của lá thư bà Harriet là gì?)*
 
-- A. to ask the owner to deal with problems caused by the empty shop next door *(đề nghị chủ nhà xử lý những vấn đề do căn tiệm trống bên cạnh gây ra)*
+- A. to ask the owner to fix problems caused by the empty shop *(đề nghị chủ nhà khắc phục những vấn đề do căn tiệm trống gây ra)*
 - B. to complain that her own rent has become too high *(phàn nàn rằng tiền thuê quán của bà đã quá cao)*
 - C. to announce that she is closing her café after fifteen years *(thông báo bà sẽ đóng quán sau mười lăm năm)*
 - D. to invite Mr. Dalton to a meeting of her book club *(mời ông Dalton tới một buổi họp câu lạc bộ sách)*
@@ -728,11 +729,11 @@
 
 - A. to suggest that she deserves to pay a lower rent *(để ngụ ý bà đáng được trả tiền thuê thấp hơn)*
 - B. to remind Mr. Dalton that she once owned the building *(để nhắc ông Dalton rằng bà từng sở hữu toà nhà)*
-- C. to show that she has been patient and is not someone who complains easily *(để cho thấy bà vốn kiên nhẫn, không phải người dễ phàn nàn)*
+- C. to show she is patient and does not complain easily *(để cho thấy bà kiên nhẫn, không dễ phàn nàn)*
 - D. to explain why she knows the previous occupant so well *(để giải thích vì sao bà biết rõ người thuê trước)*
 
-**53. What did the carpenter tell Harriet?**
-*(Người thợ mộc nói gì với bà Harriet?)*
+**53. What did the contractor tell Harriet?**
+*(Người thợ sửa nhà nói gì với bà Harriet?)*
 
 - A. The leak probably came from an old pipe in the empty shop. *(Chỗ rò có lẽ đến từ một đường ống cũ trong căn tiệm trống.)*
 - B. The whole wall would have to be replaced immediately. *(Phải thay toàn bộ bức tường ngay lập tức.)*
@@ -742,7 +743,7 @@
 **54. What does the sentence beginning "With the shop next door locked" suggest?**
 *(Câu bắt đầu bằng "With the shop next door locked" gợi ra điều gì?)*
 
-- A. The damage inside the empty shop could be worse than it looks from outside. *(Thiệt hại bên trong căn tiệm trống có thể tệ hơn vẻ bên ngoài.)*
+- A. The empty shop may be more damaged than it appears. *(Căn tiệm trống có thể hư hại nhiều hơn vẻ bên ngoài.)*
 - B. Mr. Dalton has already repaired most of the damage. *(Ông Dalton đã sửa phần lớn thiệt hại.)*
 - C. Someone has been living in the empty shop without permission. *(Có người đang ở trong căn tiệm trống mà không xin phép.)*
 - D. Harriet has a key to the shop and checks it every week. *(Bà Harriet có chìa khoá căn tiệm và kiểm tra hằng tuần.)*
@@ -751,15 +752,15 @@
 *(Vì sao bà Harriet đặc biệt lo khi phòng sau thấy bí bách?)*
 
 - A. because it is where she stores the food for the café *(vì đó là nơi bà cất đồ ăn của quán)*
-- B. because it is where community groups such as her book club meet *(vì đó là nơi các nhóm cộng đồng như câu lạc bộ sách họp)*
+- B. because community groups such as her book club meet there *(vì các nhóm cộng đồng như câu lạc bộ sách họp ở đó)*
 - C. because the health department will inspect it next month *(vì cơ quan y tế sẽ kiểm tra nó vào tháng sau)*
-- D. because her son plans to use it as an office *(vì con trai bà định dùng nó làm văn phòng)*
+- D. because she does the café's accounts there every evening *(vì tối nào bà cũng ngồi làm sổ sách của quán ở đó)*
 
 **56. What does Harriet imply by calling her own efforts "only temporary solutions"?**
 *(Bà Harriet hàm ý gì khi gọi những gì mình làm là "only temporary solutions"?)*
 
 - A. She plans to buy a bigger machine to dry the air. *(Bà định mua một máy hút ẩm lớn hơn.)*
-- B. The real cause has to be fixed in the empty shop, not in her café. *(Nguyên nhân thật phải được sửa ở căn tiệm trống, không phải ở quán bà.)*
+- B. The real cause lies in the empty shop, not her café. *(Nguyên nhân thật nằm ở căn tiệm trống, không phải ở quán bà.)*
 - C. The problem will disappear on its own when summer comes. *(Vấn đề sẽ tự hết khi mùa hè tới.)*
 - D. Her customers do not mind the smell as much as she does. *(Khách không bận tâm mùi đó nhiều như bà.)*
 
@@ -784,15 +785,15 @@
 
 - A. Harriet is seriously considering renting the space herself. *(Bà Harriet đang nghiêm túc cân nhắc tự thuê căn tiệm.)*
 - B. Harriet thinks the rent of 3,200 dollars is unfair. *(Bà Harriet cho rằng tiền thuê 3.200 đô là không công bằng.)*
-- C. Harriet's son has asked her to stop thinking about the shop. *(Con trai bà Harriet đã bảo bà thôi nghĩ về căn tiệm.)*
+- C. Harriet plans to sell her café and move next door. *(Bà Harriet định bán quán của mình rồi chuyển sang căn bên cạnh.)*
 - D. Harriet has already agreed to rent the empty shop. *(Bà Harriet đã đồng ý thuê căn tiệm trống.)*
 
 **60. What is the tone of the sentence "I have been thinking about that figure more often than I expected"?**
 *(Câu "I have been thinking about that figure more often than I expected" mang giọng điệu gì?)*
 
-- A. annoyed, because she thinks the price is far too high *(bực bội, vì bà cho rằng giá quá cao)*
+- A. annoyed, because she thinks the price is too high *(bực bội, vì bà cho rằng giá quá cao)*
 - B. anxious, because she is afraid of losing her café *(lo lắng, vì bà sợ mất quán)*
-- C. gentle and indirect, quietly hinting at her growing interest *(nhẹ nhàng, gián tiếp, khẽ ngầm cho thấy bà ngày càng quan tâm)*
+- C. gentle and indirect, hinting at her growing interest *(nhẹ nhàng, gián tiếp, ngầm cho thấy bà ngày càng quan tâm)*
 - D. amused, because she finds the figure ridiculous *(thấy buồn cười, vì bà thấy con số thật vô lý)*
 
 ---
@@ -842,10 +843,10 @@
 | 27 | **D** | Câu 16: "people who share something new gain a little status as the person who knows first". |
 | 28 | **B** | Câu 17: "The replies they analyzed bear this out" — phản hồi đầy bất ngờ khớp với lời giải thích về tính mới lạ, tức là xác nhận nó. |
 | 29 | **B** | Câu 18–20: Đoạn nêu giới hạn ("It would be a mistake to read too much into a single study") rồi chuyển: "Even so, its central finding has largely held up in later work". |
-| 30 | **C** | Câu 21: "if it lies partly in us, then the ten seconds before we press share matter more than any firewall". |
+| 30 | **C** | Câu 21: "if it lies partly in us, then the ten seconds before we press share matter more than any change to the algorithm". |
 | 31 | **D** | Câu 2, 11: Bà viết "to complain about an article in last Sunday's health section", phản đối chiêu "dressing an advertisement up as a news report" và nêu ba đề nghị. |
 | 32 | **C** | Câu 2: "it is precisely because I value its credibility that I am writing to complain". |
-| 33 | **D** | Câu 5: "Only in very small grey letters at the bottom of the page" — nhãn tài trợ bị đặt ở chỗ khó thấy nhất; đề nghị đầu tiên của bà cũng sửa đúng chỗ này. |
+| 33 | **D** | Câu 5: "Only in very small gray letters at the bottom of the page" — nhãn tài trợ bị đặt ở chỗ khó thấy nhất; đề nghị đầu tiên của bà cũng sửa đúng chỗ này. |
 | 34 | **D** | Câu 6: "I spent thirty-four years as a pharmacist, so I read the article with some care" — kinh nghiệm nghề làm cơ sở cho nhận xét của bà. |
 | 35 | **C** | Câu 7: Chuyên gia là cố vấn được trả lương, "a fact that the article glossed over entirely" — bài không hề nhắc tới. |
 | 36 | **A** | Câu 8: "had been paid for by the same company, had involved just forty people". |
@@ -855,14 +856,14 @@
 | 40 | **D** | Câu 18–19: "To my mind, these are modest requests", kèm lời nhắc khéo về độc giả có thể mất, rồi kết bằng hy vọng "I will be able to trust every page of it". |
 | 41 | **C** | Câu 3–4: Người ta ra ngoại ô vì "a spacious house, a garden, quieter streets", nhưng điều họ ít thích nhất là "the daily journey to work". |
 | 42 | **B** | Câu 7: "long commutes should be balanced by other rewards, such as a higher salary or a bigger home". |
-| 43 | **B** | Câu 8–9: "The data did not bear this out" — câu sau cho thấy người đi làm xa "reported consistently lower satisfaction", trái với dự đoán. |
+| 43 | **B** | Câu 13: "on a wet Monday with congestion clogging up every lane" — xe cộ ùn lại lấp kín mọi làn, đối lập với "empty roads" của buổi sáng đẹp trời. |
 | 44 | **D** | Câu 9: "would need to earn roughly forty percent more to be as satisfied as a person who did not commute at all". |
 | 45 | **B** | Câu 13: "we tend to imagine a commute on a good morning, with empty roads and a favorite podcast, rather than on a wet Monday". |
 | 46 | **A** | Câu 14: Chi phí rải qua "thousands of small moments, each too minor to complain about", còn lợi ích "arrive all at once, on the day we move in". |
 | 47 | **A** | Câu 16: "the data come from a single country, where public transit and the layout of cities differ from those in many American metropolitan areas" — một giới hạn khi suy rộng. |
 | 48 | **D** | Câu 17: "people who walk or cycle to work tend to report more satisfaction with their trip than drivers stuck in traffic". |
 | 49 | **C** | Câu 18–20: "None of this means that moving to the suburbs is a mistake"; chỉ cần "the hour should be counted honestly, at its real price". |
-| 50 | **B** | Câu 20, 13: Chạy thử "on a weekday morning rather than a sunny Saturday afternoon" là để tránh đúng lỗi hình dung quãng đường "on a good morning, with empty roads". |
+| 50 | **B** | Câu 18–19: "For a family with three children, an extra bedroom may well be worth an hour a day in the car" — minh hoạ cho câu ngay trước: chuyển ra ngoại ô không hẳn là sai lầm, miễn là cái giá được cân nhắc. |
 | 51 | **A** | Câu 3, 15: Mở thư: "I am writing about the unoccupied shop adjoining my café"; phần đề nghị nêu ba việc cần làm. |
 | 52 | **C** | Câu 4: "I have been a good neighbor to that building for nearly fifteen years" — nhấn sự kiên nhẫn lâu năm, rồi mới nói tới những vấn đề bà "can no longer simply patch up myself". |
 | 53 | **A** | Câu 7: "the leak is almost certainly coming from an old pipe on your side". |
@@ -871,5 +872,5 @@
 | 56 | **B** | Câu 12: "these are only temporary solutions to a problem that starts on the other side of the wall". |
 | 57 | **C** | Câu 14: "Children walk past that spot every afternoon on their way to the pocket park, and I would like it cleared before someone gets hurt". |
 | 58 | **B** | Câu 15, 12: Ba đề nghị: "to arrange for a plumber to inspect the pipe this month, to have the ventilation switched on or checked, and to have the area behind the building cleared" — không có chuyện đòi tiền máy hút ẩm. |
-| 59 | **A** | Câu 18–20: Bà muốn "see the space, perhaps with my son" và nói "I am not promising anything" — đang cân nhắc, chưa quyết. |
+| 59 | **A** | Câu 18–20: Bà muốn "see the space" và xem lại các con số với một người giỏi tính toán, nhưng nói "I am not promising anything" — đang cân nhắc nghiêm túc, chưa quyết. |
 | 60 | **C** | Câu 18: "more often than I expected" là cách nói nhẹ: bà không nói thẳng muốn thuê, chỉ để lộ rằng mình đang nghĩ nghiêm túc. |

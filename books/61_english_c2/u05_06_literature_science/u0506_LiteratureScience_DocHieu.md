@@ -30,9 +30,6 @@
 | public domain | phạm vi công cộng (hết bản quyền) |
 | lavish | xa hoa |
 | mysterious | bí ẩn |
-| dock | cầu tàu |
-| bay | vịnh |
-| cousin | anh/chị em họ |
 | narrator | người kể chuyện |
 | inclined | có xu hướng |
 | astonished | sửng sốt |
@@ -74,7 +71,6 @@
 | chainsaws | cưa máy |
 | velvet | vải nhung |
 | surpass | vượt qua |
-| surpassing | vượt qua |
 | frustrating | gây bực bội |
 | billionths | phần tỷ |
 | nanoseconds | nano giây |
@@ -82,7 +78,6 @@
 | neutrinos | các hạt neutrino |
 | detector | máy dò |
 | detectors | các máy dò |
-| optic | quang (cáp quang) |
 | oscillator | bộ dao động |
 | skeptical | hoài nghi |
 | humility | sự khiêm tốn |
@@ -93,8 +88,22 @@
 | bowel | ruột |
 | closest | gần nhất |
 | closer | gần hơn |
+| fiber-optic | (thuộc) cáp quang |
+| pathetic fallacy | ngụy biện cảm xúc (gán cảm xúc người cho vật) |
+| farcical | lố bịch như hài kịch |
+| squirm | bứt rứt, cựa quậy khó chịu |
+| allegory | phúng dụ, ngụ ngôn |
+| incongruous | lạc lõng, không ăn nhập |
+| venomous | độc địa |
+| nigh on | gần, xấp xỉ |
+| converge | hội tụ |
+| fluctuate | lên xuống thất thường |
+| antidote | thuốc giải |
+| deception | sự lừa dối |
+| humbly | một cách khiêm tốn |
+| unsolved | chưa có lời giải |
 
-> 📌 Cụm hay gặp trong bài: *for anyone who skipped the reading* (cho ai chưa kịp đọc), *reserve all judgments* (giữ lại mọi phán xét), *to general laughter* (khiến cả nhóm bật cười), *less a story about X than a parable about Y* (không hẳn là truyện về X mà là ngụ ngôn về Y), *be bound to* (hẳn phải, chắc chắn sẽ), *Only afterwards did…* (Chỉ sau đó mới…), *as closely as possible* (sát nhất có thể), *more admiration, not less* (đáng ngưỡng mộ hơn chứ không kém), *may well be explained by* (rất có thể được giải thích bởi), *simple, if not always easy* (đơn giản, dù không phải lúc nào cũng dễ), *less to decorate a feeling than to make an argument* (không hẳn để tô điểm cảm xúc mà để lập luận), *refined rather than dismissed* (cần tinh chỉnh chứ không gạt bỏ), *hold a story prisoner* (giam câu chuyện lại), *fare less well* (kém may mắn hơn, không khá hơn), *extraordinary claims require extraordinary evidence* (khẳng định phi thường cần bằng chứng phi thường), *regression to the mean* (hồi quy về giá trị trung bình).
+> 📌 Cụm hay gặp trong bài: *for anyone who skipped the reading* (cho ai chưa kịp đọc), *reserve all judgments* (giữ lại mọi phán xét), *to general laughter* (khiến cả nhóm bật cười), *less a story about X than a parable about Y* (không hẳn là truyện về X mà là ngụ ngôn về Y), *be bound to* (hẳn phải, chắc chắn sẽ), *Only afterwards did…* (Chỉ sau đó mới…), *as closely as possible* (sát nhất có thể), *more admiration, not less* (đáng ngưỡng mộ hơn chứ không kém), *may well be explained by* (rất có thể được giải thích bởi), *simple, if not always easy* (đơn giản, dù không phải lúc nào cũng dễ), *less to decorate a feeling than to make an argument* (không hẳn để tô điểm cảm xúc mà để lập luận), *refined rather than dismissed* (cần tinh chỉnh chứ không gạt bỏ), *hold a story prisoner* (giam câu chuyện lại), *fare less well* ((bị đánh giá / xoay xở) kém hơn), *extraordinary claims require extraordinary evidence* (khẳng định phi thường cần bằng chứng phi thường), *regression to the mean* (hồi quy về giá trị trung bình).
 
 ---
 
@@ -380,7 +389,7 @@
 | 11 | Consider the opening of Charles Dickens's Bleak House, which appeared in monthly parts in the early 1850s. | Hãy xem đoạn mở đầu Bleak House của Charles Dickens, ra mắt thành từng kỳ hằng tháng vào đầu những năm 1850. |
 | 12 | It begins not with a character but with a city, "London", and soon reaches two words, "Fog everywhere", which it follows for paragraphs: fog on the river, fog in the eyes and throats of old men by their fires, fog drifting into the kitchens of ships. | Nó không bắt đầu bằng một nhân vật mà bằng một thành phố, "London", rồi chẳng mấy chốc tới hai chữ, "Sương mù khắp nơi", và theo đuổi chúng qua nhiều đoạn: sương mù trên sông, sương mù trong mắt và cổ họng những ông già bên lò sưởi, sương mù len vào bếp của những con tàu. |
 | 13 | Only then does Dickens reach the court at the dark center of the book, where a case about a will has dragged on so long that nobody alive can say what it was originally about. | Chỉ sau đó Dickens mới tới toà án nằm ở trung tâm tăm tối của cuốn sách, nơi một vụ kiện về di chúc đã kéo dài lâu đến mức không ai còn sống có thể nói ban đầu nó là về chuyện gì. |
-| 14 | The fog is not there to make us feel gloomy; it is an allegory of the court itself, which hides the truth, chokes everyone who enters, and spreads into lives that never asked to be part of it. | Sương mù không có mặt để khiến ta thấy u ám; nó là một ẩn dụ về chính toà án, nơi che giấu sự thật, làm nghẹt thở mọi người bước vào, và lan vào những cuộc đời chưa bao giờ muốn dính dáng tới nó. |
+| 14 | The fog is not there to make us feel gloomy; it is an allegory of the court itself, which hides the truth, chokes everyone who enters, and spreads into lives that never asked to be part of it. | Sương mù không ở đó để khiến ta thấy u ám; nó là một phúng dụ (ngụ ngôn) về chính toà án, nơi che giấu sự thật, làm nghẹt thở mọi người bước vào, và lan vào những cuộc đời chưa bao giờ muốn dính dáng tới nó. |
 | 15 | The novelist Thomas Hardy went further still. | Thomas Hardy còn đi xa hơn nữa. |
 | 16 | The first chapter of The Return of the Native (1878) contains no people at all, only a long, brooding description of Egdon Heath, a wide stretch of wild land under a sky growing dark. | Chương đầu của The Return of the Native (1878) không có một con người nào, chỉ có một đoạn tả dài, trầm uất về Egdon Heath, một vùng đất hoang rộng lớn dưới bầu trời đang tối dần. |
 | 17 | Readers who expect a story to begin with a person may squirm through these pages, but the delay is the point. | Độc giả mong một câu chuyện mở đầu bằng một con người có thể sẽ bứt rứt khi đọc những trang này, nhưng chính sự trì hoãn ấy là dụng ý. |
@@ -417,15 +426,15 @@
 - A. Novelists should describe the sky in more detail to make their stories more emotional. *(Nhà văn nên tả bầu trời chi tiết hơn để truyện giàu cảm xúc hơn.)*
 - B. Readers are usually more moved by descriptions of weather than by dialogue. *(Người đọc thường xúc động trước đoạn tả thời tiết hơn là trước lời thoại.)*
 - C. Publishers often pay writers extra for dramatic scenes involving storms. *(Nhà xuất bản thường trả thêm tiền cho những cảnh bão bùng kịch tính.)*
-- D. Some novelists use weather as a cheap substitute for writing that fails to create feeling. *(Một số nhà văn dùng thời tiết làm vật thay thế rẻ tiền cho câu văn không gợi nổi cảm xúc.)*
+- D. Some novelists let weather do the emotional work their writing cannot. *(Một số tiểu thuyết gia để thời tiết gánh phần cảm xúc mà ngòi bút của họ không làm nổi.)*
 
 **24. In the essay, the word "farcical" is closest in meaning to**
 *(Trong bài, từ "farcical" gần nghĩa nhất với)*
 
 - A. deeply sad and moving *(buồn sâu sắc và cảm động)*
-- B. carefully planned and realistic *(được tính toán kỹ và chân thực)*
-- C. so exaggerated that it becomes ridiculous *(phóng đại đến mức thành lố bịch)*
-- D. old-fashioned but charming *(cổ lỗ nhưng duyên dáng)*
+- B. carefully planned and entirely realistic *(được tính toán kỹ và hoàn toàn chân thực)*
+- C. so exaggerated as to be ridiculous *(phóng đại đến mức lố bịch)*
+- D. old-fashioned but still rather charming *(cũ kỹ nhưng vẫn khá duyên)*
 
 **25. According to the writer, what is the function of the fog at the opening of Bleak House?**
 *(Theo tác giả, sương mù ở đầu Bleak House có chức năng gì?)*
@@ -435,20 +444,20 @@
 - C. It stands for the court, which hides the truth and harms everyone it touches. *(Nó tượng trưng cho toà án, nơi che giấu sự thật và làm hại mọi người nó chạm tới.)*
 - D. It hides the identity of the person who wrote the disputed will. *(Nó che giấu danh tính người đã viết bản di chúc gây tranh chấp.)*
 
-**26. What is suggested about the court case in Bleak House?**
-*(Bài gợi ý điều gì về vụ kiện trong Bleak House?)*
+**26. Which of the following is NOT mentioned as a place where the fog appears at the opening of Bleak House?**
+*(Điều nào sau đây KHÔNG được nhắc tới như một nơi sương mù xuất hiện ở phần mở đầu Bleak House?)*
 
-- A. It was settled quickly once the fog lifted from the river. *(Nó được giải quyết nhanh chóng khi sương mù trên sông tan đi.)*
-- B. It concerns a crime committed on one of the ships. *(Nó liên quan đến một tội ác xảy ra trên một con tàu.)*
-- C. It is described in the very first words of the novel. *(Nó được tả ngay trong những chữ đầu tiên của cuốn tiểu thuyết.)*
-- D. It has lasted so long that its original purpose has been forgotten. *(Nó kéo dài lâu đến mức mục đích ban đầu đã bị quên mất.)*
+- A. on the river *(trên sông)*
+- B. in the eyes and throats of old men *(trong mắt và cổ họng những ông lão)*
+- C. in the kitchens of ships *(trong bếp các con tàu)*
+- D. on the roads out of the city *(trên những con đường ra khỏi thành phố)*
 
 **27. Why might some readers "squirm" through the first chapter of The Return of the Native?**
 *(Vì sao một số độc giả có thể "bứt rứt" khi đọc chương đầu The Return of the Native?)*
 
-- A. They expect a story to start with a person, but the chapter describes only the land. *(Họ mong truyện mở đầu bằng một con người, nhưng chương ấy chỉ tả vùng đất.)*
-- B. The chapter describes a violent storm in uncomfortable detail. *(Chương ấy tả một cơn bão dữ dội với chi tiết gây khó chịu.)*
-- C. The characters behave in a haughty and contemptuous way. *(Các nhân vật cư xử kiêu căng và khinh khỉnh.)*
+- A. They expect a person first, but the chapter offers only the land. *(Họ chờ gặp một con người trước, nhưng chương ấy chỉ có vùng đất.)*
+- B. The chapter describes a violent storm in uncomfortable and frightening detail. *(Chương ấy tả một cơn bão dữ dội với chi tiết khó chịu và đáng sợ.)*
+- C. The chapter moves too quickly between many different characters. *(Chương ấy chuyển quá nhanh qua nhiều nhân vật khác nhau.)*
 - D. Hardy uses very old words that modern readers cannot understand. *(Hardy dùng những từ rất cổ mà độc giả hiện đại không hiểu nổi.)*
 
 **28. How does Hardy's heath differ from the weather in the weaker novels described earlier?**
@@ -462,7 +471,7 @@
 **29. What is the writer's final position on Ruskin's complaint?**
 *(Rốt cuộc tác giả nhìn nhận lời phàn nàn của Ruskin ra sao?)*
 
-- A. It is partly valid but should be adjusted: weather should not simply agree with characters. *(Nó đúng một phần nhưng cần điều chỉnh: thời tiết không nên chỉ đơn thuần đồng tình với nhân vật.)*
+- A. It is partly right: weather should not simply agree with the characters. *(Nó đúng một phần: thời tiết không nên chỉ đơn giản đồng tình với nhân vật.)*
 - B. It is wholly mistaken, since great novels depend on weather that mirrors feeling. *(Nó hoàn toàn sai, vì tiểu thuyết lớn cần thời tiết phản chiếu cảm xúc.)*
 - C. It applies only to poetry and has nothing to teach novelists. *(Nó chỉ áp dụng cho thơ và chẳng dạy được gì cho người viết tiểu thuyết.)*
 - D. It is correct, and writers should stop describing weather altogether. *(Nó đúng, và người viết nên thôi tả thời tiết hẳn.)*
@@ -509,7 +518,7 @@
 | 8 | No door in this novel is merely opened when it can instead be "surrendered, with a long and mottled sigh, to the grief of its hinges". | Không cánh cửa nào trong cuốn này chỉ đơn giản được mở ra khi nó có thể thay vào đó "được trao cho nỗi sầu của bản lề, kèm một tiếng thở dài loang lổ kéo dài". |
 | 9 | No rain is allowed to fall without first becoming torrential, then lyrical, and finally, in a passage I read three times because I could not believe it, "a veritable cloister of weeping". | Không cơn mưa nào được phép rơi mà không trở thành mưa như trút trước đã, rồi trữ tình, và cuối cùng, trong một đoạn tôi đọc ba lần vì không tin nổi, thành "một tu viện khóc than đích thực". |
 | 10 | There is a virtuoso quality to all this, in the way that there is a virtuoso quality to a man juggling chainsaws: one admires the skill while quietly wondering why he chose this particular activity. | Tất cả những điều này có chất điêu luyện, theo cái kiểu một người tung hứng cưa máy cũng điêu luyện: ta khâm phục tay nghề trong khi thầm tự hỏi sao anh ta lại chọn đúng trò này. |
-| 11 | The characters fare less well. | Các nhân vật thì kém may mắn hơn. |
+| 11 | The characters fare less well. | Các nhân vật thì còn tệ hơn. |
 | 12 | Rowena is the familiar archetype of the innocent heiress, and she does little except quiver, brood at windows, and wallow, at impressive length, in her own feelings. | Rowena là nguyên mẫu quen thuộc của cô gái thừa kế ngây thơ, và cô chẳng làm gì nhiều ngoài run rẩy, ủ ê bên cửa sổ, và đắm chìm, dài một cách ấn tượng, trong cảm xúc của chính mình. |
 | 13 | Her cousin Edmund, a haughty figure who lords it over the servants and delivers every line with a contemptuous curl of the lip, strings her along for most of the book before revealing himself, to nobody's surprise, as the villain. | Người anh họ Edmund, một kẻ kiêu căng hống hách với gia nhân và nói câu nào cũng kèm cái bĩu môi khinh khỉnh, nuôi hy vọng hão cho cô suốt gần hết cuốn sách rồi mới lộ mặt là kẻ xấu, chẳng ai ngạc nhiên. |
 | 14 | The only character with any life is the housekeeper, Mrs. Thorne, an unobtrusive presence whose dry remarks are so incongruous among the surrounding chandeliers that one suspects Whitby wrote them by accident. | Nhân vật duy nhất có chút sức sống là bà quản gia Thorne, một sự hiện diện kín đáo mà những lời nhận xét khô khốc lạc lõng giữa đám đèn chùm xung quanh đến mức người ta ngờ rằng Whitby viết ra chúng do vô tình. |
@@ -538,7 +547,7 @@
 *(Câu "Quý cô Rowena mất thêm bảy trăm trang nữa mới nhận ra" hàm ý gì?)*
 
 - A. Rowena is a clever detective who solves the mystery before the reader. *(Rowena là một thám tử sắc sảo giải bí ẩn trước cả người đọc.)*
-- B. The heroine discovers the secret long after the reader has guessed it, so the book drags. *(Nữ chính phát hiện bí mật rất lâu sau khi người đọc đã đoán ra, nên cuốn sách lê thê.)*
+- B. The heroine learns the secret long after the reader has guessed it. *(Nữ chính biết bí mật rất lâu sau khi người đọc đã đoán ra.)*
 - C. The secret is revealed in a second book of seven hundred pages. *(Bí mật được tiết lộ trong một cuốn thứ hai dài bảy trăm trang.)*
 - D. Rowena spends most of the book travelling to catch a ship. *(Rowena dành gần hết cuốn sách để đi đuổi theo một con tàu.)*
 
@@ -570,17 +579,17 @@
 *(Người điểm sách hàm ý gì khi nói đoạn tả lối dạo ven biển "dài bốn câu, điều có lẽ giải thích được vì sao"?)*
 
 - A. Four sentences is the ideal length for every paragraph in a novel. *(Bốn câu là độ dài lý tưởng cho mọi đoạn văn trong tiểu thuyết.)*
-- B. The passage was probably written by an editor rather than by Whitby. *(Đoạn ấy có lẽ do biên tập viên viết chứ không phải Whitby.)*
+- B. The passage was probably written by an editor rather than by Whitby himself. *(Đoạn ấy có lẽ do biên tập viên viết chứ không phải chính Whitby.)*
 - C. The reviewer did not have time to read the longer passages. *(Người điểm sách không có thời gian đọc những đoạn dài hơn.)*
-- D. Whitby writes best when he is brief, so the length of the rest is the problem. *(Whitby viết hay nhất khi ngắn gọn, nên độ dài của phần còn lại mới là vấn đề.)*
+- D. Whitby writes best when brief, so the length of the rest is the problem. *(Whitby viết hay nhất khi ngắn gọn, nên độ dài của phần còn lại mới là vấn đề.)*
 
 **37. How does the reviewer treat the publisher's phrase "an unsurpassed achievement"?**
 *(Người điểm sách xử lý cụm "một thành tựu chưa ai vượt qua" của nhà xuất bản ra sao?)*
 
-- A. She turns it into a joke: nobody will surpass the book because nobody would want to. *(Bà biến nó thành câu đùa: không ai vượt qua cuốn sách vì chẳng ai muốn làm thế.)*
-- B. She agrees with it sincerely and recommends the book to all readers. *(Bà thật lòng đồng ý và giới thiệu cuốn sách cho mọi độc giả.)*
-- C. She claims the publisher has copied it from an earlier review. *(Bà cho rằng nhà xuất bản chép nó từ một bài điểm sách trước.)*
-- D. She corrects it, pointing out that Whitby's earlier novels were better. *(Bà sửa lại, chỉ ra rằng các tiểu thuyết trước của Whitby hay hơn.)*
+- A. by turning it into a joke: nobody would want to surpass the book *(bằng cách biến nó thành câu đùa: chẳng ai muốn vượt qua cuốn sách)*
+- B. by agreeing with it sincerely and recommending the book to all readers *(bằng cách đồng tình thật lòng và giới thiệu cuốn sách cho mọi độc giả)*
+- C. by claiming that the publisher copied it from an earlier review of the book *(bằng cách cho rằng nhà xuất bản đã chép nó từ một bài điểm sách trước đó)*
+- D. by correcting it, since Whitby's earlier novels were in fact far better *(bằng cách sửa lại nó, vì các tiểu thuyết trước của Whitby thực ra hay hơn nhiều)*
 
 **38. In the review, the phrase "nigh on" is closest in meaning to**
 *(Trong bài, cụm "nigh on" gần nghĩa nhất với)*
@@ -590,13 +599,13 @@
 - C. almost *(gần như, xấp xỉ)*
 - D. exactly *(chính xác)*
 
-**39. How does the reviewer describe her own review?**
+**39. How does the reviewer describe the review itself?**
 *(Người điểm sách mô tả chính bài viết của mình thế nào?)*
 
-- A. as a venomous attack that the author fully deserves *(như một đòn độc địa mà tác giả hoàn toàn đáng nhận)*
-- B. as a balanced summary written mainly for the publisher *(như một bản tóm tắt cân bằng viết chủ yếu cho nhà xuất bản)*
+- A. as a venomous attack that the author fully deserves for his excesses *(như một đòn công kích độc địa mà tác giả hoàn toàn đáng nhận vì sự thái quá)*
+- B. as a balanced summary written mainly for the publisher's benefit *(như một bản tóm tắt cân bằng viết chủ yếu cho nhà xuất bản)*
 - C. as an apology for having judged the novel too quickly *(như một lời xin lỗi vì đã vội đánh giá cuốn tiểu thuyết)*
-- D. as the reaction of someone who expected more, not as a cruel attack *(như phản ứng của một người kỳ vọng nhiều hơn, chứ không phải một đòn công kích tàn nhẫn)*
+- D. as the reaction of someone who hoped for more, not an attack *(như phản ứng của người từng mong đợi hơn thế, không phải một đòn công kích)*
 
 **40. Which statement best sums up the reviewer's overall attitude?**
 *(Câu nào tóm tắt đúng nhất thái độ chung của người điểm sách?)*
@@ -655,7 +664,7 @@
 | 23 | The team had a result it could not explain, adhered to the rules by publishing its data and method in full, and invited others to find the flaw, which the team itself then found within months and announced as openly as the original claim. | Nhóm có một kết quả không giải thích được, tuân thủ quy tắc bằng cách công bố đầy đủ dữ liệu và phương pháp, và mời người khác tìm chỗ sai, rồi chính nhóm tìm ra chỗ sai ấy trong vòng vài tháng và công bố công khai y như khẳng định ban đầu. |
 | 24 | The project's spokesman nonetheless resigned soon afterwards, which some colleagues regarded as a fair consequence and others as a harsh punishment for honesty. | Dù vậy, người phát ngôn của dự án đã từ chức ngay sau đó, điều mà một số đồng nghiệp coi là hệ quả công bằng, còn những người khác coi là hình phạt khắc nghiệt cho sự trung thực. |
 | 25 | The astronomer Carl Sagan liked to say that extraordinary claims require extraordinary evidence. | Nhà thiên văn Carl Sagan hay nói rằng khẳng định phi thường đòi hỏi bằng chứng phi thường. |
-| 26 | The OPERA episode suggests a quieter lesson: that extraordinary claims also require extraordinary humility, and that a loose cable is a far more likely explanation for a miracle than a mistake by Einstein. | Câu chuyện OPERA gợi ra một hệ quả lặng lẽ hơn: khẳng định phi thường cũng đòi hỏi sự khiêm tốn phi thường, và một sợi cáp lỏng là lời giải thích cho một phép màu hợp lý hơn nhiều so với một sai lầm của Einstein. |
+| 26 | The OPERA episode suggests a quieter lesson: that extraordinary claims also require extraordinary humility, and that a loose cable is a far more likely explanation for a miracle than a mistake by Einstein. | Câu chuyện OPERA gợi ra một bài học kín đáo hơn: khẳng định phi thường cũng đòi hỏi sự khiêm tốn phi thường, và một sợi cáp lỏng là lời giải thích cho một "phép màu" hợp lý hơn nhiều so với một sai lầm của Einstein. |
 
 ### Câu hỏi
 
@@ -664,7 +673,7 @@
 
 - A. Neutrinos from CERN were reaching the detector slightly sooner than light would. *(Neutrino từ CERN tới máy dò sớm hơn một chút so với ánh sáng.)*
 - B. Light travels more slowly through solid rock than through air. *(Ánh sáng đi qua đá đặc chậm hơn qua không khí.)*
-- C. The distance between CERN and Gran Sasso had been measured incorrectly for years. *(Khoảng cách giữa CERN và Gran Sasso đã bị đo sai suốt nhiều năm.)*
+- C. The distance between CERN and the detector in Italy had been measured incorrectly for years. *(Khoảng cách giữa CERN và máy dò ở Ý đã bị đo sai suốt nhiều năm.)*
 - D. Neutrinos disappear completely when they pass under a mountain. *(Neutrino biến mất hoàn toàn khi đi qua dưới một ngọn núi.)*
 
 **42. According to the article, what was unusual about the announcement?**
@@ -672,23 +681,23 @@
 
 - A. The team claimed with great confidence that Einstein had been proved wrong. *(Nhóm tự tin tuyên bố rằng Einstein đã bị chứng minh là sai.)*
 - B. The result was announced before any measurements had been made. *(Kết quả được công bố trước khi có bất kỳ phép đo nào.)*
-- C. The team presented it as a puzzle it could not solve and asked others to find its mistake. *(Nhóm trình bày nó như một câu đố chưa giải và nhờ người khác tìm lỗi của mình.)*
-- D. The team refused to share any details of its method with other scientists. *(Nhóm từ chối chia sẻ chi tiết phương pháp với các nhà khoa học khác.)*
+- C. The team presented it as an unsolved puzzle and asked others to find the mistake. *(Nhóm trình bày nó như một câu đố chưa giải và nhờ người khác tìm ra chỗ sai.)*
+- D. The team refused to share any details of its method or data with other scientists. *(Nhóm từ chối chia sẻ bất cứ chi tiết nào về phương pháp hay dữ liệu với các nhà khoa học khác.)*
 
 **43. Why does the writer list "the length of a cable, the timing of a clock, the position of the detector"?**
 *(Vì sao tác giả liệt kê "độ dài một sợi cáp, thời điểm của một chiếc đồng hồ, vị trí của máy dò"?)*
 
-- A. to explain exactly which fault the team later discovered *(để giải thích chính xác lỗi nào nhóm phát hiện sau này)*
+- A. to explain exactly which fault the team later discovered in its equipment *(để giải thích chính xác lỗi nào trong thiết bị mà nhóm phát hiện sau đó)*
 - B. to prove that the equipment at CERN was badly designed *(để chứng minh thiết bị ở CERN được thiết kế kém)*
 - C. to show how easily a tiny error could produce such a small difference *(để cho thấy một lỗi rất nhỏ có thể dễ dàng tạo ra một chênh lệch nhỏ như vậy)*
-- D. to describe the steps needed to build a neutrino detector *(để mô tả các bước cần thiết để dựng một máy dò neutrino)*
+- D. to describe the steps needed to build and then test a neutrino detector *(để mô tả các bước cần thiết để dựng rồi thử nghiệm một máy dò neutrino)*
 
 **44. What can be inferred from the fact that some team members refused to sign the paper?**
 *(Có thể suy ra gì từ việc một số thành viên từ chối ký tên vào bài báo?)*
 
 - A. They had discovered the loose cable but kept it secret. *(Họ đã phát hiện sợi cáp lỏng nhưng giữ bí mật.)*
-- B. Even within the team, people disagreed about whether the result should be published. *(Ngay trong nhóm, mọi người cũng bất đồng về việc có nên công bố kết quả hay không.)*
-- C. They wanted to publish the result in a different journal. *(Họ muốn đăng kết quả trên một tạp chí khác.)*
+- B. Even within the team, people disagreed about whether to publish the result. *(Ngay trong nhóm cũng có người bất đồng về việc có nên công bố kết quả hay không.)*
+- C. They wanted the result to appear in a different, more prestigious journal first. *(Họ muốn kết quả được đăng trước ở một tạp chí khác, uy tín hơn.)*
 - D. They believed the result was correct but too modest. *(Họ tin kết quả đúng nhưng quá khiêm tốn.)*
 
 **45. What is the main function of the paragraph about the star that exploded in 1987?**
@@ -702,7 +711,7 @@
 **46. Why did the neutrinos from the 1987 explosion arrive a few hours before its light?**
 *(Vì sao neutrino từ vụ nổ năm 1987 tới sớm hơn ánh sáng vài giờ?)*
 
-- A. because neutrinos really do travel faster than light *(vì neutrino thật sự đi nhanh hơn ánh sáng)*
+- A. because neutrinos really do travel slightly faster than light *(vì neutrino thật sự đi nhanh hơn ánh sáng một chút)*
 - B. because the detectors on Earth had a faulty cable *(vì các máy dò trên Trái Đất có một sợi cáp lỗi)*
 - C. because the galaxy was much closer than astronomers believed *(vì thiên hà ấy gần hơn nhiều so với các nhà thiên văn tưởng)*
 - D. because light needs more time to escape from a dying star *(vì ánh sáng cần nhiều thời gian hơn để thoát ra khỏi một ngôi sao đang chết)*
@@ -721,7 +730,7 @@
 - A. disagreed sharply with each other *(bất đồng gay gắt với nhau)*
 - B. disappeared without explanation *(biến mất không lời giải thích)*
 - C. increased steadily over time *(tăng đều theo thời gian)*
-- D. came together on the same conclusion *(cùng đi tới một kết luận)*
+- D. came together on one conclusion *(cùng đi tới một kết luận)*
 
 **49. How does the writer present the spokesman's resignation?**
 *(Tác giả trình bày việc người phát ngôn từ chức như thế nào?)*
@@ -729,15 +738,15 @@
 - A. as clear proof that the team had behaved dishonestly *(như bằng chứng rõ ràng rằng nhóm đã hành xử thiếu trung thực)*
 - B. as the reason why the flaw in the equipment was discovered *(như lý do khiến lỗi thiết bị được phát hiện)*
 - C. as a decision that every scientist agreed was unnecessary *(như một quyết định mà mọi nhà khoa học đều cho là không cần thiết)*
-- D. as a matter on which the scientist's colleagues held different views *(như một chuyện mà các đồng nghiệp có những quan điểm khác nhau)*
+- D. as a matter on which his colleagues held different views *(như một chuyện mà đồng nghiệp của ông có những ý kiến khác nhau)*
 
 **50. What is the main point of the final paragraph?**
 *(Ý chính của đoạn cuối là gì?)*
 
-- A. Einstein's theories contain mistakes that will eventually be found. *(Các lý thuyết của Einstein có những sai lầm rồi sẽ bị tìm ra.)*
-- B. Before accepting a revolutionary explanation, scientists should modestly look for ordinary errors. *(Trước khi chấp nhận một lời giải thích mang tính cách mạng, nhà khoa học nên khiêm tốn tìm các lỗi bình thường.)*
+- A. Einstein's theories contain hidden mistakes that careful experiments like OPERA's will eventually expose. *(Lý thuyết của Einstein chứa những sai lầm ẩn giấu mà các thí nghiệm cẩn thận như OPERA rồi sẽ phơi bày.)*
+- B. Before accepting a revolutionary explanation, scientists should humbly check for ordinary errors. *(Trước khi chấp nhận một lời giải thích mang tính cách mạng, nhà khoa học nên khiêm tốn tìm những lỗi bình thường.)*
 - C. Carl Sagan was wrong to demand extraordinary evidence. *(Carl Sagan đã sai khi đòi bằng chứng phi thường.)*
-- D. Miracles in science are more common than most people think. *(Phép màu trong khoa học phổ biến hơn người ta nghĩ.)*
+- D. Apparent miracles in science turn out to be genuine discoveries more often than most people think. *(Những "phép màu" bề ngoài trong khoa học hoá ra là khám phá thật thường xuyên hơn người ta nghĩ.)*
 
 ---
 
@@ -825,7 +834,7 @@
 *(Vì sao Simon gọi câu trả lời đầu tiên của mình là "kiểu câu trả lời gây bực mình nhất"?)*
 
 - A. because it is neither a clear yes nor a clear no *(vì nó không phải là "có" rõ ràng cũng chẳng phải "không" rõ ràng)*
-- B. because he does not know anything about placebos *(vì anh không biết gì về giả dược)*
+- B. because he does not know anything at all about placebos *(vì anh hoàn toàn không biết gì về giả dược)*
 - C. because the host has asked the same question many times *(vì người dẫn đã hỏi câu đó nhiều lần)*
 - D. because the true answer would upset doctors *(vì câu trả lời thật sẽ làm các bác sĩ phật lòng)*
 
@@ -841,41 +850,41 @@
 *(Simon giải thích hiện tượng hồi quy về giá trị trung bình thế nào?)*
 
 - A. Patients who believe in a pill always report feeling better than they really are. *(Bệnh nhân tin vào thuốc luôn báo cáo thấy khá hơn thực tế.)*
-- B. Patients often join trials at their worst, so their next result tends to be nearer their usual level. *(Bệnh nhân thường vào thử nghiệm lúc tệ nhất, nên kết quả kế tiếp có xu hướng gần mức thường ngày của họ hơn.)*
-- C. Doctors tend to choose the healthiest patients for their trials. *(Bác sĩ có xu hướng chọn bệnh nhân khoẻ nhất cho thử nghiệm.)*
+- B. People join trials when they feel worst, so their next result drifts back toward normal. *(Người ta tham gia thử nghiệm lúc thấy tệ nhất, nên kết quả lần sau tự trôi về mức bình thường.)*
+- C. Doctors tend to choose the healthiest patients for their trials, which makes results look better. *(Bác sĩ thường chọn những bệnh nhân khoẻ nhất cho thử nghiệm, khiến kết quả trông đẹp hơn.)*
 - D. Symptoms grow steadily worse until a real medicine is given. *(Triệu chứng nặng dần đều cho tới khi được dùng thuốc thật.)*
 
 **54. What does Simon mean by "it is mostly arithmetic"?**
 *(Simon muốn nói gì bằng câu "phần lớn là số học"?)*
 
-- A. Much of the apparent improvement is a statistical pattern, not an effect of the pill. *(Phần lớn sự cải thiện nhìn thấy là một quy luật thống kê, không phải tác dụng của viên thuốc.)*
+- A. Much of the apparent improvement is a statistical pattern, not the pill. *(Phần lớn mức cải thiện bề ngoài là một quy luật thống kê, không phải do viên thuốc.)*
 - B. Patients improve only if they are good at mathematics. *(Bệnh nhân chỉ khá lên nếu họ giỏi toán.)*
-- C. The researchers made simple calculation errors in the 1955 paper. *(Các nhà nghiên cứu đã tính toán sai đơn giản trong bài báo năm 1955.)*
+- C. The researchers in the 1955 paper made simple calculation errors that later studies corrected. *(Các nhà nghiên cứu trong bài báo năm 1955 tính toán sai những phép đơn giản mà các nghiên cứu sau đã sửa.)*
 - D. The correct dose of a placebo can be calculated exactly. *(Liều giả dược đúng có thể tính chính xác.)*
 
 **55. Why, according to Simon, is a "third group" needed in a trial?**
 *(Theo Simon, vì sao thử nghiệm cần một "nhóm thứ ba"?)*
 
-- A. to test a stronger version of the real medicine *(để thử một phiên bản mạnh hơn của thuốc thật)*
+- A. to test whether a stronger dose of the real medicine works better than the usual one *(để thử xem liều mạnh hơn của thuốc thật có hiệu quả hơn liều thường không)*
 - B. to make the trial large enough to be published *(để thử nghiệm đủ lớn mà được đăng)*
-- C. to compare a placebo with no treatment and so separate its effect from natural recovery *(để so giả dược với việc không điều trị, nhờ đó tách tác dụng của nó khỏi sự hồi phục tự nhiên)*
+- C. to separate a placebo's effect from natural recovery *(để tách tác dụng của giả dược khỏi việc bệnh tự khỏi)*
 - D. to give the researchers someone to interview afterwards *(để các nhà nghiên cứu có người phỏng vấn sau đó)*
 
-**56. What did the 2001 analysis find?**
-*(Phân tích năm 2001 phát hiện điều gì?)*
+**56. What can be inferred about the 1955 figure from the 2001 analysis?**
+*(Có thể suy ra gì về con số năm 1955 từ phân tích năm 2001?)*
 
-- A. Placebos were as effective as real medicine for most conditions. *(Giả dược hiệu quả ngang thuốc thật với phần lớn bệnh.)*
-- B. Untreated patients did much worse than anyone had expected. *(Bệnh nhân không điều trị tệ hơn nhiều so với dự đoán.)*
-- C. Placebos helped only patients who knew they were taking one. *(Giả dược chỉ giúp những bệnh nhân biết mình đang dùng nó.)*
-- D. Placebos made little difference for most conditions, though pain was an exception. *(Giả dược ít tạo khác biệt với phần lớn bệnh, dù cơn đau là ngoại lệ.)*
+- A. It was too low, since placebos work as well as real medicine for most conditions. *(Con số ấy quá thấp, vì giả dược hiệu quả ngang thuốc thật với hầu hết bệnh.)*
+- B. It was accurate, because the untreated patients in 2001 hardly improved at all. *(Con số ấy chính xác, vì bệnh nhân không được điều trị năm 2001 gần như không đỡ chút nào.)*
+- C. It applied only to patients who knew in advance that they were taking a placebo. *(Con số ấy chỉ đúng với bệnh nhân biết trước mình đang dùng giả dược.)*
+- D. Much of the improvement it reported would have happened anyway. *(Phần lớn mức cải thiện nó ghi nhận đằng nào cũng sẽ xảy ra.)*
 
-**57. Why does Simon say that pain is "not a trivial exception"?**
-*(Vì sao Simon nói cơn đau "không phải là ngoại lệ vặt vãnh"?)*
+**57. In the sentence "it is one of the main reasons people see a doctor", what does "it" refer to?**
+*(Trong câu "it is one of the main reasons people see a doctor", "it" chỉ điều gì?)*
 
-- A. because pain cannot be measured by statistics *(vì cơn đau không thể đo bằng thống kê)*
-- B. because placebos remove pain completely *(vì giả dược xoá sạch cơn đau)*
-- C. because pain is one of the main reasons people visit a doctor *(vì đau là một trong những lý do chính khiến người ta đi khám)*
-- D. because the 2001 study ignored patients in pain *(vì nghiên cứu năm 2001 bỏ qua bệnh nhân bị đau)*
+- A. the placebo *(giả dược)*
+- B. the 2001 analysis *(phân tích năm 2001)*
+- C. pain *(cơn đau)*
+- D. regression to the mean *(hồi quy về giá trị trung bình)*
 
 **58. What makes the 2010 study "the most puzzling study of all"?**
 *(Điều gì khiến nghiên cứu năm 2010 là "nghiên cứu khó hiểu nhất"?)*
@@ -890,8 +899,8 @@
 
 - A. enthusiastic, because the 2010 study settled the question *(hào hứng, vì nghiên cứu năm 2010 đã giải quyết dứt điểm vấn đề)*
 - B. cautious, because the evidence needs replication and could be taken the wrong way *(thận trọng, vì bằng chứng cần được lặp lại và có thể bị hiểu sai)*
-- C. contemptuous, because placebos deceive patients *(khinh miệt, vì giả dược là một kiểu nói dối)*
-- D. indifferent, because the decision belongs to patients *(thờ ơ, vì quyết định thuộc về bệnh nhân)*
+- C. contemptuous, because giving patients pills with nothing in them is a form of deception *(khinh miệt, vì đưa bệnh nhân những viên thuốc chẳng có gì bên trong là một kiểu lừa dối)*
+- D. indifferent, because he thinks the decision should be left entirely to patients *(thờ ơ, vì ông cho rằng việc quyết định nên để hoàn toàn cho bệnh nhân)*
 
 **60. What does Simon suggest with his final remark about "a rushed appointment"?**
 *(Simon gợi ý điều gì qua lời kết về "một buổi khám vội vàng"?)*
@@ -945,7 +954,7 @@
 | 23 | **D** | Câu 9: Câu hàm ý, giọng mỉa: "as if the sky had been hired to supply the emotions that the prose could not". Thời tiết làm thay việc mà câu văn yếu không làm được. |
 | 24 | **C** | Câu 9: "the effect can be close to farcical": thời tiết khớp cảm xúc nhân vật hết lần này tới lần khác thì thành buồn cười, lố bịch. |
 | 25 | **C** | Câu 14: "it is an allegory of the court itself, which hides the truth, chokes everyone who enters". Lưu ý bài phủ định thẳng phương án "tạo không khí u ám". |
-| 26 | **D** | Câu 13: "has dragged on so long that nobody alive can say what it was originally about". Cuốn sách mở đầu bằng London và sương mù ("Fog everywhere"), không phải bằng vụ kiện. |
+| 26 | **D** | Câu 12: Bài liệt kê: "fog on the river, fog in the eyes and throats of old men by their fires, fog drifting into the kitchens of ships". Không có chỗ nào nhắc những con đường ra khỏi thành phố. |
 | 27 | **A** | Câu 16–17: "contains no people at all, only a long, brooding description of Egdon Heath" và "Readers who expect a story to begin with a person may squirm". |
 | 28 | **C** | Câu 19: "Hardy's heath does not share the feelings of the people who live on it; its indifference is precisely what makes their passions look both heroic and slightly absurd." Ngược hẳn với cơn gió "đúng lúc" ở đoạn trước. |
 | 29 | **A** | Câu 20–22: "Ruskin's complaint needs to be refined rather than dismissed": người viết kém bắt thời tiết đồng tình, người viết giỏi để nó bất đồng hoặc thờ ơ. |
@@ -975,8 +984,8 @@
 | 53 | **B** | Câu 16–17: "People tend to join a medical trial when they feel at their worst" và lần đo sau "is likely to be closer to their average, which means better, whatever you give them". |
 | 54 | **A** | Câu 18: "It looks like a cure; it is mostly arithmetic." Cải thiện ấy chủ yếu do hồi quy về trung bình. |
 | 55 | **C** | Câu 20: "You need a third group, one that receives no treatment at all", để trả lời câu Colin hỏi: tách hiệu ứng thật khỏi "the arithmetic". |
-| 56 | **D** | Câu 22–23: "the placebo groups were, in aggregate, barely better off for most conditions"; "The clearest exception was pain". Phương án "biết mình dùng giả dược" thuộc nghiên cứu năm 2010. |
-| 57 | **C** | Câu 26: "Pain is not a trivial exception; it is one of the main reasons people see a doctor." |
+| 56 | **D** | Câu 12, 22: "the placebo groups were, in aggregate, barely better off for most conditions": nhóm giả dược chỉ hơn nhóm không điều trị chút ít, nên phần lớn mức "một phần ba" năm 1955 là do bệnh tự khỏi, đúng như Simon nói trước đó: "Many of those people would have recovered anyway". |
+| 57 | **C** | Câu 26: "Pain is not a trivial exception; it is one of the main reasons people see a doctor." — "it" thay cho "pain" ở vế trước. |
 | 58 | **D** | Câu 30–31: Họ được nói thật "that the pills contained no medicine at all", vậy mà "reported significantly more improvement than those who received nothing". |
 | 59 | **B** | Câu 35–37: "I would be cautious." Lý do: "small samples and need replication" và nguy cơ người bệnh "abandon treatments that genuinely do". |
 | 60 | **B** | Câu 38–39: "kindness, time and a clear explanation are not nothing"; giả dược "may be [an antidote] to a rushed appointment" → cái thiếu là sự quan tâm, không phải viên thuốc. |

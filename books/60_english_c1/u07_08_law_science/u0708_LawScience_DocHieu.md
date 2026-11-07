@@ -2,7 +2,7 @@
 
 > **Luyện cho:** Unit 7 + Unit 8 khoá C1 · phiếu `c1.025` – `c1.032` (phiên toà và phán quyết, bình đẳng, quy định và tiêu chuẩn; thí nghiệm, gen và tế bào, vũ trụ, phát minh). Bài 1 chỉ dùng từ pháp lý trung tính, **không** bàn biểu tình hay phong trào chính trị.
 >
-> **Nhân vật:** Mitchell Carter, Tracy Carter · tháng 6 – 7, năm 8
+> **Nhân vật:** Mitchell Carter, Tracy Carter · cuối tháng 5 – tháng 7, năm 8
 >
 > **Mục tiêu:** đọc một bài tự sự có suy ngẫm về việc làm bồi thẩm và một bài khoa học kể tiến trình một phát minh; nhận ra cách người viết tự nhận định kiến của mình, phân biệt hai khái niệm gần nhau (not guilty ≠ innocent), cặp đối lập in principle / in practice, cách bài khoa học chặn kết luận vội (That would be a mistake), và các cấu trúc C1: regardless of, notwithstanding, for all, albeit, Should you ever…, so much so that, the extent to which, insofar as. Bài 3–6: đọc văn bản hướng dẫn và thư khiếu nại dẫn điều khoản (liable, negligent, provision, breach, arbitrary, in accordance with, abide by), cách người viết nhận phần sai để lập luận thuyết phục hơn, số liệu mục tiêu so với kết quả, và cách bài khoa học suy ra "ở giữa" hai giả thuyết.
 
@@ -69,6 +69,11 @@
 | collision | vụ va chạm |
 | replay | tua lại, chạy lại |
 | closest | gần nhất |
+| asteroid | tiểu hành tinh |
+| momentum | động lượng |
+| mutation | đột biến |
+| contamination | sự nhiễm bẩn |
+| security deposit | tiền đặt cọc thuê nhà |
 
 > 📌 Cụm hay gặp trong bài: *sit on a jury* (ngồi trong bồi thẩm đoàn), *make up my mind* (quyết định, chốt ý), *avoid eye contact* (né ánh mắt), *return a verdict* (đưa ra phán quyết), *the whole point of* (toàn bộ ý nghĩa của), *in principle* (về nguyên tắc), *in practice* (trên thực tế), *one by one* (từng cái một), *too small to justify* (quá nhỏ để đáng làm), *at the outset* (ngay từ đầu), *fall into a category* (thuộc vào một loại), *answer for* (chịu trách nhiệm về), *what amounts to* (thứ tương đương với), *goes to the heart of* (chạm tới cốt lõi của).
 
@@ -361,14 +366,14 @@
 | 19 | If the other party refuses to abide by the decision, you will have to take further steps to collect the money, and the court will not do that for you. | Nếu bên kia không chịu tuân theo quyết định, bạn sẽ phải làm thêm các bước để thu tiền, và toà sẽ không làm việc đó thay bạn. |
 | 20 | Should you find yourself in that situation, please contact us again; collecting a judgment is one of the most common reasons people return to our clinic. | Nếu bạn rơi vào tình huống đó, hãy liên hệ lại với chúng tôi; việc thu tiền sau khi thắng kiện là một trong những lý do phổ biến nhất khiến mọi người quay lại phòng tư vấn. |
 | 21 | Finally, before you file anything, try writing a calm, clear letter to the other party explaining what you want and by when. | Cuối cùng, trước khi nộp bất cứ thứ gì, hãy thử viết một lá thư bình tĩnh, rõ ràng gửi bên kia, nói rõ bạn muốn gì và trước khi nào. |
-| 22 | Surprisingly often, a letter that shows you know your rights and are prepared to use them is enough to settle the matter without a hearing at all. | Thường xuyên đến bất ngờ, một lá thư cho thấy bạn biết quyền của mình và sẵn sàng dùng đến chúng là đủ để giải quyết xong chuyện mà chẳng cần ra toà. |
+| 22 | Surprisingly often, a letter that shows you know your rights and are prepared to use them is enough to settle the matter without a hearing at all. | Nhiều khi, thật bất ngờ, chỉ một lá thư cho thấy bạn biết quyền của mình và sẵn sàng dùng đến chúng là đủ để giải quyết xong chuyện mà chẳng cần ra toà. |
 
 ### Câu hỏi
 
 **21. Why does the guide begin with a landlord, a mechanic and a neighbor's tree?**
 *(Vì sao bài hướng dẫn mở đầu bằng chủ nhà, thợ sửa xe và cái cây nhà hàng xóm?)*
 
-- A. to show the kind of everyday disputes that small claims court is designed for *(để cho thấy loại tranh chấp đời thường mà toà án khiếu kiện nhỏ được lập ra để giải quyết)*
+- A. to show the everyday disputes the court is designed for *(để cho thấy những tranh chấp đời thường mà toà được lập ra để giải quyết)*
 - B. to warn readers about the people they should never trust *(để cảnh báo người đọc về những người không bao giờ nên tin)*
 - C. to list the only three kinds of cases the court will accept *(để liệt kê ba loại vụ việc duy nhất toà nhận)*
 - D. to explain why lawyers are expensive in San Diego *(để giải thích vì sao luật sư ở San Diego đắt)*
@@ -376,26 +381,26 @@
 **22. According to the guide, why are these disputes suited to small claims court?**
 *(Theo bài hướng dẫn, vì sao những tranh chấp này hợp với toà án khiếu kiện nhỏ?)*
 
-- A. The amounts are too small to justify a lawyer but too large to forget. *(Số tiền quá nhỏ để thuê luật sư nhưng quá lớn để bỏ qua.)*
+- A. The sums are worth chasing but not worth a lawyer. *(Số tiền đáng để đòi nhưng không đáng để thuê luật sư.)*
 - B. The cases are too complicated for ordinary courts. *(Vụ việc quá phức tạp với toà thông thường.)*
 - C. Both sides are always neighbors who know each other. *(Hai bên luôn là hàng xóm quen biết nhau.)*
-- D. The court collects the money on behalf of the winner. *(Toà thu tiền thay cho bên thắng.)*
+- D. The court collects the money on behalf of the winner, so no lawyer is needed. *(Toà thu tiền thay cho bên thắng, nên không cần luật sư.)*
 
 **23. Why does the guide say that the absence of lawyers "is precisely what makes the system accessible"?**
 *(Vì sao bài hướng dẫn nói việc không có luật sư "chính là điều khiến hệ thống này dễ tiếp cận"?)*
 
 - A. People without lawyers always win their cases. *(Người không có luật sư luôn thắng kiện.)*
-- B. The judge expects ordinary people and helps both sides explain their case. *(Thẩm phán biết đó là người bình thường và giúp cả hai bên trình bày vụ việc.)*
-- C. Judges in small claims court are not trained in law. *(Thẩm phán ở toà khiếu kiện nhỏ không được đào tạo về luật.)*
+- B. The judge helps both sides, as neither is expert. *(Thẩm phán giúp cả hai bên, vì không bên nào là chuyên gia.)*
+- C. Judges in small claims court are not trained in law, so they cannot use legal terms. *(Thẩm phán ở toà khiếu kiện nhỏ không được đào tạo về luật nên không dùng được thuật ngữ pháp lý.)*
 - D. Hearings are held online, so nobody has to travel. *(Phiên xét xử diễn ra trực tuyến nên không ai phải đi lại.)*
 
 **24. In this guide, what does "negligent" mean?**
 *(Trong bài hướng dẫn, "negligent" nghĩa là gì?)*
 
-- A. refusing to sign a written agreement *(từ chối ký thoả thuận bằng văn bản)*
-- B. asking for more money than you lost *(đòi nhiều tiền hơn số đã mất)*
+- A. refusing to sign a written agreement before the work begins *(từ chối ký thoả thuận bằng văn bản trước khi bắt đầu công việc)*
+- B. asking the court for more money than you can actually prove you lost *(đòi toà nhiều tiền hơn số bạn thật sự chứng minh được là đã mất)*
 - C. missing the date of a hearing *(lỡ ngày xét xử)*
-- D. failing to take the care a reasonable person would take *(không cẩn trọng như một người bình thường biết lẽ phải sẽ cẩn trọng)*
+- D. not as careful as a sensible person would be *(không cẩn thận như một người bình thường biết điều sẽ làm)*
 
 **25. Which of the following would NOT be enough, by itself, to win a claim?**
 *(Điều nào sau đây, tự nó, KHÔNG đủ để thắng kiện?)*
@@ -403,21 +408,21 @@
 - A. proof that the other party broke an agreement, plus receipts for your loss *(bằng chứng bên kia vi phạm thoả thuận, kèm hoá đơn cho khoản bạn mất)*
 - B. evidence that the other party was negligent and how much it cost you *(bằng chứng bên kia cẩu thả và việc đó khiến bạn tốn bao nhiêu)*
 - C. a strong feeling that you have been treated unfairly *(cảm giác mạnh mẽ rằng mình bị đối xử bất công)*
-- D. a signed contract, a marked provision and photographs of the damage *(hợp đồng đã ký, điều khoản được đánh dấu và ảnh chụp thiệt hại)*
+- D. a signed contract with the broken provision marked, plus repair bills showing what the damage cost *(hợp đồng đã ký có đánh dấu điều khoản bị vi phạm, kèm hoá đơn sửa chữa cho thấy thiệt hại tốn bao nhiêu)*
 
 **26. What does the guide imply by saying that "preparation matters far more than speaking well"?**
 *(Bài hướng dẫn hàm ý gì khi nói "sự chuẩn bị quan trọng hơn nhiều so với việc ăn nói giỏi"?)*
 
-- A. People who speak well should not go to small claims court. *(Người ăn nói giỏi không nên ra toà khiếu kiện nhỏ.)*
+- A. People who speak well should not go to small claims court, since judges do not trust them. *(Người ăn nói giỏi không nên ra toà khiếu kiện nhỏ, vì thẩm phán không tin họ.)*
 - B. The judge will not allow anyone to speak at the hearing. *(Thẩm phán sẽ không cho ai nói tại phiên xét xử.)*
-- C. Organized evidence will persuade a judge more than a confident performance. *(Bằng chứng được sắp xếp gọn gàng sẽ thuyết phục thẩm phán hơn một màn trình bày tự tin.)*
+- C. Organized evidence beats a confident performance. *(Bằng chứng có hệ thống thắng một màn trình bày tự tin.)*
 - D. You should hire someone to speak for you. *(Bạn nên thuê người nói thay mình.)*
 
 **27. Why does the guide contrast a two-minute summary with "a long story and a box full of papers"?**
 *(Vì sao bài hướng dẫn đặt bản tóm tắt hai phút cạnh "một câu chuyện dài và một hộp đầy giấy tờ"?)*
 
-- A. to suggest that judges do not read any documents *(để ngụ ý rằng thẩm phán không đọc giấy tờ nào)*
-- B. to show that busy judges respond best to a short, focused explanation *(để cho thấy thẩm phán bận rộn tiếp nhận tốt nhất một lời giải thích ngắn, tập trung)*
+- A. to suggest that judges do not read any of the documents people bring *(để ngụ ý rằng thẩm phán không đọc giấy tờ nào người ta mang tới)*
+- B. to show judges prefer a short, clear account *(để cho thấy thẩm phán thích lời trình bày ngắn gọn, rõ ràng)*
 - C. to warn that bringing documents is against the rules *(để cảnh báo rằng mang giấy tờ là trái quy định)*
 - D. to explain why hearings last only two minutes *(để giải thích vì sao phiên xét xử chỉ kéo dài hai phút)*
 
@@ -425,31 +430,33 @@
 *(Bài hướng dẫn nói gì về việc thắng kiện?)*
 
 - A. The other party must pay on the same day as the hearing. *(Bên kia phải trả ngay trong ngày xét xử.)*
-- B. It does not guarantee that you will be paid, and the court will not collect the money for you. *(Nó không bảo đảm bạn sẽ được trả tiền, và toà sẽ không thu tiền thay bạn.)*
-- C. The judge always sends the decision by mail several months later. *(Thẩm phán luôn gửi quyết định qua bưu điện vài tháng sau.)*
+- B. Winning does not guarantee you will be paid. *(Thắng kiện không bảo đảm bạn sẽ được trả tiền.)*
+- C. The judge always sends the decision by mail several months after the hearing. *(Thẩm phán luôn gửi quyết định qua bưu điện vài tháng sau phiên xét xử.)*
 - D. A judgment allows you to ask for twice the amount you lost. *(Bản án cho phép bạn đòi gấp đôi số tiền đã mất.)*
 
 **29. What can be inferred from the fact that collecting a judgment is "one of the most common reasons people return" to the clinic?**
 *(Có thể suy ra gì từ việc thu tiền sau khi thắng kiện là "một trong những lý do phổ biến nhất khiến mọi người quay lại" phòng tư vấn?)*
 
-- A. Many people who win still have difficulty getting the money they are owed. *(Nhiều người thắng kiện vẫn gặp khó khi lấy số tiền mình được nhận.)*
+- A. Many winners still struggle to get their money. *(Nhiều người thắng kiện vẫn chật vật mới lấy được tiền.)*
 - B. Most people who use the clinic lose their cases. *(Phần lớn người tới phòng tư vấn đều thua kiện.)*
-- C. The clinic charges extra for helping people collect money. *(Phòng tư vấn thu thêm phí khi giúp mọi người thu tiền.)*
+- C. The clinic charges extra for helping people collect money from the other side. *(Phòng tư vấn thu thêm phí khi giúp mọi người đòi tiền từ bên kia.)*
 - D. Judges often change their decisions after the hearing. *(Thẩm phán thường đổi quyết định sau phiên xét xử.)*
 
 **30. What does the guide recommend doing before filing a claim?**
 *(Bài hướng dẫn khuyên làm gì trước khi nộp đơn kiện?)*
 
-- A. hiring a lawyer to check the state's upper limit *(thuê luật sư kiểm tra mức trần của bang)*
-- B. asking the judge for a meeting in private *(xin gặp riêng thẩm phán)*
+- A. hiring a lawyer to check the upper limit that is applicable in your state *(thuê luật sư kiểm tra mức trần áp dụng ở bang của bạn)*
+- B. asking the judge for a meeting in private before the hearing date *(xin gặp riêng thẩm phán trước ngày phiên xử)*
 - C. posting the details of the dispute online *(đăng chi tiết tranh chấp lên mạng)*
-- D. writing a calm, clear letter to the other party saying what you want and by when *(viết một lá thư bình tĩnh, rõ ràng gửi bên kia nói bạn muốn gì và trước khi nào)*
+- D. sending a calm written request with a deadline *(gửi một yêu cầu bằng văn bản bình tĩnh, có hạn chót)*
 
 ---
 
 ## Bài đọc 4 (Unit 7) — Thư Tracy đề nghị chủ nhà xem lại tiền trừ cọc
 
 > **Re: Security Deposit for Apartment 4B, 318 Cedar Avenue**
+>
+> May 26
 >
 > Dear Ms. Pierce,
 >
@@ -463,7 +470,7 @@
 >
 > I would therefore ask you to return the remaining $950 within fourteen days of the date of this letter. I have always found Ridgeway Property Management to be a responsible landlord, and I would much prefer to settle this directly with you. If that is not possible, I am prepared to bring the matter to small claims court, although I sincerely hope that it will not come to that. Should you need anything further from me, such as my receipts or the original copy of the checklist, I will be happy to provide it.
 >
-> Yours sincerely,
+> Sincerely,
 >
 > Tracy Carter
 >
@@ -474,35 +481,36 @@
 | # | Tiếng Anh | Tiếng Việt |
 |---|---|---|
 | 1 | Re: Security Deposit for Apartment 4B, 318 Cedar Avenue | V/v: Tiền đặt cọc căn hộ 4B, số 318 đại lộ Cedar |
-| 2 | Dear Ms. Pierce, | Kính gửi bà Pierce, |
-| 3 | Thank you for your letter of May 20, which included a check for $730 and a list of deductions from my security deposit of $1,800. | Cảm ơn bà về lá thư ngày 20 tháng 5, kèm tấm séc 730 đô-la và danh sách các khoản trừ vào tiền đặt cọc 1.800 đô-la của tôi. |
-| 4 | I would like to say at the outset that I have been happy as your tenant, and that I am raising this only because the amounts are significant to me. | Trước hết tôi muốn nói rằng tôi đã rất hài lòng khi là người thuê nhà của bà, và tôi nêu chuyện này chỉ vì các khoản tiền này đáng kể với tôi. |
-| 5 | However, I believe that two of the three deductions are not justified under the terms of my lease, and I would ask you to review them. | Tuy nhiên, tôi cho rằng hai trong ba khoản trừ không có căn cứ theo các điều khoản của hợp đồng thuê, và tôi xin bà xem xét lại. |
-| 6 | The first is a charge of $650 for repainting the entire apartment. | Khoản thứ nhất là 650 đô-la để sơn lại toàn bộ căn hộ. |
-| 7 | I lived in the apartment for two years, during which I did not paint, hang shelves or make any changes to the walls. | Tôi đã sống ở căn hộ hai năm, trong thời gian đó tôi không sơn, không treo kệ và không thay đổi gì trên tường. |
-| 8 | The marks shown in your photographs, which are mostly light scratches near the doors and the furniture, are the kind that inevitably appear after two years of ordinary use. | Những vết trong ảnh của bà, phần lớn là vết xước nhẹ gần cửa và đồ đạc, là loại vết không thể tránh khỏi sau hai năm sử dụng bình thường. |
-| 9 | Section 12 of the lease states clearly that the tenant is not liable for normal wear and tear, and I do not see how these marks could fall into any other category. | Mục 12 của hợp đồng thuê ghi rõ người thuê không chịu trách nhiệm cho hao mòn thông thường, và tôi không thấy những vết này có thể thuộc loại nào khác. |
-| 10 | The second is a charge of $300 toward replacing the bedroom carpet. | Khoản thứ hai là 300 đô-la góp vào việc thay thảm phòng ngủ. |
-| 11 | The carpet was already worn when I moved in, as the photographs I took on my first day show; I have attached them, along with photographs taken on the day I left, so that you can compare the two sets yourself. | Tấm thảm đã cũ mòn từ khi tôi chuyển tới, như những bức ảnh tôi chụp vào ngày đầu tiên cho thấy; tôi đã gửi kèm chúng, cùng với ảnh chụp vào ngày tôi dọn đi, để bà có thể tự so sánh hai bộ ảnh. |
-| 12 | The move-in checklist, which we both signed, also describes the carpet as worn, with stains near the window, so its condition was recorded from the start. | Bản kiểm tra lúc nhận nhà, mà cả hai chúng ta đã ký, cũng ghi tấm thảm đã cũ, có vết bẩn gần cửa sổ, nên tình trạng của nó đã được ghi lại ngay từ đầu. |
-| 13 | Charging a departing tenant for the age of a carpet, rather than for any damage to it, seems to me an arbitrary decision, and not one that is in accordance with the lease. | Bắt người thuê sắp dọn đi trả tiền cho tuổi của tấm thảm, thay vì cho hư hại nào đó, theo tôi là một quyết định tuỳ tiện, và không phù hợp với hợp đồng thuê. |
-| 14 | I accept the third charge, $120 for cleaning, without argument. | Tôi chấp nhận khoản thứ ba, 120 đô-la tiền dọn dẹp, mà không tranh cãi. |
-| 15 | I did my best to leave the apartment in good condition, but I admit that I underestimated the oven, and it is only fair that I should answer for that. | Tôi đã cố hết sức để trả căn hộ trong tình trạng tốt, nhưng tôi thừa nhận mình đã đánh giá thấp cái lò nướng, và việc tôi chịu trách nhiệm cho chuyện đó là hoàn toàn công bằng. |
-| 16 | I would therefore ask you to return the remaining $950 within fourteen days of the date of this letter. | Vì vậy, tôi đề nghị bà hoàn lại 950 đô-la còn lại trong vòng mười bốn ngày kể từ ngày ghi trên thư này. |
-| 17 | I have always found Ridgeway Property Management to be a responsible landlord, and I would much prefer to settle this directly with you. | Tôi luôn thấy Công ty Quản lý Nhà Ridgeway là một bên cho thuê có trách nhiệm, và tôi rất muốn giải quyết chuyện này trực tiếp với bà. |
-| 18 | If that is not possible, I am prepared to bring the matter to small claims court, although I sincerely hope that it will not come to that. | Nếu điều đó không thể, tôi sẵn sàng đưa vụ việc ra toà án khiếu kiện nhỏ, dù tôi thật lòng mong mọi chuyện sẽ không đến mức đó. |
-| 19 | Should you need anything further from me, such as my receipts or the original copy of the checklist, I will be happy to provide it. | Nếu bà cần thêm gì từ tôi, chẳng hạn hoá đơn hay bản gốc của bản kiểm tra, tôi rất sẵn lòng cung cấp. |
-| 20 | Yours sincerely, | Trân trọng, |
-| 21 | Tracy Carter | Tracy Carter |
-| 22 | Attached: twenty-four photographs from the days I moved in and out, and a copy of the signed move-in checklist. | Gửi kèm: hai mươi bốn bức ảnh chụp vào ngày tôi chuyển tới và ngày dọn đi, và bản sao bản kiểm tra lúc nhận nhà đã ký. |
+| 2 | May 26 | Ngày 26 tháng 5 |
+| 3 | Dear Ms. Pierce, | Kính gửi bà Pierce, |
+| 4 | Thank you for your letter of May 20, which included a check for $730 and a list of deductions from my security deposit of $1,800. | Cảm ơn bà về lá thư ngày 20 tháng 5, kèm tấm séc 730 đô-la và danh sách các khoản trừ vào tiền đặt cọc 1.800 đô-la của tôi. |
+| 5 | I would like to say at the outset that I have been happy as your tenant, and that I am raising this only because the amounts are significant to me. | Trước hết tôi muốn nói rằng tôi đã rất hài lòng khi là người thuê nhà của bà, và tôi nêu chuyện này chỉ vì các khoản tiền này đáng kể với tôi. |
+| 6 | However, I believe that two of the three deductions are not justified under the terms of my lease, and I would ask you to review them. | Tuy nhiên, tôi cho rằng hai trong ba khoản trừ không có căn cứ theo các điều khoản của hợp đồng thuê, và tôi xin bà xem xét lại. |
+| 7 | The first is a charge of $650 for repainting the entire apartment. | Khoản thứ nhất là 650 đô-la để sơn lại toàn bộ căn hộ. |
+| 8 | I lived in the apartment for two years, during which I did not paint, hang shelves or make any changes to the walls. | Tôi đã sống ở căn hộ hai năm, trong thời gian đó tôi không sơn, không treo kệ và không thay đổi gì trên tường. |
+| 9 | The marks shown in your photographs, which are mostly light scratches near the doors and the furniture, are the kind that inevitably appear after two years of ordinary use. | Những vết trong ảnh của bà, phần lớn là vết xước nhẹ gần cửa và đồ đạc, là loại vết không thể tránh khỏi sau hai năm sử dụng bình thường. |
+| 10 | Section 12 of the lease states clearly that the tenant is not liable for normal wear and tear, and I do not see how these marks could fall into any other category. | Mục 12 của hợp đồng thuê ghi rõ người thuê không chịu trách nhiệm cho hao mòn thông thường, và tôi không thấy những vết này có thể thuộc loại nào khác. |
+| 11 | The second is a charge of $300 toward replacing the bedroom carpet. | Khoản thứ hai là 300 đô-la góp vào việc thay thảm phòng ngủ. |
+| 12 | The carpet was already worn when I moved in, as the photographs I took on my first day show; I have attached them, along with photographs taken on the day I left, so that you can compare the two sets yourself. | Tấm thảm đã cũ mòn từ khi tôi chuyển tới, như những bức ảnh tôi chụp vào ngày đầu tiên cho thấy; tôi đã gửi kèm chúng, cùng với ảnh chụp vào ngày tôi dọn đi, để bà có thể tự so sánh hai bộ ảnh. |
+| 13 | The move-in checklist, which we both signed, also describes the carpet as worn, with stains near the window, so its condition was recorded from the start. | Bản kiểm tra lúc nhận nhà, mà cả hai chúng ta đã ký, cũng ghi tấm thảm đã cũ, có vết bẩn gần cửa sổ, nên tình trạng của nó đã được ghi lại ngay từ đầu. |
+| 14 | Charging a departing tenant for the age of a carpet, rather than for any damage to it, seems to me an arbitrary decision, and not one that is in accordance with the lease. | Bắt người thuê sắp dọn đi trả tiền cho tuổi của tấm thảm, thay vì cho hư hại nào đó, theo tôi là một quyết định tuỳ tiện, và không phù hợp với hợp đồng thuê. |
+| 15 | I accept the third charge, $120 for cleaning, without argument. | Tôi chấp nhận khoản thứ ba, 120 đô-la tiền dọn dẹp, mà không tranh cãi. |
+| 16 | I did my best to leave the apartment in good condition, but I admit that I underestimated the oven, and it is only fair that I should answer for that. | Tôi đã cố hết sức để trả căn hộ trong tình trạng tốt, nhưng tôi thừa nhận mình đã đánh giá thấp cái lò nướng, và việc tôi chịu trách nhiệm cho chuyện đó là hoàn toàn công bằng. |
+| 17 | I would therefore ask you to return the remaining $950 within fourteen days of the date of this letter. | Vì vậy, tôi đề nghị bà hoàn lại 950 đô-la còn lại trong vòng mười bốn ngày kể từ ngày ghi trên thư này. |
+| 18 | I have always found Ridgeway Property Management to be a responsible landlord, and I would much prefer to settle this directly with you. | Tôi luôn thấy Công ty Quản lý Nhà Ridgeway là một bên cho thuê có trách nhiệm, và tôi rất muốn giải quyết chuyện này trực tiếp với bà. |
+| 19 | If that is not possible, I am prepared to bring the matter to small claims court, although I sincerely hope that it will not come to that. | Nếu điều đó không thể, tôi sẵn sàng đưa vụ việc ra toà án khiếu kiện nhỏ, dù tôi thật lòng mong mọi chuyện sẽ không đến mức đó. |
+| 20 | Should you need anything further from me, such as my receipts or the original copy of the checklist, I will be happy to provide it. | Nếu bà cần thêm gì từ tôi, chẳng hạn hoá đơn hay bản gốc của bản kiểm tra, tôi rất sẵn lòng cung cấp. |
+| 21 | Sincerely, | Trân trọng, |
+| 22 | Tracy Carter | Tracy Carter |
+| 23 | Attached: twenty-four photographs from the days I moved in and out, and a copy of the signed move-in checklist. | Gửi kèm: hai mươi bốn bức ảnh chụp vào ngày tôi chuyển tới và ngày dọn đi, và bản sao bản kiểm tra lúc nhận nhà đã ký. |
 
 ### Câu hỏi
 
 **31. What is the main purpose of Tracy's letter?**
 *(Mục đích chính của lá thư Tracy là gì?)*
 
-- A. to complain about the condition of her new apartment *(để phàn nàn về tình trạng căn hộ mới của cô)*
-- B. to ask the landlord to review two deductions and return part of the deposit *(để đề nghị chủ nhà xem lại hai khoản trừ và hoàn lại một phần tiền cọc)*
+- A. to complain about the condition of the apartment she has just moved into *(để phàn nàn về tình trạng căn hộ cô vừa chuyển tới)*
+- B. to get part of her deposit back *(để lấy lại một phần tiền đặt cọc)*
 - C. to thank the landlord for returning the whole deposit *(để cảm ơn chủ nhà đã hoàn lại toàn bộ tiền cọc)*
 - D. to explain why she had to leave the apartment early *(để giải thích vì sao cô phải dọn đi sớm)*
 
@@ -525,18 +533,18 @@
 **34. What evidence does Tracy give about the carpet?**
 *(Tracy đưa ra bằng chứng gì về tấm thảm?)*
 
-- A. a receipt showing that she paid to have it cleaned *(hoá đơn cho thấy cô đã trả tiền giặt thảm)*
+- A. a receipt showing that she paid a company to have the carpet cleaned before she left *(hoá đơn cho thấy cô đã thuê một công ty giặt thảm trước khi dọn đi)*
 - B. a statement from a neighbor who saw the carpet *(lời khai của một hàng xóm từng thấy tấm thảm)*
-- C. photographs from her first and last days, and a signed checklist describing it as worn *(ảnh chụp ngày đầu và ngày cuối, và bản kiểm tra đã ký ghi nó đã cũ)*
+- C. first- and last-day photos, plus a checklist *(ảnh chụp ngày đầu và ngày cuối, kèm bảng kiểm)*
 - D. a report from a carpet company about its age *(báo cáo của một công ty thảm về tuổi của nó)*
 
 **35. Why does Tracy describe the carpet charge as "an arbitrary decision"?**
 *(Vì sao Tracy gọi khoản trừ tiền thảm là "một quyết định tuỳ tiện"?)*
 
 - A. The landlord did not tell her the exact price of the new carpet. *(Chủ nhà không cho cô biết giá chính xác của tấm thảm mới.)*
-- B. The carpet was replaced before she moved in. *(Tấm thảm đã được thay trước khi cô chuyển tới.)*
+- B. The carpet had already been replaced before she moved in. *(Thảm đã được thay trước khi cô dọn đến.)*
 - C. The lease does not mention carpets at all. *(Hợp đồng thuê hoàn toàn không nhắc tới thảm.)*
-- D. The charge is based on the carpet's age rather than on any damage she caused. *(Khoản trừ dựa vào tuổi của tấm thảm chứ không dựa vào hư hại nào do cô gây ra.)*
+- D. The charge is for age, not for damage she caused. *(Khoản phí là vì tuổi thảm, không phải vì hư hại cô gây ra.)*
 
 **36. Why does Tracy accept the cleaning charge?**
 *(Vì sao Tracy chấp nhận khoản tiền dọn dẹp?)*
@@ -549,10 +557,10 @@
 **37. How does accepting the cleaning charge help Tracy's argument?**
 *(Việc chấp nhận khoản tiền dọn dẹp giúp gì cho lập luận của Tracy?)*
 
-- A. It shows she is being fair, which makes her other objections more convincing. *(Nó cho thấy cô công bằng, khiến các phản đối còn lại thuyết phục hơn.)*
-- B. It means the landlord must return the whole deposit. *(Nó buộc chủ nhà phải hoàn lại toàn bộ tiền cọc.)*
+- A. It shows she is fair, which makes her other objections more convincing. *(Nó cho thấy cô công bằng, khiến các phản đối còn lại thuyết phục hơn.)*
+- B. It means the landlord must now return the whole deposit, including the cleaning fee. *(Nó buộc chủ nhà giờ phải hoàn lại toàn bộ tiền cọc, kể cả tiền dọn dẹp.)*
 - C. It proves that the carpet was damaged by the cleaners. *(Nó chứng minh tấm thảm bị thợ dọn làm hỏng.)*
-- D. It allows her to avoid going to small claims court. *(Nó giúp cô chắc chắn tránh được việc ra toà khiếu kiện nhỏ.)*
+- D. It allows her to avoid going to small claims court. *(Nó giúp cô tránh được việc ra toà khiếu kiện nhỏ.)*
 
 **38. How much money does Tracy ask the landlord to return?**
 *(Tracy đề nghị chủ nhà hoàn lại bao nhiêu tiền?)*
@@ -606,7 +614,7 @@
 | 6 | Dimorphos is a small asteroid, about 150 meters across, that orbits a bigger one called Didymos once every eleven hours and fifty-five minutes. | Dimorphos là một tiểu hành tinh nhỏ, đường kính khoảng 150 mét, quay quanh một tiểu hành tinh lớn hơn tên Didymos cứ mười một giờ năm mươi lăm phút một vòng. |
 | 7 | Neither of them posed any danger to Earth, which made them ideal for an experiment. | Cả hai đều không gây nguy hiểm gì cho Trái Đất, điều đó khiến chúng lý tưởng cho một thí nghiệm. |
 | 8 | More importantly, because Dimorphos travels around its partner, even a tiny change in its speed would show up as a change in the time it takes to complete each orbit, and that change could be measured with great precision by telescopes on the ground. | Quan trọng hơn, vì Dimorphos quay quanh bạn đồng hành của nó, chỉ một thay đổi rất nhỏ về tốc độ cũng sẽ hiện ra thành thay đổi về thời gian hoàn thành mỗi vòng quỹ đạo, và thay đổi đó có thể được kính thiên văn trên mặt đất đo với độ chính xác cao. |
-| 9 | Before the impact, the team said that reducing the orbit time by just seventy-three seconds would count as a success. | Trước cú va chạm, nhóm nghiên cứu nói rằng chỉ cần rút ngắn quỹ đạo bảy mươi ba giây là đã được tính là thành công. |
+| 9 | Before the impact, the team said that reducing the orbit time by just seventy-three seconds would count as a success. | Trước cú va chạm, nhóm nghiên cứu nói rằng chỉ cần rút ngắn chu kỳ quỹ đạo bảy mươi ba giây là đã được tính là thành công. |
 | 10 | The actual result was about thirty-two minutes, a change so large that it surprised even some of the scientists who had designed the mission. | Kết quả thực tế là khoảng ba mươi hai phút, một thay đổi lớn tới mức khiến cả một số nhà khoa học thiết kế sứ mệnh cũng bất ngờ. |
 | 11 | Part of the explanation lies in what happened after the spacecraft hit. | Một phần lời giải thích nằm ở những gì xảy ra sau khi tàu va vào. |
 | 12 | The collision threw an enormous cloud of rock and dust into space, and as that material flew off in one direction, it pushed the asteroid in the other, much as a skater who throws a heavy ball forward is pushed backward. | Cú va chạm hất một đám mây đá và bụi khổng lồ vào không gian, và khi chỗ vật chất ấy bay về một hướng, nó đẩy tiểu hành tinh về hướng ngược lại, giống như một người trượt băng ném một quả bóng nặng về phía trước thì bị đẩy lùi về sau. |
@@ -617,7 +625,7 @@
 | 17 | Dimorphos turned out to be the second kind, and scientists still do not know the extent to which the result can be applied to other asteroids. | Dimorphos hoá ra thuộc loại thứ hai, và các nhà khoa học vẫn chưa biết kết quả này áp dụng được cho các tiểu hành tinh khác tới mức nào. |
 | 18 | To find out more, the European Space Agency launched a spacecraft called Hera in 2024 to examine the results of the impact up close. | Để tìm hiểu thêm, Cơ quan Vũ trụ châu Âu đã phóng một tàu vũ trụ tên Hera vào năm 2024 để xem xét tận nơi kết quả của cú va chạm. |
 | 19 | Above all, the method depends on whether we see a threat early enough. | Trên hết, phương pháp này phụ thuộc vào việc liệu ta có phát hiện mối đe doạ đủ sớm hay không. |
-| 20 | A small push changes an asteroid's path only slightly, so it must be applied years, preferably decades, before the expected collision for that small change to grow into a safe miss. | Một cú đẩy nhỏ chỉ làm đường đi của tiểu hành tinh thay đổi chút ít, nên nó phải được thực hiện nhiều năm, tốt nhất là nhiều thập kỷ, trước cú va chạm dự kiến để thay đổi nhỏ ấy lớn dần thành một lần trượt qua an toàn. |
+| 20 | A small push changes an asteroid's path only slightly, so it must be applied years, preferably decades, before the expected collision for that small change to grow into a safe miss. | Một cú đẩy nhỏ chỉ làm đường đi của tiểu hành tinh thay đổi chút ít, nên nó phải được thực hiện nhiều năm, tốt nhất là nhiều thập kỷ, trước cú va chạm dự kiến để độ lệch nhỏ ấy kịp lớn dần, đủ cho tiểu hành tinh bay sượt qua an toàn. |
 | 21 | Detection, rather than the push itself, is therefore the real challenge, so much so that space agencies are now building telescopes designed specifically to search for asteroids that no one has yet seen. | Vì vậy, phát hiện, chứ không phải bản thân cú đẩy, mới là thách thức thật sự, đến mức các cơ quan vũ trụ hiện đang chế tạo những kính thiên văn được thiết kế riêng để tìm các tiểu hành tinh chưa ai từng thấy. |
 | 22 | Insofar as DART proved that we can change the path of an object in space, it was a remarkable success; whether we will ever need to do so is a question that only better searching can answer. | Xét ở chỗ DART đã chứng minh chúng ta có thể thay đổi đường đi của một vật thể trong không gian, đó là một thành công đáng kể; còn liệu ta có bao giờ cần làm vậy hay không là câu hỏi chỉ việc tìm kiếm tốt hơn mới trả lời được. |
 
@@ -634,8 +642,8 @@
 **42. According to the article, why was Dimorphos an especially good target?**
 *(Theo bài, vì sao Dimorphos là mục tiêu đặc biệt phù hợp?)*
 
-- A. Because it was heading toward Earth and had to be stopped. *(Vì nó đang lao về phía Trái Đất và phải bị chặn lại.)*
-- B. Because it orbits another asteroid, a small change in its speed could be measured from Earth. *(Vì nó quay quanh một tiểu hành tinh khác, một thay đổi nhỏ về tốc độ có thể đo được từ Trái Đất.)*
+- A. Because it was heading toward Earth and had to be stopped before it arrived. *(Vì nó đang lao về phía Trái Đất và phải bị chặn lại trước khi tới nơi.)*
+- B. Because it orbits a partner, even tiny changes in its speed could be measured. *(Vì nó quay quanh một tiểu hành tinh khác nên thay đổi rất nhỏ về tốc độ cũng đo được.)*
 - C. Because it was the biggest asteroid near Earth. *(Vì nó là tiểu hành tinh lớn nhất gần Trái Đất.)*
 - D. Because it was made of solid rock that would not break. *(Vì nó làm bằng đá liền, không vỡ.)*
 
@@ -651,8 +659,8 @@
 *(Theo bài, vì sao tiểu hành tinh nhận được nhiều động lượng hơn mức chỉ riêng con tàu có thể truyền?)*
 
 - A. The bigger asteroid pulled it with its gravity. *(Tiểu hành tinh lớn hơn kéo nó bằng lực hấp dẫn.)*
-- B. The spacecraft fired its engines after the collision. *(Con tàu khởi động động cơ sau cú va chạm.)*
-- C. The rock and dust thrown off by the collision pushed it in the opposite direction. *(Đá và bụi bị cú va chạm hất ra đã đẩy nó theo hướng ngược lại.)*
+- B. The spacecraft fired its engines just after the collision to add extra force. *(Con tàu khởi động động cơ ngay sau cú va chạm để thêm lực.)*
+- C. Material thrown off by the impact pushed it the other way. *(Vật chất bị cú va chạm hất ra đã đẩy nó theo hướng ngược lại.)*
 - D. Telescopes on the ground changed its path. *(Kính thiên văn trên mặt đất đã đổi đường đi của nó.)*
 
 **45. Why does the writer mention a skater throwing a heavy ball?**
@@ -675,9 +683,9 @@
 *(Vì sao các nhà khoa học chưa chắc kết quả của DART áp dụng được cho các tiểu hành tinh khác?)*
 
 - A. The spacecraft was destroyed before it could send any data. *(Con tàu bị phá huỷ trước khi gửi được dữ liệu.)*
-- B. Asteroids differ in structure, and Dimorphos was a loose pile of stones. *(Các tiểu hành tinh khác nhau về cấu trúc, và Dimorphos là một đống đá rời.)*
+- B. Asteroids differ, and Dimorphos was a loose rubble pile. *(Các tiểu hành tinh khác nhau, và Dimorphos là một đống đá rời.)*
 - C. Other asteroids are too far away to be reached. *(Các tiểu hành tinh khác quá xa để tới được.)*
-- D. The European Space Agency disagreed with NASA's measurements. *(Cơ quan Vũ trụ châu Âu không đồng ý với các phép đo của NASA.)*
+- D. The European Space Agency disagreed with NASA's measurements of the orbit change. *(Cơ quan Vũ trụ châu Âu không đồng ý với các phép đo thay đổi quỹ đạo của NASA.)*
 
 **48. According to the writer, what is the real challenge in protecting Earth from asteroids?**
 *(Theo người viết, thách thức thật sự trong việc bảo vệ Trái Đất khỏi tiểu hành tinh là gì?)*
@@ -692,13 +700,13 @@
 
 - A. Spacecraft take decades to travel to most asteroids. *(Tàu vũ trụ mất hàng chục năm mới tới được phần lớn tiểu hành tinh.)*
 - B. Scientists need decades to design each new mission. *(Các nhà khoa học cần hàng chục năm để thiết kế mỗi sứ mệnh mới.)*
-- C. Asteroids move more slowly as they approach Earth. *(Tiểu hành tinh di chuyển chậm hơn khi tới gần Trái Đất.)*
-- D. A small change in path needs a long time to become large enough to avoid Earth. *(Một thay đổi nhỏ về đường đi cần nhiều thời gian mới đủ lớn để tránh được Trái Đất.)*
+- C. Asteroids slow down as they approach Earth, which makes a late push far less effective. *(Tiểu hành tinh chậm lại khi tới gần Trái Đất, nên một cú đẩy muộn kém hiệu quả hơn nhiều.)*
+- D. A small change takes years to grow large enough. *(Một thay đổi nhỏ cần nhiều năm mới lớn đủ.)*
 
 **50. Which best describes the writer's overall view of DART?**
 *(Câu nào mô tả đúng nhất quan điểm chung của người viết về DART?)*
 
-- A. It was a real success, but it does not mean the problem of asteroids is solved. *(Đó là thành công thật sự, nhưng không có nghĩa vấn đề tiểu hành tinh đã được giải quyết.)*
+- A. It was a real success, but the asteroid problem is not solved. *(Đó là thành công thật sự, nhưng vấn đề tiểu hành tinh chưa được giải quyết.)*
 - B. It was an expensive failure that taught scientists very little. *(Đó là một thất bại tốn kém chẳng dạy được các nhà khoa học bao nhiêu.)*
 - C. It proved that Earth is now completely safe from asteroids. *(Nó chứng minh Trái Đất giờ hoàn toàn an toàn trước tiểu hành tinh.)*
 - D. It was less important than the computer simulations before it. *(Nó kém quan trọng hơn các mô phỏng máy tính trước đó.)*
@@ -717,7 +725,7 @@
 >
 > The most famous result came from just one of the twelve populations. Around generation 31,500, its bacteria evolved the ability to feed on a substance called citrate, which had been present in the bottles from the start but which E. coli normally cannot use when oxygen is available. The change was so unusual that the researchers first suspected contamination, and only subsequently confirmed that the new variant had genuinely evolved from the original population. Because the frozen samples allowed them to replay history, they then grew earlier generations of that population again and again to see whether the ability would appear a second time. It did, but only when they started from samples taken after a certain point, which showed that the change depended on earlier mutations that had appeared by chance and had no obvious effect at the time.
 >
-> This finding goes to the heart of an old debate in evolutionary biology about the extent to which history matters. If evolution were entirely predictable, all twelve populations should have found the same solutions; if it were entirely random, they should have little in common. The bottles suggest something in between: the populations improved in broadly similar ways, while rare events, which depend partially on luck and partially on what came before, sent one of them down a path that the others never took.
+> This finding goes to the heart of an old debate in evolutionary biology about the extent to which history matters. If evolution were entirely predictable, all twelve populations should have found the same solutions; if it were entirely random, they should have little in common. The bottles suggest something in between: the populations improved in broadly similar ways, while rare events, which depend partly on luck and partly on what came before, sent one of them down a path that the others never took.
 >
 > In 2022, Lenski passed the experiment to a former member of his team, who has continued it ever since, and the bacteria are expected to outlive the careers of everyone who has worked on them. The experiment is a reminder that some of the most important questions in science can only be answered by people who are willing to wait.
 
@@ -743,7 +751,7 @@
 | 16 | It did, but only when they started from samples taken after a certain point, which showed that the change depended on earlier mutations that had appeared by chance and had no obvious effect at the time. | Nó có xuất hiện, nhưng chỉ khi họ bắt đầu từ các mẫu lấy sau một thời điểm nhất định, điều đó cho thấy thay đổi này phụ thuộc vào những đột biến trước đó vốn xuất hiện ngẫu nhiên và lúc ấy chẳng có tác dụng gì rõ rệt. |
 | 17 | This finding goes to the heart of an old debate in evolutionary biology about the extent to which history matters. | Phát hiện này chạm tới cốt lõi của một cuộc tranh luận lâu đời trong sinh học tiến hoá về chuyện lịch sử quan trọng tới mức nào. |
 | 18 | If evolution were entirely predictable, all twelve populations should have found the same solutions; if it were entirely random, they should have little in common. | Nếu tiến hoá hoàn toàn có thể dự đoán, cả mười hai quần thể lẽ ra đã tìm ra cùng những lời giải; nếu nó hoàn toàn ngẫu nhiên, chúng lẽ ra sẽ có rất ít điểm chung. |
-| 19 | The bottles suggest something in between: the populations improved in broadly similar ways, while rare events, which depend partially on luck and partially on what came before, sent one of them down a path that the others never took. | Những chiếc bình gợi ý một điều ở giữa: các quần thể cải thiện theo những cách nhìn chung giống nhau, trong khi các sự kiện hiếm hoi, phụ thuộc một phần vào may rủi và một phần vào những gì đã xảy ra trước đó, đã đưa một quần thể đi theo con đường mà những quần thể khác chưa bao giờ đi. |
+| 19 | The bottles suggest something in between: the populations improved in broadly similar ways, while rare events, which depend partly on luck and partly on what came before, sent one of them down a path that the others never took. | Những chiếc bình gợi ý một điều ở giữa: các quần thể cải thiện theo những cách nhìn chung giống nhau, trong khi các sự kiện hiếm hoi, phụ thuộc một phần vào may rủi và một phần vào những gì đã xảy ra trước đó, đã đưa một quần thể đi theo con đường mà những quần thể khác chưa bao giờ đi. |
 | 20 | In 2022, Lenski passed the experiment to a former member of his team, who has continued it ever since, and the bacteria are expected to outlive the careers of everyone who has worked on them. | Năm 2022, Lenski trao thí nghiệm cho một cựu thành viên trong nhóm, người vẫn tiếp tục duy trì nó từ đó tới nay, và đám vi khuẩn được dự đoán sẽ tồn tại lâu hơn sự nghiệp của tất cả những ai từng làm việc với chúng. |
 | 21 | The experiment is a reminder that some of the most important questions in science can only be answered by people who are willing to wait. | Thí nghiệm này là lời nhắc rằng một số câu hỏi quan trọng nhất của khoa học chỉ có thể được trả lời bởi những người chịu chờ đợi. |
 
@@ -752,8 +760,8 @@
 **51. Why does the writer begin by describing evolution as "too slow to watch"?**
 *(Vì sao người viết mở đầu bằng việc mô tả tiến hoá là "quá chậm để quan sát"?)*
 
-- A. to argue that evolution cannot be studied scientifically *(để lập luận rằng không thể nghiên cứu tiến hoá một cách khoa học)*
-- B. to set up a contrast with an experiment that makes it possible to observe evolution *(để tạo phép đối lập với một thí nghiệm khiến tiến hoá có thể quan sát được)*
+- A. to argue that evolution cannot be studied scientifically in a laboratory *(để lập luận rằng không thể nghiên cứu tiến hoá một cách khoa học trong phòng thí nghiệm)*
+- B. to set up a contrast with an experiment that lets us watch it *(để tạo phép đối lập với một thí nghiệm cho phép ta quan sát nó)*
 - C. to explain why the experiment has now been stopped *(để giải thích vì sao thí nghiệm giờ đã dừng)*
 - D. to show that bacteria live for thousands of years *(để cho thấy vi khuẩn sống hàng nghìn năm)*
 
@@ -765,35 +773,35 @@
 - C. They reproduce quickly, producing several generations every day. *(Chúng sinh sản nhanh, mỗi ngày tạo ra vài thế hệ.)*
 - D. They can live without any food for many years. *(Chúng có thể sống không cần thức ăn nhiều năm.)*
 
-**53. According to the summary, what makes the frozen samples so valuable?**
-*(Theo bản tóm tắt, điều gì khiến các mẫu đông lạnh quý giá đến vậy?)*
+**53. According to the report, what makes the frozen samples so valuable?**
+*(Theo bài, điều gì khiến các mẫu đông lạnh quý giá đến vậy?)*
 
-- A. They show what the bacteria looked like before 1988. *(Chúng cho thấy vi khuẩn trông thế nào trước năm 1988.)*
+- A. They show what the bacteria looked like long before the experiment began in 1988. *(Chúng cho thấy vi khuẩn trông thế nào từ rất lâu trước khi thí nghiệm bắt đầu năm 1988.)*
 - B. They protect the bottles from contamination. *(Chúng bảo vệ các bình khỏi bị nhiễm bẩn.)*
 - C. They allow the team to skip the daily transfers. *(Chúng giúp nhóm bỏ qua việc chuyển mẫu hằng ngày.)*
-- D. They can be revived, so ancestors and offspring can be compared directly. *(Chúng có thể được hồi sinh, nên tổ tiên và con cháu có thể được so sánh trực tiếp.)*
+- D. They can be revived, so ancestors and offspring can be compared. *(Chúng có thể được hồi sinh, nên tổ tiên và con cháu có thể được so sánh.)*
 
 **54. What surprised researchers about the twelve populations?**
 *(Điều gì về mười hai quần thể khiến các nhà nghiên cứu bất ngờ?)*
 
 - A. They all became worse at living in the bottles. *(Tất cả đều sống kém đi trong bình.)*
 - B. They all developed exactly the same mutations. *(Tất cả đều phát triển cùng những đột biến giống hệt nhau.)*
-- C. Their improvement kept going, although more slowly, instead of stopping. *(Sự cải thiện của chúng tiếp tục, dù chậm hơn, thay vì dừng lại.)*
+- C. Their improvement slowed down but did not stop. *(Sự cải thiện của chúng chậm lại nhưng không dừng.)*
 - D. Their cells became smaller than their ancestor's. *(Tế bào của chúng nhỏ hơn tổ tiên.)*
 
 **55. Why did the researchers first suspect contamination?**
 *(Vì sao ban đầu các nhà nghiên cứu nghi mẫu bị nhiễm bẩn?)*
 
 - A. Citrate had been added to the bottles by mistake. *(Citrate đã bị cho nhầm vào bình.)*
-- B. The bottles had not been cleaned for several years. *(Các bình đã không được rửa nhiều năm.)*
+- B. The bottles had not been cleaned properly for several years before the change. *(Các bình đã không được rửa sạch suốt nhiều năm trước khi có thay đổi.)*
 - C. Other laboratories had reported the same problem. *(Các phòng thí nghiệm khác đã báo cáo cùng vấn đề.)*
-- D. The ability to use citrate was so unusual that it seemed more likely to come from outside. *(Khả năng dùng citrate bất thường tới mức có vẻ dễ đến từ bên ngoài hơn.)*
+- D. The new ability was so unusual it seemed to come from outside. *(Khả năng mới bất thường tới mức có vẻ đến từ bên ngoài.)*
 
 **56. What did the replay experiments show?**
 *(Các thí nghiệm "tua lại" cho thấy điều gì?)*
 
-- A. The new ability depended on earlier chance mutations that had no clear effect at first. *(Khả năng mới phụ thuộc vào những đột biến ngẫu nhiên trước đó vốn ban đầu không có tác dụng rõ.)*
-- B. The new ability appeared in every population that was replayed. *(Khả năng mới xuất hiện ở mọi quần thể được tua lại.)*
+- A. The new ability depended on earlier chance mutations with no clear effect at first. *(Khả năng mới phụ thuộc vào những đột biến ngẫu nhiên trước đó, vốn ban đầu không có tác dụng rõ.)*
+- B. The new ability appeared again in every replay, whichever generation the team started from. *(Khả năng mới lại xuất hiện ở mọi lần tua lại, dù nhóm bắt đầu từ thế hệ nào.)*
 - C. The new ability could never be produced a second time. *(Khả năng mới không bao giờ có thể tạo ra lần thứ hai.)*
 - D. The new ability was caused by the researchers' frozen samples. *(Khả năng mới do chính các mẫu đông lạnh của nhà nghiên cứu gây ra.)*
 
@@ -817,8 +825,8 @@
 *(Trong ngữ cảnh này, "chuyện lịch sử quan trọng tới mức nào" là chỉ điều gì?)*
 
 - A. how long scientists have been studying evolution *(các nhà khoa học đã nghiên cứu tiến hoá bao lâu)*
-- B. how much earlier events in a population's past affect what can happen later *(những sự kiện trước đó trong quá khứ của một quần thể ảnh hưởng tới điều có thể xảy ra về sau nhiều tới đâu)*
-- C. how important it is to record experiments in writing *(việc ghi chép thí nghiệm bằng văn bản quan trọng ra sao)*
+- B. how much a population's past shapes its future *(quá khứ của một quần thể định hình tương lai của nó đến mức nào)*
+- C. how important it is to record each experiment carefully in writing *(việc ghi chép cẩn thận từng thí nghiệm bằng văn bản quan trọng ra sao)*
 - D. how many generations the bacteria have lived through *(vi khuẩn đã trải qua bao nhiêu thế hệ)*
 
 **60. What is the writer's attitude in the final sentence?**
@@ -827,7 +835,7 @@
 - A. admiration for research that requires great patience *(ngưỡng mộ những nghiên cứu đòi hỏi sự kiên nhẫn lớn)*
 - B. worry that the experiment will soon be forgotten *(lo rằng thí nghiệm sẽ sớm bị lãng quên)*
 - C. doubt about whether the experiment was worth the time *(nghi ngờ thí nghiệm có đáng thời gian bỏ ra không)*
-- D. disappointment with scientists who work too slowly *(sốt ruột với các nhà khoa học làm việc quá chậm)*
+- D. disappointment with scientists who work too slowly *(thất vọng với các nhà khoa học làm việc quá chậm)*
 
 ---
 
@@ -871,22 +879,22 @@
 | 22 | **A** | Câu 4: "The amounts involved are usually too small to justify hiring a lawyer, but far too large to simply forget" — chi tiết. Phương án cuối trái với đoạn sau ("the court will not do that for you"). |
 | 23 | **B** | Câu 8: "the judge knows that neither side is a legal expert, and will usually ask questions to help both of you tell your story" — câu suy luận: vì không ai có luật sư, thẩm phán chủ động hỏi, nên người thường cũng theo được. |
 | 24 | **D** | Câu 10: "meaning that they failed to take the care that a reasonable person would have taken" — bài tự định nghĩa từ ngay sau "meaning". |
-| 25 | **C** | Câu 12: "Feeling that you have been treated unfairly, however strongly, is not in itself grounds for a claim" — ba phương án kia đều đủ cả hai điều kiện: bên kia chịu trách nhiệm + chứng minh số tiền mất. |
+| 25 | **C** | Câu 12: "Feeling that you have been treated unfairly, however strongly, is not in itself grounds for a claim" — muốn thắng phải có đủ hai điều: bên kia chịu trách nhiệm pháp lý (vi phạm thoả thuận hoặc cẩu thả) và số tiền mất có bằng chứng ("with evidence rather than estimates"). Ba phương án kia đều có cả hai: thoả thuận bị vi phạm + hoá đơn, cẩu thả + chi phí, điều khoản bị vi phạm + hoá đơn sửa chữa. Riêng cảm giác bị đối xử bất công thì không có điều nào. |
 | 26 | **C** | Câu 13–14: "preparation matters far more than speaking well" — câu suy luận. Các câu sau đều về giấy tờ: mang bản sao, xếp theo thứ tự, đánh dấu điều khoản. Phương án "hire someone" trái với việc luật sư không được đại diện. |
 | 27 | **B** | Câu 16: "Judges hear many cases in a single morning" — câu suy luận về mục đích. Vì thẩm phán xử nhiều vụ, người nói gọn "what was promised, what happened instead and what it cost" sẽ thuyết phục hơn. Bài vẫn khuyên mang giấy tờ, chỉ là phải sắp xếp. |
 | 28 | **B** | Câu 18–19: "winning a judgment is not the same as being paid" — câu sau nói rõ "the court will not do that for you". Quyết định có thể công bố ngay hoặc gửi "a few weeks later", không phải "always… several months". |
 | 29 | **A** | Câu 20: "collecting a judgment is one of the most common reasons people return to our clinic" — câu suy luận: nếu nhiều người quay lại vì việc thu tiền, thì thắng rồi vẫn khó lấy được tiền. |
 | 30 | **D** | Câu 21–22: "try writing a calm, clear letter to the other party explaining what you want and by when" — câu sau giải thích vì sao: lá thư như vậy thường đủ để giải quyết mà không cần ra toà. |
-| 31 | **B** | Câu 5: "I believe that two of the three deductions are not justified under the terms of my lease, and I would ask you to review them" — câu nêu mục đích, và câu gần cuối đòi "the remaining $950". |
-| 32 | **A** | Câu 7–8: "I did not paint, hang shelves or make any changes to the walls" — câu suy luận. Cô loại trừ mọi tác động của mình, để kết luận vết xước là thứ "inevitably appear after two years of ordinary use". |
-| 33 | **B** | Câu 9: "I do not see how these marks could fall into any other category" — "fall into a category" = thuộc vào một loại; Tracy muốn nói vết xước chỉ có thể là "normal wear and tear". |
-| 34 | **C** | Câu 11–12: "as the photographs I took on my first day show" — câu sau thêm bản kiểm tra "which we both signed" ghi thảm "worn, with stains near the window". |
-| 35 | **D** | Câu 13: "Charging a departing tenant for the age of a carpet, rather than for any damage to it, seems to me an arbitrary decision" — câu suy luận: tuỳ tiện vì không dựa trên lý do hợp lệ (hư hại), mà dựa trên việc thảm đã cũ sẵn. |
-| 36 | **C** | Câu 15: "I admit that I underestimated the oven, and it is only fair that I should answer for that" — chi tiết: cô nhận phần lỗi của mình. |
-| 37 | **A** | Câu 14–15: "I accept the third charge, $120 for cleaning, without argument" — câu suy luận về cấu trúc lập luận: nhận phần đúng của bên kia làm người viết trông hợp lý, nên hai khoản bị phản đối có vẻ có căn cứ hơn. |
-| 38 | **C** | Câu 16: "I would therefore ask you to return the remaining $950" — 650 + 300 = 950 đô-la cho hai khoản cô phản đối. 730 đô-la là số đã nhận, 1.070 đô-la là tổng ba khoản trừ. |
-| 39 | **D** | Câu 18: "I am prepared to bring the matter to small claims court, although I sincerely hope that it will not come to that" — thái độ: sẵn sàng nhưng không mong muốn; câu trước cũng nói "I would much prefer to settle this directly". |
-| 40 | **D** | Câu 4, 9, 16: "I have been happy as your tenant" — thư mở bằng lời thiện chí, dẫn đúng điều khoản ("Section 12 of the lease"), nêu con số và hạn cụ thể. Giọng lịch sự mà dứt khoát. |
+| 31 | **B** | Câu 6: "I believe that two of the three deductions are not justified under the terms of my lease, and I would ask you to review them" — câu nêu mục đích, và câu gần cuối đòi "the remaining $950". |
+| 32 | **A** | Câu 8–9: "I did not paint, hang shelves or make any changes to the walls" — câu suy luận. Cô loại trừ mọi tác động của mình, để kết luận vết xước là thứ "inevitably appear after two years of ordinary use". |
+| 33 | **B** | Câu 10: "I do not see how these marks could fall into any other category" — "fall into a category" = thuộc vào một loại; Tracy muốn nói vết xước chỉ có thể là "normal wear and tear". |
+| 34 | **C** | Câu 12–13: "as the photographs I took on my first day show" — câu sau thêm bản kiểm tra "which we both signed" ghi thảm "worn, with stains near the window". |
+| 35 | **D** | Câu 14: "Charging a departing tenant for the age of a carpet, rather than for any damage to it, seems to me an arbitrary decision" — câu suy luận: tuỳ tiện vì không dựa trên lý do hợp lệ (hư hại), mà dựa trên việc thảm đã cũ sẵn. |
+| 36 | **C** | Câu 16: "I admit that I underestimated the oven, and it is only fair that I should answer for that" — chi tiết: cô nhận phần lỗi của mình. |
+| 37 | **A** | Câu 15–16: "I accept the third charge, $120 for cleaning, without argument" — câu suy luận về cấu trúc lập luận: nhận phần đúng của bên kia làm người viết trông hợp lý, nên hai khoản bị phản đối có vẻ có căn cứ hơn. |
+| 38 | **C** | Câu 17: "I would therefore ask you to return the remaining $950" — 650 + 300 = 950 đô-la cho hai khoản cô phản đối. 730 đô-la là số đã nhận, 1.070 đô-la là tổng ba khoản trừ. |
+| 39 | **D** | Câu 19: "I am prepared to bring the matter to small claims court, although I sincerely hope that it will not come to that" — thái độ: sẵn sàng nhưng không mong muốn; câu trước cũng nói "I would much prefer to settle this directly". |
+| 40 | **D** | Câu 5, 10, 17: "I have been happy as your tenant" — thư mở bằng lời thiện chí, dẫn đúng điều khoản ("Section 12 of the lease"), nêu con số và hạn cụ thể. Giọng lịch sự mà dứt khoát. |
 | 41 | **D** | Câu 4: "if a dangerous asteroid were ever found heading toward Earth, could we push it out of the way" — chi tiết: đây là câu hỏi mà sứ mệnh thử thật lần đầu. |
 | 42 | **B** | Câu 8: "even a tiny change in its speed would show up as a change in the time it takes to complete each orbit" — câu mở bằng "More importantly" nêu lý do chính. Phương án "solid rock" trái với đoạn sau (nó là loại đá rời). |
 | 43 | **A** | Câu 9–10: "reducing the orbit time by just seventy-three seconds would count as a success" — câu suy luận: chữ "just" và câu sau ("a change so large that it surprised…") cho thấy kết quả vượt xa mức tối thiểu. |
@@ -902,8 +910,8 @@
 | 53 | **D** | Câu 8: "because these bacteria can be brought back to life, the team has what amounts to a living fossil record" — chi tiết: "ancestors and their offspring can be grown side by side and compared directly". |
 | 54 | **C** | Câu 11: "What surprised researchers was that this improvement did not stop" — chi tiết. Lớn nhanh hơn, tế bào to hơn là kết quả "expected", không phải điều bất ngờ. |
 | 55 | **D** | Câu 14: "The change was so unusual that the researchers first suspected contamination" — câu suy luận: một khả năng mà E. coli "normally cannot use" khiến họ nghĩ tới vi khuẩn lạ lọt vào trước khi nghĩ tới tiến hoá. Citrate có trong bình "from the start", không phải cho nhầm. |
-| 56 | **A** | Câu 16: "the change depended on earlier mutations that had appeared by chance and had no obvious effect at the time" — câu suy luận: khả năng chỉ lặp lại khi bắt đầu từ mẫu "after a certain point". |
+| 56 | **A** | Câu 16: "the change depended on earlier mutations that had appeared by chance and had no obvious effect at the time" — câu suy luận: khả năng chỉ lặp lại khi bắt đầu từ mẫu "after a certain point", nên không phải lần tua lại nào cũng ra. |
 | 57 | **C** | Câu 14: "only subsequently confirmed that the new variant had genuinely evolved" — "subsequently" = sau đó; trình tự là nghi nhiễm bẩn trước ("first suspected"), xác nhận sau. |
-| 58 | **B** | Câu 19: "The bottles suggest something in between" — ý chính: các quần thể cải thiện giống nhau (dự đoán được), nhưng sự kiện hiếm "depend partially on luck and partially on what came before". Phương án cuối trái với đoạn 3. |
+| 58 | **B** | Câu 19: "The bottles suggest something in between" — ý chính: các quần thể cải thiện giống nhau (dự đoán được), nhưng sự kiện hiếm "depend partly on luck and partly on what came before". Phương án cuối trái với đoạn 3. |
 | 59 | **B** | Câu 16–17: "the extent to which history matters" — câu suy luận: "history" ở đây là chuỗi đột biến xảy ra trước đó, đúng như phát hiện ở câu trước (thay đổi "depended on earlier mutations"). |
 | 60 | **A** | Câu 21: "some of the most important questions in science can only be answered by people who are willing to wait" — câu chốt thái độ: trân trọng sự kiên nhẫn đã tạo ra những phát hiện trong bài. |

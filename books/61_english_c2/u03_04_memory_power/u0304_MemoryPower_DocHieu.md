@@ -61,8 +61,9 @@
 | modesty | sự khiêm tốn |
 | incompetence | sự kém cỏi |
 | opium | thuốc phiện |
+| thankfulness | lòng biết ơn |
 
-> 📌 Cụm hay gặp trong bài: *was to have taken* (lẽ ra đã mất (nhưng không)), *turn over in my mind* (trăn trở trong đầu), *I am ashamed to say* (tôi xấu hổ mà nói), *bore no relation to* (chẳng liên quan gì tới), *In hindsight,* (Nhìn lại,), *Had it not been for…* (Nếu không có…), *if not* (dù không), *I would have liked to have been there.* (Tôi những muốn được có mặt ở đó.), *can't afford to* (không đủ sức để), *in return* (đổi lại), *hold … together* (giữ cho … gắn kết), *in hindsight* (nhìn lại), *at best … at worst* (nhẹ nhất thì … nặng nhất thì), *came to nothing* (không đi tới đâu), *held in check* (bị kìm lại), *against their better judgment* (dù lý trí bảo đừng), *not out of virtue but out of incompetence* (không phải vì đức độ mà vì kém cỏi).
+> 📌 Cụm hay gặp trong bài: *was to have taken* (lẽ ra đã mất (nhưng không)), *turn over in my mind* (trăn trở trong đầu), *I am ashamed to say* (tôi xấu hổ mà nói), *bore no relation to* (chẳng liên quan gì tới), *In hindsight,* (Nhìn lại,), *Had it not been for…* (Nếu không có…), *if not* (dù không), *I would have liked to have been there.* (Tôi những muốn được có mặt ở đó.), *can't afford to* (không đủ sức để), *in return* (đổi lại), *hold … together* (giữ cho … gắn kết), *at best … at worst* (nhẹ nhất thì … nặng nhất thì), *came to nothing* (không đi tới đâu), *held in check* (bị kìm lại), *against their better judgment* (dù lý trí bảo đừng), *not out of virtue but out of incompetence* (không phải vì đức độ mà vì kém cỏi).
 
 ---
 
@@ -359,7 +360,7 @@
 | 5 | Hofer named the condition by joining two Greek words, nostos, meaning a return home, and algos, meaning pain, and so the word nostalgia entered the language as a medical diagnosis. | Hofer đặt tên cho chứng bệnh bằng cách ghép hai từ Hy Lạp: nostos, nghĩa là trở về nhà, và algos, nghĩa là nỗi đau, và thế là từ nostalgia bước vào ngôn ngữ như một chẩn đoán y khoa. |
 | 6 | For the next two centuries doctors took it seriously, prescribing leeches, opium or, more reasonably, a journey home. | Trong hai thế kỷ sau đó, các bác sĩ coi nó là chuyện nghiêm túc, kê đơn bằng đỉa hút máu, thuốc phiện, hoặc hợp lý hơn, một chuyến về quê. |
 | 7 | In hindsight it is tempting to chalk such treatments up to the ignorance of the period, but the assumption behind them survived far longer than the leeches did. | Nhìn lại, ta dễ đổ những cách chữa ấy cho sự thiếu hiểu biết của thời đó, nhưng giả định đằng sau chúng còn tồn tại lâu hơn đám đỉa rất nhiều. |
-| 8 | Well into the twentieth century, nostalgia was regarded as a form of melancholy, a sign that the sufferer could not cope with the present, and a nostalgic person was seen at best as sentimental and at worst as unwell. | Mãi tới thế kỷ hai mươi, nỗi hoài niệm vẫn bị coi là một dạng u sầu, dấu hiệu cho thấy người mắc phải không đương đầu nổi với hiện tại, và một người hay hoài niệm thì nhẹ nhất bị xem là uỷ mị, nặng nhất bị xem là có bệnh. |
+| 8 | Well into the twentieth century, nostalgia was regarded as a form of melancholy, a sign that the sufferer could not cope with the present, and a nostalgic person was seen at best as sentimental and at worst as unwell. | Mãi đến tận giữa thế kỷ hai mươi, nỗi hoài niệm vẫn bị coi là một dạng u sầu, dấu hiệu cho thấy người mắc phải không đương đầu nổi với hiện tại, và một người hay hoài niệm thì nhẹ nhất bị xem là uỷ mị, nặng nhất bị xem là có bệnh. |
 | 9 | Only in recent decades has this view begun to wane. | Chỉ trong vài thập kỷ gần đây, quan điểm này mới bắt đầu phai nhạt. |
 | 10 | Much of the credit belongs to a group of psychologists at the University of Southampton in England, among them Constantine Sedikides and Tim Wildschut, who began around the turn of the century to study nostalgia not as a symptom but as an ordinary emotion. | Phần lớn công lao thuộc về một nhóm nhà tâm lý học ở Đại học Southampton tại Anh, trong đó có Constantine Sedikides và Tim Wildschut, những người từ khoảng đầu thế kỷ này bắt đầu nghiên cứu nỗi hoài niệm không phải như một triệu chứng mà như một cảm xúc bình thường. |
 | 11 | When people are asked to recall a nostalgic memory, they usually describe a scene full of other people, such as a birthday, a wedding or a summer vacation, and they tend to come away feeling more connected to others and more confident that their lives have meaning. | Khi được yêu cầu nhớ lại một ký ức hoài niệm, người ta thường tả một khung cảnh đầy người khác, như một bữa sinh nhật, một đám cưới hay một kỳ nghỉ hè, và sau đó họ thường thấy gắn bó với người khác hơn và tin chắc hơn rằng cuộc đời mình có ý nghĩa. |
@@ -380,47 +381,47 @@
 **21. How did Johannes Hofer understand nostalgia?**
 *(Johannes Hofer hiểu nỗi hoài niệm như thế nào?)*
 
-- A. As a medical illness that could seriously harm the people who suffered from it. *(Như một căn bệnh y khoa có thể gây hại nghiêm trọng cho người mắc phải.)*
-- B. As a pleasant feeling shared by most people. *(Như một cảm giác dễ chịu mà phần đông mọi người đều có.)*
-- C. As a habit found only among older people. *(Như một thói quen chỉ thấy ở người cao tuổi.)*
-- D. As an emotion that helped people make friends. *(Như một cảm xúc giúp người ta kết bạn.)*
+- A. As a medical illness that could seriously harm those who suffered from it. *(Như một căn bệnh có thể gây hại nghiêm trọng cho người mắc phải.)*
+- B. As a pleasant feeling that most people share and that does them little real harm. *(Như một cảm giác dễ chịu mà đa số người đều có và hầu như không gây hại gì.)*
+- C. As a weakness of older people who could no longer adapt to a changing world. *(Như một điểm yếu của người già không còn thích nghi nổi với thế giới đổi thay.)*
+- D. As an ordinary emotion that kept people connected to those they had left behind. *(Như một cảm xúc bình thường giúp người ta gắn bó với những người mình để lại phía sau.)*
 
 **22. Where does the word "nostalgia" come from?**
 *(Từ "nostalgia" bắt nguồn từ đâu?)*
 
-- A. From a Swiss word for a disease of young people. *(Từ một từ Thuỵ Sĩ chỉ một căn bệnh của người trẻ.)*
-- B. From the name of the city where Hofer studied. *(Từ tên thành phố nơi Hofer học.)*
+- A. From a Swiss word Hofer heard used for a disease of young people far from home. *(Từ một chữ tiếng Thuỵ Sĩ mà Hofer nghe dùng để gọi căn bệnh của người trẻ xa nhà.)*
+- B. From the name of the Swiss city, Basel, where Hofer studied medicine. *(Từ tên thành phố Basel của Thuỵ Sĩ, nơi Hofer học y.)*
 - C. From two Greek words meaning a return home and pain. *(Từ hai từ Hy Lạp nghĩa là trở về nhà và nỗi đau.)*
 - D. From a Latin word meaning a long journey. *(Từ một từ Latin nghĩa là một chuyến đi dài.)*
 
 **23. What does the writer imply with "the assumption behind them survived far longer than the leeches did"?**
 *(Tác giả ngụ ý gì qua câu "the assumption behind them survived far longer than the leeches did"?)*
 
-- A. Leeches are still used to treat nostalgia today. *(Ngày nay người ta vẫn dùng đỉa để chữa hoài niệm.)*
-- B. Doctors in the past were more intelligent than people think. *(Các bác sĩ thời xưa khôn ngoan hơn người ta nghĩ.)*
+- A. Leeches went on being used to treat nostalgia well into the twentieth century. *(Đỉa vẫn được dùng để chữa hoài niệm cho tới tận giữa thế kỷ hai mươi.)*
+- B. Doctors in the past understood nostalgia far better than we give them credit for. *(Các bác sĩ thời xưa hiểu hoài niệm rõ hơn nhiều so với ta vẫn nghĩ.)*
 - C. The treatments worked better than modern ones. *(Những cách chữa đó hiệu quả hơn cách chữa hiện đại.)*
-- D. The old cures disappeared, but the idea that nostalgia is a problem remained. *(Các cách chữa cũ biến mất, nhưng ý nghĩ rằng hoài niệm là một vấn đề thì vẫn còn.)*
+- D. The cures died out, but the idea that nostalgia was a problem lived on. *(Các cách chữa đã mất đi, nhưng ý cho rằng hoài niệm là một vấn đề thì vẫn còn.)*
 
-**24. How was a nostalgic person seen in the early twentieth century?**
-*(Đầu thế kỷ hai mươi, người hay hoài niệm bị nhìn nhận thế nào?)*
+**24. How was a nostalgic person seen until well into the twentieth century?**
+*(Cho tới tận giữa thế kỷ hai mươi, người hay hoài niệm bị nhìn nhận thế nào?)*
 
-- A. As especially wise about the past. *(Như người đặc biệt hiểu biết về quá khứ.)*
+- A. As especially wise about the past and worth consulting. *(Như người đặc biệt sáng suốt về quá khứ và đáng để hỏi ý kiến.)*
 - B. As sentimental at best, and possibly unwell. *(Nhẹ nhất là uỷ mị, và có khi là có bệnh.)*
-- C. As a useful source for historians. *(Như một nguồn tư liệu hữu ích cho các nhà sử học.)*
+- C. As a useful witness for historians studying earlier times. *(Như một nhân chứng hữu ích cho các nhà sử học nghiên cứu thời trước.)*
 - D. As someone who would soon travel home. *(Như người sắp về quê.)*
 
 **25. What was new about the approach of the Southampton psychologists?**
 *(Cách tiếp cận của các nhà tâm lý học ở Southampton có gì mới?)*
 
-- A. They were the first to use the word "nostalgia". *(Họ là những người đầu tiên dùng từ "nostalgia".)*
-- B. They found a medicine that could cure nostalgia. *(Họ tìm ra một loại thuốc chữa được hoài niệm.)*
-- C. They studied nostalgia as a normal emotion rather than a sign of illness. *(Họ nghiên cứu hoài niệm như một cảm xúc bình thường thay vì dấu hiệu bệnh tật.)*
+- A. They were the first to show that nostalgia could be dangerous to people's health. *(Họ là những người đầu tiên cho thấy hoài niệm có thể nguy hại cho sức khoẻ.)*
+- B. They developed a treatment that could cure nostalgia without sending people home. *(Họ tìm ra cách chữa khỏi hoài niệm mà không cần cho người bệnh về nhà.)*
+- C. They treated nostalgia as an ordinary emotion, not a symptom. *(Họ xem hoài niệm là một cảm xúc bình thường, không phải triệu chứng.)*
 - D. They studied only people who lived far from home. *(Họ chỉ nghiên cứu những người sống xa nhà.)*
 
 **26. Which of these is NOT mentioned as an effect of recalling a nostalgic memory?**
 *(Điều nào sau đây KHÔNG được nhắc tới như tác dụng của việc nhớ lại một ký ức hoài niệm?)*
 
-- A. Feeling more connected to other people. *(Thấy gắn bó với người khác hơn.)*
+- A. Feeling more connected to other people. *(Thấy gắn bó hơn với người khác.)*
 - B. Feeling less interested in meeting new people. *(Thấy ít hứng thú gặp người mới hơn.)*
 - C. Feeling more hopeful about the future. *(Thấy hy vọng hơn về tương lai.)*
 - D. Feeling more sure that life has meaning. *(Thấy chắc chắn hơn rằng cuộc đời có ý nghĩa.)*
@@ -428,7 +429,7 @@
 **27. What does the study about cold days suggest?**
 *(Nghiên cứu về những ngày lạnh gợi ý điều gì?)*
 
-- A. People remember summer more clearly than winter. *(Người ta nhớ mùa hè rõ hơn mùa đông.)*
+- A. People remember summer more than winter. *(Người ta nhớ mùa hè rõ hơn mùa đông.)*
 - B. Lonely people prefer cold weather. *(Người cô đơn thích thời tiết lạnh.)*
 - C. Cold weather makes memories less accurate. *(Thời tiết lạnh làm ký ức kém chính xác.)*
 - D. Nostalgia may give people a feeling of warmth. *(Hoài niệm có thể đem lại cho người ta cảm giác ấm áp.)*
@@ -436,26 +437,26 @@
 **28. According to researchers, which kind of nostalgia does people the most good?**
 *(Theo các nhà nghiên cứu, loại hoài niệm nào tốt nhất cho con người?)*
 
-- A. The kind that looks back on the past with gratitude. *(Loại nhìn lại quá khứ với lòng biết ơn.)*
-- B. The kind that compares the present badly with the past. *(Loại đem hiện tại ra so sánh bất lợi với quá khứ.)*
+- A. The kind that recalls earlier times with thankfulness rather than regret. *(Kiểu nhớ về thời trước với lòng biết ơn chứ không phải nuối tiếc.)*
+- B. The kind that holds up the past as an ideal in order to criticize the present. *(Kiểu tôn quá khứ lên làm lý tưởng để chê bai hiện tại.)*
 - C. The kind that remembers the past in exact detail. *(Loại nhớ quá khứ chính xác tới từng chi tiết.)*
 - D. The kind that is shared on cold days. *(Loại được chia sẻ vào những ngày lạnh.)*
 
 **29. What does the writer mean by calling the remembered past "partly a work of fiction"?**
 *(Tác giả muốn nói gì khi gọi quá khứ trong ký ức là "phần nào là một tác phẩm hư cấu"?)*
 
-- A. Most nostalgic memories are completely invented. *(Phần lớn ký ức hoài niệm hoàn toàn bịa đặt.)*
+- A. Most nostalgic memories turn out, when checked, to have been entirely invented. *(Phần lớn ký ức hoài niệm, khi kiểm tra lại, hoá ra hoàn toàn bịa đặt.)*
 - B. Memory changes events into a neater story, and that is part of its comfort. *(Ký ức nhào nặn sự việc thành một câu chuyện gọn gàng hơn, và đó là một phần sự an ủi của nó.)*
-- C. People enjoy reading novels about the past. *(Người ta thích đọc tiểu thuyết về quá khứ.)*
-- D. Historians should not trust any personal memories. *(Các nhà sử học không nên tin bất kỳ ký ức cá nhân nào.)*
+- C. People prefer to remember the past through stories and novels rather than facts. *(Người ta thích nhớ về quá khứ qua truyện và tiểu thuyết hơn là qua sự kiện thật.)*
+- D. Personal memories are so unreliable that historians should not use them at all. *(Ký ức cá nhân kém tin cậy tới mức các nhà sử học không nên dùng chút nào.)*
 
 **30. What is the "pleasing irony" in the history of the word?**
 *("Sự trớ trêu thú vị" trong lịch sử của từ này là gì?)*
 
-- A. Hofer himself suffered from nostalgia all his life. *(Chính Hofer cũng mắc chứng hoài niệm suốt đời.)*
-- B. The word is now used mainly by doctors. *(Ngày nay từ này chủ yếu do bác sĩ dùng.)*
+- A. Hofer, who named the disease, is now thought to have suffered from it himself. *(Hofer, người đặt tên cho căn bệnh, nay được cho là chính mình cũng mắc nó.)*
+- B. A word coined by a doctor is now used mainly by ordinary people, not by doctors. *(Một chữ do bác sĩ đặt ra nay chủ yếu được người thường dùng, chứ không phải bác sĩ.)*
 - C. A feeling once thought to be deadly is now studied as a source of help. *(Một cảm xúc từng bị coi là chết người nay được nghiên cứu như một nguồn trợ giúp.)*
-- D. Nostalgia is more common among students than older people. *(Hoài niệm phổ biến ở sinh viên hơn ở người cao tuổi.)*
+- D. Nostalgia turns out to be more common among students than among older people. *(Hoài niệm hoá ra phổ biến ở sinh viên hơn là ở người lớn tuổi.)*
 
 ---
 
@@ -465,13 +466,13 @@
 >
 > From The Store on Elm Street, a memoir by Joanna Gallagher
 >
-> For twenty-three years my grandfather and his brother ran a hardware store in a small town in Ohio without speaking a single word to each other. In family legend, which grew more fabled with every telling, the rift began in the spring of 1971 over a delivery of paint. My grandfather, Frank, had ordered forty cans of a green that his brother Walter considered an insult to the store, and by the end of the afternoon a line of tape had been laid down the middle of the floor.
+> For twenty-three years my grandfather and his brother ran a hardware store in a small town in Ohio without speaking a single word to each other. In family legend, which grew more fabled with every telling, the rift began in the spring of 1971 over a delivery of paint. My grandfather, Frank, had ordered forty cans of a green that his brother Leonard considered an insult to the store, and by the end of the afternoon a line of tape had been laid down the middle of the floor.
 >
-> What followed was less a quarrel than a long, silent arrangement. Frank served the customers on the left side of the counter and Walter those on the right, and each kept his own cash register, his own coffee pot and his own opinion of the other. Customers learned the rules quickly, and a man who needed nails from the right side and a hammer from the left simply paid twice and said nothing. Messages between the brothers passed through my mother, who was ten when it began and who spent her teenage years carrying notes across eight feet of floor, a role she later described as "mediation with no pay and no hope of a result." Several attempts at reconciliation came to nothing. A conciliatory Christmas card from Walter was returned without being opened, and when my grandmother seated the brothers together at my parents' wedding, Frank turned to the oldest tactic of all and left before dessert.
+> What followed was less a quarrel than a long, silent arrangement. Frank served the customers on the left side of the counter and Leonard those on the right, and each kept his own cash register, his own coffee pot and his own opinion of the other. Customers learned the rules quickly, and a man who needed nails from the right side and a hammer from the left simply paid twice and said nothing. Messages between the brothers passed through my mother, who was ten when it began and who spent her teenage years carrying notes across eight feet of floor, a role she later described as "mediation with no pay and no hope of a result." Several attempts at reconciliation came to nothing. A conciliatory Christmas card from Leonard was returned without being opened, and when my grandmother seated the brothers together at my parents' wedding, Frank turned to the oldest tactic of all and left before dessert.
 >
-> The arrangement ended only in 1994, when Walter's health failed and the store was sold. It was not until last year, when I began sorting the boxes of papers that my mother had kept in her basement, that I discovered how little I had understood. Among the extant records were the store's account books, kept separately by each brother in his own handwriting, and they tell a story that no one in the family had ever heard.
+> The arrangement ended only in 1994, when Leonard's health failed and the store was sold. It was not until last year, when I began sorting the boxes of papers that my mother had kept in her basement, that I discovered how little I had understood. Among the extant records were the store's account books, kept separately by each brother in his own handwriting, and they tell a story that no one in the family had ever heard.
 >
-> In the winter of 1982, when a large chain store opened on the edge of town and business on Walter's side fell by nearly half, someone began paying his suppliers. The payments appear in Frank's book without explanation, every month for almost two years, under a single word: "Expenses." Three years later, when Frank was ill and could not work for a whole summer, the same thing happens in Walter's book in reverse, under the same word. Neither man, as far as I can tell, ever told the other, and neither ever said thank you.
+> In the winter of 1982, when a large chain store opened on the edge of town and business on Leonard's side fell by nearly half, someone began paying his suppliers. The payments appear in Frank's book without explanation, every month for almost two years, under a single word: "Expenses." Three years later, when Frank was ill and could not work for a whole summer, the same thing appears in Leonard's book in reverse, under the same word. Neither man, as far as I can tell, ever told the other, and neither ever said thank you.
 >
 > I have tried, since then, to reconcile the brothers in my memory with the brothers in the archival record, and I am not sure that it can be done. In hindsight the tape on the floor looks less like a fracture than a strange kind of edifice, a structure that two proud men built so that they could go on caring for each other without ever having to admit it. When I showed my mother the books, she read them for a long time and then said only that it was "exactly like them", which I took to be both a rebuke and a kind of praise. I still do not know who was right about the paint, and I suspect that, by the end, neither of them did either.
 
@@ -481,21 +482,21 @@
 |---|---|---|
 | 1 | Two Brothers, One Counter | Hai anh em, một quầy hàng |
 | 2 | From The Store on Elm Street, a memoir by Joanna Gallagher | Trích The Store on Elm Street (Cửa hàng phố Elm), hồi ký của Joanna Gallagher |
-| 3 | For twenty-three years my grandfather and his brother ran a hardware store in a small town in Ohio without speaking a single word to each other. | Suốt hai mươi ba năm, ông nội tôi và em trai ông điều hành một cửa hàng đồ ngũ kim ở một thị trấn nhỏ bang Ohio mà không nói với nhau một lời nào. |
+| 3 | For twenty-three years my grandfather and his brother ran a hardware store in a small town in Ohio without speaking a single word to each other. | Suốt hai mươi ba năm, ông ngoại tôi và em trai ông điều hành một cửa hàng đồ ngũ kim ở một thị trấn nhỏ bang Ohio mà không nói với nhau một lời nào. |
 | 4 | In family legend, which grew more fabled with every telling, the rift began in the spring of 1971 over a delivery of paint. | Theo truyền thuyết gia đình, vốn mỗi lần kể lại thêm phần huyền thoại, rạn nứt bắt đầu vào mùa xuân năm 1971 vì một chuyến hàng sơn. |
-| 5 | My grandfather, Frank, had ordered forty cans of a green that his brother Walter considered an insult to the store, and by the end of the afternoon a line of tape had been laid down the middle of the floor. | Ông tôi, Frank, đã đặt bốn mươi thùng sơn một màu xanh lá mà em ông, Walter, coi là sỉ nhục cửa hàng, và tới cuối buổi chiều, một vạch băng dính đã được dán chạy dọc giữa sàn. |
+| 5 | My grandfather, Frank, had ordered forty cans of a green that his brother Leonard considered an insult to the store, and by the end of the afternoon a line of tape had been laid down the middle of the floor. | Ông ngoại tôi, Frank, đã đặt bốn mươi thùng sơn một màu xanh lá mà em ông, Leonard, coi là sỉ nhục cửa hàng, và tới cuối buổi chiều, một vạch băng dính đã được dán chạy dọc giữa sàn. |
 | 6 | What followed was less a quarrel than a long, silent arrangement. | Điều xảy ra sau đó không hẳn là một cuộc cãi vã, mà đúng hơn là một thoả thuận dài và im lặng. |
-| 7 | Frank served the customers on the left side of the counter and Walter those on the right, and each kept his own cash register, his own coffee pot and his own opinion of the other. | Frank phục vụ khách ở phía bên trái quầy, còn Walter ở phía bên phải, và mỗi người giữ máy tính tiền riêng, bình cà phê riêng và ý kiến riêng về người kia. |
+| 7 | Frank served the customers on the left side of the counter and Leonard those on the right, and each kept his own cash register, his own coffee pot and his own opinion of the other. | Frank phục vụ khách ở phía bên trái quầy, còn Leonard ở phía bên phải, và mỗi người giữ máy tính tiền riêng, bình cà phê riêng và ý kiến riêng về người kia. |
 | 8 | Customers learned the rules quickly, and a man who needed nails from the right side and a hammer from the left simply paid twice and said nothing. | Khách hàng học luật rất nhanh, và một người cần đinh bên phải và búa bên trái thì cứ việc trả tiền hai lần mà không nói gì. |
 | 9 | Messages between the brothers passed through my mother, who was ten when it began and who spent her teenage years carrying notes across eight feet of floor, a role she later described as "mediation with no pay and no hope of a result." | Lời nhắn giữa hai anh em đi qua mẹ tôi, khi ấy mới mười tuổi, và bà đã trải qua tuổi thiếu niên mang những mẩu giấy qua lại khoảng sàn rộng chừng hai mét rưỡi, một vai trò mà sau này bà gọi là "hoà giải không lương và không hy vọng có kết quả." |
 | 10 | Several attempts at reconciliation came to nothing. | Vài nỗ lực hoà giải đều không đi tới đâu. |
-| 11 | A conciliatory Christmas card from Walter was returned without being opened, and when my grandmother seated the brothers together at my parents' wedding, Frank turned to the oldest tactic of all and left before dessert. | Một tấm thiệp Giáng sinh mang ý làm lành của Walter bị gửi trả lại nguyên phong bì, và khi bà nội xếp hai anh em ngồi cạnh nhau trong đám cưới bố mẹ tôi, Frank dùng chiến thuật lâu đời nhất và bỏ về trước món tráng miệng. |
-| 12 | The arrangement ended only in 1994, when Walter's health failed and the store was sold. | Thoả thuận ấy chỉ chấm dứt vào năm 1994, khi sức khoẻ của Walter suy sụp và cửa hàng bị bán đi. |
+| 11 | A conciliatory Christmas card from Leonard was returned without being opened, and when my grandmother seated the brothers together at my parents' wedding, Frank turned to the oldest tactic of all and left before dessert. | Một tấm thiệp Giáng sinh mang ý làm lành của Leonard bị gửi trả lại nguyên phong bì, và khi bà ngoại xếp hai anh em ngồi cạnh nhau trong đám cưới bố mẹ tôi, Frank dùng chiến thuật lâu đời nhất và bỏ về trước món tráng miệng. |
+| 12 | The arrangement ended only in 1994, when Leonard's health failed and the store was sold. | Thoả thuận ấy chỉ chấm dứt vào năm 1994, khi sức khoẻ của Leonard suy sụp và cửa hàng bị bán đi. |
 | 13 | It was not until last year, when I began sorting the boxes of papers that my mother had kept in her basement, that I discovered how little I had understood. | Mãi tới năm ngoái, khi tôi bắt đầu phân loại những thùng giấy tờ mẹ cất dưới tầng hầm, tôi mới nhận ra mình đã hiểu ít tới mức nào. |
 | 14 | Among the extant records were the store's account books, kept separately by each brother in his own handwriting, and they tell a story that no one in the family had ever heard. | Trong số giấy tờ còn sót lại có những cuốn sổ sách của cửa hàng, mỗi anh em ghi riêng bằng chữ viết tay của mình, và chúng kể một câu chuyện chưa ai trong gia đình từng nghe. |
-| 15 | In the winter of 1982, when a large chain store opened on the edge of town and business on Walter's side fell by nearly half, someone began paying his suppliers. | Vào mùa đông năm 1982, khi một chuỗi cửa hàng lớn mở ở rìa thị trấn và việc buôn bán bên phía Walter giảm gần một nửa, có ai đó bắt đầu trả tiền cho các nhà cung cấp của ông. |
+| 15 | In the winter of 1982, when a large chain store opened on the edge of town and business on Leonard's side fell by nearly half, someone began paying his suppliers. | Vào mùa đông năm 1982, khi một chuỗi cửa hàng lớn mở ở rìa thị trấn và việc buôn bán bên phía Leonard giảm gần một nửa, có ai đó bắt đầu trả tiền cho các nhà cung cấp của ông. |
 | 16 | The payments appear in Frank's book without explanation, every month for almost two years, under a single word: "Expenses." | Các khoản trả ấy xuất hiện trong sổ của Frank mà không có lời giải thích nào, tháng nào cũng có, suốt gần hai năm, dưới một chữ duy nhất: "Chi phí." |
-| 17 | Three years later, when Frank was ill and could not work for a whole summer, the same thing happens in Walter's book in reverse, under the same word. | Ba năm sau, khi Frank ốm và không thể làm việc suốt cả một mùa hè, điều y hệt xảy ra theo chiều ngược lại trong sổ của Walter, dưới cùng một chữ ấy. |
+| 17 | Three years later, when Frank was ill and could not work for a whole summer, the same thing appears in Leonard's book in reverse, under the same word. | Ba năm sau, khi Frank ốm và không thể làm việc suốt cả một mùa hè, điều y hệt xảy ra theo chiều ngược lại trong sổ của Leonard, dưới cùng một chữ ấy. |
 | 18 | Neither man, as far as I can tell, ever told the other, and neither ever said thank you. | Theo những gì tôi biết, chưa ai trong hai người từng nói cho người kia, và cũng chưa ai từng nói lời cảm ơn. |
 | 19 | I have tried, since then, to reconcile the brothers in my memory with the brothers in the archival record, and I am not sure that it can be done. | Từ đó tới nay, tôi đã cố dung hoà hai anh em trong ký ức của mình với hai anh em trong hồ sơ lưu trữ, và tôi không chắc điều đó làm được. |
 | 20 | In hindsight the tape on the floor looks less like a fracture than a strange kind of edifice, a structure that two proud men built so that they could go on caring for each other without ever having to admit it. | Nhìn lại, vạch băng dính trên sàn trông không giống một vết nứt mà giống một kiểu công trình kỳ lạ, một cấu trúc hai người đàn ông kiêu hãnh dựng lên để có thể tiếp tục chăm lo cho nhau mà không bao giờ phải thừa nhận điều đó. |
@@ -507,7 +508,7 @@
 **31. What does the narrator suggest by saying the family legend "grew more fabled with every telling"?**
 *(Người kể ngụ ý gì khi nói truyền thuyết gia đình "mỗi lần kể lại thêm phần huyền thoại"?)*
 
-- A. The story was written down in a famous book. *(Câu chuyện được ghi lại trong một cuốn sách nổi tiếng.)*
+- A. The story was written down in a famous book. *(Câu chuyện được chép lại trong một cuốn sách nổi tiếng.)*
 - B. The family stopped telling the story after 1971. *(Gia đình thôi kể câu chuyện sau năm 1971.)*
 - C. The story was told only on special occasions. *(Câu chuyện chỉ được kể vào những dịp đặc biệt.)*
 - D. The story became more exaggerated as it was repeated. *(Câu chuyện ngày càng bị phóng đại khi được kể đi kể lại.)*
@@ -517,7 +518,7 @@
 
 - A. They chose one brother and refused to buy from the other. *(Họ chọn một người và không chịu mua của người kia.)*
 - B. They paid separately on each side without making any comment. *(Họ trả tiền riêng ở mỗi bên mà không bình luận gì.)*
-- C. They asked the narrator's mother to pay for them. *(Họ nhờ mẹ người kể trả tiền giúp.)*
+- C. They asked the narrator's mother to carry their money to the other side of the store. *(Họ nhờ mẹ người kể mang tiền sang phía bên kia cửa hàng giúp.)*
 - D. They complained until the tape was removed. *(Họ phàn nàn cho tới khi vạch băng dính được gỡ đi.)*
 
 **33. What is the tone of the mother's description of her role, "mediation with no pay and no hope of a result"?**
@@ -525,14 +526,14 @@
 
 - A. Proud and enthusiastic. *(Tự hào và hăng hái.)*
 - B. Angry and accusing. *(Giận dữ và buộc tội.)*
-- C. Dry and wryly humorous. *(Khô khan và hài hước một cách chua chát.)*
+- C. Dry and wryly humorous. *(Tỉnh bơ và hài hước một cách chua chát.)*
 - D. Nervous and uncertain. *(Lo lắng và lưỡng lự.)*
 
-**34. What happened to Walter's Christmas card?**
-*(Chuyện gì đã xảy ra với tấm thiệp Giáng sinh của Walter?)*
+**34. What happened to Leonard's Christmas card?**
+*(Chuyện gì đã xảy ra với tấm thiệp Giáng sinh của Leonard?)*
 
 - A. It was sent back without being opened. *(Nó bị gửi trả lại mà không được mở ra.)*
-- B. It was read aloud at the wedding. *(Nó được đọc to trong đám cưới.)*
+- B. It was read aloud at the wedding. *(Nó được đọc to ở đám cưới.)*
 - C. It was kept in Frank's account book. *(Nó được cất trong sổ sách của Frank.)*
 - D. It led to a short reconciliation. *(Nó dẫn tới một cuộc làm lành ngắn ngủi.)*
 
@@ -548,14 +549,14 @@
 *(Người kể phát hiện điều gì trong các cuốn sổ sách?)*
 
 - A. Each brother had secretly paid the other's bills during a difficult time. *(Mỗi anh em đã lặng lẽ trả nợ giúp người kia trong lúc khó khăn.)*
-- B. Walter had taken money from Frank's side of the store. *(Walter đã lấy tiền bên phía Frank.)*
-- C. The store had lost money every year since 1971. *(Cửa hàng lỗ mỗi năm kể từ 1971.)*
-- D. Frank had planned to sell the store to a chain. *(Frank đã định bán cửa hàng cho một chuỗi.)*
+- B. Leonard had been secretly taking money from Frank's side of the store. *(Leonard đã lén lấy tiền bên phía Frank.)*
+- C. The store had lost money every year from 1971 until it was sold in 1994. *(Cửa hàng thua lỗ năm nào cũng vậy từ 1971 cho tới khi bị bán năm 1994.)*
+- D. Frank had secretly planned to sell the store to the chain that opened in 1982. *(Frank đã lén định bán cửa hàng cho chuỗi cửa hàng mở năm 1982.)*
 
 **37. Why is the single word "Expenses" significant?**
 *(Vì sao chỉ một chữ "Chi phí" lại có ý nghĩa?)*
 
-- A. It shows that the brothers were careless with money. *(Nó cho thấy hai anh em cẩu thả với tiền bạc.)*
+- A. It shows that the brothers kept careless accounts and rarely recorded what money was for. *(Nó cho thấy hai anh em ghi sổ cẩu thả và ít khi ghi tiền dùng vào việc gì.)*
 - B. It was a code that the mother invented. *(Đó là một mật mã do người mẹ nghĩ ra.)*
 - C. It hid an act of kindness that neither brother wanted to admit. *(Nó che giấu một việc tốt mà không ai trong hai anh em muốn thừa nhận.)*
 - D. It proves that the payments were for paint. *(Nó chứng minh các khoản trả là tiền sơn.)*
@@ -563,26 +564,26 @@
 **38. What does the narrator mean by "less like a fracture than a strange kind of edifice"?**
 *(Người kể muốn nói gì qua cụm "less like a fracture than a strange kind of edifice"?)*
 
-- A. The tape on the floor had damaged the building. *(Vạch băng dính đã làm hỏng toà nhà.)*
-- B. The division was a structure that let the brothers care for each other without admitting it. *(Sự chia cắt là một cấu trúc giúp hai anh em chăm lo cho nhau mà không phải thừa nhận.)*
-- C. The brothers had planned to build a second store. *(Hai anh em đã định xây một cửa hàng thứ hai.)*
-- D. The quarrel was more serious than the family believed. *(Cuộc cãi vã nghiêm trọng hơn gia đình vẫn tưởng.)*
+- A. The tape had divided the store, and the family, far more deeply than anyone realized. *(Vạch băng dính đã chia rẽ cửa hàng, và cả gia đình, sâu sắc hơn nhiều so với ai cũng tưởng.)*
+- B. The division was a structure that let the brothers care for each other secretly. *(Sự chia đôi ấy là một công trình giúp hai anh em âm thầm lo cho nhau.)*
+- C. The brothers had secretly planned to build a second, separate store of their own. *(Hai anh em đã lén định xây một cửa hàng thứ hai, riêng biệt.)*
+- D. The quarrel had been far more bitter and serious than the family legend suggested. *(Cuộc cãi vã gay gắt và nghiêm trọng hơn nhiều so với giai thoại gia đình kể.)*
 
 **39. How did the narrator understand her mother's comment, "exactly like them"?**
 *(Người kể hiểu câu nhận xét "đúng là họ" của mẹ mình thế nào?)*
 
 - A. As both criticism of their pride and appreciation of their loyalty. *(Vừa là lời chê sự kiêu hãnh của họ vừa là sự trân trọng lòng trung thành của họ.)*
-- B. As proof that her mother had known about the payments. *(Như bằng chứng rằng mẹ cô đã biết về các khoản trả.)*
+- B. As proof that her mother knew about the payments. *(Như bằng chứng rằng mẹ cô đã biết về các khoản trả.)*
 - C. As a sign that her mother did not care about the story. *(Như dấu hiệu rằng mẹ cô không quan tâm tới câu chuyện.)*
 - D. As an attempt to change the subject. *(Như một cố gắng lảng sang chuyện khác.)*
 
 **40. Which statement best expresses the main idea of the passage?**
 *(Câu nào diễn đạt đúng nhất ý chính của bài?)*
 
-- A. Family businesses usually fail because of quarrels. *(Cửa hàng gia đình thường thất bại vì cãi vã.)*
-- B. Children should not be asked to carry messages. *(Không nên bắt trẻ con chuyển lời nhắn.)*
-- C. Chain stores destroyed most small towns in Ohio. *(Các chuỗi cửa hàng đã phá huỷ phần lớn thị trấn nhỏ ở Ohio.)*
-- D. Old records can reveal a hidden side of a family story that memory had missed. *(Hồ sơ cũ có thể hé lộ một mặt khuất của câu chuyện gia đình mà ký ức đã bỏ sót.)*
+- A. Family businesses rarely survive when the people running them refuse to speak to each other. *(Cơ nghiệp gia đình hiếm khi trụ được khi những người điều hành không chịu nói chuyện với nhau.)*
+- B. Children should never be made to carry messages between quarreling adults. *(Không bao giờ nên bắt trẻ con đưa tin giữa những người lớn đang giận nhau.)*
+- C. Chain stores did more damage to small-town families than any private quarrel ever could. *(Chuỗi cửa hàng gây hại cho các gia đình ở thị trấn nhỏ nhiều hơn bất kỳ mối bất hoà riêng nào.)*
+- D. Old records can reveal a side of a family story that memory missed. *(Hồ sơ cũ có thể hé lộ một mặt của câu chuyện gia đình mà ký ức đã bỏ sót.)*
 
 ---
 
@@ -619,7 +620,7 @@
 | 11 | Some participants were asked to recall a time when they had held power over someone, others a time when someone had held power over them, and all were then asked to draw a capital letter E on their own foreheads. | Một số người tham gia được yêu cầu nhớ lại một lần họ nắm quyền đối với ai đó, số khác nhớ lại một lần ai đó nắm quyền đối với họ, rồi tất cả được yêu cầu vẽ một chữ E in hoa lên trán mình. |
 | 12 | Those in the high-power group were almost three times as likely to draw the letter so that it read correctly to themselves and backwards to anyone looking at them. | Những người ở nhóm có quyền lực cao có khả năng vẽ chữ theo chiều đọc đúng với chính mình và bị ngược đối với bất kỳ ai nhìn vào họ cao gần gấp ba lần. |
 | 13 | The researchers saw this as a small sign of a large problem, since power seems to hamper our ability to see things from another person's point of view. | Các nhà nghiên cứu coi đây là một dấu hiệu nhỏ của một vấn đề lớn, vì quyền lực dường như cản trở khả năng nhìn sự việc từ góc nhìn của người khác. |
-| 14 | It would be easy to stop there, but the picture begins to unravel when one looks more closely. | Dừng lại ở đó thì dễ, nhưng bức tranh bắt đầu rối ra khi ta nhìn kỹ hơn. |
+| 14 | It would be easy to stop there, but the picture begins to unravel when one looks more closely. | Dừng lại ở đó thì dễ, nhưng bức tranh bắt đầu không còn gọn gàng như thế khi ta nhìn kỹ hơn. |
 | 15 | In 2001 the psychologist Serena Chen and her colleagues found that power did not affect everyone in the same way. | Năm 2001, nhà tâm lý học Serena Chen và cộng sự phát hiện rằng quyền lực không tác động tới mọi người theo cùng một cách. |
 | 16 | People who thought of their relationships mainly in terms of caring for others became more generous, not less, when they were given authority, whereas those focused on their own interests became more selfish. | Những người nghĩ về các mối quan hệ của mình chủ yếu theo hướng chăm lo cho người khác thì trở nên rộng rãi hơn, chứ không phải kém đi, khi được trao quyền, còn những người chỉ chú tâm tới lợi ích riêng thì trở nên ích kỷ hơn. |
 | 17 | Power, on this account, does not so much corrupt people as release them, revealing intentions that were already there but had been held in check. | Theo cách giải thích này, quyền lực không hẳn làm con người tha hoá mà đúng hơn là giải phóng họ, làm lộ ra những ý định vốn đã có sẵn nhưng từng bị kìm lại. |
@@ -643,47 +644,47 @@
 *(Trong nghiên cứu bánh quy của Keltner, ai có khả năng lấy chiếc bánh thứ tư nhất?)*
 
 - A. The student who had been randomly given the role of judge. *(Sinh viên được giao ngẫu nhiên vai trò người đánh giá.)*
-- B. The student who had proposed the best ideas. *(Sinh viên đưa ra ý kiến hay nhất.)*
+- B. The student who had proposed the most popular ideas. *(Người sinh viên có đề xuất được ưa thích nhất.)*
 - C. The student who arrived at the group last. *(Sinh viên tới nhóm sau cùng.)*
 - D. The student who had eaten nothing that day. *(Sinh viên chưa ăn gì trong ngày.)*
 
 **43. Why does the writer stress that the role was "assigned by chance"?**
 *(Vì sao tác giả nhấn mạnh rằng vai trò được "giao ngẫu nhiên"?)*
 
-- A. To suggest that the study was badly organized. *(Để gợi ý rằng nghiên cứu được tổ chức kém.)*
-- B. To show that the behavior came from the role, not from the students' personalities. *(Để cho thấy hành vi xuất phát từ vai trò, chứ không phải từ tính cách của sinh viên.)*
-- C. To explain why some groups had more cookies than others. *(Để giải thích vì sao có nhóm nhiều bánh hơn nhóm khác.)*
+- A. To suggest that the study was badly organized, since roles should be earned, not given. *(Để ngụ ý nghiên cứu được tổ chức kém, vì vai trò phải do tự giành được chứ không phải được trao.)*
+- B. To show that the behavior came from the role, not the students' characters. *(Để cho thấy hành vi ấy đến từ vai trò, chứ không phải từ tính cách của sinh viên.)*
+- C. To explain why some groups ended up with more cookies than others did. *(Để giải thích vì sao có nhóm được nhiều bánh hơn nhóm khác.)*
 - D. To show that the students already knew one another. *(Để cho thấy các sinh viên đã quen nhau từ trước.)*
 
 **44. What did people in the high-power group tend to do in Galinsky's study?**
 *(Trong nghiên cứu của Galinsky, những người ở nhóm có quyền lực cao có xu hướng làm gì?)*
 
-- A. Refuse to draw anything on their foreheads. *(Từ chối vẽ bất cứ thứ gì lên trán.)*
-- B. Draw the letter more carefully than the others. *(Vẽ chữ cẩn thận hơn những người khác.)*
-- C. Ask another participant to draw the letter for them. *(Nhờ một người tham gia khác vẽ chữ giúp.)*
+- A. Refuse to draw on their foreheads, since they considered the task beneath them. *(Từ chối vẽ lên trán, vì cho rằng việc ấy không xứng với mình.)*
+- B. Draw the letter more carefully and neatly than those in the low-power group. *(Vẽ chữ cẩn thận và gọn gàng hơn những người ở nhóm ít quyền.)*
+- C. Draw the letter so that anyone facing them could read it the right way round. *(Vẽ chữ sao cho người đối diện đọc được đúng chiều.)*
 - D. Draw the letter so that it was correct from their own point of view only. *(Vẽ chữ sao cho nó chỉ đúng khi nhìn từ góc của chính họ.)*
 
 **45. How did the researchers interpret the results of the letter test?**
 *(Các nhà nghiên cứu lý giải kết quả bài kiểm tra vẽ chữ thế nào?)*
 
-- A. Powerful people are generally worse at writing. *(Người có quyền lực nhìn chung viết kém hơn.)*
+- A. Powerful people are generally less skilled at writing and drawing. *(Người có quyền nhìn chung viết và vẽ kém hơn.)*
 - B. Power appears to reduce people's ability to take other perspectives. *(Quyền lực dường như làm giảm khả năng nhìn từ góc độ người khác.)*
 - C. Power makes people more careful about details. *(Quyền lực khiến người ta cẩn thận hơn với chi tiết.)*
-- D. Remembering the past changes people's handwriting. *(Nhớ lại quá khứ làm thay đổi chữ viết tay.)*
+- D. Remembering a time of power makes people more careful about their own appearance. *(Nhớ lại lúc có quyền khiến người ta chăm chút vẻ ngoài của mình hơn.)*
 
 **46. What does "the picture begins to unravel" mean in the passage?**
 *("The picture begins to unravel" trong bài có nghĩa là gì?)*
 
-- A. The earlier studies are shown to be completely false. *(Các nghiên cứu trước bị chứng minh là hoàn toàn sai.)*
+- A. The earlier studies are shown to be completely false. *(Các nghiên cứu trước bị chứng minh là sai hoàn toàn.)*
 - B. The researchers lost some of their data. *(Các nhà nghiên cứu bị mất một phần dữ liệu.)*
-- C. The simple conclusion becomes less clear when more evidence is considered. *(Kết luận đơn giản trở nên kém rõ ràng khi xét thêm bằng chứng.)*
+- C. The simple conclusion gets less clear as more evidence comes in. *(Kết luận đơn giản trở nên kém rõ ràng khi có thêm bằng chứng.)*
 - D. Readers lose interest in the subject. *(Người đọc mất hứng thú với chủ đề.)*
 
 **47. What did Serena Chen and her colleagues find?**
 *(Serena Chen và cộng sự đã phát hiện điều gì?)*
 
 - A. Power made caring people kinder and self-focused people more selfish. *(Quyền lực khiến người biết quan tâm tử tế hơn và người chỉ nghĩ cho mình ích kỷ hơn.)*
-- B. Power made everyone equally selfish. *(Quyền lực khiến mọi người ích kỷ như nhau.)*
+- B. Power made everyone equally selfish, whatever they were like. *(Quyền lực khiến ai cũng ích kỷ như nhau, bất kể trước đó họ thế nào.)*
 - C. Power had no effect on generous people at all. *(Quyền lực hoàn toàn không tác động tới người rộng lượng.)*
 - D. Only people with authority at work were affected. *(Chỉ những người có chức quyền ở nơi làm việc mới bị ảnh hưởng.)*
 
@@ -698,8 +699,8 @@
 **49. What is the "power paradox" described by Keltner?**
 *("Nghịch lý quyền lực" mà Keltner mô tả là gì?)*
 
-- A. Powerful people always want to give their power away. *(Người có quyền lực luôn muốn trao lại quyền lực.)*
-- B. The qualities that help people gain power are the ones that power later weakens. *(Chính những phẩm chất giúp người ta giành được quyền lực lại là thứ quyền lực về sau làm suy yếu.)*
+- A. Powerful people, once they notice the change in themselves, try to give power away. *(Người có quyền, khi nhận ra sự thay đổi ở mình, tìm cách trao quyền đi.)*
+- B. The qualities that win people power are the ones power later wears down. *(Chính những phẩm chất giúp người ta có quyền lại là thứ quyền lực về sau bào mòn.)*
 - C. People with no power usually behave worse than leaders. *(Người không có quyền lực thường cư xử tệ hơn người lãnh đạo.)*
 - D. Organizations need more rules as they become smaller. *(Các tổ chức càng nhỏ càng cần nhiều quy định hơn.)*
 
@@ -707,9 +708,9 @@
 *(Tác giả đưa ra khuyến nghị cuối cùng nào?)*
 
 - A. Leaders should be replaced every few months. *(Nên thay người lãnh đạo vài tháng một lần.)*
-- B. Organizations should rely only on stringent rules. *(Các tổ chức chỉ nên dựa vào quy định nghiêm ngặt.)*
-- C. Leaders should regularly hear honest views from someone who is not afraid of them. *(Người lãnh đạo nên thường xuyên được nghe ý kiến thẳng thắn từ một người không sợ họ.)*
-- D. Leaders should be chosen by chance, as in the studies. *(Nên chọn người lãnh đạo ngẫu nhiên, như trong các nghiên cứu.)*
+- B. Organizations should rely on stringent rules alone, since they prevent bad behavior best. *(Tổ chức chỉ nên dựa vào luật lệ nghiêm ngặt, vì chúng ngăn hành vi xấu tốt nhất.)*
+- C. Leaders should regularly hear honest views from someone unafraid of them. *(Người lãnh đạo nên thường xuyên nghe ý kiến thật từ một người không sợ họ.)*
+- D. Leaders should be surrounded by people who admire them and keep their confidence high. *(Người lãnh đạo nên được vây quanh bởi những người ngưỡng mộ mình để giữ vững tự tin.)*
 
 ---
 
@@ -719,7 +720,7 @@
 >
 > Nathan Brooks, for the Maple Street Neighbors' Newsletter, April
 >
-> When I became the leader of a small team of software engineers, several people who meant well told me that I would now need to learn the rules of office power that nobody writes down. Nobody could tell me what these rules were, so I have spent two years watching closely, and I offer my findings here as a public service, for the sake of anyone who is about to be promoted against their better judgment.
+> When I became the leader of a small team of software engineers, several people who meant well told me that I would now need to learn the rules of office power that nobody writes down. Nobody could tell me what these rules were, so I have spent almost two years watching closely, and I offer my findings here as a public service, for the sake of anyone who is about to be promoted against their better judgment.
 >
 > The first rule is that no important decision is ever made in the meeting where it is officially made. It is made the day before, over coffee, by the three people who arrived early, and the meeting itself exists so that everyone else can find out what they have already agreed to. The skilled operator never argues in public, but surreptitiously solicits "a quick word" with each person beforehand, so that by the time he speaks, the outcome is no longer in doubt.
 >
@@ -729,16 +730,16 @@
 >
 > The fourth rule is that information is money. Every office has its informant, the friendly colleague who will tell you what is being said about you and will tell others, with equal friendliness, what you said in reply. Gossip of this kind is rife in teams that are insular and anxious, and almost absent in teams where people are told the truth directly, which tells you something about where it comes from.
 >
-> I should admit that I have broken most of these rules, not out of virtue but out of incompetence. I cannot remember who said what before meetings, I mark nothing as urgent because I forget to, and when something goes wrong it is usually, in fact, my fault. Oddly, this has worked rather well, since my team argues with me openly in meetings, which is unnerving and extremely useful. If there is a lesson here, it is perhaps that most office power games are played in self-defense, and that a leader who refuses to play them removes the reason for everyone else to play them too. My mother, who read a draft of this column, says that I have simply described what any good elementary school teacher knows by the age of thirty, and that I could have saved myself two years by asking her.
+> I should admit that I have broken most of these rules, not out of virtue but out of incompetence. I cannot remember who said what before meetings, I mark nothing as urgent because I forget to, and when something goes wrong it is usually, in fact, my fault. Oddly, this has worked rather well, since my team argues with me openly in meetings, which is unnerving and extremely useful. If there is a lesson here, it is perhaps that most office power games are played in self-defense, and that a leader who refuses to play them removes the reason for everyone else to play them too. My mother, who read a draft of this column, says that I have simply described what any good elementary school teacher knows by the age of thirty, and that I could have saved myself almost two years by asking her.
 
 ### Dịch từng câu
 
 | # | Tiếng Anh | Tiếng Việt |
 |---|---|---|
 | 1 | A Field Guide to Office Power | Cẩm nang thực địa về quyền lực chốn văn phòng |
-| 2 | Nathan Brooks, for the Maple Street Neighbors' Newsletter, April | Nathan Brooks, viết cho Bản tin Hàng xóm phố Maple, tháng Tư |
+| 2 | Nathan Brooks, for the Maple Street Neighbors' Newsletter, April | Nathan Brooks, viết cho Bản tin hàng xóm Maple Street, tháng Tư |
 | 3 | When I became the leader of a small team of software engineers, several people who meant well told me that I would now need to learn the rules of office power that nobody writes down. | Khi tôi trở thành trưởng một nhóm kỹ sư phần mềm nhỏ, vài người có ý tốt bảo tôi rằng giờ tôi sẽ phải học những luật bất thành văn của quyền lực chốn văn phòng. |
-| 4 | Nobody could tell me what these rules were, so I have spent two years watching closely, and I offer my findings here as a public service, for the sake of anyone who is about to be promoted against their better judgment. | Không ai nói được cho tôi biết những luật ấy là gì, nên tôi đã dành hai năm quan sát kỹ, và xin trình bày những phát hiện của mình ở đây như một việc công ích, vì lợi ích của bất kỳ ai sắp được thăng chức dù lý trí bảo đừng. |
+| 4 | Nobody could tell me what these rules were, so I have spent almost two years watching closely, and I offer my findings here as a public service, for the sake of anyone who is about to be promoted against their better judgment. | Không ai nói được cho tôi biết những luật ấy là gì, nên tôi đã dành gần hai năm quan sát kỹ, và xin trình bày những phát hiện của mình ở đây như một việc công ích, vì lợi ích của bất kỳ ai sắp được thăng chức dù lý trí bảo đừng. |
 | 5 | The first rule is that no important decision is ever made in the meeting where it is officially made. | Luật thứ nhất là chẳng có quyết định quan trọng nào được đưa ra ở chính cuộc họp được cho là nơi đưa ra nó. |
 | 6 | It is made the day before, over coffee, by the three people who arrived early, and the meeting itself exists so that everyone else can find out what they have already agreed to. | Nó được quyết từ hôm trước, bên ly cà phê, bởi ba người đến sớm, còn cuộc họp tồn tại chỉ để mọi người khác biết được họ đã đồng ý với điều gì. |
 | 7 | The skilled operator never argues in public, but surreptitiously solicits "a quick word" with each person beforehand, so that by the time he speaks, the outcome is no longer in doubt. | Tay lão luyện không bao giờ tranh cãi trước đám đông, mà lặng lẽ xin "nói chuyện nhanh một chút" với từng người từ trước, để tới lúc anh ta lên tiếng thì kết quả đã chẳng còn gì phải bàn. |
@@ -755,7 +756,7 @@
 | 18 | I cannot remember who said what before meetings, I mark nothing as urgent because I forget to, and when something goes wrong it is usually, in fact, my fault. | Tôi chẳng nhớ ai đã nói gì trước các cuộc họp, tôi không gắn nhãn gấp cho việc gì vì tôi quên mất, và khi có chuyện trục trặc thì thường, thật ra, là lỗi của tôi. |
 | 19 | Oddly, this has worked rather well, since my team argues with me openly in meetings, which is unnerving and extremely useful. | Kỳ lạ thay, cách đó lại khá hiệu quả, vì nhóm tôi cãi tôi thẳng thừng trong các cuộc họp, điều vừa khiến tôi chột dạ vừa vô cùng hữu ích. |
 | 20 | If there is a lesson here, it is perhaps that most office power games are played in self-defense, and that a leader who refuses to play them removes the reason for everyone else to play them too. | Nếu có bài học nào ở đây, thì có lẽ đó là phần lớn các trò chơi quyền lực chốn văn phòng được chơi để tự vệ, và một người lãnh đạo không chịu chơi chúng sẽ lấy đi lý do khiến mọi người khác phải chơi. |
-| 21 | My mother, who read a draft of this column, says that I have simply described what any good elementary school teacher knows by the age of thirty, and that I could have saved myself two years by asking her. | Mẹ tôi, người đã đọc bản nháp của chuyên mục này, bảo rằng tôi chỉ đơn giản tả lại điều mà bất kỳ giáo viên tiểu học giỏi nào cũng biết từ năm ba mươi tuổi, và lẽ ra tôi đã tiết kiệm được hai năm nếu chịu hỏi bà. |
+| 21 | My mother, who read a draft of this column, says that I have simply described what any good elementary school teacher knows by the age of thirty, and that I could have saved myself almost two years by asking her. | Mẹ tôi, người đã đọc bản nháp của chuyên mục này, bảo rằng tôi chỉ đơn giản tả lại điều mà bất kỳ giáo viên tiểu học giỏi nào cũng biết từ năm ba mươi tuổi, và lẽ ra tôi đã tiết kiệm được gần hai năm nếu chịu hỏi bà. |
 
 ### Câu hỏi
 
@@ -763,14 +764,14 @@
 *(Nathan đưa ra lý do gì, với chút mỉa mai, cho việc viết chuyên mục này?)*
 
 - A. He wants to warn readers about a dishonest manager he once worked for. *(Anh muốn cảnh báo người đọc về một quản lý gian dối anh từng làm cùng.)*
-- B. He presents it as a public service for people who are about to be promoted. *(Anh trình bày nó như một việc công ích cho những người sắp được thăng chức.)*
+- B. He calls it a public service for people about to be promoted. *(Anh gọi đó là việc công ích cho những người sắp được thăng chức.)*
 - C. He was asked by his company to explain its rules. *(Công ty nhờ anh giải thích các quy định của họ.)*
 - D. He hopes to persuade his neighbors to become software engineers. *(Anh hy vọng thuyết phục hàng xóm trở thành kỹ sư phần mềm.)*
 
 **52. According to Nathan's first rule, what is the real purpose of the official meeting?**
 *(Theo luật thứ nhất của Nathan, mục đích thật của cuộc họp chính thức là gì?)*
 
-- A. To give every member of the team an equal chance to speak. *(Để mọi thành viên trong nhóm có cơ hội phát biểu ngang nhau.)*
+- A. To give every member of the team an equal chance to speak before a decision is made. *(Để mọi thành viên trong nhóm có cơ hội phát biểu như nhau trước khi quyết định.)*
 - B. To solve problems that nobody noticed before. *(Để giải quyết những vấn đề trước đó không ai để ý.)*
 - C. To choose who will be at the helm of the next project. *(Để chọn ai sẽ cầm lái dự án tiếp theo.)*
 - D. To let everyone else learn about decisions that have already been made. *(Để mọi người khác biết về những quyết định đã được đưa ra từ trước.)*
@@ -781,13 +782,13 @@
 - A. People can easily create a false sense of urgency whenever it suits them. *(Người ta có thể dễ dàng tạo ra cảm giác gấp gáp giả tạo bất cứ khi nào có lợi cho mình.)*
 - B. Real deadlines are becoming more common in modern offices. *(Hạn chót thật ngày càng phổ biến ở văn phòng hiện đại.)*
 - C. Emails sent in the evening are usually ignored. *(Email gửi buổi tối thường bị bỏ qua.)*
-- D. Software engineers work more slowly than other people. *(Kỹ sư phần mềm làm việc chậm hơn người khác.)*
+- D. Engineers invent deadlines because they enjoy working under pressure late at night. *(Kỹ sư bịa ra hạn chót vì thích làm việc dưới áp lực lúc khuya.)*
 
 **54. According to Nathan, what does a "time-sensitive" email sent at six in the evening really communicate?**
 *(Theo Nathan, một email "cần xử lý gấp" gửi lúc sáu giờ tối thực ra truyền đạt điều gì?)*
 
 - A. That the sender is working too hard and needs help. *(Rằng người gửi đang làm việc quá sức và cần giúp đỡ.)*
-- B. That the task has to be finished before the next morning. *(Rằng việc đó phải xong trước sáng hôm sau.)*
+- B. That the task must be finished by morning. *(Rằng việc ấy phải xong trước sáng mai.)*
 - C. That the sender expects their priorities to come first. *(Rằng người gửi muốn ưu tiên của họ được đặt lên trước hết.)*
 - D. That the sender has made a mistake and is embarrassed. *(Rằng người gửi đã mắc lỗi và thấy ngượng.)*
 
@@ -797,7 +798,7 @@
 - A. The manager was praised for leadership even though the deadline was not real. *(Người quản lý được khen về khả năng lãnh đạo dù hạn chót không có thật.)*
 - B. The department refused to work, but the project still succeeded. *(Cả phòng không chịu làm, nhưng dự án vẫn thành công.)*
 - C. Nathan himself had invented the deadline. *(Chính Nathan đã bịa ra hạn chót đó.)*
-- D. The manager was summarily dismissed for not telling the truth. *(Người quản lý bị sa thải ngay lập tức vì nói dối.)*
+- D. The manager was dismissed for not telling the truth, although the team had met the deadline. *(Người quản lý bị sa thải vì không nói thật, dù cả nhóm vẫn kịp hạn chót.)*
 
 **56. What does Nathan's third rule describe?**
 *(Luật thứ ba của Nathan mô tả điều gì?)*
@@ -805,14 +806,14 @@
 - A. Junior engineers are usually the ones who present projects to senior management. *(Kỹ sư cấp dưới thường là người trình bày dự án với cấp trên.)*
 - B. Teams that share credit equally are always more successful. *(Những nhóm chia đều công lao luôn thành công hơn.)*
 - C. Leaders who are modest are rarely promoted. *(Người lãnh đạo khiêm tốn hiếm khi được thăng chức.)*
-- D. Leaders take credit for success but pass the blame for failure down to junior staff. *(Người lãnh đạo nhận công khi thành công nhưng đẩy lỗi thất bại xuống cho nhân viên cấp dưới.)*
+- D. Leaders take the credit for success and pass blame for failure downward. *(Người lãnh đạo nhận công khi thành công và đẩy lỗi xuống dưới khi thất bại.)*
 
 **57. What does Nathan suggest about where office gossip comes from?**
 *(Nathan gợi ý gì về nguồn gốc của chuyện ngồi lê đôi mách nơi văn phòng?)*
 
 - A. It is mainly spread by people who are new to a team. *(Nó chủ yếu do người mới vào nhóm lan truyền.)*
 - B. It grows where people feel anxious and are not told the truth directly. *(Nó nảy nở ở nơi người ta thấy lo âu và không được nói thẳng sự thật.)*
-- C. It is a harmless way for colleagues to become friends. *(Đó là cách vô hại để đồng nghiệp trở thành bạn bè.)*
+- C. It is a harmless way for anxious colleagues to become friends in insular teams. *(Đó là cách vô hại để những đồng nghiệp lo âu trong nhóm khép kín kết bạn với nhau.)*
 - D. It happens only in very large organizations. *(Nó chỉ xảy ra ở những tổ chức rất lớn.)*
 
 **58. How does Nathan describe his own reason for breaking the rules?**
@@ -821,22 +822,22 @@
 - A. He says he broke them deliberately to set a good example. *(Anh nói mình cố tình phá chúng để làm gương.)*
 - B. He blames his team for not following them. *(Anh đổ lỗi cho nhóm vì đã không theo chúng.)*
 - C. He modestly claims it was a result of incompetence rather than virtue. *(Anh khiêm tốn cho rằng đó là do kém cỏi chứ không phải vì đức độ.)*
-- D. He says his mother told him to break them. *(Anh nói mẹ anh bảo anh phá chúng.)*
+- D. He says his team convinced him the rules were unfair and should be ignored. *(Anh nói nhóm của anh đã thuyết phục anh rằng các luật ấy bất công và nên bỏ qua.)*
 
 **59. What lesson does Nathan draw from his experience?**
 *(Nathan rút ra bài học gì từ trải nghiệm của mình?)*
 
-- A. Leaders should learn the hidden rules as early as possible. *(Người lãnh đạo nên học những luật bất thành văn càng sớm càng tốt.)*
-- B. Arguing in meetings always damages a team. *(Tranh cãi trong họp luôn gây hại cho nhóm.)*
-- C. Teams work better when nobody admits mistakes. *(Nhóm làm việc tốt hơn khi không ai nhận lỗi.)*
-- D. Power games are mostly defensive, so a leader who avoids them makes them unnecessary for others. *(Trò chơi quyền lực phần lớn mang tính tự vệ, nên người lãnh đạo tránh chúng sẽ khiến người khác không cần chơi nữa.)*
+- A. Leaders should learn the hidden rules as early as possible if they want to survive. *(Người lãnh đạo nên học các luật ngầm càng sớm càng tốt nếu muốn trụ lại.)*
+- B. Open arguments in meetings, however useful they seem, slowly damage a team's trust. *(Tranh luận công khai trong họp, dù có vẻ hữu ích, dần làm tổn hại lòng tin trong nhóm.)*
+- C. Teams work better when nobody has to admit their mistakes in front of others. *(Nhóm làm việc tốt hơn khi không ai phải thừa nhận lỗi trước mặt người khác.)*
+- D. Power games are mostly defensive, so a leader who refuses to play gives others no reason to. *(Trò quyền lực phần lớn là để tự vệ, nên người lãnh đạo không chịu chơi sẽ khiến người khác hết lý do để chơi.)*
 
 **60. What is the effect of the final comment from Nathan's mother?**
 *(Lời nhận xét cuối cùng của mẹ Nathan tạo ra hiệu ứng gì?)*
 
-- A. It humorously suggests that his discoveries are common knowledge to experienced teachers. *(Nó hài hước ngụ ý rằng những "phát hiện" của anh là điều ai từng đi dạy lâu năm cũng biết.)*
-- B. It shows that she disagrees with every rule he describes. *(Nó cho thấy bà không đồng ý với mọi luật anh mô tả.)*
-- C. It proves that teachers have more power than engineers. *(Nó chứng minh giáo viên có nhiều quyền lực hơn kỹ sư.)*
+- A. It humorously implies his discoveries are old news to any good teacher. *(Nó hài hước ngụ ý rằng những phát hiện của anh là chuyện cũ với bất kỳ giáo viên giỏi nào.)*
+- B. It shows that she disagrees with every rule he describes and finds the column unfair. *(Nó cho thấy bà không đồng ý với mọi luật anh mô tả và thấy chuyên mục bất công.)*
+- C. It suggests that elementary school teachers hold more real power than engineers do. *(Nó gợi ý rằng giáo viên tiểu học nắm nhiều quyền lực thật hơn kỹ sư.)*
 - D. It reveals that she helped him write the column. *(Nó tiết lộ rằng bà đã giúp anh viết chuyên mục.)*
 
 ---
@@ -850,6 +851,8 @@
 - Tiểu luận khoa học hay mở bằng một **chi tiết lịch sử** rồi lật lại ("pleasing irony"): câu hỏi mục đích đoạn thường hỏi chi tiết ấy dùng để làm gì.
 - Câu hỏi NOT/EXCEPT: đánh dấu từng phương án có trong bài, phương án còn lại (không có hoặc ngược nghĩa) là đáp án.
 - Bài châm biếm nói NGƯỢC điều mình nghĩ ("as a public service", "not out of virtue but out of incompetence"): chọn phương án nói đúng ý ngầm, không chọn nghĩa đen.
+- Chuyên mục châm biếm: "luật" được trình bày như lời khuyên nhưng thực ra là lời chê. Câu hỏi "ironic / with some irony" hỏi khoảng cách giữa điều nói ra và điều người viết nghĩ.
+- Bài tổng quan nghiên cứu hay lật lại kết luận bằng `does not so much X as Y` hoặc `the picture begins to unravel`. Ý chính nằm ở vế sau.
 
 ---
 
@@ -879,7 +882,7 @@
 | 20 | **B** | Câu 16: Câu nối hai bài. Mitchell vượt qua niềm phấn khích khi bắt lỗi để hỏi vì sao bà Harriet nhớ sai; Helena thấy chữ "parochial" "not entirely unfair" và thay đổi cách làm. |
 | 21 | **A** | Câu 4–5: "the word nostalgia entered the language as a medical diagnosis" và người bệnh "were said to waste away entirely". |
 | 22 | **C** | Câu 5: "nostos, meaning a return home, and algos, meaning pain". |
-| 23 | **D** | Câu 7–8: "the assumption behind them survived far longer than the leeches did" — mãi tới thế kỷ 20 hoài niệm vẫn bị coi là "a form of melancholy". |
+| 23 | **D** | Câu 7–8: "the assumption behind them survived far longer than the leeches did" — mãi đến tận giữa thế kỷ 20, hoài niệm vẫn bị coi là "a form of melancholy". |
 | 24 | **B** | Câu 8: "a nostalgic person was seen at best as sentimental and at worst as unwell". |
 | 25 | **C** | Câu 10: "to study nostalgia not as a symptom but as an ordinary emotion". |
 | 26 | **B** | Câu 11–12: "more connected to others and more confident that their lives have meaning" và "more optimistic about the future" — không hề nói tới việc ngại gặp người mới. |
@@ -890,9 +893,9 @@
 | 31 | **D** | Câu 4: "which grew more fabled with every telling" — mỗi lần kể lại, chuyện lại được tô vẽ thêm. |
 | 32 | **B** | Câu 8: "a man who needed nails from the right side and a hammer from the left simply paid twice and said nothing". |
 | 33 | **C** | Câu 9: "mediation with no pay and no hope of a result" — tự gọi việc đưa thư của một cô bé là "hoà giải" là cách nói đùa chua chát. |
-| 34 | **A** | Câu 11: "A conciliatory Christmas card from Walter was returned without being opened". |
+| 34 | **A** | Câu 11: "A conciliatory Christmas card from Leonard was returned without being opened". |
 | 35 | **D** | Câu 11: "Frank turned to the oldest tactic of all and left before dessert". |
-| 36 | **A** | Câu 15, 17: "someone began paying his suppliers" và "the same thing happens in Walter's book in reverse". |
+| 36 | **A** | Câu 15, 17: "someone began paying his suppliers" và "the same thing appears in Leonard's book in reverse". |
 | 37 | **C** | Câu 16, 18: "The payments appear in Frank's book without explanation" và "Neither man, as far as I can tell, ever told the other". |
 | 38 | **B** | Câu 20: "a structure that two proud men built so that they could go on caring for each other without ever having to admit it". |
 | 39 | **A** | Câu 21: "which I took to be both a rebuke and a kind of praise". |
@@ -916,4 +919,4 @@
 | 57 | **B** | Câu 16: "rife in teams that are insular and anxious, and almost absent in teams where people are told the truth directly". |
 | 58 | **C** | Câu 17: "not out of virtue but out of incompetence". |
 | 59 | **D** | Câu 20: "most office power games are played in self-defense, and that a leader who refuses to play them removes the reason for everyone else to play them too". |
-| 60 | **A** | Câu 21: "what any good elementary school teacher knows by the age of thirty, and that I could have saved myself two years by asking her". |
+| 60 | **A** | Câu 21: "what any good elementary school teacher knows by the age of thirty, and that I could have saved myself almost two years by asking her". |

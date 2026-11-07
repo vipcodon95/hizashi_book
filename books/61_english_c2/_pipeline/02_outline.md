@@ -1,7 +1,7 @@
 # Stage 2–3 — Outline: sách 61 English C2
 
-**Mỗi chương:** 2 bài × 10 câu. Folder `uNN_MM_<slug>`, code `uNNMM`. **Thời gian truyện:** tháng 12 năm 8 → tháng 11 năm 9.
-**Tuổi ở C2 (A1 + 7,5):** Tracy ~23, Trevor ~19 (đại học năm 2), Tina ~14–15 (lớp 9 ở Westview High từ thu năm 9), Amy ~11, Mitchell ~51, Megan ~49, Harriet ~75, Nathan ~41, Helena ~40, Leah ~30, Ethan ~32, Chloe ~31, Lydia ~45. Hạn chế ghi tuổi trong bài.
+**Mỗi chương:** 6 bài × 10 câu (bài 1–2 theo bảng dưới; bài 3–6 thêm 07–08/11/2026, xem `06_consistency_exp.md` và `characters.md` dòng "(Bài thêm)"). Folder `uNN_MM_<slug>`, code `uNNMM`. **Thời gian truyện:** tháng 12 năm 8 → tháng 11 năm 9.
+**Tuổi ở C2 (A1 + 7,5):** Tracy ~23, Trevor ~19 (đại học năm 2), Tina ~14–15 (lớp 9 ở Westview High từ thu năm 8, lớp 10 từ thu năm 9), Amy ~11, Mitchell ~51, Megan ~49, Harriet ~75, Nathan ~41, Helena ~40, Leah ~30, Ethan ~32, Chloe ~31, Lydia ~45. Hạn chế ghi tuổi trong bài.
 
 | Ch. | Unit | Thời điểm | Bài 1 | Bài 2 |
 |---|---|---|---|---|
