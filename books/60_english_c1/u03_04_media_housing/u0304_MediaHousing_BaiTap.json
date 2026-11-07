@@ -36,10 +36,10 @@
     "story_time_i18n": {
       "vi": "tháng 1 – 2, năm 8"
     },
-    "total_passages": 2,
-    "total_questions": 20,
+    "total_passages": 6,
+    "total_questions": 60,
     "focus": "Kiểm chứng nguồn, lập trường, so sánh phương án, giọng trêu, hàm ý",
-    "description_vn": "Nathan hướng dẫn hàng xóm kiểm chứng một bức ảnh AI về thư viện bị ngập bằng cách đọc chéo, và Leah kể với Tracy chuyện chọn nhà sau khi Ethan cầu hôn. 2 bài đọc × 10 câu."
+    "description_vn": "Nathan hướng dẫn hàng xóm kiểm chứng một bức ảnh AI về thư viện bị ngập bằng cách đọc chéo, và Leah kể với Tracy chuyện chọn nhà sau khi Ethan cầu hôn. Thêm bốn bài: bài khoa học phổ thông về nghiên cứu MIT 2018 (tin sai lan nhanh hơn tin thật), thư một dược sĩ về hưu gửi toà soạn phản đối quảng cáo đội lốt tin tức, bài giải thích nghịch lý đi làm xa (Stutzer và Frey 2008), và thư bà Harriet gửi chủ nhà về tiệm bánh bỏ trống sát vách. 6 bài đọc × 10 câu."
   },
   "lesson": {
     "practice_for_i18n": {
@@ -150,6 +150,30 @@
         "i18n": {
           "vi": "phòng tập thể dục"
         }
+      },
+      {
+        "word": "bot",
+        "i18n": {
+          "vi": "bot, chương trình tự động trên mạng"
+        }
+      },
+      {
+        "word": "automated",
+        "i18n": {
+          "vi": "tự động"
+        }
+      },
+      {
+        "word": "advertiser",
+        "i18n": {
+          "vi": "nhà quảng cáo"
+        }
+      },
+      {
+        "word": "podcast",
+        "i18n": {
+          "vi": "chương trình âm thanh phát qua mạng"
+        }
       }
     ],
     "phrases": [
@@ -200,6 +224,42 @@
           "en": "That being said,",
           "vi": "Dù vậy,"
         }
+      },
+      {
+        "i18n": {
+          "en": "The obvious suspect was automation.",
+          "vi": "Nghi phạm hiển nhiên là sự tự động hoá."
+        }
+      },
+      {
+        "i18n": {
+          "en": "read too much into",
+          "vi": "suy diễn quá nhiều từ"
+        }
+      },
+      {
+        "i18n": {
+          "en": "dressing an advertisement up as a news report",
+          "vi": "khoác cho quảng cáo cái áo của bản tin"
+        }
+      },
+      {
+        "i18n": {
+          "en": "did not stand up to even basic scrutiny",
+          "vi": "không vượt qua được ngay cả sự xem xét cơ bản"
+        }
+      },
+      {
+        "i18n": {
+          "en": "put a price on it",
+          "vi": "định giá nó"
+        }
+      },
+      {
+        "i18n": {
+          "en": "the more of the wall will need to be replaced",
+          "vi": "càng phải thay nhiều phần tường hơn"
+        }
       }
     ],
     "tips": [
@@ -221,6 +281,21 @@
       {
         "i18n": {
           "vi": "`That being said` / `Having said that` = ý ngược lại sắp tới. Câu hỏi hàm ý thường nằm ngay sau cụm này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Bài khoa học phổ thông thường có đoạn `It would be a mistake to read too much into…` / `The research has its limits.` ngay trước kết luận. Câu hỏi mục đích đoạn cuối gần như luôn là: thừa nhận giới hạn nhưng giữ ý chính."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Thư góp ý chính thức: người viết nêu tư cách (độc giả lâu năm, dược sĩ) để tạo độ tin cậy. Câu hỏi \"Why does the writer mention…\" thường hỏi đúng chức năng này."
+        }
+      },
+      {
+        "i18n": {
+          "vi": "Câu hỏi NOT/EXCEPT: đối chiếu từng phương án với danh sách đề nghị (`First… Second… Third…` hoặc một câu liệt kê ba việc). Phương án sai thường là điều người viết nói rõ là KHÔNG muốn."
         }
       }
     ]
@@ -583,6 +658,1000 @@
         "c1.015",
         "c1.016"
       ]
+    },
+    {
+      "id": "passage_u0304_03",
+      "heading_i18n": {
+        "vi": "Bài đọc 3 (Unit 3) — Bài khoa học phổ thông: vì sao tin sai lan nhanh hơn tin thật"
+      },
+      "narrator": "announcer",
+      "title": "Faster, Further, Deeper: What a Decade of Rumors Reveals",
+      "category": "article",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 270,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Faster, Further, Deeper: What a Decade of Rumors Reveals",
+            "vi": "Nhanh hơn, xa hơn, sâu hơn: Mười năm tin đồn cho ta biết điều gì"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Science Explained, a weekly column on research that matters.",
+            "vi": "Science Explained, chuyên mục hằng tuần về những nghiên cứu đáng chú ý."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "There is an old saying, often attributed to the writer Mark Twain, that a lie can travel around the world while the truth is still putting on its shoes.",
+            "vi": "Có một câu nói cũ, thường được gán cho nhà văn Mark Twain, rằng lời nói dối có thể đi khắp thế giới trong khi sự thật vẫn còn đang xỏ giày."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The irony is that there is no credible evidence that he ever said it, which is itself a small demonstration of how easily a good story spreads without anyone checking its source.",
+            "vi": "Trớ trêu là chẳng có bằng chứng đáng tin nào cho thấy ông từng nói câu đó, và chính điều này là một minh chứng nhỏ cho việc một câu chuyện hay lan đi dễ dàng thế nào mà không ai kiểm tra nguồn."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For a long time, the saying was just that: a saying.",
+            "vi": "Trong một thời gian dài, câu nói ấy cũng chỉ là vậy: một câu nói."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Then, in 2018, three researchers at the Massachusetts Institute of Technology published what is still one of the biggest studies of misinformation ever carried out.",
+            "vi": "Rồi năm 2018, ba nhà nghiên cứu ở Viện Công nghệ Massachusetts công bố một trong những nghiên cứu lớn nhất từng được thực hiện về thông tin sai lệch, cho tới nay vẫn vậy."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The team sifted through about 126,000 stories that had been shared on a major social media platform between 2006 and 2017, each of which had been checked by independent fact-checking organizations and labeled as true or false.",
+            "vi": "Nhóm đã sàng lọc khoảng 126.000 câu chuyện được chia sẻ trên một nền tảng mạng xã hội lớn từ năm 2006 tới năm 2017, mỗi câu chuyện đều đã được các tổ chức kiểm chứng độc lập kiểm tra và dán nhãn đúng hay sai."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Together, these stories had been shared more than four and a half million times by around three million people.",
+            "vi": "Tổng cộng, các câu chuyện này đã được khoảng ba triệu người chia sẻ hơn bốn triệu rưỡi lần."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The findings were striking: false stories were about seventy percent more likely to be shared than true ones, and true stories took roughly six times as long to reach an audience of 1,500 people.",
+            "vi": "Kết quả rất đáng chú ý: tin sai có khả năng được chia sẻ cao hơn khoảng bảy mươi phần trăm so với tin thật, và tin thật mất thời gian lâu gấp khoảng sáu lần để tới được 1.500 người."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "On every measure the researchers used, false stories travelled faster, further and deeper into the network than the truth.",
+            "vi": "Theo mọi thước đo các nhà nghiên cứu sử dụng, tin sai đi nhanh hơn, xa hơn và sâu hơn vào mạng lưới so với sự thật."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The obvious suspect was automation.",
+            "vi": "Nghi phạm hiển nhiên là sự tự động hoá."
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Surely, many people assumed, the false stories were being amplified by bots, the automated accounts that can share content thousands of times a day.",
+            "vi": "Nhiều người cho rằng chắc chắn tin sai đang được khuếch đại bởi bot, những tài khoản tự động có thể chia sẻ nội dung hàng nghìn lần mỗi ngày."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Yet when the researchers removed the bots from their data, the pattern remained, because the bots, it turned out, shared true and false stories at roughly the same rate.",
+            "vi": "Thế nhưng khi các nhà nghiên cứu loại bot khỏi dữ liệu, quy luật vẫn còn nguyên, vì hoá ra bot chia sẻ tin thật và tin sai với tỉ lệ gần như nhau."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "That humans, not machines, were mainly responsible for the difference was arguably the study's most uncomfortable conclusion.",
+            "vi": "Việc chính con người, chứ không phải máy móc, chịu trách nhiệm chủ yếu cho sự khác biệt ấy có lẽ là kết luận khó chịu nhất của nghiên cứu."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why would ordinary people prefer to share stories that are not true?",
+            "vi": "Vì sao người bình thường lại thích chia sẻ những câu chuyện không có thật?"
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The researchers' most plausible explanation is novelty: false stories tended to be more surprising than true ones, and people who share something new gain a little status as the person who knows first.",
+            "vi": "Lời giải thích hợp lý nhất của các nhà nghiên cứu là tính mới lạ: tin sai thường gây bất ngờ hơn tin thật, và người chia sẻ điều gì mới mẻ sẽ có thêm chút vị thế, như người biết tin đầu tiên."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The replies they analyzed bear this out, since responses to false stories expressed more surprise and fear, whereas responses to true stories expressed more sadness and trust.",
+            "vi": "Các phản hồi họ phân tích xác nhận điều này, vì phản hồi với tin sai thể hiện nhiều bất ngờ và sợ hãi hơn, còn phản hồi với tin thật thể hiện nhiều nỗi buồn và sự tin tưởng hơn."
+          }
+        },
+        {
+          "n": 18,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It would be a mistake to read too much into a single study, however large.",
+            "vi": "Sẽ là sai lầm nếu suy diễn quá nhiều từ một nghiên cứu duy nhất, dù nó lớn đến đâu."
+          }
+        },
+        {
+          "n": 19,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The data came from one platform, the stories had to be ones that fact-checkers had chosen to investigate, and the way platforms rank content has changed considerably since 2017.",
+            "vi": "Dữ liệu đến từ một nền tảng, các câu chuyện phải là những câu chuyện mà người kiểm chứng đã chọn để điều tra, và cách các nền tảng xếp hạng nội dung đã thay đổi đáng kể từ năm 2017."
+          }
+        },
+        {
+          "n": 20,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Even so, the central premise has been supported by later work, and it shifts the question in a useful direction.",
+            "vi": "Dù vậy, tiền đề trung tâm đã được các nghiên cứu sau ủng hộ, và nó chuyển câu hỏi sang một hướng hữu ích."
+          }
+        },
+        {
+          "n": 21,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "If the problem lay purely in algorithms, the solution would lie purely with engineers; if it lies partly in us, then the ten seconds before we press share matter more than any firewall.",
+            "vi": "Nếu vấn đề chỉ nằm ở thuật toán, giải pháp sẽ chỉ nằm trong tay kỹ sư; còn nếu nó nằm một phần ở chính chúng ta, thì mười giây trước khi ta bấm chia sẻ quan trọng hơn bất kỳ tường lửa nào."
+          }
+        }
+      ],
+      "curriculum_sheets": [
+        "c1.009",
+        "c1.010",
+        "c1.011",
+        "c1.012"
+      ],
+      "content_ja": "Faster, Further, Deeper: What a Decade of Rumors Reveals\n\nScience Explained, a weekly column on research that matters.\n\nThere is an old saying, often attributed to the writer Mark Twain, that a lie can travel around the world while the truth is still putting on its shoes. The irony is that there is no credible evidence that he ever said it, which is itself a small demonstration of how easily a good story spreads without anyone checking its source. For a long time, the saying was just that: a saying. Then, in 2018, three researchers at the Massachusetts Institute of Technology published what is still one of the biggest studies of misinformation ever carried out.\n\nThe team sifted through about 126,000 stories that had been shared on a major social media platform between 2006 and 2017, each of which had been checked by independent fact-checking organizations and labeled as true or false. Together, these stories had been shared more than four and a half million times by around three million people. The findings were striking: false stories were about seventy percent more likely to be shared than true ones, and true stories took roughly six times as long to reach an audience of 1,500 people. On every measure the researchers used, false stories travelled faster, further and deeper into the network than the truth.\n\nThe obvious suspect was automation. Surely, many people assumed, the false stories were being amplified by bots, the automated accounts that can share content thousands of times a day. Yet when the researchers removed the bots from their data, the pattern remained, because the bots, it turned out, shared true and false stories at roughly the same rate. That humans, not machines, were mainly responsible for the difference was arguably the study's most uncomfortable conclusion.\n\nWhy would ordinary people prefer to share stories that are not true? The researchers' most plausible explanation is novelty: false stories tended to be more surprising than true ones, and people who share something new gain a little status as the person who knows first. The replies they analyzed bear this out, since responses to false stories expressed more surprise and fear, whereas responses to true stories expressed more sadness and trust.\n\nIt would be a mistake to read too much into a single study, however large. The data came from one platform, the stories had to be ones that fact-checkers had chosen to investigate, and the way platforms rank content has changed considerably since 2017. Even so, the central premise has been supported by later work, and it shifts the question in a useful direction. If the problem lay purely in algorithms, the solution would lie purely with engineers; if it lies partly in us, then the ten seconds before we press share matter more than any firewall.",
+      "translation_vn": "(1) Nhanh hơn, xa hơn, sâu hơn: Mười năm tin đồn cho ta biết điều gì\n(2) Science Explained, chuyên mục hằng tuần về những nghiên cứu đáng chú ý.\n(3) Có một câu nói cũ, thường được gán cho nhà văn Mark Twain, rằng lời nói dối có thể đi khắp thế giới trong khi sự thật vẫn còn đang xỏ giày.\n(4) Trớ trêu là chẳng có bằng chứng đáng tin nào cho thấy ông từng nói câu đó, và chính điều này là một minh chứng nhỏ cho việc một câu chuyện hay lan đi dễ dàng thế nào mà không ai kiểm tra nguồn.\n(5) Trong một thời gian dài, câu nói ấy cũng chỉ là vậy: một câu nói.\n(6) Rồi năm 2018, ba nhà nghiên cứu ở Viện Công nghệ Massachusetts công bố một trong những nghiên cứu lớn nhất từng được thực hiện về thông tin sai lệch, cho tới nay vẫn vậy.\n(7) Nhóm đã sàng lọc khoảng 126.000 câu chuyện được chia sẻ trên một nền tảng mạng xã hội lớn từ năm 2006 tới năm 2017, mỗi câu chuyện đều đã được các tổ chức kiểm chứng độc lập kiểm tra và dán nhãn đúng hay sai.\n(8) Tổng cộng, các câu chuyện này đã được khoảng ba triệu người chia sẻ hơn bốn triệu rưỡi lần.\n(9) Kết quả rất đáng chú ý: tin sai có khả năng được chia sẻ cao hơn khoảng bảy mươi phần trăm so với tin thật, và tin thật mất thời gian lâu gấp khoảng sáu lần để tới được 1.500 người.\n(10) Theo mọi thước đo các nhà nghiên cứu sử dụng, tin sai đi nhanh hơn, xa hơn và sâu hơn vào mạng lưới so với sự thật.\n(11) Nghi phạm hiển nhiên là sự tự động hoá.\n(12) Nhiều người cho rằng chắc chắn tin sai đang được khuếch đại bởi bot, những tài khoản tự động có thể chia sẻ nội dung hàng nghìn lần mỗi ngày.\n(13) Thế nhưng khi các nhà nghiên cứu loại bot khỏi dữ liệu, quy luật vẫn còn nguyên, vì hoá ra bot chia sẻ tin thật và tin sai với tỉ lệ gần như nhau.\n(14) Việc chính con người, chứ không phải máy móc, chịu trách nhiệm chủ yếu cho sự khác biệt ấy có lẽ là kết luận khó chịu nhất của nghiên cứu.\n(15) Vì sao người bình thường lại thích chia sẻ những câu chuyện không có thật?\n(16) Lời giải thích hợp lý nhất của các nhà nghiên cứu là tính mới lạ: tin sai thường gây bất ngờ hơn tin thật, và người chia sẻ điều gì mới mẻ sẽ có thêm chút vị thế, như người biết tin đầu tiên.\n(17) Các phản hồi họ phân tích xác nhận điều này, vì phản hồi với tin sai thể hiện nhiều bất ngờ và sợ hãi hơn, còn phản hồi với tin thật thể hiện nhiều nỗi buồn và sự tin tưởng hơn.\n(18) Sẽ là sai lầm nếu suy diễn quá nhiều từ một nghiên cứu duy nhất, dù nó lớn đến đâu.\n(19) Dữ liệu đến từ một nền tảng, các câu chuyện phải là những câu chuyện mà người kiểm chứng đã chọn để điều tra, và cách các nền tảng xếp hạng nội dung đã thay đổi đáng kể từ năm 2017.\n(20) Dù vậy, tiền đề trung tâm đã được các nghiên cứu sau ủng hộ, và nó chuyển câu hỏi sang một hướng hữu ích.\n(21) Nếu vấn đề chỉ nằm ở thuật toán, giải pháp sẽ chỉ nằm trong tay kỹ sư; còn nếu nó nằm một phần ở chính chúng ta, thì mười giây trước khi ta bấm chia sẻ quan trọng hơn bất kỳ tường lửa nào.",
+      "word_count": 464
+    },
+    {
+      "id": "passage_u0304_04",
+      "heading_i18n": {
+        "vi": "Bài đọc 4 (Unit 3) — Thư gửi toà soạn: quảng cáo đội lốt tin tức"
+      },
+      "narrator": "announcer",
+      "title": "Letter to the Editor: An Advertisement Dressed as News",
+      "category": "letter",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 260,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Letter to the Editor: An Advertisement Dressed as News",
+            "vi": "Thư gửi toà soạn: Quảng cáo đội lốt tin tức"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "To the Editor: I have read your paper every week for more than thirty years, and it is precisely because I value its credibility that I am writing to complain about an article in last Sunday's health section.",
+            "vi": "Kính gửi Ban biên tập: Tôi đọc báo của quý vị hằng tuần đã hơn ba mươi năm, và chính vì tôi coi trọng sự đáng tin cậy của tờ báo nên tôi viết thư này để phàn nàn về một bài báo trong mục sức khoẻ số Chủ nhật vừa rồi."
+          }
+        },
+        {
+          "n": 3,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The article, titled \"The Morning Drink That Doctors Are Talking About\", claimed that a powdered supplement called VitaCalm could reduce anxiety, improve sleep and support the brain in adults of every age.",
+            "vi": "Bài báo, có tựa \"Thức uống buổi sáng mà các bác sĩ đang bàn tán\", khẳng định một loại thực phẩm bổ sung dạng bột tên VitaCalm có thể giảm lo âu, cải thiện giấc ngủ và hỗ trợ não bộ cho người lớn ở mọi lứa tuổi."
+          }
+        },
+        {
+          "n": 4,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "It quoted a leading nutrition expert, included a photo of a smiling customer, and ended with a discount code for readers.",
+            "vi": "Bài trích lời một chuyên gia dinh dưỡng hàng đầu, kèm ảnh một khách hàng tươi cười, và kết thúc bằng một mã giảm giá cho độc giả."
+          }
+        },
+        {
+          "n": 5,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Only in very small grey letters at the bottom of the page did it say that this was sponsored content.",
+            "vi": "Chỉ bằng những dòng chữ xám rất nhỏ ở cuối trang, bài mới cho biết đây là nội dung được tài trợ."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I spent thirty-four years as a pharmacist, so I read the article with some care, and to my dismay I found that it did not stand up to even basic scrutiny.",
+            "vi": "Tôi đã làm dược sĩ ba mươi tư năm, nên tôi đọc bài khá kỹ, và tôi thất vọng khi thấy nó không vượt qua được ngay cả một sự xem xét cơ bản."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The leading expert turned out to be a paid adviser to the company that makes the product, a fact that the article glossed over entirely.",
+            "vi": "Vị chuyên gia hàng đầu hoá ra là cố vấn được trả lương của chính công ty sản xuất sản phẩm, một sự thật mà bài báo lờ đi hoàn toàn."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The single study it cited had been paid for by the same company, had involved just forty people, and had allegedly shown a significant improvement on a questionnaire that the company itself had designed.",
+            "vi": "Nghiên cứu duy nhất mà bài trích dẫn do chính công ty đó trả tiền, chỉ có bốn mươi người tham gia, và được cho là đã cho thấy cải thiện đáng kể trên một bảng hỏi do chính công ty thiết kế."
+          }
+        },
+        {
+          "n": 9,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "None of this means that the product is harmful, but none of it is evidence that it works, either.",
+            "vi": "Không điều gì trong số này có nghĩa sản phẩm có hại, nhưng cũng không điều gì là bằng chứng cho thấy nó có tác dụng."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I understand that newspapers need advertising, and I have no objection to advertisements as such.",
+            "vi": "Tôi hiểu báo chí cần quảng cáo, và bản thân tôi không phản đối quảng cáo."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "My objection is to the ploy of dressing an advertisement up as a news report, thereby borrowing the trust that your journalists have spent decades earning.",
+            "vi": "Điều tôi phản đối là chiêu trò khoác cho quảng cáo cái áo của một bản tin, qua đó mượn niềm tin mà các nhà báo của quý vị đã mất hàng chục năm mới có được."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A reader who looks quickly through the page, as most of us do, would have no reason to suspect that the article had been written to sell something.",
+            "vi": "Một độc giả lướt nhanh qua trang báo, như phần lớn chúng ta vẫn làm, sẽ chẳng có lý do gì để ngờ rằng bài báo được viết ra để bán hàng."
+          }
+        },
+        {
+          "n": 13,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The irony is hard to miss: the very credibility that makes such content valuable to advertisers is what it slowly destroys.",
+            "vi": "Sự trớ trêu thật khó mà không thấy: chính sự đáng tin cậy khiến loại nội dung này có giá trị với nhà quảng cáo lại là thứ nó dần dần phá huỷ."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I would ask you to consider three changes.",
+            "vi": "Tôi đề nghị quý vị cân nhắc ba thay đổi."
+          }
+        },
+        {
+          "n": 15,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "First, sponsored pages should be labeled at the top, in letters as large as the headline, not hidden at the bottom.",
+            "vi": "Thứ nhất, các trang được tài trợ nên được ghi nhãn ở đầu trang, bằng chữ to như tiêu đề, chứ không giấu ở cuối trang."
+          }
+        },
+        {
+          "n": 16,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Second, any expert quoted in such content should be clearly identified as someone paid by the advertiser.",
+            "vi": "Thứ hai, bất kỳ chuyên gia nào được trích lời trong loại nội dung này phải được ghi rõ là người do nhà quảng cáo trả tiền."
+          }
+        },
+        {
+          "n": 17,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Third, health claims of this kind should be checked by your own science reporter before they are printed, just as any other claim in your pages would be.",
+            "vi": "Thứ ba, những khẳng định về sức khoẻ kiểu này nên được phóng viên khoa học của chính quý vị kiểm tra trước khi in, giống như mọi khẳng định khác trên báo."
+          }
+        },
+        {
+          "n": 18,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "To my mind, these are modest requests, and they would cost far less than the readers you may otherwise lose.",
+            "vi": "Theo tôi, đây là những đề nghị khiêm tốn, và chúng sẽ tốn ít hơn nhiều so với số độc giả mà quý vị có thể mất nếu không làm."
+          }
+        },
+        {
+          "n": 19,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I look forward to reading next Sunday's paper, and I hope that I will be able to trust every page of it.",
+            "vi": "Tôi mong được đọc số báo Chủ nhật tới, và hy vọng mình có thể tin mọi trang trong đó."
+          }
+        },
+        {
+          "n": 20,
+          "para": 5,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Carol Jennings, San Diego",
+            "vi": "Carol Jennings, San Diego"
+          }
+        }
+      ],
+      "curriculum_sheets": [
+        "c1.009",
+        "c1.010",
+        "c1.011",
+        "c1.012"
+      ],
+      "content_ja": "Letter to the Editor: An Advertisement Dressed as News\n\nTo the Editor: I have read your paper every week for more than thirty years, and it is precisely because I value its credibility that I am writing to complain about an article in last Sunday's health section. The article, titled \"The Morning Drink That Doctors Are Talking About\", claimed that a powdered supplement called VitaCalm could reduce anxiety, improve sleep and support the brain in adults of every age. It quoted a leading nutrition expert, included a photo of a smiling customer, and ended with a discount code for readers. Only in very small grey letters at the bottom of the page did it say that this was sponsored content.\n\nI spent thirty-four years as a pharmacist, so I read the article with some care, and to my dismay I found that it did not stand up to even basic scrutiny. The leading expert turned out to be a paid adviser to the company that makes the product, a fact that the article glossed over entirely. The single study it cited had been paid for by the same company, had involved just forty people, and had allegedly shown a significant improvement on a questionnaire that the company itself had designed. None of this means that the product is harmful, but none of it is evidence that it works, either.\n\nI understand that newspapers need advertising, and I have no objection to advertisements as such. My objection is to the ploy of dressing an advertisement up as a news report, thereby borrowing the trust that your journalists have spent decades earning. A reader who looks quickly through the page, as most of us do, would have no reason to suspect that the article had been written to sell something. The irony is hard to miss: the very credibility that makes such content valuable to advertisers is what it slowly destroys.\n\nI would ask you to consider three changes. First, sponsored pages should be labeled at the top, in letters as large as the headline, not hidden at the bottom. Second, any expert quoted in such content should be clearly identified as someone paid by the advertiser. Third, health claims of this kind should be checked by your own science reporter before they are printed, just as any other claim in your pages would be. To my mind, these are modest requests, and they would cost far less than the readers you may otherwise lose. I look forward to reading next Sunday's paper, and I hope that I will be able to trust every page of it.\n\nCarol Jennings, San Diego",
+      "translation_vn": "(1) Thư gửi toà soạn: Quảng cáo đội lốt tin tức\n(2) Kính gửi Ban biên tập: Tôi đọc báo của quý vị hằng tuần đã hơn ba mươi năm, và chính vì tôi coi trọng sự đáng tin cậy của tờ báo nên tôi viết thư này để phàn nàn về một bài báo trong mục sức khoẻ số Chủ nhật vừa rồi.\n(3) Bài báo, có tựa \"Thức uống buổi sáng mà các bác sĩ đang bàn tán\", khẳng định một loại thực phẩm bổ sung dạng bột tên VitaCalm có thể giảm lo âu, cải thiện giấc ngủ và hỗ trợ não bộ cho người lớn ở mọi lứa tuổi.\n(4) Bài trích lời một chuyên gia dinh dưỡng hàng đầu, kèm ảnh một khách hàng tươi cười, và kết thúc bằng một mã giảm giá cho độc giả.\n(5) Chỉ bằng những dòng chữ xám rất nhỏ ở cuối trang, bài mới cho biết đây là nội dung được tài trợ.\n(6) Tôi đã làm dược sĩ ba mươi tư năm, nên tôi đọc bài khá kỹ, và tôi thất vọng khi thấy nó không vượt qua được ngay cả một sự xem xét cơ bản.\n(7) Vị chuyên gia hàng đầu hoá ra là cố vấn được trả lương của chính công ty sản xuất sản phẩm, một sự thật mà bài báo lờ đi hoàn toàn.\n(8) Nghiên cứu duy nhất mà bài trích dẫn do chính công ty đó trả tiền, chỉ có bốn mươi người tham gia, và được cho là đã cho thấy cải thiện đáng kể trên một bảng hỏi do chính công ty thiết kế.\n(9) Không điều gì trong số này có nghĩa sản phẩm có hại, nhưng cũng không điều gì là bằng chứng cho thấy nó có tác dụng.\n(10) Tôi hiểu báo chí cần quảng cáo, và bản thân tôi không phản đối quảng cáo.\n(11) Điều tôi phản đối là chiêu trò khoác cho quảng cáo cái áo của một bản tin, qua đó mượn niềm tin mà các nhà báo của quý vị đã mất hàng chục năm mới có được.\n(12) Một độc giả lướt nhanh qua trang báo, như phần lớn chúng ta vẫn làm, sẽ chẳng có lý do gì để ngờ rằng bài báo được viết ra để bán hàng.\n(13) Sự trớ trêu thật khó mà không thấy: chính sự đáng tin cậy khiến loại nội dung này có giá trị với nhà quảng cáo lại là thứ nó dần dần phá huỷ.\n(14) Tôi đề nghị quý vị cân nhắc ba thay đổi.\n(15) Thứ nhất, các trang được tài trợ nên được ghi nhãn ở đầu trang, bằng chữ to như tiêu đề, chứ không giấu ở cuối trang.\n(16) Thứ hai, bất kỳ chuyên gia nào được trích lời trong loại nội dung này phải được ghi rõ là người do nhà quảng cáo trả tiền.\n(17) Thứ ba, những khẳng định về sức khoẻ kiểu này nên được phóng viên khoa học của chính quý vị kiểm tra trước khi in, giống như mọi khẳng định khác trên báo.\n(18) Theo tôi, đây là những đề nghị khiêm tốn, và chúng sẽ tốn ít hơn nhiều so với số độc giả mà quý vị có thể mất nếu không làm.\n(19) Tôi mong được đọc số báo Chủ nhật tới, và hy vọng mình có thể tin mọi trang trong đó.\n(20) Carol Jennings, San Diego",
+      "word_count": 440
+    },
+    {
+      "id": "passage_u0304_05",
+      "heading_i18n": {
+        "vi": "Bài đọc 5 (Unit 4) — Bài giải thích: nghịch lý của việc đi làm xa"
+      },
+      "narrator": "announcer",
+      "title": "The Commuting Paradox: Why We Trade Time for Space",
+      "category": "article",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 280,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The Commuting Paradox: Why We Trade Time for Space",
+            "vi": "Nghịch lý đi làm xa: Vì sao ta đổi thời gian lấy không gian"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "City Life Explained, a series on how cities shape the way we live.",
+            "vi": "City Life Explained, loạt bài về cách đô thị định hình lối sống của chúng ta."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ask families why they moved out to the suburbs and the answers will be familiar: a spacious house, a garden, quieter streets and, quite often, a lower price.",
+            "vi": "Hãy hỏi các gia đình vì sao họ chuyển ra ngoại ô và câu trả lời sẽ rất quen: một ngôi nhà rộng rãi, một khu vườn, đường phố yên tĩnh hơn và, khá thường xuyên, giá rẻ hơn."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Ask the same families what they like least about their new lives, and many will name a single thing: the daily journey to work.",
+            "vi": "Hỏi chính những gia đình đó điều họ ít thích nhất ở cuộc sống mới, và nhiều người sẽ chỉ nêu một điều: quãng đường đi làm hằng ngày."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Planners have a name for this tension, and economists have tried to put a price on it.",
+            "vi": "Các nhà quy hoạch có một cái tên cho sự giằng co này, và các nhà kinh tế đã thử định giá nó."
+          }
+        },
+        {
+          "n": 6,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "In a widely cited 2008 study, the Swiss economists Alois Stutzer and Bruno Frey used survey data from thousands of households in Germany to compare how satisfied people were with their lives with how far they travelled to work.",
+            "vi": "Trong một nghiên cứu năm 2008 được trích dẫn rộng rãi, hai nhà kinh tế Thuỵ Sĩ Alois Stutzer và Bruno Frey dùng dữ liệu khảo sát từ hàng nghìn hộ gia đình ở Đức để so mức hài lòng với cuộc sống với quãng đường người ta đi làm."
+          }
+        },
+        {
+          "n": 7,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Standard economic theory predicts that long commutes should be balanced by other rewards, such as a higher salary or a bigger home, so that commuters end up no worse off than anyone else.",
+            "vi": "Lý thuyết kinh tế thông thường dự đoán rằng quãng đường đi làm dài sẽ được bù lại bằng những phần thưởng khác, như lương cao hơn hay nhà to hơn, để rốt cuộc người đi làm xa không thiệt hơn ai."
+          }
+        },
+        {
+          "n": 8,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The data did not bear this out.",
+            "vi": "Dữ liệu không xác nhận điều đó."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "People with long commutes reported consistently lower satisfaction, and the researchers calculated that someone travelling an hour each way would need to earn roughly forty percent more to be as satisfied as a person who did not commute at all.",
+            "vi": "Những người đi làm xa luôn cho biết mức hài lòng thấp hơn, và các nhà nghiên cứu tính rằng một người mất một giờ mỗi chiều sẽ cần kiếm nhiều hơn khoảng bốn mươi phần trăm mới hài lòng ngang một người không phải đi làm xa chút nào."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "They called this gap the commuting paradox.",
+            "vi": "Họ gọi khoảng chênh này là nghịch lý đi làm xa."
+          }
+        },
+        {
+          "n": 11,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Why do so many people make a choice that apparently leaves them less satisfied?",
+            "vi": "Vì sao nhiều người lại đưa ra một lựa chọn rõ ràng khiến họ kém hài lòng hơn?"
+          }
+        },
+        {
+          "n": 12,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "One plausible answer is that we judge homes and journeys in very different ways.",
+            "vi": "Một lời giải thích hợp lý là chúng ta đánh giá nhà ở và quãng đường theo những cách rất khác nhau."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A spacious living room is something that we notice every day, whereas we tend to imagine a commute on a good morning, with empty roads and a favorite podcast, rather than on a wet Monday with congestion clogging up every lane.",
+            "vi": "Một phòng khách rộng rãi là thứ ta để ý mỗi ngày, trong khi ta hay hình dung quãng đường đi làm vào một buổi sáng đẹp trời, đường vắng và một podcast yêu thích, chứ không phải vào một sáng thứ Hai mưa ướt với cảnh tắc nghẽn trên mọi làn xe."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Another is that the costs of commuting are spread thinly across thousands of small moments, each too minor to complain about, while the benefits of a bigger home arrive all at once, on the day we move in.",
+            "vi": "Một lời giải thích khác là cái giá của việc đi làm xa được rải mỏng qua hàng nghìn khoảnh khắc nhỏ, mỗi khoảnh khắc quá vặt để phàn nàn, còn lợi ích của một ngôi nhà rộng hơn thì đến cùng một lúc, vào ngày ta dọn tới."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The research has its limits.",
+            "vi": "Nghiên cứu này có những giới hạn của nó."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "People who choose long commutes may differ in other ways from those who do not, and the data come from a single country, where public transit and the layout of cities differ from those in many American metropolitan areas.",
+            "vi": "Những người chọn đi làm xa có thể khác những người không chọn ở các mặt khác, và dữ liệu đến từ một quốc gia duy nhất, nơi giao thông công cộng và cách bố trí đô thị khác với nhiều vùng đô thị lớn của Mỹ."
+          }
+        },
+        {
+          "n": 17,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Later studies have also found that the type of journey matters: people who walk or cycle to work tend to report more satisfaction with their trip than drivers stuck in traffic.",
+            "vi": "Các nghiên cứu sau cũng phát hiện rằng loại hành trình có ý nghĩa: người đi bộ hoặc đạp xe đi làm thường cho biết hài lòng với chuyến đi hơn so với người lái xe bị kẹt giữa dòng xe cộ."
+          }
+        },
+        {
+          "n": 18,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "None of this means that moving to the suburbs is a mistake.",
+            "vi": "Không điều gì trong số này có nghĩa chuyển ra ngoại ô là sai lầm."
+          }
+        },
+        {
+          "n": 19,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "For a family with three children, an extra bedroom may well be worth an hour a day in the car.",
+            "vi": "Với một gia đình có ba con, thêm một phòng ngủ có lẽ cũng đáng một giờ mỗi ngày trên xe."
+          }
+        },
+        {
+          "n": 20,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "What the commuting paradox suggests is simply that the hour should be counted honestly, at its real price, before the papers are signed, ideally with the journey tested on a weekday morning rather than a sunny Saturday afternoon.",
+            "vi": "Điều nghịch lý đi làm xa gợi ý chỉ đơn giản là giờ đồng hồ ấy nên được tính một cách trung thực, đúng giá thật của nó, trước khi ký giấy tờ, tốt nhất là với quãng đường được chạy thử vào một buổi sáng ngày thường thay vì một chiều thứ Bảy nắng đẹp."
+          }
+        }
+      ],
+      "curriculum_sheets": [
+        "c1.013",
+        "c1.014",
+        "c1.015",
+        "c1.016"
+      ],
+      "content_ja": "The Commuting Paradox: Why We Trade Time for Space\n\nCity Life Explained, a series on how cities shape the way we live.\n\nAsk families why they moved out to the suburbs and the answers will be familiar: a spacious house, a garden, quieter streets and, quite often, a lower price. Ask the same families what they like least about their new lives, and many will name a single thing: the daily journey to work. Planners have a name for this tension, and economists have tried to put a price on it.\n\nIn a widely cited 2008 study, the Swiss economists Alois Stutzer and Bruno Frey used survey data from thousands of households in Germany to compare how satisfied people were with their lives with how far they travelled to work. Standard economic theory predicts that long commutes should be balanced by other rewards, such as a higher salary or a bigger home, so that commuters end up no worse off than anyone else. The data did not bear this out. People with long commutes reported consistently lower satisfaction, and the researchers calculated that someone travelling an hour each way would need to earn roughly forty percent more to be as satisfied as a person who did not commute at all. They called this gap the commuting paradox.\n\nWhy do so many people make a choice that apparently leaves them less satisfied? One plausible answer is that we judge homes and journeys in very different ways. A spacious living room is something that we notice every day, whereas we tend to imagine a commute on a good morning, with empty roads and a favorite podcast, rather than on a wet Monday with congestion clogging up every lane. Another is that the costs of commuting are spread thinly across thousands of small moments, each too minor to complain about, while the benefits of a bigger home arrive all at once, on the day we move in.\n\nThe research has its limits. People who choose long commutes may differ in other ways from those who do not, and the data come from a single country, where public transit and the layout of cities differ from those in many American metropolitan areas. Later studies have also found that the type of journey matters: people who walk or cycle to work tend to report more satisfaction with their trip than drivers stuck in traffic.\n\nNone of this means that moving to the suburbs is a mistake. For a family with three children, an extra bedroom may well be worth an hour a day in the car. What the commuting paradox suggests is simply that the hour should be counted honestly, at its real price, before the papers are signed, ideally with the journey tested on a weekday morning rather than a sunny Saturday afternoon.",
+      "translation_vn": "(1) Nghịch lý đi làm xa: Vì sao ta đổi thời gian lấy không gian\n(2) City Life Explained, loạt bài về cách đô thị định hình lối sống của chúng ta.\n(3) Hãy hỏi các gia đình vì sao họ chuyển ra ngoại ô và câu trả lời sẽ rất quen: một ngôi nhà rộng rãi, một khu vườn, đường phố yên tĩnh hơn và, khá thường xuyên, giá rẻ hơn.\n(4) Hỏi chính những gia đình đó điều họ ít thích nhất ở cuộc sống mới, và nhiều người sẽ chỉ nêu một điều: quãng đường đi làm hằng ngày.\n(5) Các nhà quy hoạch có một cái tên cho sự giằng co này, và các nhà kinh tế đã thử định giá nó.\n(6) Trong một nghiên cứu năm 2008 được trích dẫn rộng rãi, hai nhà kinh tế Thuỵ Sĩ Alois Stutzer và Bruno Frey dùng dữ liệu khảo sát từ hàng nghìn hộ gia đình ở Đức để so mức hài lòng với cuộc sống với quãng đường người ta đi làm.\n(7) Lý thuyết kinh tế thông thường dự đoán rằng quãng đường đi làm dài sẽ được bù lại bằng những phần thưởng khác, như lương cao hơn hay nhà to hơn, để rốt cuộc người đi làm xa không thiệt hơn ai.\n(8) Dữ liệu không xác nhận điều đó.\n(9) Những người đi làm xa luôn cho biết mức hài lòng thấp hơn, và các nhà nghiên cứu tính rằng một người mất một giờ mỗi chiều sẽ cần kiếm nhiều hơn khoảng bốn mươi phần trăm mới hài lòng ngang một người không phải đi làm xa chút nào.\n(10) Họ gọi khoảng chênh này là nghịch lý đi làm xa.\n(11) Vì sao nhiều người lại đưa ra một lựa chọn rõ ràng khiến họ kém hài lòng hơn?\n(12) Một lời giải thích hợp lý là chúng ta đánh giá nhà ở và quãng đường theo những cách rất khác nhau.\n(13) Một phòng khách rộng rãi là thứ ta để ý mỗi ngày, trong khi ta hay hình dung quãng đường đi làm vào một buổi sáng đẹp trời, đường vắng và một podcast yêu thích, chứ không phải vào một sáng thứ Hai mưa ướt với cảnh tắc nghẽn trên mọi làn xe.\n(14) Một lời giải thích khác là cái giá của việc đi làm xa được rải mỏng qua hàng nghìn khoảnh khắc nhỏ, mỗi khoảnh khắc quá vặt để phàn nàn, còn lợi ích của một ngôi nhà rộng hơn thì đến cùng một lúc, vào ngày ta dọn tới.\n(15) Nghiên cứu này có những giới hạn của nó.\n(16) Những người chọn đi làm xa có thể khác những người không chọn ở các mặt khác, và dữ liệu đến từ một quốc gia duy nhất, nơi giao thông công cộng và cách bố trí đô thị khác với nhiều vùng đô thị lớn của Mỹ.\n(17) Các nghiên cứu sau cũng phát hiện rằng loại hành trình có ý nghĩa: người đi bộ hoặc đạp xe đi làm thường cho biết hài lòng với chuyến đi hơn so với người lái xe bị kẹt giữa dòng xe cộ.\n(18) Không điều gì trong số này có nghĩa chuyển ra ngoại ô là sai lầm.\n(19) Với một gia đình có ba con, thêm một phòng ngủ có lẽ cũng đáng một giờ mỗi ngày trên xe.\n(20) Điều nghịch lý đi làm xa gợi ý chỉ đơn giản là giờ đồng hồ ấy nên được tính một cách trung thực, đúng giá thật của nó, trước khi ký giấy tờ, tốt nhất là với quãng đường được chạy thử vào một buổi sáng ngày thường thay vì một chiều thứ Bảy nắng đẹp.",
+      "word_count": 468
+    },
+    {
+      "id": "passage_u0304_06",
+      "heading_i18n": {
+        "vi": "Bài đọc 6 (Unit 4) — Thư bà Harriet gửi chủ nhà về tiệm bánh bỏ trống"
+      },
+      "narrator": "Harriet",
+      "title": "A Letter About the Empty Bakery",
+      "category": "letter",
+      "jlpt_level": "C1",
+      "difficulty": 1,
+      "estimated_reading_time": 280,
+      "segments": [
+        {
+          "n": 1,
+          "para": 1,
+          "kind": "title",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A Letter About the Empty Bakery",
+            "vi": "Lá thư về tiệm bánh bỏ trống"
+          }
+        },
+        {
+          "n": 2,
+          "para": 2,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "From: Harriet Brooks, owner, Harriet's Café, Maple Street. To: Mr. Raymond Dalton, Dalton Property Management. February 9.",
+            "vi": "Người gửi: Harriet Brooks, chủ quán Harriet's Café, phố Maple. Người nhận: Ông Raymond Dalton, Công ty Quản lý Bất động sản Dalton. Ngày 9 tháng Hai."
+          }
+        },
+        {
+          "n": 3,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Dear Mr. Dalton, I am writing about the unoccupied shop adjoining my café, which has been empty since the bakery closed last July.",
+            "vi": "Kính gửi ông Dalton, tôi viết thư về căn tiệm bỏ trống sát vách quán cà phê của tôi, căn tiệm đã trống từ khi tiệm bánh đóng cửa hồi tháng Bảy năm ngoái."
+          }
+        },
+        {
+          "n": 4,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I have been a good neighbor to that building for nearly fifteen years, and I would like to go on being one, but over the winter it has started to cause problems that I can no longer simply patch up myself.",
+            "vi": "Tôi đã là hàng xóm tốt của toà nhà đó gần mười lăm năm, và tôi muốn tiếp tục như vậy, nhưng suốt mùa đông nó bắt đầu gây ra những vấn đề mà tôi không thể tự mình vá víu được nữa."
+          }
+        },
+        {
+          "n": 5,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The most serious concerns the plumbing.",
+            "vi": "Nghiêm trọng nhất là chuyện đường ống nước."
+          }
+        },
+        {
+          "n": 6,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Since the heavy rain in January, water has been coming through the wall that we share, and a dark stain now runs along the floor behind my counter.",
+            "vi": "Từ trận mưa lớn hồi tháng Một, nước cứ thấm qua bức tường chung giữa hai bên, và giờ một vệt ố sẫm màu chạy dọc sàn sau quầy của tôi."
+          }
+        },
+        {
+          "n": 7,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "A carpenter who looked at it last week told me that the leak is almost certainly coming from an old pipe on your side, and that the longer it goes without repair, the more of the wall will need to be replaced.",
+            "vi": "Một thợ mộc xem qua hôm tuần trước bảo tôi rằng chỗ rò gần như chắc chắn đến từ một đường ống cũ bên phía ông, và càng để lâu không sửa thì càng phải thay nhiều phần tường hơn."
+          }
+        },
+        {
+          "n": 8,
+          "para": 3,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "With the shop next door locked and nobody checking it, I have no way of knowing how much damage has already been done.",
+            "vi": "Với căn tiệm bên cạnh khoá cửa và không ai kiểm tra, tôi không có cách nào biết thiệt hại đã tới đâu."
+          }
+        },
+        {
+          "n": 9,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The second problem is the air.",
+            "vi": "Vấn đề thứ hai là không khí."
+          }
+        },
+        {
+          "n": 10,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "The bakery's ventilation system has been switched off since it closed, and the smell of damp has begun to find its way into my café, which my customers have always described as warm and homely.",
+            "vi": "Hệ thống thông gió của tiệm bánh đã tắt từ khi đóng cửa, và mùi ẩm mốc bắt đầu len vào quán của tôi, nơi khách vẫn luôn tả là ấm áp và thân thuộc như ở nhà."
+          }
+        },
+        {
+          "n": 11,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Several of them have now told me, kindly but honestly, that the back room feels stuffy, and it is the very room where my book club and the Saturday homework group meet.",
+            "vi": "Giờ vài người đã nói với tôi, nhẹ nhàng nhưng thật lòng, rằng phòng sau thấy bí bách, mà đó lại chính là căn phòng nơi câu lạc bộ sách và nhóm làm bài tập sáng thứ Bảy của tôi họp."
+          }
+        },
+        {
+          "n": 12,
+          "para": 4,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I have opened the windows and bought a small machine to dry the air, but these are only temporary solutions to a problem that starts on the other side of the wall.",
+            "vi": "Tôi đã mở cửa sổ và mua một chiếc máy nhỏ để hút ẩm, nhưng đó chỉ là giải pháp tạm thời cho một vấn đề bắt đầu từ phía bên kia bức tường."
+          }
+        },
+        {
+          "n": 13,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Finally, a good deal of clutter has collected behind the building: broken chairs, empty boxes, and an old refrigerator that was probably left by the previous occupant.",
+            "vi": "Cuối cùng, khá nhiều đồ bỏ đi đã chất đống phía sau toà nhà: ghế gãy, thùng rỗng, và một chiếc tủ lạnh cũ có lẽ người thuê trước để lại."
+          }
+        },
+        {
+          "n": 14,
+          "para": 5,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Children walk past that spot every afternoon on their way to the pocket park, and I would like it cleared before someone gets hurt.",
+            "vi": "Chiều nào trẻ con cũng đi ngang chỗ đó trên đường tới công viên bỏ túi, và tôi muốn nó được dọn sạch trước khi có ai bị thương."
+          }
+        },
+        {
+          "n": 15,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I would therefore ask you to arrange for a plumber to inspect the pipe this month, to have the ventilation switched on or checked, and to have the area behind the building cleared.",
+            "vi": "Vì vậy, tôi đề nghị ông thu xếp cho thợ sửa ống nước kiểm tra đường ống trong tháng này, cho bật hoặc kiểm tra hệ thống thông gió, và cho dọn dẹp khu vực phía sau toà nhà."
+          }
+        },
+        {
+          "n": 16,
+          "para": 6,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I am, of course, happy to give your workers access through my back door.",
+            "vi": "Dĩ nhiên tôi sẵn lòng để thợ của ông đi qua cửa sau quán tôi."
+          }
+        },
+        {
+          "n": 17,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "While I am writing, I should mention one more thing.",
+            "vi": "Nhân tiện viết thư, tôi xin nhắc thêm một chuyện."
+          }
+        },
+        {
+          "n": 18,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "When I telephoned your office last summer, I was told that the monthly rent would be 3,200 dollars, and I have been thinking about that figure more often than I expected.",
+            "vi": "Khi tôi gọi điện tới văn phòng ông hồi mùa hè năm ngoái, tôi được báo tiền thuê mỗi tháng là 3.200 đô la, và tôi nghĩ về con số đó thường xuyên hơn mình tưởng."
+          }
+        },
+        {
+          "n": 19,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Once the repairs are done, I would very much like to see the space, perhaps with my son, who is better with numbers than I am.",
+            "vi": "Khi sửa xong, tôi rất muốn được xem căn tiệm, có lẽ đi cùng con trai tôi, người giỏi tính toán hơn tôi."
+          }
+        },
+        {
+          "n": 20,
+          "para": 7,
+          "kind": "sentence",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "I am not promising anything, but at seventy-four I have learned that it is unwise to ignore an empty room next door for too long.",
+            "vi": "Tôi không hứa hẹn gì cả, nhưng ở tuổi bảy mươi tư, tôi đã học được rằng phớt lờ một căn phòng trống ngay bên cạnh quá lâu là điều không khôn ngoan."
+          }
+        },
+        {
+          "n": 21,
+          "para": 7,
+          "kind": "signature",
+          "speaker": null,
+          "label": null,
+          "i18n": {
+            "en": "Yours sincerely, Harriet Brooks",
+            "vi": "Trân trọng, Harriet Brooks"
+          }
+        }
+      ],
+      "curriculum_sheets": [
+        "c1.013",
+        "c1.014",
+        "c1.015",
+        "c1.016"
+      ],
+      "content_ja": "A Letter About the Empty Bakery\n\nFrom: Harriet Brooks, owner, Harriet's Café, Maple Street. To: Mr. Raymond Dalton, Dalton Property Management. February 9.\n\nDear Mr. Dalton, I am writing about the unoccupied shop adjoining my café, which has been empty since the bakery closed last July. I have been a good neighbor to that building for nearly fifteen years, and I would like to go on being one, but over the winter it has started to cause problems that I can no longer simply patch up myself. The most serious concerns the plumbing. Since the heavy rain in January, water has been coming through the wall that we share, and a dark stain now runs along the floor behind my counter. A carpenter who looked at it last week told me that the leak is almost certainly coming from an old pipe on your side, and that the longer it goes without repair, the more of the wall will need to be replaced. With the shop next door locked and nobody checking it, I have no way of knowing how much damage has already been done.\n\nThe second problem is the air. The bakery's ventilation system has been switched off since it closed, and the smell of damp has begun to find its way into my café, which my customers have always described as warm and homely. Several of them have now told me, kindly but honestly, that the back room feels stuffy, and it is the very room where my book club and the Saturday homework group meet. I have opened the windows and bought a small machine to dry the air, but these are only temporary solutions to a problem that starts on the other side of the wall.\n\nFinally, a good deal of clutter has collected behind the building: broken chairs, empty boxes, and an old refrigerator that was probably left by the previous occupant. Children walk past that spot every afternoon on their way to the pocket park, and I would like it cleared before someone gets hurt.\n\nI would therefore ask you to arrange for a plumber to inspect the pipe this month, to have the ventilation switched on or checked, and to have the area behind the building cleared. I am, of course, happy to give your workers access through my back door.\n\nWhile I am writing, I should mention one more thing. When I telephoned your office last summer, I was told that the monthly rent would be 3,200 dollars, and I have been thinking about that figure more often than I expected. Once the repairs are done, I would very much like to see the space, perhaps with my son, who is better with numbers than I am. I am not promising anything, but at seventy-four I have learned that it is unwise to ignore an empty room next door for too long.\n\nYours sincerely, Harriet Brooks",
+      "translation_vn": "(1) Lá thư về tiệm bánh bỏ trống\n(2) Người gửi: Harriet Brooks, chủ quán Harriet's Café, phố Maple. Người nhận: Ông Raymond Dalton, Công ty Quản lý Bất động sản Dalton. Ngày 9 tháng Hai.\n(3) Kính gửi ông Dalton, tôi viết thư về căn tiệm bỏ trống sát vách quán cà phê của tôi, căn tiệm đã trống từ khi tiệm bánh đóng cửa hồi tháng Bảy năm ngoái.\n(4) Tôi đã là hàng xóm tốt của toà nhà đó gần mười lăm năm, và tôi muốn tiếp tục như vậy, nhưng suốt mùa đông nó bắt đầu gây ra những vấn đề mà tôi không thể tự mình vá víu được nữa.\n(5) Nghiêm trọng nhất là chuyện đường ống nước.\n(6) Từ trận mưa lớn hồi tháng Một, nước cứ thấm qua bức tường chung giữa hai bên, và giờ một vệt ố sẫm màu chạy dọc sàn sau quầy của tôi.\n(7) Một thợ mộc xem qua hôm tuần trước bảo tôi rằng chỗ rò gần như chắc chắn đến từ một đường ống cũ bên phía ông, và càng để lâu không sửa thì càng phải thay nhiều phần tường hơn.\n(8) Với căn tiệm bên cạnh khoá cửa và không ai kiểm tra, tôi không có cách nào biết thiệt hại đã tới đâu.\n(9) Vấn đề thứ hai là không khí.\n(10) Hệ thống thông gió của tiệm bánh đã tắt từ khi đóng cửa, và mùi ẩm mốc bắt đầu len vào quán của tôi, nơi khách vẫn luôn tả là ấm áp và thân thuộc như ở nhà.\n(11) Giờ vài người đã nói với tôi, nhẹ nhàng nhưng thật lòng, rằng phòng sau thấy bí bách, mà đó lại chính là căn phòng nơi câu lạc bộ sách và nhóm làm bài tập sáng thứ Bảy của tôi họp.\n(12) Tôi đã mở cửa sổ và mua một chiếc máy nhỏ để hút ẩm, nhưng đó chỉ là giải pháp tạm thời cho một vấn đề bắt đầu từ phía bên kia bức tường.\n(13) Cuối cùng, khá nhiều đồ bỏ đi đã chất đống phía sau toà nhà: ghế gãy, thùng rỗng, và một chiếc tủ lạnh cũ có lẽ người thuê trước để lại.\n(14) Chiều nào trẻ con cũng đi ngang chỗ đó trên đường tới công viên bỏ túi, và tôi muốn nó được dọn sạch trước khi có ai bị thương.\n(15) Vì vậy, tôi đề nghị ông thu xếp cho thợ sửa ống nước kiểm tra đường ống trong tháng này, cho bật hoặc kiểm tra hệ thống thông gió, và cho dọn dẹp khu vực phía sau toà nhà.\n(16) Dĩ nhiên tôi sẵn lòng để thợ của ông đi qua cửa sau quán tôi.\n(17) Nhân tiện viết thư, tôi xin nhắc thêm một chuyện.\n(18) Khi tôi gọi điện tới văn phòng ông hồi mùa hè năm ngoái, tôi được báo tiền thuê mỗi tháng là 3.200 đô la, và tôi nghĩ về con số đó thường xuyên hơn mình tưởng.\n(19) Khi sửa xong, tôi rất muốn được xem căn tiệm, có lẽ đi cùng con trai tôi, người giỏi tính toán hơn tôi.\n(20) Tôi không hứa hẹn gì cả, nhưng ở tuổi bảy mươi tư, tôi đã học được rằng phớt lờ một căn phòng trống ngay bên cạnh quá lâu là điều không khôn ngoan.\n(21) Trân trọng, Harriet Brooks",
+      "word_count": 484
     }
   ],
   "questions": [
@@ -1950,6 +3019,2745 @@
       "question_jp": "Use both texts. What do Nathan and Leah both do when facing a difficult question?",
       "question_vn": "Dựa vào cả hai bài. Khi gặp câu hỏi khó, Nathan và Leah đều làm gì?",
       "explanation": "Câu nối hai bài. Nathan khuyên đọc chéo, đừng để ảnh giả khiến ta cảm xúc trước khi suy nghĩ; Leah so ba phương án trên bảng tính rồi mới đi tới quyết định tạm thời."
+    },
+    {
+      "id": "q_u0304_021",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_03",
+      "i18n": {
+        "en": "Why does the writer point out that there is no credible evidence that Mark Twain said the famous line?",
+        "vi": "Vì sao người viết chỉ ra rằng không có bằng chứng đáng tin nào cho thấy Mark Twain đã nói câu nổi tiếng kia?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to criticize Mark Twain for repeating stories that were not true",
+            "vi": "để phê phán Mark Twain vì nhắc lại những chuyện không có thật"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to criticize Mark Twain for repeating stories that were not true",
+          "text_translation": "để phê phán Mark Twain vì nhắc lại những chuyện không có thật"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to show, through the saying itself, how easily stories spread without being checked",
+            "vi": "để cho thấy, qua chính câu nói ấy, chuyện chưa kiểm chứng lan đi dễ dàng thế nào"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to show, through the saying itself, how easily stories spread without being checked",
+          "text_translation": "để cho thấy, qua chính câu nói ấy, chuyện chưa kiểm chứng lan đi dễ dàng thế nào"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to suggest that famous quotes are usually more reliable than research",
+            "vi": "để ngụ ý các câu nói nổi tiếng thường đáng tin hơn nghiên cứu"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to suggest that famous quotes are usually more reliable than research",
+          "text_translation": "để ngụ ý các câu nói nổi tiếng thường đáng tin hơn nghiên cứu"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to prove that the saying is wrong about how lies travel",
+            "vi": "để chứng minh câu nói ấy sai về cách lời nói dối lan đi"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to prove that the saying is wrong about how lies travel",
+          "text_translation": "để chứng minh câu nói ấy sai về cách lời nói dối lan đi"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"which is itself a small demonstration of how easily a good story spreads without anyone checking its source\" — chính câu nói về tin sai cũng là tin chưa kiểm chứng."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer point out that there is no credible evidence that Mark Twain said the famous line?",
+      "question_vn": "Vì sao người viết chỉ ra rằng không có bằng chứng đáng tin nào cho thấy Mark Twain đã nói câu nổi tiếng kia?",
+      "explanation": "\"which is itself a small demonstration of how easily a good story spreads without anyone checking its source\" — chính câu nói về tin sai cũng là tin chưa kiểm chứng."
+    },
+    {
+      "id": "q_u0304_022",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_03",
+      "i18n": {
+        "en": "What material did the researchers study?",
+        "vi": "Các nhà nghiên cứu đã nghiên cứu dữ liệu gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "about 126,000 stories that fact-checkers had already labeled true or false",
+            "vi": "khoảng 126.000 câu chuyện đã được người kiểm chứng dán nhãn đúng hay sai"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "about 126,000 stories that fact-checkers had already labeled true or false",
+          "text_translation": "khoảng 126.000 câu chuyện đã được người kiểm chứng dán nhãn đúng hay sai"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "interviews with three million people about the news they trust",
+            "vi": "các cuộc phỏng vấn ba triệu người về tin tức họ tin"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "interviews with three million people about the news they trust",
+          "text_translation": "các cuộc phỏng vấn ba triệu người về tin tức họ tin"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "newspaper articles that had been published between 2006 and 2017",
+            "vi": "các bài báo in được đăng từ năm 2006 tới 2017"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "newspaper articles that had been published between 2006 and 2017",
+          "text_translation": "các bài báo in được đăng từ năm 2006 tới 2017"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "stories posted only by automated accounts over one year",
+            "vi": "những câu chuyện chỉ do tài khoản tự động đăng trong một năm"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "stories posted only by automated accounts over one year",
+          "text_translation": "những câu chuyện chỉ do tài khoản tự động đăng trong một năm"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"sifted through about 126,000 stories\", mỗi câu chuyện đều \"checked by independent fact-checking organizations\" và dán nhãn đúng/sai."
+      },
+      "audio_data": null,
+      "question_jp": "What material did the researchers study?",
+      "question_vn": "Các nhà nghiên cứu đã nghiên cứu dữ liệu gì?",
+      "explanation": "\"sifted through about 126,000 stories\", mỗi câu chuyện đều \"checked by independent fact-checking organizations\" và dán nhãn đúng/sai."
+    },
+    {
+      "id": "q_u0304_023",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_03",
+      "i18n": {
+        "en": "According to the article, which of the following was one of the study's findings?",
+        "vi": "Theo bài, điều nào sau đây là một trong những kết quả của nghiên cứu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "True stories took about six times as long as false ones to reach 1,500 people.",
+            "vi": "Tin thật mất thời gian gấp khoảng sáu lần tin sai để tới được 1.500 người."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "True stories took about six times as long as false ones to reach 1,500 people.",
+          "text_translation": "Tin thật mất thời gian gấp khoảng sáu lần tin sai để tới được 1.500 người."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "True stories were shared about seventy percent more often than false ones.",
+            "vi": "Tin thật được chia sẻ nhiều hơn tin sai khoảng bảy mươi phần trăm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "True stories were shared about seventy percent more often than false ones.",
+          "text_translation": "Tin thật được chia sẻ nhiều hơn tin sai khoảng bảy mươi phần trăm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "False stories spread faster but never reached as many people.",
+            "vi": "Tin sai lan nhanh hơn nhưng không bao giờ tới được nhiều người bằng."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "False stories spread faster but never reached as many people.",
+          "text_translation": "Tin sai lan nhanh hơn nhưng không bao giờ tới được nhiều người bằng."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "False stories were mostly shared by about 1,500 accounts.",
+            "vi": "Tin sai chủ yếu do khoảng 1.500 tài khoản chia sẻ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "False stories were mostly shared by about 1,500 accounts.",
+          "text_translation": "Tin sai chủ yếu do khoảng 1.500 tài khoản chia sẻ."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"true stories took roughly six times as long to reach an audience of 1,500 people\"."
+      },
+      "audio_data": null,
+      "question_jp": "According to the article, which of the following was one of the study's findings?",
+      "question_vn": "Theo bài, điều nào sau đây là một trong những kết quả của nghiên cứu?",
+      "explanation": "\"true stories took roughly six times as long to reach an audience of 1,500 people\"."
+    },
+    {
+      "id": "q_u0304_024",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_03",
+      "i18n": {
+        "en": "In the article, what does \"The obvious suspect\" refer to?",
+        "vi": "Trong bài, \"The obvious suspect\" chỉ điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the fact-checking organizations",
+            "vi": "các tổ chức kiểm chứng tin"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the fact-checking organizations",
+          "text_translation": "các tổ chức kiểm chứng tin"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "ordinary people who share news",
+            "vi": "những người bình thường chia sẻ tin"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "ordinary people who share news",
+          "text_translation": "những người bình thường chia sẻ tin"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "automated accounts that share content",
+            "vi": "các tài khoản tự động chia sẻ nội dung"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "automated accounts that share content",
+          "text_translation": "các tài khoản tự động chia sẻ nội dung"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the researchers who carried out the study",
+            "vi": "các nhà nghiên cứu thực hiện nghiên cứu"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the researchers who carried out the study",
+          "text_translation": "các nhà nghiên cứu thực hiện nghiên cứu"
+        }
+      ],
+      "evidence_segments": [
+        11,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"The obvious suspect was automation\", câu sau nói rõ đó là bot: \"the automated accounts that can share content thousands of times a day\"."
+      },
+      "audio_data": null,
+      "question_jp": "In the article, what does \"The obvious suspect\" refer to?",
+      "question_vn": "Trong bài, \"The obvious suspect\" chỉ điều gì?",
+      "explanation": "\"The obvious suspect was automation\", câu sau nói rõ đó là bot: \"the automated accounts that can share content thousands of times a day\"."
+    },
+    {
+      "id": "q_u0304_025",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_03",
+      "i18n": {
+        "en": "Why did removing the bots from the data not change the pattern?",
+        "vi": "Vì sao loại bot khỏi dữ liệu không làm thay đổi quy luật?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because there were too few bots to make any difference",
+            "vi": "vì có quá ít bot để tạo ra khác biệt"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "because there were too few bots to make any difference",
+          "text_translation": "vì có quá ít bot để tạo ra khác biệt"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because the bots had been designed to share only true stories",
+            "vi": "vì bot được thiết kế chỉ chia sẻ tin thật"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because the bots had been designed to share only true stories",
+          "text_translation": "vì bot được thiết kế chỉ chia sẻ tin thật"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the bots shared true and false stories at about the same rate",
+            "vi": "vì bot chia sẻ tin thật và tin sai với tỉ lệ gần như nhau"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the bots shared true and false stories at about the same rate",
+          "text_translation": "vì bot chia sẻ tin thật và tin sai với tỉ lệ gần như nhau"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the researchers could not tell bots from real people",
+            "vi": "vì các nhà nghiên cứu không phân biệt được bot với người thật"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because the researchers could not tell bots from real people",
+          "text_translation": "vì các nhà nghiên cứu không phân biệt được bot với người thật"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"the bots, it turned out, shared true and false stories at roughly the same rate\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why did removing the bots from the data not change the pattern?",
+      "question_vn": "Vì sao loại bot khỏi dữ liệu không làm thay đổi quy luật?",
+      "explanation": "\"the bots, it turned out, shared true and false stories at roughly the same rate\"."
+    },
+    {
+      "id": "q_u0304_026",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_03",
+      "i18n": {
+        "en": "Why does the writer describe the study's conclusion about humans as \"uncomfortable\"?",
+        "vi": "Vì sao người viết gọi kết luận về con người của nghiên cứu là \"uncomfortable\" (khó chịu)?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the researchers were unhappy with their own methods",
+            "vi": "vì các nhà nghiên cứu không hài lòng với phương pháp của chính họ"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because the researchers were unhappy with their own methods",
+          "text_translation": "vì các nhà nghiên cứu không hài lòng với phương pháp của chính họ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because engineers had already solved the problem of bots",
+            "vi": "vì kỹ sư đã giải quyết xong vấn đề bot"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because engineers had already solved the problem of bots",
+          "text_translation": "vì kỹ sư đã giải quyết xong vấn đề bot"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the study was criticized by social media companies",
+            "vi": "vì nghiên cứu bị các công ty mạng xã hội chỉ trích"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the study was criticized by social media companies",
+          "text_translation": "vì nghiên cứu bị các công ty mạng xã hội chỉ trích"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because it means that readers themselves share part of the responsibility",
+            "vi": "vì nó có nghĩa chính người đọc cũng chịu một phần trách nhiệm"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because it means that readers themselves share part of the responsibility",
+          "text_translation": "vì nó có nghĩa chính người đọc cũng chịu một phần trách nhiệm"
+        }
+      ],
+      "evidence_segments": [
+        14,
+        21
+      ],
+      "explanation_i18n": {
+        "vi": "\"That humans, not machines, were mainly responsible\" — không đổ được cho máy; kết bài nhắc lại: vấn đề \"lies partly in us\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer describe the study's conclusion about humans as \"uncomfortable\"?",
+      "question_vn": "Vì sao người viết gọi kết luận về con người của nghiên cứu là \"uncomfortable\" (khó chịu)?",
+      "explanation": "\"That humans, not machines, were mainly responsible\" — không đổ được cho máy; kết bài nhắc lại: vấn đề \"lies partly in us\"."
+    },
+    {
+      "id": "q_u0304_027",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_03",
+      "i18n": {
+        "en": "According to the researchers' explanation, why might people share false stories?",
+        "vi": "Theo lời giải thích của các nhà nghiên cứu, vì sao người ta có thể chia sẻ tin sai?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because sharing surprising news makes them look well informed",
+            "vi": "vì chia sẻ tin gây bất ngờ khiến họ trông như người biết nhiều"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because sharing surprising news makes them look well informed",
+          "text_translation": "vì chia sẻ tin gây bất ngờ khiến họ trông như người biết nhiều"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because false stories are usually shorter and easier to read",
+            "vi": "vì tin sai thường ngắn và dễ đọc hơn"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because false stories are usually shorter and easier to read",
+          "text_translation": "vì tin sai thường ngắn và dễ đọc hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because they are paid by the owners of automated accounts",
+            "vi": "vì họ được chủ các tài khoản tự động trả tiền"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because they are paid by the owners of automated accounts",
+          "text_translation": "vì họ được chủ các tài khoản tự động trả tiền"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because they want to harm the people mentioned in them",
+            "vi": "vì họ muốn làm hại những người được nhắc tới"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "because they want to harm the people mentioned in them",
+          "text_translation": "vì họ muốn làm hại những người được nhắc tới"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"people who share something new gain a little status as the person who knows first\"."
+      },
+      "audio_data": null,
+      "question_jp": "According to the researchers' explanation, why might people share false stories?",
+      "question_vn": "Theo lời giải thích của các nhà nghiên cứu, vì sao người ta có thể chia sẻ tin sai?",
+      "explanation": "\"people who share something new gain a little status as the person who knows first\"."
+    },
+    {
+      "id": "q_u0304_028",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_03",
+      "i18n": {
+        "en": "In the sentence beginning \"The replies they analyzed\", what does \"bear this out\" mean?",
+        "vi": "Trong câu bắt đầu bằng \"The replies they analyzed\", \"bear this out\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "support or confirm it",
+            "vi": "ủng hộ hoặc xác nhận nó"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "support or confirm it",
+          "text_translation": "ủng hộ hoặc xác nhận nó"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "make it harder to believe",
+            "vi": "khiến khó tin hơn"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "make it harder to believe",
+          "text_translation": "khiến khó tin hơn"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "explain it in easier words",
+            "vi": "giải thích nó bằng lời dễ hiểu hơn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "explain it in easier words",
+          "text_translation": "giải thích nó bằng lời dễ hiểu hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "show that it is out of date",
+            "vi": "cho thấy nó đã lỗi thời"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "show that it is out of date",
+          "text_translation": "cho thấy nó đã lỗi thời"
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"The replies they analyzed bear this out\" — phản hồi đầy bất ngờ khớp với lời giải thích về tính mới lạ, tức là xác nhận nó."
+      },
+      "audio_data": null,
+      "question_jp": "In the sentence beginning \"The replies they analyzed\", what does \"bear this out\" mean?",
+      "question_vn": "Trong câu bắt đầu bằng \"The replies they analyzed\", \"bear this out\" nghĩa là gì?",
+      "explanation": "\"The replies they analyzed bear this out\" — phản hồi đầy bất ngờ khớp với lời giải thích về tính mới lạ, tức là xác nhận nó."
+    },
+    {
+      "id": "q_u0304_029",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_03",
+      "i18n": {
+        "en": "What is the purpose of the last paragraph?",
+        "vi": "Đoạn cuối có mục đích gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to introduce a newer study that reached the opposite conclusion",
+            "vi": "để giới thiệu một nghiên cứu mới hơn đi tới kết luận ngược lại"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to introduce a newer study that reached the opposite conclusion",
+          "text_translation": "để giới thiệu một nghiên cứu mới hơn đi tới kết luận ngược lại"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to argue that the study should be ignored because it is out of date",
+            "vi": "để lập luận rằng nên bỏ qua nghiên cứu vì nó đã lỗi thời"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "to argue that the study should be ignored because it is out of date",
+          "text_translation": "để lập luận rằng nên bỏ qua nghiên cứu vì nó đã lỗi thời"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to admit the study's limits while explaining why its main point still matters",
+            "vi": "để thừa nhận giới hạn của nghiên cứu nhưng giải thích vì sao ý chính vẫn quan trọng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to admit the study's limits while explaining why its main point still matters",
+          "text_translation": "để thừa nhận giới hạn của nghiên cứu nhưng giải thích vì sao ý chính vẫn quan trọng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to describe how engineers have changed the way platforms work",
+            "vi": "để mô tả kỹ sư đã thay đổi cách các nền tảng vận hành thế nào"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to describe how engineers have changed the way platforms work",
+          "text_translation": "để mô tả kỹ sư đã thay đổi cách các nền tảng vận hành thế nào"
+        }
+      ],
+      "evidence_segments": [
+        18,
+        19,
+        20
+      ],
+      "explanation_i18n": {
+        "vi": "Đoạn nêu giới hạn (\"It would be a mistake to read too much into a single study\") rồi chuyển: \"Even so, the central premise has been supported by later work\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is the purpose of the last paragraph?",
+      "question_vn": "Đoạn cuối có mục đích gì?",
+      "explanation": "Đoạn nêu giới hạn (\"It would be a mistake to read too much into a single study\") rồi chuyển: \"Even so, the central premise has been supported by later work\"."
+    },
+    {
+      "id": "q_u0304_030",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_03",
+      "i18n": {
+        "en": "What does the final sentence imply?",
+        "vi": "Câu cuối cùng hàm ý gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Engineers are mainly to blame for the spread of false stories.",
+            "vi": "Kỹ sư là người có lỗi chính trong việc tin sai lan rộng."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "Engineers are mainly to blame for the spread of false stories.",
+          "text_translation": "Kỹ sư là người có lỗi chính trong việc tin sai lan rộng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "People should stop using social media platforms altogether.",
+            "vi": "Mọi người nên thôi hẳn dùng mạng xã hội."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "People should stop using social media platforms altogether.",
+          "text_translation": "Mọi người nên thôi hẳn dùng mạng xã hội."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Better firewalls would solve most of the problem of misinformation.",
+            "vi": "Tường lửa tốt hơn sẽ giải quyết phần lớn vấn đề tin sai."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "Better firewalls would solve most of the problem of misinformation.",
+          "text_translation": "Tường lửa tốt hơn sẽ giải quyết phần lớn vấn đề tin sai."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "What each person does before sharing matters as much as any technical fix.",
+            "vi": "Việc mỗi người làm trước khi chia sẻ quan trọng không kém bất kỳ giải pháp kỹ thuật nào."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "What each person does before sharing matters as much as any technical fix.",
+          "text_translation": "Việc mỗi người làm trước khi chia sẻ quan trọng không kém bất kỳ giải pháp kỹ thuật nào."
+        }
+      ],
+      "evidence_segments": [
+        21
+      ],
+      "explanation_i18n": {
+        "vi": "\"if it lies partly in us, then the ten seconds before we press share matter more than any firewall\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does the final sentence imply?",
+      "question_vn": "Câu cuối cùng hàm ý gì?",
+      "explanation": "\"if it lies partly in us, then the ten seconds before we press share matter more than any firewall\"."
+    },
+    {
+      "id": "q_u0304_031",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_04",
+      "i18n": {
+        "en": "What is the main purpose of Carol Jennings's letter?",
+        "vi": "Mục đích chính của lá thư của Carol Jennings là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to recommend a new supplement to other readers of the paper",
+            "vi": "giới thiệu một loại thực phẩm bổ sung mới cho độc giả khác"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to recommend a new supplement to other readers of the paper",
+          "text_translation": "giới thiệu một loại thực phẩm bổ sung mới cho độc giả khác"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to apply for a job as the paper's science reporter",
+            "vi": "xin vào làm phóng viên khoa học của tờ báo"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to apply for a job as the paper's science reporter",
+          "text_translation": "xin vào làm phóng viên khoa học của tờ báo"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to stop buying the paper after thirty years of reading",
+            "vi": "thôi mua báo sau ba mươi năm đọc"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to stop buying the paper after thirty years of reading",
+          "text_translation": "thôi mua báo sau ba mươi năm đọc"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to complain about an advertisement presented as news and ask for changes",
+            "vi": "phàn nàn về một quảng cáo trình bày như tin tức và đề nghị thay đổi"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to complain about an advertisement presented as news and ask for changes",
+          "text_translation": "phàn nàn về một quảng cáo trình bày như tin tức và đề nghị thay đổi"
+        }
+      ],
+      "evidence_segments": [
+        2,
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "Bà viết \"to complain about an article in last Sunday's health section\", phản đối chiêu \"dressing an advertisement up as a news report\" và nêu ba đề nghị."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of Carol Jennings's letter?",
+      "question_vn": "Mục đích chính của lá thư của Carol Jennings là gì?",
+      "explanation": "Bà viết \"to complain about an article in last Sunday's health section\", phản đối chiêu \"dressing an advertisement up as a news report\" và nêu ba đề nghị."
+    },
+    {
+      "id": "q_u0304_032",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_04",
+      "i18n": {
+        "en": "Why does the writer mention that she has read the paper for more than thirty years?",
+        "vi": "Vì sao người viết nhắc rằng bà đã đọc tờ báo hơn ba mươi năm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that her complaint comes from a loyal reader who values the paper",
+            "vi": "để cho thấy lời phàn nàn đến từ một độc giả trung thành coi trọng tờ báo"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to show that her complaint comes from a loyal reader who values the paper",
+          "text_translation": "để cho thấy lời phàn nàn đến từ một độc giả trung thành coi trọng tờ báo"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to ask the editor to give her a discount for being a long-time reader",
+            "vi": "để xin toà soạn giảm giá vì là độc giả lâu năm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to ask the editor to give her a discount for being a long-time reader",
+          "text_translation": "để xin toà soạn giảm giá vì là độc giả lâu năm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to show that she is too old to understand modern advertising",
+            "vi": "để cho thấy bà quá lớn tuổi để hiểu quảng cáo hiện đại"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to show that she is too old to understand modern advertising",
+          "text_translation": "để cho thấy bà quá lớn tuổi để hiểu quảng cáo hiện đại"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to prove that the paper's health section used to be much worse",
+            "vi": "để chứng minh mục sức khoẻ trước đây còn tệ hơn nhiều"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to prove that the paper's health section used to be much worse",
+          "text_translation": "để chứng minh mục sức khoẻ trước đây còn tệ hơn nhiều"
+        }
+      ],
+      "evidence_segments": [
+        2
+      ],
+      "explanation_i18n": {
+        "vi": "\"it is precisely because I value its credibility that I am writing to complain\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer mention that she has read the paper for more than thirty years?",
+      "question_vn": "Vì sao người viết nhắc rằng bà đã đọc tờ báo hơn ba mươi năm?",
+      "explanation": "\"it is precisely because I value its credibility that I am writing to complain\"."
+    },
+    {
+      "id": "q_u0304_033",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_04",
+      "i18n": {
+        "en": "What does the sentence beginning \"Only in very small grey letters\" suggest?",
+        "vi": "Câu bắt đầu bằng \"Only in very small grey letters\" gợi ra điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The photo of the customer was too small to see clearly.",
+            "vi": "Ảnh khách hàng quá nhỏ để nhìn rõ."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The photo of the customer was too small to see clearly.",
+          "text_translation": "Ảnh khách hàng quá nhỏ để nhìn rõ."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The label showing it was an advertisement was easy to miss.",
+            "vi": "Nhãn cho biết đó là quảng cáo rất dễ bị bỏ sót."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The label showing it was an advertisement was easy to miss.",
+          "text_translation": "Nhãn cho biết đó là quảng cáo rất dễ bị bỏ sót."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The writer had difficulty reading the whole article.",
+            "vi": "Người viết gặp khó khăn khi đọc cả bài."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The writer had difficulty reading the whole article.",
+          "text_translation": "Người viết gặp khó khăn khi đọc cả bài."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The paper had printed the article in the wrong section by mistake.",
+            "vi": "Tờ báo đã in nhầm bài vào sai mục."
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "The paper had printed the article in the wrong section by mistake.",
+          "text_translation": "Tờ báo đã in nhầm bài vào sai mục."
+        }
+      ],
+      "evidence_segments": [
+        5
+      ],
+      "explanation_i18n": {
+        "vi": "\"Only in very small grey letters at the bottom of the page\" — nhãn tài trợ bị đặt ở chỗ khó thấy nhất; đề nghị đầu tiên của bà cũng sửa đúng chỗ này."
+      },
+      "audio_data": null,
+      "question_jp": "What does the sentence beginning \"Only in very small grey letters\" suggest?",
+      "question_vn": "Câu bắt đầu bằng \"Only in very small grey letters\" gợi ra điều gì?",
+      "explanation": "\"Only in very small grey letters at the bottom of the page\" — nhãn tài trợ bị đặt ở chỗ khó thấy nhất; đề nghị đầu tiên của bà cũng sửa đúng chỗ này."
+    },
+    {
+      "id": "q_u0304_034",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_04",
+      "i18n": {
+        "en": "Why does the writer mention that she was a pharmacist for thirty-four years?",
+        "vi": "Vì sao người viết nhắc rằng bà làm dược sĩ ba mươi tư năm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to suggest that pharmacists should write the paper's health section",
+            "vi": "để ngụ ý dược sĩ nên viết mục sức khoẻ của báo"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to suggest that pharmacists should write the paper's health section",
+          "text_translation": "để ngụ ý dược sĩ nên viết mục sức khoẻ của báo"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to show that she has little time to read the paper carefully",
+            "vi": "để cho thấy bà có ít thời gian đọc báo kỹ"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to show that she has little time to read the paper carefully",
+          "text_translation": "để cho thấy bà có ít thời gian đọc báo kỹ"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to show that she has the background to judge the article's claims",
+            "vi": "để cho thấy bà có kiến thức nền để đánh giá các khẳng định trong bài"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to show that she has the background to judge the article's claims",
+          "text_translation": "để cho thấy bà có kiến thức nền để đánh giá các khẳng định trong bài"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to explain why she once sold VitaCalm in her own shop",
+            "vi": "để giải thích vì sao bà từng bán VitaCalm ở cửa hàng của mình"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "to explain why she once sold VitaCalm in her own shop",
+          "text_translation": "để giải thích vì sao bà từng bán VitaCalm ở cửa hàng của mình"
+        }
+      ],
+      "evidence_segments": [
+        6
+      ],
+      "explanation_i18n": {
+        "vi": "\"I spent thirty-four years as a pharmacist, so I read the article with some care\" — kinh nghiệm nghề làm cơ sở cho nhận xét của bà."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer mention that she was a pharmacist for thirty-four years?",
+      "question_vn": "Vì sao người viết nhắc rằng bà làm dược sĩ ba mươi tư năm?",
+      "explanation": "\"I spent thirty-four years as a pharmacist, so I read the article with some care\" — kinh nghiệm nghề làm cơ sở cho nhận xét của bà."
+    },
+    {
+      "id": "q_u0304_035",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_04",
+      "i18n": {
+        "en": "In context, what does \"glossed over\" mean?",
+        "vi": "Trong ngữ cảnh, \"glossed over\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "explained clearly and in great detail",
+            "vi": "giải thích rõ ràng và rất chi tiết"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "explained clearly and in great detail",
+          "text_translation": "giải thích rõ ràng và rất chi tiết"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "printed in large letters at the top",
+            "vi": "in bằng chữ lớn ở đầu trang"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "printed in large letters at the top",
+          "text_translation": "in bằng chữ lớn ở đầu trang"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "failed to mention or treated as unimportant",
+            "vi": "không nhắc tới hoặc coi như không quan trọng"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "failed to mention or treated as unimportant",
+          "text_translation": "không nhắc tới hoặc coi như không quan trọng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "checked carefully with other sources",
+            "vi": "kiểm tra kỹ với các nguồn khác"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "checked carefully with other sources",
+          "text_translation": "kiểm tra kỹ với các nguồn khác"
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "Chuyên gia là cố vấn được trả lương, \"a fact that the article glossed over entirely\" — bài không hề nhắc tới."
+      },
+      "audio_data": null,
+      "question_jp": "In context, what does \"glossed over\" mean?",
+      "question_vn": "Trong ngữ cảnh, \"glossed over\" nghĩa là gì?",
+      "explanation": "Chuyên gia là cố vấn được trả lương, \"a fact that the article glossed over entirely\" — bài không hề nhắc tới."
+    },
+    {
+      "id": "q_u0304_036",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_04",
+      "i18n": {
+        "en": "Which problem with the study does the writer mention?",
+        "vi": "Người viết nêu vấn đề nào của nghiên cứu?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It had been carried out more than thirty years ago.",
+            "vi": "Nó được thực hiện từ hơn ba mươi năm trước."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "It had been carried out more than thirty years ago.",
+          "text_translation": "Nó được thực hiện từ hơn ba mươi năm trước."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It was small and paid for by the company that sells the product.",
+            "vi": "Nó nhỏ và do chính công ty bán sản phẩm trả tiền."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It was small and paid for by the company that sells the product.",
+          "text_translation": "Nó nhỏ và do chính công ty bán sản phẩm trả tiền."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It showed that the product was harmful to older adults.",
+            "vi": "Nó cho thấy sản phẩm có hại cho người lớn tuổi."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "It showed that the product was harmful to older adults.",
+          "text_translation": "Nó cho thấy sản phẩm có hại cho người lớn tuổi."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It was carried out by the paper's own science reporter.",
+            "vi": "Nó do phóng viên khoa học của chính tờ báo thực hiện."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It was carried out by the paper's own science reporter.",
+          "text_translation": "Nó do phóng viên khoa học của chính tờ báo thực hiện."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"had been paid for by the same company, had involved just forty people\"."
+      },
+      "audio_data": null,
+      "question_jp": "Which problem with the study does the writer mention?",
+      "question_vn": "Người viết nêu vấn đề nào của nghiên cứu?",
+      "explanation": "\"had been paid for by the same company, had involved just forty people\"."
+    },
+    {
+      "id": "q_u0304_037",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_04",
+      "i18n": {
+        "en": "What is the writer's view of VitaCalm itself?",
+        "vi": "Người viết nhìn nhận bản thân VitaCalm thế nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She is sure that it is dangerous and should be banned.",
+            "vi": "Bà chắc chắn nó nguy hiểm và nên bị cấm."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "She is sure that it is dangerous and should be banned.",
+          "text_translation": "Bà chắc chắn nó nguy hiểm và nên bị cấm."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "She has tried it and found that it improved her sleep.",
+            "vi": "Bà đã dùng thử và thấy giấc ngủ cải thiện."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "She has tried it and found that it improved her sleep.",
+          "text_translation": "Bà đã dùng thử và thấy giấc ngủ cải thiện."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "She believes that there is no evidence either way.",
+            "vi": "Bà cho rằng chưa có bằng chứng theo hướng nào cả."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "She believes that there is no evidence either way.",
+          "text_translation": "Bà cho rằng chưa có bằng chứng theo hướng nào cả."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "She thinks it works but is far too expensive.",
+            "vi": "Bà nghĩ nó có tác dụng nhưng quá đắt."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "She thinks it works but is far too expensive.",
+          "text_translation": "Bà nghĩ nó có tác dụng nhưng quá đắt."
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"None of this means that the product is harmful, but none of it is evidence that it works, either\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is the writer's view of VitaCalm itself?",
+      "question_vn": "Người viết nhìn nhận bản thân VitaCalm thế nào?",
+      "explanation": "\"None of this means that the product is harmful, but none of it is evidence that it works, either\"."
+    },
+    {
+      "id": "q_u0304_038",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_04",
+      "i18n": {
+        "en": "What does the writer mean by \"borrowing the trust that your journalists have spent decades earning\"?",
+        "vi": "Người viết muốn nói gì qua cụm \"borrowing the trust that your journalists have spent decades earning\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The advertisement uses the paper's good reputation to make readers believe it.",
+            "vi": "Quảng cáo dùng uy tín của tờ báo để khiến độc giả tin nó."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The advertisement uses the paper's good reputation to make readers believe it.",
+          "text_translation": "Quảng cáo dùng uy tín của tờ báo để khiến độc giả tin nó."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Advertisers should pay journalists for the trust they have earned.",
+            "vi": "Nhà quảng cáo nên trả tiền cho nhà báo vì niềm tin họ đã tạo dựng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Advertisers should pay journalists for the trust they have earned.",
+          "text_translation": "Nhà quảng cáo nên trả tiền cho nhà báo vì niềm tin họ đã tạo dựng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The paper's journalists are secretly paid by advertisers.",
+            "vi": "Các nhà báo của tờ báo bí mật nhận tiền của nhà quảng cáo."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "The paper's journalists are secretly paid by advertisers.",
+          "text_translation": "Các nhà báo của tờ báo bí mật nhận tiền của nhà quảng cáo."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Readers trusted the paper more in the past than they do now.",
+            "vi": "Trước đây độc giả tin tờ báo hơn bây giờ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Readers trusted the paper more in the past than they do now.",
+          "text_translation": "Trước đây độc giả tin tờ báo hơn bây giờ."
+        }
+      ],
+      "evidence_segments": [
+        11,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Quảng cáo khoác áo bản tin \"thereby borrowing the trust\"; và \"the very credibility that makes such content valuable to advertisers is what it slowly destroys\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does the writer mean by \"borrowing the trust that your journalists have spent decades earning\"?",
+      "question_vn": "Người viết muốn nói gì qua cụm \"borrowing the trust that your journalists have spent decades earning\"?",
+      "explanation": "Quảng cáo khoác áo bản tin \"thereby borrowing the trust\"; và \"the very credibility that makes such content valuable to advertisers is what it slowly destroys\"."
+    },
+    {
+      "id": "q_u0304_039",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_04",
+      "i18n": {
+        "en": "Which of the following is NOT one of the changes the writer asks for?",
+        "vi": "Điều nào sau đây KHÔNG phải là một thay đổi người viết đề nghị?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "labeling sponsored pages clearly at the top",
+            "vi": "ghi nhãn rõ các trang được tài trợ ở đầu trang"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "labeling sponsored pages clearly at the top",
+          "text_translation": "ghi nhãn rõ các trang được tài trợ ở đầu trang"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "saying when a quoted expert is paid by the advertiser",
+            "vi": "ghi rõ khi chuyên gia được trích lời do nhà quảng cáo trả tiền"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "saying when a quoted expert is paid by the advertiser",
+          "text_translation": "ghi rõ khi chuyên gia được trích lời do nhà quảng cáo trả tiền"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "refusing all health advertisements in the future",
+            "vi": "từ chối mọi quảng cáo về sức khoẻ trong tương lai"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "refusing all health advertisements in the future",
+          "text_translation": "từ chối mọi quảng cáo về sức khoẻ trong tương lai"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "having health claims checked by a science reporter",
+            "vi": "để phóng viên khoa học kiểm tra các khẳng định về sức khoẻ"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "having health claims checked by a science reporter",
+          "text_translation": "để phóng viên khoa học kiểm tra các khẳng định về sức khoẻ"
+        }
+      ],
+      "evidence_segments": [
+        10,
+        15,
+        16,
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "Bà nói rõ \"I have no objection to advertisements as such\"; ba đề nghị là nhãn ở đầu trang, ghi rõ chuyên gia được trả tiền, và kiểm tra khẳng định sức khoẻ."
+      },
+      "audio_data": null,
+      "question_jp": "Which of the following is NOT one of the changes the writer asks for?",
+      "question_vn": "Điều nào sau đây KHÔNG phải là một thay đổi người viết đề nghị?",
+      "explanation": "Bà nói rõ \"I have no objection to advertisements as such\"; ba đề nghị là nhãn ở đầu trang, ghi rõ chuyên gia được trả tiền, và kiểm tra khẳng định sức khoẻ."
+    },
+    {
+      "id": "q_u0304_040",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_04",
+      "i18n": {
+        "en": "Which best describes the tone of the final paragraph?",
+        "vi": "Câu nào mô tả đúng nhất giọng điệu của đoạn cuối?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "sarcastic, since she does not expect the paper to change",
+            "vi": "mỉa mai, vì bà không tin tờ báo sẽ thay đổi"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "sarcastic, since she does not expect the paper to change",
+          "text_translation": "mỉa mai, vì bà không tin tờ báo sẽ thay đổi"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "uncertain, since she is not sure her complaint is fair",
+            "vi": "lưỡng lự, vì bà không chắc lời phàn nàn của mình có công bằng"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "uncertain, since she is not sure her complaint is fair",
+          "text_translation": "lưỡng lự, vì bà không chắc lời phàn nàn của mình có công bằng"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "firm but polite, with a hope that the paper will act",
+            "vi": "kiên quyết nhưng lịch sự, kèm hy vọng tờ báo sẽ hành động"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "firm but polite, with a hope that the paper will act",
+          "text_translation": "kiên quyết nhưng lịch sự, kèm hy vọng tờ báo sẽ hành động"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "angry and threatening, since she demands an apology",
+            "vi": "giận dữ và đe doạ, vì bà đòi một lời xin lỗi"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "angry and threatening, since she demands an apology",
+          "text_translation": "giận dữ và đe doạ, vì bà đòi một lời xin lỗi"
+        }
+      ],
+      "evidence_segments": [
+        18,
+        19
+      ],
+      "explanation_i18n": {
+        "vi": "\"To my mind, these are modest requests\", kèm lời nhắc khéo về độc giả có thể mất, rồi kết bằng hy vọng \"I will be able to trust every page of it\"."
+      },
+      "audio_data": null,
+      "question_jp": "Which best describes the tone of the final paragraph?",
+      "question_vn": "Câu nào mô tả đúng nhất giọng điệu của đoạn cuối?",
+      "explanation": "\"To my mind, these are modest requests\", kèm lời nhắc khéo về độc giả có thể mất, rồi kết bằng hy vọng \"I will be able to trust every page of it\"."
+    },
+    {
+      "id": "q_u0304_041",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_05",
+      "i18n": {
+        "en": "What tension does the first paragraph introduce?",
+        "vi": "Đoạn đầu giới thiệu sự giằng co nào?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "between the attractions of suburban homes and the dislike of the journey to work",
+            "vi": "giữa sức hút của nhà ở ngoại ô và nỗi chán ghét quãng đường đi làm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "between the attractions of suburban homes and the dislike of the journey to work",
+          "text_translation": "giữa sức hút của nhà ở ngoại ô và nỗi chán ghét quãng đường đi làm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "between families who own houses and families who rent them",
+            "vi": "giữa những gia đình có nhà riêng và những gia đình thuê nhà"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "between families who own houses and families who rent them",
+          "text_translation": "giữa những gia đình có nhà riêng và những gia đình thuê nhà"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "between quiet suburban streets and noisy city centers",
+            "vi": "giữa đường phố ngoại ô yên tĩnh và trung tâm thành phố ồn ào"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "between quiet suburban streets and noisy city centers",
+          "text_translation": "giữa đường phố ngoại ô yên tĩnh và trung tâm thành phố ồn ào"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "between planners and economists who disagree about prices",
+            "vi": "giữa các nhà quy hoạch và các nhà kinh tế bất đồng về giá cả"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "between planners and economists who disagree about prices",
+          "text_translation": "giữa các nhà quy hoạch và các nhà kinh tế bất đồng về giá cả"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "Người ta ra ngoại ô vì \"a spacious house, a garden, quieter streets\", nhưng điều họ ít thích nhất là \"the daily journey to work\"."
+      },
+      "audio_data": null,
+      "question_jp": "What tension does the first paragraph introduce?",
+      "question_vn": "Đoạn đầu giới thiệu sự giằng co nào?",
+      "explanation": "Người ta ra ngoại ô vì \"a spacious house, a garden, quieter streets\", nhưng điều họ ít thích nhất là \"the daily journey to work\"."
+    },
+    {
+      "id": "q_u0304_042",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_05",
+      "i18n": {
+        "en": "What did standard economic theory predict about long commutes?",
+        "vi": "Lý thuyết kinh tế thông thường dự đoán gì về quãng đường đi làm dài?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "They would slowly disappear as cities built better transit.",
+            "vi": "Chúng sẽ dần biến mất khi thành phố xây giao thông công cộng tốt hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "They would slowly disappear as cities built better transit.",
+          "text_translation": "Chúng sẽ dần biến mất khi thành phố xây giao thông công cộng tốt hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "They would be balanced by benefits such as higher pay or a bigger home.",
+            "vi": "Chúng sẽ được bù lại bằng lợi ích như lương cao hơn hay nhà to hơn."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "They would be balanced by benefits such as higher pay or a bigger home.",
+          "text_translation": "Chúng sẽ được bù lại bằng lợi ích như lương cao hơn hay nhà to hơn."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "They would make people far less satisfied than everyone else.",
+            "vi": "Chúng sẽ khiến người ta kém hài lòng hơn hẳn mọi người khác."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "They would make people far less satisfied than everyone else.",
+          "text_translation": "Chúng sẽ khiến người ta kém hài lòng hơn hẳn mọi người khác."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "They would mainly affect families with young children.",
+            "vi": "Chúng chủ yếu ảnh hưởng tới gia đình có con nhỏ."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "They would mainly affect families with young children.",
+          "text_translation": "Chúng chủ yếu ảnh hưởng tới gia đình có con nhỏ."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"long commutes should be balanced by other rewards, such as a higher salary or a bigger home\"."
+      },
+      "audio_data": null,
+      "question_jp": "What did standard economic theory predict about long commutes?",
+      "question_vn": "Lý thuyết kinh tế thông thường dự đoán gì về quãng đường đi làm dài?",
+      "explanation": "\"long commutes should be balanced by other rewards, such as a higher salary or a bigger home\"."
+    },
+    {
+      "id": "q_u0304_043",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_05",
+      "i18n": {
+        "en": "What does \"The data did not bear this out\" mean?",
+        "vi": "Câu \"The data did not bear this out\" nghĩa là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The data were lost before the study ended.",
+            "vi": "Dữ liệu bị mất trước khi nghiên cứu kết thúc."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "The data were lost before the study ended.",
+          "text_translation": "Dữ liệu bị mất trước khi nghiên cứu kết thúc."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The data were too limited to be used.",
+            "vi": "Dữ liệu quá hạn chế để sử dụng."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The data were too limited to be used.",
+          "text_translation": "Dữ liệu quá hạn chế để sử dụng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The data did not support the prediction.",
+            "vi": "Dữ liệu không ủng hộ dự đoán."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The data did not support the prediction.",
+          "text_translation": "Dữ liệu không ủng hộ dự đoán."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The data were collected outside Germany.",
+            "vi": "Dữ liệu được thu thập ngoài nước Đức."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The data were collected outside Germany.",
+          "text_translation": "Dữ liệu được thu thập ngoài nước Đức."
+        }
+      ],
+      "evidence_segments": [
+        8,
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"The data did not bear this out\" — câu sau cho thấy người đi làm xa \"reported consistently lower satisfaction\", trái với dự đoán."
+      },
+      "audio_data": null,
+      "question_jp": "What does \"The data did not bear this out\" mean?",
+      "question_vn": "Câu \"The data did not bear this out\" nghĩa là gì?",
+      "explanation": "\"The data did not bear this out\" — câu sau cho thấy người đi làm xa \"reported consistently lower satisfaction\", trái với dự đoán."
+    },
+    {
+      "id": "q_u0304_044",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_05",
+      "i18n": {
+        "en": "What does the figure of forty percent refer to?",
+        "vi": "Con số bốn mươi phần trăm chỉ điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "the drop in satisfaction after a family moves to the suburbs",
+            "vi": "mức giảm hài lòng sau khi một gia đình chuyển ra ngoại ô"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "the drop in satisfaction after a family moves to the suburbs",
+          "text_translation": "mức giảm hài lòng sau khi một gia đình chuyển ra ngoại ô"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "the difference in house prices between cities and suburbs",
+            "vi": "chênh lệch giá nhà giữa thành phố và ngoại ô"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "the difference in house prices between cities and suburbs",
+          "text_translation": "chênh lệch giá nhà giữa thành phố và ngoại ô"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "the extra income a long-distance commuter would need to be equally satisfied",
+            "vi": "phần thu nhập thêm mà người đi làm xa cần để hài lòng ngang bằng"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "the extra income a long-distance commuter would need to be equally satisfied",
+          "text_translation": "phần thu nhập thêm mà người đi làm xa cần để hài lòng ngang bằng"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "the share of Germans who travel an hour to work each way",
+            "vi": "tỉ lệ người Đức mất một giờ mỗi chiều đi làm"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "the share of Germans who travel an hour to work each way",
+          "text_translation": "tỉ lệ người Đức mất một giờ mỗi chiều đi làm"
+        }
+      ],
+      "evidence_segments": [
+        9
+      ],
+      "explanation_i18n": {
+        "vi": "\"would need to earn roughly forty percent more to be as satisfied as a person who did not commute at all\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does the figure of forty percent refer to?",
+      "question_vn": "Con số bốn mươi phần trăm chỉ điều gì?",
+      "explanation": "\"would need to earn roughly forty percent more to be as satisfied as a person who did not commute at all\"."
+    },
+    {
+      "id": "q_u0304_045",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_05",
+      "i18n": {
+        "en": "According to the article, why might people judge a commute wrongly before they move?",
+        "vi": "Theo bài, vì sao người ta có thể đánh giá sai quãng đường đi làm trước khi chuyển nhà?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because they picture the journey on its best day rather than a typical one",
+            "vi": "vì họ hình dung chuyến đi vào ngày đẹp nhất thay vì một ngày bình thường"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because they picture the journey on its best day rather than a typical one",
+          "text_translation": "vì họ hình dung chuyến đi vào ngày đẹp nhất thay vì một ngày bình thường"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because estate agents usually hide the true distance from buyers",
+            "vi": "vì người môi giới thường giấu khoảng cách thật với người mua"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because estate agents usually hide the true distance from buyers",
+          "text_translation": "vì người môi giới thường giấu khoảng cách thật với người mua"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because they usually move in summer, when traffic is lighter",
+            "vi": "vì họ thường chuyển nhà vào mùa hè, khi đường vắng hơn"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because they usually move in summer, when traffic is lighter",
+          "text_translation": "vì họ thường chuyển nhà vào mùa hè, khi đường vắng hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because they have never driven a car in a large city",
+            "vi": "vì họ chưa bao giờ lái xe ở một thành phố lớn"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because they have never driven a car in a large city",
+          "text_translation": "vì họ chưa bao giờ lái xe ở một thành phố lớn"
+        }
+      ],
+      "evidence_segments": [
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "\"we tend to imagine a commute on a good morning, with empty roads and a favorite podcast, rather than on a wet Monday\"."
+      },
+      "audio_data": null,
+      "question_jp": "According to the article, why might people judge a commute wrongly before they move?",
+      "question_vn": "Theo bài, vì sao người ta có thể đánh giá sai quãng đường đi làm trước khi chuyển nhà?",
+      "explanation": "\"we tend to imagine a commute on a good morning, with empty roads and a favorite podcast, rather than on a wet Monday\"."
+    },
+    {
+      "id": "q_u0304_046",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_05",
+      "i18n": {
+        "en": "What point does the writer make by saying the costs of commuting are \"spread thinly\"?",
+        "vi": "Người viết muốn nói gì khi bảo cái giá của việc đi làm xa được \"spread thinly\" (rải mỏng)?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Commuting is cheaper than most people expect.",
+            "vi": "Đi làm xa rẻ hơn phần lớn mọi người tưởng."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Commuting is cheaper than most people expect.",
+          "text_translation": "Đi làm xa rẻ hơn phần lớn mọi người tưởng."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Commuters share the cost of fuel with their neighbors.",
+            "vi": "Người đi làm xa chia tiền xăng với hàng xóm."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Commuters share the cost of fuel with their neighbors.",
+          "text_translation": "Người đi làm xa chia tiền xăng với hàng xóm."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Small daily costs are easy to overlook, while the benefits are obvious at once.",
+            "vi": "Những cái giá nhỏ hằng ngày dễ bị bỏ qua, còn lợi ích thì thấy ngay lập tức."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Small daily costs are easy to overlook, while the benefits are obvious at once.",
+          "text_translation": "Những cái giá nhỏ hằng ngày dễ bị bỏ qua, còn lợi ích thì thấy ngay lập tức."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The costs fall mostly on the people who live in the city center.",
+            "vi": "Cái giá chủ yếu rơi vào người sống ở trung tâm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The costs fall mostly on the people who live in the city center.",
+          "text_translation": "Cái giá chủ yếu rơi vào người sống ở trung tâm."
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "Chi phí rải qua \"thousands of small moments, each too minor to complain about\", còn lợi ích \"arrive all at once, on the day we move in\"."
+      },
+      "audio_data": null,
+      "question_jp": "What point does the writer make by saying the costs of commuting are \"spread thinly\"?",
+      "question_vn": "Người viết muốn nói gì khi bảo cái giá của việc đi làm xa được \"spread thinly\" (rải mỏng)?",
+      "explanation": "Chi phí rải qua \"thousands of small moments, each too minor to complain about\", còn lợi ích \"arrive all at once, on the day we move in\"."
+    },
+    {
+      "id": "q_u0304_047",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_05",
+      "i18n": {
+        "en": "Why does the writer mention that the data come from a single country?",
+        "vi": "Vì sao người viết nhắc rằng dữ liệu đến từ một quốc gia duy nhất?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to suggest that the results may not apply directly to American cities",
+            "vi": "để ngụ ý kết quả có thể không áp dụng thẳng cho các thành phố Mỹ"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to suggest that the results may not apply directly to American cities",
+          "text_translation": "để ngụ ý kết quả có thể không áp dụng thẳng cho các thành phố Mỹ"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to explain why the researchers chose to study households in Germany",
+            "vi": "để giải thích vì sao các nhà nghiên cứu chọn khảo sát hộ gia đình ở Đức"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to explain why the researchers chose to study households in Germany",
+          "text_translation": "để giải thích vì sao các nhà nghiên cứu chọn khảo sát hộ gia đình ở Đức"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to show that the study was too small to be widely cited",
+            "vi": "để cho thấy nghiên cứu quá nhỏ để được trích dẫn rộng rãi"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to show that the study was too small to be widely cited",
+          "text_translation": "để cho thấy nghiên cứu quá nhỏ để được trích dẫn rộng rãi"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to recommend that American cities copy German public transit",
+            "vi": "để khuyên các thành phố Mỹ bắt chước giao thông công cộng của Đức"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to recommend that American cities copy German public transit",
+          "text_translation": "để khuyên các thành phố Mỹ bắt chước giao thông công cộng của Đức"
+        }
+      ],
+      "evidence_segments": [
+        16
+      ],
+      "explanation_i18n": {
+        "vi": "\"the data come from a single country, where public transit and the layout of cities differ from those in many American metropolitan areas\" — một giới hạn khi suy rộng."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer mention that the data come from a single country?",
+      "question_vn": "Vì sao người viết nhắc rằng dữ liệu đến từ một quốc gia duy nhất?",
+      "explanation": "\"the data come from a single country, where public transit and the layout of cities differ from those in many American metropolitan areas\" — một giới hạn khi suy rộng."
+    },
+    {
+      "id": "q_u0304_048",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_05",
+      "i18n": {
+        "en": "According to later studies, which commuters tend to be more satisfied with their journey?",
+        "vi": "Theo các nghiên cứu sau, những người đi làm nào thường hài lòng hơn với chuyến đi?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "those who travel on weekday mornings",
+            "vi": "những người đi vào buổi sáng ngày thường"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "those who travel on weekday mornings",
+          "text_translation": "những người đi vào buổi sáng ngày thường"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "those who live in high-rise buildings downtown",
+            "vi": "những người sống ở nhà cao tầng trung tâm"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "those who live in high-rise buildings downtown",
+          "text_translation": "những người sống ở nhà cao tầng trung tâm"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "those who walk or cycle to work",
+            "vi": "những người đi bộ hoặc đạp xe đi làm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "those who walk or cycle to work",
+          "text_translation": "những người đi bộ hoặc đạp xe đi làm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "those who drive alone with a favorite podcast",
+            "vi": "những người lái xe một mình nghe podcast yêu thích"
+          },
+          "is_correct": true,
+          "order": 3,
+          "text": "those who drive alone with a favorite podcast",
+          "text_translation": "những người lái xe một mình nghe podcast yêu thích"
+        }
+      ],
+      "evidence_segments": [
+        17
+      ],
+      "explanation_i18n": {
+        "vi": "\"people who walk or cycle to work tend to report more satisfaction with their trip than drivers stuck in traffic\"."
+      },
+      "audio_data": null,
+      "question_jp": "According to later studies, which commuters tend to be more satisfied with their journey?",
+      "question_vn": "Theo các nghiên cứu sau, những người đi làm nào thường hài lòng hơn với chuyến đi?",
+      "explanation": "\"people who walk or cycle to work tend to report more satisfaction with their trip than drivers stuck in traffic\"."
+    },
+    {
+      "id": "q_u0304_049",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_05",
+      "i18n": {
+        "en": "What is the writer's position on moving to the suburbs?",
+        "vi": "Quan điểm của người viết về việc chuyển ra ngoại ô là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "It can be a reasonable choice if the commute is counted honestly.",
+            "vi": "Đó có thể là lựa chọn hợp lý nếu quãng đường đi làm được tính trung thực."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "It can be a reasonable choice if the commute is counted honestly.",
+          "text_translation": "Đó có thể là lựa chọn hợp lý nếu quãng đường đi làm được tính trung thực."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "It is only sensible for families without children.",
+            "vi": "Nó chỉ hợp lý với gia đình chưa có con."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "It is only sensible for families without children.",
+          "text_translation": "Nó chỉ hợp lý với gia đình chưa có con."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "It is usually a mistake that families later regret.",
+            "vi": "Đó thường là sai lầm mà các gia đình hối tiếc về sau."
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "It is usually a mistake that families later regret.",
+          "text_translation": "Đó thường là sai lầm mà các gia đình hối tiếc về sau."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "It should be avoided until public transit improves.",
+            "vi": "Nên tránh cho tới khi giao thông công cộng tốt hơn."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "It should be avoided until public transit improves.",
+          "text_translation": "Nên tránh cho tới khi giao thông công cộng tốt hơn."
+        }
+      ],
+      "evidence_segments": [
+        18,
+        19,
+        20
+      ],
+      "explanation_i18n": {
+        "vi": "\"None of this means that moving to the suburbs is a mistake\"; chỉ cần \"the hour should be counted honestly, at its real price\"."
+      },
+      "audio_data": null,
+      "question_jp": "What is the writer's position on moving to the suburbs?",
+      "question_vn": "Quan điểm của người viết về việc chuyển ra ngoại ô là gì?",
+      "explanation": "\"None of this means that moving to the suburbs is a mistake\"; chỉ cần \"the hour should be counted honestly, at its real price\"."
+    },
+    {
+      "id": "q_u0304_050",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_05",
+      "i18n": {
+        "en": "Why does the writer suggest testing the journey on a weekday morning?",
+        "vi": "Vì sao người viết gợi ý chạy thử quãng đường vào một buổi sáng ngày thường?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because houses look more attractive in morning light",
+            "vi": "vì nhà trông đẹp hơn dưới ánh sáng buổi sáng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because houses look more attractive in morning light",
+          "text_translation": "vì nhà trông đẹp hơn dưới ánh sáng buổi sáng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because estate agents are usually closed on Saturday afternoons",
+            "vi": "vì môi giới nhà đất thường nghỉ chiều thứ Bảy"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because estate agents are usually closed on Saturday afternoons",
+          "text_translation": "vì môi giới nhà đất thường nghỉ chiều thứ Bảy"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because buyers would then experience the commute as it really is",
+            "vi": "vì khi đó người mua sẽ trải nghiệm quãng đường đúng như thực tế"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because buyers would then experience the commute as it really is",
+          "text_translation": "vì khi đó người mua sẽ trải nghiệm quãng đường đúng như thực tế"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because sellers often lower their prices early in the week",
+            "vi": "vì người bán thường hạ giá vào đầu tuần"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because sellers often lower their prices early in the week",
+          "text_translation": "vì người bán thường hạ giá vào đầu tuần"
+        }
+      ],
+      "evidence_segments": [
+        20,
+        13
+      ],
+      "explanation_i18n": {
+        "vi": "Chạy thử \"on a weekday morning rather than a sunny Saturday afternoon\" là để tránh đúng lỗi hình dung quãng đường \"on a good morning, with empty roads\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does the writer suggest testing the journey on a weekday morning?",
+      "question_vn": "Vì sao người viết gợi ý chạy thử quãng đường vào một buổi sáng ngày thường?",
+      "explanation": "Chạy thử \"on a weekday morning rather than a sunny Saturday afternoon\" là để tránh đúng lỗi hình dung quãng đường \"on a good morning, with empty roads\"."
+    },
+    {
+      "id": "q_u0304_051",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_06",
+      "i18n": {
+        "en": "What is the main purpose of Harriet's letter?",
+        "vi": "Mục đích chính của lá thư bà Harriet là gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to ask the owner to deal with problems caused by the empty shop next door",
+            "vi": "đề nghị chủ nhà xử lý những vấn đề do căn tiệm trống bên cạnh gây ra"
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "to ask the owner to deal with problems caused by the empty shop next door",
+          "text_translation": "đề nghị chủ nhà xử lý những vấn đề do căn tiệm trống bên cạnh gây ra"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to complain that her own rent has become too high",
+            "vi": "phàn nàn rằng tiền thuê quán của bà đã quá cao"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to complain that her own rent has become too high",
+          "text_translation": "phàn nàn rằng tiền thuê quán của bà đã quá cao"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to announce that she is closing her café after fifteen years",
+            "vi": "thông báo bà sẽ đóng quán sau mười lăm năm"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "to announce that she is closing her café after fifteen years",
+          "text_translation": "thông báo bà sẽ đóng quán sau mười lăm năm"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to invite Mr. Dalton to a meeting of her book club",
+            "vi": "mời ông Dalton tới một buổi họp câu lạc bộ sách"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to invite Mr. Dalton to a meeting of her book club",
+          "text_translation": "mời ông Dalton tới một buổi họp câu lạc bộ sách"
+        }
+      ],
+      "evidence_segments": [
+        3,
+        15
+      ],
+      "explanation_i18n": {
+        "vi": "Mở thư: \"I am writing about the unoccupied shop adjoining my café\"; phần đề nghị nêu ba việc cần làm."
+      },
+      "audio_data": null,
+      "question_jp": "What is the main purpose of Harriet's letter?",
+      "question_vn": "Mục đích chính của lá thư bà Harriet là gì?",
+      "explanation": "Mở thư: \"I am writing about the unoccupied shop adjoining my café\"; phần đề nghị nêu ba việc cần làm."
+    },
+    {
+      "id": "q_u0304_052",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_06",
+      "i18n": {
+        "en": "Why does Harriet mention that she has been a good neighbor for nearly fifteen years?",
+        "vi": "Vì sao bà Harriet nhắc rằng bà đã là hàng xóm tốt gần mười lăm năm?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "to show that she has been patient and is not someone who complains easily",
+            "vi": "để cho thấy bà vốn kiên nhẫn, không phải người dễ phàn nàn"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "to show that she has been patient and is not someone who complains easily",
+          "text_translation": "để cho thấy bà vốn kiên nhẫn, không phải người dễ phàn nàn"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "to remind Mr. Dalton that she once owned the building",
+            "vi": "để nhắc ông Dalton rằng bà từng sở hữu toà nhà"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "to remind Mr. Dalton that she once owned the building",
+          "text_translation": "để nhắc ông Dalton rằng bà từng sở hữu toà nhà"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "to suggest that she deserves to pay a lower rent",
+            "vi": "để ngụ ý bà đáng được trả tiền thuê thấp hơn"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "to suggest that she deserves to pay a lower rent",
+          "text_translation": "để ngụ ý bà đáng được trả tiền thuê thấp hơn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "to explain why she knows the previous occupant so well",
+            "vi": "để giải thích vì sao bà biết rõ người thuê trước"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "to explain why she knows the previous occupant so well",
+          "text_translation": "để giải thích vì sao bà biết rõ người thuê trước"
+        }
+      ],
+      "evidence_segments": [
+        4
+      ],
+      "explanation_i18n": {
+        "vi": "\"I have been a good neighbor to that building for nearly fifteen years\" — nhấn sự kiên nhẫn lâu năm, rồi mới nói tới những vấn đề bà \"can no longer simply patch up myself\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Harriet mention that she has been a good neighbor for nearly fifteen years?",
+      "question_vn": "Vì sao bà Harriet nhắc rằng bà đã là hàng xóm tốt gần mười lăm năm?",
+      "explanation": "\"I have been a good neighbor to that building for nearly fifteen years\" — nhấn sự kiên nhẫn lâu năm, rồi mới nói tới những vấn đề bà \"can no longer simply patch up myself\"."
+    },
+    {
+      "id": "q_u0304_053",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_06",
+      "i18n": {
+        "en": "What did the carpenter tell Harriet?",
+        "vi": "Người thợ mộc nói gì với bà Harriet?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "The stain behind her counter was caused by her own coffee machine.",
+            "vi": "Vệt ố sau quầy là do máy pha cà phê của chính bà."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "The stain behind her counter was caused by her own coffee machine.",
+          "text_translation": "Vệt ố sau quầy là do máy pha cà phê của chính bà."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The whole wall would have to be replaced immediately.",
+            "vi": "Phải thay toàn bộ bức tường ngay lập tức."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "The whole wall would have to be replaced immediately.",
+          "text_translation": "Phải thay toàn bộ bức tường ngay lập tức."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The leak probably came from an old pipe in the empty shop.",
+            "vi": "Chỗ rò có lẽ đến từ một đường ống cũ trong căn tiệm trống."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The leak probably came from an old pipe in the empty shop.",
+          "text_translation": "Chỗ rò có lẽ đến từ một đường ống cũ trong căn tiệm trống."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The rain in January had damaged the roof of her café.",
+            "vi": "Trận mưa tháng Một đã làm hỏng mái quán của bà."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The rain in January had damaged the roof of her café.",
+          "text_translation": "Trận mưa tháng Một đã làm hỏng mái quán của bà."
+        }
+      ],
+      "evidence_segments": [
+        7
+      ],
+      "explanation_i18n": {
+        "vi": "\"the leak is almost certainly coming from an old pipe on your side\"."
+      },
+      "audio_data": null,
+      "question_jp": "What did the carpenter tell Harriet?",
+      "question_vn": "Người thợ mộc nói gì với bà Harriet?",
+      "explanation": "\"the leak is almost certainly coming from an old pipe on your side\"."
+    },
+    {
+      "id": "q_u0304_054",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_06",
+      "i18n": {
+        "en": "What does the sentence beginning \"With the shop next door locked\" suggest?",
+        "vi": "Câu bắt đầu bằng \"With the shop next door locked\" gợi ra điều gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet has a key to the shop and checks it every week.",
+            "vi": "Bà Harriet có chìa khoá căn tiệm và kiểm tra hằng tuần."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Harriet has a key to the shop and checks it every week.",
+          "text_translation": "Bà Harriet có chìa khoá căn tiệm và kiểm tra hằng tuần."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Mr. Dalton has already repaired most of the damage.",
+            "vi": "Ông Dalton đã sửa phần lớn thiệt hại."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Mr. Dalton has already repaired most of the damage.",
+          "text_translation": "Ông Dalton đã sửa phần lớn thiệt hại."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Someone has been living in the empty shop without permission.",
+            "vi": "Có người đang ở trong căn tiệm trống mà không xin phép."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Someone has been living in the empty shop without permission.",
+          "text_translation": "Có người đang ở trong căn tiệm trống mà không xin phép."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "The damage inside the empty shop could be worse than it looks from outside.",
+            "vi": "Thiệt hại bên trong căn tiệm trống có thể tệ hơn vẻ bên ngoài."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "The damage inside the empty shop could be worse than it looks from outside.",
+          "text_translation": "Thiệt hại bên trong căn tiệm trống có thể tệ hơn vẻ bên ngoài."
+        }
+      ],
+      "evidence_segments": [
+        8
+      ],
+      "explanation_i18n": {
+        "vi": "\"I have no way of knowing how much damage has already been done\" — không ai vào xem, nên có thể đã hỏng nhiều hơn."
+      },
+      "audio_data": null,
+      "question_jp": "What does the sentence beginning \"With the shop next door locked\" suggest?",
+      "question_vn": "Câu bắt đầu bằng \"With the shop next door locked\" gợi ra điều gì?",
+      "explanation": "\"I have no way of knowing how much damage has already been done\" — không ai vào xem, nên có thể đã hỏng nhiều hơn."
+    },
+    {
+      "id": "q_u0304_055",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_06",
+      "i18n": {
+        "en": "Why is Harriet especially worried that the back room feels stuffy?",
+        "vi": "Vì sao bà Harriet đặc biệt lo khi phòng sau thấy bí bách?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because it is where community groups such as her book club meet",
+            "vi": "vì đó là nơi các nhóm cộng đồng như câu lạc bộ sách họp"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because it is where community groups such as her book club meet",
+          "text_translation": "vì đó là nơi các nhóm cộng đồng như câu lạc bộ sách họp"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because it is where she stores the food for the café",
+            "vi": "vì đó là nơi bà cất đồ ăn của quán"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "because it is where she stores the food for the café",
+          "text_translation": "vì đó là nơi bà cất đồ ăn của quán"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because the health department will inspect it next month",
+            "vi": "vì cơ quan y tế sẽ kiểm tra nó vào tháng sau"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "because the health department will inspect it next month",
+          "text_translation": "vì cơ quan y tế sẽ kiểm tra nó vào tháng sau"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because her son plans to use it as an office",
+            "vi": "vì con trai bà định dùng nó làm văn phòng"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because her son plans to use it as an office",
+          "text_translation": "vì con trai bà định dùng nó làm văn phòng"
+        }
+      ],
+      "evidence_segments": [
+        11
+      ],
+      "explanation_i18n": {
+        "vi": "\"it is the very room where my book club and the Saturday homework group meet\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why is Harriet especially worried that the back room feels stuffy?",
+      "question_vn": "Vì sao bà Harriet đặc biệt lo khi phòng sau thấy bí bách?",
+      "explanation": "\"it is the very room where my book club and the Saturday homework group meet\"."
+    },
+    {
+      "id": "q_u0304_056",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_06",
+      "i18n": {
+        "en": "What does Harriet imply by calling her own efforts \"only temporary solutions\"?",
+        "vi": "Bà Harriet hàm ý gì khi gọi những gì mình làm là \"only temporary solutions\"?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "She plans to buy a bigger machine to dry the air.",
+            "vi": "Bà định mua một máy hút ẩm lớn hơn."
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "She plans to buy a bigger machine to dry the air.",
+          "text_translation": "Bà định mua một máy hút ẩm lớn hơn."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "The real cause has to be fixed in the empty shop, not in her café.",
+            "vi": "Nguyên nhân thật phải được sửa ở căn tiệm trống, không phải ở quán bà."
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "The real cause has to be fixed in the empty shop, not in her café.",
+          "text_translation": "Nguyên nhân thật phải được sửa ở căn tiệm trống, không phải ở quán bà."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "The problem will disappear on its own when summer comes.",
+            "vi": "Vấn đề sẽ tự hết khi mùa hè tới."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "The problem will disappear on its own when summer comes.",
+          "text_translation": "Vấn đề sẽ tự hết khi mùa hè tới."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Her customers do not mind the smell as much as she does.",
+            "vi": "Khách không bận tâm mùi đó nhiều như bà."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Her customers do not mind the smell as much as she does.",
+          "text_translation": "Khách không bận tâm mùi đó nhiều như bà."
+        }
+      ],
+      "evidence_segments": [
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "\"these are only temporary solutions to a problem that starts on the other side of the wall\"."
+      },
+      "audio_data": null,
+      "question_jp": "What does Harriet imply by calling her own efforts \"only temporary solutions\"?",
+      "question_vn": "Bà Harriet hàm ý gì khi gọi những gì mình làm là \"only temporary solutions\"?",
+      "explanation": "\"these are only temporary solutions to a problem that starts on the other side of the wall\"."
+    },
+    {
+      "id": "q_u0304_057",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_06",
+      "i18n": {
+        "en": "Why does Harriet want the area behind the building cleared?",
+        "vi": "Vì sao bà Harriet muốn dọn khu vực phía sau toà nhà?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "because the clutter blocks the delivery van every morning",
+            "vi": "vì đống đồ chắn xe giao hàng mỗi sáng"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "because the clutter blocks the delivery van every morning",
+          "text_translation": "vì đống đồ chắn xe giao hàng mỗi sáng"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "because children pass by it every day and could get hurt",
+            "vi": "vì trẻ con đi ngang qua mỗi ngày và có thể bị thương"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "because children pass by it every day and could get hurt",
+          "text_translation": "vì trẻ con đi ngang qua mỗi ngày và có thể bị thương"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "because she wants to use the space for extra tables",
+            "vi": "vì bà muốn dùng chỗ đó kê thêm bàn"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "because she wants to use the space for extra tables",
+          "text_translation": "vì bà muốn dùng chỗ đó kê thêm bàn"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "because the previous occupant has asked for the refrigerator back",
+            "vi": "vì người thuê trước đòi lại chiếc tủ lạnh"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "because the previous occupant has asked for the refrigerator back",
+          "text_translation": "vì người thuê trước đòi lại chiếc tủ lạnh"
+        }
+      ],
+      "evidence_segments": [
+        14
+      ],
+      "explanation_i18n": {
+        "vi": "\"Children walk past that spot every afternoon on their way to the pocket park, and I would like it cleared before someone gets hurt\"."
+      },
+      "audio_data": null,
+      "question_jp": "Why does Harriet want the area behind the building cleared?",
+      "question_vn": "Vì sao bà Harriet muốn dọn khu vực phía sau toà nhà?",
+      "explanation": "\"Children walk past that spot every afternoon on their way to the pocket park, and I would like it cleared before someone gets hurt\"."
+    },
+    {
+      "id": "q_u0304_058",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_06",
+      "i18n": {
+        "en": "Which of the following does Harriet NOT ask Mr. Dalton to do?",
+        "vi": "Bà Harriet KHÔNG đề nghị ông Dalton làm điều nào sau đây?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "have a plumber inspect the pipe this month",
+            "vi": "cho thợ ống nước kiểm tra đường ống trong tháng này"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "have a plumber inspect the pipe this month",
+          "text_translation": "cho thợ ống nước kiểm tra đường ống trong tháng này"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "pay for the machine she bought to dry the air",
+            "vi": "trả tiền chiếc máy hút ẩm bà đã mua"
+          },
+          "is_correct": true,
+          "order": 1,
+          "text": "pay for the machine she bought to dry the air",
+          "text_translation": "trả tiền chiếc máy hút ẩm bà đã mua"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "have the ventilation switched on or checked",
+            "vi": "cho bật hoặc kiểm tra hệ thống thông gió"
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "have the ventilation switched on or checked",
+          "text_translation": "cho bật hoặc kiểm tra hệ thống thông gió"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "have the area behind the building cleared",
+            "vi": "cho dọn khu vực phía sau toà nhà"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "have the area behind the building cleared",
+          "text_translation": "cho dọn khu vực phía sau toà nhà"
+        }
+      ],
+      "evidence_segments": [
+        15,
+        12
+      ],
+      "explanation_i18n": {
+        "vi": "Ba đề nghị: \"to arrange for a plumber to inspect the pipe this month, to have the ventilation switched on or checked, and to have the area behind the building cleared\" — không có chuyện đòi tiền máy hút ẩm."
+      },
+      "audio_data": null,
+      "question_jp": "Which of the following does Harriet NOT ask Mr. Dalton to do?",
+      "question_vn": "Bà Harriet KHÔNG đề nghị ông Dalton làm điều nào sau đây?",
+      "explanation": "Ba đề nghị: \"to arrange for a plumber to inspect the pipe this month, to have the ventilation switched on or checked, and to have the area behind the building cleared\" — không có chuyện đòi tiền máy hút ẩm."
+    },
+    {
+      "id": "q_u0304_059",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_06",
+      "i18n": {
+        "en": "What can be inferred from the last paragraph of the letter?",
+        "vi": "Có thể suy ra gì từ đoạn cuối của lá thư?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "Harriet has already agreed to rent the empty shop.",
+            "vi": "Bà Harriet đã đồng ý thuê căn tiệm trống."
+          },
+          "is_correct": true,
+          "order": 0,
+          "text": "Harriet has already agreed to rent the empty shop.",
+          "text_translation": "Bà Harriet đã đồng ý thuê căn tiệm trống."
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "Harriet thinks the rent of 3,200 dollars is unfair.",
+            "vi": "Bà Harriet cho rằng tiền thuê 3.200 đô là không công bằng."
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "Harriet thinks the rent of 3,200 dollars is unfair.",
+          "text_translation": "Bà Harriet cho rằng tiền thuê 3.200 đô là không công bằng."
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "Harriet's son has asked her to stop thinking about the shop.",
+            "vi": "Con trai bà Harriet đã bảo bà thôi nghĩ về căn tiệm."
+          },
+          "is_correct": false,
+          "order": 2,
+          "text": "Harriet's son has asked her to stop thinking about the shop.",
+          "text_translation": "Con trai bà Harriet đã bảo bà thôi nghĩ về căn tiệm."
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "Harriet is seriously considering renting the space herself.",
+            "vi": "Bà Harriet đang nghiêm túc cân nhắc tự thuê căn tiệm."
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "Harriet is seriously considering renting the space herself.",
+          "text_translation": "Bà Harriet đang nghiêm túc cân nhắc tự thuê căn tiệm."
+        }
+      ],
+      "evidence_segments": [
+        18,
+        19,
+        20
+      ],
+      "explanation_i18n": {
+        "vi": "Bà muốn \"see the space, perhaps with my son\" và nói \"I am not promising anything\" — đang cân nhắc, chưa quyết."
+      },
+      "audio_data": null,
+      "question_jp": "What can be inferred from the last paragraph of the letter?",
+      "question_vn": "Có thể suy ra gì từ đoạn cuối của lá thư?",
+      "explanation": "Bà muốn \"see the space, perhaps with my son\" và nói \"I am not promising anything\" — đang cân nhắc, chưa quyết."
+    },
+    {
+      "id": "q_u0304_060",
+      "question_type": "reading",
+      "selection_type": "single",
+      "skill_category": "dokkai",
+      "level": "C1",
+      "passage_ref": "passage_u0304_06",
+      "i18n": {
+        "en": "What is the tone of the sentence \"I have been thinking about that figure more often than I expected\"?",
+        "vi": "Câu \"I have been thinking about that figure more often than I expected\" mang giọng điệu gì?"
+      },
+      "choices": [
+        {
+          "id": "A",
+          "i18n": {
+            "en": "gentle and indirect, quietly hinting at her growing interest",
+            "vi": "nhẹ nhàng, gián tiếp, khẽ ngầm cho thấy bà ngày càng quan tâm"
+          },
+          "is_correct": false,
+          "order": 0,
+          "text": "gentle and indirect, quietly hinting at her growing interest",
+          "text_translation": "nhẹ nhàng, gián tiếp, khẽ ngầm cho thấy bà ngày càng quan tâm"
+        },
+        {
+          "id": "B",
+          "i18n": {
+            "en": "anxious, because she is afraid of losing her café",
+            "vi": "lo lắng, vì bà sợ mất quán"
+          },
+          "is_correct": false,
+          "order": 1,
+          "text": "anxious, because she is afraid of losing her café",
+          "text_translation": "lo lắng, vì bà sợ mất quán"
+        },
+        {
+          "id": "C",
+          "i18n": {
+            "en": "annoyed, because she thinks the price is far too high",
+            "vi": "bực bội, vì bà cho rằng giá quá cao"
+          },
+          "is_correct": true,
+          "order": 2,
+          "text": "annoyed, because she thinks the price is far too high",
+          "text_translation": "bực bội, vì bà cho rằng giá quá cao"
+        },
+        {
+          "id": "D",
+          "i18n": {
+            "en": "amused, because she finds the figure ridiculous",
+            "vi": "thấy buồn cười, vì bà thấy con số thật vô lý"
+          },
+          "is_correct": false,
+          "order": 3,
+          "text": "amused, because she finds the figure ridiculous",
+          "text_translation": "thấy buồn cười, vì bà thấy con số thật vô lý"
+        }
+      ],
+      "evidence_segments": [
+        18
+      ],
+      "explanation_i18n": {
+        "vi": "\"more often than I expected\" là cách nói nhẹ: bà không nói thẳng muốn thuê, chỉ để lộ rằng mình đang nghĩ nghiêm túc."
+      },
+      "audio_data": null,
+      "question_jp": "What is the tone of the sentence \"I have been thinking about that figure more often than I expected\"?",
+      "question_vn": "Câu \"I have been thinking about that figure more often than I expected\" mang giọng điệu gì?",
+      "explanation": "\"more often than I expected\" là cách nói nhẹ: bà không nói thẳng muốn thuê, chỉ để lộ rằng mình đang nghĩ nghiêm túc."
     }
   ],
   "question_sets": [
@@ -1993,6 +5801,90 @@
         "q_u0304_018",
         "q_u0304_019",
         "q_u0304_020"
+      ]
+    },
+    {
+      "set_id": "set_u0304_reading_3",
+      "set_type": "reading",
+      "name": "Bài đọc 3 (Unit 3) — Bài khoa học phổ thông: vì sao tin sai lan nhanh hơn tin thật",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 3,
+      "reading_passage_ref": "passage_u0304_03",
+      "question_ids": [
+        "q_u0304_021",
+        "q_u0304_022",
+        "q_u0304_023",
+        "q_u0304_024",
+        "q_u0304_025",
+        "q_u0304_026",
+        "q_u0304_027",
+        "q_u0304_028",
+        "q_u0304_029",
+        "q_u0304_030"
+      ]
+    },
+    {
+      "set_id": "set_u0304_reading_4",
+      "set_type": "reading",
+      "name": "Bài đọc 4 (Unit 3) — Thư gửi toà soạn: quảng cáo đội lốt tin tức",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 4,
+      "reading_passage_ref": "passage_u0304_04",
+      "question_ids": [
+        "q_u0304_031",
+        "q_u0304_032",
+        "q_u0304_033",
+        "q_u0304_034",
+        "q_u0304_035",
+        "q_u0304_036",
+        "q_u0304_037",
+        "q_u0304_038",
+        "q_u0304_039",
+        "q_u0304_040"
+      ]
+    },
+    {
+      "set_id": "set_u0304_reading_5",
+      "set_type": "reading",
+      "name": "Bài đọc 5 (Unit 4) — Bài giải thích: nghịch lý của việc đi làm xa",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 5,
+      "reading_passage_ref": "passage_u0304_05",
+      "question_ids": [
+        "q_u0304_041",
+        "q_u0304_042",
+        "q_u0304_043",
+        "q_u0304_044",
+        "q_u0304_045",
+        "q_u0304_046",
+        "q_u0304_047",
+        "q_u0304_048",
+        "q_u0304_049",
+        "q_u0304_050"
+      ]
+    },
+    {
+      "set_id": "set_u0304_reading_6",
+      "set_type": "reading",
+      "name": "Bài đọc 6 (Unit 4) — Thư bà Harriet gửi chủ nhà về tiệm bánh bỏ trống",
+      "description": "Đọc hiểu C1 — 10 câu trắc nghiệm 4 lựa chọn",
+      "card_count": 10,
+      "module_position": 6,
+      "reading_passage_ref": "passage_u0304_06",
+      "question_ids": [
+        "q_u0304_051",
+        "q_u0304_052",
+        "q_u0304_053",
+        "q_u0304_054",
+        "q_u0304_055",
+        "q_u0304_056",
+        "q_u0304_057",
+        "q_u0304_058",
+        "q_u0304_059",
+        "q_u0304_060"
       ]
     }
   ]
