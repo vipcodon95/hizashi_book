@@ -1,0 +1,50 @@
+{
+  "pipeline_type": "lite",
+  "book_name": "14_thai_year1",
+  "book_title_vn": "Sách 14 — Thái Năm 1: Genba Hairi (Tay nghề khuôn đúc)",
+  "topic": "Năm 1 Thái — kỹ sư cơ khí ĐH Việt Nam, sang Nhật 5/2022 với N4 yếu, làm 製造補助 nhà máy 金型 Anjo Aichi: tay chân (mài, giũa, đánh bóng), thi forklift+tama-kake+kentei 機械加工3級, lên N3.",
+  "target_audience": "Kỹ sư cơ khí VN N4-N3 chuẩn bị sang Nhật ngành khuôn / mold / machining; cộng đồng VN ngành kỹ thuật tại Aichi-Gifu-Mie.",
+  "domain_expert_role": "Engineer khuôn đúc Việt-Nhật (5+ năm) + chuyên gia visa 技人国 + HACCP/ISO9001 manufacturing",
+  "current_stage": 8,
+  "stages": {
+    "01_research": {"status": "completed", "output": "_pipeline/01_research_master.md"},
+    "02_outline": {"status": "completed"},
+    "03_draft": {"status": "completed"},
+    "04_content_md": {"status": "completed", "modules_done": ["t01","t02","t03","t04","t05","t06","t07","t08","t09","t10","t11","t12"]},
+    "05_jp_vn_review": {"status": "completed", "output": "_pipeline/05_jp_vn_review.md"},
+    "06_consistency": {"status": "completed", "output": "_pipeline/06_consistency.md"},
+    "07_council": {"status": "completed", "outputs": ["_pipeline/07_council/linguist.md","_pipeline/07_council/pedagogue.md","_pipeline/07_council/domain_expert.md"]},
+    "08_finalize": {"status": "completed", "output": "_pipeline/08_revision_log.md"}
+  },
+  "modules": [
+    {"position": 1, "code": "t01_rainichi", "name": "T1. 来日 — Nhập cảnh + ký túc + gặp cast", "scenes": 8},
+    {"position": 2, "code": "t02_koujou_shonichi", "name": "T2. 工場初日 — 朝礼 + KY + vocab máy", "scenes": 8},
+    {"position": 3, "code": "t03_yasuri_migaki", "name": "T3. ヤスリと磨き — Mài giũa + 5 cấp polish", "scenes": 8},
+    {"position": 4, "code": "t04_forklift_tamakake", "name": "T4. フォークリフト + 玉掛け講習", "scenes": 8},
+    {"position": 5, "code": "t05_hiyari_hatto", "name": "T5. 初めてのヒヤリハット — Suýt va MC", "scenes": 8},
+    {"position": 6, "code": "t06_chorei_debut", "name": "T6. 朝礼デビュー — Lần đầu nói trước 30 người", "scenes": 8},
+    {"position": 7, "code": "t07_nagoya_momiji", "name": "T7. 名古屋 + 紅葉 — Cuối tuần với Putra + Linh-chị", "scenes": 8},
+    {"position": 8, "code": "t08_bonenkai_osoji", "name": "T8. 忘年会 + 大掃除", "scenes": 8},
+    {"position": 9, "code": "t09_oshogatsu_tet", "name": "T9. 正月 + Tết VN — Telework + homesick", "scenes": 6},
+    {"position": 10, "code": "t10_cad_nyumon", "name": "T10. CAD入門 — Học SolidWorks ngoài giờ", "scenes": 8},
+    {"position": 11, "code": "t11_kikai_kakou_3kyu", "name": "T11. 機能加工3級 — Đi thi + đỗ", "scenes": 8},
+    {"position": 12, "code": "t12_ichinen_keika", "name": "T12. 1年経過 — Tổng kết + plan năm 2", "scenes": 8}
+  ],
+  "book_design": {
+    "structure": "12 chương = 12 tháng (5/2022→4/2023)",
+    "main_character": {"name_vn": "Thái", "name_jp": "タイ (Thái)", "age": 23, "year": 1, "background": "Kỹ sư cơ khí ĐH Bách Khoa HN, JLPT N4, visa 技人国 với JD '金型設計補助 + 現場研修期間6ヶ月'"},
+    "cast_intro": [
+      "田中部長 Tanaka (50s) — 工場長 plastic mold dept",
+      "鈴木先輩 Suzuki (30s) — daily mentor, dạy CAM",
+      "川上設計課長 Kawakami (40s) — chief designer, cameo year 1",
+      "Putra (Indonesia, SSW1) — cohort ký túc",
+      "Linh-chị (VN Nagoya, gen trước 5 năm)",
+      "Mẹ + bố + em gái + bạn gái Mai (qua LINE)"
+    ],
+    "themes": ["Cú sốc văn hoá Aichi", "Tay nghề khuôn", "Visa 技人国 plot device", "Vocab khuôn entry-level", "JLPT N4→N3 prep"]
+  },
+  "metadata": {
+    "started_at": "2026-04-28T10:00:00+07:00",
+    "schema_version": "1.0-lite"
+  }
+}

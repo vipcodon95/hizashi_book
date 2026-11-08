@@ -1,0 +1,37 @@
+{
+  "pipeline_type": "lite",
+  "book_name": "25_dai_brse_year1",
+  "book_title_vn": "Sách 25 — Đại Year 1 sau ĐH: BrSE intern Thanh Hà Solutions + Hizashi v1.0 launch",
+  "topic": "Năm 1 sau tốt nghiệp (4/2030-3/2031) Đại 25t dual-track. BrSE intern Thanh Hà Solutions (VN outsourcing Osaka, ¥280k/tháng) ngày 9-18 weekday. Hizashi Inc nights+weekends với cofounder Tuấn (28t ex-Mercari) + Aiko (UI/UX). Hana 22-30 tháng vào nhà trẻ Senri-chuo. Hizashi v1.0 launch 11/2030 — 500→1500 user, MRR ¥1.5M. BrSE skills: spec translation JP↔VN, client meeting, PM coordination, code review bilingual.",
+  "target_audience": "BrSE VN tại Nhật năm 1, founder VN startup Nhật, reader full series Đại du học 19-24.",
+  "domain_expert_role": "BrSE (Bridge SE) VN-Nhật outsourcing + tech founder Japan year 1 + childcare Nhật (保育園) + dual-career time management",
+  "current_stage": 8,
+  "stages": {
+    "01_research": {"status": "completed", "output": "../21_dai_daigaku_year1/_pipeline/01_research_master.md", "note": "Reuse foundation Đại series 19-24"},
+    "02_outline": {"status": "completed", "note": "Modules in state.json"},
+    "03_draft": {"status": "completed"},
+    "04_content_md": {"status": "completed", "modules_done": ["t01","t02","t03","t04","t05","t06","t07","t08","t09","t10","t11","t12"]},
+    "05_jp_vn_review": {"status": "completed", "output": "_pipeline/05_jp_vn_review.md", "note": "Chunked 3x4 chương — ~166 fixes inline"},
+    "06_consistency": {"status": "completed", "output": "_pipeline/06_consistency.md"},
+    "07_council": {"status": "completed", "outputs": ["_pipeline/07_council/linguist.md", "_pipeline/07_council/pedagogue.md", "_pipeline/07_council/domain_expert.md"]},
+    "08_finalize": {"status": "completed", "output": "_pipeline/08_revision_log.md"}
+  },
+  "modules": [
+    {"position": 1, "code": "t01_brse_first_day", "name": "T1. 1/4/2030 — Day 1 BrSE Thanh Hà Solutions Osaka office", "scenes": 10},
+    {"position": 2, "code": "t02_hizashi_office_setup", "name": "T2. 4/2030 — Hizashi WeWork Umeda + standup pattern + Hana nhà trẻ", "scenes": 10},
+    {"position": 3, "code": "t03_brse_first_project", "name": "T3. 5/2030 — First BrSE project: spec translation cho client Nagoya manufacturing", "scenes": 10},
+    {"position": 4, "code": "t04_hizashi_v0_8_iterate", "name": "T4. 6/2030 — Hizashi v0.8→v0.9 iterate + 200 user paid", "scenes": 10},
+    {"position": 5, "code": "t05_brse_client_meeting", "name": "T5. 7/2030 — BrSE first solo client meeting Tokyo (NTT subsidiary)", "scenes": 10},
+    {"position": 6, "code": "t06_hana_obon_VN", "name": "T6. 8/2030 — Obon hè: Mai+Hana+Đại về VN 1 tuần thăm bố mẹ HN", "scenes": 10},
+    {"position": 7, "code": "t07_brse_seishain_offer", "name": "T7. 9/2030 — Thanh Hà offer 正社員 ¥4.5M (Đại từ chối khéo, giữ intern)", "scenes": 10},
+    {"position": 8, "code": "t08_hizashi_v1_prep", "name": "T8. 10/2030 — Hizashi v1.0 launch prep: PR + ProductHunt + influencer", "scenes": 10},
+    {"position": 9, "code": "t09_hizashi_v1_launch", "name": "T9. 11/2030 — Hizashi v1.0 LAUNCH! 500 user trong 24h, lên TechCrunch JP", "scenes": 12},
+    {"position": 10, "code": "t10_brse_overload_crisis", "name": "T10. 12/2030 — Crisis: Thanh Hà urgent project + Hizashi 1500 user → burnout warning", "scenes": 10},
+    {"position": 11, "code": "t11_hana_2tuoi_birthday", "name": "T11. 1-2/2031 — Hana 2.5 tuổi sinh nhật + Tony+Yumi+Mai gia đình tròn 1 năm", "scenes": 10},
+    {"position": 12, "code": "t12_year1_close_decision", "name": "T12. 3/2031 — Year 1 close: stats Hizashi MRR ¥1.5M + decision quit Thanh Hà sách 26", "scenes": 10}
+  ],
+  "metadata": {
+    "started_at": "2026-04-29T00:00:00+07:00",
+    "schema_version": "1.0-lite"
+  }
+}

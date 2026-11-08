@@ -1,0 +1,105 @@
+{
+  "book_name": "jisshusei_shokuhin",
+  "book_title_vn": "Một Năm của Hoa — Nhật Ký Thực Tập Sinh Ngành Thực Phẩm",
+  "topic": "Hội thoại thực tế 12 tháng của thực tập sinh kỹ năng (技能実習生) ngành thực phẩm tại Nhật Bản — từ lúc nhập công ty với trình độ N5 đến lúc định hướng thi chứng chỉ Shokuhin Eisei Kanrisha cuối năm thứ nhất",
+  "target_audience": "Thực tập sinh kỹ năng Việt Nam ngành thực phẩm vừa hoàn thành N5, chuẩn bị / mới sang Nhật làm việc; phái cử công ty cần tài liệu đào tạo; người học N5-N4 muốn tiếp xúc tiếng Nhật công xưởng",
+  "course_id_prefix": 8011,
+  "domain_expert_role": "Chuyên gia ngành thực phẩm Nhật + Cán bộ phụ trách thực tập sinh (技能実習生指導員) tại nhà máy thực phẩm Nhật, am hiểu HACCP, ISO 22000, luật vệ sinh thực phẩm Nhật (食品衛生法), chế độ Tokutei Ginou và OTIT/JITCO",
+
+  "current_stage": 11,
+
+  "stages": {
+    "01_research":      {"status": "done", "output": "_pipeline/01_research.md", "started_at": "2026-04-27T00:05:00+07:00", "completed_at": "2026-04-27T00:11:00+07:00"},
+    "02_outline":       {"status": "done", "output": "_pipeline/02_outline.md", "started_at": "2026-04-27T00:15:00+07:00", "completed_at": "2026-04-27T00:25:00+07:00"},
+    "03_draft":         {"status": "done", "output": "_pipeline/03_draft.md", "started_at": "2026-04-27T00:30:00+07:00", "completed_at": "2026-04-27T00:50:00+07:00"},
+    "04_content_md":    {"status": "done", "output": "12 files in books/11_hoa_year1/t01-t12/*_LyThuyet.md", "started_at": "2026-04-27T01:00:00+07:00", "completed_at": "2026-04-27T02:30:00+07:00", "modules_done": ["t01_dat_chan_toi_nhat", "t02_tuan_dau_nha_may", "t03_eisei_kanri", "t04_line_operation", "t05_furyou_hin", "t06_chukan_mensetsu", "t07_matsuri_seikatsu", "t08_iso_audit", "t09_shihin_kaihatsu", "t10_recall_kuringu", "t11_shourai_keikaku", "t12_bonenkai_furikaeri"]},
+    "05_exercises":     {"status": "done", "output": "24 JSON files (12 BaiTap + 12 Mogishiken) — 720 câu hỏi total", "started_at": "2026-04-27T02:35:00+07:00", "completed_at": "2026-04-27T02:55:00+07:00", "modules_done": ["t01", "t02", "t03", "t04", "t05", "t06", "t07", "t08", "t09", "t10", "t11", "t12"]},
+    "06_jp_vn_review":  {"status": "done", "output": "_pipeline/06_jp_vn_review.md", "started_at": "2026-04-27T03:00:00+07:00", "completed_at": "2026-04-27T03:30:00+07:00"},
+    "07_consistency":   {"status": "done", "output": "_pipeline/07_consistency.md", "started_at": "2026-04-27T03:00:00+07:00", "completed_at": "2026-04-27T03:30:00+07:00"},
+    "08_module_mapping":{"status": "done", "output": "_pipeline/08_module_mapping.md", "started_at": "2026-04-27T03:35:00+07:00", "completed_at": "2026-04-27T03:50:00+07:00"},
+    "09_council":       {"status": "done", "outputs": ["_pipeline/09_council/linguist.md", "_pipeline/09_council/pedagogue.md", "_pipeline/09_council/domain_expert.md", "_pipeline/09_council/_summary.md"], "started_at": "2026-04-27T03:55:00+07:00", "completed_at": "2026-04-27T04:15:00+07:00"},
+    "10_finalize":      {"status": "done", "output": "_pipeline/10_revision_log.md", "started_at": "2026-04-27T04:15:00+07:00", "completed_at": "2026-04-27T04:30:00+07:00"}
+  },
+
+  "modules": [
+    {"position": 1,  "module_id": 8011001, "code": "t01_dat_chan_toi_nhat",   "name": "Tháng 4 — Đặt chân tới Nhật",         "module_type": "vocabulary", "topic": "arrival_nyuusha",       "difficulty": "basic",        "folder": "t01_dat_chan_toi_nhat"},
+    {"position": 2,  "module_id": 8011002, "code": "t02_tuan_dau_nha_may",    "name": "Tháng 5 — Tuần đầu trong nhà máy",   "module_type": "vocabulary", "topic": "factory_tour_5s",       "difficulty": "basic",        "folder": "t02_tuan_dau_nha_may"},
+    {"position": 3,  "module_id": 8011003, "code": "t03_eisei_kanri",         "name": "Tháng 6 — Quy tắc vệ sinh thực phẩm", "module_type": "vocabulary", "topic": "eisei_haccp_allergen",  "difficulty": "basic",        "folder": "t03_eisei_kanri"},
+    {"position": 4,  "module_id": 8011004, "code": "t04_line_operation",      "name": "Tháng 7 — Lần đầu đứng dây chuyền",  "module_type": "grammar",    "topic": "line_kouttei",          "difficulty": "basic",        "folder": "t04_line_operation"},
+    {"position": 5,  "module_id": 8011005, "code": "t05_furyou_hin",          "name": "Tháng 8 — Lần đầu mắc lỗi",          "module_type": "grammar",    "topic": "mistake_apology_keigo", "difficulty": "intermediate", "folder": "t05_furyou_hin"},
+    {"position": 6,  "module_id": 8011006, "code": "t06_chukan_mensetsu",     "name": "Tháng 9 — Nửa năm, đánh giá giữa kỳ", "module_type": "grammar",    "topic": "interview_goals",       "difficulty": "intermediate", "folder": "t06_chukan_mensetsu"},
+    {"position": 7,  "module_id": 8011007, "code": "t07_matsuri_seikatsu",    "name": "Tháng 10 — Mùa thu, lễ hội & đời sống", "module_type": "vocabulary", "topic": "festival_casual",       "difficulty": "intermediate", "folder": "t07_matsuri_seikatsu"},
+    {"position": 8,  "module_id": 8011008, "code": "t08_iso_audit",           "name": "Tháng 11 — Khách kiểm tra audit",     "module_type": "grammar",    "topic": "audit_iso22000",        "difficulty": "intermediate", "folder": "t08_iso_audit"},
+    {"position": 9,  "module_id": 8011009, "code": "t09_shihin_kaihatsu",     "name": "Tháng 12 — Triển khai sản phẩm mới",  "module_type": "grammar",    "topic": "new_product_meeting",   "difficulty": "intermediate", "folder": "t09_shihin_kaihatsu"},
+    {"position": 10, "module_id": 8011010, "code": "t10_recall_kuringu",      "name": "Tháng 1 — Sự cố lớn, recall",         "module_type": "grammar",    "topic": "recall_complaint",      "difficulty": "advanced",     "folder": "t10_recall_kuringu"},
+    {"position": 11, "module_id": 8011011, "code": "t11_shourai_keikaku",     "name": "Tháng 2 — Định hướng tương lai",       "module_type": "grammar",    "topic": "future_certification",  "difficulty": "advanced",     "folder": "t11_shourai_keikaku"},
+    {"position": 12, "module_id": 8011012, "code": "t12_bonenkai_furikaeri",  "name": "Tháng 3 — Một năm nhìn lại",            "module_type": "grammar",    "topic": "yearend_reflection",    "difficulty": "advanced",     "folder": "t12_bonenkai_furikaeri"}
+  ],
+
+  "book_design": {
+    "structure": "12 chương = 12 tháng (story arc 1 năm của nhân vật chính Hoa)",
+    "dialogues_per_chapter": 8,
+    "total_dialogues": 96,
+    "main_character": {
+      "name_vn": "Hoa",
+      "name_jp": "ホア (Hoa)",
+      "age": 22,
+      "background": "Nữ, tốt nghiệp trung cấp chế biến thực phẩm ở Việt Nam, vừa hoàn thành N5 sau 6 tháng học tại trung tâm phái cử, sang Nhật theo chương trình 技能実習 (Gino Jisshu) 3 năm, làm tại nhà máy chế biến cơm hộp/thực phẩm đông lạnh ở tỉnh Saitama"
+    },
+    "supporting_cast": [
+      {"name_jp": "田中部長 (Tanaka-buchou)", "role": "Trưởng phòng sản xuất, ~50 tuổi, nghiêm nhưng công bằng"},
+      {"name_jp": "佐藤先輩 (Satou-senpai)", "role": "Sempai Nhật ~28 tuổi, hướng dẫn trực tiếp Hoa, thân thiện"},
+      {"name_jp": "鈴木さん (Suzuki-san)", "role": "Cán bộ phụ trách thực tập sinh (指導員), ~40 tuổi"},
+      {"name_jp": "Linh chị", "role": "Thực tập sinh Việt Nam năm 2, sempai của Hoa trong ký túc"},
+      {"name_jp": "山田さん (Yamada-san)", "role": "Đồng nghiệp Nhật cùng line, ~35 tuổi, vui tính"},
+      {"name_jp": "高橋さん (Takahashi-san)", "role": "QC manager, xuất hiện ở các chương về chất lượng / audit"},
+      {"name_jp": "木村さん (Kimura-san)", "role": "Sempai Nhật ~45 tuổi, khắt khe vệ sinh, ban đầu Hoa sợ nhưng cuối năm hiểu là người tốt — character arc tension/release"},
+      {"name_jp": "Andi (アンディ)", "role": "Thực tập sinh Indonesia, cùng ký túc với Hoa, bạn thân — scene đa văn hoá"}
+    ],
+    "entry_month": "Tháng 4/2026 (April — chuẩn tài khoá Nhật, kèm 入社式 quy mô lớn)",
+    "decisions_locked": {
+      "T11_certification": "食品衛生責任者 (Sekininsha) + HACCP coordinator + 特定技能1号 飲食料品製造業 test (KHÔNG dùng Kanrisha vì TTS không đủ điều kiện)",
+      "allergen_standard": "9 mandatory (eggs/milk/wheat/soba/peanut/shrimp/crab/walnut/cashew) + 19 recommended — chuẩn 2026/4 sau khi cashew được thêm",
+      "ikusei_shuurou_2027": "Mention transition 育成就労 ở T11 + T12 để sách future-proof tới 2030",
+      "no_romance_plot": true,
+      "antagonist_arc": "木村さん — strict at first, warm at end (T2 fear → T8 conflict → T11 understanding)"
+    },
+    "language_progression": {
+      "T1-T3": "N5 → N4 cơ bản: chào hỏi, jiko-shoukai, từ vựng nhà máy, mệnh lệnh đơn giản",
+      "T4-T6": "N4 → N4 vững: hou-ren-sou cơ bản, báo cáo sự cố, keigo intro (teineigo + sonkeigo căn bản)",
+      "T7-T9": "N4 → N3 cận: kenjougo, keigo trung cấp, họp nhóm, đề xuất ý tưởng",
+      "T10-T12": "N3 cận: keigo cao cấp, xin lỗi/báo cáo cấp cao, bàn bạc tương lai"
+    },
+    "industry_framework": [
+      "1. Vệ sinh — HACCP, GMP, allergen 28 chất, eisei-kanri",
+      "2. Sản xuất — 5S, KAIZEN, kouttei (quy trình), line operation",
+      "3. Chất lượng — QC, furyou-hin, traceability, ISO 22000 / FSSC 22000",
+      "4. An toàn — KY (kiken-yochi), bảo hộ lao động, accident report",
+      "5. Pháp luật — Shokuhin Eisei Hou, PL law, label law (JAS)",
+      "6. Chứng chỉ — Shokuhin Eisei Kanrisha, HACCP coordinator, Tokutei Ginou",
+      "7. Văn hoá công ty — hou-ren-sou, mensetsu, yuukyuu, bonenkai, shinnenkai",
+      "8. Đời sống thực tập sinh — kí túc, lương, JITCO/OTIT, gia hạn visa, chuyển tokutei"
+    ],
+    "chapter_arc": [
+      {"month": 1,  "title": "Đặt chân tới Nhật",         "context": "Sân bay Narita, kí túc, lễ nhập công ty (入社式)",        "language": "Chào hỏi cơ bản, jiko-shoukai, kanji nơi chốn", "industry": "Quy trình nyuusha, kiểm tra sức khoẻ, OTIT orientation"},
+      {"month": 2,  "title": "Tuần đầu trong nhà máy",     "context": "Tham quan xưởng, gặp sempai, học mặc đồ bảo hộ",          "language": "Từ vựng thiết bị, hỏi đường, nghe chỉ dẫn",     "industry": "5S, bảo hộ lao động, layout nhà máy thực phẩm"},
+      {"month": 3,  "title": "Quy tắc vệ sinh thực phẩm",  "context": "Rửa tay 30 giây, thay đồ, kiểm tra rolling, allergen",   "language": "Mệnh lệnh nhẹ, xác nhận, doumo / hai wakarimashita", "industry": "HACCP căn bản, eisei-kanri, allergen 28 chất Nhật"},
+      {"month": 4,  "title": "Lần đầu đứng dây chuyền",    "context": "Vận hành line cơm hộp, ca làm, lỗi máy nhỏ",              "language": "Báo cáo sự cố cơ bản, hou-ren-sou intro",        "industry": "Seizou kouttei, KAIZEN, line operation"},
+      {"month": 5,  "title": "Lần đầu mắc lỗi",            "context": "Làm hỏng 1 lô do quên check, xin lỗi sếp, viết báo cáo",  "language": "Kenjougo / sonkeigo intro, mou shiwake gozaimasen", "industry": "Furyou-hin xử lý, trace lot, root cause analysis"},
+      {"month": 6,  "title": "Nửa năm — đánh giá giữa kỳ", "context": "Mensetsu với buchou, đặt mục tiêu nửa năm còn lại",        "language": "Trình bày nguyện vọng, keigo trung cấp",          "industry": "JITCO/OTIT đánh giá năng lực thực tập sinh"},
+      {"month": 7,  "title": "Mùa hè và lễ Obon",          "context": "Đồng nghiệp Nhật rủ đi matsuri, làm thêm giờ mùa cao điểm","language": "Casual JP, phương ngữ nhẹ Saitama, phân biệt formal/casual", "industry": "Văn hoá yuukyuu, làm thêm giờ (zangyou), thuế"},
+      {"month": 8,  "title": "Khách kiểm tra audit",       "context": "ISO 22000 audit, tiếp đón khách, dẫn tham quan xưởng",     "language": "Keigo cao cấp, từ chuyên môn audit, tiếp đón", "industry": "ISO 22000, FSSC 22000, audit nội bộ + bên ngoài"},
+      {"month": 9,  "title": "Triển khai sản phẩm mới",     "context": "Họp R&D triển khai cơm hộp mới, Hoa được hỏi ý kiến",     "language": "Họp nhóm, đề xuất ý tưởng, cụm từ trong meeting","industry": "R&D thực phẩm, shihin sekkei, kiểm thử cảm quan"},
+      {"month": 10, "title": "Sự cố lớn — recall",          "context": "Khiếu nại khách (kuringu), recall lô, họp khẩn cấp",       "language": "Xin lỗi cấp cao, báo cáo khẩn, hou-ren-sou nâng cao", "industry": "Recall, PL law, kuringu xử lý, label law"},
+      {"month": 11, "title": "Định hướng tương lai",        "context": "Tư vấn sempai về chứng chỉ, tìm trường thi, gia hạn visa", "language": "Bàn bạc tương lai, xin lời khuyên, keigo + tự nhiên", "industry": "Shokuhin Eisei Kanrisha, HACCP coordinator, Tokutei Ginou"},
+      {"month": 12, "title": "Một năm nhìn lại",            "context": "Tiệc bonenkai, đặt mục tiêu năm 2, chia tay sempai về quê", "language": "Tổng hợp keigo + cảm ơn + biểu cảm xúc",          "industry": "Roadmap 3 năm thực tập, chuyển Tokutei Ginou, kỹ năng đặc định"}
+    ]
+  },
+
+  "metadata": {
+    "started_at": "2026-04-27T00:00:00+07:00",
+    "last_action": "🎉 Pipeline COMPLETED 10/10 stages. Seeded DB local: 1 course + 12 modules + 60 passages + 720 questions + 108 sets + 2880 answers. SQL file: release/jisshusei_shokuhin_sql/jisshusei_shokuhin.sql (1.8MB)",
+    "finalized_at": "2026-04-27T04:30:00+07:00",
+    "schema_version": "1.0"
+  }
+}

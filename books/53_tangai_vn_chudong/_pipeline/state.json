@@ -1,0 +1,36 @@
+{
+  "book_name": "53_tangai_vn_chudong",
+  "book_title_vn": "Comment Dạo Story — Gen Z Chủ Động",
+  "current_stage": 9,
+  "language": "vi-only",
+  "pipeline_type": "lite",
+  "revision": 2,
+  "stages": {
+    "01_research": {"status": "skipped"},
+    "02_outline":  {"status": "done", "completed": "2026-07-01"},
+    "03_draft":    {"status": "skipped"},
+    "04_content_md": {"status": "done", "completed": "2026-07-01", "modules_done": ["t01","t02","t03","t04","t05","t06","t07","t08","t09","t10","t11","t12","t13"]},
+    "05_jp_vn_review": {"status": "skipped", "reason": "thuần Việt, không có tiếng Nhật"},
+    "06_consistency":  {"status": "done", "completed": "2026-07-01", "result": "REV2: FAIL có điều kiện (1 Critical speaker-tag) → đã fix"},
+    "07_council":      {"status": "done", "completed": "2026-07-01", "result": "REV2: Linguist PASS-with-reservations (1 Critical + 4 Major), Pedagogue PASS-with-reservations (3 Major) → đã fix"},
+    "08_finalize":     {"status": "done", "completed": "2026-07-01"}
+  },
+  "cast": {
+    "nam": "24t content creator agency nhỏ, mới ra trường 5 tháng, FA 8 tháng — xưng anh (lớn hơn)",
+    "chi": "22t sinh viên năm cuối Thương Mại (marketing), sắp ra trường — xưng em (nhỏ hơn)"
+  },
+  "constraints": [
+    "THUẦN VIỆT — không câu Nhật nào",
+    "Đối tượng 20-25 tuổi — văn phong Gen Z THẬT: câu ngắn, viết tắt, emoji chiến thuật, KHÔNG ẩn dụ business",
+    "Nam CHỦ ĐỘNG rõ ràng xuyên suốt — không passive chờ rep",
+    "Đẩy-kéo (push-pull) DÀY mỗi scene — khen riêng tư/ngoại hình + tín hiệu độc chiếm nhẹ + câu thẳng thể hiện ý đồ",
+    "18+ ngầm TĂNG DẦN CƯỜNG ĐỘ suốt 5 tuần — T01-T02 nhẹ, T07 physical đầu tiên, T11 đỉnh điểm, T12 chốt — vẫn không mô tả hành vi cụ thể",
+    "Ngôi xưng CỐ ĐỊNH: Nam=anh (24, lớn hơn), Chi=em (22, nhỏ hơn) — KHÔNG đảo ngược",
+    "Chỉ 1 buổi gặp ngoài (T07), còn lại là chat",
+    "BỎ box Vì sao thắng, BỎ mục tiêu kỹ năng đầu chương, BỎ bảng từ vựng cuối chương"
+  ],
+  "n_chapters": 13,
+  "created": "2026-07-01",
+  "finalized": "2026-07-01",
+  "notes": "Sách 53 rev2: sau khi user chê bản đầu 'đọc như 2 người bạn, thiếu tán tỉnh, thiếu 18+', viết lại TOÀN BỘ 13 chương tăng tension (khen riêng tư, ghen nhẹ, câu thẳng ý đồ) + đường cong 18+ tăng dần cường độ. Review lần 2 qua 3 subagent phát hiện: (1) Consistency Critical — speaker tag sai T06 dòng 72 (Chi/Chi liên tiếp vô lý) → fixed đổi thành Nam; (2) Linguist Critical — T11 câu 'không có áo khoác chắn giữa' quá cụ thể hoá tư thế thân mật → fixed bỏ vế đó + thêm câu tự nhận thức 'chưa gì đã nghĩ xa'; (3) Pedagogue Major — T03 ngôn ngữ 'giữ vị trí/chỗ đứng' đóng khung tình cảm thành sở hữu → fixed thêm câu tự trào 'nghe hơi gia trưởng ha'; (4) Pedagogue Major — T09 'không ai thay được' là overconfidence → fixed bớt, thêm 'không dám chắc trước'; (5) Linguist Major — T12 'đủ chỗ ở lại lâu' gần biên → fixed bớt cụ thể. Cũng sửa vài câu bị tic văn phong 'với...' dài dòng kiểu văn học ở T02/T04/T10/T12 để giữ giọng Gen Z tự nhiên."
+}

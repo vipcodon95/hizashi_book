@@ -1,0 +1,31 @@
+{
+  "pipeline_type": "lite",
+  "book_name": "20_dai_year2",
+  "book_title_vn": "Sách 20 — Đại Năm 2: ĐH Research + EJU + N2 (Closure trường tiếng)",
+  "topic": "Năm 2 Đại — ký túc 4 quốc, EJU 6+11/2025, JLPT N2 7/2025, 志望理由書 prep, ĐH Osaka research + apply, school festival, speech contest, kết thúc với chuẩn bị thi ĐH 2026.",
+  "current_stage": 8,
+  "stages": {
+    "01_research": {"status": "completed"},
+    "02_outline": {"status": "completed"},
+    "03_draft": {"status": "completed"},
+    "04_content_md": {"status": "completed", "modules_done": ["t01","t02","t03","t04","t05","t06","t07","t08","t09","t10","t11","t12"]},
+    "05_jp_vn_review": {"status": "completed", "output": "_pipeline/05_jp_vn_review.md", "note": "Chunked review (3x4 chương) — ~143+ fixes inline (chunk 2 partial)"},
+    "06_consistency": {"status": "completed", "output": "_pipeline/06_consistency.md"},
+    "07_council": {"status": "completed", "outputs": ["_pipeline/07_council/linguist.md","_pipeline/07_council/pedagogue.md","_pipeline/07_council/domain_expert.md"]},
+    "08_finalize": {"status": "completed", "output": "_pipeline/08_revision_log.md"}
+  },
+  "modules": [
+    {"position": 1, "code": "t01_dorm_seikatsu", "name": "T1. Ký túc daily life — 4 quốc cohort", "scenes": 10},
+    {"position": 2, "code": "t02_n3_pass_n2_start", "name": "T2. N2 prep + EJU intro", "scenes": 10},
+    {"position": 3, "code": "t03_baito_jouzu", "name": "T3. Baito Lawson nâng senior", "scenes": 10},
+    {"position": 4, "code": "t04_kankou_arubaito", "name": "T4. Tour guide arubaito + tiếng Anh", "scenes": 10},
+    {"position": 5, "code": "t05_speech_taikai", "name": "T5. Speech contest — bài 5 phút keigo", "scenes": 12},
+    {"position": 6, "code": "t06_school_festival", "name": "T6. School festival — VN booth tổ chức", "scenes": 12},
+    {"position": 7, "code": "t07_natsu_obon", "name": "T7. Mùa hè + Obon + Mẹ qua thăm 1 tuần CLIMAX", "scenes": 12},
+    {"position": 8, "code": "t08_n2_taisaku", "name": "T8. N2 thi 7/2025 + EJU 11/2025", "scenes": 10},
+    {"position": 9, "code": "t09_daigaku_research", "name": "T9. ĐH Osaka research + open campus", "scenes": 10},
+    {"position": 10, "code": "t10_n2_pass", "name": "T10. N2 đỗ 142/180 + EJU 360/450", "scenes": 10},
+    {"position": 11, "code": "t11_oc_haaku", "name": "T11. 志望理由書 prep + apply ĐH Osaka 12/2025", "scenes": 10},
+    {"position": 12, "code": "t12_yobikou_sentaku", "name": "T12. Closure — chuẩn bị 入試 2/2026", "scenes": 10}
+  ]
+}

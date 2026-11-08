@@ -1,0 +1,82 @@
+{
+  "book_name": "49_tantinh_jp",
+  "book_title_vn": "Tán Tỉnh Bằng Tiếng Nhật — Tuyệt Chiêu Ngôn Ngữ",
+  "topic": "Sách hội thoại pure dạy người Việt cách tán tỉnh bằng tiếng Nhật trong đa dạng tình huống (app hẹn hò → công sở → quán café → trường học). Tone vui vẻ làm duyên, mỗi đoạn hội thoại phải có moment cụ thể.",
+  "target_audience": "Nam VN 20-35 tuổi sống/làm việc/học tập tại Nhật, vốn JP N4-N3+, muốn hẹn hò với cô gái Nhật",
+  "domain_expert_role": "Chuyên gia ngôn ngữ giao tiếp Nhật + nhân học văn hoá hẹn hò Nhật Bản (Japanese dating culture anthropologist)",
+  "pipeline_type": "lite",
+
+  "current_stage": 9,
+  "stages": {
+    "01_research":     {"status": "done", "completed": "2026-05-27", "subagent": "book-researcher", "output": "_pipeline/01_research.md"},
+    "02_outline":      {"status": "done", "completed": "2026-06-27", "output": "_pipeline/02_outline.md", "version": "v2"},
+    "03_draft":        {"status": "skipped_for_v2", "note": "v2 không dùng draft cũ; viết thẳng từ outline v2"},
+    "04_content_md":   {"status": "done", "completed": "2026-06-27", "modules_done": ["t01","t02","t03","t04","t05","t06","t07","t08","t09","t10","t11","t12","t13","t14","t15","t16","t17"]},
+    "05_jp_vn_review": {"status": "done", "completed": "2026-06-27", "output": "_pipeline/05_jp_vn_review.md", "fixes_applied": 9},
+    "06_consistency":  {"status": "done", "completed": "2026-06-27", "output": "_pipeline/06_consistency.md", "grade": "A"},
+    "07_council":      {"status": "done", "completed": "2026-06-27", "outputs": ["_pipeline/07_council/linguist.md", "_pipeline/07_council/pedagogue.md", "_pipeline/07_council/domain_expert.md", "_pipeline/07_council/_summary.md"], "grades": {"linguist": "A-", "pedagogue": "B+", "domain_expert": "B+"}},
+    "08_finalize":     {"status": "done", "completed": "2026-06-27", "output": "_pipeline/08_revision_log.md", "p0_fixes_applied": 7}
+  },
+
+  "modules": [
+    {"id": "t01", "folder": "t01_app_first_message", "title_vn": "First message trên app hẹn hò", "title_jp": "アプリの初メッセージ", "cast_scenes": ["Yui-Pairs", "Mika-Tapple", "Rina-with", "Aoi-Omiai", "Saki-Pairs-FAIL"], "n_scenes": 5},
+    {"id": "t02", "folder": "t02_irl_makequen", "title_vn": "Làm quen ngoài đời", "title_jp": "リアルでの出会い", "cast_scenes": ["Mika-合コン", "Rina-立ち飲み", "Aoi-event", "Hana-café", "Saki-cty"], "n_scenes": 5},
+    {"id": "t03", "folder": "t03_smalltalk_weather", "title_vn": "Smalltalk thời tiết · mùa · ngày", "title_jp": "天気・季節・曜日", "cast_scenes": ["Yui", "Mika", "Saki", "Rina", "Aoi"], "n_scenes": 5},
+    {"id": "t04", "folder": "t04_smalltalk_hobby", "title_vn": "Smalltalk hobby", "title_jp": "趣味の話", "cast_scenes": ["Yui-pan", "Mika-coffee", "Saki-Ghibli", "Rina-sake", "Aoi-vanhoc"], "n_scenes": 5},
+    {"id": "t05", "folder": "t05_smalltalk_work", "title_vn": "Smalltalk công việc", "title_jp": "仕事と週末", "cast_scenes": ["Saki-cty", "Yui-keitoan", "Rina-yta", "Mei-kohai", "Mika-freelance"], "n_scenes": 5},
+    {"id": "t06", "folder": "t06_compliment", "title_vn": "Khen không sến", "title_jp": "上手な褒め方", "cast_scenes": ["Mika-style", "Aoi-giongnoi", "Yui-chonquan", "Rina-chonruou", "Saki-lamviec"], "n_scenes": 5},
+    {"id": "t07", "folder": "t07_chat_pushpull", "title_vn": "Đẩy-kéo qua chat", "title_jp": "LINEでの駆け引き", "cast_scenes": ["Mika-3ngay", "Aoi-chamrep", "Rina-lanh", "Yui-warm"], "n_scenes": 4},
+    {"id": "t08", "folder": "t08_invite_date1", "title_vn": "Rủ đi date lần 1", "title_jp": "デートに誘う", "cast_scenes": ["Yui-pan", "Mika-gallery", "Saki-event", "Aoi-museum", "Rina-sake"], "n_scenes": 5},
+    {"id": "t09", "folder": "t09_date_cafe", "title_vn": "Date café", "title_jp": "カフェデート", "cast_scenes": ["Yui-Nakano", "Aoi-Shimokita", "Saki-Daikanyama", "Hana-Aoyama"], "n_scenes": 4},
+    {"id": "t10", "folder": "t10_date_izakaya", "title_vn": "Date izakaya / 立ち飲み", "title_jp": "居酒屋デート", "cast_scenes": ["Mika-Shibuya", "Rina-Yurakucho", "Saki-genCty", "Aoi-Kabukicho"], "n_scenes": 4},
+    {"id": "t11", "folder": "t11_date_outdoor", "title_vn": "Date công viên / museum", "title_jp": "お出かけデート", "cast_scenes": ["Aoi-Gyoen", "Yui-Inokashira", "Saki-Mori", "Mika-Sumida"], "n_scenes": 4},
+    {"id": "t12", "folder": "t12_handle_kidoku", "title_vn": "Khi bị 既読スルー", "title_jp": "既読スルー対応", "cast_scenes": ["Rina-lanhdan", "Mika-test", "Yui-busy", "Aoi-giadinh"], "n_scenes": 4},
+    {"id": "t13", "folder": "t13_keigo_to_tameguchi", "title_vn": "Chuyển 敬語 → タメ口", "title_jp": "敬語からタメ口へ", "cast_scenes": ["Saki-sempai", "Aoi-younger", "Mika-cungtuoi", "Rina-lonhon"], "n_scenes": 4},
+    {"id": "t14", "folder": "t14_flirt_signals", "title_vn": "Tín hiệu / flirt", "title_jp": "好意のサイン", "cast_scenes": ["Mika-chudong", "Yui-ethen", "Aoi-anyy", "Rina-thang"], "n_scenes": 4},
+    {"id": "t15", "folder": "t15_kokuhaku", "title_vn": "告白", "title_jp": "告白する", "cast_scenes": ["Aoi-success", "Yui-tuchoi", "Mika-friendzone", "Saki-shanairenai"], "n_scenes": 4},
+    {"id": "t16", "folder": "t16_after_tsukiau", "title_vn": "Sau khi 付き合う", "title_jp": "付き合った後", "cast_scenes": ["Aoi"], "n_scenes": 1},
+    {"id": "t17", "folder": "t17_glossary", "title_vn": "Phụ lục — Glossary", "title_jp": "付録", "cast_scenes": [], "n_scenes": 0}
+  ],
+
+  "metadata": {
+    "tone": "Vui vẻ làm duyên, flirty tự nhiên, chêm chuyện nam-nữ nhẹ (không dung tục), mỗi hội thoại có moment cụ thể (không vu vơ)",
+    "cast_main": {
+      "name_vn": "Cường",
+      "name_jp_katakana": "クオン",
+      "name_pronunciation_rule": "ALWAYS クオン — KHÔNG dùng クアン, KHÔNG dùng チュオン",
+      "age": 26,
+      "origin": "Hà Nội",
+      "occupation": "IT backend dev tại Shibuya, sống Nakano",
+      "years_in_japan": 3,
+      "status": "single",
+      "jp_level": "N3 → N2",
+      "tone_signature": "Tự trào duyên dáng (自虐), không phô trương, vụng về văn hoá nhưng cố học"
+    },
+    "cast_female": [
+      {"name_jp": "結衣", "name_romaji": "Yui", "age": 24, "type": "Pure mê パン", "main_setting": "Pairs / Nakano"},
+      {"name_jp": "美香", "name_romaji": "Mika", "age": 26, "type": "Gal lite, push-pull đỉnh", "main_setting": "Tapple / 合コン"},
+      {"name_jp": "沙希", "name_romaji": "Saki", "age": 27, "type": "OL trầm, Ghibli", "main_setting": "Cùng công ty"},
+      {"name_jp": "莉奈", "name_romaji": "Rina", "age": 29, "type": "Y tá ER, sake mania", "main_setting": "with / 立ち飲み"},
+      {"name_jp": "葵", "name_romaji": "Aoi", "age": 22, "type": "Quiet witty, văn chương", "main_setting": "Omiai / Waseda"},
+      {"name_jp": "花", "name_romaji": "Hana", "age": 28, "type": "Café staff", "main_setting": "Cameo café Shimokita"},
+      {"name_jp": "メイ", "name_romaji": "Mei", "age": 25, "type": "Kohai cty", "main_setting": "Cameo cty"}
+    ],
+    "settings": [
+      "App hẹn hò (Pairs, Tapple, Tinder JP, Omiai, with)",
+      "Trường học / ký túc / câu lạc bộ",
+      "Công sở / sempai-kohai / 飲み会",
+      "Quán café / izakaya / 立ち飲み / cửa hàng"
+    ],
+    "writing_constraints": [
+      "KHÔNG nội tâm tiếng Việt (vd: (VN, tự nhủ), (VN, internal))",
+      "KHÔNG cảnh tiếng Việt giữa 2 người Việt (không Hiếu, không bạn VN chat)",
+      "KHÔNG furigana (không ruby tag)",
+      "Cột bảng = 'Vai' (không Speaker, không Nhân vật)",
+      "Format: <câu JP><br>*(dịch VN)*",
+      "Stage direction ≤ 5 từ trong ngoặc"
+    ],
+    "n_chapters_planned": 17,
+    "created": "2026-05-27",
+    "outline_v2_date": "2026-06-27"
+  }
+}

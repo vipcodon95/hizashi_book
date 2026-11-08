@@ -1,0 +1,31 @@
+{
+  "pipeline_type": "lite",
+  "book_name": "16_thai_year3",
+  "book_title_vn": "Sách 16 — Thái Năm 3: Assistant Designer + N2 prep + 金型製作 2級",
+  "topic": "Năm 3 Thái — chuyển CAD assistant designer full-time, học SolidWorks deep + Misumi library, lần đầu khách Toyota Tier-1 Hamada keigo, em gái du học Nagoya, thi 3D CAD 2級 + 金型製作 2級 + N2 prep.",
+  "current_stage": 8,
+  "stages": {
+    "01_research": {"status": "completed", "output": "../14_thai_year1/_pipeline/01_research_master.md"},
+    "02_outline": {"status": "completed"},
+    "03_draft": {"status": "completed"},
+    "04_content_md": {"status": "completed", "modules_done": ["t01","t02","t03","t04","t05","t06","t07","t08","t09","t10","t11","t12"]},
+    "05_jp_vn_review": {"status": "completed", "output": "_pipeline/05_jp_vn_review.md"},
+    "06_consistency": {"status": "completed", "output": "_pipeline/06_consistency.md"},
+    "07_council": {"status": "completed", "outputs": ["_pipeline/07_council/linguist.md","_pipeline/07_council/pedagogue.md","_pipeline/07_council/domain_expert.md"]},
+    "08_finalize": {"status": "completed", "output": "_pipeline/08_revision_log.md"}
+  },
+  "modules": [
+    {"position": 1, "code": "t01_cad_nyumon_full", "name": "T1. CAD full-time bắt đầu", "scenes": 6},
+    {"position": 2, "code": "t02_solidworks_advanced", "name": "T2. SolidWorks advanced — assembly+drawing", "scenes": 6},
+    {"position": 3, "code": "t03_misumi_library", "name": "T3. Misumi standard library deep", "scenes": 6},
+    {"position": 4, "code": "t04_first_part_design", "name": "T4. First part design solo (water channel)", "scenes": 6},
+    {"position": 5, "code": "t05_em_gai_du_hoc", "name": "T5. Em gái sang Nhật du học Nagoya", "scenes": 6},
+    {"position": 6, "code": "t06_3dcad_2kyu", "name": "T6. 3次元CAD 2級 thi 12/2024", "scenes": 6},
+    {"position": 7, "code": "t07_kanagata_2kyu_prep", "name": "T7. 金型製作 2級 chuẩn bị", "scenes": 6},
+    {"position": 8, "code": "t08_first_hamada", "name": "T8. First Hamada Toyota Tier-1 — keigo nervous", "scenes": 6},
+    {"position": 9, "code": "t09_keigo_kyaku", "name": "T9. Keigo khách deep + sonkeigo", "scenes": 6},
+    {"position": 10, "code": "t10_jlpt_n2_prep", "name": "T10. JLPT N2 intensive prep", "scenes": 6},
+    {"position": 11, "code": "t11_kanagata_2kyu_pass", "name": "T11. 金型製作 2級 đỗ", "scenes": 6},
+    {"position": 12, "code": "t12_sannen_keika", "name": "T12. 3 năm khép — Tanaka offer designer junior", "scenes": 6}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "pipeline_type": "lite",
+  "book_name": "26_dai_brse_year2",
+  "book_title_vn": "Sách 26 — Đại Year 2 sau ĐH: Quit Thanh Hà → Hizashi full-time + Series A ¥200M",
+  "topic": "Năm 2 sau tốt nghiệp (4/2031-3/2032) Đại 26t transition. Quit Thanh Hà Solutions 6/2031 → Hizashi full-time CEO ¥400k/tháng. Series A pitch 9-12/2031 → close ¥200M (Anri lead + JAFCO + DG follow-on). Hizashi v2.0 5/2031, 5000 user, MRR ¥5M. Office Umeda → riêng tầng. Tuyển 5 nhân sự (3 dev + 1 marketing + 1 ops). Mai có thai bé 2 đầu 2032. Hana 2.5-3.5t bilingual fluent đi 保育園 advanced.",
+  "target_audience": "Founder VN startup Nhật năm 2, Series A pitch prep, reader full series Đại 19-25.",
+  "domain_expert_role": "Tech founder Japan Series A + VC pitch (Anri/JAFCO/DG) + 株式会社 hiring Japan (人事 + 36協定 + 社会保険) + Mai second baby Senri-chuo Maternity",
+  "current_stage": 8,
+  "stages": {
+    "01_research": {"status": "completed", "output": "../21_dai_daigaku_year1/_pipeline/01_research_master.md", "note": "Reuse foundation Đại series 19-25"},
+    "02_outline": {"status": "completed", "note": "Modules in state.json"},
+    "03_draft": {"status": "completed"},
+    "04_content_md": {"status": "completed", "modules_done": ["t01","t02","t03","t04","t05","t06","t07","t08","t09","t10","t11","t12"]},
+    "05_jp_vn_review": {"status": "completed", "output": "_pipeline/05_jp_vn_review.md", "note": "Chunked 3x4 chương — ~142 fixes inline"},
+    "06_consistency": {"status": "completed", "output": "_pipeline/06_consistency.md"},
+    "07_council": {"status": "completed", "outputs": ["_pipeline/07_council/linguist.md", "_pipeline/07_council/pedagogue.md", "_pipeline/07_council/domain_expert.md"]},
+    "08_finalize": {"status": "completed", "output": "_pipeline/08_revision_log.md"}
+  },
+  "modules": [
+    {"position": 1, "code": "t01_year2_kickoff", "name": "T1. 4/2031 — Year 2 kickoff. Hizashi 2000 user, MRR ¥2M. Quit Thanh Hà plan.", "scenes": 10},
+    {"position": 2, "code": "t02_quit_thanha", "name": "T2. 6/2031 — Quit Thanh Hà chính thức. Sếp Tanaka + leader VN tiễn farewell.", "scenes": 10},
+    {"position": 3, "code": "t03_hizashi_v2_dev", "name": "T3. 5-6/2031 — Hizashi v2.0 dev: Multi-language expand (Korean/Chinese learner). Tuấn lead.", "scenes": 10},
+    {"position": 4, "code": "t04_first_hire", "name": "T4. 7/2031 — First hire: Senior Backend Tanaka (Mercari alumni cohort Tuấn). Aiko hire UI junior.", "scenes": 10},
+    {"position": 5, "code": "t05_hizashi_v2_launch", "name": "T5. 8/2031 — Hizashi v2.0 launch. 5000 user, MRR ¥5M.", "scenes": 10},
+    {"position": 6, "code": "t06_mai_pregnancy", "name": "T6. 9/2031 — Mai có thai bé 2! Hana 3 tuổi sắp làm chị.", "scenes": 10},
+    {"position": 7, "code": "t07_series_a_pitch", "name": "T7. 9-10/2031 — Series A pitch tour: Anri + JAFCO + DG + WiL + Globis", "scenes": 12},
+    {"position": 8, "code": "t08_dd_negotiation", "name": "T8. 11/2031 — Due diligence + term sheet negotiation Anri lead ¥200M post ¥1.2B", "scenes": 10},
+    {"position": 9, "code": "t09_series_a_close", "name": "T9. 12/2031 — Series A CLOSE ¥200M! Press release + tuyển 5 nhân sự kế hoạch.", "scenes": 12},
+    {"position": 10, "code": "t10_office_expand", "name": "T10. 1/2032 — Office riêng Umeda Center 1 tầng. 3 dev + 1 marketing + 1 ops onboard.", "scenes": 10},
+    {"position": 11, "code": "t11_visa_keiei_kanri", "name": "T11. 2/2032 — Đại convert visa 経営・管理 (Business Manager). Mai 5 tháng thai khoẻ.", "scenes": 10},
+    {"position": 12, "code": "t12_year2_close_global", "name": "T12. 3/2032 — Year 2 close: Hizashi 12k user, MRR ¥12M, team 8 người, Series B prep 2032 H2", "scenes": 10}
+  ],
+  "metadata": {
+    "started_at": "2026-04-29T00:00:00+07:00",
+    "schema_version": "1.0-lite"
+  }
+}

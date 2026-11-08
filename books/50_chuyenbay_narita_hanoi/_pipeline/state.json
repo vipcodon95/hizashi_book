@@ -1,0 +1,96 @@
+{
+  "book_name": "50_chuyenbay_narita_hanoi",
+  "book_title_vn": "Tán Tỉnh Bằng Tiếng Nhật — Chuyến Bay Narita → Hà Nội",
+  "topic": "Sách thực chiến pure dialogue: Cường bay ANA NH857 5h45 về Hà Nội, tình cờ ngồi giữa 2 cô gái Nhật lạ ở row 28. 1 arc liên tục từ boarding gate đến cửa arrivals — chốt LINE + lên lịch hẹn với 1 cô (Aya quiet) + bạn lành với cô còn lại (Mai outgoing).",
+  "target_audience": "Nam VN 20-35 sống/làm việc/học tập tại Nhật, JP N4-N3+, đã đọc sách 49 hoặc tự học, muốn thực hành kỹ năng tán tỉnh trong tình huống TÌNH CỜ ngắn hạn",
+  "domain_expert_role": "Chuyên gia ngôn ngữ giao tiếp Nhật + nhân học văn hoá hẹn hò Nhật Bản + ANA cabin culture",
+  "pipeline_type": "lite",
+  "series": "ban_50",
+  "parent_book": "49_tantinh_jp",
+
+  "current_stage": 9,
+  "stages": {
+    "01_research":     {"status": "skipped"},
+    "02_outline":      {"status": "done", "completed": "2026-06-28"},
+    "03_draft":        {"status": "skipped"},
+    "04_content_md":   {"status": "done", "completed": "2026-06-28", "modules_done": ["t01","t02","t03","t04","t05","t06","t07","t08","t09","t10","t11","t12","t13","t13_epilogue"]},
+    "05_jp_vn_review": {"status": "done", "completed": "2026-06-28", "fixes": 80, "grade": "A"},
+    "06_consistency":  {"status": "done", "completed": "2026-06-28", "grade": "B+"},
+    "07_council":      {"status": "done", "completed": "2026-06-28", "grades": {"linguist": "A-", "pedagogue": "A-", "domain": "8.2/10"}},
+    "08_finalize":     {"status": "done", "completed": "2026-06-28", "p0_fixes": 7}
+  },
+
+  "modules": [
+    {"id": "t01", "folder": "t01_boarding_gate", "title_vn": "Trước boarding — gặp nhau ở gate", "title_jp": "搭乗ゲート", "n_scenes": 4, "mocbay": "Gate C-23 Narita 10:15"},
+    {"id": "t02", "folder": "t02_seat_assignment", "title_vn": "Ổn định chỗ ngồi row 28", "title_jp": "座席につく", "n_scenes": 5, "mocbay": "Lên máy bay 10:40"},
+    {"id": "t03", "folder": "t03_takeoff_smalltalk", "title_vn": "Cất cánh — smalltalk khởi động", "title_jp": "離陸後の雑談", "n_scenes": 6, "mocbay": "11:00 takeoff → 11:45"},
+    {"id": "t04", "folder": "t04_drink_service", "title_vn": "Drink service — gout đầu tiên", "title_jp": "飲み物選び", "n_scenes": 5, "mocbay": "12:00"},
+    {"id": "t05", "folder": "t05_meal_service", "title_vn": "Bữa cơm trên máy bay", "title_jp": "機内食", "n_scenes": 7, "mocbay": "12:30"},
+    {"id": "t06", "folder": "t06_after_meal_window", "title_vn": "Sau cơm — 2 mạch song song", "title_jp": "食後の二つの空気", "n_scenes": 6, "mocbay": "13:15"},
+    {"id": "t07", "folder": "t07_nap_interruption", "title_vn": "Mai ngủ — chat sâu 1-1 với Aya", "title_jp": "居眠り中の1対1", "n_scenes": 6, "mocbay": "13:45 — ĐỈNH SÁCH"},
+    {"id": "t08", "folder": "t08_turbulence", "title_vn": "Rung lắc — moment vô tình", "title_jp": "乱気流", "n_scenes": 5, "mocbay": "14:30"},
+    {"id": "t09", "folder": "t09_landing_prep", "title_vn": "Chuẩn bị landing — Hà Nội hiện ra", "title_jp": "着陸準備", "n_scenes": 5, "mocbay": "15:30"},
+    {"id": "t10", "folder": "t10_taxiing_line_exchange", "title_vn": "Taxiing — chốt LINE 2 cô", "title_jp": "LINE交換", "n_scenes": 4, "mocbay": "16:00"},
+    {"id": "t11", "folder": "t11_baggage_claim", "title_vn": "Băng chuyền 7 — invite 1-1", "title_jp": "手荷物受取所", "n_scenes": 6, "mocbay": "16:20"},
+    {"id": "t12", "folder": "t12_arrival_hall", "title_vn": "Cửa ra — kết closeout", "title_jp": "到着ロビー", "n_scenes": 4, "mocbay": "16:40"},
+    {"id": "t13", "folder": "t13_glossary", "title_vn": "Phụ lục — Glossary chuyến bay", "title_jp": "付録", "n_scenes": 0}
+  ],
+
+  "metadata": {
+    "tone": "Thực chiến 5h45 cô đọng, balance 2 cô, kỹ năng implicit qua dialogue, cảm xúc layered",
+    "cast_main": {
+      "name_vn": "Cường",
+      "name_jp_katakana": "クオン",
+      "age": 26,
+      "origin": "Hà Nội",
+      "occupation": "IT backend dev tại Shibuya, sống Nakano",
+      "years_in_japan": 3,
+      "jp_level": "N3 → N2",
+      "trip_purpose": "Về Hà Nội thăm gia đình 10 ngày dịp Tết Trung thu"
+    },
+    "cast_female": [
+      {
+        "name_jp": "桜井 麻衣",
+        "name_romaji": "Sakurai Mai",
+        "seat": "28A (cửa sổ)",
+        "age": 28,
+        "type": "Outgoing táo bạo",
+        "occupation": "PR manager công ty mỹ phẩm trẻ Tokyo",
+        "trip_purpose": "Shooting với KOL VN 4 ngày",
+        "background": "Du học Sydney 2 năm → tiếng Anh fluent, single 6 tháng",
+        "voice": "〜じゃん, ガチで, 〜って感じ, あ、それな, emoji nhiều"
+      },
+      {
+        "name_jp": "高橋 彩",
+        "name_romaji": "Takahashi Aya",
+        "seat": "28C (lối đi)",
+        "age": 25,
+        "type": "Quiet sâu sắc",
+        "occupation": "Biên tập viên truyện NXB Kobunsha",
+        "trip_purpose": "Hội nghị sách Đông Nam Á 5 ngày",
+        "background": "Đọc 7 cuốn/tháng, đang đọc 川上未映子, cô đơn 2 năm",
+        "voice": "〜ですね, 〜かも, 〜だと思います, im lặng 5-10 giây trước rep"
+      }
+    ],
+    "side_chars": [
+      {"name_jp": "CA 山本", "role": "Cabin attendant ANA, keigo cực chuẩn"},
+      {"name_jp": "川村おじいさん", "role": "Cụ 70t ghế 28D, đi du lịch Hạ Long"}
+    ],
+    "setting": "ANA NH857 Narita 11:00 → Nội Bài 15:00 VN time (~5h45 bay)",
+    "writing_constraints": [
+      "KHÔNG nội tâm tiếng Việt",
+      "KHÔNG cảnh tiếng Việt giữa 2 người Việt (không có Hiếu hay bạn VN)",
+      "KHÔNG furigana",
+      "Cột bảng = 'Vai'",
+      "Format: <câu JP><br>*(dịch VN)*",
+      "Stage direction ≤ 5 từ",
+      "Cường = クオン (KHÔNG クアン/チュオン)",
+      "DENSITY 3 NHÂN VẬT: Cường nói ngắn để Mai+Aya có không gian",
+      "MAI vs AYA cân bằng — không cô nào trông kém hơn",
+      "Tận dụng vật lý máy bay (tay vịn chung, ánh đèn, turbulence) → micro-moment"
+    ],
+    "closeout_decision": "Cường chốt với Aya (hợp tone). Mai bạn lành (Hà Nội bia cốc). Mai TỰ nói '謝らなくていいよ、よく見えてた' ở T12.",
+    "n_chapters_planned": 13,
+    "created": "2026-06-28"
+  }
+}

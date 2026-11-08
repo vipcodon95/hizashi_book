@@ -1,0 +1,73 @@
+{
+  "book_name": "54_tangai_vn_truongthanh",
+  "book_title_vn": "Quen Qua Một Cái Comment — Người Lớn Tán Nhau",
+  "current_stage": 9,
+  "language": "vi-only",
+  "pipeline_type": "lite",
+  "stages": {
+    "01_research": {
+      "status": "skipped"
+    },
+    "02_outline": {
+      "status": "done",
+      "completed": "2026-07-01"
+    },
+    "03_draft": {
+      "status": "skipped"
+    },
+    "04_content_md": {
+      "status": "done",
+      "completed": "2026-07-01",
+      "modules_done": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05",
+        "t06",
+        "t07",
+        "t08",
+        "t09",
+        "t10",
+        "t11",
+        "t12",
+        "t13"
+      ]
+    },
+    "05_jp_vn_review": {
+      "status": "skipped",
+      "reason": "thuần Việt"
+    },
+    "06_consistency": {
+      "status": "done",
+      "completed": "2026-07-03",
+      "result": "PASS có điều kiện (0 Critical, 3 Major) → đã fix stage 8"
+    },
+    "07_council": {
+      "status": "done",
+      "completed": "2026-07-03",
+      "result": "Linguist PASS-w-res (1 Major phương ngữ), Pedagogue PASS-w-res (1 Major nguyên tắc dừng T13) → đã fix stage 8"
+    },
+    "08_finalize": {
+      "status": "done",
+      "completed": "2026-07-03"
+    }
+  },
+  "cast": {
+    "quan": "31t, độc thân 2 năm, HN — xưng anh (lớn hơn), lượt thoại dài, gài chữ, chủ động",
+    "my": "26t, HN, độc thân — xưng em (nhỏ hơn), sắc sảo, ghi sổ, trêu ngược mạnh dần"
+  },
+  "constraints": [
+    "THUẦN VIỆT",
+    "KHÔNG nói nhiều về công việc — quan điểm sống + chuyện vui + trêu đùa người lớn",
+    "Lượt thoại DÀI 2-4 câu (khác sách 53)",
+    "Double-entendre người lớn dày, công thức 'gài xong vô can', tăng dần cường độ, không mô tả hành vi cụ thể",
+    "My trêu ngược mạnh dần — không thụ động",
+    "Ngôi xưng CỐ ĐỊNH: Quân=anh (31), My=em (26)",
+    "Chỉ 1 buổi gặp ngoài (T07 lẩu + hồ Tây)"
+  ],
+  "n_chapters": 13,
+  "created": "2026-07-01",
+  "notes": "Sách 54 nối tiếp sách 53 nhưng cast trưởng thành hơn (31/26), giọng thính đậm hơn, lượt dài hơn. Bản thử T01 được user duyệt nguyên văn ('văn phong ổn đấy').",
+  "finalized": "2026-07-03"
+}

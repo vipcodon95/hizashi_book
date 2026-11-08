@@ -1,0 +1,37 @@
+{
+  "pipeline_type": "lite",
+  "book_name": "22_dai_daigaku_year2",
+  "book_title_vn": "Sách 22 — Đại ĐH Năm 2: Web + Mobile + Mai sang Nhật + Lab Tour",
+  "topic": "Năm 2 (4/2027-3/2028) Đại 22 tuổi học Web (HTML/CSS/JS, React, FastAPI) + DB + OS + Network + Mobile (Flutter). Mai sang Nhật 5/2027 visa 家族滞在. Đại pass FE 6/2027. Internship hè Cybozu Osaka. Lab tour T2-T3, chọn Inoue Lab (NLP/AI). Mai có baby cuối năm.",
+  "target_audience": "SV CNTT VN năm 2 ĐH Nhật, đã đọc sách 21.",
+  "domain_expert_role": "Web/Mobile dev + DB + OS + Network + Flutter + 応用情報 specialist + 勉強会 Osaka",
+  "current_stage": 8,
+  "stages": {
+    "01_research": {"status": "completed", "output": "../21_dai_daigaku_year1/_pipeline/01_research_master.md"},
+    "02_outline": {"status": "completed", "note": "Modules in state.json"},
+    "03_draft": {"status": "completed"},
+    "04_content_md": {"status": "completed", "modules_done": ["t01","t02","t03","t04","t05","t06","t07","t08","t09","t10","t11","t12"]},
+    "05_jp_vn_review": {"status": "completed", "output": "_pipeline/05_jp_vn_review.md", "note": "Chunked 3x4 chương — ~130 fixes inline"},
+    "06_consistency": {"status": "completed", "output": "_pipeline/06_consistency.md"},
+    "07_council": {"status": "completed", "outputs": ["_pipeline/07_council/linguist.md", "_pipeline/07_council/pedagogue.md", "_pipeline/07_council/domain_expert.md"]},
+    "08_finalize": {"status": "completed", "output": "_pipeline/08_revision_log.md"}
+  },
+  "modules": [
+    {"position": 1, "code": "t01_year2_start", "name": "T1. Năm 2 bắt đầu — Web + DB intro", "scenes": 8},
+    {"position": 2, "code": "t02_mai_arrival", "name": "T2. 5/2027 Mai sang Nhật visa 家族滞在 + Senri-chuo apt", "scenes": 10},
+    {"position": 3, "code": "t03_FE_pass", "name": "T3. FE pass 6/2027 + 勉強会 Osaka first time", "scenes": 8},
+    {"position": 4, "code": "t04_html_css_js", "name": "T4. Web技術 I — HTML/CSS/JS vanilla → React intro", "scenes": 10},
+    {"position": 5, "code": "t05_db_sql", "name": "T5. DB入門 — PostgreSQL + ER diagram + JOIN", "scenes": 8},
+    {"position": 6, "code": "t06_summer_internship", "name": "T6. Summer 2 weeks internship Cybozu Osaka", "scenes": 10},
+    {"position": 7, "code": "t07_os_network", "name": "T7. OS入門 + Network — TCP/IP, HTTP, Linux", "scenes": 8},
+    {"position": 8, "code": "t08_mobile_flutter", "name": "T8. Mobile dev — Flutter first app", "scenes": 8},
+    {"position": 9, "code": "t09_team_project", "name": "T9. プロジェクト演習 — team 4 web app deploy VPS", "scenes": 10},
+    {"position": 10, "code": "t10_mai_baby", "name": "T10. 1/2028 — Mai có baby (12 tuần). Đại làm bố sắp", "scenes": 10},
+    {"position": 11, "code": "t11_lab_tour", "name": "T11. Lab tour 8 labs — chọn Inoue Lab (NLP/AI)", "scenes": 10},
+    {"position": 12, "code": "t12_year2_close", "name": "T12. Year 2 closure — prep year 3 lab + family", "scenes": 8}
+  ],
+  "metadata": {
+    "started_at": "2026-04-28T22:30:00+07:00",
+    "schema_version": "1.0-lite"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "pipeline_type": "lite",
+  "book_name": "19_dai_year1",
+  "book_title_vn": "Sách 19 — Đại Năm 1: Du học sinh trường tiếng Osaka",
+  "topic": "Năm 1 (4/2024-3/2025) Đại 19 tuổi du học trường tiếng Kansai Gogo Gakuin Osaka, N4 entry, làm thêm Lawson Namba, văn hoá Osaka, thi N3 12/2024, lễ hội Tenjin Matsuri, homestay Tanaka 3 tháng rồi chuyển ký túc",
+  "current_stage": 8,
+  "stages": {
+    "01_research": {"status": "completed"},
+    "02_outline": {"status": "completed"},
+    "03_draft": {"status": "completed"},
+    "04_content_md": {"status": "completed", "modules_done": ["t01","t02","t03","t04","t05","t06","t07","t08","t09","t10","t11","t12"]},
+    "05_jp_vn_review": {"status": "completed", "output": "_pipeline/05_jp_vn_review.md", "note": "Chunked review (3x4 chương) — ~178 fixes inline"},
+    "06_consistency": {"status": "completed", "output": "_pipeline/06_consistency.md"},
+    "07_council": {"status": "completed", "outputs": ["_pipeline/07_council/linguist.md","_pipeline/07_council/pedagogue.md","_pipeline/07_council/domain_expert.md"]},
+    "08_finalize": {"status": "completed", "output": "_pipeline/08_revision_log.md"}
+  },
+  "modules": [
+    {"position": 1, "code": "t01_rainichi_osaka", "name": "T1. 来日大阪 — Centrair → Kansai → homestay", "scenes": 10},
+    {"position": 2, "code": "t02_gakkou_shonichi", "name": "T2. 学校初日 — Class division test, gặp 同期", "scenes": 10},
+    {"position": 3, "code": "t03_homestay_seikatsu", "name": "T3. ホームステイ生活 — bữa cơm, rửa bát, ngôn ngữ daily", "scenes": 10},
+    {"position": 4, "code": "t04_baito_mensetsu", "name": "T4. アルバイト面接 — Lawson Namba interview", "scenes": 10},
+    {"position": 5, "code": "t05_lawson_shonichi", "name": "T5. ローソン初日 — Suzuki tenchou train", "scenes": 10},
+    {"position": 6, "code": "t06_class_presentation", "name": "T6. 自己紹介 plus VN文化 presentation", "scenes": 12},
+    {"position": 7, "code": "t07_summer_matsuri", "name": "T7. 夏祭り Tenjin Matsuri Osaka — yukata + hanabi", "scenes": 12},
+    {"position": 8, "code": "t08_n4_n3_kentei", "name": "T8. N4→N3 thi 12/2024 + đỗ N3 110/180", "scenes": 10},
+    {"position": 9, "code": "t09_kyoto_excursion", "name": "T9. 京都遠足 — Kinkaku-ji + Fushimi Inari", "scenes": 10},
+    {"position": 10, "code": "t10_oshogatsu_homestay", "name": "T10. お正月 với homestay + hatsumode", "scenes": 10},
+    {"position": 11, "code": "t11_hikkoshi_dorm", "name": "T11. 引っ越し — Tanaka homestay → ký túc trường", "scenes": 10},
+    {"position": 12, "code": "t12_ichinen_keika", "name": "T12. 1年経過 — Plan năm 2 N2 + ĐH research", "scenes": 10}
+  ]
+}

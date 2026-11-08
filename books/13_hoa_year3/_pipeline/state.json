@@ -1,0 +1,70 @@
+{
+  "pipeline_type": "lite",
+
+  "book_name": "13_hoa_year3",
+  "book_title_vn": "Sách 13 — Hoa Năm 3: Bước Ngoặt Tokutei",
+  "topic": "Năm 3 cuối TTS (4/2028 → 3/2029) của Hoa: thi 技能検定3級 + N3, apply SSW1 飲食料品製造業, mẹ qua thăm Nhật, quyết định ở Saitama hay 転職, kết thúc 3 năm TTS chuyển sang SSW1.",
+  "target_audience": "TTS Việt sắp finish năm 3 / người đọc đã theo sách 11+12 / phái cử công ty cần tài liệu chuyển TTS → SSW1.",
+  "domain_expert_role": "Cán bộ phụ trách thực tập sinh + chuyên gia chuyển 技能実習 → 特定技能 + SSW1 申請 path",
+
+  "current_stage": 8,
+
+  "stages": {
+    "01_research":      {"status": "completed", "output": "_pipeline/01_research.md", "started_at": "2026-04-28T04:30:00+07:00", "completed_at": "2026-04-28T05:00:00+07:00"},
+    "02_outline":       {"status": "completed", "output": "_pipeline/02_outline.md", "started_at": "2026-04-28T05:00:00+07:00", "completed_at": "2026-04-28T05:30:00+07:00"},
+    "03_draft":         {"status": "completed", "output": "_pipeline/03_draft.md", "started_at": "2026-04-28T05:30:00+07:00", "completed_at": "2026-04-28T06:00:00+07:00"},
+    "04_content_md":    {"status": "completed", "output": "12 chapter files in books/13_hoa_year3/", "started_at": "2026-04-28T06:00:00+07:00", "completed_at": "2026-04-28T08:00:00+07:00", "modules_done": ["t01","t02","t03","t04","t05","t06","t07","t08","t09","t10","t11","t12"]},
+    "05_jp_vn_review":  {"status": "completed", "output": "_pipeline/05_jp_vn_review.md", "started_at": "2026-04-28T08:00:00+07:00", "completed_at": "2026-04-28T08:25:00+07:00", "fixes_applied": 80},
+    "06_consistency":   {"status": "completed", "output": "_pipeline/06_consistency.md", "started_at": "2026-04-28T08:00:00+07:00", "completed_at": "2026-04-28T08:30:00+07:00", "verdict": "PASS WITH FIXES (3 CRITICAL, 4 MAJOR, 5 MINOR)"},
+    "07_council":       {"status": "completed", "outputs": ["_pipeline/07_council/linguist.md","_pipeline/07_council/pedagogue.md","_pipeline/07_council/domain_expert.md"], "started_at": "2026-04-28T08:00:00+07:00", "completed_at": "2026-04-28T08:35:00+07:00", "verdict": "linguist=CONDITIONAL PASS, pedagogue=APPROVE WITH MINOR REVISIONS, domain_expert=APPROVE WITH CONDITIONS"},
+    "08_finalize":      {"status": "completed", "output": "_pipeline/08_revision_log.md", "started_at": "2026-04-28T08:35:00+07:00", "completed_at": "2026-04-28T09:00:00+07:00", "fixes_applied": 17}
+  },
+
+  "modules": [
+    {"position": 1,  "code": "t01_y3_kaishi",        "name": "T1. Năm 3 — năm cuối TTS",                     "folder": "t01_y3_kaishi",        "scenes": 14},
+    {"position": 2,  "code": "t02_trang_arrival",    "name": "T2. Kohai Trang sang — Hoa thành sempai bậc 2", "folder": "t02_trang_arrival",    "scenes": 16},
+    {"position": 3,  "code": "t03_n3_kentei",        "name": "T3. Học N3 + chuẩn bị 技能検定",                "folder": "t03_n3_kentei",        "scenes": 14},
+    {"position": 4,  "code": "t04_line_crisis",      "name": "T4. Khủng hoảng line lớn — Hoa lead",          "folder": "t04_line_crisis",      "scenes": 16},
+    {"position": 5,  "code": "t05_kentei_pass",      "name": "T5. Thi 技能検定3級 + đỗ",                      "folder": "t05_kentei_pass",      "scenes": 14},
+    {"position": 6,  "code": "t06_final_mensetsu",   "name": "T6. Mensetsu cuối kỳ",                         "folder": "t06_final_mensetsu",   "scenes": 12},
+    {"position": 7,  "code": "t07_food_expo",        "name": "T7. JFE Food EXPO Tokyo",                      "folder": "t07_food_expo",        "scenes": 14},
+    {"position": 8,  "code": "t08_audit_solo",       "name": "T8. Audit Lawson — Hoa lead solo",             "folder": "t08_audit_solo",       "scenes": 16},
+    {"position": 9,  "code": "t09_n3_pass",          "name": "T9. Thi N3 + đỗ",                              "folder": "t09_n3_pass",          "scenes": 12},
+    {"position": 10, "code": "t10_mother_visit",     "name": "T10. Mẹ qua thăm Nhật — climax emotional",     "folder": "t10_mother_visit",     "scenes": 18},
+    {"position": 11, "code": "t11_decision",         "name": "T11. Quyết định — ở Saitama hay 転職",          "folder": "t11_decision",         "scenes": 14},
+    {"position": 12, "code": "t12_ssw_transition",   "name": "T12. Bonenkai cuối + chuyển TTS → SSW1",        "folder": "t12_ssw_transition",   "scenes": 18}
+  ],
+
+  "book_design": {
+    "structure": "12 chương = 12 tháng (story arc năm 3 của Hoa, 4/2028 → 3/2029) — năm cuối TTS, transition sang SSW1",
+    "main_character": {
+      "name_vn": "Hoa", "name_jp": "ホア (Hoa)", "age": 24, "year": 3,
+      "background": "Năm 3 cuối TTS. Sekininsha + HACCP coordinator. Sempai cao cấp. Chuẩn bị thi 技能検定3級 + N3, apply SSW1."
+    },
+    "cast_returning": [
+      "田中部長 (Tanaka)", "佐藤先輩 (Satou)", "鈴木shidouin (Suzuki)", "山田さん (Yamada)", "高橋QC (Takahashi)", "木村さん (Kimura — đã warm xuyên 2 năm)",
+      "Mai (Ikusei năm 2, sempai trực tiếp Trang)", "Putri (Tokutei SSW1)",
+      "Linh (qua LINE từ VN, đã có con)", "Andi (Nagoya, SSW1)",
+      "Kondo-sensei (instructor, T7 expo)"
+    ],
+    "cast_new": [
+      {"name_jp": "Trang (チャン)", "role": "Kohai VN mới sang 5/2028, 22 tuổi, Đà Nẵng. Visa Ikusei. Vui vẻ (contrast Mai trầm). Mai sẽ dạy Trang."},
+      {"name_jp": "Mẹ Hoa (お母さん)", "role": "Lần đầu qua thăm Nhật T10 sau 3 năm. Climax emotional. Gặp tất cả cast."}
+    ],
+    "themes": [
+      "Sempai bậc cao nhất — coach Mai+Trang đồng thời",
+      "Khép vòng TTS 3 năm — chuẩn bị transition",
+      "Lộ trình SSW1 申請 chuẩn xác (theo council fix)",
+      "Mẹ qua thăm = climax 3 năm",
+      "Quyết định stay/go = bước ngoặt định hình tương lai",
+      "Career closure + new beginning"
+    ]
+  },
+
+  "metadata": {
+    "started_at": "2026-04-28T04:00:00+07:00",
+    "last_action": "Pipeline LITE COMPLETE 8/8 stages — sách 13 ready cho publish (12 chương ~178 scenes, 17 critical fixes applied Stage 8)",
+    "completed_at": "2026-04-28T09:00:00+07:00",
+    "schema_version": "1.0-lite"
+  }
+}

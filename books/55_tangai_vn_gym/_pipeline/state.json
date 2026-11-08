@@ -1,0 +1,73 @@
+{
+  "book_name": "55_tangai_vn_gym",
+  "book_title_vn": "Đối Tượng Tập Luyện — PT Và Khách Ruột",
+  "current_stage": 9,
+  "language": "vi-only",
+  "pipeline_type": "lite",
+  "stages": {
+    "01_research": {
+      "status": "skipped"
+    },
+    "02_outline": {
+      "status": "done",
+      "completed": "2026-07-03"
+    },
+    "03_draft": {
+      "status": "skipped"
+    },
+    "04_content_md": {
+      "status": "done",
+      "completed": "2026-07-03",
+      "modules_done": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05",
+        "t06",
+        "t07",
+        "t08",
+        "t09",
+        "t10",
+        "t11",
+        "t12",
+        "t13"
+      ]
+    },
+    "05_jp_vn_review": {
+      "status": "skipped",
+      "reason": "thuần Việt"
+    },
+    "06_consistency": {
+      "status": "done",
+      "completed": "2026-07-03",
+      "result": "PASS có điều kiện (0 Critical, 3 Major) → fixed stage 8"
+    },
+    "07_council": {
+      "status": "done",
+      "completed": "2026-07-03",
+      "result": "Linguist PASS-w-res (3 Major), Pedagogue PASS-w-res (2 Major) → fixed stage 8"
+    },
+    "08_finalize": {
+      "status": "done",
+      "completed": "2026-07-03"
+    }
+  },
+  "cast": {
+    "quan": "31t — persona giữ từ sách 54 (kịch bản song song độc lập), giờ nhắn NGẮN — xưng anh",
+    "ngan": "28t PT gym, HN — sắc, thẳng, trêu lại ngay từ đầu, đối thủ ngang cơ nhất series — xưng em"
+  },
+  "constraints": [
+    "THUẦN VIỆT",
+    "Tin nhắn GỌN 1-2 câu, rapid-fire — NGƯỢC với lượt dài sách 54",
+    "18+ ngầm ĐẬM HƠN sách 54 — cả 2 chơi từ đầu, vẫn không mô tả hành vi",
+    "Ngôi xưng CỐ ĐỊNH: Quân=anh (31), Ngân=em (28)",
+    "Thoại nói trực tiếp chỉ ở T02 (đo chỉ số) + T07 (buổi 1-kèm-1)",
+    "Ngân chủ động ngang hàng từ T01 — không có giai đoạn đỡ đòn",
+    "Giữ chuẩn an toàn: đẩy-rút, quyền ở Ngân, không khai thác lúc ốm/say"
+  ],
+  "n_chapters": 13,
+  "created": "2026-07-03",
+  "notes": "Sách 55 theo yêu cầu: tăng độ người lớn + format tin ngắn + 'nhân vật vẫn vậy, khác đối tượng tập luyện' → Quân 31 phiên bản song song, đối tượng mới là PT gym (chơi chữ 'đối tượng tập luyện'). Bối cảnh gym cung cấp mỏ double-entendre nghề nghiệp.",
+  "finalized": "2026-07-03"
+}

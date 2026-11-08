@@ -1,0 +1,37 @@
+{
+  "pipeline_type": "lite",
+  "book_name": "21_dai_daigaku_year1",
+  "book_title_vn": "Sách 21 — Đại ĐH Năm 1: Foundation CS + First Hackathon + Cưới Mai",
+  "topic": "Năm 1 (4/2026-3/2027) Đại 21 tuổi vào ĐH Osaka 基礎工学部 情報科学科. Học foundation CS (Python, C, math, algorithm). Cohort Yamato/Lin Wei/Aiko/Rajesh. Hack U Osaka 9/2026. Cưới Mai 1/2027. Thi 基本情報 (FE) prep.",
+  "target_audience": "SV CNTT VN tại Nhật năm 1 ĐH, prep CNTT Nhật, đã đọc sách 19-20.",
+  "domain_expert_role": "SV CNTT năm 1 ĐH Nhật + competitive programming AtCoder + 基本情報技術者試験 specialist",
+  "current_stage": 8,
+  "stages": {
+    "01_research": {"status": "completed", "output": "_pipeline/01_research_master.md"},
+    "02_outline": {"status": "completed", "note": "Modules in state.json"},
+    "03_draft": {"status": "completed"},
+    "04_content_md": {"status": "completed", "modules_done": ["t01","t02","t03","t04","t05","t06","t07","t08","t09","t10","t11","t12"]},
+    "05_jp_vn_review": {"status": "completed", "output": "_pipeline/05_jp_vn_review.md", "note": "Chunked 3x4 chương — ~153 fixes inline"},
+    "06_consistency": {"status": "completed", "output": "_pipeline/06_consistency.md"},
+    "07_council": {"status": "completed", "outputs": ["_pipeline/07_council/linguist.md", "_pipeline/07_council/pedagogue.md", "_pipeline/07_council/domain_expert.md"]},
+    "08_finalize": {"status": "completed", "output": "_pipeline/08_revision_log.md"}
+  },
+  "modules": [
+    {"position": 1, "code": "t01_nyugaku", "name": "T1. 入学式 — ĐH Osaka Toyonaka 4/2026", "scenes": 8},
+    {"position": 2, "code": "t02_dorm_friends", "name": "T2. Ký túc + first cohort (Yamato, Lin Wei, Aiko, Rajesh)", "scenes": 8},
+    {"position": 3, "code": "t03_first_class", "name": "T3. プログラミング演習 I — Python first class", "scenes": 8},
+    {"position": 4, "code": "t04_math_foundation", "name": "T4. 線形代数 + 微積分 — math foundation", "scenes": 8},
+    {"position": 5, "code": "t05_algorithm_basic", "name": "T5. アルゴリズム入門 + AtCoder 茶色", "scenes": 8},
+    {"position": 6, "code": "t06_baito_kateikyoshi", "name": "T6. Summer baito — gia sư lập trình cho VN cohort", "scenes": 8},
+    {"position": 7, "code": "t07_hack_u", "name": "T7. Hack U Osaka 9/2026 — first hackathon", "scenes": 10},
+    {"position": 8, "code": "t08_data_structure", "name": "T8. データ構造 — array, linked list, tree", "scenes": 8},
+    {"position": 9, "code": "t09_git_github", "name": "T9. Git + GitHub + open source intro", "scenes": 8},
+    {"position": 10, "code": "t10_kekkon_VN", "name": "T10. 1/2027 — về VN cưới Mai 1 tuần", "scenes": 10},
+    {"position": 11, "code": "t11_FE_prep", "name": "T11. 基本情報技術者試験 prep + Lin Wei mentor", "scenes": 8},
+    {"position": 12, "code": "t12_year1_close", "name": "T12. Year 1 closure — choose year 2 path", "scenes": 8}
+  ],
+  "metadata": {
+    "started_at": "2026-04-28T22:30:00+07:00",
+    "schema_version": "1.0-lite"
+  }
+}

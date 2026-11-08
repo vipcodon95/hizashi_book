@@ -1,0 +1,91 @@
+{
+  "pipeline_type": "lite",
+
+  "book_name": "12_hoa_year2",
+  "book_title_vn": "Sách 12 — Hoa Năm 2: Trở Thành Sempai",
+  "topic": "Năm 2 (4/2027 → 3/2028) của TTS Hoa: chuyển sang chế độ 育成就労 mới, đậu Sekininsha + HACCP coordinator, dạy kohai Mai từ Việt Nam, định hướng Tokutei Ginou",
+  "target_audience": "TTS Việt đã xong năm 1 / người đọc đã theo sách 11 / phái cử công ty cần tài liệu năm 2",
+  "domain_expert_role": "Cán bộ phụ trách thực tập sinh + chuyên gia chuyển đổi 技能実習 → 育成就労 + Tokutei Ginou path",
+
+  "current_stage": 9,
+
+  "stages": {
+    "01_research":      {"status": "done", "output": "_pipeline/01_research.md", "started_at": "2026-04-27T05:00:00+07:00", "completed_at": "2026-04-27T05:10:00+07:00"},
+    "02_outline":       {"status": "done", "output": "_pipeline/02_outline.md", "started_at": "2026-04-27T05:10:00+07:00", "completed_at": "2026-04-27T05:15:00+07:00"},
+    "03_draft":         {"status": "done", "output": "_pipeline/03_draft.md", "started_at": "2026-04-27T05:15:00+07:00", "completed_at": "2026-04-27T05:25:00+07:00"},
+    "04_content_md":    {"status": "done", "output": "12 files _HoiThoai.md", "started_at": "2026-04-27T05:30:00+07:00", "completed_at": "2026-04-28T03:00:00+07:00", "modules_done": ["t01","t02","t03","t04","t05","t06","t07","t08","t09","t10","t11","t12"]},
+    "05_jp_vn_review":  {"status": "done", "output": "_pipeline/05_jp_vn_review.md", "started_at": "2026-04-28T03:00:00+07:00", "completed_at": "2026-04-28T03:30:00+07:00"},
+    "06_consistency":   {"status": "done", "output": "_pipeline/06_consistency.md", "started_at": "2026-04-28T03:00:00+07:00", "completed_at": "2026-04-28T03:30:00+07:00"},
+    "07_council":       {"status": "done", "outputs": ["_pipeline/07_council/linguist.md", "_pipeline/07_council/pedagogue.md", "_pipeline/07_council/domain_expert.md", "_pipeline/07_council/_summary.md"], "started_at": "2026-04-28T03:30:00+07:00", "completed_at": "2026-04-28T03:50:00+07:00"},
+    "08_finalize":      {"status": "done", "output": "_pipeline/08_revision_log.md", "started_at": "2026-04-28T03:50:00+07:00", "completed_at": "2026-04-28T04:00:00+07:00"}
+  },
+
+  "modules": [
+    {"position": 1,  "code": "t01_ikusei_kaishi",  "name": "T1. Năm mới — chế độ Ikusei Shuurou bắt đầu", "folder": "t01_ikusei_kaishi",  "scenes": 14},
+    {"position": 2,  "code": "t02_mai_arrival",    "name": "T2. Mai sang — Hoa thành sempai",            "folder": "t02_mai_arrival",    "scenes": 16},
+    {"position": 3,  "code": "t03_day_eisei",      "name": "T3. Dạy Mai vệ sinh thực phẩm",              "folder": "t03_day_eisei",      "scenes": 16},
+    {"position": 4,  "code": "t04_mai_mistake",    "name": "T4. Mai mắc lỗi đầu tiên",                   "folder": "t04_mai_mistake",    "scenes": 14},
+    {"position": 5,  "code": "t05_sekininsha_apply", "name": "T5. Đăng ký khoá Sekininsha",              "folder": "t05_sekininsha_apply", "scenes": 12},
+    {"position": 6,  "code": "t06_chukan_y2",      "name": "T6. Mensetsu giữa kỳ năm 2",                 "folder": "t06_chukan_y2",      "scenes": 12},
+    {"position": 7,  "code": "t07_sekininsha_pass", "name": "T7. Thi Sekininsha + đỗ",                   "folder": "t07_sekininsha_pass", "scenes": 14},
+    {"position": 8,  "code": "t08_audit_y2",       "name": "T8. Audit năm 2 — Mai dẫn 1 phần",          "folder": "t08_audit_y2",       "scenes": 16},
+    {"position": 9,  "code": "t09_haccp_course",   "name": "T9. Đăng ký HACCP coordinator",              "folder": "t09_haccp_course",   "scenes": 14},
+    {"position": 10, "code": "t10_putri_crisis",   "name": "T10. Khủng hoảng Tết — Putri recall nhỏ",   "folder": "t10_putri_crisis",   "scenes": 14},
+    {"position": 11, "code": "t11_haccp_tokutei",  "name": "T11. Đỗ HACCP + định hướng Tokutei",         "folder": "t11_haccp_tokutei",  "scenes": 12},
+    {"position": 12, "code": "t12_bonenkai_y2",    "name": "T12. Bonenkai năm 2 — Linh chị quay lại",   "folder": "t12_bonenkai_y2",    "scenes": 18}
+  ],
+
+  "book_design": {
+    "structure": "12 chương = 12 tháng (story arc năm 2 của Hoa, 4/2027 → 3/2028)",
+    "main_character": {
+      "name_vn": "Hoa",
+      "name_jp": "ホア (Hoa)",
+      "age": 23,
+      "year": 2,
+      "background": "Đã xong năm 1 TTS, đậu N4 12/2026, vừa được công nhận sempai chính thức 4/2027. Vẫn ở Saitama, nhà máy cơm hộp/đông lạnh."
+    },
+    "cast_returning": [
+      "田中部長 (Tanaka-buchou)",
+      "佐藤先輩 (Satou-senpai)",
+      "鈴木shidouin (Suzuki)",
+      "山田さん (Yamada-san)",
+      "高橋QC (Takahashi-san)",
+      "木村さん (Kimura-san — đã warm với Hoa từ T11 sách 11)",
+      "Linh chị (về VN từ T12 sách 11, qua LINE; T12 sách 12 quay lại Nhật chơi)",
+      "Andi (ở Nagoya, qua LINE)"
+    ],
+    "cast_new": [
+      {"name_jp": "Mai (マイ)", "role": "Kohai VN mới sang 5/2027, 21 tuổi, Cần Thơ. Visa **育成就労 (Ikusei Shuurou)** — KHÔNG phải TTS (vì sang sau 1/4/2027). Hoa = TTS năm 2 sempai. Bashful + chăm chỉ."},
+      {"name_jp": "Putri (プトゥリ)", "role": "TTS Indonesia mới, cùng ký túc Mai, replace role của Andi. Năng động."},
+      {"name_jp": "Kondo-sensei (近藤先生)", "role": "Instructor khoá Sekininsha + HACCP coordinator. Cố vấn / mentor academic."}
+    ],
+    "chapter_arc": [
+      {"month": 1,  "title": "Năm mới — chế độ Ikusei Shuurou bắt đầu",      "context": "1/4/2027 — chế độ 育成就労 chính thức thi hành; Hoa lên năm 2 chính thức"},
+      {"month": 2,  "title": "Mai sang — Hoa thành sempai",                    "context": "Hoa đón Mai ở Narita (mirror scene của Suzuki năm 1)"},
+      {"month": 3,  "title": "Dạy Mai vệ sinh thực phẩm",                      "context": "Hoa dạy 二度洗い + allergen 9 — repeat T3 năm 1 nhưng từ góc sempai"},
+      {"month": 4,  "title": "Mai mắc lỗi đầu tiên",                           "context": "Mai làm hỏng line — Hoa giúp Mai báo cáo Tanaka, nhận trách nhiệm chung"},
+      {"month": 5,  "title": "Đăng ký khoá Sekininsha",                        "context": "Hoa apply khoá học, prep tài liệu; Suzuki giới thiệu Kondo-sensei"},
+      {"month": 6,  "title": "Mensetsu giữa kỳ năm 2",                         "context": "Hoa mensetsu với vai trò sempai; định hướng HACCP coordinator + Tokutei"},
+      {"month": 7,  "title": "Thi Sekininsha + đỗ",                            "context": "6h khoá học → thi → đỗ. Cast ăn mừng. Mai chứng kiến + có động lực"},
+      {"month": 8,  "title": "Audit năm 2 — Mai dẫn 1 phần",                   "context": "Hoa coach Mai dẫn auditor một phần; Hoa giám sát behind scene"},
+      {"month": 9,  "title": "Đăng ký HACCP coordinator",                      "context": "Khoá 2-3 ngày với Kondo-sensei; Hoa network với learners khác"},
+      {"month": 10, "title": "Khủng hoảng Tết — kohai Indonesia recall",       "context": "Putri (cùng ký túc Mai) gặp sự cố nhỏ; Hoa+Mai hỗ trợ — đa văn hoá"},
+      {"month": 11, "title": "Đỗ HACCP + định hướng Tokutei",                  "context": "Đỗ HACCP coord. Suzuki bàn lộ trình chuyển 特定技能1号 sau hợp đồng (4/2029)"},
+      {"month": 12, "title": "Cuối năm 2 — Linh chị quay lại từ VN",           "context": "Bonenkai năm 2; Linh chị về thăm + cast tụ họp + Hoa speech sempai"}
+    ],
+    "language_progression": "Năm 2: N4 vững → N3 cận. Keigo cao cấp đã thuộc; thêm cụm dạy/coaching kohai (yasashii Japanese, ~てもらえる, ~なきゃ); cụm tự tin trong meeting; cụm bàn bạc tương lai cao cấp.",
+    "themes": [
+      "Sempai responsibility — học cách dạy lại",
+      "Chuyển đổi chế độ 育成就労 (real 2027 transition)",
+      "Mature relationship với Kimura (đã warm từ năm 1)",
+      "Long-distance friendship (Linh, Andi qua LINE)",
+      "Định hướng pro: Sekininsha → HACCP → Tokutei → 永住権"
+    ]
+  },
+
+  "metadata": {
+    "started_at": "2026-04-27T05:00:00+07:00",
+    "last_action": "Pipeline LITE initialized for hoa_year2 (12 modules planned, dialogue-only)",
+    "schema_version": "1.0-lite"
+  }
+}

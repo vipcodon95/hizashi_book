@@ -1,0 +1,34 @@
+{
+  "pipeline_type": "lite",
+  "book_name": "15_thai_year2",
+  "book_title_vn": "Sách 15 — Thái Năm 2: MC Operator + N3 đỗ",
+  "topic": "Năm 2 Thái — lên MC operator độc lập, học Mastercam, EDM setup, lần đầu trial mold solo, N3 đỗ 12/2023, 機械加工 2級 chuẩn bị, Suzuki rời 転職.",
+  "target_audience": "Tiếp nối sách 14, kỹ sư cơ khí VN N4-N3 đã có 1 năm exp ngành khuôn.",
+  "domain_expert_role": "Engineer khuôn đúc + chuyên gia CAM/EDM",
+  "current_stage": 8,
+  "stages": {
+    "01_research": {"status": "completed", "output": "../14_thai_year1/_pipeline/01_research_master.md"},
+    "02_outline": {"status": "completed"},
+    "03_draft": {"status": "completed"},
+    "04_content_md": {"status": "completed", "modules_done": ["t01","t02","t03","t04","t05","t06","t07","t08","t09","t10","t11","t12"]},
+    "05_jp_vn_review": {"status": "completed", "output": "_pipeline/05_jp_vn_review.md"},
+    "06_consistency": {"status": "completed", "output": "_pipeline/06_consistency.md"},
+    "07_council": {"status": "completed", "outputs": ["_pipeline/07_council/linguist.md","_pipeline/07_council/pedagogue.md","_pipeline/07_council/domain_expert.md"]},
+    "08_finalize": {"status": "completed", "output": "_pipeline/08_revision_log.md"}
+  },
+  "modules": [
+    {"position": 1, "code": "t01_mc_operator_start", "name": "T1. MC Operator bắt đầu — sáng MC chiều migaki", "scenes": 7},
+    {"position": 2, "code": "t02_mastercam_basic", "name": "T2. Mastercam basic — Suzuki dạy CAM", "scenes": 7},
+    {"position": 3, "code": "t03_edm_setup", "name": "T3. EDM die-sinker setup — Sodick lần đầu", "scenes": 7},
+    {"position": 4, "code": "t04_first_solo_trial", "name": "T4. First solo trial mold — Hồi hộp + nervous", "scenes": 7},
+    {"position": 5, "code": "t05_defect_correction", "name": "T5. Defect + correction — Sink mark", "scenes": 7},
+    {"position": 6, "code": "t06_haru_kentei", "name": "T6. Spring kentei prep — Sakurai 1級 fail", "scenes": 7},
+    {"position": 7, "code": "t07_n3_intensive", "name": "T7. N3 intensive prep — Linh-chị tutor", "scenes": 7},
+    {"position": 8, "code": "t08_suzuki_tenshoku", "name": "T8. Suzuki 転職 announcement — mất mentor", "scenes": 7},
+    {"position": 9, "code": "t09_n3_test", "name": "T9. N3 test 12/2023 — đỗ 110 điểm", "scenes": 7},
+    {"position": 10, "code": "t10_chukyu_seimitsu", "name": "T10. 中級精密 — phay precision tolerance ±0.01", "scenes": 7},
+    {"position": 11, "code": "t11_kikai_kakou_2kyu", "name": "T11. 機械加工 2級 thi 3/2024 — đỗ", "scenes": 7},
+    {"position": 12, "code": "t12_ninen_keika", "name": "T12. 2 năm khép — Tanaka offer assistant designer", "scenes": 7}
+  ],
+  "metadata": {"started_at": "2026-04-28T11:00:00+07:00", "schema_version": "1.0-lite"}
+}

@@ -1,0 +1,37 @@
+{
+  "pipeline_type": "lite",
+  "book_name": "24_dai_daigaku_year4",
+  "book_title_vn": "Sách 24 — Đại ĐH Năm 4 (CLOSURE): Hizashi 卒研 + 内定 → Startup Hizashi Inc",
+  "topic": "Năm 4 (4/2029-3/2030) Đại 24-25 tuổi closure series. 卒研 Hizashi development intensive (Flutter+FastAPI+Claude API+pgvector). Beta 50 user 4-6/2029. 内定 Mercari/Cybozu/LINE 5/2029. 学会 IPSJ-NL paper present 8/2029. 卒論 30k chữ 9-11/2029. Hackathon Osaka giải nhì 11/2029. DECISION 12/2029: từ chối Mercari ¥6M, chọn STARTUP Hizashi Inc với cofounder Tuấn (sách 19-20) + Aiko (lab). Pre-seed ¥30M Anri+DG. Tốt nghiệp 3/2030 — ngày 1 founder. 25t + Mai 23t + bé Hana 22 tháng.",
+  "target_audience": "SV CNTT VN năm 4 ĐH Nhật + cộng đồng startup VN-Nhật + reader full series Thái+Đại.",
+  "domain_expert_role": "卒論 ĐH Nhật + Hizashi tech stack (Flutter/FastAPI/Claude API/pgvector) + startup ecosystem Osaka + VC funding + 学会発表",
+  "current_stage": 8,
+  "stages": {
+    "01_research": {"status": "completed", "output": "../21_dai_daigaku_year1/_pipeline/01_research_master.md"},
+    "02_outline": {"status": "completed", "note": "Modules in state.json"},
+    "03_draft": {"status": "completed"},
+    "04_content_md": {"status": "completed", "modules_done": ["t01","t02","t03","t04","t05","t06","t07","t08","t09","t10","t11","t12"]},
+    "05_jp_vn_review": {"status": "completed", "output": "_pipeline/05_jp_vn_review.md", "note": "Chunked 3x4 chương — ~96 fixes inline"},
+    "06_consistency": {"status": "completed", "output": "_pipeline/06_consistency.md"},
+    "07_council": {"status": "completed", "outputs": ["_pipeline/07_council/linguist.md", "_pipeline/07_council/pedagogue.md", "_pipeline/07_council/domain_expert.md"]},
+    "08_finalize": {"status": "completed", "output": "_pipeline/08_revision_log.md"}
+  },
+  "modules": [
+    {"position": 1, "code": "t01_year4_kickoff", "name": "T1. 4/2029 — Year 4 kickoff. Hizashi v0.5 dev intensive.", "scenes": 10},
+    {"position": 2, "code": "t02_naitei_offers", "name": "T2. 5/2029 — 内定 Mercari Tokyo + Cybozu Osaka + LINE Fukuoka", "scenes": 10},
+    {"position": 3, "code": "t03_hana_growing", "name": "T3. 6/2029 — Hana 14 tháng + Mai future plan VN/Nhật", "scenes": 10},
+    {"position": 4, "code": "t04_hizashi_beta_50", "name": "T4. 7/2029 — Hizashi beta 50 users + feedback iteration", "scenes": 10},
+    {"position": 5, "code": "t05_gakkai_paper", "name": "T5. 8/2029 — 学会 IPSJ-NL paper present", "scenes": 10},
+    {"position": 6, "code": "t06_sotsuron_writing", "name": "T6. 9-10/2029 — 卒論 writing intensive (30k chữ)", "scenes": 12},
+    {"position": 7, "code": "t07_hackathon_osaka", "name": "T7. 11/2029 — Hackathon Osaka giải nhì + Anri VC chú ý", "scenes": 10},
+    {"position": 8, "code": "t08_decision_startup", "name": "T8. 12/2029 — DECISION: từ chối Mercari, chọn startup Hizashi", "scenes": 12},
+    {"position": 9, "code": "t09_cofounder_tuan_aiko", "name": "T9. 12/2029 — recruit cofounder Tuấn + Aiko", "scenes": 10},
+    {"position": 10, "code": "t10_vc_funding", "name": "T10. 1/2030 — Pre-seed ¥30M Anri + DG. Incorporate Hizashi Inc.", "scenes": 10},
+    {"position": 11, "code": "t11_sotsuron_defense", "name": "T11. 2/2030 — 卒論 defense S grade. Mai+Hana support.", "scenes": 10},
+    {"position": 12, "code": "t12_graduation_day1", "name": "T12. 3/2030 — Tốt nghiệp + ngày 1 founder Hizashi (CLOSURE FULL SERIES)", "scenes": 12}
+  ],
+  "metadata": {
+    "started_at": "2026-04-28T22:30:00+07:00",
+    "schema_version": "1.0-lite"
+  }
+}

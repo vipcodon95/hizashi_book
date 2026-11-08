@@ -1,0 +1,31 @@
+{
+  "pipeline_type": "lite",
+  "book_name": "18_thai_year5",
+  "book_title_vn": "Sách 18 — Thái Năm 5: Leader EV Project + Cưới Mai (Closure)",
+  "topic": "Năm 5 Thái — closure series. Lead EV battery casing mega project, defect crisis 4M analysis, mẹ qua thăm, decision stay/về, cưới Mai 1/2027 ở Hà Nội, Mai sang Nhật 家族滞在, Marco hết SSW1.",
+  "current_stage": 8,
+  "stages": {
+    "01_research": {"status": "completed", "output": "../14_thai_year1/_pipeline/01_research_master.md"},
+    "02_outline": {"status": "completed"},
+    "03_draft": {"status": "completed"},
+    "04_content_md": {"status": "completed", "modules_done": ["t01","t02","t03","t04","t05","t06","t07","t08","t09","t10","t11","t12"]},
+    "05_jp_vn_review": {"status": "completed", "output": "_pipeline/05_jp_vn_review.md", "note": "Chunked review (3x4 chương) — ~190 fixes inline"},
+    "06_consistency": {"status": "completed", "output": "_pipeline/06_consistency.md"},
+    "07_council": {"status": "completed", "outputs": ["_pipeline/07_council/linguist.md","_pipeline/07_council/pedagogue.md","_pipeline/07_council/domain_expert.md"]},
+    "08_finalize": {"status": "completed", "output": "_pipeline/08_revision_log.md"}
+  },
+  "modules": [
+    {"position": 1, "code": "t01_ev_project_kick", "name": "T1. EV battery mega project kick-off", "scenes": 6},
+    {"position": 2, "code": "t02_team_lead", "name": "T2. Team 5 người lead", "scenes": 6},
+    {"position": 3, "code": "t03_first_defect", "name": "T3. First defect crisis (sink + warpage)", "scenes": 6},
+    {"position": 4, "code": "t04_4m_analysis", "name": "T4. 4M analysis lead", "scenes": 6},
+    {"position": 5, "code": "t05_recovery", "name": "T5. Recovery + redesign", "scenes": 6},
+    {"position": 6, "code": "t06_toyota_praise", "name": "T6. Toyota praise letter", "scenes": 6},
+    {"position": 7, "code": "t07_haha_visit", "name": "T7. Mẹ qua thăm 2 tuần CLIMAX", "scenes": 8},
+    {"position": 8, "code": "t08_decision", "name": "T8. Decision: stay vs về VN", "scenes": 7},
+    {"position": 9, "code": "t09_marco_kaikoku", "name": "T9. Marco hết SSW1 về Phil", "scenes": 6},
+    {"position": 10, "code": "t10_kekkon_jp", "name": "T10. Tiền đám cưới VN trip + 帰国 prep", "scenes": 6},
+    {"position": 11, "code": "t11_mai_kazoku", "name": "T11. Cưới + Mai sang Nhật 家族滞在", "scenes": 8},
+    {"position": 12, "code": "t12_5nen_closure", "name": "T12. 5 năm closure — Bonenkai cuối + open SSW2 prep", "scenes": 9}
+  ]
+}

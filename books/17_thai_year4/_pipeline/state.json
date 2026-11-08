@@ -1,0 +1,31 @@
+{
+  "pipeline_type": "lite",
+  "book_name": "17_thai_year4",
+  "book_title_vn": "Sách 17 — Thái Năm 4: Designer + First Lead Project",
+  "topic": "Năm 4 Thái — designer chính thức, lead first khuôn A→Z, 出張 Toyota Tier-1, Putra hết SSW1 về, Tanaka retire, Kawakami lên 工場長, em gái thi N2, 3D CAD 1級 fail rồi retry, Mai sang thăm 2 tuần.",
+  "current_stage": 8,
+  "stages": {
+    "01_research": {"status": "completed", "output": "../14_thai_year1/_pipeline/01_research_master.md"},
+    "02_outline": {"status": "completed"},
+    "03_draft": {"status": "completed"},
+    "04_content_md": {"status": "completed", "modules_done": ["t01","t02","t03","t04","t05","t06","t07","t08","t09","t10","t11","t12"]},
+    "05_jp_vn_review": {"status": "partial", "output": "_pipeline/05_jp_vn_review.md", "note": "subagent killed do file quá nặng — defer inline edits"},
+    "06_consistency": {"status": "completed", "output": "_pipeline/06_consistency.md"},
+    "07_council": {"status": "completed", "outputs": ["_pipeline/07_council/linguist.md","_pipeline/07_council/pedagogue.md","_pipeline/07_council/domain_expert.md"]},
+    "08_finalize": {"status": "completed", "output": "_pipeline/08_revision_log.md"}
+  },
+  "modules": [
+    {"position": 1, "code": "t01_first_lead", "name": "T1. First lead project assigned", "scenes": 6},
+    {"position": 2, "code": "t02_design_to_z", "name": "T2. Design A→Z 3 tháng", "scenes": 6},
+    {"position": 3, "code": "t03_diecast_cameo", "name": "T3. Diecast cameo project", "scenes": 6},
+    {"position": 4, "code": "t04_3dcad_1kyu_fail", "name": "T4. 3D CAD 1級 fail 12/2025", "scenes": 6},
+    {"position": 5, "code": "t05_putra_kaikoku", "name": "T5. Putra hết SSW1 về Indonesia", "scenes": 6},
+    {"position": 6, "code": "t06_tanaka_taishoku", "name": "T6. Tanaka retire announce", "scenes": 6},
+    {"position": 7, "code": "t07_kawakami_koujou", "name": "T7. Kawakami lên 工場長", "scenes": 6},
+    {"position": 8, "code": "t08_first_shutchou", "name": "T8. First 出張 Toyota Tier-1", "scenes": 6},
+    {"position": 9, "code": "t09_mai_visit", "name": "T9. Mai sang thăm 2 tuần", "scenes": 7},
+    {"position": 10, "code": "t10_3dcad_1kyu_retry", "name": "T10. 3D CAD 1級 retry 6/2026 đỗ", "scenes": 6},
+    {"position": 11, "code": "t11_kohai_shidou", "name": "T11. Kohai mới (3 TTS+Indo) — Thái sempai", "scenes": 6},
+    {"position": 12, "code": "t12_yonen_keika", "name": "T12. 4 năm khép — leader candidate", "scenes": 6}
+  ]
+}
